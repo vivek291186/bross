@@ -9,9 +9,10 @@ ff = subprocess.Popen(["ffmpeg", "-y", "-loglevel", "error", "-f", "rawvideo", "
                        "-c:v", "libx264", "-preset", "veryfast", "-crf", "20", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "192k", "-shortest", OUT], stdin=subprocess.PIPE)
 for f in range(1, d["total"] + 1):
     im = Image.alpha_composite(Image.open(os.path.join(D, "frames_sd", "%05d.jpg" % f)).convert("RGBA"), logo)
+    endmode = f >= d["end_start"]
     for s, a, b in subs:
-        if a <= f <= b: im = Image.alpha_composite(im, s)
-    for pre, f0, n, f1 in d["cues"]:
+        if a <= f <= b and not endmode: im = Image.alpha_composite(im, s)
+    for pre, f0, n, f1 in ([] if endmode else d["cues"]):
         if f0 <= f <= f1: im = Image.alpha_composite(im, Image.open(os.path.join(OV, f"{pre}{min(n - 1, f - f0):02d}.png")).convert("RGBA"))
     if f >= d["end_start"]:
         im = Image.alpha_composite(im, Image.open(os.path.join(OV, "end_%04d.png" % min(d["end_n"], f - d["end_start"] + 1))).convert("RGBA"))
