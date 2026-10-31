@@ -131,7 +131,7 @@ prop("zoomy", "path", pts=[[-3.0, -4.2], [-2.2, -2.8], [-1.4, -2.6]], dur=1.8)
 shot("zoo_wide"); wait(2.0)
 fx.append((T, beepboop(), 0.7)); prop("zoomy", "eyes", color="red")
 say("zoomy", "Scanning. Fur. Feathers. Hay. And... elephant poop. DANGER LEVEL: MAXIMUM.", cam="insert:zoomy")
-say("grandpa", "Ho ho! Don't worry, little robot. Grandpa will show you all the animals!")
+say("grandpa", "Ho ho! Don't worry, little robot. Grandpa will show you all the animals!", cam="zoo_wide")
 card("intro", 3.0, sounds=[(0.2, tada(), 0.8)], cam="high_wide")
 
 # ================= GIRAFFE =================
@@ -193,14 +193,14 @@ chorus(["vanu", "aarav", "vihaan", "himank"], "BUDDY!", clip="Slap Reaction", ca
 # ================= PENGUIN PARADE =================
 scene("penguins", "zoo", {"vanu": [0.2, -2.4, -20, "Idle"], "aarav": [-0.6, -2.7, -10, "Idle"], "vihaan": [1.0, -2.8, -30, "Idle"],
                           "himank": [-1.4, -2.5, 0, "Idle"], "buddy": [-2.2, -2.2, 10, "Idle"]}, mood="happy")
-prop("zoomy", "place", at=[1.2, -1.9])
+prop("zoomy", "place", at=[0.9, -1.4])
 shot("insert:penguins"); fx.append((T, squawk(4), 0.8)); wait(1.2)
 say("grandpa", "And here are the penguins! They walk like this... waddle, waddle!", cam="insert:penguins")
 for k in ALL: do(k, "Penguin Walk", 4.0)
 shot("zoo_wide"); fx.append((T, squawk(5), 0.7)); wait(3.6)
 fx.append((T, beepboop(), 0.7)); prop("zoomy", "eyes", color="rainbow")
 say("zoomy", "Beep. Penguins. Follow me. I am... the PENGUIN KING.", cam="insert:zoomy")
-prop("zoomy", "path", pts=[[1.2, -1.9], [0.0, -1.4], [-1.4, -1.6], [-2.2, -2.6]], dur=4.0)
+prop("zoomy", "path", pts=[[0.9, -1.4], [0.0, -1.2], [-1.4, -1.5], [-2.2, -2.4]], dur=4.0)
 prop("penguins", "follow", dur=4.0, sounds=[(0.0, squawk(6), 0.7), (2.0, squawk(5), 0.6)])
 shot("zoo_wide"); wait(4.2)
 chorus(ALL, "PENGUIN PARADE!", clip="Penguin Walk", cam="zoo_wide")

@@ -139,7 +139,7 @@ def build_zoo(O=Vector((3100, 0, 0))):
     box(sn + "_ppoolrim", (2.2, 1.4, 0.3), (PX, PY, 0.15), M("zo_ice", (0.85, 0.93, 1.0), 0.2, coat=0.6), c, 0.06)
     box(sn + "_ppool", (1.8, 1.0, 0.02), (PX, PY, 0.31), M("zo_pwater", (0.3, 0.7, 0.95), 0.05, coat=1.0), c, 0)
     for i, (x, y) in enumerate([(-0.5, 0.2), (0.4, -0.15)]): box(sn + f"_iceb{i}", (0.35, 0.3, 0.2), (PX + x, PY + y, 0.4), M("zo_iceb", (0.9, 0.97, 1.0), 0.15, coat=0.8), c, 0.04)
-    penguins = [penguin(sn + f"_penguin{i}", c, (PX - 0.9 + i * 0.35, PY - 0.95, 0.0), 1.0) for i in range(4)]
+    penguins = [penguin(sn + f"_penguin{i}", c, (PX - 0.55 + i * 0.36, PY + 0.9, 0.0), 1.0) for i in range(4)]
     # ---- ice-cream cart, benches, signposts, balloons ----
     CX, CY = O.x - 0.9, O.y + 0.9
     box(sn + "_cart", (1.0, 0.6, 0.7), (CX, CY, 0.55), M("zo_cart", (0.98, 0.6, 0.75), 0.4, coat=0.5), c, 0.05)

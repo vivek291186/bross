@@ -165,7 +165,8 @@ for e in EV:
             for j, p in enumerate(PEN):
                 lag = 10 + j * 9
                 for i in range(0, n + 1, 3):
-                    x_, y_, yw = zpos(max(1, f + i - lag)); waddle(p, f + i, W(x_, y_ + 0.0, 0.0), yw)
+                    x_, y_, yw = zpos(max(1, f + i - lag)); tgt = W(x_, y_, 0.0)
+                    u = min(1.0, i / 30.0); waddle(p, f + i, P0[j].lerp(tgt, u), yw)
         elif a == "home":
             for j, p in enumerate(PEN): waddle(p, f, P0[j], 0.0)
 for fz in sorted(ZK):
