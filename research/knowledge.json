@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:56:15+05:30",
- "runs": 11,
+ "updated": "2026-11-15T15:57:03+05:30",
+ "runs": 12,
  "branches": [
   {
    "id": "platforms",
@@ -965,7 +965,57 @@
    "id": "ours",
    "name": "Our channel results",
    "icon": "chart",
-   "leaves": []
+   "leaves": [
+    {
+     "t": "YouTube channel stands at about 2,140 subscribers with 450 to 1,400 views a day in 1 to 15 Nov 2026; the best days (10 and 12 Nov) followed the Jungle Doctors song and a Hindi Didi story.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 12
+    },
+    {
+     "t": "Top long form uploads 1 to 15 Nov: Lion Needs a Doctor (833 views), Light the Diyas (783), Ek Diya Sabke Liye (456), Stomp Your Boot hoedown (382), Dhol Bajao (356), Who Took the Cookie (319): story songs with a problem to fix and festival songs lead.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 12
+    },
+    {
+     "t": "Average view duration on our long form songs is only about 15 to 25 seconds; cartoon episodes hold a little longer (up to 36 s for Buddy's Birthday) but get fewer views, so early retention is our biggest weakness.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 12
+    },
+    {
+     "t": "Our YouTube Shorts get almost no views (1 to 30 each) while the same moments on Instagram Reels get 50 to 125, so YouTube is not yet testing our Shorts with seed audiences.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 12
+    },
+    {
+     "t": "Instagram Reels lose 58 to 90% of viewers in the first 3 seconds; the lowest skip rates were the Wave Jump Hop action song (58%), the Sports Day race (59%) and a Hindi Didi cloud story (59%), the highest were Diwali Dhamaka (90%) and Buddy's Birthday episode (88%).",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 12
+    },
+    {
+     "t": "Likes, comments and shares are near zero on both platforms (best: 3 shares for Jalao Deep on Instagram), so watch and skip behaviour is the only real signal we get.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 12
+    },
+    {
+     "t": "Reel views were about 100 to 125 each in the first week of November but mostly 20 to 90 after 9 Nov, so Instagram reach is softening and the hook needs to improve.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 12
+    }
+   ]
   }
  ],
  "playbook": [
@@ -979,7 +1029,7 @@
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele).",
   "Calm camera (cuts 3-6 s), bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description.",
-  "Open every Short and Reel on the best hook moment in the first second; make Shorts loop back to the start.",
+  "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak or a direct action call (wave, jump, race), never on slow setup; make each Short a new cut with its own hook and loop back to the start.",
   "Thumbnails: one happy face, one clear action, one recognisable object, big eyes, max 3 words, bright plain background; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Weekly long form: one 10 to 20 minute compilation (5 or 6 songs, best performer first) every Friday, the strongest kids upload day; keep a 24/7 live stream of all songs running and point stream playlists back to new uploads.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels.",
@@ -1032,6 +1082,10 @@
   {
    "date": "2026-11-15 15:56",
    "note": "Run 11 (rules, safety, monetisation): AI labels: AI generated music must be disclosed (detection does not catch soundtracks) while clearly animated visuals do not need a label; inauthentic content rules demonetise template driven repetition; COPPA amendments took effect 22 Apr 2026 with per video audience labels (Disney paid 10M USD); Suno music needs a paid plan for monetisation and fully AI songs get no copyright. Total 129."
+  },
+  {
+   "date": "2026-11-15 15:57",
+   "note": "Run 12 (our own results): First real Metricool read for 1 to 15 Nov: about 2,140 YouTube subs and 450 to 1,400 daily views; story problem songs and Diwali songs led; average view duration only about 15 to 25 s; YouTube Shorts nearly unseen while Reels get 50 to 125 views; Reels lose 58 to 90% of viewers in the first 3 s. Total 136."
   }
  ],
  "history": [
@@ -1078,6 +1132,10 @@
   {
    "date": "2026-11-15 15:56",
    "total": 129
+  },
+  {
+   "date": "2026-11-15 15:57",
+   "total": 136
   }
  ],
  "next_week_ideas": [
