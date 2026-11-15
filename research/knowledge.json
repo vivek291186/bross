@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:03:49+05:30",
- "runs": 136,
+ "updated": "2026-11-15T20:04:41+05:30",
+ "runs": 137,
  "branches": [
   {
    "id": "platforms",
@@ -3730,6 +3730,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 133
+    },
+    {
+     "t": "Tunes Kids, a UAE based Arabic kids song channel (2.84M subs, 1.94B views), gains about 16 to 35M views and 20K subscribers a month in 2026; its most viewed videos are upbeat 'remix' versions of family songs (top one 125M), and its newest upload is a funny family baby story song.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 137
+    },
+    {
+     "t": "Moonbug Kids Arabic, a dubbed channel mixing Morphle, Blippi and other brands (909K subs), fell from about 4.2M views in Jun 2026 to about 2M in Oct with only 1 to 7K new subscribers a month, so a mixed brand dubbed channel loses to song channels that feel local; for Arabic we should add re sung audio tracks to our own channel rather than open a generic dubbed one.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 137
     }
    ]
   },
@@ -4185,6 +4199,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 136
+    },
+    {
+     "t": "vidIQ models only about 10K USD of ad income for Tunes Kids' roughly 30M monthly Arabic views, a sign that Arabic made for kids views earn far less per view than English ones, so Arabic tracks are mainly for reach and brand growth.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 137
     }
    ]
   },
@@ -4486,10 +4507,6 @@
   {
    "date": "2026-11-15 17:08",
    "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:08",
-   "note": "Run 58 (algorithm experiments and data): Metricool's US study of 800K videos (Aug 2026): long form views up 76% but watch time only 11% and engagement down 45%; Shorts are 61% of views; 2 to 4 long videos a week is the views sweet spot. MilX reports the Partner Program bar rises on 1 Feb 2027 to 8,000 watch hours in 12 months or 20M Shorts views in 90 days (from 4,000 and 10M). Total 337."
   },
   {
    "date": "2026-11-15 17:09",
@@ -4802,6 +4819,10 @@
   {
    "date": "2026-11-15 20:03",
    "note": "Run 136 (rules and safety on Instagram (child featuring accounts, teen content ratings)): Instagram puts adult managed accounts that mainly feature children into strict DM settings, filters comments, and stops recommending them to potentially suspicious adults; it is unclear whether cartoon child characters trigger this. Teen accounts default to a 13+ content level (US, UK, Australia, Canada since Oct 2025, India since Apr 2026), so our gentle songs are safe for older siblings' feeds. Total 628."
+  },
+  {
+   "date": "2026-11-15 20:04",
+   "note": "Run 137 (global markets (Arabic kids channels)): In Arabic, the UAE based song channel Tunes Kids (2.84M subs) draws 16 to 35M views a month with remixed family songs, while Moonbug's dubbed multi brand Arabic channel (909K) has slid to about 2M a month: a generic dubbed compilation channel underperforms a channel that feels made for Arabic families. Total 631."
   }
  ],
  "history": [
@@ -5348,6 +5369,10 @@
   {
    "date": "2026-11-15 20:03",
    "total": 628
+  },
+  {
+   "date": "2026-11-15 20:04",
+   "total": 631
   }
  ],
  "next_week_ideas": [
