@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:45:25+05:30",
- "runs": 178,
+ "updated": "2026-11-15T21:46:41+05:30",
+ "runs": 179,
  "branches": [
   {
    "id": "platforms",
@@ -5200,6 +5200,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 178
+    },
+    {
+     "t": "Since March 2026 YouTube has been testing a mobile pop up that asks viewers to rate on a five point scale whether a video feels like AI slop, and it now labels AI made videos automatically from C2PA metadata and SynthID watermarks rather than relying only on creator disclosure, so visible human craft (story, gags, varied scenes) protects AI assisted songs like ours.",
+     "src": "thenextweb.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 179
+    },
+    {
+     "t": "A 7.55M subscriber kids channel cut long uploads from 21 to 11 and raised Shorts from 10 to 23 in Q4 2025 against Q3, moved to 4K with TV safe text, higher contrast colours and audio mixed for TV speakers, and revenue grew about 34% on roughly 6% more views.",
+     "src": "air.io, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 179
+    },
+    {
+     "t": "FluxNote's unsourced 2026 seasonal model puts November RPM around 3 times January and December about 3.6 to 5 times January, with the two weeks before 25 December the most competitive ad auctions of the year, so our best Christmas songs should be live by late November.",
+     "src": "fluxnote.io, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 179
     }
    ]
   },
@@ -5598,11 +5619,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 36 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:02",
-   "note": "Run 100 (music craft (classroom brain breaks, KPop Demon Hunters appeal)): Teachers pick GoNoodle songs with repeated easy moves (Alien Boogey, The Jellyfish Song, Chili Chili), a built in high five moment and calm good morning songs, often bilingual. Kids aged 7 to 12 love KPop Demon Hunters because they can sing the chorus on the spot, learn the full choreography and sing in groups at sleepovers. Total 499."
+   "note": "Earlier runs summarised: 37 older log entries condensed."
   },
   {
    "date": "2026-11-15 19:02",
@@ -5915,6 +5932,10 @@
   {
    "date": "2026-11-15 21:45",
    "note": "Run 178 (algorithm experiments and data (Shorts mix and Shorts money for kids channels)): AIR's 18,000 channel study: small kids channels (100K to 1M monthly views) that post only long form have about 63% more median subscribers than those mixing in Shorts, and mixed kids channels average about 37% Shorts; above 55% Shorts long form suffers. AIR's 274 channel RPM study: kids long form RPM drops about 26% in months with Shorts, but Shorts make 41% of revenue for big kids channels posting 21+ a month. Total 786."
+  },
+  {
+   "date": "2026-11-15 21:46",
+   "note": "Run 179 (rules and monetisation (AI slop ratings, Q4 money)): YouTube has tested since March 2026 a pop up asking viewers to rate on a five point scale whether a video feels like AI slop, and now labels AI videos automatically from C2PA and SynthID signals. A 7.55M kids channel halved long uploads, doubled Shorts and moved to 4K TV ready visuals in Q4 2025 and revenue rose about 34% on only about 6% more views; December RPMs run roughly 3 to 5 times January (unsourced estimate). Total 789."
   }
  ],
  "history": [
@@ -6629,6 +6650,10 @@
   {
    "date": "2026-11-15 21:45",
    "total": 786
+  },
+  {
+   "date": "2026-11-15 21:46",
+   "total": 789
   }
  ],
  "next_week_ideas": [
