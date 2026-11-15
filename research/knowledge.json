@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:49:13+05:30",
- "runs": 210,
+ "updated": "2026-11-15T23:49:55+05:30",
+ "runs": 211,
  "branches": [
   {
    "id": "platforms",
@@ -4605,6 +4605,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 210
+    },
+    {
+     "t": "Each Thanksgiving families share a gratitude tablecloth on TikTok and Instagram: everyone writes what they are thankful for in marker and signs it, and young children trace their hands, a hands on idea for a 'Thank You Hands' song before 26 November.",
+     "src": "The Bump, Nov 2023",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 211
     }
    ]
   },
@@ -6523,6 +6530,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 208
+    },
+    {
+     "t": "Virlo's late October 2026 tracker shows a rock paper scissors food challenge rising fast on TikTok (creators up from 2 to 54 in a week): family members play over one big plate and the winner takes a bite, a ready made beat game for the Bros.",
+     "src": "Virlo, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 211
+    },
+    {
+     "t": "A 'paparazzi bowing' trend rose in late October 2026: people pose for the camera then bow deeply exactly on the beat drop of a sped up pop song, an easy freeze then bow move kids can copy.",
+     "src": "Virlo, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 211
+    },
+    {
+     "t": "'Pick your favourite' videos, where two people grab their favourite item from a table on a count of three, rose from 2 to 22 creators in late October, a simple choose on the beat game that fits a 'which treat would you pick?' winter Short.",
+     "src": "Virlo, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 211
+    },
+    {
+     "t": "Late October trackers marked then and now nostalgia POVs and the wizard cat typing meme as fading and the costume loading reveal as already past its Halloween peak, confirming that Reels and TikTok formats now turn over in two to three weeks.",
+     "src": "Virlo, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 211
     }
    ]
   }
@@ -6550,11 +6585,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 131): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:00",
-   "note": "Run 132 (topics and seasons (Ramadan 2027, the early February cluster)): Ramadan 2027 is projected to begin on 8 Feb with Eid al Fitr on 9 or 10 Mar, so the first fortnight of February stacks Lunar New Year (6 Feb), Brazil's Carnival (6 to 9 Feb) and the start of Ramadan; songs for all three need to be live by late January. Playbook: thumbnails may show two happy faces, per new thumbnail data. Total 616."
+   "note": "Earlier runs summarised (up to Run 132): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:01",
@@ -6867,6 +6898,10 @@
   {
    "date": "2026-11-15 23:49",
    "note": "Run 210 (visual craft (Hey Duggee and Numberblocks design rules)): Design lessons from two hit preschool shows: Hey Duggee keeps characters simple with no line work, never overlaps two actions so toddlers can follow, uses voices that punch through, one cosy home setting with a warm leader, and in jokes for parents; Numberblocks makes the characters themselves the lesson (One plus One becomes Two) and refuses 'chocolate covered broccoli'. Total 922."
+  },
+  {
+   "date": "2026-11-15 23:49",
+   "note": "Run 211 (TRENDS (late October rising formats for families: bow on the drop, rock paper scissors, pick your favourite; Thanksgiving gratitude cloth)): Virlo's tracker (29 Oct) shows family friendly formats rising: rock paper scissors over one plate of food, 'pick your favourite on three' and posing then bowing deeply on the beat drop; two joined the trend bank as Bro Bros games (two older ones left). Thanksgiving (26 Nov) brings back the gratitude tablecloth where kids trace their hands and families write thanks. Total 927."
   }
  ],
  "history": [
@@ -7709,6 +7744,10 @@
   {
    "date": "2026-11-15 23:49",
    "total": 922
+  },
+  {
+   "date": "2026-11-15 23:49",
+   "total": 927
   }
  ],
  "next_week_ideas": [
@@ -7789,6 +7828,18 @@
    "use": "Both Bros and friends in a row do a shoulder bounce to our own original dembow style beat. Meshy step: standing in place, feet still, lift both shoulders up and drop them down on every beat, then alternate left shoulder and right shoulder, small head nod, finish with a big two shoulder shrug and smile. Never use the original sound."
   },
   {
+   "name": "Pose and bow on the drop",
+   "where": "TikTok (sped up pop song 'paparazzi bowing' trend, rising late Oct 2026, Virlo)",
+   "status": "rising",
+   "use": "The Bros strike three funny poses for pretend cameras (flash sound effects) as our own song builds, then on the beat drop both bow deeply together and pop back up dancing. Meshy step: standing, three quick freeze poses (hands on hips, thumbs up, arms wide), then bend forward from the waist in a big bow, stand back up with arms raised. Our own beat only."
+  },
+  {
+   "name": "Rock paper scissors challenge",
+   "where": "TikTok family videos (rock paper scissors over one plate, rising late Oct 2026, Virlo)",
+   "status": "rising",
+   "use": "Kid safe version: the Bros play rock paper scissors to the beat of our own song ('rock, paper, scissors, SHOOT') and the winner gets to choose the next dance move, which both then do; repeat three rounds. Great participation Short where kids at home play along with the screen."
+  },
+  {
    "name": "Say the word on the beat",
    "where": "TikTok, Shorts (Christmas specials, Dec 2025, returning)",
    "status": "rising",
@@ -7859,18 +7910,6 @@
    "where": "TikTok, Reels, Shorts (every December)",
    "status": "seasonal",
    "use": "From 1 to 24 Dec the Bros open one numbered door a day on a big calendar; behind it is one new move or winter word, and the Short ends with everyone doing all the moves so far. Shorts series on YouTube keeps the 24 days in order. Meshy move for door 1: stand in place, arms swing open wide like doors, then a small hop."
-  },
-  {
-   "name": "Outfit change in one cut",
-   "where": "Instagram Reels (Later, 13 Nov)",
-   "status": "rising",
-   "use": "Camera stays still; on each clap of our own winter song a brother does one simple move (a spin or a jump) and is suddenly wearing one more winter layer: hat, scarf, mittens, boots. Meshy move: stand in place, clap hands once above the head, then one quarter turn on the spot."
-  },
-  {
-   "name": "Kitchen groove while it bakes",
-   "where": "TikTok and Reels (Let's Groove re animations, dancing in the kitchen)",
-   "status": "rising",
-   "use": "Bros put cookies in the oven and do a side to side groove with a timer ding as the hook. Meshy move: standing in place, step side to side, roll the arms in front of the chest, point up on the ding."
   },
   {
    "name": "Sway & Wave baby dance",
