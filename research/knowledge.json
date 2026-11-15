@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:08:39+05:30",
- "runs": 109,
+ "updated": "2026-11-15T19:09:16+05:30",
+ "runs": 110,
  "branches": [
   {
    "id": "platforms",
@@ -559,6 +559,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 106
+    },
+    {
+     "t": "In YouTube Studio's Shorts analytics, 'shown in feed' tells whether YouTube is distributing a Short at all; a very low number means a distribution problem rather than a content problem, which fits our Shorts feed total of just 37 views in two weeks.",
+     "src": "1of10, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 110
+    },
+    {
+     "t": "Community benchmarks for 'how many chose to view' (viewed vs swiped away, mostly the first 2 seconds) are 70 to 79% working and 80% plus strong; average percentage viewed should be 80 to 90% for Shorts under 35 seconds and can pass 100% with loops; YouTube publishes no official targets.",
+     "src": "1of10, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 110
+    },
+    {
+     "t": "Since 31 Mar 2025 a Shorts view counts as soon as it starts playing, but the older 'engaged views' (in Studio's Advanced Mode) are what count for Partner Program eligibility and Shorts revenue sharing, so track engaged views when judging Shorts.",
+     "src": "1of10, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 110
     }
    ]
   },
@@ -3781,10 +3802,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 16:48",
-   "note": "Run 31 (topics and seasons): Next dates: UN World Children's Day on 20 Nov; Christmas 2026 is a Friday, so our Friday compilation lands on Christmas Day; fun December hooks are Ugly Christmas Sweater Day (18 Dec), Wright Brothers Day (17 Dec, planes), International Mountain Day (11 Dec) and Cut Out Snowflakes Day (27 Dec). Total 227."
-  },
-  {
    "date": "2026-11-15 16:49",
    "note": "Run 32 (global markets): Brazil: an Oct 2026 Inflr ranking puts animated music brand Mundo Bita third (14.5M subs, 22.9B views) ahead of far bigger creators, with Turma da Monica also top 5; seven of the top nine have licensed products; Brazilian kids pop (MC Divertida 8.6B plays, Kysha e Mine 1.2B views in a year) grows across YouTube and TikTok. Total 231."
   },
@@ -4095,6 +4112,10 @@
   {
    "date": "2026-11-15 19:08",
    "note": "Run 109 (YouTube algorithm (Home ranking for small and mixed channels)): Todd Beaupre (Creator Insider, 1 Sep 2026): Home does not try to put a channel in one category but ranks each video for each viewer, judges videos on how they do in the Home context, and wider reach naturally lowers click rate. Claims of a February 2026 'micro niche' Home overhaul had no YouTube source. Subscriptions moved into Home as a Subs tab on 22 Oct 2026. Total 527."
+  },
+  {
+   "date": "2026-11-15 19:09",
+   "note": "Run 110 (Shorts and Reels (Shorts metrics in Studio)): For Shorts, Studio's 'how many chose to view' (viewed vs swiped away) mostly reflects the first two seconds, with community benchmarks of 70 to 79% working and 80% plus strong; 'shown in feed' shows whether YouTube is distributing at all, and engaged views (not raw views) decide Partner Program eligibility and Shorts revenue. Our Shorts feed gave only 37 views in two weeks, a distribution problem first. Total 530."
   }
  ],
  "history": [
@@ -4533,6 +4554,10 @@
   {
    "date": "2026-11-15 19:08",
    "total": 527
+  },
+  {
+   "date": "2026-11-15 19:09",
+   "total": 530
   }
  ],
  "next_week_ideas": [
