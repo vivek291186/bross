@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:51:37+05:30",
- "runs": 321,
+ "updated": "2026-11-16T04:52:13+05:30",
+ "runs": 322,
  "branches": [
   {
    "id": "platforms",
@@ -7755,6 +7755,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 313
+    },
+    {
+     "t": "The FTC's 10M USD COPPA settlement with Disney (Sep 2025) was over audience labels set per channel instead of per video: child directed videos sitting on 'not made for kids' channels got targeted ads and data collection, so Bro Bros must set 'made for kids' on every single upload, including Shorts and compilations, not rely on the channel default.",
+     "src": "Mondaq, Nov 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 322
+    },
+    {
+     "t": "Disney's settlement also requires a standing review programme for each video's audience label, and the FTC noted YouTube had already flipped 300+ Disney videos to made for kids in 2020; a simple upload checklist line ('audience: made for kids, checked') is our cheap version of that review.",
+     "src": "Mondaq, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 322
+    },
+    {
+     "t": "An FTC policy statement (25 Feb 2026) promises no COPPA action over data collected only to check a user's age on general or mixed audience services, but services aimed mainly at children get no such relief and must treat every viewer as a child, which is why a kids channel can never collect names, photos or entries.",
+     "src": "PPC Land, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 322
     }
    ]
   },
@@ -9493,10 +9514,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 00:48",
-   "note": "Run 243 (Shorts and Reels (speech in the first seconds, loops, follow along routines)): Emplifi's study of 10,110 brand Reels found speech in the first three seconds lifted 10 second retention by nearly 25% over music only, a face early added about 10%, and loops under 7 seconds raised replays by about 19%. Dash Social's Q2 2026 Shorts data shows follow along wellness routines averaging 116% viewed, the only category above 100%, which backs routine and dance along Shorts for Bro Bros. Total 1066."
-  },
-  {
    "date": "2026-11-16 01:40",
    "note": "Run 244 (TRENDS (early holiday audio, before and after drum cut, template dances)): SocialPilot's 31 Oct to 10 Nov chart shows Christmas songs already at peak on Reels (about 5.8M Reels on the top one) for countdown and tree reveal posts, while 'how it started vs how it's going' cuts on a drum hit and one step per beat tutorials are rising. The Scuba dance is a year old and its 'flip the camera' variant is called bullying, so we skip it; AI kitten dances spread mainly as CapCut green screen templates. Total 1073."
   },
@@ -9807,13 +9824,13 @@
   {
    "date": "2026-11-16 04:51",
    "note": "Run 321 (TRENDS (classroom dance formats: kid versus grown up dance battle, join in one by one)): This week's sound charts held nothing new, so the round looked at evergreen classroom dance formats: a 'cool kids vs cool teachers' battle set to Gracie's Corner's own Veggie Dance song (nearly 20M TikTok views) and a teacher who starts dancing while children join one by one (17.8M Instagram views). Both show a kids brand's original song can become the sound creators dance to. Total 1342."
+  },
+  {
+   "date": "2026-11-16 04:52",
+   "note": "Run 322 (rules and safety (Disney's 10M USD audience label settlement, FTC age check shield)): The FTC's 10M USD settlement with Disney came from setting 'made for kids' at channel level, so child directed videos on 'not made for kids' channels collected data and ran targeted ads; Disney must now review each video's label. A Feb 2026 FTC policy shields general audience sites that check ages, but child directed services get no relief and must treat every viewer as a child. Total 1345."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 16:09",
-   "total": 186
-  },
   {
    "date": "2026-11-15 16:09",
    "total": 190
@@ -11009,6 +11026,10 @@
   {
    "date": "2026-11-16 04:51",
    "total": 1342
+  },
+  {
+   "date": "2026-11-16 04:52",
+   "total": 1345
   }
  ],
  "next_week_ideas": [
