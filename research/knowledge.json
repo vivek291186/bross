@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:51:13+05:30",
- "runs": 295,
+ "updated": "2026-11-16T03:52:10+05:30",
+ "runs": 296,
  "branches": [
   {
    "id": "platforms",
@@ -6467,6 +6467,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 284
+    },
+    {
+     "t": "Germany's 'Kinderlieder zum Mitsingen und Bewegen' channel has 3.47M subscribers, about 33 to 43M views a month from 1,453 videos and vidIQ models about 14K USD a month; it wraps new titles in 'NEU * ... * NEU', its newest song (13 Nov 2026) teaches tying a bow, and its top videos are remixes of singing games such as 'who stole the cookie from the jar' (24.4M) and a dog's lost bone song (22.9M).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 296
+    },
+    {
+     "t": "Japan's most viewed kids songs on YouTube are franchise themes (a monster catching game theme at 105M), Japanese language versions of Disney songs and songs from the public TV show 'Okaasan to Issho' (a clock song, a bean hero song), so Japanese children mostly watch Japanese language content and an English Bro Bros song has little pull there until it is re sung in Japanese.",
+     "src": "Soundcharts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 296
+    },
+    {
+     "t": "German and Japanese hits both lean on practical everyday skills and objects (tying a bow, telling the time), which suggests life skill songs translate across cultures better than culture specific holidays.",
+     "src": "vidIQ and Soundcharts, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 296
     }
    ]
   },
@@ -8916,11 +8937,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 216): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:54",
-   "note": "Run 217 (TRENDS (2026 whimsy mood, winter dance memes, people redoing AI dances by hand)): The December calendar was already in the tree, so this round looked at mood and memes: TikTok's 2026 'whimsy' wave (bright colours, nostalgia, child like wonder) suits Bro Bros' style; the AI baby dance peaked from Nov 2025 to Jan 2026 with people proudly redoing it by hand ('real always wins'), so it was marked fading; the ski slope toddler dance (2022) shows winter dance clips with one hand wave and a side step travel each November. Total 952."
+   "note": "Earlier runs summarised (up to Run 217): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:55",
@@ -9233,6 +9250,10 @@
   {
    "date": "2026-11-16 03:51",
    "note": "Run 295 (TRENDS (kid took over the account, teacher joins the dance, original audio rising)): A Gulf wide Instagram format has brands posting as if a child grabbed the phone (crooked selfies, a finger over the lens, random captions), copied by Uber UAE and Visit Abu Dhabi. Teacher and pupil dance clips keep going viral in South Africa, India and the US (one hit 1.5M views in two days). Tokchart's 15 Nov chart shows the fastest growing TikTok sounds are nearly all creators' original audio. Two formats joined the trend bank. Total 1260."
+  },
+  {
+   "date": "2026-11-16 03:52",
+   "note": "Run 296 (global markets (Germany and Japan)): Germany's 'Kinderlieder zum Mitsingen und Bewegen' (3.47M subscribers, about 33 to 43M views a month from 1,453 videos) tags new songs with NEU at both ends of the title, its newest teaches tying a bow, and its biggest hits are remixed singing games like 'who stole the cookie from the jar'. Japan's top kids songs by YouTube views are franchise themes and Japanese versions of Disney songs plus public TV songs, so English originals travel least there and Japanese should be a later dub. Total 1263."
   }
  ],
  "history": [
@@ -10415,9 +10436,17 @@
   {
    "date": "2026-11-16 03:51",
    "total": 1260
+  },
+  {
+   "date": "2026-11-16 03:52",
+   "total": 1263
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Bunny Ears, Tie Your Shoes!",
+   "why": "Germany's big kids song channel just released a bow tying song and life skill songs travel across languages; a step by step song (loop, loop, cross, pull) with big hand close ups helps 4 to 6 year olds worldwide and parents love practical songs."
+  },
   {
    "title": "My Little Pocket Pet",
    "why": "Retro electronic pocket pets are a top cheap Christmas toy in 2026 and parents remember them; an original song where the Bros feed, wash and tuck in a beeping pixel pet teaches care routines, needs no brand, and travels worldwide."
@@ -10469,10 +10498,6 @@
   {
    "title": "1 Snowman, 100 Snowmen, a Million Snowmen!",
    "why": "Scale challenge titles (10 vs 100 vs 1,000,000) are Kids Diana Show's top new format; a counting song where the Bros build one snowman, then a hundred, then a whole snowy world of them teaches big numbers and fits December worldwide."
-  },
-  {
-   "title": "Sweep, Sweep, Hello New Year!",
-   "why": "Families in Japan (osoji), Scotland (redding the house), China and Iran all clean the home to welcome a new year; a tidy up action song with sweeping, dusting and a big shiny reveal ending in a hand holding circle fits every culture's New Year and helps parents at home."
   }
  ],
  "trend_bank": [
