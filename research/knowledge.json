@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:02:36+05:30",
- "runs": 267,
+ "updated": "2026-11-16T02:03:17+05:30",
+ "runs": 268,
  "branches": [
   {
    "id": "platforms",
@@ -8168,6 +8168,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 265
+    },
+    {
+     "t": "YouTube introduced a personalised year end Recap on 2 Dec 2025 with up to 12 cards (top channels, interests, a personality type such as Sunshiner or Wonder Seeker, and a 'top 10% of viewers' card for a favourite channel), shown on Home and the You tab, so a second Recap is likely in early December 2026.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 268
+    },
+    {
+     "t": "Because Recap cards are made to be shared, a family whose kids watched Bro Bros often may post a 'top channel' card; a Bro Bros 'thank you for watching our year' Short in the first week of December can invite parents to share theirs.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 268
+    },
+    {
+     "t": "As of 4 Nov 2026 Spotify had not confirmed the Wrapped 2026 date; the expected Wednesday 2 Dec follows every launch since 2021 (3 Dec 2025, 4 Dec 2024), so recap Reels should be ready for that week either way.",
+     "src": "Official Charts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 268
     }
    ]
   }
@@ -8195,11 +8216,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 188): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:47",
-   "note": "Run 189 (competitor deep dive (VocaVoca after Halloween, Jasmin and James duo Shorts)): VocaVoca's last 28 days to 12 Nov brought about 1.42B views against 2.91B in October, so its post Halloween drop roughly halved monthly reach, while its newest good manners cartoon still got about 133K views in 13 hours. Germany based duo Jasmin and James (43.1M subs, 79.9B views, about 26,700 videos) gets its best recent Shorts from behind the scenes clips and 'Can you do it?' challenges rather than plain trend copies. Total 830."
+   "note": "Earlier runs summarised (up to Run 189): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:48",
@@ -8512,6 +8529,10 @@
   {
    "date": "2026-11-16 02:02",
    "note": "Run 267 (Shorts and long form balance (Metricool's 2026 YouTube study: views up, ad money down)): Metricool's study of about 800K videos (Aug 2026) found views up 76% but estimated ad revenue down 55%, because average long view duration fell from about 4 to 2.5 minutes, ad impressions fell 51% and Shorts (now about 16 seconds on average) took 61% of organic views; two to four long uploads a week performed best. Total 1157."
+  },
+  {
+   "date": "2026-11-16 02:03",
+   "note": "Run 268 (TRENDS (year end recap season: YouTube Recap and Wrapped timing)): YouTube launched its own personalised Recap on 2 Dec 2025 (up to 12 cards: top channels, interests, a viewer personality type and a 'top 10% of viewers' badge for a favourite channel), so early December 2026 should bring Recap and Spotify Wrapped (still expected Wed 2 Dec, unconfirmed on 4 Nov) at the same time; parents who share cards are free word of mouth. Total 1160."
   }
  ],
  "history": [
@@ -9582,6 +9603,10 @@
   {
    "date": "2026-11-16 02:02",
    "total": 1157
+  },
+  {
+   "date": "2026-11-16 02:03",
+   "total": 1160
   }
  ],
  "next_week_ideas": [
