@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:00:46+05:30",
- "runs": 98,
+ "updated": "2026-11-15T19:01:22+05:30",
+ "runs": 99,
  "branches": [
   {
    "id": "platforms",
@@ -531,6 +531,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 98
+    },
+    {
+     "t": "Tonies' H1 2026 revenue rose 38% to about 243M EUR; North America is now its largest and fastest growing region (about 104M EUR, +48%, 43% of sales) and figurines with licensed stories and songs (Disney, Hasbro, Pokemon) are 73% of revenue.",
+     "src": "Tonies press release, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 99
+    },
+    {
+     "t": "Yoto's revenue grew about 43% in 2025 and children listened to 22B minutes on it; music arrives as curated album cards (KPop Demon Hunters, Wicked, The Beatles) and the platform now serves ages up to 14, so screen free audio is a growing second home for family songs.",
+     "src": "RouteNote, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 99
+    },
+    {
+     "t": "Parents increasingly buy screen free audio players as a counterweight to tablets, so a strong Bro Bros song catalogue released as audio (not only video) could later fit these licensed card and figurine stores, which work with known brands rather than open uploads.",
+     "src": "RouteNote and Tonies, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 99
     }
    ]
   },
@@ -3543,10 +3564,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 16:02",
-   "note": "Run 20 (global markets): Indonesia: five Indonesian, kid friendly creators in a single Tubefilter weekly top 50 despite an under 16 social media ban. Music royalty rates per 1,000 streams show rich markets (Canada, Germany, UK, Australia, US) pay 10 to 60 times more than India, Indonesia and the Philippines; Art Tracks pay far more than Content ID. Total 177."
-  },
-  {
    "date": "2026-11-15 16:08",
    "note": "Run 21 (competitor ChuChu TV): ChuChu TV (Chennai) now reports 180M+ digital subscribers and 110B views and signed a worldwide Netflix deal (Sep 2026) for four collections in English, Hindi, Tamil and Telugu, aiming to become a global preschool franchise; its main English channel crossed 50M subs. Total 181."
   },
@@ -3857,6 +3874,10 @@
   {
    "date": "2026-11-15 19:00",
    "note": "Run 98 (Shorts and Reels (Instagram Features, TV apps, series change)): Instagram announced Features on 26 Oct 2026, horizontal videos up to 90 minutes promoted by Reel previews (testing in the US after Brazil), launched an Apple TV app on 23 Oct after Fire TV, Google TV and Samsung, and stopped letting creators link Reels into series from 28 Oct. Profiles with unlabelled AI generated people can lose recommendation reach. Total 493."
+  },
+  {
+   "date": "2026-11-15 19:01",
+   "note": "Run 99 (other platforms (screen free kids audio: Tonies and Yoto)): Screen free kids audio is booming: Tonies' H1 2026 revenue rose 38% to 243M EUR with North America now 43% of sales (+48%), and Yoto's revenue rose about 43% in 2025 with 22B minutes listened; music on both comes as licensed album cards (Disney, Pokemon, KPop Demon Hunters), a channel for kids songs once a brand is known. Total 496."
   }
  ],
  "history": [
@@ -4251,6 +4272,10 @@
   {
    "date": "2026-11-15 19:00",
    "total": 493
+  },
+  {
+   "date": "2026-11-15 19:01",
+   "total": 496
   }
  ],
  "next_week_ideas": [
