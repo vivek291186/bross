@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:08:00+05:30",
- "runs": 57,
+ "updated": "2026-11-15T17:08:39+05:30",
+ "runs": 58,
  "branches": [
   {
    "id": "platforms",
@@ -706,6 +706,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 50
+    },
+    {
+     "t": "Metricool's 2026 US study (799,718 videos, 71,177 accounts): long form views rose 76% year on year but watch time only 11%, engagement fell 45% and ad impressions 51%, as viewers leave long videos sooner; Shorts are now 61% of measured views.",
+     "src": "Tubefilter, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 58
+    },
+    {
+     "t": "The same study found 2 to 4 long form videos a week is the sweet spot for long form views per channel; above that, extra uploads add little, which supports fewer, stronger long songs plus compilations.",
+     "src": "Tubefilter, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 58
+    },
+    {
+     "t": "YouTube's Shorts ranking leans on swipe through rate, loop rate and first second engagement, and from May 2026 viewer satisfaction (surveys, return visits) ranks above raw watch time for long form.",
+     "src": "MilX, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 58
+    },
+    {
+     "t": "Click rate benchmarks cited for 2026: 4 to 8% is normal, 10% or more excellent and under 2% a red flag; we can track this per song in YouTube Studio.",
+     "src": "MilX, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 58
     }
    ]
   },
@@ -2225,6 +2253,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 47
+    },
+    {
+     "t": "MilX reports YouTube will raise the standard Partner Program bar on 1 Feb 2027 to 1,000 subscribers plus 8,000 public watch hours in 12 months, or 20M Shorts views in 90 days (from 4,000 hours and 10M); the expanded tier stays at 500 subs plus 3,000 hours or 3M Shorts views.",
+     "src": "MilX, Jul 2026 (announcement 10 Aug 2026)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 58
     }
    ]
   },
@@ -2638,6 +2673,10 @@
   {
    "date": "2026-11-15 17:08",
    "note": "Run 57 (competitor deep dive (Pinkfong, CoComelon)): Pinkfong's Baby Shark has led global YouTube views for 71 straight months and launches a sing and dance along Christmas film on 5 Dec with a 15 track album (7 new songs) released in two drops on 10 and 27 Nov, aimed at winter break. CoComelon's Wiggle to Wind Down: 20 minute episodes of gentle wiggles then calm stories, because 45% of US parents call bedtime a top daily struggle. Total 332."
+  },
+  {
+   "date": "2026-11-15 17:08",
+   "note": "Run 58 (algorithm experiments and data): Metricool's US study of 800K videos (Aug 2026): long form views up 76% but watch time only 11% and engagement down 45%; Shorts are 61% of views; 2 to 4 long videos a week is the views sweet spot. MilX reports the Partner Program bar rises on 1 Feb 2027 to 8,000 watch hours in 12 months or 20M Shorts views in 90 days (from 4,000 and 10M). Total 337."
   }
  ],
  "history": [
@@ -2868,6 +2907,10 @@
   {
    "date": "2026-11-15 17:08",
    "total": 332
+  },
+  {
+   "date": "2026-11-15 17:08",
+   "total": 337
   }
  ],
  "next_week_ideas": [
