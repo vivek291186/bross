@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:02:26+05:30",
- "runs": 47,
+ "updated": "2026-11-15T17:02:56+05:30",
+ "runs": 48,
  "branches": [
   {
    "id": "platforms",
@@ -2113,6 +2113,41 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 36
+    },
+    {
+     "t": "About 66% of our YouTube views in 1 to 15 Nov (about 9,200 of 14,000) came from Suggested videos, so being recommended next to other kids songs is our main engine; titles, thumbnails and topics should match the big channels' popular songs.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 48
+    },
+    {
+     "t": "YouTube Search brought about 21% of our views (about 3,000) and subscribers only about 7%, so keyword clear titles (animal, doctor, Diwali, story song) already pay off.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 48
+    },
+    {
+     "t": "The Shorts feed gave only 37 views and playlists 11 in two weeks, so our Shorts are not being tested in the feed and our playlists are almost unused as a discovery path.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 48
+    },
+    {
+     "t": "Our YouTube subscribers are about 65% India and 8% US, then Pakistan (4%), Philippines (2.6%), UK (2.3%) and Bangladesh (1.6%); South Asia dominates while English songs slowly build the US and UK base.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 48
+    },
+    {
+     "t": "Our scheduled YouTube posts mark 'AI generated content' as false even though the music is made in Suno; YouTube asks creators to disclose AI made music, so this setting needs a check.",
+     "src": "Metricool scheduled posts, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 48
     }
    ]
   }
@@ -2325,6 +2360,10 @@
   {
    "date": "2026-11-15 17:02",
    "note": "Run 47 (rules, safety and monetisation): YouTube Music began labelling songs made primarily with generative AI on 14 Oct 2026 (main app to follow), and a label alone does not change recommendations or monetisation on YouTube; Spotify and Deezer do push AI tagged tracks out of recommendations. Suno songs are monetisable only if made on a paid plan, and downloads are being capped, so final audio should be backed up. Total 293."
+  },
+  {
+   "date": "2026-11-15 17:02",
+   "note": "Run 48 (our own results (traffic and audience)): First traffic source read for 1 to 15 Nov: about 14,000 views, 66% from Suggested videos, 21% from Search, 7% from subscribers, 4% from channel pages and under 1% from the Shorts feed and playlists. Subscribers are 65% India, 8% US, then Pakistan, Philippines, UK. Our scheduled YouTube posts are set to 'not AI generated' although songs come from Suno. Total 298."
   }
  ],
  "history": [
@@ -2515,6 +2554,10 @@
   {
    "date": "2026-11-15 17:02",
    "total": 293
+  },
+  {
+   "date": "2026-11-15 17:02",
+   "total": 298
   }
  ],
  "next_week_ideas": [
