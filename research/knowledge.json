@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:15:37+05:30",
- "runs": 62,
+ "updated": "2026-11-15T17:16:08+05:30",
+ "runs": 63,
  "branches": [
   {
    "id": "platforms",
@@ -377,6 +377,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 62
+    },
+    {
+     "t": "For music Shorts, 30 to 45 seconds built on the strongest chorus or beat drop performs best; under 15 seconds can be too thin and over 55 seconds lowers completion, so our Shorts should be about 30 to 40 seconds.",
+     "src": "Chartlex, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 63
+    },
+    {
+     "t": "Links typed into Shorts descriptions and comments are not clickable; the Short's 'related video' setting adds a tappable link under the channel name, so every Bro Bros Short should point to its full song.",
+     "src": "Chartlex, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 63
+    },
+    {
+     "t": "YouTube creator data cited in 2026 says channels that post Shorts see about 80% more channel watch time within three months, and strong music Shorts hold 80% or more average view duration.",
+     "src": "Chartlex, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 63
+    },
+    {
+     "t": "From early 2027 YouTube Create and Shorts get Gemini conversational editing (auto trims, reordered clips, text and loop points), and YouTube Studio will test up to three cuts of a video to find the best opening hook.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 63
     }
    ]
   },
@@ -2791,6 +2819,10 @@
   {
    "date": "2026-11-15 17:15",
    "note": "Run 62 (YouTube algorithm and audience (who watches what)): Precisify's 2026 US kids panel: what each age watches on YouTube. Ages 2 to 5: cartoons 62%, toys and games 49%, educational 43%, nursery rhymes 41%, comedy 35%; 6 to 9: cartoons 47%, comedy 45%, toys 45%, music 41%; 10 to 12: comedy 53%, music 47%, gaming 43%. Over half watch YouTube on a TV. Common Sense: 62% of parents sometimes co watch YouTube with their child, against 17% for TikTok. Total 351."
+  },
+  {
+   "date": "2026-11-15 17:16",
+   "note": "Run 63 (Shorts and Reels (music Shorts craft)): Music Shorts guidance for 2026: cut the strongest chorus moment, 30 to 45 seconds performs best (under 15 too thin, over 55 loses completion), link the full song with the Short's 'related video' button since typed links are not clickable; YouTube says channels posting Shorts see about 80% more channel watch time within three months. Gemini conversational Shorts editing and hook A/B tests of up to three video cuts arrive in early 2027. Total 355."
   }
  ],
  "history": [
@@ -3041,6 +3073,10 @@
   {
    "date": "2026-11-15 17:15",
    "total": 351
+  },
+  {
+   "date": "2026-11-15 17:16",
+   "total": 355
   }
  ],
  "next_week_ideas": [
