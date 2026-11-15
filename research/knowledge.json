@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:01:59+05:30",
- "runs": 301,
+ "updated": "2026-11-16T04:03:04+05:30",
+ "runs": 302,
  "branches": [
   {
    "id": "platforms",
@@ -2141,6 +2141,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 290
+    },
+    {
+     "t": "Connected TVs carried over 44% of US YouTube watch time in 2026 (about 41% in 2022) and YouTube is 12.5% of all US TV viewing, so our long songs and compilations are mostly judged on the living room screen, where thumbnails, big readable titles and clean audio matter most.",
+     "src": "TechCrunch / eMarketer, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 302
+    },
+    {
+     "t": "YouTube job listings (Apr 2026) describe 'Stations', 24/7 linear streams on TV, and a 'TV Companion' that lets viewers interact from their phones; these are plans rather than launches, but they point the same way as our 24/7 song stream idea.",
+     "src": "TechCrunch, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 302
+    },
+    {
+     "t": "In YouTube Kids, recommendations come only from the filtered pool and a brand new child profile is shown editorially curated picks from categories such as series, music, learning, discovery and games until it builds viewing history, so early Bro Bros fans on the Kids app arrive through the curated music shelf and search before personal recommendations kick in.",
+     "src": "PPC Land (Team YouTube FAQ), Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 302
     }
    ]
   },
@@ -9042,11 +9063,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 222): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:59",
-   "note": "Run 223 (TRENDS (13 Nov roundups: bicep heart pose, cool to do both, it's time transitions)): The 13 Nov roundups added two kid safe formats: the bicep heart pose (one arm flexed, the other hand curling against it to make a heart, wholesome, often with a cat) and 'btw it's cool to do both' (two sides of you); the Mariah style 'it's time' look switch at midnight is the big holiday transition. Both joined the trend bank; two older entries (fill it one by one, statue game) left the bank but stay in the leaves. Total 976."
+   "note": "Earlier runs summarised (up to Run 223): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:00",
@@ -9359,13 +9376,13 @@
   {
    "date": "2026-11-16 04:01",
    "note": "Run 301 (TRENDS (what kids play now: Roblox's fastest growing new games, Gen Alpha gift asks)): The ten fastest growing new Roblox games in early November 2026 lean on pets and egg stealing, a cat sumo game, car football, bike and rally racing and a fries cooking game (plus one horror pool game we avoid). Last holiday season 69% of US Gen Alpha asked for gifts they first saw in online ads or creator videos, with YouTube the top influence (56%). A hatch the egg format joined the trend bank. Total 1278."
+  },
+  {
+   "date": "2026-11-16 04:03",
+   "note": "Run 302 (YouTube algorithm (TV share, Stations and TV Companion plans, YouTube Kids cold start)): Connected TVs now carry over 44% of US YouTube watch time (about 41% in 2022) and YouTube is 12.5% of all US TV viewing; job listings point to 'Stations' (24/7 linear streams) and a phone 'TV Companion', plans not launches. Team YouTube's Apr 2026 FAQ says new YouTube Kids profiles see editorially curated picks (series, music, learning, discovery, games) until they build history. Total 1281."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:40",
-   "total": 51
-  },
   {
    "date": "2026-11-15 15:55",
    "total": 72
@@ -10561,6 +10578,10 @@
   {
    "date": "2026-11-16 04:01",
    "total": 1278
+  },
+  {
+   "date": "2026-11-16 04:03",
+   "total": 1281
   }
  ],
  "next_week_ideas": [
