@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:56:03+05:30",
- "runs": 91,
+ "updated": "2026-11-15T18:56:43+05:30",
+ "runs": 92,
  "branches": [
   {
    "id": "platforms",
@@ -1406,6 +1406,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 84
+    },
+    {
+     "t": "CoComelon: The Movie (Universal Pictures, with DreamWorks Animation) opens in US cinemas on 19 Feb 2027; JJ starts kindergarten with new songs and friends, so 'first day of school' and 'making new friends' themes will get a publicity wave in January and February 2027.",
+     "src": "Cartoon Brew, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 92
+    },
+    {
+     "t": "Pinkfong ended Baby Shark's tenth anniversary with a Baby Shark x Peppa Pig dance remix that blends both theme songs, released on Spotify, Apple Music and Amazon Music on 26 Dec and as a YouTube video on 29 Dec: audio first, video days later, in the quiet week after Christmas.",
+     "src": "Licensing Magazine, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 92
+    },
+    {
+     "t": "Pinkfong also turned the boy from the original Baby Shark Dance video into a K pop singer (debut single 'Wave' in Aug 2026 with MONSTA X's Jooheon), stretching one kids hit into a teen music brand as its first viewers grow up.",
+     "src": "Sports Khan, Aug 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 92
     }
    ]
   },
@@ -3383,10 +3404,6 @@
   },
   {
    "date": "2026-11-15 15:58",
-   "note": "Run 13 (YouTube main and Kids charts): Tubefilter weekly top 50: VocaVoca, a US Shorts led kids song channel built on healthy habits and safety songs, jumped from about 0.5B monthly views in May to 2.9B in Oct 2026; Indian family channels rode Diwali; YouTube keeps autoplay off and break reminders on by default for under 18s. Total 141."
-  },
-  {
-   "date": "2026-11-15 15:58",
    "note": "Run 14 (YouTube algorithm official): Todd Beaupre (Sep 2026): new uploads are tested on mixed audiences including non subscribers from the first hour, each audience is judged separately, about 10% subscriber click rate is normal. YouTube Kids FAQ (Apr 2026): filters read thumbnails, titles and video; no product placement; new profiles see curated shelves until history builds. Total 147."
   },
   {
@@ -3696,6 +3713,10 @@
   {
    "date": "2026-11-15 18:56",
    "note": "Run 91 (global markets (Japan and France)): YouTube Japan's Silver Week kids playlist leaned on local brands (a 41 song Bon Bon Academy dance and exercise medley, Anpanman, Shimajiro, Sanrio) beside Bluey Japan and Pokemon Kids TV. A 2026 MEXT survey found heavy video use among sixth graders up 50% in two years. In France live TV is still the main way 7 to 14 year olds watch kids shows, with 4 to 6 year olds moving to subscription streaming. Total 470."
+  },
+  {
+   "date": "2026-11-15 18:56",
+   "note": "Run 92 (competitor deep dive (CoComelon and Pinkfong moves)): CoComelon: The Movie (Universal with DreamWorks) opens in US cinemas on 19 Feb 2027 with JJ starting kindergarten and new songs. Pinkfong closed Baby Shark's tenth year with a Peppa Pig dance remix crossover, audio on streaming first (26 Dec) and the video three days later, and is turning the original Baby Shark boy into a K pop singer. Total 473."
   }
  ],
  "history": [
@@ -4062,6 +4083,10 @@
   {
    "date": "2026-11-15 18:56",
    "total": 470
+  },
+  {
+   "date": "2026-11-15 18:56",
+   "total": 473
   }
  ],
  "next_week_ideas": [
