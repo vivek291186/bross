@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:58:56+05:30",
- "runs": 222,
+ "updated": "2026-11-15T23:59:39+05:30",
+ "runs": 223,
  "branches": [
   {
    "id": "platforms",
@@ -6873,6 +6873,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 220
+    },
+    {
+     "t": "A wholesome 'bicep heart' pose spread on TikTok from late October 2026: people flex one arm and curl the other hand against it to make a heart shape, sincerely or for laughs, often adding a cat, an easy ending pose for kindness songs.",
+     "src": "Epidemic Sound, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 223
+    },
+    {
+     "t": "Mid November holiday videos recreate a famous singer's midnight switch from a grumpy autumn look to full Christmas glam with a giant penguin and Santa, a look transition we can copy with our own penguin friend and our own song.",
+     "src": "Epidemic Sound, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 223
+    },
+    {
+     "t": "Later's 13 Nov TikTok roundup lists 'btw it's cool to do both' (two opposite sides of one person in a video or carousel), 'what do you bring to the table' joke lists and 'building something AI can never replace' (human connection) clips; the first two adapt well to two brothers.",
+     "src": "Later, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 223
+    },
+    {
+     "t": "Clips celebrating 'what AI can never replace' and human made versions of AI trends show a 2026 audience mood that rewards visible human craft, so Bro Bros behind the scenes Shorts (the owner choosing moves, sketching scenes) can earn trust with parents.",
+     "src": "Later and Daily Dot, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 223
     }
    ]
   }
@@ -6900,11 +6928,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 143): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:14",
-   "note": "Run 144 (Instagram for kids song brands (benchmarks)): Kids song brands rarely grow on Instagram: T-Series Kids Hut, a large Indian rhymes brand on YouTube, has only about 4.8K Instagram followers and posts about once every five weeks; Dash Hudson's baby and children benchmark shows Instagram accounts grow about 0.7% a month against 4.1% on TikTok, and parenting tip posts (baby sleep) beat the industry by over 100%. Total 651."
+   "note": "Earlier runs summarised (up to Run 144): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:36",
@@ -7217,6 +7241,10 @@
   {
    "date": "2026-11-15 23:58",
    "note": "Run 222 (visual craft (our own tools: Meshy Text to Motion limits, Meshy changelog)): Studied our own animation tool: Meshy Text to Motion (added July 2026) makes 2 to 10 second clips from prompts up to 400 characters, in prime mode (10 credits, FBX) or swift mode (3 credits, BVH), files expire after 3 days, and the meshy-7 model stops for 3D generation on 31 Dec 2026. Long dances must be built from several short clips joined in Blender. No new animation features in Meshy's Aug to Sep changelog. Total 972."
+  },
+  {
+   "date": "2026-11-15 23:59",
+   "note": "Run 223 (TRENDS (13 Nov roundups: bicep heart pose, cool to do both, it's time transitions)): The 13 Nov roundups added two kid safe formats: the bicep heart pose (one arm flexed, the other hand curling against it to make a heart, wholesome, often with a cat) and 'btw it's cool to do both' (two sides of you); the Mariah style 'it's time' look switch at midnight is the big holiday transition. Both joined the trend bank; two older entries (fill it one by one, statue game) left the bank but stay in the leaves. Total 976."
   }
  ],
  "history": [
@@ -8107,6 +8135,10 @@
   {
    "date": "2026-11-15 23:58",
    "total": 972
+  },
+  {
+   "date": "2026-11-15 23:59",
+   "total": 976
   }
  ],
  "next_week_ideas": [
@@ -8169,6 +8201,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Bicep heart pose",
+   "where": "TikTok (wholesome pose trend from end of Oct 2026, Epidemic Sound 13 Nov)",
+   "status": "rising",
+   "use": "At the end of a Bro Bros song both Bros make a 'strong heart': Meshy step: standing, flex the right arm up like a muscle, bring the left hand across and curl it against the flexed arm so the two arms make a heart shape, hold and smile, then swap sides. Ending pose for kindness and family songs; add a pet friend for the popular cat extra."
+  },
+  {
    "name": "Trio silly group dance",
    "where": "TikTok (Chipmunks dance on a sped up 80s track, groups of three, NewEngen 13 Nov 2026)",
    "status": "rising",
@@ -8199,6 +8237,12 @@
    "use": "Kid safe version: the Bros play rock paper scissors to the beat of our own song ('rock, paper, scissors, SHOOT') and the winner gets to choose the next dance move, which both then do; repeat three rounds. Great participation Short where kids at home play along with the screen."
   },
   {
+   "name": "It's cool to do both",
+   "where": "TikTok and carousels (Later, 13 Nov 2026)",
+   "status": "rising",
+   "use": "Split screen: Big Bro the sporty one (snowball, running), Little Bro the cosy one (blanket, cocoa), text 'btw it's cool to do both', then both swap and do each other's thing together to our own song. Teaches that kids can like loud and quiet things."
+  },
+  {
    "name": "Say the word on the beat",
    "where": "TikTok, Shorts (Christmas specials, Dec 2025, returning)",
    "status": "rising",
@@ -8209,12 +8253,6 @@
    "where": "YouTube and Netflix every 31 Dec (families play 'fake midnight' countdowns so little kids can celebrate before bedtime)",
    "status": "seasonal",
    "use": "Post by 29 Dec a 'Bro Bros New Year Countdown for Kids' (3 to 5 minutes): a short dance warm up, then a big 10 to 1 count with the Bros jumping on each number, confetti and a 'Happy New Year 2027!' cheer with no scary bangs and a calm goodbye; plus a 60 second Short. Families can start it at any time."
-  },
-  {
-   "name": "Fill it one by one",
-   "where": "TikTok (winter basket builds, Nov 2026)",
-   "status": "rising",
-   "use": "The Bros pack a winter adventure bag one item per beat (hat, scarf, cocoa, torch, teddy), counting 1 to 5, then show the full bag; a counting song Short with a satisfying finish."
   },
   {
    "name": "Mystery box reveal",
@@ -8275,12 +8313,6 @@
    "where": "TikTok, Reels, Shorts (every December)",
    "status": "seasonal",
    "use": "From 1 to 24 Dec the Bros open one numbered door a day on a big calendar; behind it is one new move or winter word, and the Short ends with everyone doing all the moves so far. Shorts series on YouTube keeps the 24 days in order. Meshy move for door 1: stand in place, arms swing open wide like doors, then a small hop."
-  },
-  {
-   "name": "Freeze / statue game",
-   "where": "Evergreen kids",
-   "status": "evergreen",
-   "use": "Music stops, everyone freezes; kids at home play along. Already proven in our Dance and Freeze song."
   },
   {
    "name": "Snowflake arms & spin",
