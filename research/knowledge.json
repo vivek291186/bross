@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:04:28+05:30",
- "runs": 303,
+ "updated": "2026-11-16T04:05:13+05:30",
+ "runs": 304,
  "branches": [
   {
    "id": "platforms",
@@ -9057,6 +9057,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 301
+    },
+    {
+     "t": "Last November a top TikTok dance format had creators copy the moves of dancing plush animals or throw a blanket over themselves to become a floppy puppet, a toy like, slapstick format that fits animated characters and is likely to return as toys dominate December feeds.",
+     "src": "NewEngen, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 304
+    },
+    {
+     "t": "Another November 2025 format had people dance in total silence and then replay the same dance with a random sound TikTok picked, a two part joke that works with our own songs: the Bros dance silently, then the replay drops our new chorus and the moves suddenly fit.",
+     "src": "NewEngen, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 304
+    },
+    {
+     "t": "Late November 2025 also brought 'holiday theme' videos: pick a theme, film each shopping and decorating step with a text label, and end on a before and after reveal, a structure that suits a Bros' room decorating song with a counting or colour theme.",
+     "src": "NewEngen, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 304
     }
    ]
   }
@@ -9084,11 +9105,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 224): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:00",
-   "note": "Run 225 (competitor deep dive (Cocomelon and Ms Rachel breakouts and title formulas via OutlierKit)): Cocomelon (Oct 2026) still uploads about three 5 minute songs a week with almost no Shorts; its breakouts stack two proven hooks ('Yes Yes Finger Family Playground Song' 52M, 'Bananaphone' 40M) and about 10% of its slate is now Hello Kitty and Sanrio collaborations. Ms Rachel uploads barely once a fortnight, about 45 minute episodes, and her titles lead with a parent search promise ('Baby Learning', 'Learn to Talk', 'First Words'). Total 984."
+   "note": "Earlier runs summarised (up to Run 225): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:01",
@@ -9401,13 +9418,13 @@
   {
    "date": "2026-11-16 04:04",
    "note": "Run 303 (other platforms (Spotify kids genre popularity mix, sleep audio, Netflix kids staying power)): Shorts and Reels sources had nothing new this round, so it moved to other platforms. Spotify's kids genre popularity list mixes adult family friendly pop (Avicii's Wake Me Up scores 88, The Clash 84) with Ms Rachel, Plim Plim and many sleep tracks (a Swedish lullaby duo, German baby sea sounds, four 'Relaxing Music For Kids' pieces in the top 31). On Netflix, KPop Demon Hunters was still in the English film top 10 in its 65th week in September. Total 1284."
+  },
+  {
+   "date": "2026-11-16 04:05",
+   "note": "Run 304 (TRENDS (late November returners: dancing plush animals, silent dance then random sound, holiday theme decorate reveal)): This week's trackers had nothing new beyond the trend bank, so this round looked at what ran last late November and may return: creators copying dancing plush animals or becoming a blanket puppet, dancing in silence and letting TikTok pick the sound for a replay, and labelled step by step holiday decorating ending in a before and after reveal. Two formats joined the trend bank. Total 1287."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:45",
-   "total": 80
-  },
   {
    "date": "2026-11-15 15:51",
    "total": 87
@@ -10603,6 +10620,10 @@
   {
    "date": "2026-11-16 04:04",
    "total": 1284
+  },
+  {
+   "date": "2026-11-16 04:05",
+   "total": 1287
   }
  ],
  "next_week_ideas": [
@@ -10664,6 +10685,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Silent dance, then the song",
+   "where": "TikTok (dance in silence then replay with a random sound, Nov 2025)",
+   "status": "seasonal",
+   "use": "Part 1: the Bros dance our new signature move in total silence with only footstep sounds, caption 'dancing to nothing'. Part 2: the exact same clip replays with our new song and every move lands on the beat. 12 to 16 seconds, loops well."
+  },
+  {
+   "name": "Dancing plush puppet",
+   "where": "TikTok (dancing plush animal and blanket puppet dances, Nov 2025, likely back with December toy season)",
+   "status": "seasonal",
+   "use": "Little Bro's own original teddy comes to life and does a stiff, floppy toy dance to our chorus; Big Bro copies it with wobbly arms, then throws a blanket over himself and dances as a silly floppy puppet. Meshy prompt: standing in place, arms hanging loose, bounce gently up and down while swinging arms left and right like a floppy toy."
+  },
   {
    "name": "Hatch the egg",
    "where": "Roblox (pet egg games among the fastest growing new games, Nov 2026) and egg reveal Shorts on kids YouTube",
@@ -10771,18 +10804,6 @@
    "where": "TikTok (Ba Ba Ba dance, No. 1 by new videos per day on 13 Nov 2026, ViralRemix chart)",
    "status": "peak",
    "use": "Big Bro and Little Bro side by side do the same short routine perfectly in sync to our own bouncy song, then a playful mistake by Little Bro and a laugh. Meshy steps: standing in place, two claps, step right and left, roll arms forward twice, point to the camera together, small hop with both feet, end with a high five."
-  },
-  {
-   "name": "Go, Go, Go rush",
-   "where": "TikTok (frantic 'go, go, go' lip sync for everyday rush moments, NewEngen 13 Nov 2026)",
-   "status": "rising",
-   "use": "Morning rush Short with our own chant song: the Bros race to get ready (shoes, coat, hat, bag) as our 'Go, go, go!' hook speeds up each round, then a big calm freeze and 'We made it!'. Meshy steps: standing in place, run fast on the spot pumping arms, quick reach up with both arms, quick reach down to knees without bending low, then freeze with arms out."
-  },
-  {
-   "name": "Say the same word",
-   "where": "TikTok (two people name items in a category until they match, a lap for every miss; HeyOrca week of 11 Nov 2026)",
-   "status": "rising",
-   "use": "Game song Short: Big Bro and Little Bro pick a category (fruits, animals, colours), count 'one, two, three' and shout a word together; if the words differ, both run a lap in place to the beat while the chorus sings 'Run, run, run around!', and when they finally match they jump and high five. Meshy steps: standing, run on the spot pumping arms for 4 beats, then a small jump in place with both arms up and a high five."
   }
  ]
 }
