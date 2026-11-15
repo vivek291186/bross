@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:47:35+05:30",
- "runs": 150,
+ "updated": "2026-11-15T20:48:53+05:30",
+ "runs": 151,
  "branches": [
   {
    "id": "platforms",
@@ -2085,6 +2085,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 148
+    },
+    {
+     "t": "Peppa Pig revealed in 2026 that little brother George is moderately deaf (new season from 23 Mar, with short clips first on its YouTube channel), its second disabled character after wheelchair user Mandy Mouse, made with the National Deaf Children's Society and a deaf script consultant; disability is still rare in kids TV, so a natural inclusive friend in Bro Bros would stand out.",
+     "src": "enablingdevices.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 151
     }
    ]
   },
@@ -3163,6 +3170,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 150
+    },
+    {
+     "t": "Inclusive characters work best as ordinary friends in the fun (dancing, racing, singing) rather than as a lesson about difference, and big brands consult real communities first; for Bro Bros a friend with a wheelchair or hearing aids should simply join the dance moves, adapted so everyone can copy them.",
+     "src": "enablingdevices.com and sesameworkshop.org, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 151
     }
    ]
   },
@@ -3632,6 +3646,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 149
+    },
+    {
+     "t": "International Day of Persons with Disabilities is Thursday 3 Dec 2026 and schools in many countries hold assemblies and inclusion lessons that week, so an inclusive song where a friend in a wheelchair or with hearing aids leads a dance move, posted 1 or 2 Dec, fits classrooms worldwide.",
+     "src": "carevo.com.au, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 151
+    },
+    {
+     "t": "12 Dec is Mexico's Day of the Virgin of Guadalupe, the country's biggest religious day with roses, tamales and the 'Las Mananitas' morning song; as a religious feast we do not theme a song on it, but a non religious family food and dance fiesta posted around then still suits Mexican families.",
+     "src": "guiainfantil.com and officeholidays.com, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 151
     }
    ]
   },
@@ -4842,11 +4870,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 8 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:42",
-   "note": "Run 72 (YouTube main and Kids charts (week of 8 Nov)): Tubefilter most viewed, week of 8 Nov 2026: family Shorts channels hold four of the top 11 (Cadel and Mia #3, Sierra and Rhia's English and FAM channels #6 and #8, Jasmin and James #11); El Tren Nam Nam fell 52% after its Halloween tooth brushing peak; Argentina's Plim Plim (#36) and Indonesia's Keizo and Friends (#20) show Spanish and Indonesian kids brands at world scale. Total 392."
+   "note": "Earlier runs summarised: 9 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:43",
@@ -5159,6 +5183,10 @@
   {
    "date": "2026-11-15 20:47",
    "note": "Run 150 (visual craft (thumbnail breakout study, Thomas redesign)): Eden's study of 507K long videos found thumbnail brightness, contrast and saturation made no difference between breakouts and flops, short 4 to 6 word text helped a little, and video length mattered far more (41% of 40+ minute videos broke out against 27% under 5 minutes). Mattel's 3D Thomas redesign with bigger eyes and a wide white smile was tested with preschoolers but adult critics said it looked AI generated. Total 679."
+  },
+  {
+   "date": "2026-11-15 20:48",
+   "note": "Run 151 (topics and seasons (International Day of Persons with Disabilities, inclusive characters, Guadalupe)): The December calendar was mostly in the tree already. New: International Day of Persons with Disabilities is Thu 3 Dec 2026 with school assemblies in many countries, and Peppa Pig made George moderately deaf in 2026 after wheelchair user Mandy Mouse, with disability still rare in kids TV, so an inclusive dance song fits early December. Mexico's 12 Dec Guadalupe day is religious, so we note it but stay neutral. Total 683."
   }
  ],
  "history": [
@@ -5761,13 +5789,13 @@
   {
    "date": "2026-11-15 20:47",
    "total": 679
+  },
+  {
+   "date": "2026-11-15 20:48",
+   "total": 683
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Do the Zoomy Zoom!",
-   "why": "A signature dance named after our recurring pet friend, like Pokemon Kids TV's single character dance hits; one move per line, easy to copy in Shorts."
-  },
   {
    "title": "Dino Truck Stomp",
    "why": "Dinosaur plus vehicle mashups top the 2026 holiday toy lists (Megasaurus dino vehicle, T Rex garage); the Bros drive a friendly dino truck that stomps, roars and honks with a Baby Dino, Mama Dino call and response chorus."
@@ -5819,6 +5847,10 @@
   {
    "title": "Good Morning, Sunshine Bros!",
    "why": "Daily routine songs (Gracie's Corner's Good Morning Song, Ms Rachel) are what buyers and parents replay; a bright wake up and stretch song for every morning in every country."
+  },
+  {
+   "title": "Everybody Can Dance!",
+   "why": "3 Dec 2026 is International Day of Persons with Disabilities and kids TV still shows few disabled characters; the Bros and a new friend on wheels invent moves everyone can copy, sitting or standing."
   }
  ]
 }
