@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:46:21+05:30",
- "runs": 241,
+ "updated": "2026-11-16T00:47:26+05:30",
+ "runs": 242,
  "branches": [
   {
    "id": "platforms",
@@ -1875,6 +1875,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 230
+    },
+    {
+     "t": "The YouTube Kids home organises videos into five curated shelves (series, music, learning, discovery, games), and new users get no personalised recommendations until they have viewing history, so a Bro Bros song should clearly signal music plus one learning point in title and description to land on two shelves.",
+     "src": "YouTube Help FAQ via PPC Land, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 242
+    },
+    {
+     "t": "In YouTube Kids, recommendations are fully automated, an upheld parent report removes a video for all users, and filters are updated quickly when an unsuitable trend appears on main YouTube, so Bro Bros trend videos must not carry trend words or looks that filters may block (zombie, scary, prank) in titles or thumbnails.",
+     "src": "YouTube Help FAQ via PPC Land, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 242
+    },
+    {
+     "t": "Todd Beaupre (Creator Insider, 1 Sep 2026) said some videos peak on their first day while others keep finding audiences for a month or more, so a song with a slow start should be left alone for several weeks rather than deleted or re uploaded.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 242
+    },
+    {
+     "t": "AIR's month by month tracker of 2026 YouTube changes lists no kids specific ranking change in September or October 2026; the confirmed changes that touch us are Shorts originality (1 Oct), custom Home feeds (22 Oct) and parents' Shorts timers (Jan and Apr 2026).",
+     "src": "AIR Media-Tech, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 242
     }
    ]
   },
@@ -7501,12 +7529,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 20:59",
-   "note": "Earlier runs summarised (up to Run 162): older log lines condensed."
-  },
-  {
    "date": "2026-11-15 21:00",
-   "note": "Run 163 (topics and seasons (family films in the next 6 weeks)): The toy lists were already in the tree. Next family films: Disney's original 'Hexed' (25 Nov 2026, Thanksgiving week, a teen girl discovering magic and a hidden witch world) and The Angry Birds Movie 3 (25 Dec 2026), so magic spells and funny birds will be in kids' heads through the holidays; we use the themes in our own way, never the characters. Total 726."
+   "note": "Earlier runs summarised (up to Run 163): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:01",
@@ -7819,6 +7843,10 @@
   {
    "date": "2026-11-16 00:46",
    "note": "Run 241 (TRENDS (December calendar: Wrapped week, retro holiday dance, the Shorts heart button)): Spotify Wrapped is expected around Wednesday 2 Dec 2026, which floods Reels with year recaps, so a 'Bro Bros Wrapped' top 5 countdown joined the trend bank, as did a wobbly retro piano dance inspired by last December's Peanuts dance revival (our own tune and characters only). Shorts now show a heart instead of like and dislike, and 'Not interested' asks for reasons. Total 1058."
+  },
+  {
+   "date": "2026-11-16 00:47",
+   "note": "Run 242 (YouTube algorithm (YouTube Kids app gate and home shelves, slow building videos)): Most September and October statements were already in the tree. New: the YouTube Kids home has five curated shelves (series, music, learning, discovery, games) and gives brand new users no personal recommendations until they build history; an upheld parent report removes a video for everyone and filters are retuned when a bad trend appears, so trend borrowing must look clearly family friendly. AIR's monthly tracker shows no kids specific ranking change in September or October 2026. Total 1062."
   }
  ],
  "history": [
@@ -8785,6 +8813,10 @@
   {
    "date": "2026-11-16 00:46",
    "total": 1058
+  },
+  {
+   "date": "2026-11-16 00:47",
+   "total": 1062
   }
  ],
  "next_week_ideas": [
