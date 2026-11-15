@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:47:48+05:30",
- "runs": 81,
+ "updated": "2026-11-15T18:48:51+05:30",
+ "runs": 82,
  "branches": [
   {
    "id": "platforms",
@@ -440,6 +440,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 75
+    },
+    {
+     "t": "88% of parents of 2 to 5 year olds say their child prefers YouTube to on demand and broadcast TV, and 80% of 10 to 12 year olds watch YouTube, the most of any platform (Precisify, Feb 2026).",
+     "src": "Tubefilter, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 82
     }
    ]
   },
@@ -2876,6 +2883,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 73
+    },
+    {
+     "t": "Seasonal ad money: YouTube RPM runs about 0.5 times its spring baseline in January and about 1.8 to 2.5 times in December, and the two weeks before 25 Dec have the most competitive ad auctions, so our best holiday compilations should be live by the first days of December.",
+     "src": "Fluxnote, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 82
+    },
+    {
+     "t": "Precisify (Feb 2026): 80% of parents say their child asked for something seen in a YouTube ad while co viewing and 50% bought because of YouTube ads, which is why advertisers pay for kids views; our own videos must still never urge purchases, or they drop out of YouTube Kids.",
+     "src": "Tubefilter, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 82
+    },
+    {
+     "t": "Under COPPA and GDPR K, kids content must never ask children to send names, photos, videos or contest entries, nor use sign up links or tracking pixels, and that applies off YouTube too, so our Instagram captions should address parents and never invite kids to submit anything.",
+     "src": "AIR, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 82
+    },
+    {
+     "t": "Since Aug 2025 YouTube's AI age estimation can treat signed in viewers it infers are minors as minors even on videos not marked made for kids, changing what is recommended and how ads run; COPPA 2.0 (protections to age 16) is still only proposed in the US.",
+     "src": "AIR, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 82
     }
    ]
   },
@@ -3121,10 +3156,6 @@
   {
    "date": "2026-11-15 15:45",
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
-  },
-  {
-   "date": "2026-11-15 15:55",
-   "note": "Run 3 (deep dive: music + what kids love): 21 learnings from music preference studies, Super Simple Songs, Ms. Rachel, Blue's Clues, thumbnails and top kids topics. Playbook rewritten to 15 rules; 14 song ideas for next week. Total 72."
   },
   {
    "date": "2026-11-15 15:45",
@@ -3437,6 +3468,10 @@
   {
    "date": "2026-11-15 18:47",
    "note": "Run 81 (algorithm experiments and data (compilations, claims, audio tracks)): AIR Q4 2025 cases: turning 2 to 3 minute songs into about 10 minute compilations lifted watch duration 19% and RPM 72%; on the Vania Mania network clearing copyright claims took Indonesian suggested views from 32K to 3.75M, more holiday uploads tripled the Live channel, and restoring lost dubbed audio tracks lifted the French channel 37%. Total 433."
+  },
+  {
+   "date": "2026-11-15 18:48",
+   "note": "Run 82 (rules, safety and monetisation (Q4 ad rates, kids data rules)): YouTube RPM runs about 0.5 times baseline in January and 1.8 to 2.5 times in December, with the two weeks before Christmas the most competitive auctions. Precisify found 80% of parents say kids ask for items seen in YouTube ads and 88% of parents of 2 to 5 year olds say their child prefers YouTube to TV. Kids content must never ask children for names, photos or contest entries, even off YouTube, and YouTube's age estimation treats inferred minors as minors. Total 438."
   }
  ],
  "history": [
@@ -3763,6 +3798,10 @@
   {
    "date": "2026-11-15 18:47",
    "total": 433
+  },
+  {
+   "date": "2026-11-15 18:48",
+   "total": 438
   }
  ],
  "next_week_ideas": [
