@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:46:50+05:30",
- "runs": 207,
+ "updated": "2026-11-15T23:47:32+05:30",
+ "runs": 208,
  "branches": [
   {
    "id": "platforms",
@@ -5795,6 +5795,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 205
+    },
+    {
+     "t": "Much Brazilian funk and phonk carries explicit lyrics and adult dance styles, so Bro Bros borrows only the rhythm (a bouncy tamborzao style drum pattern) in its own Suno songs, never the trending tracks or their moves.",
+     "src": "Billboard Brasil, Jul 2026 (our judgement)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 208
     }
    ]
   },
@@ -6432,6 +6439,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 205
+    },
+    {
+     "t": "K-pop's latest challenges teach the full chorus instead of a short clip: rookie group TUIDE's two songs with a relaxed, house driven groove passed 160K TikTok videos and reached No. 3 and No. 6 on Instagram Reels Rising Audio, boosted by idols from TWICE, SEVENTEEN and ENHYPEN joining.",
+     "src": "Sports Khan, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 208
+    },
+    {
+     "t": "A laid back groove that a whole body can ride (house, soul and hip hop mixed) is what made those full chorus routines easy to copy or reinterpret, which suits a Bro Bros 'learn the whole chorus' Short around 115 to 122 BPM.",
+     "src": "Sports Khan, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 208
+    },
+    {
+     "t": "On TikTok in Europe the Brazilian phonk hashtag grew 62% and Brazilian funk 34% from Feb to May 2026 against the previous four months, with creators using funk beats under choreography, memes and sports clips, so a clean, kid friendly Brazilian style beat can travel far beyond Brazil.",
+     "src": "Billboard Brasil, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 208
     }
    ]
   }
@@ -6459,11 +6487,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 128): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:58",
-   "note": "Run 129 (algorithm experiments and data (new channel first 10 videos, Pew parents survey)): vidIQ's study of 448K channels started in 2025: a new channel's best video among its first ten gets about 6.5 times (Shorts) to 11 times (long form) the views of its first, long form views climb about 51% from upload one to ten while Shorts stay flat, so volume buys more chances at a breakout. Pew: 62% of parents of under 2s now say their child watches YouTube, up from 45% five years ago. Total 606."
+   "note": "Earlier runs summarised (up to Run 129): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:59",
@@ -6776,6 +6800,10 @@
   {
    "date": "2026-11-15 23:46",
    "note": "Run 207 (Shorts and Reels (episodic Shorts data, Cocomelon's Instagram is for parents)): YouTube's own data (27 Oct 2026): episodic microdramas passed 6.5B views in H1 2026 with watch time up over 50%, and 40% of episode views came more than 30 days after upload, so a numbered Bro Bros Shorts series keeps earning. Cocomelon's Instagram (790K followers) is a parent humour account with about 214K average Reel plays and only 0.26% likes per follower, a sign Instagram is where we speak to parents. Total 909."
+  },
+  {
+   "date": "2026-11-15 23:47",
+   "note": "Run 208 (TRENDS (global dance: full chorus K-pop challenges, Brazilian phonk rising in Europe)): K-pop's newest challenge style teaches the whole chorus, not a 10 second clip: a rookie group's two relaxed house groove songs passed 160K TikToks and hit Reels Rising Audio No. 3 and No. 6 as stars joined in. Brazilian phonk hashtags grew 62% in Europe in early 2026 (funk 34%), showing Brazilian beats travel. A 'learn the whole chorus' format joined the trend bank. Total 913."
   }
  ],
  "history": [
@@ -7606,6 +7634,10 @@
   {
    "date": "2026-11-15 23:46",
    "total": 909
+  },
+  {
+   "date": "2026-11-15 23:47",
+   "total": 913
   }
  ],
  "next_week_ideas": [
@@ -7716,6 +7748,12 @@
    "use": "Each Bro and friend walks into frame one by one in dramatic slow motion from a different side (one with a scarf blowing, one with a snowball, one waving), then the beat drops and everyone dances at normal speed. Do it in Blender with time remapping on our own song's intro."
   },
   {
+   "name": "Full chorus dance challenge",
+   "where": "Reels and TikTok K-pop challenges (TUIDE's SUN KISS and GRLS, 160K+ TikToks, Reels Rising Audio top 6, Sep 2026)",
+   "status": "evergreen",
+   "use": "Instead of a 10 second move, teach the whole chorus of a Bro Bros song as one relaxed, bouncy routine (about 30 seconds) and post a 'learn the chorus' tutorial Short plus a 'do it with us' version. Meshy steps: standing in place, easy bounce on the knees on every beat, step touch right and left, roll both arms forward, point up on the hook word, turn to the side and wave, end with a pose. Laid back house style groove at about 115 to 122 BPM in our own song."
+  },
+  {
    "name": "Fan wipe outfit change",
    "where": "TikTok (fan transition, overhead angle, NewEngen 13 Nov 2026)",
    "status": "rising",
@@ -7780,12 +7818,6 @@
    "where": "Evergreen kids",
    "status": "evergreen",
    "use": "Music stops, everyone freezes; kids at home play along. Already proven in our Dance and Freeze song."
-  },
-  {
-   "name": "Snowflake arms & spin",
-   "where": "Winter, global",
-   "status": "seasonal (Dec-Jan)",
-   "use": "Snowflake Dance Party song with 3 simple winter moves as a challenge."
   }
  ]
 }
