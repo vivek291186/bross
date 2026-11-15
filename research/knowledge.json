@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:52:13+05:30",
- "runs": 322,
+ "updated": "2026-11-16T04:54:04+05:30",
+ "runs": 323,
  "branches": [
   {
    "id": "platforms",
@@ -3457,6 +3457,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 320
+    },
+    {
+     "t": "Jason Vlogs, two brothers' kids channel that grew from 23M to 46M+ subscribers with a peak of about 1B views in one month, keeps a baseline of one main video a week with extras as bonuses, plans and batches weeks ahead, and runs on a core team of five.",
+     "src": "AIR, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 323
+    },
+    {
+     "t": "Jason Vlogs brainstorms about 30 ideas a week and produces only 3, filtering by current platform trends, what kids already react to and whether the idea stays fun and teaches something, a stricter filter than making every idea that comes up.",
+     "src": "AIR, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 323
     }
    ]
   },
@@ -5235,6 +5249,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 317
+    },
+    {
+     "t": "Jason Vlogs' founder calls a good editor 'the difference between 1M and 100M views' and credits a face kids instantly recognise for telling viewers what to expect, which supports keeping the Bros' faces and silhouettes fixed and investing in tight editing.",
+     "src": "AIR, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 323
     }
    ]
   },
@@ -6796,6 +6817,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 319
+    },
+    {
+     "t": "Jason Vlogs runs 10 localised channels and says they did not cannibalise the main channel but brought in new viewers, another data point that separate language channels add audience rather than split it.",
+     "src": "AIR, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 323
     }
    ]
   },
@@ -9514,10 +9542,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:40",
-   "note": "Run 244 (TRENDS (early holiday audio, before and after drum cut, template dances)): SocialPilot's 31 Oct to 10 Nov chart shows Christmas songs already at peak on Reels (about 5.8M Reels on the top one) for countdown and tree reveal posts, while 'how it started vs how it's going' cuts on a drum hit and one step per beat tutorials are rising. The Scuba dance is a year old and its 'flip the camera' variant is called bullying, so we skip it; AI kitten dances spread mainly as CapCut green screen templates. Total 1073."
-  },
-  {
    "date": "2026-11-16 01:42",
    "note": "Run 245 (music craft (slow tempo and attention, fast seasonal release, interactive songwriting)): A study of 4 to 6 year olds found reaction times were faster after slow music than after fast music with no change in mood, which supports a calm song before any learning part. Kidz Bop's songwriter says speed of release next to the original moment is core to its 14B streams, and Laurie Berkner's 2026 album treats interactivity and seated movement as part of writing the song. Total 1077."
   },
@@ -9828,13 +9852,13 @@
   {
    "date": "2026-11-16 04:52",
    "note": "Run 322 (rules and safety (Disney's 10M USD audience label settlement, FTC age check shield)): The FTC's 10M USD settlement with Disney came from setting 'made for kids' at channel level, so child directed videos on 'not made for kids' channels collected data and ran targeted ads; Disney must now review each video's label. A Feb 2026 FTC policy shields general audience sites that check ages, but child directed services get no relief and must treat every viewer as a child. Total 1345."
+  },
+  {
+   "date": "2026-11-16 04:54",
+   "note": "Run 323 (algorithm experiments and data (Jason Vlogs' working system; our Metricool and Tubefilter checks had nothing new)): Our own Metricool data still stops at 11 Nov (YouTube) and 14 Nov (Reels), already recorded today, and the 8 Nov Tubefilter chart is fully in the tree, so the round moved to case data: Jason Vlogs (46M+ subscribers, a 5 person team) posts one main video a week, brainstorms about 30 ideas a week to make 3, batches weeks ahead and runs 10 localised channels that brought new viewers without hurting the main one. Total 1349."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 16:09",
-   "total": 190
-  },
   {
    "date": "2026-11-15 16:38",
    "total": 195
@@ -11030,6 +11054,10 @@
   {
    "date": "2026-11-16 04:52",
    "total": 1345
+  },
+  {
+   "date": "2026-11-16 04:54",
+   "total": 1349
   }
  ],
  "next_week_ideas": [
