@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:51:21+05:30",
- "runs": 5,
+ "updated": "2026-11-15T15:52:09+05:30",
+ "runs": 6,
  "branches": [
   {
    "id": "platforms",
@@ -202,6 +202,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 3
+    },
+    {
+     "t": "Because made for kids videos lose end screens, cards and the bell, keyword named playlists are the main discovery tool; descriptions should link to the first video of a related playlist so autoplay continues in order.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 6
     }
    ]
   },
@@ -524,6 +531,41 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 3
+    },
+    {
+     "t": "YouTube's Test and Compare (up to 3 titles or thumbnails, winner picked by watch time share, not clicks) cannot be used on made for kids videos, so we must test thumbnails by hand, one change at a time.",
+     "src": "YouTube Help, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 6
+    },
+    {
+     "t": "Kids thumbnail formula: one happy face, one clear action, one recognisable object, plain bright background and very little text; if a thumbnail trips two or more warning signs, redo it.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 6
+    },
+    {
+     "t": "Kids titles work best as a story moment hook plus one niche keyword, with only one or two capitalised words and one or two emojis; the title should add to the thumbnail, not repeat it.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 6
+    },
+    {
+     "t": "Parents search by age and moment: YouTube suggested phrases in Oct 2026 include 'nursery rhymes for toddlers', 'learn numbers 1-10' and 'bedtime stories for preschoolers'; put those phrases in titles, descriptions and playlist names.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 6
+    },
+    {
+     "t": "Short clips of 15 to 30 seconds help discovery only when the character is distinctive enough to make viewers seek more; recurring, recognisable Bro Bros looks are what turn Shorts into subscribers.",
+     "src": "Whizzy Studios, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 6
     }
    ]
   },
@@ -664,6 +706,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 1
+    },
+    {
+     "t": "There is no public banned word list, but words in six risk clusters (fear, conflict, medical, danger, emotional overload like 'shocking', adult themes like 'crush') lower kids recommendations and ads.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 6
+    },
+    {
+     "t": "Kids and teens has the lowest median RPM of 13 niches, about 0.33 USD per 1,000 views versus about 2.30 overall (300 channels, May 2025 to May 2026), so kids channels win on volume and long watch sessions.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 6
     }
    ]
   },
@@ -686,11 +742,12 @@
   "Calm camera (cuts 3-6 s), bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description.",
   "Open every Short and Reel on the best hook moment in the first second; make Shorts loop back to the start.",
-  "Thumbnails: one clear happy subject, big eyes, max 3 words, bright contrast; never scared, crying or shocked faces; title and thumbnail must match the video.",
+  "Thumbnails: one happy face, one clear action, one recognisable object, big eyes, max 3 words, bright plain background; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Build weekly compilations (5-6 songs, 15-25 min) led by the best performer, to keep viewers in our Up Next session.",
   "Plan dubbed versions of the best songs for the biggest kids markets (Spanish, Portuguese, Hindi, Indonesian, Arabic).",
   "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles.",
-  "Mix in older-kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny, chantable nonsense word kids can shout, not only nursery rhyme remakes."
+  "Mix in older-kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny, chantable nonsense word kids can shout, not only nursery rhyme remakes.",
+  "Titles: story hook plus an age keyword (for toddlers, learn numbers 1-10, bedtime for preschoolers), max 2 caps words and 1 to 2 emojis, no fear, fight, medical or danger words; put every video in a keyword playlist and link the playlist's first video in the description."
  ],
  "log": [
   {
@@ -712,6 +769,10 @@
   {
    "date": "2026-11-15 15:51",
    "note": "Run 5 (music craft): New infant music studies: 12 month olds move to real songs but not in time, higher pitch draws more brain response and movement, rhythm is innate while melody is learned; babies like young voices and sing song speech; Pinkfong Bebefinn formula of short looping songs. Total 87."
+  },
+  {
+   "date": "2026-11-15 15:52",
+   "note": "Run 6 (visual craft): Thumbnails and titles for kids: YouTube Test and Compare is blocked for made for kids videos; thumbnail formula of one happy face, one action, one item; titles with a story hook plus an age keyword; risky word clusters; playlists as main discovery; short clips only grow distinctive characters. Total 95."
   }
  ],
  "history": [
@@ -734,6 +795,10 @@
   {
    "date": "2026-11-15 15:51",
    "total": 87
+  },
+  {
+   "date": "2026-11-15 15:52",
+   "total": 95
   }
  ],
  "next_week_ideas": [
