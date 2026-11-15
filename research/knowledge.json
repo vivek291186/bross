@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:12:46+05:30",
- "runs": 141,
+ "updated": "2026-11-15T20:13:26+05:30",
+ "runs": 142,
  "branches": [
   {
    "id": "platforms",
@@ -3415,6 +3415,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 139
+    },
+    {
+     "t": "World Children's Day falls on Fri 20 Nov 2026 with UNICEF's theme 'My Day. My Rights. My Future.' (every child has rights and a voice); landmarks light up blue and families are invited to wear blue, so a cheerful Bros song in blue about every child being heard fits all markets this week.",
+     "src": "unicef.org, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 142
+    },
+    {
+     "t": "Several countries hold their own national children's days on other dates (India 14 Nov, Japan 5 May, Mexico 30 Apr, Brazil 12 Oct, Turkey 23 Apr), so one evergreen 'kids day' party song can be reposted as a Short on each country's date with a local title.",
+     "src": "unicef.org / nationaldaycalendar.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 142
     }
    ]
   },
@@ -4589,12 +4603,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:15",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:16",
-   "note": "Run 63 (Shorts and Reels (music Shorts craft)): Music Shorts guidance for 2026: cut the strongest chorus moment, 30 to 45 seconds performs best (under 15 too thin, over 55 loses completion), link the full song with the Short's 'related video' button since typed links are not clickable; YouTube says channels posting Shorts see about 80% more channel watch time within three months. Gemini conversational Shorts editing and hook A/B tests of up to three video cuts arrive in early 2027. Total 355."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:35",
@@ -4907,6 +4917,10 @@
   {
    "date": "2026-11-15 20:12",
    "note": "Run 141 (visual craft (children's colour attention)): An eye tracking study of 4 to 7 year olds (Frontiers in Psychology) found red and purple drew the most gaze, warm colours took 52 to 60% of attention, and attraction rose as colours got a little brighter and less saturated, then fell sharply when they became too washed out: bright but not neon colours win. Total 643."
+  },
+  {
+   "date": "2026-11-15 20:13",
+   "note": "Run 142 (topics and seasons (World Children's Day)): World Children's Day is Friday 20 Nov 2026; UNICEF's theme is 'My Day. My Rights. My Future.', with landmarks lit blue and families invited to wear blue, a gentle 'every child has a voice' song in blue visuals posted on 18 or 19 Nov fits every country. Total 645."
   }
  ],
  "history": [
@@ -5473,13 +5487,13 @@
   {
    "date": "2026-11-15 20:12",
    "total": 643
+  },
+  {
+   "date": "2026-11-15 20:13",
+   "total": 645
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Silly Sweater Shimmy",
-   "why": "UK Christmas Jumper Day (Thu 10 Dec) and Ugly Christmas Sweater Day (18 Dec): a holiday neutral winter dance where kids shimmy, spin and show off patterns like stars and snowmen; post by 6 Dec, easy Shorts hook."
-  },
   {
    "title": "Cozy Cocoa Jazz",
    "why": "A soft swing piano winter song (cocoa, mittens, snow at the window) in the style families already stream every November, holiday neutral and good for wind down."
@@ -5531,6 +5545,10 @@
   {
    "title": "Uno, Dos, Tres, Jump With Me!",
    "why": "Bilingual Spanish English songs (123 Andres nearly doubled its monthly views to about 800M this autumn) reach US Latino families and Latin America at once; an original counting jump song that switches languages each chorus suits both."
+  },
+  {
+   "title": "Every Voice Counts!",
+   "why": "World Children's Day (20 Nov, theme 'My Day. My Rights. My Future.') and the many national children's days give a yearly hook; a blue themed call and response song where each friend says what they love works in every culture."
   }
  ]
 }
