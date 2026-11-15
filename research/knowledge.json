@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:01:30+05:30",
- "runs": 226,
+ "updated": "2026-11-16T00:02:07+05:30",
+ "runs": 227,
  "branches": [
   {
    "id": "platforms",
@@ -6173,6 +6173,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 226
+    },
+    {
+     "t": "Creator data compiled in 2026 puts long form RPM highest in Australia (about 10 to 12 USD per 1,000 views), the US (9 to 11), Canada (8 to 10) and New Zealand (8 to 9), and lowest in Bangladesh, Pakistan and the Philippines (about 0.2 to 0.5) and Vietnam (0.3 to 0.7).",
+     "src": "videodubbing.com, Aug 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 227
+    },
+    {
+     "t": "The same compilation puts the kids and animation niche at about 1 to 4 USD RPM (median about 2.5) for US heavy long form audiences, with roughly a 1.5 times multiplier in Q4.",
+     "src": "videodubbing.com, Aug 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 227
+    },
+    {
+     "t": "For US facing channels December RPM averages about 74% above January lows, while lower paying markets see only about a 25 to 30% Q4 lift, so our December holiday songs aimed at the US, UK, Canada and Australia are the year's best earning uploads and January needs cheaper, evergreen production.",
+     "src": "videodubbing.com, Aug 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 227
     }
    ]
   },
@@ -6495,6 +6516,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 225
+    },
+    {
+     "t": "Because Australia, New Zealand and Canada pay among the highest RPMs, a southern hemisphere summer Christmas song and a Canadian snow song are worth making even though those audiences are smaller than India or Indonesia.",
+     "src": "videodubbing.com, Aug 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 227
     }
    ]
   },
@@ -7005,11 +7033,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 147): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:40",
-   "note": "Run 148 (other platforms (Spotify kids popularity, Disney buying YouTube songs)): Spotify's kids genre popularity list is a mix of movie songs, sleep audio (a Swedish animal lullaby, German baby white noise, two 'Relaxing Music For Kids' bedtime tracks) and preschool hits (Ms Rachel, Plim Plim, a Brazilian Twinkle Twinkle). Disney bought YouTube sing along brand Gracie's Corner (6.3M subs, about 10B views) as 120+ shorts plus 18 themed compilations. Total 671."
+   "note": "Earlier runs summarised (up to Run 148): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:46",
@@ -7322,6 +7346,10 @@
   {
    "date": "2026-11-16 00:01",
    "note": "Run 226 (TRENDS (holiday look trends: toy soldier decor, circus nurseries, squishy jelly textures)): Holiday decor trends that carry into kids video: 'nutcrackercore' (candy striped toy soldiers and ballet pieces), tinsel's comeback and honeycomb paper ornaments; Pinterest's 2026 predictions saw 'circus nursery' searches up 50% and a 'gimme gummy' love of squishy jelly textures. A toy soldier march joined the trend bank (our own soldiers, a public domain style idea). Total 987."
+  },
+  {
+   "date": "2026-11-16 00:02",
+   "note": "Run 227 (rules and monetisation (kids quality rules already in the tree, so ad rates: RPM by country and the Q4 lift)): A 2026 compilation of creator data puts long form RPM highest in Australia (about 10 to 12 USD), the US (9 to 11) and Canada (8 to 10) and lowest in Bangladesh, Pakistan and the Philippines (0.2 to 0.5); kids and animation sit at about 1 to 4 USD (median 2.5) with roughly a 1.5 times Q4 lift, December runs about 74% above January for US facing channels, while lower paying markets get only a 25 to 30% Q4 bump. Total 991."
   }
  ],
  "history": [
@@ -8228,6 +8256,10 @@
   {
    "date": "2026-11-16 00:01",
    "total": 987
+  },
+  {
+   "date": "2026-11-16 00:02",
+   "total": 991
   }
  ],
  "next_week_ideas": [
