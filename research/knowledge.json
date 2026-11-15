@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:45:47+05:30",
- "runs": 206,
+ "updated": "2026-11-15T23:46:50+05:30",
+ "runs": 207,
  "branches": [
   {
    "id": "platforms",
@@ -909,6 +909,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 204
+    },
+    {
+     "t": "YouTube says episodic microdramas passed 6.5B views in the first half of 2026 with watch time up over 50% a year, and 40% of episode views and 30% of clicks came more than 30 days after upload, so Shorts grouped into a numbered series keep pulling views long after posting.",
+     "src": "YouTube Blog, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 207
+    },
+    {
+     "t": "Shorts series add seasons, episodes, custom thumbnails and sequential playback, and YouTube pairs them with multi language audio, AI subtitles and localised metadata, so a 'Bro Bros Winter Week' Shorts series can play in order on TVs and travel to other languages.",
+     "src": "YouTube Blog, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 207
+    },
+    {
+     "t": "Cocomelon's estimated Instagram audience leans to Indonesia, the US and the Philippines, with English 67%, Spanish 9% and Portuguese 7% of followers, so Southeast Asian parents are a big Instagram audience for kids song brands.",
+     "src": "IQFluence, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 207
     }
    ]
   },
@@ -2631,6 +2652,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 201
+    },
+    {
+     "t": "Cocomelon's Instagram (about 790K followers, 1.1K posts) runs as a parenting humour and toddler life account aimed at adults, averaging about 214K Reel plays but only 0.26% likes per follower and about 10 posts in two weeks, far smaller than its YouTube reach.",
+     "src": "IQFluence, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 207
     }
    ]
   },
@@ -6061,6 +6089,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 166
+    },
+    {
+     "t": "Because the biggest kids song brand uses Instagram to talk to parents (relatable parenting jokes, behind the scenes, movie news) rather than to toddlers, Bro Bros Reels should mix song clips with parent facing hooks ('when your kid asks for this song 40 times').",
+     "src": "IQFluence, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 207
     }
    ]
   },
@@ -6424,11 +6459,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 127): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:58",
-   "note": "Run 128 (music craft (Danny Go! favourites, dance electronic trend)): A toddler parent's ranking of Danny Go! favourites shows what makes movement songs stick: copyable animal power moves (gorilla drum smashing), a robot dance with a fast section, vehicle job songs, shapes drawn in the air over a club style beat, and a pirate clean up song kids ask for at tidy time. Luminate names dance and electronic the top growth genre of 2026 in the US. Total 602."
+   "note": "Earlier runs summarised (up to Run 128): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:58",
@@ -6741,6 +6772,10 @@
   {
    "date": "2026-11-15 23:45",
    "note": "Run 206 (music craft (other platforms charts already in the tree, so switched: the Bluey composer's songwriting tricks)): Netflix, iTunes kids and Roblox findings this week were already in the tree, so this round studied Bluey composer Joff Bush: clarity above everything (modelled on The Wiggles), rests and pauses as a freeze game cue, a theme built on melodica and handclaps with no drums or steady beat, warm handmade imperfections, and Dance Mode at about 120 BPM with low intensity. Total 904."
+  },
+  {
+   "date": "2026-11-15 23:46",
+   "note": "Run 207 (Shorts and Reels (episodic Shorts data, Cocomelon's Instagram is for parents)): YouTube's own data (27 Oct 2026): episodic microdramas passed 6.5B views in H1 2026 with watch time up over 50%, and 40% of episode views came more than 30 days after upload, so a numbered Bro Bros Shorts series keeps earning. Cocomelon's Instagram (790K followers) is a parent humour account with about 214K average Reel plays and only 0.26% likes per follower, a sign Instagram is where we speak to parents. Total 909."
   }
  ],
  "history": [
@@ -7567,6 +7602,10 @@
   {
    "date": "2026-11-15 23:45",
    "total": 904
+  },
+  {
+   "date": "2026-11-15 23:46",
+   "total": 909
   }
  ],
  "next_week_ideas": [
