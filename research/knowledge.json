@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:49:07+05:30",
- "runs": 293,
+ "updated": "2026-11-16T03:49:49+05:30",
+ "runs": 294,
  "branches": [
   {
    "id": "platforms",
@@ -4955,6 +4955,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 282
+    },
+    {
+     "t": "The Sussex Baby Lab showed 100 book pages to 54 babies aged 2 to 12 months (Jun 2026): they looked longest at high contrast, highly saturated reds, blues, purples and teals, pure black and white was not a top performer, and pastel, low contrast pages held them least, while adults preferred exactly the soft pages babies ignored, so our toddler songs should use bold saturated colour pairs even if parents' taste runs softer.",
+     "src": "University of Sussex, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 294
+    },
+    {
+     "t": "vidIQ's study of 128.5M videos (Sep 2025 uploads, reviewed Jun 2026) found Shorts with emojis in the title averaged 49% more views (median +13%, like rate +17%), while long videos gained only a 7% median and lost on average, so Bro Bros Shorts titles can open with one or two matching emojis and long song titles should stay mostly plain.",
+     "src": "vidIQ, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 294
+    },
+    {
+     "t": "AIR's June 2026 study of 18,080 English channels found titles of 30 to 50 characters did best in most niches; for kids, numbers and questions added little, and it advised clear, parent approvable, character first or series style names ('Bro Bros Wash Your Hands Song, Kids Learning') because made for kids recommendation depends on clean classification and retention, not engagement.",
+     "src": "AIR Media Tech, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 294
     }
    ]
   },
@@ -8874,11 +8895,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 214): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:52",
-   "note": "Run 215 (rules and safety (YouTube AI auto labels, Brazil's ECA Digital in force)): YouTube began auto labelling undisclosed photorealistic AI video in May 2026, but animated and stylised AI music videos only get a note in the description and labels do not change recommendations or money, a plus for our 3D cartoon style. Brazil's ECA Digital child online safety law is fully in force since March 2026 (sanctions from Nov 2026, enforcement Jan 2027): no ad profiling of minors, no compulsive design, guardian linked accounts under 16. Total 945."
+   "note": "Earlier runs summarised (up to Run 215): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:53",
@@ -9191,6 +9208,10 @@
   {
    "date": "2026-11-16 03:49",
    "note": "Run 293 (music craft (Suno solo vocals, songs with staying power)): A Sept 2026 Suno guide shows how to keep one clear lead voice (describe 'one clear lead singer' first, push the chorus lift into instruments, list choir, crowd, gang vocals and harmonies in Exclude, avoid words like anthemic or singalong in Style, fix single sections with Replace Section). Hit Songs Deconstructed's 2025 staying power report found long running hits are shorter (3:17), open faster (11 second intros), use pre choruses far more (73% vs 40%) and borrow 1980s sounds. Playbook rule on vocals updated. Total 1254."
+  },
+  {
+   "date": "2026-11-16 03:49",
+   "note": "Run 294 (visual craft (baby colour study, emojis in titles, title length and kids naming)): Sussex Baby Lab (Jun 2026, 54 babies, 100 book pages) found infants look longest at high contrast, saturated reds, blues, purples and teals and least at pastels, the opposite of what adults rated best. vidIQ's 128.5M video study found one or two emojis lift Shorts views (median +13%) but not long videos, and AIR's 18,080 channel title study found 30 to 50 characters best, with questions and numbers weak for kids and character first, series style names easier to classify. Total 1257."
   }
  ],
  "history": [
@@ -10365,6 +10386,10 @@
   {
    "date": "2026-11-16 03:49",
    "total": 1254
+  },
+  {
+   "date": "2026-11-16 03:49",
+   "total": 1257
   }
  ],
  "next_week_ideas": [
