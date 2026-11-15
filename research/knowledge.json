@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:49:29+05:30",
- "runs": 83,
+ "updated": "2026-11-15T18:50:27+05:30",
+ "runs": 84,
  "branches": [
   {
    "id": "platforms",
@@ -1301,6 +1301,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 80
+    },
+    {
+     "t": "vidIQ's 30 day subscriber growth list to 14 Nov 2026 is led by Sasha Show (+8.8M) and Brazilian, Spanish speaking and Indian family creators; the kids brands near the top are Pokemon Kids TV (#18, +1.7M) and El Tren Nam Nam (#20, +1.6M), with VocaVoca (#42) the first pure kids song channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 84
+    },
+    {
+     "t": "Kids Funny Songs (US, 7.78M subs, since 2021) saw its counted total views fall from about 6.91B to 5.36B in early November 2026 through large negative daily corrections, a warning that big song libraries can lose views at once after removals or audits.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 84
+    },
+    {
+     "t": "Kids Funny Songs' newest upload 'Who's in the Egg?' (11 Nov) drew about 55K views in a day and a half, the same egg reveal question hook that Hogi and ChuChu TV use, which keeps proving itself across channels this month.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 84
+    },
+    {
+     "t": "A year earlier (week of 23 Nov 2025) the kids and family channels in Tubefilter's top 50 were Cadel and Mia (#2, 1.04B weekly), Diary of 4, KIDZOKI, Toys and Colors, Kidshire and Kids Land, with 41 of the 50 mainly Shorts channels, so holiday season kids reach is Shorts led every year.",
+     "src": "Tubefilter, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 84
     }
    ]
   },
@@ -3186,10 +3214,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 15:51",
-   "note": "Run 5 (music craft): New infant music studies: 12 month olds move to real songs but not in time, higher pitch draws more brain response and movement, rhythm is innate while melody is learned; babies like young voices and sing song speech; Pinkfong Bebefinn formula of short looping songs. Total 87."
-  },
-  {
    "date": "2026-11-15 15:52",
    "note": "Run 6 (visual craft): Thumbnails and titles for kids: YouTube Test and Compare is blocked for made for kids videos; thumbnail formula of one happy face, one action, one item; titles with a story hook plus an age keyword; risky word clusters; playlists as main discovery; short clips only grow distinctive characters. Total 95."
   },
@@ -3500,6 +3524,10 @@
   {
    "date": "2026-11-15 18:49",
    "note": "Run 83 (our own results (channel totals 1 to 14 Nov, posting check)): YouTube grew from 2,130 to 2,150 subscribers between 1 and 14 Nov with 450 to 750 daily views, peaking at 1,386 on 10 Nov and 1,296 on 12 Nov around the Diwali songs; shares were almost zero (2 in two weeks). Uploads for 15 and 16 Nov are publishing on time, but captions still carry 7 to 10 hashtags. Total 442."
+  },
+  {
+   "date": "2026-11-15 18:50",
+   "note": "Run 84 (YouTube charts and movers (vidIQ 30 day growth)): vidIQ's fastest growing list to 14 Nov is led by Sasha Show (+8.8M) and Brazilian and Spanish family creators; Pokemon Kids TV (+1.7M) and El Tren Nam Nam (+1.6M) are the kids brands in the top 20 and no pure song channel is in the top 40. Kids Funny Songs lost about 1.5B counted views in early November, and its newest upload is another egg reveal. Total 446."
   }
  ],
  "history": [
@@ -3834,6 +3862,10 @@
   {
    "date": "2026-11-15 18:49",
    "total": 442
+  },
+  {
+   "date": "2026-11-15 18:50",
+   "total": 446
   }
  ],
  "next_week_ideas": [
