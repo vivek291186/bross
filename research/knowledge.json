@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:41:59+05:30",
- "runs": 278,
+ "updated": "2026-11-16T02:42:52+05:30",
+ "runs": 279,
  "branches": [
   {
    "id": "platforms",
@@ -1077,6 +1077,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 273
+    },
+    {
+     "t": "Instagram now shows each Reel with 100+ plays a second by second retention curve and a skip rate (viewers who swipe away before 3 seconds), filling in about 48 hours; one analysis of about 200 Reels rates skip under 20% and 3 second retention above 70% as strong, and skip above 40% as poor.",
+     "src": "CreatorStack, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 279
+    },
+    {
+     "t": "Socialinsider's study of about 25M brand Reels (2025 data, updated Nov 2026) finds Reels gather most views in the first 5 days, slow from day 5 to 10, fall sharply after day 10 and plateau around day 20, so judge a Reel after about a week and repost or remix winners later.",
+     "src": "Socialinsider, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 279
     }
    ]
   },
@@ -2071,6 +2085,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 278
+    },
+    {
+     "t": "No Instagram Reels ranking change was confirmed between August and mid November 2026; the order remains watch time and completion first, then sends per reach, then likes per reach, so our Reels should keep optimising for full watches and shares between parents.",
+     "src": "SocialPilot, Sep to Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 279
     }
    ]
   },
@@ -4759,6 +4780,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 273
+    },
+    {
+     "t": "Reading a Reel's retention curve: a cliff at the start means a weak hook, a steady slide means too little visual change (add a cut, text or sound change every 5 to 8 seconds), a mid drop marks one slow moment, and an upward bump marks a moment viewers replay, which tells us which dance move or joke to reuse.",
+     "src": "CreatorStack, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 279
     }
    ]
   },
@@ -8503,11 +8531,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 199): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:38",
-   "note": "Run 200 (global markets (AI dubs vs pro dubs retention, judging a new language track)): AIR's dubbing data: on kids channels AI only audio tracks held viewers 4 to 10 times less than pro dubs (an Italian kids channel 5 to 6 min vs 54 s), while good pro dubs can beat the original; on one kids channel Arabic brought the most dubbed views but German had the most loyal viewers. A new language track should be judged by its share of returning viewers, not raw views, and only after 90 days. Total 874."
+   "note": "Earlier runs summarised (up to Run 200): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:39",
@@ -8820,6 +8844,10 @@
   {
    "date": "2026-11-16 02:41",
    "note": "Run 278 (YouTube algorithm (Ask YouTube age gate, repeat recommendation limits, Subs tab move)): Ask YouTube, the conversational AI search, is limited to signed in US users aged 13+ and excludes supervised accounts and signed out viewers, so kids find songs through classic search and Home. YouTube's discovery lead says the same upload can be shown to one viewer many times without a click (one was recommended 19 times), and the 22 Oct US app redesign moved Subscriptions into a top bar 'Subs' tab with custom feeds limited to signed in English US users. Total 1201."
+  },
+  {
+   "date": "2026-11-16 02:42",
+   "note": "Run 279 (Shorts and Reels (Reels retention curves and skip rate benchmarks, how fast Reels collect views)): No Reels ranking change has been confirmed since August 2026 (SocialPilot). New this round: Instagram's per Reel retention curve and 3 second skip rate panels (Reels with 100+ plays, about 48 hours to fill) with one analyst's benchmarks of under 20% skip and 70%+ three second retention as strong, plus Socialinsider's Nov 2026 update showing most Reel views come in the first 5 days and plateau around day 20. Total 1205."
   }
  ],
  "history": [
@@ -9934,6 +9962,10 @@
   {
    "date": "2026-11-16 02:41",
    "total": 1201
+  },
+  {
+   "date": "2026-11-16 02:42",
+   "total": 1205
   }
  ],
  "next_week_ideas": [
