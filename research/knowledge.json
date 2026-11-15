@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:57:03+05:30",
- "runs": 12,
+ "updated": "2026-11-15T15:58:00+05:30",
+ "runs": 13,
  "branches": [
   {
    "id": "platforms",
@@ -251,6 +251,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 10
+    },
+    {
+     "t": "YouTube keeps autoplay off by default and Take a Break and Bedtime reminders on for signed in under 18s, so continuation to our next video cannot be assumed; long compilations and playlists inside one session matter more.",
+     "src": "YouTube blog, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 13
     }
    ]
   },
@@ -370,6 +377,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 9
+    },
+    {
+     "t": "VocaVoca (US, kids songs, mostly Shorts) hit #23 in Tubefilter's worldwide top 50 with about 527M weekly views; its monthly views rose from about 0.5B in May to 2.9B in Oct 2026 with 1.56M new subscribers that month.",
+     "src": "Tubefilter / vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 13
+    },
+    {
+     "t": "VocaVoca's biggest songs teach healthy habits and safety: going to the dentist (164M), caring for a baby, police officer job song, stranger safety, and a buckle up song in the 'no no, I don't want to' refusal format, plus new good manners cartoons.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 13
+    },
+    {
+     "t": "In the 8 Nov 2026 Tubefilter top 50, Indian family channels rode Diwali: Baccha Mat Bolna (#28, 415M weekly views) mixes festival vlogs with childhood games like 'the floor is lava', and Paintellectual PriyA (#40) teaches young viewers to draw festive lamps.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 13
     }
    ]
   },
@@ -769,6 +797,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 7
+    },
+    {
+     "t": "Safety and habit songs parents search for (seatbelt, dentist visit, road crossing, manners) are among the fastest growing kids topics on Shorts in 2026.",
+     "src": "vidIQ / Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 13
     }
    ]
   },
@@ -1028,7 +1063,7 @@
   "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist and a learning tag in the title.",
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele).",
   "Calm camera (cuts 3-6 s), bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
-  "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description.",
+  "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; at least one song a week should be a healthy habit or safety song parents search for (dentist, seatbelt, crossing the road, manners).",
   "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak or a direct action call (wave, jump, race), never on slow setup; make each Short a new cut with its own hook and loop back to the start.",
   "Thumbnails: one happy face, one clear action, one recognisable object, big eyes, max 3 words, bright plain background; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Weekly long form: one 10 to 20 minute compilation (5 or 6 songs, best performer first) every Friday, the strongest kids upload day; keep a 24/7 live stream of all songs running and point stream playlists back to new uploads.",
@@ -1086,6 +1121,10 @@
   {
    "date": "2026-11-15 15:57",
    "note": "Run 12 (our own results): First real Metricool read for 1 to 15 Nov: about 2,140 YouTube subs and 450 to 1,400 daily views; story problem songs and Diwali songs led; average view duration only about 15 to 25 s; YouTube Shorts nearly unseen while Reels get 50 to 125 views; Reels lose 58 to 90% of viewers in the first 3 s. Total 136."
+  },
+  {
+   "date": "2026-11-15 15:58",
+   "note": "Run 13 (YouTube main and Kids charts): Tubefilter weekly top 50: VocaVoca, a US Shorts led kids song channel built on healthy habits and safety songs, jumped from about 0.5B monthly views in May to 2.9B in Oct 2026; Indian family channels rode Diwali; YouTube keeps autoplay off and break reminders on by default for under 18s. Total 141."
   }
  ],
  "history": [
@@ -1136,6 +1175,10 @@
   {
    "date": "2026-11-15 15:57",
    "total": 136
+  },
+  {
+   "date": "2026-11-15 15:58",
+   "total": 141
   }
  ],
  "next_week_ideas": [
@@ -1176,8 +1219,8 @@
    "why": "Feelings song (happy, sad, angry, calm) with faces and actions; social-emotional learning is what YouTube quality principles reward."
   },
   {
-   "title": "Fruit Salad Shake",
-   "why": "Food + colours + dance; food content travels across markets and is easy to dub."
+   "title": "Click Click Seatbelt Song",
+   "why": "Safety and habit songs drive the fastest growing kids Shorts channel of 2026; a car trip story where the Bro Bros buckle up before every adventure."
   },
   {
    "title": "Choo Choo Train Ride",
