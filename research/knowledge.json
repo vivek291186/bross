@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:54:57+05:30",
- "runs": 324,
+ "updated": "2026-11-16T04:56:07+05:30",
+ "runs": 325,
  "branches": [
   {
    "id": "platforms",
@@ -5963,6 +5963,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 280
+    },
+    {
+     "t": "Four of Argos's top 20 Christmas toys for 2026 are music toys (a retro record player playset, a light up guitar, a karaoke projector and singing dolls), so a Christmas morning song where the Bros unwrap toy instruments and form a family band hits what kids will be playing with on 25 Dec.",
+     "src": "Retail Times (Argos), Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 325
+    },
+    {
+     "t": "Argos's list also features a hatching shark egg, an interactive dragon pet and a plush monster designed for talking about emotions, which backs surprise egg reveals and a gentle 'my feelings monster' song in December.",
+     "src": "Retail Times (Argos), Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 325
+    },
+    {
+     "t": "Which?'s 2026 toy trends (14 Oct) include football toys boosted by this year's World Cup and deliberately quirky 'ugly cute' plush, so a goofy plush friend character and football play still pull, while its licensed character trends are off limits for us.",
+     "src": "Which?, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 325
     }
    ]
   },
@@ -9563,10 +9584,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:43",
-   "note": "Run 246 (visual craft (2026 style directions, thumbnail colour data, character clips)): Licensing Magazine's 2026 style trends point to Korean inspired big eyed, emotion led characters, iridescent space looks and miniature handmade worlds; Eden's 2,960 thumbnail sample found brightness, saturation, contrast and warm colour share almost identical between breakouts and flops, so the idea and short text matter more than turning colours up. Total 1082."
-  },
-  {
    "date": "2026-11-16 01:44",
    "note": "Run 247 (TRENDS (November roundups, transform format, holiday film calendar)): Early November roundups add 'X days until Christmas' cosy countdown captions and a muffled 'reasons why you don't need to' joke, while the wholesome 'Today I'm gonna turn into a cute little X' transform (Aug 2026, a bird version passed 10M views) has faded but suits animation. Family film dates to frame topics without copying: a Seuss hat film (6 Nov) and a Santa comedy (2 Dec). Total 1087."
   },
@@ -9877,13 +9894,13 @@
   {
    "date": "2026-11-16 04:54",
    "note": "Run 324 (TRENDS (Roblox's rising kid games: feeding animals, cleaning the moon, bug evolution, cat sumo)): Roblox's week to 1 Nov shows the gentle, silly loops kids pick up: 'Throw Food For Animals' rose 738% to about 59K concurrent players, 'Clean the Moon!' 1,323%, 'Bug Evolution' 1,779%, while 'Steal a Brainrot' fell 70%. Cat sumo battles and bike collecting joined the fastest growing new games. A feed the animals format joined the trend bank and a moon cleaning song joined the ideas. Total 1352."
+  },
+  {
+   "date": "2026-11-16 04:56",
+   "note": "Run 325 (topics and seasons (Christmas 2026 toy lists: music toys, hatching eggs, feelings plush, football)): Argos's top 20 Christmas toys put music front and centre (a retro record player, a light up guitar, a karaoke projector, singing dolls) beside a hatching shark egg, a dragon pet and a plush monster for talking about feelings; Which? adds football toys riding the 2026 World Cup and quirky 'ugly cute' plush. All point to Christmas morning songs about making music, hatching surprises and naming feelings. Total 1355."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 16:39",
-   "total": 201
-  },
   {
    "date": "2026-11-15 16:45",
    "total": 207
@@ -11079,6 +11096,10 @@
   {
    "date": "2026-11-16 04:54",
    "total": 1352
+  },
+  {
+   "date": "2026-11-16 04:56",
+   "total": 1355
   }
  ],
  "next_week_ideas": [
