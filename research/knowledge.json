@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:09:16+05:30",
- "runs": 110,
+ "updated": "2026-11-15T19:09:51+05:30",
+ "runs": 111,
  "branches": [
   {
    "id": "platforms",
@@ -580,6 +580,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 110
+    },
+    {
+     "t": "Across daily Netflix kids top 10s worldwide in 2025 (FlixPatrol points) the leading series were Peppa Pig, Gabby's Dollhouse, Masha and the Bear and PAW Patrol, and the leading film was KPop Demon Hunters, ahead of Despicable Me 3.",
+     "src": "What's on Netflix, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 111
+    },
+    {
+     "t": "YouTube born kids brands filled much of Netflix's 2025 kids series top 50 worldwide: Ms Rachel (No. 5), CoComelon (No. 8), Bebefinn (No. 9), Learning and Fun with Jose Comelon (Spanish CoComelon, No. 26), Baby Shark Hospital Play (No. 39) and Lottie Dottie Chicken (No. 46), so a strong YouTube song catalogue can later be licensed to Netflix.",
+     "src": "What's on Netflix, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 111
+    },
+    {
+     "t": "Masha and the Bear (Russia) at No. 3 and Bebefinn (Korea) at No. 9 show non US 3D kids brands with little dialogue and lots of music and slapstick travel across Netflix's whole world audience.",
+     "src": "What's on Netflix, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 111
     }
    ]
   },
@@ -3802,10 +3823,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 16:49",
-   "note": "Run 32 (global markets): Brazil: an Oct 2026 Inflr ranking puts animated music brand Mundo Bita third (14.5M subs, 22.9B views) ahead of far bigger creators, with Turma da Monica also top 5; seven of the top nine have licensed products; Brazilian kids pop (MC Divertida 8.6B plays, Kysha e Mine 1.2B views in a year) grows across YouTube and TikTok. Total 231."
-  },
-  {
    "date": "2026-11-15 16:54",
    "note": "Run 33 (competitor deep dive (Super Simple Songs, Little Angel)): Super Simple Songs (47.3M) grew monthly views from about 490M to 590M during 2026 on its back catalogue while adding only 100 to 200K subs a month; its newest upload is a wash your hands and face routine song (about 900K in 9 days). A Little Angel channel posting daily in Oct 2026 got 7K to 30K per video, except a Brush Your Teeth song at 96K. Total 235."
   },
@@ -4116,6 +4133,10 @@
   {
    "date": "2026-11-15 19:09",
    "note": "Run 110 (Shorts and Reels (Shorts metrics in Studio)): For Shorts, Studio's 'how many chose to view' (viewed vs swiped away) mostly reflects the first two seconds, with community benchmarks of 70 to 79% working and 80% plus strong; 'shown in feed' shows whether YouTube is distributing at all, and engaged views (not raw views) decide Partner Program eligibility and Shorts revenue. Our Shorts feed gave only 37 views in two weeks, a distribution problem first. Total 530."
+  },
+  {
+   "date": "2026-11-15 19:09",
+   "note": "Run 111 (other platforms (Netflix kids top 10s worldwide, 2025)): FlixPatrol based ranking of Netflix kids top 10s worldwide in 2025: series led by Peppa Pig, Gabby's Dollhouse, Masha and the Bear and PAW Patrol, films by KPop Demon Hunters; YouTube born titles in the top 50 include Ms Rachel (No. 5), CoComelon (No. 8), Bebefinn (No. 9), Jose Comelon (Spanish CoComelon), Baby Shark Hospital Play and Lottie Dottie Chicken. Total 533."
   }
  ],
  "history": [
@@ -4558,6 +4579,10 @@
   {
    "date": "2026-11-15 19:09",
    "total": 530
+  },
+  {
+   "date": "2026-11-15 19:09",
+   "total": 533
   }
  ],
  "next_week_ideas": [
