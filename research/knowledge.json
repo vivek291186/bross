@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:03:17+05:30",
- "runs": 268,
+ "updated": "2026-11-16T02:03:54+05:30",
+ "runs": 269,
  "branches": [
   {
    "id": "platforms",
@@ -1994,6 +1994,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 254
+    },
+    {
+     "t": "In AIR's study of 31,852 long videos (2025 uploads, 301 channels), Kids and Teens was the most timing sensitive niche: Friday uploads had the best median views (about 36K) and Wednesday the worst, a 379% gap, with the strongest hour at 16:00 UTC and a second peak at 23:00 UTC.",
+     "src": "AIR Media-Tech, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 269
+    },
+    {
+     "t": "16:00 UTC is 21:30 IST, while Bro Bros posts at 10:00 IST (04:30 UTC) and 16:00 IST (10:30 UTC), times that suit India and Europe but fall before most American families wake, so testing the weekly long compilation at about 21:30 IST on Fridays is worth one experiment.",
+     "src": "AIR Media-Tech, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 269
+    },
+    {
+     "t": "The same study found 10 to 20 minutes the ideal length band for kids and teens long form and weekdays about 8% better than weekends, while music single tracks of 3 to 10 minutes held about 50% retention.",
+     "src": "AIR Media-Tech, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 269
+    },
+    {
+     "t": "Metricool's 2026 study found 83% of a video's interactions arrive in its first 10 days and only 11% of channels under 10K subscribers moved up a size tier in a year, so early packaging matters and growth for a new kids channel is normally gradual.",
+     "src": "Metricool, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 269
     }
    ]
   },
@@ -8216,11 +8244,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 189): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:48",
-   "note": "Run 190 (TRENDS (holiday 2026 toy and character trends to borrow as formats)): Holiday 2026 toy lists are led by K-Pop Demon Hunters dolls and plush, Toy Story 5, Pokemon's 30th, World Cup football toys, blind box mystery figures, hatching dinosaurs and electronic pets that grow. We cannot use those characters, so two original formats joined the trend bank (mystery box reveal, hatching egg) and the two faded Halloween formats were dropped. Total 834."
+   "note": "Earlier runs summarised (up to Run 190): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:49",
@@ -8533,6 +8557,10 @@
   {
    "date": "2026-11-16 02:03",
    "note": "Run 268 (TRENDS (year end recap season: YouTube Recap and Wrapped timing)): YouTube launched its own personalised Recap on 2 Dec 2025 (up to 12 cards: top channels, interests, a viewer personality type and a 'top 10% of viewers' badge for a favourite channel), so early December 2026 should bring Recap and Spotify Wrapped (still expected Wed 2 Dec, unconfirmed on 4 Nov) at the same time; parents who share cards are free word of mouth. Total 1160."
+  },
+  {
+   "date": "2026-11-16 02:03",
+   "note": "Run 269 (algorithm experiments and data (upload timing for kids long form, slow growth tiers)): AIR's July 2026 study of 31,852 long videos found kids and teens videos are the most timing sensitive niche (+379% median views best day versus worst), with Friday best, Wednesday worst and the strongest hour 16:00 UTC (21:30 IST), mostly reflecting US viewers. Our 10 AM and 4 PM IST slots land at 04:30 and 10:30 UTC, early for the Americas. Metricool adds that 83% of interactions arrive in a video's first 10 days. Total 1164."
   }
  ],
  "history": [
@@ -9607,6 +9635,10 @@
   {
    "date": "2026-11-16 02:03",
    "total": 1160
+  },
+  {
+   "date": "2026-11-16 02:03",
+   "total": 1164
   }
  ],
  "next_week_ideas": [
