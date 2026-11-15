@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:10:14+05:30",
- "runs": 61,
+ "updated": "2026-11-15T17:15:37+05:30",
+ "runs": 62,
  "branches": [
   {
    "id": "platforms",
@@ -349,6 +349,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 52
+    },
+    {
+     "t": "US kids aged 2 to 5 who use YouTube watch cartoons (62%), toys and games (49%), educational videos (43%), nursery rhymes (41%) and comedy (35%), so a funny cartoon song with a learning point covers four of their top five interests.",
+     "src": "Precisify via Advanced Television, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 62
+    },
+    {
+     "t": "For US kids 6 to 9, cartoons (47%), comedy (45%), toys and games (45%) and music (41%) lead, and for 10 to 12 comedy (53%) and music (47%), so humour grows in importance with age and our dance songs should be funny to reach older siblings.",
+     "src": "Precisify via Advanced Television, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 62
+    },
+    {
+     "t": "More than half of US kids watch YouTube on a TV screen and nearly half second screen (YouTube or mobile games while TV is on), confirming TV first viewing for kids songs.",
+     "src": "Precisify via Advanced Television, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 62
+    },
+    {
+     "t": "62% of US parents sometimes watch YouTube with their young child versus only 17% for TikTok (Common Sense 2025 census), so YouTube songs must please parents too; 40% of children have their own tablet by age 2.",
+     "src": "Common Sense Media, Feb 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 62
     }
    ]
   },
@@ -2759,6 +2787,10 @@
   {
    "date": "2026-11-15 17:10",
    "note": "Run 61 (YouTube main and Kids charts (VocaVoca)): VocaVoca (11M subs) grew monthly views about eightfold in 2026, from about 370M in January to 2.91B in October, without new viral long videos: its all time leaders are still 2021 to 2022 habit and safety songs, and growth came from Shorts of the same routines (oral care Short in Oct). Total 347."
+  },
+  {
+   "date": "2026-11-15 17:15",
+   "note": "Run 62 (YouTube algorithm and audience (who watches what)): Precisify's 2026 US kids panel: what each age watches on YouTube. Ages 2 to 5: cartoons 62%, toys and games 49%, educational 43%, nursery rhymes 41%, comedy 35%; 6 to 9: cartoons 47%, comedy 45%, toys 45%, music 41%; 10 to 12: comedy 53%, music 47%, gaming 43%. Over half watch YouTube on a TV. Common Sense: 62% of parents sometimes co watch YouTube with their child, against 17% for TikTok. Total 351."
   }
  ],
  "history": [
@@ -3005,6 +3037,10 @@
   {
    "date": "2026-11-15 17:10",
    "total": 347
+  },
+  {
+   "date": "2026-11-15 17:15",
+   "total": 351
   }
  ],
  "next_week_ideas": [
