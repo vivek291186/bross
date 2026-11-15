@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:48:42+05:30",
- "runs": 31,
+ "updated": "2026-11-15T16:49:17+05:30",
+ "runs": 32,
  "branches": [
   {
    "id": "platforms",
@@ -1392,6 +1392,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 20
+    },
+    {
+     "t": "In Inflr's Oct 2026 ranking of Brazilian channels that engage kids, the animated music brand Mundo Bita ranks 3rd (14.5M subs, 22.9B views) above creators with 50M subs, and Turma da Monica is 5th, so animated song brands compete equally with star creators in Brazil.",
+     "src": "Meio e Mensagem, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 32
+    },
+    {
+     "t": "Seven of Brazil's top nine kids channels sell licensed products (toys, books, school supplies), and six of the top 30 build on Minecraft or Roblox; Brazilian kids reward recurring characters they can buy and play with.",
+     "src": "Meio e Mensagem, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 32
+    },
+    {
+     "t": "Brazilian kids pop is booming: MC Divertida has 8.6B plays and 18M subs with a strong preschool audience, and the duo Kysha e Mine passed 1.2B YouTube views and 130M TikTok likes in about a year; upbeat pop sung by kids works in Portuguese.",
+     "src": "Billboard Brasil, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 32
+    },
+    {
+     "t": "Brazil's leading kids music producers have lyrics and scripts checked by teams that include psychologists and keep a general audience rating, which they say builds trust with parents and teachers.",
+     "src": "Billboard Brasil, Oct 2025",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 32
     }
    ]
   },
@@ -1799,6 +1827,10 @@
   {
    "date": "2026-11-15 16:48",
    "note": "Run 31 (topics and seasons): Next dates: UN World Children's Day on 20 Nov; Christmas 2026 is a Friday, so our Friday compilation lands on Christmas Day; fun December hooks are Ugly Christmas Sweater Day (18 Dec), Wright Brothers Day (17 Dec, planes), International Mountain Day (11 Dec) and Cut Out Snowflakes Day (27 Dec). Total 227."
+  },
+  {
+   "date": "2026-11-15 16:49",
+   "note": "Run 32 (global markets): Brazil: an Oct 2026 Inflr ranking puts animated music brand Mundo Bita third (14.5M subs, 22.9B views) ahead of far bigger creators, with Turma da Monica also top 5; seven of the top nine have licensed products; Brazilian kids pop (MC Divertida 8.6B plays, Kysha e Mine 1.2B views in a year) grows across YouTube and TikTok. Total 231."
   }
  ],
  "history": [
@@ -1925,6 +1957,10 @@
   {
    "date": "2026-11-15 16:48",
    "total": 227
+  },
+  {
+   "date": "2026-11-15 16:49",
+   "total": 231
   }
  ],
  "next_week_ideas": [
