@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:50+05:30",
- "runs": 171,
+ "updated": "2026-11-15T21:39:30+05:30",
+ "runs": 172,
  "branches": [
   {
    "id": "platforms",
@@ -804,6 +804,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 170
+    },
+    {
+     "t": "Tonies' CEO says children use its audio players almost 40 minutes a day, and the company has sold close to 12M players and 150M figures in 10 years (2025 revenue 630M EUR, Q1 2026 up 29%), driven by parents limiting screens, so our songs should also work as audio only tracks with clear sung instructions.",
+     "src": "thestar.com.my, May 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 172
+    },
+    {
+     "t": "One of TikTok's top sounds in October 2026 drove a 'Find the Beat' challenge, a partner dance test on a slowed Jersey club beat, showing that two person timing games travel well; a gentle kids version where the brothers take turns finding the beat fits our format.",
+     "src": "buffer.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 172
+    },
+    {
+     "t": "Buffer noted TikTok's Creative Center trending audio lists were temporarily unavailable in October 2026, so weekly TikTok sound tracking now relies on third party roundups and should be treated as medium confidence.",
+     "src": "buffer.com, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 172
     }
    ]
   },
@@ -5409,15 +5430,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 28 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:56",
-   "note": "Run 92 (competitor deep dive (CoComelon and Pinkfong moves)): CoComelon: The Movie (Universal with DreamWorks) opens in US cinemas on 19 Feb 2027 with JJ starting kindergarten and new songs. Pinkfong closed Baby Shark's tenth year with a Peppa Pig dance remix crossover, audio on streaming first (26 Dec) and the video three days later, and is turning the original Baby Shark boy into a K pop singer. Total 473."
-  },
-  {
-   "date": "2026-11-15 18:57",
-   "note": "Run 93 (algorithm experiments and data (fewer long uploads, upload timing)): A 5.68M kids channel cut long uploads 35% (82 to 53), reworked thumbnails for kids policies and pushed Shorts and holiday posting in Q4 2025: views +76%, revenue +153%, Suggested +84%, Shorts feed +348%. AIR's kids timing guide: post 2 to 3 hours before the audience's peak, compilations for mid morning or early evening TV time, series in a fixed weekly slot, and test weekend 8 to 11 AM Eastern without data. Total 476."
+   "note": "Earlier runs summarised: 30 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:58",
@@ -5730,6 +5743,10 @@
   {
    "date": "2026-11-15 21:50",
    "note": "Run 171 (NEW: trends and challenges): new Trends branch with 10 learnings (Reels formats Oct/Nov, TikTok reveals, sway baby dance, seasonal dances) and a trend bank of 10 kid-safe ideas for our videos. Total 759."
+  },
+  {
+   "date": "2026-11-15 21:39",
+   "note": "Run 172 (other platforms (screen free audio use, TikTok partner dance games)): Netflix and Tonies data were mostly in the tree already. New: Tonies says kids use its players almost 40 minutes a day and it has sold about 12M players and 150M figures in 10 years, so audio only versions of our songs have a real home; TikTok's October Find the Beat challenge is a partner dance test that suits two brothers. Total 762."
   }
  ],
  "history": [
@@ -6416,6 +6433,10 @@
   {
    "date": "2026-11-15 21:50",
    "total": 759
+  },
+  {
+   "date": "2026-11-15 21:39",
+   "total": 762
   }
  ],
  "next_week_ideas": [
@@ -6448,8 +6469,8 @@
    "why": "World Children's Day (20 Nov, theme 'My Day. My Rights. My Future.') and the many national children's days give a yearly hook; a blue themed call and response song where each friend says what they love works in every culture."
   },
   {
-   "title": "Guess Our Costume, Bro!",
-   "why": "Guess the costume sing alongs (Pinkfong x Dr Seuss, Oct 2026) make kids answer the screen; the brothers hide behind a curtain and reveal a winter costume each chorus, reusable for any season."
+   "title": "Find the Beat Brothers",
+   "why": "Partner timing games like TikTok's Find the Beat travel worldwide; the brothers take turns clapping, stomping and freezing on the beat, an easy copy along with a clear call and response hook."
   },
   {
    "title": "Good Morning, Sunshine Bros!",
