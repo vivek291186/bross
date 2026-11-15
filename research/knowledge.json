@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:38:09+05:30",
- "runs": 200,
+ "updated": "2026-11-15T23:39:14+05:30",
+ "runs": 201,
  "branches": [
   {
    "id": "platforms",
@@ -2568,6 +2568,48 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 198
+    },
+    {
+     "t": "Lalafun's top recent breakout 'Catch the Black Sheep! Baa Baa Song' reached 33M views in about two months, 30 times its median, and its other hits follow the same title shape: an urgent mission for the baby ('Baby Helps the Itsy Bitsy Spider', 'Paramedic Cures the Boo Boos'), then a well known rhyme anchor, one or two emojis and the channel tag.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 201
+    },
+    {
+     "t": "Lalafun has only 77 videos but 158M views, uploads about three long videos a week averaging nearly 18 minutes with no Shorts, and its estimated audience is the US 44%, UK 17%, Brazil 17%, Turkey 11% and Poland 11%.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 201
+    },
+    {
+     "t": "Super Simple Songs' best recent upload is a remake of its own 'The Animals On The Farm' (38M views, 5.7 times median), and it now publishes 'High Contrast Kids Video' versions of songs (Fruit Is Yummy, 11M), so remaking our own proven hits and making high contrast baby editions are both proven moves.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 201
+    },
+    {
+     "t": "Super Simple Songs still uploads only about once a week, recent uploads average about 30 minutes, long form gives 96% of its views, and its estimated audience is the US 53%, UK 18%, Canada 12%, Japan 12% and Vietnam 6%, showing English songs travel to ESL markets in Asia.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 201
+    },
+    {
+     "t": "Kids Diana Show's recent breakouts are scale challenges ('10 vs 100 vs 1,000,000 House Decorating', 43M) and opposite pairs ('Ice Princess vs Fire Princess', 57M) plus story compilations, formats an animated channel can copy as '1 snowman vs 100 snowmen vs 1,000,000 snowmen' style songs.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 201
+    },
+    {
+     "t": "Big kids channels keep about 85 to 90% evergreen content and only 10 to 15% trend based (Lalafun and Kids Diana 90/10, Super Simple Songs 85/15), a useful split for planning our 14 songs a week: roughly 12 evergreen and 2 trend songs.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 201
     }
    ]
   },
@@ -6214,11 +6256,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 121): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:48",
-   "note": "Run 122 (other platforms (Netflix animated series 2026, Spotify Wrapped in Africa)): Netflix's most watched animated series of H1 2026 worldwide were Peppa Pig (81.8M views), then The Creature Cases, Masha and the Bear, CoComelon, Little Angel, Booba, Lottie Dottie Chicken, PAW Patrol and Bebefinn: six of the top nine began on YouTube. In Nigeria, Ghana, Kenya and South Africa, Spotify Wrapped 2025 was full of CoComelon, Pinkfong and Super Simple Songs, so English kids songs already travel across anglophone Africa. Total 578."
+   "note": "Earlier runs summarised (up to Run 122): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:49",
@@ -6531,6 +6569,10 @@
   {
    "date": "2026-11-15 23:38",
    "note": "Run 200 (global markets (AI dubs vs pro dubs retention, judging a new language track)): AIR's dubbing data: on kids channels AI only audio tracks held viewers 4 to 10 times less than pro dubs (an Italian kids channel 5 to 6 min vs 54 s), while good pro dubs can beat the original; on one kids channel Arabic brought the most dubbed views but German had the most loyal viewers. A new language track should be judged by its share of returning viewers, not raw views, and only after 90 days. Total 874."
+  },
+  {
+   "date": "2026-11-15 23:39",
+   "note": "Run 201 (competitor deep dive (Kids Diana Show, Lalafun, Super Simple Songs breakouts via OutlierKit)): OutlierKit snapshots (Sep 2026): Lalafun (481K subs) gets breakouts from 'urgent mission plus classic rhyme' titles (Catch the Black Sheep, 33M, 30x median); Super Simple Songs' top recent hit is a remake of its own Animals On The Farm (38M) and it now posts high contrast versions; Kids Diana Show's biggest new formats are scale challenges (10 vs 100 vs 1,000,000) and opposite pairs (Ice vs Fire). All about 85 to 90% evergreen, 10 to 15% trend. Total 880."
   }
  ],
  "history": [
@@ -7333,9 +7375,17 @@
   {
    "date": "2026-11-15 23:38",
    "total": 874
+  },
+  {
+   "date": "2026-11-15 23:39",
+   "total": 880
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "1 Snowman, 100 Snowmen, a Million Snowmen!",
+   "why": "Scale challenge titles (10 vs 100 vs 1,000,000) are Kids Diana Show's top new format; a counting song where the Bros build one snowman, then a hundred, then a whole snowy world of them teaches big numbers and fits December worldwide."
+  },
   {
    "title": "Sweep, Sweep, Hello New Year!",
    "why": "Families in Japan (osoji), Scotland (redding the house), China and Iran all clean the home to welcome a new year; a tidy up action song with sweeping, dusting and a big shiny reveal ending in a hand holding circle fits every culture's New Year and helps parents at home."
@@ -7387,10 +7437,6 @@
   {
    "title": "Everybody Can Dance!",
    "why": "3 Dec 2026 is International Day of Persons with Disabilities and kids TV still shows few disabled characters; the Bros and a new friend on wheels invent moves everyone can copy, sitting or standing."
-  },
-  {
-   "title": "Fruity Disco Night (baby sensory mix)",
-   "why": "Hey Bear's dancing fruit on black backgrounds earn about 35M views per video; a wordless 15 minute Bro Bros fruit dance mix in bright colours on dark reaches babies and travels to every language."
   }
  ],
  "trend_bank": [
