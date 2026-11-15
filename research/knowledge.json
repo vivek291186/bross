@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:45:16+05:30",
- "runs": 4,
+ "updated": "2026-11-15T15:51:21+05:30",
+ "runs": 5,
  "branches": [
   {
    "id": "platforms",
@@ -384,6 +384,55 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 3
+    },
+    {
+     "t": "Babies recognise music by 3 months, but only by 12 months do they move differently to real songs than to scrambled ones, mostly with the upper body, and none keep the beat; simple bounce and arm moves suit the youngest viewers.",
+     "src": "eLife study via Earth.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 5
+    },
+    {
+     "t": "Higher pitched music drew a stronger brain response at 6 months and slightly more movement at every age tested; bright high register sounds (bells, glockenspiel, xylophone, kid voices) grab babies.",
+     "src": "eLife study via Earth.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 5
+    },
+    {
+     "t": "Newborns already anticipate a steady beat while melody is learned slowly, so a strong clap or drum pattern is the first hook for the youngest; the melody hook comes second.",
+     "src": "HealthDay, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 5
+    },
+    {
+     "t": "A 16 country study of over 2,000 babies found they listen longer to sing song baby talk (slower, melodic, simple words) than to adult speech; spoken lines in songs should use that sing song delivery.",
+     "src": "UChicago Chatter Lab / ManyBabies, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 5
+    },
+    {
+     "t": "From about 10 months many babies prefer the voices of other young children, which backs a kid lead singer; but preferences vary by culture, so no single voice style is universal.",
+     "src": "UChicago Chatter Lab, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 5
+    },
+    {
+     "t": "Pinkfong's Bebefinn runs on near constant looping songs in short segments that parents use as a 'one more song' timer, with a sibling trio and supportive parents.",
+     "src": "Screenwise, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 5
+    },
+    {
+     "t": "Veteran kids songwriter Laurie Berkner builds audience participation and movement into the song itself and avoids talking down to kids; songs that let kids move when told to sit still are the ones they love.",
+     "src": "My Weekly Mixtape, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 5
     }
    ]
   },
@@ -633,7 +682,7 @@
   "A tiny story with one tempo change kids can act out (speed up, slow down, freeze), ending with a happy payoff.",
   "A child's voice as the lead singer; characters look into the camera and talk to the viewer.",
   "Family, animals, dogs, dinosaurs, vehicles, helpers and daily routines are the most-requested subjects.",
-  "Half-step key lift for the final chorus.",
+  "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele).",
   "Calm camera (cuts 3-6 s), bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description.",
   "Open every Short and Reel on the best hook moment in the first second; make Shorts loop back to the start.",
@@ -659,6 +708,10 @@
   {
    "date": "2026-11-15 15:45",
    "note": "Run 4 (other platforms): Netflix kids data: CoComelon fell out of the Netflix kids top 10 while creator shows (Ms. Rachel, Danny Go!, Sheriff Labrador) grew; movement songs travel; Spotify now lets parents hide kids music from their own taste profile; nonsense chants like Chicken Banana spread on TikTok and Reels. Total 80."
+  },
+  {
+   "date": "2026-11-15 15:51",
+   "note": "Run 5 (music craft): New infant music studies: 12 month olds move to real songs but not in time, higher pitch draws more brain response and movement, rhythm is innate while melody is learned; babies like young voices and sing song speech; Pinkfong Bebefinn formula of short looping songs. Total 87."
   }
  ],
  "history": [
@@ -677,6 +730,10 @@
   {
    "date": "2026-11-15 15:45",
    "total": 80
+  },
+  {
+   "date": "2026-11-15 15:51",
+   "total": 87
   }
  ],
  "next_week_ideas": [
