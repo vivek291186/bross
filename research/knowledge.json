@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:43:31+05:30",
- "runs": 118,
+ "updated": "2026-11-15T19:45:38+05:30",
+ "runs": 119,
  "branches": [
   {
    "id": "platforms",
@@ -608,6 +608,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 115
+    },
+    {
+     "t": "New York City's schools blocked student YouTube on school issued devices from 9 Sep 2026 (teachers can still share videos through Google Classroom), alongside caps of 30 minutes of screen time for grades 3 to 5 and no individual screens before grade 3; Los Angeles also bars student led YouTube.",
+     "src": "chalkbeat.org, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 119
     }
    ]
   },
@@ -1203,6 +1210,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 117
+    },
+    {
+     "t": "YouTube's Player for Education (Jul 2026) is an ad free embedded player with no sidebar, recommendations or comments; by default K to 12 students on school accounts and school Chromebooks can watch only videos a teacher assigns, and licensing fees go to creators, so in schools teachers, not the algorithm, choose which songs children see.",
+     "src": "air.io, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 119
     }
    ]
   },
@@ -1777,6 +1791,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 116
+    },
+    {
+     "t": "Because classroom viewing runs through teachers, songs that work for circle time (a clear learning point, a calm teacher friendly title, no ads style hype) can reach children through lesson plans; Super Simple Songs was built exactly this way by teachers.",
+     "src": "chalkbeat.org / blog.youtube, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 119
     }
    ]
   },
@@ -3737,6 +3758,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 118
+    },
+    {
+     "t": "In Jul 2026 YouTube brought supervised kid accounts to the Middle East, North Africa and Turkiye, with three content levels, a Shorts timer that can switch Shorts off and, for every under 18, no personalised ads and autoplay off by default, so Arabic and Turkish families now get the same controls as the US and Europe.",
+     "src": "air.io, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 119
     }
    ]
   },
@@ -4031,10 +4059,6 @@
   {
    "date": "2026-11-15 16:58",
    "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 16:58",
-   "note": "Run 40 (other platforms): Zootopia 2 drew 1.72B Disney+ minutes in one March 2026 week with 44% adult and 39% child viewers, the clearest sign that family co viewing animal comedies win; Disney Jr. holds the top 3 US preschool streaming spots (Bluey, Spidey, Mickey Mouse Clubhouse, still huge though off air since 2016). Total 262."
   },
   {
    "date": "2026-11-15 16:59",
@@ -4347,6 +4371,10 @@
   {
    "date": "2026-11-15 19:43",
    "note": "Run 118 (rules, safety and monetisation (Australia, EU minors rules, Shorts pay by country)): In Australia under 16s have been signed out of YouTube since 10 Dec 2025 (no subscriptions, playlists or likes) but can still watch signed out, and YouTube Kids is untouched. EU minors guidelines push platforms away from streaks and endless scroll and discourage buy now prompts aimed at kids. Shorts pay roughly ten times more per view in the US, UK and Australia than in India, Indonesia or the Philippines. Total 563."
+  },
+  {
+   "date": "2026-11-15 19:45",
+   "note": "Run 119 (our results checked (no new data since run 95, already noted today), then YouTube algorithm (classroom and supervised viewing)): Metricool still shows the same 1 to 11 Nov uploads, so no new results today. Switched to how schools reach kids: YouTube's Player for Education lets K to 12 school accounts watch only teacher assigned videos by default, NYC blocked student YouTube on school devices from 9 Sep 2026, and supervised kid accounts with a Shorts timer reached the Middle East, North Africa and Turkiye. Total 567."
   }
  ],
  "history": [
@@ -4821,6 +4849,10 @@
   {
    "date": "2026-11-15 19:43",
    "total": 563
+  },
+  {
+   "date": "2026-11-15 19:45",
+   "total": 567
   }
  ],
  "next_week_ideas": [
