@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:37:26+05:30",
- "runs": 199,
+ "updated": "2026-11-15T23:38:09+05:30",
+ "runs": 200,
  "branches": [
   {
    "id": "platforms",
@@ -4976,6 +4976,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 197
+    },
+    {
+     "t": "AIR's Sep 2026 data found AI only dubbed tracks held viewers 4 to 10 times less than pro dubbed tracks on the same videos, with the biggest gaps on kids channels (an Italian kids channel kept 5 to 6 minutes on pro tracks against 54 seconds on its English AI track).",
+     "src": "AIR, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 200
+    },
+    {
+     "t": "On kids channels the voice is part of the product, and an AI voice that sounds too adult, flat or emotionally off can hurt retention and even draw misleading content flags, so Bro Bros dubs should be sung by real or carefully cast child like voices, not YouTube's default auto dub.",
+     "src": "AIR, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 200
+    },
+    {
+     "t": "Good human dubs can match or beat the original: a kids channel with an Indonesian original (165M views) held 2:11 on its pro Spanish track against 2:00 on the original, and Turkish, Italian and German tracks stayed close.",
+     "src": "AIR, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 200
+    },
+    {
+     "t": "On one kids channel with the same videos dubbed three ways, Arabic brought the most views (3.4M) but German, with only 134K views, had the highest share of returning viewers (about 52%) and the longest watch time, so small markets can be the most loyal.",
+     "src": "AIR, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 200
+    },
+    {
+     "t": "AIR judges a new dubbed language by the share of its views that come from casual plus regular (returning) viewers: under 20% after four months is a problem, 20 to 40% is building, over 40% is working and over 60% is strong, and the first 90 days are too early to judge.",
+     "src": "AIR, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 200
     }
    ]
   },
@@ -5578,6 +5613,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 191
+    },
+    {
+     "t": "Content ID also scans multi language audio tracks, and YouTube skips auto dubbing on any video with a copyright claim, one more reason every Bro Bros track and dub uses only our own Suno music.",
+     "src": "AIR, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 200
     }
    ]
   },
@@ -6172,11 +6214,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 120): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:47",
-   "note": "Run 121 (YouTube algorithm (Ask YouTube and Gemini search)): Ask YouTube had over 140M users in June 2026 and its Gemini model matches a question to the exact moment in a video, with chapters the biggest help; speech, captions and on screen labels feed it too. Playbook: every compilation gets a chapter per song named in parents' search words. Total 574."
+   "note": "Earlier runs summarised (up to Run 121): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:48",
@@ -6489,6 +6527,10 @@
   {
    "date": "2026-11-15 23:37",
    "note": "Run 199 (TRENDS (early to mid November formats: always dancing, beat camera reveal, tiny message zoom)): Early November TikTok and Reels formats with kid safe twists: the 'always dancing' partner clip (we do a sibling version), feet to head camera reveals on the beat, tiny text zoom reveals and Christmas countdown overlays; the shoulder bounce team dance, missing from the bank despite the run 196 note, was put back at the top. Four older Reels formats (loading, battery, toggle, 5 stages) were dropped as faded. Total 868."
+  },
+  {
+   "date": "2026-11-15 23:38",
+   "note": "Run 200 (global markets (AI dubs vs pro dubs retention, judging a new language track)): AIR's dubbing data: on kids channels AI only audio tracks held viewers 4 to 10 times less than pro dubs (an Italian kids channel 5 to 6 min vs 54 s), while good pro dubs can beat the original; on one kids channel Arabic brought the most dubbed views but German had the most loyal viewers. A new language track should be judged by its share of returning viewers, not raw views, and only after 90 days. Total 874."
   }
  ],
  "history": [
@@ -7287,6 +7329,10 @@
   {
    "date": "2026-11-15 23:37",
    "total": 868
+  },
+  {
+   "date": "2026-11-15 23:38",
+   "total": 874
   }
  ],
  "next_week_ideas": [
