@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:05:55+05:30",
- "runs": 53,
+ "updated": "2026-11-15T17:06:25+05:30",
+ "runs": 54,
  "branches": [
   {
    "id": "platforms",
@@ -1518,6 +1518,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 42
+    },
+    {
+     "t": "Meshy Animate offers 500 to 600+ humanoid motion presets in five groups (Walk and Run, Daily Actions, Dancing, Fighting, Body Movements) plus paid Text to Motion for custom moves; rig from a T or A pose and export FBX with the default Mixamo skeleton for Blender.",
+     "src": "Meshy docs, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 54
+    },
+    {
+     "t": "Meshy gives four legged characters (like a dog friend) only a walk cycle and has no facial animation, so pet dances and facial expressions must be keyed by hand in Blender or retargeted from Mixamo.",
+     "src": "Meshy docs, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 54
+    },
+    {
+     "t": "A 2026 study of a stylised 3D educational short in Blender found Eevee toon shading with inverted hull outlines rendered over 10 times faster than Cycles with little loss in quality, and 116 viewers rated it highly (4.6 to 4.7 of 5).",
+     "src": "MSEUF research, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 54
+    },
+    {
+     "t": "Since Meshy dance presets are shared by many creators, mixing two presets, adding our own arm or hand accents and syncing hits to the beat keeps our dances original rather than stock.",
+     "src": "Meshy docs 2026 with YouTube originality rules",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 54
     }
    ]
   },
@@ -2517,6 +2545,10 @@
   {
    "date": "2026-11-15 17:05",
    "note": "Run 53 (music craft (production)): Master songs at about -14 LUFS integrated with -1 dBTP peaks for YouTube, Spotify and Instagram, since louder uploads are just turned down; a separate quieter mix is needed for TV or FAST delivery. Suno guidance: 'children's choir' prompts often give uncanny AI kid vocals, so ask for a bright youthful or warm adult lead; tag spoken lines separately; avoid dark or intense style words; keep songs under about 2:30. Total 317."
+  },
+  {
+   "date": "2026-11-15 17:06",
+   "note": "Run 54 (visual craft (our tools)): Meshy Animate has 500 to 600+ humanoid motion presets in five groups including Dancing, with Text to Motion for custom moves, best rigged from a T or A pose and exported as FBX with a Mixamo skeleton into Blender; four legged characters only get a walk. A 2026 study found Blender Eevee toon shading with outlines rendered over 10 times faster than Cycles with little quality loss and scored high with viewers. Total 321."
   }
  ],
  "history": [
@@ -2731,6 +2763,10 @@
   {
    "date": "2026-11-15 17:05",
    "total": 317
+  },
+  {
+   "date": "2026-11-15 17:06",
+   "total": 321
   }
  ],
  "next_week_ideas": [
