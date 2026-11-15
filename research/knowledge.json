@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:45:54+05:30",
- "runs": 79,
+ "updated": "2026-11-15T18:47:00+05:30",
+ "runs": 80,
  "branches": [
   {
    "id": "platforms",
@@ -1231,6 +1231,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 72
+    },
+    {
+     "t": "ChuChu TV's main English channel was at 98.2M subscribers and 61B views on 15 Nov 2026 with no subscriber change in 28 days; the brand's growth now comes from Netflix, regional language channels and spin off series rather than the flagship.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 80
+    },
+    {
+     "t": "ChuChu TV's 30 minute 'Classics: Rain Rain Go Away and many more' compilation has 109M views and still draws about 1,000 views an hour, while a new 19 minute animal songs compilation has about 244K: old compilations of proven songs keep compounding, new mixes start small.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 80
+    },
+    {
+     "t": "ChuChu TV now pushes story spin offs like ChuChu TV Police (toy squad cartoons teaching safety) with titles built as emoji, cartoon name, story hook and 'Funny Kids Cartoon'; a 4:45 Candy Robbery episode reached about 440K views, far below its song compilations.",
+     "src": "vidIQ and Apple TV, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 80
+    },
+    {
+     "t": "Kids Diana Show (138M YouTube subscribers) showed zero YouTube subscriber growth in CreatorDB's Oct 2026 snapshot despite about 5 uploads a week and 0.9% engagement, and its most viewed recent posts are Gulf travel and mall event promos: toy and role play family giants have plateaued.",
+     "src": "CreatorDB, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 80
     }
    ]
   },
@@ -3370,6 +3398,10 @@
   {
    "date": "2026-11-15 18:45",
    "note": "Run 79 (global markets (Gulf, Korea, bilingual Spanish)): Kaspersky's Saudi data has YouTube at about 38% of kids' Android app use with Baby Shark the most searched song and K pop the leading music; Baby Shark has been No. 1 in global YouTube views for 71 straight months; Blippi reaches Spanish speaking families with English Spanish remixes made with Mexico's Los Meniques de la Casa. Total 424."
+  },
+  {
+   "date": "2026-11-15 18:47",
+   "note": "Run 80 (competitor deep dive (ChuChu TV, Kids Diana Show)): ChuChu TV's main channel sits at 98.2M subscribers with no growth in 28 days, but a 30 minute classics compilation (109M views) still earns about 1,000 views an hour while new story cartoons and animal compilations get 0.2 to 0.4M. Kids Diana Show (138M) showed zero YouTube subscriber growth in Oct 2026 despite about 5 posts a week. Total 428."
   }
  ],
  "history": [
@@ -3688,6 +3720,10 @@
   {
    "date": "2026-11-15 18:45",
    "total": 424
+  },
+  {
+   "date": "2026-11-15 18:47",
+   "total": 428
   }
  ],
  "next_week_ideas": [
