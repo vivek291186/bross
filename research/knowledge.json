@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:56:23+05:30",
- "runs": 219,
+ "updated": "2026-11-15T23:57:05+05:30",
+ "runs": 220,
  "branches": [
   {
    "id": "platforms",
@@ -4717,6 +4717,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 211
+    },
+    {
+     "t": "Kid friendly New Year actions from around the world: eat 12 grapes on the 12 chimes (Spain), wear white and jump seven waves making wishes (Brazil), step in on the right foot and bang pots (US), wear polka dots and eat round fruit (Philippines), grab one of three potatoes from under the bed (Colombia), hunt the almond in rice pudding (Sweden).",
+     "src": "KiwiCo blog",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 220
+    },
+    {
+     "t": "A 'New Year Around the World' action song where each verse acts out one country's custom (twelve grape gulps, seven wave jumps, right foot step) gives kids in many markets a moment of 'that's us!' and works for both 31 Dec and 1 Jan uploads.",
+     "src": "KiwiCo blog (our idea)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 220
     }
    ]
   },
@@ -6782,6 +6796,20 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 217
+    },
+    {
+     "t": "Each New Year's Eve parents search YouTube and Netflix for kids countdown videos (from 10 second cartoon counts to 60 second ones) that they can start at any time as a 'fake midnight' before bedtime, and they favour ones with music, no mid video pop ups and an ending that is not scary.",
+     "src": "Cool Mom Tech, Dec 2023",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 220
+    },
+    {
+     "t": "Counting animations where the year's digits themselves say goodbye and hello (the old number waving off, the new one rolling in) are shared on New Year's morning for kids who fell asleep early, an easy Numberblocks style idea for 1 Jan 2027.",
+     "src": "Cool Mom Tech, Dec 2023",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 220
     }
    ]
   }
@@ -6809,11 +6837,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 140): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:12",
-   "note": "Run 141 (visual craft (children's colour attention)): An eye tracking study of 4 to 7 year olds (Frontiers in Psychology) found red and purple drew the most gaze, warm colours took 52 to 60% of attention, and attraction rose as colours got a little brighter and less saturated, then fell sharply when they became too washed out: bright but not neon colours win. Total 643."
+   "note": "Earlier runs summarised (up to Run 141): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:13",
@@ -7126,6 +7150,10 @@
   {
    "date": "2026-11-15 23:56",
    "note": "Run 219 (Shorts and Reels (how well Instagram Trial Reels actually work)): Trial Reels evidence is thin but consistent: Mosseri says trials almost always get less reach; Buffer's tests topped out near 180 views against 1,500 to 5,000 for normal Reels, while one Kapwing trial broke out to 1.4M views. So use trials only to compare two hooks of the same song against each other, judged on sends and watch time after 24 hours. Total 959."
+  },
+  {
+   "date": "2026-11-15 23:57",
+   "note": "Run 220 (TRENDS (New Year coming: early countdown videos for kids, world New Year actions)): Every 31 December families play 'fake midnight' countdown videos so little kids can celebrate before bedtime; parents want music, no mid video pop ups and a non scary ending. World New Year actions kids can copy (Spain's 12 grapes on the chimes, Brazil's seven wave jumps in white, US right foot first, Philippines polka dots and round fruit, Colombia's potato under the bed) make a perfect action song. The early countdown joined the trend bank and the faded baby dance left. Total 963."
   }
  ],
  "history": [
@@ -8004,9 +8032,17 @@
   {
    "date": "2026-11-15 23:56",
    "total": 959
+  },
+  {
+   "date": "2026-11-15 23:57",
+   "total": 963
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Jump, Jump, Happy New Year!",
+   "why": "Parents look for early 'fake midnight' countdowns every 31 Dec; a counting song from 10 to 1 with a jump on each number and world New Year actions (12 grapes, seven waves, right foot first) lets toddlers worldwide celebrate before bedtime."
+  },
   {
    "title": "Highland Cow Hoedown",
    "why": "The shaggy highland cow is tipped as the next trendy kids' animal after capybaras and axolotls; a fluffy original cow friend teaching a simple stomp, clap and spin barn dance with the Bros rides the trend early with our own character."
@@ -8058,10 +8094,6 @@
   {
    "title": "Uno, Dos, Tres, Jump With Me!",
    "why": "Bilingual Spanish English songs (123 Andres nearly doubled its monthly views to about 800M this autumn) reach US Latino families and Latin America at once; an original counting jump song that switches languages each chorus suits both."
-  },
-  {
-   "title": "Every Voice Counts!",
-   "why": "World Children's Day (20 Nov, theme 'My Day. My Rights. My Future.') and the many national children's days give a yearly hook; a blue themed call and response song where each friend says what they love works in every culture."
   }
  ],
  "trend_bank": [
@@ -8100,6 +8132,12 @@
    "where": "TikTok, Shorts (Christmas specials, Dec 2025, returning)",
    "status": "rising",
    "use": "A grid of pictures pops up one at a time (hat, cat, bat, mat) and the Bros say each word exactly on the beat of our own simple beat, getting faster each round; kids at home try to keep up. Perfect for winter and Christmas word sets and for English learners."
+  },
+  {
+   "name": "Early New Year countdown",
+   "where": "YouTube and Netflix every 31 Dec (families play 'fake midnight' countdowns so little kids can celebrate before bedtime)",
+   "status": "seasonal",
+   "use": "Post by 29 Dec a 'Bro Bros New Year Countdown for Kids' (3 to 5 minutes): a short dance warm up, then a big 10 to 1 count with the Bros jumping on each number, confetti and a 'Happy New Year 2027!' cheer with no scary bangs and a calm goodbye; plus a 60 second Short. Families can start it at any time."
   },
   {
    "name": "Fill it one by one",
@@ -8166,12 +8204,6 @@
    "where": "TikTok, Reels, Shorts (every December)",
    "status": "seasonal",
    "use": "From 1 to 24 Dec the Bros open one numbered door a day on a big calendar; behind it is one new move or winter word, and the Short ends with everyone doing all the moves so far. Shorts series on YouTube keeps the 24 days in order. Meshy move for door 1: stand in place, arms swing open wide like doors, then a small hop."
-  },
-  {
-   "name": "Sway & Wave baby dance",
-   "where": "TikTok, Reels",
-   "status": "fading",
-   "use": "Bro Bros do a 4-move sway, wave, clap, spin routine in the chorus; make a 15 s Short teaching it step by step ('Can you do it?')."
   },
   {
    "name": "Freeze / statue game",
