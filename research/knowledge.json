@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:58:06+05:30",
- "runs": 221,
+ "updated": "2026-11-15T23:58:56+05:30",
+ "runs": 222,
  "branches": [
   {
    "id": "platforms",
@@ -4136,6 +4136,41 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 210
+    },
+    {
+     "t": "Meshy Text to Motion (launched July 2026) turns a prompt of up to 400 characters into one 2 to 10 second clip (in half second steps), so a chorus dance needs three or four short prompts, one per move, joined and blended in Blender's NLA editor.",
+     "src": "Meshy API docs, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 222
+    },
+    {
+     "t": "Meshy's 'prime' motion mode costs 10 credits and returns FBX, while 'swift' costs 3 credits and returns BVH; failed tasks cost nothing, so draft moves in swift and render the final in prime.",
+     "src": "Meshy API docs, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 222
+    },
+    {
+     "t": "Meshy motion files are deleted 3 days after generation and API tasks do not show in the web app, so every approved dance clip must be downloaded and saved in the Bro Bros motion library the same day.",
+     "src": "Meshy API docs, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 222
+    },
+    {
+     "t": "Meshy retired its lowpoly model on 30 Oct 2026 and meshy-7 stops for new 3D generation on 31 Dec 2026 (texturing still works), so any new props or friends needed for January should be generated before year end or moved to the newer model.",
+     "src": "Meshy API docs, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 222
+    },
+    {
+     "t": "Meshy prompts work best as one clear, concrete action per prompt matched to the clip length (for example 'standing in place, bounce shoulders up and down to the beat, 4 seconds'), which is how all trend bank steps are written.",
+     "src": "Meshy API docs, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 222
     }
    ]
   },
@@ -6865,11 +6900,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 142): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:14",
-   "note": "Run 143 (rules (full list of made for kids limits)): YouTube Help's full list of what made for kids videos lose: autoplay on Home, cards, end screens, watermarks, memberships, comments, donations, live chat, merch, notifications, personalised ads, Miniplayer playback, and viewers cannot save them to a playlist or Watch Later, so only our own channel playlists can keep songs together. Total 648."
+   "note": "Earlier runs summarised (up to Run 143): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:14",
@@ -7182,6 +7213,10 @@
   {
    "date": "2026-11-15 23:58",
    "note": "Run 221 (music craft (Suno v5.5 tools for a consistent Bro Bros sound, popular vs traditional songs study)): Suno v5.5 (Mar 2026) adds Voices (your own verified singing voice, private by default, Pro and Premier), Custom Models (tune the model on up to three sets of your own tracks) and My Taste. A Custom Model trained on our best songs could keep the Bro Bros sound consistent across 14 songs a week. An Indonesian preschool study found popular style songs helped imitation of words while traditional songs helped memory. Total 967."
+  },
+  {
+   "date": "2026-11-15 23:58",
+   "note": "Run 222 (visual craft (our own tools: Meshy Text to Motion limits, Meshy changelog)): Studied our own animation tool: Meshy Text to Motion (added July 2026) makes 2 to 10 second clips from prompts up to 400 characters, in prime mode (10 credits, FBX) or swift mode (3 credits, BVH), files expire after 3 days, and the meshy-7 model stops for 3D generation on 31 Dec 2026. Long dances must be built from several short clips joined in Blender. No new animation features in Meshy's Aug to Sep changelog. Total 972."
   }
  ],
  "history": [
@@ -8068,6 +8103,10 @@
   {
    "date": "2026-11-15 23:58",
    "total": 967
+  },
+  {
+   "date": "2026-11-15 23:58",
+   "total": 972
   }
  ],
  "next_week_ideas": [
