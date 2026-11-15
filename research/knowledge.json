@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:57:56+05:30",
- "runs": 160,
+ "updated": "2026-11-15T20:58:39+05:30",
+ "runs": 161,
  "branches": [
   {
    "id": "platforms",
@@ -2771,6 +2771,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 153
+    },
+    {
+     "t": "In a Developmental Science study of 78 children aged 3 to 6 dancing freely at home, high groove music (tracks adults rate as making them want to move: syncopated drums, a busy bass, a steady pocket) made kids dance more, with more energy and with movement tempos closer to the beat than low groove music.",
+     "src": "Developmental Science via ebsco.com, 2023",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 161
+    },
+    {
+     "t": "Because 3 to 6 year olds feel groove the way adults do, Bro Bros dance songs should be tested on a simple adult 'do I want to move' check before release; a song the parent also bops to wins both the child and the co viewer.",
+     "src": "Developmental Science via ebsco.com, 2023",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 161
+    },
+    {
+     "t": "The first randomised trial of singing at home (Music Lab, Auckland and Yale, Child Development, May 2025) found parents who sang more often rated their babies' moods significantly higher over four weeks, and parents sang most when babies were fussy, so a short, easy to remember chorus parents can sing without the screen extends a song's life.",
+     "src": "auckland.ac.nz, May 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 161
     }
    ]
   },
@@ -5108,11 +5129,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 18 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:48",
-   "note": "Run 82 (rules, safety and monetisation (Q4 ad rates, kids data rules)): YouTube RPM runs about 0.5 times baseline in January and 1.8 to 2.5 times in December, with the two weeks before Christmas the most competitive auctions. Precisify found 80% of parents say kids ask for items seen in YouTube ads and 88% of parents of 2 to 5 year olds say their child prefers YouTube to TV. Kids content must never ask children for names, photos or contest entries, even off YouTube, and YouTube's age estimation treats inferred minors as minors. Total 438."
+   "note": "Earlier runs summarised: 19 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:49",
@@ -5425,6 +5442,10 @@
   {
    "date": "2026-11-15 20:57",
    "note": "Run 160 (other platforms (Netflix kids H2 2025 report, Roblox festival game)): Emily Horgan's Netflix kids report: PAW Patrol led H2 2025 with 344M hours, Gabby's Dollhouse passed 600M hours for 2025, Ms Rachel was No. 4 (best first year of any new kids series) and CoComelon fell 30% and moves to Disney+ in Jan 2027. On Roblox, Live Nation's Music Festival Tycoon (3.5M visits) lets kids book artists and build stages. Total 717."
+  },
+  {
+   "date": "2026-11-15 20:58",
+   "note": "Run 161 (music craft (groove and free dancing, singing at home)): A Developmental Science study of 78 children aged 3 to 6 found high groove music (what adults feel they must move to) made kids dance more, with more energy and closer to the beat, so preschoolers respond to the same groove adults do. A Music Lab randomised trial found babies' moods rose when parents sang to them more at home, and parents sang most when babies were fussy, which supports simple songs parents can sing back. Total 720."
   }
  ],
  "history": [
@@ -6067,6 +6088,10 @@
   {
    "date": "2026-11-15 20:57",
    "total": 717
+  },
+  {
+   "date": "2026-11-15 20:58",
+   "total": 720
   }
  ],
  "next_week_ideas": [
