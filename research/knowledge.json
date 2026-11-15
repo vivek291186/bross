@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:36:22+05:30",
- "runs": 145,
+ "updated": "2026-11-15T20:37:46+05:30",
+ "runs": 146,
  "branches": [
   {
    "id": "platforms",
@@ -1364,6 +1364,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 143
+    },
+    {
+     "t": "Todd Beaupre (Creator Insider, Sep 2026) said the watch page Suggested list, not the Subscriptions feed, is the top source of views even from a channel's own subscribers, so each Bro Bros song must sit well next to similar kids songs to be found again.",
+     "src": "ppc.land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 146
+    },
+    {
+     "t": "YouTube tested capping how often one video is recommended to the same viewer at about eight times after finding a viewer shown the same uploads 19 times without clicking, so an ignored song will stop being offered and a fresh thumbnail or a new song is the way back.",
+     "src": "ppc.land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 146
+    },
+    {
+     "t": "In YouTube Kids a parent's block hides a video only on that child's profile, while a report goes to a 24/7 review queue and, if upheld, removes the video for every user, so one misleading thumbnail can cost a song the whole app.",
+     "src": "ppc.land (Team YouTube FAQ), Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 146
     }
    ]
   },
@@ -4381,6 +4402,20 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 143
+    },
+    {
+     "t": "Ads shown in YouTube Kids need pre approval from YouTube's policy team and food and drink, beauty and fitness, dating and political ads are barred, so YouTube Kids views earn less per view than main YouTube and should be judged by reach, not income.",
+     "src": "ppc.land (Team YouTube FAQ), Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 146
+    },
+    {
+     "t": "Since 21 Oct 2026 YouTube automatically pauses features on channels that look hacked while it reviews them, usually within 24 hours and without touching monetisation, and since 29 Oct some channels facing spam termination get a 30 day lock to fix videos or appeal instead of instant removal.",
+     "src": "air.io, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 146
     }
    ]
   },
@@ -4681,11 +4716,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 3 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:39",
-   "note": "Run 67 (global markets (Indonesia and Germany)): Indonesia: LooLoo's Bahasa Indonesia channel (3.08M subs) got about 292M views in October, led by a local Five Little Ducks (Lima bebek kecil) at 102M; CoComelon, Pinkfong, Little Angel, BabyBus and Lalafun all run separate Indonesian channels. Germany: YouTube reaches 51% of 2 to 5s and 80% of 10 to 12s, nearly half watch on TV. Total 374."
+   "note": "Earlier runs summarised: 4 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:39",
@@ -4998,6 +5029,10 @@
   {
    "date": "2026-11-15 20:36",
    "note": "Run 145 (YouTube main and Kids charts (US ranking, Pinkfong x Dr Seuss)): Charts unchanged since run 72, so looked at the US ranking: Toys and Colors has about 1,480 lifetime views per subscriber against about 1,130 for CoComelon, and Vlad and Niki runs four language copies (Vietnamese, Hindi, Indonesian, Spanish) of 30 to 47M subscribers each. Pinkfong and Dr Seuss made their first crossover, a Halloween 'guess the costume' sing along. Total 656."
+  },
+  {
+   "date": "2026-11-15 20:37",
+   "note": "Run 146 (YouTube algorithm (Todd Beaupre interview details, YouTube Kids reports, Nov feeds)): Most October changes were already known. New: Suggested on the watch page brings more views from a channel's own subscribers than the Subscriptions feed, YouTube tested capping one video at about eight showings per viewer, a parent's block in YouTube Kids hides a video only on that child's profile while an upheld report removes it for everyone, and YouTube Kids bars food and drink ads. Total 661."
   }
  ],
  "history": [
@@ -5580,6 +5615,10 @@
   {
    "date": "2026-11-15 20:36",
    "total": 656
+  },
+  {
+   "date": "2026-11-15 20:37",
+   "total": 661
   }
  ],
  "next_week_ideas": [
