@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:46:01+05:30",
- "runs": 27,
+ "updated": "2026-11-15T16:46:54+05:30",
+ "runs": 28,
  "branches": [
   {
    "id": "platforms",
@@ -209,6 +209,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 27
+    },
+    {
+     "t": "Baby Shark joined Spotify's Billions Club in May 2026 with about 137M streams in a year and about 400K a day from 23M listeners, led by the US, UK, Australia and Canada, so audio streaming of kids songs is strongest in high paying English markets.",
+     "src": "BSCkids, May 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 28
+    },
+    {
+     "t": "Netflix's global top 10 for 14 to 20 Sep 2026 held Gabby's Dollhouse S14 (best debut since S8), YouTube creator Mark Rober's CrunchLabs, A Minecraft Movie and KPop Demon Hunters still charting in week 65.",
+     "src": "What's on Netflix, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 28
+    },
+    {
+     "t": "KIDZ BOP (11B+ streams) reaches Gen Alpha on Roblox by placing its album inside a popular obstacle course game (Really Easy Obby, about 580K daily visits) where kids collect music notes while songs play.",
+     "src": "KIDZ BOP, Jan 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 28
     }
    ]
   },
@@ -1175,6 +1196,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 19
+    },
+    {
+     "t": "Netflix's No. 1 English film for 2 to 8 Nov 2026 was A Dog's Perfect Christmas (8.6M views), a talking dog family holiday film, showing that dog plus Christmas stories pull families from early November.",
+     "src": "Seat42F, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 28
     }
    ]
   },
@@ -1671,6 +1699,10 @@
   {
    "date": "2026-11-15 16:46",
    "note": "Run 27 (Shorts and Reels): Instagram's Your Algorithm topic controls now cover Reels, Explore (Apr 2026) and Feed (Jun 2026), so clear topic signals matter; guidance favours motion or text within half a second, keyword captions over hashtags, on screen text for AI topic reading and about 90% niche consistency; near duplicate penalties last 24 hours to 30 days. Total 211."
+  },
+  {
+   "date": "2026-11-15 16:46",
+   "note": "Run 28 (other platforms): Baby Shark passed 1 billion Spotify streams (May 2026) at about 400K a day led by US, UK, Australia and Canada; Netflix kids top 10s show YouTube creator CrunchLabs breaking in, KPop Demon Hunters still charting at week 65, and a Christmas dog family film at No. 1 in early November; KIDZ BOP uses a Roblox obstacle game to reach Gen Alpha. Total 215."
   }
  ],
  "history": [
@@ -1781,9 +1813,17 @@
   {
    "date": "2026-11-15 16:46",
    "total": 211
+  },
+  {
+   "date": "2026-11-15 16:46",
+   "total": 215
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Zoomy's Christmas Surprise",
+   "why": "Dog plus Christmas stories topped Netflix family viewing in early November; a gentle story song where our pet friend helps wrap gifts fits holiday search demand."
+  },
   {
    "title": "Do the Zoomy Zoom!",
    "why": "A signature dance named after our recurring pet friend, like Pokemon Kids TV's single character dance hits; one move per line, easy to copy in Shorts."
@@ -1835,10 +1875,6 @@
   {
    "title": "Who Took the Rainbow?",
    "why": "Colours song framed as a tiny mystery the brothers solve, the format behind Lalafun's newest uploads and the rescue stories kids love."
-  },
-  {
-   "title": "ABC Animal Parade",
-   "why": "Phonics is the most-viewed India kids video (5.8B) and a global search staple; one animal per letter with an action."
   }
  ]
 }
