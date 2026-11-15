@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:40:08+05:30",
- "runs": 148,
+ "updated": "2026-11-15T20:46:41+05:30",
+ "runs": 149,
  "branches": [
   {
    "id": "platforms",
@@ -2610,6 +2610,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 148
+    },
+    {
+     "t": "Ms Rachel's album I'm So Happy (Sep 2026) was recorded with 42 instrumentalists and 19 singers, arranged by musical theatre arrangers, and its lead single 'I Love a Rainbow' is a playful bossa nova, so the top preschool brand now treats genre variety and live sounding arrangements as part of its edge.",
+     "src": "themusicuniverse.com, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 149
+    },
+    {
+     "t": "An Oxford trial with 96 children aged 7 to 8 learning French (2025) found songs, chants and spoken stories built from the same words taught sentence repetition equally well, so a song's learning value comes from clear repeated words, and pairing the sung chorus with one spoken line of the key words helps as much as the melody.",
+     "src": "education.ox.ac.uk, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 149
+    },
+    {
+     "t": "Ms Rachel's album keeps only two brand new originals (I'm So Happy and Big Feelings) among 23 tracks; the rest are her show's proven favourites about movement, bubbles, animals, counting, phonics and feelings, so a new album or compilation should be built mostly from songs already proven on video.",
+     "src": "themusicuniverse.com, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 149
     }
    ]
   },
@@ -3576,6 +3597,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 147
+    },
+    {
+     "t": "Kids aged 8 to 12 told CNN they love KPop Demon Hunters for its 'be yourself' self acceptance story, villains who change and become likeable, and lines they text to friends as in jokes, and some had watched it 50 times; stories with a feeling and a quotable line are what get replayed.",
+     "src": "ksl.com (CNN), Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 149
     }
    ]
   },
@@ -4786,11 +4814,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 6 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:41",
-   "note": "Run 70 (rules, safety and monetisation (YouTube Kids gate, AI labels)): Team YouTube's April 2026 FAQ: automated filters check every thumbnail, title and video for YouTube Kids, and product packaging, purchase urging and paid placements keep a video out. For animated AI content the disclosure label sits only in the expanded description and does not change recommendations. Kids videos are monetised only about 32% of the time but get about a 22% Q4 lift. Total 384."
+   "note": "Earlier runs summarised: 7 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:41",
@@ -5103,6 +5127,10 @@
   {
    "date": "2026-11-15 20:40",
    "note": "Run 148 (other platforms (Spotify kids popularity, Disney buying YouTube songs)): Spotify's kids genre popularity list is a mix of movie songs, sleep audio (a Swedish animal lullaby, German baby white noise, two 'Relaxing Music For Kids' bedtime tracks) and preschool hits (Ms Rachel, Plim Plim, a Brazilian Twinkle Twinkle). Disney bought YouTube sing along brand Gracie's Corner (6.3M subs, about 10B views) as 120+ shorts plus 18 themed compilations. Total 671."
+  },
+  {
+   "date": "2026-11-15 20:46",
+   "note": "Run 149 (music craft (Ms Rachel album production, songs vs chants study, why kids love KPop Demon Hunters)): Infant music studies were already in the tree. New: Ms Rachel's album used 42 players and 19 singers with musical theatre arrangers and a bossa nova lead single; an Oxford trial found songs, chants and stories taught 7 to 8 year olds new language equally well; kids say KPop Demon Hunters wins on a self acceptance story, characters who change and lines they can quote to friends. Total 675."
   }
  ],
  "history": [
@@ -5697,6 +5725,10 @@
   {
    "date": "2026-11-15 20:40",
    "total": 671
+  },
+  {
+   "date": "2026-11-15 20:46",
+   "total": 675
   }
  ],
  "next_week_ideas": [
