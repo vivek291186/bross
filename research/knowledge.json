@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:03:04+05:30",
- "runs": 302,
+ "updated": "2026-11-16T04:04:28+05:30",
+ "runs": 303,
  "branches": [
   {
    "id": "platforms",
@@ -1112,6 +1112,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 291
+    },
+    {
+     "t": "Spotify's kids genre ranking by popularity (Nov 2026) is topped by family friendly adult pop tagged for kids (Avicii's Wake Me Up at 88, The Clash at 84) and Halloween novelty songs, ahead of Ms Rachel (highest 72), so on Spotify our songs compete with pop that parents enjoy too, which favours polished, parent pleasing production.",
+     "src": "Soundcharts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 303
+    },
+    {
+     "t": "Sleep audio is a big part of Spotify kids listening: a Swedish lullaby duo (77), a German baby sleep track with sea sounds (76) and four 'Relaxing Music For Kids' instrumentals sit in the kids top 31, so a calm instrumental or hummed bedtime version of our best songs is a cheap extra Spotify release.",
+     "src": "Soundcharts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 303
+    },
+    {
+     "t": "Netflix's 14 to 20 Sep 2026 top 10 still had KPop Demon Hunters in its 65th week (2.5M views) next to A Minecraft Movie's debut and Gabby's Dollhouse Season 14, whose 4.3M first week views were its best debut since Season 8, showing that music led family films and long running preschool series keep pulling for over a year.",
+     "src": "What's on Netflix, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 303
     }
    ]
   },
@@ -9063,11 +9084,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 223): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:00",
-   "note": "Run 224 (global markets (France: who leads French kids YouTube, what a small dub channel earns)): France's top 100 YouTube channels (11 Nov 2026) hold at least 14 kids and family channels, led by Masha et Michka (12.2M), Kidi Fun (11.9M), Titounis comptines (7.7M), Kidibli (7.5M) and Little Angel's French channel (5.7M); nursery rhyme brands with French language channels do well there. Kaboochi's French channel shows the downside of a neglected dub channel: 197K subs but only about 135K views a month once uploads stopped. Total 979."
+   "note": "Earlier runs summarised (up to Run 224): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:00",
@@ -9380,13 +9397,13 @@
   {
    "date": "2026-11-16 04:03",
    "note": "Run 302 (YouTube algorithm (TV share, Stations and TV Companion plans, YouTube Kids cold start)): Connected TVs now carry over 44% of US YouTube watch time (about 41% in 2022) and YouTube is 12.5% of all US TV viewing; job listings point to 'Stations' (24/7 linear streams) and a phone 'TV Companion', plans not launches. Team YouTube's Apr 2026 FAQ says new YouTube Kids profiles see editorially curated picks (series, music, learning, discovery, games) until they build history. Total 1281."
+  },
+  {
+   "date": "2026-11-16 04:04",
+   "note": "Run 303 (other platforms (Spotify kids genre popularity mix, sleep audio, Netflix kids staying power)): Shorts and Reels sources had nothing new this round, so it moved to other platforms. Spotify's kids genre popularity list mixes adult family friendly pop (Avicii's Wake Me Up scores 88, The Clash 84) with Ms Rachel, Plim Plim and many sleep tracks (a Swedish lullaby duo, German baby sea sounds, four 'Relaxing Music For Kids' pieces in the top 31). On Netflix, KPop Demon Hunters was still in the English film top 10 in its 65th week in September. Total 1284."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:55",
-   "total": 72
-  },
   {
    "date": "2026-11-15 15:45",
    "total": 80
@@ -10582,6 +10599,10 @@
   {
    "date": "2026-11-16 04:03",
    "total": 1281
+  },
+  {
+   "date": "2026-11-16 04:04",
+   "total": 1284
   }
  ],
  "next_week_ideas": [
