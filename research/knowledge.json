@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:47:58+05:30",
- "runs": 250,
+ "updated": "2026-11-16T01:48:54+05:30",
+ "runs": 251,
  "branches": [
   {
    "id": "platforms",
@@ -6670,6 +6670,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 239
+    },
+    {
+     "t": "The EU Kids Act, proposed on 17 Sep 2026 and still needing Parliament and Council approval, would ban personal accounts for under 13s on platforms including YouTube, allow parent set 'mini accounts' for ages 13 to 15 with up to one hour a day, and end self declared birthdates.",
+     "src": "Euronews, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 251
+    },
+    {
+     "t": "The same proposal would switch off engagement based recommendations for minors by default, ban behaviour profiled feeds for them and prohibit endless autoplay and infinite scrolling, so in Europe our growth would lean on search, subscriptions, playlists and parents' own feeds rather than kid personalised recommendations.",
+     "src": "Euronews, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 251
+    },
+    {
+     "t": "Australia's eSafety evaluation (data from March 2026) found the share of under 16s with a social media account fell only from 52.4% to 42.1% after the ban, mostly because age checks were weak, and most families said they were not yet affected.",
+     "src": "eSafety Commissioner, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 251
+    },
+    {
+     "t": "AIR's September 2026 study puts Shorts RPM by audience country at about $0.33 for the US, $0.19 Australia and about $0.16 to $0.17 for the UK, Canada and Germany, so a million Shorts views earn about $300 from a US heavy audience but only $150 to $250 from a mixed global one.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 251
+    },
+    {
+     "t": "The same study found channels with audiences mainly in Nigeria, Pakistan or the Philippines see long form CPMs of only $0.20 to $1.50, against $8 to $20 for European, American or Australian audiences, so dubs for lower paying markets grow reach while English keeps the revenue.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 251
     }
    ]
   },
@@ -7810,11 +7845,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 171): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:39",
-   "note": "Run 172 (other platforms (screen free audio use, TikTok partner dance games)): Netflix and Tonies data were mostly in the tree already. New: Tonies says kids use its players almost 40 minutes a day and it has sold about 12M players and 150M figures in 10 years, so audio only versions of our songs have a real home; TikTok's October Find the Beat challenge is a partner dance test that suits two brothers. Total 762."
+   "note": "Earlier runs summarised (up to Run 172): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:40",
@@ -8127,6 +8158,10 @@
   {
    "date": "2026-11-16 01:47",
    "note": "Run 250 (TRENDS (evergreen cheer dance, Instagram episodic Series, holiday living room viewing)): Few new kid safe dances surfaced this week, but the Korean baseball Pikki Pikki cheer (alternate thumbs up hands up and down, 80M views on one clip) is an evergreen move our Meshy pipeline can do easily. Instagram's episodic Series for Reels reaches the US by late 2026 or early 2027 and live videos in the Reels tab are rolling out in Brazil and Indonesia; YouTube's 2026 holiday playbook says families watch together on the biggest screen. Total 1102."
+  },
+  {
+   "date": "2026-11-16 01:48",
+   "note": "Run 251 (rules and monetisation (EU Kids Act proposal, Australia's ban evaluation, Shorts RPM by country)): The EU Kids Act proposed on 17 Sep 2026 would ban personal social accounts under 13, switch off engagement based recommendations for minors by default and prohibit endless autoplay, so European kids would reach us mostly through parents' accounts, search and subscriptions. eSafety's first evaluation found Australian under 16 account holding fell only from 52.4% to 42.1%, and AIR's data puts US Shorts RPM at about twice the global average. Total 1107."
   }
  ],
  "history": [
@@ -9129,6 +9164,10 @@
   {
    "date": "2026-11-16 01:47",
    "total": 1102
+  },
+  {
+   "date": "2026-11-16 01:48",
+   "total": 1107
   }
  ],
  "next_week_ideas": [
