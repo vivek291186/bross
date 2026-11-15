@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:39:13+05:30",
- "runs": 275,
+ "updated": "2026-11-16T02:39:53+05:30",
+ "runs": 276,
  "branches": [
   {
    "id": "platforms",
@@ -7454,6 +7454,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 252
+    },
+    {
+     "t": "On 16 Nov 2026 (about 02:40 IST) Metricool still has YouTube stats only for uploads up to 11 Nov and Instagram Reels stats only up to 14 Nov, so the 15 Nov Ant Parade song and Golu elephant Didi story cannot be judged yet; the YouTube sync gap is now five days.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 276
+    },
+    {
+     "t": "Our Boo Boo Bandage song (scheduled 17 Nov 2026, 4 PM IST) follows BabyBus's 'Boo Boo Song, Ouchie Ouchie' upload of 12 Nov, which confirms boo boo care as a live topic but puts us beside a 44M subscriber channel in search, so our title and thumbnail should lean on our own hook (the toy clinic, Teddy's paw) rather than the generic 'boo boo song' phrase.",
+     "src": "Metricool and vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 276
+    },
+    {
+     "t": "A Hindi Didi story Reel (Golu the elephant's giant sneeze) did go out on 15 Nov 2026 at 4 PM IST, so our best retaining Reel format is still running this week even though the 16 to 22 Nov plan is mostly English songs.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 276
     }
    ]
   },
@@ -8419,11 +8440,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 196): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:54",
-   "note": "Run 197 (algorithm experiments and data (24/7 streams case, Heidi dan Zidane)): AIR's Heidi dan Zidane case (15.8M subs, mostly Spanish speaking markets): four or five 24/7 streams replaying old hits made 41.9% of watch time and 34.5% of revenue from under a fifth of views, with stream RPM about 66% above normal uploads; the US gave 5.3% of views but 43.2% of revenue. Title and thumbnail A/B tests were already in the tree (and are off for made for kids videos). Total 857."
+   "note": "Earlier runs summarised (up to Run 197): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:35",
@@ -8736,6 +8753,10 @@
   {
    "date": "2026-11-16 02:39",
    "note": "Run 275 (rules and monetisation (Mexico age checks, New York feed rules, Q4 kids RPM)): Mexico's online child safety decree took effect 14 Oct 2026 and makes platforms verify ages beyond self declaration (compliance reports due 13 Nov), and New York's final SAFE for Kids rules (from 25 Jan 2027) ban algorithmic feeds for minors without parental consent. Gyre's 10 Nov summary of AIR data says Q4 lifts kids and teens RPM only about 22% (finance about 60%), regular video RPM peaks in November but live RPM peaks in December, and unattended streams need mid rolls set to Automatic. Total 1189."
+  },
+  {
+   "date": "2026-11-16 02:39",
+   "note": "Run 276 (our own results (Metricool recheck 16 Nov, 15 Nov uploads, overlap with BabyBus)): Metricool still shows YouTube stats only up to the 11 Nov uploads and Instagram Reels only up to 14 Nov, so no new performance data today. The 15 Nov Ant Parade song and the Hindi Golu elephant Didi story went out on time. Our Boo Boo Bandage song (17 Nov) lands five days after BabyBus's own Boo Boo Song, which proves the topic but means competing with a 44M channel in search. Total 1192."
   }
  ],
  "history": [
@@ -9838,6 +9859,10 @@
   {
    "date": "2026-11-16 02:39",
    "total": 1189
+  },
+  {
+   "date": "2026-11-16 02:39",
+   "total": 1192
   }
  ],
  "next_week_ideas": [
