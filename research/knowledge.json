@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:11:04+05:30",
- "runs": 311,
+ "updated": "2026-11-16T04:36:15+05:30",
+ "runs": 312,
  "branches": [
   {
    "id": "platforms",
@@ -1133,6 +1133,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 303
+    },
+    {
+     "t": "Metricool's 2026 Instagram study (as cited by Mean CEO) found Reels get 65% of their views and 61% of interactions in the first three days, so a Reel's fate is set by day 3 and Story shares in the first 72 hours help.",
+     "src": "Mean CEO citing Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 312
     }
    ]
   },
@@ -9225,6 +9232,41 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 310
+    },
+    {
+     "t": "A playful dembow track, Dame Hombro, is rising on TikTok in November 2026, spreading from US Latin creators to Spain and Italy, with a simple shoulder bounce on the beat as its move.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 312
+    },
+    {
+     "t": "The costume loading transition (everyday clothes plus a 'loading' caption, freeze the frame, then cut to the full costume on the bass drop) peaked around Halloween and trackers say the twist structure gets copied more than the audio.",
+     "src": "SocialPilot, que.es, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 312
+    },
+    {
+     "t": "Since 1 November feeds have switched from Halloween to Christmas content: decor swaps and 'first holiday song of the year' clips, so December themed Shorts can start now.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 312
+    },
+    {
+     "t": "Later's 13 November Reels roundup lists '5 stages of being...' (five short clips going from confident to overwhelmed) and outfit swaps filmed from one locked camera with a single move instead of jump cut edits.",
+     "src": "Later, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 312
+    },
+    {
+     "t": "Fabulate's November TikTok column found 'he is always dancing' clips (someone dancing unprompted in the kitchen and everywhere) and costume reveals that tilt up from the feet were among October's biggest formats.",
+     "src": "B&T / Fabulate, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 312
     }
    ]
   }
@@ -9252,11 +9294,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 232): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:36",
-   "note": "Run 233 (music craft (children's singing range by age, and how AI music gets flagged)): Children sing loudest around F and G; comfortable ranges grow from C to A at ages 3 to 5 to about B flat to high E at 9 to 11, and songs starting on the downbeat with 4 to 8 beat phrases are easiest. YouTube's inauthentic content checks reportedly look for audio that clusters from the same tool and presets, so 14 Suno songs a week must vary style prompts. A first study of AI kids videos found music and stories dominate but most get few views. Total 1017."
+   "note": "Earlier runs summarised: older log lines condensed."
   },
   {
    "date": "2026-11-16 00:37",
@@ -9569,13 +9607,13 @@
   {
    "date": "2026-11-16 04:11",
    "note": "Run 311 (monetisation (Shorts pay by country, how music splits the Shorts pool)): AIR's country Shorts RPMs show the spread: about 0.33 USD per 1,000 views in the US, 0.17 in the UK and Germany, 0.10 in France, 0.045 in Brazil, 0.012 in Indonesia and 0.008 in India. In the Shorts pool, one licensed music track sends 50% of a Short's allocation to music partners and two tracks send 67%, so Shorts with our own unlicensed original music keep the full creator share. Total 1308."
+  },
+  {
+   "date": "2026-11-16 04:36",
+   "note": "Run 312 (TRENDS (shoulder bounce dembow, costume loading freeze, 5 stages of, always dancing)): November trackers show a playful dembow shoulder bounce (Dame Hombro) rising from US Latin creators into Spain and Italy, the costume loading freeze then cut on the bass drop, Later's '5 stages of being...' and locked camera outfit swaps, and Fabulate's 'always dancing' clips plus feet up reveals; feeds switched to Christmas from 1 November. Four formats joined the trend bank, four faded or duplicate ones left. Total 1314."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:57",
-   "total": 136
-  },
   {
    "date": "2026-11-15 15:58",
    "total": 141
@@ -10771,6 +10809,10 @@
   {
    "date": "2026-11-16 04:11",
    "total": 1308
+  },
+  {
+   "date": "2026-11-16 04:36",
+   "total": 1314
   }
  ],
  "next_week_ideas": [
@@ -10832,6 +10874,30 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Shoulder bounce (dembow style)",
+   "where": "TikTok, rising Nov 2026 (US Latin creators, Spain, Italy)",
+   "status": "rising",
+   "use": "Make one of our own bouncy 100 BPM dembow flavoured kids songs with a 'shoulder, shoulder' hook; Big Bro and Little Bro face camera and bounce their shoulders up and down on every beat, then point to the viewer to copy. Meshy prompt: standing in place, bounce both shoulders up and down to the beat, small knee bounce, arms relaxed at sides, then point forward."
+  },
+  {
+   "name": "Christmas outfit loading",
+   "where": "TikTok and Reels, costume loading format moving to Christmas",
+   "status": "seasonal",
+   "use": "Bros in pyjamas next to a big 'Christmas outfit loading...' bar that fills up; freeze frame, then on the first drum hit of our winter song cut to them in jumpers and Santa hats, camera tilting up from their boots, and they dance. Meshy prompt: standing still, then jump once in place and throw arms up, then march in place."
+  },
+  {
+   "name": "5 stages of waiting",
+   "where": "Reels (Later, 13 Nov 2026)",
+   "status": "rising",
+   "use": "Five 2 second clips labelled 'Stage 1 to 5 of waiting for snow' (or for Christmas): calm, peeking out the window, bouncing, spinning, then the big snow dance with our own song. Each stage is one Meshy clip: standing and looking around, bouncing in place, spinning in place, jumping with arms up."
+  },
+  {
+   "name": "Always dancing",
+   "where": "TikTok (Fabulate Nov 2026)",
+   "status": "rising",
+   "use": "'Little Bro is ALWAYS dancing' caption; quick cuts of him dancing while brushing teeth, waiting for the bus, eating breakfast, with Big Bro rolling his eyes then joining on the last chorus of our song. Meshy prompt: standing in place, sway hips and wiggle arms, small hop side to side."
+  },
   {
    "name": "Snow globe shake",
    "where": "TikTok and Reels every December (snow globe looks, Instagram Edits snow effect)",
@@ -10911,18 +10977,6 @@
    "use": "Big Bro, Little Bro and a friend in a row do our own Suno chorus pitched up for squeaky voices: two small hops in place, a front kick with the right foot, a front kick with the left foot, a quick spin on the spot, then a silly head shake. Meshy prompt: standing in place, hop twice, kick right foot forward, kick left foot forward, turn around once on the spot, shake head side to side."
   },
   {
-   "name": "Last uppy carry",
-   "where": "TikTok (parents lifting big kids for one last carry, viral since late 2025, still active Nov 2026)",
-   "status": "evergreen",
-   "use": "Warm 15 second Reel to our own soft lullaby style chorus: Little Bro raises both arms asking to be carried, Big Bro pretends he is too big now, then smiles and gives him a lift and a slow side to side sway, ending on a hug and caption 'One more uppy'. Meshy prompt for each Bro: standing in place, raise both arms high, then gently sway the body left and right while hugging."
-  },
-  {
-   "name": "Result first flash",
-   "where": "TikTok, Reels and Shorts family niche (Volume tracker 15 Nov 2026, 20 times median views)",
-   "status": "rising",
-   "use": "Open every Short with a 1 second flash of the ending: both Bros frozen in the song's final big pose (arms up in a V, big smiles) or the finished snowman, then a quick rewind whoosh to the first beat of our own song and play it through. The loop back to the start makes viewers watch twice."
-  },
-  {
    "name": "Catchphrase on the beat",
    "where": "TikTok ('signature line' trend, Dec 2025, likely back this December)",
    "status": "seasonal",
@@ -10939,18 +10993,6 @@
    "where": "TikTok and parenting sites every winter (frozen bubbles revival, Feb 2026)",
    "status": "seasonal",
    "use": "Little Bro blows a bubble outside in the snow, the music slows and the bubble freezes into sparkly ice feathers in close up, then Big Bro taps it and it shatters into snowflakes for the chorus. Meshy steps: standing, blowing with hands cupped at the mouth, slow wide eyed lean forward, then a happy jump and arms raised for the snowflake burst."
-  },
-  {
-   "name": "Then and now growth carousel",
-   "where": "TikTok photo carousel (childhood photo then present day, nearly 9M views in weeks, Fast Company 10 Nov 2026)",
-   "status": "rising",
-   "use": "Slide or clip one shows baby Big Bro and baby Little Bro doing something (stacking blocks, a tiny wobble dance), slide two shows them now doing the same thing bigger and better, with our own gentle 'look how big we grew' song line on each cut. Works as a Short, a Reel carousel and a New Year 'this year we learned' recap."
-  },
-  {
-   "name": "Wrong seat gag",
-   "where": "TikTok ('first time in a fancy cafe', Epidemic Sound 13 Nov 2026)",
-   "status": "rising",
-   "use": "Little Bro proudly sits on something that is not a seat (a drum, a giant gift box, a snowman's lap) while Big Bro sits on the real chair; the music stops, both look at the camera, then they laugh and swap. Short of 10 to 15 seconds with our own silly sting, standing only for the dance part."
   }
  ]
 }
