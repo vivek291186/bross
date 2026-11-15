@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:57:37+05:30",
- "runs": 38,
+ "updated": "2026-11-15T16:58:17+05:30",
+ "runs": 39,
  "branches": [
   {
    "id": "platforms",
@@ -237,6 +237,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 38
+    },
+    {
+     "t": "Shorts series (announced 23 Sep 2026) let Partner Program channels group Shorts into seasons and episodes with custom thumbnails and continuous story playback on web, mobile and connected TVs, built on Creator Shows from 2025; once we qualify, a Bro Bros Shorts season (one mini story per Short) fits it.",
+     "src": "TechCrunch, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 39
+    },
+    {
+     "t": "YouTube's own holiday Shorts formats are a before and after door transition (plain room to decorated room), making or decorating holiday treats to a festive tune, and decorate with me montages; all translate into kids song Shorts with the Bros.",
+     "src": "YouTube Blog, Dec 2023",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 39
+    },
+    {
+     "t": "On 1 Nov 2026 the top 20 US trending videos came from 20 different creators and six were under 24 hours old, and music videos dominate YouTube's all time most viewed list, so a fresh daily music upload has a real chance to surface.",
+     "src": "Mean CEO blog, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 39
     }
    ]
   },
@@ -2030,6 +2051,10 @@
   {
    "date": "2026-11-15 16:57",
    "note": "Run 38 (YouTube algorithm): YouTube's Jan 2026 family post: YouTube Kids is a walled garden for ages 0 to 12 shaped with child development experts; the recommender interrupts repeated loops in sensitive categories; more people now watch YouTube on TVs than phones and it is No. 1 on US TV. Creators report sensational titles getting filtered and stalling even at 9% click rate. Total 256."
+  },
+  {
+   "date": "2026-11-15 16:58",
+   "note": "Run 39 (Shorts and Reels): Shorts series (Made on YouTube, 23 Sep 2026) let Partner Program channels group Shorts into seasons and episodes with custom thumbnails and sequential playback on web, mobile and TV; YouTube's own holiday Shorts formats are before and after door transitions, making treats and decorate with me montages; most US trending videos are music and many are under a day old. Total 259."
   }
  ],
  "history": [
@@ -2184,9 +2209,17 @@
   {
    "date": "2026-11-15 16:57",
    "total": 256
+  },
+  {
+   "date": "2026-11-15 16:58",
+   "total": 259
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Open the Door, It's Snowing!",
+   "why": "YouTube's own before and after door transition format: the Bros open a door from a plain room into a twinkling winter wonderland on the chorus drop, a perfect Short loop."
+  },
   {
    "title": "Toothy the Brush Buddy",
    "why": "An original smiling tooth friend leads a two minute brush along song; the tooth mascot routine format put two kids channels in the world top 11 this autumn."
@@ -2238,10 +2271,6 @@
   {
    "title": "Sleepy Stars Lullaby",
    "why": "The week's slow 60-70 BPM wind-down song; bedtime sessions keep long watch time."
-  },
-  {
-   "title": "How Do You Feel Today?",
-   "why": "Feelings song (happy, sad, angry, calm) with faces and actions; social-emotional learning is what YouTube quality principles reward."
   }
  ]
 }
