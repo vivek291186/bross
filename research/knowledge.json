@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:43:44+05:30",
- "runs": 74,
+ "updated": "2026-11-15T17:44:20+05:30",
+ "runs": 75,
  "branches": [
   {
    "id": "platforms",
@@ -419,6 +419,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 74
+    },
+    {
+     "t": "Netflix's English film top 10 for 2 to 8 Nov 2026 still holds Sing 2 (4.3M views, week 14), Sing (3.2M, week 18) and KPop Demon Hunters (2.8M, week 69, hours up 7%): animated films built around singing animals and catchy songs keep pulling families for months.",
+     "src": "whats-on-netflix.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 75
+    },
+    {
+     "t": "A Dog's Perfect Christmas topped Netflix's English films (8.6M views) yet had the weakest opening of 11 Netflix Christmas films compared since 2024, a sign holiday content is crowded and a fresh twist matters more than another generic Christmas story.",
+     "src": "whats-on-netflix.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 75
+    },
+    {
+     "t": "Since Jul 2026 Roblox offers game builders licensed songs through indie distributor Too Lost and shows song info on game pages, after a charity concert drew 28M unique viewers; distributing Bro Bros songs through an indie distributor could one day put them inside kids' Roblox games.",
+     "src": "tubefilter.com, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 75
     }
    ]
   },
@@ -3182,6 +3203,10 @@
   {
    "date": "2026-11-15 17:43",
    "note": "Run 74 (Shorts and Reels trends (holiday Reels formats)): Reels trends for 31 Oct to 10 Nov: holiday sounds are peaking (about 5.8M Reels on one Christmas classic), with tree reveal (one ornament per cut) and countdown formats; a playful group shoulder shimmy dance is rising; but 11 of 12 trending sounds are major label tracks likely blocked for business accounts, so original audio is the safe route. Reels under 15 seconds rarely reach non followers. Total 400."
+  },
+  {
+   "date": "2026-11-15 17:44",
+   "note": "Run 75 (other platforms (Netflix, Roblox)): Netflix 2 to 8 Nov 2026: the animated animal jukebox musicals Sing 2 (week 14) and Sing (week 18) and KPop Demon Hunters (week 69, hours up 7%) still chart, showing song led animation has a very long tail; the No. 1 holiday film had the weakest Christmas opening since 2024. Roblox now carries licensed songs from indie distributor Too Lost with song info on game pages. Total 403."
   }
  ],
  "history": [
@@ -3480,6 +3505,10 @@
   {
    "date": "2026-11-15 17:43",
    "total": 400
+  },
+  {
+   "date": "2026-11-15 17:44",
+   "total": 403
   }
  ],
  "next_week_ideas": [
