@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:45:38+05:30",
- "runs": 119,
+ "updated": "2026-11-15T19:46:49+05:30",
+ "runs": 120,
  "branches": [
   {
    "id": "platforms",
@@ -615,6 +615,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 119
+    },
+    {
+     "t": "In AIR's 274 channel study (Sep 2026) kids and teens Shorts were monetised on about 46% of playbacks against only about 12% for long videos, because made for kids rules block most long form ads; matching 1,000 long views takes only about 2,150 Shorts views for large kids channels against 11,000 to 34,000 in most niches.",
+     "src": "air.io, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 120
+    },
+    {
+     "t": "Large kids channels that post 21 or more Shorts a month earn about 41% of their revenue from Shorts, while in most other niches Shorts bring under 2% of revenue, so for a made for kids channel a steady daily Short is a real income line, not only a reach tool.",
+     "src": "air.io, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 120
+    },
+    {
+     "t": "Instagram's own Reels guide (Sep 2026) splits lengths into 3 to 15 seconds for quick trends, 15 to 60 seconds as the main sweet spot, and 60 seconds to 3 minutes for stories and lessons, and recommends its auto caption sticker for on screen subtitles.",
+     "src": "iphoneincanada.ca, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 120
     }
    ]
   },
@@ -2666,6 +2687,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 116
+    },
+    {
+     "t": "A top TikTok format in mid November 2026 is a turn taking duet lip sync where two people mouth alternate lines and react to each other like a conversation, which works without understanding the language; two Bros singing alternate lines of a call and response chorus fits it.",
+     "src": "socialbee.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 120
     }
    ]
   },
@@ -4057,12 +4085,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 16:58",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 16:59",
-   "note": "Run 41 (music craft): A parent's ranking of the 10 best Danny Go! songs shows the craft: a shouted chorus kids can join, a fast silly section, a retro game like middle break, callbacks to earlier songs, key changes in wordplay songs, props from home (pool noodle drums), and clean up songs kids ask for on smart speakers. Total 267."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 16:59",
@@ -4375,6 +4399,10 @@
   {
    "date": "2026-11-15 19:45",
    "note": "Run 119 (our results checked (no new data since run 95, already noted today), then YouTube algorithm (classroom and supervised viewing)): Metricool still shows the same 1 to 11 Nov uploads, so no new results today. Switched to how schools reach kids: YouTube's Player for Education lets K to 12 school accounts watch only teacher assigned videos by default, NYC blocked student YouTube on school devices from 9 Sep 2026, and supervised kid accounts with a Shorts timer reached the Middle East, North Africa and Turkiye. Total 567."
+  },
+  {
+   "date": "2026-11-15 19:46",
+   "note": "Run 120 (Shorts and Reels (Shorts money for kids channels, Reels length guide)): AIR's 274 channel study (Sep 2026): kids Shorts were monetised on about 46% of playbacks against only 12% for made for kids long videos, and big kids channels posting 21+ Shorts a month take about 41% of revenue from Shorts, unlike most niches where Shorts earn under 2%. Instagram's own Reels guide calls 15 to 60 seconds the main sweet spot; a duet style turn taking lip sync is a top TikTok format this week. Total 571."
   }
  ],
  "history": [
@@ -4853,6 +4881,10 @@
   {
    "date": "2026-11-15 19:45",
    "total": 567
+  },
+  {
+   "date": "2026-11-15 19:46",
+   "total": 571
   }
  ],
  "next_week_ideas": [
