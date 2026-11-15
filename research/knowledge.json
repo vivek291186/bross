@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:04:34+05:30",
- "runs": 104,
+ "updated": "2026-11-15T19:05:29+05:30",
+ "runs": 105,
  "branches": [
   {
    "id": "platforms",
@@ -1070,6 +1070,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 97
+    },
+    {
+     "t": "AIR's length study (18,080 channels, 4.5M videos from 2025 to Mar 2026) found video length makes no measurable difference to engagement for kids content at scale, so length should follow the viewing moment (short songs, 10 minute mixes, long TV compilations), not a magic number.",
+     "src": "AIR, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 105
+    },
+    {
+     "t": "In one kids case, moving from 28+ minute compilations to shorter formats raised average percentage viewed from 8 to 12% to 16 to 22% and lifted recommendation traffic, so very long compilations should be a weekly extra, not the main upload.",
+     "src": "AIR, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 105
+    },
+    {
+     "t": "On one kids channel dubbed audio tracks added 125.5M views in five months (over 30% of its total), and a Portuguese track on three channels brought almost 5M extra views in six months, the cheapest growth lever in AIR's cases.",
+     "src": "AIR, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 105
+    },
+    {
+     "t": "DONA English's new 24/7 streams earned 20% of the channel's revenue in their first 10 days and 60% the following month, because kids stream views paid a median 1.45 USD per 1,000 against 0.43 for normal kids video views.",
+     "src": "AIR, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 105
     }
    ]
   },
@@ -3669,10 +3697,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 16:45",
-   "note": "Run 26 (YouTube algorithm): Sept 2026 inauthentic content suspensions hit long one template sleep music and prayer compilations; Oct 2026 brought saved custom Home feeds and Ask YouTube answers in the US; creator analysis says the recommender now targets satisfied watch time per click and gives fewer long form slots on Home, so old Shorts fade and fresh varied work matters. Total 207."
-  },
-  {
    "date": "2026-11-15 16:46",
    "note": "Run 27 (Shorts and Reels): Instagram's Your Algorithm topic controls now cover Reels, Explore (Apr 2026) and Feed (Jun 2026), so clear topic signals matter; guidance favours motion or text within half a second, keyword captions over hashtags, on screen text for AI topic reading and about 90% niche consistency; near duplicate penalties last 24 hours to 30 days. Total 211."
   },
@@ -3983,6 +4007,10 @@
   {
    "date": "2026-11-15 19:04",
    "note": "Run 104 (competitor deep dive (Moonbug strategy, Little Angel and Blippi)): Moonbug (CoComelon, Blippi, Little Angel, Little Baby Bum) stays YouTube first and non exclusive, makes content for each viewing moment (phone in the car, living room co viewing), grows hits into music, toys and live tours, and is spinning Little Angel into Emmie's Wonder Wardrobe for ages 3 to 5. Blippi's 2026 runs on a 'Year of Vehicles' theme; Southern Europe (Spain, France) is its growth focus. Total 511."
+  },
+  {
+   "date": "2026-11-15 19:05",
+   "note": "Run 105 (algorithm experiments and data (video length, dub tracks, streams)): AIR's study of 18,080 channels (2025 to Mar 2026) found video length makes no measurable difference to kids engagement at scale, while one kids channel that moved from 28+ minute compilations to shorter formats doubled average percentage viewed. Dubbed audio tracks added 125.5M views (over 30%) to one channel in five months, and DONA English's new streams brought 20% of revenue in 10 days and 60% the next month. Total 515."
   }
  ],
  "history": [
@@ -4401,6 +4429,10 @@
   {
    "date": "2026-11-15 19:04",
    "total": 511
+  },
+  {
+   "date": "2026-11-15 19:05",
+   "total": 515
   }
  ],
  "next_week_ideas": [
