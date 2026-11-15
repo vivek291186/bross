@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:54:04+05:30",
- "runs": 323,
+ "updated": "2026-11-16T04:54:57+05:30",
+ "runs": 324,
  "branches": [
   {
    "id": "platforms",
@@ -9512,6 +9512,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 321
+    },
+    {
+     "t": "In Roblox's week of 26 Oct to 1 Nov 2026 the top gainers were gentle silly loops: 'Throw Food For Animals' (+738% to about 59K concurrent players), 'Clean the Moon!' (+1,323%), 'Bug Evolution' (+1,779%) and 'Teach Your Granny How To Drive!' (+810%), so feeding, cleaning and growing up themes are rising with school age kids.",
+     "src": "RoWatcher, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 324
+    },
+    {
+     "t": "The same week 'Steal a Brainrot' lost about 70% of its players and '+1 Dance Battle Evolution' 67%, while new '+1' games (+1 Spider Arm about 78K players) kept arriving, so brainrot meme themes are fading but the one more each round loop is still strong.",
+     "src": "RoWatcher, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 324
+    },
+    {
+     "t": "Among the fastest growing new Roblox games on 2 Nov 2026 were cat sumo wrestling ('Cat Battles', about 15K players), car football ('Turbo Soccer', 19K) and bike collecting ('Bike Universe', 24K), more evidence that cute animal contests and vehicles are what kids choose to play this month.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 324
     }
    ]
   }
@@ -9540,10 +9561,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 01:42",
-   "note": "Run 245 (music craft (slow tempo and attention, fast seasonal release, interactive songwriting)): A study of 4 to 6 year olds found reaction times were faster after slow music than after fast music with no change in mood, which supports a calm song before any learning part. Kidz Bop's songwriter says speed of release next to the original moment is core to its 14B streams, and Laurie Berkner's 2026 album treats interactivity and seated movement as part of writing the song. Total 1077."
   },
   {
    "date": "2026-11-16 01:43",
@@ -9856,13 +9873,13 @@
   {
    "date": "2026-11-16 04:54",
    "note": "Run 323 (algorithm experiments and data (Jason Vlogs' working system; our Metricool and Tubefilter checks had nothing new)): Our own Metricool data still stops at 11 Nov (YouTube) and 14 Nov (Reels), already recorded today, and the 8 Nov Tubefilter chart is fully in the tree, so the round moved to case data: Jason Vlogs (46M+ subscribers, a 5 person team) posts one main video a week, brainstorms about 30 ideas a week to make 3, batches weeks ahead and runs 10 localised channels that brought new viewers without hurting the main one. Total 1349."
+  },
+  {
+   "date": "2026-11-16 04:54",
+   "note": "Run 324 (TRENDS (Roblox's rising kid games: feeding animals, cleaning the moon, bug evolution, cat sumo)): Roblox's week to 1 Nov shows the gentle, silly loops kids pick up: 'Throw Food For Animals' rose 738% to about 59K concurrent players, 'Clean the Moon!' 1,323%, 'Bug Evolution' 1,779%, while 'Steal a Brainrot' fell 70%. Cat sumo battles and bike collecting joined the fastest growing new games. A feed the animals format joined the trend bank and a moon cleaning song joined the ideas. Total 1352."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 16:38",
-   "total": 195
-  },
   {
    "date": "2026-11-15 16:39",
    "total": 201
@@ -11058,6 +11075,10 @@
   {
    "date": "2026-11-16 04:54",
    "total": 1349
+  },
+  {
+   "date": "2026-11-16 04:54",
+   "total": 1352
   }
  ],
  "next_week_ideas": [
@@ -11094,8 +11115,8 @@
    "why": "Frozen bubbles go viral every winter; a calm song where a bubble freezes into ice feathers is visual, wordless enough to travel worldwide and needs no holiday, so it works in both hemispheres' winter content windows."
   },
   {
-   "title": "Look How Big I've Grown!",
-   "why": "The childhood then and now carousel (about 9M views in weeks) shows the pull of growth stories; a gentle song where the brothers compare baby moments to now travels in any culture and fits New Year recaps."
+   "title": "Clean the Moon! (Space Tidy Up Song)",
+   "why": "'Clean the Moon!' was one of Roblox's fastest risers (+1,323% in a week) and tidy up songs are a routine parents want; the Bros fly up to scrub, sweep and polish the moon until it shines for bedtime, mixing space wonder with a clean up routine that works in any language."
   },
   {
    "title": "Where's Little Bro? (Hide and Seek Song)",
@@ -11119,6 +11140,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Feed the animals toss",
+   "where": "Roblox ('Throw Food For Animals' +738% in the week to 1 Nov 2026)",
+   "status": "rising",
+   "use": "Bros stand at a zoo fence and toss the right food on each beat of our own animal song: banana to the monkey, carrot to the bunny, fish to the penguin; each animal does a happy dance when fed and kids shout the food before it lands. Meshy prompt: standing, swing one arm forward in an underhand toss, then clap and bounce in place."
+  },
   {
    "name": "Little things we love",
    "where": "TikTok ('1000 little things', since Jul 2026) and gratitude posts before Thanksgiving",
@@ -11214,12 +11241,6 @@
    "where": "TikTok, Reels and Shorts every early winter (first snow reaction videos from warm country visitors, babies and pets)",
    "status": "seasonal",
    "use": "12 to 20 second Short: Little Bro looks up as the first snowflake lands on his nose, gasps, then both Bros hold out their hands, spin slowly and jump in place as snow falls, to the chorus of our own winter song; caption 'Our first snow ever!'. Meshy prompt: standing in place, look up, hold both palms up, turn slowly in a circle, then small happy jumps in place."
-  },
-  {
-   "name": "Chipmunk trio dance",
-   "where": "TikTok (sped up squeaky 80s song, groups of three, NewEngen 13 Nov 2026)",
-   "status": "peak",
-   "use": "Big Bro, Little Bro and a friend in a row do our own Suno chorus pitched up for squeaky voices: two small hops in place, a front kick with the right foot, a front kick with the left foot, a quick spin on the spot, then a silly head shake. Meshy prompt: standing in place, hop twice, kick right foot forward, kick left foot forward, turn around once on the spot, shake head side to side."
   },
   {
    "name": "Catchphrase on the beat",
