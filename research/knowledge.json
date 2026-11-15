@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:53:42+05:30",
- "runs": 8,
+ "updated": "2026-11-15T15:54:31+05:30",
+ "runs": 9,
  "branches": [
   {
    "id": "platforms",
@@ -279,6 +279,55 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 3
+    },
+    {
+     "t": "Bebefinn (Pinkfong) is about 84M subscribers and 65 billion views brand wide; its Netflix series hit No. 1 kids title in 12 countries and an Amazon Kids+ series is coming.",
+     "src": "Sports Khan, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 9
+    },
+    {
+     "t": "Bebefinn's main English channel (37M subs) gets about 370M views a month; its top videos are a wake up morning routine (775M), a Baby Shark crossover, a mix compilation and a 'Run Away Baby Car' chase.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 9
+    },
+    {
+     "t": "Bebefinn's newest uploads are pretend play job stories (car mechanics fixing a car) with emoji led titles and a brand hashtag, posted about 4 to 5 times a week.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 9
+    },
+    {
+     "t": "Lalafun, a 3D nursery rhyme channel started in Oct 2022, reached 15M subscribers and 11.6 billion views in about 4 years at 3 to 4 uploads a week, now 600 to 700M views a month: a new 3D channel can break through fast.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 9
+    },
+    {
+     "t": "Lalafun's biggest hits are animal twists on public domain rhymes with a learning tag: Wheels on the Bus Animal Version (955M), 5 Little Ducks Learn Colors (726M), Old MacDonald with Safari Animals, Counting 10 Little Pandas.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 9
+    },
+    {
+     "t": "Lalafun's latest titles frame a small mystery the song solves ('Where did the animals' colours go?'), turning a colours song into a rescue story.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 9
+    },
+    {
+     "t": "Bebefinn launched with a crossover starring the company's existing mega hit character, and that episode is still its second most viewed; reusing our own recurring friends across songs builds the same pull.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 9
     }
    ]
   },
@@ -821,7 +870,7 @@
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
   "A tiny story with one tempo change kids can act out (speed up, slow down, freeze), ending with a happy payoff.",
   "A child's voice as the lead singer; characters look into the camera and talk to the viewer.",
-  "Family, animals, dogs, dinosaurs, vehicles, helpers and daily routines are the most-requested subjects.",
+  "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist and a learning tag in the title.",
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele).",
   "Calm camera (cuts 3-6 s), bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description.",
@@ -866,6 +915,10 @@
   {
    "date": "2026-11-15 15:53",
    "note": "Run 8 (global markets): Dubbing data: in an 11 language kids test Spanish, Arabic, Indonesian and Portuguese pulled ahead and dubbed tracks gave over 30% of views; poor AI dubs crushed watch time; multi audio beats new channels when demand exists; El Reino Infantil leads Spanish kids content with audiences led by Mexico and Argentina. Total 107."
+  },
+  {
+   "date": "2026-11-15 15:54",
+   "note": "Run 9 (competitors Bebefinn and Lalafun): Bebefinn: about 84M subs brand wide, 370M views a month on the main channel, top hits are a morning routine, a Baby Shark crossover, a mix and a car chase. Lalafun: a 3D channel born Oct 2022 now at 15M subs and 600M+ views a month from animal twists on public domain rhymes plus learning tags. Total 114."
   }
  ],
  "history": [
@@ -900,6 +953,10 @@
   {
    "date": "2026-11-15 15:53",
    "total": 107
+  },
+  {
+   "date": "2026-11-15 15:54",
+   "total": 114
   }
  ],
  "next_week_ideas": [
@@ -948,8 +1005,8 @@
    "why": "Vehicles and a journey through countries of the world; global appeal, speeds up and slows down like a real train."
   },
   {
-   "title": "Ocean Friends Swim Along",
-   "why": "Sea animal family song with nonsense-syllable hook; colourful underwater set."
+   "title": "Who Took the Rainbow?",
+   "why": "Colours song framed as a tiny mystery the brothers solve, the format behind Lalafun's newest uploads and the rescue stories kids love."
   },
   {
    "title": "ABC Animal Parade",
