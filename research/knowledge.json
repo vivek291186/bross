@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:48:53+05:30",
- "runs": 151,
+ "updated": "2026-11-15T20:50:06+05:30",
+ "runs": 152,
  "branches": [
   {
    "id": "platforms",
@@ -4080,6 +4080,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 145
+    },
+    {
+     "t": "BabyBus's Vietnamese channel (BabyBus Nhac thieu nhi) has about 9.75M subscribers and 11B views, and still adds about 70 to 115M views a month (92M in the 28 days to 7 Nov 2026) from roughly 20 uploads a month, proof that a dubbed foreign 3D song brand can own Vietnam's kids songs.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 152
+    },
+    {
+     "t": "In Playboard's daily ranking of Vietnam's education channels (Nov 2026) BabyBus is the only kids song channel in the top 20, beside adult lesson and history channels, so a Vietnamese dub of Bro Bros would face few direct local competitors in that category.",
+     "src": "playboard.co, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 152
+    },
+    {
+     "t": "BabyBus's Vietnamese subscriber gains slowed from about 40 to 80K a month in 2024 and 2025 to 20 to 30K in late 2026 while monthly views held steady, showing kids song views come from repeat viewing and recommendations, not new subscribers, in this market too.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 152
     }
    ]
   },
@@ -4570,6 +4591,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 146
+    },
+    {
+     "t": "Vietnam's National Assembly debated in 2026 restricting minors' use of some social apps and stricter identity checks for under 16s, citing Australia's ban (Dec 2025) and similar steps in Indonesia and France since Mar 2026; nothing is law yet, but signed out family viewing on TV and YouTube Kids is where Southeast Asian kids markets are heading.",
+     "src": "vietnamnews.vn, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 152
     }
    ]
   },
@@ -4870,11 +4898,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 9 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:43",
-   "note": "Run 73 (YouTube algorithm and platform (October changes)): October 2026 YouTube changes relevant to us: a Monthly Shorts Bonus pilot (invite only, Partner Program channels in the US, UK, Germany, Brazil, Japan and South Korea), a 20 USD payout threshold test in the US, India and Indonesia, and a cleanup option instead of termination for some spam strikes. YouTube's Shorts lead line 'the audience is the algorithm' still frames how seed audiences widen reach. Total 396."
+   "note": "Earlier runs summarised: 10 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:43",
@@ -5187,6 +5211,10 @@
   {
    "date": "2026-11-15 20:48",
    "note": "Run 151 (topics and seasons (International Day of Persons with Disabilities, inclusive characters, Guadalupe)): The December calendar was mostly in the tree already. New: International Day of Persons with Disabilities is Thu 3 Dec 2026 with school assemblies in many countries, and Peppa Pig made George moderately deaf in 2026 after wheelchair user Mandy Mouse, with disability still rare in kids TV, so an inclusive dance song fits early December. Mexico's 12 Dec Guadalupe day is religious, so we note it but stay neutral. Total 683."
+  },
+  {
+   "date": "2026-11-15 20:50",
+   "note": "Run 152 (global markets (Vietnam, the biggest dubbing gap)): Vietnamese kids songs are dominated by foreign brands in local dub: BabyBus's Vietnamese channel has 9.75M subscribers and 11B views and still adds 70 to 115M views a month, next to Vlad and Niki's 46.6M Vietnamese copy, and it is the only kids song channel in Vietnam's daily education top 20. Vietnam's parliament is debating limits on minors' social media, following Australia, Indonesia and France. Total 687."
   }
  ],
  "history": [
@@ -5793,6 +5821,10 @@
   {
    "date": "2026-11-15 20:48",
    "total": 683
+  },
+  {
+   "date": "2026-11-15 20:50",
+   "total": 687
   }
  ],
  "next_week_ideas": [
