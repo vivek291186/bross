@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:39:21+05:30",
- "runs": 186,
+ "updated": "2026-11-15T22:40:23+05:30",
+ "runs": 187,
  "branches": [
   {
    "id": "platforms",
@@ -5795,6 +5795,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 184
+    },
+    {
+     "t": "December TikTok means 25 days of advent calendar unboxing content (NewEngen's Dec 2025 roundup), so a daily numbered countdown series from 1 Dec is the format with the most predictable seasonal demand.",
+     "src": "NewEngen, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 187
+    },
+    {
+     "t": "Last December's family safe hits also included a multi screen harmony challenge (stacking vocal parts in TikTok's grid), a 'say the word on beat' partner game that speeds up, and impressions of a high pitched 'it's freezing' reaction at a door; formats like these tend to come back with the season.",
+     "src": "NewEngen, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 187
+    },
+    {
+     "t": "Several December 2025 trends were adult or unclear for kids (a twerking 'how to' bait and switch, a Christmas mashup with unchecked lyrics), so every holiday trend must be checked and rebuilt with our own music before use.",
+     "src": "NewEngen, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 187
+    },
+    {
+     "t": "School dance challenges filmed by whole classes in uniform (the Zep dance in South Africa, Apr 2026) keep going viral with teachers joining in, so a Bro Bros dance simple enough for a class of 30 to do in rows is a route into schools and teacher accounts.",
+     "src": "Briefly News, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 187
     }
    ]
   }
@@ -5823,10 +5851,6 @@
   {
    "date": "2026-11-15 17:37",
    "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:08",
-   "note": "Run 108 (YouTube charts (vidIQ US trending, 30 days to 14 Nov)): In vidIQ's US trending list for the 30 days to 14 Nov, VocaVoca is No. 3 with about 1.6B new views, ahead of CoComelon (1.08B); Doctor Sophia, a healthy habits kids channel, added about 651M, the bilingual family music act 123 Andres about 868M, and the nursery rhyme channels Lalafun, Toddler Zoo and NuNu TV 450 to 650M each. Total 524."
   },
   {
    "date": "2026-11-15 19:08",
@@ -6139,6 +6163,10 @@
   {
    "date": "2026-11-15 22:39",
    "note": "Run 186 (visual craft (2026 3D looks: post AI handmade touches, 3D lettering, live action style camera coverage)): Creative Bloq's 2026 3D trends put squishy plush forms, hybrid 2D and 3D, 3D typography and 'post AI authenticity' (handmade finishing so images do not look AI made) at the top; Nickelodeon's Max and the Midknights shoots CG with virtual cameras covering each scene like live action. Merged one run 184 trends leaf (AI vs handmade) into the older Dame Hombro leaf it duplicated. Total 818."
+  },
+  {
+   "date": "2026-11-15 22:40",
+   "note": "Run 187 (TRENDS (December formats likely to return, school dance challenges)): Last December's TikTok list shows formats that come back with the season: 25 day advent calendar series, multi screen harmony grids, say the word on beat partner games and 'it's freezing' door reactions. Three kid safe versions joined the trend bank, led by a 24 door Bro Bros advent series. School dance challenges filmed in uniform keep spreading in South Africa. Total 822."
   }
  ],
  "history": [
@@ -6885,9 +6913,17 @@
   {
    "date": "2026-11-15 22:39",
    "total": 818
+  },
+  {
+   "date": "2026-11-15 22:40",
+   "total": 822
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Open the Door, What's Inside? (Advent Dance)",
+   "why": "Advent calendar countdowns run all over TikTok and Reels every December; one door a day with one new move builds a 24 part Shorts series that keeps kids coming back daily and ends in a full family routine on Christmas Eve."
+  },
   {
    "title": "Layer Up, Layer Up!",
    "why": "The fixed camera outfit change is rising on Reels; a winter song where every clap adds a hat, scarf, mittens and boots teaches clothing words, is easy to copy at home and fits the cold half of the world from December to February."
@@ -6939,13 +6975,27 @@
   {
    "title": "Hello, Shop Uncle! (with hand signs)",
    "why": "Turkey's Kukuli has 258M views on a corner shop uncle song and 125M on its sign language version; an original Bros errand song with simple signs for 'hello', 'please' and 'thank you' works in every country."
-  },
-  {
-   "title": "Oops! My Magic Spell Went Wrong!",
-   "why": "Disney's Hexed (25 Nov 2026) puts magic on every kid's mind; the Bros' toy wand turns the dog into a dancing teapot and each chorus tries a new silly spell to fix it."
   }
  ],
  "trend_bank": [
+  {
+   "name": "Advent calendar daily series",
+   "where": "TikTok, Reels, Shorts (every December)",
+   "status": "seasonal",
+   "use": "From 1 to 24 Dec the Bros open one numbered door a day on a big calendar; behind it is one new move or winter word, and the Short ends with everyone doing all the moves so far. Shorts series on YouTube keeps the 24 days in order. Meshy move for door 1: stand in place, arms swing open wide like doors, then a small hop."
+  },
+  {
+   "name": "Harmony grid",
+   "where": "TikTok grid layout (Mr Sandman harmony challenge, Dec 2025)",
+   "status": "seasonal",
+   "use": "Screen splits into four squares; each brother or friend sings one simple part of our own winter round (la la, ding dong, boom boom, the tune) and they stack up one by one. Invites kids to sing one part at home."
+  },
+  {
+   "name": "It's freezing door",
+   "where": "TikTok impressions (Dec 2025)",
+   "status": "seasonal",
+   "use": "A brother opens the front door, a whoosh of snow hits him, he freezes stiff like a statue, then shivers into the chorus of our winter song. Meshy move: stand still with arms stiff at the sides, then fast shoulder shiver in place and rub arms."
+  },
   {
    "name": "Outfit change in one cut",
    "where": "Instagram Reels (Later, 13 Nov)",
