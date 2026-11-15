@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:10:30+05:30",
- "runs": 112,
+ "updated": "2026-11-15T19:11:10+05:30",
+ "runs": 113,
  "branches": [
   {
    "id": "platforms",
@@ -2533,6 +2533,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 101
+    },
+    {
+     "t": "In India's same language subtitling programme (song shows with on screen lyrics) schoolchildren's ability to read a paragraph rose from 25% to 56% with about 30 minutes a week of subtitled songs, and over nine in ten viewers wanted lyrics shown on songs.",
+     "src": "Wikipedia (Nielsen ORG study, 2002 to 2007)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 113
+    },
+    {
+     "t": "Subtitled songs help reading only when text and audio are tightly synced, ideally with colour changes that follow each syllable karaoke style, so chorus lyrics on our videos should highlight in time with the singing rather than sit as static text.",
+     "src": "Wikipedia (same language subtitling)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 113
+    },
+    {
+     "t": "Karaoke style lyrics on the chorus also serve parents, who sing along more when they have the words (Yale trial with sing along videos), so put big synced chorus words on screen for older kids and parents while keeping the Bros' faces clear for toddlers.",
+     "src": "Wikipedia and Earth.com",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 113
     }
    ]
   },
@@ -3819,7 +3840,7 @@
   }
  ],
  "playbook": [
-  "Major key, 4/4, 110-125 BPM for dance songs; keep one slow 60-70 BPM wind-down song in the week.",
+  "Major key, 4/4, 110-125 BPM for dance songs; keep one slow 60-70 BPM wind-down song in the week with no drum groove, a narrow melody and soft repeated phrases (the lullaby shape that calms babies in every culture).",
   "One 1-2 bar hook repeated in every chorus, simple melody inside about 5 notes sitting mostly between middle C and A (C, F or G major), where preschoolers sing best; add nonsense syllables (la la, doo doo) kids can sing before they can talk.",
   "Every lyric line has an action kids can copy (Total Physical Response): clap, jump, wiggle, freeze, stomp.",
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
@@ -3842,10 +3863,6 @@
   {
    "date": "2026-11-15 15:45",
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
-  },
-  {
-   "date": "2026-11-15 16:55",
-   "note": "Run 34 (algorithm experiments and data): Two more kids channel cases: The Melobies (energetic nursery rhymes) grew subscribers over 9 times after YouTube Kids listing, expressive high contrast mobile thumbnails, keyword titles, themed playlists and 24/7 streams; Sandy the Sticker went from 1 to 16 automated 24/7 streams and added Shorts cut from long form, lifting watch time 31% and average view duration from 1:36 to 2:06. Total 239."
   },
   {
    "date": "2026-11-15 16:56",
@@ -4158,6 +4175,10 @@
   {
    "date": "2026-11-15 19:10",
    "note": "Run 112 (music craft (lullaby features, singing with babies)): Harvard's Nature Human Behaviour study (144 babies) found heart rate and pupil size dropped more for lullabies from any culture, which were slower, used a smaller pitch range and a looser beat. A Yale trial in Child Development gave parents karaoke style videos and songbooks and they sang far more, with happier babies, so sing along videos that parents can copy have real value. Total 536."
+  },
+  {
+   "date": "2026-11-15 19:11",
+   "note": "Run 113 (visual craft (on screen karaoke lyrics)): Same language subtitling research from India found that 30 minutes a week of subtitled song programmes lifted schoolchildren's paragraph reading from 25% to 56%, and over nine in ten viewers wanted lyrics on songs; the key is syllable synced colour changes. Karaoke style chorus lyrics on our videos help parents sing along and give a real reading benefit. Playbook updated for wind down songs. Total 539."
   }
  ],
  "history": [
@@ -4608,6 +4629,10 @@
   {
    "date": "2026-11-15 19:10",
    "total": 536
+  },
+  {
+   "date": "2026-11-15 19:11",
+   "total": 539
   }
  ],
  "next_week_ideas": [
