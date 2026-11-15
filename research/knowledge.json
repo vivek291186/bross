@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:41:39+05:30",
- "runs": 116,
+ "updated": "2026-11-15T19:42:33+05:30",
+ "runs": 117,
  "branches": [
   {
    "id": "platforms",
@@ -1175,6 +1175,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 109
+    },
+    {
+     "t": "YouTube's Test and Compare (global since Dec 2025) tests up to three titles, thumbnails or pairs for up to two weeks and picks the winner by watch time per impression, not click rate, so a title that wins clicks but loses viewers will not win.",
+     "src": "searchenginejournal.com, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 117
+    },
+    {
+     "t": "An Arabic language kids channel translated the titles and descriptions of its whole library into 11 languages (English, German, French, Spanish, Portuguese, Dutch, Japanese, Korean, Polish, Italian, Turkish); within about six months views from those markets rose 77%, subscribers 58%, and viewers arrived from 11 new countries led by the US, Brazil, Germany and Turkey.",
+     "src": "air.io, May 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 117
+    },
+    {
+     "t": "A 7M subscriber Arabic kids channel that had lost 91% of its recommendations replaced the thumbnails across its whole catalogue and then gained 2.8 times the views, about 5 times the recommendations and 6.6 times the revenue: thumbnails act as trust signals for the whole channel, not just one video.",
+     "src": "air.io, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 117
+    },
+    {
+     "t": "Kids channel Emir Ela grew from 16.5M to 475M views in one quarter (Q3 to Q4 2025) after adding trends gradually, improving visual clarity, pacing and sound design, balancing learning with fun and publishing on a set plan across Shorts, long videos and streams; long form views rose about 165 times.",
+     "src": "air.io, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 117
     }
    ]
   },
@@ -3984,10 +4012,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 16:57",
-   "note": "Run 38 (YouTube algorithm): YouTube's Jan 2026 family post: YouTube Kids is a walled garden for ages 0 to 12 shaped with child development experts; the recommender interrupts repeated loops in sensitive categories; more people now watch YouTube on TVs than phones and it is No. 1 on US TV. Creators report sensational titles getting filtered and stalling even at 9% click rate. Total 256."
-  },
-  {
    "date": "2026-11-15 16:58",
    "note": "Run 39 (Shorts and Reels): Shorts series (Made on YouTube, 23 Sep 2026) let Partner Program channels group Shorts into seasons and episodes with custom thumbnails and sequential playback on web, mobile and TV; YouTube's own holiday Shorts formats are before and after door transitions, making treats and decorate with me montages; most US trending videos are music and many are under a day old. Total 259."
   },
@@ -4298,6 +4322,10 @@
   {
    "date": "2026-11-15 19:41",
    "note": "Run 116 (competitor deep dive (Super Simple Songs, Lalafun)): Super Simple Songs (70M+ subs, 90B+ views, 20 years old) now posts about one video a week, alternating one new song with a 'Top 20' themed compilation, and its new anniversary celebration song reached 6M views in under three months. Lalafun (15.2M) gains 600 to 700M views a month from about 15 uploads a month; its hits are twisted classic rhymes and its titles add a tiny problem or theme ('Paramedics Song', 'Magic Circus'). Total 556."
+  },
+  {
+   "date": "2026-11-15 19:42",
+   "note": "Run 117 (algorithm experiments and data (title tests, metadata translation, thumbnail resets)): YouTube's title and thumbnail tests pick winners by watch time per impression, not clicks. AIR cases: translating an Arabic kids channel's titles and descriptions into 11 languages lifted views from those markets 77% and opened 11 new countries; a 7M Arabic kids channel that had lost 91% of recommendations recovered 2.8 times the views after replacing thumbnails across its whole catalogue. Total 560."
   }
  ],
  "history": [
@@ -4764,6 +4792,10 @@
   {
    "date": "2026-11-15 19:41",
    "total": 556
+  },
+  {
+   "date": "2026-11-15 19:42",
+   "total": 560
   }
  ],
  "next_week_ideas": [
