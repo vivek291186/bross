@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:06:53+05:30",
- "runs": 55,
+ "updated": "2026-11-15T17:07:25+05:30",
+ "runs": 56,
  "branches": [
   {
    "id": "platforms",
@@ -1931,6 +1931,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 44
+    },
+    {
+     "t": "YouTube auto dubbing supports 27 languages, and its expressive speech mode (keeps pitch, intonation and energy) is live in 8: English, Spanish, Portuguese, French, German, Italian, Hindi and Indonesian; over 6M viewers a day watch 10+ minutes of dubbed video.",
+     "src": "PPC Land, May 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 56
+    },
+    {
+     "t": "Auto dubbing skips videos with no speech or speech too fast to dub and videos with Content ID claims, so sung songs will not dub reliably; our spoken story intros and Didi stories can use it, while songs need re sung language versions.",
+     "src": "PPC Land, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 56
+    },
+    {
+     "t": "Auto dubbing is on by default for eligible channels; creators can review dubs before they publish, unpublish single languages, and opt into an experimental lip sync pilot.",
+     "src": "PPC Land, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 56
+    },
+    {
+     "t": "Abu Dhabi's culture chief said in Sep 2026 that about 80% of what Arab children watch is not in Arabic and suggested a 50 50 goal, so quality Arabic language kids songs face a large unmet demand across 430M Arabic speakers.",
+     "src": "Khaleej Times, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 56
     }
    ]
   },
@@ -2574,6 +2602,10 @@
   {
    "date": "2026-11-15 17:06",
    "note": "Run 55 (topics and seasons (school breaks)): US winter break 2026 runs mostly Monday 21 Dec to Friday 1 Jan (54 of 72 big districts start 21 Dec; NYC and Boston start 24 Dec; LA runs to 8 Jan), so peak home viewing in the US is 21 Dec to 3 Jan; the winter solstice (21 Dec) is the first day of that break. Total 324."
+  },
+  {
+   "date": "2026-11-15 17:07",
+   "note": "Run 56 (global markets (dubbing, Arabic)): YouTube auto dubbing covers 27 languages, with expressive speech (keeps pitch and energy) in 8 including Spanish, Portuguese, Hindi and Indonesian; over 6M people a day watch 10+ minutes of dubbed video; videos with little speech or Content ID claims are ineligible, so sung songs are not a reliable fit. Abu Dhabi's culture chief says 80% of what Arab kids watch is not in Arabic and calls it an opportunity. Total 328."
   }
  ],
  "history": [
@@ -2796,6 +2828,10 @@
   {
    "date": "2026-11-15 17:06",
    "total": 324
+  },
+  {
+   "date": "2026-11-15 17:07",
+   "total": 328
   }
  ],
  "next_week_ideas": [
