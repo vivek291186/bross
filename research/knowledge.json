@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:05:17+05:30",
- "runs": 52,
+ "updated": "2026-11-15T17:05:55+05:30",
+ "runs": 53,
  "branches": [
   {
    "id": "platforms",
@@ -1259,6 +1259,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 41
+    },
+    {
+     "t": "YouTube, Spotify and Meta all play music at roughly -14 LUFS integrated; master Suno exports to about -14 LUFS with true peaks at -1 dBTP, because louder uploads are only turned down and lose punch, while quiet ones are never boosted.",
+     "src": "Fora Soft, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 53
+    },
+    {
+     "t": "TV and FAST delivery use much quieter standards (EBU R128 -23 LUFS, US ATSC -24 LKFS, Netflix -27 dialogue gated), so songs headed to TV channels need a separate broadcast mix.",
+     "src": "Fora Soft, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 53
+    },
+    {
+     "t": "In Suno, prompts like 'children's choir' or 'kids singing' often produce uncanny AI child vocals; a 'bright youthful' or warm adult lead singing simple words sounds cleaner, with a real or tested kid voice only for short echo lines.",
+     "src": "Idea to Music, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 53
+    },
+    {
+     "t": "Suno handles talk to song transitions badly, so spoken lines (a question to the viewer, a countdown) need their own [Spoken] section tag, and style prompts should avoid words like dramatic, intense or dark that create scary moments.",
+     "src": "Idea to Music, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 53
+    },
+    {
+     "t": "Kids song guidance for AI generation: choruses of four lines or fewer, rhymes every two lines, one concept per song and total length under about 2:30.",
+     "src": "Idea to Music, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 53
     }
    ]
   },
@@ -2256,7 +2291,7 @@
   "Every lyric line has an action kids can copy (Total Physical Response): clap, jump, wiggle, freeze, stomp.",
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
   "A tiny story that is easy to follow (one problem, one fix, one clear lesson such as kindness or a healthy habit) with one tempo change kids can act out, ending in a happy payoff; show people and places from many cultures.",
-  "A child's voice as the lead singer; characters look into the camera and talk to the viewer.",
+  "A bright, young sounding lead voice (in Suno ask for 'bright youthful vocals' rather than 'children's choir', which often comes out uncanny); characters look into the camera and talk to the viewer, with spoken lines in their own [Spoken] section; master every song to about -14 LUFS with -1 dBTP peaks.",
   "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist and a learning tag in the title.",
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele).",
   "Camera and motion: calm cuts every 3 to 6 s, lead Bro centred and big, gentle constant background motion (drifting clouds, bubbles, stars) that matches the song, bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
@@ -2478,6 +2513,10 @@
   {
    "date": "2026-11-15 17:05",
    "note": "Run 52 (other platforms (iTunes kids chart)): The current iTunes Top 100 Kids Songs mixes faith songs, gentle lullaby covers (You Are My Sunshine), nostalgic parent era theme songs (Kim Possible, VeggieTales, Return to Pooh Corner), Bluey's Dance Mode, Baby Shark, Ms. Rachel's Wheels on the Bus and silly novelty songs (String Cheese, Raining Tacos, Shiny Teeth). Total 312."
+  },
+  {
+   "date": "2026-11-15 17:05",
+   "note": "Run 53 (music craft (production)): Master songs at about -14 LUFS integrated with -1 dBTP peaks for YouTube, Spotify and Instagram, since louder uploads are just turned down; a separate quieter mix is needed for TV or FAST delivery. Suno guidance: 'children's choir' prompts often give uncanny AI kid vocals, so ask for a bright youthful or warm adult lead; tag spoken lines separately; avoid dark or intense style words; keep songs under about 2:30. Total 317."
   }
  ],
  "history": [
@@ -2688,6 +2727,10 @@
   {
    "date": "2026-11-15 17:05",
    "total": 312
+  },
+  {
+   "date": "2026-11-15 17:05",
+   "total": 317
   }
  ],
  "next_week_ideas": [
