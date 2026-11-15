@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:55:24+05:30",
- "runs": 10,
+ "updated": "2026-11-15T15:56:15+05:30",
+ "runs": 11,
  "branches": [
   {
    "id": "platforms",
@@ -909,6 +909,55 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 6
+    },
+    {
+     "t": "YouTube requires disclosing AI generated music (its detector does not scan soundtracks, so it is on us); clearly animated or unreal visuals need no label, and for animated work the label sits in the expanded description and does not cut reach.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 11
+    },
+    {
+     "t": "Since 27 May 2026 YouTube auto applies AI labels to undeclared photorealistic AI; repeated failure to disclose can lead to removal or Partner Program suspension.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 11
+    },
+    {
+     "t": "YouTube's Jul 2026 inauthentic content update names three non monetisable types: generic or repetitive template series with the same situations and outcomes, unsatisfying shock or stitched AI clips, and AI 'experts' on sensitive topics; a clear original creative spin keeps AI assisted work safe.",
+     "src": "Tubefilter, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 11
+    },
+    {
+     "t": "The FTC's amended COPPA Rule compliance date was 22 Apr 2026: every video needs an audience setting, YouTube's classifier can mark videos as for kids (appeal only), and Disney paid 10M USD partly for labelling whole channels instead of each video.",
+     "src": "PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 11
+    },
+    {
+     "t": "Made for kids channels are excluded from YouTube Shopping affiliates and lose personalised ads, comments and notifications, so revenue depends on views and watch time volume.",
+     "src": "PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 11
+    },
+    {
+     "t": "Suno songs can only be monetised if made on a paid plan (Pro or Premier) at the time of creation; fully AI songs get no copyright, so adding our own written lyrics and arrangement edits protects the human parts. Keep receipts and creation dates per song.",
+     "src": "Dynamoi, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 11
+    },
+    {
+     "t": "Suno settled with Warner Music and is moving to licensed models with monthly download caps; current v5 models will be phased out, so back up the full song catalogue now.",
+     "src": "Dynamoi, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 11
     }
    ]
   },
@@ -934,7 +983,7 @@
   "Thumbnails: one happy face, one clear action, one recognisable object, big eyes, max 3 words, bright plain background; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Weekly long form: one 10 to 20 minute compilation (5 or 6 songs, best performer first) every Friday, the strongest kids upload day; keep a 24/7 live stream of all songs running and point stream playlists back to new uploads.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels.",
-  "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles.",
+  "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
   "Mix in older-kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny, chantable nonsense word kids can shout, not only nursery rhyme remakes.",
   "Titles: story hook plus an age keyword (for toddlers, learn numbers 1-10, bedtime for preschoolers), max 2 caps words and 1 to 2 emojis, no fear, fight, medical or danger words; put every video in a keyword playlist and link the playlist's first video in the description.",
   "Seasonal plan: until 24 Dec post at least 3 holiday neutral winter or lights songs a week (snow, cookies, twinkle lights), each with a sunny summer variant for the southern hemisphere; start Ramadan and Lunar New Year friendly songs in January."
@@ -979,6 +1028,10 @@
   {
    "date": "2026-11-15 15:55",
    "note": "Run 10 (algorithm experiments and data): Timing and format data for kids channels: Friday is the best day and Wednesday the worst (+379% gap), 10 to 20 minute videos suit the niche; 24/7 streams of the back catalogue drive up to 42% of watch time at higher RPM; YouTube Kids app can supply two thirds of traffic; dubbed Spanish tracks hold viewers longer than English. Total 122."
+  },
+  {
+   "date": "2026-11-15 15:56",
+   "note": "Run 11 (rules, safety, monetisation): AI labels: AI generated music must be disclosed (detection does not catch soundtracks) while clearly animated visuals do not need a label; inauthentic content rules demonetise template driven repetition; COPPA amendments took effect 22 Apr 2026 with per video audience labels (Disney paid 10M USD); Suno music needs a paid plan for monetisation and fully AI songs get no copyright. Total 129."
   }
  ],
  "history": [
@@ -1021,6 +1074,10 @@
   {
    "date": "2026-11-15 15:55",
    "total": 122
+  },
+  {
+   "date": "2026-11-15 15:56",
+   "total": 129
   }
  ],
  "next_week_ideas": [
