@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:49:01+05:30",
- "runs": 123,
+ "updated": "2026-11-15T19:50:04+05:30",
+ "runs": 124,
  "branches": [
   {
    "id": "platforms",
@@ -2764,6 +2764,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 122
+    },
+    {
+     "t": "Common Sense Media's video analyser gives kids videos an 'attention capture' level (low, medium, high, very high) from a computer vision flicker score of fast cuts, high contrast colour shifts, sudden motion and busy frames; Bluey scores about 45K (low) and a Vlad and Niki video about 431K (very high), and only low or medium is advised for under 5s.",
+     "src": "commonsense.org, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 124
+    },
+    {
+     "t": "SRI researchers built a machine learning model that spots fast paced children's videos (rapid scene changes, frequent motion, quick cuts) with 85% precision, so pace can now be measured automatically by researchers, rating tools and possibly platforms; calm, readable pacing is becoming a measurable quality signal.",
+     "src": "sri.com, Jun 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 124
+    },
+    {
+     "t": "Because UK guidance and Common Sense both reward co viewing and calm pacing, every song should include moments that invite the parent in (a spoken 'can you show me?', a pause to answer, actions adults can do too) rather than nonstop spectacle.",
+     "src": "ihv.org.uk / commonsense.org, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 124
     }
    ]
   },
@@ -3870,6 +3891,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 119
+    },
+    {
+     "t": "The UK's first national screen guidance for under 5s (27 Mar 2026) says under 2s should use screens only for shared bonding activities, 2 to 5s at most an hour a day and none at meals or in the hour before bed, with slow paced content and no fast social media style videos; watching together is better than solo use.",
+     "src": "ihv.org.uk, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 124
     }
    ]
   },
@@ -4162,12 +4190,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:00",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:01",
-   "note": "Run 45 (competitor deep dive (BabyBus)): BabyBus (43.9M subs, 36B views) posts about 5.6 long videos a week averaging about 31 minutes, 96% long form and 95% evergreen; its recent outliers wrap a preschool lesson in pretend play adventure: Sharing is Caring 2 (54M, 28 times its median), a cardboard escape room police rescue (26M), mosquito and colours, dinosaur chase colours, superhero bug catch. Total 284."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:01",
@@ -4480,6 +4504,10 @@
   {
    "date": "2026-11-15 19:49",
    "note": "Run 123 (music craft (babies, rhythm and movement studies)): Two 2026 infant studies: newborns two days old already predict rhythm patterns but not melody (PLOS Biology, Feb 2026), and in eLife (Jul 2026) babies only started moving differently to real music at 12 months, never in time with the beat, following changes in loudness and energy, with high pitched music drawing the most movement at every age. Total 582."
+  },
+  {
+   "date": "2026-11-15 19:50",
+   "note": "Run 124 (visual craft (pacing ratings and slow content guidance)): Common Sense now rates kids videos for 'attention capture' with a flicker score of cuts, colour flashes and sudden motion (Bluey low at about 45K, a Vlad and Niki video very high at about 431K) and advises low or medium for under 5s. The UK's first national guidance for under 5s (27 Mar 2026) says 2 to 5s should have at most an hour a day of slow paced content and that co viewing is best. Our 3 to 6 second calm cuts fit. Total 586."
   }
  ],
  "history": [
@@ -4974,6 +5002,10 @@
   {
    "date": "2026-11-15 19:49",
    "total": 582
+  },
+  {
+   "date": "2026-11-15 19:50",
+   "total": 586
   }
  ],
  "next_week_ideas": [
