@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:09:13+05:30",
- "runs": 59,
+ "updated": "2026-11-15T17:09:36+05:30",
+ "runs": 60,
  "branches": [
   {
    "id": "platforms",
@@ -2449,6 +2449,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 48
+    },
+    {
+     "t": "Metricool shows our Instagram account at about 1 follower in Nov 2026, so every Reel view comes from non follower recommendations; growing even a few hundred followers (for example by asking parents to follow in captions and bio) would give each Reel a base audience.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 60
+    },
+    {
+     "t": "Daily Instagram Reel views were about 250 to 450 from 1 to 8 Nov (3 to 5 Reels a day, Diwali season) but only about 12 to 90 from 10 to 14 Nov (2 Reels a day); views per Reel also fell, so reach dropped after the festival, not only because we posted fewer.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 60
+    },
+    {
+     "t": "Average reach per Reel over 1 to 15 Nov was about 65 accounts, far below the roughly 30% reach rate typical for accounts with followers, so Instagram is still treating us as a brand new account.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 60
     }
    ]
   }
@@ -2709,6 +2730,10 @@
   {
    "date": "2026-11-15 17:09",
    "note": "Run 59 (rules, safety and monetisation (2027 changes)): Confirmed: from 1 Feb 2027 new Partner Program applicants need 8,000 watch hours or 20M Shorts views (existing members grandfathered, modules must be accepted by 31 Jan 2027); Shorts pool pay becomes a rolling test of 10M views per 90 days. The UK plans an Australia style under 16 social media ban from spring 2027 covering YouTube but not YouTube Kids. (Updated the earlier YPP leaf with the confirmed source.) Total 341."
+  },
+  {
+   "date": "2026-11-15 17:09",
+   "note": "Run 60 (our own results (Instagram account)): Instagram account evolution for 1 to 14 Nov: the account shows only about 1 follower, so all Reel reach is non follower discovery; daily Reel views fell from about 250 to 450 (1 to 8 Nov, 3 to 5 Reels a day) to about 12 to 90 (10 to 14 Nov, 2 Reels a day); average reach per Reel is about 65. Total 344."
   }
  ],
  "history": [
@@ -2947,6 +2972,10 @@
   {
    "date": "2026-11-15 17:09",
    "total": 341
+  },
+  {
+   "date": "2026-11-15 17:09",
+   "total": 344
   }
  ],
  "next_week_ideas": [
