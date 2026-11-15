@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:00:37+05:30",
- "runs": 163,
+ "updated": "2026-11-15T21:01:23+05:30",
+ "runs": 164,
  "branches": [
   {
    "id": "platforms",
@@ -4332,6 +4332,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 157
+    },
+    {
+     "t": "Kids Tv Bangla (Bengali nursery rhymes) has 3.69M subscribers and 2.1B views and still gains about 55M views a month (28 days to 15 Nov 2026) from rhyme remixes and long collections, showing Bengali is a big kids market that a Hindi or English song channel can enter with a Bangla dub.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 164
+    },
+    {
+     "t": "Google Pakistan reported (Dec 2025) that about 60% of watch time on Pakistani YouTube content comes from viewers outside Pakistan and over 1,000 Pakistani channels passed 1M subscribers, so an Urdu version of our Hindi Didi stories (the spoken languages are close) could reach South Asian families in the Gulf, UK and North America.",
+     "src": "dawn.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 164
+    },
+    {
+     "t": "Small South Asian learning channels with ABC and alphabet videos (a Pakistani one with 145K subscribers got only about 2,200 views in 28 days) show subscribers alone do not keep views; Kids Tv Bangla's long rhyme compilations, not short lessons, carry its steady monthly views.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 164
     }
    ]
   },
@@ -5171,11 +5192,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 21 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:51",
-   "note": "Run 85 (YouTube algorithm (custom feeds, originality detail)): Since 8 Nov 2026 US viewers can build Home feeds from typed prompts and these custom feeds now replace the old topic chips in the top bar. Hype with Jewels expanded on 6 Nov to nine countries for Partner channels of 500 to 500K subscribers. YouTube's 1 Oct originality post says template edits and narration over others' clips are not original; our own clips need their own framing. Total 449."
+   "note": "Earlier runs summarised: 22 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:52",
@@ -5488,6 +5505,10 @@
   {
    "date": "2026-11-15 21:00",
    "note": "Run 163 (topics and seasons (family films in the next 6 weeks)): The toy lists were already in the tree. Next family films: Disney's original 'Hexed' (25 Nov 2026, Thanksgiving week, a teen girl discovering magic and a hidden witch world) and The Angry Birds Movie 3 (25 Dec 2026), so magic spells and funny birds will be in kids' heads through the holidays; we use the themes in our own way, never the characters. Total 726."
+  },
+  {
+   "date": "2026-11-15 21:01",
+   "note": "Run 164 (global markets (Bangla and Urdu, South Asia beyond Hindi)): Bengali rhyme channel Kids Tv Bangla has 3.69M subscribers and 2.1B views and still draws about 55M views a month from rhyme remixes and collections, so Bangla (around 270M speakers) is a large, under served kids language. Google says about 60% of watch time on Pakistani content comes from viewers abroad, so Urdu songs travel to the diaspora in the Gulf, UK and North America. Total 729."
   }
  ],
  "history": [
@@ -6142,6 +6163,10 @@
   {
    "date": "2026-11-15 21:00",
    "total": 726
+  },
+  {
+   "date": "2026-11-15 21:01",
+   "total": 729
   }
  ],
  "next_week_ideas": [
