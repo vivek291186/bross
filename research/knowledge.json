@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:56:05+05:30",
- "runs": 35,
+ "updated": "2026-11-15T16:56:32+05:30",
+ "runs": 36,
  "branches": [
   {
    "id": "platforms",
@@ -1770,6 +1770,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 24
+    },
+    {
+     "t": "Instagram Reels posted 9 to 14 Nov got only 5 to 91 views each, down from about 100 to 125 in early November, so our Instagram reach has kept falling for two weeks.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 36
+    },
+    {
+     "t": "The best Reels that week were the mystery (Who Took the Cookie, 91 views), the bedtime shy monster lullaby (65) and the pirate treasure hunt (62): a question or a little mystery in the first line pulls more viewers than an action list.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 36
+    },
+    {
+     "t": "Average Reel watch time is mostly 2 to 4 seconds; the exceptions were Blast Off space bus (about 14 s), the Hindi grumpy cloud story (about 12 s) and the giant pumpkin garden song (about 9 s), all with a clear transformation (rocket launch, rain, seed to pumpkin).",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 36
+    },
+    {
+     "t": "Saves and shares on our Reels are still zero across the week, so nothing yet makes parents send our Reels to others, the strongest Instagram reach signal.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 36
     }
    ]
   }
@@ -1934,6 +1962,10 @@
   {
    "date": "2026-11-15 16:56",
    "note": "Run 35 (rules, safety and monetisation): Team YouTube's 1 Apr 2026 YouTube Kids FAQ: automated filters scan thumbnails, titles and video first, humans spot check, parent flags are reviewed around the clock; excluded are paid placements, purchase pushing, packaging and haul content. The Partner Program policy now names 'mass produced content' (renamed from repetitious in Jul 2025). Total 244."
+  },
+  {
+   "date": "2026-11-15 16:56",
+   "note": "Run 36 (our own results (Instagram)): Instagram Reels from 9 to 14 Nov got only 5 to 91 views each (down from about 100 to 125 in early November); the mystery and bedtime story Reels led (Who Took the Cookie 91, shy monster lullaby 65, pirate 62); longest average watch was Blast Off space bus (about 14 s); most Reels hold viewers only 2 to 4 s. Total 248."
   }
  ],
  "history": [
@@ -2076,6 +2108,10 @@
   {
    "date": "2026-11-15 16:56",
    "total": 244
+  },
+  {
+   "date": "2026-11-15 16:56",
+   "total": 248
   }
  ],
  "next_week_ideas": [
