@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:40:39+05:30",
- "runs": 315,
+ "updated": "2026-11-16T04:41:20+05:30",
+ "runs": 316,
  "branches": [
   {
    "id": "platforms",
@@ -4290,6 +4290,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 305
+    },
+    {
+     "t": "A randomised trial with 60 Chinese kindergarteners (Frontiers in Psychology, Jan 2026) found eight weeks of group rhythm games (clapping, stepping, passing in time, then simple percussion) raised cooperative play from 16% to 81% of children, so call and response 'you clap, I stomp' parts in our songs are more than fun.",
+     "src": "Frontiers in Psychology, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 316
+    },
+    {
+     "t": "An Australian randomised trial with 213 preschoolers in low income areas (Behavioral Sciences, 2026) found rhythm and movement sessions led by ordinary teachers improved prosocial skills and reduced behaviour problems, still visible six months later in school, which supports stop, go and freeze style action songs.",
+     "src": "Behavioral Sciences, 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 316
+    },
+    {
+     "t": "The Growing Up in New Zealand study (over 6,000 children followed for 12 years, Feb 2026) found most babies are sung to daily but parents sing less as children grow, while older children listen more on their own and choose their own music, so songs for 6 to 8 year olds must win the child directly, not the parent.",
+     "src": "Scimex, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 316
     }
    ]
   },
@@ -9346,10 +9367,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 00:41",
-   "note": "Run 237 (competitor deep dive (Super Simple Songs at 20, Little Angel and Moonbug's routine channels, Mother Goose Club in apps)): Super Simple Songs (70M+ subscribers, 90B+ views) grew from teachers making English learning songs in 2006 and now researches music and early learning with Oxford University Press; Little Angel pulls about 1.4B views a month across 25 languages, and Moonbug sells its channels as routine helpers from morning to bedtime. Mother Goose Club licensed its library into an ad free learning app. Total 1041."
-  },
-  {
    "date": "2026-11-16 00:43",
    "note": "Run 238 (TRENDS (December outlook: holiday toy themes and last December's returning formats)): Holiday 2026 toy lists are led by blind box surprises, hatching eggs, digital pets and calm, mindful play, while last December's TikTok formats likely to return include advent calendar days, a 'how to' tutorial that turns into a dance and layered harmony grids. Two seasonal formats joined the trend bank and the mystery box entry gained a hatching egg version. Total 1046."
   },
@@ -9660,13 +9677,13 @@
   {
    "date": "2026-11-16 04:40",
    "note": "Run 315 (TRENDS (last winter's returners: New Year goal reveals, 'it's freezing' reaction, sway at the drop duet, cheesy winter effects, original jingles)): NewEngen's December and January roundups show which winter formats are likely back in 4 to 7 weeks: greenscreen New Year resolution reveals and month by month recaps, a squeaky 'freezing!' reaction on stepping outside, a duet where two people argue then sway and cover their faces at the drop, deadpan snow clips with deliberately cheesy effects, and creators writing original jingles. Two joined the trend bank and a winter clothes song joined the ideas. Total 1321."
+  },
+  {
+   "date": "2026-11-16 04:41",
+   "note": "Run 316 (music craft (rhythm games build cooperation, rhythm and movement for self regulation, singing to kids fades with age)): Two 2026 trials back movement songs: 8 weeks of clap, step and pass rhythm games lifted cooperation in 5 to 6 year olds (81% cooperative versus 16% before), and an Australian trial with 213 preschoolers found rhythm and movement sessions improved prosocial behaviour six months later. A 12 year New Zealand study shows parents sing less as kids grow while kids start picking their own music. Total 1324."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 16:00",
-   "total": 157
-  },
   {
    "date": "2026-11-15 16:00",
    "total": 163
@@ -10862,6 +10879,10 @@
   {
    "date": "2026-11-16 04:40",
    "total": 1321
+  },
+  {
+   "date": "2026-11-16 04:41",
+   "total": 1324
   }
  ],
  "next_week_ideas": [
