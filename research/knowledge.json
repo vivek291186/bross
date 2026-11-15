@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:50:27+05:30",
- "runs": 84,
+ "updated": "2026-11-15T18:51:13+05:30",
+ "runs": 85,
  "branches": [
   {
    "id": "platforms",
@@ -902,6 +902,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 81
+    },
+    {
+     "t": "Since 8 Nov 2026 US viewers can create Home feeds from typed prompts (for example 'calm songs for my toddler'), and these custom feeds now sit in the top bar and replace the standard topic chips, so clear plain words in titles and descriptions about age, mood and topic help a song match those prompts.",
+     "src": "Social Media Today, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 85
+    },
+    {
+     "t": "On 6 Nov 2026 YouTube expanded Hype with Jewels to the US, Canada, the UK, Germany, Ireland, Italy, Poland, Spain and Turkey for Partner Program channels with 500 to 500,000 subscribers, letting viewers and creators buy reach boosts; it matters only once we join the Partner Program.",
+     "src": "Social Media Today, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 85
+    },
+    {
+     "t": "YouTube's 1 Oct 2026 Shorts originality post says minor technical edits, template based bulk changes and narration over clips do not make content original; it does not cover cutting your own long videos, so each Bro Bros Short should get its own vertical framing, hook line or ending rather than a plain trim.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 85
     }
    ]
   },
@@ -3215,10 +3236,6 @@
   },
   {
    "date": "2026-11-15 15:52",
-   "note": "Run 6 (visual craft): Thumbnails and titles for kids: YouTube Test and Compare is blocked for made for kids videos; thumbnail formula of one happy face, one action, one item; titles with a story hook plus an age keyword; risky word clusters; playlists as main discovery; short clips only grow distinctive characters. Total 95."
-  },
-  {
-   "date": "2026-11-15 15:52",
    "note": "Run 7 (topics and seasons): Next 4 weeks calendar: Hanukkah from 4 Dec, St Nicholas 6 Dec, Velitas 7 Dec, St Lucia 13 Dec, Las Posadas 16 Dec, Christmas, Kwanzaa; holiday music interest climbs from the day after Halloween; December is summer break in the southern hemisphere; Ramadan 2027 likely from 8 Feb. Total 101."
   },
   {
@@ -3528,6 +3545,10 @@
   {
    "date": "2026-11-15 18:50",
    "note": "Run 84 (YouTube charts and movers (vidIQ 30 day growth)): vidIQ's fastest growing list to 14 Nov is led by Sasha Show (+8.8M) and Brazilian and Spanish family creators; Pokemon Kids TV (+1.7M) and El Tren Nam Nam (+1.6M) are the kids brands in the top 20 and no pure song channel is in the top 40. Kids Funny Songs lost about 1.5B counted views in early November, and its newest upload is another egg reveal. Total 446."
+  },
+  {
+   "date": "2026-11-15 18:51",
+   "note": "Run 85 (YouTube algorithm (custom feeds, originality detail)): Since 8 Nov 2026 US viewers can build Home feeds from typed prompts and these custom feeds now replace the old topic chips in the top bar. Hype with Jewels expanded on 6 Nov to nine countries for Partner channels of 500 to 500K subscribers. YouTube's 1 Oct originality post says template edits and narration over others' clips are not original; our own clips need their own framing. Total 449."
   }
  ],
  "history": [
@@ -3866,6 +3887,10 @@
   {
    "date": "2026-11-15 18:50",
    "total": 446
+  },
+  {
+   "date": "2026-11-15 18:51",
+   "total": 449
   }
  ],
  "next_week_ideas": [
