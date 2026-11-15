@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:40:23+05:30",
- "runs": 187,
+ "updated": "2026-11-15T22:41:24+05:30",
+ "runs": 188,
  "branches": [
   {
    "id": "platforms",
@@ -4780,6 +4780,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 176
+    },
+    {
+     "t": "Mexico's El Tren Nam Nam rocketed to No. 2 among the world's most viewed channels (about 1.08B views in the week of 25 Oct 2026, +96%) and two weeks later fell to No. 39 (about 360M, -52%), so Spanish language kids content can produce the biggest weekly spikes on YouTube, but they fade fast without a steady catalogue.",
+     "src": "Tubefilter, Oct and Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 188
+    },
+    {
+     "t": "Kids and family channels in the worldwide weekly top 50 (week of 8 Nov 2026) came from Australia (Cadel and Mia, No. 3, about 890M), Germany (Jasmin and James, No. 11, about 623M), Indonesia (Keizo and Friends, No. 20, about 498M) and Mexico, so family Shorts audiences are spread across every region, not centred on the US.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 188
+    },
+    {
+     "t": "VocaVoca (US nursery songs) was No. 11 worldwide with about 675M weekly views in late October but missing from the top 50 by the week of 8 Nov, showing how fast weekly views swing for song channels and why we judge our results on monthly, not weekly, trends.",
+     "src": "Tubefilter, Oct and Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 188
+    },
+    {
+     "t": "Nigeria's House of Ajebo runs Jeni and Keni, an animated YouTube series about two siblings for ages 1 to 6 with Afrobeat style songs that teach kindness and share African culture (relaunched 2025); sibling led song brands are being built in Africa too, and an Afrobeat flavoured Bro Bros song would speak to West Africa and its diaspora.",
+     "src": "BusinessDay Nigeria, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 188
     }
    ]
   },
@@ -5853,10 +5881,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 19:08",
-   "note": "Run 109 (YouTube algorithm (Home ranking for small and mixed channels)): Todd Beaupre (Creator Insider, 1 Sep 2026): Home does not try to put a channel in one category but ranks each video for each viewer, judges videos on how they do in the Home context, and wider reach naturally lowers click rate. Claims of a February 2026 'micro niche' Home overhaul had no YouTube source. Subscriptions moved into Home as a Subs tab on 22 Oct 2026. Total 527."
-  },
-  {
    "date": "2026-11-15 19:09",
    "note": "Run 110 (Shorts and Reels (Shorts metrics in Studio)): For Shorts, Studio's 'how many chose to view' (viewed vs swiped away) mostly reflects the first two seconds, with community benchmarks of 70 to 79% working and 80% plus strong; 'shown in feed' shows whether YouTube is distributing at all, and engaged views (not raw views) decide Partner Program eligibility and Shorts revenue. Our Shorts feed gave only 37 views in two weeks, a distribution problem first. Total 530."
   },
@@ -6167,6 +6191,10 @@
   {
    "date": "2026-11-15 22:40",
    "note": "Run 187 (TRENDS (December formats likely to return, school dance challenges)): Last December's TikTok list shows formats that come back with the season: 25 day advent calendar series, multi screen harmony grids, say the word on beat partner games and 'it's freezing' door reactions. Three kid safe versions joined the trend bank, led by a 24 door Bro Bros advent series. School dance challenges filmed in uniform keep spreading in South Africa. Total 822."
+  },
+  {
+   "date": "2026-11-15 22:41",
+   "note": "Run 188 (global markets (Mexico's spike channel, top 50 by country, Nigerian Afrobeat kids animation)): Mexico's El Tren Nam Nam jumped to No. 2 worldwide (about 1.08B views in the week of 25 Oct) then fell 52% two weeks later, and VocaVoca dropped out of the top 50 from No. 11, so kids channel peaks swing fast. The kids and family channels in the weekly top 50 now come from Australia, Germany, Indonesia, Mexico, India and Canada. Nigeria's Jeni and Keni (two siblings, Afrobeat songs for ages 1 to 6) is a close African analogue to Bro Bros. Total 826."
   }
  ],
  "history": [
@@ -6917,6 +6945,10 @@
   {
    "date": "2026-11-15 22:40",
    "total": 822
+  },
+  {
+   "date": "2026-11-15 22:41",
+   "total": 826
   }
  ],
  "next_week_ideas": [
