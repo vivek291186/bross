@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:36:07+05:30",
- "runs": 233,
+ "updated": "2026-11-16T00:37:19+05:30",
+ "runs": 234,
  "branches": [
   {
    "id": "platforms",
@@ -4269,6 +4269,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 229
+    },
+    {
+     "t": "vidIQ coded 500 breakout thumbnails from 30 niches (month to 30 Jun 2026): 89% had a human face or high contrast, faces rose to 80% among the top 50, 72% carried overlay text with a median of 5 words, 28% had no text at all, and only 5% used an exaggerated expression, so calm happy faces and few words are the winning norm, not shock faces.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 234
+    },
+    {
+     "t": "Among vidIQ's top 50 breakouts the face often filled about a third of the frame, close to our rule of a Bro face at about 40% of frame height; the study notes correlation only, since the thumbnail is one of several factors.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 234
+    },
+    {
+     "t": "A Developmental Science meta analysis (19 studies, 1,431 children aged 1.5 to 10 on pace; 16 studies, 1,297 children on fantasy) found fast editing pace had no significant overall effect on attention and executive function, while fantastical content (talking objects, magic, flying) caused a moderate short term dip, so Bro Bros learning and routine songs should stay in real feeling settings with one magic moment rather than nonstop magic.",
+     "src": "PsyPost on Developmental Science, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 234
+    },
+    {
+     "t": "A JAMA Network Open study found videos recommended for popular children's search terms often had violent, stereotyped or frightening thumbnails, which gives a calm, cheerful Bro Bros thumbnail style a trust advantage with parents.",
+     "src": "EurekAlert on JAMA Network Open, May 2024",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 234
+    },
+    {
+     "t": "Annecy and MIFA 2026 buyers favoured distinctive handmade looks enhanced by technology over AI generated content (an Aardman stop motion Pokemon pilot for 2027, WildBrain mixing CG with live action), so Bro Bros renders should carry handmade touches such as felt, clay or knitted textures on sets and props to feel crafted rather than generated.",
+     "src": "License Global, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 234
     }
    ]
   },
@@ -7214,12 +7249,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 20:52",
-   "note": "Earlier runs summarised (up to Run 154): older log lines condensed."
-  },
-  {
    "date": "2026-11-15 20:53",
-   "note": "Run 155 (rules and safety (AI kids content pressure, addiction verdict, AI label exemption)): Over 200 child advocacy groups want AI made videos banned from the YouTube Kids app; YouTube's AI disclosure rules exempt clearly unrealistic animation, so cartoons need no label but face rising scrutiny. A Los Angeles jury (25 Mar 2026) found Google and Meta negligent in YouTube and Instagram design ($6M), with more trials in 2026, so platforms keep adding kid safeguards. Total 700."
+   "note": "Earlier runs summarised (up to Run 155): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:54",
@@ -7532,6 +7563,10 @@
   {
    "date": "2026-11-16 00:36",
    "note": "Run 233 (music craft (children's singing range by age, and how AI music gets flagged)): Children sing loudest around F and G; comfortable ranges grow from C to A at ages 3 to 5 to about B flat to high E at 9 to 11, and songs starting on the downbeat with 4 to 8 beat phrases are easiest. YouTube's inauthentic content checks reportedly look for audio that clusters from the same tool and presets, so 14 Suno songs a week must vary style prompts. A first study of AI kids videos found music and stories dominate but most get few views. Total 1017."
+  },
+  {
+   "date": "2026-11-16 00:37",
+   "note": "Run 234 (visual craft (breakout thumbnail data, fantasy versus pace, handmade looks at Annecy)): vidIQ's coding of 500 breakout thumbnails (June 2026) found 89% use a face or high contrast and only 5% an exaggerated expression; a meta analysis of 35 experiments found fast editing alone does not hurt kids' attention but constant fantasy causes a short dip, so routine and learning songs should stay grounded with one magic moment. Annecy 2026 buyers favoured handmade looks over AI looking ones. Total 1022."
   }
  ],
  "history": [
@@ -8466,6 +8501,10 @@
   {
    "date": "2026-11-16 00:36",
    "total": 1017
+  },
+  {
+   "date": "2026-11-16 00:37",
+   "total": 1022
   }
  ],
  "next_week_ideas": [
