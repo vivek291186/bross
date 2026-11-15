@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:00:51+05:30",
- "runs": 132,
+ "updated": "2026-11-15T20:01:42+05:30",
+ "runs": 133,
  "branches": [
   {
    "id": "platforms",
@@ -3667,6 +3667,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 127
+    },
+    {
+     "t": "In Akatsuki's survey of parents in 10 Indian metros, YouTube (76%) leads kids animation viewing ahead of Netflix (57%) and TV (26%), with TV the main daily screen (60%) ahead of phones (49%); parents choose shows mainly for entertainment (64%) over the child's happiness (45%) and learning (35%).",
+     "src": "indiantelevision.com, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 133
+    },
+    {
+     "t": "The same urban Indian parents most prefer English language animation, with Tamil, Telugu and Bangla the top regional language choices, and they rank local characters and storylines lowest (11%), so our English songs already suit metro Indian families and South Indian dubs may matter more than expected.",
+     "src": "indiantelevision.com, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 133
+    },
+    {
+     "t": "Indian kids studio PunToon (early 2026) says parents increasingly pick culturally rooted Indian stories, and that India's kids creators are moving away from YouTube only income after COPPA ad cuts, toward game apps, school holiday mall events and brand partners (Duolingo, FirstCry), so festival songs plus off platform partners suit the Indian market.",
+     "src": "indiantelevision.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 133
     }
    ]
   },
@@ -4400,12 +4421,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:05",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:06",
-   "note": "Run 54 (visual craft (our tools)): Meshy Animate has 500 to 600+ humanoid motion presets in five groups including Dancing, with Text to Motion for custom moves, best rigged from a T or A pose and exported as FBX with a Mixamo skeleton into Blender; four legged characters only get a walk. A 2026 study found Blender Eevee toon shading with outlines rendered over 10 times faster than Cycles with little quality loss and scored high with viewers. Total 321."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:06",
@@ -4718,6 +4735,10 @@
   {
    "date": "2026-11-15 20:00",
    "note": "Run 132 (topics and seasons (Ramadan 2027, the early February cluster)): Ramadan 2027 is projected to begin on 8 Feb with Eid al Fitr on 9 or 10 Mar, so the first fortnight of February stacks Lunar New Year (6 Feb), Brazil's Carnival (6 to 9 Feb) and the start of Ramadan; songs for all three need to be live by late January. Playbook: thumbnails may show two happy faces, per new thumbnail data. Total 616."
+  },
+  {
+   "date": "2026-11-15 20:01",
+   "note": "Run 133 (global markets (India)): An Akatsuki survey of parents in 10 Indian metros ranks YouTube (76%), Netflix (57%) and TV (26%) as the top kids animation platforms; urban parents prefer entertainment led English animation, with Tamil, Telugu and Bangla the top regional language picks, and they rank local storylines lowest. Indian studio PunToon reports the opposite pull too (culturally rooted Indian stories) and a move beyond YouTube only income to apps, events and brand deals. Total 619."
   }
  ],
  "history": [
@@ -5248,6 +5269,10 @@
   {
    "date": "2026-11-15 20:00",
    "total": 616
+  },
+  {
+   "date": "2026-11-15 20:01",
+   "total": 619
   }
  ],
  "next_week_ideas": [
