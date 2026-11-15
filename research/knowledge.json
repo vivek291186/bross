@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:09:18+05:30",
- "runs": 22,
+ "updated": "2026-11-15T16:09:45+05:30",
+ "runs": 23,
  "branches": [
   {
    "id": "platforms",
@@ -1301,6 +1301,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 20
+    },
+    {
+     "t": "YouTube's five high quality traits for kids content are kindness and healthy habits, curiosity and learning, creativity and imaginative play, life skills with clear lessons, and diverse people and places; videos with them are promoted in recommendations.",
+     "src": "YouTube Help, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 23
+    },
+    {
+     "t": "Quality is judged at two levels: a single low quality video gets limited or no ads, while a channel that focuses on low quality content can be suspended from the Partner Program.",
+     "src": "YouTube Help, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 23
+    },
+    {
+     "t": "'Deceptively educational' is a named low quality type: a title or thumbnail that promises learning must deliver accurate learning in the video, so 'learn colours' songs must really teach colours.",
+     "src": "YouTube Help, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 23
+    },
+    {
+     "t": "'Hard to follow' storylines count as low quality, so each song should tell one clear, simple story from start to finish.",
+     "src": "YouTube Help, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 23
     }
    ]
   },
@@ -1373,7 +1401,7 @@
   "One 1-2 bar hook repeated in every chorus, simple melody inside about 5 notes; add nonsense syllables (la la, doo doo) kids can sing before they can talk.",
   "Every lyric line has an action kids can copy (Total Physical Response): clap, jump, wiggle, freeze, stomp.",
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
-  "A tiny story with one tempo change kids can act out (speed up, slow down, freeze), ending with a happy payoff.",
+  "A tiny story that is easy to follow (one problem, one fix, one clear lesson such as kindness or a healthy habit) with one tempo change kids can act out, ending in a happy payoff; show people and places from many cultures.",
   "A child's voice as the lead singer; characters look into the camera and talk to the viewer.",
   "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist and a learning tag in the title.",
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele).",
@@ -1476,6 +1504,10 @@
   {
    "date": "2026-11-15 16:09",
    "note": "Run 22 (algorithm experiments and data): Two kids channel experiments: WOA Song Spanish removed policy risky long videos and posted 31 quality checked Shorts in a quarter, views went from 27M to 1.46B with Shorts at 98% of views; another channel halved long form, doubled Shorts cut from its best moments and moved to 4K TV friendly quality, revenue up 34%. Total 186."
+  },
+  {
+   "date": "2026-11-15 16:09",
+   "note": "Run 23 (rules, safety, monetisation): Re checked YouTube's official kids and family quality principles: five high quality traits (kindness and healthy habits, curiosity and learning, creativity and play, life skills with clear lessons, diverse people and places) are promoted in recommendations and YouTube Kids; a channel focused on low quality content can lose the Partner Program. Total 190."
   }
  ],
  "history": [
@@ -1566,6 +1598,10 @@
   {
    "date": "2026-11-15 16:09",
    "total": 186
+  },
+  {
+   "date": "2026-11-15 16:09",
+   "total": 190
   }
  ],
  "next_week_ideas": [
