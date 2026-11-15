@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:52:11+05:30",
- "runs": 154,
+ "updated": "2026-11-15T20:53:12+05:30",
+ "runs": 155,
  "branches": [
   {
    "id": "platforms",
@@ -4661,6 +4661,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 154
+    },
+    {
+     "t": "More than 200 child advocacy groups and child development experts (2026) asked YouTube to ban AI generated videos from the YouTube Kids app and give parents tools to limit AI content on main YouTube; for an AI assisted channel like ours, proof of human craft (original songs, designed characters, real story and learning goals) is the best protection if rules tighten.",
+     "src": "emarketer.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 155
+    },
+    {
+     "t": "YouTube's synthetic content disclosure rule exempts clearly unrealistic animation, so our 3D cartoons do not need an 'altered or synthetic' label, while anything that looks realistic (photoreal people, fake real world footage) would; scripts and captions written with AI also need no disclosure.",
+     "src": "wired.com, Mar 2024",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 155
+    },
+    {
+     "t": "A Los Angeles jury found Google and Meta negligent in designing YouTube and Instagram and failing to warn users (25 Mar 2026, 6M USD, appeal planned), a bellwether for thousands of child harm cases with more trials due in 2026, so expect further kid safeguards such as less autoplay and scrolling that reduce passive binge views.",
+     "src": "thestar.com.my (Reuters), Mar 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 155
+    },
+    {
+     "t": "With pressure on attention grabbing design for kids, songs that end calmly, invite a real world action (go brush your teeth, time for bed) and avoid endless cliffhangers fit where regulators and parents are pushing YouTube, and are less likely to be hit by future limits.",
+     "src": "thestar.com.my and emarketer.com, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 155
     }
    ]
   },
@@ -4961,11 +4989,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 12 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:37",
-   "note": "Run 76 (music craft (Suno v6, infant pitch study)): Suno v6 (Sep 2026) lets us rewrite one section or one lyric line in plain words instead of regenerating, and older models are being retired. The Vienna eLife infant study found higher pitches drew more movement at 3, 6 and 12 months; a Bond University study found 4 to 6 year olds focused faster after slow tempo music. Total 409."
+   "note": "Earlier runs summarised: 13 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:38",
@@ -5278,6 +5302,10 @@
   {
    "date": "2026-11-15 20:52",
    "note": "Run 154 (algorithm experiments (kids channel case results, Shorts length data)): Two AIR kids cases: a 3M+ channel gave its near identical song versions different visuals, grouped 2 to 3 minute songs into compilations (+19% watch duration, +72% RPM) and posted several Shorts a day for +27% views; another swapped exaggerated thumbnails for calm, positive, accurate ones and Browse traffic jumped 173%. Shorts length data clusters top performers at 25 to 35 seconds, and trimming one second can lift retention 5 points. Total 696."
+  },
+  {
+   "date": "2026-11-15 20:53",
+   "note": "Run 155 (rules and safety (AI kids content pressure, addiction verdict, AI label exemption)): Over 200 child advocacy groups want AI made videos banned from the YouTube Kids app; YouTube's AI disclosure rules exempt clearly unrealistic animation, so cartoons need no label but face rising scrutiny. A Los Angeles jury (25 Mar 2026) found Google and Meta negligent in YouTube and Instagram design ($6M), with more trials in 2026, so platforms keep adding kid safeguards. Total 700."
   }
  ],
  "history": [
@@ -5896,6 +5924,10 @@
   {
    "date": "2026-11-15 20:52",
    "total": 696
+  },
+  {
+   "date": "2026-11-15 20:53",
+   "total": 700
   }
  ],
  "next_week_ideas": [
