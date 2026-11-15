@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:05:37+05:30",
- "runs": 229,
+ "updated": "2026-11-16T00:06:22+05:30",
+ "runs": 230,
  "branches": [
   {
    "id": "platforms",
@@ -1833,6 +1833,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 216
+    },
+    {
+     "t": "YouTube's video A/B test (shown 23 to 25 Sep 2026) lets a creator upload up to three cuts of the same video, for example different first seconds, and compare their retention curves; unlike title and thumbnail tests it appears the creator, not the system, picks the winner.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 230
+    },
+    {
+     "t": "No launch date was given for video cut tests, but title testing went live 84 days after its 2025 announcement, which points to roughly mid December 2026 if YouTube follows the same pace; eligibility and made for kids access are not confirmed, and made for kids channels already lose some Studio tools.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 230
+    },
+    {
+     "t": "YouTube's coming 'dynamic thumbnails' will keep up to three creator chosen thumbnails live at once and show each to the viewer groups it suits best, instead of crowning one winner, which could let one Bro Bros song show a baby friendly image to some viewers and a dance image to others.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 230
     }
    ]
   },
@@ -6551,6 +6572,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 227
+    },
+    {
+     "t": "To be ready for cut testing, every major Bro Bros song should keep two alternative openings in the Blender project (one starting on the dance hook, one on a funny moment), costing little extra render time.",
+     "src": "PPC Land, Sep 2026 (our plan)",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 230
     }
    ]
   },
@@ -7075,11 +7103,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 150): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:48",
-   "note": "Run 151 (topics and seasons (International Day of Persons with Disabilities, inclusive characters, Guadalupe)): The December calendar was mostly in the tree already. New: International Day of Persons with Disabilities is Thu 3 Dec 2026 with school assemblies in many countries, and Peppa Pig made George moderately deaf in 2026 after wheelchair user Mandy Mouse, with disability still rare in kids TV, so an inclusive dance song fits early December. Mexico's 12 Dec Guadalupe day is religious, so we note it but stay neutral. Total 683."
+   "note": "Earlier runs summarised (up to Run 151): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:50",
@@ -7392,6 +7416,10 @@
   {
    "date": "2026-11-16 00:05",
    "note": "Run 229 (TRENDS (slow spin transitions, colourful retro Christmas over beige)): The slow spin transition (a gentle turn on the spot that hides an outfit or scene change) is a calm, all ages Reels format that joined the trend bank as a season swap. Since 2023 TikTok has pushed back on beige minimal Christmas toward colourful, nostalgic early 2000s style (rainbow bulbs, mismatched ornaments, tinsel), which matches Bro Bros' bright palette for December sets. Total 997."
+  },
+  {
+   "date": "2026-11-16 00:06",
+   "note": "Run 230 (algorithm experiments (video cut A/B tests and dynamic thumbnails: what is known)): Details of YouTube's coming video A/B tests: up to three full cuts of one video (for example different openings), judged on retention curves, with the creator choosing the winner; no date yet (title tests took 84 days from announcement to launch, which points to about mid December 2026). Dynamic thumbnails will keep up to three images live for different viewer groups. Made for kids access is unconfirmed, so we should prepare two openings per key song but not rely on the tool. Total 1001."
   }
  ],
  "history": [
@@ -8310,6 +8338,10 @@
   {
    "date": "2026-11-16 00:05",
    "total": 997
+  },
+  {
+   "date": "2026-11-16 00:06",
+   "total": 1001
   }
  ],
  "next_week_ideas": [
