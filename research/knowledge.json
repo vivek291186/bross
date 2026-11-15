@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:35:53+05:30",
- "runs": 273,
+ "updated": "2026-11-16T02:38:17+05:30",
+ "runs": 274,
  "branches": [
   {
    "id": "platforms",
@@ -8322,6 +8322,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 271
+    },
+    {
+     "t": "A childhood then and now photo carousel set to a slow classic rock song about time passing gathered nearly 9M views in a few weeks (Masterhooks via Fast Company, 10 Nov 2026): slide one shows someone as a small child, slide two shows them now doing the same thing, a format Bro Bros can copy with baby versions of the brothers and our own gentle song.",
+     "src": "Fast Company, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 274
+    },
+    {
+     "t": "Epidemic Sound's 13 Nov 2026 TikTok roundup lists a 'first time in a fancy cafe' gag (someone sits on a strange looking table thinking it is a stool while another person uses it correctly), a kid safe slapstick idea of picking the wrong seat that suits a silly song.",
+     "src": "Epidemic Sound, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 274
+    },
+    {
+     "t": "The 'out of breath' dance challenge has people dance full out to a strong beat until they are exhausted, ending on a dramatic flop or funny face (15 to 60 seconds, top clips past 10M views, parents joining kids), a ready ending for any high energy Bro Bros song.",
+     "src": "AcademicJobs, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 274
+    },
+    {
+     "t": "Mid November 2026 roundups from Later (13 Nov), Epidemic Sound (13 Nov) and inmagic (9 Nov) add almost no new kid dances; adult lip syncs and ironic quotes dominate, while the 'It's time' Christmas transformation edit is the main seasonal format, so Bro Bros should lean on its own original dances plus holiday start reveals this week.",
+     "src": "Later, Epidemic Sound, inmagic, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 274
+    },
+    {
+     "t": "Later's 13 Nov 2026 list keeps three formats running a second week (five clip '5 stages of being...' moods, locked camera outfit change on one repeated move, and timestamped clips of a single appointment), showing these structures last longer than any single sound.",
+     "src": "Later, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 274
     }
    ]
   }
@@ -8349,11 +8384,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 194): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:52",
-   "note": "Run 195 (topics and seasons (year end cleaning, Hogmanay, classroom Thanksgiving songs)): Year end cleaning to welcome the new year is shared by Japan (osoji, then soba at midnight and mochi soup on 1 Jan) and Scotland (redding the house, then first footing with a biscuit or candle for luck and Auld Lang Syne in a hand holding circle), a cross cultural hook for a tidy up New Year song. Preschool teachers' Thanksgiving playlists lean on turkey hop movement songs, countdown songs and homemade shakers. Total 851."
+   "note": "Earlier runs summarised (up to Run 195): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:53",
@@ -8666,6 +8697,10 @@
   {
    "date": "2026-11-16 02:35",
    "note": "Run 273 (competitor deep dive (BabyBus slowdown, CoComelon Portuguese upload mix)): vidIQ's 13 Nov snapshot shows BabyBus (44.2M subs) growing only about 100K a month in 2026 with monthly views falling from about 328M in April to 218M in October, while old evergreen songs (Rainbow Juice, Sharing is Caring) still lead. CoComelon's Portuguese channel mixes about 3 long videos to 2 Shorts, keeps Shorts near 20 seconds as 'find the hidden character' games, and marks new songs with a star NEW tag. Total 1179."
+  },
+  {
+   "date": "2026-11-16 02:38",
+   "note": "Run 274 (TRENDS (childhood then and now carousel, wrong seat gag, out of breath dance)): Mid November roundups (Later 13 Nov, Epidemic Sound 13 Nov) bring few new kid dances; new kid safe formats are a childhood photo then now carousel set to a slow song about time (nearly 9M views in weeks, Fast Company 10 Nov), a 'first time in a fancy cafe' gag of sitting on the wrong furniture, and an 'out of breath' dance where people dance full out until they flop. Three joined the trend bank, replacing the Brazil style circle, the drum kick before and after cut and the trio chipmunk dance. Total 1184."
   }
  ],
  "history": [
@@ -9760,9 +9795,17 @@
   {
    "date": "2026-11-16 02:35",
    "total": 1179
+  },
+  {
+   "date": "2026-11-16 02:38",
+   "total": 1184
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Look How Big I've Grown!",
+   "why": "The childhood then and now carousel (about 9M views in weeks) shows the pull of growth stories; a gentle song where the brothers compare baby moments to now travels in any culture and fits New Year recaps."
+  },
   {
    "title": "Where's Little Bro? (Hide and Seek Song)",
    "why": "CoComelon's 11 to 25 second 'find the hidden character' Shorts are a repeatable interactive format; each verse he hides behind a new prop (tree, box, snowman) and kids shout the answer, works without words in any country."
@@ -9814,13 +9857,27 @@
   {
    "title": "Everybody Dance, It's Party Day!",
    "why": "Super Simple's biggest new song of 2026 is a celebration song; an original Bro Bros party anthem with clap, spin and freeze moves suits birthdays, New Year and every culture's festivals."
-  },
-  {
-   "title": "No Monsters Here, Goodnight!",
-   "why": "A calming song about checking under the bed and finding only a teddy is one of Little Angel's biggest hits; an original gentle Bro Bros version with a torch, a sleepy pet and a slow 60 to 70 BPM lullaby ending helps parents at bedtime worldwide."
   }
  ],
  "trend_bank": [
+  {
+   "name": "Then and now growth carousel",
+   "where": "TikTok photo carousel (childhood photo then present day, nearly 9M views in weeks, Fast Company 10 Nov 2026)",
+   "status": "rising",
+   "use": "Slide or clip one shows baby Big Bro and baby Little Bro doing something (stacking blocks, a tiny wobble dance), slide two shows them now doing the same thing bigger and better, with our own gentle 'look how big we grew' song line on each cut. Works as a Short, a Reel carousel and a New Year 'this year we learned' recap."
+  },
+  {
+   "name": "Wrong seat gag",
+   "where": "TikTok ('first time in a fancy cafe', Epidemic Sound 13 Nov 2026)",
+   "status": "rising",
+   "use": "Little Bro proudly sits on something that is not a seat (a drum, a giant gift box, a snowman's lap) while Big Bro sits on the real chair; the music stops, both look at the camera, then they laugh and swap. Short of 10 to 15 seconds with our own silly sting, standing only for the dance part."
+  },
+  {
+   "name": "Dance till you flop",
+   "where": "TikTok ('out of breath' dance challenge, top clips 10M+ views, families join in)",
+   "status": "rising",
+   "use": "End any high energy Bro Bros song by dancing faster and faster, then both brothers freeze in a wobbly tired pose, puff their cheeks and give a thumbs up. Meshy steps: standing in place, fast jogging on the spot, arms pumping, big jumping jack twice, then a slow wobble with arms hanging loose and one tired thumbs up. No lying down."
+  },
   {
    "name": "Synced duo routine",
    "where": "TikTok (Ba Ba Ba dance, No. 1 by new videos per day on 13 Nov 2026, ViralRemix chart)",
@@ -9852,34 +9909,16 @@
    "use": "The Bros, friends and grown up characters stand in two rows and do a simple country style line dance to our own song so whole families can copy at home. Meshy steps: standing, step touch right, step touch left, two heel taps forward, clap, quarter turn to the right, repeat."
   },
   {
-   "name": "Trio silly group dance",
-   "where": "TikTok (Chipmunks dance on a sped up 80s track, groups of three, NewEngen 13 Nov 2026)",
-   "status": "rising",
-   "use": "Big Bro, Little Bro and one friend in a row do a goofy, fast routine to our own sped up, squeaky voiced original song. Meshy step: standing in place, small hop on both feet, kick right foot forward, kick left foot forward, spin around once in place, shake the head side to side, end with jazz hands. Make a 'try it with your family of three' Short."
-  },
-  {
    "name": "Slow motion entrance",
    "where": "TikTok ('Pray For Me' slow motion group entrances, NewEngen 13 Nov 2026)",
    "status": "rising",
    "use": "Song intro with our own big drum build: a wide, steady shot of the playground; Big Bro glides in slowly from the left, Little Bro from the right, then each animal friend from behind, all in slow motion with funny 'serious' faces, and on the beat drop everyone snaps to normal speed and starts the chorus dance. Meshy steps: standing, slow walk forward with arms swinging gently, stop, cross arms with a serious face, then on the drop jump in place with both arms up."
   },
   {
-   "name": "How it started vs how it's going",
-   "where": "Instagram Reels (before and after cut on a drum kick, rising early Nov 2026)",
-   "status": "rising",
-   "use": "Two shot Short with our own song: shot one shows a tiny snowball or a bare tree with the caption 'how it started', then on our song's big drum hit cut to a giant snowman or a fully decorated tree with both Bros dancing and 'how it's going'. Meshy step for the second shot: standing in place, both arms up in a V, bounce on the spot twice, then point at the result with both hands and smile."
-  },
-  {
    "name": "Shoulder bounce team dance",
    "where": "TikTok to Instagram Reels (Dame Hombro sound, 184K TikToks late Oct, 137K Reels by 10 Nov)",
    "status": "rising",
    "use": "Both Bros and friends in a row do a shoulder bounce to our own original dembow style beat. Meshy step: standing in place, feet still, lift both shoulders up and drop them down on every beat, then alternate left shoulder and right shoulder, small head nod, finish with a big two shoulder shrug and smile. Never use the original sound."
-  },
-  {
-   "name": "Show your style circle",
-   "where": "Brazil ('farmear aura' battles in parks and on TikTok, city championships in 2026)",
-   "status": "rising",
-   "use": "Our own bouncy 'Show your style!' song: the Bros and friends stand in a circle, each steps into the middle for four beats, does one big silly pose, and everyone cheers; end with all of them posing together and inviting kids at home to show their pose. Meshy steps: standing, step forward one step, raise both fists like a superhero, then one hand on hip and one pointing up, hold, then step back and clap twice."
   },
   {
    "name": "Thumbs up cheer dance",
