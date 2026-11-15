@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:42:33+05:30",
- "runs": 117,
+ "updated": "2026-11-15T19:43:31+05:30",
+ "runs": 118,
  "branches": [
   {
    "id": "platforms",
@@ -3716,6 +3716,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 106
+    },
+    {
+     "t": "Since 10 Dec 2025 Australian under 16s are signed out of YouTube: they can still watch, but lose subscriptions, playlists, likes and wellbeing defaults, and parents lose supervised accounts; YouTube Kids is not affected, so in Australia (and later the UK and other copycat bans) the Kids app and signed out recommendations carry family viewing.",
+     "src": "blog.google, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 118
+    },
+    {
+     "t": "The EU's Digital Services Act guidelines on minors (Jul 2025) ask every platform kids may use to offer feeds children can reset and understand, private defaults, no overuse features like streaks or endless scroll, and clearly labelled child suitable ads; countdown timers and buy now prompts aimed at kids are discouraged, so our songs must never push kids to buy or demand things.",
+     "src": "cadeproject.org, Oct 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 118
+    },
+    {
+     "t": "2026 estimates put Shorts RPM at about 0.10 to 0.32 USD per 1,000 views in the US and 0.09 to 0.19 in Australia, the UK, Germany and Canada, against 0.01 to 0.03 in India, Indonesia and the Philippines, so Shorts views from high income English markets earn about ten times more.",
+     "src": "fluxnote.io, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 118
     }
    ]
   },
@@ -4008,12 +4029,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 16:57",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 16:58",
-   "note": "Run 39 (Shorts and Reels): Shorts series (Made on YouTube, 23 Sep 2026) let Partner Program channels group Shorts into seasons and episodes with custom thumbnails and sequential playback on web, mobile and TV; YouTube's own holiday Shorts formats are before and after door transitions, making treats and decorate with me montages; most US trending videos are music and many are under a day old. Total 259."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 16:58",
@@ -4326,6 +4343,10 @@
   {
    "date": "2026-11-15 19:42",
    "note": "Run 117 (algorithm experiments and data (title tests, metadata translation, thumbnail resets)): YouTube's title and thumbnail tests pick winners by watch time per impression, not clicks. AIR cases: translating an Arabic kids channel's titles and descriptions into 11 languages lifted views from those markets 77% and opened 11 new countries; a 7M Arabic kids channel that had lost 91% of recommendations recovered 2.8 times the views after replacing thumbnails across its whole catalogue. Total 560."
+  },
+  {
+   "date": "2026-11-15 19:43",
+   "note": "Run 118 (rules, safety and monetisation (Australia, EU minors rules, Shorts pay by country)): In Australia under 16s have been signed out of YouTube since 10 Dec 2025 (no subscriptions, playlists or likes) but can still watch signed out, and YouTube Kids is untouched. EU minors guidelines push platforms away from streaks and endless scroll and discourage buy now prompts aimed at kids. Shorts pay roughly ten times more per view in the US, UK and Australia than in India, Indonesia or the Philippines. Total 563."
   }
  ],
  "history": [
@@ -4796,6 +4817,10 @@
   {
    "date": "2026-11-15 19:42",
    "total": 560
+  },
+  {
+   "date": "2026-11-15 19:43",
+   "total": 563
   }
  ],
  "next_week_ideas": [
