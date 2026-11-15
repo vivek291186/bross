@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:00:50+05:30",
- "runs": 44,
+ "updated": "2026-11-15T17:01:22+05:30",
+ "runs": 45,
  "branches": [
   {
    "id": "platforms",
@@ -286,6 +286,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 44
+    },
+    {
+     "t": "Netflix H1 2026 YouTube born kids hours: Ms. Rachel 208M, Sheriff Labrador 111M (BabyBus), Salish and Jordan Matter 99M, CrunchLabs 81M, Danny Go! 54M from one season; CoComelon left the top 10.",
+     "src": "What's on Netflix, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 45
     }
    ]
   },
@@ -839,6 +846,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 37
+    },
+    {
+     "t": "BabyBus (43.9M subs, about 36B views) posts about 5.6 long form videos a week averaging about 31 minutes each; 96% of uploads are long form and 95% evergreen, a compilation heavy model built for TV sessions.",
+     "src": "OutlierKit, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 45
+    },
+    {
+     "t": "BabyBus's recent breakout was Sharing is Caring 2 (Can You Share? Take Turns), 54M views or 28 times its median, so a sharing and taking turns song is a proven global hit topic.",
+     "src": "OutlierKit, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 45
+    },
+    {
+     "t": "BabyBus's other recent outliers wrap a lesson inside pretend play adventure: a cardboard box escape room with a brave policeman (26M), baby lost his colours plus mosquitoes go away (16M), chase the dinosaurs to learn colours (14M) and kids turn into superheroes to catch bugs (13M).",
+     "src": "OutlierKit, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 45
+    },
+    {
+     "t": "BabyBus titles stack the story hook first, then the lesson, then the category: 'Sharing is Caring 2 | Can You Share? | Take Turns | Nursery Rhymes and Kids Songs | BabyBus'.",
+     "src": "OutlierKit, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 45
     }
    ]
   },
@@ -2215,6 +2250,10 @@
   {
    "date": "2026-11-15 17:00",
    "note": "Run 44 (global markets): El Reino Infantil at 15 years: 240M subscribers on 50 YouTube channels in 11 languages (including English, Portuguese, Turkish, Russian, Korean and Hindi), 9B views in H1 2026, about 40 uploads a week, and FAST and connected TV channels on Roku, Samsung, LG and Pluto TV; it began with preschool music videos built on named farm animals. Total 279."
+  },
+  {
+   "date": "2026-11-15 17:01",
+   "note": "Run 45 (competitor deep dive (BabyBus)): BabyBus (43.9M subs, 36B views) posts about 5.6 long videos a week averaging about 31 minutes, 96% long form and 95% evergreen; its recent outliers wrap a preschool lesson in pretend play adventure: Sharing is Caring 2 (54M, 28 times its median), a cardboard escape room police rescue (26M), mosquito and colours, dinosaur chase colours, superhero bug catch. Total 284."
   }
  ],
  "history": [
@@ -2393,9 +2432,17 @@
   {
    "date": "2026-11-15 17:00",
    "total": 279
+  },
+  {
+   "date": "2026-11-15 17:01",
+   "total": 284
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "My Turn, Your Turn!",
+   "why": "Sharing and taking turns is BabyBus's newest 54M view breakout; the Bros pass a ball, a swing and a drum back and forth to a call and answer chorus."
+  },
   {
    "title": "Hello, Hola, Namaste!",
    "why": "World Hello Day is 21 Nov: the Bros wave and say hello in eight languages with one simple dance move each, a greeting song that travels to every market."
@@ -2447,10 +2494,6 @@
   {
    "title": "Robot Speed Dance",
    "why": "A dance game with fast, slow, super slow and freeze levels (Danny Go! style game structure) starring Zoomy; clap along break in the middle builds rhythm skills parents value."
-  },
-  {
-   "title": "Snowflake Dance Party",
-   "why": "Holiday neutral winter freeze and melt dance for the northern hemisphere in December; pair with a beach version for Brazil and Australia."
   }
  ]
 }
