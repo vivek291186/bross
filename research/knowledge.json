@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:54:31+05:30",
- "runs": 9,
+ "updated": "2026-11-15T15:55:24+05:30",
+ "runs": 10,
  "branches": [
   {
    "id": "platforms",
@@ -209,6 +209,48 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 6
+    },
+    {
+     "t": "For kids and teens long form, Friday is the best upload day and Wednesday the weakest, a +379% gap (the biggest of any niche); peak slots are 16:00 UTC and 23:00 UTC, and 10 to 20 minute videos fit best.",
+     "src": "AIR study of 31,852 videos, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 10
+    },
+    {
+     "t": "24/7 live streams of the back catalogue gave a kids channel 41.9% of its watch time from under a fifth of its views, at 66% higher RPM; big kids channels run 4 to 5 streams at once like mini TV stations.",
+     "src": "AIR case, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 10
+    },
+    {
+     "t": "A kids stream view earned about 1.45 USD per 1,000 versus 0.43 for a normal video view; on one 8M channel streams were only 4% of views while total channel views grew 53%.",
+     "src": "AIR, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 10
+    },
+    {
+     "t": "In a 282 channel study, large kids channels earned the most total revenue at 16 or more videos a month, so our 14 a week cadence is in the winning range.",
+     "src": "AIR, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 10
+    },
+    {
+     "t": "Once a channel is in the YouTube Kids app it can become the main source: YouTube Kids brought 67% of traffic for Baby Ben en Espanol and 68 to 78% for the BIBO toy channels.",
+     "src": "AIR, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 10
+    },
+    {
+     "t": "Since Jan 2026 parents can cap the Shorts feed for kids and teens, even to zero, so Shorts cannot be the only growth engine; long form and playlists must carry the channel.",
+     "src": "AIR / YouTube, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 10
     }
    ]
   },
@@ -615,6 +657,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 6
+    },
+    {
+     "t": "A 7M subscriber Arabic kids channel whose recommendations fell 91% recovered after reworking thumbnails for trust signals: views 2.8x, recommendations 5x, revenue 6.6x.",
+     "src": "AIR case, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 10
     }
    ]
   },
@@ -797,6 +846,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 8
+    },
+    {
+     "t": "Dubbed tracks can hold kids longer than the original: average view duration was Spanish 8:24 vs English 6:26 (+31%), Portuguese 7:59, Indonesian 7:12, Arabic 6:46.",
+     "src": "AIR case, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 10
     }
    ]
   },
@@ -876,7 +932,7 @@
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description.",
   "Open every Short and Reel on the best hook moment in the first second; make Shorts loop back to the start.",
   "Thumbnails: one happy face, one clear action, one recognisable object, big eyes, max 3 words, bright plain background; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
-  "Build weekly compilations (5-6 songs, 15-25 min) led by the best performer, to keep viewers in our Up Next session.",
+  "Weekly long form: one 10 to 20 minute compilation (5 or 6 songs, best performer first) every Friday, the strongest kids upload day; keep a 24/7 live stream of all songs running and point stream playlists back to new uploads.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels.",
   "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles.",
   "Mix in older-kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny, chantable nonsense word kids can shout, not only nursery rhyme remakes.",
@@ -919,6 +975,10 @@
   {
    "date": "2026-11-15 15:54",
    "note": "Run 9 (competitors Bebefinn and Lalafun): Bebefinn: about 84M subs brand wide, 370M views a month on the main channel, top hits are a morning routine, a Baby Shark crossover, a mix and a car chase. Lalafun: a 3D channel born Oct 2022 now at 15M subs and 600M+ views a month from animal twists on public domain rhymes plus learning tags. Total 114."
+  },
+  {
+   "date": "2026-11-15 15:55",
+   "note": "Run 10 (algorithm experiments and data): Timing and format data for kids channels: Friday is the best day and Wednesday the worst (+379% gap), 10 to 20 minute videos suit the niche; 24/7 streams of the back catalogue drive up to 42% of watch time at higher RPM; YouTube Kids app can supply two thirds of traffic; dubbed Spanish tracks hold viewers longer than English. Total 122."
   }
  ],
  "history": [
@@ -957,6 +1017,10 @@
   {
    "date": "2026-11-15 15:54",
    "total": 114
+  },
+  {
+   "date": "2026-11-15 15:55",
+   "total": 122
   }
  ],
  "next_week_ideas": [
