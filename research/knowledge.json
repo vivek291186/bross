@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:04:12+05:30",
- "runs": 50,
+ "updated": "2026-11-15T17:04:46+05:30",
+ "runs": 51,
  "branches": [
   {
    "id": "platforms",
@@ -300,6 +300,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 49
+    },
+    {
+     "t": "In Metricool's study of 24.36M Instagram posts from 375K accounts (Jan to Feb 2026 vs 2025), posts with hashtags got 32% fewer views and 34% fewer interactions than posts without, so our 7 hashtag Reel captions should be cut to a keyword sentence and 1 or 2 tags.",
+     "src": "Metricool via Net Influencer, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 51
+    },
+    {
+     "t": "Average Instagram Reel watch time rose from 4 to 8.5 seconds year on year and Reels were the only format with rising engagement (+25%); our 2 to 4 second average is well under the norm.",
+     "src": "Metricool via Net Influencer, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 51
+    },
+    {
+     "t": "Instagram captions that ask viewers to comment drew 203% more comments than average, and Story replies rose 88%, so a simple question to parents ('Which animal should the Bros help next?') in captions can start interaction.",
+     "src": "Metricool via Net Influencer, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 51
+    },
+    {
+     "t": "Share focused Reel advice: 15 to 45 seconds, payoff within 15 seconds, text overlay of 6 words or fewer in the upper third, and three variations of one idea compared over 7 days; a 1 to 3% share rate is solid, and over 5 Reels a week is usually counterproductive without a team.",
+     "src": "Socialync, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 51
     }
    ]
   },
@@ -2217,7 +2245,7 @@
   "Weekly long form: one 20 to 30 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday; make the 25 Dec and 1 Jan Fridays holiday mega mixes; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels.",
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
-  "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny chantable nonsense word kids can shout; group Shorts of the same song family into a YouTube Shorts series and, once we pass 1,000 Instagram followers, test two hooks per song with Trial Reels.",
+  "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny chantable nonsense word kids can shout; on Instagram post fewer, better Reels (the best 1 or 2 songs a day), captions as one keyword sentence plus a question to parents and at most 2 hashtags; group Shorts of one song family into a YouTube Shorts series and test two hooks per song with Trial Reels after 1,000 followers.",
   "Titles: Suggested videos bring two thirds of our views, so use the same plain topic words as the big channels' hits (bus, doctor, brush teeth, dinosaur) plus a story hook and an age keyword, max 2 caps words and 1 to 2 emojis, no fear, fight, medical or danger words; put every video in a keyword playlist and link the playlist's first video in the description.",
   "Seasonal plan: until 24 Dec post at least 3 holiday neutral winter or lights songs a week (snow, cookies, twinkle lights), each with a sunny summer variant for the southern hemisphere; start Ramadan and Lunar New Year friendly songs in January."
  ],
@@ -2421,6 +2449,10 @@
   {
    "date": "2026-11-15 17:04",
    "note": "Run 50 (YouTube algorithm (Suggested and Shorts fit)): Suggested picks are driven by the video being watched plus co watch patterns of similar viewers, so a video must be a natural next watch, not just share keywords; Studio's 'Channels your audience watches' shows which big channels to sit beside. Shorts whose pace and topic differ from long form can pull in the wrong viewers and hurt long form, so Shorts should be micro versions of our songs. Total 305."
+  },
+  {
+   "date": "2026-11-15 17:04",
+   "note": "Run 51 (Shorts and Reels (Instagram data)): Metricool's study of 24M Instagram posts (early 2026): posts with hashtags got 32% fewer views and 34% fewer interactions than posts without; Reels watch time doubled to 8.5 s on average; calls to comment lift comments 203%. Share guidance: 15 to 45 second Reels, a payoff within 15 s, and more than 5 Reels a week is usually counterproductive for small teams. Total 309."
   }
  ],
  "history": [
@@ -2623,6 +2655,10 @@
   {
    "date": "2026-11-15 17:04",
    "total": 305
+  },
+  {
+   "date": "2026-11-15 17:04",
+   "total": 309
   }
  ],
  "next_week_ideas": [
