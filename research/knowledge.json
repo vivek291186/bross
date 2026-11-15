@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:42:52+05:30",
- "runs": 279,
+ "updated": "2026-11-16T02:43:40+05:30",
+ "runs": 280,
  "branches": [
   {
    "id": "platforms",
@@ -5487,6 +5487,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 277
+    },
+    {
+     "t": "A yearly US Thanksgiving parent joke on TikTok reminds parents to feed picky kids a normal dinner before the big feast, a relatable moment for a funny original song about a kid who only wants plain pasta at a fancy holiday table, timed for 26 Nov 2026.",
+     "src": "Motherly, Nov 2024",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 280
     }
    ]
   },
@@ -8504,6 +8511,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 277
+    },
+    {
+     "t": "Netflix's 2026 Christmas line up is almost all live action; its only kids and family holiday title tied to an animated brand is a Gabby's Dollhouse holiday baking competition on 9 Dec 2026 (US only), leaving December demand for holiday cartoons and sing alongs mostly to YouTube and Disney+.",
+     "src": "What's on Netflix, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 280
+    },
+    {
+     "t": "Disney Jr. backed its December 2025 preschool holiday episodes with a set of very short stop motion holiday sing along music videos, showing that big brands fill December with bite sized holiday songs; Bro Bros can match this with 1 minute original holiday sing alongs cut into Shorts and Reels.",
+     "src": "ABC7, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 280
     }
    ]
   }
@@ -8531,11 +8552,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 200): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:39",
-   "note": "Run 201 (competitor deep dive (Kids Diana Show, Lalafun, Super Simple Songs breakouts via OutlierKit)): OutlierKit snapshots (Sep 2026): Lalafun (481K subs) gets breakouts from 'urgent mission plus classic rhyme' titles (Catch the Black Sheep, 33M, 30x median); Super Simple Songs' top recent hit is a remake of its own Animals On The Farm (38M) and it now posts high contrast versions; Kids Diana Show's biggest new formats are scale challenges (10 vs 100 vs 1,000,000) and opposite pairs (Ice vs Fire). All about 85 to 90% evergreen, 10 to 15% trend. Total 880."
+   "note": "Earlier runs summarised (up to Run 201): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:40",
@@ -8848,6 +8865,10 @@
   {
    "date": "2026-11-16 02:42",
    "note": "Run 279 (Shorts and Reels (Reels retention curves and skip rate benchmarks, how fast Reels collect views)): No Reels ranking change has been confirmed since August 2026 (SocialPilot). New this round: Instagram's per Reel retention curve and 3 second skip rate panels (Reels with 100+ plays, about 48 hours to fill) with one analyst's benchmarks of under 20% skip and 70%+ three second retention as strong, plus Socialinsider's Nov 2026 update showing most Reel views come in the first 5 days and plateau around day 20. Total 1205."
+  },
+  {
+   "date": "2026-11-16 02:43",
+   "note": "Run 280 (TRENDS (December streaming slate and holiday sing along shorts)): Netflix's 2026 Christmas slate has almost no new animated kids specials (the main family title is a Gabby's Dollhouse holiday baking competition on 9 Dec, US only), so December demand for holiday cartoons and songs falls even more on YouTube. Disney Jr. last December backed its holiday episodes with short stop motion holiday sing along music videos, a light format we can match with our own songs. Thanksgiving parent humour (feed kids before the big feast) returns every year. Total 1208."
   }
  ],
  "history": [
@@ -9966,6 +9987,10 @@
   {
    "date": "2026-11-16 02:42",
    "total": 1205
+  },
+  {
+   "date": "2026-11-16 02:43",
+   "total": 1208
   }
  ],
  "next_week_ideas": [
