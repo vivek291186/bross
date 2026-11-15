@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:55+05:30",
- "runs": 3,
+ "updated": "2026-11-15T15:45:16+05:30",
+ "runs": 4,
  "branches": [
   {
    "id": "platforms",
@@ -48,6 +48,62 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 1
+    },
+    {
+     "t": "On Netflix, CoComelon has dropped out of the kids top 10 in 2026 and its spin offs did not reverse the slide; analysts call it nursery rhyme fatigue.",
+     "src": "What's on Netflix, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 4
+    },
+    {
+     "t": "YouTube born kids creators are now Netflix hits: Ms. Rachel 208M hours in H1 2026, Sheriff Labrador 111M, Danny Go! 54M from one short season.",
+     "src": "What's on Netflix, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 4
+    },
+    {
+     "t": "Danny Go!, a high energy movement and dance along show from YouTube, stayed in Netflix's global top 10 for three months after its April 2026 launch.",
+     "src": "What's on Netflix, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 4
+    },
+    {
+     "t": "Sheriff Labrador (BabyBus, China) grew 784% on Netflix after expanding from Latin America worldwide, proof that a Chinese 3D animal kids brand travels globally.",
+     "src": "What's on Netflix, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 4
+    },
+    {
+     "t": "Bluey was the most streamed title in the US for the second year in 2025 (about 45 billion minutes); calm, funny family play beats frantic content on the living room TV.",
+     "src": "Variety, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 4
+    },
+    {
+     "t": "Spotify added a global setting (Sep 2026) so parents can keep kids and family music out of their own recommendations and Wrapped; kids songs are clearly a big share of family streaming.",
+     "src": "Music Business Worldwide, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 4
+    },
+    {
+     "t": "Nonsense chant songs spread among Gen Alpha on TikTok and Reels: 'Chicken Banana', a techno track by a Swedish channel, became a dance trend and then a playground catchphrase.",
+     "src": "Newser, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 4
+    },
+    {
+     "t": "KPop Demon Hunters showed a kids music franchise can keep growing long after launch; K pop style songs and dance are a strong worldwide kid taste in 2025 and 2026.",
+     "src": "Netflix data via TheWrap, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 4
     }
    ]
   },
@@ -584,7 +640,8 @@
   "Thumbnails: one clear happy subject, big eyes, max 3 words, bright contrast; never scared, crying or shocked faces; title and thumbnail must match the video.",
   "Build weekly compilations (5-6 songs, 15-25 min) led by the best performer, to keep viewers in our Up Next session.",
   "Plan dubbed versions of the best songs for the biggest kids markets (Spanish, Portuguese, Hindi, Indonesian, Arabic).",
-  "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles."
+  "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles.",
+  "Mix in older-kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny, chantable nonsense word kids can shout, not only nursery rhyme remakes."
  ],
  "log": [
   {
@@ -598,6 +655,10 @@
   {
    "date": "2026-11-15 15:55",
    "note": "Run 3 (deep dive: music + what kids love): 21 learnings from music preference studies, Super Simple Songs, Ms. Rachel, Blue's Clues, thumbnails and top kids topics. Playbook rewritten to 15 rules; 14 song ideas for next week. Total 72."
+  },
+  {
+   "date": "2026-11-15 15:45",
+   "note": "Run 4 (other platforms): Netflix kids data: CoComelon fell out of the Netflix kids top 10 while creator shows (Ms. Rachel, Danny Go!, Sheriff Labrador) grew; movement songs travel; Spotify now lets parents hide kids music from their own taste profile; nonsense chants like Chicken Banana spread on TikTok and Reels. Total 80."
   }
  ],
  "history": [
@@ -612,6 +673,10 @@
   {
    "date": "2026-11-15 15:55",
    "total": 72
+  },
+  {
+   "date": "2026-11-15 15:45",
+   "total": 80
   }
  ],
  "next_week_ideas": [
@@ -668,8 +733,8 @@
    "why": "Phonics is the most-viewed India kids video (5.8B) and a global search staple; one animal per letter with an action."
   },
   {
-   "title": "Snowflake Dance Party",
-   "why": "December winter theme for the northern hemisphere, holiday-neutral so it works worldwide; freeze-and-melt game."
+   "title": "Banana Boogie Freeze",
+   "why": "A silly chant word plus a freeze dance game mirrors the movement shows rising on Netflix and the nonsense chants trending on TikTok and Reels."
   }
  ]
 }
