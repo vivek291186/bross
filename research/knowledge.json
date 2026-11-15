@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:03:12+05:30",
- "runs": 228,
+ "updated": "2026-11-16T00:05:37+05:30",
+ "runs": 229,
  "branches": [
   {
    "id": "platforms",
@@ -4199,6 +4199,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 222
+    },
+    {
+     "t": "For December scenes a cluttered, cosy maximal look (multicolour bulbs, mismatched ornaments) must still keep the Bros readable, so place busy decor in the background with softer focus and keep the Bros' outfits in solid strong colours that contrast with it.",
+     "src": "our judgement from Yahoo 2023 and Hey Duggee clarity rules",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 229
     }
    ]
   },
@@ -7027,6 +7034,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 226
+    },
+    {
+     "t": "The slow spin transition on Reels and TikTok has creators turn gently on the spot and hide an outfit or setting change mid turn, with relaxed arms and a tripod at eye level; its gentle pace draws all ages, making it a calm alternative to fast jump cut transitions for young kids.",
+     "src": "Runway Live, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 229
+    },
+    {
+     "t": "A viral 2023 TikTok (over 1M views) declared beige minimalist Christmas over in favour of a nostalgic, colourful early 2000s look (rainbow and ceramic bulbs, mismatched ornaments, tinsel, light up Santa), and maximal colourful decor has stayed the TikTok holiday mood since, so Bro Bros December sets should be bright and cosy, not beige.",
+     "src": "Yahoo (BestReviews), Nov 2023",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 229
     }
    ]
   }
@@ -7054,11 +7075,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 149): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:47",
-   "note": "Run 150 (visual craft (thumbnail breakout study, Thomas redesign)): Eden's study of 507K long videos found thumbnail brightness, contrast and saturation made no difference between breakouts and flops, short 4 to 6 word text helped a little, and video length mattered far more (41% of 40+ minute videos broke out against 27% under 5 minutes). Mattel's 3D Thomas redesign with bigger eyes and a wide white smile was tested with preschoolers but adult critics said it looked AI generated. Total 679."
+   "note": "Earlier runs summarised (up to Run 150): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:48",
@@ -7371,6 +7388,10 @@
   {
    "date": "2026-11-16 00:03",
    "note": "Run 228 (topics and seasons (YouTube top channels unchanged since 4 Nov, so switched: space after Artemis II, the 2027 eclipse)): vidIQ's 14 Nov US list showed no new kids movers, so this round looked at space as a lasting kids topic: Artemis II (launched 1 Apr 2026, first crewed Moon trip since 1972) carried a moon mascot designed by an 8 year old, chosen from 2,600+ entries in 50+ countries, and teachers used it for art plus science projects. The next big sky event is the long total solar eclipse of 2 Aug 2027 over Spain, North Africa and the Middle East. Total 994."
+  },
+  {
+   "date": "2026-11-16 00:05",
+   "note": "Run 229 (TRENDS (slow spin transitions, colourful retro Christmas over beige)): The slow spin transition (a gentle turn on the spot that hides an outfit or scene change) is a calm, all ages Reels format that joined the trend bank as a season swap. Since 2023 TikTok has pushed back on beige minimal Christmas toward colourful, nostalgic early 2000s style (rainbow bulbs, mismatched ornaments, tinsel), which matches Bro Bros' bright palette for December sets. Total 997."
   }
  ],
  "history": [
@@ -8285,6 +8306,10 @@
   {
    "date": "2026-11-16 00:03",
    "total": 994
+  },
+  {
+   "date": "2026-11-16 00:05",
+   "total": 997
   }
  ],
  "next_week_ideas": [
@@ -8407,6 +8432,12 @@
    "use": "Post by 29 Dec a 'Bro Bros New Year Countdown for Kids' (3 to 5 minutes): a short dance warm up, then a big 10 to 1 count with the Bros jumping on each number, confetti and a 'Happy New Year 2027!' cheer with no scary bangs and a calm goodbye; plus a 60 second Short. Families can start it at any time."
   },
   {
+   "name": "Slow spin season swap",
+   "where": "Instagram Reels and TikTok (slow spin transition, 2026)",
+   "status": "rising",
+   "use": "Each Bro turns slowly on the spot and, hidden in the middle of the spin, swaps from autumn clothes to a winter snowsuit (or the set swaps from green garden to snowy garden) on our own song's beat. Meshy step: standing, slow turn in place on the balls of the feet with soft arms out to the sides, one full rotation over 4 beats, end facing the camera with a wave."
+  },
+  {
    "name": "Mystery box reveal",
    "where": "Blind box toys and unboxing (top holiday 2026 toy trend)",
    "status": "rising",
@@ -8459,12 +8490,6 @@
    "where": "Hatching dinosaur and creature toys (Which?, Oct 2026)",
    "status": "rising",
    "use": "A big spotty egg wobbles to the beat, cracks on the drop and a cute original baby dino copies the Bros' dance. Meshy move: stand in place, wobble the body side to side with hands on hips, then pop up on toes with arms out."
-  },
-  {
-   "name": "Advent calendar daily series",
-   "where": "TikTok, Reels, Shorts (every December)",
-   "status": "seasonal",
-   "use": "From 1 to 24 Dec the Bros open one numbered door a day on a big calendar; behind it is one new move or winter word, and the Short ends with everyone doing all the moves so far. Shorts series on YouTube keeps the 24 days in order. Meshy move for door 1: stand in place, arms swing open wide like doors, then a small hop."
   }
  ]
 }
