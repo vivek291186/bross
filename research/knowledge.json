@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:00:08+05:30",
- "runs": 16,
+ "updated": "2026-11-15T16:00:50+05:30",
+ "runs": 17,
  "branches": [
   {
    "id": "platforms",
@@ -657,6 +657,48 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 5
+    },
+    {
+     "t": "An 8 week rhythm and movement program (clapping, tapping sticks, body percussion in time with others) gave 200+ four year olds better social skills and fewer behaviour problems; clap along parts make a song valued by parents and teachers.",
+     "src": "Behavioral Sciences via EurekAlert, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 17
+    },
+    {
+     "t": "Danny Go! builds its catalogue as dance games: freeze dances, fast versus slow animal dances, pretend danger games ('sharks in the water'), 'hyperspeed' remixes and long brain break compilations used in classrooms.",
+     "src": "Danny Go! video titles / parent reviews, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 17
+    },
+    {
+     "t": "Parents say kids love songs about their favourite things (garbage trucks, diggers, bugs, trains) and useful songs like a clean up tune that actually gets them tidying.",
+     "src": "New Orleans Mom, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 17
+    },
+    {
+     "t": "CoComelon treats music as the main teaching tool: episodes open with a song and transitions are sung; since 2026 learning experts from UCLA's Center for Scholars and Storytellers shape its season goals and scripts.",
+     "src": "The Signal, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 17
+    },
+    {
+     "t": "Babies who were sung to often by 6 months had larger vocabularies at 14 months, and a 2025 review of six studies found songs help word learning and speech fluency.",
+     "src": "J. Child Language / review via The Signal, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 17
+    },
+    {
+     "t": "Young children's ability to detect rhythm and patterns is linked to grammar and early reading skills, so steady rhymes and predictable line patterns help learning as well as catchiness.",
+     "src": "The Signal, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 17
     }
    ]
   },
@@ -1249,6 +1291,10 @@
   {
    "date": "2026-11-15 16:00",
    "note": "Run 16 (other platforms): YouTube reaches 67% of US kids aged 2 to 5 and 80% of 10 to 12; streamer kids trends are edutainment inside stories, interactive choices and short flexible viewing; Netflix preschool is the most crowded category (PAW Patrol, Gabby's Dollhouse, Ms. Rachel, Sesame Street); Roblox reaches 61% of UK 8 to 14s. Total 157."
+  },
+  {
+   "date": "2026-11-15 16:00",
+   "note": "Run 17 (music craft): Rhythm together boosts preschool behaviour (RAMSR study, 200+ four year olds); Danny Go! builds songs as dance games (freeze, fast vs slow, imaginary danger, hyperspeed remixes); CoComelon now uses music as its main teaching tool with a UCLA learning framework; singing builds vocabulary. Total 163."
   }
  ],
  "history": [
@@ -1315,6 +1361,10 @@
   {
    "date": "2026-11-15 16:00",
    "total": 157
+  },
+  {
+   "date": "2026-11-15 16:00",
+   "total": 163
   }
  ],
  "next_week_ideas": [
@@ -1339,8 +1389,8 @@
    "why": "Counting 10 to 1 with twinkling lights links many December festivals (Hanukkah, Velitas, St Lucia, Christmas) and hides number learning; works worldwide."
   },
   {
-   "title": "Jungle Walk Echo Song",
-   "why": "Echo/call-and-response animal walk (stomp like an elephant, hop like a frog) with TPR actions."
+   "title": "Robot Speed Dance",
+   "why": "A dance game with fast, slow, super slow and freeze levels (Danny Go! style game structure) starring Zoomy; clap along break in the middle builds rhythm skills parents value."
   },
   {
    "title": "Snowflake Dance Party",
