@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:08:27+05:30",
- "runs": 167,
+ "updated": "2026-11-15T21:35:23+05:30",
+ "runs": 168,
  "branches": [
   {
    "id": "platforms",
@@ -2239,6 +2239,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 165
+    },
+    {
+     "t": "In Tubefilter's most viewed list for the week of 8 Nov 2026, kid duo and family channels fill the top: Cadel and Mia 890M weekly views (down from first to third), Sierra and Rhia English and Sierra and Rhia FAM both up 7%, Keizo and Friends climbing from 29th to 20th, so sibling and friend pairs are the format kids binge most.",
+     "src": "tubefilter.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 168
+    },
+    {
+     "t": "GoBooBoo (4.29M subscribers) gets about 36M views a month from only 197 videos, roughly 180K monthly views per video, and its all time hit Baby Finger Where Are You passed 930M views, so a small catalogue of well made songs can outearn a huge one.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 168
+    },
+    {
+     "t": "Junior Squad has 1,164 videos and 5.45M subscribers but only about 4.4M views in the last 28 days, and its newest 2 minute rhyme got about 3K views in two days, a warning that high volume rhyme uploads without strong recurring characters stall.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 168
+    },
+    {
+     "t": "GoBooBoo titles pair an original named song with a known rhyme hook (Boo Boo Song plus Wheels on the Ambulance, 150M) and its second biggest hit is a gentle fear song, Something in the Dark (194M), so mild spooky or brave in the dark themes work for preschoolers.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 168
     }
    ]
   },
@@ -5255,11 +5283,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 25 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:54",
-   "note": "Run 89 (visual craft (character acting, snowy worlds, December thumbnails)): Animaj keeps Ozzy Fox on model with turnaround and expression sheets and shows feelings with small pre line gestures; CBeebies' Piripenguins mixes 2D faces with CG bodies and worked to keep an all ice world from looking flat. December thumbnail advice: one template family for the month, cut out subjects with a soft glow, three or four words at most. Total 464."
+   "note": "Earlier runs summarised: 26 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:55",
@@ -5572,6 +5596,10 @@
   {
    "date": "2026-11-15 21:08",
    "note": "Run 167 (rules and monetisation (Gulf ad rates, duplicate cleanup)): FluxNote's (unsourced, low confidence) 2026 guide puts Gulf RPMs far above the rest of the region (Qatar 5 to 12 USD, UAE 4 to 10, Saudi and Kuwait 3 to 8 against Egypt 1 to 2 and Turkey 1 to 4), with kids content at roughly half and Ramadan and Q4 as peaks. Also trimmed a leaf from run 154 that repeated an earlier compilation finding. Total 738."
+  },
+  {
+   "date": "2026-11-15 21:35",
+   "note": "Run 168 (YouTube charts (GoBooBoo, Junior Squad, weekly top 50)): Tubefilter week of 8 Nov: kid duo and family channels lead (Cadel and Mia 890M a week, Sierra and Rhia up 7%). vidIQ contrast: GoBooBoo earns about 36M views a month from only 197 videos while Junior Squad gets about 4M from 1,164 videos, so strong recurring characters and remixed known hooks beat sheer volume. Total 742."
   }
  ],
  "history": [
@@ -6242,6 +6270,10 @@
   {
    "date": "2026-11-15 21:08",
    "total": 738
+  },
+  {
+   "date": "2026-11-15 21:35",
+   "total": 742
   }
  ],
  "next_week_ideas": [
