@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:47:00+05:30",
- "runs": 80,
+ "updated": "2026-11-15T18:47:48+05:30",
+ "runs": 81,
  "branches": [
   {
    "id": "platforms",
@@ -860,6 +860,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 74
+    },
+    {
+     "t": "On a 3M subscriber kids channel (Q4 2025) joining 2 to 3 minute songs into roughly 10 minute compilations raised compilation watch duration 19%, CPM 9% and RPM 72%; with several Shorts a day total views rose 27% and revenue 16%.",
+     "src": "AIR, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 81
+    },
+    {
+     "t": "The same channel cut duplicate risk by giving every re upload or compilation its own visuals and never repeating identical sequences, which matters as YouTube reviews reused content at channel level.",
+     "src": "AIR, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 81
+    },
+    {
+     "t": "Vania Mania's Indonesian channel posted fewer videos but cleared copyright claims on old uploads, and its Suggested views jumped from 32K to 3.75M in a quarter: claimed videos are held back from recommendations.",
+     "src": "AIR, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 81
+    },
+    {
+     "t": "Vania Mania Kids Live raised pre holiday uploads from 32 to 42 and fixed packaging, and views grew from 3.1M to 11.4M with Suggested traffic up 351%, another sign that late Q4 is the moment to post more.",
+     "src": "AIR, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 81
+    },
+    {
+     "t": "A platform bug once removed Vania Mania's multi language audio tracks; recovering them plus metadata fixes lifted the French channel's views 37% and revenue 60%, so check our dubbed audio tracks are still attached every month.",
+     "src": "AIR, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 81
     }
    ]
   },
@@ -3085,11 +3120,7 @@
  "log": [
   {
    "date": "2026-11-15 15:45",
-   "note": "Run 1: seeded 38 learnings across 8 branches (platforms, top channels, music, visuals, topics, India, YouTube rules). First 9 playbook rules."
-  },
-  {
-   "date": "2026-11-15 15:40",
-   "note": "Run 2 (YouTube algorithm): new branch with 12 learnings on how Home, Suggested, Search, Shorts and Reels rank videos; 3 new playbook rules. Total 50."
+   "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
    "date": "2026-11-15 15:55",
@@ -3402,6 +3433,10 @@
   {
    "date": "2026-11-15 18:47",
    "note": "Run 80 (competitor deep dive (ChuChu TV, Kids Diana Show)): ChuChu TV's main channel sits at 98.2M subscribers with no growth in 28 days, but a 30 minute classics compilation (109M views) still earns about 1,000 views an hour while new story cartoons and animal compilations get 0.2 to 0.4M. Kids Diana Show (138M) showed zero YouTube subscriber growth in Oct 2026 despite about 5 posts a week. Total 428."
+  },
+  {
+   "date": "2026-11-15 18:47",
+   "note": "Run 81 (algorithm experiments and data (compilations, claims, audio tracks)): AIR Q4 2025 cases: turning 2 to 3 minute songs into about 10 minute compilations lifted watch duration 19% and RPM 72%; on the Vania Mania network clearing copyright claims took Indonesian suggested views from 32K to 3.75M, more holiday uploads tripled the Live channel, and restoring lost dubbed audio tracks lifted the French channel 37%. Total 433."
   }
  ],
  "history": [
@@ -3724,6 +3759,10 @@
   {
    "date": "2026-11-15 18:47",
    "total": 428
+  },
+  {
+   "date": "2026-11-15 18:47",
+   "total": 433
   }
  ],
  "next_week_ideas": [
