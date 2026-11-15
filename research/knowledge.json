@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:38:16+05:30",
- "runs": 24,
+ "updated": "2026-11-15T16:39:29+05:30",
+ "runs": 25,
  "branches": [
   {
    "id": "platforms",
@@ -167,6 +167,20 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 16
+    },
+    {
+     "t": "In Tubefilter's most subscribed chart for the week of 8 Nov 2026, 37 of the top 50 channels are mainly Shorts channels and India has 14 of them, so Shorts remain the fastest subscriber engine worldwide.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 25
+    },
+    {
+     "t": "After YouTube Kids entry, PlayToys and Play Dolls launched Shorts for the first time and reached about 1.18M views with 27 to 30 second average watch, so Kids app access and Shorts work best together.",
+     "src": "AIR Media-Tech, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 25
     }
    ]
   },
@@ -552,6 +566,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 21
+    },
+    {
+     "t": "Kids channels in that week's top 50 subscriber gainers: Pokemon Kids TV (#23, about 400K a week), Cadel and Mia (#37, Australian family) and VocaVoca kids songs (#45, about 300K a week, steady for weeks).",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 25
+    },
+    {
+     "t": "Pokemon Kids TV (44.8M subs, about 71M views in 28 days) gets its biggest song hits from short dance songs built around one named character (One Pikachu dance song, 226M; Scorbunny Dancing, 94M), proving a signature character dance is evergreen.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 25
+    },
+    {
+     "t": "Sasha Show (Russian language) jumped 9.5M subscribers in Oct 2026 with sensational Shorts using famous borrowed characters (Sonic, PAW Patrol, Ladybug) and scary or naughty titles; this is the low quality pattern YouTube's kids principles penalise, so it is not a model for us.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 25
     }
    ]
   },
@@ -1329,6 +1364,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 23
+    },
+    {
+     "t": "Even large kids channels (PlayToys, 8M subs) can be missing from the YouTube Kids app; after a partner escalated to YouTube's review team on 20 May, the Kids team approved them by 18 Jun, after which they became searchable and appeared as suggestions.",
+     "src": "AIR Media-Tech, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 25
     }
    ]
   },
@@ -1547,6 +1589,10 @@
   {
    "date": "2026-11-15 16:38",
    "note": "Run 24 (our own results): Fresh Metricool read: analytics for published videos lag about 4 days (latest row 11 Nov while uploads continue daily); English Diwali song Light the Diyas got 783 views against 69 for the Hindi Diwali rock song; songs beat cartoon episodes about 3 to 1 on views; 10 AM IST song slots lead. Total 195."
+  },
+  {
+   "date": "2026-11-15 16:39",
+   "note": "Run 25 (YouTube main and Kids charts): Tubefilter week of 8 Nov: 37 of the top 50 subscriber gainers live mainly on Shorts; kids entries are Pokemon Kids TV, Cadel and Mia and VocaVoca; Pokemon Kids TV's top songs are single character dance songs; Sasha Show's 9.5M sub October came from borrowed characters and shock titles, a pattern to avoid; YouTube Kids entry for PlayToys took about 4 weeks via partner review. Total 201."
   }
  ],
  "history": [
@@ -1645,9 +1691,17 @@
   {
    "date": "2026-11-15 16:38",
    "total": 195
+  },
+  {
+   "date": "2026-11-15 16:39",
+   "total": 201
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Do the Zoomy Zoom!",
+   "why": "A signature dance named after our recurring pet friend, like Pokemon Kids TV's single character dance hits; one move per line, easy to copy in Shorts."
+  },
   {
    "title": "Dino Stomp Family",
    "why": "Dinosaurs + family call-and-response (Baby Dino, Mama Dino...) + stomp actions; Baby Shark pattern, globally loved subject."
@@ -1699,10 +1753,6 @@
   {
    "title": "ABC Animal Parade",
    "why": "Phonics is the most-viewed India kids video (5.8B) and a global search staple; one animal per letter with an action."
-  },
-  {
-   "title": "Banana Boogie Freeze",
-   "why": "A silly chant word plus a freeze dance game mirrors the movement shows rising on Netflix and the nonsense chants trending on TikTok and Reels."
   }
  ]
 }
