@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:35:46+05:30",
- "runs": 281,
+ "updated": "2026-11-16T03:36:45+05:30",
+ "runs": 282,
  "branches": [
   {
    "id": "platforms",
@@ -3191,6 +3191,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 281
+    },
+    {
+     "t": "Disney Jr. tests stories with children through an internal panel and feeds results to writers (its programming head calls young viewers 'our bosses'), and grew SuperKitties over three years with 60 minute specials, shorts and long episodes side by side, so one Bro Bros song should also ship as a Short, a long video and a compilation slot.",
+     "src": "Senal News (MIPJunior), Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 282
     }
    ]
   },
@@ -4822,6 +4829,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 279
+    },
+    {
+     "t": "Parent guides updated in Oct 2026 tell parents to count camera cuts and treat more than 10 cuts a minute as a 'high stim' show to limit for ages 3 to 5 (a rule of thumb with no study behind it), so our long form songs should hold shots for 6 seconds or more and save fast cuts for Shorts.",
+     "src": "Screenwise, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 282
+    },
+    {
+     "t": "Blender Studio's Wing It short shows a cheap handmade cartoon look inside Blender: hand painted flat colour textures, toon shadows from simplified blob shaped normals instead of the real mesh, a rim light whose edge is roughened with noise animated on twos, outlines drawn over it and a light paper texture on the final frame.",
+     "src": "Blender Studio blog, Nov 2023",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 282
     }
    ]
   },
@@ -8587,11 +8608,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 202): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:41",
-   "note": "Run 203 (rules and monetisation (inauthentic content hits hand made animators, COPPA rule deadline)): Hand made animated channels were also demonetised as 'inauthentic content' in 2026 (Sydney the Song Cat, four years of hand drawn songs, appeals rejected with template replies; kaiju and dinosaur animators in February), so Bro Bros should keep proof of human work for every song. The amended COPPA Rule compliance date was 22 April 2026, FTC fines reach about 53K USD per violation, and made for kids channels are shut out of YouTube Shopping affiliates. Total 891."
+   "note": "Earlier runs summarised (up to Run 203): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:43",
@@ -8904,6 +8921,10 @@
   {
    "date": "2026-11-16 03:35",
    "note": "Run 281 (music craft (K-pop for kids, Kidscreen music panel, Brazil kid pop)): Former NCT singer Mark Lee is building a 'Kids-POP' label and found two Korean children ignored his English song and chose simple older Korean songs instead; K-pop idols keep teaming with kids brands (Pinkfong, Numberblocks) for dance challenges and Christmas singles; a Zigazoo poll of 4,500 US Gen Alpha users put K-pop second after pop; a Kidscreen 2026 panel of Netflix and Disney leaders said songs should be written early as the story and fandom engine. Total 1213."
+  },
+  {
+   "date": "2026-11-16 03:36",
+   "note": "Run 282 (visual craft (cut rate heuristic, handmade toon shading, Disney kid testing)): Parent facing guides now tell parents that more than 10 camera cuts a minute marks a show as 'high stim' (a rule of thumb, not a study), so our long songs should stay under that. Blender Studio's Wing It shading recipe (simple blob shadows, noisy rim light animated on twos, paper texture) is a free route to the handmade look buyers prefer. Disney Jr. tests stories with children and grows hits like SuperKitties with specials, shorts and long episodes together. Total 1216."
   }
  ],
  "history": [
@@ -10030,6 +10051,10 @@
   {
    "date": "2026-11-16 03:35",
    "total": 1213
+  },
+  {
+   "date": "2026-11-16 03:36",
+   "total": 1216
   }
  ],
  "next_week_ideas": [
