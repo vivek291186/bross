@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:44:06+05:30",
- "runs": 239,
+ "updated": "2026-11-16T00:45:14+05:30",
+ "runs": 240,
  "branches": [
   {
    "id": "platforms",
@@ -6810,6 +6810,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 231
+    },
+    {
+     "t": "The scheduled week of 16 to 22 Nov 2026 holds 14 English songs (Dooby Dooby Boom Boom, Wiggle Bus, Digger, Boo Boo Bandage, Veggie Kitchen, Freeze Arcade, Farm Band, Circus Parade, Car Safety, Kitty Band, Toothbrushing, Peekaboo, Rocket, Bubble Gum Beach), each with a Short 5 minutes later and a Reel, but none uses a December holiday theme or a trend bank format while holiday Reels are already peaking.",
+     "src": "Metricool scheduled posts, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 240
+    },
+    {
+     "t": "No Hindi Didi story is scheduled for 16 to 22 Nov, although on Instagram the Didi stories held viewers longest in 9 to 14 Nov (about 4 to 12 seconds average watch against about 2 to 4 seconds for most English song Reels), so dropping them removes our best Reel retention format.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 240
+    },
+    {
+     "t": "Rockets and space have now appeared three times in three weeks (Rocket Ride 5 Nov, Blast Off Space Bus 11 Nov with only 2 YouTube views by Metricool's last sync, and a rocket song on 22 Nov), and tooth brushing twice (4 and 21 Nov); repeating a winner is fine, but near repeats of weak performers add to the template feel YouTube's inauthentic content checks look for.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 240
+    },
+    {
+     "t": "Metricool's YouTube data for our channel still stops at uploads of 11 Nov 2026 on 16 Nov, so YouTube results for the last five days cannot yet be judged; Instagram data is current.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 240
     }
    ]
   },
@@ -7445,12 +7473,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 20:57",
-   "note": "Earlier runs summarised (up to Run 160): older log lines condensed."
-  },
-  {
    "date": "2026-11-15 20:58",
-   "note": "Run 161 (music craft (groove and free dancing, singing at home)): A Developmental Science study of 78 children aged 3 to 6 found high groove music (what adults feel they must move to) made kids dance more, with more energy and closer to the beat, so preschoolers respond to the same groove adults do. A Music Lab randomised trial found babies' moods rose when parents sang to them more at home, and parents sang most when babies were fussy, which supports simple songs parents can sing back. Total 720."
+   "note": "Earlier runs summarised (up to Run 161): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:59",
@@ -7763,6 +7787,10 @@
   {
    "date": "2026-11-16 00:44",
    "note": "Run 239 (rules and safety (Indonesia's under 16 rule, US kids privacy bills and state age checks)): After a reprimand in April 2026, Google committed to a minimum YouTube account age of 16 in Indonesia under PP Tunas, removing under 16 accounts and cutting ads aimed at children, so Indonesian kids now reach our songs through parents' devices. In the US, COPPA 2.0 passed the Senate and the KIDS Act passed the House but neither is law yet, while state app store and age check laws keep spreading into 2027. Total 1050."
+  },
+  {
+   "date": "2026-11-16 00:45",
+   "note": "Run 240 (our own results (Metricool 2 to 16 Nov plus the scheduled week 16 to 22 Nov)): Metricool still shows no YouTube stats after 11 Nov, and the Reel numbers match what was logged yesterday. New this round: the scheduled week (16 to 22 Nov) has 14 English songs on vehicles, animals, routines and games but no December holiday song, no trend bank format and no Hindi Didi story, even though Didi Reels hold viewers longest and holiday Reels are peaking. Total 1054."
   }
  ],
  "history": [
@@ -8721,6 +8749,10 @@
   {
    "date": "2026-11-16 00:44",
    "total": 1050
+  },
+  {
+   "date": "2026-11-16 00:45",
+   "total": 1054
   }
  ],
  "next_week_ideas": [
