@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:55:35+05:30",
- "runs": 157,
+ "updated": "2026-11-15T20:56:27+05:30",
+ "runs": 158,
  "branches": [
   {
    "id": "platforms",
@@ -1455,6 +1455,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 156
+    },
+    {
+     "t": "YouTube Kids search results are chosen by algorithm without human review and can include recommendations from the child's past viewing; a parent can switch search off, which limits that child to channels verified by YouTube Kids, so being a verified, trusted channel matters for families who lock search.",
+     "src": "support.google.com (YouTube Kids Help), 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 158
+    },
+    {
+     "t": "Children can search YouTube Kids by voice on phones and on TVs, so song titles should start with words a 3 to 6 year old can say clearly ('Dino Stomp', 'Bath Bubbles') rather than invented spellings or long phrases.",
+     "src": "support.google.com (YouTube Kids Help), 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 158
+    },
+    {
+     "t": "Spotter's analysis found Related Shorts links lift long video views by 10% or more, up to 20% when the Short's title and theme closely match the linked video, and Shorts posted within 3 days of the long upload drive the most, since Shorts get most views in their first 7 days.",
+     "src": "spottercommunity.beehiiv.com, Apr 2024",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 158
     }
    ]
   },
@@ -5021,7 +5042,7 @@
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; every week make at least one healthy habit song led by a friendly helper mascot (brush teeth for two minutes, wash hands) and one sharing or taking turns song, the topics behind this autumn's biggest kids breakouts.",
   "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak, a direct action call or a tiny mystery question ('Who took the cookie?'), with motion or text in the first half second; make each Short a new cut with its own hook that loops back to the start; keep music Shorts about 30 to 40 s and set each Short's related video link to its full song.",
   "Thumbnails: one or two happy faces cropped big (both Bros, or a Bro with an animal friend; several face layouts beat single faces) (about 40% of the frame height), one clear action, one recognisable object, high contrast with a warm accent on a plain bright background (red and white or blue and orange), max 3 outlined words kept out of the bottom right corner; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
-  "Weekly long form: one 20 to 30 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday, with a timestamp chapter per song named in the plain words parents search ('Brush Teeth Song', 'Dinosaur Stomp'); make the 25 Dec and 1 Jan Fridays holiday mega mixes; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
+  "Weekly long form: one 25 to 45 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday, because videos over 40 minutes break out far more often and kids compilations lift RPM; add a timestamp chapter per song named in the plain words parents search ('Brush Teeth Song', 'Dinosaur Stomp'); make the 25 Dec and 1 Jan Fridays holiday mega mixes; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels; make one bilingual English Spanish song a week (switch language each chorus), the lane where 123 Andres nearly doubled its views this autumn.",
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
   "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny chantable nonsense word kids can shout; on Instagram post fewer, better Reels (the best 1 or 2 songs a day), captions as one keyword sentence plus a question to parents and at most 2 hashtags; group Shorts of one song family into a YouTube Shorts series and test two hooks per song with Trial Reels after 1,000 followers.",
@@ -5031,11 +5052,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 15 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:45",
-   "note": "Run 79 (global markets (Gulf, Korea, bilingual Spanish)): Kaspersky's Saudi data has YouTube at about 38% of kids' Android app use with Baby Shark the most searched song and K pop the leading music; Baby Shark has been No. 1 in global YouTube views for 71 straight months; Blippi reaches Spanish speaking families with English Spanish remixes made with Mexico's Los Meniques de la Casa. Total 424."
+   "note": "Earlier runs summarised: 16 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:47",
@@ -5348,6 +5365,10 @@
   {
    "date": "2026-11-15 20:55",
    "note": "Run 157 (global markets (Turkey, a dubbing gap)): YouTube charts showed nothing new, so this round filled the Turkish gap: three of Turkey's ten most viewed channels are for kids (Sevimli Dostlar 16.9B, Oyuncak Oynuyorum 13.2B and Masha and the Bear's Turkish dub 9.7B), and local 3D song brand Kukuli (6M subs, about 60 to 95M views a month) has its biggest hits in an everyday character song, 'Bakkal Amca' (the corner shop uncle), whose sign language version alone has 125M views. Total 706."
+  },
+  {
+   "date": "2026-11-15 20:56",
+   "note": "Run 158 (YouTube algorithm (YouTube Kids search and voice, Shorts to song links)): YouTube Kids search results are picked by algorithm without human review and mix in recommendations from the child's history; parents can switch search off, which limits the child to verified channels, and toddlers search by voice on phones and TVs, so song names should be easy words a child can say. Spotter's data: linking Shorts to a closely matching long video lifts long views 10 to 20%, most from Shorts posted within 3 days. Total 709."
   }
  ],
  "history": [
@@ -5978,6 +5999,10 @@
   {
    "date": "2026-11-15 20:55",
    "total": 706
+  },
+  {
+   "date": "2026-11-15 20:56",
+   "total": 709
   }
  ],
  "next_week_ideas": [
