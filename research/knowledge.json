@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:59:53+05:30",
- "runs": 42,
+ "updated": "2026-11-15T17:00:20+05:30",
+ "runs": 43,
  "branches": [
   {
    "id": "platforms",
@@ -1497,6 +1497,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 31
+    },
+    {
+     "t": "John Lewis' Christmas 2026 toy picks centre on family and intergenerational play away from screens, classic wooden toys (breakfast set, magic tricks), a holiday express toy train winter village, K pop singing dolls and blind box surprise collectibles.",
+     "src": "Spielwarenmesse, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 43
+    },
+    {
+     "t": "Toy train and winter village play is a 2026 holiday theme; a Christmas train song where the Bros ride through a snowy toy village links vehicle love with the season.",
+     "src": "Spielwarenmesse, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 43
+    },
+    {
+     "t": "World Hello Day is Saturday 21 Nov 2026, a natural hook for a 'hello in many languages' greeting song that travels to every market.",
+     "src": "WinCalendar, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 43
+    },
+    {
+     "t": "Guru Nanak Jayanti falls on Tuesday 24 Nov 2026 in India, a day centred on sharing food (langar) and kindness that suits a gentle sharing song for Indian families.",
+     "src": "WinCalendar, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 43
     }
    ]
   },
@@ -2151,6 +2179,10 @@
   {
    "date": "2026-11-15 16:59",
    "note": "Run 42 (visual craft): Disney's Sofia the First: Royal Magic (May 2026) swapped flat toon shading for dappled cinematic lighting and its biggest CG set, with 11 minute heartfelt episodes for kids and parents; Lingokids' design rules: calmer, softer tones for babies, primary colours for preschoolers, rounded plush shapes, and pairing each visual with a sound so kids recognise it again. Total 271."
+  },
+  {
+   "date": "2026-11-15 17:00",
+   "note": "Run 43 (topics and seasons): John Lewis' Christmas 2026 toy picks centre on family shared play off screen, classic wooden toys, a toy train winter village, K pop singing dolls and blind box collectibles; India's next dates are World Hello Day (21 Nov) and Guru Nanak Jayanti (24 Nov). Total 275."
   }
  ],
  "history": [
@@ -2321,9 +2353,17 @@
   {
    "date": "2026-11-15 16:59",
    "total": 271
+  },
+  {
+   "date": "2026-11-15 17:00",
+   "total": 275
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Hello, Hola, Namaste!",
+   "why": "World Hello Day is 21 Nov: the Bros wave and say hello in eight languages with one simple dance move each, a greeting song that travels to every market."
+  },
   {
    "title": "Open the Door, It's Snowing!",
    "why": "YouTube's own before and after door transition format: the Bros open a door from a plain room into a twinkling winter wonderland on the chorus drop, a perfect Short loop."
@@ -2375,10 +2415,6 @@
   {
    "title": "Snowflake Dance Party",
    "why": "Holiday neutral winter freeze and melt dance for the northern hemisphere in December; pair with a beach version for Brazil and Australia."
-  },
-  {
-   "title": "Sleepy Stars Lullaby",
-   "why": "The week's slow 60-70 BPM wind-down song; bedtime sessions keep long watch time."
   }
  ]
 }
