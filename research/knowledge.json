@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:59:30+05:30",
- "runs": 130,
+ "updated": "2026-11-15T20:00:13+05:30",
+ "runs": 131,
  "branches": [
   {
    "id": "platforms",
@@ -2883,6 +2883,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 124
+    },
+    {
+     "t": "vidIQ's study of 500 breakout thumbnails across 30 niches (Jun 2026) found faces in 69% overall and 80% of the top 50, and a face or strong contrast in 92% of the top 50, while only 5% used an exaggerated expression: a clear happy face matters, a shocked one does not.",
+     "src": "vidiq.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 131
+    },
+    {
+     "t": "In the same study 72% of breakout thumbnails used overlay text with a median of 5 words, but 28% used none and 24% used only one to three; for kids songs, where young viewers cannot read, the 0 to 3 word end of that range still fits.",
+     "src": "vidiq.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 131
+    },
+    {
+     "t": "1of10's report on 300K viral 2025 videos found that faces on their own made little difference overall, but thumbnails with several faces beat single face ones, so showing both Bros (or a Bro with an animal friend) together is the stronger layout.",
+     "src": "searchenginejournal.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 131
     }
    ]
   },
@@ -4358,12 +4379,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:04",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:05",
-   "note": "Run 52 (other platforms (iTunes kids chart)): The current iTunes Top 100 Kids Songs mixes faith songs, gentle lullaby covers (You Are My Sunshine), nostalgic parent era theme songs (Kim Possible, VeggieTales, Return to Pooh Corner), Bluey's Dance Mode, Baby Shark, Ms. Rachel's Wheels on the Bus and silly novelty songs (String Cheese, Raining Tacos, Shiny Teeth). Total 312."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:05",
@@ -4676,6 +4693,10 @@
   {
    "date": "2026-11-15 19:59",
    "note": "Run 130 (rules and monetisation (Suno rights and v6 licensed models)): Suno's 2026 terms: songs made on a free account can never be monetised (no retroactive licence), paid subscribers get commercial rights for streaming, downloads and sync but are no longer called owners. Suno v6 (9 Sep 2026) runs on models licensed with Warner, BMG and Believe, retires all older models, caps monthly downloads on paid plans and makes songs eligible for distribution through Believe and TuneCore. Total 610."
+  },
+  {
+   "date": "2026-11-15 20:00",
+   "note": "Run 131 (visual craft (thumbnail studies)): vidIQ's study of 500 breakout thumbnails (Jun 2026): faces appear in 80% of the top 50 and a face or strong contrast in 92%, but only 5% use exaggerated expressions; 1of10's 300K viral video report found faces alone give little lift while thumbnails with several faces did best, which supports showing both Bros together with calm happy faces. Total 613."
   }
  ],
  "history": [
@@ -5198,6 +5219,10 @@
   {
    "date": "2026-11-15 19:59",
    "total": 610
+  },
+  {
+   "date": "2026-11-15 20:00",
+   "total": 613
   }
  ],
  "next_week_ideas": [
