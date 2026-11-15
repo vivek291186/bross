@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:39:38+05:30",
- "runs": 235,
+ "updated": "2026-11-16T00:40:33+05:30",
+ "runs": 236,
  "branches": [
   {
    "id": "platforms",
@@ -5592,6 +5592,55 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 233
+    },
+    {
+     "t": "In an AIR test where one kids channel ran the same videos, thumbnails and schedule in Arabic, French and German (16 Feb to 24 Mar 2026), Arabic drew by far the most views (3.4M in five weeks against 745K French and 134K German), confirming Arabic as a high volume first dub for kids songs.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 236
+    },
+    {
+     "t": "In the same test German viewers were the most loyal (about 52% returning, 10.6% regular, new viewers averaging 4:30 against 2:49 for Arabic), so smaller rich markets can repay a dub through watch time and higher ad rates even with fewer views.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 236
+    },
+    {
+     "t": "AIR suggests judging each dubbed audio track by returning viewers, not views: in YouTube Analytics' 'Audience by watch behaviour' filtered by audio track, casual plus regular viewers above 40% means the language is working, 20 to 40% is building and below 20% after four months needs fixing; this share should climb about 3 to 5 points a month in the first year.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 236
+    },
+    {
+     "t": "On one entertainment channel the Spanish dubbed track's viewers watched about two minutes longer per view than the English original (8:55 against 6:59), which AIR puts down to less competition in Spanish.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 236
+    },
+    {
+     "t": "Audiences in Russia, Germany, Italy, Spain, Mexico, Brazil and France prefer dubbing, while adults in China, South Korea, India and Japan prefer subtitles; young children everywhere need dubbing because they cannot read subtitles fast enough, so for kids songs only re sung audio tracks count as localisation.",
+     "src": "Kapwing compilation (Morning Consult), Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 236
+    },
+    {
+     "t": "Only about 13% of creators in AIR's 3,000 channel network have paid for professional dubbing and 36% have tried AI dubbing, yet dubbed tracks averaged about 45% more views and YouTube says creators with dubbed tracks get over 25% of watch time from non primary languages, so early dubbing is still a gap Bro Bros can use.",
+     "src": "Kapwing compilation, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 236
+    },
+    {
+     "t": "One small counter example: a creator's dedicated Spanish channel got 3,897 views in 90 days against just 32 for the same video's Spanish track on his main English channel, so a separate language channel may beat audio tracks when the main channel has little audience in that language.",
+     "src": "Kapwing, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 236
     }
    ]
   },
@@ -7290,7 +7339,7 @@
   "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak, a direct action call or a tiny mystery question ('Who took the cookie?'), with motion or text in the first half second; make each Short a new cut with its own hook that loops back to the start; keep music Shorts about 30 to 40 s and set each Short's related video link to its full song.",
   "Thumbnails: one or two happy faces cropped big (both Bros, or a Bro with an animal friend; several face layouts beat single faces) (about 40% of the frame height), one clear action, one recognisable object, high contrast with a warm accent on a plain bright background (red and white or blue and orange), max 3 outlined words kept out of the bottom right corner; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Weekly long form: one 25 to 45 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday, because videos over 40 minutes break out far more often and kids compilations lift RPM; add a timestamp chapter per song named in the plain words parents search ('Brush Teeth Song', 'Dinosaur Stomp'); make the 25 Dec and 1 Jan Fridays holiday mega mixes; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
-  "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels; make one bilingual English Spanish song a week (switch language each chorus), the lane where 123 Andres nearly doubled its views this autumn.",
+  "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; judge each dubbed language after about 3 months by its share of returning viewers (Audience by watch behaviour, filtered by audio track: above 40% is working, below 20% after 4 months means fix or drop); translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels; make one bilingual English Spanish song a week (switch language each chorus), the lane where 123 Andres nearly doubled its views this autumn.",
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), vary Suno style prompts, instruments and tempo song to song so our audio does not cluster, build compilations from distinct full songs (never loops), run YouTube's copyright check on every track, tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
   "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) or movement games (freeze dance, going on a hunt, floor is lava, the top five hits of The Kiboomers) with a funny chantable nonsense word kids can shout, and make a part 2 of any game that wins; on Instagram post fewer, better Reels (the best 1 or 2 songs a day), captions as one keyword sentence plus a question to parents and at most 2 hashtags; group Shorts of one song family into a YouTube Shorts series and test two hooks per song with Trial Reels after 1,000 followers.",
   "Every week, build 2 to 3 Shorts/Reels on a current trend format from the trend bank, adapted kid-safe with our own original song (never copyrighted trending audio).",
@@ -7298,12 +7347,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 20:54",
-   "note": "Earlier runs summarised (up to Run 156): older log lines condensed."
-  },
-  {
    "date": "2026-11-15 20:55",
-   "note": "Run 157 (global markets (Turkey, a dubbing gap)): YouTube charts showed nothing new, so this round filled the Turkish gap: three of Turkey's ten most viewed channels are for kids (Sevimli Dostlar 16.9B, Oyuncak Oynuyorum 13.2B and Masha and the Bear's Turkish dub 9.7B), and local 3D song brand Kukuli (6M subs, about 60 to 95M views a month) has its biggest hits in an everyday character song, 'Bakkal Amca' (the corner shop uncle), whose sign language version alone has 125M views. Total 706."
+   "note": "Earlier runs summarised (up to Run 157): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:56",
@@ -7616,6 +7661,10 @@
   {
    "date": "2026-11-16 00:39",
    "note": "Run 235 (TRENDS (mid November lists: go go go rush, numbered story series, I got so mad, fan wipe)): NewEngen's 13 Nov list adds a frantic 'go, go, go' rush lip sync, numbered second person animated stories with cliffhangers and a fan blade outfit wipe, while the Chipmunks trio dance and Dame Hombro stay live; Know Your Meme's 13 Nov 'I got so mad' trend fits a calm down feelings song. The bicep heart pose was dropped because its follow up (waist heart) is adult. Four entries joined the trend bank and one song idea was swapped. Total 1029."
+  },
+  {
+   "date": "2026-11-16 00:40",
+   "note": "Run 236 (global markets (which dubbed languages keep kids coming back)): AIR's kids channel test with identical videos showed Arabic dubbing bringing the most views (3.4M in five weeks) but German the most loyal viewers; a dubbed track should be judged by returning viewer share (above 40% is working). Dubbing beats subtitles for kids everywhere because they cannot read fast, and creators with dubbed tracks get over a quarter of watch time from other languages. Total 1036."
   }
  ],
  "history": [
@@ -8558,6 +8607,10 @@
   {
    "date": "2026-11-16 00:39",
    "total": 1029
+  },
+  {
+   "date": "2026-11-16 00:40",
+   "total": 1036
   }
  ],
  "next_week_ideas": [
