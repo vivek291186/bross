@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:44:08+05:30",
- "runs": 177,
+ "updated": "2026-11-15T21:45:25+05:30",
+ "runs": 178,
  "branches": [
   {
    "id": "platforms",
@@ -1588,6 +1588,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 170
+    },
+    {
+     "t": "In AIR's study of 18,000 English channels (Mar 2025 to Mar 2026), small kids channels with 100K to 1M monthly views that post only long form had about 63% more median subscribers (60,100 vs 36,750) than those mixing in Shorts, while at 10M+ monthly views the two groups were equal, so for a young kids channel long songs must stay the core.",
+     "src": "air.io, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 178
+    },
+    {
+     "t": "The same AIR study puts the best mix at about 25 to 40% Shorts by upload count (kids channels that mix average about 37%), says long form performance falls once Shorts pass about 55% of uploads, and advises shifting the mix gradually over two to three quarters.",
+     "src": "air.io, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 178
     }
    ]
   },
@@ -5172,6 +5186,20 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 167
+    },
+    {
+     "t": "AIR's 274 channel RPM study (Sep 2026) found Kids and Teens Shorts had a 45.7% monetised playback rate against only 12.1% for long form because of made for kids ad limits, about 2,156 Shorts views equal 1,000 long views for large kids channels, and Shorts made 41% of revenue for big kids channels posting 21+ Shorts a month.",
+     "src": "air.io, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 178
+    },
+    {
+     "t": "In the same study a kids channel's long form RPM fell about 26% in months when it posted Shorts, and Shorts RPM by viewer country was 0.33 USD in the US against about 0.16 to 0.19 in Australia, the UK, Canada and Germany (correlational, vendor data).",
+     "src": "air.io, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 178
     }
    ]
   },
@@ -5570,11 +5598,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 35 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:01",
-   "note": "Run 99 (other platforms (screen free kids audio: Tonies and Yoto)): Screen free kids audio is booming: Tonies' H1 2026 revenue rose 38% to 243M EUR with North America now 43% of sales (+48%), and Yoto's revenue rose about 43% in 2025 with 22B minutes listened; music on both comes as licensed album cards (Disney, Pokemon, KPop Demon Hunters), a channel for kids songs once a brand is known. Total 496."
+   "note": "Earlier runs summarised: 36 older log entries condensed."
   },
   {
    "date": "2026-11-15 19:02",
@@ -5887,6 +5911,10 @@
   {
    "date": "2026-11-15 21:44",
    "note": "Run 177 (competitor deep dive (The Kiboomers, Kaboochi)): The Kiboomers (Canada, 4.04M subscribers) earns a steady 50 to 55M views a month posting just one new video every Friday, and its top five are all movement games: Going on a Dragon Hunt 37M, Freeze Dance 2 31M, Red Light Freeze Dance 30M, Dinosaur Hunt, Floor is Lava. Kaboochi gets about 11.6M a month from 2,225 videos, its hits Finger Family twists (Football Finger Family 29M). Total 782."
+  },
+  {
+   "date": "2026-11-15 21:45",
+   "note": "Run 178 (algorithm experiments and data (Shorts mix and Shorts money for kids channels)): AIR's 18,000 channel study: small kids channels (100K to 1M monthly views) that post only long form have about 63% more median subscribers than those mixing in Shorts, and mixed kids channels average about 37% Shorts; above 55% Shorts long form suffers. AIR's 274 channel RPM study: kids long form RPM drops about 26% in months with Shorts, but Shorts make 41% of revenue for big kids channels posting 21+ a month. Total 786."
   }
  ],
  "history": [
@@ -6597,6 +6625,10 @@
   {
    "date": "2026-11-15 21:44",
    "total": 782
+  },
+  {
+   "date": "2026-11-15 21:45",
+   "total": 786
   }
  ],
  "next_week_ideas": [
