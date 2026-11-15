@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:59:24+05:30",
- "runs": 96,
+ "updated": "2026-11-15T19:00:01+05:30",
+ "runs": 97,
  "branches": [
   {
    "id": "platforms",
@@ -1000,6 +1000,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 93
+    },
+    {
+     "t": "YouTube's 'valued watch time' counts only time on videos viewers rate four or five stars in satisfaction surveys, and a model predicts that rating for viewers who never answer, so a song that kids rewatch but parents rate poorly can still lose reach; making songs parents enjoy too protects it.",
+     "src": "OutlierKit (YouTube blog 2021, Creator Insider Sep 2026)",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 97
+    },
+    {
+     "t": "YouTube Studio shows no survey or satisfaction score, so the practical proxies are the retention graph, likes, and how each song compares with our own other songs over the same days.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 97
+    },
+    {
+     "t": "YouTube Studio's Inspiration tab (English only, desktop) has been phased out since Aug 2026, and Ask Studio is now the built in brainstorming and analytics assistant, using our audience's last 28 days of viewing to suggest topics.",
+     "src": "YouTube Help, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 97
     }
    ]
   },
@@ -3494,10 +3515,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 16:01",
-   "note": "Run 18 (visual craft): New ISB study of 32,000 kids videos: 10% more visual motion links to about 1% more views and pulls wandering eyes back faster, but more animation is not better for learning; slow media movement keeps growing; young infants look at faces anywhere in frame while older viewers expect the face centred. Total 168."
-  },
-  {
    "date": "2026-11-15 16:02",
    "note": "Run 19 (topics and seasons): US Thanksgiving is 26 Nov; Lunar New Year 2027 is 6 Feb, Year of the Goat; Gen Alpha 3 to 8 favourites are superheroes, Bluey, Barbie, Elsa, Sonic and SpongeBob; games are now the third way kids discover characters; parents love sharing favourites. Total 173."
   },
@@ -3808,6 +3825,10 @@
   {
    "date": "2026-11-15 18:59",
    "note": "Run 96 (YouTube charts (most subscribed kids channels, Nov 2026)): AIR's 4 Nov 2026 ranking of the biggest kids channels: CoComelon 203M, Vlad and Niki 151M, Kids Diana Show 138M, ChuChu TV 98.2M, Pinkfong 85.3M, then Toys and Colors, Infobells Hindi, El Reino Infantil, LooLoo Kids and JioHotstar Kids; 9 of the top 15 are animated song or rhyme brands and most run many languages. Total 486."
+  },
+  {
+   "date": "2026-11-15 19:00",
+   "note": "Run 97 (YouTube algorithm (valued watch time, Studio tools)): YouTube counts 'valued watch time' only on videos viewers rate four or five stars in surveys, with a model predicting that rating for everyone, and Todd Beaupre says no signal has the same weight for everyone. Studio shows no survey score. The Inspiration tab has been phased out since August 2026; Ask Studio is now the idea tool. Total 489."
   }
  ],
  "history": [
@@ -4194,6 +4215,10 @@
   {
    "date": "2026-11-15 18:59",
    "total": 486
+  },
+  {
+   "date": "2026-11-15 19:00",
+   "total": 489
   }
  ],
  "next_week_ideas": [
