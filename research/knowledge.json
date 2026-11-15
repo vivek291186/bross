@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:56:43+05:30",
- "runs": 92,
+ "updated": "2026-11-15T18:57:26+05:30",
+ "runs": 93,
  "branches": [
   {
    "id": "platforms",
@@ -979,6 +979,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 85
+    },
+    {
+     "t": "A 5.68M subscriber kids channel cut long uploads by 35% (82 to 53 a quarter), dropped weak formats, redesigned thumbnails and titles to fit kids policies, posted more Shorts and more before Christmas: in Q4 2025 views rose 76%, revenue 153%, Suggested traffic 84% and Shorts feed traffic 348%.",
+     "src": "AIR, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 93
+    },
+    {
+     "t": "Emir Ela, a kids channel, grew from 16.5M to 475M quarterly views (Q4 2025 against Q3) after clearer visuals, better pacing and sound design, new thumbnails and a balance of learning and fun across Shorts, long videos and streams; long form views rose the most.",
+     "src": "AIR, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 93
+    },
+    {
+     "t": "AIR's kids timing guide: post 2 to 3 hours before the audience's peak in YouTube Studio's 'When your viewers are on YouTube' chart, put compilations in mid morning or early evening TV time, give a series a fixed weekly slot, and without data test weekend 8 to 11 AM US Eastern.",
+     "src": "AIR, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 93
     }
    ]
   },
@@ -3403,10 +3424,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 15:58",
-   "note": "Run 14 (YouTube algorithm official): Todd Beaupre (Sep 2026): new uploads are tested on mixed audiences including non subscribers from the first hour, each audience is judged separately, about 10% subscriber click rate is normal. YouTube Kids FAQ (Apr 2026): filters read thumbnails, titles and video; no product placement; new profiles see curated shelves until history builds. Total 147."
-  },
-  {
    "date": "2026-11-15 15:59",
    "note": "Run 15 (Shorts and Reels algorithm): Shorts: seed audience loop, no ideal length or posting time per YouTube, stalled Shorts need a new Short not a repost, Shorts series and custom thumbnails added in 2026. Reels: 55% of views come from non followers, DM sends weigh 3 to 5x likes, Trial Reels for 1,000+ follower accounts, aggregator penalty for 70%+ reused visuals or audio. Total 153."
   },
@@ -3717,6 +3734,10 @@
   {
    "date": "2026-11-15 18:56",
    "note": "Run 92 (competitor deep dive (CoComelon and Pinkfong moves)): CoComelon: The Movie (Universal with DreamWorks) opens in US cinemas on 19 Feb 2027 with JJ starting kindergarten and new songs. Pinkfong closed Baby Shark's tenth year with a Peppa Pig dance remix crossover, audio on streaming first (26 Dec) and the video three days later, and is turning the original Baby Shark boy into a K pop singer. Total 473."
+  },
+  {
+   "date": "2026-11-15 18:57",
+   "note": "Run 93 (algorithm experiments and data (fewer long uploads, upload timing)): A 5.68M kids channel cut long uploads 35% (82 to 53), reworked thumbnails for kids policies and pushed Shorts and holiday posting in Q4 2025: views +76%, revenue +153%, Suggested +84%, Shorts feed +348%. AIR's kids timing guide: post 2 to 3 hours before the audience's peak, compilations for mid morning or early evening TV time, series in a fixed weekly slot, and test weekend 8 to 11 AM Eastern without data. Total 476."
   }
  ],
  "history": [
@@ -4087,6 +4108,10 @@
   {
    "date": "2026-11-15 18:56",
    "total": 473
+  },
+  {
+   "date": "2026-11-15 18:57",
+   "total": 476
   }
  ],
  "next_week_ideas": [
