@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:50:35+05:30",
- "runs": 212,
+ "updated": "2026-11-15T23:51:13+05:30",
+ "runs": 213,
  "branches": [
   {
    "id": "platforms",
@@ -2659,6 +2659,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 207
+    },
+    {
+     "t": "Rhymington Square (Canada, 311K subscribers) has 291M views from only 74 videos, about 3.9M per video, built on original friendly monster songs about toddler life; few, strong, rewatchable songs can out earn a big volume of weaker ones.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 213
+    },
+    {
+     "t": "Rhymington Square's recent breakouts are everyday toddler moments told as songs ('It's Way Too Hot Today' 17M, 'Let's Blow A Bubble' 16M, 'My Glasses' 10M) and numbered sequels of proven hits ('There's A Monster In My Tummy #2', 'Open Shut Them #2').",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 213
+    },
+    {
+     "t": "Seasonal holiday songs are Rhymington Square's largest topic cluster (15 of 74 videos) and about 24% of its content is trend based, with audience in the US 61%, Canada 21%, UK 12% and Australia 6%, so holiday songs suit North American audiences especially.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 213
+    },
+    {
+     "t": "TinkaBop Baby Sensory, a young baby sensory music channel, had 11 videos and about 5K subscribers by Sep 2026 with a gentle bath time song as its best (18K views), showing how slowly a new routine song channel grows and how bath, wake up and bedtime routines lead in the baby niche.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 213
+    },
+    {
+     "t": "OutlierKit flags dependence on YouTube Kids distribution and on one signature voice as key risks for small baby music channels, so Bro Bros should keep the Bros' voices consistent but build reach on main YouTube, Shorts and Instagram too.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 213
     }
    ]
   },
@@ -6620,11 +6655,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 133): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:02",
-   "note": "Run 134 (competitor deep dive (CoComelon spin offs, Little Angel)): CoComelon's growth in its 'sustain' phase came from side character spin off channels, led by JJ's Animal Time at 200M+ views a month, plus Cody Time and Nina's Familia. Little Angel's main English channel (7.3M) now draws only 14 to 36M views most months; its all time hits are a classic rhyme, a calming 'monsters under the bed' bedtime song, a colours song and an ice cream truck song. Total 622."
+   "note": "Earlier runs summarised (up to Run 134): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:02",
@@ -6937,6 +6968,10 @@
   {
    "date": "2026-11-15 23:50",
    "note": "Run 212 (global markets (US kids viewing split from CIMM, read along captions lift in Kenya)): CIMM (Jul 2026): US young children's video time is now 35% streaming, 32% YouTube and 16% short form, with linear TV down to about 6%, and children make up nearly a quarter of all YouTube viewing. In Kenya, adding read along captions to existing cartoons lifted child viewing 15% and adult co viewing 39%, a cheap idea for lyric captions in our songs. Total 932."
+  },
+  {
+   "date": "2026-11-15 23:51",
+   "note": "Run 213 (competitor deep dive (Rhymington Square monster songs, TinkaBop baby sensory)): Rhymington Square (Canada, 311K subs) has 291M views from only 74 songs, about 3.9M per video, with original monster songs and numbered sequels ('There's A Monster In My Tummy #2'), seasonal songs as its biggest cluster and about a quarter trend based. TinkaBop, a new baby sensory channel, shows the slow start: 11 videos, 5K subs, a bath time song its best at 18K views. Total 937."
   }
  ],
  "history": [
@@ -7787,9 +7822,17 @@
   {
    "date": "2026-11-15 23:50",
    "total": 932
+  },
+  {
+   "date": "2026-11-15 23:51",
+   "total": 937
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "It's Way Too Cold Today!",
+   "why": "Rhymington Square's 'It's Way Too Hot Today' hit 17M by turning an everyday toddler complaint into a song; a winter twin where the Bros pile on hat, scarf and mittens, shiver, then warm up by dancing fits the northern December and invites a sequel."
+  },
   {
    "title": "Santa's Summer Holiday",
    "why": "Half our audience (Australia, New Zealand, South Africa, Brazil, Argentina) has a hot Christmas; a beach song where Santa swaps his sleigh for a surfboard, builds a sandy snowman and eats pavlova with the Bros gives southern hemisphere kids a Christmas song that looks like theirs."
@@ -7841,10 +7884,6 @@
   {
    "title": "Find the Beat Brothers",
    "why": "Partner timing games like TikTok's Find the Beat travel worldwide; the brothers take turns clapping, stomping and freezing on the beat, an easy copy along with a clear call and response hook."
-  },
-  {
-   "title": "Good Morning, Sunshine Bros!",
-   "why": "Daily routine songs (Gracie's Corner's Good Morning Song, Ms Rachel) are what buyers and parents replay; a bright wake up and stretch song for every morning in every country."
   }
  ],
  "trend_bank": [
