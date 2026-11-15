@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:59:11+05:30",
- "runs": 263,
+ "updated": "2026-11-16T01:59:51+05:30",
+ "runs": 264,
  "branches": [
   {
    "id": "platforms",
@@ -3023,6 +3023,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 261
+    },
+    {
+     "t": "A Spanish kids channel admitted to the YouTube Kids app about a month after an official partner submitted it saw views grow 396%, with the app supplying 67.4% of its traffic, so getting Bro Bros reviewed for the Kids app is one of the biggest single growth levers once the catalogue is clean.",
+     "src": "AIR Media-Tech, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 264
+    },
+    {
+     "t": "AIR's order of fixes for a stalled kids channel is trust signals first (clean thumbnails, remove weak old videos, resolve yellow icons), then dubbed audio tracks, then 24/7 streams, because languages and streams only work once YouTube trusts the channel.",
+     "src": "AIR Media-Tech, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 264
     }
    ]
   },
@@ -8111,11 +8125,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 184): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:38",
-   "note": "Run 185 (music craft (repetitive singing and vocabulary, kids pop in Brazil, Grammy family duo)): An Oct 2026 kindergarten study in Indonesia found repetitive English singing got 45 of 53 children saying colour words and 39 of 53 counting to ten, with attention kept by switching between singing and quick movement breaks. Brazil's artist led kids pop (MC Divertida 8.6B plays, Kysha e Mine 1.2B views in about a year) shows pop songs for 6 to 10 year olds are a big lane beyond nursery rhymes. The 2026 children's album Grammy went to a father and daughter duo. Total 815."
+   "note": "Earlier runs summarised (up to Run 185): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:39",
@@ -8428,6 +8438,10 @@
   {
    "date": "2026-11-16 01:59",
    "note": "Run 263 (monetisation (YouTube ad growth slowing, TV share and CPM context)): YouTube's Q3 2026 ad revenue was about $11.2B, up 9.2%, its slowest growth of 2026, even as YouTube hit a record 15.8% of US TV time in August; midterm political ads pushed premium CTV CPMs up for a while, so December rates will lean on holiday retail demand instead. Total 1145."
+  },
+  {
+   "date": "2026-11-16 01:59",
+   "note": "Run 264 (YouTube main and YouTube Kids (Kids app entry results, growth audits)): No new weekly top 50 yet (the 15 Nov list is not out). AIR's 2026 growth guide adds one result not yet in the tree: a Spanish kids channel admitted to the YouTube Kids app about a month after a partner submitted it saw views rise 396%, with the app bringing 67.4% of its traffic; AIR's order of fixes is trust signals first, then dubbing, then 24/7 streams. Total 1147."
   }
  ],
  "history": [
@@ -9482,6 +9496,10 @@
   {
    "date": "2026-11-16 01:59",
    "total": 1145
+  },
+  {
+   "date": "2026-11-16 01:59",
+   "total": 1147
   }
  ],
  "next_week_ideas": [
