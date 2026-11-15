@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:55:16+05:30",
- "runs": 90,
+ "updated": "2026-11-15T18:56:03+05:30",
+ "runs": 91,
  "branches": [
   {
    "id": "platforms",
@@ -2750,6 +2750,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 79
+    },
+    {
+     "t": "YouTube Japan's Silver Week kids playlist (20 to 27 Sep 2026) featured mainly domestic brands: a 41 song Bon Bon Academy dance and exercise medley for ages 2 to 4, Anpanman, Shimajiro, Sanrio and Tamagotchi, with Bluey Japan and Pokemon Kids TV the only global names, so Japan rewards local characters and long dance medleys and would need Japanese audio.",
+     "src": "YouTube Japan blog, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 91
+    },
+    {
+     "t": "Japan's education ministry survey (Apr to May 2026) found 21.7% of sixth graders use social media or online video four or more hours each weekday, up 50% in two years, and almost every child now has a device.",
+     "src": "Nippon.com, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 91
+    },
+    {
+     "t": "In France live TV is still the main way 7 to 14 year olds watch kids shows (M6 Publicite and Gulli, Dec 2024) while 4 to 6 year olds are moving to subscription streaming, so France is a TV first kids market where a French audio track matters less than Spanish or Portuguese.",
+     "src": "Ozap, Dec 2024",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 91
     }
    ]
   },
@@ -3361,10 +3382,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 15:57",
-   "note": "Run 12 (our own results): First real Metricool read for 1 to 15 Nov: about 2,140 YouTube subs and 450 to 1,400 daily views; story problem songs and Diwali songs led; average view duration only about 15 to 25 s; YouTube Shorts nearly unseen while Reels get 50 to 125 views; Reels lose 58 to 90% of viewers in the first 3 s. Total 136."
-  },
-  {
    "date": "2026-11-15 15:58",
    "note": "Run 13 (YouTube main and Kids charts): Tubefilter weekly top 50: VocaVoca, a US Shorts led kids song channel built on healthy habits and safety songs, jumped from about 0.5B monthly views in May to 2.9B in Oct 2026; Indian family channels rode Diwali; YouTube keeps autoplay off and break reminders on by default for under 18s. Total 141."
   },
@@ -3675,6 +3692,10 @@
   {
    "date": "2026-11-15 18:55",
    "note": "Run 90 (topics and seasons (Brazil and Indonesia school breaks)): Brazil's state schools finish on 18 Dec (Sao Paulo, Parana) to 23 Dec and the summer break runs into early February, so Portuguese summer and beach songs have a long home audience. Indonesian provinces broke from about 22 Dec to 3 Jan last year (West Java 29 Dec to 10 Jan), the week for Bahasa holiday songs. Total 467."
+  },
+  {
+   "date": "2026-11-15 18:56",
+   "note": "Run 91 (global markets (Japan and France)): YouTube Japan's Silver Week kids playlist leaned on local brands (a 41 song Bon Bon Academy dance and exercise medley, Anpanman, Shimajiro, Sanrio) beside Bluey Japan and Pokemon Kids TV. A 2026 MEXT survey found heavy video use among sixth graders up 50% in two years. In France live TV is still the main way 7 to 14 year olds watch kids shows, with 4 to 6 year olds moving to subscription streaming. Total 470."
   }
  ],
  "history": [
@@ -4037,6 +4058,10 @@
   {
    "date": "2026-11-15 18:55",
    "total": 467
+  },
+  {
+   "date": "2026-11-15 18:56",
+   "total": 470
   }
  ],
  "next_week_ideas": [
