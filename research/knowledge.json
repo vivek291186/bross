@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:42:53+05:30",
- "runs": 287,
+ "updated": "2026-11-16T03:44:01+05:30",
+ "runs": 288,
  "branches": [
   {
    "id": "platforms",
@@ -3212,6 +3212,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 285
+    },
+    {
+     "t": "Russian language family creator Sasha Show grew from about 1.2 to 2.2M new subscribers a month in mid 2026 to 9.47M in October (18.3M total, 633M views in the last 28 days) with only about 46 uploads a year of toy, candy and bath challenge videos and remixes, yet vidIQ models only about 17K USD of earnings, showing how little very large Shorts led kids audiences can pay.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 288
+    },
+    {
+     "t": "Toys and Colors' franchise reported 136M subscribers and 149B lifetime views, with its top three YouTube channels reaching 348M unique viewers and 11.6B minutes of watch time in 90 days, and its holiday special came with an original single released on Spotify, Amazon Music and Apple Music, so a kids channel's holiday song should also live on music apps.",
+     "src": "Senal News (pocket.watch), Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 288
+    },
+    {
+     "t": "Sasha Show's titles lean on famous toy and candy brands and extreme 'who will win' challenges, a growth route Bro Bros should not copy (brand names invite claims and do not suit made for kids quality rules), but its question style titles ('Who will...?') match the mystery question hooks already in our playbook.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 288
     }
    ]
   },
@@ -8741,11 +8762,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 208): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:48",
-   "note": "Run 209 (topics and seasons (Yalda, summer Christmas down under, Boxing Day)): Next four weeks beyond Christmas: Yalda on 21 Dec (Iran and the Persian diaspora: kids stay up to midnight with pomegranates, watermelon, poems and Grandma Frost stories) and a summer Christmas in Australia and the southern hemisphere (beach day, Carols by Candlelight, pavlova, gingerbread baking, Boxing Day cricket). Trend bank fix: the winter snowflake move was restored and the faded 1 Nov Christmas switch removed. Total 917."
+   "note": "Earlier runs summarised (up to Run 209): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:49",
@@ -9058,6 +9075,10 @@
   {
    "date": "2026-11-16 03:42",
    "note": "Run 287 (rules and monetisation (Malaysia under 16 ban, Ofcom vs YouTube feeds, India DPDP timeline, AI label placement)): Malaysia has enforced an under 16 ban on accounts for platforms with 8M+ users since 1 Jun 2026, YouTube included, with age checks for existing users phased over six months. Ofcom found 73% of UK 11 to 17s met harmful content in four weeks and YouTube declined to overhaul its feeds. India's DPDP rollout runs to May 2027, with DigiLocker style tokens for parental consent. YouTube's AI labels now sit on Shorts and just below the player, but animation is excluded. Total 1235."
+  },
+  {
+   "date": "2026-11-16 03:44",
+   "note": "Run 288 (YouTube main channels (Sasha Show surge, Toys and Colors franchise scale)): Our own results were checked an hour ago with no new Metricool data, so this round moved to channel movers. Russian language family creator Sasha Show jumped from about 1 to 2M new subscribers a month to 9.47M in October 2026 (633M views in 28 days) with toy and candy challenge videos, yet vidIQ models only about 17K USD from it, a reminder that huge Shorts and kids views pay little. Toys and Colors' three main channels reached 348M unique viewers and 11.6B watch minutes in 90 days and launched holiday specials with an original single on music apps. Total 1238."
   }
  ],
  "history": [
@@ -10208,6 +10229,10 @@
   {
    "date": "2026-11-16 03:42",
    "total": 1235
+  },
+  {
+   "date": "2026-11-16 03:44",
+   "total": 1238
   }
  ],
  "next_week_ideas": [
