@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:38:17+05:30",
- "runs": 274,
+ "updated": "2026-11-16T02:39:13+05:30",
+ "runs": 275,
  "branches": [
   {
    "id": "platforms",
@@ -7027,6 +7027,41 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 263
+    },
+    {
+     "t": "Mexico's online child safety decree took effect on 14 Oct 2026 and requires covered platforms (social networks, games, app stores) to verify users' ages without relying only on self declared age, with compliance reports due 13 Nov 2026, so Mexican kids may increasingly watch through parent or supervised accounts.",
+     "src": "Sheppard Mullin, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 275
+    },
+    {
+     "t": "New York's final SAFE for Kids Act rules (released 28 Jul 2026, in force 25 Jan 2027) forbid giving minors an algorithmic 'addictive' feed without age assurance or verified parental consent and ban notifications to minors between midnight and 6 AM, while still letting minors see content without the feed, so search, playlists and subscriptions matter more for reaching older kids.",
+     "src": "ZwillGen, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 275
+    },
+    {
+     "t": "The Q4 ad boost is smaller for kids content: AIR data summarised by Gyre (Nov 2026) shows median RPM rising about 22% in Q4 for kids and teens versus about 60% for business and finance and 39% for food, because made for kids videos only carry contextual ads.",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 275
+    },
+    {
+     "t": "Across niches, regular video RPM peaked in November 2025 (median 2.35 USD, 2.12 in December, 1.56 in January) while live stream RPM peaked a month later in December (5.47 USD versus 2.31 in January), so a Bro Bros 24/7 holiday stream started before Black Friday (27 Nov 2026) catches the best paying weeks.",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 275
+    },
+    {
+     "t": "For an unattended 24/7 stream YouTube serves no mid roll ads in Manual mode, so mid rolls must be set to Automatic, and the stream must use only music we own (Content ID claims interrupt it) and real moving content rather than a still image or slideshow, which can break monetisation rules.",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 275
     }
    ]
   },
@@ -8384,11 +8419,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 195): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:53",
-   "note": "Run 196 (TRENDS (Reels audio 31 Oct to 10 Nov, the shoulder shimmy crossing to Reels)): Reels audio to 10 Nov: three Christmas label songs at peak (up to 5.8M Reels), the Dame Hombro shoulder shimmy crossing from TikTok to Reels as a team dance (137K Reels, rising) and an instrumental beat rising under quick tips clips. The shoulder bounce moved to the top of the trend bank with a Meshy friendly step description. Total 854."
+   "note": "Earlier runs summarised (up to Run 196): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:54",
@@ -8701,6 +8732,10 @@
   {
    "date": "2026-11-16 02:38",
    "note": "Run 274 (TRENDS (childhood then and now carousel, wrong seat gag, out of breath dance)): Mid November roundups (Later 13 Nov, Epidemic Sound 13 Nov) bring few new kid dances; new kid safe formats are a childhood photo then now carousel set to a slow song about time (nearly 9M views in weeks, Fast Company 10 Nov), a 'first time in a fancy cafe' gag of sitting on the wrong furniture, and an 'out of breath' dance where people dance full out until they flop. Three joined the trend bank, replacing the Brazil style circle, the drum kick before and after cut and the trio chipmunk dance. Total 1184."
+  },
+  {
+   "date": "2026-11-16 02:39",
+   "note": "Run 275 (rules and monetisation (Mexico age checks, New York feed rules, Q4 kids RPM)): Mexico's online child safety decree took effect 14 Oct 2026 and makes platforms verify ages beyond self declaration (compliance reports due 13 Nov), and New York's final SAFE for Kids rules (from 25 Jan 2027) ban algorithmic feeds for minors without parental consent. Gyre's 10 Nov summary of AIR data says Q4 lifts kids and teens RPM only about 22% (finance about 60%), regular video RPM peaks in November but live RPM peaks in December, and unattended streams need mid rolls set to Automatic. Total 1189."
   }
  ],
  "history": [
@@ -9799,6 +9834,10 @@
   {
    "date": "2026-11-16 02:38",
    "total": 1184
+  },
+  {
+   "date": "2026-11-16 02:39",
+   "total": 1189
   }
  ],
  "next_week_ideas": [
