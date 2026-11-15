@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:51:13+05:30",
- "runs": 213,
+ "updated": "2026-11-15T23:51:53+05:30",
+ "runs": 214,
  "branches": [
   {
    "id": "platforms",
@@ -6628,6 +6628,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 211
+    },
+    {
+     "t": "Toy industry talk at Toy Fair 2026 picked the shaggy, caramel coloured highland cow as the next trendy plush animal for kids, with capybaras (popular for over a year) and axolotls now at their peak; earlier cycles were llamas and owls, then hedgehogs and foxes.",
+     "src": "AOL (Toy Fair report), Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 214
+    },
+    {
+     "t": "Capybaras became the holiday 'it' animal of late 2024 on toy shelves and social media and stayed popular into 2026 because of their calm, friendly image, which makes a relaxed capybara friend a good calm down or bedtime character for us.",
+     "src": "CBS News, Dec 2024; AOL, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 214
+    },
+    {
+     "t": "Other animals floated as next for kids' toys include pigeons, frogs, squirrels and woolly mammoths, so a woolly mammoth friend is a timely winter animal for an Ice Age style 'stomp and shiver' song with our own design.",
+     "src": "AOL (Toy Fair report), Feb 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 214
     }
    ]
   }
@@ -6655,11 +6676,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 134): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:02",
-   "note": "Run 135 (other platforms (Roblox concerts and time spent)): Bruno Mars' avatar concert inside the Roblox game Steal a Brainrot (17 Jan 2026) drew 12.86M concurrent players, a world record, and a limited collectible character tied to it was grabbed 5.4M times. Gamefam reports Roblox passed 151M daily users in 2025 and young users spend about 2.7 hours a day there, more than on TikTok or YouTube. Total 625."
+   "note": "Earlier runs summarised (up to Run 135): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:03",
@@ -6972,6 +6989,10 @@
   {
    "date": "2026-11-15 23:51",
    "note": "Run 213 (competitor deep dive (Rhymington Square monster songs, TinkaBop baby sensory)): Rhymington Square (Canada, 311K subs) has 291M views from only 74 songs, about 3.9M per video, with original monster songs and numbered sequels ('There's A Monster In My Tummy #2'), seasonal songs as its biggest cluster and about a quarter trend based. TinkaBop, a new baby sensory channel, shows the slow start: 11 videos, 5K subs, a bath time song its best at 18K views. Total 937."
+  },
+  {
+   "date": "2026-11-15 23:51",
+   "note": "Run 214 (TRENDS (trending kid animals: highland cow rising, capybara and axolotl peaking)): Toy Fair 2026 chatter names the shaggy highland cow as the next 'it' plush animal while capybaras and axolotls peak, following llamas and owls before them; capybaras were the holiday 'it' animal of late 2024. Our dancing animal friends format now uses these animals in original designs. Total 940."
   }
  ],
  "history": [
@@ -7826,9 +7847,17 @@
   {
    "date": "2026-11-15 23:51",
    "total": 937
+  },
+  {
+   "date": "2026-11-15 23:51",
+   "total": 940
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Highland Cow Hoedown",
+   "why": "The shaggy highland cow is tipped as the next trendy kids' animal after capybaras and axolotls; a fluffy original cow friend teaching a simple stomp, clap and spin barn dance with the Bros rides the trend early with our own character."
+  },
   {
    "title": "It's Way Too Cold Today!",
    "why": "Rhymington Square's 'It's Way Too Hot Today' hit 17M by turning an everyday toddler complaint into a song; a winter twin where the Bros pile on hat, scarf and mittens, shiver, then warm up by dancing fits the northern December and invites a sequel."
@@ -7880,10 +7909,6 @@
   {
    "title": "Every Voice Counts!",
    "why": "World Children's Day (20 Nov, theme 'My Day. My Rights. My Future.') and the many national children's days give a yearly hook; a blue themed call and response song where each friend says what they love works in every culture."
-  },
-  {
-   "title": "Find the Beat Brothers",
-   "why": "Partner timing games like TikTok's Find the Beat travel worldwide; the brothers take turns clapping, stomping and freezing on the beat, an easy copy along with a clear call and response hook."
   }
  ],
  "trend_bank": [
@@ -7897,7 +7922,7 @@
    "name": "Dancing animal friends",
    "where": "TikTok (AI Alligator Dance resurgence, 2.4M view post on 2 Nov 2026, KnowYourMeme)",
    "status": "peak",
-   "use": "Three of our own original 3D animal friends (for example crocodiles or penguins) stand upright and dance in a line with the Bros. Meshy step: standing, rhythmic walk in place (step left, step right), arms swinging, then three quick chest pops forward and a hand wave over the head. Our own beat only, never the trending audio."
+   "use": "Three of our own original 3D animal friends (the trendiest kid animals now: a fluffy highland cow, a calm capybara and a pink axolotl, plus winter penguins) stand upright and dance in a line with the Bros. Meshy step: standing, rhythmic walk in place (step left, step right), arms swinging, then three quick chest pops forward and a hand wave over the head. Our own beat only, never the trending audio."
   },
   {
    "name": "Shoulder bounce team dance",
