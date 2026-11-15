@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:49:55+05:30",
- "runs": 211,
+ "updated": "2026-11-15T23:50:35+05:30",
+ "runs": 212,
  "branches": [
   {
    "id": "platforms",
@@ -5207,6 +5207,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 200
+    },
+    {
+     "t": "CIMM's July 2026 report says US young children's video time is now about 35% streaming, 32% YouTube and 16% short form (TikTok, Shorts), with linear TV down to about 6% from 80 to 90% in 2005, and children make up nearly a quarter of all YouTube viewing.",
+     "src": "CIMM, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 212
+    },
+    {
+     "t": "US children aged 0 to 8 now average about 2 hours 27 minutes of screen time a day (up from 1 hour 44 in 2005), with mobile the main device, while YouTube Analytics only shows demographics for viewers 13 and over, so our own analytics can never show the true age of our audience.",
+     "src": "CIMM, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 212
+    },
+    {
+     "t": "Kenya's Akili TV added read along captions to existing cartoons in a 'Read Along Hour' (Swahili and French pilots) and child viewing rose about 15% while adult co viewing rose about 39%, so big on screen karaoke style lyrics in Bro Bros songs can draw parents in and help reading.",
+     "src": "Pulse, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 212
     }
    ]
   },
@@ -5872,6 +5893,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 208
+    },
+    {
+     "t": "CIMM notes that kids content earns lower CPMs, that ad tech often cannot work in COPPA compliant settings so children's videos are left out of programmatic buying, and that advertisers rarely buy YouTube made for kids inventory, which is why kids channel RPMs stay low and scale matters.",
+     "src": "CIMM, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 212
     }
    ]
   },
@@ -6173,6 +6201,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 207
+    },
+    {
+     "t": "A karaoke lyric line (each word lights up as it is sung, big rounded font in the lower middle, inside the TV safe zone) should be the default on Bro Bros singalong uploads, because captions lift co viewing and also help English learners worldwide.",
+     "src": "Pulse and CIMM, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 212
     }
    ]
   },
@@ -6585,11 +6620,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 132): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:01",
-   "note": "Run 133 (global markets (India)): An Akatsuki survey of parents in 10 Indian metros ranks YouTube (76%), Netflix (57%) and TV (26%) as the top kids animation platforms; urban parents prefer entertainment led English animation, with Tamil, Telugu and Bangla the top regional language picks, and they rank local storylines lowest. Indian studio PunToon reports the opposite pull too (culturally rooted Indian stories) and a move beyond YouTube only income to apps, events and brand deals. Total 619."
+   "note": "Earlier runs summarised (up to Run 133): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:02",
@@ -6902,6 +6933,10 @@
   {
    "date": "2026-11-15 23:49",
    "note": "Run 211 (TRENDS (late October rising formats for families: bow on the drop, rock paper scissors, pick your favourite; Thanksgiving gratitude cloth)): Virlo's tracker (29 Oct) shows family friendly formats rising: rock paper scissors over one plate of food, 'pick your favourite on three' and posing then bowing deeply on the beat drop; two joined the trend bank as Bro Bros games (two older ones left). Thanksgiving (26 Nov) brings back the gratitude tablecloth where kids trace their hands and families write thanks. Total 927."
+  },
+  {
+   "date": "2026-11-15 23:50",
+   "note": "Run 212 (global markets (US kids viewing split from CIMM, read along captions lift in Kenya)): CIMM (Jul 2026): US young children's video time is now 35% streaming, 32% YouTube and 16% short form, with linear TV down to about 6%, and children make up nearly a quarter of all YouTube viewing. In Kenya, adding read along captions to existing cartoons lifted child viewing 15% and adult co viewing 39%, a cheap idea for lyric captions in our songs. Total 932."
   }
  ],
  "history": [
@@ -7748,6 +7783,10 @@
   {
    "date": "2026-11-15 23:49",
    "total": 927
+  },
+  {
+   "date": "2026-11-15 23:50",
+   "total": 932
   }
  ],
  "next_week_ideas": [
