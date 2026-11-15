@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:49:13+05:30",
- "runs": 182,
+ "updated": "2026-11-15T22:35:55+05:30",
+ "runs": 183,
  "branches": [
   {
    "id": "platforms",
@@ -832,6 +832,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 182
+    },
+    {
+     "t": "YouTube Shorts now lets viewers press and hold the edge of the player for 2x speed (swipe down to lock it) and tap for a clear screen with no buttons, so slow intros get fast forwarded; every Bro Bros Short should start moving in the first second and keep the dance centred where no overlay covers it.",
+     "src": "igeeksblog and Metricool, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 183
+    },
+    {
+     "t": "Instagram added a Watch History for Reels in mid 2026 (Your activity, Watch history), so a parent whose child loved a Bro Bros Reel can find it again later; a clear song name in the first caption line makes it easy to spot in that list.",
+     "src": "Android Central and WERSM, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 183
+    },
+    {
+     "t": "Instagram's Edits app now lets creators put tappable links inside a clip that open another Reel or account (no outside websites), so each Bro Bros Reel can link to the full dance tutorial Reel or last week's hit, keeping viewers inside our profile.",
+     "src": "Buzzincontent and Social Samosa, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 183
+    },
+    {
+     "t": "Edits can auto translate captions into a second language (15 supported, including Hindi, Bengali, Spanish, Portuguese, Indonesian, Japanese, Korean and Thai), a free way to give Bro Bros Reels bilingual on screen lyrics for big non English markets.",
+     "src": "Indian Television, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 183
+    },
+    {
+     "t": "Edits gives creators up to 10 personalised clip ideas each week built from their own past Reels, plus 25 effects like bounce and fisheye; the weekly ideas are a quick free check of what Instagram thinks our channel is about.",
+     "src": "Buzzincontent, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 183
     }
    ]
   },
@@ -5263,6 +5298,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 179
+    },
+    {
+     "t": "The New York Times' Feb 2026 test found the AI slop served to toddlers had warped faces, garbled text, no repetition, no story and no clip longer than 30 seconds; YouTube removed five cited channels from the Partner Program and YouTube Kids, so Bro Bros Shorts should always show a repeated hook and a tiny beginning, middle and end.",
+     "src": "NYT via Digital Trends, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 183
     }
    ]
   },
@@ -5689,11 +5731,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 40 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:04",
-   "note": "Run 104 (competitor deep dive (Moonbug strategy, Little Angel and Blippi)): Moonbug (CoComelon, Blippi, Little Angel, Little Baby Bum) stays YouTube first and non exclusive, makes content for each viewing moment (phone in the car, living room co viewing), grows hits into music, toys and live tours, and is spinning Little Angel into Emmie's Wonder Wardrobe for ages 3 to 5. Blippi's 2026 runs on a 'Year of Vehicles' theme; Southern Europe (Spain, France) is its growth focus. Total 511."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 19:05",
@@ -6006,6 +6044,10 @@
   {
    "date": "2026-11-15 21:49",
    "note": "Run 182 (YouTube algorithm (TV profiles, Up Next, long viewing on TV)): YouTube's Q1 2026 TV update puts supervised child profiles on the TV Who's Watching screen and adds Up Next teasers at the end of videos, so kids on TV now watch in their own profile and our endings feed straight into the next song. Digital i: YouTube passed Netflix in average daily viewing (99 vs 93 minutes in 2025) and videos over 20 minutes rose to about 68% of YouTube viewing time. Total 799."
+  },
+  {
+   "date": "2026-11-15 22:35",
+   "note": "Run 183 (Shorts and Reels (viewer controls, Edits tools, what slop looks like)): Shorts now has hold for 2x speed and a clear screen mode, and Instagram added Reels Watch History, so kids can skip boring seconds and parents can find a Reel again. Edits can link a clip to our other Reels and auto translate captions into 15 languages. The NYT found the AI slop fed to toddlers has no repetition, no story and no clip over 30 seconds, the opposite of what we make. Total 805."
   }
  ],
  "history": [
@@ -6736,6 +6778,10 @@
   {
    "date": "2026-11-15 21:49",
    "total": 799
+  },
+  {
+   "date": "2026-11-15 22:35",
+   "total": 805
   }
  ],
  "next_week_ideas": [
