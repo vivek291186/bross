@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:45+05:30",
- "runs": 1,
+ "updated": "2026-11-15T15:40+05:30",
+ "runs": 2,
  "branches": [
   {
    "id": "platforms",
@@ -11,37 +11,134 @@
      "t": "YouTube is the main screen for kids in the family living room; kids under 12 watch mostly there.",
      "src": "advanced-television.com (Feb 2026)",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Kids Shorts are huge: 8 of the 10 most-viewed videos on all platforms in 2025 were kids YouTube Shorts.",
      "src": "Tubular Labs 2025 recap",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Indian family/kids channels dominate YouTube Shorts; often 19-27 of the weekly global top 50 channels are Indian.",
      "src": "Tubefilter weekly Top 50 (2026)",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Kids/baby content gets about 71K views per Instagram post, similar to TikTok and far above typical brand YouTube posts.",
      "src": "Dash Social benchmark",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Instagram's 2026 algorithm favours original Reels; a Reel detected as reposted from TikTok can be pushed down.",
      "src": "kineclip.com 2026 trends",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Vertical 9:16 beats square by 2-3x on short-form platforms.",
      "src": "kineclip.com 2026 trends",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
+    }
+   ]
+  },
+  {
+   "id": "algorithm",
+   "name": "YouTube algorithm",
+   "icon": "cpu",
+   "leaves": [
+    {
+     "t": "YouTube's recommender has two goals: help each viewer find what they want and maximise long-term satisfaction; in 2026 satisfaction (surveys, rewatches, 'not interested') outweighs raw watch time.",
+     "src": "YouTube blog via SocialPilot / Shopify, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "Recommendations are not one system: Home, Suggested, Search, Shorts feed and Subscriptions each rank with different signals; Suggested looks mainly at the video being watched now.",
+     "src": "posteverywhere / subsub.io, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "Long-form: click-through rate on thumbnail+title and average view duration work as a pair; the thumbnail must deliver what it promises or satisfaction drops.",
+     "src": "blckalpaca / vidIQ, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "Shorts run on a separate engine: each Short goes to a seed audience (a few hundred viewers); if they watch instead of swiping away, reach widens in waves.",
+     "src": "vidIQ / OutlierKit, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "Shorts key signals: viewed vs swiped away, watch-through %, loops/replays and shares; benchmark about 65% average view duration for Shorts under 30 s, about 50% for 30-60 s.",
+     "src": "socialync / dataslayer, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "The first 1.5 to 3 seconds of a Short decide most swipe-aways, so the opening frame must already be the hook.",
+     "src": "easyviral / clipspeed, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "Since 1 Oct 2026 YouTube's recommender gives more reach to original Shorts; reused or inauthentic content is reviewed at channel level.",
+     "src": "AIR Media-Tech (YouTube partner), Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "Views now count from the first frame (Shorts since Mar 2025, all formats since Aug 2026), so raw views look bigger; engaged views and retention are the real health metrics.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "Made-for-kids videos lose comments, notification bell, cards/end screens and personalised ads, so discovery relies even more on watch behaviour, Search and Suggested.",
+     "src": "AIR glossary / YouTube Help",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "YouTube Kids app recommendations come from what each child profile watched and searched; homepage shelves are series, music, learning, discovery and games.",
+     "src": "YouTube Kids Help / ppc.land",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "New channels typically get cautious distribution for the first few months until the system has performance history; consistency builds that trust.",
+     "src": "FluxNote, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 2
+    },
+    {
+     "t": "Instagram Reels rank on watch time first, then sends (DM shares) per reach, then likes per reach; sends matter most for reaching non-followers; reposts and watermarks are demoted.",
+     "src": "SocialPilot Aug 2026 / Later",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
     }
    ]
   },
@@ -54,37 +151,43 @@
      "t": "Cocomelon is still the biggest kids channel (about 200M subs, about 229B views); its top video is Wheels on the Bus (8.4B).",
      "src": "Epidemic Sound / Social Blade 2026",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Baby Shark Dance (Pinkfong) is the most-viewed YouTube video ever, about 17.5B views (Nov 2026).",
      "src": "AIR Media-Tech, Nov 2026",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Next tier: ChuChu TV (about 98M), Super Simple Songs, Infobells Hindi (about 73M), Vlad and Niki, Kids Diana Show, Like Nastya.",
      "src": "Social Blade / AIR",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Ms. Rachel (live, slow, speech-focused) became a top-4 Netflix kids show in her first year; creator-led preschool content is rising.",
      "src": "What's on Netflix / Luminate 2026",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Multi-language dubbing is a key growth lever for the biggest kids channels (Diana, Nastya, ChuChu's 12 language channels).",
      "src": "Epidemic Sound / AIR",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Long compilations and 24/7 live streams of the back catalogue keep old songs earning views.",
      "src": "AIR / upstream.so",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     }
    ]
   },
@@ -97,43 +200,50 @@
      "t": "Upbeat tempo drives movement; Baby Shark sits at about 117 BPM. Aim for 110-125 BPM for dance songs.",
      "src": "Business Today / Daily Beast experts",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Heavy repetition of a 1-2 bar melodic hook and of whole sections is the common thread of mega-hits.",
      "src": "BMI analysis",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Narrow, simple melody (about 5 notes) lets small kids sing along, which rewards them and drives replays.",
      "src": "music analysis articles",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Family words (baby, mommy, daddy, grandma) create an emotional bond with the song.",
      "src": "Salimpoor (neuroscience), Daily Beast",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Story moments with tempo change (speed up for 'run away', slow for 'safe at last') let kids act the song out.",
      "src": "Ilari (USC), Daily Beast",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "A key change up a half-step near the end lifts energy without making it harder to sing.",
      "src": "BMI analysis",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Cocomelon uses song duos (call and answer parts) and reuses the same melodies with simple lyrics.",
      "src": "Cocomelon case study PDF",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     }
    ]
   },
@@ -146,37 +256,43 @@
      "t": "Kids like to see other kids dancing on screen; the version of Baby Shark with real kids dancing is the one that went viral.",
      "src": "Ilari (USC), Daily Beast",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Big eyes, round geometric shapes and saturated colours attract young viewers.",
      "src": "Daily Beast",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "YouTube-native kids content is about twice as fast and brighter than broadcast kids TV.",
      "src": "Enders Analysis, Dec 2025",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Cocomelon cuts every 1-3 s, but experts criticise this as over-stimulating; parents move kids to calmer shows like Bluey.",
      "src": "shapes.inc / screenwise",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Pixar-like rounded 3D style is proven with young kids.",
      "src": "Cocomelon case study",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Character-led storytelling is beating plain tutorial/fact content in 2026; recurring characters are the long-term asset.",
      "src": "Whizzy Studios 2026",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     }
    ]
   },
@@ -189,31 +305,36 @@
      "t": "Animal families, vehicles (bus, car, trucks), and everyday routines (brushing teeth, bath, bedtime) are evergreen hits.",
      "src": "most-viewed lists, Tubefilter",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Tooth-brushing videos get a seasonal boost around October (Halloween candy).",
      "src": "Tubefilter, Oct 2026",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Farm machines and 'satisfying' efficiency videos are popular with kids.",
      "src": "Tubefilter, Jan 2026",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Learning in disguise (phonics, numbers, colours inside a fun song) is a top trend; ChuChu's Phonics Song is India's most-viewed video (5.8B).",
      "src": "Wikipedia list / AIR",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Cute kids plus cute pets push views even higher.",
      "src": "Tubefilter, Apr 2026",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     }
    ]
   },
@@ -226,19 +347,22 @@
      "t": "Infobells (Hindi, Tamil, Telugu channels) and ChuChu TV lead Indian kids content; Hindi rhymes like Lakdi Ki Kathi have 4B views.",
      "src": "Social Blade / Wikipedia",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Regional-language versions (Hindi, Tamil, Telugu) each build channels with 30M+ subscribers.",
      "src": "Social Blade",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Food-themed content is a reliable way to reach Indian kids on Shorts.",
      "src": "Tubefilter, Feb 2026",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     }
    ]
   },
@@ -251,31 +375,36 @@
      "t": "YouTube's quality principles push high-quality made-for-kids videos up in recommendations and decide entry to the YouTube Kids app.",
      "src": "YouTube Help / YouTube blog",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Six low-quality types to avoid: heavily promotional, negative behaviour, fake-educational, hard to follow/mass-produced, sensational or keyword-stuffed, odd use of familiar characters.",
      "src": "AIR summary of YouTube policy",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Red flags: flashing lights, loud or sudden sounds, chaotic camera moves, rushed storytelling, mean characters even as jokes.",
      "src": "Whizzy Studios 2026",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "YouTube is cracking down on low-effort AI 'slop' for kids; originality and consistent quality matter more in 2026.",
      "src": "AIR Jan 2026 / YouTube CEO letter",
      "conf": "high",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     },
     {
      "t": "Getting into the YouTube Kids app is done through review (often via an official YouTube partner), not by applying directly.",
      "src": "AIR",
      "conf": "medium",
-     "date": "2026-11-15"
+     "date": "2026-11-15",
+     "run": 1
     }
    ]
   },
@@ -295,12 +424,29 @@
   "Hide a learning point in each song (counting, colours, routine, safety) and say it in the description.",
   "Plan Hindi versions of the best songs; regional dubbing is the biggest proven growth lever.",
   "Make long compilations of the week's songs for evergreen views.",
-  "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles."
+  "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles.",
+  "Open every Short and Reel on the most exciting moment (the hook line plus big dance move) in the first second; no title cards first.",
+  "Make Shorts loop: end on a frame that flows back into the start, so replays count.",
+  "Thumbnail and title must show exactly what the song delivers (no bait) to protect satisfaction signals."
  ],
  "log": [
   {
    "date": "2026-11-15 15:45",
    "note": "Run 1: seeded 38 learnings across 8 branches (platforms, top channels, music, visuals, topics, India, YouTube rules). First 9 playbook rules."
+  },
+  {
+   "date": "2026-11-15 15:40",
+   "note": "Run 2 (YouTube algorithm): new branch with 12 learnings on how Home, Suggested, Search, Shorts and Reels rank videos; 3 new playbook rules. Total 50."
+  }
+ ],
+ "history": [
+  {
+   "date": "2026-11-15 15:00",
+   "total": 38
+  },
+  {
+   "date": "2026-11-15 15:40",
+   "total": 50
   }
  ]
 }
