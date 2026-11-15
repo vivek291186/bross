@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:44:15+05:30",
- "runs": 205,
+ "updated": "2026-11-15T23:45:47+05:30",
+ "runs": 206,
  "branches": [
   {
    "id": "platforms",
@@ -3268,6 +3268,41 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 185
+    },
+    {
+     "t": "Bluey composer Joff Bush says his first rule is clarity above everything, modelled on The Wiggles: every kids song should be as unambiguous as possible in what to do and feel.",
+     "src": "Yahoo Entertainment (Joff Bush interview)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 206
+    },
+    {
+     "t": "The Bluey theme was briefed as a game of musical statues: shouted names arrive between rests, slightly earlier each time like a countdown, so silent gaps in a song become the cue for kids to freeze and then jump back in.",
+     "src": "Fatherly, Apr 2023",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 206
+    },
+    {
+     "t": "The Bluey theme uses only melodica and handclaps with no drums and no steady beat, over a Bo Diddley style rumba groove, and keeps small recording imperfections on purpose for a warm human feel; a Suno prompt can ask for 'melodica, handclaps, playground feel, no drums' for a calm Bro Bros game song.",
+     "src": "Fatherly, Apr 2023",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 206
+    },
+    {
+     "t": "Bush scores music the way the kids in the story would hear it (a busker's simple tune feels huge and bright to them), and hints a melody through an episode that only arrives in full at the end, a payoff trick for story songs.",
+     "src": "Yahoo Entertainment (Joff Bush interview)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 206
+    },
+    {
+     "t": "Bluey's 'Dance Mode' title track borrows drum and bass and EDM energy yet sits at about 120 BPM with low measured intensity, showing a kids dance song can feel energetic without being loud or dense.",
+     "src": "musiciwant.com, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 206
     }
    ]
   },
@@ -6389,11 +6424,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 126): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:57",
-   "note": "Run 127 (global markets (Spanish speaking Latin America)): El Reino Infantil (Argentina) now runs 50+ channels in 11 languages with over 240M subscribers and 180B views, gained 8.8B views in Jan to May 2026 alone, and Mexico is its biggest market (39.1M subscribers); its named farm animal cast grew out of songs into a franchise with FAST TV channels and a Roblox world. Plim Plim drew about 1.07B views in a month in Argentina. Total 598."
+   "note": "Earlier runs summarised (up to Run 127): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:58",
@@ -6706,6 +6737,10 @@
   {
    "date": "2026-11-15 23:44",
    "note": "Run 205 (TRENDS (December family traditions coming: stuck in the TV elf videos, wish list roasts, gingerbread twists)): Searched the next four weeks of family traditions: parents play 'elf stuck in the TV' videos (some 10 hours long on YouTube) before kids wake up each December, which suits a TV first Bro Bros format with our own helper elf; the Christmas wish list roast is for parents, not kids; this week's Reels audio window (31 Oct to 10 Nov) had nothing new beyond run 196. Total 899."
+  },
+  {
+   "date": "2026-11-15 23:45",
+   "note": "Run 206 (music craft (other platforms charts already in the tree, so switched: the Bluey composer's songwriting tricks)): Netflix, iTunes kids and Roblox findings this week were already in the tree, so this round studied Bluey composer Joff Bush: clarity above everything (modelled on The Wiggles), rests and pauses as a freeze game cue, a theme built on melodica and handclaps with no drums or steady beat, warm handmade imperfections, and Dance Mode at about 120 BPM with low intensity. Total 904."
   }
  ],
  "history": [
@@ -7528,6 +7563,10 @@
   {
    "date": "2026-11-15 23:44",
    "total": 899
+  },
+  {
+   "date": "2026-11-15 23:45",
+   "total": 904
   }
  ],
  "next_week_ideas": [
