@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:43:19+05:30",
- "runs": 176,
+ "updated": "2026-11-15T21:44:08+05:30",
+ "runs": 177,
  "branches": [
   {
    "id": "platforms",
@@ -2344,6 +2344,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 174
+    },
+    {
+     "t": "The Kiboomers (Canada, 4.04M subscribers) earns a steady 50 to 55M views a month while posting only one new video each Friday, and vidIQ models about 37K USD a month, far more per view than mass upload rhyme channels, because its catalogue is evergreen circle time music teachers replay.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 177
+    },
+    {
+     "t": "All five of The Kiboomers' most viewed videos are movement games: Going on a Dragon Hunt (37.4M), Freeze Dance Song 2 (31.1M), Red Light Freeze Dance (30M), Going on a Dinosaur Hunt (23.4M) and Floor is Lava 2 Freeze Dance (18.2M), and sequels of a winning game (Freeze Dance 2, Floor is Lava 2) do as well as originals.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 177
+    },
+    {
+     "t": "The Kiboomers' newest upload is a seasonal movement game, Shake Your Santa Hat (6 Nov 2026), so classroom channels release Christmas dance songs in the first week of November to catch teachers' December planning.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 177
+    },
+    {
+     "t": "Kaboochi (2.17M subscribers, 2,225 videos) gets about 11.6M views a month, and its biggest hits are theme twists on the Finger Family song (Football Finger Family 29M, Planet Finger Family 17M), so a known song frame plus a new theme is its main growth trick, though sheer volume gives low views per video.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 177
     }
    ]
   },
@@ -5542,11 +5570,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 34 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:00",
-   "note": "Run 98 (Shorts and Reels (Instagram Features, TV apps, series change)): Instagram announced Features on 26 Oct 2026, horizontal videos up to 90 minutes promoted by Reel previews (testing in the US after Brazil), launched an Apple TV app on 23 Oct after Fire TV, Google TV and Samsung, and stopped letting creators link Reels into series from 28 Oct. Profiles with unlabelled AI generated people can lose recommendation reach. Total 493."
+   "note": "Earlier runs summarised: 35 older log entries condensed."
   },
   {
    "date": "2026-11-15 19:01",
@@ -5859,6 +5883,10 @@
   {
    "date": "2026-11-15 21:43",
    "note": "Run 176 (global markets (Thai, Russian, East Africa)): Thailand's biggest family channels are big: Vlad and Niki's Thai channel has 14.2M subscribers and local J Jai Pan 13.5M, so Thai is a large dub market. Russian Masha songs channel TaDaBoom earns about 82M views a month but vidIQ models only about 7,800 USD, so Russian dubs bring reach but little money. Akili and Me shows a toilet habit song can be an East African channel's top hit. Total 778."
+  },
+  {
+   "date": "2026-11-15 21:44",
+   "note": "Run 177 (competitor deep dive (The Kiboomers, Kaboochi)): The Kiboomers (Canada, 4.04M subscribers) earns a steady 50 to 55M views a month posting just one new video every Friday, and its top five are all movement games: Going on a Dragon Hunt 37M, Freeze Dance 2 31M, Red Light Freeze Dance 30M, Dinosaur Hunt, Floor is Lava. Kaboochi gets about 11.6M a month from 2,225 videos, its hits Finger Family twists (Football Finger Family 29M). Total 782."
   }
  ],
  "history": [
@@ -6565,6 +6593,10 @@
   {
    "date": "2026-11-15 21:43",
    "total": 778
+  },
+  {
+   "date": "2026-11-15 21:44",
+   "total": 782
   }
  ],
  "next_week_ideas": [
