@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:55:28+05:30",
- "runs": 218,
+ "updated": "2026-11-15T23:56:23+05:30",
+ "runs": 219,
  "branches": [
   {
    "id": "platforms",
@@ -944,6 +944,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 218
+    },
+    {
+     "t": "Adam Mosseri said Instagram Trial Reels will 'almost always' get less reach than normal Reels, and Buffer's tests saw trials top out around 180 views against 1,500 to 5,000 for regular Reels, so trials are a test tool, not a growth engine.",
+     "src": "Planoly (Buffer, Mosseri), 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 219
+    },
+    {
+     "t": "Kapwing's small Trial Reels test (Oct 2025) had a trend style trial beat its regular twin (2,258 vs 949 views) and one trial broke out to 1.4M views, 130 followers and 8.6K profile visits, showing trials can occasionally find a new audience for discovery, not conversions.",
+     "src": "Planoly (Kapwing), 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 219
+    },
+    {
+     "t": "Good trial practice: change only one thing per test (the first second hook, or the caption), always use fresh video, compare trials only with other trials on sends, likes and watch time, and wait at least 24 hours before judging.",
+     "src": "Planoly, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 219
+    },
+    {
+     "t": "In Buffer's three version test the same Reel with trending audio got 24% more views than a voiceover version and 33% more than an ASMR version with similar watch time; for us the safe equivalent is a catchy original song hook from the first frame rather than talking.",
+     "src": "Planoly (Buffer), 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 219
     }
    ]
   },
@@ -6781,11 +6809,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 139): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:06",
-   "note": "Run 140 (global markets (YouTube users by country)): YouTube's biggest audiences in 2026: India 518M users, US 259M, Indonesia 151M, Brazil 149M, Mexico 86M, Japan 81M, Germany 66M, Vietnam 63M, Philippines 61M, Turkey 59M. Four of the top five are covered by English, Hindi, Indonesian, Portuguese and Spanish, the same languages our dubbing plan targets; Vietnamese and Turkish are the big gaps. Total 640."
+   "note": "Earlier runs summarised (up to Run 140): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:12",
@@ -7098,6 +7122,10 @@
   {
    "date": "2026-11-15 23:55",
    "note": "Run 218 (other platforms (algorithm ran with nothing new, so switched: screen free audio players Tonies and Yoto)): YouTube Kids and supervised account changes were already in the tree, so this round looked at screen free audio: Tonies grew 38% to about 243M EUR in H1 2026 (North America up 48%, Q2 there up 83%) on licences like Bluey and Pokemon, and Yoto's revenue jumped 43% in 2025 with 22B minutes listened and a growing music shelf (KPop Demon Hunters, Wicked). A strong song catalogue could later become audio cards, but only once the Bros are a known brand. Total 955 (one Yoto leaf merged as a duplicate of an older one)."
+  },
+  {
+   "date": "2026-11-15 23:56",
+   "note": "Run 219 (Shorts and Reels (how well Instagram Trial Reels actually work)): Trial Reels evidence is thin but consistent: Mosseri says trials almost always get less reach; Buffer's tests topped out near 180 views against 1,500 to 5,000 for normal Reels, while one Kapwing trial broke out to 1.4M views. So use trials only to compare two hooks of the same song against each other, judged on sends and watch time after 24 hours. Total 959."
   }
  ],
  "history": [
@@ -7972,6 +8000,10 @@
   {
    "date": "2026-11-15 23:55",
    "total": 955
+  },
+  {
+   "date": "2026-11-15 23:56",
+   "total": 959
   }
  ],
  "next_week_ideas": [
