@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:06:21+05:30",
- "runs": 139,
+ "updated": "2026-11-15T20:06:57+05:30",
+ "runs": 140,
  "branches": [
   {
    "id": "platforms",
@@ -3786,6 +3786,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 137
+    },
+    {
+     "t": "YouTube's largest audiences in 2026 are India (518M users), the US (259M), Indonesia (151M), Brazil (149M), Mexico (86M), Japan (81M), Germany (66M), Vietnam (63M), the Philippines (61M) and Turkey (59M).",
+     "src": "globalmediainsight.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 140
+    },
+    {
+     "t": "English, Hindi, Indonesian, Portuguese and Spanish together cover the five biggest YouTube countries, matching our dubbing order; Vietnamese and Turkish are the next large markets with no plan yet, and both already appear among strong second language tracks in kids dubbing tests.",
+     "src": "globalmediainsight.com / air.io, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 140
+    },
+    {
+     "t": "Indonesia (151M users) and the Philippines (61M) together are a YouTube audience larger than the US, and both have big young populations, which is why kids brands run Bahasa channels and why English songs travel well in the Philippines.",
+     "src": "globalmediainsight.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 140
     }
    ]
   },
@@ -4547,12 +4568,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:09",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:10",
-   "note": "Run 61 (YouTube main and Kids charts (VocaVoca)): VocaVoca (11M subs) grew monthly views about eightfold in 2026, from about 370M in January to 2.91B in October, without new viral long videos: its all time leaders are still 2021 to 2022 habit and safety songs, and growth came from Shorts of the same routines (oral care Short in Oct). Total 347."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:15",
@@ -4865,6 +4882,10 @@
   {
    "date": "2026-11-15 20:06",
    "note": "Run 139 (topics and seasons (Christmas formats) and playbook refresh): Holiday Shorts in Dec 2025 favoured honest, funny 'fail' baking clips and year end countdowns, and kids channel playbooks suggest daily advent reveal mini videos and 'Christmas around the world' tours. Playbook refreshed: movement songs get big quiet and loud contrasts, and one bilingual English Spanish song a week. Total 637."
+  },
+  {
+   "date": "2026-11-15 20:06",
+   "note": "Run 140 (global markets (YouTube users by country)): YouTube's biggest audiences in 2026: India 518M users, US 259M, Indonesia 151M, Brazil 149M, Mexico 86M, Japan 81M, Germany 66M, Vietnam 63M, Philippines 61M, Turkey 59M. Four of the top five are covered by English, Hindi, Indonesian, Portuguese and Spanish, the same languages our dubbing plan targets; Vietnamese and Turkish are the big gaps. Total 640."
   }
  ],
  "history": [
@@ -5423,6 +5444,10 @@
   {
    "date": "2026-11-15 20:06",
    "total": 637
+  },
+  {
+   "date": "2026-11-15 20:06",
+   "total": 640
   }
  ],
  "next_week_ideas": [
