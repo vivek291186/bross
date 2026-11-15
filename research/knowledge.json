@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:35:55+05:30",
- "runs": 183,
+ "updated": "2026-11-15T22:37:08+05:30",
+ "runs": 184,
  "branches": [
   {
    "id": "platforms",
@@ -5704,6 +5704,48 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 180
+    },
+    {
+     "t": "Later's 13 Nov 2026 roundup lists three new Reels formats: a fixed camera outfit change triggered by one simple move, timestamped clips of a single visit or routine, and the 5 stages of mood arc; all use original audio, so they suit our own songs.",
+     "src": "Later, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 184
+    },
+    {
+     "t": "Halloween formats peaked around 1 to 2 Nov (the 'I'm so sorry' costume carousel sound jumped from 174K to 408K videos in six days) and fade fast; SocialPilot notes the format, not the audio, drives most trends and that they often peak within 7 to 10 days, so a trend must be shipped within a week.",
+     "src": "SocialPilot and Que.es, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 184
+    },
+    {
+     "t": "The 'Christmas switch' (filming the change from Halloween to Christmas decor, menus and first Christmas songs) started on 1 Nov, the same day feeds turned to holiday content, so December songs can already be teased now.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 184
+    },
+    {
+     "t": "Runway walk recreations (a slow stride, a pose and a turn to camera, set to JADE's 'Angel of My Dreams') were rising in early November on TikTok and Reels; a pyjama parade walk keeps the move but makes it kid safe.",
+     "src": "B&T and SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 184
+    },
+    {
+     "t": "Animators keep re creating a cartoon kitchen dance while bread bakes ('Let's Groove' memes) and couples post unplanned kitchen dances; dancing while waiting for something to finish is a friendly everyday hook we can own with cookies and an oven timer.",
+     "src": "Know Your Meme Sep 2026, B&T Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 184
+    },
+    {
+     "t": "An 'AI vs handmade' format (a polished AI version first, then the real handmade one) rode the Dame Hombro shoulder bounce sound in early November, a sign audiences enjoy honest behind the scenes looks; a Bros Short showing a rough sketch then the finished 3D dance could join it.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 184
     }
    ]
   }
@@ -5732,10 +5774,6 @@
   {
    "date": "2026-11-15 17:37",
    "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:05",
-   "note": "Run 105 (algorithm experiments and data (video length, dub tracks, streams)): AIR's study of 18,080 channels (2025 to Mar 2026) found video length makes no measurable difference to kids engagement at scale, while one kids channel that moved from 28+ minute compilations to shorter formats doubled average percentage viewed. Dubbed audio tracks added 125.5M views (over 30%) to one channel in five months, and DONA English's new streams brought 20% of revenue in 10 days and 60% the next month. Total 515."
   },
   {
    "date": "2026-11-15 19:06",
@@ -6048,6 +6086,10 @@
   {
    "date": "2026-11-15 22:35",
    "note": "Run 183 (Shorts and Reels (viewer controls, Edits tools, what slop looks like)): Shorts now has hold for 2x speed and a clear screen mode, and Instagram added Reels Watch History, so kids can skip boring seconds and parents can find a Reel again. Edits can link a clip to our other Reels and auto translate captions into 15 languages. The NYT found the AI slop fed to toddlers has no repetition, no story and no clip over 30 seconds, the opposite of what we make. Total 805."
+  },
+  {
+   "date": "2026-11-15 22:37",
+   "note": "Run 184 (TRENDS (mid November Reels and TikTok formats)): Halloween reveal formats are fading; mid November Reels trends are a fixed camera outfit change in one cut, timestamped routines and 5 stages of, while TikTok runs the Christmas switch, kitchen grooves and runway walk recreations. Five kid safe versions went into the trend bank, led by a layer up winter outfit change. Total 811."
   }
  ],
  "history": [
@@ -6782,9 +6824,17 @@
   {
    "date": "2026-11-15 22:35",
    "total": 805
+  },
+  {
+   "date": "2026-11-15 22:37",
+   "total": 811
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Layer Up, Layer Up!",
+   "why": "The fixed camera outfit change is rising on Reels; a winter song where every clap adds a hat, scarf, mittens and boots teaches clothing words, is easy to copy at home and fits the cold half of the world from December to February."
+  },
   {
    "title": "Christmas at the Beach!",
    "why": "Brazil, Australia and South Africa have summer holidays at Christmas while Christmas songs barely chart there; a sunny Santa hat, sandcastle and splash song gives the southern half of the world its own holiday hit."
@@ -6836,13 +6886,39 @@
   {
    "title": "Oops! My Magic Spell Went Wrong!",
    "why": "Disney's Hexed (25 Nov 2026) puts magic on every kid's mind; the Bros' toy wand turns the dog into a dancing teapot and each chorus tries a new silly spell to fix it."
-  },
-  {
-   "title": "Bros' Bus Goes Everywhere!",
-   "why": "Little Baby Bum's top five videos are all Wheels on the Bus re set in new places (Halloween 275M, underwater, bus wash); our own bus song visits a new place each week (snow, beach, space) to build a series."
   }
  ],
  "trend_bank": [
+  {
+   "name": "Outfit change in one cut",
+   "where": "Instagram Reels (Later, 13 Nov)",
+   "status": "rising",
+   "use": "Camera stays still; on each clap of our own winter song a brother does one simple move (a spin or a jump) and is suddenly wearing one more winter layer: hat, scarf, mittens, boots. Meshy move: stand in place, clap hands once above the head, then one quarter turn on the spot."
+  },
+  {
+   "name": "Christmas switch",
+   "where": "TikTok, Reels (from 1 Nov)",
+   "status": "seasonal",
+   "use": "Bros clap twice and the room jumps from an autumn set to a Christmas set (tree, lights, snow at the window) on the beat drop of our holiday song; works as the first 2 seconds of every December Short."
+  },
+  {
+   "name": "Kitchen groove while it bakes",
+   "where": "TikTok and Reels (Let's Groove re animations, dancing in the kitchen)",
+   "status": "rising",
+   "use": "Bros put cookies in the oven and do a side to side groove with a timer ding as the hook. Meshy move: standing in place, step side to side, roll the arms in front of the chest, point up on the ding."
+  },
+  {
+   "name": "Pajama runway walk",
+   "where": "TikTok, Reels (runway walk recreations, early Nov)",
+   "status": "peak",
+   "use": "Kid safe twist with no adult styling: the Bros strut a pyjama parade to bed with a slow proud walk, a twirl and a big yawn at the camera, to our own bedtime song. Meshy move: slow walk forward 4 steps, one twirl on the spot, stretch arms up in a yawn."
+  },
+  {
+   "name": "Timestamped routine",
+   "where": "Instagram Reels (Later, 13 Nov)",
+   "status": "rising",
+   "use": "On screen clock stamps through a Bros morning: 7:00 wake up stretch, 7:05 brush teeth, 7:10 breakfast dance, 7:15 shoes on and out, each stamp a new line of our routine song."
+  },
   {
    "name": "Sway & Wave baby dance",
    "where": "TikTok, Reels",
@@ -6852,7 +6928,7 @@
   {
    "name": "Feet-up costume reveal",
    "where": "TikTok (Ramalama style)",
-   "status": "rising",
+   "status": "fading",
    "use": "Short opens on the kids' shoes, camera tilts up on the beat to reveal themed costumes (dinos, astronauts, chefs). Original song beat."
   },
   {
@@ -6912,7 +6988,7 @@
   {
    "name": "Plan vs what happened",
    "where": "TikTok carousel, Shorts",
-   "status": "peak",
+   "status": "fading",
    "use": "Four quick shots of the Bros' big plan (build a snowman, bake a cake), last shot the funny mess, then the song chorus: 'Oops, that's okay!'"
   }
  ]
