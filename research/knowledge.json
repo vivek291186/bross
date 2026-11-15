@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:40:33+05:30",
- "runs": 236,
+ "updated": "2026-11-16T00:41:56+05:30",
+ "runs": 237,
  "branches": [
   {
    "id": "platforms",
@@ -2827,6 +2827,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 233
+    },
+    {
+     "t": "Super Simple Songs turned 20 in 2026 with over 70M subscribers and 90B views; it began in 2006 as teachers abroad posting songs to help children learn English, so English learning classrooms worldwide are a lasting audience Bro Bros can serve with clear, slow, repeatable English lyrics.",
+     "src": "YouTube Official Blog, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 237
+    },
+    {
+     "t": "Super Simple's maker Skyship moved to a self funded Toronto studio in 2015 with 40+ in house animators, musicians, puppeteers and educators, and works with researchers (an Oxford University Press project in Spain) on how music shapes early learning, using that teaching credibility to win parents and teachers.",
+     "src": "YouTube Official Blog, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 237
+    },
+    {
+     "t": "Moonbug says Little Angel has over 150M YouTube subscribers and about 1.4B monthly views across 25 languages, and it programmes its linear channels in 100+ countries around daily routines from morning to bedtime (meals, tooth brushing, bedtime), the same routine slots Bro Bros playlists should be named for.",
+     "src": "Senal News, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 237
+    },
+    {
+     "t": "Moonbug's 2026 plan is YouTube first but non exclusive ('be on every platform where kids and families are'), extending hit IP into Spotify music, toys and live tours, and it is pushing hardest into Southern Europe (Spain and France), a sign those markets reward kids brands now.",
+     "src": "Senal News, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 237
+    },
+    {
+     "t": "Mother Goose Club licensed its YouTube library to the SKIDOS ad free learning app for ages 2 and up (Aug 2026), showing a later revenue path for a big kids song catalogue: subscription learning apps that pay for familiar, education framed content.",
+     "src": "Toy Book, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 237
     }
    ]
   },
@@ -7347,12 +7382,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 20:55",
-   "note": "Earlier runs summarised (up to Run 157): older log lines condensed."
-  },
-  {
    "date": "2026-11-15 20:56",
-   "note": "Run 158 (YouTube algorithm (YouTube Kids search and voice, Shorts to song links)): YouTube Kids search results are picked by algorithm without human review and mix in recommendations from the child's history; parents can switch search off, which limits the child to verified channels, and toddlers search by voice on phones and TVs, so song names should be easy words a child can say. Spotter's data: linking Shorts to a closely matching long video lifts long views 10 to 20%, most from Shorts posted within 3 days. Total 709."
+   "note": "Earlier runs summarised (up to Run 158): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:57",
@@ -7665,6 +7696,10 @@
   {
    "date": "2026-11-16 00:40",
    "note": "Run 236 (global markets (which dubbed languages keep kids coming back)): AIR's kids channel test with identical videos showed Arabic dubbing bringing the most views (3.4M in five weeks) but German the most loyal viewers; a dubbed track should be judged by returning viewer share (above 40% is working). Dubbing beats subtitles for kids everywhere because they cannot read fast, and creators with dubbed tracks get over a quarter of watch time from other languages. Total 1036."
+  },
+  {
+   "date": "2026-11-16 00:41",
+   "note": "Run 237 (competitor deep dive (Super Simple Songs at 20, Little Angel and Moonbug's routine channels, Mother Goose Club in apps)): Super Simple Songs (70M+ subscribers, 90B+ views) grew from teachers making English learning songs in 2006 and now researches music and early learning with Oxford University Press; Little Angel pulls about 1.4B views a month across 25 languages, and Moonbug sells its channels as routine helpers from morning to bedtime. Mother Goose Club licensed its library into an ad free learning app. Total 1041."
   }
  ],
  "history": [
@@ -8611,6 +8646,10 @@
   {
    "date": "2026-11-16 00:40",
    "total": 1036
+  },
+  {
+   "date": "2026-11-16 00:41",
+   "total": 1041
   }
  ],
  "next_week_ideas": [
