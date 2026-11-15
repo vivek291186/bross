@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:40:29+05:30",
- "runs": 69,
+ "updated": "2026-11-15T17:41:09+05:30",
+ "runs": 70,
  "branches": [
   {
    "id": "platforms",
@@ -2547,6 +2547,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 59
+    },
+    {
+     "t": "YouTube Kids is a filtered copy of YouTube: automated filters check each video's thumbnail, title and content and any one can block it, with humans only spot checking; videos built around product packaging, urging kids to buy, paid placements or excessive consumption are kept out, so Bro Bros songs should never show branded toys or 'get yours' moments.",
+     "src": "ppc.land (Team YouTube FAQ), Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 70
+    },
+    {
+     "t": "Since May 2026 YouTube shows a prominent AI label (under the player, or over a Short) only for photorealistic AI; for animated or stylised content like ours the disclosure appears only in the expanded description, and YouTube says a disclosure label does not change recommendations or monetisation, so ticking the AI box costs us nothing.",
+     "src": "musicbusinessworldwide.com, May 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 70
+    },
+    {
+     "t": "In AIR's 300 channel study (May 2025 to May 2026) kids and teens content was monetised on only about 32% of playbacks, the lowest of 13 niches, because made for kids videos cannot carry personalised ads, but it gets about a 22% lift in Q4; volume and reach, not rate per view, drive kids channel income.",
+     "src": "air.io, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 70
     }
    ]
   },
@@ -3029,6 +3050,10 @@
   {
    "date": "2026-11-15 17:40",
    "note": "Run 69 (algorithm experiments and data (localised networks, Q4 pushes)): AIR case: a kids network in English, French, Spanish, Hindi and Brazilian Portuguese grew views from 24M to 299M in Q4 2025 after quality audits, more holiday posting and a Shorts push; the Portuguese channel alone went from 13.5M to 278.6M and Shorts feed traffic rose from 7% to 82%, while revenue grew less than views. Azooz and Jude grew revenue 140% with a gap free schedule, 4K, consistent titles and compilations. Total 381."
+  },
+  {
+   "date": "2026-11-15 17:41",
+   "note": "Run 70 (rules, safety and monetisation (YouTube Kids gate, AI labels)): Team YouTube's April 2026 FAQ: automated filters check every thumbnail, title and video for YouTube Kids, and product packaging, purchase urging and paid placements keep a video out. For animated AI content the disclosure label sits only in the expanded description and does not change recommendations. Kids videos are monetised only about 32% of the time but get about a 22% Q4 lift. Total 384."
   }
  ],
  "history": [
@@ -3307,6 +3332,10 @@
   {
    "date": "2026-11-15 17:40",
    "total": 381
+  },
+  {
+   "date": "2026-11-15 17:41",
+   "total": 384
   }
  ],
  "next_week_ideas": [
