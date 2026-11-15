@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:56:32+05:30",
- "runs": 36,
+ "updated": "2026-11-15T16:57:09+05:30",
+ "runs": 37,
  "branches": [
   {
    "id": "platforms",
@@ -741,6 +741,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 33
+    },
+    {
+     "t": "Mexico's El Tren Nam Nam reached No. 2 among all YouTube channels worldwide in the week of 25 Oct 2026 with about 1.08B weekly views (up 96%), driven by an animated tooth mascot telling kids to brush for two minutes before Halloween.",
+     "src": "Tubefilter, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 37
+    },
+    {
+     "t": "VocaVoca's most watched Short is a morning routine oral care song uploaded in early September that took off in October; it also uses a tooth mascot, and two of the world's top 11 channels that week rode tooth brushing.",
+     "src": "Tubefilter, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 37
+    },
+    {
+     "t": "Family Shorts channels Jasmin and James (Germany, about 1.03B weekly views) and Cadel and Mia (Australia, about 0.89B) were No. 3 and No. 5 worldwide in late Oct 2026, and Tiny Splash Academy entered at No. 43.",
+     "src": "Tubefilter, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 37
+    },
+    {
+     "t": "After Halloween VocaVoca's weekly views fell 22% (to about 527M, from No. 11 to No. 23), showing seasonal topic spikes fade within a week, so holiday songs must post before the peak.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 37
     }
    ]
   },
@@ -1966,6 +1994,10 @@
   {
    "date": "2026-11-15 16:56",
    "note": "Run 36 (our own results (Instagram)): Instagram Reels from 9 to 14 Nov got only 5 to 91 views each (down from about 100 to 125 in early November); the mystery and bedtime story Reels led (Who Took the Cookie 91, shy monster lullaby 65, pirate 62); longest average watch was Blast Off space bus (about 14 s); most Reels hold viewers only 2 to 4 s. Total 248."
+  },
+  {
+   "date": "2026-11-15 16:57",
+   "note": "Run 37 (YouTube main and Kids charts): Tubefilter late Oct 2026: Mexican kids channel El Tren Nam Nam hit No. 2 worldwide with about 1.08B weekly views (up 96%) on an animated tooth mascot brushing for two minutes; VocaVoca's top Short is a morning oral care routine song; family Shorts channels Jasmin and James (Germany) and Cadel and Mia (Australia) sit in the top 5; VocaVoca fell 22% the next week. Total 252."
   }
  ],
  "history": [
@@ -2112,9 +2144,17 @@
   {
    "date": "2026-11-15 16:56",
    "total": 248
+  },
+  {
+   "date": "2026-11-15 16:57",
+   "total": 252
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Toothy the Brush Buddy",
+   "why": "An original smiling tooth friend leads a two minute brush along song; the tooth mascot routine format put two kids channels in the world top 11 this autumn."
+  },
   {
    "title": "Silly Sweater Shimmy",
    "why": "A holiday neutral winter dance for Ugly Christmas Sweater Day (18 Dec): kids shimmy, spin and show off patterns like stars and snowmen, easy Shorts hook."
@@ -2166,10 +2206,6 @@
   {
    "title": "How Do You Feel Today?",
    "why": "Feelings song (happy, sad, angry, calm) with faces and actions; social-emotional learning is what YouTube quality principles reward."
-  },
-  {
-   "title": "Click Click Seatbelt Song",
-   "why": "Safety and habit songs drive the fastest growing kids Shorts channel of 2026; a car trip story where the Bro Bros buckle up before every adventure."
   }
  ]
 }
