@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:40:28+05:30",
- "runs": 202,
+ "updated": "2026-11-15T23:41:24+05:30",
+ "runs": 203,
  "branches": [
   {
    "id": "platforms",
@@ -5662,6 +5662,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 200
+    },
+    {
+     "t": "Sydney the Song Cat, a hand drawn kids song channel made over four years, was demonetised as 'inauthentic content' in spring 2026 even with a clean record, because it reused rigs and backgrounds; appeals with storyboards and voice recordings got template replies and it had to wait for a July re apply window.",
+     "src": "Cartoon Brew via Pulse, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 203
+    },
+    {
+     "t": "In February 2026, shortly after YouTube removed big AI slop channels, popular kaiju and dinosaur animation channels also lost monetisation with no clear guidance, so reused 3D assets plus repetitive templates can be read as mass produced even when the work is original.",
+     "src": "Creator Handbook, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 203
+    },
+    {
+     "t": "To protect monetisation every Bro Bros song should leave a visible human trail: an original story idea per video, varied scenes and choreography, real lyric changes rather than template swaps, and saved making of material (Suno prompts, Meshy prompts, Blender files, storyboards) to attach to any appeal.",
+     "src": "Cartoon Brew and Creator Handbook, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 203
+    },
+    {
+     "t": "The FTC's amended COPPA Rule (in force June 2025) had a compliance date of 22 April 2026, and YouTube used that date to require every creator, even non kids ones, to set the audience per channel or per video; FTC civil penalties reach about 53K USD per violation.",
+     "src": "PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 203
+    },
+    {
+     "t": "Once YouTube's systems apply a made for kids label the creator cannot change it, only appeal in Studio, and made for kids channels are excluded from the YouTube Shopping affiliate programme, so merchandise links must live off YouTube (website, Instagram).",
+     "src": "PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 203
     }
    ]
   },
@@ -6298,11 +6333,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 123): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:50",
-   "note": "Run 124 (visual craft (pacing ratings and slow content guidance)): Common Sense now rates kids videos for 'attention capture' with a flicker score of cuts, colour flashes and sudden motion (Bluey low at about 45K, a Vlad and Niki video very high at about 431K) and advises low or medium for under 5s. The UK's first national guidance for under 5s (27 Mar 2026) says 2 to 5s should have at most an hour a day of slow paced content and that co viewing is best. Our 3 to 6 second calm cuts fit. Total 586."
+   "note": "Earlier runs summarised (up to Run 124): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:50",
@@ -6615,6 +6646,10 @@
   {
    "date": "2026-11-15 23:40",
    "note": "Run 202 (TRENDS (mid November TikTok: trio silly dance, dancing animal friends, slow mo entrances, fan wipe)): NewEngen's 13 Nov roundup and KnowYourMeme added kid friendly formats: a goofy trio dance (jumps, kicks, spins) on a sped up chipmunk voiced 80s song, slow motion group entrances, a fan blade wipe outfit change and Mariah style 'it's time' holiday starts; the AI dancing crocodiles video resurged in Oct and Nov (a 2.4M view post on 2 Nov). Four bank entries joined; four adult or older ones left (runway walk, appointment timestamps, harmony grid, freezing door). Total 886."
+  },
+  {
+   "date": "2026-11-15 23:41",
+   "note": "Run 203 (rules and monetisation (inauthentic content hits hand made animators, COPPA rule deadline)): Hand made animated channels were also demonetised as 'inauthentic content' in 2026 (Sydney the Song Cat, four years of hand drawn songs, appeals rejected with template replies; kaiju and dinosaur animators in February), so Bro Bros should keep proof of human work for every song. The amended COPPA Rule compliance date was 22 April 2026, FTC fines reach about 53K USD per violation, and made for kids channels are shut out of YouTube Shopping affiliates. Total 891."
   }
  ],
  "history": [
@@ -7425,6 +7460,10 @@
   {
    "date": "2026-11-15 23:40",
    "total": 886
+  },
+  {
+   "date": "2026-11-15 23:41",
+   "total": 891
   }
  ],
  "next_week_ideas": [
