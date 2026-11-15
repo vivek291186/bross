@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:07:42+05:30",
- "runs": 166,
+ "updated": "2026-11-15T21:08:27+05:30",
+ "runs": 167,
  "branches": [
   {
    "id": "platforms",
@@ -1471,7 +1471,7 @@
      "run": 150
     },
     {
-     "t": "A 3M+ subscriber kids channel (Q3 to Q4 2025) gave near identical uploads, such as normal and acoustic versions of one song, clearly different visuals with no shared sequences to avoid duplicate content risk, and moved its 2 to 3 minute songs into compilations: compilations gained 19% watch duration, 9% CPM and 72% RPM, and channel views rose 27%.",
+     "t": "A 3M+ subscriber kids channel (Q3 to Q4 2025) gave its near identical uploads, such as a normal and an acoustic version of one song, clearly different visuals with no shared sequences to avoid duplicate content risk, alongside the compilation change that lifted its views 27%.",
      "src": "air.io, Mar 2026",
      "conf": "high",
      "date": "2026-11-15",
@@ -4388,6 +4388,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 165
+    },
+    {
+     "t": "A 2026 RPM guide (unsourced) puts the Gulf far above the rest of the Arabic speaking region: Qatar about 5 to 12 USD per 1,000 views, UAE 4 to 10, Saudi Arabia and Kuwait 3 to 8, against Egypt 1 to 2 and Turkey 1 to 4, so an Arabic dub is worth most where Gulf families watch.",
+     "src": "fluxnote.io, Mar 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 167
     }
    ]
   },
@@ -4920,6 +4927,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 155
+    },
+    {
+     "t": "The same guide says kids content runs at roughly half the normal CPM (made for kids ads are not personalised) and that Q4 and Ramadan bring 30 to 50% RPM spikes in the Middle East, so Arabic songs should be ready before Ramadan 2027 (about mid February).",
+     "src": "fluxnote.io, Mar 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 167
     }
    ]
   },
@@ -5241,11 +5255,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 24 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:53",
-   "note": "Run 88 (music craft (children's singing range, songs and vocabulary)): Preschoolers sing most comfortably between middle C and A, loudest around F and G, and 6 to 8 year olds up to top C, so choruses should sit there. Research cited with Moonbug's UCLA partnership links frequent singing at 6 months to bigger vocabularies at 14 months, and a 2025 review finds songs help word learning. Playbook updated on melody range and seasonal timing. Total 460."
+   "note": "Earlier runs summarised: 25 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:54",
@@ -5558,6 +5568,10 @@
   {
    "date": "2026-11-15 21:07",
    "note": "Run 166 (algorithm experiments and data (posting times from Metricool's best time model)): Metricool's best time model for our brand (IST, week of 16 Nov) puts YouTube's two daily peaks at exactly 10:00 and 16:00 on weekdays, with 16:00 Wednesday highest, so our 10 AM and 4 PM slots are right; weekend values are about half. Instagram peaks at 10:00 with a second bump at 18:00, so our 4 PM Reels sit in a dip and might do better at 6 PM. Total 736."
+  },
+  {
+   "date": "2026-11-15 21:08",
+   "note": "Run 167 (rules and monetisation (Gulf ad rates, duplicate cleanup)): FluxNote's (unsourced, low confidence) 2026 guide puts Gulf RPMs far above the rest of the region (Qatar 5 to 12 USD, UAE 4 to 10, Saudi and Kuwait 3 to 8 against Egypt 1 to 2 and Turkey 1 to 4), with kids content at roughly half and Ramadan and Q4 as peaks. Also trimmed a leaf from run 154 that repeated an earlier compilation finding. Total 738."
   }
  ],
  "history": [
@@ -6224,6 +6238,10 @@
   {
    "date": "2026-11-15 21:07",
    "total": 736
+  },
+  {
+   "date": "2026-11-15 21:08",
+   "total": 738
   }
  ],
  "next_week_ideas": [
