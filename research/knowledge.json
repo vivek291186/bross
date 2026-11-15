@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:47:40+05:30",
- "runs": 29,
+ "updated": "2026-11-15T16:48:10+05:30",
+ "runs": 30,
  "branches": [
   {
    "id": "platforms",
@@ -678,6 +678,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 25
+    },
+    {
+     "t": "Animaj (owner of Pocoyo) launched Ozzy Fox in Jul 2026 on YouTube and YouTube Kids: each episode centres on one original song that turns an everyday routine into a mission; the first two episodes passed 1.5M views in under five days.",
+     "src": "Animaj, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 30
     }
    ]
   },
@@ -1077,6 +1084,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 18
+    },
+    {
+     "t": "In vidIQ's study of 500 breakout thumbnails (Jun 2026), a face appeared in 80% of the top 50 and a face or strong contrast in 92%, while exaggerated expressions appeared in only 6%, so a big, clear, happy Bro face beats an extreme reaction.",
+     "src": "vidIQ, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 30
+    },
+    {
+     "t": "72% of breakout thumbnails used overlay text with a median of 5 words, but 28% used none; for preschool viewers who cannot read, we keep text to 3 words or fewer and let the face and object tell the story.",
+     "src": "vidIQ, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 30
+    },
+    {
+     "t": "Animaj keeps characters strictly on model across episodes and uses an AI assisted in between tool so animators spend their time on expressive performance (for example ear timing to show a feeling); consistent, expressive characters are the asset.",
+     "src": "Animaj, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 30
     }
    ]
   },
@@ -1735,6 +1763,10 @@
   {
    "date": "2026-11-15 16:47",
    "note": "Run 29 (music craft): Infants' movement follows changes in loudness and intensity rather than the beat, so build clear loud and soft contrasts; familiar songs hold babies longer even when a stranger sings at a different tempo; November kids album charts are led by a gentle jazz Christmas soundtrack, movie musicals and only three YouTube born brands. Total 219."
+  },
+  {
+   "date": "2026-11-15 16:48",
+   "note": "Run 30 (visual craft): vidIQ's July 2026 study of 500 breakout thumbnails: faces in 80% of the top 50, face or strong contrast in 92%, extreme expressions in only 6%; Animaj's new preschool series Ozzy Fox builds every episode on one original song that turns a routine into a mission and hit 1.5M views in under 5 days. Total 223."
   }
  ],
  "history": [
@@ -1853,6 +1885,10 @@
   {
    "date": "2026-11-15 16:47",
    "total": 219
+  },
+  {
+   "date": "2026-11-15 16:48",
+   "total": 223
   }
  ],
  "next_week_ideas": [
