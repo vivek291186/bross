@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:01:42+05:30",
- "runs": 133,
+ "updated": "2026-11-15T20:02:22+05:30",
+ "runs": 134,
  "branches": [
   {
    "id": "platforms",
@@ -1917,6 +1917,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 127
+    },
+    {
+     "t": "When CoComelon's main channel matured it grew through side character spin off channels: JJ's Animal Time reached 200M+ views a month (with its own animal songs and adventures spin offs), Cody Time 60M+ and Nina's Familia 40M+, so an animals themed Bro Bros playlist or sub series is the proven next step once the main channel has traction.",
+     "src": "thekidsstreamersphere.substack.com, Oct 2024",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 134
+    },
+    {
+     "t": "Little Angel's main English channel (7.3M subs, 2,278 videos) gained only 0 to 10K subscribers and 14 to 36M views in most months of 2026 (Aug spiked to 125M), so even a Moonbug brand's single channel plateaus without new formats; its Spanish, Portuguese and Indonesian channels carry much of the growth.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 134
     }
    ]
   },
@@ -2421,6 +2435,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 128
+    },
+    {
+     "t": "Little Angel's all time top videos are a classic rhyme (Baa Baa Black Sheep, 601M), a bedtime song that calms fear of monsters under the bed (210M), a colours song with lollipops, balloons and sunglasses (205M) and an ice cream truck song (133M): bedtime worries, colours and treats are evergreen topics.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 134
     }
    ]
   },
@@ -4425,10 +4446,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 17:06",
-   "note": "Run 55 (topics and seasons (school breaks)): US winter break 2026 runs mostly Monday 21 Dec to Friday 1 Jan (54 of 72 big districts start 21 Dec; NYC and Boston start 24 Dec; LA runs to 8 Jan), so peak home viewing in the US is 21 Dec to 3 Jan; the winter solstice (21 Dec) is the first day of that break. Total 324."
-  },
-  {
    "date": "2026-11-15 17:07",
    "note": "Run 56 (global markets (dubbing, Arabic)): YouTube auto dubbing covers 27 languages, with expressive speech (keeps pitch and energy) in 8 including Spanish, Portuguese, Hindi and Indonesian; over 6M people a day watch 10+ minutes of dubbed video; videos with little speech or Content ID claims are ineligible, so sung songs are not a reliable fit. Abu Dhabi's culture chief says 80% of what Arab kids watch is not in Arabic and calls it an opportunity. Total 328."
   },
@@ -4739,6 +4756,10 @@
   {
    "date": "2026-11-15 20:01",
    "note": "Run 133 (global markets (India)): An Akatsuki survey of parents in 10 Indian metros ranks YouTube (76%), Netflix (57%) and TV (26%) as the top kids animation platforms; urban parents prefer entertainment led English animation, with Tamil, Telugu and Bangla the top regional language picks, and they rank local storylines lowest. Indian studio PunToon reports the opposite pull too (culturally rooted Indian stories) and a move beyond YouTube only income to apps, events and brand deals. Total 619."
+  },
+  {
+   "date": "2026-11-15 20:02",
+   "note": "Run 134 (competitor deep dive (CoComelon spin offs, Little Angel)): CoComelon's growth in its 'sustain' phase came from side character spin off channels, led by JJ's Animal Time at 200M+ views a month, plus Cody Time and Nina's Familia. Little Angel's main English channel (7.3M) now draws only 14 to 36M views most months; its all time hits are a classic rhyme, a calming 'monsters under the bed' bedtime song, a colours song and an ice cream truck song. Total 622."
   }
  ],
  "history": [
@@ -5273,13 +5294,13 @@
   {
    "date": "2026-11-15 20:01",
    "total": 619
+  },
+  {
+   "date": "2026-11-15 20:02",
+   "total": 622
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Open the Door, It's Snowing!",
-   "why": "YouTube's own before and after door transition format: the Bros open a door from a plain room into a twinkling winter wonderland on the chorus drop, a perfect Short loop."
-  },
   {
    "title": "Toothy the Brush Buddy",
    "why": "An original smiling tooth friend leads a two minute brush along song; the tooth mascot routine format put two kids channels in the world top 11 this autumn."
@@ -5331,6 +5352,10 @@
   {
    "title": "First Time, Big Time!",
    "why": "Pinkfong's new Bebefinn series is built on a toddler's everyday firsts; a Bro Bros song cheering a little friend through a first bike ride, first haircut or first new food helps parents and fits every culture."
+  },
+  {
+   "title": "No Monsters Here, Goodnight!",
+   "why": "A calming song about checking under the bed and finding only a teddy is one of Little Angel's biggest hits; an original gentle Bro Bros version with a torch, a sleepy pet and a slow 60 to 70 BPM lullaby ending helps parents at bedtime worldwide."
   }
  ]
 }
