@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:47:26+05:30",
- "runs": 242,
+ "updated": "2026-11-16T00:48:11+05:30",
+ "runs": 243,
  "branches": [
   {
    "id": "platforms",
@@ -993,6 +993,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 241
+    },
+    {
+     "t": "Emplifi's 2026 benchmark of 10,110 Facebook Reels from 704 brand pages found human speech in the first three seconds raised 10 second retention by nearly 25% and engagement by 5.6% against music only videos, so Bro Bros Shorts and Reels should open with a Bro speaking one short line ('Can you jump like me?') before or over the music.",
+     "src": "Emplifi via The Reel Stars, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 243
+    },
+    {
+     "t": "In the same Emplifi data a face in the first three seconds improved short view retention by about 10%, very short looping clips under 7 seconds got 18.7% more replays and 16.1% more engagement, and vertical video had 20.9% more reach than other shapes.",
+     "src": "Emplifi via The Reel Stars, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 243
+    },
+    {
+     "t": "Dash Social's Q2 2026 Shorts benchmarks (via eMarketer) show wellness Shorts with guided, follow along routines averaging 116% viewed (people replay them) against an 84.6% overall benchmark, the only category above 100% every quarter since Q1 2025, so follow along kids routines (brush teeth, stretch, copy the dance) are the Short type most likely to loop.",
+     "src": "eMarketer, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 243
     }
    ]
   },
@@ -4374,6 +4395,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 234
+    },
+    {
+     "t": "Because retention gains from a face fade after about 30 seconds while speech and loops keep helping, our 20 to 30 second Shorts should put a Bro's big friendly face and a spoken call at the start and cut back to the same pose at the end so the loop is seamless.",
+     "src": "Emplifi via The Reel Stars, Mar 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 243
     }
    ]
   },
@@ -7518,7 +7546,7 @@
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele); reach the chorus by about 0:15, because our long songs hold viewers only about 20 seconds on average.",
   "Camera and motion: calm cuts every 3 to 6 s, lead Bro centred and big, gentle constant background motion (drifting clouds, bubbles, stars) that matches the song, bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; every week make at least one healthy habit song led by a friendly helper mascot (brush teeth for two minutes, wash hands) and one sharing or taking turns song, the topics behind this autumn's biggest kids breakouts.",
-  "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak, a direct action call or a tiny mystery question ('Who took the cookie?'), with motion or text in the first half second; make each Short a new cut with its own hook that loops back to the start; keep music Shorts about 30 to 40 s and set each Short's related video link to its full song.",
+  "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak, a spoken action call by a Bro (speech in the first 3 s lifted 10 s retention by about 25% in brand Reels) or a tiny mystery question ('Who took the cookie?'), with motion or text in the first half second; make each Short a new cut with its own hook that loops back to the start; keep music Shorts about 30 to 40 s and set each Short's related video link to its full song.",
   "Thumbnails: one or two happy faces cropped big (both Bros, or a Bro with an animal friend; several face layouts beat single faces) (about 40% of the frame height), one clear action, one recognisable object, high contrast with a warm accent on a plain bright background (red and white or blue and orange), max 3 outlined words kept out of the bottom right corner; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Weekly long form: one 25 to 45 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday, because videos over 40 minutes break out far more often and kids compilations lift RPM; add a timestamp chapter per song named in the plain words parents search ('Brush Teeth Song', 'Dinosaur Stomp'); make the 25 Dec and 1 Jan Fridays holiday mega mixes; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; judge each dubbed language after about 3 months by its share of returning viewers (Audience by watch behaviour, filtered by audio track: above 40% is working, below 20% after 4 months means fix or drop); translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels; make one bilingual English Spanish song a week (switch language each chorus), the lane where 123 Andres nearly doubled its views this autumn.",
@@ -7529,12 +7557,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 21:00",
-   "note": "Earlier runs summarised (up to Run 163): older log lines condensed."
-  },
-  {
    "date": "2026-11-15 21:01",
-   "note": "Run 164 (global markets (Bangla and Urdu, South Asia beyond Hindi)): Bengali rhyme channel Kids Tv Bangla has 3.69M subscribers and 2.1B views and still draws about 55M views a month from rhyme remixes and collections, so Bangla (around 270M speakers) is a large, under served kids language. Google says about 60% of watch time on Pakistani content comes from viewers abroad, so Urdu songs travel to the diaspora in the Gulf, UK and North America. Total 729."
+   "note": "Earlier runs summarised (up to Run 164): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:07",
@@ -7847,6 +7871,10 @@
   {
    "date": "2026-11-16 00:47",
    "note": "Run 242 (YouTube algorithm (YouTube Kids app gate and home shelves, slow building videos)): Most September and October statements were already in the tree. New: the YouTube Kids home has five curated shelves (series, music, learning, discovery, games) and gives brand new users no personal recommendations until they build history; an upheld parent report removes a video for everyone and filters are retuned when a bad trend appears, so trend borrowing must look clearly family friendly. AIR's monthly tracker shows no kids specific ranking change in September or October 2026. Total 1062."
+  },
+  {
+   "date": "2026-11-16 00:48",
+   "note": "Run 243 (Shorts and Reels (speech in the first seconds, loops, follow along routines)): Emplifi's study of 10,110 brand Reels found speech in the first three seconds lifted 10 second retention by nearly 25% over music only, a face early added about 10%, and loops under 7 seconds raised replays by about 19%. Dash Social's Q2 2026 Shorts data shows follow along wellness routines averaging 116% viewed, the only category above 100%, which backs routine and dance along Shorts for Bro Bros. Total 1066."
   }
  ],
  "history": [
@@ -8817,6 +8845,10 @@
   {
    "date": "2026-11-16 00:47",
    "total": 1062
+  },
+  {
+   "date": "2026-11-16 00:48",
+   "total": 1066
   }
  ],
  "next_week_ideas": [
