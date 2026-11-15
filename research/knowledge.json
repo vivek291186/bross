@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:48:51+05:30",
- "runs": 82,
+ "updated": "2026-11-15T18:49:29+05:30",
+ "runs": 83,
  "branches": [
   {
    "id": "platforms",
@@ -3128,6 +3128,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 71
+    },
+    {
+     "t": "Between 1 and 14 Nov 2026 the YouTube channel went from 2,130 to 2,150 subscribers (about 1 to 2 a day, almost no losses), so growth is steady but slow.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 83
+    },
+    {
+     "t": "Daily YouTube views sat at about 450 to 750 most days but jumped to 1,386 on 10 Nov and 1,296 on 12 Nov, the Diwali song days, so festival songs posted two to three days ahead roughly double our daily views.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 83
+    },
+    {
+     "t": "Only 2 YouTube shares were recorded across 1 to 14 Nov, so nothing we post is yet being passed between parents; a share worthy hook (a dance challenge or a family moment) is still missing.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 83
+    },
+    {
+     "t": "The 15 and 16 Nov uploads (Ant Parade, a Hindi Golu elephant story, Dooby Dooby Boom Boom, The Wiggle Bus) publish on time with a Short 5 minutes after each song and a Reel, but Reel captions still carry 7 hashtags and YouTube descriptions 10, against the finding that hashtags cut Instagram reach.",
+     "src": "Metricool planner, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 83
     }
    ]
   }
@@ -3156,10 +3184,6 @@
   {
    "date": "2026-11-15 15:45",
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
-  },
-  {
-   "date": "2026-11-15 15:45",
-   "note": "Run 4 (other platforms): Netflix kids data: CoComelon fell out of the Netflix kids top 10 while creator shows (Ms. Rachel, Danny Go!, Sheriff Labrador) grew; movement songs travel; Spotify now lets parents hide kids music from their own taste profile; nonsense chants like Chicken Banana spread on TikTok and Reels. Total 80."
   },
   {
    "date": "2026-11-15 15:51",
@@ -3472,6 +3496,10 @@
   {
    "date": "2026-11-15 18:48",
    "note": "Run 82 (rules, safety and monetisation (Q4 ad rates, kids data rules)): YouTube RPM runs about 0.5 times baseline in January and 1.8 to 2.5 times in December, with the two weeks before Christmas the most competitive auctions. Precisify found 80% of parents say kids ask for items seen in YouTube ads and 88% of parents of 2 to 5 year olds say their child prefers YouTube to TV. Kids content must never ask children for names, photos or contest entries, even off YouTube, and YouTube's age estimation treats inferred minors as minors. Total 438."
+  },
+  {
+   "date": "2026-11-15 18:49",
+   "note": "Run 83 (our own results (channel totals 1 to 14 Nov, posting check)): YouTube grew from 2,130 to 2,150 subscribers between 1 and 14 Nov with 450 to 750 daily views, peaking at 1,386 on 10 Nov and 1,296 on 12 Nov around the Diwali songs; shares were almost zero (2 in two weeks). Uploads for 15 and 16 Nov are publishing on time, but captions still carry 7 to 10 hashtags. Total 442."
   }
  ],
  "history": [
@@ -3802,6 +3830,10 @@
   {
    "date": "2026-11-15 18:48",
    "total": 438
+  },
+  {
+   "date": "2026-11-15 18:49",
+   "total": 442
   }
  ],
  "next_week_ideas": [
