@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:56:43+05:30",
- "runs": 260,
+ "updated": "2026-11-16T01:57:42+05:30",
+ "runs": 261,
  "branches": [
   {
    "id": "platforms",
@@ -3002,6 +3002,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 249
+    },
+    {
+     "t": "Kids Diana's network is 32 channels in 17 languages with about 429M subscribers and 261B views; its 27 smaller language channels together have about 240M subscribers, more than the 138M main channel, showing that separate dubbed channels can outgrow the original.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 261
+    },
+    {
+     "t": "Kids Diana's largest language channels are Spanish (41.1M), Arabic (30.9M), English (30M) and Hindi (29.4M), and about 12 of its channels run 24/7 live streams, while the main channel has added multi language audio tracks.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 261
+    },
+    {
+     "t": "In Tubefilter's week of 8 Nov 2026, Spanish preschool channel El Tren Nam Nam dropped 52% (from No. 7 to No. 39) while Keizo and Friends climbed from No. 29 to No. 20 and two Sierra and Rhia channels sat in the top 8, showing how fast kids channel weekly views swing.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 261
     }
    ]
   },
@@ -8048,11 +8069,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 181): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:49",
-   "note": "Run 182 (YouTube algorithm (TV profiles, Up Next, long viewing on TV)): YouTube's Q1 2026 TV update puts supervised child profiles on the TV Who's Watching screen and adds Up Next teasers at the end of videos, so kids on TV now watch in their own profile and our endings feed straight into the next song. Digital i: YouTube passed Netflix in average daily viewing (99 vs 93 minutes in 2025) and videos over 20 minutes rose to about 68% of YouTube viewing time. Total 799."
+   "note": "Earlier runs summarised (up to Run 182): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:35",
@@ -8365,6 +8382,10 @@
   {
    "date": "2026-11-16 01:56",
    "note": "Run 260 (global markets (Japan's Sanrio Kids launch, Philippine parents)): Sanrio launched a global preschool YouTube channel on 15 Sep 2026 with 3D, about two minute episodes in three series (sing along, movement and calming down, everyday stories) and Japanese and English audio switchable in the same video. A 1,000 parent Philippine survey (Oct to Nov 2026) found 34% rely on kids apps such as YouTube Kids for safety and 60% say children use social apps to relax. Total 1136."
+  },
+  {
+   "date": "2026-11-16 01:57",
+   "note": "Run 261 (competitor deep dive (Kids Diana language network, weekly top 50 movers)): AIR's October 2026 profile counts Kids Diana's family of 32 channels in 17 languages at about 429M subscribers and 261B views, with the non main language channels together larger than the main one and about 12 channels running 24/7 live streams. In the 8 Nov top 50, Spanish preschool channel El Tren Nam Nam fell 52% (No. 7 to 39) while Keizo and Friends rose from 29 to 20. Total 1139."
   }
  ],
  "history": [
@@ -9407,6 +9428,10 @@
   {
    "date": "2026-11-16 01:56",
    "total": 1136
+  },
+  {
+   "date": "2026-11-16 01:57",
+   "total": 1139
   }
  ],
  "next_week_ideas": [
