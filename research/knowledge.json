@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:02:07+05:30",
- "runs": 227,
+ "updated": "2026-11-16T00:03:12+05:30",
+ "runs": 228,
  "branches": [
   {
    "id": "platforms",
@@ -4822,6 +4822,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 220
+    },
+    {
+     "t": "Artemis II launched on 1 Apr 2026, the first crewed flight around the Moon since 1972, and carried a small plush moon mascot named Rise designed by an 8 year old, chosen from more than 2,600 entries from over 50 countries, with 5.6M names on board; space and the Moon are a live, global kids topic in 2026.",
+     "src": "Education Week, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 228
+    },
+    {
+     "t": "Teachers used Artemis II for art plus science projects (3D models, posters, mascot design), so a Bro Bros 'Rocket to the Moon' countdown dance with a cute moon friend fits classrooms and families worldwide and can be reused for every launch.",
+     "src": "Education Week, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 228
+    },
+    {
+     "t": "The next headline sky event is the long total solar eclipse of 2 Aug 2027, crossing southern Spain, Morocco, Algeria, Tunisia, Libya, Egypt and Saudi Arabia, after the 12 Aug 2026 eclipse over Spain and Iceland, so an 'eclipse safety and wonder' song (never look at the Sun, use special glasses) can be planned for mid 2027 for Spanish and Arabic audiences.",
+     "src": "IGN Spain and Sky at Night, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 228
     }
    ]
   },
@@ -7033,11 +7054,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 148): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:46",
-   "note": "Run 149 (music craft (Ms Rachel album production, songs vs chants study, why kids love KPop Demon Hunters)): Infant music studies were already in the tree. New: Ms Rachel's album used 42 players and 19 singers with musical theatre arrangers and a bossa nova lead single; an Oxford trial found songs, chants and stories taught 7 to 8 year olds new language equally well; kids say KPop Demon Hunters wins on a self acceptance story, characters who change and lines they can quote to friends. Total 675."
+   "note": "Earlier runs summarised (up to Run 149): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:47",
@@ -7350,6 +7367,10 @@
   {
    "date": "2026-11-16 00:02",
    "note": "Run 227 (rules and monetisation (kids quality rules already in the tree, so ad rates: RPM by country and the Q4 lift)): A 2026 compilation of creator data puts long form RPM highest in Australia (about 10 to 12 USD), the US (9 to 11) and Canada (8 to 10) and lowest in Bangladesh, Pakistan and the Philippines (0.2 to 0.5); kids and animation sit at about 1 to 4 USD (median 2.5) with roughly a 1.5 times Q4 lift, December runs about 74% above January for US facing channels, while lower paying markets get only a 25 to 30% Q4 bump. Total 991."
+  },
+  {
+   "date": "2026-11-16 00:03",
+   "note": "Run 228 (topics and seasons (YouTube top channels unchanged since 4 Nov, so switched: space after Artemis II, the 2027 eclipse)): vidIQ's 14 Nov US list showed no new kids movers, so this round looked at space as a lasting kids topic: Artemis II (launched 1 Apr 2026, first crewed Moon trip since 1972) carried a moon mascot designed by an 8 year old, chosen from 2,600+ entries in 50+ countries, and teachers used it for art plus science projects. The next big sky event is the long total solar eclipse of 2 Aug 2027 over Spain, North Africa and the Middle East. Total 994."
   }
  ],
  "history": [
@@ -8260,6 +8281,10 @@
   {
    "date": "2026-11-16 00:02",
    "total": 991
+  },
+  {
+   "date": "2026-11-16 00:03",
+   "total": 994
   }
  ],
  "next_week_ideas": [
