@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:02:50+05:30",
- "runs": 20,
+ "updated": "2026-11-15T16:08:27+05:30",
+ "runs": 21,
  "branches": [
   {
    "id": "platforms",
@@ -496,6 +496,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 13
+    },
+    {
+     "t": "ChuChu TV (Chennai, founded 2013) reports 180M+ digital subscribers and 110 billion views and signed a worldwide Netflix deal in Sep 2026 for Surprise Eggs, Drawing with ChuChu, Colors in FunZone and Nursery Rhymes in English, Hindi, Tamil and Telugu.",
+     "src": "Senal News, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 21
+    },
+    {
+     "t": "ChuChu TV is turning a YouTube song channel into a global preschool franchise (licensing, toys, publishing, live shows) through a North American partner, showing an Indian 3D song brand can scale worldwide.",
+     "src": "Senal News, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 21
+    },
+    {
+     "t": "ChuChu TV's Netflix collections are learning formats (colours, drawing, surprise reveals, rhymes), confirming that colour and draw along songs travel across languages.",
+     "src": "Senal News, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 21
+    },
+    {
+     "t": "Cocomelon's main channel is at about 203M subscribers in Nov 2026, still the largest kids channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 21
     }
    ]
   },
@@ -1405,6 +1433,10 @@
   {
    "date": "2026-11-15 16:02",
    "note": "Run 20 (global markets): Indonesia: five Indonesian, kid friendly creators in a single Tubefilter weekly top 50 despite an under 16 social media ban. Music royalty rates per 1,000 streams show rich markets (Canada, Germany, UK, Australia, US) pay 10 to 60 times more than India, Indonesia and the Philippines; Art Tracks pay far more than Content ID. Total 177."
+  },
+  {
+   "date": "2026-11-15 16:08",
+   "note": "Run 21 (competitor ChuChu TV): ChuChu TV (Chennai) now reports 180M+ digital subscribers and 110B views and signed a worldwide Netflix deal (Sep 2026) for four collections in English, Hindi, Tamil and Telugu, aiming to become a global preschool franchise; its main English channel crossed 50M subs. Total 181."
   }
  ],
  "history": [
@@ -1487,6 +1519,10 @@
   {
    "date": "2026-11-15 16:02",
    "total": 177
+  },
+  {
+   "date": "2026-11-15 16:08",
+   "total": 181
   }
  ],
  "next_week_ideas": [
