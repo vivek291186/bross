@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:52:56+05:30",
- "runs": 87,
+ "updated": "2026-11-15T18:53:46+05:30",
+ "runs": 88,
  "branches": [
   {
    "id": "platforms",
@@ -1777,6 +1777,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 76
+    },
+    {
+     "t": "Children aged 3 to 5 sing most comfortably from middle C up to A and loudest around F and G; most notes of a chorus should sit in that zone (keys of C, F or G major, which Suno can be asked for), even if a few notes fall outside.",
+     "src": "SUNY Music and the Child",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 88
+    },
+    {
+     "t": "Children aged 6 to 8 sing comfortably from middle C to the C above and 9 to 11 year olds from B flat to E, so songs for older siblings can climb higher; what matters is where most notes sit (tessitura), not the total range.",
+     "src": "SUNY Music and the Child",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 88
+    },
+    {
+     "t": "A 2022 Journal of Child Language study linked frequent parent singing at 6 months to larger vocabularies at 14 months, and a 2025 review of six studies found songs support word learning and speech fluency, so clear, repeated key words in our choruses carry real learning value.",
+     "src": "Signal SCV, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 88
     }
    ]
   },
@@ -3267,7 +3288,7 @@
  ],
  "playbook": [
   "Major key, 4/4, 110-125 BPM for dance songs; keep one slow 60-70 BPM wind-down song in the week.",
-  "One 1-2 bar hook repeated in every chorus, simple melody inside about 5 notes; add nonsense syllables (la la, doo doo) kids can sing before they can talk.",
+  "One 1-2 bar hook repeated in every chorus, simple melody inside about 5 notes sitting mostly between middle C and A (C, F or G major), where preschoolers sing best; add nonsense syllables (la la, doo doo) kids can sing before they can talk.",
   "Every lyric line has an action kids can copy (Total Physical Response): clap, jump, wiggle, freeze, stomp.",
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
   "A tiny story that is easy to follow (one problem, one fix, one clear lesson such as kindness or a healthy habit) with one tempo change kids can act out, ending in a happy payoff; show people and places from many cultures.",
@@ -3283,16 +3304,12 @@
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
   "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny chantable nonsense word kids can shout; on Instagram post fewer, better Reels (the best 1 or 2 songs a day), captions as one keyword sentence plus a question to parents and at most 2 hashtags; group Shorts of one song family into a YouTube Shorts series and test two hooks per song with Trial Reels after 1,000 followers.",
   "Titles: Suggested videos bring two thirds of our views, so use the same plain topic words as the big channels' hits (bus, doctor, brush teeth, dinosaur) plus a story hook and an age keyword, max 2 caps words and 1 to 2 emojis, no fear, fight, medical or danger words; put every video in a keyword playlist and link the playlist's first video in the description.",
-  "Seasonal plan: until 24 Dec post at least 3 holiday neutral winter or lights songs a week (snow, cookies, twinkle lights), each with a sunny summer variant for the southern hemisphere; start Ramadan and Lunar New Year friendly songs in January."
+  "Seasonal plan: until 24 Dec post at least 3 holiday neutral winter or lights songs a week (snow, cookies, twinkle lights), each with a sunny summer variant for the southern hemisphere; post festival songs 2 to 3 days before the day (our Diwali songs doubled daily views) and holiday Shorts within the 4 weeks before; have holiday compilations live by 1 Dec when ad rates peak; keep star and gift songs going to Three Kings Day (6 Jan) for Latin America and the Philippines; start Ramadan and Lunar New Year friendly songs in January."
  ],
  "log": [
   {
    "date": "2026-11-15 15:45",
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
-  },
-  {
-   "date": "2026-11-15 15:54",
-   "note": "Run 9 (competitors Bebefinn and Lalafun): Bebefinn: about 84M subs brand wide, 370M views a month on the main channel, top hits are a morning routine, a Baby Shark crossover, a mix and a car chase. Lalafun: a 3D channel born Oct 2022 now at 15M subs and 600M+ views a month from animal twists on public domain rhymes plus learning tags. Total 114."
   },
   {
    "date": "2026-11-15 15:55",
@@ -3605,6 +3622,10 @@
   {
    "date": "2026-11-15 18:52",
    "note": "Run 87 (other platforms (Nielsen H1 2026, Amazon Kids Sleep Studio, Gen Alpha)): Nielsen H1 2026 (US): Bluey was the No. 2 streaming title overall with 22.8B minutes, PAW Patrol No. 10, Ms Rachel 8.6B; the kids film list is led by animal comedy and music films (Zootopia 2, KPop Demon Hunters, Goat). Amazon Kids+ added an automatic 30 minute Sleep Studio wind down on Echo kids devices. Tweens' current YouTube fixation is an hour long Minecraft animated story. Total 457."
+  },
+  {
+   "date": "2026-11-15 18:53",
+   "note": "Run 88 (music craft (children's singing range, songs and vocabulary)): Preschoolers sing most comfortably between middle C and A, loudest around F and G, and 6 to 8 year olds up to top C, so choruses should sit there. Research cited with Moonbug's UCLA partnership links frequent singing at 6 months to bigger vocabularies at 14 months, and a 2025 review finds songs help word learning. Playbook updated on melody range and seasonal timing. Total 460."
   }
  ],
  "history": [
@@ -3955,6 +3976,10 @@
   {
    "date": "2026-11-15 18:52",
    "total": 457
+  },
+  {
+   "date": "2026-11-15 18:53",
+   "total": 460
   }
  ],
  "next_week_ideas": [
