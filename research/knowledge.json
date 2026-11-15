@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:58:36+05:30",
- "runs": 297,
+ "updated": "2026-11-16T03:59:20+05:30",
+ "runs": 298,
  "branches": [
   {
    "id": "platforms",
@@ -8931,6 +8931,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 295
+    },
+    {
+     "t": "GivingTuesday is Tuesday 1 Dec 2026 and is run in more than 110 countries; in the US in 2025 about 38.1M people took part, 13.5M donated goods and 11.1M volunteered, so a 'share one toy' kindness song or Short posted on 1 Dec rides a global generosity day without any religious tie.",
+     "src": "GivingTuesday, 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 298
+    },
+    {
+     "t": "Kid friendly December hooks beyond the big holidays: International Day of Persons with Disabilities (3 Dec), International Volunteer Day (5 Dec), Brownie Day (8 Dec), Gingerbread House Day (12 Dec) and US Ugly Christmas Sweater Day (18 Dec), each an easy theme for one Short in the week before it.",
+     "src": "SocialKit holiday calendar, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 298
+    },
+    {
+     "t": "3 Dec (International Day of Persons with Disabilities) is a natural date to introduce an inclusive friend in the Bros' gang, for example a friend who uses a wheelchair and leads the arm dance, a positive representation parents and teachers share.",
+     "src": "SocialKit holiday calendar, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 298
     }
    ]
   }
@@ -8958,11 +8979,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 218): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:56",
-   "note": "Run 219 (Shorts and Reels (how well Instagram Trial Reels actually work)): Trial Reels evidence is thin but consistent: Mosseri says trials almost always get less reach; Buffer's tests topped out near 180 views against 1,500 to 5,000 for normal Reels, while one Kapwing trial broke out to 1.4M views. So use trials only to compare two hooks of the same song against each other, judged on sends and watch time after 24 hours. Total 959."
+   "note": "Earlier runs summarised (up to Run 219): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:57",
@@ -9275,6 +9292,10 @@
   {
    "date": "2026-11-16 03:58",
    "note": "Run 297 (competitor deep dive (Bebefinn main channel slowdown and newest upload)): Bebefinn's main English channel has 37.3M subscribers and 25.1B views from 1,086 videos, adds about 370M views a month, but its subscriber gains slowed to 100K to 300K a month in 2026 from 500K to 1.3M in 2024 and 2025. Its newest upload (13 Nov, 'We Are Car Mechanics! Let's Fix the Car!') passed 133K views in 13 hours, and its top video is still a 2022 good morning routine song at 775M. The same slowdown pattern seen at BabyBus and Little Angel. Total 1266."
+  },
+  {
+   "date": "2026-11-16 03:59",
+   "note": "Run 298 (TRENDS (December calendar hooks: GivingTuesday, treat days, sweater day, inclusion day)): GivingTuesday falls on Tue 1 Dec 2026 and runs in more than 110 countries (US 2025: 38.1M people, 13.5M donated goods), a ready hook for a sharing and kindness Short. Other kid friendly December hooks: International Day of Persons with Disabilities (3 Dec), International Volunteer Day (5 Dec), Brownie Day (8 Dec), Gingerbread House Day (12 Dec) and US Ugly Christmas Sweater Day (18 Dec). A kindness chain format joined the trend bank. Total 1269."
   }
  ],
  "history": [
@@ -10465,6 +10486,10 @@
   {
    "date": "2026-11-16 03:58",
    "total": 1266
+  },
+  {
+   "date": "2026-11-16 03:59",
+   "total": 1269
   }
  ],
  "next_week_ideas": [
@@ -10526,6 +10551,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Kindness chain",
+   "where": "GivingTuesday 1 Dec 2026 and year end kindness posts (110+ countries)",
+   "status": "seasonal",
+   "use": "15 second Short for 1 Dec: Big Bro hands Little Bro a wrapped gift, Little Bro passes it to a friend, who passes it to a puppy, and so on in a quick chain on each beat of our own kindness chorus, ending with everyone hugging in a circle; caption 'Pass the kindness on'. Meshy prompt: standing in place, turn to the right and hold both hands out as if handing over a box, then clap twice."
+  },
   {
    "name": "Teacher joins the dance",
    "where": "TikTok and Reels, evergreen (South Africa, India, US classroom dance clips)",
@@ -10639,12 +10670,6 @@
    "where": "TikTok (Baby Doll line dance with family or crew, 13 Nov 2026 chart)",
    "status": "rising",
    "use": "The Bros, friends and grown up characters stand in two rows and do a simple country style line dance to our own song so whole families can copy at home. Meshy steps: standing, step touch right, step touch left, two heel taps forward, clap, quarter turn to the right, repeat."
-  },
-  {
-   "name": "Slow motion entrance",
-   "where": "TikTok ('Pray For Me' slow motion group entrances, NewEngen 13 Nov 2026)",
-   "status": "rising",
-   "use": "Song intro with our own big drum build: a wide, steady shot of the playground; Big Bro glides in slowly from the left, Little Bro from the right, then each animal friend from behind, all in slow motion with funny 'serious' faces, and on the beat drop everyone snaps to normal speed and starts the chorus dance. Meshy steps: standing, slow walk forward with arms swinging gently, stop, cross arms with a serious face, then on the drop jump in place with both arms up."
   }
  ]
 }
