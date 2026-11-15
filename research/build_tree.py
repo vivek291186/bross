@@ -6,7 +6,7 @@ here = os.path.dirname(os.path.abspath(__file__))
 d = json.load(open(os.path.join(here, "knowledge.json")))
 branches = d["branches"]
 total = sum(len(b["leaves"]) for b in branches)
-TARGET = 500  # leaves for "fully ready"
+TARGET = 4000  # raised 15 Nov 21:50 so growth stays visible through Friday 20 Nov
 ready = min(100, round(100 * total / TARGET))
 colors = ["#4CAF50", "#2196F3", "#FF9800", "#9C27B0", "#E91E63", "#00BCD4", "#795548", "#F44336", "#8BC34A", "#3F51B5"]
 
