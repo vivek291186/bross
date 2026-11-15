@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:58:22+05:30",
- "runs": 262,
+ "updated": "2026-11-16T01:59:11+05:30",
+ "runs": 263,
  "branches": [
   {
    "id": "platforms",
@@ -6845,6 +6845,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 251
+    },
+    {
+     "t": "YouTube's Q3 2026 ad revenue was about $11.2B, up 9.2% year on year, the slowest growth of 2026 (11% in Q1, 13% in Q2), so ad rates are not rising fast and Bro Bros revenue growth has to come mostly from more watch time, especially long TV views.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 263
+    },
+    {
+     "t": "Nielsen put YouTube at a record 15.8% of all US TV viewing in August 2026, and viewers watch about 2B hours of Shorts a month on TV screens, which keeps living room friendly long compilations the most valuable format for a kids song channel.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 263
+    },
+    {
+     "t": "Premium connected TV CPMs reportedly jumped from about $34 to $43 during the US midterm political ad season (to early Nov 2026), and that demand ends after election day, so late November and December prices will depend on holiday retail advertisers rather than politics.",
+     "src": "PPC Land (Digiday), Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 263
     }
    ]
   },
@@ -8090,11 +8111,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 183): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:37",
-   "note": "Run 184 (TRENDS (mid November Reels and TikTok formats)): Halloween reveal formats are fading; mid November Reels trends are a fixed camera outfit change in one cut, timestamped routines and 5 stages of, while TikTok runs the Christmas switch, kitchen grooves and runway walk recreations. Five kid safe versions went into the trend bank, led by a layer up winter outfit change. Total 811."
+   "note": "Earlier runs summarised (up to Run 184): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:38",
@@ -8407,6 +8424,10 @@
   {
    "date": "2026-11-16 01:58",
    "note": "Run 262 (TRENDS (winter dance template, 2026 Christmas decor looks)): Last January's 'Winter Vibes' TikTok dance (sway, snowflake fingers, cozy twist, spin, freeze, with family and adaptive versions) is the clearest template for a winter routine, so the snowflake entry in the trend bank now holds its exact steps without the squat. Homes and Gardens' 2026 decor trends (bright 'Kitschmas' critter ornaments, paper chains and dried orange garlands) give ready set dressing ideas. Total 1142."
+  },
+  {
+   "date": "2026-11-16 01:59",
+   "note": "Run 263 (monetisation (YouTube ad growth slowing, TV share and CPM context)): YouTube's Q3 2026 ad revenue was about $11.2B, up 9.2%, its slowest growth of 2026, even as YouTube hit a record 15.8% of US TV time in August; midterm political ads pushed premium CTV CPMs up for a while, so December rates will lean on holiday retail demand instead. Total 1145."
   }
  ],
  "history": [
@@ -9457,6 +9478,10 @@
   {
    "date": "2026-11-16 01:58",
    "total": 1142
+  },
+  {
+   "date": "2026-11-16 01:59",
+   "total": 1145
   }
  ],
  "next_week_ideas": [
