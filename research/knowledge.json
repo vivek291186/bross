@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:00:52+05:30",
- "runs": 225,
+ "updated": "2026-11-16T00:01:30+05:30",
+ "runs": 226,
  "branches": [
   {
    "id": "platforms",
@@ -6166,6 +6166,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 215
+    },
+    {
+     "t": "The Nutcracker story and Tchaikovsky's music are public domain, but specific film or ballet company designs are not, so Bro Bros can use a toy soldier and music box idea with our own designs and our own newly written melody rather than any recording.",
+     "src": "general copyright note (our judgement)",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 226
     }
    ]
   },
@@ -6957,6 +6964,20 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 223
+    },
+    {
+     "t": "'Nutcrackercore' holiday decor (wooden nutcrackers, candy striped toy soldiers and ballet inspired pieces) became a TikTok decorating trend alongside oversized bows, tinsel's comeback and bold honeycomb paper ornaments, giving a ready look for a toy soldier march song.",
+     "src": "PureWow, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 226
+    },
+    {
+     "t": "Pinterest Predicts 2026 named 'Funhaus' vintage circus decor (circus interior searches up 130%, circus nursery up 50%) and 'Gimme Gummy' squishy, jelly like textures, two playful looks that match Bro Bros' bright, squishy 3D style and a circus parade song.",
+     "src": "Fortune, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 226
     }
    ]
   }
@@ -6984,11 +7005,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 146): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:39",
-   "note": "Run 147 (Shorts and Reels trends (Gen Alpha words, Shorts mix data)): Reels sound lists were already covered. New: Metricool's 800K video study shows Shorts views grew 127% against 76% for long videos and Shorts now drive 61% of organic views, and channels posting about 5 Shorts a month saw twice the long video views of channels with none, a lift that vanished at 35+ a month (we post far more). Gen Alpha's '6 7' shout and 2026 slang are popular but come from adult corners of the internet, so we skip them and keep our own shoutable hooks. Total 666."
+   "note": "Earlier runs summarised (up to Run 147): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:40",
@@ -7301,6 +7318,10 @@
   {
    "date": "2026-11-16 00:00",
    "note": "Run 225 (competitor deep dive (Cocomelon and Ms Rachel breakouts and title formulas via OutlierKit)): Cocomelon (Oct 2026) still uploads about three 5 minute songs a week with almost no Shorts; its breakouts stack two proven hooks ('Yes Yes Finger Family Playground Song' 52M, 'Bananaphone' 40M) and about 10% of its slate is now Hello Kitty and Sanrio collaborations. Ms Rachel uploads barely once a fortnight, about 45 minute episodes, and her titles lead with a parent search promise ('Baby Learning', 'Learn to Talk', 'First Words'). Total 984."
+  },
+  {
+   "date": "2026-11-16 00:01",
+   "note": "Run 226 (TRENDS (holiday look trends: toy soldier decor, circus nurseries, squishy jelly textures)): Holiday decor trends that carry into kids video: 'nutcrackercore' (candy striped toy soldiers and ballet pieces), tinsel's comeback and honeycomb paper ornaments; Pinterest's 2026 predictions saw 'circus nursery' searches up 50% and a 'gimme gummy' love of squishy jelly textures. A toy soldier march joined the trend bank (our own soldiers, a public domain style idea). Total 987."
   }
  ],
  "history": [
@@ -8203,6 +8224,10 @@
   {
    "date": "2026-11-16 00:00",
    "total": 984
+  },
+  {
+   "date": "2026-11-16 00:01",
+   "total": 987
   }
  ],
  "next_week_ideas": [
@@ -8307,6 +8332,12 @@
    "use": "Split screen: Big Bro the sporty one (snowball, running), Little Bro the cosy one (blanket, cocoa), text 'btw it's cool to do both', then both swap and do each other's thing together to our own song. Teaches that kids can like loud and quiet things."
   },
   {
+   "name": "Toy soldier march",
+   "where": "Holiday decor and Reels every December ('nutcrackercore' decor trend, candy striped soldiers and ballet pieces)",
+   "status": "seasonal",
+   "use": "The Bros dress as our own original toy soldiers (not the ballet's characters) and do a stiff wooden march to our own marching song, then a ballerina twirl when the music box tune plays. Meshy steps: standing, march in place with knees up and straight arms swinging, salute, then rise on tiptoes and twirl once with arms in a circle above the head."
+  },
+  {
    "name": "Say the word on the beat",
    "where": "TikTok, Shorts (Christmas specials, Dec 2025, returning)",
    "status": "rising",
@@ -8377,12 +8408,6 @@
    "where": "TikTok, Reels, Shorts (every December)",
    "status": "seasonal",
    "use": "From 1 to 24 Dec the Bros open one numbered door a day on a big calendar; behind it is one new move or winter word, and the Short ends with everyone doing all the moves so far. Shorts series on YouTube keeps the 24 days in order. Meshy move for door 1: stand in place, arms swing open wide like doors, then a small hop."
-  },
-  {
-   "name": "Snowflake arms & spin",
-   "where": "Winter, global",
-   "status": "seasonal (Dec-Jan)",
-   "use": "Snowflake Dance Party song with 3 simple winter moves as a challenge."
   }
  ]
 }
