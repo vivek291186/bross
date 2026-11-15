@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:13:26+05:30",
- "runs": 142,
+ "updated": "2026-11-15T20:14:22+05:30",
+ "runs": 143,
  "branches": [
   {
    "id": "platforms",
@@ -1336,6 +1336,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 129
+    },
+    {
+     "t": "Because viewers cannot save made for kids songs to their own playlists or Watch Later, the only way to keep a family coming back to a set of Bro Bros songs is our own channel playlists, compilations and live streams, plus a memorable channel name parents can search.",
+     "src": "support.google.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 143
     }
    ]
   },
@@ -4304,6 +4311,20 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 137
+    },
+    {
+     "t": "YouTube Help lists what made for kids videos lose on their watch pages: autoplay on Home, cards and end screens, the video watermark (subscribe button), memberships, comments, donate and Super Chat, live chat, merch and tickets, notifications, personalised ads, Miniplayer playback, and save to playlist or Watch Later.",
+     "src": "support.google.com, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 143
+    },
+    {
+     "t": "Made for kids channels also cannot use community posts, so channel news (new song days, holiday mixes) can only reach parents through Instagram, video titles and the channel banner, not YouTube posts.",
+     "src": "support.google.com, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 143
     }
    ]
   },
@@ -4603,12 +4624,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:16",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:35",
-   "note": "Run 64 (music craft (streaming and albums)): Spotify now lets parents switch kids and family music out of their taste profile (on by default, retroactive), so Spotify growth for kids songs must come from search, kids profiles and playlists. Ms Rachel's 23 track debut album leans on real instruments like cello; Yo Gabba Gabba's 20 track holiday album mixes punk, synth pop and beatbox and dropped mid November. In African homes kids songs soundtrack chores, journeys and bedtime. Total 360."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:37",
@@ -4921,6 +4938,10 @@
   {
    "date": "2026-11-15 20:13",
    "note": "Run 142 (topics and seasons (World Children's Day)): World Children's Day is Friday 20 Nov 2026; UNICEF's theme is 'My Day. My Rights. My Future.', with landmarks lit blue and families invited to wear blue, a gentle 'every child has a voice' song in blue visuals posted on 18 or 19 Nov fits every country. Total 645."
+  },
+  {
+   "date": "2026-11-15 20:14",
+   "note": "Run 143 (rules (full list of made for kids limits)): YouTube Help's full list of what made for kids videos lose: autoplay on Home, cards, end screens, watermarks, memberships, comments, donations, live chat, merch, notifications, personalised ads, Miniplayer playback, and viewers cannot save them to a playlist or Watch Later, so only our own channel playlists can keep songs together. Total 648."
   }
  ],
  "history": [
@@ -5491,6 +5512,10 @@
   {
    "date": "2026-11-15 20:13",
    "total": 645
+  },
+  {
+   "date": "2026-11-15 20:14",
+   "total": 648
   }
  ],
  "next_week_ideas": [
