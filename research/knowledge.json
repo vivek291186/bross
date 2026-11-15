@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:05:29+05:30",
- "runs": 105,
+ "updated": "2026-11-15T19:06:13+05:30",
+ "runs": 106,
  "branches": [
   {
    "id": "platforms",
@@ -552,6 +552,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 99
+    },
+    {
+     "t": "YouTube is making child profiles easy to switch on TV apps, with recommendations locked to each child viewer, so on the living room TV each child's own history, not the parent's, decides which songs come next.",
+     "src": "Digit, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 106
     }
    ]
   },
@@ -3401,6 +3408,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 94
+    },
+    {
+     "t": "YouTube's more prominent AI labels (May 2026) are not shown on YouTube Kids at all, which runs under separate policies, and animated AI videos on main YouTube only get a label tucked in the description; advocacy groups (Fairplay) now ask YouTube to stop recommending AI made for kids videos, so expect future limits aimed at animated AI kids content.",
+     "src": "Playtech and Fairplay, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 106
+    },
+    {
+     "t": "Neal Mohan's 2026 letter said YouTube would adapt its anti spam and anti clickbait systems to spot and demote low effort AI videos and strictly enforce synthetic media labels, so the defence for an AI assisted channel is clear human authorship and variety, not hiding AI use.",
+     "src": "Digit, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 106
     }
    ]
   },
@@ -3695,10 +3716,6 @@
   {
    "date": "2026-11-15 15:45",
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
-  },
-  {
-   "date": "2026-11-15 16:46",
-   "note": "Run 27 (Shorts and Reels): Instagram's Your Algorithm topic controls now cover Reels, Explore (Apr 2026) and Feed (Jun 2026), so clear topic signals matter; guidance favours motion or text within half a second, keyword captions over hashtags, on screen text for AI topic reading and about 90% niche consistency; near duplicate penalties last 24 hours to 30 days. Total 211."
   },
   {
    "date": "2026-11-15 16:46",
@@ -4011,6 +4028,10 @@
   {
    "date": "2026-11-15 19:05",
    "note": "Run 105 (algorithm experiments and data (video length, dub tracks, streams)): AIR's study of 18,080 channels (2025 to Mar 2026) found video length makes no measurable difference to kids engagement at scale, while one kids channel that moved from 28+ minute compilations to shorter formats doubled average percentage viewed. Dubbed audio tracks added 125.5M views (over 30%) to one channel in five months, and DONA English's new streams brought 20% of revenue in 10 days and 60% the next month. Total 515."
+  },
+  {
+   "date": "2026-11-15 19:06",
+   "note": "Run 106 (rules and safety (AI labels on YouTube Kids, CEO priorities)): YouTube's more visible AI labels (May 2026) do not apply on YouTube Kids, and animated AI videos only get a label in the description; Fairplay wants AI made for kids videos kept out of children's recommendations. Neal Mohan's 2026 letter promised to adapt spam and clickbait systems to demote low effort AI and to add easy child profile switching on TV apps. Total 518."
   }
  ],
  "history": [
@@ -4433,6 +4454,10 @@
   {
    "date": "2026-11-15 19:05",
    "total": 515
+  },
+  {
+   "date": "2026-11-15 19:06",
+   "total": 518
   }
  ],
  "next_week_ideas": [
