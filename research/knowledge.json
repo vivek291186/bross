@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:41:38+05:30",
- "runs": 286,
+ "updated": "2026-11-16T03:42:53+05:30",
+ "runs": 287,
  "branches": [
   {
    "id": "platforms",
@@ -7237,6 +7237,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 275
+    },
+    {
+     "t": "Malaysia began enforcing a ban on social media accounts for under 16s on 1 Jun 2026 for platforms with at least 8M users, naming YouTube along with Facebook, Instagram and TikTok; existing accounts are age checked over six months, so Malaysian kids will mostly watch Bro Bros signed out or through parents' and supervised accounts, not their own.",
+     "src": "AP via WTOP, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 287
+    },
+    {
+     "t": "Ofcom found 73% of UK 11 to 17 year olds met harmful content in a four week window (36% of them on YouTube) and asked platforms for safer feeds, but YouTube declined major recommendation changes (May 2026), so UK made for kids discovery rules are unchanged for now; fines can reach 10% of global revenue if Ofcom acts.",
+     "src": "Shopifreaks, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 287
+    },
+    {
+     "t": "India's DPDP Rules (notified Nov 2025) roll out in stages: consent manager registration from Nov 2026 and most other duties by May 2027, with Rule 10 letting platforms check parental consent through age or identity tokens from authorised entities such as DigiLocker, so Indian children's accounts and comments will narrow further next year.",
+     "src": "ThePrint, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 287
+    },
+    {
+     "t": "Since late May 2026 YouTube shows AI labels as an overlay on Shorts and directly under the player on long videos, but non realistic content such as animation and fantasy is excluded from mandatory disclosure, so our stylised 3D cartoon songs do not need the realistic AI label, while any photoreal scene or voice clone of a real person would.",
+     "src": "PPC Land, May 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 287
     }
    ]
   },
@@ -8713,11 +8741,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 207): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:47",
-   "note": "Run 208 (TRENDS (global dance: full chorus K-pop challenges, Brazilian phonk rising in Europe)): K-pop's newest challenge style teaches the whole chorus, not a 10 second clip: a rookie group's two relaxed house groove songs passed 160K TikToks and hit Reels Rising Audio No. 3 and No. 6 as stars joined in. Brazilian phonk hashtags grew 62% in Europe in early 2026 (funk 34%), showing Brazilian beats travel. A 'learn the whole chorus' format joined the trend bank. Total 913."
+   "note": "Earlier runs summarised (up to Run 208): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:48",
@@ -9030,6 +9054,10 @@
   {
    "date": "2026-11-16 03:41",
    "note": "Run 286 (TRENDS (Christmas 2026 toy wish lists, nostalgia shared by parents and kids)): Social trackers this week repeat formats already in the bank, so this round looked at the gifts kids will unbox on camera: the toys taking off for Christmas 2026 are nostalgic remakes parents remember (a 90s giggling plush, a retro electronic pet at about 15 USD, mini collectible playsets), singing character dolls and big playhouses. Removed one duplicate Super Simple leaf from Run 285 that repeated an older leaf. Total 1231."
+  },
+  {
+   "date": "2026-11-16 03:42",
+   "note": "Run 287 (rules and monetisation (Malaysia under 16 ban, Ofcom vs YouTube feeds, India DPDP timeline, AI label placement)): Malaysia has enforced an under 16 ban on accounts for platforms with 8M+ users since 1 Jun 2026, YouTube included, with age checks for existing users phased over six months. Ofcom found 73% of UK 11 to 17s met harmful content in four weeks and YouTube declined to overhaul its feeds. India's DPDP rollout runs to May 2027, with DigiLocker style tokens for parental consent. YouTube's AI labels now sit on Shorts and just below the player, but animation is excluded. Total 1235."
   }
  ],
  "history": [
@@ -10176,6 +10204,10 @@
   {
    "date": "2026-11-16 03:41",
    "total": 1231
+  },
+  {
+   "date": "2026-11-16 03:42",
+   "total": 1235
   }
  ],
  "next_week_ideas": [
