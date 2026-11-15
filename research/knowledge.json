@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:40+05:30",
- "runs": 2,
+ "updated": "2026-11-15T15:55+05:30",
+ "runs": 3,
  "branches": [
   {
    "id": "platforms",
@@ -139,6 +139,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 2
+    },
+    {
+     "t": "For kids songs, compilations and 'Up Next' sessions matter: if the next suggested video is yours, you keep the session; stitch 5-6 songs into mega mixes led by the best performer.",
+     "src": "nursery rhyme growth analyses",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
     }
    ]
   },
@@ -188,6 +195,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 1
+    },
+    {
+     "t": "Cocomelon's biggest buckets are fresh spins on classic rhymes and originals that blend a classic with a modern hook; its average video length grew to about 20 minutes (compilations).",
+     "src": "Cocomelon case study PDF",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Seven of the 10 most-watched YouTube Kids videos of 2019 were songs/nursery rhymes, and the top one was a 36-minute song compilation.",
+     "src": "Kidscreen",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "A proven repeatable formula: a familiar song or character placed in a new world or holiday ('X visits the Magic Forest / Christmas'), packaged as sing-along.",
+     "src": "OutlierKit channel analysis",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
     }
    ]
   },
@@ -244,6 +272,62 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 1
+    },
+    {
+     "t": "Children of all ages in studies prefer major-key songs over minor-key songs, and familiarity with a song strongly raises how much they like it.",
+     "src": "Dobrota & Gusic study, J. Elementary Education",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Preschoolers (5-6) like many styles but rate a children's song sung by a child highest; a kid lead voice beats an adult voice.",
+     "src": "Habe & Bratina study of 250 preschoolers",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Kids aged 4-6 in the US and Poland prefer songs they already know with a fast tempo and a strong beat; they react by moving and drawing rather than describing.",
+     "src": "Vasil & Kondracka-Szala, J. Popular Music Education 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Over 80% of popular and kids music is in major keys and 2/4 or 4/4 time; staying there keeps songs instantly singable.",
+     "src": "music preference research summary",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Super Simple Songs builds songs on Total Physical Response: every lyric pairs with an action, tempo slowed so toddlers can act each word, with short pauses for kids to echo.",
+     "src": "Super Simple about page / SSS analyses",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Call-and-response (riddle style 'I see something...?' or echo lines) gives kids a safe place to join in and a small reward when they answer.",
+     "src": "Super Simple Songs analyses",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Calm songs for wind-down sit around 60-70 BPM (resting heart rate); keep a bedtime/lullaby lane alongside 110-125 BPM dance songs.",
+     "src": "SSS Little Snowflake analysis",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Nonsense syllables like 'doo doo doo' make songs singable for pre-verbal toddlers; Baby Shark's family call-and-response is the model.",
+     "src": "BabyYumYum / Baby Shark analyses",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
     }
    ]
   },
@@ -293,6 +377,48 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 1
+    },
+    {
+     "t": "Kids copy what they see: Ms. Rachel's success rests on direct eye contact, big gestures paired with every word, and pauses that invite kids to answer.",
+     "src": "Kids Media Book Club / FamilyEducation 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Direct address (characters talk to the viewer), call-and-response prompts and on-screen action cues (clap, jump) turn watching into joining in (Blue's Clues, Dora, Wiggles).",
+     "src": "Fiveable children's TV study guide",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Blue's Clues' famous four-beat pause gives kids time to answer; brief silent beats after a question raise participation.",
+     "src": "Blue's Clues lesson article",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Children respond to big, expressive, non-threatening eyes, in thumbnails as much as in the video.",
+     "src": "nursery rhyme channel growth article",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Kids thumbnails should avoid shocked, crying, scared or panicked faces, scary monsters and danger; YouTube's classifiers read thumbnails and titles before any human does.",
+     "src": "AIR Media-Tech kids channel case study, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Keep thumbnail text to three words or fewer, bright high-contrast colours, one clear subject.",
+     "src": "vidIQ thumbnail tips 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
     }
    ]
   },
@@ -335,6 +461,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 1
+    },
+    {
+     "t": "Dogs, dinosaurs, big machines/vehicles, community helpers (firefighters, doctors) and animals are the subjects toddlers ask for again and again.",
+     "src": "Paw Patrol / toddler show guides",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Kids feel powerless in real life, so simple problems the characters solve themselves (rescue, find, fix) give them a sense of mastery.",
+     "src": "Screenwise Paw Patrol guide",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 3
+    },
+    {
+     "t": "Daily routines (bath, potty, washing hands, bedtime) are among the most-watched kids songs ever: Cocomelon's Bath Song has about 7.5B views.",
+     "src": "Webiano YouTube all-time top 10",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 3
     }
    ]
   },
@@ -423,18 +570,21 @@
   }
  ],
  "playbook": [
-  "Keep dance songs at 110-125 BPM with a 1-2 bar hook repeated in every chorus.",
-  "Build each song around a tiny story with one tempo change kids can act out (speed up / slow down / freeze).",
-  "Use family or animal characters and call-and-answer lines (song duos).",
-  "Add a half-step key lift for the final chorus.",
-  "Keep cuts calm (3-6 s), avoid flashing lights and sudden loud sounds; bright rounded visuals.",
-  "Hide a learning point in each song (counting, colours, routine, safety) and say it in the description.",
-  "Plan dubbed versions of the best songs for the biggest kids markets (Spanish, Portuguese, Hindi, Indonesian, Arabic); multi-language audio is the biggest proven growth lever.",
-  "Make long compilations of the week's songs for evergreen views.",
-  "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles.",
-  "Open every Short and Reel on the most exciting moment (the hook line plus big dance move) in the first second; no title cards first.",
-  "Make Shorts loop: end on a frame that flows back into the start, so replays count.",
-  "Thumbnail and title must show exactly what the song delivers (no bait) to protect satisfaction signals."
+  "Major key, 4/4, 110-125 BPM for dance songs; keep one slow 60-70 BPM wind-down song in the week.",
+  "One 1-2 bar hook repeated in every chorus, simple melody inside about 5 notes; add nonsense syllables (la la, doo doo) kids can sing before they can talk.",
+  "Every lyric line has an action kids can copy (Total Physical Response): clap, jump, wiggle, freeze, stomp.",
+  "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
+  "A tiny story with one tempo change kids can act out (speed up, slow down, freeze), ending with a happy payoff.",
+  "A child's voice as the lead singer; characters look into the camera and talk to the viewer.",
+  "Family, animals, dogs, dinosaurs, vehicles, helpers and daily routines are the most-requested subjects.",
+  "Half-step key lift for the final chorus.",
+  "Calm camera (cuts 3-6 s), bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
+  "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description.",
+  "Open every Short and Reel on the best hook moment in the first second; make Shorts loop back to the start.",
+  "Thumbnails: one clear happy subject, big eyes, max 3 words, bright contrast; never scared, crying or shocked faces; title and thumbnail must match the video.",
+  "Build weekly compilations (5-6 songs, 15-25 min) led by the best performer, to keep viewers in our Up Next session.",
+  "Plan dubbed versions of the best songs for the biggest kids markets (Spanish, Portuguese, Hindi, Indonesian, Arabic).",
+  "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles."
  ],
  "log": [
   {
@@ -444,6 +594,10 @@
   {
    "date": "2026-11-15 15:40",
    "note": "Run 2 (YouTube algorithm): new branch with 12 learnings on how Home, Suggested, Search, Shorts and Reels rank videos; 3 new playbook rules. Total 50."
+  },
+  {
+   "date": "2026-11-15 15:55",
+   "note": "Run 3 (deep dive: music + what kids love): 21 learnings from music preference studies, Super Simple Songs, Ms. Rachel, Blue's Clues, thumbnails and top kids topics. Playbook rewritten to 15 rules; 14 song ideas for next week. Total 72."
   }
  ],
  "history": [
@@ -454,6 +608,68 @@
   {
    "date": "2026-11-15 15:40",
    "total": 51
+  },
+  {
+   "date": "2026-11-15 15:55",
+   "total": 72
+  }
+ ],
+ "next_week_ideas": [
+  {
+   "title": "Dino Stomp Family",
+   "why": "Dinosaurs + family call-and-response (Baby Dino, Mama Dino...) + stomp actions; Baby Shark pattern, globally loved subject."
+  },
+  {
+   "title": "Rescue Pup to the Rescue",
+   "why": "Dogs + community helpers + a simple problem the kids solve; sense of mastery like Paw Patrol, fully original."
+  },
+  {
+   "title": "Bath Time Bubble Party",
+   "why": "Bath routine songs are all-time mega hits (7.5B Bath Song); bubbles, duck, splash actions."
+  },
+  {
+   "title": "I See Something Red",
+   "why": "Colour riddle call-and-response with answer pauses; learning hidden in a game, works in every language."
+  },
+  {
+   "title": "Ten Little Fingers Count",
+   "why": "Counting 1-10 on fingers, every number has an action; evergreen learning search term."
+  },
+  {
+   "title": "Jungle Walk Echo Song",
+   "why": "Echo/call-and-response animal walk (stomp like an elephant, hop like a frog) with TPR actions."
+  },
+  {
+   "title": "Wash Wash Wash Your Hands",
+   "why": "Routine + health habit parents search for; short, loopable chorus for Shorts."
+  },
+  {
+   "title": "Sleepy Stars Lullaby",
+   "why": "The week's slow 60-70 BPM wind-down song; bedtime sessions keep long watch time."
+  },
+  {
+   "title": "How Do You Feel Today?",
+   "why": "Feelings song (happy, sad, angry, calm) with faces and actions; social-emotional learning is what YouTube quality principles reward."
+  },
+  {
+   "title": "Fruit Salad Shake",
+   "why": "Food + colours + dance; food content travels across markets and is easy to dub."
+  },
+  {
+   "title": "Choo Choo Train Ride",
+   "why": "Vehicles and a journey through countries of the world; global appeal, speeds up and slows down like a real train."
+  },
+  {
+   "title": "Ocean Friends Swim Along",
+   "why": "Sea animal family song with nonsense-syllable hook; colourful underwater set."
+  },
+  {
+   "title": "ABC Animal Parade",
+   "why": "Phonics is the most-viewed India kids video (5.8B) and a global search staple; one animal per letter with an action."
+  },
+  {
+   "title": "Snowflake Dance Party",
+   "why": "December winter theme for the northern hemisphere, holiday-neutral so it works worldwide; freeze-and-melt game."
   }
  ]
 }
