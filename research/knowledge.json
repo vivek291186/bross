@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:41:24+05:30",
- "runs": 203,
+ "updated": "2026-11-15T23:43:07+05:30",
+ "runs": 204,
  "branches": [
   {
    "id": "platforms",
@@ -902,6 +902,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 198
+    },
+    {
+     "t": "Third party data puts Reels' average reach at about 31% of followers (over double static posts) and Explore's at about 38%, the highest on Instagram, with Reels under 3 minutes still the only ones sent to non followers.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 204
     }
    ]
   },
@@ -1728,6 +1735,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 197
+    },
+    {
+     "t": "Since August 2026 long YouTube videos can carry localised thumbnails that switch to the viewer's language setting, so a Bro Bros song can show 'Snow Dance!' to English viewers and the same picture with Spanish or Portuguese words to those viewers without new uploads.",
+     "src": "AIR, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 204
+    },
+    {
+     "t": "AIR's month by month log of YouTube changes (updated 4 Nov 2026) lists no new ranking change in November so far; the last feed changes were the Shorts originality cut on 1 Oct and custom Home feeds on 22 Oct, so our strategy does not need to change this week.",
+     "src": "AIR, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 204
     }
    ]
   },
@@ -5697,6 +5718,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 203
+    },
+    {
+     "t": "Meta announced in June 2026 that its 13+ content setting for teen accounts (no suggestive, graphic, strong language, risky stunt or alcohol content in Explore, Reels and search) goes global across Instagram, Facebook and Messenger after India got it in April; clean family songs are not affected, but risky stunt jokes would be.",
+     "src": "MakeInfluence, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 204
     }
    ]
   },
@@ -6333,11 +6361,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 124): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:50",
-   "note": "Run 125 (topics and seasons (Sinterklaas, UAE National Day, Dongzhi)): Next four weeks: Sinterklaas arrived in Amsterdam today (15 Nov) and gift evening is 5 Dec (shoes by the door, a carrot for the horse, spiced biscuits, chocolate letters); the UAE marks its 55th National Day on 2 and 3 Dec; the Chinese winter solstice festival Dongzhi falls on Tue 22 Dec, when families roll pink and white sweet rice balls (tangyuan), a natural counting and colours song for China, Taiwan, Singapore and Malaysia. Total 590."
+   "note": "Earlier runs summarised (up to Run 125): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:56",
@@ -6650,6 +6674,10 @@
   {
    "date": "2026-11-15 23:41",
    "note": "Run 203 (rules and monetisation (inauthentic content hits hand made animators, COPPA rule deadline)): Hand made animated channels were also demonetised as 'inauthentic content' in 2026 (Sydney the Song Cat, four years of hand drawn songs, appeals rejected with template replies; kaiju and dinosaur animators in February), so Bro Bros should keep proof of human work for every song. The amended COPPA Rule compliance date was 22 April 2026, FTC fines reach about 53K USD per violation, and made for kids channels are shut out of YouTube Shopping affiliates. Total 891."
+  },
+  {
+   "date": "2026-11-15 23:43",
+   "note": "Run 204 (YouTube and Reels algorithm check (YouTube top 50 and algorithm already covered this week, so switched to gaps: localised thumbnails, Reels reach rates, Meta's global 13+ setting)): Tubefilter's 8 Nov chart and YouTube's Aug to Nov changes were already in the tree, so this round filled gaps: long videos can now show a different thumbnail per viewer language (Aug 2026), Reels reach about 31% of followers and Explore about 38%, and Meta took its 13+ teen content setting global in June 2026 (India since April), which does not touch clean family content. November 2026 has no new YouTube ranking change so far. Total 895."
   }
  ],
  "history": [
@@ -7464,6 +7492,10 @@
   {
    "date": "2026-11-15 23:41",
    "total": 891
+  },
+  {
+   "date": "2026-11-15 23:43",
+   "total": 895
   }
  ],
  "next_week_ideas": [
