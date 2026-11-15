@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:54:18+05:30",
- "runs": 257,
+ "updated": "2026-11-16T01:55:08+05:30",
+ "runs": 258,
  "branches": [
   {
    "id": "platforms",
@@ -4570,6 +4570,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 246
+    },
+    {
+     "t": "In an Oxford Brookes eye tracking study with over 70 children aged 2 and 3, toddlers looked longer at pictures of a real person with a cartoon vehicle than at all real scenes, so an unexpected mix (for example a real photo of a sandcastle or snow inside our cartoon world) can grab attention.",
+     "src": "Oxford Brookes Babylab",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 258
+    },
+    {
+     "t": "Viewers spent the most time on the faces of near photoreal virtual humans and more face looking went with higher 'unpleasant' and 'creepy' ratings, while a cartoon style version of the same person scored better, which supports keeping the Bros clearly stylised with big simple features.",
+     "src": "Carnegie Mellon Robotics Institute, 2012",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 258
+    },
+    {
+     "t": "Meshy's changelog shows no new animation or rigging features from September to November 2026 (updates were texture, edit and printing tools), so Text to Motion from July 2026 remains our dance source and prompts should stay simple standing moves.",
+     "src": "Meshy changelog, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 258
     }
    ]
   },
@@ -7985,11 +8006,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 178): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:46",
-   "note": "Run 179 (rules and monetisation (AI slop ratings, Q4 money)): YouTube has tested since March 2026 a pop up asking viewers to rate on a five point scale whether a video feels like AI slop, and now labels AI videos automatically from C2PA and SynthID signals. A 7.55M kids channel halved long uploads, doubled Shorts and moved to 4K TV ready visuals in Q4 2025 and revenue rose about 34% on only about 6% more views; December RPMs run roughly 3 to 5 times January (unsourced estimate). Total 789."
+   "note": "Earlier runs summarised (up to Run 179): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:47",
@@ -8302,6 +8319,10 @@
   {
    "date": "2026-11-16 01:54",
    "note": "Run 257 (music craft (holiday listening calendar, original holiday songs that last)): Spotify data via Digital Music News shows holiday streaming first jumps around 1 Sep, rises again in October (US holiday playlist creation up 60% year on year) and peaks through November, with 20 of the top 25 global tracks festive by the second week of December. A modern original, Sia's 'Snowman', passed 1.3B plays, proof a new holiday song can become a yearly standard. Total 1127."
+  },
+  {
+   "date": "2026-11-16 01:55",
+   "note": "Run 258 (visual craft (real versus cartoon attention, uncanny faces, tool updates)): An Oxford Brookes eye tracking study of 70+ two and three year olds found they looked longer at a real person placed in a cartoon scene, and a Carnegie Mellon study found more time on a near real virtual face went with higher creepiness ratings, so stylised faces stay safest. Meshy's changelog has no new animation features since Text to Motion arrived in July 2026. Total 1130."
   }
  ],
  "history": [
@@ -9332,6 +9353,10 @@
   {
    "date": "2026-11-16 01:54",
    "total": 1127
+  },
+  {
+   "date": "2026-11-16 01:55",
+   "total": 1130
   }
  ],
  "next_week_ideas": [
