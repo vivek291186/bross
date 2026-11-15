@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:51:13+05:30",
- "runs": 85,
+ "updated": "2026-11-15T18:52:02+05:30",
+ "runs": 86,
  "branches": [
   {
    "id": "platforms",
@@ -447,6 +447,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 82
+    },
+    {
+     "t": "Analysts tracking channels with 100M to 1B monthly views report that a Short's impressions drop sharply after about 28 to 30 days ('the flattening'), so each seasonal Short must go up inside the four weeks before its holiday and older Shorts need fresh replacements.",
+     "src": "TunePocket, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 86
+    },
+    {
+     "t": "The same analysis finds Shorts now surface more in YouTube Search for how to and learning questions, so a Short titled with the exact question a parent types (a tooth brushing song for toddlers) can keep finding viewers through Search.",
+     "src": "TunePocket, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 86
+    },
+    {
+     "t": "Since mid 2025 YouTube runs machine learning enhancement (unblur, denoise, sharpen) on some Shorts; it says this is not generative AI but it can smooth faces, so export our 3D Shorts clean and at high bitrate to give the processing little to change.",
+     "src": "Tubefilter, Aug 2025",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 86
+    },
+    {
+     "t": "In the week of 11 Nov 2026 three of the top eight Reels sounds were Christmas label tracks (about 5.8M, 571K and 451K Reels) used for 'it's time' seasonal reveals and Christmas countdowns; our own song can copy the countdown format with original audio.",
+     "src": "CreatorDB, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 86
     }
    ]
   },
@@ -3235,10 +3263,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 15:52",
-   "note": "Run 7 (topics and seasons): Next 4 weeks calendar: Hanukkah from 4 Dec, St Nicholas 6 Dec, Velitas 7 Dec, St Lucia 13 Dec, Las Posadas 16 Dec, Christmas, Kwanzaa; holiday music interest climbs from the day after Halloween; December is summer break in the southern hemisphere; Ramadan 2027 likely from 8 Feb. Total 101."
-  },
-  {
    "date": "2026-11-15 15:53",
    "note": "Run 8 (global markets): Dubbing data: in an 11 language kids test Spanish, Arabic, Indonesian and Portuguese pulled ahead and dubbed tracks gave over 30% of views; poor AI dubs crushed watch time; multi audio beats new channels when demand exists; El Reino Infantil leads Spanish kids content with audiences led by Mexico and Argentina. Total 107."
   },
@@ -3549,6 +3573,10 @@
   {
    "date": "2026-11-15 18:51",
    "note": "Run 85 (YouTube algorithm (custom feeds, originality detail)): Since 8 Nov 2026 US viewers can build Home feeds from typed prompts and these custom feeds now replace the old topic chips in the top bar. Hype with Jewels expanded on 6 Nov to nine countries for Partner channels of 500 to 500K subscribers. YouTube's 1 Oct originality post says template edits and narration over others' clips are not original; our own clips need their own framing. Total 449."
+  },
+  {
+   "date": "2026-11-15 18:52",
+   "note": "Run 86 (Shorts and Reels trends (Shorts shelf life, holiday sounds)): Analysts of very large channels report Shorts impressions fall sharply after about 28 to 30 days and that Shorts now show more in Search for how to and learning queries. On Reels three of the top eight sounds in the week of 11 Nov are Christmas label tracks used for countdowns and 'it's time' reveals, none usable on business accounts. Total 453."
   }
  ],
  "history": [
@@ -3891,6 +3919,10 @@
   {
    "date": "2026-11-15 18:51",
    "total": 449
+  },
+  {
+   "date": "2026-11-15 18:52",
+   "total": 453
   }
  ],
  "next_week_ideas": [
