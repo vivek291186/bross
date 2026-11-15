@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:43:07+05:30",
- "runs": 204,
+ "updated": "2026-11-15T23:44:15+05:30",
+ "runs": 205,
  "branches": [
   {
    "id": "platforms",
@@ -5725,6 +5725,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 204
+    },
+    {
+     "t": "The Elf on the Shelf is a trademarked character and brand, so Bro Bros must design its own helper elf (different name, look and story) and never use that name or look in titles, tags or thumbnails.",
+     "src": "Romper, 2024 (brand check)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 205
     }
    ]
   },
@@ -6334,6 +6341,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 202
+    },
+    {
+     "t": "Every December parents play 'elf stuck in the TV' videos (the elf taps on the screen and asks for help getting out), and YouTube hosts 10 hour versions, a ready made TV first format: Little Bro or our own original helper elf stuck inside the screen asking kids to sing and dance him free.",
+     "src": "Romper, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 205
+    },
+    {
+     "t": "Parents roasting their kids' over the top Christmas wish lists (the kids Christmas gifts tag passed 104M TikTok views) is a recurring December format aimed at adults; a kid safe Bro Bros twist is a silly song where the Bros' wish lists get bigger and sillier (a snowman that can skate, a rocket made of cookies).",
+     "src": "Fox News, Dec 2023",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 205
+    },
+    {
+     "t": "The SocialPilot Reels window to 10 Nov 2026 showed no new kid relevant audio beyond what we already had (three Christmas label songs at peak, the shoulder shimmy rising), so Christmas sound trends are now in their long December plateau.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 205
     }
    ]
   }
@@ -6361,11 +6389,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 125): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:56",
-   "note": "Run 126 (competitor deep dive (Bebefinn)): Bebefinn, Pinkfong's 3D family song brand launched in 2022, passed about 80M subscribers and 58 to 65B views across its YouTube channels by mid 2026, has about 200M Netflix views (No. 1 kids title in 12 countries) and is moving into story led musical episodes about a toddler's everyday firsts for Amazon Kids+. Total 594."
+   "note": "Earlier runs summarised (up to Run 126): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:57",
@@ -6678,6 +6702,10 @@
   {
    "date": "2026-11-15 23:43",
    "note": "Run 204 (YouTube and Reels algorithm check (YouTube top 50 and algorithm already covered this week, so switched to gaps: localised thumbnails, Reels reach rates, Meta's global 13+ setting)): Tubefilter's 8 Nov chart and YouTube's Aug to Nov changes were already in the tree, so this round filled gaps: long videos can now show a different thumbnail per viewer language (Aug 2026), Reels reach about 31% of followers and Explore about 38%, and Meta took its 13+ teen content setting global in June 2026 (India since April), which does not touch clean family content. November 2026 has no new YouTube ranking change so far. Total 895."
+  },
+  {
+   "date": "2026-11-15 23:44",
+   "note": "Run 205 (TRENDS (December family traditions coming: stuck in the TV elf videos, wish list roasts, gingerbread twists)): Searched the next four weeks of family traditions: parents play 'elf stuck in the TV' videos (some 10 hours long on YouTube) before kids wake up each December, which suits a TV first Bro Bros format with our own helper elf; the Christmas wish list roast is for parents, not kids; this week's Reels audio window (31 Oct to 10 Nov) had nothing new beyond run 196. Total 899."
   }
  ],
  "history": [
@@ -7496,6 +7524,10 @@
   {
    "date": "2026-11-15 23:43",
    "total": 895
+  },
+  {
+   "date": "2026-11-15 23:44",
+   "total": 899
   }
  ],
  "next_week_ideas": [
@@ -7594,6 +7626,12 @@
    "use": "A brother shakes a wrapped mystery box, the other counts 3, 2, 1, the lid pops on the beat and out comes a new dance move, friend or winter prop; each box is one verse of our own song. Original items only, never branded toys."
   },
   {
+   "name": "Stuck inside the screen",
+   "where": "TikTok, Instagram and YouTube every December (parents play an 'elf stuck in the TV' video before kids wake up; 10 hour versions on YouTube)",
+   "status": "seasonal",
+   "use": "Our own original helper elf (not the branded one) or Little Bro appears 'stuck inside the TV', taps on the glass and asks kids to help him out by singing and doing three moves (clap, jump, spin) with our own song; at the end he pops out. Make a short version for Shorts and a long calm loop for the living room TV in December."
+  },
+  {
    "name": "Slow motion hero entrance",
    "where": "TikTok ('Pray For Me' slow mo entrances, NewEngen 13 Nov 2026)",
    "status": "rising",
@@ -7664,12 +7702,6 @@
    "where": "Evergreen kids",
    "status": "evergreen",
    "use": "Music stops, everyone freezes; kids at home play along. Already proven in our Dance and Freeze song."
-  },
-  {
-   "name": "Holiday group dance",
-   "where": "December, all platforms",
-   "status": "seasonal (Dec)",
-   "use": "Original goofy family party dance for the holiday week; everyone copies one silly move each."
   },
   {
    "name": "Snowflake arms & spin",
