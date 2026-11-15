@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:53:42+05:30",
- "runs": 216,
+ "updated": "2026-11-15T23:54:40+05:30",
+ "runs": 217,
  "branches": [
   {
    "id": "platforms",
@@ -6712,6 +6712,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 214
+    },
+    {
+     "t": "TikTok's 2026 'whimsy' wave celebrates playful, nostalgic, brightly coloured everyday touches and a child like sense of wonder as a reaction to minimalism and optimisation culture, a mood that matches Bro Bros' bright, silly 3D world and gives parents a reason to share it.",
+     "src": "Daily Dot, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 217
+    },
+    {
+     "t": "The AI baby dance (babies dancing to a 1998 house track via an app) ran from Nov 2025 to Jan 2026, and the most liked versions were humans and kids redoing it by hand, with comments like 'real will always win over AI', so our dance Shorts should stress the Bros' own handmade routines.",
+     "src": "Daily Dot, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 217
+    },
+    {
+     "t": "A toddler dancing at a snowy mountain party (one hand waving overhead while stepping side to side) reached about 26M TikTok plays in three weeks in Nov 2022, proof that a tiny two part winter move can become a global meme; a snowsuit Little Bro doing a wave and side step on a ski slope is an easy Short.",
+     "src": "meme.com, 2022",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 217
     }
    ]
   }
@@ -6739,11 +6760,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 137): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:05",
-   "note": "Run 138 (competitor deep dive (123 Andres bilingual music)): 123 Andres, a Grammy winning bilingual Spanish and English family music duo, has 13.2M subscribers and jumped from about 448M monthly views in August to about 797M in October 2026, with 3,000+ videos; its biggest hit is a counting song (228M) and its themes are counting, feelings and syllables, plus football topics in the World Cup year. YouTube Health also teamed with the Peppa Pig parenting channel on screen habit tips. Total 634."
+   "note": "Earlier runs summarised (up to Run 138): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:06",
@@ -7056,6 +7073,10 @@
   {
    "date": "2026-11-15 23:53",
    "note": "Run 216 (algorithm experiments and data (our results already recorded today; Little Dot's video length whitepaper)): Metricool results were already recorded today, and AIR's kids cases were all in the tree, so this round read Little Dot Studios' Feb 2026 whitepaper (800+ channels, 11.2B monthly views): in 2024 a 2 hour video earned about 100 times a 20 minute one, but after YouTube's January 2025 update ultra long viewing fell over 90% within three months and recommended video length halved from 80 to 40 minutes, so mid length compilations (20 to 60 minutes) are the safe bet, not 3 hour uploads. Total 949."
+  },
+  {
+   "date": "2026-11-15 23:54",
+   "note": "Run 217 (TRENDS (2026 whimsy mood, winter dance memes, people redoing AI dances by hand)): The December calendar was already in the tree, so this round looked at mood and memes: TikTok's 2026 'whimsy' wave (bright colours, nostalgia, child like wonder) suits Bro Bros' style; the AI baby dance peaked from Nov 2025 to Jan 2026 with people proudly redoing it by hand ('real always wins'), so it was marked fading; the ski slope toddler dance (2022) shows winter dance clips with one hand wave and a side step travel each November. Total 952."
   }
  ],
  "history": [
@@ -7922,6 +7943,10 @@
   {
    "date": "2026-11-15 23:53",
    "total": 949
+  },
+  {
+   "date": "2026-11-15 23:54",
+   "total": 952
   }
  ],
  "next_week_ideas": [
@@ -8088,7 +8113,7 @@
   {
    "name": "Sway & Wave baby dance",
    "where": "TikTok, Reels",
-   "status": "peak",
+   "status": "fading",
    "use": "Bro Bros do a 4-move sway, wave, clap, spin routine in the chorus; make a 15 s Short teaching it step by step ('Can you do it?')."
   },
   {
