@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:45:14+05:30",
- "runs": 240,
+ "updated": "2026-11-16T00:46:21+05:30",
+ "runs": 241,
  "branches": [
   {
    "id": "platforms",
@@ -986,6 +986,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 231
+    },
+    {
+     "t": "Since late June 2026 YouTube Shorts has no dislike button and the thumbs up became a heart, the 'Not interested' option now asks viewers for a reason, and swipe away rate stays the key Shorts signal, so a Short that annoys viewers is punished through skips and reasons rather than dislikes.",
+     "src": "PPC Land, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 241
     }
    ]
   },
@@ -7447,6 +7454,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 238
+    },
+    {
+     "t": "Spotify has not announced Wrapped 2026, but every release since 2021 fell on a Wednesday no later than 4 Dec (3 Dec 2025, 4 Dec 2024), so the recap wave, and the year in review Reels that copy it, should hit about 2 Dec 2026; a 'Bro Bros Wrapped' top 5 songs countdown fits that week.",
+     "src": "Official Charts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 241
+    },
+    {
+     "t": "Last December TikTokers revived the Peanuts gang's awkward go go dance (one video 4.3M views, some families adding a live pianist) in the run up to the yearly holiday special; the move style (head bob, swinging bent elbows, little shuffles) is copyable with our own jazzy piano tune and characters.",
+     "src": "YPulse, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 241
+    },
+    {
+     "t": "Many December 2025 trends tied a dance to a classic holiday film or special (the Peanuts dance, Elf themed pranks), which means holiday nostalgia carries dance trends across ages; Bro Bros can make its own 'holiday special' style episode once a year to become that ritual for families.",
+     "src": "YPulse and Good Morning America, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 241
     }
    ]
   }
@@ -7473,12 +7501,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 20:58",
-   "note": "Earlier runs summarised (up to Run 161): older log lines condensed."
-  },
-  {
    "date": "2026-11-15 20:59",
-   "note": "Run 162 (visual craft (Disney Research character proportions)): Disney Research measured 3D kids shows: characters for younger audiences have bigger heads, bigger and rounder eyes, but in three experiments with 4 to 10 year olds children showed no age based preference and actually rejected oversized heads (59 of 87 designed normal heads; enlarged heads picked only 15 of 60 times), and when designing their own they chose wide set eyes most. Total 723."
+   "note": "Earlier runs summarised (up to Run 162): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:00",
@@ -7791,6 +7815,10 @@
   {
    "date": "2026-11-16 00:45",
    "note": "Run 240 (our own results (Metricool 2 to 16 Nov plus the scheduled week 16 to 22 Nov)): Metricool still shows no YouTube stats after 11 Nov, and the Reel numbers match what was logged yesterday. New this round: the scheduled week (16 to 22 Nov) has 14 English songs on vehicles, animals, routines and games but no December holiday song, no trend bank format and no Hindi Didi story, even though Didi Reels hold viewers longest and holiday Reels are peaking. Total 1054."
+  },
+  {
+   "date": "2026-11-16 00:46",
+   "note": "Run 241 (TRENDS (December calendar: Wrapped week, retro holiday dance, the Shorts heart button)): Spotify Wrapped is expected around Wednesday 2 Dec 2026, which floods Reels with year recaps, so a 'Bro Bros Wrapped' top 5 countdown joined the trend bank, as did a wobbly retro piano dance inspired by last December's Peanuts dance revival (our own tune and characters only). Shorts now show a heart instead of like and dislike, and 'Not interested' asks for reasons. Total 1058."
   }
  ],
  "history": [
@@ -8753,6 +8781,10 @@
   {
    "date": "2026-11-16 00:45",
    "total": 1054
+  },
+  {
+   "date": "2026-11-16 00:46",
+   "total": 1058
   }
  ],
  "next_week_ideas": [
@@ -8887,6 +8919,18 @@
    "use": "A 2 by 2 grid: Big Bro, Little Bro and two friends each sing one line of our own simple winter round, entering one after another until all four sing together; kids at home can pick a square and join. No dance needed, just smiles, sways and a final group wave."
   },
   {
+   "name": "Year in songs recap",
+   "where": "Reels and TikTok every Wrapped week (Spotify Wrapped expected about Wed 2 Dec 2026; past drops 3 Dec 2025, 4 Dec 2024)",
+   "status": "seasonal",
+   "use": "A 'Bro Bros Wrapped' Reel: a countdown of our top 5 songs of the year (5 to 1), two seconds of each chorus with a big number card, the Bros cheering at No. 1, then 'Which was YOUR favourite?' for parents to answer. Uses only our own songs."
+  },
+  {
+   "name": "Wobbly retro holiday piano dance",
+   "where": "TikTok (Peanuts style go go dance revival before the yearly holiday special, 4.3M view video, Dec 2025)",
+   "status": "seasonal",
+   "use": "We never use the Peanuts characters or theme; the Bros and friends do a happy, slightly awkward retro dance to our own jazzy piano Christmas tune. Meshy steps: standing in place, head tilted up, bob head side to side, elbows bent and swinging forward and back, small shuffle steps left and right, then one arm up and sway."
+  },
+  {
    "name": "Advent calendar daily series",
    "where": "TikTok, Reels, Shorts (every December)",
    "status": "seasonal",
@@ -8915,18 +8959,6 @@
    "where": "TikTok, Instagram and YouTube every December (parents play an 'elf stuck in the TV' video before kids wake up; 10 hour versions on YouTube)",
    "status": "seasonal",
    "use": "Our own original helper elf (not the branded one) or Little Bro appears 'stuck inside the TV', taps on the glass and asks kids to help him out by singing and doing three moves (clap, jump, spin) with our own song; at the end he pops out. Make a short version for Shorts and a long calm loop for the living room TV in December."
-  },
-  {
-   "name": "Full chorus dance challenge",
-   "where": "Reels and TikTok K-pop challenges (TUIDE's SUN KISS and GRLS, 160K+ TikToks, Reels Rising Audio top 6, Sep 2026)",
-   "status": "evergreen",
-   "use": "Instead of a 10 second move, teach the whole chorus of a Bro Bros song as one relaxed, bouncy routine (about 30 seconds) and post a 'learn the chorus' tutorial Short plus a 'do it with us' version. Meshy steps: standing in place, easy bounce on the knees on every beat, step touch right and left, roll both arms forward, point up on the hook word, turn to the side and wave, end with a pose. Laid back house style groove at about 115 to 122 BPM in our own song."
-  },
-  {
-   "name": "My brother is always dancing",
-   "where": "TikTok ('my boyfriend's always dancing' audio, B&T, 2 Nov 2026)",
-   "status": "rising",
-   "use": "Kid safe sibling version: Big Bro tries to do something normal (brush teeth, pour cereal, put on shoes) and Little Bro keeps popping into the frame doing a silly dance to our own song; text 'my brother is ALWAYS dancing'. Ends with both dancing. Meshy step: standing in place, side to side bounce with arms waving loosely, quick wiggle, then pointing at the camera."
   },
   {
    "name": "Mystery box reveal",
