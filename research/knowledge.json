@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:37:20+05:30",
- "runs": 76,
+ "updated": "2026-11-15T18:38:36+05:30",
+ "runs": 77,
  "branches": [
   {
    "id": "platforms",
@@ -1910,6 +1910,48 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 74
+    },
+    {
+     "t": "Blender 5.1 Eevee compiles cold shaders about 25 to 50% faster and uses 30 to 40% less texture memory, and new light path intensity controls rebalance direct and bounce light without raising samples, so a weekly batch of 14 songs renders quicker in Eevee.",
+     "src": "CG Channel, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 77
+    },
+    {
+     "t": "Blender 5.1 adds a Graph Editor Gaussian smoothing modifier that smooths animation curves non destructively, a quick fix for jittery hands and feet in Meshy dance clips before rendering.",
+     "src": "CG Channel, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 77
+    },
+    {
+     "t": "Blender 5.1 evaluates actions and shape keys about 2.3 times faster on heavy rigs, so several dancing characters in one scene stay responsive in the viewport.",
+     "src": "CG Channel, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 77
+    },
+    {
+     "t": "Blender 5.1's new Eevee Raycast node enables toon shading, X ray and decal projection looks but is expensive, so bake its result or use it only on hero shots.",
+     "src": "CG Channel, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 77
+    },
+    {
+     "t": "Since Blender 5.0 the hair resolution attribute is respected, so a default fur setup renders about 15 times more strands than in 4.5; lower it on any plush or furry friend to keep render times down.",
+     "src": "Blender release notes, Nov 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 77
+    },
+    {
+     "t": "Meshy Edit (Oct 2026) changes only one selected part of an untextured Meshy 6 or 7 model from a text prompt or reference image, an easy way to give the Bros seasonal outfits (Santa hats, raincoats, Diwali kurtas) without rebuilding them.",
+     "src": "Meshy changelog, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 77
     }
    ]
   },
@@ -3253,6 +3295,10 @@
   {
    "date": "2026-11-15 18:37",
    "note": "Run 76 (music craft (Suno v6, infant pitch study)): Suno v6 (Sep 2026) lets us rewrite one section or one lyric line in plain words instead of regenerating, and older models are being retired. The Vienna eLife infant study found higher pitches drew more movement at 3, 6 and 12 months; a Bond University study found 4 to 6 year olds focused faster after slow tempo music. Total 409."
+  },
+  {
+   "date": "2026-11-15 18:38",
+   "note": "Run 77 (visual craft (Blender 5.1 and Meshy tools)): Blender 5.1 speeds up Eevee shader compiles 25 to 50% and action playback about 2.3 times, adds a Raycast node for toon effects and a Gaussian smoothing modifier that can clean jittery Meshy dance curves; Blender 5.0 fur now renders far more strands by default. Meshy Edit (Oct 2026) changes one selected part of a model from a text prompt, useful for seasonal outfits. Total 415."
   }
  ],
  "history": [
@@ -3559,6 +3605,10 @@
   {
    "date": "2026-11-15 18:37",
    "total": 409
+  },
+  {
+   "date": "2026-11-15 18:38",
+   "total": 415
   }
  ],
  "next_week_ideas": [
