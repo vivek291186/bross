@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:50:04+05:30",
- "runs": 124,
+ "updated": "2026-11-15T19:50:49+05:30",
+ "runs": 125,
  "branches": [
   {
    "id": "platforms",
@@ -3142,6 +3142,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 114
+    },
+    {
+     "t": "Sinterklaas arrived in Amsterdam on Sun 15 Nov 2026 and gift evening (pakjesavond) is 5 Dec: Dutch and Belgian children put a shoe out at night with a wish list or drawing and a carrot for the horse, sing songs and get spiced pepernoten biscuits and chocolate letters of their initial; a shoe, carrot and biscuit counting song fits without using his helper characters, which are a sensitive topic.",
+     "src": "amsterdamexperiences.nl, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 125
+    },
+    {
+     "t": "The UAE celebrates its 55th National Day (Eid Al Etihad) on Wed 2 and Thu 3 Dec 2026; schools mark it with flag colours (red, green, white, black) and traditional dress, so a flag colours dance Short posted on 29 or 30 Nov suits Gulf families.",
+     "src": "khaleejtimes.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 125
+    },
+    {
+     "t": "Dongzhi, the Chinese winter solstice festival, falls on Tue 22 Dec 2026: families gather at home and make tangyuan, sweet rice dough balls in white and lucky pink, a ready made counting, colours and rolling action song for China, Taiwan, Hong Kong, Singapore and Malaysia.",
+     "src": "publicholidays.sg, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 125
+    },
+    {
+     "t": "Between 29 Nov and 22 Dec the global calendar stacks small home rituals kids act out: leaving shoes out (Sinterklaas 5 Dec, St Nicholas 6 Dec), lighting candles (Advent from 29 Nov, Hanukkah 4 to 12 Dec), rolling sweets (Dongzhi 22 Dec); one 'put out, wait, surprise' song pattern can carry several of them without religion heavy lyrics.",
+     "src": "amsterdamexperiences.nl / publicholidays.sg, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 125
     }
    ]
   },
@@ -4194,10 +4222,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 17:01",
-   "note": "Run 46 (algorithm experiments and data): Buffer's July 2026 study of 1.8M videos: long form gets the most engagement on Sunday mornings (10 AM local best, 8 to 11 AM window) and least on Wednesday and Thursday; Shorts peak Friday 4 to 7 PM and evenings; for living room kids viewing, 20 to 30 minute themed compilations, 3 to 4 episode mini arcs, 4K and thumbnails readable across a room are advised. Total 288."
-  },
-  {
    "date": "2026-11-15 17:02",
    "note": "Run 47 (rules, safety and monetisation): YouTube Music began labelling songs made primarily with generative AI on 14 Oct 2026 (main app to follow), and a label alone does not change recommendations or monetisation on YouTube; Spotify and Deezer do push AI tagged tracks out of recommendations. Suno songs are monetisable only if made on a paid plan, and downloads are being capped, so final audio should be backed up. Total 293."
   },
@@ -4508,6 +4532,10 @@
   {
    "date": "2026-11-15 19:50",
    "note": "Run 124 (visual craft (pacing ratings and slow content guidance)): Common Sense now rates kids videos for 'attention capture' with a flicker score of cuts, colour flashes and sudden motion (Bluey low at about 45K, a Vlad and Niki video very high at about 431K) and advises low or medium for under 5s. The UK's first national guidance for under 5s (27 Mar 2026) says 2 to 5s should have at most an hour a day of slow paced content and that co viewing is best. Our 3 to 6 second calm cuts fit. Total 586."
+  },
+  {
+   "date": "2026-11-15 19:50",
+   "note": "Run 125 (topics and seasons (Sinterklaas, UAE National Day, Dongzhi)): Next four weeks: Sinterklaas arrived in Amsterdam today (15 Nov) and gift evening is 5 Dec (shoes by the door, a carrot for the horse, spiced biscuits, chocolate letters); the UAE marks its 55th National Day on 2 and 3 Dec; the Chinese winter solstice festival Dongzhi falls on Tue 22 Dec, when families roll pink and white sweet rice balls (tangyuan), a natural counting and colours song for China, Taiwan, Singapore and Malaysia. Total 590."
   }
  ],
  "history": [
@@ -5006,13 +5034,13 @@
   {
    "date": "2026-11-15 19:50",
    "total": 586
+  },
+  {
+   "date": "2026-11-15 19:50",
+   "total": 590
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "My Turn, Your Turn!",
-   "why": "Sharing and taking turns is BabyBus's newest 54M view breakout; the Bros pass a ball, a swing and a drum back and forth to a call and answer chorus."
-  },
   {
    "title": "Hello, Hola, Namaste!",
    "why": "World Hello Day is 21 Nov: the Bros wave and say hello in eight languages with one simple dance move each, a greeting song that travels to every market."
@@ -5064,6 +5092,10 @@
   {
    "title": "Everybody Dance, It's Party Day!",
    "why": "Super Simple's biggest new song of 2026 is a celebration song; an original Bro Bros party anthem with clap, spin and freeze moves suits birthdays, New Year and every culture's festivals."
+  },
+  {
+   "title": "Roll, Roll, Little Rice Balls",
+   "why": "Dongzhi on 22 Dec has families rolling pink and white sweet rice balls; a counting and colours action song (roll, pop, plop in the bowl) is fresh, cosy and travels across East and Southeast Asia."
   }
  ]
 }
