@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:56:27+05:30",
- "runs": 158,
+ "updated": "2026-11-15T20:57:12+05:30",
+ "runs": 159,
  "branches": [
   {
    "id": "platforms",
@@ -755,6 +755,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 154
+    },
+    {
+     "t": "Custom Shorts thumbnails (rolling out from 25 Jul 2026, desktop, Partner Program first) appear on Home and the channel's Shorts tab but not in the Shorts feed, where YouTube says 99.9% of Shorts views come from, and they are excluded from A/B testing, so the first frame still matters far more than the thumbnail.",
+     "src": "ppc.land, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 159
+    },
+    {
+     "t": "Shorts reached 2 billion watch hours a month on TV screens (YouTube, Jun 2026), where browsing is thumbnail led, so a clear custom thumbnail on our best Shorts helps families pick them on the living room TV.",
+     "src": "ppc.land, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 159
+    },
+    {
+     "t": "Instagram's First Draft (iOS, Aug 2026) turns selected clips into a finished, fully editable Reel in seconds by picking highlights automatically, a quick way to test an extra Reel cut of a song's best moments without new editing work.",
+     "src": "digitaltrends.com, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 159
     }
    ]
   },
@@ -3275,6 +3296,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 157
+    },
+    {
+     "t": "Shorts thumbnails do not show as 9:16 everywhere; the safe area is about 3:2, so the Bros' faces and any words must sit in the middle of the frame, away from the top and bottom edges.",
+     "src": "ppc.land, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 159
     }
    ]
   },
@@ -5052,11 +5080,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 16 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:47",
-   "note": "Run 80 (competitor deep dive (ChuChu TV, Kids Diana Show)): ChuChu TV's main channel sits at 98.2M subscribers with no growth in 28 days, but a 30 minute classics compilation (109M views) still earns about 1,000 views an hour while new story cartoons and animal compilations get 0.2 to 0.4M. Kids Diana Show (138M) showed zero YouTube subscriber growth in Oct 2026 despite about 5 posts a week. Total 428."
+   "note": "Earlier runs summarised: 17 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:47",
@@ -5369,6 +5393,10 @@
   {
    "date": "2026-11-15 20:56",
    "note": "Run 158 (YouTube algorithm (YouTube Kids search and voice, Shorts to song links)): YouTube Kids search results are picked by algorithm without human review and mix in recommendations from the child's history; parents can switch search off, which limits the child to verified channels, and toddlers search by voice on phones and TVs, so song names should be easy words a child can say. Spotter's data: linking Shorts to a closely matching long video lifts long views 10 to 20%, most from Shorts posted within 3 days. Total 709."
+  },
+  {
+   "date": "2026-11-15 20:57",
+   "note": "Run 159 (Shorts and Reels (Shorts thumbnails, Instagram First Draft)): Custom Shorts thumbnails (since 25 Jul 2026, desktop, Partner channels) show on Home and the channel's Shorts tab but never in the Shorts feed, where 99.9% of Shorts views happen, and they cannot be A/B tested; their real use is TV browsing, where Shorts reach 2B watch hours a month. Instagram's iOS First Draft tool (Aug 2026) auto cuts raw clips into a Reel. Total 713."
   }
  ],
  "history": [
@@ -6003,6 +6031,10 @@
   {
    "date": "2026-11-15 20:56",
    "total": 709
+  },
+  {
+   "date": "2026-11-15 20:57",
+   "total": 713
   }
  ],
  "next_week_ideas": [
