@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:46:49+05:30",
- "runs": 120,
+ "updated": "2026-11-15T19:47:30+05:30",
+ "runs": 121,
  "branches": [
   {
    "id": "platforms",
@@ -1238,6 +1238,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 119
+    },
+    {
+     "t": "YouTube said at Made on YouTube (Sep 2026) that over 140M people used Ask YouTube in June; a custom Gemini model matches each question to the moment in a video that answers it, and clear timestamp chapters plus a detailed description are the signals YouTube itself recommends.",
+     "src": "uppbeat.io, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 121
+    },
+    {
+     "t": "YouTube's Gemini search reads speech, captions, on screen text, visuals and chapters as answer fragments, so in our songs the key topic words should be sung clearly (brush your teeth, wash your hands), shown as on screen labels and spelled right in captions, and each chapter of a compilation should make sense on its own.",
+     "src": "webiano.digital, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 121
+    },
+    {
+     "t": "Ask YouTube previews appear mainly for open ended, how to and skill questions, which for families means routine help ('song to help toddler sleep', 'learn colours song'), so routine and learning songs are the ones AI search can surface.",
+     "src": "uppbeat.io, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 121
     }
    ]
   },
@@ -4076,7 +4097,7 @@
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; every week make at least one healthy habit song led by a friendly helper mascot (brush teeth for two minutes, wash hands) and one sharing or taking turns song, the topics behind this autumn's biggest kids breakouts.",
   "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak, a direct action call or a tiny mystery question ('Who took the cookie?'), with motion or text in the first half second; make each Short a new cut with its own hook that loops back to the start; keep music Shorts about 30 to 40 s and set each Short's related video link to its full song.",
   "Thumbnails: one happy Bro face cropped big (about 40% of the frame height), one clear action, one recognisable object, high contrast with a warm accent on a plain bright background (red and white or blue and orange), max 3 outlined words kept out of the bottom right corner; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
-  "Weekly long form: one 20 to 30 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday; make the 25 Dec and 1 Jan Fridays holiday mega mixes; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
+  "Weekly long form: one 20 to 30 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday, with a timestamp chapter per song named in the plain words parents search ('Brush Teeth Song', 'Dinosaur Stomp'); make the 25 Dec and 1 Jan Fridays holiday mega mixes; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels.",
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
   "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny chantable nonsense word kids can shout; on Instagram post fewer, better Reels (the best 1 or 2 songs a day), captions as one keyword sentence plus a question to parents and at most 2 hashtags; group Shorts of one song family into a YouTube Shorts series and test two hooks per song with Trial Reels after 1,000 followers.",
@@ -4087,10 +4108,6 @@
   {
    "date": "2026-11-15 16:59",
    "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 16:59",
-   "note": "Run 42 (visual craft): Disney's Sofia the First: Royal Magic (May 2026) swapped flat toon shading for dappled cinematic lighting and its biggest CG set, with 11 minute heartfelt episodes for kids and parents; Lingokids' design rules: calmer, softer tones for babies, primary colours for preschoolers, rounded plush shapes, and pairing each visual with a sound so kids recognise it again. Total 271."
   },
   {
    "date": "2026-11-15 17:00",
@@ -4403,6 +4420,10 @@
   {
    "date": "2026-11-15 19:46",
    "note": "Run 120 (Shorts and Reels (Shorts money for kids channels, Reels length guide)): AIR's 274 channel study (Sep 2026): kids Shorts were monetised on about 46% of playbacks against only 12% for made for kids long videos, and big kids channels posting 21+ Shorts a month take about 41% of revenue from Shorts, unlike most niches where Shorts earn under 2%. Instagram's own Reels guide calls 15 to 60 seconds the main sweet spot; a duet style turn taking lip sync is a top TikTok format this week. Total 571."
+  },
+  {
+   "date": "2026-11-15 19:47",
+   "note": "Run 121 (YouTube algorithm (Ask YouTube and Gemini search)): Ask YouTube had over 140M users in June 2026 and its Gemini model matches a question to the exact moment in a video, with chapters the biggest help; speech, captions and on screen labels feed it too. Playbook: every compilation gets a chapter per song named in parents' search words. Total 574."
   }
  ],
  "history": [
@@ -4885,6 +4906,10 @@
   {
    "date": "2026-11-15 19:46",
    "total": 571
+  },
+  {
+   "date": "2026-11-15 19:47",
+   "total": 574
   }
  ],
  "next_week_ideas": [
