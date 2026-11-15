@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:06:22+05:30",
- "runs": 230,
+ "updated": "2026-11-16T00:07:05+05:30",
+ "runs": 231,
  "branches": [
   {
    "id": "platforms",
@@ -972,6 +972,20 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 219
+    },
+    {
+     "t": "Socialinsider's study of about 9.8M organic brand Reels (Jan to Jun 2026) found 45 to 60 second Reels got the highest median views (about 10,400) and engagement (0.35%), 30 to 45 seconds about 8,600, under 30 seconds only about 4,700, and Reels over 3 minutes fell to about 4,400 views and 0.15%.",
+     "src": "Socialinsider, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 231
+    },
+    {
+     "t": "An Adobe survey of 507 Shorts creators (Mar 2026) found 53% say Shorts under 30 seconds get the most views and 49% say they drive more clicks to long videos, while subscriber growth was tied between under 30 and 30 to 60 seconds.",
+     "src": "Adobe Express, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 231
     }
    ]
   },
@@ -6579,6 +6593,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 230
+    },
+    {
+     "t": "So one Bro Bros song needs two vertical cuts: a 20 to 30 second YouTube Short built around the chorus and dance hook, and a fuller 45 to 60 second Instagram Reel with verse plus chorus, rather than posting the identical clip on both.",
+     "src": "Socialinsider and Adobe, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 231
     }
    ]
   },
@@ -7103,11 +7124,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 151): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:50",
-   "note": "Run 152 (global markets (Vietnam, the biggest dubbing gap)): Vietnamese kids songs are dominated by foreign brands in local dub: BabyBus's Vietnamese channel has 9.75M subscribers and 11B views and still adds 70 to 115M views a month, next to Vlad and Niki's 46.6M Vietnamese copy, and it is the only kids song channel in Vietnam's daily education top 20. Vietnam's parliament is debating limits on minors' social media, following Australia, Indonesia and France. Total 687."
+   "note": "Earlier runs summarised (up to Run 152): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:51",
@@ -7420,6 +7437,10 @@
   {
    "date": "2026-11-16 00:06",
    "note": "Run 230 (algorithm experiments (video cut A/B tests and dynamic thumbnails: what is known)): Details of YouTube's coming video A/B tests: up to three full cuts of one video (for example different openings), judged on retention curves, with the creator choosing the winner; no date yet (title tests took 84 days from announcement to launch, which points to about mid December 2026). Dynamic thumbnails will keep up to three images live for different viewer groups. Made for kids access is unconfirmed, so we should prepare two openings per key song but not rely on the tool. Total 1001."
+  },
+  {
+   "date": "2026-11-16 00:07",
+   "note": "Run 231 (Shorts and Reels (best length by data: Reels 45 to 60 s, Shorts under 30 s)): Socialinsider's study of 9.8M brand Reels (Jan to Jun 2026) found 45 to 60 second Reels had the highest median views (about 10.4K) and engagement (0.35%), with sub 30 second Reels at less than half the views and over 3 minute Reels collapsing. Adobe's survey of 507 Shorts creators (Mar 2026) found most say under 30 seconds performs best for views and click throughs to long videos. Total 1004."
   }
  ],
  "history": [
@@ -8342,6 +8363,10 @@
   {
    "date": "2026-11-16 00:06",
    "total": 1001
+  },
+  {
+   "date": "2026-11-16 00:07",
+   "total": 1004
   }
  ],
  "next_week_ideas": [
