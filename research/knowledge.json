@@ -339,9 +339,9 @@
    ]
   },
   {
-   "id": "india",
-   "name": "India market",
-   "icon": "flag",
+   "id": "markets",
+   "name": "Global markets",
+   "icon": "globe",
    "leaves": [
     {
      "t": "Infobells (Hindi, Tamil, Telugu channels) and ChuChu TV lead Indian kids content; Hindi rhymes like Lakdi Ki Kathi have 4B views.",
@@ -363,6 +363,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 1
+    },
+    {
+     "t": "The audience is global: the most-viewed kids channels reach every region by dubbing into many languages (Kids Diana Show alone runs Spanish, Hindi, Arabic, Portuguese, Indonesian, Japanese and German versions).",
+     "src": "AIR Media-Tech, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 2
     }
    ]
   },
@@ -422,7 +429,7 @@
   "Add a half-step key lift for the final chorus.",
   "Keep cuts calm (3-6 s), avoid flashing lights and sudden loud sounds; bright rounded visuals.",
   "Hide a learning point in each song (counting, colours, routine, safety) and say it in the description.",
-  "Plan Hindi versions of the best songs; regional dubbing is the biggest proven growth lever.",
+  "Plan dubbed versions of the best songs for the biggest kids markets (Spanish, Portuguese, Hindi, Indonesian, Arabic); multi-language audio is the biggest proven growth lever.",
   "Make long compilations of the week's songs for evergreen views.",
   "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles.",
   "Open every Short and Reel on the most exciting moment (the hook line plus big dance move) in the first second; no title cards first.",
@@ -446,7 +453,7 @@
   },
   {
    "date": "2026-11-15 15:40",
-   "total": 50
+   "total": 51
   }
  ]
 }
