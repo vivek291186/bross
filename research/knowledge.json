@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:38:56+05:30",
- "runs": 284,
+ "updated": "2026-11-16T03:39:52+05:30",
+ "runs": 285,
  "branches": [
   {
    "id": "platforms",
@@ -3198,6 +3198,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 282
+    },
+    {
+     "t": "Pinkfong launched 'Baby Shark Boy' in Aug 2026 with the single 'WAVE', which opens on the familiar Baby Shark melody and grows into upbeat electropop with trap beats and a featured K-pop rapper, plus a point choreography that nods to the original dance but stays easy to follow, a way to keep kids who have outgrown nursery songs.",
+     "src": "Sports Kyunghyang, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 285
+    },
+    {
+     "t": "Pinkfong's new Baby Shark musical (2 Dec 2026 to 28 Mar 2027, Seoul) has no seats: children roam seven themed zones, join missions, hold colour changing microphones and their voices become part of the music, and the story is about recovering a lost rhythm and melody, showing that 'help us fix the song' participation is the brand's next step.",
+     "src": "Sports Kyunghyang, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 285
+    },
+    {
+     "t": "Skyship's Super Simple brand turned 20 in Aug 2026 with more than 70M YouTube subscribers and over 90B views, and still describes itself as teachers writing simple songs to help children learn English, which is why parents and teachers worldwide use it for language learning, movement and emotions.",
+     "src": "YouTube Official Blog, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 285
     }
    ]
   },
@@ -4010,6 +4031,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 281
+    },
+    {
+     "t": "Pinkfong's 'WAVE' shows a reuse trick for our own catalogue: open a new, more grown up song with a short quote of our best known melody, then switch to a modern dance beat, so returning viewers recognise it in the first seconds.",
+     "src": "Sports Kyunghyang, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 285
     }
    ]
   },
@@ -8671,11 +8699,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 205): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:45",
-   "note": "Run 206 (music craft (other platforms charts already in the tree, so switched: the Bluey composer's songwriting tricks)): Netflix, iTunes kids and Roblox findings this week were already in the tree, so this round studied Bluey composer Joff Bush: clarity above everything (modelled on The Wiggles), rests and pauses as a freeze game cue, a theme built on melodica and handclaps with no drums or steady beat, warm handmade imperfections, and Dance Mode at about 120 BPM with low intensity. Total 904."
+   "note": "Earlier runs summarised (up to Run 206): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:46",
@@ -8988,6 +9012,10 @@
   {
    "date": "2026-11-16 03:38",
    "note": "Run 284 (global markets (Vietnam and Nigeria)): Vietnam's first billion view music video is a kids song about a mother duck and five ducklings sung by a three year old (Heo Con, about 40 videos, each under five minutes), and other kids songs fill the next places, while POPS Kids passed 20M subscribers. Nigeria's YouTube watch time grew over 50% in a year but pays only 0.5 to 2.5 USD per 1,000 views, and views from the US, UK and Canada are the growth lever. Total 1225."
+  },
+  {
+   "date": "2026-11-16 03:39",
+   "note": "Run 285 (competitor deep dive (Pinkfong's Baby Shark Boy and sing along musical, Super Simple at 20)): Pinkfong is ageing its brand up with Baby Shark Boy's K-pop style debut single 'WAVE' (starts with the Baby Shark tune, grows into electropop with trap beats and an easy point dance) and opens an audience participation musical on 2 Dec where kids' voices and moves become part of the show. Super Simple turned 20 in Aug 2026 with over 70M subscribers and 90B views across Skyship's channels, still rooted in teachers writing simple songs for English learners. Total 1229."
   }
  ],
  "history": [
@@ -10126,9 +10154,17 @@
   {
    "date": "2026-11-16 03:38",
    "total": 1225
+  },
+  {
+   "date": "2026-11-16 03:39",
+   "total": 1229
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Help Us Fix the Song!",
+   "why": "Pinkfong's new musical is built on kids helping recover a lost melody; a song where the Bros' music box breaks and viewers clap, stomp and sing each missing part back (with pauses to join in) turns passive watching into play and invites co viewing."
+  },
   {
    "title": "Hands Up, Bro Bros! (K-pop Style Kids Anthem)",
    "why": "K-pop is Gen Alpha's second favourite genre and idol x kids brand dance challenges keep working; an original bright K-pop flavoured song with a 4 move point choreography (point up, clap twice, side step, heart hands) gives a learnable full dance kids can copy in groups."
@@ -10180,10 +10216,6 @@
   {
    "title": "Open the Door, What's Inside? (Advent Dance)",
    "why": "Advent calendar countdowns run all over TikTok and Reels every December; one door a day with one new move builds a 24 part Shorts series that keeps kids coming back daily and ends in a full family routine on Christmas Eve."
-  },
-  {
-   "title": "Layer Up, Layer Up!",
-   "why": "The fixed camera outfit change is rising on Reels; a winter song where every clap adds a hat, scarf, mittens and boots teaches clothing words, is easy to copy at home and fits the cold half of the world from December to February."
   }
  ],
  "trend_bank": [
