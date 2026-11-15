@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:39:30+05:30",
- "runs": 172,
+ "updated": "2026-11-15T21:40:42+05:30",
+ "runs": 173,
  "branches": [
   {
    "id": "platforms",
@@ -2918,6 +2918,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 161
+    },
+    {
+     "t": "DreamWorks Animation's TV music head (Gabby's Dollhouse) says kids songs should sound like current top 40 radio hits, not be dumbed down: a repeatable hook, contemporary pop production with only a sprinkle of kids instruments, and genre freedom (disco, funk, rock) so parents enjoy it too.",
+     "src": "awn.com, Mar 2024",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 173
+    },
+    {
+     "t": "Gabby's Dollhouse keeps dialogue, sound effects and songs on one cohesive sound and makes each theme recognisable from the instrumental alone, so a Bro Bros signature riff or chant that runs through every song would build instant recognition.",
+     "src": "awn.com, Mar 2024",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 173
+    },
+    {
+     "t": "The PAW Patrol theme writers (Smidi Smith and Scott Krippayne, 130+ Blaze songs) write songs for family transition times (getting ready, leaving the park, bedtime), take ideas from kids and parents, and play every song to children before release.",
+     "src": "bmi.com, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 173
+    },
+    {
+     "t": "A Finnish study of 103 four year olds (Frontiers in Psychology, Feb 2026) found music playschool attendance helped word generation most for children who got the least music at home, hinting that sing along songs give the biggest language lift to kids with little music in daily life.",
+     "src": "frontiersin.org, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 173
     }
    ]
   },
@@ -5430,11 +5458,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 30 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:58",
-   "note": "Run 94 (rules and safety (AI slop enforcement, India DPDP)): YouTube's January 2026 purge terminated 16 mass AI channels (35M subscribers, 4.7B views); enforcement looks at a channel's recent uploads as a pattern, and faceless channels report collateral demonetisation, while niche learning channels held up better. Studies found 21 to 40% of recommendations after preschool videos were AI slop, and 230 experts asked YouTube to ban AI from YouTube Kids. India's DPDP rules treat everyone under 18 as a child and bar tracking and targeted ads to them. Total 480."
+   "note": "Earlier runs summarised: 31 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:58",
@@ -5747,6 +5771,10 @@
   {
    "date": "2026-11-15 21:39",
    "note": "Run 172 (other platforms (screen free audio use, TikTok partner dance games)): Netflix and Tonies data were mostly in the tree already. New: Tonies says kids use its players almost 40 minutes a day and it has sold about 12M players and 150M figures in 10 years, so audio only versions of our songs have a real home; TikTok's October Find the Beat challenge is a partner dance test that suits two brothers. Total 762."
+  },
+  {
+   "date": "2026-11-15 21:40",
+   "note": "Run 173 (music craft (hit kids show songwriters)): DreamWorks' TV music head says Gabby's Dollhouse songs are produced to sound like current top 40 pop, pairing a few kids instruments with modern production and a hook recognisable from the instrumental alone. The PAW Patrol theme writers write for family transition moments and test every song on children before release. Total 766."
   }
  ],
  "history": [
@@ -6437,6 +6465,10 @@
   {
    "date": "2026-11-15 21:39",
    "total": 762
+  },
+  {
+   "date": "2026-11-15 21:40",
+   "total": 766
   }
  ],
  "next_week_ideas": [
