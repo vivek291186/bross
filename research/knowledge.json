@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:39:45+05:30",
- "runs": 68,
+ "updated": "2026-11-15T17:40:29+05:30",
+ "runs": 69,
  "branches": [
   {
    "id": "platforms",
@@ -790,6 +790,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 58
+    },
+    {
+     "t": "In the same network the Shorts feed went from 6.6% to 81.8% of traffic and Search fell from 31.9% to 6.5%, and revenue rose 386% against 1140% for views: a Shorts surge brings reach far faster than money, so long songs and compilations still carry earnings.",
+     "src": "air.io, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 69
+    },
+    {
+     "t": "The network's Q4 playbook was a full quality audit, a review of every upload as it went live, more posting ahead of the New Year holidays and a harder Shorts push on every channel; late November to early January is the window to raise output.",
+     "src": "air.io, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 69
+    },
+    {
+     "t": "Azooz and Jude (kids characters, 265K subs) grew views 51% and revenue 140% in Q4 2025 by posting on a predictable schedule with no gaps, upgrading to 4K, using one consistent structure for titles, descriptions and tags, and adding compilations to lengthen sessions.",
+     "src": "air.io, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 69
     }
    ]
   },
@@ -2253,6 +2274,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 67
+    },
+    {
+     "t": "In an AIR case (Q4 2025 against Q3) a localised kids network grew from 24M to 299M views; its Brazilian Portuguese channel jumped from 13.5M to 278.6M views (+1962%, 93% of the network), Spanish +703% and Hindi +216%, while the English channel fell 7%, so Portuguese Shorts can be a breakout market for a kids brand.",
+     "src": "air.io, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 69
     }
    ]
   },
@@ -2997,6 +3025,10 @@
   {
    "date": "2026-11-15 17:39",
    "note": "Run 68 (competitor deep dive (Dave and Ava, Hogi)): Dave and Ava (3D rhymes, 15.9M subs) gained no subscribers in 2026 and only about 40 to 57M views a month, its top videos still 2021 Halloween compilations. Pinkfong's Hogi (16.7M) earns about 260M a month from colour learning with candy and toy objects (Pop It colours 306M) and a Roar Dino Special (95M); its newest Short is a dinosaur egg reveal. Total 377."
+  },
+  {
+   "date": "2026-11-15 17:40",
+   "note": "Run 69 (algorithm experiments and data (localised networks, Q4 pushes)): AIR case: a kids network in English, French, Spanish, Hindi and Brazilian Portuguese grew views from 24M to 299M in Q4 2025 after quality audits, more holiday posting and a Shorts push; the Portuguese channel alone went from 13.5M to 278.6M and Shorts feed traffic rose from 7% to 82%, while revenue grew less than views. Azooz and Jude grew revenue 140% with a gap free schedule, 4K, consistent titles and compilations. Total 381."
   }
  ],
  "history": [
@@ -3271,6 +3303,10 @@
   {
    "date": "2026-11-15 17:39",
    "total": 377
+  },
+  {
+   "date": "2026-11-15 17:40",
+   "total": 381
   }
  ],
  "next_week_ideas": [
