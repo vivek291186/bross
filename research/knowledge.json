@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:42:24+05:30",
- "runs": 317,
+ "updated": "2026-11-16T04:43:31+05:30",
+ "runs": 318,
  "branches": [
   {
    "id": "platforms",
@@ -9358,6 +9358,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 315
+    },
+    {
+     "t": "The '1000 little things' TikTok trend (from 17 Jul 2026) shows one small thing you love as text on a solid colour card, then a quick montage of matching pictures; single copies passed 235K to 744K views in two to four days, an easy, gentle format for kids.",
+     "src": "Know Your Meme, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 318
+    },
+    {
+     "t": "Gratitude is making a comeback on TikTok through 'what a privilege...' posts that turn chores into thankful moments (a warm bed, dishes after a family meal), a mood that fits Thanksgiving week and New Year kids content.",
+     "src": "The Everygirl, The Guardian, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 318
+    },
+    {
+     "t": "A wholesome call and response format has a parent start an old harsh saying and the child finish it with a kind ending; one video passed about 10M views, which supports 'finish the line' pauses in our songs where kids shout the happy ending.",
+     "src": "Goodnet, Jun 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 318
+    },
+    {
+     "t": "As of 9 Nov 2026 Spotify had not announced Wrapped 2026; past launches fell between late November and early December with a teaser a day or two before, and estimates point to about 2 Dec, so a 'Bro Bros year in songs' recap Short should be ready by 1 Dec.",
+     "src": "Mixvale, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 318
     }
    ]
   }
@@ -9386,10 +9414,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:44",
-   "note": "Run 239 (rules and safety (Indonesia's under 16 rule, US kids privacy bills and state age checks)): After a reprimand in April 2026, Google committed to a minimum YouTube account age of 16 in Indonesia under PP Tunas, removing under 16 accounts and cutting ads aimed at children, so Indonesian kids now reach our songs through parents' devices. In the US, COPPA 2.0 passed the Senate and the KIDS Act passed the House but neither is law yet, while state app store and age check laws keep spreading into 2027. Total 1050."
   },
   {
    "date": "2026-11-16 00:45",
@@ -9702,13 +9726,13 @@
   {
    "date": "2026-11-16 04:42",
    "note": "Run 317 (visual craft (Blender 5.3 release, build the world before boarding, lo fi and hybrid 3D looks)): Blender 5.3 came out on 10 November with Vulkan by default, DLSS 4.5 denoised Cycles previews on NVIDIA and up to 2x compositor playback, but 5.2 LTS stays the safer production base. Max and the Midknights built its whole CG world before storyboarding so only working shots were boarded. Creative Bloq's 2026 list adds lo fi low poly 3D and hybrid flat 3D as rising looks. Total 1327."
+  },
+  {
+   "date": "2026-11-16 04:43",
+   "note": "Run 318 (TRENDS (gratitude formats before Thanksgiving, Spotify Wrapped timing)): Gratitude formats are back: the '1000 little things' text card plus montage trend (235K to 744K views in two to four days per copy) and 'what a privilege' chore reframes, plus kids kindly finishing old parenting lines (about 10M views on one video). Spotify had not dated Wrapped 2026 by 9 Nov; estimates point to about 2 Dec. A 'little things we love' format joined the trend bank. Total 1331."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 16:01",
-   "total": 168
-  },
   {
    "date": "2026-11-15 16:02",
    "total": 173
@@ -10904,6 +10928,10 @@
   {
    "date": "2026-11-16 04:42",
    "total": 1327
+  },
+  {
+   "date": "2026-11-16 04:43",
+   "total": 1331
   }
  ],
  "next_week_ideas": [
@@ -10965,6 +10993,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Little things we love",
+   "where": "TikTok ('1000 little things', since Jul 2026) and gratitude posts before Thanksgiving",
+   "status": "rising",
+   "use": "Solid colour card with one big word ('warm socks', 'puddles', 'Grandma's hugs', 'snow day'), then 2 seconds of the Bros enjoying it, card after card, over a soft original song about little things that make us happy; end with 'what's your little thing?' for kids to answer at home. Meshy prompt: standing, sway gently side to side, hug self, then clap hands softly."
+  },
   {
    "name": "It's freezing! step outside",
    "where": "TikTok and Reels each winter (NewEngen Dec 2025)",
@@ -11036,12 +11070,6 @@
    "where": "GivingTuesday 1 Dec 2026 and year end kindness posts (110+ countries)",
    "status": "seasonal",
    "use": "15 second Short for 1 Dec: Big Bro hands Little Bro a wrapped gift, Little Bro passes it to a friend, who passes it to a puppy, and so on in a quick chain on each beat of our own kindness chorus, ending with everyone hugging in a circle; caption 'Pass the kindness on'. Meshy prompt: standing in place, turn to the right and hold both hands out as if handing over a box, then clap twice."
-  },
-  {
-   "name": "Teacher joins the dance",
-   "where": "TikTok and Reels, evergreen (South Africa, India, US classroom dance clips)",
-   "status": "evergreen",
-   "use": "In a cartoon classroom the Bros and friends start our new song's signature move; their original teacher character pretends to be strict, then copies the move perfectly on the beat drop and everyone cheers. Meshy prompt for the teacher: standing in place, arms crossed, then step side to side with arms swinging and finish with both hands raised."
   },
   {
    "name": "Growth stages montage",
