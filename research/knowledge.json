@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:05:32+05:30",
- "runs": 271,
+ "updated": "2026-11-16T02:06:11+05:30",
+ "runs": 272,
  "branches": [
   {
    "id": "platforms",
@@ -1056,6 +1056,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 267
+    },
+    {
+     "t": "Amazon Kids+ launched in Italy on 19 Oct 2026 for children aged 3 to 12 at 6.99 euros a month for Prime members (7.99 otherwise), ad free, with series, Kids+ Originals, full games without in app purchases and audiobooks, widening ad free subscription viewing in Europe.",
+     "src": "SmartWorld, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 272
+    },
+    {
+     "t": "In mid November 2026 only one holiday song sat in the iTunes kids top 20, so on kids download charts the Christmas wave starts later than on Reels, leaving room to land a holiday song in late November.",
+     "src": "PopVortex iTunes chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 272
     }
    ]
   },
@@ -8293,11 +8307,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 192): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:50",
-   "note": "Run 193 (TRENDS (November holiday formats, say the word on the beat)): November TikTok is already Christmas led: 'POV it's Nov 1st' tree set up speed edits, days until Christmas overlays, kitchen dances with 'It's NOVEMBER' text and one by one winter basket builds. The 'say the word on the beat' picture game (rhyming pictures, faster each round) is set to return for Christmas and suits kids perfectly; two kid safe versions joined the trend bank. Total 843."
+   "note": "Earlier runs summarised (up to Run 193): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:51",
@@ -8610,6 +8620,10 @@
   {
    "date": "2026-11-16 02:05",
    "note": "Run 271 (TRENDS (mid November formats: slow motion entrances, tiny item jokes, three move tutorials)): NewEngen's 13 Nov list adds a 'Pray For Me' slow motion format where friends glide into a wide shot one by one from different directions, and a US weekly tracker (about 15 Nov) shows group dances of two to four friends doing one easy repeated move (29.7M views), comically tiny everyday items (17.1M), escalating visual jokes and beginner tutorials of three clearly separated moves. Total 1171."
+  },
+  {
+   "date": "2026-11-16 02:06",
+   "note": "Run 272 (other platforms (Amazon Kids+ in Italy, iTunes kids chart recheck)): Amazon Kids+ launched in Italy on 19 Oct 2026 for ages 3 to 12 (about 7 to 8 euros a month, ad free, with originals, games and audiobooks), one more ad free subscription home for kids video in Europe. The iTunes kids chart this week still shows only one holiday song in its top 20, so the holiday wave on kids charts has not started yet. Total 1173."
   }
  ],
  "history": [
@@ -9696,6 +9710,10 @@
   {
    "date": "2026-11-16 02:05",
    "total": 1171
+  },
+  {
+   "date": "2026-11-16 02:06",
+   "total": 1173
   }
  ],
  "next_week_ideas": [
