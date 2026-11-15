@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:42:17+05:30",
- "runs": 245,
+ "updated": "2026-11-16T01:43:05+05:30",
+ "runs": 246,
  "branches": [
   {
    "id": "platforms",
@@ -4430,6 +4430,41 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 243
+    },
+    {
+     "t": "2026 licensing style trends favour K-pop and Korean inspired character art with big expressive eyes and emotion led design, which fits giving the Bros clearer, bigger facial reactions in close ups.",
+     "src": "Licensing Magazine, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 246
+    },
+    {
+     "t": "Other 2026 style directions are cosmic, iridescent 'friendly alien' looks and analogue miniature worlds such as dolls' houses and handmade crafts, both easy backdrops for a space song or a tiny toy town song in Blender.",
+     "src": "Licensing Magazine, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 246
+    },
+    {
+     "t": "In Eden's sample of 2,960 thumbnails, breakouts and underperformers had almost the same brightness (40.9 vs 40.5), contrast, saturation and warm colour share, so making a thumbnail brighter or more saturated alone does not win clicks; the concept and a clear moment do.",
+     "src": "eden.so, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 246
+    },
+    {
+     "t": "Shocked faces appeared in 11.7% of breakout thumbnails on channels over 100K subscribers but only 5.6% on smaller channels, so exaggerated surprise is a big channel habit rather than a proven trick for a new channel.",
+     "src": "eden.so, Aug 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 246
+    },
+    {
+     "t": "Studios report that 3D kids channels with full worlds, not just mascots, keep viewers longer, and that a 15 to 30 second character clip on Shorts only leads kids to full episodes when the character is strong and recognisable at a glance.",
+     "src": "Whizzy Studios, May 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 246
     }
    ]
   },
@@ -7635,11 +7670,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 166): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:08",
-   "note": "Run 167 (rules and monetisation (Gulf ad rates, duplicate cleanup)): FluxNote's (unsourced, low confidence) 2026 guide puts Gulf RPMs far above the rest of the region (Qatar 5 to 12 USD, UAE 4 to 10, Saudi and Kuwait 3 to 8 against Egypt 1 to 2 and Turkey 1 to 4), with kids content at roughly half and Ramadan and Q4 as peaks. Also trimmed a leaf from run 154 that repeated an earlier compilation finding. Total 738."
+   "note": "Earlier runs summarised (up to Run 167): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:35",
@@ -7952,6 +7983,10 @@
   {
    "date": "2026-11-16 01:42",
    "note": "Run 245 (music craft (slow tempo and attention, fast seasonal release, interactive songwriting)): A study of 4 to 6 year olds found reaction times were faster after slow music than after fast music with no change in mood, which supports a calm song before any learning part. Kidz Bop's songwriter says speed of release next to the original moment is core to its 14B streams, and Laurie Berkner's 2026 album treats interactivity and seated movement as part of writing the song. Total 1077."
+  },
+  {
+   "date": "2026-11-16 01:43",
+   "note": "Run 246 (visual craft (2026 style directions, thumbnail colour data, character clips)): Licensing Magazine's 2026 style trends point to Korean inspired big eyed, emotion led characters, iridescent space looks and miniature handmade worlds; Eden's 2,960 thumbnail sample found brightness, saturation, contrast and warm colour share almost identical between breakouts and flops, so the idea and short text matter more than turning colours up. Total 1082."
   }
  ],
  "history": [
@@ -8934,6 +8969,10 @@
   {
    "date": "2026-11-16 01:42",
    "total": 1077
+  },
+  {
+   "date": "2026-11-16 01:43",
+   "total": 1082
   }
  ],
  "next_week_ideas": [
