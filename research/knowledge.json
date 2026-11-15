@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:01:11+05:30",
- "runs": 300,
+ "updated": "2026-11-16T04:01:59+05:30",
+ "runs": 301,
  "branches": [
   {
    "id": "platforms",
@@ -8994,6 +8994,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 298
+    },
+    {
+     "t": "The ten fastest growing new Roblox games on 2 Nov 2026 were mostly pets and egg games (Break and Steal an Egg at 5.6M visits a day, Fake an Egg), a cat sumo battle game (3.9M a day), car football, bike and rally racing and a fries cooking game, plus one liminal pool horror game, so eggs, pets, cats, cars and cooking are what school age kids are playing with right now.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 301
+    },
+    {
+     "t": "Last holiday season 69% of US Gen Alpha children asked for gifts they first saw in online ads or creator content (half started before age 6), with YouTube the top influence at 56% ahead of TikTok at 22%, so December kids videos are watched with gift lists in mind and toy brand mentions must stay out of our made for kids songs.",
+     "src": "Greenbook, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 301
+    },
+    {
+     "t": "Short form video on TikTok, Shorts and Reels is now Gen Alpha's main media diet and they prefer interactive, gamified content with a feeling of direct contact with creators, which supports Bro Bros Shorts that talk to the viewer and ask them to play along.",
+     "src": "Greenbook, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 301
     }
    ]
   }
@@ -9021,11 +9042,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 221): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:58",
-   "note": "Run 222 (visual craft (our own tools: Meshy Text to Motion limits, Meshy changelog)): Studied our own animation tool: Meshy Text to Motion (added July 2026) makes 2 to 10 second clips from prompts up to 400 characters, in prime mode (10 credits, FBX) or swift mode (3 credits, BVH), files expire after 3 days, and the meshy-7 model stops for 3D generation on 31 Dec 2026. Long dances must be built from several short clips joined in Blender. No new animation features in Meshy's Aug to Sep changelog. Total 972."
+   "note": "Earlier runs summarised (up to Run 222): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:59",
@@ -9338,13 +9355,13 @@
   {
    "date": "2026-11-16 04:01",
    "note": "Run 300 (YouTube main channels (Keizo and Friends economics, upload pace vs pay per video)): Our own Metricool data was checked earlier today, so this round looked at channel movers. Indonesia's Keizo and Friends (started Dec 2022) has about 9.9M subscribers and 39.2B views from 1,998 uploads, adds about 1.65B views a month and its newest video drew 1.5M views in 14 hours, yet vidIQ models only about 9K USD a month. AIR's 282 channel study found large kids channels earn most in total at 16+ videos a month but only about 165 USD per video, against about 2,161 USD per video at one or two a month. Total 1275."
+  },
+  {
+   "date": "2026-11-16 04:01",
+   "note": "Run 301 (TRENDS (what kids play now: Roblox's fastest growing new games, Gen Alpha gift asks)): The ten fastest growing new Roblox games in early November 2026 lean on pets and egg stealing, a cat sumo game, car football, bike and rally racing and a fries cooking game (plus one horror pool game we avoid). Last holiday season 69% of US Gen Alpha asked for gifts they first saw in online ads or creator videos, with YouTube the top influence (56%). A hatch the egg format joined the trend bank. Total 1278."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:00",
-   "total": 38
-  },
   {
    "date": "2026-11-15 15:40",
    "total": 51
@@ -10540,9 +10557,17 @@
   {
    "date": "2026-11-16 04:01",
    "total": 1275
+  },
+  {
+   "date": "2026-11-16 04:01",
+   "total": 1278
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Beep Beep Car Football!",
+   "why": "Car football is among Roblox's fastest growing new games; a song where little toy cars push a giant ball into the goal, with 'beep, zoom, GOAL!' calls, joins two evergreen kid loves (vehicles and sport) with no brand needed."
+  },
   {
    "title": "Fix It, Fix It, Bro Bros Garage!",
    "why": "Bebefinn's newest car mechanic song pulled 133K views in 13 hours, proving pretend play jobs still pull; our own garage song where the brothers fix a squeaky toy car with a 'tap, twist, beep' action chorus fits ages 2 to 6 everywhere."
@@ -10594,13 +10619,15 @@
   {
    "title": "Highland Cow Hoedown",
    "why": "The shaggy highland cow is tipped as the next trendy kids' animal after capybaras and axolotls; a fluffy original cow friend teaching a simple stomp, clap and spin barn dance with the Bros rides the trend early with our own character."
-  },
-  {
-   "title": "It's Way Too Cold Today!",
-   "why": "Rhymington Square's 'It's Way Too Hot Today' hit 17M by turning an everyday toddler complaint into a song; a winter twin where the Bros pile on hat, scarf and mittens, shiver, then warm up by dancing fits the northern December and invites a sequel."
   }
  ],
  "trend_bank": [
+  {
+   "name": "Hatch the egg",
+   "where": "Roblox (pet egg games among the fastest growing new games, Nov 2026) and egg reveal Shorts on kids YouTube",
+   "status": "rising",
+   "use": "10 to 15 second Short: a giant spotty egg wobbles on each beat of our own chorus, the Bros lean in, count 'one, two, three' with the viewer, the egg cracks and a cute original baby animal pops out and copies their signature move. Meshy prompt: standing in place, lean forward with hands on knees, then jump up with both arms raised in surprise."
+  },
   {
    "name": "Kindness chain",
    "where": "GivingTuesday 1 Dec 2026 and year end kindness posts (110+ countries)",
@@ -10714,12 +10741,6 @@
    "where": "TikTok (two people name items in a category until they match, a lap for every miss; HeyOrca week of 11 Nov 2026)",
    "status": "rising",
    "use": "Game song Short: Big Bro and Little Bro pick a category (fruits, animals, colours), count 'one, two, three' and shout a word together; if the words differ, both run a lap in place to the beat while the chorus sings 'Run, run, run around!', and when they finally match they jump and high five. Meshy steps: standing, run on the spot pumping arms for 4 beats, then a small jump in place with both arms up and a high five."
-  },
-  {
-   "name": "Family line dance",
-   "where": "TikTok (Baby Doll line dance with family or crew, 13 Nov 2026 chart)",
-   "status": "rising",
-   "use": "The Bros, friends and grown up characters stand in two rows and do a simple country style line dance to our own song so whole families can copy at home. Meshy steps: standing, step touch right, step touch left, two heel taps forward, clap, quarter turn to the right, repeat."
   }
  ]
 }
