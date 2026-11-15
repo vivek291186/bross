@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:57:26+05:30",
- "runs": 93,
+ "updated": "2026-11-15T18:58:20+05:30",
+ "runs": 94,
  "branches": [
   {
    "id": "platforms",
@@ -3149,6 +3149,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 82
+    },
+    {
+     "t": "In January 2026 YouTube terminated 16 mass produced AI channels with 35M subscribers and 4.7B lifetime views under its inauthentic content policy; enforcement judges a pattern across a channel's recent uploads (about the last 30), so one batch of templated songs can cut monetisation on every video.",
+     "src": "The Next Web, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 94
+    },
+    {
+     "t": "After that purge faceless channels that never used AI also report demonetisation, while niche educational channels held up better; YouTube says AI labelled videos are not penalised and only mass produced, templated content without human creative input is targeted, so visible human craft (our own lyrics, stories, edits) is the protection.",
+     "src": "The Next Web, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 94
+    },
+    {
+     "t": "A Kapwing test found about 21% of the first 500 videos recommended to a new account were AI slop, a New York Times check found over 40% of Shorts recommended after popular preschool videos were AI made, and 230 experts asked YouTube in April 2026 to ban AI content from YouTube Kids, so stricter AI rules for kids are likely.",
+     "src": "The Next Web, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 94
+    },
+    {
+     "t": "India's DPDP rules define a child as anyone under 18, require verifiable parental consent before processing a child's data and ban tracking, behavioural monitoring and targeted ads aimed at children, with fines up to 200 crore rupees; our Indian audience reach must stay on platform made for kids settings, never our own data collection.",
+     "src": "KS&K, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 94
     }
    ]
   },
@@ -3422,10 +3450,6 @@
   {
    "date": "2026-11-15 15:45",
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
-  },
-  {
-   "date": "2026-11-15 15:59",
-   "note": "Run 15 (Shorts and Reels algorithm): Shorts: seed audience loop, no ideal length or posting time per YouTube, stalled Shorts need a new Short not a repost, Shorts series and custom thumbnails added in 2026. Reels: 55% of views come from non followers, DM sends weigh 3 to 5x likes, Trial Reels for 1,000+ follower accounts, aggregator penalty for 70%+ reused visuals or audio. Total 153."
   },
   {
    "date": "2026-11-15 16:00",
@@ -3738,6 +3762,10 @@
   {
    "date": "2026-11-15 18:57",
    "note": "Run 93 (algorithm experiments and data (fewer long uploads, upload timing)): A 5.68M kids channel cut long uploads 35% (82 to 53), reworked thumbnails for kids policies and pushed Shorts and holiday posting in Q4 2025: views +76%, revenue +153%, Suggested +84%, Shorts feed +348%. AIR's kids timing guide: post 2 to 3 hours before the audience's peak, compilations for mid morning or early evening TV time, series in a fixed weekly slot, and test weekend 8 to 11 AM Eastern without data. Total 476."
+  },
+  {
+   "date": "2026-11-15 18:58",
+   "note": "Run 94 (rules and safety (AI slop enforcement, India DPDP)): YouTube's January 2026 purge terminated 16 mass AI channels (35M subscribers, 4.7B views); enforcement looks at a channel's recent uploads as a pattern, and faceless channels report collateral demonetisation, while niche learning channels held up better. Studies found 21 to 40% of recommendations after preschool videos were AI slop, and 230 experts asked YouTube to ban AI from YouTube Kids. India's DPDP rules treat everyone under 18 as a child and bar tracking and targeted ads to them. Total 480."
   }
  ],
  "history": [
@@ -4112,6 +4140,10 @@
   {
    "date": "2026-11-15 18:57",
    "total": 476
+  },
+  {
+   "date": "2026-11-15 18:58",
+   "total": 480
   }
  ],
  "next_week_ideas": [
