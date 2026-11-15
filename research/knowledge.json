@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:46:52+05:30",
- "runs": 249,
+ "updated": "2026-11-16T01:47:58+05:30",
+ "runs": 250,
  "branches": [
   {
    "id": "platforms",
@@ -7748,6 +7748,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 247
+    },
+    {
+     "t": "The Pikki Pikki cheer dance from Korean baseball (each hand in a thumbs up moves up and down in turn) passed 80M views on one 19 second clip and keeps returning, so it is a proven, simple, kid friendly move to put in a Bro Bros chorus with our own beat.",
+     "src": "Wikipedia, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 250
+    },
+    {
+     "t": "Instagram's 'Series' tool, which groups episodic Reels on a profile, is expanding to the US by late 2026 or early 2027, and live videos inside the Reels tab are launching in Brazil and Indonesia first, which favours numbered Bro Bros story Reels.",
+     "src": "Dexerto, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 250
+    },
+    {
+     "t": "Many top dance challenges of 2026 (such as Motion Party, 218K TikToks) ride explicit rap songs, so kid channels should take only a clean, simple move idea when one exists and never the audio or the context.",
+     "src": "Wikipedia, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 250
+    },
+    {
+     "t": "YouTube's 2026 holiday playbook describes parents and kids watching YouTube together on the biggest screen in the house during the season and Christmas music dominating, which supports long TV friendly holiday song compilations from late November.",
+     "src": "YouTube Holiday Playbook 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 250
+    },
+    {
+     "t": "In YouTube's holiday data, creator style content on Shorts earned a 2.8x higher view through rate in one brand case, a sign that personality led Shorts beat polished ad style clips in the season.",
+     "src": "YouTube Holiday Playbook 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 250
     }
    ]
   }
@@ -7775,11 +7810,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 170): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:50",
-   "note": "Run 171 (NEW: trends and challenges): new Trends branch with 10 learnings (Reels formats Oct/Nov, TikTok reveals, sway baby dance, seasonal dances) and a trend bank of 10 kid-safe ideas for our videos. Total 759."
+   "note": "Earlier runs summarised (up to Run 171): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:39",
@@ -8092,6 +8123,10 @@
   {
    "date": "2026-11-16 01:46",
    "note": "Run 249 (competitor deep dive (Moonbug's Meekah launch and music label, Pinkfong's staged holiday soundtrack)): Moonbug launched Meekah on its own YouTube channel on 7 Nov 2026 with a music video teaser five days earlier, 15 minute episodes that alternate movement and pauses, and a new episode every other Saturday; it also opened Big Feelings Music to outside kids music creators. Pinkfong is releasing its Christmas film soundtrack in two waves (10 and 27 Nov) before the 5 Dec film. Total 1097."
+  },
+  {
+   "date": "2026-11-16 01:47",
+   "note": "Run 250 (TRENDS (evergreen cheer dance, Instagram episodic Series, holiday living room viewing)): Few new kid safe dances surfaced this week, but the Korean baseball Pikki Pikki cheer (alternate thumbs up hands up and down, 80M views on one clip) is an evergreen move our Meshy pipeline can do easily. Instagram's episodic Series for Reels reaches the US by late 2026 or early 2027 and live videos in the Reels tab are rolling out in Brazil and Indonesia; YouTube's 2026 holiday playbook says families watch together on the biggest screen. Total 1102."
   }
  ],
  "history": [
@@ -9090,6 +9125,10 @@
   {
    "date": "2026-11-16 01:46",
    "total": 1097
+  },
+  {
+   "date": "2026-11-16 01:47",
+   "total": 1102
   }
  ],
  "next_week_ideas": [
@@ -9194,16 +9233,16 @@
    "use": "Feelings song Short: Little Bro 'got SO mad' his sock went missing that he did something tiny and silly (crossed arms, three small dinosaur stomps, a grumpy face), then Big Bro shows a big balloon breath and they laugh; teaches calming down. Meshy steps: standing, cross arms, stomp in place three times, then raise arms slowly for a deep breath and lower them."
   },
   {
-   "name": "Spinning wipe outfit change",
-   "where": "TikTok and Reels (fan transition, outfit hidden by a spinning blade wipe, NewEngen 13 Nov 2026; slow spin transition)",
-   "status": "rising",
-   "use": "Season swap Reel: a giant spinning snowflake (our own design) wipes across the screen and each pass changes the Bros from summer clothes to scarves, then to Christmas jumpers, on the beat of our own winter song. Meshy step: standing in place, slow turn on the spot with arms out, stop facing camera and wave."
-  },
-  {
    "name": "Shoulder bounce team dance",
    "where": "TikTok to Instagram Reels (Dame Hombro sound, 184K TikToks late Oct, 137K Reels by 10 Nov)",
    "status": "rising",
    "use": "Both Bros and friends in a row do a shoulder bounce to our own original dembow style beat. Meshy step: standing in place, feet still, lift both shoulders up and drop them down on every beat, then alternate left shoulder and right shoulder, small head nod, finish with a big two shoulder shrug and smile. Never use the original sound."
+  },
+  {
+   "name": "Thumbs up cheer dance",
+   "where": "Korean baseball cheer (Pikki Pikki, 80M views on one clip, keeps resurfacing on Shorts and TikTok)",
+   "status": "evergreen",
+   "use": "Put a cheer chorus in a sports day or 'You did it!' song with our own bouncy beat: both Bros face camera and alternate thumbs up hands up and down on every beat, then a big two thumbs up freeze. Meshy step: standing in place, feet still, right fist with thumb up rises to shoulder height while left drops to waist, then swap, repeat on each beat with a small knee bounce and a smile."
   },
   {
    "name": "Dancing animal friends",
