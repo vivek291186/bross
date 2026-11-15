@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:58:10+05:30",
- "runs": 128,
+ "updated": "2026-11-15T19:58:50+05:30",
+ "runs": 129,
  "branches": [
   {
    "id": "platforms",
@@ -664,6 +664,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 127
+    },
+    {
+     "t": "Pew Research (3,054 US parents of children 12 and under, May 2025): 85% say their child watches YouTube and about half of parents of 2 to 4 year olds say it is daily; for under 2s, YouTube use rose from 45% to 62% in five years and daily use from 24% to 35%.",
+     "src": "gcn.com / Pew, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 129
     }
    ]
   },
@@ -1287,6 +1294,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 121
+    },
+    {
+     "t": "vidIQ's study of 448,413 channels started in Jan to Jun 2025 (Jul 2026) found a new channel's median first long video gets about 180 views in 30 days and its tenth about 272 (+51%), while Shorts stay flat (about 1,360 first, 1,344 tenth): long form builds with each upload, Shorts do not.",
+     "src": "vidiq.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 129
+    },
+    {
+     "t": "In the same study the best of a new channel's first ten videos got about 6.5 times the first for Shorts (8,832 views) and about 11 times for long form (1,948), and only 10% of long videos and 21% of Shorts passed 10,000 views; vidIQ's conclusion is that upload volume mainly buys more tries at the one video that breaks out.",
+     "src": "vidiq.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 129
     }
    ]
   },
@@ -4276,6 +4297,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 95
+    },
+    {
+     "t": "Measured against vidIQ's medians for new channels (about 180 to 270 views in 30 days per long video), our better songs at 200 to 800 views each are above typical, while our Shorts at 0 to 30 views are far below the Shorts median of about 1,300, confirming Shorts distribution is our weakest point.",
+     "src": "vidiq.com / Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 129
     }
    ]
   }
@@ -4302,12 +4330,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:03",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:04",
-   "note": "Run 50 (YouTube algorithm (Suggested and Shorts fit)): Suggested picks are driven by the video being watched plus co watch patterns of similar viewers, so a video must be a natural next watch, not just share keywords; Studio's 'Channels your audience watches' shows which big channels to sit beside. Shorts whose pace and topic differ from long form can pull in the wrong viewers and hurt long form, so Shorts should be micro versions of our songs. Total 305."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:04",
@@ -4620,6 +4644,10 @@
   {
    "date": "2026-11-15 19:58",
    "note": "Run 128 (music craft (Danny Go! favourites, dance electronic trend)): A toddler parent's ranking of Danny Go! favourites shows what makes movement songs stick: copyable animal power moves (gorilla drum smashing), a robot dance with a fast section, vehicle job songs, shapes drawn in the air over a club style beat, and a pirate clean up song kids ask for at tidy time. Luminate names dance and electronic the top growth genre of 2026 in the US. Total 602."
+  },
+  {
+   "date": "2026-11-15 19:58",
+   "note": "Run 129 (algorithm experiments and data (new channel first 10 videos, Pew parents survey)): vidIQ's study of 448K channels started in 2025: a new channel's best video among its first ten gets about 6.5 times (Shorts) to 11 times (long form) the views of its first, long form views climb about 51% from upload one to ten while Shorts stay flat, so volume buys more chances at a breakout. Pew: 62% of parents of under 2s now say their child watches YouTube, up from 45% five years ago. Total 606."
   }
  ],
  "history": [
@@ -5134,6 +5162,10 @@
   {
    "date": "2026-11-15 19:58",
    "total": 602
+  },
+  {
+   "date": "2026-11-15 19:58",
+   "total": 606
   }
  ],
  "next_week_ideas": [
