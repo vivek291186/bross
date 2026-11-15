@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:54:58+05:30",
- "runs": 33,
+ "updated": "2026-11-15T16:55:37+05:30",
+ "runs": 34,
  "branches": [
   {
    "id": "platforms",
@@ -489,6 +489,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 26
+    },
+    {
+     "t": "The Melobies, an energetic nursery rhyme channel, grew subscribers about 9 times (917%) after a package of fixes: listing in YouTube Kids, more expressive characters with high contrast simple mobile thumbnails, keyword matched titles, playlists grouped by theme and 24/7 best of streams; its top video then hit 3.5M views, triple its norm.",
+     "src": "AIR Media-Tech, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 34
+    },
+    {
+     "t": "An audit of The Melobies flagged poorly organised compilations as a watch time leak; compilations should open with the strongest song and keep one theme so viewers stay through.",
+     "src": "AIR Media-Tech, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 34
+    },
+    {
+     "t": "Sandy the Sticker (near 1M subs) went from 1 manual to 16 automated 24/7 streams, added Shorts cut from high energy long form moments and raised long uploads 44% in a quarter: watch time rose 31%, average view duration 1:36 to 2:06, revenue 63%.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 34
+    },
+    {
+     "t": "Across these kids cases, 24/7 live streams of the back catalogue are repeatedly named the main growth driver once a channel has a few dozen strong songs, so a looping stream is worth starting after we pass about 50 songs.",
+     "src": "AIR Media-Tech cases 2025 to 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 34
     }
    ]
   },
@@ -1863,6 +1891,10 @@
   {
    "date": "2026-11-15 16:54",
    "note": "Run 33 (competitor deep dive (Super Simple Songs, Little Angel)): Super Simple Songs (47.3M) grew monthly views from about 490M to 590M during 2026 on its back catalogue while adding only 100 to 200K subs a month; its newest upload is a wash your hands and face routine song (about 900K in 9 days). A Little Angel channel posting daily in Oct 2026 got 7K to 30K per video, except a Brush Your Teeth song at 96K. Total 235."
+  },
+  {
+   "date": "2026-11-15 16:55",
+   "note": "Run 34 (algorithm experiments and data): Two more kids channel cases: The Melobies (energetic nursery rhymes) grew subscribers over 9 times after YouTube Kids listing, expressive high contrast mobile thumbnails, keyword titles, themed playlists and 24/7 streams; Sandy the Sticker went from 1 to 16 automated 24/7 streams and added Shorts cut from long form, lifting watch time 31% and average view duration from 1:36 to 2:06. Total 239."
   }
  ],
  "history": [
@@ -1997,6 +2029,10 @@
   {
    "date": "2026-11-15 16:54",
    "total": 235
+  },
+  {
+   "date": "2026-11-15 16:55",
+   "total": 239
   }
  ],
  "next_week_ideas": [
