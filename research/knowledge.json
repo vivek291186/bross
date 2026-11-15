@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:11:10+05:30",
- "runs": 113,
+ "updated": "2026-11-15T19:11:53+05:30",
+ "runs": 114,
  "branches": [
   {
    "id": "platforms",
@@ -2890,6 +2890,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 102
+    },
+    {
+     "t": "Hanukkah 2026 runs from sundown Friday 4 Dec to sundown Saturday 12 Dec; one more candle is lit each night up to eight, which makes a gentle 'count the lights one to eight' song, posted by 2 Dec, respectful and easy for any family to enjoy.",
+     "src": "My Jewish Learning, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 114
+    },
+    {
+     "t": "Kids' favourite Hanukkah customs are spinning the four sided dreidel top, eating latkes (potato pancakes) and jelly doughnuts and getting chocolate coins (gelt); a spinning top dance with a 'spin, spin, stop!' freeze works as a playful, non religious angle.",
+     "src": "My Jewish Learning, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 114
+    },
+    {
+     "t": "India's Republic Day falls on Tuesday 26 Jan 2027, and schools across India mark it with flag hoisting, patriotic songs and tricolour crafts, so an orange, white and green colours and unity song for our large Indian audience should be ready by about 23 Jan.",
+     "src": "Office Holidays and Careers360, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 114
     }
    ]
   },
@@ -3862,11 +3883,7 @@
  "log": [
   {
    "date": "2026-11-15 15:45",
-   "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
-  },
-  {
-   "date": "2026-11-15 16:56",
-   "note": "Run 35 (rules, safety and monetisation): Team YouTube's 1 Apr 2026 YouTube Kids FAQ: automated filters scan thumbnails, titles and video first, humans spot check, parent flags are reviewed around the clock; excluded are paid placements, purchase pushing, packaging and haul content. The Partner Program policy now names 'mass produced content' (renamed from repetitious in Jul 2025). Total 244."
+   "note": "Runs 1 to 34 (15 Nov 2026): seeded the tree with 38 learnings and the first 9 playbook rules, then worked through all 12 focus areas (platforms, algorithm, competitors, music, visuals, topics and seasons, markets, rules and our own Metricool results)."
   },
   {
    "date": "2026-11-15 16:56",
@@ -4179,6 +4196,10 @@
   {
    "date": "2026-11-15 19:11",
    "note": "Run 113 (visual craft (on screen karaoke lyrics)): Same language subtitling research from India found that 30 minutes a week of subtitled song programmes lifted schoolchildren's paragraph reading from 25% to 56%, and over nine in ten viewers wanted lyrics on songs; the key is syllable synced colour changes. Karaoke style chorus lyrics on our videos help parents sing along and give a real reading benefit. Playbook updated for wind down songs. Total 539."
+  },
+  {
+   "date": "2026-11-15 19:11",
+   "note": "Run 114 (topics and seasons (Hanukkah detail, Republic Day)): Hanukkah 2026 runs from sundown Friday 4 Dec to sundown Saturday 12 Dec; kids love the one more candle each night counting, spinning the dreidel, latkes, jelly doughnuts and chocolate coins, a natural counting song. India's Republic Day falls on Tuesday 26 Jan 2027, when schools hold flag and patriotic song events. Total 542."
   }
  ],
  "history": [
@@ -4633,6 +4654,10 @@
   {
    "date": "2026-11-15 19:11",
    "total": 539
+  },
+  {
+   "date": "2026-11-15 19:11",
+   "total": 542
   }
  ],
  "next_week_ideas": [
