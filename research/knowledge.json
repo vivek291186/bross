@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:58:39+05:30",
- "runs": 161,
+ "updated": "2026-11-15T20:59:20+05:30",
+ "runs": 162,
  "branches": [
   {
    "id": "platforms",
@@ -3345,6 +3345,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 159
+    },
+    {
+     "t": "Disney Research's analysis of 19 3D kids shows and films found animators give characters for 3 to 5 year olds larger heads relative to body, larger eyes and rounder eyes than characters for 9 to 11 year olds (strong correlations, r about 0.7 to 0.86).",
+     "src": "Disney Research (IDC paper), 2016",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 162
+    },
+    {
+     "t": "Yet in experiments with 4 to 10 year olds children showed no age based preference, picked an enlarged head only 15 of 60 times against the original, and 59 of 87 chose normal heads when designing their own character, so the Bros should keep friendly but not oversized heads, which also appeals to older siblings.",
+     "src": "Disney Research (IDC paper), 2016",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 162
+    },
+    {
+     "t": "When children designed their own characters they most often chose wide set eyes (39 of 87) over close set (24), big (14) or round (10) eyes, so wide set, expressive eyes are a safe choice for new Bro Bros friends and animal characters.",
+     "src": "Disney Research (IDC paper), 2016",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 162
     }
    ]
   },
@@ -5129,11 +5150,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 19 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:49",
-   "note": "Run 83 (our own results (channel totals 1 to 14 Nov, posting check)): YouTube grew from 2,130 to 2,150 subscribers between 1 and 14 Nov with 450 to 750 daily views, peaking at 1,386 on 10 Nov and 1,296 on 12 Nov around the Diwali songs; shares were almost zero (2 in two weeks). Uploads for 15 and 16 Nov are publishing on time, but captions still carry 7 to 10 hashtags. Total 442."
+   "note": "Earlier runs summarised: 20 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:50",
@@ -5446,6 +5463,10 @@
   {
    "date": "2026-11-15 20:58",
    "note": "Run 161 (music craft (groove and free dancing, singing at home)): A Developmental Science study of 78 children aged 3 to 6 found high groove music (what adults feel they must move to) made kids dance more, with more energy and closer to the beat, so preschoolers respond to the same groove adults do. A Music Lab randomised trial found babies' moods rose when parents sang to them more at home, and parents sang most when babies were fussy, which supports simple songs parents can sing back. Total 720."
+  },
+  {
+   "date": "2026-11-15 20:59",
+   "note": "Run 162 (visual craft (Disney Research character proportions)): Disney Research measured 3D kids shows: characters for younger audiences have bigger heads, bigger and rounder eyes, but in three experiments with 4 to 10 year olds children showed no age based preference and actually rejected oversized heads (59 of 87 designed normal heads; enlarged heads picked only 15 of 60 times), and when designing their own they chose wide set eyes most. Total 723."
   }
  ],
  "history": [
@@ -6092,6 +6113,10 @@
   {
    "date": "2026-11-15 20:58",
    "total": 720
+  },
+  {
+   "date": "2026-11-15 20:59",
+   "total": 723
   }
  ],
  "next_week_ideas": [
