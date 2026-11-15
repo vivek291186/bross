@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:09:48+05:30",
- "runs": 309,
+ "updated": "2026-11-16T04:10:25+05:30",
+ "runs": 310,
  "branches": [
   {
    "id": "platforms",
@@ -9183,6 +9183,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 307
+    },
+    {
+     "t": "Instagram's Edits app has a one tap Restyle 'Snow Effect' that adds animated snowfall to a Reel (with rain, fog and warm golden light overlays added later); it became one of the biggest creator trends in India within weeks in late 2025, so a falling snow Reel is a familiar winter look we can match with Blender snow or the free in app effect.",
+     "src": "The Week, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 310
+    },
+    {
+     "t": "The snow effect spread across Indian regional languages at once (a Hindi tutorial with 5.5M views, then Gujarati, Marathi and Kannada creators), showing that Reels visual formats cross language lines in India faster than sounds or jokes, which suits wordless Bro Bros winter Reels.",
+     "src": "The Week, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 310
+    },
+    {
+     "t": "Snow globe themed treats went viral on TikTok again last December, so the snow globe look (a scene under a dome with swirling snow) is a strong December visual cue that we can use kid safe by putting the Bros inside a giant snow globe.",
+     "src": "Dexerto, AOL, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 310
     }
    ]
   }
@@ -9210,11 +9231,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 230): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:07",
-   "note": "Run 231 (Shorts and Reels (best length by data: Reels 45 to 60 s, Shorts under 30 s)): Socialinsider's study of 9.8M brand Reels (Jan to Jun 2026) found 45 to 60 second Reels had the highest median views (about 10.4K) and engagement (0.35%), with sub 30 second Reels at less than half the views and over 3 minute Reels collapsing. Adobe's survey of 507 Shorts creators (Mar 2026) found most say under 30 seconds performs best for views and click throughs to long videos. Total 1004."
+   "note": "Earlier runs summarised (up to Run 231): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:08",
@@ -9527,13 +9544,13 @@
   {
    "date": "2026-11-16 04:09",
    "note": "Run 309 (competitor deep dive (Super Simple Play with Caitie, Super Supremes)): Skyship's live action 'Super Simple Play with Caitie!' (5.25M subscribers) holds a steady 47 to 58M views a month in 2026, down from 332M in April 2025, and its top songs are a fire truck song (109M), a colour hunt (78M) and a freeze dance game (50M); vidIQ models about 46K USD a month. Older 3D rhyme channel Super Supremes (4M subscribers) is flat, with its newest Short getting under 2K views in five days. Halloween and fire truck songs top both channels. Total 1302."
+  },
+  {
+   "date": "2026-11-16 04:10",
+   "note": "Run 310 (TRENDS (Instagram Edits snow effect, snow globe look for December)): Instagram's Edits app added a one tap animated Snow Effect (Restyle, plus rain, fog and golden light overlays) that became one of the biggest creator trends in India within weeks (a Hindi tutorial passed 5.5M views, with Gujarati, Marathi and Kannada creators joining). Snow globe themed drinks went viral again last December, so the snow globe look is a December visual hook we can use kid safe. A snow globe shake format joined the trend bank. Total 1305."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:55",
-   "total": 122
-  },
   {
    "date": "2026-11-15 15:56",
    "total": 129
@@ -10729,6 +10746,10 @@
   {
    "date": "2026-11-16 04:09",
    "total": 1302
+  },
+  {
+   "date": "2026-11-16 04:10",
+   "total": 1305
   }
  ],
  "next_week_ideas": [
@@ -10790,6 +10811,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Snow globe shake",
+   "where": "TikTok and Reels every December (snow globe looks, Instagram Edits snow effect)",
+   "status": "seasonal",
+   "use": "Open on the Bros frozen inside a giant snow globe on a shelf; a hand gives it a shake on the first beat of our winter song, snow swirls, and the Bros spring to life and dance until the snow settles, then freeze again so the Short loops. Meshy prompt: standing still, then bounce lightly in place, sway arms side to side, then stop and hold a pose."
+  },
   {
    "name": "Say the word on the beat (Christmas)",
    "where": "TikTok and Shorts (Christmas edition spread mid Dec 2025, likely back)",
@@ -10903,12 +10930,6 @@
    "where": "TikTok ('first time in a fancy cafe', Epidemic Sound 13 Nov 2026)",
    "status": "rising",
    "use": "Little Bro proudly sits on something that is not a seat (a drum, a giant gift box, a snowman's lap) while Big Bro sits on the real chair; the music stops, both look at the camera, then they laugh and swap. Short of 10 to 15 seconds with our own silly sting, standing only for the dance part."
-  },
-  {
-   "name": "Dance till you flop",
-   "where": "TikTok ('out of breath' dance challenge, top clips 10M+ views, families join in)",
-   "status": "rising",
-   "use": "End any high energy Bro Bros song by dancing faster and faster, then both brothers freeze in a wobbly tired pose, puff their cheeks and give a thumbs up. Meshy steps: standing in place, fast jogging on the spot, arms pumping, big jumping jack twice, then a slow wobble with arms hanging loose and one tired thumbs up. No lying down."
   }
  ]
 }
