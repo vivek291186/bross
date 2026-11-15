@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:58:37+05:30",
- "runs": 14,
+ "updated": "2026-11-15T15:59:26+05:30",
+ "runs": 15,
  "branches": [
   {
    "id": "platforms",
@@ -104,6 +104,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 4
+    },
+    {
+     "t": "YouTube added Shorts series with seasons and episodes (23 Sep 2026) and custom Shorts thumbnails (Jul 2026); the dislike button left Shorts in Jun 2026, replaced by 'Not interested' and 'Don't recommend this channel'.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 15
+    },
+    {
+     "t": "About 55% of Reel views come from non followers, and DM sends are weighted roughly 3 to 5 times more than likes for reaching non followers; 3 to 4 strong Reels a week in one consistent niche is the suggested cadence.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 15
+    },
+    {
+     "t": "Instagram flags accounts as 'aggregators' with reduced non follower reach when most posts in 30 days reuse 70% or more of another creator's visuals or audio; our own original songs keep us safe.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 15
+    },
+    {
+     "t": "Instagram Trial Reels (accounts with 1,000+ followers) show a Reel to non followers first, a free way to test two hooks for the same song before sharing to followers.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 15
+    },
+    {
+     "t": "Reels can be up to 20 minutes for eligible accounts, but only Reels up to 3 minutes are recommended to non followers.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 15
     }
    ]
   },
@@ -286,6 +321,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 14
+    },
+    {
+     "t": "YouTube's Shorts lead says there is no ideal Short length, posting time or daily quota and hashtags are optional; a Short that stalls needs a fresh new Short, because deleting and reposting can be read as spam.",
+     "src": "Creator Insider via OutlierKit, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 15
     }
    ]
   },
@@ -1111,7 +1153,7 @@
   "Weekly long form: one 10 to 20 minute compilation (5 or 6 songs, best performer first) every Friday, the strongest kids upload day; keep a 24/7 live stream of all songs running and point stream playlists back to new uploads.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels.",
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
-  "Mix in older-kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny, chantable nonsense word kids can shout, not only nursery rhyme remakes.",
+  "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny chantable nonsense word kids can shout; group Shorts of the same song family into a YouTube Shorts series and, once we pass 1,000 Instagram followers, test two hooks per song with Trial Reels.",
   "Titles: story hook plus an age keyword (for toddlers, learn numbers 1-10, bedtime for preschoolers), max 2 caps words and 1 to 2 emojis, no fear, fight, medical or danger words; put every video in a keyword playlist and link the playlist's first video in the description.",
   "Seasonal plan: until 24 Dec post at least 3 holiday neutral winter or lights songs a week (snow, cookies, twinkle lights), each with a sunny summer variant for the southern hemisphere; start Ramadan and Lunar New Year friendly songs in January."
  ],
@@ -1171,6 +1213,10 @@
   {
    "date": "2026-11-15 15:58",
    "note": "Run 14 (YouTube algorithm official): Todd Beaupre (Sep 2026): new uploads are tested on mixed audiences including non subscribers from the first hour, each audience is judged separately, about 10% subscriber click rate is normal. YouTube Kids FAQ (Apr 2026): filters read thumbnails, titles and video; no product placement; new profiles see curated shelves until history builds. Total 147."
+  },
+  {
+   "date": "2026-11-15 15:59",
+   "note": "Run 15 (Shorts and Reels algorithm): Shorts: seed audience loop, no ideal length or posting time per YouTube, stalled Shorts need a new Short not a repost, Shorts series and custom thumbnails added in 2026. Reels: 55% of views come from non followers, DM sends weigh 3 to 5x likes, Trial Reels for 1,000+ follower accounts, aggregator penalty for 70%+ reused visuals or audio. Total 153."
   }
  ],
  "history": [
@@ -1229,6 +1275,10 @@
   {
    "date": "2026-11-15 15:58",
    "total": 147
+  },
+  {
+   "date": "2026-11-15 15:59",
+   "total": 153
   }
  ],
  "next_week_ideas": [
