@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:41:46+05:30",
- "runs": 174,
+ "updated": "2026-11-15T21:42:33+05:30",
+ "runs": 175,
  "branches": [
   {
    "id": "platforms",
@@ -4052,6 +4052,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 163
+    },
+    {
+     "t": "In YouTube's music charts for 19 to 25 Dec 2025, six of the US top 10 were Christmas songs and Christmas songs led the UK and Germany, but they barely charted in India, Brazil, South Africa or Japan, so December Christmas songs should target US and Europe while other markets get winter fun or summer songs.",
+     "src": "ppc.land, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 175
+    },
+    {
+     "t": "Brazil's 2026 school year ends between 18 Dec (Sao Paulo and Parana state schools) and 23 Dec (Paraiba), so from mid December Brazilian kids start summer holidays, a window for beach, pool, sunscreen and ice cream songs in Portuguese while the north sings about snow.",
+     "src": "querobolsa.com.br, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 175
+    },
+    {
+     "t": "Australian summer school holidays run from about 10 to 18 Dec until late January or early February, so Australia, Brazil, Argentina and South Africa all share a summer Christmas, and a Christmas at the beach song travels across the southern hemisphere.",
+     "src": "australia.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 175
+    },
+    {
+     "t": "Classic Christmas hits chart on YouTube for 70 to 90+ weeks because they return every year, so a strong original Bro Bros Christmas song is a long term asset that can earn again every November and December.",
+     "src": "ppc.land, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 175
     }
    ]
   },
@@ -5486,11 +5514,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 32 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:59",
-   "note": "Run 96 (YouTube charts (most subscribed kids channels, Nov 2026)): AIR's 4 Nov 2026 ranking of the biggest kids channels: CoComelon 203M, Vlad and Niki 151M, Kids Diana Show 138M, ChuChu TV 98.2M, Pinkfong 85.3M, then Toys and Colors, Infobells Hindi, El Reino Infantil, LooLoo Kids and JioHotstar Kids; 9 of the top 15 are animated song or rhyme brands and most run many languages. Total 486."
+   "note": "Earlier runs summarised: 33 older log entries condensed."
   },
   {
    "date": "2026-11-15 19:00",
@@ -5803,6 +5827,10 @@
   {
    "date": "2026-11-15 21:41",
    "note": "Run 174 (visual craft (vertical and widescreen twin cuts, rhythm based SEL)): Thumbnail and pacing studies were already in the tree. New: Guru Studio and CBC Kids made one minute TRUE Mini Rescues episodes in two cuts, widescreen for TV and vertical for phones, with a timer and kids helping solve a puzzle. Stomp Stomp Rhinos, a rhythm based feelings channel, hit 12M views in 195 countries in under a year from 300+ videos. Total 770."
+  },
+  {
+   "date": "2026-11-15 21:42",
+   "note": "Run 175 (topics and seasons (southern summer break, where Christmas songs peak)): YouTube's charts for the week before Christmas 2025 show six Christmas songs in the US top 10 and Christmas leading the UK and Germany, but almost none in India, Brazil, South Africa or Japan. Brazil's school year ends 18 to 23 Dec 2026, so Brazil and the southern hemisphere get summer holiday songs (beach, pool, sun) while the north gets snow and Christmas. Total 774."
   }
  ],
  "history": [
@@ -6501,12 +6529,16 @@
   {
    "date": "2026-11-15 21:41",
    "total": 770
+  },
+  {
+   "date": "2026-11-15 21:42",
+   "total": 774
   }
  ],
  "next_week_ideas": [
   {
-   "title": "Monster Bounce Carnival",
-   "why": "Brazilian kids hits pair silly dancing creatures with funk and swingueira style beats and a freeze game; an original carnival bounce song with a 'statue!' stop works in Portuguese and travels to Latin America (Carnival is 6 to 10 Feb 2027)."
+   "title": "Christmas at the Beach!",
+   "why": "Brazil, Australia and South Africa have summer holidays at Christmas while Christmas songs barely chart there; a sunny Santa hat, sandcastle and splash song gives the southern half of the world its own holiday hit."
   },
   {
    "title": "Everybody Dance, It's Party Day!",
