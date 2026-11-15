@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:01:57+05:30",
- "runs": 266,
+ "updated": "2026-11-16T02:02:36+05:30",
+ "runs": 267,
  "branches": [
   {
    "id": "platforms",
@@ -1035,6 +1035,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 255
+    },
+    {
+     "t": "Across about 800K videos from 71K accounts, Metricool found 2026 views up 76% but estimated ad revenue down 55%, with ad impressions down 51% and monetised playbacks down 59%, because viewers left long videos earlier (average view about 2.5 minutes, down from about 4).",
+     "src": "Creator Handbook (Metricool study), Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 267
+    },
+    {
+     "t": "The same study found the average Short now runs about 16 seconds and Shorts drive 61% of organic views, so Shorts bring reach while revenue still depends on keeping kids watching long compilations past the first minutes.",
+     "src": "Creator Handbook (Metricool study), Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 267
+    },
+    {
+     "t": "Metricool's data showed two to four long form uploads a week performed best per video, suggesting Bro Bros should keep daily output in Shorts and Reels while making fewer, stronger long songs and compilations.",
+     "src": "Creator Handbook (Metricool study), Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 267
     }
    ]
   },
@@ -8174,11 +8195,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 187): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:41",
-   "note": "Run 188 (global markets (Mexico's spike channel, top 50 by country, Nigerian Afrobeat kids animation)): Mexico's El Tren Nam Nam jumped to No. 2 worldwide (about 1.08B views in the week of 25 Oct) then fell 52% two weeks later, and VocaVoca dropped out of the top 50 from No. 11, so kids channel peaks swing fast. The kids and family channels in the weekly top 50 now come from Australia, Germany, Indonesia, Mexico, India and Canada. Nigeria's Jeni and Keni (two siblings, Afrobeat songs for ages 1 to 6) is a close African analogue to Bro Bros. Total 826."
+   "note": "Earlier runs summarised (up to Run 188): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:47",
@@ -8491,6 +8508,10 @@
   {
    "date": "2026-11-16 02:01",
    "note": "Run 266 (topics and seasons (2027 Toy of the Year finalists and Amazon's toy list)): The 2027 Toy of the Year finalists (announced 7 Nov 2026, 122 finalists) lean on hatching (a hatching megalodon shark), squishy and jelly collectibles (NeeDoh, Magic Jellykins), Pokemon's 30th anniversary and glowing, roaring interactive pets; Amazon's 2026 list adds slime, undersea magnet tiles and a lava land roller coaster, all easy original song topics. Total 1154."
+  },
+  {
+   "date": "2026-11-16 02:02",
+   "note": "Run 267 (Shorts and long form balance (Metricool's 2026 YouTube study: views up, ad money down)): Metricool's study of about 800K videos (Aug 2026) found views up 76% but estimated ad revenue down 55%, because average long view duration fell from about 4 to 2.5 minutes, ad impressions fell 51% and Shorts (now about 16 seconds on average) took 61% of organic views; two to four long uploads a week performed best. Total 1157."
   }
  ],
  "history": [
@@ -9557,6 +9578,10 @@
   {
    "date": "2026-11-16 02:01",
    "total": 1154
+  },
+  {
+   "date": "2026-11-16 02:02",
+   "total": 1157
   }
  ],
  "next_week_ideas": [
