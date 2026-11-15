@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:48:11+05:30",
- "runs": 243,
+ "updated": "2026-11-16T01:40:57+05:30",
+ "runs": 244,
  "branches": [
   {
    "id": "platforms",
@@ -7531,6 +7531,55 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 241
+    },
+    {
+     "t": "On Instagram Reels, Christmas songs were already at peak between 31 Oct and 10 Nov 2026 (the top holiday track sat on about 5.8M Reels), used mainly for countdown reveals, tree reveals and 'time for holiday movies' posts, so our own holiday songs can ride the same formats from mid November.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 244
+    },
+    {
+     "t": "A rising Reels format pairs a 'how it started' shot with a 'how it's going' shot, cutting exactly on a drum kick; for kids it works as a snowman that grows, a dance that gets better or a room that gets decorated, all cut on our own song's big drum hit.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 244
+    },
+    {
+     "t": "Rising quick tutorial Reels show one step per beat with on screen text; this is the same shape as a dance tutorial Short where each beat shows one move name, which helps kids learn our routines.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 244
+    },
+    {
+     "t": "The Dame Hombro shoulder bounce was still rising on Reels in early November (about 137K Reels) as group and team moves, confirming the shoulder bounce team dance already in our trend bank.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 244
+    },
+    {
+     "t": "Several early November adult trends (a lingerie runway walk, a 'Housewife' lip sync POV, the 'I'm so sorry' costume carousel twist) are not suitable for a kids channel and should be skipped, even though they dominate weekly roundups.",
+     "src": "SocialPilot and que.es, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 244
+    },
+    {
+     "t": "The Scuba dance (pinch nose, wave one arm forward, knees open and close) peaked in November 2025 and resurged in early 2026 with mascots and cartoon edits, but its 'flip the camera' version is criticised as bullying, so it is too old and too risky to borrow now.",
+     "src": "Know Your Meme, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 244
+    },
+    {
+     "t": "The AI kitten synced dance that passed 79M views spread mainly as a CapCut green screen template that others remixed, which shows that a reusable template of a simple synced dance can travel further than the original video.",
+     "src": "Know Your Meme, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 244
     }
    ]
   }
@@ -7558,11 +7607,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 164): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:07",
-   "note": "Run 165 (competitor deep dive (Little Baby Bum)): Little Baby Bum (41.6M subs, 44.8B views) has gained no subscribers in two years yet still earns 110 to 140M views a month, and its all time top five are all Wheels on the Bus variants (Halloween 275M, Ten Little Buses 112M, Bus Wash, Underwater). Its separate multi language channel is small (234K subs), so dubbing works best inside strong single language channels or audio tracks. Total 733."
+   "note": "Earlier runs summarised (up to Run 165): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:07",
@@ -7875,6 +7920,10 @@
   {
    "date": "2026-11-16 00:48",
    "note": "Run 243 (Shorts and Reels (speech in the first seconds, loops, follow along routines)): Emplifi's study of 10,110 brand Reels found speech in the first three seconds lifted 10 second retention by nearly 25% over music only, a face early added about 10%, and loops under 7 seconds raised replays by about 19%. Dash Social's Q2 2026 Shorts data shows follow along wellness routines averaging 116% viewed, the only category above 100%, which backs routine and dance along Shorts for Bro Bros. Total 1066."
+  },
+  {
+   "date": "2026-11-16 01:40",
+   "note": "Run 244 (TRENDS (early holiday audio, before and after drum cut, template dances)): SocialPilot's 31 Oct to 10 Nov chart shows Christmas songs already at peak on Reels (about 5.8M Reels on the top one) for countdown and tree reveal posts, while 'how it started vs how it's going' cuts on a drum hit and one step per beat tutorials are rising. The Scuba dance is a year old and its 'flip the camera' variant is called bullying, so we skip it; AI kitten dances spread mainly as CapCut green screen templates. Total 1073."
   }
  ],
  "history": [
@@ -8849,6 +8898,10 @@
   {
    "date": "2026-11-16 00:48",
    "total": 1066
+  },
+  {
+   "date": "2026-11-16 01:40",
+   "total": 1073
   }
  ],
  "next_week_ideas": [
@@ -8941,6 +8994,12 @@
    "use": "Big Bro, Little Bro and one friend in a row do a goofy, fast routine to our own sped up, squeaky voiced original song. Meshy step: standing in place, small hop on both feet, kick right foot forward, kick left foot forward, spin around once in place, shake the head side to side, end with jazz hands. Make a 'try it with your family of three' Short."
   },
   {
+   "name": "How it started vs how it's going",
+   "where": "Instagram Reels (before and after cut on a drum kick, rising early Nov 2026)",
+   "status": "rising",
+   "use": "Two shot Short with our own song: shot one shows a tiny snowball or a bare tree with the caption 'how it started', then on our song's big drum hit cut to a giant snowman or a fully decorated tree with both Bros dancing and 'how it's going'. Meshy step for the second shot: standing in place, both arms up in a V, bounce on the spot twice, then point at the result with both hands and smile."
+  },
+  {
    "name": "I got so mad",
    "where": "TikTok ('I Got So Mad' absurd tiny reactions trend, Know Your Meme 13 Nov 2026)",
    "status": "rising",
@@ -8975,12 +9034,6 @@
    "where": "TikTok ('how to' bait and switch dance, NewEngen Dec 2025, likely back in Dec 2026)",
    "status": "seasonal",
    "use": "Big Bro starts a serious 'How to wrap a present' (or 'how to build a snowman') tutorial, step one, step two, then our own song kicks in and the steps become a dance; ends with the present wrapped. Meshy steps: standing, fold arms forward twice like folding paper, turn hands in a rolling motion, clap, then bounce side to side."
-  },
-  {
-   "name": "Grid harmony round",
-   "where": "TikTok (layered 'Mr Sandman' harmonies in the grid layout, NewEngen Dec 2025)",
-   "status": "seasonal",
-   "use": "A 2 by 2 grid: Big Bro, Little Bro and two friends each sing one line of our own simple winter round, entering one after another until all four sing together; kids at home can pick a square and join. No dance needed, just smiles, sways and a final group wave."
   },
   {
    "name": "Year in songs recap",
