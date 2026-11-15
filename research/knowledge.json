@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:57:05+05:30",
- "runs": 220,
+ "updated": "2026-11-15T23:58:06+05:30",
+ "runs": 221,
  "branches": [
   {
    "id": "platforms",
@@ -3443,6 +3443,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 218
+    },
+    {
+     "t": "Suno v5.5 (released 27 Mar 2026) lets Pro and Premier users build up to three Custom Models by uploading tracks from their own catalogue, so Bro Bros can tune a model on its best performing songs to keep one recognisable house sound across 14 songs a week.",
+     "src": "Music Business Worldwide, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 221
+    },
+    {
+     "t": "Suno v5.5 Voices captures the account holder's own singing voice, verified by speaking a random phrase, and keeps it private by default, so it cannot be used to clone another singer; any Bros' character voice must come from a consenting adult singer or from prompt design, never from a real child's recordings.",
+     "src": "Music Business Worldwide, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 221
+    },
+    {
+     "t": "Suno's My Taste (all plans) learns the genres and moods a user picks most, which can quietly narrow results, so for variety across the week we should state style, tempo and instruments in every prompt instead of relying on it.",
+     "src": "Suno Help, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 221
+    },
+    {
+     "t": "A 2025 study with 60 Indonesian preschoolers aged 5 to 6 found popular style songs improved how well children imitated words while traditional national songs improved memory retention, both linked to repetition and familiarity, which supports mixing fresh pop style originals with classic feeling melodies.",
+     "src": "Journal of English Language and Education, 2025",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 221
     }
    ]
   },
@@ -6837,11 +6865,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 141): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:13",
-   "note": "Run 142 (topics and seasons (World Children's Day)): World Children's Day is Friday 20 Nov 2026; UNICEF's theme is 'My Day. My Rights. My Future.', with landmarks lit blue and families invited to wear blue, a gentle 'every child has a voice' song in blue visuals posted on 18 or 19 Nov fits every country. Total 645."
+   "note": "Earlier runs summarised (up to Run 142): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:14",
@@ -7154,6 +7178,10 @@
   {
    "date": "2026-11-15 23:57",
    "note": "Run 220 (TRENDS (New Year coming: early countdown videos for kids, world New Year actions)): Every 31 December families play 'fake midnight' countdown videos so little kids can celebrate before bedtime; parents want music, no mid video pop ups and a non scary ending. World New Year actions kids can copy (Spain's 12 grapes on the chimes, Brazil's seven wave jumps in white, US right foot first, Philippines polka dots and round fruit, Colombia's potato under the bed) make a perfect action song. The early countdown joined the trend bank and the faded baby dance left. Total 963."
+  },
+  {
+   "date": "2026-11-15 23:58",
+   "note": "Run 221 (music craft (Suno v5.5 tools for a consistent Bro Bros sound, popular vs traditional songs study)): Suno v5.5 (Mar 2026) adds Voices (your own verified singing voice, private by default, Pro and Premier), Custom Models (tune the model on up to three sets of your own tracks) and My Taste. A Custom Model trained on our best songs could keep the Bro Bros sound consistent across 14 songs a week. An Indonesian preschool study found popular style songs helped imitation of words while traditional songs helped memory. Total 967."
   }
  ],
  "history": [
@@ -8036,6 +8064,10 @@
   {
    "date": "2026-11-15 23:57",
    "total": 963
+  },
+  {
+   "date": "2026-11-15 23:58",
+   "total": 967
   }
  ],
  "next_week_ideas": [
