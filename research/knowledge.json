@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:54:30+05:30",
- "runs": 156,
+ "updated": "2026-11-15T20:55:35+05:30",
+ "runs": 157,
  "branches": [
   {
    "id": "platforms",
@@ -3247,6 +3247,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 153
+    },
+    {
+     "t": "Kukuli's sign language version of its biggest song ('Bakkal Amca Isaret Dili', 2023) has 125M views, its second biggest video, so a sign language edition of a proven hit (simple hand signs for key words, shown by a character) can become a hit of its own and supports inclusion.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 157
     }
    ]
   },
@@ -4171,6 +4178,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 152
+    },
+    {
+     "t": "Three of Turkey's ten most viewed YouTube channels (Feb 2026) are for kids: Sevimli Dostlar (16.9B views, No. 2), Oyuncak Oynuyorum toy play (13.2B, No. 3) and Masha and the Bear's Turkish dub (9.7B, No. 7), so Turkish is a big kids market where a dubbed foreign 3D brand can reach the top ten.",
+     "src": "tamindir.com (BoomSocial), Feb 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 157
+    },
+    {
+     "t": "Turkish 3D kids song brand Kukuli has 6.05M subscribers and 7.3B views, earning about 56 to 97M views a month in 2026; its top songs are the 'Bakkal Amca' (corner shop uncle) series (258M and 114M), so everyday neighbourhood characters and errands are a strong song theme in Turkey.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 157
     }
    ]
   },
@@ -5010,11 +5031,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 14 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:39",
-   "note": "Run 78 (topics and seasons (Gulf, Philippines, Mexico calendars)): UAE National Day holiday is Wed 2 and Thu 3 Dec 2026. The Philippines' Christmas runs September to January with Simbang Gabi on 16 to 24 Dec and the star shaped parol lantern as its icon. Mexico's school break runs 21 Dec to 6 Jan (Three Kings Day) with return on 7 Jan 2027, so Spanish holiday songs keep working into early January. Total 420."
+   "note": "Earlier runs summarised: 15 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:45",
@@ -5327,6 +5344,10 @@
   {
    "date": "2026-11-15 20:54",
    "note": "Run 156 (our results skipped (already recorded today through 14 Nov, 15 Nov uploads too new), then YouTube charts (upload cadence of fast growing channels)): Our Metricool data was already logged today, so this round studied CreatorDB's 417 surging channels: a quarter post 60+ times a month, but channels posting under 8 times a month gained about 98,800 subscribers per upload against about 1,900 for the heaviest posters, and one wholesome creator's Shorts average 71K views against an 840 long video median. Total 703."
+  },
+  {
+   "date": "2026-11-15 20:55",
+   "note": "Run 157 (global markets (Turkey, a dubbing gap)): YouTube charts showed nothing new, so this round filled the Turkish gap: three of Turkey's ten most viewed channels are for kids (Sevimli Dostlar 16.9B, Oyuncak Oynuyorum 13.2B and Masha and the Bear's Turkish dub 9.7B), and local 3D song brand Kukuli (6M subs, about 60 to 95M views a month) has its biggest hits in an everyday character song, 'Bakkal Amca' (the corner shop uncle), whose sign language version alone has 125M views. Total 706."
   }
  ],
  "history": [
@@ -5953,13 +5974,13 @@
   {
    "date": "2026-11-15 20:54",
    "total": 703
+  },
+  {
+   "date": "2026-11-15 20:55",
+   "total": 706
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Super Bro Bros to the Rescue",
-   "why": "Superheroes top Gen Alpha's favourite characters; the brothers and their pup get 'kindness powers' with a power up dance move for each rescue, fully original."
-  },
   {
    "title": "Bath Time Bubble Party",
    "why": "Bath routine songs are all-time mega hits (7.5B Bath Song); bubbles, duck, splash actions."
@@ -6011,6 +6032,10 @@
   {
    "title": "Fruity Disco Night (baby sensory mix)",
    "why": "Hey Bear's dancing fruit on black backgrounds earn about 35M views per video; a wordless 15 minute Bro Bros fruit dance mix in bright colours on dark reaches babies and travels to every language."
+  },
+  {
+   "title": "Hello, Shop Uncle! (with hand signs)",
+   "why": "Turkey's Kukuli has 258M views on a corner shop uncle song and 125M on its sign language version; an original Bros errand song with simple signs for 'hello', 'please' and 'thank you' works in every country."
   }
  ]
 }
