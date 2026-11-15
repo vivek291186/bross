@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:59:20+05:30",
- "runs": 162,
+ "updated": "2026-11-15T21:00:37+05:30",
+ "runs": 163,
  "branches": [
   {
    "id": "platforms",
@@ -3856,6 +3856,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 160
+    },
+    {
+     "t": "Disney's Hexed opens in cinemas on 25 Nov 2026 (US Thanksgiving week), its first original animated film in three years, about a teen girl who unleashes magic and enters a hidden witch world; magic, spells and 'oops, my spell went wrong' comedy will be top of mind for kids into December.",
+     "src": "businesstoday.com.my, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 163
+    },
+    {
+     "t": "The Angry Birds Movie 3 opens on 25 Dec 2026, so funny birds, slingshot style launching and bird sounds will be trendy over the holidays; an original Bros song with silly cartoon birds of our own design rides that wave without using the brand.",
+     "src": "boxofficemojo.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 163
+    },
+    {
+     "t": "Big family film weeks pull kids toward the film's theme on YouTube search, so posting a themed original song 2 to 4 days before release (a magic spell song before 25 Nov, a birds song before 25 Dec) lets us catch rising searches while staying original.",
+     "src": "boxofficemojo.com and businesstoday.com.my, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 163
     }
    ]
   },
@@ -5150,11 +5171,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 20 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:50",
-   "note": "Run 84 (YouTube charts and movers (vidIQ 30 day growth)): vidIQ's fastest growing list to 14 Nov is led by Sasha Show (+8.8M) and Brazilian and Spanish family creators; Pokemon Kids TV (+1.7M) and El Tren Nam Nam (+1.6M) are the kids brands in the top 20 and no pure song channel is in the top 40. Kids Funny Songs lost about 1.5B counted views in early November, and its newest upload is another egg reveal. Total 446."
+   "note": "Earlier runs summarised: 21 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:51",
@@ -5467,6 +5484,10 @@
   {
    "date": "2026-11-15 20:59",
    "note": "Run 162 (visual craft (Disney Research character proportions)): Disney Research measured 3D kids shows: characters for younger audiences have bigger heads, bigger and rounder eyes, but in three experiments with 4 to 10 year olds children showed no age based preference and actually rejected oversized heads (59 of 87 designed normal heads; enlarged heads picked only 15 of 60 times), and when designing their own they chose wide set eyes most. Total 723."
+  },
+  {
+   "date": "2026-11-15 21:00",
+   "note": "Run 163 (topics and seasons (family films in the next 6 weeks)): The toy lists were already in the tree. Next family films: Disney's original 'Hexed' (25 Nov 2026, Thanksgiving week, a teen girl discovering magic and a hidden witch world) and The Angry Birds Movie 3 (25 Dec 2026), so magic spells and funny birds will be in kids' heads through the holidays; we use the themes in our own way, never the characters. Total 726."
   }
  ],
  "history": [
@@ -6117,13 +6138,13 @@
   {
    "date": "2026-11-15 20:59",
    "total": 723
+  },
+  {
+   "date": "2026-11-15 21:00",
+   "total": 726
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Bath Time Bubble Party",
-   "why": "Bath routine songs are all-time mega hits (7.5B Bath Song); bubbles, duck, splash actions."
-  },
   {
    "title": "Countdown to Party Time!",
    "why": "Parents look for early New Year countdowns so little ones can 'see midnight' before bed; the Bros count down from 10 with a clap per number, then fireworks, confetti and a hug, posted by 30 Dec in every time zone and reusable each year, with Spanish and Portuguese audio for the long Latin school break."
@@ -6175,6 +6196,10 @@
   {
    "title": "Hello, Shop Uncle! (with hand signs)",
    "why": "Turkey's Kukuli has 258M views on a corner shop uncle song and 125M on its sign language version; an original Bros errand song with simple signs for 'hello', 'please' and 'thank you' works in every country."
+  },
+  {
+   "title": "Oops! My Magic Spell Went Wrong!",
+   "why": "Disney's Hexed (25 Nov 2026) puts magic on every kid's mind; the Bros' toy wand turns the dog into a dancing teapot and each chorus tries a new silly spell to fix it."
   }
  ]
 }
