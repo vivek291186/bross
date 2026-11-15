@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:46:09+05:30",
- "runs": 290,
+ "updated": "2026-11-16T03:47:05+05:30",
+ "runs": 291,
  "branches": [
   {
    "id": "platforms",
@@ -1091,6 +1091,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 279
+    },
+    {
+     "t": "A YouTube Short longer than one minute that carries an active Content ID claim can be blocked worldwide, so before any Bro Bros song is sent to a distributor that enrols it in Content ID, our own YouTube channel must be whitelisted, or our 60 to 90 second Shorts could vanish.",
+     "src": "Bytecap research, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 291
+    },
+    {
+     "t": "In OpusClip's count of 2.9M YouTube clips made by its users over 12 months, 40% were 30 to 60 seconds, 28% were 15 to 30, 15% were 60 to 90, 12% were over 90 and only 4% were under 15 seconds; this shows what creators make, not what performs, so our own retention data should decide Short length.",
+     "src": "Bytecap / OpusClip, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 291
+    },
+    {
+     "t": "Planoly's Oct 2026 rules for Trial Reels: use fresh footage (reused clips may be held back), change only one thing per test such as the hook, compare trials only with other trials using sends, likes and watch time, wait at least 24 hours, and judge patterns over several weeks, a cheap way to test two openings of the same song.",
+     "src": "Planoly, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 291
     }
    ]
   },
@@ -8811,11 +8832,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 211): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:50",
-   "note": "Run 212 (global markets (US kids viewing split from CIMM, read along captions lift in Kenya)): CIMM (Jul 2026): US young children's video time is now 35% streaming, 32% YouTube and 16% short form, with linear TV down to about 6%, and children make up nearly a quarter of all YouTube viewing. In Kenya, adding read along captions to existing cartoons lifted child viewing 15% and adult co viewing 39%, a cheap idea for lyric captions in our songs. Total 932."
+   "note": "Earlier runs summarised (up to Run 212): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:51",
@@ -9128,6 +9145,10 @@
   {
    "date": "2026-11-16 03:46",
    "note": "Run 290 (YouTube algorithm (original Shorts priority, Shorts off switch, subscriber vs non subscriber learning)): YouTube announced on 1 Oct 2026 that the Shorts feed will favour original content and cut reach for channels that mainly re upload others' clips, judged at channel level and with no notice. Since April 2026 any viewer can set Shorts time to zero, which removes Shorts from Home, Search and Suggested, so Shorts only channels lose those viewers. Todd Beaupre explained that early results are learned separately for subscribers and new viewers and that most subscribed viewing happens in Suggested, not the Subscriptions feed. Total 1245."
+  },
+  {
+   "date": "2026-11-16 03:47",
+   "note": "Run 291 (Shorts and Reels (Content ID on long Shorts, clip length habits, trial Reel test rules)): Little new on Reels ranking since August. Practical finds: a Short longer than one minute with an active Content ID claim can be blocked worldwide, so if our songs go to a distributor with Content ID, our own channel must be whitelisted first; OpusClip's 2.9M clips cluster at 30 to 60 seconds (40%) with only 4% under 15 seconds, a habit not proof; Planoly's test rules for Trial Reels are fresh footage, one change at a time and trial versus trial comparisons after 24 hours. Total 1248."
   }
  ],
  "history": [
@@ -10290,6 +10311,10 @@
   {
    "date": "2026-11-16 03:46",
    "total": 1245
+  },
+  {
+   "date": "2026-11-16 03:47",
+   "total": 1248
   }
  ],
  "next_week_ideas": [
