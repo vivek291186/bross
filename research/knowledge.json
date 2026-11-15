@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:00:20+05:30",
- "runs": 43,
+ "updated": "2026-11-15T17:00:50+05:30",
+ "runs": 44,
  "branches": [
   {
    "id": "platforms",
@@ -279,6 +279,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 40
+    },
+    {
+     "t": "Big kids song brands also sit on free ad supported TV (FAST) and connected TV apps (Roku, Samsung TV Plus, LG, TCL, Pluto TV) besides YouTube, another reason to render in TV friendly quality.",
+     "src": "Senal News, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 44
     }
    ]
   },
@@ -1658,6 +1665,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 32
+    },
+    {
+     "t": "El Reino Infantil runs 50 YouTube channels in 11 languages (Spanish, English, Italian, German, Portuguese, French, Turkish, Russian, Romanian, Korean, Hindi) for 240M subscribers, so a Latin brand now localises into Hindi and Korean too: songs with recurring characters travel both ways.",
+     "src": "Senal News, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 44
+    },
+    {
+     "t": "El Reino Infantil releases about 40 pieces of content a week as a steady drip rather than full series drops, and it grew from a single focused niche (preschool music videos) into theatre, licensing and streaming.",
+     "src": "PRODU, Jan 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 44
+    },
+    {
+     "t": "El Reino Infantil's audience order is Mexico, Argentina, Brazil, Peru, the US, Colombia, Ecuador, Chile, Spain and the Dominican Republic, so one Latin American Spanish track covers most of the Spanish speaking market including US Hispanic families.",
+     "src": "Senal News, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 44
     }
    ]
   },
@@ -2183,6 +2211,10 @@
   {
    "date": "2026-11-15 17:00",
    "note": "Run 43 (topics and seasons): John Lewis' Christmas 2026 toy picks centre on family shared play off screen, classic wooden toys, a toy train winter village, K pop singing dolls and blind box collectibles; India's next dates are World Hello Day (21 Nov) and Guru Nanak Jayanti (24 Nov). Total 275."
+  },
+  {
+   "date": "2026-11-15 17:00",
+   "note": "Run 44 (global markets): El Reino Infantil at 15 years: 240M subscribers on 50 YouTube channels in 11 languages (including English, Portuguese, Turkish, Russian, Korean and Hindi), 9B views in H1 2026, about 40 uploads a week, and FAST and connected TV channels on Roku, Samsung, LG and Pluto TV; it began with preschool music videos built on named farm animals. Total 279."
   }
  ],
  "history": [
@@ -2357,6 +2389,10 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
+  },
+  {
+   "date": "2026-11-15 17:00",
+   "total": 279
   }
  ],
  "next_week_ideas": [
