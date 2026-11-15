@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:40:31+05:30",
- "runs": 115,
+ "updated": "2026-11-15T19:41:39+05:30",
+ "runs": 116,
  "branches": [
   {
    "id": "platforms",
@@ -1707,6 +1707,48 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 108
+    },
+    {
+     "t": "Super Simple Songs reached 20 years in 2026 with over 70M subscribers and over 90B views; it began as teachers writing simple songs to help pupils learn English and now has a self funded Toronto studio of 40+ animators, musicians, puppeteers and educators.",
+     "src": "blog.youtube, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 116
+    },
+    {
+     "t": "Super Simple Songs now uploads about once a week, alternating a new song with a 'Top 20' themed compilation (counting, circle time, back to school, book songs), and its themed Top 20 mixes earn 1.1 to 3.5M views each, a steady compilation rhythm for a mature channel.",
+     "src": "vidanalyze.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 116
+    },
+    {
+     "t": "Super Simple's strongest new song of 2026 is an upbeat 'everybody celebrate' party song (6M views in under three months), ahead of a counting to 20 sea animals song made with another kids channel (3.1M) and a pack your bag trip song (2.7M): party, counting and adventure themes lead.",
+     "src": "vidanalyze.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 116
+    },
+    {
+     "t": "Lalafun (15.2M subs, 714 videos since Oct 2022) gains 600 to 700M views and 500 to 700K subscribers a month from about 15 uploads a month; its all time hits are classic rhymes with a twist: animal version Wheels on the Bus (955M), Five Little Ducks colours (726M), Old MacDonald safari (407M), counting 10 pandas (337M).",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 116
+    },
+    {
+     "t": "Lalafun runs local language channels (German, Indonesian, Arabic, Canada and US feeds), and its newest US video uses a mystery question title ('Where did the animals' colours go?'), the same curiosity hook that works for Shorts.",
+     "src": "vidiq.com / socialblade.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 116
+    },
+    {
+     "t": "Super Simple Songs also partners with outside brands and channels for single songs (a hockey song with the NHL, a counting song with Noodle and Pals), a way big kids channels borrow each other's audiences.",
+     "src": "vidanalyze.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 116
     }
    ]
   },
@@ -2568,6 +2610,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 113
+    },
+    {
+     "t": "Lalafun's newest titles pair a classic rhyme or job with a small problem and an exclamation ('Three Kittens Need Help!', 'Humpty Dumpty! Oh No, He Fell!', 'Help Is Coming! Paramedics Song') or a theme twist ('Head, Shoulders, Knees and Toes! Costume Party', 'Old MacDonald Magic Circus', its best recent upload at 1.1M).",
+     "src": "vidanalyze.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 116
     }
    ]
   },
@@ -3931,12 +3980,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 16:56",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 16:57",
-   "note": "Run 37 (YouTube main and Kids charts): Tubefilter late Oct 2026: Mexican kids channel El Tren Nam Nam hit No. 2 worldwide with about 1.08B weekly views (up 96%) on an animated tooth mascot brushing for two minutes; VocaVoca's top Short is a morning oral care routine song; family Shorts channels Jasmin and James (Germany) and Cadel and Mia (Australia) sit in the top 5; VocaVoca fell 22% the next week. Total 252."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 16:57",
@@ -4249,6 +4294,10 @@
   {
    "date": "2026-11-15 19:40",
    "note": "Run 115 (global markets (dubbing data, Brazil)): AIR's Sep 2026 dubbing data shows AI only audio tracks keep viewers 4 to 10 times less than professionally voiced ones, while Spanish, Arabic, Indonesian and Portuguese tracks pull ahead first; YouTube auto dubbing (27 languages) skips videos with no speech or Content ID claims, so sung tracks must be re sung by us. In Brazil the Mundo Bita studio launched Bamba Bum, two dancing monsters singing in funk, passinho and swingueira rhythms. Total 549."
+  },
+  {
+   "date": "2026-11-15 19:41",
+   "note": "Run 116 (competitor deep dive (Super Simple Songs, Lalafun)): Super Simple Songs (70M+ subs, 90B+ views, 20 years old) now posts about one video a week, alternating one new song with a 'Top 20' themed compilation, and its new anniversary celebration song reached 6M views in under three months. Lalafun (15.2M) gains 600 to 700M views a month from about 15 uploads a month; its hits are twisted classic rhymes and its titles add a tiny problem or theme ('Paramedics Song', 'Magic Circus'). Total 556."
   }
  ],
  "history": [
@@ -4711,13 +4760,13 @@
   {
    "date": "2026-11-15 19:40",
    "total": 549
+  },
+  {
+   "date": "2026-11-15 19:41",
+   "total": 556
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Our Big Star Lantern",
-   "why": "The Bros fold and light a giant five point star lantern, counting each point; it fits the Filipino parol (season runs to Three Kings on 6 Jan), Christmas stars everywhere and a counting lesson, with Spanish and Tagalog friendly visuals and no religious text."
-  },
   {
    "title": "My Turn, Your Turn!",
    "why": "Sharing and taking turns is BabyBus's newest 54M view breakout; the Bros pass a ball, a swing and a drum back and forth to a call and answer chorus."
@@ -4769,6 +4818,10 @@
   {
    "title": "Monster Bounce Carnival",
    "why": "Brazilian kids hits pair silly dancing creatures with funk and swingueira style beats and a freeze game; an original carnival bounce song with a 'statue!' stop works in Portuguese and travels to Latin America (Carnival is 6 to 10 Feb 2027)."
+  },
+  {
+   "title": "Everybody Dance, It's Party Day!",
+   "why": "Super Simple's biggest new song of 2026 is a celebration song; an original Bro Bros party anthem with clap, spin and freeze moves suits birthdays, New Year and every culture's festivals."
   }
  ]
 }
