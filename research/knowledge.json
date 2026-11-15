@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:41:14+05:30",
- "runs": 277,
+ "updated": "2026-11-16T02:41:59+05:30",
+ "runs": 278,
  "branches": [
   {
    "id": "platforms",
@@ -2043,6 +2043,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 269
+    },
+    {
+     "t": "Ask YouTube, the conversational AI search launched in 2026, is open only to signed in US users aged 13 and over and excludes supervised accounts and signed out viewers (confirmed 6 Jul 2026); YouTube says classic search stays, so for kids content keyword titles, descriptions and chapters remain the way searches find us.",
+     "src": "PPC Land, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 278
+    },
+    {
+     "t": "YouTube's discovery lead said (Sep 2026) the team tested capping how many times one video is recommended to the same viewer at about eight, after finding an upload recommended 19 times to someone who never noticed it, so a thumbnail and title that fail to earn a click keep wasting impressions and should be refreshed.",
+     "src": "Creator Insider via PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 278
+    },
+    {
+     "t": "YouTube advises creators not to judge new uploads against their single best video, because new content can take time to find its audience and each viewer's ranking differs; for us that means judging each song after two to four weeks, not on day one.",
+     "src": "Creator Insider via PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 278
+    },
+    {
+     "t": "Since 22 Oct 2026 the US mobile app has a four item bottom bar (Home, Shorts, Create, You) and a 'Subs' tab in the Home top bar beside Live, Music and custom feeds; custom feeds work only for signed in English speakers in the US with history on, so most families abroad still see the classic Home.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 278
     }
    ]
   },
@@ -8475,11 +8503,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 198): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:37",
-   "note": "Run 199 (TRENDS (early to mid November formats: always dancing, beat camera reveal, tiny message zoom)): Early November TikTok and Reels formats with kid safe twists: the 'always dancing' partner clip (we do a sibling version), feet to head camera reveals on the beat, tiny text zoom reveals and Christmas countdown overlays; the shoulder bounce team dance, missing from the bank despite the run 196 note, was put back at the top. Four older Reels formats (loading, battery, toggle, 5 stages) were dropped as faded. Total 868."
+   "note": "Earlier runs summarised (up to Run 199): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:38",
@@ -8792,6 +8816,10 @@
   {
    "date": "2026-11-16 02:41",
    "note": "Run 277 (TRENDS (December returners: signature line, blinking light letters, frozen bubbles)): Looking ahead four weeks, last December's kid safe TikTok formats were a 'signature line' trend (stare at the camera, then say your most repeated phrase on the beat), a blinking Christmas lights alphabet wall and holiday audio pause reveals; last winter families also made frozen bubbles go viral as a cold weather science trick. A Bloomberg look inside 13 US kids' rooms (ages 5 to 12) shows Pokemon, blind boxes, plush collectibles, Minecraft and Roblox, pets like axolotls and frogs, and disco ball sparkle. Three seasonal formats joined the trend bank. Total 1197."
+  },
+  {
+   "date": "2026-11-16 02:41",
+   "note": "Run 278 (YouTube algorithm (Ask YouTube age gate, repeat recommendation limits, Subs tab move)): Ask YouTube, the conversational AI search, is limited to signed in US users aged 13+ and excludes supervised accounts and signed out viewers, so kids find songs through classic search and Home. YouTube's discovery lead says the same upload can be shown to one viewer many times without a click (one was recommended 19 times), and the 22 Oct US app redesign moved Subscriptions into a top bar 'Subs' tab with custom feeds limited to signed in English US users. Total 1201."
   }
  ],
  "history": [
@@ -9902,6 +9930,10 @@
   {
    "date": "2026-11-16 02:41",
    "total": 1197
+  },
+  {
+   "date": "2026-11-16 02:41",
+   "total": 1201
   }
  ],
  "next_week_ideas": [
