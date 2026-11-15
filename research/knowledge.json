@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:00:01+05:30",
- "runs": 97,
+ "updated": "2026-11-15T19:00:46+05:30",
+ "runs": 98,
  "branches": [
   {
    "id": "platforms",
@@ -503,6 +503,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 87
+    },
+    {
+     "t": "Instagram announced 'Features' on 26 Oct 2026: horizontal videos up to 90 minutes in the feed and Explore, promoted through short Reel previews that link to the full video; it is testing with US creators after a Brazil trial, a possible home for our 20 to 30 minute song compilations.",
+     "src": "The National, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 98
+    },
+    {
+     "t": "Instagram launched a free Apple TV app for Reels, long videos and live shows on 23 Oct 2026, after Fire TV, Google TV and Samsung apps, so Instagram is also becoming a living room screen.",
+     "src": "Metricool, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 98
+    },
+    {
+     "t": "From 28 Oct 2026 Instagram no longer lets creators link Reels together in a series, so story continuity on Instagram has to come from captions and pinned Reels, while YouTube Shorts series still work.",
+     "src": "Metricool, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 98
+    },
+    {
+     "t": "Instagram now limits recommendation reach for profiles that show AI generated people without its 'AI generated profile' label, while AI assisted edits and captions are unaffected; our clearly cartoon 3D characters should not count, but avoid photoreal human looks.",
+     "src": "Metricool, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 98
     }
    ]
   },
@@ -3516,10 +3544,6 @@
   },
   {
    "date": "2026-11-15 16:02",
-   "note": "Run 19 (topics and seasons): US Thanksgiving is 26 Nov; Lunar New Year 2027 is 6 Feb, Year of the Goat; Gen Alpha 3 to 8 favourites are superheroes, Bluey, Barbie, Elsa, Sonic and SpongeBob; games are now the third way kids discover characters; parents love sharing favourites. Total 173."
-  },
-  {
-   "date": "2026-11-15 16:02",
    "note": "Run 20 (global markets): Indonesia: five Indonesian, kid friendly creators in a single Tubefilter weekly top 50 despite an under 16 social media ban. Music royalty rates per 1,000 streams show rich markets (Canada, Germany, UK, Australia, US) pay 10 to 60 times more than India, Indonesia and the Philippines; Art Tracks pay far more than Content ID. Total 177."
   },
   {
@@ -3829,6 +3853,10 @@
   {
    "date": "2026-11-15 19:00",
    "note": "Run 97 (YouTube algorithm (valued watch time, Studio tools)): YouTube counts 'valued watch time' only on videos viewers rate four or five stars in surveys, with a model predicting that rating for everyone, and Todd Beaupre says no signal has the same weight for everyone. Studio shows no survey score. The Inspiration tab has been phased out since August 2026; Ask Studio is now the idea tool. Total 489."
+  },
+  {
+   "date": "2026-11-15 19:00",
+   "note": "Run 98 (Shorts and Reels (Instagram Features, TV apps, series change)): Instagram announced Features on 26 Oct 2026, horizontal videos up to 90 minutes promoted by Reel previews (testing in the US after Brazil), launched an Apple TV app on 23 Oct after Fire TV, Google TV and Samsung, and stopped letting creators link Reels into series from 28 Oct. Profiles with unlabelled AI generated people can lose recommendation reach. Total 493."
   }
  ],
  "history": [
@@ -4219,6 +4247,10 @@
   {
    "date": "2026-11-15 19:00",
    "total": 489
+  },
+  {
+   "date": "2026-11-15 19:00",
+   "total": 493
   }
  ],
  "next_week_ideas": [
