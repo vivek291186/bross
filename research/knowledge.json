@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:14:22+05:30",
- "runs": 143,
+ "updated": "2026-11-15T20:14:57+05:30",
+ "runs": 144,
  "branches": [
   {
    "id": "platforms",
@@ -699,6 +699,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 138
+    },
+    {
+     "t": "T-Series Kids Hut, a big Indian nursery rhyme brand on YouTube, had only about 4,820 Instagram followers in Oct 2026 (flat over a year) and posted about once every five weeks, so animated rhyme brands rarely build Instagram audiences; creator led accounts like Ms Rachel are the exception.",
+     "src": "creatordb.app, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 144
+    },
+    {
+     "t": "Dash Hudson's baby and children industry benchmark (H1 2024, 2,956 Instagram handles) found average monthly follower growth of only 0.7% on Instagram against 4.1% on TikTok and 0.8% on YouTube, so slow Instagram growth for our account is normal for the category.",
+     "src": "dashhudson.com, 2024",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 144
+    },
+    {
+     "t": "In the same benchmark parenting tip content (a baby sleep brand's posts) outperformed the baby and children industry by 114%, so on Instagram, where the audience is parents, Reels that pair a song with a parenting win (bedtime, brushing, tidy up) should beat plain dance clips.",
+     "src": "dashhudson.com, 2024",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 144
     }
    ]
   },
@@ -4624,12 +4645,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:35",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:37",
-   "note": "Run 65 (visual craft (thumbnails and small team 3D)): Song thumbnail data: high contrast (7:1 or more) averaged 6.5% click rate against 4.7% for low contrast, a tight face crop (face 40% of frame height) 7.6% against 4.3% for full body, muted palettes about 47% worse. Small 3D teams speed up with reusable effect libraries and a locked animatic before animation. Playbook thumbnail rule updated. Total 367."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:38",
@@ -4942,6 +4959,10 @@
   {
    "date": "2026-11-15 20:14",
    "note": "Run 143 (rules (full list of made for kids limits)): YouTube Help's full list of what made for kids videos lose: autoplay on Home, cards, end screens, watermarks, memberships, comments, donations, live chat, merch, notifications, personalised ads, Miniplayer playback, and viewers cannot save them to a playlist or Watch Later, so only our own channel playlists can keep songs together. Total 648."
+  },
+  {
+   "date": "2026-11-15 20:14",
+   "note": "Run 144 (Instagram for kids song brands (benchmarks)): Kids song brands rarely grow on Instagram: T-Series Kids Hut, a large Indian rhymes brand on YouTube, has only about 4.8K Instagram followers and posts about once every five weeks; Dash Hudson's baby and children benchmark shows Instagram accounts grow about 0.7% a month against 4.1% on TikTok, and parenting tip posts (baby sleep) beat the industry by over 100%. Total 651."
   }
  ],
  "history": [
@@ -5516,6 +5537,10 @@
   {
    "date": "2026-11-15 20:14",
    "total": 648
+  },
+  {
+   "date": "2026-11-15 20:14",
+   "total": 651
   }
  ],
  "next_week_ideas": [
