@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:39:13+05:30",
- "runs": 314,
+ "updated": "2026-11-16T04:40:39+05:30",
+ "runs": 315,
  "branches": [
   {
    "id": "platforms",
@@ -9281,6 +9281,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 312
+    },
+    {
+     "t": "Last New Year the big family friendly formats were greenscreen 'my resolutions' list reveals and month by month year recap edits (NewEngen, Jan 2026), so a 'Bro Bros goals for 2027' Short is likely to ride the same wave from about 28 Dec.",
+     "src": "NewEngen, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 315
+    },
+    {
+     "t": "A squeaky voiced 'freezing!' reaction on stepping outside into the cold was widely recreated last December, a ready made winter gag our characters can do in one shot.",
+     "src": "NewEngen, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 315
+    },
+    {
+     "t": "January's 'Ngay Tho' duet had two people argue opposite views, then both sway and hide their faces at the song's dramatic drop, a sibling squabble format that suits Big Bro and Little Bro.",
+     "src": "NewEngen, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 315
+    },
+    {
+     "t": "During last January's winter storm a meme paired deadpan snowy footage with deliberately terrible explosion effects, showing that cheap, silly effects on calm winter shots can be the joke itself.",
+     "src": "NewEngen, Jan 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 315
+    },
+    {
+     "t": "Original jingles were a trend of their own last January: creators wrote theme songs for brands and everyday things, and a homemade baby jingle spawned remixes, which supports short catchy 'theme song for my breakfast' style Bro Bros Shorts.",
+     "src": "NewEngen, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 315
     }
    ]
   }
@@ -9309,10 +9344,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:40",
-   "note": "Run 236 (global markets (which dubbed languages keep kids coming back)): AIR's kids channel test with identical videos showed Arabic dubbing bringing the most views (3.4M in five weeks) but German the most loyal viewers; a dubbed track should be judged by returning viewer share (above 40% is working). Dubbing beats subtitles for kids everywhere because they cannot read fast, and creators with dubbed tracks get over a quarter of watch time from other languages. Total 1036."
   },
   {
    "date": "2026-11-16 00:41",
@@ -9625,13 +9656,13 @@
   {
    "date": "2026-11-16 04:39",
    "note": "Run 314 (Shorts and Reels (view through benchmarks, best Short length, kids songs in YouTube's all time top 10)): Quso's 508K post dataset puts the median Short at about 45% view through and the top 10% near 91%, with 11 to 20 second Shorts earning the highest median views; five of YouTube's ten most viewed videos ever are children's songs. Reels algorithm news was quiet: nothing new beyond the tree. Total 1316."
+  },
+  {
+   "date": "2026-11-16 04:40",
+   "note": "Run 315 (TRENDS (last winter's returners: New Year goal reveals, 'it's freezing' reaction, sway at the drop duet, cheesy winter effects, original jingles)): NewEngen's December and January roundups show which winter formats are likely back in 4 to 7 weeks: greenscreen New Year resolution reveals and month by month recaps, a squeaky 'freezing!' reaction on stepping outside, a duet where two people argue then sway and cover their faces at the drop, deadpan snow clips with deliberately cheesy effects, and creators writing original jingles. Two joined the trend bank and a winter clothes song joined the ideas. Total 1321."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:59",
-   "total": 153
-  },
   {
    "date": "2026-11-15 16:00",
    "total": 157
@@ -10827,6 +10858,10 @@
   {
    "date": "2026-11-16 04:39",
    "total": 1316
+  },
+  {
+   "date": "2026-11-16 04:40",
+   "total": 1321
   }
  ],
  "next_week_ideas": [
@@ -10847,8 +10882,8 @@
    "why": "Germany's big kids song channel just released a bow tying song and life skill songs travel across languages; a step by step song (loop, loop, cross, pull) with big hand close ups helps 4 to 6 year olds worldwide and parents love practical songs."
   },
   {
-   "title": "My Little Pocket Pet",
-   "why": "Retro electronic pocket pets are a top cheap Christmas toy in 2026 and parents remember them; an original song where the Bros feed, wash and tuck in a beeping pixel pet teaches care routines, needs no brand, and travels worldwide."
+   "title": "Brrr, It's Freezing! (Winter Clothes Song)",
+   "why": "The squeaky 'freezing!' step outside gag was a big winter format last December; a dressing song where the Bros put on one item per verse (hat, scarf, coat, mittens, boots) and dance warmer each time teaches clothes words and routine, works in every cold country and as a loop Short."
   },
   {
    "title": "Help Us Fix the Song!",
@@ -10888,6 +10923,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "It's freezing! step outside",
+   "where": "TikTok and Reels each winter (NewEngen Dec 2025)",
+   "status": "seasonal",
+   "use": "Bros open the front door in shorts, step out, freeze stiff and squeak 'FREEZING!', run back in, then dress in hat, scarf and mittens verse by verse of our own winter clothes song and step out again dancing. Meshy prompt: standing in place, shiver with arms hugging body, then jump and march in place with knees high."
+  },
+  {
+   "name": "New Year goals reveal",
+   "where": "TikTok greenscreen and Reels, late Dec to early Jan",
+   "status": "seasonal",
+   "use": "Big Bro holds up a giant checklist 'Bro Bros goals for 2027' (brush teeth, share toys, learn to swim, be kind) and each item gets a quick move on the beat of our New Year song, ticking boxes; ends on a jump and confetti. Meshy prompt: standing, point forward, nod, then jump once with arms up."
+  },
   {
    "name": "Shoulder bounce (dembow style)",
    "where": "TikTok, rising Nov 2026 (US Latin creators, Spain, Italy)",
@@ -10955,22 +11002,10 @@
    "use": "In a cartoon classroom the Bros and friends start our new song's signature move; their original teacher character pretends to be strict, then copies the move perfectly on the beat drop and everyone cheers. Meshy prompt for the teacher: standing in place, arms crossed, then step side to side with arms swinging and finish with both hands raised."
   },
   {
-   "name": "Kid took over the account",
-   "where": "Instagram, Gulf brands since Jul 2026 (Uber UAE, Visit Abu Dhabi)",
-   "status": "rising",
-   "use": "A Reel 'posted by' Little Bro: wobbly close up of his eye, a big finger over the lens, an upside down shot of Big Bro dancing, a random caption like 'banana time', then Big Bro grabs the phone and the proper chorus of our new song plays with both dancing. Keep it clearly animated and playful."
-  },
-  {
    "name": "Growth stages montage",
    "where": "TikTok rising (6 second crop and plant growth montages, Nov 2026)",
    "status": "rising",
    "use": "6 to 8 second loop for our planting song: a seed in a pot, sprout, leaves, bud, big sunflower, each stage popping on a beat of the chorus, with Little Bro growing taller beside it in step. Ends where it started so it loops. Meshy prompt for Little Bro: standing in place, start with arms down, then slowly rise onto tiptoes while stretching both arms up overhead."
-  },
-  {
-   "name": "Pet does human things",
-   "where": "TikTok proven family format (41 creators, ppl.studio Nov 2026)",
-   "status": "evergreen",
-   "use": "Give the Bros an original pet (a puppy or bunny of our own design) that copies them in a 10 to 15 second Short: the brothers brush teeth, the pet brushes too; they do our signature move, the pet does it a beat late and falls over gently, then nails it on the last beat. Our own song, caption 'Who did it best?'."
   },
   {
    "name": "Save Christmas quest",
