@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:50:27+05:30",
- "runs": 253,
+ "updated": "2026-11-16T01:51:56+05:30",
+ "runs": 254,
  "branches": [
   {
    "id": "platforms",
@@ -1924,6 +1924,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 242
+    },
+    {
+     "t": "YouTube's 1 Oct 2026 originality guidance for Shorts says minor technical edits, templates or a voice over that just describes the on screen action do not count as adding value; original storytelling, commentary or distinctive editing does, so Bro Bros compilations and recut Shorts should each add a new hook, scene or caption idea.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 254
+    },
+    {
+     "t": "Channels downranked in the Shorts feed for mostly reposting get no email, strike or status screen, so a sudden fall in Shorts views is the only sign; keeping every Short visibly new protects the whole channel.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 254
+    },
+    {
+     "t": "Meta reported that 75% of US Instagram recommendations came from original posts in Q4 2025, a sign that both apps now reward the account that first made a clip over reposters.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 254
+    },
+    {
+     "t": "The UK government consulted until 31 Aug 2026 on rules that could make YouTube promote public service broadcaster channels (BBC, ITV and others) more visibly, which, if adopted, could add more CBeebies style competition in UK recommendations.",
+     "src": "Android Authority, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 254
     }
    ]
   },
@@ -7894,11 +7922,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 174): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:42",
-   "note": "Run 175 (topics and seasons (southern summer break, where Christmas songs peak)): YouTube's charts for the week before Christmas 2025 show six Christmas songs in the US top 10 and Christmas leading the UK and Germany, but almost none in India, Brazil, South Africa or Japan. Brazil's school year ends 18 to 23 Dec 2026, so Brazil and the southern hemisphere get summer holiday songs (beach, pool, sun) while the north gets snow and Christmas. Total 774."
+   "note": "Earlier runs summarised (up to Run 175): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:43",
@@ -8211,6 +8235,10 @@
   {
    "date": "2026-11-16 01:50",
    "note": "Run 253 (TRENDS (what kids play on Roblox in November)): GGRecon's 2 Nov 2026 list of the fastest growing new Roblox games is led by egg smashing for rare animals, a 'fake an egg' disguise game, cat sumo battles and '+1' grow a little more each round games, alongside ragdoll physics chaos and bikes and scooters. The '+1' loop gave a new counting song idea. Total 1114."
+  },
+  {
+   "date": "2026-11-16 01:51",
+   "note": "Run 254 (YouTube algorithm (originality detail on Shorts, UK prominence proposal)): Most algorithm statements found were already in the tree. New details: YouTube says a voice over describing on screen action or template edits do not make a reposted Short original, and there is no notice when a channel is downranked; Meta reported 75% of US Instagram recommendations came from original posts in late 2025; the UK consulted in summer 2026 on making public service broadcaster channels easier to find on YouTube. Total 1118."
   }
  ],
  "history": [
@@ -9225,6 +9253,10 @@
   {
    "date": "2026-11-16 01:50",
    "total": 1114
+  },
+  {
+   "date": "2026-11-16 01:51",
+   "total": 1118
   }
  ],
  "next_week_ideas": [
