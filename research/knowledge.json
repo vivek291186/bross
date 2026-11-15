@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:07:58+05:30",
- "runs": 307,
+ "updated": "2026-11-16T04:09:10+05:30",
+ "runs": 308,
  "branches": [
   {
    "id": "platforms",
@@ -6614,6 +6614,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 296
+    },
+    {
+     "t": "Pakistan's top YouTube channels in Nov 2026 are led by family and Shorts creators: 16 family tagged channels sit in the top 90, including Ak Ultra (19M subscribers, 22.3B views), Anaya Eshaal Family (16.9M) and Minsa Saim Omer (13.4M, 20.9B views), so Pakistani children mostly watch family creators, and an animated English song channel has to win them through Shorts.",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 308
+    },
+    {
+     "t": "Urdu story channel Geo Kahani has about 7M subscribers and 4.5B views in Pakistan's top 60, which suggests narrated animated stories in Urdu are a large format there, similar to the Hindi story videos we already make.",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 308
+    },
+    {
+     "t": "Pakistani learning channel TinyTaleem still has 145K subscribers but drew only about 2,500 views in October 2026 from 453 videos (top videos are English ABC and animal name lessons and an Urdu alphabet poem), a reminder that a subscriber count means little once a channel stops posting fresh, recommendable videos.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 308
     }
    ]
   },
@@ -9168,11 +9189,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 228): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:05",
-   "note": "Run 229 (TRENDS (slow spin transitions, colourful retro Christmas over beige)): The slow spin transition (a gentle turn on the spot that hides an outfit or scene change) is a calm, all ages Reels format that joined the trend bank as a season swap. Since 2023 TikTok has pushed back on beige minimal Christmas toward colourful, nostalgic early 2000s style (rainbow bulbs, mismatched ornaments, tinsel), which matches Bro Bros' bright palette for December sets. Total 997."
+   "note": "Earlier runs summarised (up to Run 229): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:06",
@@ -9485,13 +9502,13 @@
   {
    "date": "2026-11-16 04:07",
    "note": "Run 307 (TRENDS (December returners: Christmas say the word on the beat, letters to Santa, holidays around the world)): Last December Kapwing pushed a Christmas edition of 'say the word on the beat' (rhyming festive pictures, the beat speeds up each round, one slip ends it), a kid perfect game Short likely to return. Kids channel holiday staples remain sing alongs with on screen lyrics, letters to Santa read aloud with replies, daily advent minis and 'Christmas around the world' tours. The beat word game joined the trend bank. Total 1296."
+  },
+  {
+   "date": "2026-11-16 04:09",
+   "note": "Run 308 (global markets (Pakistan)): Pakistan's top YouTube channels (HypeAuditor, Nov 2026) are dominated by family and Shorts creators (Ak Ultra 19M subscribers and 22.3B views, Anaya Eshaal Family 16.9M, Minsa Saim Omer 20.9B views), with story channel Geo Kahani at 7M. A small Pakistani learning channel (TinyTaleem, 145K subscribers) now gets only about 2.5K views a month, proof that old subscribers bring no views without fresh, recommended videos. Total 1299."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:53",
-   "total": 107
-  },
   {
    "date": "2026-11-15 15:54",
    "total": 114
@@ -10687,6 +10704,10 @@
   {
    "date": "2026-11-16 04:07",
    "total": 1296
+  },
+  {
+   "date": "2026-11-16 04:09",
+   "total": 1299
   }
  ],
  "next_week_ideas": [
