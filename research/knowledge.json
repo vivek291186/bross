@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:08:02+05:30",
- "runs": 108,
+ "updated": "2026-11-15T19:08:39+05:30",
+ "runs": 109,
  "branches": [
   {
    "id": "platforms",
@@ -1105,6 +1105,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 105
+    },
+    {
+     "t": "Todd Beaupre (Creator Insider, 1 Sep 2026): Home does not try to find a single category for a channel; it ranks each video for each viewer, and many viewers watch hundreds of unrelated channels, so our mixed song topics are not penalised as long as each video satisfies its own viewers.",
+     "src": "OutlierKit (Creator Insider), Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 109
+    },
+    {
+     "t": "Beaupre also said Home weighs how a video performs in the Home context, not through embeds, ads or shared links, and that wider reach brings broader audiences and naturally lower click rates, so a falling click rate while impressions grow is normal.",
+     "src": "OutlierKit (Creator Insider), Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 109
+    },
+    {
+     "t": "Widely shared claims of a February 2026 'micro niche cluster' overhaul of Home had no YouTube source and were withdrawn by the blogs that repeated them; treat algorithm rumours without an official YouTube statement as unproven.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 109
     }
    ]
   },
@@ -3761,10 +3782,6 @@
   },
   {
    "date": "2026-11-15 16:48",
-   "note": "Run 30 (visual craft): vidIQ's July 2026 study of 500 breakout thumbnails: faces in 80% of the top 50, face or strong contrast in 92%, extreme expressions in only 6%; Animaj's new preschool series Ozzy Fox builds every episode on one original song that turns a routine into a mission and hit 1.5M views in under 5 days. Total 223."
-  },
-  {
-   "date": "2026-11-15 16:48",
    "note": "Run 31 (topics and seasons): Next dates: UN World Children's Day on 20 Nov; Christmas 2026 is a Friday, so our Friday compilation lands on Christmas Day; fun December hooks are Ugly Christmas Sweater Day (18 Dec), Wright Brothers Day (17 Dec, planes), International Mountain Day (11 Dec) and Cut Out Snowflakes Day (27 Dec). Total 227."
   },
   {
@@ -4074,6 +4091,10 @@
   {
    "date": "2026-11-15 19:08",
    "note": "Run 108 (YouTube charts (vidIQ US trending, 30 days to 14 Nov)): In vidIQ's US trending list for the 30 days to 14 Nov, VocaVoca is No. 3 with about 1.6B new views, ahead of CoComelon (1.08B); Doctor Sophia, a healthy habits kids channel, added about 651M, the bilingual family music act 123 Andres about 868M, and the nursery rhyme channels Lalafun, Toddler Zoo and NuNu TV 450 to 650M each. Total 524."
+  },
+  {
+   "date": "2026-11-15 19:08",
+   "note": "Run 109 (YouTube algorithm (Home ranking for small and mixed channels)): Todd Beaupre (Creator Insider, 1 Sep 2026): Home does not try to put a channel in one category but ranks each video for each viewer, judges videos on how they do in the Home context, and wider reach naturally lowers click rate. Claims of a February 2026 'micro niche' Home overhaul had no YouTube source. Subscriptions moved into Home as a Subs tab on 22 Oct 2026. Total 527."
   }
  ],
  "history": [
@@ -4508,6 +4529,10 @@
   {
    "date": "2026-11-15 19:08",
    "total": 524
+  },
+  {
+   "date": "2026-11-15 19:08",
+   "total": 527
   }
  ],
  "next_week_ideas": [
