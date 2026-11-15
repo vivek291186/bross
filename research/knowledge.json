@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:02:49+05:30",
- "runs": 101,
+ "updated": "2026-11-15T19:03:26+05:30",
+ "runs": 102,
  "branches": [
   {
    "id": "platforms",
@@ -2666,6 +2666,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 90
+    },
+    {
+     "t": "Parents look for early New Year's Eve countdown videos so young children can 'see midnight' hours before bedtime; the favourites are polished, end on a joyful celebration rather than a sudden stop, and run from 10 seconds to about a minute, a ready made format for a Bro Bros countdown song posted by 30 Dec.",
+     "src": "Cool Mom Tech, Dec 2023",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 102
+    },
+    {
+     "t": "Netflix has published kids New Year countdowns with its characters on 31 Dec for years, and parents queue the video ahead to skip ads; a long, ad light 'countdown party' compilation that ends in fireworks fits early evening viewing in every time zone.",
+     "src": "Cool Mom Tech, Dec 2023",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 102
+    },
+    {
+     "t": "The US East Coast usually sees its first accumulating snow from late November to December, and the 2026 to 2027 El Nino outlook expects a variable winter with more rain than long freezes, so a first snow song should land in late November while rain and puddle songs stay relevant too.",
+     "src": "Fox 5 NY (Farmers' Almanac), 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 102
     }
    ]
   },
@@ -3606,10 +3627,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 16:09",
-   "note": "Run 23 (rules, safety, monetisation): Re checked YouTube's official kids and family quality principles: five high quality traits (kindness and healthy habits, curiosity and learning, creativity and play, life skills with clear lessons, diverse people and places) are promoted in recommendations and YouTube Kids; a channel focused on low quality content can lose the Partner Program. Total 190."
-  },
-  {
    "date": "2026-11-15 16:38",
    "note": "Run 24 (our own results): Fresh Metricool read: analytics for published videos lag about 4 days (latest row 11 Nov while uploads continue daily); English Diwali song Light the Diyas got 783 views against 69 for the Hindi Diwali rock song; songs beat cartoon episodes about 3 to 1 on views; 10 AM IST song slots lead. Total 195."
   },
@@ -3920,6 +3937,10 @@
   {
    "date": "2026-11-15 19:02",
    "note": "Run 101 (visual craft (lip sync tools, winter light)): Blender lip sync options for singing Bros: LipKit (paid, Rhubarb phoneme engine, maps sounds to shape keys) and the free GPL Parrot Lipsync (allosaurus speech to phonemes, adjustable rest gaps); neither claims singing support, so feed them the isolated vocal track. Winter lighting: low warm sun, expose so snow does not clip to white, and use one vivid colour against pale snow. Total 502."
+  },
+  {
+   "date": "2026-11-15 19:03",
+   "note": "Run 102 (topics and seasons (early New Year countdowns, first snow)): Parents search for early New Year's Eve countdown videos so young kids can 'see midnight' and still go to bed early; good ones are polished, ad light, end with a happy celebration and range from 10 seconds to a minute. US East Coast first snow usually arrives late November to December, and the 2026 to 2027 El Nino outlook suggests a variable winter with more rain. Total 505."
   }
  ],
  "history": [
@@ -4326,6 +4347,10 @@
   {
    "date": "2026-11-15 19:02",
    "total": 502
+  },
+  {
+   "date": "2026-11-15 19:03",
+   "total": 505
   }
  ],
  "next_week_ideas": [
@@ -4382,8 +4407,8 @@
    "why": "Bath routine songs are all-time mega hits (7.5B Bath Song); bubbles, duck, splash actions."
   },
   {
-   "title": "I See Something Red",
-   "why": "Colour riddle call-and-response with answer pauses; learning hidden in a game, works in every language."
+   "title": "Countdown to Party Time!",
+   "why": "Parents look for early New Year countdowns so little ones can 'see midnight' before bed; the Bros count down from 10 with a clap per number, then fireworks, confetti and a hug, posted by 30 Dec in every time zone and reusable each year, with Spanish and Portuguese audio for the long Latin school break."
   }
  ]
 }
