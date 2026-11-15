@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:01:23+05:30",
- "runs": 164,
+ "updated": "2026-11-15T21:07:10+05:30",
+ "runs": 165,
  "branches": [
   {
    "id": "platforms",
@@ -2211,6 +2211,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 160
+    },
+    {
+     "t": "Little Baby Bum (41.6M subscribers, 44.8B views) has had flat or falling subscribers since early 2025 yet still earns about 110 to 140M views a month, proof that an old nursery catalogue lives on recommendations and repeat viewing, not new subscribers.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 165
+    },
+    {
+     "t": "All five of Little Baby Bum's most viewed videos are Wheels on the Bus variants: Halloween Wheels on the Bus (275M), Ten Little Buses (112M and 69M), Bus Wash (60M) and Wheels on the Bus Underwater (56M), so a single proven song re set in new places and seasons is a repeatable hit engine.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 165
+    },
+    {
+     "t": "Little Baby Bum's newest Shorts are counting songs with a twist on a known rhyme ('Ten Shiny Stars Roll Out of Bed', 5 Nov 2026), reaching about 53K views in under two days, so classic counting down structures (ten in the bed, five little ducks) adapt well to Shorts.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 165
     }
    ]
   },
@@ -4353,6 +4374,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 164
+    },
+    {
+     "t": "Little Baby Bum's 'Multi Language Songs' channel, mixing several languages, has only 234K subscribers and about 2.7M views a month against 100M+ for the English channel, so mixing languages on one channel works poorly; dub into separate language channels or audio tracks instead.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 165
     }
    ]
   },
@@ -5192,11 +5220,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 22 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:52",
-   "note": "Run 86 (Shorts and Reels trends (Shorts shelf life, holiday sounds)): Analysts of very large channels report Shorts impressions fall sharply after about 28 to 30 days and that Shorts now show more in Search for how to and learning queries. On Reels three of the top eight sounds in the week of 11 Nov are Christmas label tracks used for countdowns and 'it's time' reveals, none usable on business accounts. Total 453."
+   "note": "Earlier runs summarised: 23 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:52",
@@ -5509,6 +5533,10 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Run 164 (global markets (Bangla and Urdu, South Asia beyond Hindi)): Bengali rhyme channel Kids Tv Bangla has 3.69M subscribers and 2.1B views and still draws about 55M views a month from rhyme remixes and collections, so Bangla (around 270M speakers) is a large, under served kids language. Google says about 60% of watch time on Pakistani content comes from viewers abroad, so Urdu songs travel to the diaspora in the Gulf, UK and North America. Total 729."
+  },
+  {
+   "date": "2026-11-15 21:07",
+   "note": "Run 165 (competitor deep dive (Little Baby Bum)): Little Baby Bum (41.6M subs, 44.8B views) has gained no subscribers in two years yet still earns 110 to 140M views a month, and its all time top five are all Wheels on the Bus variants (Halloween 275M, Ten Little Buses 112M, Bus Wash, Underwater). Its separate multi language channel is small (234K subs), so dubbing works best inside strong single language channels or audio tracks. Total 733."
   }
  ],
  "history": [
@@ -6167,13 +6195,13 @@
   {
    "date": "2026-11-15 21:01",
    "total": 729
+  },
+  {
+   "date": "2026-11-15 21:07",
+   "total": 733
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Countdown to Party Time!",
-   "why": "Parents look for early New Year countdowns so little ones can 'see midnight' before bed; the Bros count down from 10 with a clap per number, then fireworks, confetti and a hug, posted by 30 Dec in every time zone and reusable each year, with Spanish and Portuguese audio for the long Latin school break."
-  },
   {
    "title": "Monster Bounce Carnival",
    "why": "Brazilian kids hits pair silly dancing creatures with funk and swingueira style beats and a freeze game; an original carnival bounce song with a 'statue!' stop works in Portuguese and travels to Latin America (Carnival is 6 to 10 Feb 2027)."
@@ -6225,6 +6253,10 @@
   {
    "title": "Oops! My Magic Spell Went Wrong!",
    "why": "Disney's Hexed (25 Nov 2026) puts magic on every kid's mind; the Bros' toy wand turns the dog into a dancing teapot and each chorus tries a new silly spell to fix it."
+  },
+  {
+   "title": "Bros' Bus Goes Everywhere!",
+   "why": "Little Baby Bum's top five videos are all Wheels on the Bus re set in new places (Halloween 275M, underwater, bus wash); our own bus song visits a new place each week (snow, beach, space) to build a series."
   }
  ]
 }
