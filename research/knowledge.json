@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:43:40+05:30",
- "runs": 280,
+ "updated": "2026-11-16T03:35:46+05:30",
+ "runs": 281,
  "branches": [
   {
    "id": "platforms",
@@ -3184,6 +3184,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 273
+    },
+    {
+     "t": "Brazil's kid pop acts show how fast a school age music brand can grow: duo Kysha e Mine reached about 1.2B YouTube views and 130M TikTok likes in roughly a year with a school themed series, and MC Divertida has about 18.3M subscribers; their label has psychologists review lyrics and scripts, which it says wins parent and school trust.",
+     "src": "Billboard Brasil, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 281
     }
    ]
   },
@@ -3968,6 +3975,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 257
+    },
+    {
+     "t": "Former NCT singer Mark Lee left SM in 2026 to make 'Kids-POP' songs written for children; when he tested his own English song on two Korean kids they lost interest and picked simple, older Korean pop songs instead, so a global kids song needs singable melody first and local language versions for non English markets.",
+     "src": "Korea Times, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 281
+    },
+    {
+     "t": "K-pop idols keep partnering with kids brands: NCT Dream sang 'Hot Sauce' as dinosaur characters with Pinkfong, NewJeans did a Baby Shark collab, TWS led a Children's Day dance challenge with Pinkfong in May 2026 and FIFTY FIFTY released a Christmas single with the Numberblocks brand, so an idol style chorus with simple point choreography is a proven kids format we can make with our own song.",
+     "src": "Korea Times, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 281
+    },
+    {
+     "t": "A Zigazoo poll of more than 4,500 Gen Alpha users (mostly US) named pop the favourite genre (31%) with K-pop second (25%), ahead of Christian and country (17% each) and hip hop (10%), so a bright pop or K-pop flavoured production suits school age viewers better than classic nursery styles.",
+     "src": "RouteNote / MusicAlly, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 281
+    },
+    {
+     "t": "At Kidscreen Summit 2026 a panel with Netflix Animation and Disney Branded Television called music a storytelling, marketing and fandom superpower and urged writing songs early in development rather than adding them at the end, citing KPop Demon Hunters, which supports writing the Suno song first and building each video's story around its hook.",
+     "src": "Kidscreen Summit agenda, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 281
     }
    ]
   },
@@ -8552,11 +8587,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 201): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:40",
-   "note": "Run 202 (TRENDS (mid November TikTok: trio silly dance, dancing animal friends, slow mo entrances, fan wipe)): NewEngen's 13 Nov roundup and KnowYourMeme added kid friendly formats: a goofy trio dance (jumps, kicks, spins) on a sped up chipmunk voiced 80s song, slow motion group entrances, a fan blade wipe outfit change and Mariah style 'it's time' holiday starts; the AI dancing crocodiles video resurged in Oct and Nov (a 2.4M view post on 2 Nov). Four bank entries joined; four adult or older ones left (runway walk, appointment timestamps, harmony grid, freezing door). Total 886."
+   "note": "Earlier runs summarised (up to Run 202): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:41",
@@ -8869,6 +8900,10 @@
   {
    "date": "2026-11-16 02:43",
    "note": "Run 280 (TRENDS (December streaming slate and holiday sing along shorts)): Netflix's 2026 Christmas slate has almost no new animated kids specials (the main family title is a Gabby's Dollhouse holiday baking competition on 9 Dec, US only), so December demand for holiday cartoons and songs falls even more on YouTube. Disney Jr. last December backed its holiday episodes with short stop motion holiday sing along music videos, a light format we can match with our own songs. Thanksgiving parent humour (feed kids before the big feast) returns every year. Total 1208."
+  },
+  {
+   "date": "2026-11-16 03:35",
+   "note": "Run 281 (music craft (K-pop for kids, Kidscreen music panel, Brazil kid pop)): Former NCT singer Mark Lee is building a 'Kids-POP' label and found two Korean children ignored his English song and chose simple older Korean songs instead; K-pop idols keep teaming with kids brands (Pinkfong, Numberblocks) for dance challenges and Christmas singles; a Zigazoo poll of 4,500 US Gen Alpha users put K-pop second after pop; a Kidscreen 2026 panel of Netflix and Disney leaders said songs should be written early as the story and fandom engine. Total 1213."
   }
  ],
  "history": [
@@ -9991,9 +10026,17 @@
   {
    "date": "2026-11-16 02:43",
    "total": 1208
+  },
+  {
+   "date": "2026-11-16 03:35",
+   "total": 1213
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Hands Up, Bro Bros! (K-pop Style Kids Anthem)",
+   "why": "K-pop is Gen Alpha's second favourite genre and idol x kids brand dance challenges keep working; an original bright K-pop flavoured song with a 4 move point choreography (point up, clap twice, side step, heart hands) gives a learnable full dance kids can copy in groups."
+  },
   {
    "title": "Freeze, Little Bubble! (Winter Science Song)",
    "why": "Frozen bubbles go viral every winter; a calm song where a bubble freezes into ice feathers is visual, wordless enough to travel worldwide and needs no holiday, so it works in both hemispheres' winter content windows."
@@ -10045,10 +10088,6 @@
   {
    "title": "Layer Up, Layer Up!",
    "why": "The fixed camera outfit change is rising on Reels; a winter song where every clap adds a hat, scarf, mittens and boots teaches clothing words, is easy to copy at home and fits the cold half of the world from December to February."
-  },
-  {
-   "title": "Go, Go, Go! Get Ready!",
-   "why": "Turns this month's frantic 'go, go, go' rush trend into a morning routine song every parent needs: shoes, coat, hat, bag, each round faster, ending in a calm 'we made it' freeze; works as a Short and as a real daily helper worldwide."
   }
  ],
  "trend_bank": [
