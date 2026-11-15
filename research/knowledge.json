@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:58:20+05:30",
- "runs": 94,
+ "updated": "2026-11-15T18:58:48+05:30",
+ "runs": 95,
  "branches": [
   {
    "id": "platforms",
@@ -3422,6 +3422,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 83
+    },
+    {
+     "t": "The Instagram account still shows just 1 follower in mid November 2026, so every Reel view comes from non followers and follower growth on Instagram has not started.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 95
+    },
+    {
+     "t": "Instagram Reel views ran about 250 to 450 a day from 1 to 8 Nov while 3 to 5 Reels a day were posted, then fell to 12 to 153 a day from 9 to 14 Nov at 2 Reels a day (12 views on 14 Nov), so reach per Reel is tiny (often 5 to 100 people) and fewer posts did not raise it.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 95
+    },
+    {
+     "t": "Reels drew only 0 to 4 interactions a day in the first half of November and no recorded shares, so no Reel has yet earned the DM sends Instagram needs to widen non follower reach.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 95
     }
    ]
   }
@@ -3450,10 +3471,6 @@
   {
    "date": "2026-11-15 15:45",
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
-  },
-  {
-   "date": "2026-11-15 16:00",
-   "note": "Run 16 (other platforms): YouTube reaches 67% of US kids aged 2 to 5 and 80% of 10 to 12; streamer kids trends are edutainment inside stories, interactive choices and short flexible viewing; Netflix preschool is the most crowded category (PAW Patrol, Gabby's Dollhouse, Ms. Rachel, Sesame Street); Roblox reaches 61% of UK 8 to 14s. Total 157."
   },
   {
    "date": "2026-11-15 16:00",
@@ -3766,6 +3783,10 @@
   {
    "date": "2026-11-15 18:58",
    "note": "Run 94 (rules and safety (AI slop enforcement, India DPDP)): YouTube's January 2026 purge terminated 16 mass AI channels (35M subscribers, 4.7B views); enforcement looks at a channel's recent uploads as a pattern, and faceless channels report collateral demonetisation, while niche learning channels held up better. Studies found 21 to 40% of recommendations after preschool videos were AI slop, and 230 experts asked YouTube to ban AI from YouTube Kids. India's DPDP rules treat everyone under 18 as a child and bar tracking and targeted ads to them. Total 480."
+  },
+  {
+   "date": "2026-11-15 18:58",
+   "note": "Run 95 (our own results (Instagram 1 to 14 Nov)): Instagram still shows 1 follower, so all Reel reach is to non followers. Reel views were about 250 to 450 a day on 1 to 8 Nov with 3 to 5 Reels a day, then fell to 12 to 153 a day on 9 to 14 Nov with 2 Reels a day (only 12 views on 14 Nov); interactions stay at 0 to 4 a day with no recorded shares. Total 483."
   }
  ],
  "history": [
@@ -4144,6 +4165,10 @@
   {
    "date": "2026-11-15 18:58",
    "total": 480
+  },
+  {
+   "date": "2026-11-15 18:58",
+   "total": 483
   }
  ],
  "next_week_ideas": [
