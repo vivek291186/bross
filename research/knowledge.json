@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:00:50+05:30",
- "runs": 17,
+ "updated": "2026-11-15T16:01:25+05:30",
+ "runs": 18,
  "branches": [
   {
    "id": "platforms",
@@ -832,6 +832,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 10
+    },
+    {
+     "t": "Across 32,000+ videos from 93 made for kids YouTube channels, 10% more visual motion went with about 1% more views; in a field test, gentle moving background elements (drifting stars) lifted view rates 1.6 to 2%.",
+     "src": "Information Systems Research via Deccan Chronicle, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 18
+    },
+    {
+     "t": "Eye tracking of 6 to 10 year olds showed background motion does not stop kids looking away but brings them back faster; most extra attention went to the background, so motion should support the song's action, not distract from it.",
+     "src": "ISB study via Deccan Chronicle, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 18
+    },
+    {
+     "t": "Slow media is gaining ground: experts now urge parents to judge kids shows by pace, naming Cocomelon and other rapid fire shows; a calm but always gently moving scene fits both the algorithm and parents.",
+     "src": "WBUR Here and Now, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 18
+    },
+    {
+     "t": "Infants look at faces equally whether they are centred or at the edge of the frame, while older viewers expect the main face centred; keep the lead Bro centred and big for mixed age audiences.",
+     "src": "UC Riverside eye tracking study",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 18
+    },
+    {
+     "t": "Moonbug partnered with UCLA researchers in 2026 to answer 'addictive' and overstimulation criticism of CoComelon, showing that pacing and wellbeing are now a brand trust issue for big kids channels.",
+     "src": "Express Tribune, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 18
     }
    ]
   },
@@ -1216,7 +1251,7 @@
   "A child's voice as the lead singer; characters look into the camera and talk to the viewer.",
   "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist and a learning tag in the title.",
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele).",
-  "Calm camera (cuts 3-6 s), bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
+  "Camera and motion: calm cuts every 3 to 6 s, lead Bro centred and big, gentle constant background motion (drifting clouds, bubbles, stars) that matches the song, bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; at least one song a week should be a healthy habit or safety song parents search for (dentist, seatbelt, crossing the road, manners).",
   "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak or a direct action call (wave, jump, race), never on slow setup; make each Short a new cut with its own hook and loop back to the start.",
   "Thumbnails: one happy face, one clear action, one recognisable object, big eyes, max 3 words, bright plain background; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
@@ -1295,6 +1330,10 @@
   {
    "date": "2026-11-15 16:00",
    "note": "Run 17 (music craft): Rhythm together boosts preschool behaviour (RAMSR study, 200+ four year olds); Danny Go! builds songs as dance games (freeze, fast vs slow, imaginary danger, hyperspeed remixes); CoComelon now uses music as its main teaching tool with a UCLA learning framework; singing builds vocabulary. Total 163."
+  },
+  {
+   "date": "2026-11-15 16:01",
+   "note": "Run 18 (visual craft): New ISB study of 32,000 kids videos: 10% more visual motion links to about 1% more views and pulls wandering eyes back faster, but more animation is not better for learning; slow media movement keeps growing; young infants look at faces anywhere in frame while older viewers expect the face centred. Total 168."
   }
  ],
  "history": [
@@ -1365,6 +1404,10 @@
   {
    "date": "2026-11-15 16:00",
    "total": 163
+  },
+  {
+   "date": "2026-11-15 16:01",
+   "total": 168
   }
  ],
  "next_week_ideas": [
