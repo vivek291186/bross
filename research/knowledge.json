@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:14:57+05:30",
- "runs": 144,
+ "updated": "2026-11-15T20:36:22+05:30",
+ "runs": 145,
  "branches": [
   {
    "id": "platforms",
@@ -1987,6 +1987,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 138
+    },
+    {
+     "t": "In vidIQ's US ranking (Nov 2026) Toys and Colors has 123B lifetime views on 83M subscribers (about 1,480 views per subscriber) versus about 1,130 for CoComelon, and Filaretiki has about 1,220, so the channels kids replay most are simple, repeatable play formats rather than the biggest subscriber counts.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 145
+    },
+    {
+     "t": "Pinkfong and Dr Seuss Enterprises made their first crossover on 16 Oct 2026: a Baby Shark Halloween remix plus a 'Guess Baby Shark's Halloween Costume!' sing along where viewers guess each costume, posted on both channels so each brand feeds the other's audience.",
+     "src": "advanced-television.com, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 145
+    },
+    {
+     "t": "Dr Seuss Enterprises' relaunched YouTube channel reached 230.9M views and 2M subscribers in just over two years by turning classic characters into baby versions for nursery style songs, the same baby character trick CoComelon and Bebefinn use.",
+     "src": "advanced-television.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 145
     }
    ]
   },
@@ -2505,6 +2526,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 138
+    },
+    {
+     "t": "Five of YouTube's ten most viewed videos ever are children's songs, together worth an estimated 84M USD in ad revenue; data analysts credit their unmatched replay value, so a song kids ask to hear again is worth more than one big launch day.",
+     "src": "mediaweek.com.au, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 145
     }
    ]
   },
@@ -3870,6 +3898,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 140
+    },
+    {
+     "t": "Vlad and Niki runs separate full channels in Vietnamese (46.6M subs), Hindi (39.4M), Indonesian (39.9M) and Spanish (32.5M) next to the 151M English one, each among the top 100 YouTube channels, proof that a localised copy of the same characters can become a giant on its own.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 145
     }
    ]
   },
@@ -4646,11 +4681,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:38",
-   "note": "Run 66 (topics and seasons (holiday toys and dates)): UK DreamToys 2026 top 15 and US hot toy picks: dinosaur plus vehicle mashups (PAW Patrol Megasaurus, Hot Wheels T Rex garage), roaring and growing animal plush, KPop Demon Hunters singing dolls, and nostalgia returns (Tickle Me Elmo at 30, Furby). Circana: fun has overtaken education as parents' top buying reason. UK Christmas Jumper Day is Thursday 10 Dec. Total 371."
+   "note": "Earlier runs summarised: 3 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:39",
@@ -4963,6 +4994,10 @@
   {
    "date": "2026-11-15 20:14",
    "note": "Run 144 (Instagram for kids song brands (benchmarks)): Kids song brands rarely grow on Instagram: T-Series Kids Hut, a large Indian rhymes brand on YouTube, has only about 4.8K Instagram followers and posts about once every five weeks; Dash Hudson's baby and children benchmark shows Instagram accounts grow about 0.7% a month against 4.1% on TikTok, and parenting tip posts (baby sleep) beat the industry by over 100%. Total 651."
+  },
+  {
+   "date": "2026-11-15 20:36",
+   "note": "Run 145 (YouTube main and Kids charts (US ranking, Pinkfong x Dr Seuss)): Charts unchanged since run 72, so looked at the US ranking: Toys and Colors has about 1,480 lifetime views per subscriber against about 1,130 for CoComelon, and Vlad and Niki runs four language copies (Vietnamese, Hindi, Indonesian, Spanish) of 30 to 47M subscribers each. Pinkfong and Dr Seuss made their first crossover, a Halloween 'guess the costume' sing along. Total 656."
   }
  ],
  "history": [
@@ -5541,13 +5576,13 @@
   {
    "date": "2026-11-15 20:14",
    "total": 651
+  },
+  {
+   "date": "2026-11-15 20:36",
+   "total": 656
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Cozy Cocoa Jazz",
-   "why": "A soft swing piano winter song (cocoa, mittens, snow at the window) in the style families already stream every November, holiday neutral and good for wind down."
-  },
   {
    "title": "Zoomy's Christmas Surprise",
    "why": "Dog plus Christmas stories topped Netflix family viewing in early November; a gentle story song where our pet friend helps wrap gifts fits holiday search demand."
@@ -5599,6 +5634,10 @@
   {
    "title": "Every Voice Counts!",
    "why": "World Children's Day (20 Nov, theme 'My Day. My Rights. My Future.') and the many national children's days give a yearly hook; a blue themed call and response song where each friend says what they love works in every culture."
+  },
+  {
+   "title": "Guess Our Costume, Bro!",
+   "why": "Guess the costume sing alongs (Pinkfong x Dr Seuss, Oct 2026) make kids answer the screen; the brothers hide behind a curtain and reveal a winter costume each chorus, reusable for any season."
   }
  ]
 }
