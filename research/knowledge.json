@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:06:23+05:30",
- "runs": 305,
+ "updated": "2026-11-16T04:07:15+05:30",
+ "runs": 306,
  "branches": [
   {
    "id": "platforms",
@@ -5081,6 +5081,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 294
+    },
+    {
+     "t": "Blender 5.2 LTS (released Jul 2026, supported until Jul 2028) brings experimental node based hair and cloth physics, online asset libraries with on demand downloads from Blender Online Essentials, a Cycles texture cache and EEVEE usability fixes, so it is a safe long term version to lock the Bro Bros render pipeline on.",
+     "src": "AlternativeTo, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 306
+    },
+    {
+     "t": "Meshy's Text to Motion API makes clips of only 2 to 10 seconds (in half second steps) from prompts of up to 400 characters and keeps results for just 3 days, so a full chorus dance must be planned as several short single action prompts stitched in Blender, and every clip downloaded the same day.",
+     "src": "Meshy API docs, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 306
+    },
+    {
+     "t": "Meshy's own prompt examples are short single actions such as 'a character waving', which supports writing one move per prompt (step, clap, spin) rather than a whole routine in one sentence.",
+     "src": "Meshy API docs, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 306
     }
    ]
   },
@@ -9126,11 +9147,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 226): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:02",
-   "note": "Run 227 (rules and monetisation (kids quality rules already in the tree, so ad rates: RPM by country and the Q4 lift)): A 2026 compilation of creator data puts long form RPM highest in Australia (about 10 to 12 USD), the US (9 to 11) and Canada (8 to 10) and lowest in Bangladesh, Pakistan and the Philippines (0.2 to 0.5); kids and animation sit at about 1 to 4 USD (median 2.5) with roughly a 1.5 times Q4 lift, December runs about 74% above January for US facing channels, while lower paying markets get only a 25 to 30% Q4 bump. Total 991."
+   "note": "Earlier runs summarised (up to Run 227): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:03",
@@ -9443,13 +9460,13 @@
   {
    "date": "2026-11-16 04:06",
    "note": "Run 305 (music craft (newborn happy music, rhythm drives eye contact, predictability in kids songs)): Three studies on why simple, steady songs work: a University of Dundee study found newborns fell asleep faster and their heart rate dropped with a happy children's song but not a sad lullaby or silence; a PNAS study with 112 babies found they look at a singer's eyes in time with the beat (twice chance at 2 months, over four times at 6 months) and the effect vanishes when the rhythm is made unpredictable; a 2025 Communications Psychology paper measures how predictability shifts over time in child directed songs. Total 1290."
+  },
+  {
+   "date": "2026-11-16 04:07",
+   "note": "Run 306 (visual craft (Blender 5.2 LTS tools, Meshy text to motion limits)): Blender 5.2 LTS (Jul 2026, supported to Jul 2028) adds node based hair and cloth physics, online asset libraries (Blender Online Essentials), a Cycles texture cache, EEVEE usability fixes and a better Grease Pencil fill, a stable base for our pipeline. Meshy's Text to Motion makes clips of 2 to 10 seconds from prompts up to 400 characters and deletes results after 3 days, so long dances must be built from several short clips and downloaded quickly. Total 1293."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:52",
-   "total": 95
-  },
   {
    "date": "2026-11-15 15:52",
    "total": 101
@@ -10645,6 +10662,10 @@
   {
    "date": "2026-11-16 04:06",
    "total": 1290
+  },
+  {
+   "date": "2026-11-16 04:07",
+   "total": 1293
   }
  ],
  "next_week_ideas": [
