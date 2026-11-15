@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:50:05+05:30",
- "runs": 192,
+ "updated": "2026-11-15T22:50:51+05:30",
+ "runs": 193,
  "branches": [
   {
    "id": "platforms",
@@ -5949,6 +5949,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 190
+    },
+    {
+     "t": "A French roundup of 10 November 2026 TikTok formats is mostly Christmas already: 'POV it's Nov 1st' speed edits from empty room to decorated tree, a 'days until Christmas' overlay on cosy images, a kitchen dance with 'It's NOVEMBER' on screen and winter gift basket builds, so holiday Bro Bros Shorts can start in mid November, not December.",
+     "src": "Takema Studio, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 193
+    },
+    {
+     "t": "'Say the word on the beat' is a picture game: rhyming pictures appear in frames, you say each word exactly on the beat, the tempo rises each round and one slip ends the run; Kapwing ran a Christmas special template in Dec 2025, and it is an ideal vocabulary game for small kids and English learners.",
+     "src": "Kapwing, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 193
+    },
+    {
+     "t": "One by one build videos (5 to 7 items added one at a time, then the finished basket) are a November format; for kids it becomes a counting song where each beat adds one item to a winter bag.",
+     "src": "Takema Studio, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 193
     }
    ]
   }
@@ -5977,10 +5998,6 @@
   {
    "date": "2026-11-15 17:37",
    "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:11",
-   "note": "Run 114 (topics and seasons (Hanukkah detail, Republic Day)): Hanukkah 2026 runs from sundown Friday 4 Dec to sundown Saturday 12 Dec; kids love the one more candle each night counting, spinning the dreidel, latkes, jelly doughnuts and chocolate coins, a natural counting song. India's Republic Day falls on Tuesday 26 Jan 2027, when schools hold flag and patriotic song events. Total 542."
   },
   {
    "date": "2026-11-15 19:40",
@@ -6293,6 +6310,10 @@
   {
    "date": "2026-11-15 22:50",
    "note": "Run 192 (YouTube algorithm (our results already recorded today, so switched: watch page suggestions, topic matching, YouTube Kids rewatch shelf)): Metricool results were already recorded today, so this round went to the algorithm. Todd Beaupre says the watch page Suggested list, not the subscriptions feed, brings most views from subscribers, and that brand new channels with no viewer history are matched to audiences by topic. The YouTube Kids app's Your Stuff page puts a Watch it Again row up front, so songs kids replay keep resurfacing. Total 840."
+  },
+  {
+   "date": "2026-11-15 22:50",
+   "note": "Run 193 (TRENDS (November holiday formats, say the word on the beat)): November TikTok is already Christmas led: 'POV it's Nov 1st' tree set up speed edits, days until Christmas overlays, kitchen dances with 'It's NOVEMBER' text and one by one winter basket builds. The 'say the word on the beat' picture game (rhyming pictures, faster each round) is set to return for Christmas and suits kids perfectly; two kid safe versions joined the trend bank. Total 843."
   }
  ],
  "history": [
@@ -7063,6 +7084,10 @@
   {
    "date": "2026-11-15 22:50",
    "total": 840
+  },
+  {
+   "date": "2026-11-15 22:50",
+   "total": 843
   }
  ],
  "next_week_ideas": [
@@ -7124,6 +7149,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Say the word on the beat",
+   "where": "TikTok, Shorts (Christmas specials, Dec 2025, returning)",
+   "status": "rising",
+   "use": "A grid of pictures pops up one at a time (hat, cat, bat, mat) and the Bros say each word exactly on the beat of our own simple beat, getting faster each round; kids at home try to keep up. Perfect for winter and Christmas word sets and for English learners."
+  },
+  {
+   "name": "Fill it one by one",
+   "where": "TikTok (winter basket builds, Nov 2026)",
+   "status": "rising",
+   "use": "The Bros pack a winter adventure bag one item per beat (hat, scarf, cocoa, torch, teddy), counting 1 to 5, then show the full bag; a counting song Short with a satisfying finish."
+  },
   {
    "name": "Mystery box reveal",
    "where": "Blind box toys and unboxing (top holiday 2026 toy trend)",
@@ -7231,18 +7268,6 @@
    "where": "Winter, global",
    "status": "seasonal (Dec-Jan)",
    "use": "Snowflake Dance Party song with 3 simple winter moves as a challenge."
-  },
-  {
-   "name": "Teach-the-step Short",
-   "where": "Shorts, Reels",
-   "status": "evergreen",
-   "use": "Slow-motion 'learn the move' then full speed; invites copying and replays."
-  },
-  {
-   "name": "Shoulder bounce",
-   "where": "TikTok, Reels (Latin America to Europe)",
-   "status": "rising",
-   "use": "Both Bros do a big shoulder bounce on an original Latin style beat in the chorus; Short teaches it in 3 counts."
   }
  ]
 }
