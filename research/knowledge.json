@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:51:44+05:30",
- "runs": 194,
+ "updated": "2026-11-15T22:52:49+05:30",
+ "runs": 195,
  "branches": [
   {
    "id": "platforms",
@@ -4332,6 +4332,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 175
+    },
+    {
+     "t": "Japanese families do a big year end clean (osoji) to start fresh, eat soba noodles just before midnight and have ozoni mochi soup as the first meal of 1 Jan; sweeping, noodle slurping and mochi stretching are simple, copyable actions for a New Year song that Japan's large kids audience will recognise.",
+     "src": "Japanese American National Museum kids page",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 195
+    },
+    {
+     "t": "Scottish Hogmanay families clean the house on 31 Dec ('redding the house'), and after midnight a child can step back in as the 'first foot' carrying a biscuit or a candle for luck, then everyone sings Auld Lang Syne holding hands in a circle; Edinburgh's free Sprogmanay on 1 Jan is a kids crafts and family dance day.",
+     "src": "Edinburgh with Kids",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 195
+    },
+    {
+     "t": "Cleaning the home to welcome the new year links Japan, Scotland, Lunar New Year and Nowruz, so one tidy up New Year song (sweep, dust, shine, then a hand holding circle) travels across many cultures without needing any one tradition's symbols.",
+     "src": "Edinburgh with Kids and JANM, synthesis",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 195
+    },
+    {
+     "t": "Preschool teachers' Thanksgiving playlists lean on movement songs (turkey hop, turkey dance), countdown songs (five or ten little turkeys) and homemade corn shaker instruments, so a harvest song with a countdown and a 'shake your shaker' chorus is what classrooms actually play in late November.",
+     "src": "Pre K Pages",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 195
     }
    ]
   },
@@ -6028,10 +6056,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 19:41",
-   "note": "Run 116 (competitor deep dive (Super Simple Songs, Lalafun)): Super Simple Songs (70M+ subs, 90B+ views, 20 years old) now posts about one video a week, alternating one new song with a 'Top 20' themed compilation, and its new anniversary celebration song reached 6M views in under three months. Lalafun (15.2M) gains 600 to 700M views a month from about 15 uploads a month; its hits are twisted classic rhymes and its titles add a tiny problem or theme ('Paramedics Song', 'Magic Circus'). Total 556."
-  },
-  {
    "date": "2026-11-15 19:42",
    "note": "Run 117 (algorithm experiments and data (title tests, metadata translation, thumbnail resets)): YouTube's title and thumbnail tests pick winners by watch time per impression, not clicks. AIR cases: translating an Arabic kids channel's titles and descriptions into 11 languages lifted views from those markets 77% and opened 11 new countries; a 7M Arabic kids channel that had lost 91% of recommendations recovered 2.8 times the views after replacing thumbnails across its whole catalogue. Total 560."
   },
@@ -6342,6 +6366,10 @@
   {
    "date": "2026-11-15 22:51",
    "note": "Run 194 (other platforms (Spotify managed accounts for kids)): Netflix and Roblox findings were already in the tree, so this round found Spotify's managed accounts for children 13 and under, which reached the free tier and about 36 countries in July 2026: kids get their own Made For You mixes, daylist and their own Wrapped, while video and Canvas loops are off by default. Total 847."
+  },
+  {
+   "date": "2026-11-15 22:52",
+   "note": "Run 195 (topics and seasons (year end cleaning, Hogmanay, classroom Thanksgiving songs)): Year end cleaning to welcome the new year is shared by Japan (osoji, then soba at midnight and mochi soup on 1 Jan) and Scotland (redding the house, then first footing with a biscuit or candle for luck and Auld Lang Syne in a hand holding circle), a cross cultural hook for a tidy up New Year song. Preschool teachers' Thanksgiving playlists lean on turkey hop movement songs, countdown songs and homemade shakers. Total 851."
   }
  ],
  "history": [
@@ -7120,9 +7148,17 @@
   {
    "date": "2026-11-15 22:51",
    "total": 847
+  },
+  {
+   "date": "2026-11-15 22:52",
+   "total": 851
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Sweep, Sweep, Hello New Year!",
+   "why": "Families in Japan (osoji), Scotland (redding the house), China and Iran all clean the home to welcome a new year; a tidy up action song with sweeping, dusting and a big shiny reveal ending in a hand holding circle fits every culture's New Year and helps parents at home."
+  },
   {
    "title": "Open the Door, What's Inside? (Advent Dance)",
    "why": "Advent calendar countdowns run all over TikTok and Reels every December; one door a day with one new move builds a 24 part Shorts series that keeps kids coming back daily and ends in a full family routine on Christmas Eve."
@@ -7174,10 +7210,6 @@
   {
    "title": "Fruity Disco Night (baby sensory mix)",
    "why": "Hey Bear's dancing fruit on black backgrounds earn about 35M views per video; a wordless 15 minute Bro Bros fruit dance mix in bright colours on dark reaches babies and travels to every language."
-  },
-  {
-   "title": "Hello, Shop Uncle! (with hand signs)",
-   "why": "Turkey's Kukuli has 258M views on a corner shop uncle song and 125M on its sign language version; an original Bros errand song with simple signs for 'hello', 'please' and 'thank you' works in every country."
   }
  ],
  "trend_bank": [
