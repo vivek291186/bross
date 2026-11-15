@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:35:23+05:30",
- "runs": 168,
+ "updated": "2026-11-15T21:36:26+05:30",
+ "runs": 169,
  "branches": [
   {
    "id": "platforms",
@@ -1518,6 +1518,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 166
+    },
+    {
+     "t": "YouTube said on 1 Oct 2026 it is cutting Shorts feed reach for channels that mainly re upload content without adding anything of their own, judged at channel level, and that minor technical or template based edits do not make a clip original, so every Bro Bros Short must be a fresh cut with its own hook, not a resized copy.",
+     "src": "ppc.land / YouTube community post, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 169
+    },
+    {
+     "t": "Todd Beaupre (Creator Insider, Sep 2026) said subscribers click about 10% or less of the uploads shown to them, one viewer was shown a creator's uploads 19 times without noticing, and YouTube has tested capping a video at about eight impressions per viewer, so with 14 songs a week most subscribers miss most songs and each title and thumbnail must win on its own.",
+     "src": "ppc.land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 169
+    },
+    {
+     "t": "Beaupre also advised not benchmarking every upload against the channel's best hit and noted some evergreen videos gain most of their audience a month or more after publishing, so a kids song should be judged on 28 day data, not its first two days.",
+     "src": "ppc.land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 169
+    },
+    {
+     "t": "Creator data gathered by Joos (Dec 2025, unverified) suggests the Home feed now shows as few as two long form videos per row with the next row mostly Shorts, roughly two long to five Shorts on desktop, cutting long form Home slots by up to 80% while Shorts views from Browse rose across 1,000+ channels.",
+     "src": "ppc.land, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 169
     }
    ]
   },
@@ -5283,11 +5311,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 26 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:55",
-   "note": "Run 90 (topics and seasons (Brazil and Indonesia school breaks)): Brazil's state schools finish on 18 Dec (Sao Paulo, Parana) to 23 Dec and the summer break runs into early February, so Portuguese summer and beach songs have a long home audience. Indonesian provinces broke from about 22 Dec to 3 Jan last year (West Java 29 Dec to 10 Jan), the week for Bahasa holiday songs. Total 467."
+   "note": "Earlier runs summarised: 27 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:56",
@@ -5600,6 +5624,10 @@
   {
    "date": "2026-11-15 21:35",
    "note": "Run 168 (YouTube charts (GoBooBoo, Junior Squad, weekly top 50)): Tubefilter week of 8 Nov: kid duo and family channels lead (Cadel and Mia 890M a week, Sierra and Rhia up 7%). vidIQ contrast: GoBooBoo earns about 36M views a month from only 197 videos while Junior Squad gets about 4M from 1,164 videos, so strong recurring characters and remixed known hooks beat sheer volume. Total 742."
+  },
+  {
+   "date": "2026-11-15 21:36",
+   "note": "Run 169 (YouTube algorithm (Shorts originality, subscriber reach, Home feed mix)): Since 1 Oct 2026 YouTube cuts Shorts reach at channel level for re uploaded material and says template or minor edits do not count as original. Todd Beaupre: subscribers click about 10% or less of uploads they see and some videos find most of their audience a month later, so each song must win new viewers on its own and we should not judge songs in the first days. Total 746."
   }
  ],
  "history": [
@@ -6274,6 +6302,10 @@
   {
    "date": "2026-11-15 21:35",
    "total": 742
+  },
+  {
+   "date": "2026-11-15 21:36",
+   "total": 746
   }
  ],
  "next_week_ideas": [
