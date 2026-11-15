@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:57:09+05:30",
- "runs": 37,
+ "updated": "2026-11-15T16:57:37+05:30",
+ "runs": 38,
  "branches": [
   {
    "id": "platforms",
@@ -230,6 +230,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 28
+    },
+    {
+     "t": "More people now watch YouTube on TVs than on phones and it is the No. 1 streaming platform on US TV screens (Nielsen), so our songs must look and sound good on a big living room screen.",
+     "src": "YouTube Official Blog, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 38
     }
    ]
   },
@@ -517,6 +524,20 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 34
+    },
+    {
+     "t": "YouTube says (Jan 2026) its recommender automatically breaks repeated viewing loops in sensitive categories for young viewers, and YouTube Kids, for ages 0 to 12, is a curated walled garden shaped with child development specialists to favour content that sparks curiosity and positive behaviour.",
+     "src": "YouTube Official Blog, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 38
+    },
+    {
+     "t": "Creators report YouTube now filters sensational or clickbait titles: one video with a 9% click rate stalled after its title was flagged, so calm, honest kids titles protect reach.",
+     "src": "Marketing School, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 38
     }
    ]
   },
@@ -1700,6 +1721,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 35
+    },
+    {
+     "t": "94% of teachers worldwide use YouTube in class (YouTube, Jan 2026), so classroom friendly songs (brain breaks, routines, counting) can earn repeat plays on school screens.",
+     "src": "YouTube Official Blog, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 38
     }
    ]
   },
@@ -1998,6 +2026,10 @@
   {
    "date": "2026-11-15 16:57",
    "note": "Run 37 (YouTube main and Kids charts): Tubefilter late Oct 2026: Mexican kids channel El Tren Nam Nam hit No. 2 worldwide with about 1.08B weekly views (up 96%) on an animated tooth mascot brushing for two minutes; VocaVoca's top Short is a morning oral care routine song; family Shorts channels Jasmin and James (Germany) and Cadel and Mia (Australia) sit in the top 5; VocaVoca fell 22% the next week. Total 252."
+  },
+  {
+   "date": "2026-11-15 16:57",
+   "note": "Run 38 (YouTube algorithm): YouTube's Jan 2026 family post: YouTube Kids is a walled garden for ages 0 to 12 shaped with child development experts; the recommender interrupts repeated loops in sensitive categories; more people now watch YouTube on TVs than phones and it is No. 1 on US TV. Creators report sensational titles getting filtered and stalling even at 9% click rate. Total 256."
   }
  ],
  "history": [
@@ -2148,6 +2180,10 @@
   {
    "date": "2026-11-15 16:57",
    "total": 252
+  },
+  {
+   "date": "2026-11-15 16:57",
+   "total": 256
   }
  ],
  "next_week_ideas": [
