@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:39:52+05:30",
- "runs": 78,
+ "updated": "2026-11-15T18:45:54+05:30",
+ "runs": 79,
  "branches": [
   {
    "id": "platforms",
@@ -2477,6 +2477,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 72
+    },
+    {
+     "t": "In Kaspersky's Saudi Arabia data YouTube took about 38% of children's Android app use, ahead of Roblox (14%) and TikTok (11%), and Baby Shark was the most searched song, so Gulf kids are reachable through YouTube songs first.",
+     "src": "Eye of Riyadh (Kaspersky), 2023",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 79
+    },
+    {
+     "t": "In the same Kaspersky data K pop acts (BLACKPINK, BTS) and Latin pop led kids' music searches and music videos were about 16% of YouTube searches, close behind entertainment (19%) and cartoons (17%), so pop styled kids dance songs travel to the Gulf.",
+     "src": "Eye of Riyadh (Kaspersky), 2023",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 79
+    },
+    {
+     "t": "Baby Shark had ranked No. 1 in global YouTube views for 71 consecutive months by Oct 2026, and Pinkfong is opening a Baby Shark Christmas cinema special in Korea on 5 Dec, proof one signature song can carry a brand across every market for years.",
+     "src": "Sports Khan, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 79
+    },
+    {
+     "t": "Blippi reaches Spanish speaking families with English Spanish (Espanglish) remixes made with Mexico's Los Meniques de la Casa (10M+ subscribers); their first one passed 3M views, so a bilingual remix of a Bro Bros hit with alternating English and Spanish lines is a low cost bridge to US Hispanic and Mexican viewers.",
+     "src": "Moonbug, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 79
     }
    ]
   },
@@ -3338,6 +3366,10 @@
   {
    "date": "2026-11-15 18:39",
    "note": "Run 78 (topics and seasons (Gulf, Philippines, Mexico calendars)): UAE National Day holiday is Wed 2 and Thu 3 Dec 2026. The Philippines' Christmas runs September to January with Simbang Gabi on 16 to 24 Dec and the star shaped parol lantern as its icon. Mexico's school break runs 21 Dec to 6 Jan (Three Kings Day) with return on 7 Jan 2027, so Spanish holiday songs keep working into early January. Total 420."
+  },
+  {
+   "date": "2026-11-15 18:45",
+   "note": "Run 79 (global markets (Gulf, Korea, bilingual Spanish)): Kaspersky's Saudi data has YouTube at about 38% of kids' Android app use with Baby Shark the most searched song and K pop the leading music; Baby Shark has been No. 1 in global YouTube views for 71 straight months; Blippi reaches Spanish speaking families with English Spanish remixes made with Mexico's Los Meniques de la Casa. Total 424."
   }
  ],
  "history": [
@@ -3652,6 +3684,10 @@
   {
    "date": "2026-11-15 18:39",
    "total": 420
+  },
+  {
+   "date": "2026-11-15 18:45",
+   "total": 424
   }
  ],
  "next_week_ideas": [
