@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:46:41+05:30",
- "runs": 179,
+ "updated": "2026-11-15T21:47:36+05:30",
+ "runs": 180,
  "branches": [
   {
    "id": "platforms",
@@ -5592,6 +5592,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 171
+    },
+    {
+     "t": "A shoulder bounce dembow track ('Dame Hombro', 184K TikTok videos by late Oct 2026) spread from Latin America to Spain and Italy within weeks, used in a playful 'AI version vs handmade version' bounce, so a simple shoulder bounce move on a Latin beat is a cross border dance hook (we use our own beat, never the track).",
+     "src": "que.es / socialpilot.co, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 180
+    },
+    {
+     "t": "The 'I'm so sorry' carousel (four or five photos building up a plan, then the funny real result) is a top early November 2026 TikTok format with kid costume versions, a plan versus reality joke that suits a Bro Bros Short where the brothers' big plan goes comically wrong.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 180
+    },
+    {
+     "t": "'Costume loading' (everyday clothes, a loading caption, a freeze frame, then a cut to the full costume on the beat drop) is a top TikTok transition this month; in our 3D scenes the same freeze and cut on the drop can reveal the brothers as astronauts, chefs or dinosaurs.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 180
+    },
+    {
+     "t": "TikTok feeds swung from Halloween to Christmas decor content on 1 Nov 2026 ('the Christmas switch'), so our holiday Shorts can start now rather than waiting for December.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 180
     }
    ]
   }
@@ -5619,11 +5647,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 37 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:02",
-   "note": "Run 101 (visual craft (lip sync tools, winter light)): Blender lip sync options for singing Bros: LipKit (paid, Rhubarb phoneme engine, maps sounds to shape keys) and the free GPL Parrot Lipsync (allosaurus speech to phonemes, adjustable rest gaps); neither claims singing support, so feed them the isolated vocal track. Winter lighting: low warm sun, expose so snow does not clip to white, and use one vivid colour against pale snow. Total 502."
+   "note": "Earlier runs summarised: 38 older log entries condensed."
   },
   {
    "date": "2026-11-15 19:03",
@@ -5936,6 +5960,10 @@
   {
    "date": "2026-11-15 21:46",
    "note": "Run 179 (rules and monetisation (AI slop ratings, Q4 money)): YouTube has tested since March 2026 a pop up asking viewers to rate on a five point scale whether a video feels like AI slop, and now labels AI videos automatically from C2PA and SynthID signals. A 7.55M kids channel halved long uploads, doubled Shorts and moved to 4K TV ready visuals in Q4 2025 and revenue rose about 34% on only about 6% more views; December RPMs run roughly 3 to 5 times January (unsourced estimate). Total 789."
+  },
+  {
+   "date": "2026-11-15 21:47",
+   "note": "Run 180 (trends and challenges (our results already logged today, so the new trends branch got this round)): Our Metricool results were already recorded today and 15 Nov uploads are too new, so this round fed the new Trends branch: early November TikTok is led by a shoulder bounce dembow sound (Dame Hombro, 184K videos, spreading to Spain and Italy), the 'I'm so sorry' plan versus reality carousel, and the 'costume loading' freeze then reveal cut; feeds switched from Halloween to Christmas on 1 Nov. Total 793."
   }
  ],
  "history": [
@@ -6654,6 +6682,10 @@
   {
    "date": "2026-11-15 21:46",
    "total": 789
+  },
+  {
+   "date": "2026-11-15 21:47",
+   "total": 793
   }
  ],
  "next_week_ideas": [
@@ -6774,6 +6806,18 @@
    "where": "Shorts, Reels",
    "status": "evergreen",
    "use": "Slow-motion 'learn the move' then full speed; invites copying and replays."
+  },
+  {
+   "name": "Shoulder bounce",
+   "where": "TikTok, Reels (Latin America to Europe)",
+   "status": "rising",
+   "use": "Both Bros do a big shoulder bounce on an original Latin style beat in the chorus; Short teaches it in 3 counts."
+  },
+  {
+   "name": "Plan vs what happened",
+   "where": "TikTok carousel, Shorts",
+   "status": "peak",
+   "use": "Four quick shots of the Bros' big plan (build a snowman, bake a cake), last shot the funny mess, then the song chorus: 'Oops, that's okay!'"
   }
  ]
 }
