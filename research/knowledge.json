@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:42:22+05:30",
- "runs": 72,
+ "updated": "2026-11-15T17:43:03+05:30",
+ "runs": 73,
  "branches": [
   {
    "id": "platforms",
@@ -811,6 +811,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 69
+    },
+    {
+     "t": "YouTube's Shorts product lead describes Shorts ranking as finding a seed audience that may enjoy a Short and then widening or stopping reach by their response ('the audience is the algorithm'); early views of a new creator are exploratory, so a flop is a lesson, not a penalty.",
+     "src": "outlierkit.com (Creator Insider), 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 73
     }
    ]
   },
@@ -2589,6 +2596,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 70
+    },
+    {
+     "t": "On 15 Oct 2026 YouTube announced an invite only Monthly Shorts Bonus pilot for Partner Program creators in the US, UK, Germany, Brazil, Japan and South Korea; India is not in the first wave, another reason to build US and UK viewers.",
+     "src": "air.io, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 73
+    },
+    {
+     "t": "From 26 Oct 2026 YouTube tests a 20 USD payout threshold (down from 100) for a random group of creators in the US, India and Indonesia, so small new channels may get first earnings sooner.",
+     "src": "air.io, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 73
+    },
+    {
+     "t": "Since 29 Oct 2026 YouTube tests offering some channels with spam policy violations a 30 day cleanup lock (edit or delete videos, or wipe all videos but keep subscribers and handle) instead of termination; repetitive or templated uploads remain the main risk for high volume channels like ours.",
+     "src": "air.io, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 73
     }
    ]
   },
@@ -3118,6 +3146,10 @@
   {
    "date": "2026-11-15 17:42",
    "note": "Run 72 (YouTube main and Kids charts (week of 8 Nov)): Tubefilter most viewed, week of 8 Nov 2026: family Shorts channels hold four of the top 11 (Cadel and Mia #3, Sierra and Rhia's English and FAM channels #6 and #8, Jasmin and James #11); El Tren Nam Nam fell 52% after its Halloween tooth brushing peak; Argentina's Plim Plim (#36) and Indonesia's Keizo and Friends (#20) show Spanish and Indonesian kids brands at world scale. Total 392."
+  },
+  {
+   "date": "2026-11-15 17:43",
+   "note": "Run 73 (YouTube algorithm and platform (October changes)): October 2026 YouTube changes relevant to us: a Monthly Shorts Bonus pilot (invite only, Partner Program channels in the US, UK, Germany, Brazil, Japan and South Korea), a 20 USD payout threshold test in the US, India and Indonesia, and a cleanup option instead of termination for some spam strikes. YouTube's Shorts lead line 'the audience is the algorithm' still frames how seed audiences widen reach. Total 396."
   }
  ],
  "history": [
@@ -3408,6 +3440,10 @@
   {
    "date": "2026-11-15 17:42",
    "total": 392
+  },
+  {
+   "date": "2026-11-15 17:43",
+   "total": 396
   }
  ],
  "next_week_ideas": [
