@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:53:46+05:30",
- "runs": 88,
+ "updated": "2026-11-15T18:54:34+05:30",
+ "runs": 89,
  "branches": [
   {
    "id": "platforms",
@@ -2148,6 +2148,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 77
+    },
+    {
+     "t": "Animaj keeps Ozzy Fox on model across many episodes with turnaround and expression sheets and shows feelings through small timed acting, such as ears dropping just before a sad line; one signature pre line gesture per emotion would make the Bros read clearly even on a phone.",
+     "src": "Animaj, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 89
+    },
+    {
+     "t": "Ozzy Fox moves from script to storyboard to an approved animatic, then an animation playblast, and only then to lighting and rendering, with child development experts checking each episode against a social emotional learning framework; locking an animatic to the Suno track before Meshy work saves re renders.",
+     "src": "Animaj, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 89
+    },
+    {
+     "t": "CBeebies' Piripenguins puts 2D drawn faces on CG bodies in a real time engine, and its director worked hard to stop a world of mostly ice and water from looking flat and repetitive, so our snow songs need varied props, warm light sources and colour accents rather than plain white sets.",
+     "src": "Cartoon Brew, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 89
+    },
+    {
+     "t": "For December thumbnails use one template family across the month so the holiday songs look related, cut the character out with a soft glow or shadow, and use three or four bold words at most, or none if the picture tells the story.",
+     "src": "Kittl, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 89
     }
    ]
   },
@@ -3312,10 +3340,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 15:55",
-   "note": "Run 10 (algorithm experiments and data): Timing and format data for kids channels: Friday is the best day and Wednesday the worst (+379% gap), 10 to 20 minute videos suit the niche; 24/7 streams of the back catalogue drive up to 42% of watch time at higher RPM; YouTube Kids app can supply two thirds of traffic; dubbed Spanish tracks hold viewers longer than English. Total 122."
-  },
-  {
    "date": "2026-11-15 15:56",
    "note": "Run 11 (rules, safety, monetisation): AI labels: AI generated music must be disclosed (detection does not catch soundtracks) while clearly animated visuals do not need a label; inauthentic content rules demonetise template driven repetition; COPPA amendments took effect 22 Apr 2026 with per video audience labels (Disney paid 10M USD); Suno music needs a paid plan for monetisation and fully AI songs get no copyright. Total 129."
   },
@@ -3626,6 +3650,10 @@
   {
    "date": "2026-11-15 18:53",
    "note": "Run 88 (music craft (children's singing range, songs and vocabulary)): Preschoolers sing most comfortably between middle C and A, loudest around F and G, and 6 to 8 year olds up to top C, so choruses should sit there. Research cited with Moonbug's UCLA partnership links frequent singing at 6 months to bigger vocabularies at 14 months, and a 2025 review finds songs help word learning. Playbook updated on melody range and seasonal timing. Total 460."
+  },
+  {
+   "date": "2026-11-15 18:54",
+   "note": "Run 89 (visual craft (character acting, snowy worlds, December thumbnails)): Animaj keeps Ozzy Fox on model with turnaround and expression sheets and shows feelings with small pre line gestures; CBeebies' Piripenguins mixes 2D faces with CG bodies and worked to keep an all ice world from looking flat. December thumbnail advice: one template family for the month, cut out subjects with a soft glow, three or four words at most. Total 464."
   }
  ],
  "history": [
@@ -3980,6 +4008,10 @@
   {
    "date": "2026-11-15 18:53",
    "total": 460
+  },
+  {
+   "date": "2026-11-15 18:54",
+   "total": 464
   }
  ],
  "next_week_ideas": [
