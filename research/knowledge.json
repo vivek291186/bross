@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:47:05+05:30",
- "runs": 291,
+ "updated": "2026-11-16T03:47:55+05:30",
+ "runs": 292,
  "branches": [
   {
    "id": "platforms",
@@ -8805,6 +8805,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 289
+    },
+    {
+     "t": "ppl.studio's Nov 2026 TikTok board rates 'pet doing human things' clips as a proven family format (41 creators using it) and lists cute baby moments and 'little me' costume photo carousels as proven too, so a Bro Bros pet character that brushes its teeth or dances like the brothers is a ready made Short.",
+     "src": "ppl.studio, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 292
+    },
+    {
+     "t": "The same board's top dance format is friends doing a trend dance in one continuous living room take (top post about 50.2M views), so a single unbroken wide shot of both Bros and friends dancing on a sofa set can outperform heavily cut dance edits.",
+     "src": "ppl.studio, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 292
+    },
+    {
+     "t": "Rising formats on the board include 6 second 'growth stages' montages (a seed or crop growing in quick steps) and 18 second wordless 'wait for the twist' village gags, both language free formats that suit a worldwide kids audience and our planting and surprise songs.",
+     "src": "ppl.studio, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 292
     }
    ]
   }
@@ -8832,11 +8853,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 212): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:51",
-   "note": "Run 213 (competitor deep dive (Rhymington Square monster songs, TinkaBop baby sensory)): Rhymington Square (Canada, 311K subs) has 291M views from only 74 songs, about 3.9M per video, with original monster songs and numbered sequels ('There's A Monster In My Tummy #2'), seasonal songs as its biggest cluster and about a quarter trend based. TinkaBop, a new baby sensory channel, shows the slow start: 11 videos, 5K subs, a bath time song its best at 18K views. Total 937."
+   "note": "Earlier runs summarised (up to Run 213): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:51",
@@ -9149,6 +9166,10 @@
   {
    "date": "2026-11-16 03:47",
    "note": "Run 291 (Shorts and Reels (Content ID on long Shorts, clip length habits, trial Reel test rules)): Little new on Reels ranking since August. Practical finds: a Short longer than one minute with an active Content ID claim can be blocked worldwide, so if our songs go to a distributor with Content ID, our own channel must be whitelisted first; OpusClip's 2.9M clips cluster at 30 to 60 seconds (40%) with only 4% under 15 seconds, a habit not proof; Planoly's test rules for Trial Reels are fresh footage, one change at a time and trial versus trial comparisons after 24 hours. Total 1248."
+  },
+  {
+   "date": "2026-11-16 03:47",
+   "note": "Run 292 (TRENDS (pet does human things, growth stages montage, wordless twist gag, one take living room dance)): ppl.studio's weekly TikTok board (Nov 2026) lists a 'pet doing human things' format used by 41 creators, a one take living room friends' dance whose top post has 50.2M views, rising 6 second crop growth stage montages and 18 second wordless 'wait for the twist' gags. All are kid safe and wordless enough to travel; two joined the trend bank. Total 1251."
   }
  ],
  "history": [
@@ -10315,6 +10336,10 @@
   {
    "date": "2026-11-16 03:47",
    "total": 1248
+  },
+  {
+   "date": "2026-11-16 03:47",
+   "total": 1251
   }
  ],
  "next_week_ideas": [
@@ -10376,6 +10401,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Growth stages montage",
+   "where": "TikTok rising (6 second crop and plant growth montages, Nov 2026)",
+   "status": "rising",
+   "use": "6 to 8 second loop for our planting song: a seed in a pot, sprout, leaves, bud, big sunflower, each stage popping on a beat of the chorus, with Little Bro growing taller beside it in step. Ends where it started so it loops. Meshy prompt for Little Bro: standing in place, slowly rise from bent knees to tiptoes with arms stretching up overhead."
+  },
+  {
+   "name": "Pet does human things",
+   "where": "TikTok proven family format (41 creators, ppl.studio Nov 2026)",
+   "status": "evergreen",
+   "use": "Give the Bros an original pet (a puppy or bunny of our own design) that copies them in a 10 to 15 second Short: the brothers brush teeth, the pet brushes too; they do our signature move, the pet does it a beat late and falls over gently, then nails it on the last beat. Our own song, caption 'Who did it best?'."
+  },
   {
    "name": "Save Christmas quest",
    "where": "YouTube kids creators every December (story arc reveals, choose a path)",
@@ -10483,18 +10520,6 @@
    "where": "Reels and TikTok every Wrapped week (Spotify Wrapped expected about Wed 2 Dec 2026; past drops 3 Dec 2025, 4 Dec 2024)",
    "status": "seasonal",
    "use": "A 'Bro Bros Wrapped' Reel: a countdown of our top 5 songs of the year (5 to 1), two seconds of each chorus with a big number card, the Bros cheering at No. 1, then 'Which was YOUR favourite?' for parents to answer. Uses only our own songs."
-  },
-  {
-   "name": "Wobbly retro holiday piano dance",
-   "where": "TikTok (Peanuts style go go dance revival before the yearly holiday special, 4.3M view video, Dec 2025)",
-   "status": "seasonal",
-   "use": "We never use the Peanuts characters or theme; the Bros and friends do a happy, slightly awkward retro dance to our own jazzy piano Christmas tune. Meshy steps: standing in place, head tilted up, bob head side to side, elbows bent and swinging forward and back, small shuffle steps left and right, then one arm up and sway."
-  },
-  {
-   "name": "Advent calendar daily series",
-   "where": "TikTok, Reels, Shorts (every December)",
-   "status": "seasonal",
-   "use": "From 1 to 24 Dec the Bros open one numbered door a day on a big calendar; behind it is one new move or winter word, and the Short ends with everyone doing all the moves so far. Shorts series on YouTube keeps the 24 days in order. Meshy move for door 1: stand in place, arms swing open wide like doors, then a small hop."
   }
  ]
 }
