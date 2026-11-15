@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:09:36+05:30",
- "runs": 60,
+ "updated": "2026-11-15T17:10:14+05:30",
+ "runs": 61,
  "branches": [
   {
    "id": "platforms",
@@ -1049,6 +1049,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 57
+    },
+    {
+     "t": "VocaVoca's monthly views rose from about 370M in Jan 2026 to 2.91B in Oct 2026 (nearly eight times), with the jump from July onward driven by routine Shorts like its morning oral care song.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 61
+    },
+    {
+     "t": "VocaVoca's all time long form leaders are still 2021 to 2022 habit and safety songs (Dentist Song 164M, Baby Care 68M, Police Officer job song 52M, stranger safety 42M, seatbelt 37M), so evergreen routine songs keep feeding a channel for years.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 61
+    },
+    {
+     "t": "VocaVoca titles lead with one or two emojis and the song name, then the benefit ('Healthy Habits for Kids', 'Job and Career Songs for Children'), then the brand with its avocado emoji, a consistent pattern across all its hits.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 61
     }
    ]
   },
@@ -2734,6 +2755,10 @@
   {
    "date": "2026-11-15 17:09",
    "note": "Run 60 (our own results (Instagram account)): Instagram account evolution for 1 to 14 Nov: the account shows only about 1 follower, so all Reel reach is non follower discovery; daily Reel views fell from about 250 to 450 (1 to 8 Nov, 3 to 5 Reels a day) to about 12 to 90 (10 to 14 Nov, 2 Reels a day); average reach per Reel is about 65. Total 344."
+  },
+  {
+   "date": "2026-11-15 17:10",
+   "note": "Run 61 (YouTube main and Kids charts (VocaVoca)): VocaVoca (11M subs) grew monthly views about eightfold in 2026, from about 370M in January to 2.91B in October, without new viral long videos: its all time leaders are still 2021 to 2022 habit and safety songs, and growth came from Shorts of the same routines (oral care Short in Oct). Total 347."
   }
  ],
  "history": [
@@ -2976,6 +3001,10 @@
   {
    "date": "2026-11-15 17:09",
    "total": 344
+  },
+  {
+   "date": "2026-11-15 17:10",
+   "total": 347
   }
  ],
  "next_week_ideas": [
