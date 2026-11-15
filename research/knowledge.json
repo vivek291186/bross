@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:59:26+05:30",
- "runs": 41,
+ "updated": "2026-11-15T16:59:53+05:30",
+ "runs": 42,
  "branches": [
   {
    "id": "platforms",
@@ -1287,6 +1287,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 41
+    },
+    {
+     "t": "Disney Jr.'s Sofia the First: Royal Magic (25 May 2026) replaced flat toon shading with dappled, cinematic lighting and its biggest CG set yet for a feature film feel on a TV budget; soft directional light in Blender is an easy quality jump for our 3D scenes.",
+     "src": "AWN via Pulse, May 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 42
+    },
+    {
+     "t": "Lingokids' design rules: babies suit calmer, softer, less bright tones while preschoolers respond to energetic primary colours, so bedtime and baby songs should use a softer palette than our dance songs.",
+     "src": "Lingokids, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 42
+    },
+    {
+     "t": "Soft, rounded, plush like shapes feel friendly and toy like to children while hard sharp corners read differently; props, vehicles and sets should have rounded edges.",
+     "src": "Lingokids, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 42
+    },
+    {
+     "t": "Pairing each visual with its own sound or motion helps children recognise it again later, so give each Bro, Zoomy and recurring prop a signature sound cue.",
+     "src": "Lingokids, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 42
     }
    ]
   },
@@ -2119,6 +2147,10 @@
   {
    "date": "2026-11-15 16:59",
    "note": "Run 41 (music craft): A parent's ranking of the 10 best Danny Go! songs shows the craft: a shouted chorus kids can join, a fast silly section, a retro game like middle break, callbacks to earlier songs, key changes in wordplay songs, props from home (pool noodle drums), and clean up songs kids ask for on smart speakers. Total 267."
+  },
+  {
+   "date": "2026-11-15 16:59",
+   "note": "Run 42 (visual craft): Disney's Sofia the First: Royal Magic (May 2026) swapped flat toon shading for dappled cinematic lighting and its biggest CG set, with 11 minute heartfelt episodes for kids and parents; Lingokids' design rules: calmer, softer tones for babies, primary colours for preschoolers, rounded plush shapes, and pairing each visual with a sound so kids recognise it again. Total 271."
   }
  ],
  "history": [
@@ -2285,6 +2317,10 @@
   {
    "date": "2026-11-15 16:59",
    "total": 267
+  },
+  {
+   "date": "2026-11-15 16:59",
+   "total": 271
   }
  ],
  "next_week_ideas": [
