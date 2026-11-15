@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:56:41+05:30",
- "runs": 126,
+ "updated": "2026-11-15T19:57:28+05:30",
+ "runs": 127,
  "branches": [
   {
    "id": "platforms",
@@ -657,6 +657,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 126
+    },
+    {
+     "t": "El Reino Infantil also streams on Samsung TV, LG and TCL FAST channels (25M plays in 2026 so far), Netflix, HBO Max and Prime Video, and opened an official farm experience on Roblox in 2026, the multi window path a big Spanish kids catalogue follows.",
+     "src": "mercado.com.ar, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 127
     }
    ]
   },
@@ -1875,6 +1882,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 126
+    },
+    {
+     "t": "La Granja de Zenon started in 2011 as preschool farm songs, and its named animal characters (a cow, a little rooster, a horse) grew bigger than the songs, so a small cast of recurring named animal friends around the Bros can become the brand kids ask for.",
+     "src": "publimetro.com.mx, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 127
     }
    ]
   },
@@ -3541,6 +3555,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 122
+    },
+    {
+     "t": "El Reino Infantil, the Argentine network behind La Granja de Zenon, runs 50+ YouTube channels in 11 languages with over 240M subscribers and 180B views, gained 8.8B views in Jan to May 2026, and Mexico is its biggest market (39.1M subscribers, 32.4B views), making Mexico the core Spanish kids audience.",
+     "src": "publimetro.com.mx / mercado.com.ar, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 127
+    },
+    {
+     "t": "Argentina's El Payaso Plim Plim had about 1.07B views in one month (May 2026, up 20.7% on April) in the YouTube Rating chart, more views per person in Argentina than MrBeast gets in the US; its creator credits gentle stories with positive values that connect with families.",
+     "src": "senalnews.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 127
     }
    ]
   },
@@ -4250,10 +4278,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 17:02",
-   "note": "Run 48 (our own results (traffic and audience)): First traffic source read for 1 to 15 Nov: about 14,000 views, 66% from Suggested videos, 21% from Search, 7% from subscribers, 4% from channel pages and under 1% from the Shorts feed and playlists. Subscribers are 65% India, 8% US, then Pakistan, Philippines, UK. Our scheduled YouTube posts are set to 'not AI generated' although songs come from Suno. Total 298."
-  },
-  {
    "date": "2026-11-15 17:03",
    "note": "Run 49 (YouTube main and Kids charts): Koko and Golu (India, 13.8M subs) gained about 2.4B views in Oct 2026 and 700K subs in 28 days; its top uploads are 'funniest moments' compilations and live videos, and its newest Short (a cake rescue) passed 9.9M views in 34 hours. Total 301."
   },
@@ -4564,6 +4588,10 @@
   {
    "date": "2026-11-15 19:56",
    "note": "Run 126 (competitor deep dive (Bebefinn)): Bebefinn, Pinkfong's 3D family song brand launched in 2022, passed about 80M subscribers and 58 to 65B views across its YouTube channels by mid 2026, has about 200M Netflix views (No. 1 kids title in 12 countries) and is moving into story led musical episodes about a toddler's everyday firsts for Amazon Kids+. Total 594."
+  },
+  {
+   "date": "2026-11-15 19:57",
+   "note": "Run 127 (global markets (Spanish speaking Latin America)): El Reino Infantil (Argentina) now runs 50+ channels in 11 languages with over 240M subscribers and 180B views, gained 8.8B views in Jan to May 2026 alone, and Mexico is its biggest market (39.1M subscribers); its named farm animal cast grew out of songs into a franchise with FAST TV channels and a Roblox world. Plim Plim drew about 1.07B views in a month in Argentina. Total 598."
   }
  ],
  "history": [
@@ -5070,6 +5098,10 @@
   {
    "date": "2026-11-15 19:56",
    "total": 594
+  },
+  {
+   "date": "2026-11-15 19:57",
+   "total": 598
   }
  ],
  "next_week_ideas": [
