@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:48:21+05:30",
- "runs": 190,
+ "updated": "2026-11-15T22:49:11+05:30",
+ "runs": 191,
  "branches": [
   {
    "id": "platforms",
@@ -5417,6 +5417,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 183
+    },
+    {
+     "t": "YouTube divides Shorts pool money with music rights holders by the number of licensed tracks used (one track takes roughly half of that Short's share), so Bro Bros Shorts built only on our own original songs keep the full creator share, a quiet money advantage over channels using library music.",
+     "src": "AIR Media-Tech, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 191
+    },
+    {
+     "t": "Since March 2026 videos that show young subjects in distress with shocking imagery lose ad eligibility, so no crying or scared baby faces in Bro Bros thumbnails or opening frames, even for 'feelings' songs; show the happy ending face instead.",
+     "src": "AIR Media-Tech, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 191
+    },
+    {
+     "t": "YouTube Premium Lite (no ads on most videos) is expanding to all Premium countries but keeps ads on music content and excludes YouTube Music, so song videos still earn ad money from Lite subscribers where other videos do not.",
+     "src": "AIR Media-Tech, Aug 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 191
     }
    ]
   },
@@ -5937,10 +5958,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 19:10",
-   "note": "Run 112 (music craft (lullaby features, singing with babies)): Harvard's Nature Human Behaviour study (144 babies) found heart rate and pupil size dropped more for lullabies from any culture, which were slower, used a smaller pitch range and a looser beat. A Yale trial in Child Development gave parents karaoke style videos and songbooks and they sang far more, with happier babies, so sing along videos that parents can copy have real value. Total 536."
-  },
-  {
    "date": "2026-11-15 19:11",
    "note": "Run 113 (visual craft (on screen karaoke lyrics)): Same language subtitling research from India found that 30 minutes a week of subtitled song programmes lifted schoolchildren's paragraph reading from 25% to 56%, and over nine in ten viewers wanted lyrics on songs; the key is syllable synced colour changes. Karaoke style chorus lyrics on our videos help parents sing along and give a real reading benefit. Playbook updated for wind down songs. Total 539."
   },
@@ -6251,6 +6268,10 @@
   {
    "date": "2026-11-15 22:48",
    "note": "Run 190 (TRENDS (holiday 2026 toy and character trends to borrow as formats)): Holiday 2026 toy lists are led by K-Pop Demon Hunters dolls and plush, Toy Story 5, Pokemon's 30th, World Cup football toys, blind box mystery figures, hatching dinosaurs and electronic pets that grow. We cannot use those characters, so two original formats joined the trend bank (mystery box reveal, hatching egg) and the two faded Halloween formats were dropped. Total 834."
+  },
+  {
+   "date": "2026-11-15 22:49",
+   "note": "Run 191 (rules and monetisation (Shorts music split, distress imagery, Premium Lite)): Most rules were already in the tree, so this round added three money details: Shorts that use licensed tracks share their pool money with the music owners (about half for one track), so our own songs keep the full share; since March 2026 videos showing young characters in distress with shocking imagery lose ads; and Premium Lite, now in all Premium countries, still shows ads on music content. Total 837."
   }
  ],
  "history": [
@@ -7013,6 +7034,10 @@
   {
    "date": "2026-11-15 22:48",
    "total": 834
+  },
+  {
+   "date": "2026-11-15 22:49",
+   "total": 837
   }
  ],
  "next_week_ideas": [
