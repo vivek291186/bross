@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:52:53+05:30",
- "runs": 255,
+ "updated": "2026-11-16T01:53:41+05:30",
+ "runs": 256,
  "branches": [
   {
    "id": "platforms",
@@ -3756,13 +3756,6 @@
      "t": "Laurie Berkner's 2026 album (her first all original collection in five years) builds interactivity into the songwriting itself, including movement kids can do even when asked to sit still, so each Bro Bros dance song can carry a seated version of its moves for cars and classrooms.",
      "src": "My Weekly Mixtape, Jun 2026",
      "conf": "medium",
-     "date": "2026-11-16",
-     "run": 245
-    },
-    {
-     "t": "The 2026 Grammy for Best Children's Music Album went to a father and daughter duo (Harold and Aura Valentina Simmons, 'Harmony'), and fellow nominees were story concept albums on history, books and ageing, showing that family duos and themed albums earn respect beyond the toddler market.",
-     "src": "Grammy.com, Nov 2026",
-     "conf": "high",
      "date": "2026-11-16",
      "run": 245
     }
@@ -7916,6 +7909,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 253
+    },
+    {
+     "t": "Brazil's 2026 'farmear aura' battles have children, teens and adults step into a circle one at a time to win cheers with confident poses and exaggerated moves, moving from online slang into park championships (one in Suzano drew 200+ entrants) and millions of video views.",
+     "src": "Emisoras Unidas, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 256
+    },
+    {
+     "t": "A kid safe aura battle for Bro Bros is a 'show your style' circle song: each friend steps in for four beats, strikes a silly superhero pose, the others cheer 'Wooo!', and the chorus invites kids at home to do their own pose.",
+     "src": "Emisoras Unidas, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 256
+    },
+    {
+     "t": "Korean trot star Young Tak's 'Kkeokgeo' (Sep 2026) reached No. 7 on Instagram's Popular Audio chart mostly as a 180 degree before and after transformation sound, again showing that a clean beat drop for a reveal is what spreads, which our own songs can build in.",
+     "src": "Sports Kyunghyang, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 256
     }
    ]
   }
@@ -7943,11 +7957,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 176): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:44",
-   "note": "Run 177 (competitor deep dive (The Kiboomers, Kaboochi)): The Kiboomers (Canada, 4.04M subscribers) earns a steady 50 to 55M views a month posting just one new video every Friday, and its top five are all movement games: Going on a Dragon Hunt 37M, Freeze Dance 2 31M, Red Light Freeze Dance 30M, Dinosaur Hunt, Floor is Lava. Kaboochi gets about 11.6M a month from 2,225 videos, its hits Finger Family twists (Football Finger Family 29M). Total 782."
+   "note": "Earlier runs summarised (up to Run 177): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:45",
@@ -8260,6 +8270,10 @@
   {
    "date": "2026-11-16 01:52",
    "note": "Run 255 (Shorts and Reels (Reels algorithm timeline recheck)): Little new: SocialPilot's September 2026 update reports no Reels ranking changes in August or September, after 'Your Algorithm' spread from Reels (Jan) to Explore (15 Apr) and Feed (Jun), and puts Explore's reach rate at about 37.8% against 30.8% for Reels overall. Planoly's October review finds only small vendor tests for Trial Reels, so they stay an optional test, not a growth plan. Total 1121."
+  },
+  {
+   "date": "2026-11-16 01:53",
+   "note": "Run 256 (TRENDS (Brazil's aura battles, Korean before and after challenge audio)): In Brazil, 'farmear aura' battles (kids, teens and adults step into a circle and win cheers with poses and exaggerated moves) grew from slang into city championships in 2026, one event with 200+ entrants, a kid safe show your style format. In Korea, Young Tak's 'Kkeokgeo' hit No. 7 on Instagram's audio chart mainly as a 180 degree before and after transformation sound. One duplicate Grammy leaf from this run was merged. Total 1123."
   }
  ],
  "history": [
@@ -9282,6 +9296,10 @@
   {
    "date": "2026-11-16 01:52",
    "total": 1121
+  },
+  {
+   "date": "2026-11-16 01:53",
+   "total": 1123
   }
  ],
  "next_week_ideas": [
@@ -9392,6 +9410,12 @@
    "use": "Both Bros and friends in a row do a shoulder bounce to our own original dembow style beat. Meshy step: standing in place, feet still, lift both shoulders up and drop them down on every beat, then alternate left shoulder and right shoulder, small head nod, finish with a big two shoulder shrug and smile. Never use the original sound."
   },
   {
+   "name": "Show your style circle",
+   "where": "Brazil ('farmear aura' battles in parks and on TikTok, city championships in 2026)",
+   "status": "rising",
+   "use": "Our own bouncy 'Show your style!' song: the Bros and friends stand in a circle, each steps into the middle for four beats, does one big silly pose, and everyone cheers; end with all of them posing together and inviting kids at home to show their pose. Meshy steps: standing, step forward one step, raise both fists like a superhero, then one hand on hip and one pointing up, hold, then step back and clap twice."
+  },
+  {
    "name": "Thumbs up cheer dance",
    "where": "Korean baseball cheer (Pikki Pikki, 80M views on one clip, keeps resurfacing on Shorts and TikTok)",
    "status": "evergreen",
@@ -9402,12 +9426,6 @@
    "where": "TikTok (AI Alligator Dance resurgence, 2.4M view post on 2 Nov 2026, KnowYourMeme)",
    "status": "peak",
    "use": "Three of our own original 3D animal friends (the trendiest kid animals now: a fluffy highland cow, a calm capybara and a pink axolotl, plus winter penguins) stand upright and dance in a line with the Bros. Meshy step: standing, rhythmic walk in place (step left, step right), arms swinging, then three quick chest pops forward and a hand wave over the head. Our own beat only, never the trending audio. Variation from the kitten parade meme: the animal friends can also parade past the camera one by one before lining up."
-  },
-  {
-   "name": "Say the word on the beat",
-   "where": "TikTok, Shorts (Christmas specials, Dec 2025, returning)",
-   "status": "rising",
-   "use": "A grid of pictures pops up one at a time (hat, cat, bat, mat) and the Bros say each word exactly on the beat of our own simple beat, getting faster each round; kids at home try to keep up. Perfect for winter and Christmas word sets and for English learners."
   },
   {
    "name": "Tutorial turns into a dance",
