@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:53:30+05:30",
- "runs": 196,
+ "updated": "2026-11-15T22:54:12+05:30",
+ "runs": 197,
  "branches": [
   {
    "id": "platforms",
@@ -1707,6 +1707,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 192
+    },
+    {
+     "t": "A 15.8M subscriber kids channel (Heidi dan Zidane) running four to five 24/7 streams of its old hits got 41.9% of its watch time (11.6M hours) and 34.5% of partner revenue from streams, with under one fifth of views, so once we have 30+ songs a nonstop Bro Bros stream is the cheapest way to turn the back catalogue into watch time.",
+     "src": "AIR Media-Tech, Mar 2026 (vendor case study)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 197
+    },
+    {
+     "t": "In the same case, stream revenue per view was about 66% higher than regular uploads and streams stay on the YouTube Live shelf, so several themed streams (bedtime, dance party, learning) running at once act like small TV channels for different moods and time zones.",
+     "src": "AIR Media-Tech, Mar 2026 (vendor case study)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 197
     }
    ]
   },
@@ -4913,6 +4927,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 188
+    },
+    {
+     "t": "Heidi dan Zidane's Spanish dubbed audience came mostly from Mexico (24.2% of views) and Argentina (11.1%), with Spain watching longest (5:08 average), yet the US gave only 5.3% of views but 43.2% of revenue: volume comes from Latin America, money from US viewers.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 197
     }
    ]
   },
@@ -6077,10 +6098,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 19:43",
-   "note": "Run 118 (rules, safety and monetisation (Australia, EU minors rules, Shorts pay by country)): In Australia under 16s have been signed out of YouTube since 10 Dec 2025 (no subscriptions, playlists or likes) but can still watch signed out, and YouTube Kids is untouched. EU minors guidelines push platforms away from streaks and endless scroll and discourage buy now prompts aimed at kids. Shorts pay roughly ten times more per view in the US, UK and Australia than in India, Indonesia or the Philippines. Total 563."
-  },
-  {
    "date": "2026-11-15 19:45",
    "note": "Run 119 (our results checked (no new data since run 95, already noted today), then YouTube algorithm (classroom and supervised viewing)): Metricool still shows the same 1 to 11 Nov uploads, so no new results today. Switched to how schools reach kids: YouTube's Player for Education lets K to 12 school accounts watch only teacher assigned videos by default, NYC blocked student YouTube on school devices from 9 Sep 2026, and supervised kid accounts with a Shorts timer reached the Middle East, North Africa and Turkiye. Total 567."
   },
@@ -6391,6 +6408,10 @@
   {
    "date": "2026-11-15 22:53",
    "note": "Run 196 (TRENDS (Reels audio 31 Oct to 10 Nov, the shoulder shimmy crossing to Reels)): Reels audio to 10 Nov: three Christmas label songs at peak (up to 5.8M Reels), the Dame Hombro shoulder shimmy crossing from TikTok to Reels as a team dance (137K Reels, rising) and an instrumental beat rising under quick tips clips. The shoulder bounce moved to the top of the trend bank with a Meshy friendly step description. Total 854."
+  },
+  {
+   "date": "2026-11-15 22:54",
+   "note": "Run 197 (algorithm experiments and data (24/7 streams case, Heidi dan Zidane)): AIR's Heidi dan Zidane case (15.8M subs, mostly Spanish speaking markets): four or five 24/7 streams replaying old hits made 41.9% of watch time and 34.5% of revenue from under a fifth of views, with stream RPM about 66% above normal uploads; the US gave 5.3% of views but 43.2% of revenue. Title and thumbnail A/B tests were already in the tree (and are off for made for kids videos). Total 857."
   }
  ],
  "history": [
@@ -7177,6 +7198,10 @@
   {
    "date": "2026-11-15 22:53",
    "total": 854
+  },
+  {
+   "date": "2026-11-15 22:54",
+   "total": 857
   }
  ],
  "next_week_ideas": [
