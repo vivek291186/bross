@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:47:30+05:30",
- "runs": 189,
+ "updated": "2026-11-15T22:48:21+05:30",
+ "runs": 190,
  "branches": [
   {
    "id": "platforms",
@@ -5879,6 +5879,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 187
+    },
+    {
+     "t": "Which?'s Oct 2026 toy trend list for this Christmas is led by film tie ins (K-Pop Demon Hunters, Toy Story 5, Spider-Man, Super Mario), Pokemon's 30th anniversary, World Cup football toys, blind box mystery figures, hatching dinosaurs and megalodons, and plush; characters are off limits for us, but mystery reveals, hatching eggs, football and sea giants are free themes.",
+     "src": "Which?, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 190
+    },
+    {
+     "t": "The Toy Insider's 2026 hot list includes singing K-Pop Demon Hunters dolls, a mini record player and a toddler animal instrument band, but no dance toy, so singing along is what toys sell this year and a Bro Bros 'play your instrument' band song fits the same wish lists.",
+     "src": "TODAY and The Toy Insider, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 190
+    },
+    {
+     "t": "Interactive pets that grow as kids care for them (a roaring tiger cub plush, hatching creatures) top 2026 lists, so a song where the Bros look after an original baby pet that grows a little each chorus taps the same nurturing play.",
+     "src": "The Toy Insider and Which?, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 190
+    },
+    {
+     "t": "Blind boxes and mystery figures stay one of the strongest toy trends into Christmas 2026, so a 'what's in the box?' countdown and reveal is a format kids already love; we reveal moves and props, never branded toys.",
+     "src": "Which?, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 190
     }
    ]
   }
@@ -5907,10 +5935,6 @@
   {
    "date": "2026-11-15 17:37",
    "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:09",
-   "note": "Run 111 (other platforms (Netflix kids top 10s worldwide, 2025)): FlixPatrol based ranking of Netflix kids top 10s worldwide in 2025: series led by Peppa Pig, Gabby's Dollhouse, Masha and the Bear and PAW Patrol, films by KPop Demon Hunters; YouTube born titles in the top 50 include Ms Rachel (No. 5), CoComelon (No. 8), Bebefinn (No. 9), Jose Comelon (Spanish CoComelon), Baby Shark Hospital Play and Lottie Dottie Chicken. Total 533."
   },
   {
    "date": "2026-11-15 19:10",
@@ -6223,6 +6247,10 @@
   {
    "date": "2026-11-15 22:47",
    "note": "Run 189 (competitor deep dive (VocaVoca after Halloween, Jasmin and James duo Shorts)): VocaVoca's last 28 days to 12 Nov brought about 1.42B views against 2.91B in October, so its post Halloween drop roughly halved monthly reach, while its newest good manners cartoon still got about 133K views in 13 hours. Germany based duo Jasmin and James (43.1M subs, 79.9B views, about 26,700 videos) gets its best recent Shorts from behind the scenes clips and 'Can you do it?' challenges rather than plain trend copies. Total 830."
+  },
+  {
+   "date": "2026-11-15 22:48",
+   "note": "Run 190 (TRENDS (holiday 2026 toy and character trends to borrow as formats)): Holiday 2026 toy lists are led by K-Pop Demon Hunters dolls and plush, Toy Story 5, Pokemon's 30th, World Cup football toys, blind box mystery figures, hatching dinosaurs and electronic pets that grow. We cannot use those characters, so two original formats joined the trend bank (mystery box reveal, hatching egg) and the two faded Halloween formats were dropped. Total 834."
   }
  ],
  "history": [
@@ -6981,6 +7009,10 @@
   {
    "date": "2026-11-15 22:47",
    "total": 830
+  },
+  {
+   "date": "2026-11-15 22:48",
+   "total": 834
   }
  ],
  "next_week_ideas": [
@@ -7043,6 +7075,18 @@
  ],
  "trend_bank": [
   {
+   "name": "Mystery box reveal",
+   "where": "Blind box toys and unboxing (top holiday 2026 toy trend)",
+   "status": "rising",
+   "use": "A brother shakes a wrapped mystery box, the other counts 3, 2, 1, the lid pops on the beat and out comes a new dance move, friend or winter prop; each box is one verse of our own song. Original items only, never branded toys."
+  },
+  {
+   "name": "Hatching egg reveal",
+   "where": "Hatching dinosaur and creature toys (Which?, Oct 2026)",
+   "status": "rising",
+   "use": "A big spotty egg wobbles to the beat, cracks on the drop and a cute original baby dino copies the Bros' dance. Meshy move: stand in place, wobble the body side to side with hands on hips, then pop up on toes with arms out."
+  },
+  {
    "name": "Advent calendar daily series",
    "where": "TikTok, Reels, Shorts (every December)",
    "status": "seasonal",
@@ -7097,12 +7141,6 @@
    "use": "Bro Bros do a 4-move sway, wave, clap, spin routine in the chorus; make a 15 s Short teaching it step by step ('Can you do it?')."
   },
   {
-   "name": "Feet-up costume reveal",
-   "where": "TikTok (Ramalama style)",
-   "status": "fading",
-   "use": "Short opens on the kids' shoes, camera tilts up on the beat to reveal themed costumes (dinos, astronauts, chefs). Original song beat."
-  },
-  {
    "name": "0% to 100% loading",
    "where": "Reels",
    "status": "peak",
@@ -7155,12 +7193,6 @@
    "where": "TikTok, Reels (Latin America to Europe)",
    "status": "rising",
    "use": "Both Bros do a big shoulder bounce on an original Latin style beat in the chorus; Short teaches it in 3 counts."
-  },
-  {
-   "name": "Plan vs what happened",
-   "where": "TikTok carousel, Shorts",
-   "status": "fading",
-   "use": "Four quick shots of the Bros' big plan (build a snowman, bake a cake), last shot the funny mess, then the song chorus: 'Oops, that's okay!'"
   }
  ]
 }
