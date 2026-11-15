@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:09:10+05:30",
- "runs": 308,
+ "updated": "2026-11-16T04:09:48+05:30",
+ "runs": 309,
  "branches": [
   {
    "id": "platforms",
@@ -3366,6 +3366,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 300
+    },
+    {
+     "t": "Skyship's live action 'Super Simple Play with Caitie!' (Canada, 5.25M subscribers) steadied at about 47 to 58M views a month through 2026 after a 2025 peak (332M in Apr 2025); its all time hits are 'Here Comes the Fire Truck' (109M), the colour hunt 'I See Something Blue' (78M), a Halloween knock knock song (63M) and the freeze game 'Can You Dance and Stop?' (50M), and vidIQ models about 46K USD a month.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 309
+    },
+    {
+     "t": "US rhyme channel Super Supremes (4M subscribers, 960 videos) has been flat since late 2025 at about 3 to 7M views a month and its newest Short (9 Nov 2026, a fire truck wheels song) drew only about 1.8K views in five days, showing that a big but stale subscriber base no longer guarantees views for generic rhyme remakes.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 309
+    },
+    {
+     "t": "Across both channels the top songs are fire trucks, Halloween and colour or freeze games, and Caitie's newest upload (12 Nov) is already a Christmas party song, so Super Simple starts holiday uploads in mid November.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 309
     }
    ]
   },
@@ -9189,11 +9210,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 229): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:06",
-   "note": "Run 230 (algorithm experiments (video cut A/B tests and dynamic thumbnails: what is known)): Details of YouTube's coming video A/B tests: up to three full cuts of one video (for example different openings), judged on retention curves, with the creator choosing the winner; no date yet (title tests took 84 days from announcement to launch, which points to about mid December 2026). Dynamic thumbnails will keep up to three images live for different viewer groups. Made for kids access is unconfirmed, so we should prepare two openings per key song but not rely on the tool. Total 1001."
+   "note": "Earlier runs summarised (up to Run 230): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:07",
@@ -9506,13 +9523,13 @@
   {
    "date": "2026-11-16 04:09",
    "note": "Run 308 (global markets (Pakistan)): Pakistan's top YouTube channels (HypeAuditor, Nov 2026) are dominated by family and Shorts creators (Ak Ultra 19M subscribers and 22.3B views, Anaya Eshaal Family 16.9M, Minsa Saim Omer 20.9B views), with story channel Geo Kahani at 7M. A small Pakistani learning channel (TinyTaleem, 145K subscribers) now gets only about 2.5K views a month, proof that old subscribers bring no views without fresh, recommended videos. Total 1299."
+  },
+  {
+   "date": "2026-11-16 04:09",
+   "note": "Run 309 (competitor deep dive (Super Simple Play with Caitie, Super Supremes)): Skyship's live action 'Super Simple Play with Caitie!' (5.25M subscribers) holds a steady 47 to 58M views a month in 2026, down from 332M in April 2025, and its top songs are a fire truck song (109M), a colour hunt (78M) and a freeze dance game (50M); vidIQ models about 46K USD a month. Older 3D rhyme channel Super Supremes (4M subscribers) is flat, with its newest Short getting under 2K views in five days. Halloween and fire truck songs top both channels. Total 1302."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:54",
-   "total": 114
-  },
   {
    "date": "2026-11-15 15:55",
    "total": 122
@@ -10708,9 +10725,17 @@
   {
    "date": "2026-11-16 04:09",
    "total": 1299
+  },
+  {
+   "date": "2026-11-16 04:09",
+   "total": 1302
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "I Spy Something Red! (Colour Hunt)",
+   "why": "Super Simple's colour hunt 'I See Something Blue' has 78M views; our own original colour hunt where the Bros spot red, then blue, then yellow things in their house, with a pause for kids to point, is a proven learning game for ages 2 to 5 that works in any language."
+  },
   {
    "title": "Beep Beep Car Football!",
    "why": "Car football is among Roblox's fastest growing new games; a song where little toy cars push a giant ball into the goal, with 'beep, zoom, GOAL!' calls, joins two evergreen kid loves (vehicles and sport) with no brand needed."
@@ -10762,10 +10787,6 @@
   {
    "title": "Jump, Jump, Happy New Year!",
    "why": "Parents look for early 'fake midnight' countdowns every 31 Dec; a counting song from 10 to 1 with a jump on each number and world New Year actions (12 grapes, seven waves, right foot first) lets toddlers worldwide celebrate before bedtime."
-  },
-  {
-   "title": "Highland Cow Hoedown",
-   "why": "The shaggy highland cow is tipped as the next trendy kids' animal after capybaras and axolotls; a fluffy original cow friend teaching a simple stomp, clap and spin barn dance with the Bros rides the trend early with our own character."
   }
  ],
  "trend_bank": [
