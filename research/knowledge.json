@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:39:06+05:30",
- "runs": 67,
+ "updated": "2026-11-15T17:39:45+05:30",
+ "runs": 68,
  "branches": [
   {
    "id": "platforms",
@@ -1126,6 +1126,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 61
+    },
+    {
+     "t": "Dave and Ava (3D nursery rhymes, 15.9M subs, 12.8B views) gained zero subscribers in 2026 and only about 37 to 57M views a month, with its top videos still 2021 to 2022 Halloween and firemen compilations and a new Head Shoulders Knees and Toes upload at about 30K views in two days: a classic rhyme library without fresh formats or Shorts stalls.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 68
+    },
+    {
+     "t": "Pinkfong's Hogi channel (16.7M subs) earns about 220 to 365M views a month in 2026; its biggest hits teach colours through objects kids crave (Learn Colors with Colorful Pop It 306M, with Candies 138M, Monster Candy Shop 125M), and its newest breakout is Roar! Dino Special (95M, Aug 2025).",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 68
+    },
+    {
+     "t": "Hogi's newest Short (5 Nov 2026) is a 'What's inside the dinosaur egg?' reveal, the same surprise reveal question hook ChuChu TV sells to Netflix as Surprise Eggs; a hatch or unwrap reveal in the first seconds is a proven kids Shorts opener we can do with our own original objects.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 68
     }
    ]
   },
@@ -2972,6 +2993,10 @@
   {
    "date": "2026-11-15 17:39",
    "note": "Run 67 (global markets (Indonesia and Germany)): Indonesia: LooLoo's Bahasa Indonesia channel (3.08M subs) got about 292M views in October, led by a local Five Little Ducks (Lima bebek kecil) at 102M; CoComelon, Pinkfong, Little Angel, BabyBus and Lalafun all run separate Indonesian channels. Germany: YouTube reaches 51% of 2 to 5s and 80% of 10 to 12s, nearly half watch on TV. Total 374."
+  },
+  {
+   "date": "2026-11-15 17:39",
+   "note": "Run 68 (competitor deep dive (Dave and Ava, Hogi)): Dave and Ava (3D rhymes, 15.9M subs) gained no subscribers in 2026 and only about 40 to 57M views a month, its top videos still 2021 Halloween compilations. Pinkfong's Hogi (16.7M) earns about 260M a month from colour learning with candy and toy objects (Pop It colours 306M) and a Roar Dino Special (95M); its newest Short is a dinosaur egg reveal. Total 377."
   }
  ],
  "history": [
@@ -3242,6 +3267,10 @@
   {
    "date": "2026-11-15 17:39",
    "total": 374
+  },
+  {
+   "date": "2026-11-15 17:39",
+   "total": 377
   }
  ],
  "next_week_ideas": [
