@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:45:37+05:30",
- "runs": 248,
+ "updated": "2026-11-16T01:46:52+05:30",
+ "runs": 249,
  "branches": [
   {
    "id": "platforms",
@@ -2918,6 +2918,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 237
+    },
+    {
+     "t": "Moonbug's Blippi spinoff Meekah opened on its own YouTube channel on 7 Nov 2026, warmed up by a single music video ('Happy Place') on 2 Nov, with roughly 15 minute episodes for ages 3 to 6 every other Saturday.",
+     "src": "Foro3D, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 249
+    },
+    {
+     "t": "Meekah episodes alternate short bursts of dance and physical play with short pauses, a move then rest rhythm built on UCLA backed learning principles that Bro Bros can copy inside long compilations (dance, calm breath, dance).",
+     "src": "Foro3D, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 249
+    },
+    {
+     "t": "Moonbug launched Big Feelings Music in Sept 2026, offering label services, publishing administration and YouTube distribution to outside children's music creators, a possible future partner route for an independent kids song brand.",
+     "src": "Advanced Television, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 249
+    },
+    {
+     "t": "Pinkfong is releasing the soundtrack of its 5 Dec Baby Shark Christmas sing along film in two waves (10 Nov and 27 Nov), 15 tracks with seven new songs, and uses an on screen MC character to lead audience participation, a staged drop pattern we can copy for a December song pack.",
+     "src": "Sports Kyunghyang, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 249
+    },
+    {
+     "t": "ChuChu TV grew by refreshing old nursery rhymes with new stories instead of making lullabies, and even early on earned 40 to 50% of revenue abroad (mostly UK, US and Canada) while Vietnam gave many views but little revenue.",
+     "src": "Indian Television, 2018",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 249
     }
    ]
   },
@@ -7740,11 +7775,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 169): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:37",
-   "note": "Run 170 (Shorts and Reels (feed signals, AI topic labels)): Most Reels signals were already in the tree. New: some Reels now show a blue AI label revealing how Instagram categorised the post, the Shorts feed will start recommending text Posts (300M daily users engage with Posts), and Instagram's Your Algorithm topic search only works at broad level, so captions should name broad topics like kids songs. Total 749."
+   "note": "Earlier runs summarised (up to Run 170): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:50",
@@ -8057,6 +8088,10 @@
   {
    "date": "2026-11-16 01:45",
    "note": "Run 248 (global markets (Latin America by age, MENA demand and dialects)): Kidscorp's July 2026 Latin America study says children aged 3 to 5 use only YouTube, with similar reach across rich and poor homes and about 68% YouTube reach in Mexico and Chile; in MENA, kids animation makes up 40.6% of supply but only 30.2% of demand, and pan Arab hits mix dialects and draw viewers from Iraq and Egypt. Total 1092."
+  },
+  {
+   "date": "2026-11-16 01:46",
+   "note": "Run 249 (competitor deep dive (Moonbug's Meekah launch and music label, Pinkfong's staged holiday soundtrack)): Moonbug launched Meekah on its own YouTube channel on 7 Nov 2026 with a music video teaser five days earlier, 15 minute episodes that alternate movement and pauses, and a new episode every other Saturday; it also opened Big Feelings Music to outside kids music creators. Pinkfong is releasing its Christmas film soundtrack in two waves (10 and 27 Nov) before the 5 Dec film. Total 1097."
   }
  ],
  "history": [
@@ -9051,6 +9086,10 @@
   {
    "date": "2026-11-16 01:45",
    "total": 1092
+  },
+  {
+   "date": "2026-11-16 01:46",
+   "total": 1097
   }
  ],
  "next_week_ideas": [
