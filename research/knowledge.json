@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:54:40+05:30",
- "runs": 217,
+ "updated": "2026-11-15T23:55:28+05:30",
+ "runs": 218,
  "branches": [
   {
    "id": "platforms",
@@ -930,6 +930,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 207
+    },
+    {
+     "t": "Tonies, the screen free audio box for kids, grew revenue 38% to about 243M EUR in H1 2026, with North America up 48% (Q2 alone up 83%) and 63% of sales now outside Germany, driven by licences such as Bluey and Pokemon.",
+     "src": "Spielwarenmesse, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 218
+    },
+    {
+     "t": "Yoto's revenue rose about 43% in 2025 after an 86% jump in 2024, children listened to 22B minutes of its content in 2025, and music albums (KPop Demon Hunters, Wicked, The Beatles) are a growing share of its roughly 2,000 title catalogue.",
+     "src": "RouteNote (Music Ally), Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 218
+    },
+    {
+     "t": "Both audio players sell curated, licensed content from big brands rather than taking open uploads, so Bro Bros songs reach audio only listening first through streaming (Spotify, Apple Music, Amazon) and could pitch to Tonies or Yoto once the brand has a following.",
+     "src": "Spielwarenmesse and RouteNote, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 218
     }
    ]
   },
@@ -3394,6 +3415,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 210
+    },
+    {
+     "t": "Because screen free audio is booming (Yoto 22B minutes in 2025), every Bro Bros song should work without pictures too: sing the actions in the lyrics ('jump, jump, now spin around') so a child can dance from audio alone.",
+     "src": "RouteNote, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 218
     }
    ]
   },
@@ -6760,11 +6788,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 138): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:06",
-   "note": "Run 139 (topics and seasons (Christmas formats) and playbook refresh): Holiday Shorts in Dec 2025 favoured honest, funny 'fail' baking clips and year end countdowns, and kids channel playbooks suggest daily advent reveal mini videos and 'Christmas around the world' tours. Playbook refreshed: movement songs get big quiet and loud contrasts, and one bilingual English Spanish song a week. Total 637."
+   "note": "Earlier runs summarised (up to Run 139): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:06",
@@ -7077,6 +7101,10 @@
   {
    "date": "2026-11-15 23:54",
    "note": "Run 217 (TRENDS (2026 whimsy mood, winter dance memes, people redoing AI dances by hand)): The December calendar was already in the tree, so this round looked at mood and memes: TikTok's 2026 'whimsy' wave (bright colours, nostalgia, child like wonder) suits Bro Bros' style; the AI baby dance peaked from Nov 2025 to Jan 2026 with people proudly redoing it by hand ('real always wins'), so it was marked fading; the ski slope toddler dance (2022) shows winter dance clips with one hand wave and a side step travel each November. Total 952."
+  },
+  {
+   "date": "2026-11-15 23:55",
+   "note": "Run 218 (other platforms (algorithm ran with nothing new, so switched: screen free audio players Tonies and Yoto)): YouTube Kids and supervised account changes were already in the tree, so this round looked at screen free audio: Tonies grew 38% to about 243M EUR in H1 2026 (North America up 48%, Q2 there up 83%) on licences like Bluey and Pokemon, and Yoto's revenue jumped 43% in 2025 with 22B minutes listened and a growing music shelf (KPop Demon Hunters, Wicked). A strong song catalogue could later become audio cards, but only once the Bros are a known brand. Total 956."
   }
  ],
  "history": [
@@ -7947,6 +7975,10 @@
   {
    "date": "2026-11-15 23:54",
    "total": 952
+  },
+  {
+   "date": "2026-11-15 23:55",
+   "total": 956
   }
  ],
  "next_week_ideas": [
