@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:53:41+05:30",
- "runs": 256,
+ "updated": "2026-11-16T01:54:18+05:30",
+ "runs": 257,
  "branches": [
   {
    "id": "platforms",
@@ -3758,6 +3758,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 245
+    },
+    {
+     "t": "Holiday music streaming first jumps around 1 Sep as kids return to school, climbs again in October (US holiday playlist creation rose 60% from Oct 2024 to Oct 2025) and stays at its peak through November and December, so our holiday songs should be live by mid November at the latest.",
+     "src": "Digital Music News (Spotify data), Dec 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 257
+    },
+    {
+     "t": "By the second week of December 20 of Spotify's top 25 global tracks are Christmas songs, so December listeners actively search for festive music and a new original kids holiday song competes mostly on searchable titles like 'Christmas Dance for Kids'.",
+     "src": "Digital Music News (Spotify data), Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 257
+    },
+    {
+     "t": "Sia's 2017 original 'Snowman' has passed 1.3B Spotify plays and her holiday album streams about 8M times a day, showing that a newly written, simple, warm winter song (not a cover) can become a yearly standard that earns every December.",
+     "src": "Digital Music News, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 257
+    },
+    {
+     "t": "Five of YouTube's ten most viewed videos are children's songs, estimated at about $84M in combined ad revenue, and analysts credit visually engaging kids songs with driving the most replays of any content.",
+     "src": "Mediaweek, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 257
     }
    ]
   },
@@ -7957,11 +7985,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 177): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:45",
-   "note": "Run 178 (algorithm experiments and data (Shorts mix and Shorts money for kids channels)): AIR's 18,000 channel study: small kids channels (100K to 1M monthly views) that post only long form have about 63% more median subscribers than those mixing in Shorts, and mixed kids channels average about 37% Shorts; above 55% Shorts long form suffers. AIR's 274 channel RPM study: kids long form RPM drops about 26% in months with Shorts, but Shorts make 41% of revenue for big kids channels posting 21+ a month. Total 786."
+   "note": "Earlier runs summarised (up to Run 178): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:46",
@@ -8274,6 +8298,10 @@
   {
    "date": "2026-11-16 01:53",
    "note": "Run 256 (TRENDS (Brazil's aura battles, Korean before and after challenge audio)): In Brazil, 'farmear aura' battles (kids, teens and adults step into a circle and win cheers with poses and exaggerated moves) grew from slang into city championships in 2026, one event with 200+ entrants, a kid safe show your style format. In Korea, Young Tak's 'Kkeokgeo' hit No. 7 on Instagram's audio chart mainly as a 180 degree before and after transformation sound. One duplicate Grammy leaf from this run was merged. Total 1123."
+  },
+  {
+   "date": "2026-11-16 01:54",
+   "note": "Run 257 (music craft (holiday listening calendar, original holiday songs that last)): Spotify data via Digital Music News shows holiday streaming first jumps around 1 Sep, rises again in October (US holiday playlist creation up 60% year on year) and peaks through November, with 20 of the top 25 global tracks festive by the second week of December. A modern original, Sia's 'Snowman', passed 1.3B plays, proof a new holiday song can become a yearly standard. Total 1127."
   }
  ],
  "history": [
@@ -9300,6 +9328,10 @@
   {
    "date": "2026-11-16 01:53",
    "total": 1123
+  },
+  {
+   "date": "2026-11-16 01:54",
+   "total": 1127
   }
  ],
  "next_week_ideas": [
