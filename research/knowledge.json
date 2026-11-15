@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:09:51+05:30",
- "runs": 111,
+ "updated": "2026-11-15T19:10:30+05:30",
+ "runs": 112,
  "branches": [
   {
    "id": "platforms",
@@ -2113,6 +2113,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 100
+    },
+    {
+     "t": "Babies aged 2 to 14 months relaxed (lower heart rate, smaller pupils) to lullabies even from unfamiliar cultures and languages, and those lullabies were slower, used a smaller pitch range and a looser, less steady beat, so our bedtime songs should drop the drum groove and keep the melody narrow.",
+     "src": "BPS Research Digest (Nature Human Behaviour)",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 112
+    },
+    {
+     "t": "In a Yale trial (110 families with babies under four months, Child Development) giving parents karaoke style sing along videos, songbooks and weekly prompts made them sing in almost nine of ten check ins, and babies who were sung to more had better moods, so on screen lyrics and easy parent sing along lines add value.",
+     "src": "Earth.com, Jul 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 112
+    },
+    {
+     "t": "Because lullabies from any culture calm babies, a bedtime song travels across languages with almost no translation; one slow, narrow range Bro Bros lullaby can serve every market with only the words re sung.",
+     "src": "BPS Research Digest (Nature Human Behaviour)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 112
     }
    ]
   },
@@ -3823,10 +3844,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 16:54",
-   "note": "Run 33 (competitor deep dive (Super Simple Songs, Little Angel)): Super Simple Songs (47.3M) grew monthly views from about 490M to 590M during 2026 on its back catalogue while adding only 100 to 200K subs a month; its newest upload is a wash your hands and face routine song (about 900K in 9 days). A Little Angel channel posting daily in Oct 2026 got 7K to 30K per video, except a Brush Your Teeth song at 96K. Total 235."
-  },
-  {
    "date": "2026-11-15 16:55",
    "note": "Run 34 (algorithm experiments and data): Two more kids channel cases: The Melobies (energetic nursery rhymes) grew subscribers over 9 times after YouTube Kids listing, expressive high contrast mobile thumbnails, keyword titles, themed playlists and 24/7 streams; Sandy the Sticker went from 1 to 16 automated 24/7 streams and added Shorts cut from long form, lifting watch time 31% and average view duration from 1:36 to 2:06. Total 239."
   },
@@ -4137,6 +4154,10 @@
   {
    "date": "2026-11-15 19:09",
    "note": "Run 111 (other platforms (Netflix kids top 10s worldwide, 2025)): FlixPatrol based ranking of Netflix kids top 10s worldwide in 2025: series led by Peppa Pig, Gabby's Dollhouse, Masha and the Bear and PAW Patrol, films by KPop Demon Hunters; YouTube born titles in the top 50 include Ms Rachel (No. 5), CoComelon (No. 8), Bebefinn (No. 9), Jose Comelon (Spanish CoComelon), Baby Shark Hospital Play and Lottie Dottie Chicken. Total 533."
+  },
+  {
+   "date": "2026-11-15 19:10",
+   "note": "Run 112 (music craft (lullaby features, singing with babies)): Harvard's Nature Human Behaviour study (144 babies) found heart rate and pupil size dropped more for lullabies from any culture, which were slower, used a smaller pitch range and a looser beat. A Yale trial in Child Development gave parents karaoke style videos and songbooks and they sang far more, with happier babies, so sing along videos that parents can copy have real value. Total 536."
   }
  ],
  "history": [
@@ -4583,6 +4604,10 @@
   {
    "date": "2026-11-15 19:09",
    "total": 533
+  },
+  {
+   "date": "2026-11-15 19:10",
+   "total": 536
   }
  ],
  "next_week_ideas": [
