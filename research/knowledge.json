@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:54:12+05:30",
- "runs": 197,
+ "updated": "2026-11-15T23:35:57+05:30",
+ "runs": 198,
  "branches": [
   {
    "id": "platforms",
@@ -895,6 +895,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 194
+    },
+    {
+     "t": "Classic slow public TV for preschoolers is moving onto YouTube in 2026: Fred Rogers Productions opened the first official Mister Rogers' Neighborhood channel in June and New Zealand's You and Me was rebuilt for YouTube with puppets, songs and filming in real preschools, betting on parents choosing calm shows for autoplay.",
+     "src": "Tubefilter Jun 2026; Newswire NZ, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 198
     }
    ]
   },
@@ -2554,6 +2561,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 189
+    },
+    {
+     "t": "Acamar Films (Bing) launched Again! Again!, a gentle paced public service style preschool channel on YouTube in June 2026 with presenter led themed blocks, live streamed segments and nine starter titles; Acamar already runs 67 channels in 33 languages with 1.3M viewing hours a day.",
+     "src": "Senal News, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 198
     }
    ]
   },
@@ -3807,6 +3821,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 186
+    },
+    {
+     "t": "Pit Pats, a low stimulation preschool series made by two Australian parents with ACTF and Screen Australia backing, launched on YouTube as made for kids in August 2026 with weekly uploads, mixing clay, hand drawn animation, puppets and macro lens nature footage of ladybirds, with a first episode built around one breathing exercise.",
+     "src": "c21media, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 198
+    },
+    {
+     "t": "Pim Pam Pino (Frank Barton Company) launched on YouTube in Spanish and English as 3D animation designed to feel handmade, built from wooden toy pieces instead of lead characters, with warm tones, deliberately slow pacing and songs played mostly on wooden instruments.",
+     "src": "AWN, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 198
+    },
+    {
+     "t": "The handmade look is now a deliberate 3D style choice for preschool YouTube, so a calm Bro Bros bedtime or lullaby series could switch to wood grain, felt and clay textures in Blender with slow camera moves, setting it apart from the bright neon of our dance songs.",
+     "src": "AWN and c21media, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 198
+    },
+    {
+     "t": "Critics of hyper stimulating kids video call its effect 'forced attention' (high watch time from sensory overload rather than real interest), and slow TV makers cite links to weaker executive function, so Bro Bros keeps bright colour but avoids flashing lights, constant cuts and loud stingers.",
+     "src": "c21media, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 198
     }
    ]
   },
@@ -6095,11 +6137,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:45",
-   "note": "Run 119 (our results checked (no new data since run 95, already noted today), then YouTube algorithm (classroom and supervised viewing)): Metricool still shows the same 1 to 11 Nov uploads, so no new results today. Switched to how schools reach kids: YouTube's Player for Education lets K to 12 school accounts watch only teacher assigned videos by default, NYC blocked student YouTube on school devices from 9 Sep 2026, and supervised kid accounts with a Shorts timer reached the Middle East, North Africa and Turkiye. Total 567."
+   "note": "Earlier runs summarised (up to Run 119): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:46",
@@ -6412,6 +6450,10 @@
   {
    "date": "2026-11-15 22:54",
    "note": "Run 197 (algorithm experiments and data (24/7 streams case, Heidi dan Zidane)): AIR's Heidi dan Zidane case (15.8M subs, mostly Spanish speaking markets): four or five 24/7 streams replaying old hits made 41.9% of watch time and 34.5% of revenue from under a fifth of views, with stream RPM about 66% above normal uploads; the US gave 5.3% of views but 43.2% of revenue. Title and thumbnail A/B tests were already in the tree (and are off for made for kids videos). Total 857."
+  },
+  {
+   "date": "2026-11-15 23:35",
+   "note": "Run 198 (visual craft (slow and handmade preschool shows arriving on YouTube)): A wave of deliberately slow, handmade looking preschool shows launched straight onto YouTube in 2026: Pit Pats (Australia, clay, puppets and macro nature shots, weekly made for kids uploads), Pim Pam Pino (3D wooden toy pieces that feel handmade, wooden instrument music, Spanish and English), the You and Me remake (NZ) and Acamar's gentle paced Again! Again! channel. A calm, crafted counter trend we can borrow for bedtime songs. Total 863."
   }
  ],
  "history": [
@@ -7202,6 +7244,10 @@
   {
    "date": "2026-11-15 22:54",
    "total": 857
+  },
+  {
+   "date": "2026-11-15 23:35",
+   "total": 863
   }
  ],
  "next_week_ideas": [
