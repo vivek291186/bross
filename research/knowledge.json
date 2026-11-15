@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:48:30+05:30",
- "runs": 181,
+ "updated": "2026-11-15T21:49:13+05:30",
+ "runs": 182,
  "branches": [
   {
    "id": "platforms",
@@ -825,6 +825,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 172
+    },
+    {
+     "t": "Digital i's 2025 review found YouTube passed Netflix in average daily viewing (99.1 vs 93.4 minutes worldwide) and that videos over 20 minutes grew from 63.6% to 67.7% of YouTube viewing time between Jan 2024 and Dec 2025, more support for long themed song compilations aimed at TV screens.",
+     "src": "senalnews.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 182
     }
    ]
   },
@@ -1602,6 +1609,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 178
+    },
+    {
+     "t": "Since YouTube's Q1 2026 TV update (14 May 2026) supervised child and teen profiles appear on the TV 'Who's Watching' screen, so more kids watch on the living room TV inside their own supervised profile, where recommendations follow that child's history rather than the parents'.",
+     "src": "ppc.land, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 182
+    },
+    {
+     "t": "The same TV update added 'Up Next' teasers at the end of videos to ease the move into the next one, so the last seconds of a Bro Bros song should tease another Bro Bros song (a brother waving 'next, the Wiggle Bus!') rather than end on a blank card, since end screens are off for made for kids videos.",
+     "src": "ppc.land, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 182
     }
    ]
   },
@@ -5668,11 +5689,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 39 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:04",
-   "note": "Run 103 (global markets (Indonesia ranking, Gulf creator)): Two dubbed kids brands sit in Indonesia's top 10 YouTube channels (BabyBus Indonesian 28.7M, Tayo Bahasa Indonesia 26.8M with about 34M views a month and 1.1M average per video). BabaSharo TV, a one creator kids song channel from Doha, reports 1.8B views from 1,000+ original songs dubbed into English, Arabic, Spanish, Portuguese and Hindi. Total 508."
+   "note": "Earlier runs summarised: 40 older log entries condensed."
   },
   {
    "date": "2026-11-15 19:04",
@@ -5985,6 +6002,10 @@
   {
    "date": "2026-11-15 21:48",
    "note": "Run 181 (YouTube charts and kids studio moves (most subscribed week of 8 Nov, CoComelon live action)): Only three kids or family channels made Tubefilter's most subscribed top 50 for the week of 8 Nov (Pokemon Kids TV 400K new subs, down 20%; Cadel and Mia and VocaVoca about 300K each). Moonbug answered CoComelon fatigue with The Melon Patch, a live action YouTube show with a music teacher host and real children singing, 15 minute episodes every other week. Total 796."
+  },
+  {
+   "date": "2026-11-15 21:49",
+   "note": "Run 182 (YouTube algorithm (TV profiles, Up Next, long viewing on TV)): YouTube's Q1 2026 TV update puts supervised child profiles on the TV Who's Watching screen and adds Up Next teasers at the end of videos, so kids on TV now watch in their own profile and our endings feed straight into the next song. Digital i: YouTube passed Netflix in average daily viewing (99 vs 93 minutes in 2025) and videos over 20 minutes rose to about 68% of YouTube viewing time. Total 799."
   }
  ],
  "history": [
@@ -6711,6 +6732,10 @@
   {
    "date": "2026-11-15 21:48",
    "total": 796
+  },
+  {
+   "date": "2026-11-15 21:49",
+   "total": 799
   }
  ],
  "next_week_ideas": [
