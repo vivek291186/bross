@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:52:10+05:30",
- "runs": 296,
+ "updated": "2026-11-16T03:58:36+05:30",
+ "runs": 297,
  "branches": [
   {
    "id": "platforms",
@@ -3282,6 +3282,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 288
+    },
+    {
+     "t": "Bebefinn's main English channel (37.3M subscribers, 25.1B views, 1,086 videos since Mar 2022) still adds about 370M views a month, but its subscriber gains fell to 100K to 300K a month in 2026 from 500K to 1.3M a month in 2024 and 2025, the same plateau BabyBus and Little Angel show, so the biggest 3D song brands are no longer growing fast and newer channels have room.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 297
+    },
+    {
+     "t": "Bebefinn's newest upload, 'We Are Car Mechanics! Let's Fix the Car!' (13 Nov 2026), drew about 133K views in 13 hours with a title built as emoji, pretend play job and action call, and its all time top video is a 2022 good morning wake up routine song (775M views), so pretend play jobs and daily routine songs remain the brand's core.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 297
+    },
+    {
+     "t": "vidIQ models Bebefinn's main channel at only about 97K USD a month of ad revenue from roughly 370M monthly views (about 0.26 USD per 1,000 views), confirming that made for kids song views earn little per view and that brands like Pinkfong earn mainly from streaming deals, toys and live shows.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 297
     }
    ]
   },
@@ -8937,11 +8958,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 217): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:55",
-   "note": "Run 218 (other platforms (algorithm ran with nothing new, so switched: screen free audio players Tonies and Yoto)): YouTube Kids and supervised account changes were already in the tree, so this round looked at screen free audio: Tonies grew 38% to about 243M EUR in H1 2026 (North America up 48%, Q2 there up 83%) on licences like Bluey and Pokemon, and Yoto's revenue jumped 43% in 2025 with 22B minutes listened and a growing music shelf (KPop Demon Hunters, Wicked). A strong song catalogue could later become audio cards, but only once the Bros are a known brand. Total 955 (one Yoto leaf merged as a duplicate of an older one)."
+   "note": "Earlier runs summarised (up to Run 218): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:56",
@@ -9254,6 +9271,10 @@
   {
    "date": "2026-11-16 03:52",
    "note": "Run 296 (global markets (Germany and Japan)): Germany's 'Kinderlieder zum Mitsingen und Bewegen' (3.47M subscribers, about 33 to 43M views a month from 1,453 videos) tags new songs with NEU at both ends of the title, its newest teaches tying a bow, and its biggest hits are remixed singing games like 'who stole the cookie from the jar'. Japan's top kids songs by YouTube views are franchise themes and Japanese versions of Disney songs plus public TV songs, so English originals travel least there and Japanese should be a later dub. Total 1263."
+  },
+  {
+   "date": "2026-11-16 03:58",
+   "note": "Run 297 (competitor deep dive (Bebefinn main channel slowdown and newest upload)): Bebefinn's main English channel has 37.3M subscribers and 25.1B views from 1,086 videos, adds about 370M views a month, but its subscriber gains slowed to 100K to 300K a month in 2026 from 500K to 1.3M in 2024 and 2025. Its newest upload (13 Nov, 'We Are Car Mechanics! Let's Fix the Car!') passed 133K views in 13 hours, and its top video is still a 2022 good morning routine song at 775M. The same slowdown pattern seen at BabyBus and Little Angel. Total 1266."
   }
  ],
  "history": [
@@ -10440,9 +10461,17 @@
   {
    "date": "2026-11-16 03:52",
    "total": 1263
+  },
+  {
+   "date": "2026-11-16 03:58",
+   "total": 1266
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Fix It, Fix It, Bro Bros Garage!",
+   "why": "Bebefinn's newest car mechanic song pulled 133K views in 13 hours, proving pretend play jobs still pull; our own garage song where the brothers fix a squeaky toy car with a 'tap, twist, beep' action chorus fits ages 2 to 6 everywhere."
+  },
   {
    "title": "Bunny Ears, Tie Your Shoes!",
    "why": "Germany's big kids song channel just released a bow tying song and life skill songs travel across languages; a step by step song (loop, loop, cross, pull) with big hand close ups helps 4 to 6 year olds worldwide and parents love practical songs."
@@ -10494,10 +10523,6 @@
   {
    "title": "It's Way Too Cold Today!",
    "why": "Rhymington Square's 'It's Way Too Hot Today' hit 17M by turning an everyday toddler complaint into a song; a winter twin where the Bros pile on hat, scarf and mittens, shiver, then warm up by dancing fits the northern December and invites a sequel."
-  },
-  {
-   "title": "1 Snowman, 100 Snowmen, a Million Snowmen!",
-   "why": "Scale challenge titles (10 vs 100 vs 1,000,000) are Kids Diana Show's top new format; a counting song where the Bros build one snowman, then a hundred, then a whole snowy world of them teaches big numbers and fits December worldwide."
   }
  ],
  "trend_bank": [
