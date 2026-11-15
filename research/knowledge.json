@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:11:53+05:30",
- "runs": 114,
+ "updated": "2026-11-15T19:40:31+05:30",
+ "runs": 115,
  "branches": [
   {
    "id": "platforms",
@@ -601,6 +601,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 111
+    },
+    {
+     "t": "YouTube auto dubbing now covers 27 languages, with expressive speech (keeps pitch and energy) live in English, Spanish, Portuguese, French, German, Italian, Hindi and Indonesian, and over 6M viewers watch 10+ minutes of dubbed video a day; it skips videos with no speech and videos with Content ID claims, so our sung songs need our own re sung tracks.",
+     "src": "ppc.land / YouTube blog, May 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 115
     }
    ]
   },
@@ -2134,6 +2141,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 112
+    },
+    {
+     "t": "Mundo Bita's studio launched Bamba Bum (30 Jan 2026): two clumsy dancing monsters and two kids in animated music clips built on Brazilian pop rhythms such as funk, passinho and swingueira, showing that local dance rhythms are how a song brand travels into Brazil.",
+     "src": "billboard.com.br, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 115
     }
    ]
   },
@@ -3212,6 +3226,41 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 103
+    },
+    {
+     "t": "AIR's dubbing review (Sep 2026) found AI only voice tracks held viewers 4 to 10 times less than the same videos with professionally voiced tracks; one Italian kids channel kept 5 to 6 minutes on pro dubs but only 54 seconds on its English AI track.",
+     "src": "air.io, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 115
+    },
+    {
+     "t": "Across several multi language tests the first extra languages to pull ahead were Spanish, Arabic, Indonesian and Portuguese, followed by Japanese and Korean; French and Italian AI tracks lagged well behind English.",
+     "src": "air.io, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 115
+    },
+    {
+     "t": "A kids channel in Indonesian (HZD, 165M views) found its Spanish track held viewers slightly longer than the original (2:11 against 2:00), showing that a well made second language audio can match the home language.",
+     "src": "air.io, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 115
+    },
+    {
+     "t": "Inflr's ranking of the 20 Brazilian channels that most engage kids (Oct 2026, HypeAuditor data) mixes creator families and gamers (six of the top 30 are Minecraft or Roblox based) with animated music brands Mundo Bita, Turma da Monica, Bolofofos and 3Palavrinhas; foreign dubbed channels were excluded from the list.",
+     "src": "meioemensagem.com.br, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 115
+    },
+    {
+     "t": "Brazil's most played kids songs include farm animals (Fazendinha), under the sea (Fundo do Mar), a little yellow chick (Pintinho Amarelinho) and a freeze like statue game (Estatua), alongside CoComelon's Wheels on the Bus: animals and stop and go games are what Brazilian kids replay.",
+     "src": "billboard.com.br, Oct 2024",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 115
     }
    ]
   },
@@ -3882,12 +3931,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 15:45",
-   "note": "Runs 1 to 35 (15 Nov 2026): seeded the tree with 38 learnings and the first 9 playbook rules, then worked through all 12 focus areas (platforms, algorithm, competitors, music, visuals, topics and seasons, markets, rules and our own Metricool results)."
-  },
-  {
    "date": "2026-11-15 16:56",
-   "note": "Run 36 (our own results (Instagram)): Instagram Reels from 9 to 14 Nov got only 5 to 91 views each (down from about 100 to 125 in early November); the mystery and bedtime story Reels led (Who Took the Cookie 91, shy monster lullaby 65, pirate 62); longest average watch was Blast Off space bus (about 14 s); most Reels hold viewers only 2 to 4 s. Total 248."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 16:57",
@@ -4200,6 +4245,10 @@
   {
    "date": "2026-11-15 19:11",
    "note": "Run 114 (topics and seasons (Hanukkah detail, Republic Day)): Hanukkah 2026 runs from sundown Friday 4 Dec to sundown Saturday 12 Dec; kids love the one more candle each night counting, spinning the dreidel, latkes, jelly doughnuts and chocolate coins, a natural counting song. India's Republic Day falls on Tuesday 26 Jan 2027, when schools hold flag and patriotic song events. Total 542."
+  },
+  {
+   "date": "2026-11-15 19:40",
+   "note": "Run 115 (global markets (dubbing data, Brazil)): AIR's Sep 2026 dubbing data shows AI only audio tracks keep viewers 4 to 10 times less than professionally voiced ones, while Spanish, Arabic, Indonesian and Portuguese tracks pull ahead first; YouTube auto dubbing (27 languages) skips videos with no speech or Content ID claims, so sung tracks must be re sung by us. In Brazil the Mundo Bita studio launched Bamba Bum, two dancing monsters singing in funk, passinho and swingueira rhythms. Total 549."
   }
  ],
  "history": [
@@ -4658,13 +4707,13 @@
   {
    "date": "2026-11-15 19:11",
    "total": 542
+  },
+  {
+   "date": "2026-11-15 19:40",
+   "total": 549
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Wiggle, Stretch, Snooze",
-   "why": "45% of parents struggle with bedtime; a slow song that moves from big wiggles to tiny stretches to a yawn and a goodnight to the Bros' toys, in the format CoComelon built with Headspace."
-  },
   {
    "title": "Our Big Star Lantern",
    "why": "The Bros fold and light a giant five point star lantern, counting each point; it fits the Filipino parol (season runs to Three Kings on 6 Jan), Christmas stars everywhere and a counting lesson, with Spanish and Tagalog friendly visuals and no religious text."
@@ -4716,6 +4765,10 @@
   {
    "title": "Countdown to Party Time!",
    "why": "Parents look for early New Year countdowns so little ones can 'see midnight' before bed; the Bros count down from 10 with a clap per number, then fireworks, confetti and a hug, posted by 30 Dec in every time zone and reusable each year, with Spanish and Portuguese audio for the long Latin school break."
+  },
+  {
+   "title": "Monster Bounce Carnival",
+   "why": "Brazilian kids hits pair silly dancing creatures with funk and swingueira style beats and a freeze game; an original carnival bounce song with a 'statue!' stop works in Portuguese and travels to Latin America (Carnival is 6 to 10 Feb 2027)."
   }
  ]
 }
