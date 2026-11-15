@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:47:36+05:30",
- "runs": 180,
+ "updated": "2026-11-15T21:48:30+05:30",
+ "runs": 181,
  "branches": [
   {
    "id": "platforms",
@@ -2386,6 +2386,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 177
+    },
+    {
+     "t": "In Tubefilter's most subscribed list for the week of 8 Nov 2026 only three kids or family channels made the top 50: Pokemon Kids TV (Japan, about 400K new subscribers, down 20%), Cadel and Mia (about 300K) and VocaVoca Kids Songs (US, about 300K), so a nursery song channel like VocaVoca can still out gain most of YouTube.",
+     "src": "tubefilter.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 181
+    },
+    {
+     "t": "CoComelon's owner Moonbug launched The Melon Patch on YouTube (season 2 from 23 Jul 2026), a live action show led by a music teacher host with acoustic nursery rhymes, original songs and real children singing along in new 15 minute episodes every other week, a move towards the warm human host style Ms Rachel proved.",
+     "src": "moonbug.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 181
+    },
+    {
+     "t": "Moonbug's content chief says the company is YouTube first, a brand must build a strong YouTube audience before toys, live tours and streaming deals, and content should fit each viewing moment from a short clip on a phone in the car to living room co viewing; its 2026 slate adds a Little Angel spin off with pop songs and pretend play for ages 3 to 5.",
+     "src": "senalnews.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 181
     }
    ]
   },
@@ -5647,11 +5668,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 38 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:03",
-   "note": "Run 102 (topics and seasons (early New Year countdowns, first snow)): Parents search for early New Year's Eve countdown videos so young kids can 'see midnight' and still go to bed early; good ones are polished, ad light, end with a happy celebration and range from 10 seconds to a minute. US East Coast first snow usually arrives late November to December, and the 2026 to 2027 El Nino outlook suggests a variable winter with more rain. Total 505."
+   "note": "Earlier runs summarised: 39 older log entries condensed."
   },
   {
    "date": "2026-11-15 19:04",
@@ -5964,6 +5981,10 @@
   {
    "date": "2026-11-15 21:47",
    "note": "Run 180 (trends and challenges (our results already logged today, so the new trends branch got this round)): Our Metricool results were already recorded today and 15 Nov uploads are too new, so this round fed the new Trends branch: early November TikTok is led by a shoulder bounce dembow sound (Dame Hombro, 184K videos, spreading to Spain and Italy), the 'I'm so sorry' plan versus reality carousel, and the 'costume loading' freeze then reveal cut; feeds switched from Halloween to Christmas on 1 Nov. Total 793."
+  },
+  {
+   "date": "2026-11-15 21:48",
+   "note": "Run 181 (YouTube charts and kids studio moves (most subscribed week of 8 Nov, CoComelon live action)): Only three kids or family channels made Tubefilter's most subscribed top 50 for the week of 8 Nov (Pokemon Kids TV 400K new subs, down 20%; Cadel and Mia and VocaVoca about 300K each). Moonbug answered CoComelon fatigue with The Melon Patch, a live action YouTube show with a music teacher host and real children singing, 15 minute episodes every other week. Total 796."
   }
  ],
  "history": [
@@ -6686,6 +6707,10 @@
   {
    "date": "2026-11-15 21:47",
    "total": 793
+  },
+  {
+   "date": "2026-11-15 21:48",
+   "total": 796
   }
  ],
  "next_week_ideas": [
