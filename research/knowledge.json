@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:03:54+05:30",
- "runs": 269,
+ "updated": "2026-11-16T02:04:46+05:30",
+ "runs": 270,
  "branches": [
   {
    "id": "platforms",
@@ -5347,6 +5347,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 266
+    },
+    {
+     "t": "US parents of 2 to 8 year olds rank safety first when choosing kids content (87.7%), ahead of fun (67.3%) and educational value (64.8%), so visibly safe, kind Bro Bros stories should be stated plainly in titles and descriptions for parents.",
+     "src": "Lingokids, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 270
+    },
+    {
+     "t": "Parental guilt about screen time rose to 84.6% in 2026 from 74% a year earlier while 66.5% say they bond with their child over screens, which favours co viewing, sing along and move along songs that parents feel good about.",
+     "src": "Lingokids, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 270
+    },
+    {
+     "t": "Asked what they are thankful for, children under 6 most often named siblings and family, pets, toys and favourite foods (plus odd joys like folding laundry), so a Thanksgiving or gratitude song should list everyday small things rather than big abstract ideas.",
+     "src": "Talker Research (Kiddie Academy), Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 270
     }
    ]
   },
@@ -8244,11 +8265,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 190): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:49",
-   "note": "Run 191 (rules and monetisation (Shorts music split, distress imagery, Premium Lite)): Most rules were already in the tree, so this round added three money details: Shorts that use licensed tracks share their pool money with the music owners (about half for one track), so our own songs keep the full share; since March 2026 videos showing young characters in distress with shocking imagery lose ads; and Premium Lite, now in all Premium countries, still shows ads on music content. Total 837."
+   "note": "Earlier runs summarised (up to Run 191): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:50",
@@ -8561,6 +8578,10 @@
   {
    "date": "2026-11-16 02:03",
    "note": "Run 269 (algorithm experiments and data (upload timing for kids long form, slow growth tiers)): AIR's July 2026 study of 31,852 long videos found kids and teens videos are the most timing sensitive niche (+379% median views best day versus worst), with Friday best, Wednesday worst and the strongest hour 16:00 UTC (21:30 IST), mostly reflecting US viewers. Our 10 AM and 4 PM IST slots land at 04:30 and 10:30 UTC, early for the Americas. Metricool adds that 83% of interactions arrive in a video's first 10 days. Total 1164."
+  },
+  {
+   "date": "2026-11-16 02:04",
+   "note": "Run 270 (topics (what parents weigh and what little kids are thankful for)): Lingokids' 2026 report (US parents of 2 to 8 year olds) finds safety ranks first when parents pick content (87.7%), ahead of fun (67.3%) and learning (64.8%), and screen time guilt rose to 84.6% from 74%; Talker Research's survey of 2,000 parents of under 6s found young kids are mostly thankful for siblings, family, pets, toys and favourite foods, ready material for a thankful song. Total 1167."
   }
  ],
  "history": [
@@ -9639,6 +9660,10 @@
   {
    "date": "2026-11-16 02:03",
    "total": 1164
+  },
+  {
+   "date": "2026-11-16 02:04",
+   "total": 1167
   }
  ],
  "next_week_ideas": [
