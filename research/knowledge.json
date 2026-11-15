@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:45:16+05:30",
- "runs": 26,
+ "updated": "2026-11-15T16:46:01+05:30",
+ "runs": 27,
  "branches": [
   {
    "id": "platforms",
@@ -181,6 +181,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 25
+    },
+    {
+     "t": "Instagram's Your Algorithm lets viewers add or remove topics they want; it started on Reels (Dec 2025), reached all English speakers (Jan 2026), Explore (15 Apr 2026) and the main Feed (Jun 2026), so each Reel should signal one clear topic like kids songs or kids dance.",
+     "src": "SocialPilot and The Keyword, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 27
+    },
+    {
+     "t": "Reels guidance for 2026: show motion or on screen text within about half a second, use keyword rich captions rather than piles of hashtags, and add short on screen text so Instagram's AI can read the topic.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 27
+    },
+    {
+     "t": "Instagram near duplicate penalties (70% or more shared visuals or audio) last from 24 hours to 30 days and cut only non follower reach; since Apr 2026 they also apply to photos and carousels.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 27
+    },
+    {
+     "t": "Reels advice is about 90% niche consistency; mixing Hindi Didi story Reels with English dance songs on one account may blur our topic signal, so a separate story account or a steady weekly slot is worth testing.",
+     "src": "SocialPilot Sep 2026 with our posting mix",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 27
     }
    ]
   },
@@ -1639,6 +1667,10 @@
   {
    "date": "2026-11-15 16:45",
    "note": "Run 26 (YouTube algorithm): Sept 2026 inauthentic content suspensions hit long one template sleep music and prayer compilations; Oct 2026 brought saved custom Home feeds and Ask YouTube answers in the US; creator analysis says the recommender now targets satisfied watch time per click and gives fewer long form slots on Home, so old Shorts fade and fresh varied work matters. Total 207."
+  },
+  {
+   "date": "2026-11-15 16:46",
+   "note": "Run 27 (Shorts and Reels): Instagram's Your Algorithm topic controls now cover Reels, Explore (Apr 2026) and Feed (Jun 2026), so clear topic signals matter; guidance favours motion or text within half a second, keyword captions over hashtags, on screen text for AI topic reading and about 90% niche consistency; near duplicate penalties last 24 hours to 30 days. Total 211."
   }
  ],
  "history": [
@@ -1745,6 +1777,10 @@
   {
    "date": "2026-11-15 16:45",
    "total": 207
+  },
+  {
+   "date": "2026-11-15 16:46",
+   "total": 211
   }
  ],
  "next_week_ideas": [
