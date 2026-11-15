@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:00:16+05:30",
- "runs": 224,
+ "updated": "2026-11-16T00:00:52+05:30",
+ "runs": 225,
  "branches": [
   {
    "id": "platforms",
@@ -2757,6 +2757,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 213
+    },
+    {
+     "t": "Cocomelon's biggest 2026 breakouts stack two proven hooks in one title ('Yes Yes Finger Family Playground Song' 52M views, 14 times its median; 'The Rainbow Popsicle Cafe + Super Muffin Man' 21M) or revive a novelty classic ('Bananaphone' 40M).",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 225
+    },
+    {
+     "t": "Cocomelon still uploads about three videos a week averaging about 5.5 minutes with almost no Shorts, keeps about 95% evergreen content, and roughly 10% of recent uploads are Hello Kitty and Sanrio collaborations, showing big brands now team up with other kids IP for fresh reach.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 225
+    },
+    {
+     "t": "Cocomelon's estimated audience is the US 50%, India 17%, UK 17%, Canada 11% and Australia 6%, so India is now as big as the UK for English nursery songs.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 225
+    },
+    {
+     "t": "Ms Rachel uploads only about 1.4 videos a month but each runs about 45 minutes, and her top titles lead with a parent search promise ('Baby Learning with Ms Rachel', 'Learn to Talk', 'First Words', '2 Year Old Milestones') before 'Nursery Rhymes & Kids Songs', proof that parents search by developmental goal.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 225
     }
    ]
   },
@@ -6453,6 +6481,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 216
+    },
+    {
+     "t": "For Bro Bros long compilations, titles can borrow the parent search pattern of Ms Rachel and the two hook stack of Cocomelon, for example 'Toddler Dance Party: Learn to Count + Freeze Dance | Bro Bros Fun', instead of only a song name.",
+     "src": "OutlierKit, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 225
     }
    ]
   },
@@ -6949,11 +6984,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 145): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:37",
-   "note": "Run 146 (YouTube algorithm (Todd Beaupre interview details, YouTube Kids reports, Nov feeds)): Most October changes were already known. New: Suggested on the watch page brings more views from a channel's own subscribers than the Subscriptions feed, YouTube tested capping one video at about eight showings per viewer, a parent's block in YouTube Kids hides a video only on that child's profile while an upheld report removes it for everyone, and YouTube Kids bars food and drink ads. Total 661."
+   "note": "Earlier runs summarised (up to Run 146): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:39",
@@ -7266,6 +7297,10 @@
   {
    "date": "2026-11-16 00:00",
    "note": "Run 224 (global markets (France: who leads French kids YouTube, what a small dub channel earns)): France's top 100 YouTube channels (11 Nov 2026) hold at least 14 kids and family channels, led by Masha et Michka (12.2M), Kidi Fun (11.9M), Titounis comptines (7.7M), Kidibli (7.5M) and Little Angel's French channel (5.7M); nursery rhyme brands with French language channels do well there. Kaboochi's French channel shows the downside of a neglected dub channel: 197K subs but only about 135K views a month once uploads stopped. Total 979."
+  },
+  {
+   "date": "2026-11-16 00:00",
+   "note": "Run 225 (competitor deep dive (Cocomelon and Ms Rachel breakouts and title formulas via OutlierKit)): Cocomelon (Oct 2026) still uploads about three 5 minute songs a week with almost no Shorts; its breakouts stack two proven hooks ('Yes Yes Finger Family Playground Song' 52M, 'Bananaphone' 40M) and about 10% of its slate is now Hello Kitty and Sanrio collaborations. Ms Rachel uploads barely once a fortnight, about 45 minute episodes, and her titles lead with a parent search promise ('Baby Learning', 'Learn to Talk', 'First Words'). Total 984."
   }
  ],
  "history": [
@@ -8164,6 +8199,10 @@
   {
    "date": "2026-11-16 00:00",
    "total": 979
+  },
+  {
+   "date": "2026-11-16 00:00",
+   "total": 984
   }
  ],
  "next_week_ideas": [
