@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:03:42+05:30",
- "runs": 49,
+ "updated": "2026-11-15T17:04:12+05:30",
+ "runs": 50,
  "branches": [
   {
    "id": "platforms",
@@ -629,6 +629,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 46
+    },
+    {
+     "t": "Suggested videos are chosen from the video being watched plus co watch patterns (viewers of channel A also watch channel B) and satisfaction, not keywords alone, so each song should be a natural next watch after a big channel's popular song on the same topic.",
+     "src": "vidIQ, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 50
+    },
+    {
+     "t": "YouTube Studio's 'Channels your audience watches' and 'What your audience watches' reports show which channels and topics to sit beside; checking them monthly tells us which competitors' hits to answer with our own songs.",
+     "src": "vidIQ, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 50
+    },
+    {
+     "t": "Shorts whose pace or topic differ from a channel's long videos can attract viewers who never watch the long form, which can lower long form recommendations; Shorts should be micro versions of the full song that point to it.",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 50
+    },
+    {
+     "t": "Warning signs that Shorts are hurting long form: falling long form click rate, weak Shorts feed traffic, retention dropping sharply in the first 30 seconds and fewer returning viewers; test a month of song bridge Shorts before deciding on a separate Shorts channel.",
+     "src": "Gyre, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 50
     }
    ]
   },
@@ -2389,6 +2417,10 @@
   {
    "date": "2026-11-15 17:03",
    "note": "Run 49 (YouTube main and Kids charts): Koko and Golu (India, 13.8M subs) gained about 2.4B views in Oct 2026 and 700K subs in 28 days; its top uploads are 'funniest moments' compilations and live videos, and its newest Short (a cake rescue) passed 9.9M views in 34 hours. Total 301."
+  },
+  {
+   "date": "2026-11-15 17:04",
+   "note": "Run 50 (YouTube algorithm (Suggested and Shorts fit)): Suggested picks are driven by the video being watched plus co watch patterns of similar viewers, so a video must be a natural next watch, not just share keywords; Studio's 'Channels your audience watches' shows which big channels to sit beside. Shorts whose pace and topic differ from long form can pull in the wrong viewers and hurt long form, so Shorts should be micro versions of our songs. Total 305."
   }
  ],
  "history": [
@@ -2587,6 +2619,10 @@
   {
    "date": "2026-11-15 17:03",
    "total": 301
+  },
+  {
+   "date": "2026-11-15 17:04",
+   "total": 305
   }
  ],
  "next_week_ideas": [
