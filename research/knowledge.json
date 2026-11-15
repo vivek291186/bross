@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:07:13+05:30",
- "runs": 107,
+ "updated": "2026-11-15T19:08:02+05:30",
+ "runs": 108,
  "branches": [
   {
    "id": "platforms",
@@ -1616,6 +1616,27 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 107
+    },
+    {
+     "t": "In vidIQ's US trending channels for the 30 days to 14 Nov 2026, VocaVoca (kids songs) was No. 3 overall with about 1.6B views gained, ahead of CoComelon at No. 17 with about 1.08B, so a Shorts led habit song channel now out gains the biggest brand in the US.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 108
+    },
+    {
+     "t": "Doctor Sophia, a 'Healthy Habits for Kids' channel built around a doctor character, gained about 651M US views in those 30 days, backing our own best performer (Lion Needs a Doctor) and the case for a recurring friendly doctor or helper in our songs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 108
+    },
+    {
+     "t": "Nursery rhyme channels keep scaling in the US: Lalafun (+654M views in 30 days), Toddler Zoo (+530M) and NuNu TV (+447M), alongside the bilingual Spanish English family music act 123 Andres (+868M), so both classic rhyme songs and bilingual music have big US demand.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 108
     }
    ]
   },
@@ -3739,10 +3760,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 16:47",
-   "note": "Run 29 (music craft): Infants' movement follows changes in loudness and intensity rather than the beat, so build clear loud and soft contrasts; familiar songs hold babies longer even when a stranger sings at a different tempo; November kids album charts are led by a gentle jazz Christmas soundtrack, movie musicals and only three YouTube born brands. Total 219."
-  },
-  {
    "date": "2026-11-15 16:48",
    "note": "Run 30 (visual craft): vidIQ's July 2026 study of 500 breakout thumbnails: faces in 80% of the top 50, face or strong contrast in 92%, extreme expressions in only 6%; Animaj's new preschool series Ozzy Fox builds every episode on one original song that turns a routine into a mission and hit 1.5M views in under 5 days. Total 223."
   },
@@ -4053,6 +4070,10 @@
   {
    "date": "2026-11-15 19:07",
    "note": "Run 107 (our results checked, nothing new since run 95, so switched to channel charts (Danny Go!, Ms Rachel)): Our own traffic and country data match what was already recorded, so this round studied two creator led channels instead: Danny Go! (5.43M) gets about 170 to 195M views a month from only 131 videos, its newest a 'Don't Stop Moving' challenge at 21.5M in two months; Ms Rachel (21.5M on YouTube) grew 9.4% on Instagram in 30 days with about 22 posts a week, and her top videos are learning, potty training, hide and seek and brush teeth songs. Total 521."
+  },
+  {
+   "date": "2026-11-15 19:08",
+   "note": "Run 108 (YouTube charts (vidIQ US trending, 30 days to 14 Nov)): In vidIQ's US trending list for the 30 days to 14 Nov, VocaVoca is No. 3 with about 1.6B new views, ahead of CoComelon (1.08B); Doctor Sophia, a healthy habits kids channel, added about 651M, the bilingual family music act 123 Andres about 868M, and the nursery rhyme channels Lalafun, Toddler Zoo and NuNu TV 450 to 650M each. Total 524."
   }
  ],
  "history": [
@@ -4483,6 +4504,10 @@
   {
    "date": "2026-11-15 19:07",
    "total": 521
+  },
+  {
+   "date": "2026-11-15 19:08",
+   "total": 524
   }
  ],
  "next_week_ideas": [
