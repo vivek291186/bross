@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:56:10+05:30",
- "runs": 259,
+ "updated": "2026-11-16T01:56:43+05:30",
+ "runs": 260,
  "branches": [
   {
    "id": "platforms",
@@ -5970,6 +5970,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 248
+    },
+    {
+     "t": "Sanrio launched 'Sanrio Kids - Cartoons & Kids Songs' on YouTube on 15 Sep 2026 as a global preschool channel whose 3D videos carry Japanese and English audio switchable within the same video, the same multi audio track route open to Bro Bros.",
+     "src": "Sanrio, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 260
+    },
+    {
+     "t": "Sanrio Kids splits its channel into three series (sing along music, movement and play including calming down, and everyday story episodes), each about two minutes, a clean playlist structure for a song brand entering Japan and Asia.",
+     "src": "Sanrio, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 260
+    },
+    {
+     "t": "In a Philippine survey of 1,000 parents (29 Oct to 2 Nov 2026), 34% named child specific apps such as YouTube Kids as a safety measure and 97% wanted evidence based rules for children's social media, so Filipino families value clearly kid safe channels.",
+     "src": "Daily Tribune Philippines, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 260
+    },
+    {
+     "t": "The same survey found 60% of Filipino parents say their children use social apps for rest and relaxation and 70% for learning, which favours calm songs and learning songs in Filipino focused playlists.",
+     "src": "Daily Tribune Philippines, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 260
     }
    ]
   },
@@ -8020,11 +8048,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 180): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:48",
-   "note": "Run 181 (YouTube charts and kids studio moves (most subscribed week of 8 Nov, CoComelon live action)): Only three kids or family channels made Tubefilter's most subscribed top 50 for the week of 8 Nov (Pokemon Kids TV 400K new subs, down 20%; Cadel and Mia and VocaVoca about 300K each). Moonbug answered CoComelon fatigue with The Melon Patch, a live action YouTube show with a music teacher host and real children singing, 15 minute episodes every other week. Total 796."
+   "note": "Earlier runs summarised (up to Run 181): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:49",
@@ -8337,6 +8361,10 @@
   {
    "date": "2026-11-16 01:56",
    "note": "Run 259 (TRENDS (US Thanksgiving classroom picks, recheck of November roundups)): Most early November roundup trends were already in the tree. New detail for US Thanksgiving (26 Nov): a kindergarten teacher's list of picks is half movement songs (turkey wobble, turkey hop), plus counting down and subtraction songs, all 1 to 5 minutes long and used as brain breaks. Total 1132."
+  },
+  {
+   "date": "2026-11-16 01:56",
+   "note": "Run 260 (global markets (Japan's Sanrio Kids launch, Philippine parents)): Sanrio launched a global preschool YouTube channel on 15 Sep 2026 with 3D, about two minute episodes in three series (sing along, movement and calming down, everyday stories) and Japanese and English audio switchable in the same video. A 1,000 parent Philippine survey (Oct to Nov 2026) found 34% rely on kids apps such as YouTube Kids for safety and 60% say children use social apps to relax. Total 1136."
   }
  ],
  "history": [
@@ -9375,6 +9403,10 @@
   {
    "date": "2026-11-16 01:56",
    "total": 1132
+  },
+  {
+   "date": "2026-11-16 01:56",
+   "total": 1136
   }
  ],
  "next_week_ideas": [
