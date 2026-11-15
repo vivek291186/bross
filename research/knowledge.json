@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:08:39+05:30",
- "runs": 58,
+ "updated": "2026-11-15T17:09:13+05:30",
+ "runs": 59,
  "branches": [
   {
    "id": "platforms",
@@ -2015,6 +2015,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 56
+    },
+    {
+     "t": "With under 16 bans in Australia and soon the UK, kids in those markets will reach us mainly through YouTube Kids and parents' accounts on TV, which makes YouTube Kids eligibility and TV friendly quality even more important there.",
+     "src": "PPC Land Jun 2026 with our strategy",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 59
     }
    ]
   },
@@ -2255,11 +2262,32 @@
      "run": 47
     },
     {
-     "t": "MilX reports YouTube will raise the standard Partner Program bar on 1 Feb 2027 to 1,000 subscribers plus 8,000 public watch hours in 12 months, or 20M Shorts views in 90 days (from 4,000 hours and 10M); the expanded tier stays at 500 subs plus 3,000 hours or 3M Shorts views.",
-     "src": "MilX, Jul 2026 (announcement 10 Aug 2026)",
-     "conf": "medium",
+     "t": "YouTube confirmed (10 Aug 2026) that from 1 Feb 2027 new Partner Program applicants need 1,000 subscribers plus 8,000 public watch hours in 365 days, or 20M Shorts views in 90 days (double today); members admitted before then are grandfathered, so qualifying before February matters.",
+     "src": "PPC Land, Aug 2026",
+     "conf": "high",
      "date": "2026-11-15",
      "run": 58
+    },
+    {
+     "t": "From 1 Feb 2027 Shorts pool revenue becomes a rolling test: a channel needs 10M qualified Shorts views in each rolling 90 days or its Shorts pool pay pauses that month; long form ads are unaffected, and partners must accept new modules by 31 Jan 2027.",
+     "src": "PPC Land, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 59
+    },
+    {
+     "t": "A channel must also stay active to keep YPP from 2027: 1,000 watch hours in 365 days, 1M Shorts views in 90 days, or at least two long videos or five Shorts every 90 days.",
+     "src": "PPC Land, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 59
+    },
+    {
+     "t": "The UK announced (15 Jun 2026) an under 16 social media ban modelled on Australia's (live since 10 Dec 2025), naming YouTube among covered platforms but leaving YouTube Kids outside it; rules are due by end 2026 and should apply from spring 2027.",
+     "src": "PPC Land, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 59
     }
    ]
   },
@@ -2677,6 +2705,10 @@
   {
    "date": "2026-11-15 17:08",
    "note": "Run 58 (algorithm experiments and data): Metricool's US study of 800K videos (Aug 2026): long form views up 76% but watch time only 11% and engagement down 45%; Shorts are 61% of views; 2 to 4 long videos a week is the views sweet spot. MilX reports the Partner Program bar rises on 1 Feb 2027 to 8,000 watch hours in 12 months or 20M Shorts views in 90 days (from 4,000 and 10M). Total 337."
+  },
+  {
+   "date": "2026-11-15 17:09",
+   "note": "Run 59 (rules, safety and monetisation (2027 changes)): Confirmed: from 1 Feb 2027 new Partner Program applicants need 8,000 watch hours or 20M Shorts views (existing members grandfathered, modules must be accepted by 31 Jan 2027); Shorts pool pay becomes a rolling test of 10M views per 90 days. The UK plans an Australia style under 16 social media ban from spring 2027 covering YouTube but not YouTube Kids. (Updated the earlier YPP leaf with the confirmed source.) Total 341."
   }
  ],
  "history": [
@@ -2911,6 +2943,10 @@
   {
    "date": "2026-11-15 17:08",
    "total": 337
+  },
+  {
+   "date": "2026-11-15 17:09",
+   "total": 341
   }
  ],
  "next_week_ideas": [
