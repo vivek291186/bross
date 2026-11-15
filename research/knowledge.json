@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:41:41+05:30",
- "runs": 71,
+ "updated": "2026-11-15T17:42:22+05:30",
+ "runs": 72,
  "branches": [
   {
    "id": "platforms",
@@ -1168,6 +1168,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 68
+    },
+    {
+     "t": "In Tubefilter's most viewed chart for the week of 8 Nov 2026 family Shorts channels hold four of the top 11 spots: Cadel and Mia (#3, 890M weekly views), Sierra and Rhia English (#6, 743M), Sierra and Rhia FAM (#8, 705M) and Jasmin and James (#11, 623M); Sierra and Rhia run two near equal channels, one of them English only.",
+     "src": "tubefilter.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 72
+    },
+    {
+     "t": "El Tren Nam Nam fell 52% to about 360M weekly views two weeks after its Halloween tooth brushing peak, the second clear case this autumn of a seasonal habit spike fading within about two weeks.",
+     "src": "tubefilter.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 72
     }
    ]
   },
@@ -2281,6 +2295,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 69
+    },
+    {
+     "t": "Argentina's preschool clown cartoon El Payaso Plim Plim (#36, 377M weekly views) and Indonesia's Keizo and Friends (#20, 498M) sit in the world top 50 beside Mexico's El Tren Nam Nam, so Spanish and Indonesian language kids brands reach the same scale as English ones.",
+     "src": "tubefilter.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 72
     }
    ]
   },
@@ -3093,6 +3114,10 @@
   {
    "date": "2026-11-15 17:41",
    "note": "Run 71 (our own results (YouTube per video, 1 to 15 Nov)): Per video YouTube data for 1 to 15 Nov: top songs were Lion Needs a Doctor (833 views), Light the Diyas (783), Ek Diya Sabke Liye (456), Fruit and Veggie Hoedown (382) and Dhol Bajao (356); songs beat cartoon episodes about 4 to 1; average view duration on long songs is only about 16 to 24 seconds; Shorts got 0 to 30 views each; Metricool shows no new uploads after 11 Nov. Total 389."
+  },
+  {
+   "date": "2026-11-15 17:42",
+   "note": "Run 72 (YouTube main and Kids charts (week of 8 Nov)): Tubefilter most viewed, week of 8 Nov 2026: family Shorts channels hold four of the top 11 (Cadel and Mia #3, Sierra and Rhia's English and FAM channels #6 and #8, Jasmin and James #11); El Tren Nam Nam fell 52% after its Halloween tooth brushing peak; Argentina's Plim Plim (#36) and Indonesia's Keizo and Friends (#20) show Spanish and Indonesian kids brands at world scale. Total 392."
   }
  ],
  "history": [
@@ -3379,6 +3404,10 @@
   {
    "date": "2026-11-15 17:41",
    "total": 389
+  },
+  {
+   "date": "2026-11-15 17:42",
+   "total": 392
   }
  ],
  "next_week_ideas": [
