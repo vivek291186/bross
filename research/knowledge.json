@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:38:29+05:30",
- "runs": 185,
+ "updated": "2026-11-15T22:39:21+05:30",
+ "runs": 186,
  "branches": [
   {
    "id": "platforms",
@@ -3688,6 +3688,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 174
+    },
+    {
+     "t": "Creative Bloq names 'post AI authenticity' a key 2026 3D trend: finishing touches that make renders feel handmade (slight film grain, hand drawn doodles, paper or felt textures, imperfect hand lettering), which helps Bro Bros videos avoid the generic AI look viewers and YouTube's slop ratings now punish.",
+     "src": "Creative Bloq, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 186
+    },
+    {
+     "t": "Tactile 3D typography (puffy, chunky letters animated in Blender) is a named 2026 trend; big squishy 3D title letters that bounce on the beat make our song name readable on the thumbnail and in the first second of every Short.",
+     "src": "Creative Bloq, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 186
+    },
+    {
+     "t": "Nickelodeon's Max and the Midknights films its stop motion inspired CG with virtual cameras that cover each scene like a live action shoot (wide, medium, close), so filming each Bro Bros dance from three Blender cameras and cutting between them on the beat feels more alive than one locked camera.",
+     "src": "Unreal Engine spotlight, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 186
+    },
+    {
+     "t": "Squishy, inflated, plush looking forms with smooth plastic or soft fabric materials are a top 2026 3D style that feels playful and nostalgic, so the Bros' sets and props (balloons, cushions, jelly like buttons) can lean into soft subsurface materials in Blender.",
+     "src": "Creative Bloq, 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 186
     }
    ]
   },
@@ -5767,13 +5795,6 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 184
-    },
-    {
-     "t": "An 'AI vs handmade' format (a polished AI version first, then the real handmade one) rode the Dame Hombro shoulder bounce sound in early November, a sign audiences enjoy honest behind the scenes looks; a Bros Short showing a rough sketch then the finished 3D dance could join it.",
-     "src": "SocialPilot, Nov 2026",
-     "conf": "low",
-     "date": "2026-11-15",
-     "run": 184
     }
    ]
   }
@@ -5802,10 +5823,6 @@
   {
    "date": "2026-11-15 17:37",
    "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:07",
-   "note": "Run 107 (our results checked, nothing new since run 95, so switched to channel charts (Danny Go!, Ms Rachel)): Our own traffic and country data match what was already recorded, so this round studied two creator led channels instead: Danny Go! (5.43M) gets about 170 to 195M views a month from only 131 videos, its newest a 'Don't Stop Moving' challenge at 21.5M in two months; Ms Rachel (21.5M on YouTube) grew 9.4% on Instagram in 30 days with about 22 posts a week, and her top videos are learning, potty training, hide and seek and brush teeth songs. Total 521."
   },
   {
    "date": "2026-11-15 19:08",
@@ -6118,6 +6135,10 @@
   {
    "date": "2026-11-15 22:38",
    "note": "Run 185 (music craft (repetitive singing and vocabulary, kids pop in Brazil, Grammy family duo)): An Oct 2026 kindergarten study in Indonesia found repetitive English singing got 45 of 53 children saying colour words and 39 of 53 counting to ten, with attention kept by switching between singing and quick movement breaks. Brazil's artist led kids pop (MC Divertida 8.6B plays, Kysha e Mine 1.2B views in about a year) shows pop songs for 6 to 10 year olds are a big lane beyond nursery rhymes. The 2026 children's album Grammy went to a father and daughter duo. Total 815."
+  },
+  {
+   "date": "2026-11-15 22:39",
+   "note": "Run 186 (visual craft (2026 3D looks: post AI handmade touches, 3D lettering, live action style camera coverage)): Creative Bloq's 2026 3D trends put squishy plush forms, hybrid 2D and 3D, 3D typography and 'post AI authenticity' (handmade finishing so images do not look AI made) at the top; Nickelodeon's Max and the Midknights shoots CG with virtual cameras covering each scene like live action. Merged one run 184 trends leaf (AI vs handmade) into the older Dame Hombro leaf it duplicated. Total 818."
   }
  ],
  "history": [
@@ -6860,6 +6881,10 @@
   {
    "date": "2026-11-15 22:38",
    "total": 815
+  },
+  {
+   "date": "2026-11-15 22:39",
+   "total": 818
   }
  ],
  "next_week_ideas": [
