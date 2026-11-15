@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:16:08+05:30",
- "runs": 63,
+ "updated": "2026-11-15T17:35:52+05:30",
+ "runs": 64,
  "branches": [
   {
    "id": "platforms",
@@ -1427,6 +1427,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 57
+    },
+    {
+     "t": "Since September 2026 Spotify has a global toggle 'Include kids and family music in taste profile' (on by default, retroactive) that lets parents keep nursery rhymes and kids songs out of their recommendations and Wrapped; songs stay playable, so our Spotify growth must come from search by title, kids profiles and playlists rather than parents' Discover Weekly.",
+     "src": "newsroom.spotify.com, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 64
+    },
+    {
+     "t": "Ms Rachel's debut album I'm So Happy (25 Sep 2026, 23 songs) mixes originals, favourites and traditional rhymes played on real instruments such as cello, on the idea that kids deserve rich music; adding one clearly heard real instrument per song (ukulele, cello, xylophone) can set our Suno tracks apart from flat synth nursery pop.",
+     "src": "WAMC/NPR, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 64
+    },
+    {
+     "t": "Yo Gabba Gabba's 20 track holiday album was released on all streaming services in mid November with a pre save link, mixing punk rock, synth pop and beatbox: kids holiday music does not have to sound like sleigh bells, and mid November is when holiday albums land.",
+     "src": "wildbrain.com, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 64
+    },
+    {
+     "t": "The songs that travel worldwide in family listening are routine songs (Wheels on the Bus style journey songs, gentle lullabies like You Are My Sunshine covers): a clear daily use (car ride, bath, bedtime) matters more than novelty for repeat plays.",
+     "src": "expression.africa, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 64
     }
    ]
   },
@@ -2099,6 +2127,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 59
+    },
+    {
+     "t": "In Nigeria, Ghana, Kenya and South Africa kids songs are part of caregiving (soothing toddlers during chores, on journeys and at bedtime); communal homes make the calming songs the whole household's most played tracks, with global brands like CoComelon and Pinkfong dominating beside local language lullabies.",
+     "src": "expression.africa, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 64
     }
    ]
   },
@@ -2823,6 +2858,10 @@
   {
    "date": "2026-11-15 17:16",
    "note": "Run 63 (Shorts and Reels (music Shorts craft)): Music Shorts guidance for 2026: cut the strongest chorus moment, 30 to 45 seconds performs best (under 15 too thin, over 55 loses completion), link the full song with the Short's 'related video' button since typed links are not clickable; YouTube says channels posting Shorts see about 80% more channel watch time within three months. Gemini conversational Shorts editing and hook A/B tests of up to three video cuts arrive in early 2027. Total 355."
+  },
+  {
+   "date": "2026-11-15 17:35",
+   "note": "Run 64 (music craft (streaming and albums)): Spotify now lets parents switch kids and family music out of their taste profile (on by default, retroactive), so Spotify growth for kids songs must come from search, kids profiles and playlists. Ms Rachel's 23 track debut album leans on real instruments like cello; Yo Gabba Gabba's 20 track holiday album mixes punk, synth pop and beatbox and dropped mid November. In African homes kids songs soundtrack chores, journeys and bedtime. Total 360."
   }
  ],
  "history": [
@@ -3077,6 +3116,10 @@
   {
    "date": "2026-11-15 17:16",
    "total": 355
+  },
+  {
+   "date": "2026-11-15 17:35",
+   "total": 360
   }
  ],
  "next_week_ideas": [
