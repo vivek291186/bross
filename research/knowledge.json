@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:00:29+05:30",
- "runs": 299,
+ "updated": "2026-11-16T04:01:11+05:30",
+ "runs": 300,
  "branches": [
   {
    "id": "platforms",
@@ -3303,6 +3303,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 297
+    },
+    {
+     "t": "Indonesian kids family channel Keizo and Friends (started Dec 2022) reached about 9.9M subscribers and 39.2B views from 1,998 uploads by Oct 2026, adding about 1.65B views and 390K subscribers in 28 days, with a new upload passing 1.5M views in 14 hours; vidIQ models only about 9K USD a month, so its scale comes from Shorts views in a low pay market.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 300
+    },
+    {
+     "t": "AIR's study of 282 kids channels found the largest (10M to 50M monthly views) earned the most total revenue at 16+ videos a month, but each video then earned only about 165 USD against about 2,161 USD per video for channels posting one or two a month, so our 14 songs a week buy reach, while a few polished flagship songs per month carry most of the money.",
+     "src": "AIR Media Tech, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 300
+    },
+    {
+     "t": "Keizo and Friends' all time top video is from 7 Dec 2025 (about 626M views), a December upload that kept growing for a year, another sign that early December family videos get a long tail and our holiday songs should be live by the first week of December.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 300
     }
    ]
   },
@@ -9000,11 +9021,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 220): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:58",
-   "note": "Run 221 (music craft (Suno v5.5 tools for a consistent Bro Bros sound, popular vs traditional songs study)): Suno v5.5 (Mar 2026) adds Voices (your own verified singing voice, private by default, Pro and Premier), Custom Models (tune the model on up to three sets of your own tracks) and My Taste. A Custom Model trained on our best songs could keep the Bro Bros sound consistent across 14 songs a week. An Indonesian preschool study found popular style songs helped imitation of words while traditional songs helped memory. Total 967."
+   "note": "Earlier runs summarised (up to Run 221): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:58",
@@ -9317,6 +9334,10 @@
   {
    "date": "2026-11-16 04:00",
    "note": "Run 299 (rules (US KIDS Act contents, state app store age laws)): The House passed KIDS Act (H.R. 7757, 29 Jun 2026) would extend privacy protection to teens, ban targeted ads to minors, require the most protective default settings and limit autoplay, push notifications and infinite scroll, but the Senate sponsor of KOSA calls it dead there. Texas's app store age law has been enforced since 28 May 2026 during appeal; Utah's deadline moved to 6 May 2027 and Louisiana's to 1 Jul 2027, with stores passing age bands (under 13, 13 to 15, 16 to 17, 18+) to apps. Total 1272."
+  },
+  {
+   "date": "2026-11-16 04:01",
+   "note": "Run 300 (YouTube main channels (Keizo and Friends economics, upload pace vs pay per video)): Our own Metricool data was checked earlier today, so this round looked at channel movers. Indonesia's Keizo and Friends (started Dec 2022) has about 9.9M subscribers and 39.2B views from 1,998 uploads, adds about 1.65B views a month and its newest video drew 1.5M views in 14 hours, yet vidIQ models only about 9K USD a month. AIR's 282 channel study found large kids channels earn most in total at 16+ videos a month but only about 165 USD per video, against about 2,161 USD per video at one or two a month. Total 1275."
   }
  ],
  "history": [
@@ -10515,6 +10536,10 @@
   {
    "date": "2026-11-16 04:00",
    "total": 1272
+  },
+  {
+   "date": "2026-11-16 04:01",
+   "total": 1275
   }
  ],
  "next_week_ideas": [
