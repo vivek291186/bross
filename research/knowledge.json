@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:02:56+05:30",
- "runs": 48,
+ "updated": "2026-11-15T17:03:42+05:30",
+ "runs": 49,
  "branches": [
   {
    "id": "platforms",
@@ -293,6 +293,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 45
+    },
+    {
+     "t": "India's family and kids Shorts channels keep scaling faster than any other market: Koko and Golu ranked #16 to #19 worldwide in late Oct 2026 with 500 to 600M weekly views.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 49
     }
    ]
   },
@@ -902,6 +909,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 45
+    },
+    {
+     "t": "Koko and Golu (India, 13.8M subs) gained about 2.4B views in Oct 2026, up from about 1.6 to 1.9B a month over the summer, and 700K subs in 28 days, with Hindi titled comedy Shorts about two characters.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 49
+    },
+    {
+     "t": "Koko and Golu's most viewed long uploads are 'best funniest moments' compilations (12.6M) and live videos, and its newest Short (rescuing a cake, 13 Nov 2026) hit about 9.9M views in 34 hours, so a funny 'save the treat' moment plus a best of compilation is a proven Indian pattern.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 49
     }
    ]
   },
@@ -2364,6 +2385,10 @@
   {
    "date": "2026-11-15 17:02",
    "note": "Run 48 (our own results (traffic and audience)): First traffic source read for 1 to 15 Nov: about 14,000 views, 66% from Suggested videos, 21% from Search, 7% from subscribers, 4% from channel pages and under 1% from the Shorts feed and playlists. Subscribers are 65% India, 8% US, then Pakistan, Philippines, UK. Our scheduled YouTube posts are set to 'not AI generated' although songs come from Suno. Total 298."
+  },
+  {
+   "date": "2026-11-15 17:03",
+   "note": "Run 49 (YouTube main and Kids charts): Koko and Golu (India, 13.8M subs) gained about 2.4B views in Oct 2026 and 700K subs in 28 days; its top uploads are 'funniest moments' compilations and live videos, and its newest Short (a cake rescue) passed 9.9M views in 34 hours. Total 301."
   }
  ],
  "history": [
@@ -2558,6 +2583,10 @@
   {
    "date": "2026-11-15 17:02",
    "total": 298
+  },
+  {
+   "date": "2026-11-15 17:03",
+   "total": 301
   }
  ],
  "next_week_ideas": [
