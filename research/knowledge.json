@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:59:39+05:30",
- "runs": 223,
+ "updated": "2026-11-16T00:00:16+05:30",
+ "runs": 224,
  "branches": [
   {
    "id": "platforms",
@@ -5410,6 +5410,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 212
+    },
+    {
+     "t": "At least 14 kids and family channels sit in France's top 100 YouTube channels by subscribers (11 Nov 2026), led by Masha et Michka (12.2M), Kidi Fun (11.9M), Titounis comptines (7.7M), Kidibli (7.5M) and Little Angel's French channel (5.7M), so French is a strong second language market for nursery songs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 224
+    },
+    {
+     "t": "International song brands run separate French channels that rank high in France (Little Angel French 5.7M, HeyKids French 4.9M and its English channel also in France's top 100 at 4.8M), showing French parents subscribe to both local language and English kids song channels.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 224
+    },
+    {
+     "t": "Kaboochi's French channel (197K subscribers, 618 videos) earned only about 135K views in the 28 days to 29 Oct 2026 after its uploads stopped in September, with Shorts as its best videos, so a dubbed language channel fades fast without steady uploads; audio tracks on the main channel are safer for a small team.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 224
     }
    ]
   },
@@ -6928,11 +6949,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 144): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:36",
-   "note": "Run 145 (YouTube main and Kids charts (US ranking, Pinkfong x Dr Seuss)): Charts unchanged since run 72, so looked at the US ranking: Toys and Colors has about 1,480 lifetime views per subscriber against about 1,130 for CoComelon, and Vlad and Niki runs four language copies (Vietnamese, Hindi, Indonesian, Spanish) of 30 to 47M subscribers each. Pinkfong and Dr Seuss made their first crossover, a Halloween 'guess the costume' sing along. Total 656."
+   "note": "Earlier runs summarised (up to Run 145): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:37",
@@ -7245,6 +7262,10 @@
   {
    "date": "2026-11-15 23:59",
    "note": "Run 223 (TRENDS (13 Nov roundups: bicep heart pose, cool to do both, it's time transitions)): The 13 Nov roundups added two kid safe formats: the bicep heart pose (one arm flexed, the other hand curling against it to make a heart, wholesome, often with a cat) and 'btw it's cool to do both' (two sides of you); the Mariah style 'it's time' look switch at midnight is the big holiday transition. Both joined the trend bank; two older entries (fill it one by one, statue game) left the bank but stay in the leaves. Total 976."
+  },
+  {
+   "date": "2026-11-16 00:00",
+   "note": "Run 224 (global markets (France: who leads French kids YouTube, what a small dub channel earns)): France's top 100 YouTube channels (11 Nov 2026) hold at least 14 kids and family channels, led by Masha et Michka (12.2M), Kidi Fun (11.9M), Titounis comptines (7.7M), Kidibli (7.5M) and Little Angel's French channel (5.7M); nursery rhyme brands with French language channels do well there. Kaboochi's French channel shows the downside of a neglected dub channel: 197K subs but only about 135K views a month once uploads stopped. Total 979."
   }
  ],
  "history": [
@@ -8139,6 +8160,10 @@
   {
    "date": "2026-11-15 23:59",
    "total": 976
+  },
+  {
+   "date": "2026-11-16 00:00",
+   "total": 979
   }
  ],
  "next_week_ideas": [
