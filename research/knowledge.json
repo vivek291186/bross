@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:37:51+05:30",
- "runs": 170,
+ "updated": "2026-11-15T21:50+05:30",
+ "runs": 171,
  "branches": [
   {
    "id": "platforms",
@@ -5307,6 +5307,83 @@
      "run": 166
     }
    ]
+  },
+  {
+   "id": "trends",
+   "name": "Trends & challenges",
+   "icon": "fire",
+   "leaves": [
+    {
+     "t": "Trend windows are short: a trending sound can go from fresh to saturated within days (about a 3-5 day window), so trend content must be made and posted fast.",
+     "src": "SocialPilot / PostNitro, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 171
+    },
+    {
+     "t": "Reels using trending audio get about 42% more engagement, but for made-for-kids content we use our own original songs in the trend's style; Reels with original audio that others reuse also get a boost.",
+     "src": "Vaizle 2026 / blitzcut",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 171
+    },
+    {
+     "t": "Instagram Reels formats this month (Nov 2026): '5 stages of...' mood arc in five clips, locked-camera outfit transition on one move, timestamp day stories, 'Not every angel' text-joke punchline.",
+     "src": "Later Reels roundup, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 171
+    },
+    {
+     "t": "October 2026 Reels formats: '0% to 100% loading' across cuts, 'Recharged' 1% to 100% battery before/after, 'Toggle on' switch reveal, fan transition outfit swaps, 'my reaction' faces only.",
+     "src": "Later Reels roundup, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 171
+    },
+    {
+     "t": "TikTok Oct/Nov 2026: 'Ramalama' reveal (camera starts at the feet and tilts up on the beat to reveal a full costume), runway walk recreations, kitchen dance clips.",
+     "src": "B&T / Fabulate, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 171
+    },
+    {
+     "t": "The biggest kid-friendly dance trend of 2026 is the 'AI baby dance' / sway dance: a simple side-to-side sway and wave routine, recreated by real families and kids with millions of views.",
+     "src": "Know Your Meme / Daily Dot, Jan-Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 171
+    },
+    {
+     "t": "Holiday nostalgia dances go viral each December: last year's awkward Charlie Brown-style party dance mashup united families (the characters are protected, but the goofy group-dance idea is not).",
+     "src": "NewEngen Jan 2026 / YPulse",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 171
+    },
+    {
+     "t": "Winter-themed simple moves (snowflake arms, spins) became a global challenge in January 2026; easy, repeatable seasonal moves spread fastest.",
+     "src": "AcademicJobs news, Jan 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 171
+    },
+    {
+     "t": "Easy, low-impact, non-contact moves (whip, sway, wave, clap patterns) are the ones schools and families copy; simplicity is what makes a dance challenge spread.",
+     "src": "Dreamina / Nickelodeon trend guides 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 171
+    },
+    {
+     "t": "Food and big machinery topics keep topping YouTube Shorts charts in November 2026; timely, event-like releases beat random uploads.",
+     "src": "Tubefilter newsletter / mean.ceo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 171
+    }
+   ]
   }
  ],
  "playbook": [
@@ -5326,8 +5403,8 @@
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels; make one bilingual English Spanish song a week (switch language each chorus), the lane where 123 Andres nearly doubled its views this autumn.",
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
   "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny chantable nonsense word kids can shout; on Instagram post fewer, better Reels (the best 1 or 2 songs a day), captions as one keyword sentence plus a question to parents and at most 2 hashtags; group Shorts of one song family into a YouTube Shorts series and test two hooks per song with Trial Reels after 1,000 followers.",
-  "Titles: Suggested videos bring two thirds of our views, so use the same plain topic words as the big channels' hits (bus, doctor, brush teeth, dinosaur) plus a story hook and an age keyword, max 2 caps words and 1 to 2 emojis, no fear, fight, medical or danger words; put every video in a keyword playlist and link the playlist's first video in the description.",
-  "Seasonal plan: until 24 Dec post at least 3 holiday neutral winter or lights songs a week (snow, cookies, twinkle lights), each with a sunny summer variant for the southern hemisphere; post festival songs 2 to 3 days before the day (our Diwali songs doubled daily views) and holiday Shorts within the 4 weeks before; have holiday compilations live by 1 Dec when ad rates peak; keep star and gift songs going to Three Kings Day (6 Jan) for Latin America and the Philippines; start Ramadan and Lunar New Year friendly songs in January."
+  "Every week, build 2 to 3 Shorts/Reels on a current trend format from the trend bank, adapted kid-safe with our own original song (never copyrighted trending audio).",
+  "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
  ],
  "log": [
   {
@@ -5649,6 +5726,10 @@
   {
    "date": "2026-11-15 21:37",
    "note": "Run 170 (Shorts and Reels (feed signals, AI topic labels)): Most Reels signals were already in the tree. New: some Reels now show a blue AI label revealing how Instagram categorised the post, the Shorts feed will start recommending text Posts (300M daily users engage with Posts), and Instagram's Your Algorithm topic search only works at broad level, so captions should name broad topics like kids songs. Total 749."
+  },
+  {
+   "date": "2026-11-15 21:50",
+   "note": "Run 171 (NEW: trends and challenges): new Trends branch with 10 learnings (Reels formats Oct/Nov, TikTok reveals, sway baby dance, seasonal dances) and a trend bank of 10 kid-safe ideas for our videos. Total 759."
   }
  ],
  "history": [
@@ -6331,6 +6412,10 @@
   {
    "date": "2026-11-15 21:37",
    "total": 749
+  },
+  {
+   "date": "2026-11-15 21:50",
+   "total": 759
   }
  ],
  "next_week_ideas": [
@@ -6389,6 +6474,68 @@
   {
    "title": "Bros' Bus Goes Everywhere!",
    "why": "Little Baby Bum's top five videos are all Wheels on the Bus re set in new places (Halloween 275M, underwater, bus wash); our own bus song visits a new place each week (snow, beach, space) to build a series."
+  }
+ ],
+ "trend_bank": [
+  {
+   "name": "Sway & Wave baby dance",
+   "where": "TikTok, Reels",
+   "status": "peak",
+   "use": "Bro Bros do a 4-move sway, wave, clap, spin routine in the chorus; make a 15 s Short teaching it step by step ('Can you do it?')."
+  },
+  {
+   "name": "Feet-up costume reveal",
+   "where": "TikTok (Ramalama style)",
+   "status": "rising",
+   "use": "Short opens on the kids' shoes, camera tilts up on the beat to reveal themed costumes (dinos, astronauts, chefs). Original song beat."
+  },
+  {
+   "name": "0% to 100% loading",
+   "where": "Reels",
+   "status": "peak",
+   "use": "'Getting ready for bed: loading 0%... 100%' with brushing, pajamas, story; routine song Short."
+  },
+  {
+   "name": "Recharged battery",
+   "where": "Reels",
+   "status": "rising",
+   "use": "Kids at 1% (sleepy) then the song kicks in, battery fills to 100% and they dance. Strong first-second hook."
+  },
+  {
+   "name": "Toggle on reveal",
+   "where": "Reels",
+   "status": "rising",
+   "use": "A big toggle switch flips: 'Dance mode ON' and the set lights up. Use as the Short opener."
+  },
+  {
+   "name": "5 stages of...",
+   "where": "Reels",
+   "status": "rising",
+   "use": "'5 stages of bath time' or 'of a sugar rush': five quick clips, each a different dance mood, set to one song."
+  },
+  {
+   "name": "Freeze / statue game",
+   "where": "Evergreen kids",
+   "status": "evergreen",
+   "use": "Music stops, everyone freezes; kids at home play along. Already proven in our Dance and Freeze song."
+  },
+  {
+   "name": "Holiday group dance",
+   "where": "December, all platforms",
+   "status": "seasonal (Dec)",
+   "use": "Original goofy family party dance for the holiday week; everyone copies one silly move each."
+  },
+  {
+   "name": "Snowflake arms & spin",
+   "where": "Winter, global",
+   "status": "seasonal (Dec-Jan)",
+   "use": "Snowflake Dance Party song with 3 simple winter moves as a challenge."
+  },
+  {
+   "name": "Teach-the-step Short",
+   "where": "Shorts, Reels",
+   "status": "evergreen",
+   "use": "Slow-motion 'learn the move' then full speed; invites copying and replays."
   }
  ]
 }

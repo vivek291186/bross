@@ -99,6 +99,7 @@ summary{{cursor:pointer}}
 <h2>Growth</h2><div class="tree">{growth}</div>
 <h2>Playbook for next week's songs</h2><ol>{play}</ol>
 {("<h2>Song ideas for next week</h2><ol>" + "".join(f"<li><b>{html.escape(x['title'])}</b>: {html.escape(x['why'])}</li>" for x in d.get("next_week_ideas", [])) + "</ol>") if d.get("next_week_ideas") else ""}
+{("<h2>Trend bank: trends to use in our videos</h2><ul>" + "".join(f"<li><b>{html.escape(x['name'])}</b> <span class='tag'>{html.escape(x.get('status',''))}</span> <span class='src'>{html.escape(x.get('where',''))}</span><br>{html.escape(x['use'])}</li>" for x in d.get("trend_bank", [])) + "</ul>") if d.get("trend_bank") else ""}
 <h2>Newest learnings</h2><ul>{recent}</ul>
 <h2>All branches</h2>{cards}
 <h2>Research log</h2><ul>{log or "<li class='src'>First run</li>"}</ul>
