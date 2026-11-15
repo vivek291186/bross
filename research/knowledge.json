@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:43:31+05:30",
- "runs": 318,
+ "updated": "2026-11-16T04:49:35+05:30",
+ "runs": 319,
  "branches": [
   {
    "id": "platforms",
@@ -6740,6 +6740,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 308
+    },
+    {
+     "t": "In Bangladesh's top 100 YouTube channels (vidIQ, 12 Nov 2026) there is no nursery rhyme or kids music channel; children's attention goes to craft and drawing giants (Tonni art and craft 19.5M subscribers, Farjana Drawing Academy 15.6M, Mukta Art and Craft 8.2M) and Maasranga Kids (5.3M, 4.9B views), so a Bengali dub of our songs would face little direct competition.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 319
+    },
+    {
+     "t": "Draw along videos are among the biggest family formats in Bangladesh (three drawing or craft channels in the top 60), which supports a 'draw Little Bro step by step' Short with our song playing as a cheap extra format for South Asian viewers.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 319
+    },
+    {
+     "t": "Poland's most subscribed YouTube channels (HypeAuditor, Nov 2026) include dubbed foreign kids brands (WB Kids 7.1M, Cartoonito Polska 3.6M, Masha 2.8M, Peppa Pig and Disney Junior 1.8M each) beside local rhyme channel Singing Toddlers (2.6M) and family creator Hejka tu Lenka (1.8M), so Polish families accept dubbed animation readily.",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 319
+    },
+    {
+     "t": "HeyKids' Polish song channel (856K subscribers, 630M views) gets a steady 3.5 to 5M views a month in 2026 with almost no subscriber growth; its top songs are about a cheeky little boy character (19.3M), construction machines (6.9M) and a red car (5.7M), the same vehicle and mischief themes that win elsewhere.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 319
     }
    ]
   },
@@ -9416,10 +9444,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 00:45",
-   "note": "Run 240 (our own results (Metricool 2 to 16 Nov plus the scheduled week 16 to 22 Nov)): Metricool still shows no YouTube stats after 11 Nov, and the Reel numbers match what was logged yesterday. New this round: the scheduled week (16 to 22 Nov) has 14 English songs on vehicles, animals, routines and games but no December holiday song, no trend bank format and no Hindi Didi story, even though Didi Reels hold viewers longest and holiday Reels are peaking. Total 1054."
-  },
-  {
    "date": "2026-11-16 00:46",
    "note": "Run 241 (TRENDS (December calendar: Wrapped week, retro holiday dance, the Shorts heart button)): Spotify Wrapped is expected around Wednesday 2 Dec 2026, which floods Reels with year recaps, so a 'Bro Bros Wrapped' top 5 countdown joined the trend bank, as did a wobbly retro piano dance inspired by last December's Peanuts dance revival (our own tune and characters only). Shorts now show a heart instead of like and dislike, and 'Not interested' asks for reasons. Total 1058."
   },
@@ -9730,13 +9754,13 @@
   {
    "date": "2026-11-16 04:43",
    "note": "Run 318 (TRENDS (gratitude formats before Thanksgiving, Spotify Wrapped timing)): Gratitude formats are back: the '1000 little things' text card plus montage trend (235K to 744K views in two to four days per copy) and 'what a privilege' chore reframes, plus kids kindly finishing old parenting lines (about 10M views on one video). Spotify had not dated Wrapped 2026 by 9 Nov; estimates point to about 2 Dec. A 'little things we love' format joined the trend bank. Total 1331."
+  },
+  {
+   "date": "2026-11-16 04:49",
+   "note": "Run 319 (global markets (Bangladesh and Poland)): Bangladesh's top YouTube list has no rhyme channels at all; kids watch craft and drawing giants (Tonni art and craft 19.5M, Farjana Drawing Academy 15.6M) and Maasranga Kids (5.3M), so Bengali kids music is open ground. Poland's top 100 is led by dubbed foreign brands (WB Kids, Cartoonito, Masha, Peppa) plus local Singing Toddlers (2.6M) and Hejka tu Lenka; HeyKids Polish gets 3.5 to 5M views a month, with a cheeky boy song and vehicle songs on top. Total 1335."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 16:02",
-   "total": 173
-  },
   {
    "date": "2026-11-15 16:02",
    "total": 177
@@ -10932,6 +10956,10 @@
   {
    "date": "2026-11-16 04:43",
    "total": 1331
+  },
+  {
+   "date": "2026-11-16 04:49",
+   "total": 1335
   }
  ],
  "next_week_ideas": [
