@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:49:43+05:30",
- "runs": 252,
+ "updated": "2026-11-16T01:50:27+05:30",
+ "runs": 253,
  "branches": [
   {
    "id": "platforms",
@@ -7839,6 +7839,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 250
+    },
+    {
+     "t": "Two of the fastest growing new Roblox games in early November 2026 are about eggs (smashing eggs to get rare animals, about 95K playing at once, and disguising yourself as an egg, about 19K), confirming that egg hatch surprises are a top kid theme this season.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 253
+    },
+    {
+     "t": "Roblox's '+1' incremental games (you get one more arm or one more power each round) show like ratios above 95%, a simple 'one more each time' loop that maps directly onto cumulative counting songs.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 253
+    },
+    {
+     "t": "Cat sumo battles with collectable fur colours (about 15K playing) and ragdoll physics chaos games (12 new ragdoll titles in one month) show kids love wobbly, bumping, falling over slapstick, which a Bro Bros song can show safely as soft bouncy wobbles and pillow bumps.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 253
+    },
+    {
+     "t": "Bikes, scooters, rally cars and car football are all on the November 2026 Roblox growth list, so vehicle songs stay a reliable kid topic alongside animals and food.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 253
     }
    ]
   }
@@ -7866,11 +7894,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 173): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:41",
-   "note": "Run 174 (visual craft (vertical and widescreen twin cuts, rhythm based SEL)): Thumbnail and pacing studies were already in the tree. New: Guru Studio and CBC Kids made one minute TRUE Mini Rescues episodes in two cuts, widescreen for TV and vertical for phones, with a timer and kids helping solve a puzzle. Stomp Stomp Rhinos, a rhythm based feelings channel, hit 12M views in 195 countries in under a year from 300+ videos. Total 770."
+   "note": "Earlier runs summarised (up to Run 174): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:42",
@@ -8183,6 +8207,10 @@
   {
    "date": "2026-11-16 01:49",
    "note": "Run 252 (our own results (Metricool recheck, Reels 13 and 14 Nov)): YouTube data in Metricool still ends at 11 Nov uploads. New Reels: the 13 Nov bedtime 'shy fluffy monster' lullaby reached 65 views, the best of the 12 to 14 Nov story songs, while the 13 Nov sports day story song got 21 views against 110 for the 8 Nov sports day cartoon, so the same topic lost about 80% of views in five days, pointing to lower distribution of the account rather than a weak topic. Total 1110."
+  },
+  {
+   "date": "2026-11-16 01:50",
+   "note": "Run 253 (TRENDS (what kids play on Roblox in November)): GGRecon's 2 Nov 2026 list of the fastest growing new Roblox games is led by egg smashing for rare animals, a 'fake an egg' disguise game, cat sumo battles and '+1' grow a little more each round games, alongside ragdoll physics chaos and bikes and scooters. The '+1' loop gave a new counting song idea. Total 1114."
   }
  ],
  "history": [
@@ -9193,9 +9221,17 @@
   {
    "date": "2026-11-16 01:49",
    "total": 1110
+  },
+  {
+   "date": "2026-11-16 01:50",
+   "total": 1114
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Plus One! (One More Friend Joins the Dance)",
+   "why": "Roblox's '+1' games (one more each round, like ratios above 95%) are a big kid loop in November 2026; a cumulative counting dance where one more animal friend joins each verse (1 to 10) teaches counting, repeats the hook and builds a bigger dance every round."
+  },
   {
    "title": "Wiggle in Your Seat!",
    "why": "Kids are often told to sit still in cars, classrooms and waiting rooms; a dance song built entirely on seated moves (shoulders, hands, head, feet tapping) follows Laurie Berkner's interactive approach, gives parents a calm screen moment and works as a follow along Short."
@@ -9235,10 +9271,6 @@
   {
    "title": "Everybody Dance, It's Party Day!",
    "why": "Super Simple's biggest new song of 2026 is a celebration song; an original Bro Bros party anthem with clap, spin and freeze moves suits birthdays, New Year and every culture's festivals."
-  },
-  {
-   "title": "Roll, Roll, Little Rice Balls",
-   "why": "Dongzhi on 22 Dec has families rolling pink and white sweet rice balls; a counting and colours action song (roll, pop, plop in the bowl) is fresh, cosy and travels across East and Southeast Asia."
   },
   {
    "title": "First Time, Big Time!",
