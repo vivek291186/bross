@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:41:56+05:30",
- "runs": 237,
+ "updated": "2026-11-16T00:43:16+05:30",
+ "runs": 238,
  "branches": [
   {
    "id": "platforms",
@@ -7356,6 +7356,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 235
+    },
+    {
+     "t": "Holiday 2026 hot toy lists (Today, 27 Oct 2026) are led by blind box surprises (a jar where water reveals one of 20 plush characters), hatching eggs (a shark that hatches from a colour changing egg), Tamagotchi style digital pets, slime and stop motion kits, so reveal, hatch and collect formats match what kids want this December.",
+     "src": "Today, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 238
+    },
+    {
+     "t": "The Toy Association's 2026 Toy of the Year finalists point to four themes: emotional wellness and mindful play, creative self directed play, collectibles that build community, and fandoms shared across generations, which supports calm down songs and a 'collect them all' set of Bro Bros animal friends.",
+     "src": "Toy Association, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 238
+    },
+    {
+     "t": "Last December's TikTok formats most likely to return this year are daily advent calendar unboxings, the 'how to' tutorial that suddenly turns into a dance, the committed Broadway style cartoon dance, the 'say the word on beat' game and solo layered harmonies in TikTok's grid layout.",
+     "src": "NewEngen, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 238
+    },
+    {
+     "t": "The December 2025 grid harmony trend (one person singing several parts in a grid) translates for kids into a sing along round: four squares, four voices entering one by one, which teaches listening and needs no complex animation.",
+     "src": "NewEngen, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 238
+    },
+    {
+     "t": "Several December 2025 trends were nostalgia carousels and adult lip syncs (then and now photos, partner jokes), which do not suit kids, so Bro Bros December Reels should lean on reveal, countdown, dance and game formats instead.",
+     "src": "NewEngen, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 238
     }
    ]
   }
@@ -7382,12 +7417,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 20:56",
-   "note": "Earlier runs summarised (up to Run 158): older log lines condensed."
-  },
-  {
    "date": "2026-11-15 20:57",
-   "note": "Run 159 (Shorts and Reels (Shorts thumbnails, Instagram First Draft)): Custom Shorts thumbnails (since 25 Jul 2026, desktop, Partner channels) show on Home and the channel's Shorts tab but never in the Shorts feed, where 99.9% of Shorts views happen, and they cannot be A/B tested; their real use is TV browsing, where Shorts reach 2B watch hours a month. Instagram's iOS First Draft tool (Aug 2026) auto cuts raw clips into a Reel. Total 713."
+   "note": "Earlier runs summarised (up to Run 159): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:57",
@@ -7700,6 +7731,10 @@
   {
    "date": "2026-11-16 00:41",
    "note": "Run 237 (competitor deep dive (Super Simple Songs at 20, Little Angel and Moonbug's routine channels, Mother Goose Club in apps)): Super Simple Songs (70M+ subscribers, 90B+ views) grew from teachers making English learning songs in 2006 and now researches music and early learning with Oxford University Press; Little Angel pulls about 1.4B views a month across 25 languages, and Moonbug sells its channels as routine helpers from morning to bedtime. Mother Goose Club licensed its library into an ad free learning app. Total 1041."
+  },
+  {
+   "date": "2026-11-16 00:43",
+   "note": "Run 238 (TRENDS (December outlook: holiday toy themes and last December's returning formats)): Holiday 2026 toy lists are led by blind box surprises, hatching eggs, digital pets and calm, mindful play, while last December's TikTok formats likely to return include advent calendar days, a 'how to' tutorial that turns into a dance and layered harmony grids. Two seasonal formats joined the trend bank and the mystery box entry gained a hatching egg version. Total 1046."
   }
  ],
  "history": [
@@ -8650,6 +8685,10 @@
   {
    "date": "2026-11-16 00:41",
    "total": 1041
+  },
+  {
+   "date": "2026-11-16 00:43",
+   "total": 1046
   }
  ],
  "next_week_ideas": [
@@ -8730,12 +8769,6 @@
    "use": "Kid safe version with no zombies: a numbered Shorts series told to the viewer ('You wake up in the Snow Kingdom... Part 1'), each part ends on a gentle cliffhanger question (which door do you open?) and our own song plays in the final part; group the parts in a YouTube Shorts series so they play in order."
   },
   {
-   "name": "Magic double dance",
-   "where": "TikTok (sketch copy of you dances in sync beside you, 13 Nov 2026 chart)",
-   "status": "rising",
-   "use": "Little Bro draws himself on a big paper, the crayon drawing pops off the page as a 2D sketch version and dances in sync next to him to our own song. Easy in Blender with a Grease Pencil or flat toon shaded copy of the same Meshy motion."
-  },
-  {
    "name": "Family line dance",
    "where": "TikTok (Baby Doll line dance with family or crew, 13 Nov 2026 chart)",
    "status": "rising",
@@ -8772,16 +8805,22 @@
    "use": "Three of our own original 3D animal friends (the trendiest kid animals now: a fluffy highland cow, a calm capybara and a pink axolotl, plus winter penguins) stand upright and dance in a line with the Bros. Meshy step: standing, rhythmic walk in place (step left, step right), arms swinging, then three quick chest pops forward and a hand wave over the head. Our own beat only, never the trending audio. Variation from the kitten parade meme: the animal friends can also parade past the camera one by one before lining up."
   },
   {
-   "name": "Pose and bow on the drop",
-   "where": "TikTok (sped up pop song 'paparazzi bowing' trend, rising late Oct 2026, Virlo)",
-   "status": "rising",
-   "use": "The Bros strike three funny poses for pretend cameras (flash sound effects) as our own song builds, then on the beat drop both bow deeply together and pop back up dancing. Meshy step: standing, three quick freeze poses (hands on hips, thumbs up, arms wide), then bend forward from the waist in a big bow, stand back up with arms raised. Our own beat only."
-  },
-  {
    "name": "Say the word on the beat",
    "where": "TikTok, Shorts (Christmas specials, Dec 2025, returning)",
    "status": "rising",
    "use": "A grid of pictures pops up one at a time (hat, cat, bat, mat) and the Bros say each word exactly on the beat of our own simple beat, getting faster each round; kids at home try to keep up. Perfect for winter and Christmas word sets and for English learners."
+  },
+  {
+   "name": "Tutorial turns into a dance",
+   "where": "TikTok ('how to' bait and switch dance, NewEngen Dec 2025, likely back in Dec 2026)",
+   "status": "seasonal",
+   "use": "Big Bro starts a serious 'How to wrap a present' (or 'how to build a snowman') tutorial, step one, step two, then our own song kicks in and the steps become a dance; ends with the present wrapped. Meshy steps: standing, fold arms forward twice like folding paper, turn hands in a rolling motion, clap, then bounce side to side."
+  },
+  {
+   "name": "Grid harmony round",
+   "where": "TikTok (layered 'Mr Sandman' harmonies in the grid layout, NewEngen Dec 2025)",
+   "status": "seasonal",
+   "use": "A 2 by 2 grid: Big Bro, Little Bro and two friends each sing one line of our own simple winter round, entering one after another until all four sing together; kids at home can pick a square and join. No dance needed, just smiles, sways and a final group wave."
   },
   {
    "name": "Advent calendar daily series",
@@ -8829,7 +8868,7 @@
    "name": "Mystery box reveal",
    "where": "Blind box toys and unboxing (top holiday 2026 toy trend)",
    "status": "rising",
-   "use": "A brother shakes a wrapped mystery box, the other counts 3, 2, 1, the lid pops on the beat and out comes a new dance move, friend or winter prop; each box is one verse of our own song. Original items only, never branded toys."
+   "use": "A brother shakes a wrapped mystery box, the other counts 3, 2, 1, the lid pops on the beat and out comes a new dance move, friend or winter prop; each box is one verse of our own song. Original items only, never branded toys. Holiday 2026 toy lists add hatching eggs (a shark egg that hatches in water) and add water surprise plush jars, so one variation is a giant egg that wobbles, cracks on the beat and hatches our own baby animal friend."
   }
  ]
 }
