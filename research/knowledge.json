@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:50:51+05:30",
- "runs": 193,
+ "updated": "2026-11-15T22:51:44+05:30",
+ "runs": 194,
  "branches": [
   {
    "id": "platforms",
@@ -867,6 +867,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 183
+    },
+    {
+     "t": "Spotify's managed accounts for children 13 and under reached families on any plan, including free, in the US, UK, Australia, France, Germany and the Netherlands on 15 Jul 2026 and about 30 more countries by 28 Jul (Brazil, Mexico, Spain, Italy, Canada, Poland and others), so millions of kids now have their own Spotify profile.",
+     "src": "Spotify Newsroom, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 194
+    },
+    {
+     "t": "Children on managed accounts get personalised Made For You mixes and daylist from the full catalogue, so once Bro Bros songs are distributed to Spotify, a child who plays one can be fed more of ours automatically; explicit songs are blocked by default, which clean kids songs never trigger.",
+     "src": "Spotify Newsroom, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 194
+    },
+    {
+     "t": "Video and Canvas looping visuals are switched off by default on kids' managed accounts, so on Spotify our songs must win on audio alone: the hook and the song title carry everything, the cover art is the only picture.",
+     "src": "Spotify Newsroom, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 194
+    },
+    {
+     "t": "Each child on a managed account gets their own Spotify Wrapped in early December, so families will see their kids' top songs; a Bro Bros song in a child's Wrapped is free word of mouth, one more reason to put our catalogue on Spotify before December.",
+     "src": "Spotify Newsroom, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 194
     }
    ]
   },
@@ -6000,10 +6028,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 19:40",
-   "note": "Run 115 (global markets (dubbing data, Brazil)): AIR's Sep 2026 dubbing data shows AI only audio tracks keep viewers 4 to 10 times less than professionally voiced ones, while Spanish, Arabic, Indonesian and Portuguese tracks pull ahead first; YouTube auto dubbing (27 languages) skips videos with no speech or Content ID claims, so sung tracks must be re sung by us. In Brazil the Mundo Bita studio launched Bamba Bum, two dancing monsters singing in funk, passinho and swingueira rhythms. Total 549."
-  },
-  {
    "date": "2026-11-15 19:41",
    "note": "Run 116 (competitor deep dive (Super Simple Songs, Lalafun)): Super Simple Songs (70M+ subs, 90B+ views, 20 years old) now posts about one video a week, alternating one new song with a 'Top 20' themed compilation, and its new anniversary celebration song reached 6M views in under three months. Lalafun (15.2M) gains 600 to 700M views a month from about 15 uploads a month; its hits are twisted classic rhymes and its titles add a tiny problem or theme ('Paramedics Song', 'Magic Circus'). Total 556."
   },
@@ -6314,6 +6338,10 @@
   {
    "date": "2026-11-15 22:50",
    "note": "Run 193 (TRENDS (November holiday formats, say the word on the beat)): November TikTok is already Christmas led: 'POV it's Nov 1st' tree set up speed edits, days until Christmas overlays, kitchen dances with 'It's NOVEMBER' text and one by one winter basket builds. The 'say the word on the beat' picture game (rhyming pictures, faster each round) is set to return for Christmas and suits kids perfectly; two kid safe versions joined the trend bank. Total 843."
+  },
+  {
+   "date": "2026-11-15 22:51",
+   "note": "Run 194 (other platforms (Spotify managed accounts for kids)): Netflix and Roblox findings were already in the tree, so this round found Spotify's managed accounts for children 13 and under, which reached the free tier and about 36 countries in July 2026: kids get their own Made For You mixes, daylist and their own Wrapped, while video and Canvas loops are off by default. Total 847."
   }
  ],
  "history": [
@@ -7088,6 +7116,10 @@
   {
    "date": "2026-11-15 22:50",
    "total": 843
+  },
+  {
+   "date": "2026-11-15 22:51",
+   "total": 847
   }
  ],
  "next_week_ideas": [
