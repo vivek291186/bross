@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:57:12+05:30",
- "runs": 159,
+ "updated": "2026-11-15T20:57:56+05:30",
+ "runs": 160,
  "branches": [
   {
    "id": "platforms",
@@ -776,6 +776,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 159
+    },
+    {
+     "t": "Netflix kids viewing H2 2025 (Emily Horgan's report): PAW Patrol No. 1 with 344M hours after its US debut, Gabby's Dollhouse over 600M hours for the full year, Ms Rachel No. 4 (the best first year placement of any new kids series) and SpongeBob leading comedy with 143M hours.",
+     "src": "worldscreen.com, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 160
+    },
+    {
+     "t": "Live Nation put Lollapalooza into the Roblox game Music Festival Tycoon (3.5M+ visits, Jul 2026), where players book artists and build stages, with K pop group CORTIS as first headliner; music on Roblox now works as a build your own show game, not only as a one off concert.",
+     "src": "digitalmusicnews.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 160
     }
    ]
   },
@@ -2190,6 +2204,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 156
+    },
+    {
+     "t": "CoComelon's Netflix viewing fell 30% in H2 2025 and the brand moves to Disney+ in January 2027, while creator led YouTube shows (Ms Rachel, CrunchLabs) rose, so the market now rewards a warm personality and fresh feel over a polished nursery rhyme factory.",
+     "src": "worldscreen.com, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 160
     }
    ]
   },
@@ -3786,6 +3807,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 151
+    },
+    {
+     "t": "'Build your own show' play is a theme kids already enjoy on Roblox; a Bros song where kids choose the instruments and lights for a backyard concert, one per verse, turns that game idea into a sing along.",
+     "src": "digitalmusicnews.com, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 160
     }
    ]
   },
@@ -5080,11 +5108,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 17 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:47",
-   "note": "Run 81 (algorithm experiments and data (compilations, claims, audio tracks)): AIR Q4 2025 cases: turning 2 to 3 minute songs into about 10 minute compilations lifted watch duration 19% and RPM 72%; on the Vania Mania network clearing copyright claims took Indonesian suggested views from 32K to 3.75M, more holiday uploads tripled the Live channel, and restoring lost dubbed audio tracks lifted the French channel 37%. Total 433."
+   "note": "Earlier runs summarised: 18 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:48",
@@ -5397,6 +5421,10 @@
   {
    "date": "2026-11-15 20:57",
    "note": "Run 159 (Shorts and Reels (Shorts thumbnails, Instagram First Draft)): Custom Shorts thumbnails (since 25 Jul 2026, desktop, Partner channels) show on Home and the channel's Shorts tab but never in the Shorts feed, where 99.9% of Shorts views happen, and they cannot be A/B tested; their real use is TV browsing, where Shorts reach 2B watch hours a month. Instagram's iOS First Draft tool (Aug 2026) auto cuts raw clips into a Reel. Total 713."
+  },
+  {
+   "date": "2026-11-15 20:57",
+   "note": "Run 160 (other platforms (Netflix kids H2 2025 report, Roblox festival game)): Emily Horgan's Netflix kids report: PAW Patrol led H2 2025 with 344M hours, Gabby's Dollhouse passed 600M hours for 2025, Ms Rachel was No. 4 (best first year of any new kids series) and CoComelon fell 30% and moves to Disney+ in Jan 2027. On Roblox, Live Nation's Music Festival Tycoon (3.5M visits) lets kids book artists and build stages. Total 717."
   }
  ],
  "history": [
@@ -6035,6 +6063,10 @@
   {
    "date": "2026-11-15 20:57",
    "total": 713
+  },
+  {
+   "date": "2026-11-15 20:57",
+   "total": 717
   }
  ],
  "next_week_ideas": [
