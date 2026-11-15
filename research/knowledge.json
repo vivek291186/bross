@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:43:03+05:30",
- "runs": 73,
+ "updated": "2026-11-15T17:43:44+05:30",
+ "runs": 74,
  "branches": [
   {
    "id": "platforms",
@@ -405,6 +405,20 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 63
+    },
+    {
+     "t": "Instagram's biggest Reels trend in early November 2026 is holiday music (about 5.8M Reels on one Christmas classic), used for countdowns and tree reveals where each cut adds one ornament; the Bros decorating a tree one beat at a time in our own song fits the format without borrowed audio.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 74
+    },
+    {
+     "t": "11 of the 12 trending Reels sounds of early November are major label tracks likely restricted on business accounts, so our original Suno songs (and Instagram's commercial library) are the safe audio; making our own chorus the reusable sound is the goal.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 74
     }
    ]
   },
@@ -818,6 +832,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 73
+    },
+    {
+     "t": "Reels analysis (Jun 2026) says Instagram scores connected (follower) and unconnected reach separately, watch completion is the dominant signal, saves and shares outweigh likes, and Reels under 15 seconds rarely win non follower reach, so our Reels should be 20 to 40 second chorus cuts.",
+     "src": "virlo.ai, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 74
     }
    ]
   },
@@ -1819,6 +1840,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 65
+    },
+    {
+     "t": "A group shoulder shimmy dance (Dame Hombro, about 137K Reels and rising) and simple duo routines are this month's dance formats on Reels; an easy shoulder shimmy that the Bros and friends do together is a copyable move for kids and parents.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 74
     }
    ]
   },
@@ -3150,6 +3178,10 @@
   {
    "date": "2026-11-15 17:43",
    "note": "Run 73 (YouTube algorithm and platform (October changes)): October 2026 YouTube changes relevant to us: a Monthly Shorts Bonus pilot (invite only, Partner Program channels in the US, UK, Germany, Brazil, Japan and South Korea), a 20 USD payout threshold test in the US, India and Indonesia, and a cleanup option instead of termination for some spam strikes. YouTube's Shorts lead line 'the audience is the algorithm' still frames how seed audiences widen reach. Total 396."
+  },
+  {
+   "date": "2026-11-15 17:43",
+   "note": "Run 74 (Shorts and Reels trends (holiday Reels formats)): Reels trends for 31 Oct to 10 Nov: holiday sounds are peaking (about 5.8M Reels on one Christmas classic), with tree reveal (one ornament per cut) and countdown formats; a playful group shoulder shimmy dance is rising; but 11 of 12 trending sounds are major label tracks likely blocked for business accounts, so original audio is the safe route. Reels under 15 seconds rarely reach non followers. Total 400."
   }
  ],
  "history": [
@@ -3444,6 +3476,10 @@
   {
    "date": "2026-11-15 17:43",
    "total": 396
+  },
+  {
+   "date": "2026-11-15 17:43",
+   "total": 400
   }
  ],
  "next_week_ideas": [
