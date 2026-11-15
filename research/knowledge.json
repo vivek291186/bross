@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:08:27+05:30",
- "runs": 21,
+ "updated": "2026-11-15T16:09:18+05:30",
+ "runs": 22,
  "branches": [
   {
    "id": "platforms",
@@ -356,6 +356,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 15
+    },
+    {
+     "t": "WOA Song Spanish (kids songs) deleted long videos that skirted kids policies and posted 31 quality checked Shorts in Q4 2025 (up from 8); views jumped from 27M to 1.46B in one quarter, with Shorts giving over 98% of views.",
+     "src": "AIR Media-Tech case, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 22
+    },
+    {
+     "t": "Weak or policy risky old videos can hold a kids channel back; cleaning the library and applying kids quality rules (educational value, positive role models, clear visuals, correct metadata) preceded the breakout.",
+     "src": "AIR Media-Tech case, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 22
+    },
+    {
+     "t": "A kids channel that cut long uploads from 21 to 11 a quarter, doubled Shorts cut from its funniest long form moments and moved to 4K TV friendly picture and sound grew revenue 34% while views grew only 5%.",
+     "src": "AIR Media-Tech case, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 22
+    },
+    {
+     "t": "Kids channels see a holiday view spike in late November and early December, so the next three weeks are the time to post more Shorts.",
+     "src": "AIR Media-Tech cases, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 22
     }
    ]
   },
@@ -1329,6 +1357,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 12
+    },
+    {
+     "t": "Given our Shorts get almost no YouTube views, the data points to fewer, better Shorts cut fresh from each song's most energetic moment, rather than more volume.",
+     "src": "Metricool Nov 2026 compared with AIR cases",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 22
     }
    ]
   }
@@ -1437,6 +1472,10 @@
   {
    "date": "2026-11-15 16:08",
    "note": "Run 21 (competitor ChuChu TV): ChuChu TV (Chennai) now reports 180M+ digital subscribers and 110B views and signed a worldwide Netflix deal (Sep 2026) for four collections in English, Hindi, Tamil and Telugu, aiming to become a global preschool franchise; its main English channel crossed 50M subs. Total 181."
+  },
+  {
+   "date": "2026-11-15 16:09",
+   "note": "Run 22 (algorithm experiments and data): Two kids channel experiments: WOA Song Spanish removed policy risky long videos and posted 31 quality checked Shorts in a quarter, views went from 27M to 1.46B with Shorts at 98% of views; another channel halved long form, doubled Shorts cut from its best moments and moved to 4K TV friendly quality, revenue up 34%. Total 186."
   }
  ],
  "history": [
@@ -1523,6 +1562,10 @@
   {
    "date": "2026-11-15 16:08",
    "total": 181
+  },
+  {
+   "date": "2026-11-15 16:09",
+   "total": 186
   }
  ],
  "next_week_ideas": [
