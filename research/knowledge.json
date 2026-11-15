@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:58:17+05:30",
- "runs": 39,
+ "updated": "2026-11-15T16:58:52+05:30",
+ "runs": 40,
  "branches": [
   {
    "id": "platforms",
@@ -258,6 +258,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 39
+    },
+    {
+     "t": "Zootopia 2 logged 1.72B Disney+ minutes in the week ending 15 Mar 2026, beating every Netflix title; 44% of viewers were adults 18 to 49 and 39% children 2 to 11, showing animal comedies built for whole family co viewing win big.",
+     "src": "Nielsen via Pulse, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 40
+    },
+    {
+     "t": "Disney Jr. held all top 3 US preschool streaming spots in Q1 2025: Bluey, Spidey and his Amazing Friends, and Mickey Mouse Clubhouse, which still ranks though it stopped making new episodes in 2016; a strong library keeps earning for a decade.",
+     "src": "Kidscreen and Nielsen, May 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 40
+    },
+    {
+     "t": "Bluey passed 70B minutes of US streaming watch time from Dec 2023 to Apr 2025, the benchmark for calm, funny sibling play stories that parents enjoy too.",
+     "src": "Kidscreen and Nielsen, May 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 40
     }
    ]
   },
@@ -2055,6 +2076,10 @@
   {
    "date": "2026-11-15 16:58",
    "note": "Run 39 (Shorts and Reels): Shorts series (Made on YouTube, 23 Sep 2026) let Partner Program channels group Shorts into seasons and episodes with custom thumbnails and sequential playback on web, mobile and TV; YouTube's own holiday Shorts formats are before and after door transitions, making treats and decorate with me montages; most US trending videos are music and many are under a day old. Total 259."
+  },
+  {
+   "date": "2026-11-15 16:58",
+   "note": "Run 40 (other platforms): Zootopia 2 drew 1.72B Disney+ minutes in one March 2026 week with 44% adult and 39% child viewers, the clearest sign that family co viewing animal comedies win; Disney Jr. holds the top 3 US preschool streaming spots (Bluey, Spidey, Mickey Mouse Clubhouse, still huge though off air since 2016). Total 262."
   }
  ],
  "history": [
@@ -2213,6 +2238,10 @@
   {
    "date": "2026-11-15 16:58",
    "total": 259
+  },
+  {
+   "date": "2026-11-15 16:58",
+   "total": 262
   }
  ],
  "next_week_ideas": [
