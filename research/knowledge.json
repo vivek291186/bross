@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:48:13+05:30",
- "runs": 122,
+ "updated": "2026-11-15T19:49:01+05:30",
+ "runs": 123,
  "branches": [
   {
    "id": "platforms",
@@ -2295,6 +2295,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 115
+    },
+    {
+     "t": "Italian Institute of Technology researchers (PLOS Biology, Feb 2026) found that 49 sleeping newborns about two days old reacted when a Bach rhythm was disrupted but not when the melody was, so rhythm is wired in at birth while melody is learned later: a clear, steady rhythm hook matters more for babies than a clever tune.",
+     "src": "classicfm.com, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 123
+    },
+    {
+     "t": "In an eLife study of 79 babies (Jul 2026) only 12 month olds moved differently to real music than to scrambled music (arm pedalling, rocking, swaying, clapping like motions), and no baby moved in time with the beat; their movement followed rises and falls in loudness and energy.",
+     "src": "psypost.org, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 123
+    },
+    {
+     "t": "In the same study high pitched music predicted more spontaneous movement than low pitched music at 3, 6 and 12 months, supporting bright high register sounds (bells, xylophone, whistles, a bright lead voice) in songs meant to get little ones moving.",
+     "src": "psypost.org, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 123
+    },
+    {
+     "t": "Because toddlers move to energy changes rather than the beat, songs for under twos should build in big contrasts kids feel in their bodies: a quiet tiptoe part, a loud jump part, a sudden stop, then a burst back in.",
+     "src": "psypost.org, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 123
     }
    ]
   },
@@ -4138,10 +4166,6 @@
    "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
-   "date": "2026-11-15 17:00",
-   "note": "Run 44 (global markets): El Reino Infantil at 15 years: 240M subscribers on 50 YouTube channels in 11 languages (including English, Portuguese, Turkish, Russian, Korean and Hindi), 9B views in H1 2026, about 40 uploads a week, and FAST and connected TV channels on Roku, Samsung, LG and Pluto TV; it began with preschool music videos built on named farm animals. Total 279."
-  },
-  {
    "date": "2026-11-15 17:01",
    "note": "Run 45 (competitor deep dive (BabyBus)): BabyBus (43.9M subs, 36B views) posts about 5.6 long videos a week averaging about 31 minutes, 96% long form and 95% evergreen; its recent outliers wrap a preschool lesson in pretend play adventure: Sharing is Caring 2 (54M, 28 times its median), a cardboard escape room police rescue (26M), mosquito and colours, dinosaur chase colours, superhero bug catch. Total 284."
   },
@@ -4452,6 +4476,10 @@
   {
    "date": "2026-11-15 19:48",
    "note": "Run 122 (other platforms (Netflix animated series 2026, Spotify Wrapped in Africa)): Netflix's most watched animated series of H1 2026 worldwide were Peppa Pig (81.8M views), then The Creature Cases, Masha and the Bear, CoComelon, Little Angel, Booba, Lottie Dottie Chicken, PAW Patrol and Bebefinn: six of the top nine began on YouTube. In Nigeria, Ghana, Kenya and South Africa, Spotify Wrapped 2025 was full of CoComelon, Pinkfong and Super Simple Songs, so English kids songs already travel across anglophone Africa. Total 578."
+  },
+  {
+   "date": "2026-11-15 19:49",
+   "note": "Run 123 (music craft (babies, rhythm and movement studies)): Two 2026 infant studies: newborns two days old already predict rhythm patterns but not melody (PLOS Biology, Feb 2026), and in eLife (Jul 2026) babies only started moving differently to real music at 12 months, never in time with the beat, following changes in loudness and energy, with high pitched music drawing the most movement at every age. Total 582."
   }
  ],
  "history": [
@@ -4942,6 +4970,10 @@
   {
    "date": "2026-11-15 19:48",
    "total": 578
+  },
+  {
+   "date": "2026-11-15 19:49",
+   "total": 582
   }
  ],
  "next_week_ideas": [
