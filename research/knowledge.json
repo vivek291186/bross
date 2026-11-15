@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:37:57+05:30",
- "runs": 313,
+ "updated": "2026-11-16T04:39:13+05:30",
+ "runs": 314,
  "branches": [
   {
    "id": "platforms",
@@ -1147,6 +1147,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 313
+    },
+    {
+     "t": "Quso's dataset of about 508K posts from 1,900+ creators in 80+ countries (Jun 2026) puts the median YouTube Short at about 45% average view through and the top 10% at about 91%, so 50 to 60% is a good target for our Shorts and 90% is breakout level.",
+     "src": "Quso, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 314
+    },
+    {
+     "t": "In the same dataset Shorts of 11 to 20 seconds earned the highest median views, clips under 10 seconds often felt too thin, and longer ones gave more chances to drop off, so a 15 second chorus cut is the sweet spot for our song Shorts.",
+     "src": "Quso, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 314
     }
    ]
   },
@@ -3408,6 +3422,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 309
+    },
+    {
+     "t": "Five of the ten most viewed YouTube videos of all time are children's songs (led by Baby Shark Dance and CoComelon's Wheels on the Bus), together estimated at about 84M USD in ad revenue, proof that one evergreen kids song can earn for years.",
+     "src": "Mediaweek citing BonusInsider, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 314
     }
    ]
   },
@@ -9290,10 +9311,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 00:39",
-   "note": "Run 235 (TRENDS (mid November lists: go go go rush, numbered story series, I got so mad, fan wipe)): NewEngen's 13 Nov list adds a frantic 'go, go, go' rush lip sync, numbered second person animated stories with cliffhangers and a fan blade outfit wipe, while the Chipmunks trio dance and Dame Hombro stay live; Know Your Meme's 13 Nov 'I got so mad' trend fits a calm down feelings song. The bicep heart pose was dropped because its follow up (waist heart) is adult. Four entries joined the trend bank and one song idea was swapped. Total 1029."
-  },
-  {
    "date": "2026-11-16 00:40",
    "note": "Run 236 (global markets (which dubbed languages keep kids coming back)): AIR's kids channel test with identical videos showed Arabic dubbing bringing the most views (3.4M in five weeks) but German the most loyal viewers; a dubbed track should be judged by returning viewer share (above 40% is working). Dubbing beats subtitles for kids everywhere because they cannot read fast, and creators with dubbed tracks get over a quarter of watch time from other languages. Total 1036."
   },
@@ -9604,13 +9621,13 @@
   {
    "date": "2026-11-16 04:37",
    "note": "Run 313 (YouTube algorithm (YouTube Kids filter gate, Shorts consistency bonus, image posts in the Shorts feed)): Team YouTube's Kids FAQ says thumbnail, title and video filters each can block a video on their own, so one risky thumbnail can keep a good song out of YouTube Kids. YouTube is piloting an invite only monthly Shorts bonus for regular uploaders (US, UK, Germany, Brazil, Japan, South Korea, not India) and testing image carousel Posts with music inside the Shorts feed. Total 1313."
+  },
+  {
+   "date": "2026-11-16 04:39",
+   "note": "Run 314 (Shorts and Reels (view through benchmarks, best Short length, kids songs in YouTube's all time top 10)): Quso's 508K post dataset puts the median Short at about 45% view through and the top 10% near 91%, with 11 to 20 second Shorts earning the highest median views; five of YouTube's ten most viewed videos ever are children's songs. Reels algorithm news was quiet: nothing new beyond the tree. Total 1316."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:58",
-   "total": 147
-  },
   {
    "date": "2026-11-15 15:59",
    "total": 153
@@ -10806,6 +10823,10 @@
   {
    "date": "2026-11-16 04:37",
    "total": 1313
+  },
+  {
+   "date": "2026-11-16 04:39",
+   "total": 1316
   }
  ],
  "next_week_ideas": [
