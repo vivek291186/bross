@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:03:26+05:30",
- "runs": 102,
+ "updated": "2026-11-15T19:04:01+05:30",
+ "runs": 103,
  "branches": [
   {
    "id": "platforms",
@@ -2967,6 +2967,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 91
+    },
+    {
+     "t": "In Indonesia's top 10 YouTube channels (15 Aug 2026) two are foreign kids brands dubbed into Bahasa: BabyBus Indonesian (28.7M subs, about 10M views a month) and Tayo Bahasa Indonesia (26.8M, about 34M views a month and 1.1M average per video), proof that dubbed animation can reach the very top of a local market.",
+     "src": "Databoks (noxInfluencer), Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 103
+    },
+    {
+     "t": "BabaSharo TV, a kids song channel started in 2020 by one creator in Doha, reports 1.8B views and over 1,000 original animated songs dubbed into English, Arabic, Spanish, Portuguese and Hindi, plus a kids app and releases on Spotify, Apple Music, YouTube Music and Anghami (the Arab world's main music app).",
+     "src": "Observer Reporter (press release), Jul 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 103
+    },
+    {
+     "t": "Anghami is the leading music streaming service in the Arab world, so releasing Bro Bros songs with Arabic audio through a distributor that delivers to Anghami adds a Gulf and North Africa audio channel beside YouTube.",
+     "src": "Observer Reporter (press release), Jul 2025",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 103
     }
    ]
   },
@@ -3627,10 +3648,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 16:38",
-   "note": "Run 24 (our own results): Fresh Metricool read: analytics for published videos lag about 4 days (latest row 11 Nov while uploads continue daily); English Diwali song Light the Diyas got 783 views against 69 for the Hindi Diwali rock song; songs beat cartoon episodes about 3 to 1 on views; 10 AM IST song slots lead. Total 195."
-  },
-  {
    "date": "2026-11-15 16:39",
    "note": "Run 25 (YouTube main and Kids charts): Tubefilter week of 8 Nov: 37 of the top 50 subscriber gainers live mainly on Shorts; kids entries are Pokemon Kids TV, Cadel and Mia and VocaVoca; Pokemon Kids TV's top songs are single character dance songs; Sasha Show's 9.5M sub October came from borrowed characters and shock titles, a pattern to avoid; YouTube Kids entry for PlayToys took about 4 weeks via partner review. Total 201."
   },
@@ -3941,6 +3958,10 @@
   {
    "date": "2026-11-15 19:03",
    "note": "Run 102 (topics and seasons (early New Year countdowns, first snow)): Parents search for early New Year's Eve countdown videos so young kids can 'see midnight' and still go to bed early; good ones are polished, ad light, end with a happy celebration and range from 10 seconds to a minute. US East Coast first snow usually arrives late November to December, and the 2026 to 2027 El Nino outlook suggests a variable winter with more rain. Total 505."
+  },
+  {
+   "date": "2026-11-15 19:04",
+   "note": "Run 103 (global markets (Indonesia ranking, Gulf creator)): Two dubbed kids brands sit in Indonesia's top 10 YouTube channels (BabyBus Indonesian 28.7M, Tayo Bahasa Indonesia 26.8M with about 34M views a month and 1.1M average per video). BabaSharo TV, a one creator kids song channel from Doha, reports 1.8B views from 1,000+ original songs dubbed into English, Arabic, Spanish, Portuguese and Hindi. Total 508."
   }
  ],
  "history": [
@@ -4351,6 +4372,10 @@
   {
    "date": "2026-11-15 19:03",
    "total": 505
+  },
+  {
+   "date": "2026-11-15 19:04",
+   "total": 508
   }
  ],
  "next_week_ideas": [
