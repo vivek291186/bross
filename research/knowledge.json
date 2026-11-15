@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:04:46+05:30",
- "runs": 270,
+ "updated": "2026-11-16T02:05:32+05:30",
+ "runs": 271,
  "branches": [
   {
    "id": "platforms",
@@ -8238,6 +8238,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 268
+    },
+    {
+     "t": "A mid November 2026 TikTok format has friends enter a wide, steady shot one at a time in slow motion from different directions with serious faces, a dramatic entrance that suits introducing the Bros and each animal friend at the start of a song.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 271
+    },
+    {
+     "t": "A US weekly TikTok tracker (about 15 Nov 2026) counts group dances where two to four friends repeat one easy move at about 29.7M views and short 4 to 8 count routines meant to be learned fast, matching our 'one signature move per song' rule.",
+     "src": "howtogoviral.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 271
+    },
+    {
+     "t": "Harmless 'comically tiny version of an everyday item' jokes (a tiny snack, a tiny cup) reached about 17.1M views that week, and escalating jokes where an ordinary task ends hugely exaggerated about 18.2M, both easy silly beats for Bro Bros story songs.",
+     "src": "howtogoviral.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 271
+    },
+    {
+     "t": "Beginner tutorials that show three clearly separated moves and then the full routine (about 1.8M views for one dancehall version) are a ready Short structure: teach move one, two, three slowly, then dance it all at full speed.",
+     "src": "howtogoviral.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 271
     }
    ]
   }
@@ -8265,11 +8293,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 191): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:50",
-   "note": "Run 192 (YouTube algorithm (our results already recorded today, so switched: watch page suggestions, topic matching, YouTube Kids rewatch shelf)): Metricool results were already recorded today, so this round went to the algorithm. Todd Beaupre says the watch page Suggested list, not the subscriptions feed, brings most views from subscribers, and that brand new channels with no viewer history are matched to audiences by topic. The YouTube Kids app's Your Stuff page puts a Watch it Again row up front, so songs kids replay keep resurfacing. Total 840."
+   "note": "Earlier runs summarised (up to Run 192): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:50",
@@ -8582,6 +8606,10 @@
   {
    "date": "2026-11-16 02:04",
    "note": "Run 270 (topics (what parents weigh and what little kids are thankful for)): Lingokids' 2026 report (US parents of 2 to 8 year olds) finds safety ranks first when parents pick content (87.7%), ahead of fun (67.3%) and learning (64.8%), and screen time guilt rose to 84.6% from 74%; Talker Research's survey of 2,000 parents of under 6s found young kids are mostly thankful for siblings, family, pets, toys and favourite foods, ready material for a thankful song. Total 1167."
+  },
+  {
+   "date": "2026-11-16 02:05",
+   "note": "Run 271 (TRENDS (mid November formats: slow motion entrances, tiny item jokes, three move tutorials)): NewEngen's 13 Nov list adds a 'Pray For Me' slow motion format where friends glide into a wide shot one by one from different directions, and a US weekly tracker (about 15 Nov) shows group dances of two to four friends doing one easy repeated move (29.7M views), comically tiny everyday items (17.1M), escalating visual jokes and beginner tutorials of three clearly separated moves. Total 1171."
   }
  ],
  "history": [
@@ -9664,6 +9692,10 @@
   {
    "date": "2026-11-16 02:04",
    "total": 1167
+  },
+  {
+   "date": "2026-11-16 02:05",
+   "total": 1171
   }
  ],
  "next_week_ideas": [
@@ -9762,16 +9794,16 @@
    "use": "Big Bro, Little Bro and one friend in a row do a goofy, fast routine to our own sped up, squeaky voiced original song. Meshy step: standing in place, small hop on both feet, kick right foot forward, kick left foot forward, spin around once in place, shake the head side to side, end with jazz hands. Make a 'try it with your family of three' Short."
   },
   {
+   "name": "Slow motion entrance",
+   "where": "TikTok ('Pray For Me' slow motion group entrances, NewEngen 13 Nov 2026)",
+   "status": "rising",
+   "use": "Song intro with our own big drum build: a wide, steady shot of the playground; Big Bro glides in slowly from the left, Little Bro from the right, then each animal friend from behind, all in slow motion with funny 'serious' faces, and on the beat drop everyone snaps to normal speed and starts the chorus dance. Meshy steps: standing, slow walk forward with arms swinging gently, stop, cross arms with a serious face, then on the drop jump in place with both arms up."
+  },
+  {
    "name": "How it started vs how it's going",
    "where": "Instagram Reels (before and after cut on a drum kick, rising early Nov 2026)",
    "status": "rising",
    "use": "Two shot Short with our own song: shot one shows a tiny snowball or a bare tree with the caption 'how it started', then on our song's big drum hit cut to a giant snowman or a fully decorated tree with both Bros dancing and 'how it's going'. Meshy step for the second shot: standing in place, both arms up in a V, bounce on the spot twice, then point at the result with both hands and smile."
-  },
-  {
-   "name": "I got so mad",
-   "where": "TikTok ('I Got So Mad' absurd tiny reactions trend, Know Your Meme 13 Nov 2026)",
-   "status": "rising",
-   "use": "Feelings song Short: Little Bro 'got SO mad' his sock went missing that he did something tiny and silly (crossed arms, three small dinosaur stomps, a grumpy face), then Big Bro shows a big balloon breath and they laugh; teaches calming down. Meshy steps: standing, cross arms, stomp in place three times, then raise arms slowly for a deep breath and lower them."
   },
   {
    "name": "Shoulder bounce team dance",
