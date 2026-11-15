@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T00:43:16+05:30",
- "runs": 238,
+ "updated": "2026-11-16T00:44:06+05:30",
+ "runs": 239,
  "branches": [
   {
    "id": "platforms",
@@ -6439,6 +6439,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 233
+    },
+    {
+     "t": "Under Indonesia's PP Tunas child protection regulation, Google committed in a 17 Apr 2026 letter to a minimum YouTube account age of 16 there, began removing under 16 accounts gradually and said it would stop ads targeted at children, after the ministry reprimanded YouTube on 10 Apr and listed it among eight 'high risk' platforms.",
+     "src": "Jakarta Post, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 239
+    },
+    {
+     "t": "Because Indonesian children can no longer hold their own YouTube accounts, our Indonesian audience will mostly arrive through parents' accounts, signed out viewing or family devices, so Indonesian titles, descriptions and dubbed tracks should speak to parents' searches (lagu anak, lagu tidur) rather than to kids typing.",
+     "src": "Jakarta Post, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 239
+    },
+    {
+     "t": "As of Aug 2026 COPPA 2.0 had passed the US Senate unanimously and the KIDS Act passed the House (29 Jun 2026), but neither was law, and KOSA was still awaiting a committee markup, so the amended COPPA Rule (compliance from 22 Apr 2026) remains the binding US standard for our videos.",
+     "src": "Mayer Brown, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 239
+    },
+    {
+     "t": "Four US states have app store accountability acts (Texas in force after a 4 Jun 2026 court stay, Alabama from 1 Jan 2027), 26 states have age verification laws and California may now require age estimation, so more platforms will know a viewer is a child and route them to kid settings, which rewards correctly marked made for kids videos.",
+     "src": "Mayer Brown, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 239
     }
    ]
   },
@@ -7418,11 +7446,7 @@
  "log": [
   {
    "date": "2026-11-15 20:57",
-   "note": "Earlier runs summarised (up to Run 159): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:57",
-   "note": "Run 160 (other platforms (Netflix kids H2 2025 report, Roblox festival game)): Emily Horgan's Netflix kids report: PAW Patrol led H2 2025 with 344M hours, Gabby's Dollhouse passed 600M hours for 2025, Ms Rachel was No. 4 (best first year of any new kids series) and CoComelon fell 30% and moves to Disney+ in Jan 2027. On Roblox, Live Nation's Music Festival Tycoon (3.5M visits) lets kids book artists and build stages. Total 717."
+   "note": "Earlier runs summarised (up to Run 160): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:58",
@@ -7735,6 +7759,10 @@
   {
    "date": "2026-11-16 00:43",
    "note": "Run 238 (TRENDS (December outlook: holiday toy themes and last December's returning formats)): Holiday 2026 toy lists are led by blind box surprises, hatching eggs, digital pets and calm, mindful play, while last December's TikTok formats likely to return include advent calendar days, a 'how to' tutorial that turns into a dance and layered harmony grids. Two seasonal formats joined the trend bank and the mystery box entry gained a hatching egg version. Total 1046."
+  },
+  {
+   "date": "2026-11-16 00:44",
+   "note": "Run 239 (rules and safety (Indonesia's under 16 rule, US kids privacy bills and state age checks)): After a reprimand in April 2026, Google committed to a minimum YouTube account age of 16 in Indonesia under PP Tunas, removing under 16 accounts and cutting ads aimed at children, so Indonesian kids now reach our songs through parents' devices. In the US, COPPA 2.0 passed the Senate and the KIDS Act passed the House but neither is law yet, while state app store and age check laws keep spreading into 2027. Total 1050."
   }
  ],
  "history": [
@@ -8689,6 +8717,10 @@
   {
    "date": "2026-11-16 00:43",
    "total": 1046
+  },
+  {
+   "date": "2026-11-16 00:44",
+   "total": 1050
   }
  ],
  "next_week_ideas": [
