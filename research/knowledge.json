@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:47:55+05:30",
- "runs": 292,
+ "updated": "2026-11-16T03:49:07+05:30",
+ "runs": 293,
  "branches": [
   {
    "id": "platforms",
@@ -4101,6 +4101,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 285
+    },
+    {
+     "t": "To stop Suno adding choirs, crowds and backing voices, a Sep 2026 guide says to describe the target first ('one clear lead singer, centred'), make the chorus bigger with drums, bass and synths instead of voices, put choir, crowd vocals, gang vocals and harmonies in the Exclude field, avoid style words like anthemic, stadium or singalong, and fix a single bad section with Replace Section.",
+     "src": "Jack Righteous Suno guide, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 293
+    },
+    {
+     "t": "Hit Songs Deconstructed's 2025 staying power report found top 10 songs that lasted 10+ weeks were shorter (3:17 vs 3:29, 45% under three minutes), had shorter intros (about 11 vs 17 seconds) and far more often used a pre chorus (73% vs 40%), which backs short intros and a small build before each Bro Bros chorus.",
+     "src": "Hit Songs Deconstructed, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 293
+    },
+    {
+     "t": "The same report found retro influences nearly twice as common among long running hits, with the 1980s the most borrowed decade, so an 80s synth pop flavour in a few Suno songs can appeal to parents who co watch while staying fresh for kids.",
+     "src": "Hit Songs Deconstructed, Mar 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 293
     }
    ]
   },
@@ -8836,7 +8857,7 @@
   "Every lyric line has an action kids can copy (Total Physical Response): clap, jump, wiggle, freeze, stomp, with big quiet and loud contrasts (tiptoe, then jump, then a sudden stop) because toddlers move to changes in energy, not to the beat.",
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
   "A tiny story that is easy to follow (one problem, one fix, one clear lesson such as kindness or a healthy habit) with one tempo change kids can act out, ending in a happy payoff; show people and places from many cultures.",
-  "A bright, young sounding lead voice (in Suno ask for 'bright youthful vocals' rather than 'children's choir', which often comes out uncanny); characters look into the camera and talk to the viewer, with spoken lines in their own [Spoken] section; master every song to about -14 LUFS with -1 dBTP peaks.",
+  "A bright, young sounding lead voice (in Suno ask for 'bright youthful vocals' rather than 'children's choir', which often comes out uncanny; start the Style field with 'one clear lead singer', put the chorus lift into drums and synths instead of extra voices, and list choir, crowd and gang vocals in Exclude); characters look into the camera and talk to the viewer, with spoken lines in their own [Spoken] section; master every song to about -14 LUFS with -1 dBTP peaks.",
   "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist and a learning tag in the title.",
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele); reach the chorus by about 0:15, because our long songs hold viewers only about 20 seconds on average.",
   "Camera and motion: calm cuts every 3 to 6 s, lead Bro centred and big, gentle constant background motion (drifting clouds, bubbles, stars) that matches the song, bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
@@ -8853,11 +8874,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 213): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:51",
-   "note": "Run 214 (TRENDS (trending kid animals: highland cow rising, capybara and axolotl peaking)): Toy Fair 2026 chatter names the shaggy highland cow as the next 'it' plush animal while capybaras and axolotls peak, following llamas and owls before them; capybaras were the holiday 'it' animal of late 2024. Our dancing animal friends format now uses these animals in original designs. Total 940."
+   "note": "Earlier runs summarised (up to Run 214): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:52",
@@ -9170,6 +9187,10 @@
   {
    "date": "2026-11-16 03:47",
    "note": "Run 292 (TRENDS (pet does human things, growth stages montage, wordless twist gag, one take living room dance)): ppl.studio's weekly TikTok board (Nov 2026) lists a 'pet doing human things' format used by 41 creators, a one take living room friends' dance whose top post has 50.2M views, rising 6 second crop growth stage montages and 18 second wordless 'wait for the twist' gags. All are kid safe and wordless enough to travel; two joined the trend bank. Total 1251."
+  },
+  {
+   "date": "2026-11-16 03:49",
+   "note": "Run 293 (music craft (Suno solo vocals, songs with staying power)): A Sept 2026 Suno guide shows how to keep one clear lead voice (describe 'one clear lead singer' first, push the chorus lift into instruments, list choir, crowd, gang vocals and harmonies in Exclude, avoid words like anthemic or singalong in Style, fix single sections with Replace Section). Hit Songs Deconstructed's 2025 staying power report found long running hits are shorter (3:17), open faster (11 second intros), use pre choruses far more (73% vs 40%) and borrow 1980s sounds. Playbook rule on vocals updated. Total 1254."
   }
  ],
  "history": [
@@ -10340,6 +10361,10 @@
   {
    "date": "2026-11-16 03:47",
    "total": 1251
+  },
+  {
+   "date": "2026-11-16 03:49",
+   "total": 1254
   }
  ],
  "next_week_ideas": [
