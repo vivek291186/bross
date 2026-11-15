@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:41:09+05:30",
- "runs": 70,
+ "updated": "2026-11-15T17:41:41+05:30",
+ "runs": 71,
  "branches": [
   {
    "id": "platforms",
@@ -2750,6 +2750,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 60
+    },
+    {
+     "t": "Our most viewed YouTube uploads of 1 to 15 Nov were Lion Needs a Doctor (Jungle Doctors animal story song, 833 views), Light the Diyas (783), Ek Diya Sabke Liye (456), Fruit and Veggie Hoedown (382), Dhol Bajao (356) and Who Took the Cookie (319): a helper or doctor story with an animal and festival songs lead.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 71
+    },
+    {
+     "t": "Our songs clearly beat our cartoon episodes: songs published 1 to 11 Nov averaged roughly 300 views each while the Bro Bros Fun episodes (Ep 12 to 18) got only 10 to 115, so the song format is what YouTube recommends for us.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 71
+    },
+    {
+     "t": "Average view duration on our long songs is only about 16 to 24 seconds (Lion Needs a Doctor about 18 s), so most viewers leave in the first verse; the opening 20 seconds (hook, chorus early, a question to the child) is our biggest fix.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 71
+    },
+    {
+     "t": "Each of our Shorts got 0 to 30 views (best: Diwali Time Light the Diyas, 30) while the matching long song got 50 to 800, so our Shorts are still not entering the Shorts feed; they need a stronger first second and a chorus cut, not more volume.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 71
+    },
+    {
+     "t": "Metricool lists no YouTube uploads published after 11 Nov 2026 (the last was Blast Off Space Bus with 2 views), so either posting paused or syncing lags; the 14 a week schedule should be checked.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 71
     }
    ]
   }
@@ -3054,6 +3089,10 @@
   {
    "date": "2026-11-15 17:41",
    "note": "Run 70 (rules, safety and monetisation (YouTube Kids gate, AI labels)): Team YouTube's April 2026 FAQ: automated filters check every thumbnail, title and video for YouTube Kids, and product packaging, purchase urging and paid placements keep a video out. For animated AI content the disclosure label sits only in the expanded description and does not change recommendations. Kids videos are monetised only about 32% of the time but get about a 22% Q4 lift. Total 384."
+  },
+  {
+   "date": "2026-11-15 17:41",
+   "note": "Run 71 (our own results (YouTube per video, 1 to 15 Nov)): Per video YouTube data for 1 to 15 Nov: top songs were Lion Needs a Doctor (833 views), Light the Diyas (783), Ek Diya Sabke Liye (456), Fruit and Veggie Hoedown (382) and Dhol Bajao (356); songs beat cartoon episodes about 4 to 1; average view duration on long songs is only about 16 to 24 seconds; Shorts got 0 to 30 views each; Metricool shows no new uploads after 11 Nov. Total 389."
   }
  ],
  "history": [
@@ -3336,6 +3375,10 @@
   {
    "date": "2026-11-15 17:41",
    "total": 384
+  },
+  {
+   "date": "2026-11-15 17:41",
+   "total": 389
   }
  ],
  "next_week_ideas": [
