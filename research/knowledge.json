@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:00:13+05:30",
- "runs": 131,
+ "updated": "2026-11-15T20:00:51+05:30",
+ "runs": 132,
  "branches": [
   {
    "id": "platforms",
@@ -3289,6 +3289,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 125
+    },
+    {
+     "t": "Ramadan 2027 is projected to start on Mon 8 Feb 2027 (moon sighting may shift it a day) and Eid al Fitr to fall on 9 or 10 Mar 2027, so a gentle lantern and kindness song for Muslim families should go live in late January and an Eid party song in early March.",
+     "src": "thenationalnews.com, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 132
+    },
+    {
+     "t": "The first fortnight of Feb 2027 stacks three big kids moments in different markets: Lunar New Year (Sat 6 Feb), Brazil's Carnival (about 6 to 9 Feb) and the start of Ramadan (about 8 Feb); planning those songs together in mid January avoids a crunch.",
+     "src": "thenationalnews.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 132
+    },
+    {
+     "t": "Philippine public schools broke for Christmas from 22 Dec to 2 Jan last school year and end their year in late March, with a long dry season break from April to early June, so Filipino kids have the most free viewing time in late December and April to May.",
+     "src": "publicholidays.ph, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 132
     }
    ]
   },
@@ -4369,7 +4390,7 @@
   "Camera and motion: calm cuts every 3 to 6 s, lead Bro centred and big, gentle constant background motion (drifting clouds, bubbles, stars) that matches the song, bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; every week make at least one healthy habit song led by a friendly helper mascot (brush teeth for two minutes, wash hands) and one sharing or taking turns song, the topics behind this autumn's biggest kids breakouts.",
   "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak, a direct action call or a tiny mystery question ('Who took the cookie?'), with motion or text in the first half second; make each Short a new cut with its own hook that loops back to the start; keep music Shorts about 30 to 40 s and set each Short's related video link to its full song.",
-  "Thumbnails: one happy Bro face cropped big (about 40% of the frame height), one clear action, one recognisable object, high contrast with a warm accent on a plain bright background (red and white or blue and orange), max 3 outlined words kept out of the bottom right corner; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
+  "Thumbnails: one or two happy faces cropped big (both Bros, or a Bro with an animal friend; several face layouts beat single faces) (about 40% of the frame height), one clear action, one recognisable object, high contrast with a warm accent on a plain bright background (red and white or blue and orange), max 3 outlined words kept out of the bottom right corner; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Weekly long form: one 20 to 30 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday, with a timestamp chapter per song named in the plain words parents search ('Brush Teeth Song', 'Dinosaur Stomp'); make the 25 Dec and 1 Jan Fridays holiday mega mixes; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels.",
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
@@ -4381,10 +4402,6 @@
   {
    "date": "2026-11-15 17:05",
    "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:05",
-   "note": "Run 53 (music craft (production)): Master songs at about -14 LUFS integrated with -1 dBTP peaks for YouTube, Spotify and Instagram, since louder uploads are just turned down; a separate quieter mix is needed for TV or FAST delivery. Suno guidance: 'children's choir' prompts often give uncanny AI kid vocals, so ask for a bright youthful or warm adult lead; tag spoken lines separately; avoid dark or intense style words; keep songs under about 2:30. Total 317."
   },
   {
    "date": "2026-11-15 17:06",
@@ -4697,6 +4714,10 @@
   {
    "date": "2026-11-15 20:00",
    "note": "Run 131 (visual craft (thumbnail studies)): vidIQ's study of 500 breakout thumbnails (Jun 2026): faces appear in 80% of the top 50 and a face or strong contrast in 92%, but only 5% use exaggerated expressions; 1of10's 300K viral video report found faces alone give little lift while thumbnails with several faces did best, which supports showing both Bros together with calm happy faces. Total 613."
+  },
+  {
+   "date": "2026-11-15 20:00",
+   "note": "Run 132 (topics and seasons (Ramadan 2027, the early February cluster)): Ramadan 2027 is projected to begin on 8 Feb with Eid al Fitr on 9 or 10 Mar, so the first fortnight of February stacks Lunar New Year (6 Feb), Brazil's Carnival (6 to 9 Feb) and the start of Ramadan; songs for all three need to be live by late January. Playbook: thumbnails may show two happy faces, per new thumbnail data. Total 616."
   }
  ],
  "history": [
@@ -5223,6 +5244,10 @@
   {
    "date": "2026-11-15 20:00",
    "total": 613
+  },
+  {
+   "date": "2026-11-15 20:00",
+   "total": 616
   }
  ],
  "next_week_ideas": [
