@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:02:57+05:30",
- "runs": 135,
+ "updated": "2026-11-15T20:03:49+05:30",
+ "runs": 136,
  "branches": [
   {
    "id": "platforms",
@@ -4164,6 +4164,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 130
+    },
+    {
+     "t": "Since mid 2025 Instagram treats adult managed accounts that mainly feature children with strict message settings, Hidden Words comment filtering, and no recommendations to or from potentially suspicious adults (also harder to find in Search); Meta has not said whether animated child characters count, so a small cut in odd adult reach is possible but parents still see us.",
+     "src": "about.fb.com, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 136
+    },
+    {
+     "t": "Instagram teen accounts default to a 13+ content level modelled on film ratings (US, UK, Australia and Canada since Oct 2025, India since 9 Apr 2026), with an even stricter Limited Content option; accounts flagged for age inappropriate posts lose teen followers and reach, so clean, gentle songs keep our Reels open to older siblings.",
+     "src": "ppc.land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 136
+    },
+    {
+     "t": "Because children under 13 cannot hold Instagram accounts, our Instagram audience is parents, carers and teens; captions and Reels should be written to parents (what the song helps with, a question for them) rather than to the child.",
+     "src": "about.fb.com, Jul 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 136
     }
    ]
   },
@@ -4463,12 +4484,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:07",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:08",
-   "note": "Run 57 (competitor deep dive (Pinkfong, CoComelon)): Pinkfong's Baby Shark has led global YouTube views for 71 straight months and launches a sing and dance along Christmas film on 5 Dec with a 15 track album (7 new songs) released in two drops on 10 and 27 Nov, aimed at winter break. CoComelon's Wiggle to Wind Down: 20 minute episodes of gentle wiggles then calm stories, because 45% of US parents call bedtime a top daily struggle. Total 332."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:08",
@@ -4781,6 +4798,10 @@
   {
    "date": "2026-11-15 20:02",
    "note": "Run 135 (other platforms (Roblox concerts and time spent)): Bruno Mars' avatar concert inside the Roblox game Steal a Brainrot (17 Jan 2026) drew 12.86M concurrent players, a world record, and a limited collectible character tied to it was grabbed 5.4M times. Gamefam reports Roblox passed 151M daily users in 2025 and young users spend about 2.7 hours a day there, more than on TikTok or YouTube. Total 625."
+  },
+  {
+   "date": "2026-11-15 20:03",
+   "note": "Run 136 (rules and safety on Instagram (child featuring accounts, teen content ratings)): Instagram puts adult managed accounts that mainly feature children into strict DM settings, filters comments, and stops recommending them to potentially suspicious adults; it is unclear whether cartoon child characters trigger this. Teen accounts default to a 13+ content level (US, UK, Australia, Canada since Oct 2025, India since Apr 2026), so our gentle songs are safe for older siblings' feeds. Total 628."
   }
  ],
  "history": [
@@ -5323,6 +5344,10 @@
   {
    "date": "2026-11-15 20:02",
    "total": 625
+  },
+  {
+   "date": "2026-11-15 20:03",
+   "total": 628
   }
  ],
  "next_week_ideas": [
