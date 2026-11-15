@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:36:26+05:30",
- "runs": 169,
+ "updated": "2026-11-15T21:37:51+05:30",
+ "runs": 170,
  "branches": [
   {
    "id": "platforms",
@@ -790,6 +790,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 160
+    },
+    {
+     "t": "Instagram is showing some creators a blue magnifier and sparkle label on Reels that reveals how its AI categorised the post (sometimes wrongly), so after posting we can check that each Bro Bros Reel is read as kids music or kids dance and fix the caption if not.",
+     "src": "socialmediaexaminer.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 170
+    },
+    {
+     "t": "Instagram's Your Algorithm topic search works only at a broad level and narrow topics often return nothing, so Reel captions should state broad, common topics (kids songs, dance for kids, nursery rhymes) rather than niche labels.",
+     "src": "socialmediaexaminer.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 170
     }
    ]
   },
@@ -1546,6 +1560,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 169
+    },
+    {
+     "t": "Google said at Made on YouTube (23 Sep 2026) that over 300M users engage with text Posts daily and the Shorts feed will begin recommending Posts, so a simple community post (a poll on which brother wins the dance off, or tomorrow's song reveal) can now reach Shorts viewers too.",
+     "src": "9to5google.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 170
     }
    ]
   },
@@ -5311,11 +5332,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 27 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:56",
-   "note": "Run 91 (global markets (Japan and France)): YouTube Japan's Silver Week kids playlist leaned on local brands (a 41 song Bon Bon Academy dance and exercise medley, Anpanman, Shimajiro, Sanrio) beside Bluey Japan and Pokemon Kids TV. A 2026 MEXT survey found heavy video use among sixth graders up 50% in two years. In France live TV is still the main way 7 to 14 year olds watch kids shows, with 4 to 6 year olds moving to subscription streaming. Total 470."
+   "note": "Earlier runs summarised: 28 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:56",
@@ -5628,6 +5645,10 @@
   {
    "date": "2026-11-15 21:36",
    "note": "Run 169 (YouTube algorithm (Shorts originality, subscriber reach, Home feed mix)): Since 1 Oct 2026 YouTube cuts Shorts reach at channel level for re uploaded material and says template or minor edits do not count as original. Todd Beaupre: subscribers click about 10% or less of uploads they see and some videos find most of their audience a month later, so each song must win new viewers on its own and we should not judge songs in the first days. Total 746."
+  },
+  {
+   "date": "2026-11-15 21:37",
+   "note": "Run 170 (Shorts and Reels (feed signals, AI topic labels)): Most Reels signals were already in the tree. New: some Reels now show a blue AI label revealing how Instagram categorised the post, the Shorts feed will start recommending text Posts (300M daily users engage with Posts), and Instagram's Your Algorithm topic search only works at broad level, so captions should name broad topics like kids songs. Total 749."
   }
  ],
  "history": [
@@ -6306,6 +6327,10 @@
   {
    "date": "2026-11-15 21:36",
    "total": 746
+  },
+  {
+   "date": "2026-11-15 21:37",
+   "total": 749
   }
  ],
  "next_week_ideas": [
