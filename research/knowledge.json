@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:48:10+05:30",
- "runs": 30,
+ "updated": "2026-11-15T16:48:42+05:30",
+ "runs": 31,
  "branches": [
   {
    "id": "platforms",
@@ -1259,6 +1259,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 28
+    },
+    {
+     "t": "UN World Children's Day is Friday 20 Nov 2026 (India's Children's Day was 14 Nov); a song about kids everywhere playing, sharing and being friends fits the week and travels across countries.",
+     "src": "UN calendar, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 31
+    },
+    {
+     "t": "Christmas Day 2026 falls on a Friday, giving most families a three day weekend; our weekly Friday compilation should be a holiday mega mix that day and on New Year's Day (also a Friday).",
+     "src": "WhenOff, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 31
+    },
+    {
+     "t": "Playful December days to hook songs on: International Mountain Day (11 Dec), Wright Brothers Day (17 Dec, a flying plane song), Ugly Christmas Sweater Day (18 Dec, a silly sweater dance) and Cut Out Snowflakes Day (27 Dec, a craft along song).",
+     "src": "Childhood101, Dec 2026 calendar",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 31
+    },
+    {
+     "t": "Bodhi Day (8 Dec, Buddhist) and Iceland's Christmas Eve book flood tradition (24 Dec, gifting books and reading) are gentle, low competition themes for a calm reading or kindness song.",
+     "src": "Childhood101, Dec 2026 calendar",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 31
     }
    ]
   },
@@ -1767,6 +1795,10 @@
   {
    "date": "2026-11-15 16:48",
    "note": "Run 30 (visual craft): vidIQ's July 2026 study of 500 breakout thumbnails: faces in 80% of the top 50, face or strong contrast in 92%, extreme expressions in only 6%; Animaj's new preschool series Ozzy Fox builds every episode on one original song that turns a routine into a mission and hit 1.5M views in under 5 days. Total 223."
+  },
+  {
+   "date": "2026-11-15 16:48",
+   "note": "Run 31 (topics and seasons): Next dates: UN World Children's Day on 20 Nov; Christmas 2026 is a Friday, so our Friday compilation lands on Christmas Day; fun December hooks are Ugly Christmas Sweater Day (18 Dec), Wright Brothers Day (17 Dec, planes), International Mountain Day (11 Dec) and Cut Out Snowflakes Day (27 Dec). Total 227."
   }
  ],
  "history": [
@@ -1889,9 +1921,17 @@
   {
    "date": "2026-11-15 16:48",
    "total": 223
+  },
+  {
+   "date": "2026-11-15 16:48",
+   "total": 227
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Silly Sweater Shimmy",
+   "why": "A holiday neutral winter dance for Ugly Christmas Sweater Day (18 Dec): kids shimmy, spin and show off patterns like stars and snowmen, easy Shorts hook."
+  },
   {
    "title": "Cozy Cocoa Jazz",
    "why": "A soft swing piano winter song (cocoa, mittens, snow at the window) in the style families already stream every November, holiday neutral and good for wind down."
@@ -1943,10 +1983,6 @@
   {
    "title": "Click Click Seatbelt Song",
    "why": "Safety and habit songs drive the fastest growing kids Shorts channel of 2026; a car trip story where the Bro Bros buckle up before every adventure."
-  },
-  {
-   "title": "Choo Choo Train Ride",
-   "why": "Vehicles and a journey through countries of the world; global appeal, speeds up and slows down like a real train."
   }
  ]
 }
