@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:49:17+05:30",
- "runs": 32,
+ "updated": "2026-11-15T16:54:58+05:30",
+ "runs": 33,
  "branches": [
   {
    "id": "platforms",
@@ -685,6 +685,34 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 30
+    },
+    {
+     "t": "Super Simple Songs (47.3M subs) rose from about 490M monthly views in Jan 2026 to about 590M in Oct 2026 while gaining only 100 to 200K subscribers a month: a deep song library keeps compounding views long after upload.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 33
+    },
+    {
+     "t": "Super Simple Songs' all time leaders are puppet led action and counting songs (500 Ducks, 214M; If You're Happy and You Know It Spin Around, 176M; Five Little Speckled Frogs, 164M), and its newest release (5 Nov 2026) is a wash your hands and face routine song with about 900K views in 9 days.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 33
+    },
+    {
+     "t": "A Little Angel channel (about 7.3M subs) posting daily in Oct 2026 got only 7K to 30K views on most play and adventure episodes, while its Brush Your Teeth healthy habit song got 96K, so routine songs beat generic play stories even for a big brand.",
+     "src": "VidAnalyze, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 33
+    },
+    {
+     "t": "On that Little Angel channel the dance Short (Do the Daddy and Jill Dance) drew the most likes of the recent uploads (344 versus under 100 for most long videos), backing family dance moments as Short material.",
+     "src": "VidAnalyze, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 33
     }
    ]
   },
@@ -1831,6 +1859,10 @@
   {
    "date": "2026-11-15 16:49",
    "note": "Run 32 (global markets): Brazil: an Oct 2026 Inflr ranking puts animated music brand Mundo Bita third (14.5M subs, 22.9B views) ahead of far bigger creators, with Turma da Monica also top 5; seven of the top nine have licensed products; Brazilian kids pop (MC Divertida 8.6B plays, Kysha e Mine 1.2B views in a year) grows across YouTube and TikTok. Total 231."
+  },
+  {
+   "date": "2026-11-15 16:54",
+   "note": "Run 33 (competitor deep dive (Super Simple Songs, Little Angel)): Super Simple Songs (47.3M) grew monthly views from about 490M to 590M during 2026 on its back catalogue while adding only 100 to 200K subs a month; its newest upload is a wash your hands and face routine song (about 900K in 9 days). A Little Angel channel posting daily in Oct 2026 got 7K to 30K per video, except a Brush Your Teeth song at 96K. Total 235."
   }
  ],
  "history": [
@@ -1961,6 +1993,10 @@
   {
    "date": "2026-11-15 16:49",
    "total": 231
+  },
+  {
+   "date": "2026-11-15 16:54",
+   "total": 235
   }
  ],
  "next_week_ideas": [
