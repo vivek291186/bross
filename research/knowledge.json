@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:40:57+05:30",
- "runs": 244,
+ "updated": "2026-11-16T01:42:17+05:30",
+ "runs": 245,
  "branches": [
   {
    "id": "platforms",
@@ -3653,6 +3653,34 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 233
+    },
+    {
+     "t": "Children aged 4 to 6 reacted faster on an attention task after slow tempo music than after fast tempo music, with equal accuracy and no change in mood, so a slow, calm song or bridge works best right before a counting or learning moment.",
+     "src": "Bond University study, Attention Perception and Psychophysics",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 245
+    },
+    {
+     "t": "Kidz Bop's lead producer says the team records its kid versions quickly so they release alongside the original hits, and the brand now has about 14B streams and 7.2B video views, showing that being early to a seasonal or cultural moment matters as much as polish.",
+     "src": "Fast Company, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 245
+    },
+    {
+     "t": "Laurie Berkner's 2026 album (her first all original collection in five years) builds interactivity into the songwriting itself, including movement kids can do even when asked to sit still, so each Bro Bros dance song can carry a seated version of its moves for cars and classrooms.",
+     "src": "My Weekly Mixtape, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 245
+    },
+    {
+     "t": "The 2026 Grammy for Best Children's Music Album went to a father and daughter duo (Harold and Aura Valentina Simmons, 'Harmony'), and fellow nominees were story concept albums on history, books and ageing, showing that family duos and themed albums earn respect beyond the toddler market.",
+     "src": "Grammy.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 245
     }
    ]
   },
@@ -7607,11 +7635,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 165): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:07",
-   "note": "Run 166 (algorithm experiments and data (posting times from Metricool's best time model)): Metricool's best time model for our brand (IST, week of 16 Nov) puts YouTube's two daily peaks at exactly 10:00 and 16:00 on weekdays, with 16:00 Wednesday highest, so our 10 AM and 4 PM slots are right; weekend values are about half. Instagram peaks at 10:00 with a second bump at 18:00, so our 4 PM Reels sit in a dip and might do better at 6 PM. Total 736."
+   "note": "Earlier runs summarised (up to Run 166): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:08",
@@ -7924,6 +7948,10 @@
   {
    "date": "2026-11-16 01:40",
    "note": "Run 244 (TRENDS (early holiday audio, before and after drum cut, template dances)): SocialPilot's 31 Oct to 10 Nov chart shows Christmas songs already at peak on Reels (about 5.8M Reels on the top one) for countdown and tree reveal posts, while 'how it started vs how it's going' cuts on a drum hit and one step per beat tutorials are rising. The Scuba dance is a year old and its 'flip the camera' variant is called bullying, so we skip it; AI kitten dances spread mainly as CapCut green screen templates. Total 1073."
+  },
+  {
+   "date": "2026-11-16 01:42",
+   "note": "Run 245 (music craft (slow tempo and attention, fast seasonal release, interactive songwriting)): A study of 4 to 6 year olds found reaction times were faster after slow music than after fast music with no change in mood, which supports a calm song before any learning part. Kidz Bop's songwriter says speed of release next to the original moment is core to its 14B streams, and Laurie Berkner's 2026 album treats interactivity and seated movement as part of writing the song. Total 1077."
   }
  ],
  "history": [
@@ -8902,9 +8930,17 @@
   {
    "date": "2026-11-16 01:40",
    "total": 1073
+  },
+  {
+   "date": "2026-11-16 01:42",
+   "total": 1077
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Wiggle in Your Seat!",
+   "why": "Kids are often told to sit still in cars, classrooms and waiting rooms; a dance song built entirely on seated moves (shoulders, hands, head, feet tapping) follows Laurie Berkner's interactive approach, gives parents a calm screen moment and works as a follow along Short."
+  },
   {
    "title": "Jump, Jump, Happy New Year!",
    "why": "Parents look for early 'fake midnight' countdowns every 31 Dec; a counting song from 10 to 1 with a jump on each number and world New Year actions (12 grapes, seven waves, right foot first) lets toddlers worldwide celebrate before bedtime."
@@ -8916,10 +8952,6 @@
   {
    "title": "It's Way Too Cold Today!",
    "why": "Rhymington Square's 'It's Way Too Hot Today' hit 17M by turning an everyday toddler complaint into a song; a winter twin where the Bros pile on hat, scarf and mittens, shiver, then warm up by dancing fits the northern December and invites a sequel."
-  },
-  {
-   "title": "Santa's Summer Holiday",
-   "why": "Half our audience (Australia, New Zealand, South Africa, Brazil, Argentina) has a hot Christmas; a beach song where Santa swaps his sleigh for a surfboard, builds a sandy snowman and eats pavlova with the Bros gives southern hemisphere kids a Christmas song that looks like theirs."
   },
   {
    "title": "1 Snowman, 100 Snowmen, a Million Snowmen!",
