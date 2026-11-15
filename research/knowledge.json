@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:39:52+05:30",
- "runs": 285,
+ "updated": "2026-11-16T03:41:38+05:30",
+ "runs": 286,
  "branches": [
   {
    "id": "platforms",
@@ -3210,13 +3210,6 @@
      "t": "Pinkfong's new Baby Shark musical (2 Dec 2026 to 28 Mar 2027, Seoul) has no seats: children roam seven themed zones, join missions, hold colour changing microphones and their voices become part of the music, and the story is about recovering a lost rhythm and melody, showing that 'help us fix the song' participation is the brand's next step.",
      "src": "Sports Kyunghyang, Nov 2026",
      "conf": "medium",
-     "date": "2026-11-16",
-     "run": 285
-    },
-    {
-     "t": "Skyship's Super Simple brand turned 20 in Aug 2026 with more than 70M YouTube subscribers and over 90B views, and still describes itself as teachers writing simple songs to help children learn English, which is why parents and teachers worldwide use it for language learning, movement and emotions.",
-     "src": "YouTube Official Blog, Aug 2026",
-     "conf": "high",
      "date": "2026-11-16",
      "run": 285
     }
@@ -8672,6 +8665,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 283
+    },
+    {
+     "t": "Early signs for Christmas 2026 toys (9 Nov) favour nostalgia that parents share with kids: a modern remake of a 1990s giggling plush (about 30 USD), a retro electronic pocket pet with a pop culture crossover (about 15 USD, a likely stocking filler) and limited mini collectible playsets that adults grew up with, so 'toy wakes up and giggles' and 'look after your little pocket pet' stories will match what kids unwrap.",
+     "src": "ConsumerAffairs, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 286
+    },
+    {
+     "t": "Singing fashion dolls from a current entertainment franchise and an animated show playhouse (about 160 USD) are also on the early hot lists, which confirms that December toys are tied to songs and shows kids already watch; our own Bro Bros songs need recognisable melodies before families pick holiday favourites.",
+     "src": "ConsumerAffairs, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 286
+    },
+    {
+     "t": "This week's trend trackers (Later 13 Nov, NewEngen 13 Nov, SocialPilot to 10 Nov, Volume 15 Nov) mostly repeat formats already in our trend bank, and the new holiday audio is all famous copyrighted Christmas songs, so for December we copy formats (reveals, countdowns, trio dances) with our own Suno songs rather than chase any sound.",
+     "src": "Later, NewEngen, SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 286
     }
    ]
   }
@@ -8699,11 +8713,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 206): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:46",
-   "note": "Run 207 (Shorts and Reels (episodic Shorts data, Cocomelon's Instagram is for parents)): YouTube's own data (27 Oct 2026): episodic microdramas passed 6.5B views in H1 2026 with watch time up over 50%, and 40% of episode views came more than 30 days after upload, so a numbered Bro Bros Shorts series keeps earning. Cocomelon's Instagram (790K followers) is a parent humour account with about 214K average Reel plays and only 0.26% likes per follower, a sign Instagram is where we speak to parents. Total 909."
+   "note": "Earlier runs summarised (up to Run 207): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:47",
@@ -9016,6 +9026,10 @@
   {
    "date": "2026-11-16 03:39",
    "note": "Run 285 (competitor deep dive (Pinkfong's Baby Shark Boy and sing along musical, Super Simple at 20)): Pinkfong is ageing its brand up with Baby Shark Boy's K-pop style debut single 'WAVE' (starts with the Baby Shark tune, grows into electropop with trap beats and an easy point dance) and opens an audience participation musical on 2 Dec where kids' voices and moves become part of the show. Super Simple turned 20 in Aug 2026 with over 70M subscribers and 90B views across Skyship's channels, still rooted in teachers writing simple songs for English learners. Total 1229."
+  },
+  {
+   "date": "2026-11-16 03:41",
+   "note": "Run 286 (TRENDS (Christmas 2026 toy wish lists, nostalgia shared by parents and kids)): Social trackers this week repeat formats already in the bank, so this round looked at the gifts kids will unbox on camera: the toys taking off for Christmas 2026 are nostalgic remakes parents remember (a 90s giggling plush, a retro electronic pet at about 15 USD, mini collectible playsets), singing character dolls and big playhouses. Removed one duplicate Super Simple leaf from Run 285 that repeated an older leaf. Total 1231."
   }
  ],
  "history": [
@@ -10158,9 +10172,17 @@
   {
    "date": "2026-11-16 03:39",
    "total": 1229
+  },
+  {
+   "date": "2026-11-16 03:41",
+   "total": 1231
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "My Little Pocket Pet",
+   "why": "Retro electronic pocket pets are a top cheap Christmas toy in 2026 and parents remember them; an original song where the Bros feed, wash and tuck in a beeping pixel pet teaches care routines, needs no brand, and travels worldwide."
+  },
   {
    "title": "Help Us Fix the Song!",
    "why": "Pinkfong's new musical is built on kids helping recover a lost melody; a song where the Bros' music box breaks and viewers clap, stomp and sing each missing part back (with pauses to join in) turns passive watching into play and invites co viewing."
@@ -10212,10 +10234,6 @@
   {
    "title": "Sweep, Sweep, Hello New Year!",
    "why": "Families in Japan (osoji), Scotland (redding the house), China and Iran all clean the home to welcome a new year; a tidy up action song with sweeping, dusting and a big shiny reveal ending in a hand holding circle fits every culture's New Year and helps parents at home."
-  },
-  {
-   "title": "Open the Door, What's Inside? (Advent Dance)",
-   "why": "Advent calendar countdowns run all over TikTok and Reels every December; one door a day with one new move builds a 24 part Shorts series that keeps kids coming back daily and ends in a full family routine on Christmas Eve."
   }
  ],
  "trend_bank": [
