@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:10:25+05:30",
- "runs": 310,
+ "updated": "2026-11-16T04:11:04+05:30",
+ "runs": 311,
  "branches": [
   {
    "id": "platforms",
@@ -7587,6 +7587,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 299
+    },
+    {
+     "t": "Shorts ad pay by viewer country (AIR, per 1,000 views): US about 0.33 USD, UK 0.17, Germany 0.16, France 0.10, Brazil 0.045, Indonesia 0.012 and India 0.008, so a Short watched in the US earns about 40 times one watched in India, which is why English Shorts that reach US and UK homes matter for income.",
+     "src": "Dynamoi (AIR data), May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 311
+    },
+    {
+     "t": "In the Shorts revenue pool, using one licensed track from YouTube's music partners sends 50% of that Short's allocation to music rights holders and two tracks send 67%, before the creator's 45% share; our Shorts use only our own original songs, so none of our allocation is split off for music.",
+     "src": "Dynamoi, May 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 311
+    },
+    {
+     "t": "Since 31 Mar 2025 YouTube counts every Short start as a view but still pays on 'engaged views', so Shorts view counts look bigger than what is paid and RPM figures before and after that date are not comparable.",
+     "src": "Dynamoi, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 311
     }
    ]
   },
@@ -9231,11 +9252,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 231): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:08",
-   "note": "Run 232 (TRENDS (13 Nov TikTok chart: synced duo, magic double, family line dance, kitten parade)): ViralRemix's 13 Nov chart of the 50 trends with the most new TikTok videos per day is mostly family friendly: a synced duo routine is No. 1, with a family line dance, a 'magic double' where a sketch copy of you dances in sync, a kitten parade past the camera, the bicep heart and pet filters. Four joined the trend bank; the bank was rebuilt to 20 and the seasonal Advent and snowflake entries, pushed out by earlier inserts, were restored. Total 1009."
+   "note": "Earlier runs summarised (up to Run 232): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:36",
@@ -9548,13 +9565,13 @@
   {
    "date": "2026-11-16 04:10",
    "note": "Run 310 (TRENDS (Instagram Edits snow effect, snow globe look for December)): Instagram's Edits app added a one tap animated Snow Effect (Restyle, plus rain, fog and golden light overlays) that became one of the biggest creator trends in India within weeks (a Hindi tutorial passed 5.5M views, with Gujarati, Marathi and Kannada creators joining). Snow globe themed drinks went viral again last December, so the snow globe look is a December visual hook we can use kid safe. A snow globe shake format joined the trend bank. Total 1305."
+  },
+  {
+   "date": "2026-11-16 04:11",
+   "note": "Run 311 (monetisation (Shorts pay by country, how music splits the Shorts pool)): AIR's country Shorts RPMs show the spread: about 0.33 USD per 1,000 views in the US, 0.17 in the UK and Germany, 0.10 in France, 0.045 in Brazil, 0.012 in Indonesia and 0.008 in India. In the Shorts pool, one licensed music track sends 50% of a Short's allocation to music partners and two tracks send 67%, so Shorts with our own unlicensed original music keep the full creator share. Total 1308."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:56",
-   "total": 129
-  },
   {
    "date": "2026-11-15 15:57",
    "total": 136
@@ -10750,6 +10767,10 @@
   {
    "date": "2026-11-16 04:10",
    "total": 1305
+  },
+  {
+   "date": "2026-11-16 04:11",
+   "total": 1308
   }
  ],
  "next_week_ideas": [
