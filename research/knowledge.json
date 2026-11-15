@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:06:11+05:30",
- "runs": 272,
+ "updated": "2026-11-16T02:35:53+05:30",
+ "runs": 273,
  "branches": [
   {
    "id": "platforms",
@@ -1070,6 +1070,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 272
+    },
+    {
+     "t": "A brand new BabyBus song gains only about 900 views an hour in its first half day (46K in 13 hours) on a 44M subscriber channel, so even giant kids channels rely on slow building back catalogue views rather than launch day spikes.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 273
     }
    ]
   },
@@ -3100,6 +3107,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 264
+    },
+    {
+     "t": "BabyBus (44.2M subscribers, about 186M views in the last 28 days) has slowed sharply in 2026: about 100K new subscribers a month versus 300K to 700K in 2024, and monthly views fell from about 328M in April to 218M in October 2026.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 273
+    },
+    {
+     "t": "BabyBus's most watched videos are still older evergreen songs (Rainbow Juice colours song from 2022 at 147M views), while its 2025 and 2026 'Sharing is Caring' good habit songs are the clear outliers at 10 to 16 times the channel's normal views, so manners and feelings songs keep pulling new viewers.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 273
+    },
+    {
+     "t": "CoComelon's Portuguese channel posted 48 uploads between 31 Aug and 9 Nov 2026 (29 long videos, median 5:22, and 19 Shorts, median 22 seconds), roughly five uploads a week split about 3 long to 2 Shorts.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 273
+    },
+    {
+     "t": "CoComelon's dubbed channels tag brand new songs with a star and the word NEW at the start of the title and still publish 30 minute holiday compilations, and their best recent long uploads are simple action or routine songs (a rain go away song at 4.7M, a car wash song at 2.4M).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 273
     }
    ]
   },
@@ -4689,6 +4724,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 258
+    },
+    {
+     "t": "CoComelon's recent Shorts are 11 to 25 second 'where is the hidden character? find him!' and 'where is the teddy?' seek games, a cheap interactive Short format we can copy with Little Bro hiding behind props while kids shout where he is.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 273
     }
    ]
   },
@@ -8307,11 +8349,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 193): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:51",
-   "note": "Run 194 (other platforms (Spotify managed accounts for kids)): Netflix and Roblox findings were already in the tree, so this round found Spotify's managed accounts for children 13 and under, which reached the free tier and about 36 countries in July 2026: kids get their own Made For You mixes, daylist and their own Wrapped, while video and Canvas loops are off by default. Total 847."
+   "note": "Earlier runs summarised (up to Run 194): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:52",
@@ -8624,6 +8662,10 @@
   {
    "date": "2026-11-16 02:06",
    "note": "Run 272 (other platforms (Amazon Kids+ in Italy, iTunes kids chart recheck)): Amazon Kids+ launched in Italy on 19 Oct 2026 for ages 3 to 12 (about 7 to 8 euros a month, ad free, with originals, games and audiobooks), one more ad free subscription home for kids video in Europe. The iTunes kids chart this week still shows only one holiday song in its top 20, so the holiday wave on kids charts has not started yet. Total 1173."
+  },
+  {
+   "date": "2026-11-16 02:35",
+   "note": "Run 273 (competitor deep dive (BabyBus slowdown, CoComelon Portuguese upload mix)): vidIQ's 13 Nov snapshot shows BabyBus (44.2M subs) growing only about 100K a month in 2026 with monthly views falling from about 328M in April to 218M in October, while old evergreen songs (Rainbow Juice, Sharing is Caring) still lead. CoComelon's Portuguese channel mixes about 3 long videos to 2 Shorts, keeps Shorts near 20 seconds as 'find the hidden character' games, and marks new songs with a star NEW tag. Total 1179."
   }
  ],
  "history": [
@@ -9714,9 +9756,17 @@
   {
    "date": "2026-11-16 02:06",
    "total": 1173
+  },
+  {
+   "date": "2026-11-16 02:35",
+   "total": 1179
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Where's Little Bro? (Hide and Seek Song)",
+   "why": "CoComelon's 11 to 25 second 'find the hidden character' Shorts are a repeatable interactive format; each verse he hides behind a new prop (tree, box, snowman) and kids shout the answer, works without words in any country."
+  },
   {
    "title": "Say It Together! (The Same Word Game Song)",
    "why": "A rising November 2026 TikTok game has two people name things in a category until they say the same word, running a lap after each miss; as a Bro Bros song it teaches categories (fruits, animals, colours), keeps kids guessing and gives an easy run in place dance."
@@ -9768,10 +9818,6 @@
   {
    "title": "No Monsters Here, Goodnight!",
    "why": "A calming song about checking under the bed and finding only a teddy is one of Little Angel's biggest hits; an original gentle Bro Bros version with a torch, a sleepy pet and a slow 60 to 70 BPM lullaby ending helps parents at bedtime worldwide."
-  },
-  {
-   "title": "Uno, Dos, Tres, Jump With Me!",
-   "why": "Bilingual Spanish English songs (123 Andres nearly doubled its monthly views to about 800M this autumn) reach US Latino families and Latin America at once; an original counting jump song that switches languages each chorus suits both."
   }
  ],
  "trend_bank": [
