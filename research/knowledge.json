@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:39:08+05:30",
- "runs": 147,
+ "updated": "2026-11-15T20:40:08+05:30",
+ "runs": 148,
  "branches": [
   {
    "id": "platforms",
@@ -734,6 +734,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 147
+    },
+    {
+     "t": "Spotify's kids genre popularity list (Nov 2026) has 5 sleep tracks in its top 20: a Swedish animal lullaby (77), German baby white noise with ocean sounds (76) and three 'Relaxing Music For Kids' bedtime pieces, so on audio services calm sleep songs earn as much attention as movie hits.",
+     "src": "soundcharts.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 148
+    },
+    {
+     "t": "Preschool songs in Spotify's kids top 20 are Ms Rachel's Hop Little Bunnies and I'm So Happy, Plim Plim's Spanish La Lechuza and Estrellita and a Brazilian Portuguese Twinkle Twinkle, so local language versions of simple songs compete with English ones on audio too.",
+     "src": "soundcharts.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 148
     }
    ]
   },
@@ -2050,6 +2064,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 145
+    },
+    {
+     "t": "Disney bought Gracie's Corner, a family made YouTube sing along brand (6.3M subscribers, nearly 10B views) with original songs like a Good Morning Song, Veggie Dance and Play Outside, as a library of 120+ shorts and 18 themed compilations for Disney+ and Disney Jr. from 15 Jun 2026, with new originals to follow.",
+     "src": "press.disneyplus.com, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 148
+    },
+    {
+     "t": "Disney Jr. itself makes short stop motion sing along music videos for each holiday (Mickey and Minnie's Holiday Songs: Halloween, then Christmas), so seasonal short sing along clips are a format even the biggest studio uses for preschoolers.",
+     "src": "thewaltdisneycompany.com, Aug 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 148
     }
    ]
   },
@@ -2575,6 +2603,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 145
+    },
+    {
+     "t": "A girl group song tied to a toy brand (Monster High with KATSEYE) and spooky novelty tracks (Spooky Scary Skeletons, The Addams Family) sit high on Spotify's kids list after Halloween, showing kids keep playing seasonal fun songs for weeks after the holiday.",
+     "src": "soundcharts.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 148
     }
    ]
   },
@@ -4751,11 +4786,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 5 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:40",
-   "note": "Run 69 (algorithm experiments and data (localised networks, Q4 pushes)): AIR case: a kids network in English, French, Spanish, Hindi and Brazilian Portuguese grew views from 24M to 299M in Q4 2025 after quality audits, more holiday posting and a Shorts push; the Portuguese channel alone went from 13.5M to 278.6M and Shorts feed traffic rose from 7% to 82%, while revenue grew less than views. Azooz and Jude grew revenue 140% with a gap free schedule, 4K, consistent titles and compilations. Total 381."
+   "note": "Earlier runs summarised: 6 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:41",
@@ -5068,6 +5099,10 @@
   {
    "date": "2026-11-15 20:39",
    "note": "Run 147 (Shorts and Reels trends (Gen Alpha words, Shorts mix data)): Reels sound lists were already covered. New: Metricool's 800K video study shows Shorts views grew 127% against 76% for long videos and Shorts now drive 61% of organic views, and channels posting about 5 Shorts a month saw twice the long video views of channels with none, a lift that vanished at 35+ a month (we post far more). Gen Alpha's '6 7' shout and 2026 slang are popular but come from adult corners of the internet, so we skip them and keep our own shoutable hooks. Total 666."
+  },
+  {
+   "date": "2026-11-15 20:40",
+   "note": "Run 148 (other platforms (Spotify kids popularity, Disney buying YouTube songs)): Spotify's kids genre popularity list is a mix of movie songs, sleep audio (a Swedish animal lullaby, German baby white noise, two 'Relaxing Music For Kids' bedtime tracks) and preschool hits (Ms Rachel, Plim Plim, a Brazilian Twinkle Twinkle). Disney bought YouTube sing along brand Gracie's Corner (6.3M subs, about 10B views) as 120+ shorts plus 18 themed compilations. Total 671."
   }
  ],
  "history": [
@@ -5658,13 +5693,13 @@
   {
    "date": "2026-11-15 20:39",
    "total": 666
+  },
+  {
+   "date": "2026-11-15 20:40",
+   "total": 671
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Zoomy's Christmas Surprise",
-   "why": "Dog plus Christmas stories topped Netflix family viewing in early November; a gentle story song where our pet friend helps wrap gifts fits holiday search demand."
-  },
   {
    "title": "Do the Zoomy Zoom!",
    "why": "A signature dance named after our recurring pet friend, like Pokemon Kids TV's single character dance hits; one move per line, easy to copy in Shorts."
@@ -5716,6 +5751,10 @@
   {
    "title": "Guess Our Costume, Bro!",
    "why": "Guess the costume sing alongs (Pinkfong x Dr Seuss, Oct 2026) make kids answer the screen; the brothers hide behind a curtain and reveal a winter costume each chorus, reusable for any season."
+  },
+  {
+   "title": "Good Morning, Sunshine Bros!",
+   "why": "Daily routine songs (Gracie's Corner's Good Morning Song, Ms Rachel) are what buyers and parents replay; a bright wake up and stretch song for every morning in every country."
   }
  ]
 }
