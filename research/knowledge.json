@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:59:20+05:30",
- "runs": 298,
+ "updated": "2026-11-16T04:00:29+05:30",
+ "runs": 299,
  "branches": [
   {
    "id": "platforms",
@@ -7419,6 +7419,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 287
+    },
+    {
+     "t": "The House passed KIDS Act (H.R. 7757, 29 Jun 2026) bundles 14 proposals: it would extend children's privacy protection to teens, ban targeted ads to minors, make the most protective settings the default and restrict autoplay, push notifications and infinite scroll for minors; if it became law, autoplay chains would weaken and each Bro Bros video would need to earn its own click from Home and Search.",
+     "src": "Crowell, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 299
+    },
+    {
+     "t": "The KIDS Act drops KOSA's duty of care, and Senate KOSA sponsor Richard Blumenthal called the House version dead in the Senate, so no new US federal kids online law is likely before 2027 and the current COPPA rules remain the ones we follow.",
+     "src": "Crowell, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 299
+    },
+    {
+     "t": "Texas's App Store Accountability Act has been enforceable since 28 May 2026 while its appeal runs (the Fifth Circuit let it stand on 5 Jun), while Utah's deadline moved to 6 May 2027 and Louisiana's to 1 Jul 2027; app stores pass apps age bands (under 13, 13 to 15, 16 to 17, 18+) and parental consent signals, so more US children will reach YouTube through supervised and kids profiles.",
+     "src": "Wiley, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 299
     }
    ]
   },
@@ -8979,11 +9000,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 219): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:57",
-   "note": "Run 220 (TRENDS (New Year coming: early countdown videos for kids, world New Year actions)): Every 31 December families play 'fake midnight' countdown videos so little kids can celebrate before bedtime; parents want music, no mid video pop ups and a non scary ending. World New Year actions kids can copy (Spain's 12 grapes on the chimes, Brazil's seven wave jumps in white, US right foot first, Philippines polka dots and round fruit, Colombia's potato under the bed) make a perfect action song. The early countdown joined the trend bank and the faded baby dance left. Total 963."
+   "note": "Earlier runs summarised (up to Run 220): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:58",
@@ -9296,6 +9313,10 @@
   {
    "date": "2026-11-16 03:59",
    "note": "Run 298 (TRENDS (December calendar hooks: GivingTuesday, treat days, sweater day, inclusion day)): GivingTuesday falls on Tue 1 Dec 2026 and runs in more than 110 countries (US 2025: 38.1M people, 13.5M donated goods), a ready hook for a sharing and kindness Short. Other kid friendly December hooks: International Day of Persons with Disabilities (3 Dec), International Volunteer Day (5 Dec), Brownie Day (8 Dec), Gingerbread House Day (12 Dec) and US Ugly Christmas Sweater Day (18 Dec). A kindness chain format joined the trend bank. Total 1269."
+  },
+  {
+   "date": "2026-11-16 04:00",
+   "note": "Run 299 (rules (US KIDS Act contents, state app store age laws)): The House passed KIDS Act (H.R. 7757, 29 Jun 2026) would extend privacy protection to teens, ban targeted ads to minors, require the most protective default settings and limit autoplay, push notifications and infinite scroll, but the Senate sponsor of KOSA calls it dead there. Texas's app store age law has been enforced since 28 May 2026 during appeal; Utah's deadline moved to 6 May 2027 and Louisiana's to 1 Jul 2027, with stores passing age bands (under 13, 13 to 15, 16 to 17, 18+) to apps. Total 1272."
   }
  ],
  "history": [
@@ -10490,6 +10511,10 @@
   {
    "date": "2026-11-16 03:59",
    "total": 1269
+  },
+  {
+   "date": "2026-11-16 04:00",
+   "total": 1272
   }
  ],
  "next_week_ideas": [
