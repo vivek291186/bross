@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:54:34+05:30",
- "runs": 89,
+ "updated": "2026-11-15T18:55:16+05:30",
+ "runs": 90,
  "branches": [
   {
    "id": "platforms",
@@ -2470,6 +2470,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 78
+    },
+    {
+     "t": "Brazil's 2026 school year ends on 18 Dec for the Sao Paulo state and Parana networks and 21 to 23 Dec elsewhere, and classes restarted only in early February this year (Parana 5 Feb, Federal District 12 Feb), so Portuguese summer, beach and holiday songs have about seven weeks of kids at home.",
+     "src": "Quero Bolsa, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 90
+    },
+    {
+     "t": "In Brazil December is high summer and the school holiday, so Christmas songs there should show sun, beaches, fruit and fans rather than snow; a summer variant of each winter song fits the Portuguese audio track.",
+     "src": "Quero Bolsa, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 90
+    },
+    {
+     "t": "Indonesia's year end school break last year ran from about 22 Dec to 3 Jan in most provinces (Jakarta, Bali, Banten, Central Java) and 29 Dec to 10 Jan in West Java, the most populous province, so Bahasa Indonesia songs should land around 20 Dec and keep going into the second week of January.",
+     "src": "Detik, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 90
     }
    ]
   },
@@ -3340,10 +3361,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 15:56",
-   "note": "Run 11 (rules, safety, monetisation): AI labels: AI generated music must be disclosed (detection does not catch soundtracks) while clearly animated visuals do not need a label; inauthentic content rules demonetise template driven repetition; COPPA amendments took effect 22 Apr 2026 with per video audience labels (Disney paid 10M USD); Suno music needs a paid plan for monetisation and fully AI songs get no copyright. Total 129."
-  },
-  {
    "date": "2026-11-15 15:57",
    "note": "Run 12 (our own results): First real Metricool read for 1 to 15 Nov: about 2,140 YouTube subs and 450 to 1,400 daily views; story problem songs and Diwali songs led; average view duration only about 15 to 25 s; YouTube Shorts nearly unseen while Reels get 50 to 125 views; Reels lose 58 to 90% of viewers in the first 3 s. Total 136."
   },
@@ -3654,6 +3671,10 @@
   {
    "date": "2026-11-15 18:54",
    "note": "Run 89 (visual craft (character acting, snowy worlds, December thumbnails)): Animaj keeps Ozzy Fox on model with turnaround and expression sheets and shows feelings with small pre line gestures; CBeebies' Piripenguins mixes 2D faces with CG bodies and worked to keep an all ice world from looking flat. December thumbnail advice: one template family for the month, cut out subjects with a soft glow, three or four words at most. Total 464."
+  },
+  {
+   "date": "2026-11-15 18:55",
+   "note": "Run 90 (topics and seasons (Brazil and Indonesia school breaks)): Brazil's state schools finish on 18 Dec (Sao Paulo, Parana) to 23 Dec and the summer break runs into early February, so Portuguese summer and beach songs have a long home audience. Indonesian provinces broke from about 22 Dec to 3 Jan last year (West Java 29 Dec to 10 Jan), the week for Bahasa holiday songs. Total 467."
   }
  ],
  "history": [
@@ -4012,6 +4033,10 @@
   {
    "date": "2026-11-15 18:54",
    "total": 464
+  },
+  {
+   "date": "2026-11-15 18:55",
+   "total": 467
   }
  ],
  "next_week_ideas": [
