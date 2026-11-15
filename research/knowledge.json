@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:36:45+05:30",
- "runs": 282,
+ "updated": "2026-11-16T03:38:14+05:30",
+ "runs": 283,
  "branches": [
   {
    "id": "platforms",
@@ -8581,6 +8581,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 280
+    },
+    {
+     "t": "Volume's daily niche tracker (15 Nov 2026) says the strongest family and pets format this week opens with a half to two second flash of the finished result and then cuts back to the start, which gave 18 accounts a median of 20 times their usual views, so a Short can open on the final dance pose or finished snowman before the song starts.",
+     "src": "tryvolume.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 283
+    },
+    {
+     "t": "The same tracker's lead comedy and creative format is an 'Every [role] when...' in joke caption, a kid safe frame we can turn into 'Every big brother when...' or 'Every little brother when...' skits with a Bro reaction on our own beat.",
+     "src": "tryvolume.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 283
+    },
+    {
+     "t": "The 'last uppy' trend, where parents lift their tweens and teens for one final carry hug, began with one father's post in late 2025, has hundreds of thousands of TikTok posts and is still being written about in Nov 2026, so a gentle growing up moment where Big Bro gives Little Bro one more carry fits warm year end and New Year content.",
+     "src": "Today's Parent, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 283
+    },
+    {
+     "t": "NewEngen's 13 Nov 2026 TikTok list still features the chipmunk voiced trio dance (three people doing quick jumps, kicks, spins and hair flips to a sped up 80s song), showing the trio format is holding into its second week.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 283
+    },
+    {
+     "t": "On 1 Nov 2026 the top US trending video was a Halloween songs playlist, 6 of the top 20 trending videos were less than 24 hours old, and analysts single out seasonal, mood based music playlists because families leave them running, which supports posting our Christmas and winter compilations by late November.",
+     "src": "mean.ceo (YouTube trends), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 283
     }
    ]
   }
@@ -8608,11 +8643,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 203): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:43",
-   "note": "Run 204 (YouTube and Reels algorithm check (YouTube top 50 and algorithm already covered this week, so switched to gaps: localised thumbnails, Reels reach rates, Meta's global 13+ setting)): Tubefilter's 8 Nov chart and YouTube's Aug to Nov changes were already in the tree, so this round filled gaps: long videos can now show a different thumbnail per viewer language (Aug 2026), Reels reach about 31% of followers and Explore about 38%, and Meta took its 13+ teen content setting global in June 2026 (India since April), which does not touch clean family content. November 2026 has no new YouTube ranking change so far. Total 895."
+   "note": "Earlier runs summarised (up to Run 204): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:44",
@@ -8925,6 +8956,10 @@
   {
    "date": "2026-11-16 03:36",
    "note": "Run 282 (visual craft (cut rate heuristic, handmade toon shading, Disney kid testing)): Parent facing guides now tell parents that more than 10 camera cuts a minute marks a show as 'high stim' (a rule of thumb, not a study), so our long songs should stay under that. Blender Studio's Wing It shading recipe (simple blob shadows, noisy rim light animated on twos, paper texture) is a free route to the handmade look buyers prefer. Disney Jr. tests stories with children and grows hits like SuperKitties with specials, shorts and long episodes together. Total 1216."
+  },
+  {
+   "date": "2026-11-16 03:38",
+   "note": "Run 283 (TRENDS (result first flash, last uppy, chipmunk trio, every big brother when)): Volume's 15 Nov niche tracker says the top family format this week flashes the finished result in the first second before showing the steps (median 20 times normal views for 18 accounts), and 'Every [role] when...' in joke captions lead creative comedy. The 'last uppy' hug trend (parents lifting their big kids one last time) is still drawing posts a year on, and NewEngen's 13 Nov list keeps the chipmunk voiced trio dance. Three formats joined the trend bank. Total 1221."
   }
  ],
  "history": [
@@ -10055,6 +10090,10 @@
   {
    "date": "2026-11-16 03:36",
    "total": 1216
+  },
+  {
+   "date": "2026-11-16 03:38",
+   "total": 1221
   }
  ],
  "next_week_ideas": [
@@ -10116,6 +10155,24 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Chipmunk trio dance",
+   "where": "TikTok (sped up squeaky 80s song, groups of three, NewEngen 13 Nov 2026)",
+   "status": "peak",
+   "use": "Big Bro, Little Bro and a friend in a row do our own Suno chorus pitched up for squeaky voices: two small hops in place, a front kick with the right foot, a front kick with the left foot, a quick spin on the spot, then a silly head shake. Meshy prompt: standing in place, hop twice, kick right foot forward, kick left foot forward, turn around once on the spot, shake head side to side."
+  },
+  {
+   "name": "Last uppy carry",
+   "where": "TikTok (parents lifting big kids for one last carry, viral since late 2025, still active Nov 2026)",
+   "status": "evergreen",
+   "use": "Warm 15 second Reel to our own soft lullaby style chorus: Little Bro raises both arms asking to be carried, Big Bro pretends he is too big now, then smiles and gives him a lift and a slow side to side sway, ending on a hug and caption 'One more uppy'. Meshy prompt for each Bro: standing in place, raise both arms high, then gently sway the body left and right while hugging."
+  },
+  {
+   "name": "Result first flash",
+   "where": "TikTok, Reels and Shorts family niche (Volume tracker 15 Nov 2026, 20 times median views)",
+   "status": "rising",
+   "use": "Open every Short with a 1 second flash of the ending: both Bros frozen in the song's final big pose (arms up in a V, big smiles) or the finished snowman, then a quick rewind whoosh to the first beat of our own song and play it through. The loop back to the start makes viewers watch twice."
+  },
   {
    "name": "Catchphrase on the beat",
    "where": "TikTok ('signature line' trend, Dec 2025, likely back this December)",
@@ -10217,24 +10274,6 @@
    "where": "YouTube and Netflix every 31 Dec (families play 'fake midnight' countdowns so little kids can celebrate before bedtime)",
    "status": "seasonal",
    "use": "Post by 29 Dec a 'Bro Bros New Year Countdown for Kids' (3 to 5 minutes): a short dance warm up, then a big 10 to 1 count with the Bros jumping on each number, confetti and a 'Happy New Year 2027!' cheer with no scary bangs and a calm goodbye; plus a 60 second Short. Families can start it at any time."
-  },
-  {
-   "name": "Toy soldier march",
-   "where": "Holiday decor and Reels every December ('nutcrackercore' decor trend, candy striped soldiers and ballet pieces)",
-   "status": "seasonal",
-   "use": "The Bros dress as our own original toy soldiers (not the ballet's characters) and do a stiff wooden march to our own marching song, then a ballerina twirl when the music box tune plays. Meshy steps: standing, march in place with knees up and straight arms swinging, salute, then rise on tiptoes and twirl once with arms in a circle above the head."
-  },
-  {
-   "name": "Stuck inside the screen",
-   "where": "TikTok, Instagram and YouTube every December (parents play an 'elf stuck in the TV' video before kids wake up; 10 hour versions on YouTube)",
-   "status": "seasonal",
-   "use": "Our own original helper elf (not the branded one) or Little Bro appears 'stuck inside the TV', taps on the glass and asks kids to help him out by singing and doing three moves (clap, jump, spin) with our own song; at the end he pops out. Make a short version for Shorts and a long calm loop for the living room TV in December."
-  },
-  {
-   "name": "Mystery box reveal",
-   "where": "Blind box toys and unboxing (top holiday 2026 toy trend)",
-   "status": "rising",
-   "use": "A brother shakes a wrapped mystery box, the other counts 3, 2, 1, the lid pops on the beat and out comes a new dance move, friend or winter prop; each box is one verse of our own song. Original items only, never branded toys. Holiday 2026 toy lists add hatching eggs (a shark egg that hatches in water) and add water surprise plush jars, so one variation is a giant egg that wobbles, cracks on the beat and hatches our own baby animal friend."
   }
  ]
 }
