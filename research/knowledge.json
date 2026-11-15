@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:46:41+05:30",
- "runs": 149,
+ "updated": "2026-11-15T20:47:35+05:30",
+ "runs": 150,
  "branches": [
   {
    "id": "platforms",
@@ -1420,6 +1420,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 147
+    },
+    {
+     "t": "Video length beat every thumbnail factor in Eden's data: 41.1% of videos over 40 minutes broke out against 26.9% under 5 minutes, which supports pairing each 2 to 3 minute song with long themed compilations of 30 minutes or more.",
+     "src": "eden.so, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 150
     }
    ]
   },
@@ -3135,6 +3142,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 141
+    },
+    {
+     "t": "Eden's study of 507,478 long videos (Aug 2026) found no difference in brightness, contrast, saturation or warm colour share between breakout and underperforming thumbnails, so once a thumbnail is clear and bright, its idea (one character, one action, one promise) matters more than its colour settings.",
+     "src": "eden.so, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 150
+    },
+    {
+     "t": "In the same study short thumbnail text of 4 to 6 words was the biggest text edge (30.6% of breakouts vs 26.5% of flops) while 7 or more words did worse and repeating the title word for word did not help, so a Bro Bros thumbnail should carry at most 2 to 4 big words that add to the title.",
+     "src": "eden.so, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 150
+    },
+    {
+     "t": "Mattel moved Thomas the Tank Engine to a glossier 3D look with bigger eyes and a wide white toothy smile after testing with preschoolers and parents (Jan 2026), yet design critics said it looked 'AI generated' and unnerving, a warning that over polished, too perfect 3D faces can put parents off even when kids accept them.",
+     "src": "creativebloq.com, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 150
     }
    ]
   },
@@ -4814,11 +4842,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 7 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:41",
-   "note": "Run 71 (our own results (YouTube per video, 1 to 15 Nov)): Per video YouTube data for 1 to 15 Nov: top songs were Lion Needs a Doctor (833 views), Light the Diyas (783), Ek Diya Sabke Liye (456), Fruit and Veggie Hoedown (382) and Dhol Bajao (356); songs beat cartoon episodes about 4 to 1; average view duration on long songs is only about 16 to 24 seconds; Shorts got 0 to 30 views each; Metricool shows no new uploads after 11 Nov. Total 389."
+   "note": "Earlier runs summarised: 8 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:42",
@@ -5131,6 +5155,10 @@
   {
    "date": "2026-11-15 20:46",
    "note": "Run 149 (music craft (Ms Rachel album production, songs vs chants study, why kids love KPop Demon Hunters)): Infant music studies were already in the tree. New: Ms Rachel's album used 42 players and 19 singers with musical theatre arrangers and a bossa nova lead single; an Oxford trial found songs, chants and stories taught 7 to 8 year olds new language equally well; kids say KPop Demon Hunters wins on a self acceptance story, characters who change and lines they can quote to friends. Total 675."
+  },
+  {
+   "date": "2026-11-15 20:47",
+   "note": "Run 150 (visual craft (thumbnail breakout study, Thomas redesign)): Eden's study of 507K long videos found thumbnail brightness, contrast and saturation made no difference between breakouts and flops, short 4 to 6 word text helped a little, and video length mattered far more (41% of 40+ minute videos broke out against 27% under 5 minutes). Mattel's 3D Thomas redesign with bigger eyes and a wide white smile was tested with preschoolers but adult critics said it looked AI generated. Total 679."
   }
  ],
  "history": [
@@ -5729,6 +5757,10 @@
   {
    "date": "2026-11-15 20:46",
    "total": 675
+  },
+  {
+   "date": "2026-11-15 20:47",
+   "total": 679
   }
  ],
  "next_week_ideas": [
