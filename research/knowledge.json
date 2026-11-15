@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:46:54+05:30",
- "runs": 28,
+ "updated": "2026-11-15T16:47:40+05:30",
+ "runs": 29,
  "branches": [
   {
    "id": "platforms",
@@ -881,6 +881,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 17
+    },
+    {
+     "t": "In a 2026 eLife study (79 infants aged 3 to 12 months) no baby moved in time with the beat; their movement followed changes in loudness and intensity, so clear loud then soft, big then small contrasts drive baby movement more than a precise groove.",
+     "src": "PsyPost, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 29
+    },
+    {
+     "t": "Babies aged 9 to 12 months listened longer, stayed calmer and danced more to familiar songs, even when sung by a stranger at a different tempo and pitch, so re singing our best melodies in new versions keeps their pull.",
+     "src": "University of Toronto, 2021",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 29
+    },
+    {
+     "t": "Billboard's Kid Albums chart in early November is topped by A Charlie Brown Christmas (gentle jazz piano), followed by movie musicals; CoComelon, Pinkfong and Super Simple Songs are the only YouTube born brands in its top 15, so a soft jazzy holiday sound is a proven family taste.",
+     "src": "Billboard, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 29
+    },
+    {
+     "t": "Baby Shark's lasting success is credited to a simple melody, simple choreography and cross generational appeal; songs parents also enjoy get played on family speakers for years.",
+     "src": "BSCkids, May 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 29
     }
    ]
   },
@@ -1703,6 +1731,10 @@
   {
    "date": "2026-11-15 16:46",
    "note": "Run 28 (other platforms): Baby Shark passed 1 billion Spotify streams (May 2026) at about 400K a day led by US, UK, Australia and Canada; Netflix kids top 10s show YouTube creator CrunchLabs breaking in, KPop Demon Hunters still charting at week 65, and a Christmas dog family film at No. 1 in early November; KIDZ BOP uses a Roblox obstacle game to reach Gen Alpha. Total 215."
+  },
+  {
+   "date": "2026-11-15 16:47",
+   "note": "Run 29 (music craft): Infants' movement follows changes in loudness and intensity rather than the beat, so build clear loud and soft contrasts; familiar songs hold babies longer even when a stranger sings at a different tempo; November kids album charts are led by a gentle jazz Christmas soundtrack, movie musicals and only three YouTube born brands. Total 219."
   }
  ],
  "history": [
@@ -1817,9 +1849,17 @@
   {
    "date": "2026-11-15 16:46",
    "total": 215
+  },
+  {
+   "date": "2026-11-15 16:47",
+   "total": 219
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Cozy Cocoa Jazz",
+   "why": "A soft swing piano winter song (cocoa, mittens, snow at the window) in the style families already stream every November, holiday neutral and good for wind down."
+  },
   {
    "title": "Zoomy's Christmas Surprise",
    "why": "Dog plus Christmas stories topped Netflix family viewing in early November; a gentle story song where our pet friend helps wrap gifts fits holiday search demand."
@@ -1871,10 +1911,6 @@
   {
    "title": "Choo Choo Train Ride",
    "why": "Vehicles and a journey through countries of the world; global appeal, speeds up and slows down like a real train."
-  },
-  {
-   "title": "Who Took the Rainbow?",
-   "why": "Colours song framed as a tiny mystery the brothers solve, the format behind Lalafun's newest uploads and the rescue stories kids love."
   }
  ]
 }
