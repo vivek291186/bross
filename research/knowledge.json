@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:37:17+05:30",
- "runs": 65,
+ "updated": "2026-11-15T17:38:21+05:30",
+ "runs": 66,
  "branches": [
   {
    "id": "platforms",
@@ -1987,6 +1987,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 55
+    },
+    {
+     "t": "The UK DreamToys 2026 list (11 Nov) mixes dinosaurs with vehicles (PAW Patrol Megasaurus dino vehicle, Hot Wheels T Rex garage), roaring or growing animal toys (a furReal tiger, a robotic megalodon) and KPop Demon Hunters singing dolls, so dino trucks and roaring animals are what kids are asking Santa for this year.",
+     "src": "madeformums.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 66
+    },
+    {
+     "t": "Circana data cited with DreamToys 2026 says fun has overtaken educational value as the top reason parents choose a toy, and explorative toys grew fastest; our songs should lead with fun and keep the learning point quiet in the background.",
+     "src": "madeformums.com (Circana), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 66
+    },
+    {
+     "t": "Nostalgia is the US toy story of holiday 2026: Tickle Me Elmo returns 30 years after the 1996 craze, Furby and Polly Pocket rank high in nostalgia searches, and Pokemon turns 30; giggle and tickle games parents remember are a safe original song theme (no borrowed characters).",
+     "src": "consumeraffairs.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 66
+    },
+    {
+     "t": "Save the Children's UK Christmas Jumper Day is Thursday 10 Dec 2026, when schools across the UK wear festive jumpers; a sweater dance song should be live by about 6 Dec to catch both this and Ugly Christmas Sweater Day (18 Dec).",
+     "src": "letsknit.co.uk, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 66
     }
    ]
   },
@@ -2915,6 +2943,10 @@
   {
    "date": "2026-11-15 17:37",
    "note": "Run 65 (visual craft (thumbnails and small team 3D)): Song thumbnail data: high contrast (7:1 or more) averaged 6.5% click rate against 4.7% for low contrast, a tight face crop (face 40% of frame height) 7.6% against 4.3% for full body, muted palettes about 47% worse. Small 3D teams speed up with reusable effect libraries and a locked animatic before animation. Playbook thumbnail rule updated. Total 367."
+  },
+  {
+   "date": "2026-11-15 17:38",
+   "note": "Run 66 (topics and seasons (holiday toys and dates)): UK DreamToys 2026 top 15 and US hot toy picks: dinosaur plus vehicle mashups (PAW Patrol Megasaurus, Hot Wheels T Rex garage), roaring and growing animal plush, KPop Demon Hunters singing dolls, and nostalgia returns (Tickle Me Elmo at 30, Furby). Circana: fun has overtaken education as parents' top buying reason. UK Christmas Jumper Day is Thursday 10 Dec. Total 371."
   }
  ],
  "history": [
@@ -3177,6 +3209,10 @@
   {
    "date": "2026-11-15 17:37",
    "total": 367
+  },
+  {
+   "date": "2026-11-15 17:38",
+   "total": 371
   }
  ],
  "next_week_ideas": [
@@ -3206,7 +3242,7 @@
   },
   {
    "title": "Silly Sweater Shimmy",
-   "why": "A holiday neutral winter dance for Ugly Christmas Sweater Day (18 Dec): kids shimmy, spin and show off patterns like stars and snowmen, easy Shorts hook."
+   "why": "UK Christmas Jumper Day (Thu 10 Dec) and Ugly Christmas Sweater Day (18 Dec): a holiday neutral winter dance where kids shimmy, spin and show off patterns like stars and snowmen; post by 6 Dec, easy Shorts hook."
   },
   {
    "title": "Cozy Cocoa Jazz",
@@ -3221,8 +3257,8 @@
    "why": "A signature dance named after our recurring pet friend, like Pokemon Kids TV's single character dance hits; one move per line, easy to copy in Shorts."
   },
   {
-   "title": "Dino Stomp Family",
-   "why": "Dinosaurs + family call-and-response (Baby Dino, Mama Dino...) + stomp actions; Baby Shark pattern, globally loved subject."
+   "title": "Dino Truck Stomp",
+   "why": "Dinosaur plus vehicle mashups top the 2026 holiday toy lists (Megasaurus dino vehicle, T Rex garage); the Bros drive a friendly dino truck that stomps, roars and honks with a Baby Dino, Mama Dino call and response chorus."
   },
   {
    "title": "Super Bro Bros to the Rescue",
