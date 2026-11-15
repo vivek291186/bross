@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:50:06+05:30",
- "runs": 152,
+ "updated": "2026-11-15T20:51:08+05:30",
+ "runs": 153,
  "branches": [
   {
    "id": "platforms",
@@ -2092,6 +2092,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 151
+    },
+    {
+     "t": "LooLoo Kids (62.7M subscribers, 43B views) titles almost every new upload as a medley of its recurring Johny character plus a classic rhyme ('Bath Song + Wheels on the Bus'), and its seasonal Halloween medleys reached 8 to 12M views within weeks in Oct 2026, so naming two familiar songs in one title widens Search reach.",
+     "src": "vidanalyze.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 153
+    },
+    {
+     "t": "LooLoo Kids' recent uploads cover healthy habits and safety (brushing teeth, bath time, handwashing, bus safety rules) alongside colours, fruits and phonics, showing routine songs are a core, steady earner for top nursery channels.",
+     "src": "vidanalyze.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 153
+    },
+    {
+     "t": "Hey Bear Sensory has about 3.4B views from only 95 videos (about 35M per video) with dancing fruit and veggie characters on plain black backgrounds and wordless funk, house and disco tracks; its biggest hits are 10 to 27 minute mixes (Smoothie Mix 383M, Fruit Salad Dance Party 334M), while its recent 1 to 5 minute uploads average only about 5M.",
+     "src": "nexlev.io, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 153
     }
    ]
   },
@@ -2645,6 +2666,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 149
+    },
+    {
+     "t": "Hey Bear runs two modes, energetic dance parties for play time and slower, lower contrast 'Mindful Moon' bedtime mixes, so one brand can own both wake up and wind down moments with the same characters.",
+     "src": "screenwiseapp.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 153
     }
    ]
   },
@@ -3177,6 +3205,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 151
+    },
+    {
+     "t": "High contrast bright characters on an uncluttered dark background are easy for babies' developing eyes to track, which is why baby sensory videos work up to about age 3; a 'Bro Bros baby sensory' version of a dance song with characters on black and no words could reach the youngest siblings.",
+     "src": "screenwiseapp.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 153
     }
    ]
   },
@@ -4898,11 +4933,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 10 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:43",
-   "note": "Run 74 (Shorts and Reels trends (holiday Reels formats)): Reels trends for 31 Oct to 10 Nov: holiday sounds are peaking (about 5.8M Reels on one Christmas classic), with tree reveal (one ornament per cut) and countdown formats; a playful group shoulder shimmy dance is rising; but 11 of 12 trending sounds are major label tracks likely blocked for business accounts, so original audio is the safe route. Reels under 15 seconds rarely reach non followers. Total 400."
+   "note": "Earlier runs summarised: 11 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:44",
@@ -5215,6 +5246,10 @@
   {
    "date": "2026-11-15 20:50",
    "note": "Run 152 (global markets (Vietnam, the biggest dubbing gap)): Vietnamese kids songs are dominated by foreign brands in local dub: BabyBus's Vietnamese channel has 9.75M subscribers and 11B views and still adds 70 to 115M views a month, next to Vlad and Niki's 46.6M Vietnamese copy, and it is the only kids song channel in Vietnam's daily education top 20. Vietnam's parliament is debating limits on minors' social media, following Australia, Indonesia and France. Total 687."
+  },
+  {
+   "date": "2026-11-15 20:51",
+   "note": "Run 153 (competitor deep dive (LooLoo Kids, Hey Bear Sensory)): LooLoo Kids (62.7M subs) builds almost every upload as a medley led by its recurring Johny Johny Yes Papa character plus a classic rhyme, and its October Halloween medleys hit 8 to 12M views. Hey Bear Sensory (about 4M subs, 3.4B views from only 95 videos) wins babies with dancing fruit on black backgrounds and wordless dance music; its 10 to 27 minute mixes (Smoothie Mix 383M) beat its recent 1 to 5 minute clips by far. Total 692."
   }
  ],
  "history": [
@@ -5825,13 +5860,13 @@
   {
    "date": "2026-11-15 20:50",
    "total": 687
+  },
+  {
+   "date": "2026-11-15 20:51",
+   "total": 692
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Dino Truck Stomp",
-   "why": "Dinosaur plus vehicle mashups top the 2026 holiday toy lists (Megasaurus dino vehicle, T Rex garage); the Bros drive a friendly dino truck that stomps, roars and honks with a Baby Dino, Mama Dino call and response chorus."
-  },
   {
    "title": "Super Bro Bros to the Rescue",
    "why": "Superheroes top Gen Alpha's favourite characters; the brothers and their pup get 'kindness powers' with a power up dance move for each rescue, fully original."
@@ -5883,6 +5918,10 @@
   {
    "title": "Everybody Can Dance!",
    "why": "3 Dec 2026 is International Day of Persons with Disabilities and kids TV still shows few disabled characters; the Bros and a new friend on wheels invent moves everyone can copy, sitting or standing."
+  },
+  {
+   "title": "Fruity Disco Night (baby sensory mix)",
+   "why": "Hey Bear's dancing fruit on black backgrounds earn about 35M views per video; a wordless 15 minute Bro Bros fruit dance mix in bright colours on dark reaches babies and travels to every language."
   }
  ]
 }
