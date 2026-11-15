@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:51:56+05:30",
- "runs": 254,
+ "updated": "2026-11-16T01:52:53+05:30",
+ "runs": 255,
  "branches": [
   {
    "id": "platforms",
@@ -1014,6 +1014,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 243
+    },
+    {
+     "t": "Instagram's 'Your Algorithm' topic controls spread from Reels (global English, Jan 2026) to Explore (15 Apr 2026) and the main Feed (Jun 2026), so parents can now add topics like 'kids songs' across the app, which makes clear topic captions and hashtags matter in every surface.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 255
+    },
+    {
+     "t": "SocialPilot's tracker reported no significant Reels ranking changes in August or September 2026 and puts Explore's average reach rate at about 37.8%, the highest surface, against about 30.8% for Reels overall.",
+     "src": "SocialPilot, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 255
+    },
+    {
+     "t": "Planoly's October 2026 review found no independent large study of Trial Reels; Instagram's own claim (80% of frequent posters saw more non follower reach) is unverified and small tests swing from about 180 to 1.4M views, so Trial Reels are a cheap hook test, not a strategy.",
+     "src": "Planoly, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 255
     }
    ]
   },
@@ -7922,11 +7943,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 175): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:43",
-   "note": "Run 176 (global markets (Thai, Russian, East Africa)): Thailand's biggest family channels are big: Vlad and Niki's Thai channel has 14.2M subscribers and local J Jai Pan 13.5M, so Thai is a large dub market. Russian Masha songs channel TaDaBoom earns about 82M views a month but vidIQ models only about 7,800 USD, so Russian dubs bring reach but little money. Akili and Me shows a toilet habit song can be an East African channel's top hit. Total 778."
+   "note": "Earlier runs summarised (up to Run 176): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:44",
@@ -8239,6 +8256,10 @@
   {
    "date": "2026-11-16 01:51",
    "note": "Run 254 (YouTube algorithm (originality detail on Shorts, UK prominence proposal)): Most algorithm statements found were already in the tree. New details: YouTube says a voice over describing on screen action or template edits do not make a reposted Short original, and there is no notice when a channel is downranked; Meta reported 75% of US Instagram recommendations came from original posts in late 2025; the UK consulted in summer 2026 on making public service broadcaster channels easier to find on YouTube. Total 1118."
+  },
+  {
+   "date": "2026-11-16 01:52",
+   "note": "Run 255 (Shorts and Reels (Reels algorithm timeline recheck)): Little new: SocialPilot's September 2026 update reports no Reels ranking changes in August or September, after 'Your Algorithm' spread from Reels (Jan) to Explore (15 Apr) and Feed (Jun), and puts Explore's reach rate at about 37.8% against 30.8% for Reels overall. Planoly's October review finds only small vendor tests for Trial Reels, so they stay an optional test, not a growth plan. Total 1121."
   }
  ],
  "history": [
@@ -9257,6 +9278,10 @@
   {
    "date": "2026-11-16 01:51",
    "total": 1118
+  },
+  {
+   "date": "2026-11-16 01:52",
+   "total": 1121
   }
  ],
  "next_week_ideas": [
