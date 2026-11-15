@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T02:00:43+05:30",
- "runs": 265,
+ "updated": "2026-11-16T02:01:57+05:30",
+ "runs": 266,
  "branches": [
   {
    "id": "platforms",
@@ -5277,6 +5277,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 247
+    },
+    {
+     "t": "The 2027 Toy of the Year finalists (announced 7 Nov 2026 at the Chicago Toy and Game Fair, 122 finalists in 17 categories) include a hatching megalodon shark, squishy NeeDoh and Magic Jellykins collectibles and a glow and roar tiger, so hatching, squishy and glowing animals are hot kid topics this season.",
+     "src": "ICv2, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 266
+    },
+    {
+     "t": "Pokemon's 30th anniversary in 2026 earned it three Toy of the Year finalist spots (license, plush and trading cards), and Bluey and K-Pop Demon Hunters are License of the Year finalists, signs of what kids are talking about; we only borrow the themes (collecting, family play, singing heroes), never the characters.",
+     "src": "ICv2, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 266
+    },
+    {
+     "t": "Amazon's 2026 'Toys We Love' list sorts picks into collectibles, characters, sensory toys (slime hauls, undersea magnet tiles), makers and builders (a lava land roller coaster set) and screen free play, pointing to fresh song settings like an undersea build, a lava land roller coaster and a squishy slime dance.",
+     "src": "About Amazon, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 266
     }
    ]
   },
@@ -8153,11 +8174,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 186): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 22:40",
-   "note": "Run 187 (TRENDS (December formats likely to return, school dance challenges)): Last December's TikTok list shows formats that come back with the season: 25 day advent calendar series, multi screen harmony grids, say the word on beat partner games and 'it's freezing' door reactions. Three kid safe versions joined the trend bank, led by a 24 door Bro Bros advent series. School dance challenges filmed in uniform keep spreading in South Africa. Total 822."
+   "note": "Earlier runs summarised (up to Run 187): older log lines condensed."
   },
   {
    "date": "2026-11-15 22:41",
@@ -8470,6 +8487,10 @@
   {
    "date": "2026-11-16 02:00",
    "note": "Run 265 (TRENDS (HeyOrca's week of 11 Nov: the same word game, fill in the blank, early sunsets)): HeyOrca's 11 Nov 2026 roundup brings a kid perfect game format: two people name things in a category until they say the same word, and every miss costs a lap. Also new: 'In a world full of ___' fill in the blank posts, an 'It's only 5:30' early sunset audio after the clocks changed, and a 'random day in [month]' year recap carousel ahead of a 2026 recap template. Total 1151."
+  },
+  {
+   "date": "2026-11-16 02:01",
+   "note": "Run 266 (topics and seasons (2027 Toy of the Year finalists and Amazon's toy list)): The 2027 Toy of the Year finalists (announced 7 Nov 2026, 122 finalists) lean on hatching (a hatching megalodon shark), squishy and jelly collectibles (NeeDoh, Magic Jellykins), Pokemon's 30th anniversary and glowing, roaring interactive pets; Amazon's 2026 list adds slime, undersea magnet tiles and a lava land roller coaster, all easy original song topics. Total 1154."
   }
  ],
  "history": [
@@ -9532,9 +9553,17 @@
   {
    "date": "2026-11-16 02:00",
    "total": 1151
+  },
+  {
+   "date": "2026-11-16 02:01",
+   "total": 1154
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Say It Together! (The Same Word Game Song)",
+   "why": "A rising November 2026 TikTok game has two people name things in a category until they say the same word, running a lap after each miss; as a Bro Bros song it teaches categories (fruits, animals, colours), keeps kids guessing and gives an easy run in place dance."
+  },
   {
    "title": "Plus One! (One More Friend Joins the Dance)",
    "why": "Roblox's '+1' games (one more each round, like ratios above 95%) are a big kid loop in November 2026; a cumulative counting dance where one more animal friend joins each verse (1 to 10) teaches counting, repeats the hook and builds a bigger dance every round."
@@ -9578,10 +9607,6 @@
   {
    "title": "Everybody Dance, It's Party Day!",
    "why": "Super Simple's biggest new song of 2026 is a celebration song; an original Bro Bros party anthem with clap, spin and freeze moves suits birthdays, New Year and every culture's festivals."
-  },
-  {
-   "title": "First Time, Big Time!",
-   "why": "Pinkfong's new Bebefinn series is built on a toddler's everyday firsts; a Bro Bros song cheering a little friend through a first bike ride, first haircut or first new food helps parents and fits every culture."
   },
   {
    "title": "No Monsters Here, Goodnight!",
