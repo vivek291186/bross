@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:05:13+05:30",
- "runs": 304,
+ "updated": "2026-11-16T04:06:23+05:30",
+ "runs": 305,
  "branches": [
   {
    "id": "platforms",
@@ -4206,6 +4206,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 293
+    },
+    {
+     "t": "A University of Dundee study (32 and 66 newborns, about two days old) found babies fell asleep faster, stayed drowsy longer and had a lower heart rate while hearing a happy children's song than a sad lullaby or silence, so a warm, bright but gentle bedtime song can calm better than a slow sad one.",
+     "src": "Sleepopolis (University of Dundee study), Jan 2023",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 305
+    },
+    {
+     "t": "A PNAS eye tracking study of 112 babies found they looked at a singer's eyes in time with the beat, about twice chance at 2 months and over four times at 6 months, and the effect disappeared when the singing rhythm was made unpredictable, so a steady beat plus a Bro singing straight to camera builds the strongest connection.",
+     "src": "Vanderbilt Music Cognition Lab (PNAS), Nov 2022",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 305
+    },
+    {
+     "t": "A 2025 Communications Psychology paper (Labendzki, Goupil, Wass) measured how predictability rises and falls over time in child directed songs and links those patterns to the songs' jobs (learning versus social play), supporting our habit of a very predictable chorus with small surprises in each verse.",
+     "src": "Communications Psychology, Mar 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 305
     }
    ]
   },
@@ -9105,11 +9126,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 225): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:01",
-   "note": "Run 226 (TRENDS (holiday look trends: toy soldier decor, circus nurseries, squishy jelly textures)): Holiday decor trends that carry into kids video: 'nutcrackercore' (candy striped toy soldiers and ballet pieces), tinsel's comeback and honeycomb paper ornaments; Pinterest's 2026 predictions saw 'circus nursery' searches up 50% and a 'gimme gummy' love of squishy jelly textures. A toy soldier march joined the trend bank (our own soldiers, a public domain style idea). Total 987."
+   "note": "Earlier runs summarised (up to Run 226): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:02",
@@ -9422,13 +9439,13 @@
   {
    "date": "2026-11-16 04:05",
    "note": "Run 304 (TRENDS (late November returners: dancing plush animals, silent dance then random sound, holiday theme decorate reveal)): This week's trackers had nothing new beyond the trend bank, so this round looked at what ran last late November and may return: creators copying dancing plush animals or becoming a blanket puppet, dancing in silence and letting TikTok pick the sound for a replay, and labelled step by step holiday decorating ending in a before and after reveal. Two formats joined the trend bank. Total 1287."
+  },
+  {
+   "date": "2026-11-16 04:06",
+   "note": "Run 305 (music craft (newborn happy music, rhythm drives eye contact, predictability in kids songs)): Three studies on why simple, steady songs work: a University of Dundee study found newborns fell asleep faster and their heart rate dropped with a happy children's song but not a sad lullaby or silence; a PNAS study with 112 babies found they look at a singer's eyes in time with the beat (twice chance at 2 months, over four times at 6 months) and the effect vanishes when the rhythm is made unpredictable; a 2025 Communications Psychology paper measures how predictability shifts over time in child directed songs. Total 1290."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:51",
-   "total": 87
-  },
   {
    "date": "2026-11-15 15:52",
    "total": 95
@@ -10624,6 +10641,10 @@
   {
    "date": "2026-11-16 04:05",
    "total": 1287
+  },
+  {
+   "date": "2026-11-16 04:06",
+   "total": 1290
   }
  ],
  "next_week_ideas": [
