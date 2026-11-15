@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:48:54+05:30",
- "runs": 251,
+ "updated": "2026-11-16T01:49:43+05:30",
+ "runs": 252,
  "branches": [
   {
    "id": "platforms",
@@ -7076,6 +7076,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 240
+    },
+    {
+     "t": "The 13 Nov 2026 bedtime Reel (a shy fluffy monster afraid of the dark) reached 65 views, three times the other story songs of 12 to 14 Nov, which supports keeping one calm bedtime song in each week's mix.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 252
+    },
+    {
+     "t": "The same sports day topic drew 110 Reel views on 8 Nov as a cartoon clip but only 21 on 13 Nov as a story song, so the late November slump is mostly lower account distribution, and a hook in the first second (speech plus a face) matters more than topic choice right now.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 252
+    },
+    {
+     "t": "Reels posted on 14 Nov 2026 (sandcastle and kitten rescue story songs) had only 5 and 7 views after a day, the lowest of the month, so the next scheduled week should test trend bank formats and a Hindi Didi story Reel to break the slide.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 252
     }
    ]
   },
@@ -7845,11 +7866,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 172): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:40",
-   "note": "Run 173 (music craft (hit kids show songwriters)): DreamWorks' TV music head says Gabby's Dollhouse songs are produced to sound like current top 40 pop, pairing a few kids instruments with modern production and a hook recognisable from the instrumental alone. The PAW Patrol theme writers write for family transition moments and test every song on children before release. Total 766."
+   "note": "Earlier runs summarised (up to Run 173): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:41",
@@ -8162,6 +8179,10 @@
   {
    "date": "2026-11-16 01:48",
    "note": "Run 251 (rules and monetisation (EU Kids Act proposal, Australia's ban evaluation, Shorts RPM by country)): The EU Kids Act proposed on 17 Sep 2026 would ban personal social accounts under 13, switch off engagement based recommendations for minors by default and prohibit endless autoplay, so European kids would reach us mostly through parents' accounts, search and subscriptions. eSafety's first evaluation found Australian under 16 account holding fell only from 52.4% to 42.1%, and AIR's data puts US Shorts RPM at about twice the global average. Total 1107."
+  },
+  {
+   "date": "2026-11-16 01:49",
+   "note": "Run 252 (our own results (Metricool recheck, Reels 13 and 14 Nov)): YouTube data in Metricool still ends at 11 Nov uploads. New Reels: the 13 Nov bedtime 'shy fluffy monster' lullaby reached 65 views, the best of the 12 to 14 Nov story songs, while the 13 Nov sports day story song got 21 views against 110 for the 8 Nov sports day cartoon, so the same topic lost about 80% of views in five days, pointing to lower distribution of the account rather than a weak topic. Total 1110."
   }
  ],
  "history": [
@@ -9168,6 +9189,10 @@
   {
    "date": "2026-11-16 01:48",
    "total": 1107
+  },
+  {
+   "date": "2026-11-16 01:49",
+   "total": 1110
   }
  ],
  "next_week_ideas": [
