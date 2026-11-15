@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:01:22+05:30",
- "runs": 45,
+ "updated": "2026-11-15T17:01:52+05:30",
+ "runs": 46,
  "branches": [
   {
    "id": "platforms",
@@ -594,6 +594,34 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 38
+    },
+    {
+     "t": "Buffer's study of 1.8M videos (Jul 2026) found long form engagement peaks on Sunday mornings in viewers' local time (10 AM best, 8 to 11 AM strong) and is weakest on Wednesday and Thursday afternoons.",
+     "src": "Buffer, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 46
+    },
+    {
+     "t": "In the same study Shorts engagement peaks on Friday from 4 to 7 PM local time and in evenings (6 to 11 PM), with Monday and Tuesday weakest, so our 4 PM IST Shorts land in the evening slot for India and the Gulf but at dawn in the Americas.",
+     "src": "Buffer, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 46
+    },
+    {
+     "t": "For living room kids viewing, AIR advises 20 to 30 minute themed compilations, mini arcs of 3 to 4 linked episodes, a hook in the first seconds because autoplay gives little time, 4K upload and thumbnails with one bold central element readable from across a room.",
+     "src": "AIR Media-Tech, Oct 2024",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 46
+    },
+    {
+     "t": "Ending compilations with a bonus clip (a blooper or behind the scenes dance) keeps kids watching to the end and lifts session watch time.",
+     "src": "AIR Media-Tech, Oct 2024",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 46
     }
    ]
   },
@@ -2254,6 +2282,10 @@
   {
    "date": "2026-11-15 17:01",
    "note": "Run 45 (competitor deep dive (BabyBus)): BabyBus (43.9M subs, 36B views) posts about 5.6 long videos a week averaging about 31 minutes, 96% long form and 95% evergreen; its recent outliers wrap a preschool lesson in pretend play adventure: Sharing is Caring 2 (54M, 28 times its median), a cardboard escape room police rescue (26M), mosquito and colours, dinosaur chase colours, superhero bug catch. Total 284."
+  },
+  {
+   "date": "2026-11-15 17:01",
+   "note": "Run 46 (algorithm experiments and data): Buffer's July 2026 study of 1.8M videos: long form gets the most engagement on Sunday mornings (10 AM local best, 8 to 11 AM window) and least on Wednesday and Thursday; Shorts peak Friday 4 to 7 PM and evenings; for living room kids viewing, 20 to 30 minute themed compilations, 3 to 4 episode mini arcs, 4K and thumbnails readable across a room are advised. Total 288."
   }
  ],
  "history": [
@@ -2436,6 +2468,10 @@
   {
    "date": "2026-11-15 17:01",
    "total": 284
+  },
+  {
+   "date": "2026-11-15 17:01",
+   "total": 288
   }
  ],
  "next_week_ideas": [
