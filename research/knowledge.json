@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:52:09+05:30",
- "runs": 6,
+ "updated": "2026-11-15T15:52:57+05:30",
+ "runs": 7,
  "branches": [
   {
    "id": "platforms",
@@ -629,6 +629,48 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 3
+    },
+    {
+     "t": "Holiday calendar for the next weeks: Hanukkah starts 4 Dec 2026, St Nicholas Day 6 Dec, Colombia's Day of Little Candles 7 Dec, St Lucia 13 Dec, Las Posadas 16 to 24 Dec, Christmas 25 Dec, Kwanzaa from 26 Dec, then New Year.",
+     "src": "Childhood101 Dec 2026 calendar",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 7
+    },
+    {
+     "t": "Lights and candles run through almost every December festival (Hanukkah, Velitas, St Lucia, Posadas, Christmas), so a 'twinkle lights' theme celebrates many cultures without picking one.",
+     "src": "Childhood101 Dec 2026 calendar",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 7
+    },
+    {
+     "t": "Worldwide interest in holiday music jumps the day after Halloween and with the first cold snaps, then climbs through November, so festive and winter kids songs should be live by the second half of November.",
+     "src": "Sonos data via Fox Weather (2022)",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 7
+    },
+    {
+     "t": "December is the long summer school break in Brazil, Argentina, Australia and South Africa; snow themes do not fit there, so pair each winter song with a sunny summer or beach version for southern audiences.",
+     "src": "school calendars, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 7
+    },
+    {
+     "t": "Holiday neutral winter fun (snowflakes, mittens, hot cocoa, baking cookies; National Cookie Day is 4 Dec) works across religions and keeps content usable after the holidays end.",
+     "src": "Childhood101 Dec 2026 calendar",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 7
+    },
+    {
+     "t": "Ramadan 2027 is likely to start about 8 Feb and Eid al Fitr about 9 or 10 Mar 2027; moon, lantern and sharing songs for Arabic and Indonesian audiences should be ready by late January.",
+     "src": "Khaleej Times, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 7
     }
    ]
   },
@@ -747,7 +789,8 @@
   "Plan dubbed versions of the best songs for the biggest kids markets (Spanish, Portuguese, Hindi, Indonesian, Arabic).",
   "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles.",
   "Mix in older-kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny, chantable nonsense word kids can shout, not only nursery rhyme remakes.",
-  "Titles: story hook plus an age keyword (for toddlers, learn numbers 1-10, bedtime for preschoolers), max 2 caps words and 1 to 2 emojis, no fear, fight, medical or danger words; put every video in a keyword playlist and link the playlist's first video in the description."
+  "Titles: story hook plus an age keyword (for toddlers, learn numbers 1-10, bedtime for preschoolers), max 2 caps words and 1 to 2 emojis, no fear, fight, medical or danger words; put every video in a keyword playlist and link the playlist's first video in the description.",
+  "Seasonal plan: until 24 Dec post at least 3 holiday neutral winter or lights songs a week (snow, cookies, twinkle lights), each with a sunny summer variant for the southern hemisphere; start Ramadan and Lunar New Year friendly songs in January."
  ],
  "log": [
   {
@@ -773,6 +816,10 @@
   {
    "date": "2026-11-15 15:52",
    "note": "Run 6 (visual craft): Thumbnails and titles for kids: YouTube Test and Compare is blocked for made for kids videos; thumbnail formula of one happy face, one action, one item; titles with a story hook plus an age keyword; risky word clusters; playlists as main discovery; short clips only grow distinctive characters. Total 95."
+  },
+  {
+   "date": "2026-11-15 15:52",
+   "note": "Run 7 (topics and seasons): Next 4 weeks calendar: Hanukkah from 4 Dec, St Nicholas 6 Dec, Velitas 7 Dec, St Lucia 13 Dec, Las Posadas 16 Dec, Christmas, Kwanzaa; holiday music interest climbs from the day after Halloween; December is summer break in the southern hemisphere; Ramadan 2027 likely from 8 Feb. Total 101."
   }
  ],
  "history": [
@@ -799,6 +846,10 @@
   {
    "date": "2026-11-15 15:52",
    "total": 95
+  },
+  {
+   "date": "2026-11-15 15:52",
+   "total": 101
   }
  ],
  "next_week_ideas": [
@@ -819,16 +870,16 @@
    "why": "Colour riddle call-and-response with answer pauses; learning hidden in a game, works in every language."
   },
   {
-   "title": "Ten Little Fingers Count",
-   "why": "Counting 1-10 on fingers, every number has an action; evergreen learning search term."
+   "title": "Ten Little Lights Countdown",
+   "why": "Counting 10 to 1 with twinkling lights links many December festivals (Hanukkah, Velitas, St Lucia, Christmas) and hides number learning; works worldwide."
   },
   {
    "title": "Jungle Walk Echo Song",
    "why": "Echo/call-and-response animal walk (stomp like an elephant, hop like a frog) with TPR actions."
   },
   {
-   "title": "Wash Wash Wash Your Hands",
-   "why": "Routine + health habit parents search for; short, loopable chorus for Shorts."
+   "title": "Snowflake Dance Party",
+   "why": "Holiday neutral winter freeze and melt dance for the northern hemisphere in December; pair with a beach version for Brazil and Australia."
   },
   {
    "title": "Sleepy Stars Lullaby",
