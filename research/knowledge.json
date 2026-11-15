@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:52:57+05:30",
- "runs": 7,
+ "updated": "2026-11-15T15:53:42+05:30",
+ "runs": 8,
  "branches": [
   {
    "id": "platforms",
@@ -706,6 +706,48 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 2
+    },
+    {
+     "t": "In an 11 language dubbing test on a kids channel, Spanish, Arabic, Indonesian and Portuguese pulled ahead first (then Japanese and Korean); dubbed audio tracks now bring over 30% of its views.",
+     "src": "AIR Media-Tech case, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 8
+    },
+    {
+     "t": "Dub new uploads at release and most of the back catalogue: viewers who liked one dubbed video left when nothing else was in their language; that channel dubbed about 70% of its catalogue.",
+     "src": "AIR Media-Tech case, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 8
+    },
+    {
+     "t": "Audio quality decides whether dubbing helps: on an Italian kids channel weak AI dubs cut average watch time to under 1 minute versus 5 to 6 minutes for professional dubs, and can pull the whole channel down.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 8
+    },
+    {
+     "t": "Cheap demand test before dubbing: translate titles and descriptions of the top 20% of videos into many languages and watch 60 days of views by country and audio language.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 8
+    },
+    {
+     "t": "Multi language audio on one channel amplifies signals the channel already has; separate language channels start from zero (Vania Mania's own Portuguese channel underperformed until it became an audio track).",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 8
+    },
+    {
+     "t": "El Reino Infantil (Argentina) is the biggest Spanish kids network: 180 billion lifetime views, 9 billion in H1 2026, audience led by Mexico, Argentina, Brazil, Peru and the US, built on named farm animal characters singing preschool songs.",
+     "src": "Senal News, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 8
     }
    ]
   },
@@ -786,7 +828,7 @@
   "Open every Short and Reel on the best hook moment in the first second; make Shorts loop back to the start.",
   "Thumbnails: one happy face, one clear action, one recognisable object, big eyes, max 3 words, bright plain background; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Build weekly compilations (5-6 songs, 15-25 min) led by the best performer, to keep viewers in our Up Next session.",
-  "Plan dubbed versions of the best songs for the biggest kids markets (Spanish, Portuguese, Hindi, Indonesian, Arabic).",
+  "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels.",
   "Keep everything original and clearly not mass-produced to stay inside YouTube's quality principles.",
   "Mix in older-kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) with a funny, chantable nonsense word kids can shout, not only nursery rhyme remakes.",
   "Titles: story hook plus an age keyword (for toddlers, learn numbers 1-10, bedtime for preschoolers), max 2 caps words and 1 to 2 emojis, no fear, fight, medical or danger words; put every video in a keyword playlist and link the playlist's first video in the description.",
@@ -820,6 +862,10 @@
   {
    "date": "2026-11-15 15:52",
    "note": "Run 7 (topics and seasons): Next 4 weeks calendar: Hanukkah from 4 Dec, St Nicholas 6 Dec, Velitas 7 Dec, St Lucia 13 Dec, Las Posadas 16 Dec, Christmas, Kwanzaa; holiday music interest climbs from the day after Halloween; December is summer break in the southern hemisphere; Ramadan 2027 likely from 8 Feb. Total 101."
+  },
+  {
+   "date": "2026-11-15 15:53",
+   "note": "Run 8 (global markets): Dubbing data: in an 11 language kids test Spanish, Arabic, Indonesian and Portuguese pulled ahead and dubbed tracks gave over 30% of views; poor AI dubs crushed watch time; multi audio beats new channels when demand exists; El Reino Infantil leads Spanish kids content with audiences led by Mexico and Argentina. Total 107."
   }
  ],
  "history": [
@@ -850,6 +896,10 @@
   {
    "date": "2026-11-15 15:52",
    "total": 101
+  },
+  {
+   "date": "2026-11-15 15:53",
+   "total": 107
   }
  ],
  "next_week_ideas": [
