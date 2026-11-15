@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:07:25+05:30",
- "runs": 56,
+ "updated": "2026-11-15T17:08:00+05:30",
+ "runs": 57,
  "branches": [
   {
    "id": "platforms",
@@ -1000,6 +1000,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 49
+    },
+    {
+     "t": "Baby Shark has ranked No. 1 in global YouTube views for 71 consecutive months (Oct 2026), and Pinkfong releases a Christmas sing and dance along film on 5 Dec built around a Santa selection contest and a look alike mischief rival.",
+     "src": "Sports Kyunghyang, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 57
+    },
+    {
+     "t": "Pinkfong drops its Christmas album in two stages (10 and 27 Nov, 15 tracks with 7 new songs), so the biggest kids brand starts holiday music by mid November and keeps a second wave for early December.",
+     "src": "Sports Kyunghyang, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 57
+    },
+    {
+     "t": "CoComelon and Headspace's Wiggle to Wind Down runs about 20 minute episodes that start with gentle wiggles and stretches and end in calm stories, after a survey where 45% of 500 US parents named bedtime one of their biggest daily struggles.",
+     "src": "Moonbug, Oct 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 57
     }
    ]
   },
@@ -1294,6 +1315,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 53
+    },
+    {
+     "t": "A 'wiggle then wind down' bedtime compilation (two or three gentle movement songs, then a lullaby) answers the top parent pain point and is a natural nightly replay for our catalogue.",
+     "src": "Moonbug Oct 2025 with our library",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 57
     }
    ]
   },
@@ -2606,6 +2634,10 @@
   {
    "date": "2026-11-15 17:07",
    "note": "Run 56 (global markets (dubbing, Arabic)): YouTube auto dubbing covers 27 languages, with expressive speech (keeps pitch and energy) in 8 including Spanish, Portuguese, Hindi and Indonesian; over 6M people a day watch 10+ minutes of dubbed video; videos with little speech or Content ID claims are ineligible, so sung songs are not a reliable fit. Abu Dhabi's culture chief says 80% of what Arab kids watch is not in Arabic and calls it an opportunity. Total 328."
+  },
+  {
+   "date": "2026-11-15 17:08",
+   "note": "Run 57 (competitor deep dive (Pinkfong, CoComelon)): Pinkfong's Baby Shark has led global YouTube views for 71 straight months and launches a sing and dance along Christmas film on 5 Dec with a 15 track album (7 new songs) released in two drops on 10 and 27 Nov, aimed at winter break. CoComelon's Wiggle to Wind Down: 20 minute episodes of gentle wiggles then calm stories, because 45% of US parents call bedtime a top daily struggle. Total 332."
   }
  ],
  "history": [
@@ -2832,9 +2864,17 @@
   {
    "date": "2026-11-15 17:07",
    "total": 328
+  },
+  {
+   "date": "2026-11-15 17:08",
+   "total": 332
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Wiggle, Stretch, Snooze",
+   "why": "45% of parents struggle with bedtime; a slow song that moves from big wiggles to tiny stretches to a yawn and a goodnight to the Bros' toys, in the format CoComelon built with Headspace."
+  },
   {
    "title": "Wiggly Noodle Song",
    "why": "Silly food novelty songs (String Cheese, Raining Tacos) chart on iTunes kids; noodles that wiggle, slurp and twirl give a giggly chorus and easy dance moves."
@@ -2886,10 +2926,6 @@
   {
    "title": "I See Something Red",
    "why": "Colour riddle call-and-response with answer pauses; learning hidden in a game, works in every language."
-  },
-  {
-   "title": "Ten Little Lights Countdown",
-   "why": "Counting 10 to 1 with twinkling lights links many December festivals (Hanukkah, Velitas, St Lucia, Christmas) and hides number learning; works worldwide."
   }
  ]
 }
