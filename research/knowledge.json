@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:44:20+05:30",
- "runs": 75,
+ "updated": "2026-11-15T18:37:20+05:30",
+ "runs": 76,
  "branches": [
   {
    "id": "platforms",
@@ -1560,6 +1560,48 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 64
+    },
+    {
+     "t": "Suno v6 (9 Sep 2026) can change one section or a single lyric line of a finished song from a plain language instruction while keeping the rest, so fix a weak line or chorus instead of regenerating the whole track.",
+     "src": "Suno blog, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 76
+    },
+    {
+     "t": "Suno now has three tiers: v6 and the less predictable v6 wild for Pro and Premier plans, and a faster v6 mini for everyone; older models are being retired, so retest and lock our house style prompt on v6.",
+     "src": "Suno blog and RouteNote, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 76
+    },
+    {
+     "t": "Suno v6 also accepts mashup style requests (vocals from one song, drums from another), handy for making a Christmas or Spanish version of a hit song that keeps its recognisable groove.",
+     "src": "Suno blog, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 76
+    },
+    {
+     "t": "In the Vienna eLife infant study higher pitched sounds triggered more movement at every age tested (3, 6 and 12 months), so a bright high melody line, bells or a xylophone hook helps get babies moving.",
+     "src": "Vienna.at, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 76
+    },
+    {
+     "t": "The same study showed that from 3 months the brain responds more strongly to a properly structured children's song than to versions with scrambled rhythm, melody or pitch, so keep a clear, regular, repeating song form.",
+     "src": "Vienna.at, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 76
+    },
+    {
+     "t": "Children aged 4 to 6 answered faster on an attention task after slow tempo music than after fast music, with no mood difference, so learning songs (counting, letters) work better at a calmer tempo than party dances.",
+     "src": "Bond University research, 2024",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 76
     }
    ]
   },
@@ -3207,6 +3249,10 @@
   {
    "date": "2026-11-15 17:44",
    "note": "Run 75 (other platforms (Netflix, Roblox)): Netflix 2 to 8 Nov 2026: the animated animal jukebox musicals Sing 2 (week 14) and Sing (week 18) and KPop Demon Hunters (week 69, hours up 7%) still chart, showing song led animation has a very long tail; the No. 1 holiday film had the weakest Christmas opening since 2024. Roblox now carries licensed songs from indie distributor Too Lost with song info on game pages. Total 403."
+  },
+  {
+   "date": "2026-11-15 18:37",
+   "note": "Run 76 (music craft (Suno v6, infant pitch study)): Suno v6 (Sep 2026) lets us rewrite one section or one lyric line in plain words instead of regenerating, and older models are being retired. The Vienna eLife infant study found higher pitches drew more movement at 3, 6 and 12 months; a Bond University study found 4 to 6 year olds focused faster after slow tempo music. Total 409."
   }
  ],
  "history": [
@@ -3509,6 +3555,10 @@
   {
    "date": "2026-11-15 17:44",
    "total": 403
+  },
+  {
+   "date": "2026-11-15 18:37",
+   "total": 409
   }
  ],
  "next_week_ideas": [
