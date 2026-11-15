@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:37:46+05:30",
- "runs": 146,
+ "updated": "2026-11-15T20:39:08+05:30",
+ "runs": 147,
  "branches": [
   {
    "id": "platforms",
@@ -720,6 +720,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 144
+    },
+    {
+     "t": "Metricool's study of 799,718 videos (Jul 2026) found Shorts views grew about 127% year on year against 76% for long videos, and Shorts now bring over 61% of organic views, with subscribers (11%) and Search (9%) far behind.",
+     "src": "metricool.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 147
+    },
+    {
+     "t": "Shorts average view duration fell about 67% year on year to roughly 16 seconds across 71K accounts, so a 30 to 40 second song Short must land its main hook inside the first 15 seconds to be seen by most viewers.",
+     "src": "metricool.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 147
     }
    ]
   },
@@ -1385,6 +1399,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 146
+    },
+    {
+     "t": "In the same study channels posting about 5 Shorts a month averaged 8,789 views per long video against 4,364 for channels with no Shorts, but the lift disappeared at 35 or more Shorts a month, a hint (correlation only) that each Short should point clearly to its full song rather than flooding the feed.",
+     "src": "metricool.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 147
     }
    ]
   },
@@ -3506,6 +3527,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 142
+    },
+    {
+     "t": "Gen Alpha's biggest school catchphrase, '6 7' (Dictionary.com word of the year 2025), comes from a drill rap song with disputed dark meanings, so we never use it; the lesson we keep is that kids love shouting a silly number or word together, which an original counting chorus can give them.",
+     "src": "wikipedia.org and foxnews.com, 2025 to 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 147
+    },
+    {
+     "t": "Mental Floss's 2026 list of top Gen Alpha slang (6 7, rizz, aura, no cap, sigma, crash out, mogging, delulu and more) shows most terms grew from teen and adult online culture, some with misogynist roots, so Bro Bros lyrics for 2 to 8 year olds stay slang free and keep to universal play words.",
+     "src": "mentalfloss.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 147
     }
    ]
   },
@@ -4716,11 +4751,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 4 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:39",
-   "note": "Run 68 (competitor deep dive (Dave and Ava, Hogi)): Dave and Ava (3D rhymes, 15.9M subs) gained no subscribers in 2026 and only about 40 to 57M views a month, its top videos still 2021 Halloween compilations. Pinkfong's Hogi (16.7M) earns about 260M a month from colour learning with candy and toy objects (Pop It colours 306M) and a Roar Dino Special (95M); its newest Short is a dinosaur egg reveal. Total 377."
+   "note": "Earlier runs summarised: 5 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:40",
@@ -5033,6 +5064,10 @@
   {
    "date": "2026-11-15 20:37",
    "note": "Run 146 (YouTube algorithm (Todd Beaupre interview details, YouTube Kids reports, Nov feeds)): Most October changes were already known. New: Suggested on the watch page brings more views from a channel's own subscribers than the Subscriptions feed, YouTube tested capping one video at about eight showings per viewer, a parent's block in YouTube Kids hides a video only on that child's profile while an upheld report removes it for everyone, and YouTube Kids bars food and drink ads. Total 661."
+  },
+  {
+   "date": "2026-11-15 20:39",
+   "note": "Run 147 (Shorts and Reels trends (Gen Alpha words, Shorts mix data)): Reels sound lists were already covered. New: Metricool's 800K video study shows Shorts views grew 127% against 76% for long videos and Shorts now drive 61% of organic views, and channels posting about 5 Shorts a month saw twice the long video views of channels with none, a lift that vanished at 35+ a month (we post far more). Gen Alpha's '6 7' shout and 2026 slang are popular but come from adult corners of the internet, so we skip them and keep our own shoutable hooks. Total 666."
   }
  ],
  "history": [
@@ -5619,6 +5654,10 @@
   {
    "date": "2026-11-15 20:37",
    "total": 661
+  },
+  {
+   "date": "2026-11-15 20:39",
+   "total": 666
   }
  ],
  "next_week_ideas": [
