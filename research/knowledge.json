@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:07:15+05:30",
- "runs": 306,
+ "updated": "2026-11-16T04:07:58+05:30",
+ "runs": 307,
  "branches": [
   {
    "id": "platforms",
@@ -9120,6 +9120,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 304
+    },
+    {
+     "t": "A Christmas edition of the 'say the word on the beat' game spread in mid December 2025: rhyming festive pictures appear one per beat, the tempo speeds up each round and one slip ends the run, a vertical game Short that preschoolers can play aloud at home.",
+     "src": "Kapwing, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 307
+    },
+    {
+     "t": "Kids channel holiday staples (AIR's list for kids channels) are sing alongs with on screen lyrics and bouncing visuals, letters to Santa read aloud with a funny 'North Pole reply', daily advent mini videos where viewers guess tomorrow's surprise, and simple holiday baking and crafts.",
+     "src": "AIR Media Tech, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 307
+    },
+    {
+     "t": "'Christmas around the world' videos that visit a different country's tradition, food or story in each segment are a recommended kids format and suit a global channel: one Bro Bros winter song can travel to five places (for example lanterns, piñatas, snow, beach Christmas, star bread) with a verse each.",
+     "src": "AIR Media Tech, Dec 2024",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 307
     }
    ]
   }
@@ -9147,11 +9168,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 227): older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:03",
-   "note": "Run 228 (topics and seasons (YouTube top channels unchanged since 4 Nov, so switched: space after Artemis II, the 2027 eclipse)): vidIQ's 14 Nov US list showed no new kids movers, so this round looked at space as a lasting kids topic: Artemis II (launched 1 Apr 2026, first crewed Moon trip since 1972) carried a moon mascot designed by an 8 year old, chosen from 2,600+ entries in 50+ countries, and teachers used it for art plus science projects. The next big sky event is the long total solar eclipse of 2 Aug 2027 over Spain, North Africa and the Middle East. Total 994."
+   "note": "Earlier runs summarised (up to Run 228): older log lines condensed."
   },
   {
    "date": "2026-11-16 00:05",
@@ -9464,13 +9481,13 @@
   {
    "date": "2026-11-16 04:07",
    "note": "Run 306 (visual craft (Blender 5.2 LTS tools, Meshy text to motion limits)): Blender 5.2 LTS (Jul 2026, supported to Jul 2028) adds node based hair and cloth physics, online asset libraries (Blender Online Essentials), a Cycles texture cache, EEVEE usability fixes and a better Grease Pencil fill, a stable base for our pipeline. Meshy's Text to Motion makes clips of 2 to 10 seconds from prompts up to 400 characters and deletes results after 3 days, so long dances must be built from several short clips and downloaded quickly. Total 1293."
+  },
+  {
+   "date": "2026-11-16 04:07",
+   "note": "Run 307 (TRENDS (December returners: Christmas say the word on the beat, letters to Santa, holidays around the world)): Last December Kapwing pushed a Christmas edition of 'say the word on the beat' (rhyming festive pictures, the beat speeds up each round, one slip ends it), a kid perfect game Short likely to return. Kids channel holiday staples remain sing alongs with on screen lyrics, letters to Santa read aloud with replies, daily advent minis and 'Christmas around the world' tours. The beat word game joined the trend bank. Total 1296."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:52",
-   "total": 101
-  },
   {
    "date": "2026-11-15 15:53",
    "total": 107
@@ -10666,6 +10683,10 @@
   {
    "date": "2026-11-16 04:07",
    "total": 1293
+  },
+  {
+   "date": "2026-11-16 04:07",
+   "total": 1296
   }
  ],
  "next_week_ideas": [
@@ -10727,6 +10748,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Say the word on the beat (Christmas)",
+   "where": "TikTok and Shorts (Christmas edition spread mid Dec 2025, likely back)",
+   "status": "seasonal",
+   "use": "Vertical Short on our own beat: a grid of festive pictures (bell, shell, star, car, tree, bee) lights up one per beat and the Bros say each word aloud, then the viewer's turn with the same grid; round two is faster, round three faster still, ending with the Bros laughing when Little Bro slips. No copyrighted song, our own beat."
+  },
   {
    "name": "Silent dance, then the song",
    "where": "TikTok (dance in silence then replay with a random sound, Nov 2025)",
@@ -10840,12 +10867,6 @@
    "where": "TikTok ('out of breath' dance challenge, top clips 10M+ views, families join in)",
    "status": "rising",
    "use": "End any high energy Bro Bros song by dancing faster and faster, then both brothers freeze in a wobbly tired pose, puff their cheeks and give a thumbs up. Meshy steps: standing in place, fast jogging on the spot, arms pumping, big jumping jack twice, then a slow wobble with arms hanging loose and one tired thumbs up. No lying down."
-  },
-  {
-   "name": "Synced duo routine",
-   "where": "TikTok (Ba Ba Ba dance, No. 1 by new videos per day on 13 Nov 2026, ViralRemix chart)",
-   "status": "peak",
-   "use": "Big Bro and Little Bro side by side do the same short routine perfectly in sync to our own bouncy song, then a playful mistake by Little Bro and a laugh. Meshy steps: standing in place, two claps, step right and left, roll arms forward twice, point to the camera together, small hop with both feet, end with a high five."
   }
  ]
 }
