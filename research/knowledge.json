@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:52:02+05:30",
- "runs": 86,
+ "updated": "2026-11-15T18:52:56+05:30",
+ "runs": 87,
  "branches": [
   {
    "id": "platforms",
@@ -475,6 +475,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 86
+    },
+    {
+     "t": "Nielsen H1 2026 (US): Bluey was the No. 2 streaming title of all with 22.8B minutes, PAW Patrol No. 10 with 13.6B and Ms Rachel 8.6B; CoComelon was absent from every top 20 list.",
+     "src": "What's on Netflix (Nielsen), Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 87
+    },
+    {
+     "t": "The US kids film top 20 for H1 2026 is led by Zootopia 2 (6.5B minutes), KPop Demon Hunters (5.6B), Zootopia and Goat, and half the list are musicals or song heavy films (Frozen, Moana, Encanto, KPop Demon Hunters): animal comedy plus big singable songs is the family formula.",
+     "src": "What's on Netflix (Nielsen), Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 87
+    },
+    {
+     "t": "Amazon Kids+ launched Sleep Studio (Jun 2026): a 30 minute wind down that starts by itself on Echo kids devices at bedtime with lullabies, soundscapes and sleep stories from Calm, Headspace and Moshi, so bedtime audio on smart speakers is a curated category our lullabies could one day reach through audio distribution.",
+     "src": "Amazon press release, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 87
+    },
+    {
+     "t": "Gen Alpha tweens' big fixation in autumn 2026 is Verity, an hour long animated story set inside Minecraft by YouTuber ThatMob, proof that older kids sit through long animated stories in game worlds; its horror tone is not for us, but a playful block world song could catch older siblings.",
+     "src": "YPulse, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 87
     }
    ]
   },
@@ -3263,10 +3291,6 @@
    "note": "Summary of 2 earlier runs: research covered all 12 focus areas."
   },
   {
-   "date": "2026-11-15 15:53",
-   "note": "Run 8 (global markets): Dubbing data: in an 11 language kids test Spanish, Arabic, Indonesian and Portuguese pulled ahead and dubbed tracks gave over 30% of views; poor AI dubs crushed watch time; multi audio beats new channels when demand exists; El Reino Infantil leads Spanish kids content with audiences led by Mexico and Argentina. Total 107."
-  },
-  {
    "date": "2026-11-15 15:54",
    "note": "Run 9 (competitors Bebefinn and Lalafun): Bebefinn: about 84M subs brand wide, 370M views a month on the main channel, top hits are a morning routine, a Baby Shark crossover, a mix and a car chase. Lalafun: a 3D channel born Oct 2022 now at 15M subs and 600M+ views a month from animal twists on public domain rhymes plus learning tags. Total 114."
   },
@@ -3577,6 +3601,10 @@
   {
    "date": "2026-11-15 18:52",
    "note": "Run 86 (Shorts and Reels trends (Shorts shelf life, holiday sounds)): Analysts of very large channels report Shorts impressions fall sharply after about 28 to 30 days and that Shorts now show more in Search for how to and learning queries. On Reels three of the top eight sounds in the week of 11 Nov are Christmas label tracks used for countdowns and 'it's time' reveals, none usable on business accounts. Total 453."
+  },
+  {
+   "date": "2026-11-15 18:52",
+   "note": "Run 87 (other platforms (Nielsen H1 2026, Amazon Kids Sleep Studio, Gen Alpha)): Nielsen H1 2026 (US): Bluey was the No. 2 streaming title overall with 22.8B minutes, PAW Patrol No. 10, Ms Rachel 8.6B; the kids film list is led by animal comedy and music films (Zootopia 2, KPop Demon Hunters, Goat). Amazon Kids+ added an automatic 30 minute Sleep Studio wind down on Echo kids devices. Tweens' current YouTube fixation is an hour long Minecraft animated story. Total 457."
   }
  ],
  "history": [
@@ -3923,6 +3951,10 @@
   {
    "date": "2026-11-15 18:52",
    "total": 453
+  },
+  {
+   "date": "2026-11-15 18:52",
+   "total": 457
   }
  ],
  "next_week_ideas": [
