@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:04:46+05:30",
- "runs": 51,
+ "updated": "2026-11-15T17:05:17+05:30",
+ "runs": 52,
  "branches": [
   {
    "id": "platforms",
@@ -328,6 +328,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 51
+    },
+    {
+     "t": "The iTunes Top 100 Kids Songs (Nov 2026) is led by gentle faith songs and soft covers (You Are My Sunshine), plus parent nostalgia themes (Kim Possible, VeggieTales, Return to Pooh Corner): paid downloads are driven by parents' own taste.",
+     "src": "PopVortex iTunes chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 52
+    },
+    {
+     "t": "Silly food and body novelty songs chart high on iTunes kids (String Cheese, Raining Tacos, Shiny Teeth, The Cuppycake Song), so a funny food song with a catchy nonsense chorus can sell beyond YouTube.",
+     "src": "PopVortex iTunes chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 52
+    },
+    {
+     "t": "Bluey's Dance Mode and the Bluey theme, Baby Shark, and Ms. Rachel's Wheels on the Bus and Caterpillar sit in the iTunes kids top 20, showing brands born on TV or YouTube carry into audio sales.",
+     "src": "PopVortex iTunes chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 52
     }
    ]
   },
@@ -2453,6 +2474,10 @@
   {
    "date": "2026-11-15 17:04",
    "note": "Run 51 (Shorts and Reels (Instagram data)): Metricool's study of 24M Instagram posts (early 2026): posts with hashtags got 32% fewer views and 34% fewer interactions than posts without; Reels watch time doubled to 8.5 s on average; calls to comment lift comments 203%. Share guidance: 15 to 45 second Reels, a payoff within 15 s, and more than 5 Reels a week is usually counterproductive for small teams. Total 309."
+  },
+  {
+   "date": "2026-11-15 17:05",
+   "note": "Run 52 (other platforms (iTunes kids chart)): The current iTunes Top 100 Kids Songs mixes faith songs, gentle lullaby covers (You Are My Sunshine), nostalgic parent era theme songs (Kim Possible, VeggieTales, Return to Pooh Corner), Bluey's Dance Mode, Baby Shark, Ms. Rachel's Wheels on the Bus and silly novelty songs (String Cheese, Raining Tacos, Shiny Teeth). Total 312."
   }
  ],
  "history": [
@@ -2659,9 +2684,17 @@
   {
    "date": "2026-11-15 17:04",
    "total": 309
+  },
+  {
+   "date": "2026-11-15 17:05",
+   "total": 312
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Wiggly Noodle Song",
+   "why": "Silly food novelty songs (String Cheese, Raining Tacos) chart on iTunes kids; noodles that wiggle, slurp and twirl give a giggly chorus and easy dance moves."
+  },
   {
    "title": "My Turn, Your Turn!",
    "why": "Sharing and taking turns is BabyBus's newest 54M view breakout; the Bros pass a ball, a swing and a drum back and forth to a call and answer chorus."
@@ -2713,10 +2746,6 @@
   {
    "title": "Ten Little Lights Countdown",
    "why": "Counting 10 to 1 with twinkling lights links many December festivals (Hanukkah, Velitas, St Lucia, Christmas) and hides number learning; works worldwide."
-  },
-  {
-   "title": "Robot Speed Dance",
-   "why": "A dance game with fast, slow, super slow and freeze levels (Danny Go! style game structure) starring Zoomy; clap along break in the middle builds rhythm skills parents value."
   }
  ]
 }
