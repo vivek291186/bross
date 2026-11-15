@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:36:15+05:30",
- "runs": 312,
+ "updated": "2026-11-16T04:37:57+05:30",
+ "runs": 313,
  "branches": [
   {
    "id": "platforms",
@@ -1140,6 +1140,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 312
+    },
+    {
+     "t": "YouTube is testing image Posts, including carousels of up to 10 images with text and Audio Library music, inside the Shorts feed, so a Bro Bros lyric or 'spot the difference' carousel could one day reach Shorts viewers without a new render.",
+     "src": "Pulse citing 9to5Google, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 313
     }
    ]
   },
@@ -2190,6 +2197,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 302
+    },
+    {
+     "t": "Team YouTube's YouTube Kids FAQ (1 Apr 2026) says separate automated filters check the thumbnail, the title and the video itself and each one can block a video on its own, so a single scary or busy thumbnail can keep an otherwise perfect song out of the YouTube Kids app.",
+     "src": "PPC Land citing YouTube Help, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 313
     }
    ]
   },
@@ -7615,6 +7629,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 311
+    },
+    {
+     "t": "YouTube is piloting a monthly Shorts consistency bonus (reported 16 to 23 Oct 2026): invite only Partner Program creators in the US, UK, Germany, Brazil, Japan and South Korea get a base payment for hitting a set number of public Shorts a month plus a bonus tied to valid engaged Shorts views; India is not in the pilot and made for kids eligibility is not stated.",
+     "src": "Net Influencer, Tubefilter, TubeBuddy, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 313
     }
    ]
   },
@@ -9234,35 +9255,7 @@
      "run": 310
     },
     {
-     "t": "A playful dembow track, Dame Hombro, is rising on TikTok in November 2026, spreading from US Latin creators to Spain and Italy, with a simple shoulder bounce on the beat as its move.",
-     "src": "SocialPilot, Nov 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 312
-    },
-    {
-     "t": "The costume loading transition (everyday clothes plus a 'loading' caption, freeze the frame, then cut to the full costume on the bass drop) peaked around Halloween and trackers say the twist structure gets copied more than the audio.",
-     "src": "SocialPilot, que.es, Nov 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 312
-    },
-    {
-     "t": "Since 1 November feeds have switched from Halloween to Christmas content: decor swaps and 'first holiday song of the year' clips, so December themed Shorts can start now.",
-     "src": "SocialPilot, Nov 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 312
-    },
-    {
-     "t": "Later's 13 November Reels roundup lists '5 stages of being...' (five short clips going from confident to overwhelmed) and outfit swaps filmed from one locked camera with a single move instead of jump cut edits.",
-     "src": "Later, Nov 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 312
-    },
-    {
-     "t": "Fabulate's November TikTok column found 'he is always dancing' clips (someone dancing unprompted in the kitchen and everywhere) and costume reveals that tilt up from the feet were among October's biggest formats.",
+     "t": "Fabulate's November column found that October costume reveals often tilted the camera up from the feet to the face, a slow reveal shot kids can copy in any outfit or costume.",
      "src": "B&T / Fabulate, Nov 2026",
      "conf": "medium",
      "date": "2026-11-16",
@@ -9295,10 +9288,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 00:37",
-   "note": "Run 234 (visual craft (breakout thumbnail data, fantasy versus pace, handmade looks at Annecy)): vidIQ's coding of 500 breakout thumbnails (June 2026) found 89% use a face or high contrast and only 5% an exaggerated expression; a meta analysis of 35 experiments found fast editing alone does not hurt kids' attention but constant fantasy causes a short dip, so routine and learning songs should stay grounded with one magic moment. Annecy 2026 buyers favoured handmade looks over AI looking ones. Total 1022."
   },
   {
    "date": "2026-11-16 00:39",
@@ -9610,14 +9599,14 @@
   },
   {
    "date": "2026-11-16 04:36",
-   "note": "Run 312 (TRENDS (shoulder bounce dembow, costume loading freeze, 5 stages of, always dancing)): November trackers show a playful dembow shoulder bounce (Dame Hombro) rising from US Latin creators into Spain and Italy, the costume loading freeze then cut on the bass drop, Later's '5 stages of being...' and locked camera outfit swaps, and Fabulate's 'always dancing' clips plus feet up reveals; feeds switched to Christmas from 1 November. Four formats joined the trend bank, four faded or duplicate ones left. Total 1314."
+   "note": "Run 312 (TRENDS (shoulder bounce, outfit loading, 5 stages, always dancing)): November trackers mostly confirmed formats already in the tree (Dame Hombro shoulder bounce, costume loading freeze, '5 stages of being...', 'always dancing', the Christmas switch), so their repeat leaves were merged; new were feet up camera reveals and Metricool's finding that Reels get 65% of views in the first three days. Four of these formats became December trend bank entries, replacing four faded or duplicate ones. Total 1310."
+  },
+  {
+   "date": "2026-11-16 04:37",
+   "note": "Run 313 (YouTube algorithm (YouTube Kids filter gate, Shorts consistency bonus, image posts in the Shorts feed)): Team YouTube's Kids FAQ says thumbnail, title and video filters each can block a video on their own, so one risky thumbnail can keep a good song out of YouTube Kids. YouTube is piloting an invite only monthly Shorts bonus for regular uploaders (US, UK, Germany, Brazil, Japan, South Korea, not India) and testing image carousel Posts with music inside the Shorts feed. Total 1313."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 15:58",
-   "total": 141
-  },
   {
    "date": "2026-11-15 15:58",
    "total": 147
@@ -10812,7 +10801,11 @@
   },
   {
    "date": "2026-11-16 04:36",
-   "total": 1314
+   "total": 1310
+  },
+  {
+   "date": "2026-11-16 04:37",
+   "total": 1313
   }
  ],
  "next_week_ideas": [
