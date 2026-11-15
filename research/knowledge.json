@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:42:33+05:30",
- "runs": 175,
+ "updated": "2026-11-15T21:43:19+05:30",
+ "runs": 176,
  "branches": [
   {
    "id": "platforms",
@@ -4577,6 +4577,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 174
+    },
+    {
+     "t": "Thailand's biggest family and kids YouTube channels in Nov 2026 include Vlad and Niki's Thai channel (14.2M subscribers, 5.8B views) and local J Jai Pan (13.5M, 14.8B) and YimYam TV (10.5M), so Thai is a big, proven dub market that our tree had not covered.",
+     "src": "hypeauditor.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 176
+    },
+    {
+     "t": "Russian kids song channel TaDaBoom (Masha and the Bear songs, 6.24M subscribers) gets about 82.5M views a month but vidIQ models only about 7,800 USD a month from ads, roughly 0.1 USD per 1,000 views, because ad sales in Russia are restricted, so a Russian dub brings reach, not income.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 176
+    },
+    {
+     "t": "TaDaBoom's second biggest recent hit is a premiere lullaby (18.3M views since Jan 2025) and it now streams English lessons with its characters, showing that bedtime songs and English learning travel into non English markets.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 176
+    },
+    {
+     "t": "Akili and Me, Ubongo's East African preschool channel (1.24M subscribers, about 7.7M views a month), has a toilet training health song as its all time top video (14.3M), ahead of alphabet songs, so potty and hygiene songs are among the most searched kids topics in emerging markets too.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 176
     }
    ]
   },
@@ -5514,11 +5542,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 33 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 19:00",
-   "note": "Run 97 (YouTube algorithm (valued watch time, Studio tools)): YouTube counts 'valued watch time' only on videos viewers rate four or five stars in surveys, with a model predicting that rating for everyone, and Todd Beaupre says no signal has the same weight for everyone. Studio shows no survey score. The Inspiration tab has been phased out since August 2026; Ask Studio is now the idea tool. Total 489."
+   "note": "Earlier runs summarised: 34 older log entries condensed."
   },
   {
    "date": "2026-11-15 19:00",
@@ -5831,6 +5855,10 @@
   {
    "date": "2026-11-15 21:42",
    "note": "Run 175 (topics and seasons (southern summer break, where Christmas songs peak)): YouTube's charts for the week before Christmas 2025 show six Christmas songs in the US top 10 and Christmas leading the UK and Germany, but almost none in India, Brazil, South Africa or Japan. Brazil's school year ends 18 to 23 Dec 2026, so Brazil and the southern hemisphere get summer holiday songs (beach, pool, sun) while the north gets snow and Christmas. Total 774."
+  },
+  {
+   "date": "2026-11-15 21:43",
+   "note": "Run 176 (global markets (Thai, Russian, East Africa)): Thailand's biggest family channels are big: Vlad and Niki's Thai channel has 14.2M subscribers and local J Jai Pan 13.5M, so Thai is a large dub market. Russian Masha songs channel TaDaBoom earns about 82M views a month but vidIQ models only about 7,800 USD, so Russian dubs bring reach but little money. Akili and Me shows a toilet habit song can be an East African channel's top hit. Total 778."
   }
  ],
  "history": [
@@ -6533,6 +6561,10 @@
   {
    "date": "2026-11-15 21:42",
    "total": 774
+  },
+  {
+   "date": "2026-11-15 21:43",
+   "total": 778
   }
  ],
  "next_week_ideas": [
