@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:02:22+05:30",
- "runs": 134,
+ "updated": "2026-11-15T20:02:57+05:30",
+ "runs": 135,
  "branches": [
   {
    "id": "platforms",
@@ -678,6 +678,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 130
+    },
+    {
+     "t": "Bruno Mars' avatar concert inside the Roblox game Steal a Brainrot on 17 Jan 2026 drew 12,862,161 concurrent players (a Guinness record for a videogame concert) plus 10M livestream viewers, and a limited in game character released with it was collected 5.4M times: music plus a collectible is what pulls Gen Alpha in games.",
+     "src": "guinnessworldrecords.com, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 135
+    },
+    {
+     "t": "Gamefam (a Roblox brand studio) reports Roblox passed 151M daily users in 2025 (+70%) and Gen Alpha and Gen Z users spend about 2.7 hours a day there, against about 2 on TikTok and 1.2 on YouTube; its viral hits (Grow a Garden, Steal a Brainrot, 99 Nights in the Forest) set the jokes and words older kids repeat.",
+     "src": "gamefam.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 135
     }
    ]
   },
@@ -3331,6 +3345,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 132
+    },
+    {
+     "t": "Gen Alpha's biggest 2025 to 2026 Roblox games revolve around growing a garden, collecting silly creatures and dressing up, so a Bro Bros song about planting a magic garden or collecting funny critters speaks to older siblings without copying any game's characters.",
+     "src": "gamefam.com, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 135
     }
    ]
   },
@@ -4442,12 +4463,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:06",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:07",
-   "note": "Run 56 (global markets (dubbing, Arabic)): YouTube auto dubbing covers 27 languages, with expressive speech (keeps pitch and energy) in 8 including Spanish, Portuguese, Hindi and Indonesian; over 6M people a day watch 10+ minutes of dubbed video; videos with little speech or Content ID claims are ineligible, so sung songs are not a reliable fit. Abu Dhabi's culture chief says 80% of what Arab kids watch is not in Arabic and calls it an opportunity. Total 328."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:08",
@@ -4760,6 +4777,10 @@
   {
    "date": "2026-11-15 20:02",
    "note": "Run 134 (competitor deep dive (CoComelon spin offs, Little Angel)): CoComelon's growth in its 'sustain' phase came from side character spin off channels, led by JJ's Animal Time at 200M+ views a month, plus Cody Time and Nina's Familia. Little Angel's main English channel (7.3M) now draws only 14 to 36M views most months; its all time hits are a classic rhyme, a calming 'monsters under the bed' bedtime song, a colours song and an ice cream truck song. Total 622."
+  },
+  {
+   "date": "2026-11-15 20:02",
+   "note": "Run 135 (other platforms (Roblox concerts and time spent)): Bruno Mars' avatar concert inside the Roblox game Steal a Brainrot (17 Jan 2026) drew 12.86M concurrent players, a world record, and a limited collectible character tied to it was grabbed 5.4M times. Gamefam reports Roblox passed 151M daily users in 2025 and young users spend about 2.7 hours a day there, more than on TikTok or YouTube. Total 625."
   }
  ],
  "history": [
@@ -5298,6 +5319,10 @@
   {
    "date": "2026-11-15 20:02",
    "total": 622
+  },
+  {
+   "date": "2026-11-15 20:02",
+   "total": 625
   }
  ],
  "next_week_ideas": [
