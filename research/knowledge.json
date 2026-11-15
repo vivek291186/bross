@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:47:30+05:30",
- "runs": 121,
+ "updated": "2026-11-15T19:48:13+05:30",
+ "runs": 122,
  "branches": [
   {
    "id": "platforms",
@@ -636,6 +636,20 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 120
+    },
+    {
+     "t": "Netflix's most watched animated series worldwide in H1 2026: Peppa Pig 81.8M views, The Creature Cases 49.3M, Masha and the Bear 40.4M, CoComelon 39.4M, Little Angel 38.1M, Booba 32.7M, Lottie Dottie Chicken 31.5M, PAW Patrol 27.5M and Bebefinn 26.5M; six of the nine began on YouTube.",
+     "src": "whats-on-netflix.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 122
+    },
+    {
+     "t": "CoComelon has left the US streaming top lists but still ranks No. 4 among Netflix's animated series worldwide in 2026, and its sister brand Little Angel is right behind it, so nursery song brands keep strong global demand outside the US.",
+     "src": "whats-on-netflix.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 122
     }
    ]
   },
@@ -2715,6 +2729,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 120
+    },
+    {
+     "t": "Booba and Masha and the Bear, both near wordless 3D slapstick shows that started on YouTube, sit in Netflix's global animated top six, more proof that physical comedy and music with little dialogue cross every language.",
+     "src": "whats-on-netflix.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 122
     }
    ]
   },
@@ -3408,6 +3429,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 115
+    },
+    {
+     "t": "Spotify Wrapped 2025 in Nigeria, Ghana, Kenya and South Africa was dominated by children's picks (CoComelon, Pinkfong, Super Simple Songs, soft classics such as You Are My Sunshine) played on smart speakers and family TVs, so English language kids songs already reach anglophone African homes with no dubbing.",
+     "src": "newstrends.co.ke, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 122
     }
    ]
   },
@@ -4106,12 +4134,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 16:59",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:00",
-   "note": "Run 43 (topics and seasons): John Lewis' Christmas 2026 toy picks centre on family shared play off screen, classic wooden toys, a toy train winter village, K pop singing dolls and blind box collectibles; India's next dates are World Hello Day (21 Nov) and Guru Nanak Jayanti (24 Nov). Total 275."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:00",
@@ -4424,6 +4448,10 @@
   {
    "date": "2026-11-15 19:47",
    "note": "Run 121 (YouTube algorithm (Ask YouTube and Gemini search)): Ask YouTube had over 140M users in June 2026 and its Gemini model matches a question to the exact moment in a video, with chapters the biggest help; speech, captions and on screen labels feed it too. Playbook: every compilation gets a chapter per song named in parents' search words. Total 574."
+  },
+  {
+   "date": "2026-11-15 19:48",
+   "note": "Run 122 (other platforms (Netflix animated series 2026, Spotify Wrapped in Africa)): Netflix's most watched animated series of H1 2026 worldwide were Peppa Pig (81.8M views), then The Creature Cases, Masha and the Bear, CoComelon, Little Angel, Booba, Lottie Dottie Chicken, PAW Patrol and Bebefinn: six of the top nine began on YouTube. In Nigeria, Ghana, Kenya and South Africa, Spotify Wrapped 2025 was full of CoComelon, Pinkfong and Super Simple Songs, so English kids songs already travel across anglophone Africa. Total 578."
   }
  ],
  "history": [
@@ -4910,6 +4938,10 @@
   {
    "date": "2026-11-15 19:47",
    "total": 574
+  },
+  {
+   "date": "2026-11-15 19:48",
+   "total": 578
   }
  ],
  "next_week_ideas": [
