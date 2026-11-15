@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:59:26+05:30",
- "runs": 15,
+ "updated": "2026-11-15T16:00:08+05:30",
+ "runs": 16,
  "branches": [
   {
    "id": "platforms",
@@ -139,6 +139,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 15
+    },
+    {
+     "t": "YouTube reaches 67% of US kids aged 2 to 5, 78% of 6 to 9 and 80% of 10 to 12, far ahead of tablet games, streaming services and other social video apps.",
+     "src": "Precisify via Advanced Television, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 16
+    },
+    {
+     "t": "Kids streaming trends for 2026: learning wrapped in stories (science, nature, feelings), interactive quizzes and choices, shorter flexible episodes, characters from many cultures and family types, and nature and recycling themes.",
+     "src": "TodoTV News, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 16
+    },
+    {
+     "t": "On Netflix, PAW Patrol led kids hours in H2 2025 and Gabby's Dollhouse led 2025 overall; preschool is now so crowded that new IP needs strong marketing as well as strong content to break in.",
+     "src": "Kids StreamerSphere, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 16
+    },
+    {
+     "t": "UK 8 to 14 year olds spend about 3 hours a day online; YouTube reaches almost all of them in a month and Roblox is the top games app at 61% reach.",
+     "src": "Ofcom, Jun 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 16
     }
    ]
   },
@@ -1217,6 +1245,10 @@
   {
    "date": "2026-11-15 15:59",
    "note": "Run 15 (Shorts and Reels algorithm): Shorts: seed audience loop, no ideal length or posting time per YouTube, stalled Shorts need a new Short not a repost, Shorts series and custom thumbnails added in 2026. Reels: 55% of views come from non followers, DM sends weigh 3 to 5x likes, Trial Reels for 1,000+ follower accounts, aggregator penalty for 70%+ reused visuals or audio. Total 153."
+  },
+  {
+   "date": "2026-11-15 16:00",
+   "note": "Run 16 (other platforms): YouTube reaches 67% of US kids aged 2 to 5 and 80% of 10 to 12; streamer kids trends are edutainment inside stories, interactive choices and short flexible viewing; Netflix preschool is the most crowded category (PAW Patrol, Gabby's Dollhouse, Ms. Rachel, Sesame Street); Roblox reaches 61% of UK 8 to 14s. Total 157."
   }
  ],
  "history": [
@@ -1279,6 +1311,10 @@
   {
    "date": "2026-11-15 15:59",
    "total": 153
+  },
+  {
+   "date": "2026-11-15 16:00",
+   "total": 157
   }
  ],
  "next_week_ideas": [
