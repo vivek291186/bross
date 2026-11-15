@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:02:09+05:30",
- "runs": 19,
+ "updated": "2026-11-15T16:02:50+05:30",
+ "runs": 20,
  "branches": [
   {
    "id": "platforms",
@@ -1098,6 +1098,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 10
+    },
+    {
+     "t": "Indonesia is a kids viewing giant: in one Aug 2026 week five Indonesian, kid friendly family creators sat in the worldwide top 50 (Keizo and Friends #18 with 655M weekly views), even after an under 16 social media ban.",
+     "src": "Tubefilter, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 20
+    },
+    {
+     "t": "YouTube music royalties per 1,000 streams (Content ID, Aug 2025 to Jul 2026): Canada 9.57 USD, Germany 7.34, UK 5.81, Australia 5.78, US 4.30, Mexico 1.39, Brazil 1.03, India 0.48, Philippines 0.31, Indonesia 0.15.",
+     "src": "Dynamoi royalty data, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 20
+    },
+    {
+     "t": "The biggest kids audiences (India, Indonesia, Philippines, Brazil) pay the least per view, so the winning mix is English songs that travel to high value markets plus dubbed tracks for volume markets.",
+     "src": "Dynamoi / AIR, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 20
     }
    ]
   },
@@ -1217,6 +1238,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 14
+    },
+    {
+     "t": "Songs released as YouTube Music Art Tracks through a distributor earn much more per 1,000 streams than Content ID claims (UK 18.87 USD, Germany 14.05, US 11.22), a second income stream for our Suno songs made on the paid plan.",
+     "src": "Dynamoi royalty data, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 20
     }
    ]
   },
@@ -1373,6 +1401,10 @@
   {
    "date": "2026-11-15 16:02",
    "note": "Run 19 (topics and seasons): US Thanksgiving is 26 Nov; Lunar New Year 2027 is 6 Feb, Year of the Goat; Gen Alpha 3 to 8 favourites are superheroes, Bluey, Barbie, Elsa, Sonic and SpongeBob; games are now the third way kids discover characters; parents love sharing favourites. Total 173."
+  },
+  {
+   "date": "2026-11-15 16:02",
+   "note": "Run 20 (global markets): Indonesia: five Indonesian, kid friendly creators in a single Tubefilter weekly top 50 despite an under 16 social media ban. Music royalty rates per 1,000 streams show rich markets (Canada, Germany, UK, Australia, US) pay 10 to 60 times more than India, Indonesia and the Philippines; Art Tracks pay far more than Content ID. Total 177."
   }
  ],
  "history": [
@@ -1451,6 +1483,10 @@
   {
    "date": "2026-11-15 16:02",
    "total": 173
+  },
+  {
+   "date": "2026-11-15 16:02",
+   "total": 177
   }
  ],
  "next_week_ideas": [
