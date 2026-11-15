@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T22:41:24+05:30",
- "runs": 188,
+ "updated": "2026-11-15T22:47:30+05:30",
+ "runs": 189,
  "branches": [
   {
    "id": "platforms",
@@ -2463,6 +2463,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 181
+    },
+    {
+     "t": "VocaVoca's last 28 days to 12 Nov 2026 brought about 1.42B views versus 2.91B in October, so even a fast rising song channel roughly halved its monthly reach once the Halloween spike passed; seasonal surges must be followed at once by the next season's songs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 189
+    },
+    {
+     "t": "VocaVoca's newest upload, a good manners song ('May I Please?', 11 Nov 2026), reached about 133K views in its first 13 hours, more evidence that manners, habits and safety songs are this channel's engine after Halloween.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 189
+    },
+    {
+     "t": "Jasmin and James (Germany based duo, 43.1M subs, 79.9B views from about 26,700 videos) get their best recent Shorts from behind the scenes bloopers (120K to 188K views) and 'Can you do it?' challenges, ahead of plain trend tutorials; a Bro Bros bloopers Short (a brother slipping on a dance move) and a direct 'Can you do it?' challenge are cheap, proven formats.",
+     "src": "Vidanalyze, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 189
+    },
+    {
+     "t": "Jasmin and James lean on movie character trend tutorials (Spider-Verse costume trends); we skip anything using protected characters and copy only the tutorial format (slow step, then full speed) with our own Bros.",
+     "src": "Vidanalyze, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 189
     }
    ]
   },
@@ -5882,10 +5910,6 @@
   },
   {
    "date": "2026-11-15 19:09",
-   "note": "Run 110 (Shorts and Reels (Shorts metrics in Studio)): For Shorts, Studio's 'how many chose to view' (viewed vs swiped away) mostly reflects the first two seconds, with community benchmarks of 70 to 79% working and 80% plus strong; 'shown in feed' shows whether YouTube is distributing at all, and engaged views (not raw views) decide Partner Program eligibility and Shorts revenue. Our Shorts feed gave only 37 views in two weeks, a distribution problem first. Total 530."
-  },
-  {
-   "date": "2026-11-15 19:09",
    "note": "Run 111 (other platforms (Netflix kids top 10s worldwide, 2025)): FlixPatrol based ranking of Netflix kids top 10s worldwide in 2025: series led by Peppa Pig, Gabby's Dollhouse, Masha and the Bear and PAW Patrol, films by KPop Demon Hunters; YouTube born titles in the top 50 include Ms Rachel (No. 5), CoComelon (No. 8), Bebefinn (No. 9), Jose Comelon (Spanish CoComelon), Baby Shark Hospital Play and Lottie Dottie Chicken. Total 533."
   },
   {
@@ -6195,6 +6219,10 @@
   {
    "date": "2026-11-15 22:41",
    "note": "Run 188 (global markets (Mexico's spike channel, top 50 by country, Nigerian Afrobeat kids animation)): Mexico's El Tren Nam Nam jumped to No. 2 worldwide (about 1.08B views in the week of 25 Oct) then fell 52% two weeks later, and VocaVoca dropped out of the top 50 from No. 11, so kids channel peaks swing fast. The kids and family channels in the weekly top 50 now come from Australia, Germany, Indonesia, Mexico, India and Canada. Nigeria's Jeni and Keni (two siblings, Afrobeat songs for ages 1 to 6) is a close African analogue to Bro Bros. Total 826."
+  },
+  {
+   "date": "2026-11-15 22:47",
+   "note": "Run 189 (competitor deep dive (VocaVoca after Halloween, Jasmin and James duo Shorts)): VocaVoca's last 28 days to 12 Nov brought about 1.42B views against 2.91B in October, so its post Halloween drop roughly halved monthly reach, while its newest good manners cartoon still got about 133K views in 13 hours. Germany based duo Jasmin and James (43.1M subs, 79.9B views, about 26,700 videos) gets its best recent Shorts from behind the scenes clips and 'Can you do it?' challenges rather than plain trend copies. Total 830."
   }
  ],
  "history": [
@@ -6949,6 +6977,10 @@
   {
    "date": "2026-11-15 22:41",
    "total": 826
+  },
+  {
+   "date": "2026-11-15 22:47",
+   "total": 830
   }
  ],
  "next_week_ideas": [
