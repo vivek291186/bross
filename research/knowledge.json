@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T03:45:01+05:30",
- "runs": 289,
+ "updated": "2026-11-16T03:46:09+05:30",
+ "runs": 290,
  "branches": [
   {
    "id": "platforms",
@@ -2092,6 +2092,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 279
+    },
+    {
+     "t": "YouTube said on 1 Oct 2026 ('Prioritizing original content on Shorts') that the Shorts feed will give original videos more priority and reduce distribution for channels that mainly re upload others' clips without adding anything; it is judged for the whole channel with no notice, so Bro Bros must never pad the Shorts shelf with other creators' clips, and our own originals gain.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 290
+    },
+    {
+     "t": "Since April 2026 viewers can set their daily Shorts limit to 0 minutes, which removes the Shorts tab, the Home Shorts shelf and Shorts in Search and Suggested on all their devices; some Shorts only channels saw a 7 to 14% impressions dip in the first week, so our long songs and compilations protect reach among parents who switch Shorts off.",
+     "src": "OutlierKit, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 290
+    },
+    {
+     "t": "Todd Beaupre (Creator Insider, Sep 2026) said early performance is learned separately for subscribers and for new viewers, so a video can do poorly with subscribers yet still spread to new audiences, most viewing of subscribed channels happens in the Suggested list rather than the Subscriptions feed, and a video should not be judged in its first hour because some peak much later.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 290
+    },
+    {
+     "t": "Beaupre also advised using separate channels when audiences expect different things and not treating a channel's best video as the benchmark, which supports keeping Hindi stories and English songs on separate Bro Bros channels and judging each song against our median, not our top hit.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 290
     }
    ]
   },
@@ -8783,11 +8811,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 210): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 23:49",
-   "note": "Run 211 (TRENDS (late October rising formats for families: bow on the drop, rock paper scissors, pick your favourite; Thanksgiving gratitude cloth)): Virlo's tracker (29 Oct) shows family friendly formats rising: rock paper scissors over one plate of food, 'pick your favourite on three' and posing then bowing deeply on the beat drop; two joined the trend bank as Bro Bros games (two older ones left). Thanksgiving (26 Nov) brings back the gratitude tablecloth where kids trace their hands and families write thanks. Total 927."
+   "note": "Earlier runs summarised (up to Run 211): older log lines condensed."
   },
   {
    "date": "2026-11-15 23:50",
@@ -9100,6 +9124,10 @@
   {
    "date": "2026-11-16 03:45",
    "note": "Run 289 (TRENDS (December returners: save Christmas quests, holiday classics, first snow ever reactions)): Last December's kids creator hits wrapped toys in a story (a quest to 'save Christmas') or let viewers choose between two paths, and a republished classic Christmas cartoon gathered 12M views in a month. 'First snow ever' reactions (a man from Uganda in Canada, students in Finland, babies, pets, even a baby camel) go viral every early winter and suit an animated wonder moment. Two December formats joined the trend bank. Total 1241."
+  },
+  {
+   "date": "2026-11-16 03:46",
+   "note": "Run 290 (YouTube algorithm (original Shorts priority, Shorts off switch, subscriber vs non subscriber learning)): YouTube announced on 1 Oct 2026 that the Shorts feed will favour original content and cut reach for channels that mainly re upload others' clips, judged at channel level and with no notice. Since April 2026 any viewer can set Shorts time to zero, which removes Shorts from Home, Search and Suggested, so Shorts only channels lose those viewers. Todd Beaupre explained that early results are learned separately for subscribers and new viewers and that most subscribed viewing happens in Suggested, not the Subscriptions feed. Total 1245."
   }
  ],
  "history": [
@@ -10258,6 +10286,10 @@
   {
    "date": "2026-11-16 03:45",
    "total": 1241
+  },
+  {
+   "date": "2026-11-16 03:46",
+   "total": 1245
   }
  ],
  "next_week_ideas": [
