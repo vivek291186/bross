@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:01:52+05:30",
- "runs": 46,
+ "updated": "2026-11-15T17:02:26+05:30",
+ "runs": 47,
  "branches": [
   {
    "id": "platforms",
@@ -1952,6 +1952,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 38
+    },
+    {
+     "t": "YouTube Music started labelling songs 'created primarily using generative AI' on 14 Oct 2026 (composition and vocals both AI) using partner data and its own detection, with the main YouTube app to follow; per YouTube's May 2026 policy a label alone does not change recommendations or monetisation.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 47
+    },
+    {
+     "t": "Unlike YouTube, Spotify keeps AI badged artist profiles out of recommendations by default and Deezer removes AI detected tracks from algorithmic and editorial playlists, so AI made songs earn mostly on YouTube, not audio stores.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 47
+    },
+    {
+     "t": "Suno songs are commercially usable (YouTube monetisation, distribution) only if made while on a paid Pro or Premier plan; free tier songs never convert, and the status stays after cancelling.",
+     "src": "Dynamoi, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 47
+    },
+    {
+     "t": "After the Nov 2025 Warner Music deal, Suno is moving to licensed models and capping downloads (about 20 a month on Pro, 60 on Premier), so we should download and back up every final song and stem as we make it.",
+     "src": "Dynamoi, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 47
+    },
+    {
+     "t": "The EU AI Act's transparency duties (Article 50) applied from 2 Aug 2026, with fines up to 15M EUR or 3% of turnover, adding another reason to disclose AI music clearly in descriptions.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 47
     }
    ]
   },
@@ -2286,6 +2321,10 @@
   {
    "date": "2026-11-15 17:01",
    "note": "Run 46 (algorithm experiments and data): Buffer's July 2026 study of 1.8M videos: long form gets the most engagement on Sunday mornings (10 AM local best, 8 to 11 AM window) and least on Wednesday and Thursday; Shorts peak Friday 4 to 7 PM and evenings; for living room kids viewing, 20 to 30 minute themed compilations, 3 to 4 episode mini arcs, 4K and thumbnails readable across a room are advised. Total 288."
+  },
+  {
+   "date": "2026-11-15 17:02",
+   "note": "Run 47 (rules, safety and monetisation): YouTube Music began labelling songs made primarily with generative AI on 14 Oct 2026 (main app to follow), and a label alone does not change recommendations or monetisation on YouTube; Spotify and Deezer do push AI tagged tracks out of recommendations. Suno songs are monetisable only if made on a paid plan, and downloads are being capped, so final audio should be backed up. Total 293."
   }
  ],
  "history": [
@@ -2472,6 +2511,10 @@
   {
    "date": "2026-11-15 17:01",
    "total": 288
+  },
+  {
+   "date": "2026-11-15 17:02",
+   "total": 293
   }
  ],
  "next_week_ideas": [
