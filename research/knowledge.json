@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:35:57+05:30",
- "runs": 198,
+ "updated": "2026-11-15T23:37:26+05:30",
+ "runs": 199,
  "branches": [
   {
    "id": "platforms",
@@ -6110,6 +6110,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 196
+    },
+    {
+     "t": "An early November TikTok trend shows partners who are 'always dancing' in the kitchen or anywhere to a DJ's catchy sound; a sibling version (one Bro always dancing while the other tries to do a chore) is a natural family friendly fit for our two brothers.",
+     "src": "B&T, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 199
+    },
+    {
+     "t": "Costume reveal clips in early November used a camera that starts on the feet and tilts up in steps on the beat to show the full outfit, a camera only move we can copy in Blender for every Christmas costume song without new choreography.",
+     "src": "B&T, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 199
+    },
+    {
+     "t": "'Teeny tiny message' Reels shrink a line of text until it can barely be seen, then zoom in to reveal it, a simple 1 second curiosity hook that suits kind messages or a song title.",
+     "src": "startups.co.uk, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 199
+    },
+    {
+     "t": "Christmas countdown overlays ('10 Fridays left', 'X days until Christmas') over cosy clips started in early November on Instagram and TikTok, so a daily numbered Bro Bros countdown Short can start now and run to 25 December.",
+     "src": "startups.co.uk, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 199
+    },
+    {
+     "t": "SocialPilot's Oct 27 to Nov 10 TikTok window lists the 'I'm so sorry' photo carousel (about 408K videos) and the Harrison 'perdon' version (about 435K) as the biggest formats, both photo carousels that build to a funny reveal, while the Victoria's Secret runway walk trend is not kid suitable.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 199
     }
    ]
   }
@@ -6137,11 +6172,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 119): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:46",
-   "note": "Run 120 (Shorts and Reels (Shorts money for kids channels, Reels length guide)): AIR's 274 channel study (Sep 2026): kids Shorts were monetised on about 46% of playbacks against only 12% for made for kids long videos, and big kids channels posting 21+ Shorts a month take about 41% of revenue from Shorts, unlike most niches where Shorts earn under 2%. Instagram's own Reels guide calls 15 to 60 seconds the main sweet spot; a duet style turn taking lip sync is a top TikTok format this week. Total 571."
+   "note": "Earlier runs summarised (up to Run 120): older log lines condensed."
   },
   {
    "date": "2026-11-15 19:47",
@@ -6454,6 +6485,10 @@
   {
    "date": "2026-11-15 23:35",
    "note": "Run 198 (visual craft (slow and handmade preschool shows arriving on YouTube)): A wave of deliberately slow, handmade looking preschool shows launched straight onto YouTube in 2026: Pit Pats (Australia, clay, puppets and macro nature shots, weekly made for kids uploads), Pim Pam Pino (3D wooden toy pieces that feel handmade, wooden instrument music, Spanish and English), the You and Me remake (NZ) and Acamar's gentle paced Again! Again! channel. A calm, crafted counter trend we can borrow for bedtime songs. Total 863."
+  },
+  {
+   "date": "2026-11-15 23:37",
+   "note": "Run 199 (TRENDS (early to mid November formats: always dancing, beat camera reveal, tiny message zoom)): Early November TikTok and Reels formats with kid safe twists: the 'always dancing' partner clip (we do a sibling version), feet to head camera reveals on the beat, tiny text zoom reveals and Christmas countdown overlays; the shoulder bounce team dance, missing from the bank despite the run 196 note, was put back at the top. Four older Reels formats (loading, battery, toggle, 5 stages) were dropped as faded. Total 868."
   }
  ],
  "history": [
@@ -7248,6 +7283,10 @@
   {
    "date": "2026-11-15 23:35",
    "total": 863
+  },
+  {
+   "date": "2026-11-15 23:37",
+   "total": 868
   }
  ],
  "next_week_ideas": [
@@ -7310,6 +7349,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Shoulder bounce team dance",
+   "where": "TikTok to Instagram Reels (Dame Hombro sound, 184K TikToks late Oct, 137K Reels by 10 Nov)",
+   "status": "rising",
+   "use": "Both Bros and friends in a row do a shoulder bounce to our own original dembow style beat. Meshy step: standing in place, feet still, lift both shoulders up and drop them down on every beat, then alternate left shoulder and right shoulder, small head nod, finish with a big two shoulder shrug and smile. Never use the original sound."
+  },
+  {
    "name": "Say the word on the beat",
    "where": "TikTok, Shorts (Christmas specials, Dec 2025, returning)",
    "status": "rising",
@@ -7326,6 +7371,24 @@
    "where": "Blind box toys and unboxing (top holiday 2026 toy trend)",
    "status": "rising",
    "use": "A brother shakes a wrapped mystery box, the other counts 3, 2, 1, the lid pops on the beat and out comes a new dance move, friend or winter prop; each box is one verse of our own song. Original items only, never branded toys."
+  },
+  {
+   "name": "My brother is always dancing",
+   "where": "TikTok ('my boyfriend's always dancing' audio, B&T, 2 Nov 2026)",
+   "status": "rising",
+   "use": "Kid safe sibling version: Big Bro tries to do something normal (brush teeth, pour cereal, put on shoes) and Little Bro keeps popping into the frame doing a silly dance to our own song; text 'my brother is ALWAYS dancing'. Ends with both dancing. Meshy step: standing in place, side to side bounce with arms waving loosely, quick wiggle, then pointing at the camera."
+  },
+  {
+   "name": "Feet to head beat reveal",
+   "where": "TikTok costume reveals (Ramalama camera tilt, B&T, 2 Nov 2026)",
+   "status": "rising",
+   "use": "For Christmas outfits: the Blender camera starts on the Bros' feet (snow boots) and jumps upward in three beat steps (legs, sweater, Santa hat and big smile) in time with our own song's drum hits. A pure camera move, no new dance needed; great for each new costume song."
+  },
+  {
+   "name": "Teeny tiny message zoom",
+   "where": "Instagram Reels (startups.co.uk, 2 Nov 2026)",
+   "status": "rising",
+   "use": "A tiny word appears in the middle of the screen, too small to read, and the camera zooms in fast on the beat to reveal a kind message or the song title ('You are AWESOME', 'Snow day!'). Works as a 1 second hook for Shorts and Reels with our own sound."
   },
   {
    "name": "Hatching egg reveal",
@@ -7386,30 +7449,6 @@
    "where": "TikTok, Reels",
    "status": "peak",
    "use": "Bro Bros do a 4-move sway, wave, clap, spin routine in the chorus; make a 15 s Short teaching it step by step ('Can you do it?')."
-  },
-  {
-   "name": "0% to 100% loading",
-   "where": "Reels",
-   "status": "peak",
-   "use": "'Getting ready for bed: loading 0%... 100%' with brushing, pajamas, story; routine song Short."
-  },
-  {
-   "name": "Recharged battery",
-   "where": "Reels",
-   "status": "rising",
-   "use": "Kids at 1% (sleepy) then the song kicks in, battery fills to 100% and they dance. Strong first-second hook."
-  },
-  {
-   "name": "Toggle on reveal",
-   "where": "Reels",
-   "status": "rising",
-   "use": "A big toggle switch flips: 'Dance mode ON' and the set lights up. Use as the Short opener."
-  },
-  {
-   "name": "5 stages of...",
-   "where": "Reels",
-   "status": "rising",
-   "use": "'5 stages of bath time' or 'of a sugar rush': five quick clips, each a different dance mood, set to one song."
   },
   {
    "name": "Freeze / statue game",
