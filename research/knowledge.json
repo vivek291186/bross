@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T17:06:25+05:30",
- "runs": 54,
+ "updated": "2026-11-15T17:06:53+05:30",
+ "runs": 55,
  "branches": [
   {
    "id": "platforms",
@@ -1756,6 +1756,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 43
+    },
+    {
+     "t": "Most big US school districts take winter break from Monday 21 Dec 2026 to Friday 1 Jan 2027 (54 of 72 start on 21 Dec; NYC and Boston start 24 Dec; Los Angeles runs to 8 Jan), so US kids are home all day from 21 Dec: our longest holiday compilations and live stream should be ready by then.",
+     "src": "US School Calendar, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 55
+    },
+    {
+     "t": "The winter solstice on 21 Dec 2026, the longest night in the north, coincides with the first day of US winter break; a cosy 'longest night, twinkle light' calm song fits many cultures without a religious angle.",
+     "src": "US School Calendar and Twinkl, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 55
+    },
+    {
+     "t": "Weekday daytime viewing jumps in school holidays, so the 10 AM IST upload (late night in the US) is less of a problem in late December when US kids watch through the day.",
+     "src": "US School Calendar, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 55
     }
    ]
   },
@@ -2549,6 +2570,10 @@
   {
    "date": "2026-11-15 17:06",
    "note": "Run 54 (visual craft (our tools)): Meshy Animate has 500 to 600+ humanoid motion presets in five groups including Dancing, with Text to Motion for custom moves, best rigged from a T or A pose and exported as FBX with a Mixamo skeleton into Blender; four legged characters only get a walk. A 2026 study found Blender Eevee toon shading with outlines rendered over 10 times faster than Cycles with little quality loss and scored high with viewers. Total 321."
+  },
+  {
+   "date": "2026-11-15 17:06",
+   "note": "Run 55 (topics and seasons (school breaks)): US winter break 2026 runs mostly Monday 21 Dec to Friday 1 Jan (54 of 72 big districts start 21 Dec; NYC and Boston start 24 Dec; LA runs to 8 Jan), so peak home viewing in the US is 21 Dec to 3 Jan; the winter solstice (21 Dec) is the first day of that break. Total 324."
   }
  ],
  "history": [
@@ -2767,6 +2792,10 @@
   {
    "date": "2026-11-15 17:06",
    "total": 321
+  },
+  {
+   "date": "2026-11-15 17:06",
+   "total": 324
   }
  ],
  "next_week_ideas": [
