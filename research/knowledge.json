@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:06:57+05:30",
- "runs": 140,
+ "updated": "2026-11-15T20:12:46+05:30",
+ "runs": 141,
  "branches": [
   {
    "id": "platforms",
@@ -2960,6 +2960,27 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 131
+    },
+    {
+     "t": "An eye tracking study of 18 children aged 4 to 7 playing with coloured blocks (Frontiers in Psychology) found red drew the most attention and stayed stable, purple was also very attractive, and yellow consistently drew the least; warm colours took 52 to 60% of all gaze.",
+     "src": "frontiersin.org, Dec 2023",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 141
+    },
+    {
+     "t": "In the same study attraction rose as colours became somewhat brighter and slightly less saturated, then dropped sharply when they became too pale or low contrast against white, so Bro Bros scenes should use bright, slightly softened colours rather than fully saturated neon or washed out pastels.",
+     "src": "frontiersin.org, Dec 2023",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 141
+    },
+    {
+     "t": "Because yellow drew the least gaze from young children, a yellow object on a light background is a weak focal point; key props and the lead Bro's outfit work better in red, purple or strong blue against a calmer background.",
+     "src": "frontiersin.org, Dec 2023",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 141
     }
    ]
   },
@@ -4568,12 +4589,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:10",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:15",
-   "note": "Run 62 (YouTube algorithm and audience (who watches what)): Precisify's 2026 US kids panel: what each age watches on YouTube. Ages 2 to 5: cartoons 62%, toys and games 49%, educational 43%, nursery rhymes 41%, comedy 35%; 6 to 9: cartoons 47%, comedy 45%, toys 45%, music 41%; 10 to 12: comedy 53%, music 47%, gaming 43%. Over half watch YouTube on a TV. Common Sense: 62% of parents sometimes co watch YouTube with their child, against 17% for TikTok. Total 351."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:16",
@@ -4886,6 +4903,10 @@
   {
    "date": "2026-11-15 20:06",
    "note": "Run 140 (global markets (YouTube users by country)): YouTube's biggest audiences in 2026: India 518M users, US 259M, Indonesia 151M, Brazil 149M, Mexico 86M, Japan 81M, Germany 66M, Vietnam 63M, Philippines 61M, Turkey 59M. Four of the top five are covered by English, Hindi, Indonesian, Portuguese and Spanish, the same languages our dubbing plan targets; Vietnamese and Turkish are the big gaps. Total 640."
+  },
+  {
+   "date": "2026-11-15 20:12",
+   "note": "Run 141 (visual craft (children's colour attention)): An eye tracking study of 4 to 7 year olds (Frontiers in Psychology) found red and purple drew the most gaze, warm colours took 52 to 60% of attention, and attraction rose as colours got a little brighter and less saturated, then fell sharply when they became too washed out: bright but not neon colours win. Total 643."
   }
  ],
  "history": [
@@ -5448,6 +5469,10 @@
   {
    "date": "2026-11-15 20:06",
    "total": 640
+  },
+  {
+   "date": "2026-11-15 20:12",
+   "total": 643
   }
  ],
  "next_week_ideas": [
