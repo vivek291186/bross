@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:43:05+05:30",
- "runs": 246,
+ "updated": "2026-11-16T01:44:47+05:30",
+ "runs": 247,
  "branches": [
   {
    "id": "platforms",
@@ -5109,6 +5109,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 228
+    },
+    {
+     "t": "Family films in the next weeks include a Dr Seuss 'Cat in the Hat' animated film (6 Nov 2026) and a Santa comedy 'The Man with the Bag' (2 Dec), which will raise interest in silly rhyming hat songs and Santa's delivery stories; we use only our own characters and ideas.",
+     "src": "Rotten Tomatoes, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 247
     }
    ]
   },
@@ -7643,6 +7650,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 244
+    },
+    {
+     "t": "Christmas countdown captions ('99 days until Christmas' style milestones over cosy clips with holiday music) were a named November 2026 trend on TikTok, Reels and Shorts, so a numbered 'X days to go' sticker on each December Bro Bros Short fits the feed habit.",
+     "src": "startups.co.uk, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 247
+    },
+    {
+     "t": "The 'reasons why you don't need to' joke shows a caption, then a creator passionately explaining with muffled, unheard audio; a kid safe version is Little Bro 'explaining' why he doesn't need a bath in silly muffled mumbles, then Big Bro's song answers clearly.",
+     "src": "startups.co.uk, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 247
+    },
+    {
+     "t": "The 'Today I'm gonna turn into a cute little X' format (from 4 Aug 2026) builds a caption word by word as the creator gets smaller, then cuts to an animal or object; a bird version passed 10M views in a month and animators made their own, but the wave peaked in August.",
+     "src": "Know Your Meme, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 247
+    },
+    {
+     "t": "For animation the transform format needs no crouching: keep the Bro standing, shrink him with a Blender scale animation while the caption builds, then cut to a cute penguin or snowman 'version' singing our hook.",
+     "src": "Know Your Meme, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 247
     }
    ]
   }
@@ -7670,11 +7705,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 167): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:35",
-   "note": "Run 168 (YouTube charts (GoBooBoo, Junior Squad, weekly top 50)): Tubefilter week of 8 Nov: kid duo and family channels lead (Cadel and Mia 890M a week, Sierra and Rhia up 7%). vidIQ contrast: GoBooBoo earns about 36M views a month from only 197 videos while Junior Squad gets about 4M from 1,164 videos, so strong recurring characters and remixed known hooks beat sheer volume. Total 742."
+   "note": "Earlier runs summarised (up to Run 168): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:36",
@@ -7987,6 +8018,10 @@
   {
    "date": "2026-11-16 01:43",
    "note": "Run 246 (visual craft (2026 style directions, thumbnail colour data, character clips)): Licensing Magazine's 2026 style trends point to Korean inspired big eyed, emotion led characters, iridescent space looks and miniature handmade worlds; Eden's 2,960 thumbnail sample found brightness, saturation, contrast and warm colour share almost identical between breakouts and flops, so the idea and short text matter more than turning colours up. Total 1082."
+  },
+  {
+   "date": "2026-11-16 01:44",
+   "note": "Run 247 (TRENDS (November roundups, transform format, holiday film calendar)): Early November roundups add 'X days until Christmas' cosy countdown captions and a muffled 'reasons why you don't need to' joke, while the wholesome 'Today I'm gonna turn into a cute little X' transform (Aug 2026, a bird version passed 10M views) has faded but suits animation. Family film dates to frame topics without copying: a Seuss hat film (6 Nov) and a Santa comedy (2 Dec). Total 1087."
   }
  ],
  "history": [
@@ -8973,6 +9008,10 @@
   {
    "date": "2026-11-16 01:43",
    "total": 1082
+  },
+  {
+   "date": "2026-11-16 01:44",
+   "total": 1087
   }
  ],
  "next_week_ideas": [
