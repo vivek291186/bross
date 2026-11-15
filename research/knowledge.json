@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T01:55:08+05:30",
- "runs": 258,
+ "updated": "2026-11-16T01:56:10+05:30",
+ "runs": 259,
  "branches": [
   {
    "id": "platforms",
@@ -7979,6 +7979,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 256
+    },
+    {
+     "t": "A kindergarten teacher's Thanksgiving video picks (updated Oct 2026) are half movement songs that ask kids to follow directions (wobble, hop, dance around), with the rest food, gratitude and 'one less' counting songs, ranging from 1:15 to 5:12, so a short Bro Bros movement and gratitude song can enter US classrooms in the week of 23 Nov.",
+     "src": "Simply Kinder, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 259
+    },
+    {
+     "t": "Countdown songs where one item leaves each verse ('five little ... then four') are used by teachers as visual subtraction lessons, a reusable seasonal frame for snowmen, ornaments or penguins in December.",
+     "src": "Simply Kinder, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 259
     }
    ]
   }
@@ -8006,11 +8020,7 @@
  "log": [
   {
    "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised (up to Run 179): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 21:47",
-   "note": "Run 180 (trends and challenges (our results already logged today, so the new trends branch got this round)): Our Metricool results were already recorded today and 15 Nov uploads are too new, so this round fed the new Trends branch: early November TikTok is led by a shoulder bounce dembow sound (Dame Hombro, 184K videos, spreading to Spain and Italy), the 'I'm so sorry' plan versus reality carousel, and the 'costume loading' freeze then reveal cut; feeds switched from Halloween to Christmas on 1 Nov. Total 793."
+   "note": "Earlier runs summarised (up to Run 180): older log lines condensed."
   },
   {
    "date": "2026-11-15 21:48",
@@ -8323,6 +8333,10 @@
   {
    "date": "2026-11-16 01:55",
    "note": "Run 258 (visual craft (real versus cartoon attention, uncanny faces, tool updates)): An Oxford Brookes eye tracking study of 70+ two and three year olds found they looked longer at a real person placed in a cartoon scene, and a Carnegie Mellon study found more time on a near real virtual face went with higher creepiness ratings, so stylised faces stay safest. Meshy's changelog has no new animation features since Text to Motion arrived in July 2026. Total 1130."
+  },
+  {
+   "date": "2026-11-16 01:56",
+   "note": "Run 259 (TRENDS (US Thanksgiving classroom picks, recheck of November roundups)): Most early November roundup trends were already in the tree. New detail for US Thanksgiving (26 Nov): a kindergarten teacher's list of picks is half movement songs (turkey wobble, turkey hop), plus counting down and subtraction songs, all 1 to 5 minutes long and used as brain breaks. Total 1132."
   }
  ],
  "history": [
@@ -9357,6 +9371,10 @@
   {
    "date": "2026-11-16 01:55",
    "total": 1130
+  },
+  {
+   "date": "2026-11-16 01:56",
+   "total": 1132
   }
  ],
  "next_week_ideas": [
