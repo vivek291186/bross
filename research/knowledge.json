@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:55:37+05:30",
- "runs": 34,
+ "updated": "2026-11-15T16:56:05+05:30",
+ "runs": 35,
  "branches": [
   {
    "id": "platforms",
@@ -1637,6 +1637,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 25
+    },
+    {
+     "t": "YouTube Kids filtering (Team YouTube FAQ, 1 Apr 2026) works in layers: automated filters read thumbnails, titles and the video itself, human reviewers spot check and refine the filters, and parent flags are reviewed around the clock and removed for everyone if upheld.",
+     "src": "PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 35
+    },
+    {
+     "t": "YouTube Kids excludes paid product placements, videos that push purchases, packaging and unboxing focused videos and excessive accumulation or consumption of products, so our songs should never feature branded toys or buying.",
+     "src": "PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 35
+    },
+    {
+     "t": "YouTube renamed the Partner Program's 'repetitious content' rule to 'mass produced content' on 15 Jul 2025; with 14 songs a week we must keep each song clearly different in story, setting and moves.",
+     "src": "SmartScope, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 35
+    },
+    {
+     "t": "Community Guidelines strikes: a first violation is usually a warning that expires after 90 days with policy training; three strikes within 90 days can terminate the channel.",
+     "src": "SmartScope, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 35
+    },
+    {
+     "t": "YouTube Kids added over 100 Sesame Street episodes in Jan 2026, so trusted educational brands are now direct competitors on the YouTube Kids learning shelf.",
+     "src": "PPC Land, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 35
     }
    ]
   },
@@ -1895,6 +1930,10 @@
   {
    "date": "2026-11-15 16:55",
    "note": "Run 34 (algorithm experiments and data): Two more kids channel cases: The Melobies (energetic nursery rhymes) grew subscribers over 9 times after YouTube Kids listing, expressive high contrast mobile thumbnails, keyword titles, themed playlists and 24/7 streams; Sandy the Sticker went from 1 to 16 automated 24/7 streams and added Shorts cut from long form, lifting watch time 31% and average view duration from 1:36 to 2:06. Total 239."
+  },
+  {
+   "date": "2026-11-15 16:56",
+   "note": "Run 35 (rules, safety and monetisation): Team YouTube's 1 Apr 2026 YouTube Kids FAQ: automated filters scan thumbnails, titles and video first, humans spot check, parent flags are reviewed around the clock; excluded are paid placements, purchase pushing, packaging and haul content. The Partner Program policy now names 'mass produced content' (renamed from repetitious in Jul 2025). Total 244."
   }
  ],
  "history": [
@@ -2033,6 +2072,10 @@
   {
    "date": "2026-11-15 16:55",
    "total": 239
+  },
+  {
+   "date": "2026-11-15 16:56",
+   "total": 244
   }
  ],
  "next_week_ideas": [
