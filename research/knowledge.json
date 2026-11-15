@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:51:53+05:30",
- "runs": 214,
+ "updated": "2026-11-15T23:52:40+05:30",
+ "runs": 215,
  "branches": [
   {
    "id": "platforms",
@@ -5935,6 +5935,41 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 212
+    },
+    {
+     "t": "Since May 2026 YouTube auto detects and labels undisclosed photorealistic AI video, placing the label under the player on long videos and as an overlay on Shorts, but animated or stylised content (including animated AI music videos) only carries a disclosure in the expanded description.",
+     "src": "Music Business Worldwide, May 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 215
+    },
+    {
+     "t": "YouTube says an AI disclosure label does not change recommendations or monetisation eligibility, and creators can correct a wrong label in Studio except for permanent labels on videos made with YouTube's own AI tools or carrying C2PA fully AI metadata.",
+     "src": "Music Business Worldwide, May 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 215
+    },
+    {
+     "t": "Brazil's ECA Digital (child and teen online safety statute) has been fully in force since 17 Mar 2026 for services likely to be used by minors, including streaming and social platforms and foreign providers: it bans ad profiling of minors and compulsive design features and requires protective defaults and guardian linked accounts under 16.",
+     "src": "Mayer Brown, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 215
+    },
+    {
+     "t": "Brazil's regulator scheduled administrative sanctions under ECA Digital from November 2026 and formal enforcement from January 2027, with fines up to 10% of Brazilian revenue; its decree on child influencers needs court approval to monetise real children, which does not touch an animated channel like ours.",
+     "src": "Mayer Brown, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 215
+    },
+    {
+     "t": "Because laws in Brazil, the EU and the UK now target designs that encourage compulsive use, Bro Bros should avoid manipulative hooks aimed at kids (fake countdowns to keep watching, 'don't stop now' prompts) and keep endings that invite a calm goodbye.",
+     "src": "Mayer Brown and earlier rules leaves, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 215
     }
    ]
   },
@@ -6676,11 +6711,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 135): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:03",
-   "note": "Run 136 (rules and safety on Instagram (child featuring accounts, teen content ratings)): Instagram puts adult managed accounts that mainly feature children into strict DM settings, filters comments, and stops recommending them to potentially suspicious adults; it is unclear whether cartoon child characters trigger this. Teen accounts default to a 13+ content level (US, UK, Australia, Canada since Oct 2025, India since Apr 2026), so our gentle songs are safe for older siblings' feeds. Total 628."
+   "note": "Earlier runs summarised (up to Run 136): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:04",
@@ -6993,6 +7024,10 @@
   {
    "date": "2026-11-15 23:51",
    "note": "Run 214 (TRENDS (trending kid animals: highland cow rising, capybara and axolotl peaking)): Toy Fair 2026 chatter names the shaggy highland cow as the next 'it' plush animal while capybaras and axolotls peak, following llamas and owls before them; capybaras were the holiday 'it' animal of late 2024. Our dancing animal friends format now uses these animals in original designs. Total 940."
+  },
+  {
+   "date": "2026-11-15 23:52",
+   "note": "Run 215 (rules and safety (YouTube AI auto labels, Brazil's ECA Digital in force)): YouTube began auto labelling undisclosed photorealistic AI video in May 2026, but animated and stylised AI music videos only get a note in the description and labels do not change recommendations or money, a plus for our 3D cartoon style. Brazil's ECA Digital child online safety law is fully in force since March 2026 (sanctions from Nov 2026, enforcement Jan 2027): no ad profiling of minors, no compulsive design, guardian linked accounts under 16. Total 945."
   }
  ],
  "history": [
@@ -7851,6 +7886,10 @@
   {
    "date": "2026-11-15 23:51",
    "total": 940
+  },
+  {
+   "date": "2026-11-15 23:52",
+   "total": 945
   }
  ],
  "next_week_ideas": [
