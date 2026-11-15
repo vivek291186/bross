@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:51:08+05:30",
- "runs": 153,
+ "updated": "2026-11-15T20:52:11+05:30",
+ "runs": 154,
  "branches": [
   {
    "id": "platforms",
@@ -748,6 +748,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 148
+    },
+    {
+     "t": "Shorts length data from 2026 reports puts nearly half of viral Shorts at 20 to 40 seconds and many top performers at 25 to 35 seconds; in a 30 second Short each second is about 3% of watch time, and one creator lifted retention from 83% to 88% by trimming a single second.",
+     "src": "toptal.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 154
     }
    ]
   },
@@ -1427,6 +1434,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 150
+    },
+    {
+     "t": "A 3M+ subscriber kids channel (Q3 to Q4 2025) gave near identical uploads, such as normal and acoustic versions of one song, clearly different visuals with no shared sequences to avoid duplicate content risk, and moved its 2 to 3 minute songs into compilations: compilations gained 19% watch duration, 9% CPM and 72% RPM, and channel views rose 27%.",
+     "src": "air.io, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 154
+    },
+    {
+     "t": "Another kids channel replaced exaggerated or negative emotion thumbnails with calm, positive, colourful and accurate ones and fixed technical issues through a YouTube review: Browse traffic grew from 6.4M to 17.7M views a quarter (+173%), Suggested from 58M to 75M, total views +41% and revenue +59%.",
+     "src": "air.io, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 154
     }
    ]
   },
@@ -4633,6 +4654,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 152
+    },
+    {
+     "t": "Shorts that use licensed music from YouTube's library are capped at 60 seconds, but our own original Suno songs are not, though 25 to 40 seconds remains the performance sweet spot.",
+     "src": "toptal.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 154
     }
    ]
   },
@@ -4933,11 +4961,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 11 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 17:44",
-   "note": "Run 75 (other platforms (Netflix, Roblox)): Netflix 2 to 8 Nov 2026: the animated animal jukebox musicals Sing 2 (week 14) and Sing (week 18) and KPop Demon Hunters (week 69, hours up 7%) still chart, showing song led animation has a very long tail; the No. 1 holiday film had the weakest Christmas opening since 2024. Roblox now carries licensed songs from indie distributor Too Lost with song info on game pages. Total 403."
+   "note": "Earlier runs summarised: 12 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:37",
@@ -5250,6 +5274,10 @@
   {
    "date": "2026-11-15 20:51",
    "note": "Run 153 (competitor deep dive (LooLoo Kids, Hey Bear Sensory)): LooLoo Kids (62.7M subs) builds almost every upload as a medley led by its recurring Johny Johny Yes Papa character plus a classic rhyme, and its October Halloween medleys hit 8 to 12M views. Hey Bear Sensory (about 4M subs, 3.4B views from only 95 videos) wins babies with dancing fruit on black backgrounds and wordless dance music; its 10 to 27 minute mixes (Smoothie Mix 383M) beat its recent 1 to 5 minute clips by far. Total 692."
+  },
+  {
+   "date": "2026-11-15 20:52",
+   "note": "Run 154 (algorithm experiments (kids channel case results, Shorts length data)): Two AIR kids cases: a 3M+ channel gave its near identical song versions different visuals, grouped 2 to 3 minute songs into compilations (+19% watch duration, +72% RPM) and posted several Shorts a day for +27% views; another swapped exaggerated thumbnails for calm, positive, accurate ones and Browse traffic jumped 173%. Shorts length data clusters top performers at 25 to 35 seconds, and trimming one second can lift retention 5 points. Total 696."
   }
  ],
  "history": [
@@ -5864,6 +5892,10 @@
   {
    "date": "2026-11-15 20:51",
    "total": 692
+  },
+  {
+   "date": "2026-11-15 20:52",
+   "total": 696
   }
  ],
  "next_week_ideas": [
