@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:39:29+05:30",
- "runs": 25,
+ "updated": "2026-11-15T16:45:16+05:30",
+ "runs": 26,
  "branches": [
   {
    "id": "platforms",
@@ -398,6 +398,48 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 22
+    },
+    {
+     "t": "In Sept 2026 YouTube's inauthentic content enforcement suspended channels of long sleep music and prayer compilations built on one template; our lullaby and mega mix compilations must vary songs, visuals and order, not repeat one template.",
+     "src": "AIR Media-Tech, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 26
+    },
+    {
+     "t": "Since 22 Oct 2026 US viewers can save up to 3 custom Home feeds and the mobile Home top bar has separate Live, Music and Movies and TV feeds, with Subscriptions moved there; clear music metadata helps songs land in the Music feed.",
+     "src": "AIR Media-Tech, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 26
+    },
+    {
+     "t": "Ask YouTube (conversational answers on web, mobile and TV in the US since 12 Oct 2026) can answer a query without a click, so titles and descriptions should match the exact questions parents ask (for example a song to help a toddler brush teeth).",
+     "src": "AIR Media-Tech, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 26
+    },
+    {
+     "t": "Creator analysis since late 2025 says the recommender ranks by expected satisfied watch time per click rather than watch time per impression, and older Shorts that ran for years lost distribution, so a steady flow of fresh Shorts beats relying on the back catalogue.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 26
+    },
+    {
+     "t": "Creator data from over 1,000 channels suggests Home now shows as few as 2 long form videos per row with reserved Shorts slots (down from about 6), so long form songs depend more on Suggested, Search and playlists than on Home.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 26
+    },
+    {
+     "t": "At Made on YouTube (23 Sep 2026) YouTube announced video A/B testing, AI feedback on drafts in Ask Studio, Shorts series and a live auto dubbing pilot for early 2027.",
+     "src": "AIR Media-Tech, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 26
     }
    ]
   },
@@ -1593,6 +1635,10 @@
   {
    "date": "2026-11-15 16:39",
    "note": "Run 25 (YouTube main and Kids charts): Tubefilter week of 8 Nov: 37 of the top 50 subscriber gainers live mainly on Shorts; kids entries are Pokemon Kids TV, Cadel and Mia and VocaVoca; Pokemon Kids TV's top songs are single character dance songs; Sasha Show's 9.5M sub October came from borrowed characters and shock titles, a pattern to avoid; YouTube Kids entry for PlayToys took about 4 weeks via partner review. Total 201."
+  },
+  {
+   "date": "2026-11-15 16:45",
+   "note": "Run 26 (YouTube algorithm): Sept 2026 inauthentic content suspensions hit long one template sleep music and prayer compilations; Oct 2026 brought saved custom Home feeds and Ask YouTube answers in the US; creator analysis says the recommender now targets satisfied watch time per click and gives fewer long form slots on Home, so old Shorts fade and fresh varied work matters. Total 207."
   }
  ],
  "history": [
@@ -1695,6 +1741,10 @@
   {
    "date": "2026-11-15 16:39",
    "total": 201
+  },
+  {
+   "date": "2026-11-15 16:45",
+   "total": 207
   }
  ],
  "next_week_ideas": [
