@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T20:53:12+05:30",
- "runs": 155,
+ "updated": "2026-11-15T20:54:30+05:30",
+ "runs": 156,
  "branches": [
   {
    "id": "platforms",
@@ -1448,6 +1448,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 154
+    },
+    {
+     "t": "In the same data a wholesome rural creator's Shorts average about 71,000 views while her long video median is 840, which the analysts read as audiences snacking on the Shorts feed rather than following a person, so Shorts views alone will not build a song channel's loyal audience without long songs and playlists.",
+     "src": "creatordb.app, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 156
     }
    ]
   },
@@ -2134,6 +2141,13 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 153
+    },
+    {
+     "t": "CreatorDB's study of 417 surging channels over 500K subscribers (Sep 2026) found 24% post 60+ times a month and 42% at least daily, but median subscribers gained per upload were about 98,800 for channels posting under 8 times a month, 16,100 for regular, 6,100 for heavy and only 1,900 for the heaviest posters: volume buys reach, not loyalty.",
+     "src": "creatordb.app, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 156
     }
    ]
   },
@@ -4962,6 +4976,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 129
+    },
+    {
+     "t": "Our 12 to 15 Nov uploads keep the daily pattern (an English story song at 10 AM, a Hindi Didi story or second song at 4 PM, each with a Short 5 minutes later and a Reel), with topics garden patience, sports day kindness, bedtime monster, kitten rescue, sandcastle and ant parade, all 'made for kids' and not marked AI generated.",
+     "src": "Metricool planner, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 156
     }
    ]
   }
@@ -4989,11 +5010,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 13 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:38",
-   "note": "Run 77 (visual craft (Blender 5.1 and Meshy tools)): Blender 5.1 speeds up Eevee shader compiles 25 to 50% and action playback about 2.3 times, adds a Raycast node for toon effects and a Gaussian smoothing modifier that can clean jittery Meshy dance curves; Blender 5.0 fur now renders far more strands by default. Meshy Edit (Oct 2026) changes one selected part of a model from a text prompt, useful for seasonal outfits. Total 415."
+   "note": "Earlier runs summarised: 14 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:39",
@@ -5306,6 +5323,10 @@
   {
    "date": "2026-11-15 20:53",
    "note": "Run 155 (rules and safety (AI kids content pressure, addiction verdict, AI label exemption)): Over 200 child advocacy groups want AI made videos banned from the YouTube Kids app; YouTube's AI disclosure rules exempt clearly unrealistic animation, so cartoons need no label but face rising scrutiny. A Los Angeles jury (25 Mar 2026) found Google and Meta negligent in YouTube and Instagram design ($6M), with more trials in 2026, so platforms keep adding kid safeguards. Total 700."
+  },
+  {
+   "date": "2026-11-15 20:54",
+   "note": "Run 156 (our results skipped (already recorded today through 14 Nov, 15 Nov uploads too new), then YouTube charts (upload cadence of fast growing channels)): Our Metricool data was already logged today, so this round studied CreatorDB's 417 surging channels: a quarter post 60+ times a month, but channels posting under 8 times a month gained about 98,800 subscribers per upload against about 1,900 for the heaviest posters, and one wholesome creator's Shorts average 71K views against an 840 long video median. Total 703."
   }
  ],
  "history": [
@@ -5928,6 +5949,10 @@
   {
    "date": "2026-11-15 20:53",
    "total": 700
+  },
+  {
+   "date": "2026-11-15 20:54",
+   "total": 703
   }
  ],
  "next_week_ideas": [
