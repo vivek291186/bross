@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T21:07:10+05:30",
- "runs": 165,
+ "updated": "2026-11-15T21:07:42+05:30",
+ "runs": 166,
  "branches": [
   {
    "id": "platforms",
@@ -1511,6 +1511,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 158
+    },
+    {
+     "t": "Because weekend activity in Metricool's model is about half of weekdays on both YouTube and Instagram, our weekly 25 to 45 minute compilation is best released on a weekday (Friday 10 AM fits) and weekends kept for the strongest single songs rather than tests.",
+     "src": "Metricool best time tool, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-15",
+     "run": 166
     }
    ]
   },
@@ -5193,6 +5200,20 @@
      "conf": "high",
      "date": "2026-11-15",
      "run": 156
+    },
+    {
+     "t": "Metricool's best time to post model for our brand (IST, 16 to 22 Nov 2026) shows YouTube's two weekday peaks at 10:00 and 16:00, with 16:00 the strongest hour every weekday (top value Wednesday 16:00) and Saturday and Sunday at roughly half the weekday level, so our 10 AM and 4 PM upload slots match the model.",
+     "src": "Metricool best time tool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 166
+    },
+    {
+     "t": "For Instagram the same model peaks at 10:00 IST (Wed to Fri strongest) with a second rise at 18:00, while 15:00 to 16:00 is a dip, so moving the afternoon Reel from 4 PM to about 6 PM IST is a cheap test.",
+     "src": "Metricool best time tool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 166
     }
    ]
   }
@@ -5220,11 +5241,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised: 23 older log entries condensed."
-  },
-  {
-   "date": "2026-11-15 18:52",
-   "note": "Run 87 (other platforms (Nielsen H1 2026, Amazon Kids Sleep Studio, Gen Alpha)): Nielsen H1 2026 (US): Bluey was the No. 2 streaming title overall with 22.8B minutes, PAW Patrol No. 10, Ms Rachel 8.6B; the kids film list is led by animal comedy and music films (Zootopia 2, KPop Demon Hunters, Goat). Amazon Kids+ added an automatic 30 minute Sleep Studio wind down on Echo kids devices. Tweens' current YouTube fixation is an hour long Minecraft animated story. Total 457."
+   "note": "Earlier runs summarised: 24 older log entries condensed."
   },
   {
    "date": "2026-11-15 18:53",
@@ -5537,6 +5554,10 @@
   {
    "date": "2026-11-15 21:07",
    "note": "Run 165 (competitor deep dive (Little Baby Bum)): Little Baby Bum (41.6M subs, 44.8B views) has gained no subscribers in two years yet still earns 110 to 140M views a month, and its all time top five are all Wheels on the Bus variants (Halloween 275M, Ten Little Buses 112M, Bus Wash, Underwater). Its separate multi language channel is small (234K subs), so dubbing works best inside strong single language channels or audio tracks. Total 733."
+  },
+  {
+   "date": "2026-11-15 21:07",
+   "note": "Run 166 (algorithm experiments and data (posting times from Metricool's best time model)): Metricool's best time model for our brand (IST, week of 16 Nov) puts YouTube's two daily peaks at exactly 10:00 and 16:00 on weekdays, with 16:00 Wednesday highest, so our 10 AM and 4 PM slots are right; weekend values are about half. Instagram peaks at 10:00 with a second bump at 18:00, so our 4 PM Reels sit in a dip and might do better at 6 PM. Total 736."
   }
  ],
  "history": [
@@ -6199,6 +6220,10 @@
   {
    "date": "2026-11-15 21:07",
    "total": 733
+  },
+  {
+   "date": "2026-11-15 21:07",
+   "total": 736
   }
  ],
  "next_week_ideas": [
