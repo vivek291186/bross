@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:48:28+05:30",
- "runs": 209,
+ "updated": "2026-11-15T23:49:13+05:30",
+ "runs": 210,
  "branches": [
   {
    "id": "platforms",
@@ -3331,6 +3331,13 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 206
+    },
+    {
+     "t": "Hey Duggee's creator records guide tracks first and animates to their timing, and asks for voices that 'punch through' rather than neutral reads; lead vocals in our Suno songs should be bright and forward in the mix, and animation should follow the vocal swoops.",
+     "src": "Guardian via inkl",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 210
     }
    ]
   },
@@ -3975,6 +3982,27 @@
      "conf": "low",
      "date": "2026-11-15",
      "run": 198
+    },
+    {
+     "t": "Hey Duggee's creator keeps most characters simple and cleanly laid out with no line work and avoids overlapping action so young viewers can always follow one thing at a time; in a Bro Bros scene only one Bro should do the key move at a time, with the other reacting.",
+     "src": "License Global, Oct 2019",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 210
+    },
+    {
+     "t": "Hey Duggee works from one comfortable home setting and a warm, steady leader, which gives it freedom to try surreal ideas each episode; a fixed Bro Bros home base (the same playroom or garden) lets each song go anywhere and still feel safe.",
+     "src": "Guardian via inkl",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 210
+    },
+    {
+     "t": "Numberblocks makes the characters themselves the lesson (One meets a copy of itself and they join to become Two; Five loses a block and becomes Four), so a counting song works best when the Bros' bodies or props physically become the numbers rather than numbers floating as text.",
+     "src": "Blocks Universe",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 210
     }
    ]
   },
@@ -4570,6 +4598,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 209
+    },
+    {
+     "t": "Numberblocks' maker says 'we don't do chocolate covered broccoli': learning must be part of the fun itself, not hidden inside it, so every Bro Bros learning song should make the skill the game (the dance move is the count, the jump is the rhyme).",
+     "src": "Blocks Universe",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 210
     }
    ]
   },
@@ -6515,11 +6550,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 130): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 20:00",
-   "note": "Run 131 (visual craft (thumbnail studies)): vidIQ's study of 500 breakout thumbnails (Jun 2026): faces appear in 80% of the top 50 and a face or strong contrast in 92%, but only 5% use exaggerated expressions; 1of10's 300K viral video report found faces alone give little lift while thumbnails with several faces did best, which supports showing both Bros together with calm happy faces. Total 613."
+   "note": "Earlier runs summarised (up to Run 131): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:00",
@@ -6832,6 +6863,10 @@
   {
    "date": "2026-11-15 23:48",
    "note": "Run 209 (topics and seasons (Yalda, summer Christmas down under, Boxing Day)): Next four weeks beyond Christmas: Yalda on 21 Dec (Iran and the Persian diaspora: kids stay up to midnight with pomegranates, watermelon, poems and Grandma Frost stories) and a summer Christmas in Australia and the southern hemisphere (beach day, Carols by Candlelight, pavlova, gingerbread baking, Boxing Day cricket). Trend bank fix: the winter snowflake move was restored and the faded 1 Nov Christmas switch removed. Total 917."
+  },
+  {
+   "date": "2026-11-15 23:49",
+   "note": "Run 210 (visual craft (Hey Duggee and Numberblocks design rules)): Design lessons from two hit preschool shows: Hey Duggee keeps characters simple with no line work, never overlaps two actions so toddlers can follow, uses voices that punch through, one cosy home setting with a warm leader, and in jokes for parents; Numberblocks makes the characters themselves the lesson (One plus One becomes Two) and refuses 'chocolate covered broccoli'. Total 922."
   }
  ],
  "history": [
@@ -7670,6 +7705,10 @@
   {
    "date": "2026-11-15 23:48",
    "total": 917
+  },
+  {
+   "date": "2026-11-15 23:49",
+   "total": 922
   }
  ],
  "next_week_ideas": [
