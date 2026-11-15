@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T15:58:00+05:30",
- "runs": 13,
+ "updated": "2026-11-15T15:58:37+05:30",
+ "runs": 14,
  "branches": [
   {
    "id": "platforms",
@@ -258,6 +258,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 13
+    },
+    {
+     "t": "YouTube's Todd Beaupre (Sep 2026): a new upload's first hour is not a subscriber test; it is shown to mixed audiences including people who never watched the channel, and each audience is judged separately.",
+     "src": "Creator Insider via PPC Land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 14
+    },
+    {
+     "t": "Even a channel's best videos are usually picked by only about 10% or fewer of subscribers who see them in the feed, so low subscriber click rate is normal and not a penalty.",
+     "src": "Creator Insider via PPC Land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 14
+    },
+    {
+     "t": "Recommendations are built fresh per viewer at the start of each session; no single metric decides, and the weight of clicks, watch time, surveys and likes changes by person, device and moment.",
+     "src": "Creator Insider via PPC Land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 14
+    },
+    {
+     "t": "In the YouTube Kids app, new child profiles get no personal recommendations until they build history, so they browse curated shelves (series, music, learning, discovery, games); being in the music and learning shelves is key for a new song channel.",
+     "src": "Team YouTube FAQ via PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 14
     }
    ]
   },
@@ -993,6 +1021,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 11
+    },
+    {
+     "t": "YouTube Kids entry runs through automated filters that read thumbnails, titles and the video itself, plus human spot checks and parent reports; paid placements, purchase pushing and toy packaging videos are excluded.",
+     "src": "Team YouTube FAQ via PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 14
+    },
+    {
+     "t": "YouTube's Mar 2026 Dublin summit treats kids and teens as separate audiences and signals that YouTube Kids will favour less overstimulating, authentic, human made content over mindless AI output.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 14
     }
    ]
   },
@@ -1125,6 +1167,10 @@
   {
    "date": "2026-11-15 15:58",
    "note": "Run 13 (YouTube main and Kids charts): Tubefilter weekly top 50: VocaVoca, a US Shorts led kids song channel built on healthy habits and safety songs, jumped from about 0.5B monthly views in May to 2.9B in Oct 2026; Indian family channels rode Diwali; YouTube keeps autoplay off and break reminders on by default for under 18s. Total 141."
+  },
+  {
+   "date": "2026-11-15 15:58",
+   "note": "Run 14 (YouTube algorithm official): Todd Beaupre (Sep 2026): new uploads are tested on mixed audiences including non subscribers from the first hour, each audience is judged separately, about 10% subscriber click rate is normal. YouTube Kids FAQ (Apr 2026): filters read thumbnails, titles and video; no product placement; new profiles see curated shelves until history builds. Total 147."
   }
  ],
  "history": [
@@ -1179,6 +1225,10 @@
   {
    "date": "2026-11-15 15:58",
    "total": 141
+  },
+  {
+   "date": "2026-11-15 15:58",
+   "total": 147
   }
  ],
  "next_week_ideas": [
