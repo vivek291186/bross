@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T23:47:32+05:30",
- "runs": 208,
+ "updated": "2026-11-15T23:48:28+05:30",
+ "runs": 209,
  "branches": [
   {
    "id": "platforms",
@@ -4542,6 +4542,34 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 195
+    },
+    {
+     "t": "Yalda night (21 Dec, the longest night) is a family festival in Iran and the Persian diaspora where children stay up until midnight, help seed pomegranates, eat watermelon, nuts and dried fruit, hear poems and stories of Grandma Frost and draw Yalda pictures for small gifts.",
+     "src": "Tehran Times; Remitly, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 209
+    },
+    {
+     "t": "A 'Longest Night Party' song (stay up late, red pomegranate seeds, a slice of watermelon, a story by candlelight, then the sun comes back) links Yalda, the winter solstice and Dongzhi in one cross cultural bedtime friendly song for 21 December.",
+     "src": "Tehran Times and earlier solstice leaves, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 209
+    },
+    {
+     "t": "In Australia and the southern hemisphere Christmas is a summer beach day: families swim and picnic, people in Santa hats gather on Sydney's Bondi Beach, cities hold outdoor Carols by Candlelight on Christmas Eve, pavlova is the classic dessert and baking gingerbread men is a family activity.",
+     "src": "Remitly, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 209
+    },
+    {
+     "t": "Boxing Day (26 Dec) is a public holiday across Australia, the UK and other Commonwealth countries, marked by the Melbourne cricket Test and the Sydney to Hobart yacht race, so a 'day after Christmas' play song (backyard cricket, boats, leftover treats) fits those audiences.",
+     "src": "Remitly, 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 209
     }
    ]
   },
@@ -6487,11 +6515,7 @@
  "log": [
   {
    "date": "2026-11-15 17:37",
-   "note": "Earlier runs summarised (up to Run 129): older log lines condensed."
-  },
-  {
-   "date": "2026-11-15 19:59",
-   "note": "Run 130 (rules and monetisation (Suno rights and v6 licensed models)): Suno's 2026 terms: songs made on a free account can never be monetised (no retroactive licence), paid subscribers get commercial rights for streaming, downloads and sync but are no longer called owners. Suno v6 (9 Sep 2026) runs on models licensed with Warner, BMG and Believe, retires all older models, caps monthly downloads on paid plans and makes songs eligible for distribution through Believe and TuneCore. Total 610."
+   "note": "Earlier runs summarised (up to Run 130): older log lines condensed."
   },
   {
    "date": "2026-11-15 20:00",
@@ -6804,6 +6828,10 @@
   {
    "date": "2026-11-15 23:47",
    "note": "Run 208 (TRENDS (global dance: full chorus K-pop challenges, Brazilian phonk rising in Europe)): K-pop's newest challenge style teaches the whole chorus, not a 10 second clip: a rookie group's two relaxed house groove songs passed 160K TikToks and hit Reels Rising Audio No. 3 and No. 6 as stars joined in. Brazilian phonk hashtags grew 62% in Europe in early 2026 (funk 34%), showing Brazilian beats travel. A 'learn the whole chorus' format joined the trend bank. Total 913."
+  },
+  {
+   "date": "2026-11-15 23:48",
+   "note": "Run 209 (topics and seasons (Yalda, summer Christmas down under, Boxing Day)): Next four weeks beyond Christmas: Yalda on 21 Dec (Iran and the Persian diaspora: kids stay up to midnight with pomegranates, watermelon, poems and Grandma Frost stories) and a summer Christmas in Australia and the southern hemisphere (beach day, Carols by Candlelight, pavlova, gingerbread baking, Boxing Day cricket). Trend bank fix: the winter snowflake move was restored and the faded 1 Nov Christmas switch removed. Total 917."
   }
  ],
  "history": [
@@ -7638,9 +7666,17 @@
   {
    "date": "2026-11-15 23:47",
    "total": 913
+  },
+  {
+   "date": "2026-11-15 23:48",
+   "total": 917
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Santa's Summer Holiday",
+   "why": "Half our audience (Australia, New Zealand, South Africa, Brazil, Argentina) has a hot Christmas; a beach song where Santa swaps his sleigh for a surfboard, builds a sandy snowman and eats pavlova with the Bros gives southern hemisphere kids a Christmas song that looks like theirs."
+  },
   {
    "title": "1 Snowman, 100 Snowmen, a Million Snowmen!",
    "why": "Scale challenge titles (10 vs 100 vs 1,000,000) are Kids Diana Show's top new format; a counting song where the Bros build one snowman, then a hundred, then a whole snowy world of them teaches big numbers and fits December worldwide."
@@ -7692,10 +7728,6 @@
   {
    "title": "Good Morning, Sunshine Bros!",
    "why": "Daily routine songs (Gracie's Corner's Good Morning Song, Ms Rachel) are what buyers and parents replay; a bright wake up and stretch song for every morning in every country."
-  },
-  {
-   "title": "Everybody Can Dance!",
-   "why": "3 Dec 2026 is International Day of Persons with Disabilities and kids TV still shows few disabled characters; the Bros and a new friend on wheels invent moves everyone can copy, sitting or standing."
   }
  ],
  "trend_bank": [
@@ -7796,12 +7828,6 @@
    "use": "Camera stays still; on each clap of our own winter song a brother does one simple move (a spin or a jump) and is suddenly wearing one more winter layer: hat, scarf, mittens, boots. Meshy move: stand in place, clap hands once above the head, then one quarter turn on the spot."
   },
   {
-   "name": "Christmas switch",
-   "where": "TikTok, Reels (from 1 Nov)",
-   "status": "seasonal",
-   "use": "Bros clap twice and the room jumps from an autumn set to a Christmas set (tree, lights, snow at the window) on the beat drop of our holiday song; works as the first 2 seconds of every December Short."
-  },
-  {
    "name": "Kitchen groove while it bakes",
    "where": "TikTok and Reels (Let's Groove re animations, dancing in the kitchen)",
    "status": "rising",
@@ -7818,6 +7844,12 @@
    "where": "Evergreen kids",
    "status": "evergreen",
    "use": "Music stops, everyone freezes; kids at home play along. Already proven in our Dance and Freeze song."
+  },
+  {
+   "name": "Snowflake arms & spin",
+   "where": "Winter, global",
+   "status": "seasonal (Dec-Jan)",
+   "use": "Snowflake Dance Party song with 3 simple winter moves as a challenge."
   }
  ]
 }
