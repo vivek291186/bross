@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T19:50:49+05:30",
- "runs": 125,
+ "updated": "2026-11-15T19:56:41+05:30",
+ "runs": 126,
  "branches": [
   {
    "id": "platforms",
@@ -650,6 +650,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 122
+    },
+    {
+     "t": "Bebefinn's Netflix series has about 200M cumulative views since 2023 (second among Korean titles after Squid Game), reached No. 1 in Netflix Kids in 12 countries including the US and the top 10 in 34, and its cinema concert special is the only animated title in Korea's Netflix top five.",
+     "src": "khan.co.kr, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 126
     }
    ]
   },
@@ -1854,6 +1861,20 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 119
+    },
+    {
+     "t": "Bebefinn, Pinkfong's 3D baby and family song brand launched only in 2022, reported more than 80M subscribers and 58B views across its YouTube channels in Jun 2026 and about 84M and 65B by Aug 2026, the fastest climb of any new 3D kids song brand.",
+     "src": "thepinkfongcompany.com / khan.co.kr, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 126
+    },
+    {
+     "t": "Pinkfong's first Amazon Kids+ original, The Big Book of Bebefinn (announced Jun 2026), is 18 musical episodes of about seven minutes following a toddler through everyday firsts such as riding a tricycle, visiting the doctor and trying new foods, mixing new songs with fan favourite hits.",
+     "src": "thepinkfongcompany.com, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 126
     }
    ]
   },
@@ -2323,6 +2344,13 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 123
+    },
+    {
+     "t": "Bebefinn's path (short family songs, then spinoffs like Bebefinn Playtime, a film, and story led musical episodes) shows that a song brand built on one warm family and its daily life can later grow into longer story formats; 'first time' moments (first bike, first haircut, first day at school) are proven song subjects.",
+     "src": "thepinkfongcompany.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 126
     }
    ]
   },
@@ -4218,12 +4246,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 17:01",
-   "note": "Earlier runs summarised: 2 older log entries condensed."
-  },
-  {
    "date": "2026-11-15 17:02",
-   "note": "Run 47 (rules, safety and monetisation): YouTube Music began labelling songs made primarily with generative AI on 14 Oct 2026 (main app to follow), and a label alone does not change recommendations or monetisation on YouTube; Spotify and Deezer do push AI tagged tracks out of recommendations. Suno songs are monetisable only if made on a paid plan, and downloads are being capped, so final audio should be backed up. Total 293."
+   "note": "Earlier runs summarised: 2 older log entries condensed."
   },
   {
    "date": "2026-11-15 17:02",
@@ -4536,6 +4560,10 @@
   {
    "date": "2026-11-15 19:50",
    "note": "Run 125 (topics and seasons (Sinterklaas, UAE National Day, Dongzhi)): Next four weeks: Sinterklaas arrived in Amsterdam today (15 Nov) and gift evening is 5 Dec (shoes by the door, a carrot for the horse, spiced biscuits, chocolate letters); the UAE marks its 55th National Day on 2 and 3 Dec; the Chinese winter solstice festival Dongzhi falls on Tue 22 Dec, when families roll pink and white sweet rice balls (tangyuan), a natural counting and colours song for China, Taiwan, Singapore and Malaysia. Total 590."
+  },
+  {
+   "date": "2026-11-15 19:56",
+   "note": "Run 126 (competitor deep dive (Bebefinn)): Bebefinn, Pinkfong's 3D family song brand launched in 2022, passed about 80M subscribers and 58 to 65B views across its YouTube channels by mid 2026, has about 200M Netflix views (No. 1 kids title in 12 countries) and is moving into story led musical episodes about a toddler's everyday firsts for Amazon Kids+. Total 594."
   }
  ],
  "history": [
@@ -5038,13 +5066,13 @@
   {
    "date": "2026-11-15 19:50",
    "total": 590
+  },
+  {
+   "date": "2026-11-15 19:56",
+   "total": 594
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Hello, Hola, Namaste!",
-   "why": "World Hello Day is 21 Nov: the Bros wave and say hello in eight languages with one simple dance move each, a greeting song that travels to every market."
-  },
   {
    "title": "Open the Door, It's Snowing!",
    "why": "YouTube's own before and after door transition format: the Bros open a door from a plain room into a twinkling winter wonderland on the chorus drop, a perfect Short loop."
@@ -5096,6 +5124,10 @@
   {
    "title": "Roll, Roll, Little Rice Balls",
    "why": "Dongzhi on 22 Dec has families rolling pink and white sweet rice balls; a counting and colours action song (roll, pop, plop in the bowl) is fresh, cosy and travels across East and Southeast Asia."
+  },
+  {
+   "title": "First Time, Big Time!",
+   "why": "Pinkfong's new Bebefinn series is built on a toddler's everyday firsts; a Bro Bros song cheering a little friend through a first bike ride, first haircut or first new food helps parents and fits every culture."
   }
  ]
 }
