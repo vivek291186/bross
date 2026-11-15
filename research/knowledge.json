@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T18:38:36+05:30",
- "runs": 77,
+ "updated": "2026-11-15T18:39:52+05:30",
+ "runs": 78,
  "branches": [
   {
    "id": "platforms",
@@ -2211,6 +2211,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 66
+    },
+    {
+     "t": "UAE National Day (Eid Al Etihad) gives a public holiday on Wednesday 2 and Thursday 3 Dec 2026, a home time window for Gulf families; a friendly 'together we celebrate' song with an Arabic audio track fits that week.",
+     "src": "Gulf News, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 78
+    },
+    {
+     "t": "The Philippines has the world's longest Christmas season, with carols in malls and on radio from September to Three Kings in January; Simbang Gabi dawn masses run the nine days from 16 to 24 Dec.",
+     "src": "Catholics and Cultures, 2025",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 78
+    },
+    {
+     "t": "The star shaped parol lantern is the icon of a Filipino Christmas, so a song where the Bros make and light a big star lantern speaks to one of our largest English speaking audiences and still reads as a general Christmas star elsewhere.",
+     "src": "Catholics and Cultures, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 78
+    },
+    {
+     "t": "Mexico's SEP calendar: last class Friday 18 Dec 2026, winter break 21 Dec to 5 Jan, Three Kings Day 6 Jan as a non school day and return on Thursday 7 Jan 2027, so Spanish holiday songs keep a home audience for almost three weeks.",
+     "src": "Cronica, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 78
+    },
+    {
+     "t": "Three Kings Day on 6 Jan (Mexico, Spain, the Philippines and much of Latin America) carries gift giving and the holiday season into January, so a star and gift themed song can be posted in the first week of January instead of ending holiday content on 25 Dec.",
+     "src": "Catholics and Cultures, 2025",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 78
     }
    ]
   },
@@ -3299,6 +3334,10 @@
   {
    "date": "2026-11-15 18:38",
    "note": "Run 77 (visual craft (Blender 5.1 and Meshy tools)): Blender 5.1 speeds up Eevee shader compiles 25 to 50% and action playback about 2.3 times, adds a Raycast node for toon effects and a Gaussian smoothing modifier that can clean jittery Meshy dance curves; Blender 5.0 fur now renders far more strands by default. Meshy Edit (Oct 2026) changes one selected part of a model from a text prompt, useful for seasonal outfits. Total 415."
+  },
+  {
+   "date": "2026-11-15 18:39",
+   "note": "Run 78 (topics and seasons (Gulf, Philippines, Mexico calendars)): UAE National Day holiday is Wed 2 and Thu 3 Dec 2026. The Philippines' Christmas runs September to January with Simbang Gabi on 16 to 24 Dec and the star shaped parol lantern as its icon. Mexico's school break runs 21 Dec to 6 Jan (Three Kings Day) with return on 7 Jan 2027, so Spanish holiday songs keep working into early January. Total 420."
   }
  ],
  "history": [
@@ -3609,6 +3648,10 @@
   {
    "date": "2026-11-15 18:38",
    "total": 415
+  },
+  {
+   "date": "2026-11-15 18:39",
+   "total": 420
   }
  ],
  "next_week_ideas": [
@@ -3617,8 +3660,8 @@
    "why": "45% of parents struggle with bedtime; a slow song that moves from big wiggles to tiny stretches to a yawn and a goodnight to the Bros' toys, in the format CoComelon built with Headspace."
   },
   {
-   "title": "Wiggly Noodle Song",
-   "why": "Silly food novelty songs (String Cheese, Raining Tacos) chart on iTunes kids; noodles that wiggle, slurp and twirl give a giggly chorus and easy dance moves."
+   "title": "Our Big Star Lantern",
+   "why": "The Bros fold and light a giant five point star lantern, counting each point; it fits the Filipino parol (season runs to Three Kings on 6 Jan), Christmas stars everywhere and a counting lesson, with Spanish and Tagalog friendly visuals and no religious text."
   },
   {
    "title": "My Turn, Your Turn!",
