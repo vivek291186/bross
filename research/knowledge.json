@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-15T16:01:25+05:30",
- "runs": 18,
+ "updated": "2026-11-15T16:02:09+05:30",
+ "runs": 19,
  "branches": [
   {
    "id": "platforms",
@@ -979,6 +979,41 @@
      "conf": "medium",
      "date": "2026-11-15",
      "run": 13
+    },
+    {
+     "t": "US Thanksgiving is Thursday 26 Nov 2026: thankfulness and harvest songs (sharing food, saying thank you to family) peak in the next 10 days.",
+     "src": "calendar, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 19
+    },
+    {
+     "t": "Lunar New Year 2027 falls on Saturday 6 Feb, the Year of the Goat (Sheep); a friendly goat dance song and red lantern visuals should be ready by late January for East and Southeast Asian audiences.",
+     "src": "Outside calendar, 2026",
+     "conf": "high",
+     "date": "2026-11-15",
+     "run": 19
+    },
+    {
+     "t": "Gen Alpha 3 to 8 year olds' favourite characters in 2026: superheroes (Spider-Man, Superman, Batman), Bluey, Barbie, Elsa, Moana, Sonic, SpongeBob and Paw Patrol's Chase; heroes, speed, and brave adventure are the shared themes we can echo with original characters.",
+     "src": "Lingokids survey of 2,000 parents, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 19
+    },
+    {
+     "t": "Games are now the third biggest way young kids discover new characters, after TV and movies and ahead of toys, so playable moments (dance games, guessing, choices) build attachment.",
+     "src": "Lingokids, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 19
+    },
+    {
+     "t": "68% of parents say their child loves some of the same characters they loved as kids; content parents enjoy co watching (gentle humour, nostalgic sounds) gets replayed in family time.",
+     "src": "Lingokids, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-15",
+     "run": 19
     }
    ]
   },
@@ -1334,6 +1369,10 @@
   {
    "date": "2026-11-15 16:01",
    "note": "Run 18 (visual craft): New ISB study of 32,000 kids videos: 10% more visual motion links to about 1% more views and pulls wandering eyes back faster, but more animation is not better for learning; slow media movement keeps growing; young infants look at faces anywhere in frame while older viewers expect the face centred. Total 168."
+  },
+  {
+   "date": "2026-11-15 16:02",
+   "note": "Run 19 (topics and seasons): US Thanksgiving is 26 Nov; Lunar New Year 2027 is 6 Feb, Year of the Goat; Gen Alpha 3 to 8 favourites are superheroes, Bluey, Barbie, Elsa, Sonic and SpongeBob; games are now the third way kids discover characters; parents love sharing favourites. Total 173."
   }
  ],
  "history": [
@@ -1408,6 +1447,10 @@
   {
    "date": "2026-11-15 16:01",
    "total": 168
+  },
+  {
+   "date": "2026-11-15 16:02",
+   "total": 173
   }
  ],
  "next_week_ideas": [
@@ -1416,8 +1459,8 @@
    "why": "Dinosaurs + family call-and-response (Baby Dino, Mama Dino...) + stomp actions; Baby Shark pattern, globally loved subject."
   },
   {
-   "title": "Rescue Pup to the Rescue",
-   "why": "Dogs + community helpers + a simple problem the kids solve; sense of mastery like Paw Patrol, fully original."
+   "title": "Super Bro Bros to the Rescue",
+   "why": "Superheroes top Gen Alpha's favourite characters; the brothers and their pup get 'kindness powers' with a power up dance move for each rescue, fully original."
   },
   {
    "title": "Bath Time Bubble Party",
