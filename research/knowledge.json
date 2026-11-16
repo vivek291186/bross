@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:35:59+05:30",
- "runs": 461,
+ "updated": "2026-11-16T11:36:58+05:30",
+ "runs": 462,
  "branches": [
   {
    "id": "platforms",
@@ -6831,6 +6831,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 437
+    },
+    {
+     "t": "A worked example of a kids Christmas story for YouTube runs about 4 minutes with 39 scenes in four acts, a new shot roughly every 6 seconds, and narration in only about 10 scenes, so our Christmas story songs can let visuals and the song carry most shots instead of talking over every scene.",
+     "src": "atlabs.ai, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 462
+    },
+    {
+     "t": "For Christmas scenes the same guide pairs cold midnight blue surroundings with warm golden light (lonely versus hopeful) and gives every scene one clear light source, such as a window, a lantern or the tree, which is easy to set up in Blender with one warm key light in a blue world.",
+     "src": "atlabs.ai, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 462
+    },
+    {
+     "t": "Blender 5.2 LTS (Jul 2026) makes EEVEE up to 2 times faster in instance heavy scenes, so snowy forests, falling snowflakes, rows of presents and crowds of ornaments built with instances are cheap to render for our winter videos.",
+     "src": "cgchannel.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 462
+    },
+    {
+     "t": "Blender 5.2 adds endless and ping pong looped playback and in between tools usable in Object Mode, so a Meshy dance loop can be checked for a clean seamless loop point before rendering a Short that must replay smoothly.",
+     "src": "cgchannel.com, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 462
     }
    ]
   },
@@ -12905,12 +12933,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:43",
-   "note": "Earlier runs summarised: all rounds through Run 382 (rules (Shorts originality ranking from 1 Oct, AI monetisation risk tiers)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:44",
-   "note": "Run 383 (YouTube channels (our Metricool check already done today so skipped; VocaVoca's 2026 surge and cool down, Pokémon Kids TV)): VocaVoca was 2026's breakout nursery song channel, rising from about 368M views in January to 2.91B in October (5M to 10.5M subscribers), but its last 28 days fell to about 1.46B, matching its exit from the weekly top 50; its newest upload pairs a helper mission with this season's toy train theme. Pokémon Kids TV adds about 1.2M subscribers a month on only about 71M views, so big IP subscriber counts say little about views. Total 1597."
+   "note": "Earlier runs summarised: all rounds through Run 383 (YouTube channels (our Metricool check already done today so skipped; VocaVoca's 2026 surge and cool down, Pokémon Kids TV)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:45",
@@ -13223,6 +13247,10 @@
   {
    "date": "2026-11-16 11:35",
    "note": "Run 461 (music craft (Suno v5.5 prompt structure, holiday albums on kids charts; infant studies already covered)): Most infant music studies were already in the tree; new: Suno v5.5 guides say to front load 4 to 7 style words and keep 2 or 3 instrument textures, and on Billboard's Kid Albums chart holiday albums jump to the top by early November, so our Christmas playlist should already be live. Total 1830."
+  },
+  {
+   "date": "2026-11-16 11:36",
+   "note": "Run 462 (visual craft (Christmas story pacing and lighting, Blender 5.2 speed tips; thumbnail study already covered)): A worked AI Christmas story example uses 39 scenes in about 4 minutes (a new shot every 6 seconds), narration in only a quarter of them, and cold midnight blue against warm gold light; Blender 5.2 EEVEE renders instance heavy scenes (snowy forests, ornaments) up to 2 times faster. Total 1834."
   }
  ],
  "history": [
@@ -14049,6 +14077,10 @@
   {
    "date": "2026-11-16 11:35",
    "total": 1830
+  },
+  {
+   "date": "2026-11-16 11:36",
+   "total": 1834
   }
  ],
  "next_week_ideas": [
