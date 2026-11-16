@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:50:54+05:30",
- "runs": 390,
+ "updated": "2026-11-16T08:51:49+05:30",
+ "runs": 391,
  "branches": [
   {
    "id": "platforms",
@@ -7951,6 +7951,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 388
+    },
+    {
+     "t": "Infobells Hindi (about 72.8M subscribers) has stalled: +0.2M subscribers from May to August 2026 and no change from late September to mid October, with total views rising about 2.2B in four and a half months (roughly 450M a month), so India's oldest rhyme giants are mature and new Hindi entrants face an open, not closed, market.",
+     "src": "Vidanalyze, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 391
+    },
+    {
+     "t": "Kids Channel India (Hindi rhymes, 44.1M subscribers) drew between about 311M and 497M views a month in 2026 (432M in October, its best since January) and +200K to +400K subscribers a month; its newest upload is an elephant rhyme Short ('Ek Mota Hathi', about 284K views in under two days), showing animal rhymes still lead in Hindi.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 391
+    },
+    {
+     "t": "El Reino Infantil's Spanish network passed 5.6B YouTube views from January to April 2026 across channels with 229M subscribers, and backs YouTube with more than 90 licensing deals in 15 countries, 2.2M merchandise units and live tours in the Americas and Spain; Spanish kids audiences reward one loved cast built over many years.",
+     "src": "Bloomberg Línea, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 391
     }
    ]
   },
@@ -11467,10 +11488,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:36",
-   "note": "Run 312 (TRENDS (shoulder bounce, outfit loading, 5 stages, always dancing)): November trackers mostly confirmed formats already in the tree (Dame Hombro shoulder bounce, costume loading freeze, '5 stages of being...', 'always dancing', the Christmas switch), so their repeat leaves were merged; new were feet up camera reveals and Metricool's finding that Reels get 65% of views in the first three days. Four of these formats became December trend bank entries, replacing four faded or duplicate ones. Total 1310."
-  },
-  {
    "date": "2026-11-16 04:37",
    "note": "Run 313 (YouTube algorithm (YouTube Kids filter gate, Shorts consistency bonus, image posts in the Shorts feed)): Team YouTube's Kids FAQ says thumbnail, title and video filters each can block a video on their own, so one risky thumbnail can keep a good song out of YouTube Kids. YouTube is piloting an invite only monthly Shorts bonus for regular uploaders (US, UK, Germany, Brazil, Japan, South Korea, not India) and testing image carousel Posts with music inside the Shorts feed. Total 1313."
   },
@@ -11781,13 +11798,13 @@
   {
    "date": "2026-11-16 08:50",
    "note": "Run 390 (TRENDS (few new formats this week; monthly dump, a gentle elf helper, turkey food builds)): This week's trend lists (NewEngen 13 Nov, Inmagic 16 Nov) add little beyond what the tree already holds, so the trend bank stays current; new seasonal angles are the end of month 'dump' collage on Instagram, parents' wish for a gentle elf ritual that does not spy on kids, and turkey shaped food builds for US Thanksgiving. Total 1624."
+  },
+  {
+   "date": "2026-11-16 08:51",
+   "note": "Run 391 (global markets (India's Hindi rhyme giants plateau, El Reino Infantil's Spanish scale)): India's two biggest Hindi rhyme channels look mature rather than growing: Infobells Hindi (72.8M) stopped adding subscribers from September and runs at roughly 450M views a month, while Kids Channel India (44.1M) holds 310M to 500M a month and now pushes animal rhyme Shorts with #viral tags; El Reino Infantil passed 5.6B views in the first four months of 2026 and backs YouTube with licensing in 15 countries and live shows. Total 1627."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:56",
-   "total": 470
-  },
   {
    "date": "2026-11-15 18:56",
    "total": 473
@@ -12983,6 +13000,10 @@
   {
    "date": "2026-11-16 08:50",
    "total": 1624
+  },
+  {
+   "date": "2026-11-16 08:51",
+   "total": 1627
   }
  ],
  "next_week_ideas": [
