@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:56:37+05:30",
- "runs": 799,
+ "updated": "2026-11-17T00:57:20+05:30",
+ "runs": 800,
  "branches": [
   {
    "id": "platforms",
@@ -11269,6 +11269,20 @@
      "conf": "low",
      "date": "2026-11-17",
      "run": 788
+    },
+    {
+     "t": "A Mexican Spanish rhyme channel built on a global brand's animation (1.39M subscribers, about 3M views a month through 2026) gets its biggest hit by far from a 'who breaks the piñata?' party medley (about 42M views, ten times its next video), and its newest uploads still chain Latin classics (little chicks, the cow, peekaboo) into medleys, so in Mexico a piñata party song and medleys of familiar rhythms are the strongest Spanish formats.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 800
+    },
+    {
+     "t": "Mexico's Christmas posadas (16 to 24 Dec) end each night with children breaking a star shaped piñata while singing, so an original Bro Bros piñata song (take turns, swing three times, share the sweets) released in early December in English with a Spanish version fits both the posada season and Mexico's top performing kids format.",
+     "src": "vidiq.com and our seasonal calendar, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 800
     }
    ]
   },
@@ -16685,12 +16699,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:39",
-   "note": "Earlier runs summarised: all rounds through Run 720 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:40",
-   "note": "Run 721 (YouTube main and Kids (AIR's four growth tactics, Oct 2026; trends skipped after an empty trends round)): Most of AIR's tactics were already in the tree; new were BIBO and Toys getting 86% of traffic from about 60 streams a month, Amelka Karamelka's 436M views on translated channels and a Spanish kids channel up 1017% in 30 days after a catalog cleanup. Total 2292."
+   "note": "Earlier runs summarised: all rounds through Run 721 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:40",
@@ -17003,6 +17013,10 @@
   {
    "date": "2026-11-17 00:56",
    "note": "Run 799 (topics and seasons (trends skipped after an empty trends round; Amazon top toys, tween in and out lists)): Holiday dates and toy of the year lists were already in the tree; new: Amazon's 2026 top toys favour hatching, roaring and care for pet creatures, and a viral fifth grade 'in and out' poll says country music and being nice are in while brain rot slang is out. Total 2370."
+  },
+  {
+   "date": "2026-11-17 00:57",
+   "note": "Run 800 (global markets (Mexico Spanish rhyme channels, Pakistan Urdu poems)): El Reino Infantil and Plim Plim facts were already in the tree; new: a Mexican rhyme channel's 42M view piñata party medley is ten times its next hit, giving a 'Swing Swing Piñata' idea timed for the 16 to 24 Dec posadas. Total 2372."
   }
  ],
  "history": [
@@ -18137,9 +18151,17 @@
   {
    "date": "2026-11-17 00:56",
    "total": 2370
+  },
+  {
+   "date": "2026-11-17 00:57",
+   "total": 2372
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Swing Swing Piñata",
+   "why": "Piñata party medleys are a top Spanish kids format in Mexico and posadas (16 to 24 Dec) end with children breaking a star piñata; an original take turns, count to three, share the sweets song in English plus Spanish is seasonal, safe and global."
+  },
   {
    "title": "Little Whale Finds Her Song",
    "why": "December family films lean on ocean and forest nature stories; an original lullaby pace song where a small whale tries a hum, a splash and a big echo, and the brothers help her sing, is character free, global and calm for bedtime playlists."
@@ -18191,10 +18213,6 @@
   {
    "title": "The Silly Watermelon Man",
    "why": "Goofy fruit character songs are the top hits of local channels in Poland (watermelon) and Turkey (Watermelon Man, 8.6M); ours is an original watermelon friend who loses his seeds while dancing and the Bros help find them, a counting song for every country."
-  },
-  {
-   "title": "Kitten, Kitten, ROAR! (The Changing Animal Song)",
-   "why": "Holiday 2026 toy lists favour animals that transform; each verse a small animal (kitten, puppy, chick) spins and becomes a big one (lion, wolf, eagle) with a dance move kids copy, an original song for every country."
   }
  ],
  "trend_bank": [
