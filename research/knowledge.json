@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:07:15+05:30",
- "runs": 709,
+ "updated": "2026-11-16T22:07:40+05:30",
+ "runs": 710,
  "branches": [
   {
    "id": "platforms",
@@ -16049,11 +16049,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 630 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:41",
-   "note": "Run 631 (TRENDS (Ramdam early November TikTok formats)): Ramdam's 3 and 10 Nov TikTok lists add a confused 'no, that does not make any sense' lip sync over a needlessly complicated way of doing something, which becomes a kid safe silly way versus easy way comedy beat; most other new formats are adult or ironic. Total 2120."
+   "note": "Earlier runs summarised: all rounds through Run 631 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:47",
@@ -16366,6 +16362,10 @@
   {
    "date": "2026-11-16 22:07",
    "note": "Run 709 (TRENDS (Anijam November list, mid November dance searches)): Anijam's November list (holiday 'defrosted' spooky to festive switch, runway walk, Dame Hombro shoulder loop) and other mid November dance searches returned only trends already in the bank; no new leaves. Total 2279."
+  },
+  {
+   "date": "2026-11-16 22:07",
+   "note": "Run 710 (YouTube algorithm (satisfied watch time shift recheck)): The Shorts distribution shift reported from September 2025 (ranking by expected satisfied watch time per click) is already in the tree; no new leaves. Total 2279."
   }
  ],
  "history": [
@@ -17135,6 +17135,10 @@
   },
   {
    "date": "2026-11-16 22:06",
+   "total": 2279
+  },
+  {
+   "date": "2026-11-16 22:07",
    "total": 2279
   },
   {
