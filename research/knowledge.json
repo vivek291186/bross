@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:53:46+05:30",
- "runs": 657,
+ "updated": "2026-11-16T19:54:28+05:30",
+ "runs": 658,
  "branches": [
   {
    "id": "platforms",
@@ -11892,6 +11892,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 651
+    },
+    {
+     "t": "A Christmas Day 2022 TikTok of relatives dancing on an iced over pool who fell through when the ice broke reached 5.4M views in five days, so Bro Bros winter videos must never show characters dancing or skating on frozen ponds or pools that children could copy; skating scenes belong on a clearly marked rink.",
+     "src": "FOX 10, Dec 2022",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 658
     }
    ]
   },
@@ -15406,6 +15413,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 655
+    },
+    {
+     "t": "Indoor 'snowball fights' with soft pom poms or paper balls are a perennial winter activity that parenting sites and family videos push every snow day, so an original Bro Bros throw and freeze snowball song gives families something to play along with on cold days anywhere, even where it never snows.",
+     "src": "Yahoo, Macaroni KID and parent blogs, 2023 to 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 658
+    },
+    {
+     "t": "The 'dancing ski baby' winter meme (Nov to Dec 2022, tens of millions of views) was built on one tiny move, a toddler waving one hand overhead while shuffling side to side, which shows how a single, easy toddler sized move can carry a whole trend; our own winter song can give Little Bro one signature wave and shuffle.",
+     "src": "meme.com, 2022",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 658
     }
    ]
   }
@@ -15433,11 +15454,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 578 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:51",
-   "note": "Run 579 (TRENDS (holiday songs from India and Christmas dance search)): No new Christmas dance has broken out yet this year; the usable seasonal signal is that Bollywood style Christmas remixes went viral worldwide on TikTok last November and December, which fits our own dhol songs (Jalao Deep was our best Reel), so a bhangra Christmas song idea was added. Total 2074."
+   "note": "Earlier runs summarised: all rounds through Run 579 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:51",
@@ -15750,6 +15767,10 @@
   {
    "date": "2026-11-16 19:53",
    "note": "Run 657 (competitor deep dive (Funlala Kids Songs; Lili and Max as a warning)): Funlala Kids Songs, a Lalafun branded US channel with 2,936 videos, still draws about 41.7M views a month (Oct 2026 +75.5M, well below its Sep 2025 peak of 237M), and its second biggest video is a Feb 2026 baby animals train song (12.9M); by contrast Lili and Max, a 1,637 video pretend play channel, fell from hundreds of thousands of views a month in early 2025 to about 10K to 20K, a warning about mass produced compilations after YouTube's July 2025 inauthentic content rules. Total 2191."
+  },
+  {
+   "date": "2026-11-16 19:54",
+   "note": "Run 658 (TRENDS (winter play: indoor snowball games, ski toddler shuffle, ice safety)): Looked ahead to December winter play. Indoor soft snowball games are a perennial winter parent activity and were added to the trend bank as a freeze game song; the 2022 ski toddler dance (one hand waving overhead with a side shuffle) remains a reusable winter move; a 5.4M view Christmas clip of a family falling through a frozen pool while dancing is a reminder never to show dancing on ice over water. Total 2194."
   }
  ],
  "history": [
@@ -16316,6 +16337,10 @@
   {
    "date": "2026-11-16 19:53",
    "total": 2191
+  },
+  {
+   "date": "2026-11-16 19:54",
+   "total": 2194
   }
  ],
  "next_week_ideas": [
@@ -16408,6 +16433,12 @@
    "use": "In our 3D living room Dad asks the brothers to 'film' him dancing to our own song; the camera shows Dad's goofy steps while a mirror behind him shows the brothers giggling and then joining in for the last chorus. Meshy motion for Dad: standing, wobbly side steps with arms flapping, then a small hop and a proud pose; brothers: standing, clap and bounce in place."
   },
   {
+   "name": "Indoor snowball party",
+   "where": "Parent blogs, Reels and Shorts every winter (seasonal, Dec to Feb)",
+   "status": "seasonal",
+   "use": "Big snowy day outside, so the brothers and friends have a soft pom pom 'snowball' party in the living room to our own song: on each chorus 'one, two, three, throw!' everyone tosses soft snowballs into a basket, then freezes like snowmen until the music restarts. Meshy motion: standing, underarm throw with the right arm, then a stiff snowman freeze with arms out; no running, no floor moves."
+  },
+  {
    "name": "Dance with grandpa",
    "where": "TikTok and Reels, Latin America and worldwide, peaks in family holidays",
    "status": "evergreen",
@@ -16490,12 +16521,6 @@
    "where": "Family Reels, Shorts and YouTube New Year videos (31 Dec, seasonal)",
    "status": "seasonal",
    "use": "A New Year countdown song where ten numbered balloons float behind the Bros; on each count one pops and shows a picture of the next move (clap, jump, wave, spin in place, arms up, march, wiggle, point up, star pose, big cheer), with confetti and fireworks at zero. Meshy steps, all standing in place: two claps, a small jump, a big wave, a slow turn in place, arms up and down, marching on the spot, a hip wiggle, pointing up, a star pose with arms and legs wide, a cheering arm pump."
-  },
-  {
-   "name": "Holiday craft along",
-   "where": "Instagram Reels, YouTube Shorts and Pinterest (December, seasonal)",
-   "status": "seasonal",
-   "use": "A 30 to 45 second Reel where Big Bro and Little Bro make one easy Christmas craft (a paper plate snowman face or a handprint reindeer) in three steps, each step sung as one line of our own craft song, ending with both holding it up next to a lit tree and doing a happy two hand wave; the caption invites families to save it for craft time."
   }
  ]
 }
