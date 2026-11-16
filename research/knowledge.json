@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:47:42+05:30",
- "runs": 656,
+ "updated": "2026-11-16T19:53:46+05:30",
+ "runs": 657,
  "branches": [
   {
    "id": "platforms",
@@ -5249,6 +5249,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 654
+    },
+    {
+     "t": "Funlala Kids Songs (US, Lalafun branded, started Mar 2023) has about 988K subscribers, 1.31B views and 2,936 videos; it gained about 41.7M views and 20K subscribers in the 28 days to 16 Nov 2026 and 75.5M views in October, but that is only a third of its Sep 2025 peak (237M a month), so even big volume nursery rhyme channels have cooled over the past year.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 657
+    },
+    {
+     "t": "Funlala's second most viewed video ever is a February 2026 upload, 'Choo Choo Train Song | Baby Animals Find Their Mommies' (12.9M views), showing that a simple vehicle plus baby animals plus 'find mummy' story still breaks out in 2026, while its newest bug helper song drew only about 3.5K views in two and a half days.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 657
+    },
+    {
+     "t": "Lili and Max (US, 1,637 videos of pretend play 'good habits' cartoons and recycled nursery rhyme compilations) fell from several hundred thousand views a month in early 2025 to about 10K to 23K a month since mid 2025 and loses about 1,000 subscribers a month; the drop coincides with YouTube's July 2025 inauthentic and repetitive content rules, a warning that mass produced, look alike uploads can lose almost all reach.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 657
     }
    ]
   },
@@ -15412,11 +15433,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 577 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:50",
-   "note": "Run 578 (Shorts and Reels (video length data)): A UK agency's 68 Reel test (Jul 2026) found views fall as Reels get longer (best reach at 1 to 1.5 minutes, worst at 3.5 to 4) and 2 to 3 minute Reels weakest on both reach and engagement; Adobe's Shorts length survey was already a leaf. Total 2073."
+   "note": "Earlier runs summarised: all rounds through Run 578 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:51",
@@ -15729,6 +15746,10 @@
   {
    "date": "2026-11-16 19:47",
    "note": "Run 656 (global markets (Korea early English demand, Ukraine kids language shift)): Dubbing, MENA, India and Brazil findings were already in the tree. New: a Korean government institute survey of 13,241 under 6s found 14.6% take private English lessons and 85.7% of intensive half day academy pupils attend English immersion preschools, a strong market for clear English kids songs; and Ukraine's kids segment is the only one of 15 YouTube niches where the local language share fell (2024 to 2026), driven by one Russian language kids channel, showing how a single strong kids channel can shift a whole market. Total 2188."
+  },
+  {
+   "date": "2026-11-16 19:53",
+   "note": "Run 657 (competitor deep dive (Funlala Kids Songs; Lili and Max as a warning)): Funlala Kids Songs, a Lalafun branded US channel with 2,936 videos, still draws about 41.7M views a month (Oct 2026 +75.5M, well below its Sep 2025 peak of 237M), and its second biggest video is a Feb 2026 baby animals train song (12.9M); by contrast Lili and Max, a 1,637 video pretend play channel, fell from hundreds of thousands of views a month in early 2025 to about 10K to 20K, a warning about mass produced compilations after YouTube's July 2025 inauthentic content rules. Total 2191."
   }
  ],
  "history": [
@@ -16291,6 +16312,10 @@
   {
    "date": "2026-11-16 19:47",
    "total": 2188
+  },
+  {
+   "date": "2026-11-16 19:53",
+   "total": 2191
   }
  ],
  "next_week_ideas": [
