@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:46:30+05:30",
- "runs": 529,
+ "updated": "2026-11-16T15:47:25+05:30",
+ "runs": 530,
  "branches": [
   {
    "id": "platforms",
@@ -1574,6 +1574,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 518
+    },
+    {
+     "t": "A creator who reads children's picture books on camera reached 500K followers across Instagram, TikTok and YouTube in nine months; his breakout came on day 31 when one book reading hit about 1M views, and growth then compounded (1K followers in month two, 100K by month four), so a new account's first month of daily posting is mainly a search for one repeatable winning format.",
+     "src": "Stan blog, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 530
+    },
+    {
+     "t": "The same book reading creator graded every hook by its three second retention in the first 30 days, then reused the winning hook structure on new stories, re ran top performers as Trial Reels with a new caption or re filmed hook, and turned viewer requests in DMs into his list of next videos.",
+     "src": "Stan blog, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 530
     }
    ]
   },
@@ -11507,6 +11521,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 524
+    },
+    {
+     "t": "For Bro Bros Reels, once one story song Reel clearly beats the rest (Ant Parade at 113 views so far), the next Reels should copy its exact opening structure (food taken, a chant, sharing) with new animals and foods, and the best one should be re posted as a Trial Reel with a new first second rather than left alone.",
+     "src": "own synthesis of Stan case and Metricool data, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 530
     }
    ]
   },
@@ -14117,11 +14138,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 450 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:05",
-   "note": "Run 451 (global markets (Polish and Italian dub channels)): Dub channels for Poland and Italy are small: LooLoo's Polish channel has about 200K subscribers and fell from 1.8M to 0.8M monthly views between July and October 2026 (vidIQ models about 200 USD), and CoComelon Italiano has about 1.2M subscribers with October Shorts at 3K to 10K views; LooLoo Polish's top videos are 30 to 40 minute 'ants go marching' compilations, the same marching ants theme as our best Reel this week. Total 1811."
+   "note": "Earlier runs summarised: all rounds through Run 451 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:05",
@@ -14434,6 +14451,10 @@
   {
    "date": "2026-11-16 15:46",
    "note": "Run 529 (YouTube algorithm (OutlierKit change log, Creator Insider, Home feed news)): OutlierKit's log still has no November 2026 change; the October items (original Shorts priority, custom feeds, Subs tab moved into Home, hacked channel pause, 30 day spam lock, Shorts bonus pilot) and Beaupre's subscriber and late peak points were all already leaves, so no new leaves. Total 2003."
+  },
+  {
+   "date": "2026-11-16 15:47",
+   "note": "Run 530 (Shorts and Reels (Reels algorithm news, kids Shorts case studies, a children's book reading Reels account)): No new Reels or Shorts ranking change this week (WOA Song Spanish's Shorts reset and Your Algorithm controls were already leaves); new: a creator reading children's picture books on camera grew to 500K followers in nine months after one book reading hit 1M views on day 31, then repeated the same hook with new books, re ran winners as Trial Reels with new hooks, and used follower requests as the idea list. Total 2006."
   }
  ],
  "history": [
@@ -15532,6 +15553,10 @@
   {
    "date": "2026-11-16 15:46",
    "total": 2003
+  },
+  {
+   "date": "2026-11-16 15:47",
+   "total": 2006
   }
  ],
  "next_week_ideas": [
