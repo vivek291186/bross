@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T13:48:51+05:30",
- "runs": 517,
+ "updated": "2026-11-16T14:38:28+05:30",
+ "runs": 518,
  "branches": [
   {
    "id": "platforms",
@@ -1560,6 +1560,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 506
+    },
+    {
+     "t": "Metricool's 24.36M post Instagram study (Jan to Feb 2026 vs 2025) found Reels posting rose 35% while Reels views rose under 2% and reach about 12%, yet Reels were the only format whose engagement rate grew (about +25%) and single image reach fell 22%, so each Bro Bros Reel competes harder for the same views and must earn them with a strong first second.",
+     "src": "Net Influencer / Metricool, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 518
+    },
+    {
+     "t": "YouTube began testing AI generated answers at the top of search results in October 2026, so Bro Bros titles and descriptions should say plainly what a parent is looking for (for example 'colours song for toddlers' or 'bedtime song for kids') so the AI answer can point to our video.",
+     "src": "SocialBee YouTube updates, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 518
     }
    ]
   },
@@ -2918,6 +2932,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 506
+    },
+    {
+     "t": "Meta added a 'User True Interest Survey' model to Facebook Reels ranking: random in feed polls ask 'How well does this video match your interests?' on a five point scale, and in a 10M user test videos that match viewers' real interests got modest boosts while poor matches were demoted; Meta has not said it runs on Instagram, but it rewards a channel that stays clearly on one topic (kids songs).",
+     "src": "PPC Land / Meta engineering, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 518
     }
    ]
   },
@@ -10905,6 +10926,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 514
+    },
+    {
+     "t": "YouTube's August 2026 Partner Program update says channels that drop under the 10M qualified Shorts views line will be offered other incentives (shopping bonuses, brand deal production credits and earnings boosts for joining trend activations), but no criteria or amounts are published yet, and reports say new Shorts based applicants will face a 20M views in 90 days bar.",
+     "src": "PPC Land, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 518
     }
    ]
   },
@@ -13885,12 +13913,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 438 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 10:39",
-   "note": "Run 439 (global markets (Bengali and Thai kids audiences)): Kids Tv Bangla draws about 55M views a month but vidIQ models only about 2,500 USD of ads (about 0.05 USD per 1,000), with remixes of traditional Bengali rhymes as its top videos; in Thailand, localised editions of global family brands (Vlad and Niki THA 14.2M, Brianna TH 8.2M) sit in the top ten family channels next to local ones, so a dubbed Bro Bros channel can compete there. Total 1782."
+   "note": "Earlier runs summarised: all rounds through Run 439 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:41",
@@ -14203,6 +14227,10 @@
   {
    "date": "2026-11-16 13:48",
    "note": "Run 517 (YouTube algorithm (November 2026 news check)): Custom prompt feeds, the new bottom bar, Shorts originality ranking and the 2027 Partner Program thresholds were all already leaves; no new confirmed YouTube ranking change this week, so no new leaves. Total 1970."
+  },
+  {
+   "date": "2026-11-16 14:38",
+   "note": "Run 518 (Shorts and Reels trends and algorithm (November news check)): Most November platform news was already in the tree; new: YouTube says creators below the Shorts pool line will get trend activation boosts and shopping bonuses, Reels posting grew 35% while Reels views grew under 2% (more competition per Reel), Meta ranks Facebook Reels partly by in feed 'does this match your interests' surveys, and YouTube is testing AI answers on top of search. Total 1974."
   }
  ],
  "history": [
@@ -15253,6 +15281,10 @@
   {
    "date": "2026-11-16 13:48",
    "total": 1970
+  },
+  {
+   "date": "2026-11-16 14:38",
+   "total": 1974
   }
  ],
  "next_week_ideas": [
