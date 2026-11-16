@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:03:21+05:30",
- "runs": 449,
+ "updated": "2026-11-16T11:04:26+05:30",
+ "runs": 450,
  "branches": [
   {
    "id": "platforms",
@@ -7239,10 +7239,10 @@
      "run": 163
     },
     {
-     "t": "The Angry Birds Movie 3 opens on 25 Dec 2026, so funny birds, slingshot style launching and bird sounds will be trendy over the holidays; an original Bros song with silly cartoon birds of our own design rides that wave without using the brand.",
-     "src": "boxofficemojo.com, Nov 2026",
+     "t": "The Angry Birds Movie 3 opens in US cinemas on 23 Dec 2026 (Box Office Mojo and a parents' film guide; earlier lists said 25 Dec), so funny birds, slingshot style launching and bird sounds will be trendy over the holidays; an original Bros song with silly cartoon birds of our own design rides that wave without using the brand.",
+     "src": "boxofficemojo.com, Nov 2026; boxofficemojo.com, Nov 2026",
      "conf": "medium",
-     "date": "2026-11-15",
+     "date": "2026-11-16",
      "run": 163
     },
     {
@@ -12751,10 +12751,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 370 (rules (COPPA 2.0 in Congress, YouTube age estimatio..."
-  },
-  {
    "date": "2026-11-16 07:58",
    "note": "Run 371 (YouTube channels (our Metricool data still unchanged so skipped; Bebefinn's Portuguese and Japanese channels)): Metricool still had no YouTube data after 11 Nov, so this round compared local language channels. Bebefinn Portuguese (9.1M subscribers) drew about 296M views and 150K new subscribers in 28 days, far ahead of CoComelon Brasil, and Bebefinn Japanese matches BabyBus Japan's monthly views with a quarter of the subscribers, proof that a newer brand can overtake incumbents in a language. Their newest uploads are a stranger safety song and a rainy day clothes song. Total 1544."
   },
@@ -13069,6 +13065,10 @@
   {
    "date": "2026-11-16 11:03",
    "note": "Run 449 (algorithm experiments and case studies (AIR kids cases: a wrongly deleted channel restored, compliance fixes)): An AIR kids case not yet in the tree: a Spanish kids channel deleted by automated enforcement, with its appeal rejected, was restored with all its history after a documented escalation, while its Arabic sister channel grew views 72% and revenue 133% after daily checks of thumbnails, pacing and metadata against YouTube's kids quality principles; the Emir Ela and Vania Mania cases were already in the tree. Total 1808."
+  },
+  {
+   "date": "2026-11-16 11:04",
+   "note": "Run 450 (TRENDS (December family films, classroom brain breaks, baby dance sounds)): nothing new for the trend bank; corrected the Angry Birds Movie 3 leaf to its 23 Dec 2026 US opening per Box Office Mojo (it said 25 Dec), and Hexed (25 Nov) is already in the tree. Total 1808."
   }
  ],
  "history": [
@@ -13846,6 +13846,10 @@
   },
   {
    "date": "2026-11-16 11:03",
+   "total": 1808
+  },
+  {
+   "date": "2026-11-16 11:04",
    "total": 1808
   }
  ],
