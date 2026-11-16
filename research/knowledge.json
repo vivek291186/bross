@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:36:07+05:30",
- "runs": 715,
+ "updated": "2026-11-16T22:37:03+05:30",
+ "runs": 716,
  "branches": [
   {
    "id": "platforms",
@@ -10856,6 +10856,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 692
+    },
+    {
+     "t": "In Poland, children aged 7 to 14 spend about 4 hours 25 minutes online a day, 88% of it on smartphones, and TikTok takes a bigger share of that time (29%) than YouTube (22%), so in Central Europe our Shorts and Reels cut downs reach older kids more than long videos do.",
+     "src": "Internet of Children 2026 report (pkdp.gov.pl, Gemius data), Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 716
+    },
+    {
+     "t": "About 400,000 Polish children aged 7 to 12 spend more than two hours a day on TikTok even though it is 13+, a sign that school age kids in Europe drift to short video apps as soon as they outgrow kids content.",
+     "src": "Internet of Children 2026 report (pkdp.gov.pl), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 716
+    },
+    {
+     "t": "A survey of 22,000 Polish children aged 7 to 9 found over 80% watch YouTube regularly, two thirds own a smartphone and about one in four have already posted their own content, so 7 to 9 year olds are an active YouTube audience in Europe, not only toddlers.",
+     "src": "FDDS survey via Poland Insight, Oct 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 716
     }
    ]
   },
@@ -16056,11 +16077,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 636 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:53",
-   "note": "Run 637 (TRENDS (December repeat memes: gnomes, retro Christmas, kid mispronunciations)): Weekly trackers had nothing new since 13 Nov, so this round looked at December memes that return every year: Christmas gnome armies, 1990s retro Christmas (decor videos up 100% in a year), a child's funny 'Merry Chrysler' greeting that resurfaces each December, and National Ugly Sweater Day on 18 Dec 2026. Total 2137."
+   "note": "Earlier runs summarised: all rounds through Run 637 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:55",
@@ -16373,6 +16390,10 @@
   {
    "date": "2026-11-16 22:36",
    "note": "Run 715 (TRENDS (mid November lists, Know Your Meme, holiday dance searches)): SocialPilot, NewEngen, Know Your Meme, Daily Dot and holiday challenge searches surfaced only trends already in the bank (Peanuts holiday dance, cute little X, Winter Vibes, out of breath, Last Dance) or adult and couple trends we skip; no new leaves. Total 2280."
+  },
+  {
+   "date": "2026-11-16 22:37",
+   "note": "Run 716 (global markets (Poland kids screen time)): Poland's Internet of Children 2026 report shows kids 7 to 14 online about 4h25m a day, 88% on phones, with TikTok (29% of time) ahead of YouTube (22%); an FDDS survey of 22,000 kids aged 7 to 9 found over 80% watch YouTube regularly. Total 2283."
   }
  ],
  "history": [
@@ -17171,6 +17192,10 @@
   {
    "date": "2026-11-16 22:36",
    "total": 2280
+  },
+  {
+   "date": "2026-11-16 22:37",
+   "total": 2283
   }
  ],
  "next_week_ideas": [
