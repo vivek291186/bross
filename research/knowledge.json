@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:02:21+05:30",
- "runs": 743,
+ "updated": "2026-11-16T23:02:54+05:30",
+ "runs": 744,
  "branches": [
   {
    "id": "platforms",
@@ -5550,6 +5550,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 740
+    },
+    {
+     "t": "Netflix Jr's YouTube channel (26.6M subscribers, 20B views) posts several clips a day in November 2026, mostly from its new show Doozie's Doghouse plus game style hooks ('Mystery Wheel of Doozie Dogs' 194K, 'Play Hide and Seek' 168K in under a week) that push kids to its Netflix Playground games app, so even streamers use short choose and find games on YouTube to pull children in.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 744
     }
    ]
   },
@@ -16273,11 +16280,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 664 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 20:00",
-   "note": "Run 665 (music craft (syncopation sweet spot, harmonic learning in toddlers)): A McMaster study in Developmental Science found children aged 3 to 6, like adult dancers, prefer medium syncopation for dancing (an inverted U), so the playbook's tempo rule now asks for moderately syncopated grooves; a 2026 University of Padua study of 60 toddlers found they learn chord sequence rules and that those who did also learned a grammar rule, with more home music exposure linked to more curiosity about surprising endings. Total 2209."
+   "note": "Earlier runs summarised: all rounds through Run 665 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 20:06",
@@ -16590,6 +16593,10 @@
   {
    "date": "2026-11-16 23:02",
    "note": "Run 743 (rules and safety (India DPDP children's consent recheck)): India's DPDP Rules (child means under 18, verifiable parental consent, staged deadlines from Nov 2026 to May 2027) were already in the tree; no new leaves. Total 2311."
+  },
+  {
+   "date": "2026-11-16 23:02",
+   "note": "Run 744 (YouTube main and Kids (Netflix Jr, Super Simple 20th; our results skipped as unchanged)): Netflix Jr (26.6M subs) now posts daily Doozie's Doghouse clips with wheel spin and hide and seek game hooks that promote its Netflix Playground games app; Super Simple's 20th anniversary facts were already in the tree. Total 2312."
   }
  ],
  "history": [
@@ -17500,6 +17507,10 @@
   {
    "date": "2026-11-16 23:02",
    "total": 2311
+  },
+  {
+   "date": "2026-11-16 23:02",
+   "total": 2312
   }
  ],
  "next_week_ideas": [
