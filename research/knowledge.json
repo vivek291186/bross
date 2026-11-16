@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:39:11+05:30",
- "runs": 559,
+ "updated": "2026-11-16T16:39:48+05:30",
+ "runs": 560,
  "branches": [
   {
    "id": "platforms",
@@ -4976,6 +4976,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 551
+    },
+    {
+     "t": "Bebefinn (37.3M subscribers) posted 'Ballet Song, EP222, I Want to Be a Ballerina!' on 14 Nov 2026 and it passed about 247K views in a day and a half; its title stacks a dance style keyword, an episode number, a child's dream line and 'Dance Song for Kids', a pattern we can copy with our own dance styles (a robot dance song, a tap dance song) for both Bros.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 560
+    },
+    {
+     "t": "Super Simple Songs (47.3M subscribers) grew its monthly views steadily from about 479M in June 2026 to 592M in October, while louder channels such as Bounce Patrol and Brazil's Cleo e Cuquin stalled or fell, a sign that calm, simple, clearly sung songs are gaining in 2026.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 560
+    },
+    {
+     "t": "By 15 and 16 Nov 2026 neither Bebefinn nor Super Simple Songs had a Christmas themed newest upload (their latest were a ballet song and a hand washing song), so big channels seem to hold new Christmas songs until late November, which leaves room for an early original Bro Bros Christmas song to collect search traffic first.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 560
     }
    ]
   },
@@ -14453,11 +14474,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 480 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:57",
-   "note": "Run 481 (TRENDS (YouTube Shorts monthly trend list; animation templates)): A Shorts trend tracker refreshed 4 Nov 2026 lists a 'friend group glue' POV skit for November (the friend who keeps everyone together) and an animation template trend, 'Twins at the Carousel', where creators drop their own characters into a song timed motion template, both easy to redo with the Bros; it also reports Shorts at over 200B daily views. Total 1884."
+   "note": "Earlier runs summarised: all rounds through Run 481 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:58",
@@ -14770,13 +14787,13 @@
   {
    "date": "2026-11-16 16:39",
    "note": "Run 559 (global markets (dubbed audio track data; Brazil Portuguese channel)): AIR's 2026 dubbing dataset shows a kids channel's German track had the smallest audience but the best loyalty (52% returning viewers vs 47% Arabic, 42% French), so dub languages should be ranked by returning viewers, not views; Brazil's Cleo e Cuquin (6.4M subscribers) lives on a colourful train song and is down about two thirds since March. Total 2051."
+  },
+  {
+   "date": "2026-11-16 16:39",
+   "note": "Run 560 (competitor deep dive (Bebefinn and Super Simple Songs, mid November)): Bebefinn's newest episode is a dance style dream song ('I Want to Be a Ballerina', 247K views in 1.5 days) and Super Simple Songs grew its monthly views from 479M in June to 592M in October 2026; neither had a Christmas title up by 16 Nov. Total 2054."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 22:35",
-   "total": 805
-  },
   {
    "date": "2026-11-15 23:35",
    "total": 863
@@ -15972,6 +15989,10 @@
   {
    "date": "2026-11-16 16:39",
    "total": 2051
+  },
+  {
+   "date": "2026-11-16 16:39",
+   "total": 2054
   }
  ],
  "next_week_ideas": [
