@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:04:42+05:30",
- "runs": 607,
+ "updated": "2026-11-16T17:05:13+05:30",
+ "runs": 608,
  "branches": [
   {
    "id": "platforms",
@@ -5074,6 +5074,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 584
+    },
+    {
+     "t": "Miliki Family (2.59M subscribers, 1.57B views) roughly doubled its monthly views from about 19M in May 2026 to 40 to 46M in September and October, and its top videos are all 'afraid of...' coping songs: 'I Can't Sleep, Mommy! Afraid of the Dark' (381M), a boo boo safety song (43M), 'Time to Get a Shot' (36M) and a dentist song (33M), strong proof that gentle fear coping songs (dark, doctor, dentist, haircut) are among the biggest kids song topics.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 608
+    },
+    {
+     "t": "Tidi Kids (2.73M subscribers, 2.5B views) also doubled from about 19M monthly views in June 2026 to about 39M in September and October with silly toilet humour and vehicles: a sing along poo poo song (56M), an opposites car song (51M), a funny car toot song (43M) and a 'Super Toot Family' song (37M), and its newest Short is a 'who tooted? maybe Brother?' mystery, so mild potty humour plus a whodunit hook is working right now.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 608
     }
    ]
   },
@@ -14768,11 +14782,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 528 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 15:46",
-   "note": "Run 529 (YouTube algorithm (OutlierKit change log, Creator Insider, Home feed news)): OutlierKit's log still has no November 2026 change; the October items (original Shorts priority, custom feeds, Subs tab moved into Home, hacked channel pause, 30 day spam lock, Shorts bonus pilot) and Beaupre's subscriber and late peak points were all already leaves, so no new leaves. Total 2003."
+   "note": "Earlier runs summarised: all rounds through Run 529 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 15:47",
@@ -15085,13 +15095,13 @@
   {
    "date": "2026-11-16 17:04",
    "note": "Run 607 (global markets (Pandobi mosquito song channel)): Panpandodobibi (1.66M subscribers) earns over half its 481M views from one 'Go Away Mosquito' song (253M) plus two more mosquito songs above 20M each, and its newest colour song is a 10x outlier, so a mosquito song is a proven global hit, especially for warm countries where mosquitoes are part of daily life. Total 2096."
+  },
+  {
+   "date": "2026-11-16 17:05",
+   "note": "Run 608 (competitor deep dive (Miliki Family and Tidi Kids, two rising mid size song channels)): Two mid size song channels doubled monthly views from May to October 2026: Miliki Family (2.59M) lives on 'afraid of...' songs (an afraid of the dark bedtime song at 381M, then doctor shot, dentist, boo boo safety) and Tidi Kids (2.73M) on silly potty and vehicle humour songs plus opposites. Total 2098."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:09",
-   "total": 1299
-  },
   {
    "date": "2026-11-16 04:09",
    "total": 1302
@@ -16287,6 +16297,10 @@
   {
    "date": "2026-11-16 17:04",
    "total": 2096
+  },
+  {
+   "date": "2026-11-16 17:05",
+   "total": 2098
   }
  ],
  "next_week_ideas": [
