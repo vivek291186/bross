@@ -1728,13 +1728,6 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 734
-    },
-    {
-     "t": "Metricool's 2026 short video benchmark of about 375,000 accounts found TikTok brings the most views per video for every account size under 1M followers, while Instagram Reels lead on shares and comments in every size band (medium accounts average about 21 comments per Reel, roughly four times YouTube Shorts), so Reels are where parents share and talk and TikTok is where small accounts get reach.",
-     "src": "Metricool short video benchmarks, Oct 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 735
     }
    ]
   },
@@ -16561,7 +16554,7 @@
   },
   {
    "date": "2026-11-16 22:53",
-   "note": "Run 735 (Shorts and Reels (Metricool short video benchmark by account size)): Metricool's study of about 375,000 accounts ranks TikTok first for views below 1M followers and Instagram first for shares and comments in every tier; other Reels statistics pages repeated known figures. Total 2307."
+   "note": "Run 735 (Shorts and Reels (Reels benchmark pages)): Metricool's 375,462 account short video benchmark and other Reels statistics pages were already in the tree (a duplicate leaf added this round was removed); no new leaves. Total 2306."
   }
  ],
  "history": [
@@ -17439,7 +17432,7 @@
   },
   {
    "date": "2026-11-16 22:53",
-   "total": 2307
+   "total": 2306
   }
  ],
  "next_week_ideas": [
