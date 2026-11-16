@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:48:25+05:30",
- "runs": 574,
+ "updated": "2026-11-16T16:48:55+05:30",
+ "runs": 575,
  "branches": [
   {
    "id": "platforms",
@@ -5011,6 +5011,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 572
+    },
+    {
+     "t": "Moonbug Kids Arabic (909K subscribers, 369M views), a dubbed network channel for global shows, fell from about 2.74M monthly views in August 2026 to about 1.97M in October, and its newest dubbed upload had only about 3.7K views after three days, while a small home grown Arabic song channel like Super Dido still gets about 4M a month, so in Arabic a dub of a foreign show earns less than locally made songs with local themes.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 575
     }
    ]
   },
@@ -14586,11 +14593,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 495 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 12:55",
-   "note": "Run 496 (TRENDS (kid game crazes: fastest growing new Roblox games, Nov 2026; toy lists already covered)): The fastest growing new Roblox games this month are a tiptoe through a pool maze without splashing game (about 97K players at once), egg smashing and pet stealing games and a cat sumo ring push game, which point to a quiet tiptoe freeze song and a gentle cat push dance for the Bros; also merged away 3 duplicate visual leaves from this run's first round. Total 1925."
+   "note": "Earlier runs summarised: all rounds through Run 496 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 12:56",
@@ -14903,13 +14906,13 @@
   {
    "date": "2026-11-16 16:48",
    "note": "Run 574 (rules and safety (Malaysia and Indonesia under 16 rules)): Malaysia's Child Protection Code (in force 1 Jun 2026) gives Facebook, Instagram, TikTok and YouTube until about 1 Dec 2026 to verify ages with government ID records and close under 16 accounts; it covers account sign up only, not watching, so Malaysian kids will reach us through parents' accounts and TV screens. Total 2070."
+  },
+  {
+   "date": "2026-11-16 16:48",
+   "note": "Run 575 (YouTube channels (our data skipped as checked at 16:41; Tubefilter week of 15 Nov not out yet; Moonbug Arabic)): Tubefilter's chart for the week of 15 Nov is not published yet; Moonbug's dubbed Arabic channel (909K subscribers) is sliding from about 2.7M views a month in August to 2.0M in October, more evidence that a network's dubbed channel trails home grown local favourites. Total 2071."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 02:39",
-   "total": 1189
-  },
   {
    "date": "2026-11-16 02:39",
    "total": 1192
@@ -16105,6 +16108,10 @@
   {
    "date": "2026-11-16 16:48",
    "total": 2070
+  },
+  {
+   "date": "2026-11-16 16:48",
+   "total": 2071
   }
  ],
  "next_week_ideas": [
