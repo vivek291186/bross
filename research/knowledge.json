@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:49:00+05:30",
- "runs": 532,
+ "updated": "2026-11-16T15:49:38+05:30",
+ "runs": 533,
  "branches": [
   {
    "id": "platforms",
@@ -7405,6 +7405,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 521
+    },
+    {
+     "t": "Parent written 'low stimulation' show lists name gentle classics (Little Bear, Sarah and Duck, Oswald, Guess How Much I Love You) and define the style only as calm colours, simple stories and no fast cuts, admitting there is no agreed numeric rule, so a calmer Bro Bros bedtime cut is judged by parents on feel, not on a cut count.",
+     "src": "Thoughtful Parent, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 533
+    },
+    {
+     "t": "Stylised 3D films get their charm from classic 2D tricks inside 3D (squash and stretch, sudden snappy stops, big mouth shapes) and from deliberate stepped timing, so in Blender our Meshy dance clips will read funnier and clearer if key poses are held a beat and landings get a small squash.",
+     "src": "Elevation blog, 2023",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 533
     }
    ]
   },
@@ -14166,11 +14180,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 453 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:07",
-   "note": "Run 454 (rules (EU AI Act labelling: 2 Dec 2026 marking deadline for AI tools)): Under the EU AI Act, generative AI tools already on the market (such as music and 3D generators) must embed machine readable marks and offer detection by 2 Dec 2026, and an EU Code of Practice now offers standard AI content icons, so from December our Suno audio may be detectable as AI by platforms anywhere, another reason to keep disclosing AI use. Total 1817."
+   "note": "Earlier runs summarised: all rounds through Run 454 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:08",
@@ -14483,6 +14493,10 @@
   {
    "date": "2026-11-16 15:49",
    "note": "Run 532 (music craft (Grammy kids category, pentatonic melodies, African family listening, Kid Albums chart)): Most music sources were already in the tree; new: Spotify Wrapped 2025 coverage from Nigeria, Ghana, Kenya and South Africa says toddlers now steer whole family playlists, mixing CoComelon, Pinkfong and Super Simple with gentle old pop songs and local language lullabies; the pentatonic scale is cited as the easiest scale to sing but without a study, so it stays a low confidence craft tip. Total 2010."
+  },
+  {
+   "date": "2026-11-16 15:49",
+   "note": "Run 533 (visual craft (low stimulation shows, stylised 3D, colour studies)): Pacing studies and the Sussex colour study were already leaves; new: parent bloggers' low stimulation favourites are all slow, soft coloured classics (Little Bear, Sarah and Duck, Oswald) defined only as calm colours, simple stories and no fast cuts, with no numeric rule; and stylised 3D borrows 2D tricks like squash and stretch and snappy stops, which suit Meshy dances retimed in Blender. Total 2012."
   }
  ],
  "history": [
@@ -15593,6 +15607,10 @@
   {
    "date": "2026-11-16 15:49",
    "total": 2010
+  },
+  {
+   "date": "2026-11-16 15:49",
+   "total": 2012
   }
  ],
  "next_week_ideas": [
