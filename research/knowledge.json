@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:36:27+05:30",
- "runs": 555,
+ "updated": "2026-11-16T16:37:07+05:30",
+ "runs": 556,
  "branches": [
   {
    "id": "platforms",
@@ -6271,6 +6271,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 547
+    },
+    {
+     "t": "A long time kids album producer (Justin Roberts' records) sets the lead vocal about 1 to 2 dB louder than in a normal pop mix and processes it to sound warm and clear, so every word of the story is heard; for Suno songs we should ask for clear, upfront vocals and turn the music stem down slightly if the words get buried.",
+     "src": "Tape Op interview, 2019/20",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 556
+    },
+    {
+     "t": "The same producer eases little listeners into a loud, big song with a short bed of gentle sounds (playground voices, a bell, a soft organ) before the full beat, which suits our long compilations and full songs, while Shorts and Reels still need the beat or hook in the first second.",
+     "src": "Tape Op interview, 2019/20",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 556
+    },
+    {
+     "t": "UK children's songwriters (Southbank Centre, Jan 2026) start from a chorus kids can repeat at once and build each song around one character: what he feels, what he wants and who he is singing to, letting the natural rhythm of the words set the rhythm of the music, and they warn against both clever wordplay and talking down to kids.",
+     "src": "Southbank Centre, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 556
     }
    ]
   },
@@ -14376,11 +14397,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 476 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:53",
-   "note": "Run 477 (competitor deep dive (Sheriff Labrador by BabyBus; Wolfoo and Friends)): Sheriff Labrador (10.9M subs, 7.8B views since Nov 2022) still gains about 100K subs and 173M views a month with safety mystery episodes; its top videos are pretend play jobs and ABC games. Wolfoo and Friends' best videos are toddler care songs (potty 26.8M, diaper change 15.7M), while its newest Shorts get only about 2K views. Total 1874."
+   "note": "Earlier runs summarised: all rounds through Run 477 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:53",
@@ -14693,13 +14710,13 @@
   {
    "date": "2026-11-16 16:36",
    "note": "Run 555 (TRENDS (mid November tracker check)): The big TikTok trend trackers (SocialPilot, Virlo, que.es) have not refreshed since 29 to 30 Oct, so mid November is a lull between Halloween and the Christmas wave; YouTube's 1 Nov US trending list shows fresh uploads and seasonal song playlists leading. Total 2040."
+  },
+  {
+   "date": "2026-11-16 16:37",
+   "note": "Run 556 (music craft (producer and songwriter interviews)): Kids producers lift the lead vocal 1 to 2 dB above a normal pop mix so every word lands, and UK kids songwriters build each song around one character's feeling and want, starting from a chorus children can repeat. Total 2043."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:59",
-   "total": 486
-  },
   {
    "date": "2026-11-15 19:11",
    "total": 542
@@ -15895,6 +15912,10 @@
   {
    "date": "2026-11-16 16:36",
    "total": 2040
+  },
+  {
+   "date": "2026-11-16 16:37",
+   "total": 2043
   }
  ],
  "next_week_ideas": [
