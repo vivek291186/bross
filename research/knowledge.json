@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:58:24+05:30",
- "runs": 594,
+ "updated": "2026-11-16T16:59:01+05:30",
+ "runs": 595,
  "branches": [
   {
    "id": "platforms",
@@ -6376,6 +6376,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 592
+    },
+    {
+     "t": "A finger play song suits the youngest viewers everywhere because a toddler can copy it on a parent's lap: each line pairs one simple hand shape (fists tapping, a pointing finger, an open hand, rock paper scissors) with a sound word, so a Bro Bros finger play version of a song needs close up hands and only upper body motion, which also eases our Meshy limits.",
+     "src": "own synthesis of vidIQ data, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 595
     }
    ]
   },
@@ -10037,6 +10044,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 585
+    },
+    {
+     "t": "The Japanese nursery song channel Utamap (365K subscribers but 1.08B views, about 10M views in 28 days) gets its biggest views from finger play songs (te asobi) sung like the national TV kids show: a 'tonton, Mr Beard' fist tapping game (67M), a baked sweet potato rock paper scissors finger play (38M) and a vegetable song (35M), and even its newest Short is a railway crossing finger play (143K), so seated hands only songs are a strong format for Japanese toddlers and parents.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 595
     }
    ]
   },
@@ -14684,11 +14698,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 515 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 13:48",
-   "note": "Run 516 (TRENDS (Tubefilter 8 Nov charts, school dance challenges)): No fresher Tubefilter chart than 8 Nov yet and the school dance crazes found (Zep, Veggie Dance battle) were already leaves; an undated South African teachers' 'Magumba' amapiano challenge was skipped for lack of date and steps, so no new leaves. Total 1970."
+   "note": "Earlier runs summarised: all rounds through Run 516 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 13:48",
@@ -15001,13 +15011,13 @@
   {
    "date": "2026-11-16 16:58",
    "note": "Run 594 (TRENDS (SocialPilot Reels audio list recheck)): SocialPilot's Reels audio list is still dated 30 Oct (holiday reveals, bare to decorated, countdowns, Dame Hombro), all already covered as formats in the tree, and every listed sound is a label track we would not use, so no new leaves. Total 2084."
+  },
+  {
+   "date": "2026-11-16 16:59",
+   "note": "Run 595 (global markets (Japanese nursery song channels)): Japan's Utamap channel (365K subscribers, 1.08B views, about 10M views a month) wins with finger play songs (a 'tonton, Mr Beard' hand game 67M, a sweet potato rock paper scissors finger play 38M), a seated hands only format we have not used yet. Total 2086."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 03:51",
-   "total": 1260
-  },
   {
    "date": "2026-11-16 03:52",
    "total": 1263
@@ -16203,6 +16213,10 @@
   {
    "date": "2026-11-16 16:58",
    "total": 2084
+  },
+  {
+   "date": "2026-11-16 16:59",
+   "total": 2086
   }
  ],
  "next_week_ideas": [
