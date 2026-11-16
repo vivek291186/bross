@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:39:34+05:30",
- "runs": 629,
+ "updated": "2026-11-16T17:40:23+05:30",
+ "runs": 630,
  "branches": [
   {
    "id": "platforms",
@@ -7727,6 +7727,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 627
+    },
+    {
+     "t": "vidIQ's study of 500 breakout long videos (June 2026, 30 niches) found a face on 69% of all thumbnails rising to 80% of the top 50, and a face or high contrast on about 9 in 10, so every Bro Bros compilation thumbnail should carry a large clear character face or strong colour contrast, ideally both.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 630
+    },
+    {
+     "t": "In the same vidIQ breakout sample only about 5% of thumbnails used an exaggerated, over the top expression, and 140 of 500 used no text at all, so a warm natural smile with 0 to 3 words is closer to what breaks out than shocked faces and long captions.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 630
+    },
+    {
+     "t": "Creative Bloq's 2026 3D outlook expects a 'post AI authenticity' push, with artists adding handmade touches so AI assisted art does not look machine perfect; for our Meshy and Blender pipeline that means small hand placed details (uneven paint, wobble in props, hand animated faces) to keep the look warm.",
+     "src": "Creative Bloq, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 630
     }
    ]
   },
@@ -14901,11 +14922,7 @@
  "log": [
   {
    "date": "2026-11-16 16:09",
-   "note": "Earlier runs summarised: all rounds through Run 550 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:09",
-   "note": "Run 551 (YouTube channels (German sing and move channel; our data skipped as unchanged)): Germany's Kinderlieder zum Mitsingen und Bewegen (3.47M subscribers, about 33M views a month) has as its two biggest hits a 'who took the cookie from the jar' movement song (24.4M) and a 'your bone is gone, doggy' song (22.9M), the same taken snack hook that gave our two best Reels; its newest upload teaches tying shoelaces. Total 2036."
+   "note": "Earlier runs summarised: all rounds through Run 551 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:10",
@@ -15218,6 +15235,10 @@
   {
    "date": "2026-11-16 17:39",
    "note": "Run 629 (topics (Christmas 2026 toy lists: Hamleys and Amazon)): Hamleys' Christmas 2026 list calls low cost squishies the unofficial toy of the year and includes clap reactive animal toys and a sing and record counting player; Amazon's list groups sensory play and pretend food, so a squeeze and release song and a pizza making song are timely. Total 2115."
+  },
+  {
+   "date": "2026-11-16 17:40",
+   "note": "Run 630 (visual craft (vidIQ breakout thumbnail study)): vidIQ's June 2026 study of 500 breakout long videos found a face in 80% of the top 50 thumbnails and a face or high contrast in about 9 of 10, while exaggerated expressions were rare (about 5%), so a big friendly character face beats a screaming one. Total 2118."
   }
  ],
  "history": [
@@ -15672,6 +15693,10 @@
   {
    "date": "2026-11-16 17:39",
    "total": 2115
+  },
+  {
+   "date": "2026-11-16 17:40",
+   "total": 2118
   }
  ],
  "next_week_ideas": [
