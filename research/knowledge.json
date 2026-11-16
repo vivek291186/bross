@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:44:31+05:30",
- "runs": 443,
+ "updated": "2026-11-16T10:45:57+05:30",
+ "runs": 444,
  "branches": [
   {
    "id": "platforms",
@@ -12613,6 +12613,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 441
+    },
+    {
+     "t": "A wearable electronic pet that bonds with its owner and can meet other children's pets (Peekimo) is on mid November 2026 Christmas toy lists, a sign that 'my own little pet friend who comes everywhere with me' is a strong wish this season; our own pocket pet character for the Bros fits it without copying the toy.",
+     "src": "hellomagazine.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 444
+    },
+    {
+     "t": "Clear tube ball run and marble run sets (a 47 piece launcher kit) and a mess free magic light brush sit on the same 12 Nov Christmas list, so satisfying 'watch the ball roll all the way down' visuals are in kids' heads now; a looping marble run section in a counting song is an easy sensory Short.",
+     "src": "hellomagazine.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 444
+    },
+    {
+     "t": "A retro butterfly catching game (an elephant blowing butterflies to catch with nets) is back on 2026 Christmas lists next to Peppa Pig, Barbie and Sylvanian Families, showing parents' nostalgia toys return each year; a 'catch the butterflies' net swinging dance (standing, swing an arm up high and low) is a simple original move.",
+     "src": "hellomagazine.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 444
     }
    ]
   }
@@ -12640,11 +12661,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 364 (music craft and tools (Suno's September download an..."
-  },
-  {
-   "date": "2026-11-16 07:46",
-   "note": "Run 365 (visual craft (Blender 5.3 tools for our pipeline, song thumbnail colour data)): Blender 5.3 (10 Nov) adds three things that fit our weekly pipeline: a scene effects stack for one consistent finishing look (bloom, light grain, vignette), faster ripple editing in the Video Sequencer for long compilations, and an optional project folder with shared asset libraries to keep the Bros on model. A 3,200 thumbnail song study adds that muted palettes lose about 47% CTR and 0 to 3 words of large outlined text win most tests. Total 1515."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 365 (visual craft (Blender 5.3 tools for our pipeline, s..."
   },
   {
    "date": "2026-11-16 07:48",
@@ -12957,6 +12974,10 @@
   {
    "date": "2026-11-16 10:44",
    "note": "Run 443 (YouTube channels (our Metricool data already checked today and unchanged, so skipped)): CocoBus shows that volume alone fails: 3,113 classic rhyme mashup videos but only about 10.6K subscribers and about 200K views a month; two CreatorDB upload volume points were dropped because run 156 already had them. Total 1792."
+  },
+  {
+   "date": "2026-11-16 10:45",
+   "note": "Run 444 (TRENDS (Christmas toy wishlists: wearable pets, ball runs, butterfly catch; Reels audio lists not updated since 30 Oct)): Hello! magazine's 12 Nov Christmas 2026 toy list adds themes not yet in the tree: a wearable electronic pet that 'bonds' with its child and meets other pets, clear tube ball run sets, and a revived butterfly catching game; weekly Reels audio lists have not been updated since 30 Oct, so no new formats this round. Total 1795."
   }
  ],
  "history": [
@@ -13711,9 +13732,17 @@
   {
    "date": "2026-11-16 10:44",
    "total": 1792
+  },
+  {
+   "date": "2026-11-16 10:45",
+   "total": 1795
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "My Pocket Pet! (A Little Friend Who Comes Everywhere)",
+   "why": "Wearable and 'grows with you' pets top the 2026 Christmas toy lists; a song where Little Bro's tiny original pocket pet rides along to the park, the bath and bed, copying each move, gives kids a cosy companion story and a copy me dance."
+  },
   {
    "title": "Make a Face! (Feelings Face Dance)",
    "why": "Face dancing (big expressions on every beat) is spreading across TikTok, Reels and X, and naming feelings is a core preschool skill; a beat by beat happy, surprised, grumpy, silly face game is easy to copy on a sofa and travels without words."
@@ -13745,10 +13774,6 @@
   {
    "title": "Dear Santa, Here's Our List! (Kind Wishes Song)",
    "why": "'Dear Santa' list Reels are trending and 86% of holiday buying happens before December; a Christmas song in G major at about 115 BPM with sleigh bells where each verse is a kind wish (a snowman friend, socks for Grandpa, a dance party for all)."
-  },
-  {
-   "title": "I Spy Something Red! (Colour Hunt)",
-   "why": "Super Simple's colour hunt 'I See Something Blue' has 78M views; our own original colour hunt where the Bros spot red, then blue, then yellow things in their house, with a pause for kids to point, is a proven learning game for ages 2 to 5 that works in any language."
   },
   {
    "title": "Is It Christmas Yet? (The Waiting Song)",
