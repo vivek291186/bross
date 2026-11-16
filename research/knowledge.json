@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:46:44+05:30",
- "runs": 761,
+ "updated": "2026-11-16T23:47:36+05:30",
+ "runs": 762,
  "branches": [
   {
    "id": "platforms",
@@ -8448,6 +8448,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 749
+    },
+    {
+     "t": "An eye tracking study of 127 toddlers aged 18 to 36 months (Journal of Autism and Developmental Disorders, Jun 2026) found that when toys were on screen toddlers looked at the toys most, and when toys were removed their gaze moved to the people's faces and bodies; so in Bro Bros dance and sing along moments we should keep props out of the frame and let the characters' faces and hand moves carry the scene, bringing objects in only when the song is about them.",
+     "src": "PsyPost, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 762
     }
    ]
   },
@@ -16367,10 +16374,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 21:51",
-   "note": "Run 683 (rules and safety (AI music channel risk signals, YouTube Kids AI status)): Policy searches (Dublin summit, Disney COPPA order, AI labels, Fairplay) mostly repeated the tree. New: guidance on YouTube's reused content enforcement names long playlists of similar AI songs with static visuals and no intro as a demonetisation risk pattern for music channels, and appeals take about three to six weeks with recovery judged over the next five to ten uploads. Total 2253."
-  },
-  {
    "date": "2026-11-16 21:52",
    "note": "Run 684 (our results (Instagram reach halved in week two)): Metricool data to 16 Nov: our Instagram Reels averaged about 86 views each in 2 to 8 Nov but only about 43 for the English story song Reels of 9 to 15 Nov and about 22 for the Hindi Didi story Reels, a halving after the Diwali week; the Ant Parade Reel (113 views) and the Detective cookie Reel (91) were the week's exceptions. Shares stayed at zero. Total 2256."
   },
@@ -16681,6 +16684,10 @@
   {
    "date": "2026-11-16 23:46",
    "note": "Run 761 (music craft (infant music studies, Grammy kids nominees, kids charts)): Infant rhythm and movement studies (eLife, PLOS Biology, Dundee), the 2027 Grammy children's album nominees, Baby Shark's Spotify billion and kids song ad revenue estimates were all already in the tree; no new leaves. Total 2324."
+  },
+  {
+   "date": "2026-11-16 23:47",
+   "note": "Run 762 (visual craft (thumbnail faces, pacing and fantasy, toddler gaze)): Thumbnail face data and the pace versus fantasy meta analysis were already in the tree; new: a 2026 eye tracking study of 127 toddlers found toys pull gaze first and faces win more attention once props are removed, so dance moments should keep the frame clear of toys. Total 2325."
   }
  ],
  "history": [
@@ -17663,6 +17670,10 @@
   {
    "date": "2026-11-16 23:46",
    "total": 2324
+  },
+  {
+   "date": "2026-11-16 23:47",
+   "total": 2325
   }
  ],
  "next_week_ideas": [
