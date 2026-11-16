@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:56:17+05:30",
- "runs": 775,
+ "updated": "2026-11-16T23:56:54+05:30",
+ "runs": 776,
  "branches": [
   {
    "id": "platforms",
@@ -11150,6 +11150,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 764
+    },
+    {
+     "t": "On Soundcharts' Philippines kids chart (Nov 2026) 12 of the top 15 kids songs by local linked acts are in English and only 3 in Tagalog, led by Jana Alayra's upbeat action songs (25M and 22M views) with lots of whole body moves, so the Philippines takes English Bro Bros songs without dubbing and responds to clap, jump and point along choruses.",
+     "src": "Soundcharts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 776
+    },
+    {
+     "t": "About six of the Philippines top 15 kids songs are faith or worship songs and the rest are kindness, school and play songs ('The Kindness Song', BINGO), so in that market gentle values songs about kindness, sharing and thankfulness fit well, without us needing religious lyrics.",
+     "src": "Soundcharts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 776
     }
    ]
   },
@@ -16480,10 +16494,6 @@
   },
   {
    "date": "2026-11-16 22:01",
-   "note": "Run 697 (YouTube main and Kids (Ms Rachel November stats; trends skipped after an empty trends round)): Ms Rachel's channel (21.9M) is still growing in 2026 (about 4.12B views in Jan to Oct against 3.92B a year earlier, about 318M in the last 28 days) and her 30 Oct 'Best Baby Songs' compilation drew about 8.4M views in 15 days, over 100 times her usual video, while CoComelon's spin off channels data was too old to use. Total 2273."
-  },
-  {
-   "date": "2026-11-16 22:01",
    "note": "Run 698 (YouTube algorithm (YouTube Kids app and supervised accounts recheck)): YouTube Kids feature searches (MENA and Turkiye supervised kid accounts, Shorts timers, Dublin summit standards) only returned items already in the tree, so no new leaves. Total 2273."
   },
   {
@@ -16793,6 +16803,10 @@
   {
    "date": "2026-11-16 23:56",
    "note": "Run 775 (topics and seasons (trends skipped after an empty trends round; kid favourite animals, Kaspersky interests)): Capybara and quokka kid obsessions and Kaspersky's 2026 kids interest data were already in the tree; no new leaves. Total 2340."
+  },
+  {
+   "date": "2026-11-16 23:56",
+   "note": "Run 776 (global markets (Philippines and Brazil kids music)): Soundcharts' Philippines kids chart shows 12 of the top 15 kids songs by Filipino linked acts are in English, led by an upbeat action worship singer, so English songs need no dubbing there; Brazil sources were already in the tree. Total 2342."
   }
  ],
  "history": [
@@ -17831,6 +17845,10 @@
   {
    "date": "2026-11-16 23:56",
    "total": 2340
+  },
+  {
+   "date": "2026-11-16 23:56",
+   "total": 2342
   }
  ],
  "next_week_ideas": [
