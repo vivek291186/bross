@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:08:25+05:30",
- "runs": 615,
+ "updated": "2026-11-16T17:08:55+05:30",
+ "runs": 616,
  "branches": [
   {
    "id": "platforms",
@@ -6432,6 +6432,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 604
+    },
+    {
+     "t": "In Laura Cirelli's experiments 14 month old babies bounced for about 2.5 minutes in time with an adult to music were more likely to help that adult pick up a dropped object than babies bounced out of time, and with nature sounds instead of music they helped too but got fussy, so a Bro Bros song that invites parent and child to bounce, sway or clap together on a steady beat builds closeness as well as fun.",
+     "src": "NPR / KCUR on Cirelli's research, 2018",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 616
     }
    ]
   },
@@ -14796,11 +14803,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 536 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:02",
-   "note": "Run 537 (TRENDS (Thanksgiving and early Christmas formats for the next four weeks)): Gratitude tablecloth, thankful lists from under sixes and Christmas sound lists were already leaves and no new Christmas dance has appeared yet this year; one extra Thanksgiving tradition was added, the 'thankful pumpkin' family centrepiece. Total 2020."
+   "note": "Earlier runs summarised: all rounds through Run 537 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:03",
@@ -15113,13 +15116,13 @@
   {
    "date": "2026-11-16 17:08",
    "note": "Run 615 (TRENDS (Philippine Christmas season)): The Philippine 'ber months' Christmas season (carols from 1 Sep, parol lanterns kept up to 6 Jan, Simbang Gabi 16 to 24 Dec) was already in the tree, and no new Filipino family dance surfaced, so no new leaves. Total 2100."
+  },
+  {
+   "date": "2026-11-16 17:08",
+   "note": "Run 616 (music craft (moving in sync and helping)): Laura Cirelli's studies found 14 month olds bounced in time with an adult to music were more willing to help that adult afterwards than babies bounced out of time, which supports songs that ask parent and child to bounce, sway or clap together on the beat. Total 2101."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:41",
-   "total": 1324
-  },
   {
    "date": "2026-11-16 04:42",
    "total": 1327
@@ -16315,6 +16318,10 @@
   {
    "date": "2026-11-16 17:08",
    "total": 2100
+  },
+  {
+   "date": "2026-11-16 17:08",
+   "total": 2101
   }
  ],
  "next_week_ideas": [
