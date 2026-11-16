@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:02:12+05:30",
- "runs": 348,
+ "updated": "2026-11-16T06:02:59+05:30",
+ "runs": 349,
  "branches": [
   {
    "id": "platforms",
@@ -10093,12 +10093,33 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 346
+    },
+    {
+     "t": "'North Pole Live', a looping 24/7 YouTube stream of Santa's toy workshop (elves shipping toys, Santa checking the Nice List, scenes rotating daily, kids' voicemails played on air), became a December morning habit for families in 2025, so a 24/7 'Bro Bros Christmas Workshop' stream looping our Christmas songs between short workshop scenes fits the season.",
+     "src": "Hola, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 349
+    },
+    {
+     "t": "YouTube has seeded 'Shortsmas' before, a challenge to post one Short every day of December with weekly trend prompts (room decor transformations, gift reactions), and creators said pre filming made it manageable; a daily Bro Bros December Short built from our trend bank formats is a ready made advent calendar.",
+     "src": "Yahoo News, Dec 2022",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 349
+    },
+    {
+     "t": "The 24/7 Santa stream won parent trust with no targeted ads, no live comment chaos and active moderation, which matches made for kids streams (no chat, no personalised ads), so a calm, moderated looping Christmas stream is a natural fit for our channel rules.",
+     "src": "Hola, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 349
     }
    ]
   }
  ],
  "playbook": [
-  "Major key, 4/4, 110-125 BPM for dance songs; keep one slow 60-70 BPM wind-down song in the week with no drum groove, a narrow melody and soft repeated phrases (the lullaby shape that calms babies in every culture).",
+  "Major key, 4/4, 110-125 BPM for dance songs; keep one slow 60-70 BPM wind-down song in the week with no drum groove, a narrow melody and soft repeated phrases (the lullaby shape that calms babies in every culture). Christmas songs: G or C major around 110 to 118 BPM, sleigh bells and bright bells, an optional swing shuffle and a big 'everyone sing' group chorus (about 2 to 3 minutes).",
   "One 1-2 bar hook repeated in every chorus, simple melody inside about 5 notes sitting mostly between middle C and A (C, F or G major), where preschoolers sing best; add nonsense syllables (la la, doo doo) kids can sing before they can talk.",
   "Every lyric line has an action kids can copy (Total Physical Response): clap, jump, wiggle, freeze, stomp, with big quiet and loud contrasts (tiptoe, then jump, then a sudden stop) because toddlers move to changes in energy, not to the beat.",
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
@@ -10121,10 +10142,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 02:04",
-   "note": "Run 270 (topics (what parents weigh and what little kids are thankful for)): Lingokids' 2026 report (US parents of 2 to 8 year olds) finds safety ranks first when parents pick content (87.7%), ahead of fun (67.3%) and learning (64.8%), and screen time guilt rose to 84.6% from 74%; Talker Research's survey of 2,000 parents of under 6s found young kids are mostly thankful for siblings, family, pets, toys and favourite foods, ready material for a thankful song. Total 1167."
   },
   {
    "date": "2026-11-16 02:05",
@@ -10437,6 +10454,10 @@
   {
    "date": "2026-11-16 06:02",
    "note": "Run 348 (Shorts (AI remix of other creators' Shorts, AI likeness Shorts)): YouTube has been testing 'Add object' and 'Reimagine' in the Shorts Remix menu since Feb 2026, letting a small English speaking group (not EU or UK) turn a frame of someone else's Short into a new AI video, with a link back to the original; opting out in Studio also removes normal remixes like Green Screen. YouTube also plans AI likeness Shorts with labels and creator controls. Total 1432."
+  },
+  {
+   "date": "2026-11-16 06:02",
+   "note": "Run 349 (TRENDS (24/7 Santa workshop streams, daily December Shorts)): Families made 'North Pole Live', a looping 24/7 YouTube stream of a Santa workshop with rotating scenes and kids' voicemails, a daily December habit last year, and YouTube itself once seeded 'Shortsmas', a Short every day of December. Both point to a Bro Bros Christmas workshop 24/7 stream of our songs plus a daily December Short. The playbook now carries a Christmas song recipe and two ideas were refreshed. Total 1435."
   }
  ],
  "history": [
@@ -10447,10 +10468,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:04",
-   "total": 309
   },
   {
    "date": "2026-11-15 17:05",
@@ -11639,9 +11656,21 @@
   {
    "date": "2026-11-16 06:02",
    "total": 1432
+  },
+  {
+   "date": "2026-11-16 06:02",
+   "total": 1435
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "No, No, No... YES! (The Yes Dance)",
+   "why": "The 'No, No, No... Yes!' Reel format is rising (week of 13 Nov 2026): Little Bro says no to bath, broccoli and bedtime, then YES to the dance chorus; a funny refusal then joy structure that works as a song, a Short and a loop."
+  },
+  {
+   "title": "Dear Santa, Here's Our List! (Kind Wishes Song)",
+   "why": "'Dear Santa' list Reels are trending and 86% of holiday buying happens before December; a Christmas song in G major at about 115 BPM with sleigh bells where each verse is a kind wish (a snowman friend, socks for Grandpa, a dance party for all)."
+  },
   {
    "title": "I Spy Something Red! (Colour Hunt)",
    "why": "Super Simple's colour hunt 'I See Something Blue' has 78M views; our own original colour hunt where the Bros spot red, then blue, then yellow things in their house, with a pause for kids to point, is a proven learning game for ages 2 to 5 that works in any language."
@@ -11663,10 +11692,6 @@
    "why": "The squeaky 'freezing!' step outside gag was a big winter format last December; a dressing song where the Bros put on one item per verse (hat, scarf, coat, mittens, boots) and dance warmer each time teaches clothes words and routine, works in every cold country and as a loop Short."
   },
   {
-   "title": "Help Us Fix the Song!",
-   "why": "Pinkfong's new musical is built on kids helping recover a lost melody; a song where the Bros' music box breaks and viewers clap, stomp and sing each missing part back (with pauses to join in) turns passive watching into play and invites co viewing."
-  },
-  {
    "title": "Hands Up, Bro Bros! (K-pop Style Kids Anthem)",
    "why": "K-pop is Gen Alpha's second favourite genre and idol x kids brand dance challenges keep working; an original bright K-pop flavoured song with a 4 move point choreography (point up, clap twice, side step, heart hands) gives a learnable full dance kids can copy in groups."
   },
@@ -11683,10 +11708,6 @@
    "why": "CoComelon's 11 to 25 second 'find the hidden character' Shorts are a repeatable interactive format; each verse he hides behind a new prop (tree, box, snowman) and kids shout the answer, works without words in any country."
   },
   {
-   "title": "Say It Together! (The Same Word Game Song)",
-   "why": "A rising November 2026 TikTok game has two people name things in a category until they say the same word, running a lap after each miss; as a Bro Bros song it teaches categories (fruits, animals, colours), keeps kids guessing and gives an easy run in place dance."
-  },
-  {
    "title": "Plus One! (One More Friend Joins the Dance)",
    "why": "Roblox's '+1' games (one more each round, like ratios above 95%) are a big kid loop in November 2026; a cumulative counting dance where one more animal friend joins each verse (1 to 10) teaches counting, repeats the hook and builds a bigger dance every round."
   },
@@ -11700,6 +11721,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Christmas workshop stream",
+   "where": "YouTube 24/7 Santa workshop livestreams (North Pole Live, Dec 2025)",
+   "status": "seasonal",
+   "use": "A 24/7 looping stream from 1 Dec: the Bros and friends wrap presents on a conveyor belt in a cosy workshop between our own Christmas songs, with a daily changing scene (Monday paint toys, Tuesday feed the reindeer); no chat, made for kids. Meshy prompt: standing, mime wrapping a box with both hands, then lift it up high and sway side to side."
+  },
   {
    "name": "Co driver call out",
    "where": "Roblox ('Backseat Rally', about 2.1M visits a day, Nov 2026)",
@@ -11813,12 +11840,6 @@
    "where": "Roblox (pet egg games among the fastest growing new games, Nov 2026) and egg reveal Shorts on kids YouTube",
    "status": "rising",
    "use": "10 to 15 second Short: a giant spotty egg wobbles on each beat of our own chorus, the Bros lean in, count 'one, two, three' with the viewer, the egg cracks and a cute original baby animal pops out and copies their signature move. Meshy prompt: standing in place, lean forward with hands on knees, then jump up with both arms raised in surprise."
-  },
-  {
-   "name": "Kindness chain",
-   "where": "GivingTuesday 1 Dec 2026 and year end kindness posts (110+ countries)",
-   "status": "seasonal",
-   "use": "15 second Short for 1 Dec: Big Bro hands Little Bro a wrapped gift, Little Bro passes it to a friend, who passes it to a puppy, and so on in a quick chain on each beat of our own kindness chorus, ending with everyone hugging in a circle; caption 'Pass the kindness on'. Meshy prompt: standing in place, turn to the right and hold both hands out as if handing over a box, then clap twice."
   }
  ]
 }
