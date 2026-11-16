@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T14:40:42+05:30",
- "runs": 520,
+ "updated": "2026-11-16T14:41:53+05:30",
+ "runs": 521,
  "branches": [
   {
    "id": "platforms",
@@ -7321,6 +7321,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 506
+    },
+    {
+     "t": "A Fairplay test reported by ConsumerAffairs (2026) found almost half the videos watched by children 8 and under featured or promoted products, and parents describe the YouTube style they dislike as rapid cuts, constant motion, loud transitions, quick zooms and flashing visuals, so Bro Bros scenes should use unbranded toys and props and calmer camera moves to win parent trust.",
+     "src": "ConsumerAffairs, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 521
     }
    ]
   },
@@ -13969,12 +13976,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 10:42",
-   "note": "Earlier runs summarised: all rounds through Run 441 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 10:43",
-   "note": "Run 442 (rules, safety and monetisation (AI kids content: vetted channels on YouTube Kids, Google's Animaj bet, slop purge numbers)): YouTube answered the 200 expert letter by saying AI made videos on the YouTube Kids app are already limited to a smaller set of vetted channels with AI disclosure required, while Google's AI Futures Fund put 1M USD into Animaj (Pocoyo) in March 2026; the January 2026 purge removed 16 channels with 35M subscribers and 4.7B views, and one removed style channel posted about 50 videos a day, so human craft and a moderate 14 a week pace are our protection. Total 1791."
+   "note": "Earlier runs summarised: all rounds through Run 442 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:44",
@@ -14287,6 +14290,10 @@
   {
    "date": "2026-11-16 14:40",
    "note": "Run 520 (music craft (infant movement study, kids charts mostly already in the tree)): An eLife study of 79 babies found that by 12 months they rock, sway and clap more to real songs than to scrambled ones, but follow loudness changes rather than the beat, and a melody raised an octave makes babies of every age move more; charts and Grammy items were already leaves (nominations come out tonight). Total 1982."
+  },
+  {
+   "date": "2026-11-16 14:41",
+   "note": "Run 521 (visual craft (thumbnails, pacing, 3D style; almost all already in the tree)): Thumbnail studies, slow TV, Toy Story 5 pastel look and Vania Mania packaging rules were already leaves; one new point: a Fairplay test found nearly half the videos watched by children 8 and under featured or promoted products, which is exactly what parents now push back on, so Bro Bros sets should stay free of branded products. Total 1983."
   }
  ],
  "history": [
@@ -15349,6 +15356,10 @@
   {
    "date": "2026-11-16 14:40",
    "total": 1982
+  },
+  {
+   "date": "2026-11-16 14:41",
+   "total": 1983
   }
  ],
  "next_week_ideas": [
