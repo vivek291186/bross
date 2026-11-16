@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:02:32+05:30",
- "runs": 406,
+ "updated": "2026-11-16T09:03:08+05:30",
+ "runs": 407,
  "branches": [
   {
    "id": "platforms",
@@ -1343,6 +1343,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 398
+    },
+    {
+     "t": "YouTube held about 13.4% of all US TV screen viewing in April 2026 (Nielsen's Gauge), matching its July 2025 peak and up from about 12.7% in January and February 2026, so the living room TV is now a main screen for our songs and compilations, where big, readable visuals and full length mixes matter.",
+     "src": "Adwave (Nielsen Gauge), Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 407
     }
    ]
   },
@@ -2610,6 +2617,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 405
+    },
+    {
+     "t": "Since YouTube's May 2026 TV update its conversational AI can be called with the remote's microphone to answer questions about the video that is playing without stopping it, another reason for clear chapters and plain descriptions that say what each song teaches and when.",
+     "src": "PPC Land, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 407
     }
    ]
   },
@@ -11789,10 +11803,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 05:39",
-   "note": "Run 328 (TRENDS (No no no yes, tiny win reveal, fast camera roll dump, hand it in one by one)): NewEngen's 13 Nov Instagram list brings four new kid adaptable formats: 'No, No, No... Yes!' (three boring one second clips, then the fun one held longer), 'War Is Over' tiny victory reveals, 'Lately on my SD card' dumps of sub second clips, and 'Add to Cart' items handed in one at a time. Two joined the trend bank. Total 1369."
-  },
-  {
    "date": "2026-11-16 05:40",
    "note": "Run 329 (music craft (Suno v6 sound complaints, how tempo taste changes with age)): Suno subscribers report v6 output as muffled with buried vocals and little top end, so our masters need a brightness and vocal check; a Scientific Reports study shows children's preferred tempo is faster and much wider than adults', which supports energetic, varied tempos for kids and a steady groove for co watching parents. Total 1372."
   },
@@ -12103,16 +12113,16 @@
   {
    "date": "2026-11-16 09:02",
    "note": "Run 406 (our results (rules saturated so skipped; fresh Metricool sync: YouTube through 13 Nov, Instagram Reels halved)): Metricool's YouTube data now runs to 13 Nov: daily views were 1,386 (10 Nov), 1,296 (12 Nov) and 1,055 (13 Nov), about double the 450 to 750 a day of early November, and subscribers reached about 2,150 by 15 Nov. On Instagram the account posted 4 Reels a day from 2 to 7 Nov but only 2 a day from 9 Nov, and daily Reel views fell from about 250 to 415 to about 25 to 150. Total 1670."
+  },
+  {
+   "date": "2026-11-16 09:03",
+   "note": "Run 407 (algorithm (our data and channels already covered this run; YouTube's TV share and TV AI search)): YouTube held about 13.4% of all US TV viewing in April 2026 (Nielsen Gauge), back at its summer 2025 peak and above any single network group most months, and since May its conversational AI answers questions about the playing video on smart TVs without stopping it; most other algorithm items were already in the tree. Total 1672."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:08",
-   "total": 524
   },
   {
    "date": "2026-11-15 19:08",
@@ -13305,6 +13315,10 @@
   {
    "date": "2026-11-16 09:02",
    "total": 1670
+  },
+  {
+   "date": "2026-11-16 09:03",
+   "total": 1672
   }
  ],
  "next_week_ideas": [
