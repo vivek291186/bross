@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:04:24+05:30",
- "runs": 748,
+ "updated": "2026-11-16T23:05:02+05:30",
+ "runs": 749,
  "branches": [
   {
    "id": "platforms",
@@ -8413,6 +8413,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 738
+    },
+    {
+     "t": "Child development experts judge good kids video by whether it is engaging, active, meaningful and social (the E-AIMS model) and whether it sends children back to real play, so each Bro Bros video should end with something kids do off screen (a dance to repeat, a game to play with a sibling).",
+     "src": "ZERO TO THREE, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 749
     }
    ]
   },
@@ -12550,6 +12557,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 731
+    },
+    {
+     "t": "ZERO TO THREE's May 2026 parent guide lists the signs of 'AI slop' for little children: strange or repetitive videos, fake looking images, generic songs or stories, wrong or shallow 'educational' facts, no clear creator or purpose, and very fast pacing or loud surprises used only to hold attention; Bro Bros must show a named creator, a clear purpose for each song and accurate facts so it never fits that list.",
+     "src": "ZERO TO THREE, May 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 749
+    },
+    {
+     "t": "In Azaria's Family Report 2026, about two thirds of parents (65.7%) said content they suspected was AI made trusted the brand less, and only one in 20 found AI content useful, so our channel should lead with the human team, characters and story rather than an AI made image.",
+     "src": "Toys n Playthings (Azaria Family Report), Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 749
     }
    ]
   },
@@ -16280,11 +16301,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 669 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 20:08",
-   "note": "Run 670 (TRENDS (100th Thanksgiving parade; Tubefilter week of 15 Nov not out)): Tubefilter's week of 15 Nov chart was not yet published. Seasonal find: the Macy's Thanksgiving Day Parade on 26 Nov 2026 is the 100th, with centennial marketing (new Disney and Snoopy balloons), so a giant balloon parade song with our own balloons was added to the trend bank for 25 to 26 Nov. Total 2219."
+   "note": "Earlier runs summarised: all rounds through Run 670 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 20:37",
@@ -16597,6 +16614,10 @@
   {
    "date": "2026-11-16 23:04",
    "note": "Run 748 (music craft (Suno v6 kids prompts, child versus adult singer studies)): Suno v6 kids prompt guides and infant studies (familiar song preferred whoever sings it) were already in the tree; no new leaves. Total 2312."
+  },
+  {
+   "date": "2026-11-16 23:05",
+   "note": "Run 749 (visual craft and trust (AI slop guide for parents; music skipped as just checked)): ZERO TO THREE's May 2026 guide lists the signs parents use to spot AI slop (repetitive, generic songs, shallow facts, no clear creator, loud surprises) and its E-AIMS test; Azaria found 65.7% of parents trust a brand less when content looks AI made. Total 2315."
   }
  ],
  "history": [
@@ -17527,6 +17548,10 @@
   {
    "date": "2026-11-16 23:04",
    "total": 2312
+  },
+  {
+   "date": "2026-11-16 23:05",
+   "total": 2315
   }
  ],
  "next_week_ideas": [
