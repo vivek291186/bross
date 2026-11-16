@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:40:29+05:30",
- "runs": 760,
+ "updated": "2026-11-16T23:46:44+05:30",
+ "runs": 761,
  "branches": [
   {
    "id": "platforms",
@@ -16367,10 +16367,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 21:50",
-   "note": "Run 682 (TRENDS (SocialPilot Reels and TikTok lists, Thanksgiving, school dance offs)): SocialPilot's latest Reels and TikTok lists (to 10 Nov), Thanksgiving searches and school dance challenge searches only returned trends already in the bank (Dame Hombro, costume loading, Christmas switch, gratitude tablecloth, holiday countdowns); no new leaves. Tubefilter's week of 15 Nov chart is still not out. Total 2250."
-  },
-  {
    "date": "2026-11-16 21:51",
    "note": "Run 683 (rules and safety (AI music channel risk signals, YouTube Kids AI status)): Policy searches (Dublin summit, Disney COPPA order, AI labels, Fairplay) mostly repeated the tree. New: guidance on YouTube's reused content enforcement names long playlists of similar AI songs with static visuals and no intro as a demonetisation risk pattern for music channels, and appeals take about three to six weeks with recovery judged over the next five to ten uploads. Total 2253."
   },
@@ -16681,6 +16677,10 @@
   {
    "date": "2026-11-16 23:40",
    "note": "Run 760 (TikTok and other platforms (trends skipped after an empty trends round; Nielsen H1 2026, Netflix, Apple, Alexa)): Nielsen's H1 2026 report puts Bluey second of all US streaming titles (22.81B minutes) with SpongeBob and PAW Patrol also in the top 10; Netflix preschool, Roblox music, iTunes kids and Alexa checks were already in the tree. Total 2324."
+  },
+  {
+   "date": "2026-11-16 23:46",
+   "note": "Run 761 (music craft (infant music studies, Grammy kids nominees, kids charts)): Infant rhythm and movement studies (eLife, PLOS Biology, Dundee), the 2027 Grammy children's album nominees, Baby Shark's Spotify billion and kids song ad revenue estimates were all already in the tree; no new leaves. Total 2324."
   }
  ],
  "history": [
@@ -17658,6 +17658,10 @@
   },
   {
    "date": "2026-11-16 23:40",
+   "total": 2324
+  },
+  {
+   "date": "2026-11-16 23:46",
    "total": 2324
   }
  ],
