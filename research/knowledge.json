@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:02:41+05:30",
- "runs": 537,
+ "updated": "2026-11-16T16:03:14+05:30",
+ "runs": 538,
  "branches": [
   {
    "id": "platforms",
@@ -14236,11 +14236,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 458 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:10",
-   "note": "Run 459 (TRENDS (Christmas dance challenges; nothing new)): Searched for new Christmas 2026 family dance challenges; only 2020 era lists (easy group routines in front of the tree, matching sweaters) came up, already covered by the matching pyjamas Christmas dance in the trend bank, so no new leaves this round. Total 1824."
+   "note": "Earlier runs summarised: all rounds through Run 459 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:11",
@@ -14553,6 +14549,10 @@
   {
    "date": "2026-11-16 16:02",
    "note": "Run 537 (TRENDS (Thanksgiving and early Christmas formats for the next four weeks)): Gratitude tablecloth, thankful lists from under sixes and Christmas sound lists were already leaves and no new Christmas dance has appeared yet this year; one extra Thanksgiving tradition was added, the 'thankful pumpkin' family centrepiece. Total 2020."
+  },
+  {
+   "date": "2026-11-16 16:03",
+   "note": "Run 538 (rules and monetisation (Shorts RPM by country, Australia under 16 rules)): Shorts RPM by country and Australia's under 16 account rules were already leaves and the government's September review could not be read, so no new leaves. Total 2020."
   }
  ],
  "history": [
@@ -15682,6 +15682,10 @@
   },
   {
    "date": "2026-11-16 16:02",
+   "total": 2020
+  },
+  {
+   "date": "2026-11-16 16:03",
    "total": 2020
   }
  ],
