@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:39:48+05:30",
- "runs": 439,
+ "updated": "2026-11-16T10:41:16+05:30",
+ "runs": 440,
  "branches": [
   {
    "id": "platforms",
@@ -4437,6 +4437,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 431
+    },
+    {
+     "t": "Dave and Ava (15.9M subscribers, 12.8B views, 1,431 videos) gained zero subscribers every month from June to October 2026 while still drawing about 44M to 57M views a month, so an old 3D nursery rhyme catalogue keeps earning views long after its growth stops.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 440
+    },
+    {
+     "t": "Three of Dave and Ava's five most viewed videos are Halloween songs from October 2021 (top one about 11.8M), a sign that seasonal holiday songs keep coming back every year and become a channel's evergreen best sellers.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 440
+    },
+    {
+     "t": "Dave and Ava's newest upload (6 Nov 2026) is a plain 'Head, Shoulders, Knees and Toes' with about 30K views in its first 2.5 days, while vidIQ models the channel at only about 28K USD a month, so classic rhymes with no fresh twist no longer move even a 16M subscriber channel.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 440
     }
    ]
   },
@@ -12570,11 +12591,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 360 (TRENDS (5 stages of, locked camera outfit switch, t..."
-  },
-  {
-   "date": "2026-11-16 07:41",
-   "note": "Run 361 (YouTube algorithm (AI labels do not cost reach, app opening into Shorts, live rehearsal mode)): Little changed in the algorithm since the 1 Oct originality update; new details are that YouTube says an AI label by itself does not change recommendations or monetisation, the app has been opening straight into Shorts for some users, and a private Live Practice Mode lets channels rehearse a stream before going public, useful before a December Christmas stream. Total 1491."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 361 (YouTube algorithm (AI labels do not cost reach, app..."
   },
   {
    "date": "2026-11-16 07:42",
@@ -12887,6 +12904,10 @@
   {
    "date": "2026-11-16 10:39",
    "note": "Run 439 (global markets (Bengali and Thai kids audiences)): Kids Tv Bangla draws about 55M views a month but vidIQ models only about 2,500 USD of ads (about 0.05 USD per 1,000), with remixes of traditional Bengali rhymes as its top videos; in Thailand, localised editions of global family brands (Vlad and Niki THA 14.2M, Brianna TH 8.2M) sit in the top ten family channels next to local ones, so a dubbed Bro Bros channel can compete there. Total 1782."
+  },
+  {
+   "date": "2026-11-16 10:41",
+   "note": "Run 440 (competitor deep dive (Dave and Ava; Bebefinn and Little Angel Playtime rechecked, already in the tree)): Dave and Ava, an older 3D nursery rhyme brand, has 15.9M subscribers but gained none from June to October 2026 and holds at about 45M to 55M views a month, with Halloween songs as its all time top videos and its newest upload a plain classic rhyme (30K views in 2 days), a picture of a big catalogue channel that stopped growing. Total 1785."
   }
  ],
  "history": [
@@ -13625,6 +13646,10 @@
   {
    "date": "2026-11-16 10:39",
    "total": 1782
+  },
+  {
+   "date": "2026-11-16 10:41",
+   "total": 1785
   }
  ],
  "next_week_ideas": [
