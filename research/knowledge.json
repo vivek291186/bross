@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:36:27+05:30",
- "runs": 352,
+ "updated": "2026-11-16T06:38:17+05:30",
+ "runs": 353,
  "branches": [
   {
    "id": "platforms",
@@ -4570,6 +4570,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 341
+    },
+    {
+     "t": "A University of South Wales analysis links Ms Rachel's pull to 'communicative musicality': parentese pitch, big gestures, simple repeats, and especially the same opening and closing every time plus clear pauses that give the child a turn, so a fixed Bro Bros hello jingle and goodbye wave in every long video builds that safe ritual.",
+     "src": "University of South Wales, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 353
+    },
+    {
+     "t": "Suno Studio 2.0 (Aug 2026, Premier plan only) adds MIDI tracks with note level editing, a built in wavetable synth, sidechain compression, convolution reverb, automation and a chat bar that designs sounds, so a wrong melody note or a too loud bell part can be fixed inside one session instead of regenerating the whole song.",
+     "src": "Lets Data Science, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 353
+    },
+    {
+     "t": "Spotify lets listeners exclude playlists from their taste profile and its family plan keeps a child's favourites out of the manager's Wrapped, after parents complained kids' songs took over their year in review, so kids' songs on Spotify rely more on dedicated kids playlists and the Kids app than on parents' personal recommendations.",
+     "src": "Washington Post via The Nightly, Dec 2024",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 353
     }
    ]
   },
@@ -10242,10 +10263,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 02:38",
-   "note": "Run 274 (TRENDS (childhood then and now carousel, wrong seat gag, out of breath dance)): Mid November roundups (Later 13 Nov, Epidemic Sound 13 Nov) bring few new kid dances; new kid safe formats are a childhood photo then now carousel set to a slow song about time (nearly 9M views in weeks, Fast Company 10 Nov), a 'first time in a fancy cafe' gag of sitting on the wrong furniture, and an 'out of breath' dance where people dance full out until they flop. Three joined the trend bank, replacing the Brazil style circle, the drum kick before and after cut and the trio chipmunk dance. Total 1184."
-  },
-  {
    "date": "2026-11-16 02:39",
    "note": "Run 275 (rules and monetisation (Mexico age checks, New York feed rules, Q4 kids RPM)): Mexico's online child safety decree took effect 14 Oct 2026 and makes platforms verify ages beyond self declaration (compliance reports due 13 Nov), and New York's final SAFE for Kids rules (from 25 Jan 2027) ban algorithmic feeds for minors without parental consent. Gyre's 10 Nov summary of AIR data says Q4 lifts kids and teens RPM only about 22% (finance about 60%), regular video RPM peaks in November but live RPM peaks in December, and unattended streams need mid rolls set to Automatic. Total 1189."
   },
@@ -10556,13 +10573,13 @@
   {
    "date": "2026-11-16 06:36",
    "note": "Run 352 (TRENDS (Christmas switch, Chipmunks group dance, Advent calendar season)): This week's top Reels are the fixed spot 'It's time' Christmas switch, 'zoom in' hidden messages and then and now remakes, and NewEngen's 13 Nov list adds a family friendly Chipmunks group routine (jumps, kicks, spins to a sped up track). Google's holiday report shows Advent calendar videos peak in November (about 280M views in Nov 2025), so an Advent countdown series should start before 1 Dec. Total 1449."
+  },
+  {
+   "date": "2026-11-16 06:38",
+   "note": "Run 353 (music craft (song rituals, Suno Studio 2.0 editing)): Most music science found this round was already in the tree, so the new learnings are practical: Ms Rachel's appeal rests on a fixed opening and closing plus pauses for the child to answer, Suno Studio 2.0 (Premier plan) lets us fix single notes with MIDI instead of regenerating, and parents often exclude kids' playlists from their Spotify taste profile. The 69th Grammy nominations land today, 16 Nov. Total 1452."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:00",
-   "total": 275
-  },
   {
    "date": "2026-11-15 17:06",
    "total": 321
@@ -11758,6 +11775,10 @@
   {
    "date": "2026-11-16 06:36",
    "total": 1449
+  },
+  {
+   "date": "2026-11-16 06:38",
+   "total": 1452
   }
  ],
  "next_week_ideas": [
