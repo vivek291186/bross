@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:40:59+05:30",
- "runs": 722,
+ "updated": "2026-11-16T22:41:36+05:30",
+ "runs": 723,
  "branches": [
   {
    "id": "platforms",
@@ -1707,6 +1707,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 688
+    },
+    {
+     "t": "Instagram's Replace Audio lets accounts swap the music on already published feed posts and carousels without losing likes, comments or reach, and Edits now shows a Trending topics insight, but only for accounts above 10,000 followers, so until we pass 10K our trend scouting has to come from outside lists.",
+     "src": "Metricool Instagram news, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 723
     }
    ]
   },
@@ -16140,11 +16147,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 643 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 18:44",
-   "note": "Run 644 (global markets (dub languages recheck)): The AIR 125.5M views dubbing case (six dubs, Spanish 8:24 versus English 6:26 view duration, Spanish, Arabic, Indonesian and Portuguese winning first) turned out to be already in the tree from 15 Nov, so the three leaves written this round were merged back as duplicates; no new leaves. Total 2155."
+   "note": "Earlier runs summarised: all rounds through Run 644 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 18:45",
@@ -16457,6 +16460,10 @@
   {
    "date": "2026-11-16 22:40",
    "note": "Run 722 (YouTube algorithm (original Shorts update and viewing time ranking recheck)): YouTube's 1 Oct 2026 original Shorts priority and the Sept 2026 Creator Insider briefing (recommendations assembled when the viewer opens the app, from session signals) were already in the tree; no new leaves. Total 2292."
+  },
+  {
+   "date": "2026-11-16 22:41",
+   "note": "Run 723 (Shorts and Reels (Instagram November feature log)): Metricool's Instagram news log (updated 14 Nov) mostly repeated items in the tree (Features 90 minute videos, series linking removed, AI profile label, 13+ teen setting); new were Replace Audio for published posts and an Edits Trending topics insight limited to 10K+ accounts. Total 2293."
   }
  ],
  "history": [
@@ -17283,6 +17290,10 @@
   {
    "date": "2026-11-16 22:40",
    "total": 2292
+  },
+  {
+   "date": "2026-11-16 22:41",
+   "total": 2293
   }
  ],
  "next_week_ideas": [
