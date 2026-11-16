@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:50:16+05:30",
- "runs": 534,
+ "updated": "2026-11-16T15:50:54+05:30",
+ "runs": 535,
  "branches": [
   {
    "id": "platforms",
@@ -9729,6 +9729,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 527
+    },
+    {
+     "t": "Polish kids song channel Spiewajace Brzdace (2.61M subscribers, 5.1B views) got about 45.8M views and 10K new subscribers in the 28 days to 11 Nov 2026, and its biggest hits are short silly songs about one funny thing (a watermelon, a rooster, a pug, a little chicken), showing a mid sized language market of about 38M people can still give a local song channel tens of millions of views a month.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 535
+    },
+    {
+     "t": "Moonbug's Arabic hub channel (909K subscribers) mixing dubbed Morphle, Blippi and other shows got only about 1.7M views and 1K subscribers in the 28 days to 14 Nov 2026, with a new upload at 3.65K views after three days, so a big brand's catch all dubbed channel underperforms in Arabic compared with focused single show channels like The Fixies Arabic.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 535
+    },
+    {
+     "t": "For Bro Bros dubbing, the two data points together suggest one channel per language built around our own song catalogue with native sounding titles beats one mixed 'international' channel, and Polish is a realistic smaller market where a single funny food or animal song can carry the channel.",
+     "src": "own synthesis of vidIQ data, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 535
     }
    ]
   },
@@ -14187,11 +14208,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 455 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:08",
-   "note": "Run 456 (TRENDS (snow delivery surprise for kids in warm places; weekly lists and first snow reactions already covered)): No new weekly trend lists since 13 Nov; added the evergreen 'snow delivery surprise' (relatives drive snow down from the mountains so a toddler in a warm place can touch it for the first time; one clip passed 12.5M TikTok views), a strong winter story for our many viewers in countries that never get snow. Total 1821."
+   "note": "Earlier runs summarised: all rounds through Run 456 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:09",
@@ -14504,6 +14521,10 @@
   {
    "date": "2026-11-16 15:50",
    "note": "Run 534 (TRENDS (Know Your Meme roundups, Gen Alpha obsessions; nothing new this week)): No fresh family safe trend surfaced in the last two weeks beyond those already in the tree; one older evergreen format was added: 'bedtime stacking', where people show the pile of things they take to bed to wind down, which maps onto a Bro Bros lullaby Reel. Total 2013."
+  },
+  {
+   "date": "2026-11-16 15:50",
+   "note": "Run 535 (global markets (Poland and the Arab world)): A home grown Polish kids song channel (2.61M subscribers) still pulls about 46M views a month with silly original songs about a watermelon, a pug and a little chicken, while Moonbug's Arabic hub (909K subscribers) gets only about 1.7M views a month, so local language channels with their own songs beat a big brand's general dubbed hub. Total 2016."
   }
  ],
  "history": [
@@ -15622,6 +15643,10 @@
   {
    "date": "2026-11-16 15:50",
    "total": 2013
+  },
+  {
+   "date": "2026-11-16 15:50",
+   "total": 2016
   }
  ],
  "next_week_ideas": [
