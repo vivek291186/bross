@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:46:20+05:30",
- "runs": 385,
+ "updated": "2026-11-16T08:47:12+05:30",
+ "runs": 386,
  "branches": [
   {
    "id": "platforms",
@@ -1294,6 +1294,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 374
+    },
+    {
+     "t": "YouTube Shorts average about 200 billion daily views in 2026 (up from 70 billion in March 2024) and Meta's Reels are played over 200 billion times a day, so short video is where most new viewers first meet a channel.",
+     "src": "Kapwing, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 386
+    },
+    {
+     "t": "The average YouTube Short is watched for about 14 seconds, so every Bro Bros Short needs its hook, the chorus and the signature move inside the first 14 seconds, with anything after that treated as a bonus for loopers.",
+     "src": "Kapwing, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 386
+    },
+    {
+     "t": "About 74% of Shorts views and 55% of Reels views come from non subscribers or non followers, so a Short or Reel must make sense to a stranger with no context (show both Bros, say the song name, no inside jokes).",
+     "src": "Kapwing, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 386
+    },
+    {
+     "t": "Captioned short videos earn about 12% more watch time and are about 80% more likely to be watched to the end, and of viewers who pass the first 3 seconds about 65% stay 10 seconds and 45% stay 30 seconds; big lyric captions are a cheap win for every Bro Bros Short and Reel.",
+     "src": "Kapwing (Facebook IQ, Verizon), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 386
     }
    ]
   },
@@ -2505,6 +2533,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 385
+    },
+    {
+     "t": "Channels that combine Shorts with long form videos grow about 41% faster than channels using only one format (aggregated industry data), which supports our mix of full songs, weekly compilations and two or more Shorts per song.",
+     "src": "Kapwing, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 386
     }
    ]
   },
@@ -11327,10 +11362,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:07",
-   "note": "Run 307 (TRENDS (December returners: Christmas say the word on the beat, letters to Santa, holidays around the world)): Last December Kapwing pushed a Christmas edition of 'say the word on the beat' (rhyming festive pictures, the beat speeds up each round, one slip ends it), a kid perfect game Short likely to return. Kids channel holiday staples remain sing alongs with on screen lyrics, letters to Santa read aloud with replies, daily advent minis and 'Christmas around the world' tours. The beat word game joined the trend bank. Total 1296."
-  },
-  {
    "date": "2026-11-16 04:09",
    "note": "Run 308 (global markets (Pakistan)): Pakistan's top YouTube channels (HypeAuditor, Nov 2026) are dominated by family and Shorts creators (Ak Ultra 19M subscribers and 22.3B views, Anaya Eshaal Family 16.9M, Minsa Saim Omer 20.9B views), with story channel Geo Kahani at 7M. A small Pakistani learning channel (TinyTaleem, 145K subscribers) now gets only about 2.5K views a month, proof that old subscribers bring no views without fresh, recommended videos. Total 1299."
   },
@@ -11641,13 +11672,13 @@
   {
    "date": "2026-11-16 08:46",
    "note": "Run 385 (algorithm (subscriber click rates, repeat recommendation cap, live watch time abroad)): Most algorithm news was already in the tree; new details are that even top videos get about one click in ten from the Subscriptions row, that YouTube has tested capping how often one video is re-recommended to the same viewer at eight times, and that over 40% of live watch time comes from outside the creator's home country, which supports a global 24/7 Bro Bros stream. Total 1604."
+  },
+  {
+   "date": "2026-11-16 08:47",
+   "note": "Run 386 (Shorts and Reels (2026 short video benchmarks: 14 second average Short watch, non follower share, Shorts plus long form growth)): Instagram's algorithm news was already in the tree, so this round gathered Kapwing's July 2026 short video benchmarks: the average Short is watched about 14 seconds, 74% of Shorts views and 55% of Reels views come from people who do not follow the account, and channels that combine Shorts with long videos grow about 41% faster; captions raise completion sharply. Total 1609."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:52",
-   "total": 453
-  },
   {
    "date": "2026-11-15 18:52",
    "total": 457
@@ -12843,6 +12874,10 @@
   {
    "date": "2026-11-16 08:46",
    "total": 1604
+  },
+  {
+   "date": "2026-11-16 08:47",
+   "total": 1609
   }
  ],
  "next_week_ideas": [
