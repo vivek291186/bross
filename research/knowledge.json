@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:00:15+05:30",
- "runs": 695,
+ "updated": "2026-11-16T22:00:42+05:30",
+ "runs": 696,
  "branches": [
   {
    "id": "platforms",
@@ -12844,6 +12844,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 684
+    },
+    {
+     "t": "All eight songs queued for 19 to 22 Nov 2026 (farm band, bubble gum, elephant parade, little car, kitty band, tooth brushing, peekaboo, ride to the moon) are evergreen, so Bro Bros will reach 23 Nov with no winter or Christmas song while Spotify's holiday listening has been running since late October; the first festive songs should be in the week of 23 Nov.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 696
+    },
+    {
+     "t": "The 20 Nov 10 AM Elephant Stomp Parade song lands six days before the 100th Thanksgiving Day Parade (26 Nov) and matches the rising one by one parade format, so its Reel and Short can be cut as animals marching past the camera one at a time to ride both.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 696
+    },
+    {
+     "t": "The 21 Nov tooth brushing song repeats a topic we already posted on 4 Nov (Brush Brush Brush Reel, 72 views), so it is worth giving it a clearly different hook (the giant bathroom and sugar bugs) in the title and first second rather than another 'brush brush' opening.",
+     "src": "Metricool, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 696
     }
    ]
   },
@@ -15972,11 +15993,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 616 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:09",
-   "note": "Run 617 (visual craft (designing for TV screens)): Searches on TV safe areas and text size for kids videos returned only banner guides and ad playbooks; the useful TV ready points (4K, text off the edges, high contrast, speaker mix) were added in run 601, so no new leaves. Total 2101."
+   "note": "Earlier runs summarised: all rounds through Run 617 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:09",
@@ -16289,6 +16306,10 @@
   {
    "date": "2026-11-16 22:00",
    "note": "Run 695 (rules and safety (Australia under 16 account data)): eSafety's survey of 898 Australian parents (Jan to Feb 2026) found the share of 8 to 15 year olds with a YouTube account fell from about 37% to 18% after the under 16 rules, while logged out viewing stayed allowed; RPM and AI policy searches repeated the tree. Total 2268."
+  },
+  {
+   "date": "2026-11-16 22:00",
+   "note": "Run 696 (our results (schedule check 19 to 22 Nov)): Metricool shows 24 posts queued for 19 to 22 Nov (8 songs: farm band, bubble gum, elephant parade, little car, kitty band, tooth brushing, peekaboo, ride to the moon); still no winter or Christmas song before 23 Nov, the tooth brushing topic repeats from 4 Nov, and the 20 Nov elephant parade is a ready fit for the Thanksgiving parade week and the one by one parade trend. Total 2271."
   }
  ],
  "history": [
@@ -17007,6 +17028,10 @@
   {
    "date": "2026-11-16 22:00",
    "total": 2268
+  },
+  {
+   "date": "2026-11-16 22:00",
+   "total": 2271
   }
  ],
  "next_week_ideas": [
