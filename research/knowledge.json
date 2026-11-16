@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:44:07+05:30",
- "runs": 332,
+ "updated": "2026-11-16T05:49:59+05:30",
+ "runs": 333,
  "branches": [
   {
    "id": "platforms",
@@ -3513,6 +3513,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 323
+    },
+    {
+     "t": "ChuChu TV's newest English uploads (Oct to Nov 2026) are 24 to 34 minute story and learning compilations: 'Celebrate and Shine', a combined Diwali and Christmas story video, reached about 197K views in 16 days, a surprise egg colour song about 140K in 9 days and a learning story set about 15K in 2 days, so even a 98M subscriber channel's new uploads start small and the library carries it.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 333
+    },
+    {
+     "t": "ChuChu TV tested a 2 minute read along toddler story with copy the duck play actions ('Hello, Ducklings!'), which drew about 94K views in 25 days, close to its long compilations, showing short copy me action stories are a cheap format worth testing beside songs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 333
     }
    ]
   },
@@ -6068,6 +6082,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 325
+    },
+    {
+     "t": "ChuChu TV bundled Diwali and Christmas into one 'festival stories' compilation in late October 2026, a way to catch two seasons and two audiences with one upload; a Bro Bros 'Festivals of Lights around the world' song mix could do the same for Hanukkah, Christmas and New Year.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 333
     }
    ]
   },
@@ -9773,10 +9794,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:51",
-   "note": "Run 254 (YouTube algorithm (originality detail on Shorts, UK prominence proposal)): Most algorithm statements found were already in the tree. New details: YouTube says a voice over describing on screen action or template edits do not make a reposted Short original, and there is no notice when a channel is downranked; Meta reported 75% of US Instagram recommendations came from original posts in late 2025; the UK consulted in summer 2026 on making public service broadcaster channels easier to find on YouTube. Total 1118."
-  },
-  {
    "date": "2026-11-16 01:52",
    "note": "Run 255 (Shorts and Reels (Reels algorithm timeline recheck)): Little new: SocialPilot's September 2026 update reports no Reels ranking changes in August or September, after 'Your Algorithm' spread from Reels (Jan) to Explore (15 Apr) and Feed (Jun), and puts Explore's reach rate at about 37.8% against 30.8% for Reels overall. Planoly's October review finds only small vendor tests for Trial Reels, so they stay an optional test, not a growth plan. Total 1121."
   },
@@ -10087,16 +10104,16 @@
   {
    "date": "2026-11-16 05:44",
    "note": "Run 332 (global markets (Thailand's family channels, Moonbug's Arabic channel)): Thailand's biggest kids and family YouTube channels in November 2026 are family vlogs and comedy (Vlad and Niki Thai 14.2M, J Jai Pan 13.5M, YimYam TV 10.5M), with two animal and learning song channels at about 7.5M each. Moonbug Kids Arabic, a dubbed brand channel, has 909K subscribers but only about 2M views a month and a few thousand views per new upload, a warning that plain dubs of a global brand do not automatically win the Arabic market. Total 1382."
+  },
+  {
+   "date": "2026-11-16 05:49",
+   "note": "Run 333 (competitor deep dive (ChuChu TV's newest uploads)): ChuChu TV's newest uploads on its 98M English channel are long story and learning compilations (24 to 34 minutes) that earn only about 15K to 200K views in their first weeks, including a combined Diwali plus Christmas festival video, plus a 2 minute toddler read along with copy the duck actions; the channel's views still come mostly from old classics. Total 1385."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:55",
-   "total": 239
   },
   {
    "date": "2026-11-15 16:56",
@@ -11289,6 +11306,10 @@
   {
    "date": "2026-11-16 05:44",
    "total": 1382
+  },
+  {
+   "date": "2026-11-16 05:49",
+   "total": 1385
   }
  ],
  "next_week_ideas": [
