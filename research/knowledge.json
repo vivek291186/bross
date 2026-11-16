@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:43:22+05:30",
- "runs": 442,
+ "updated": "2026-11-16T10:44:31+05:30",
+ "runs": 443,
  "branches": [
   {
    "id": "platforms",
@@ -4458,6 +4458,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 440
+    },
+    {
+     "t": "CreatorDB's September 2026 census of 417 fast growing channels found that channels posting fewer than 8 times a month gained a median of about 98,800 subscribers per upload, against about 1,900 for 'industrial' channels posting 60 or more times a month, and that upload pace is now the quickest way platforms and analysts spot content farms; our 14 songs a week plus Shorts puts us in the high volume group, so each song must be visibly crafted.",
+     "src": "creatordb.app, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 443
+    },
+    {
+     "t": "CocoBus Nursery Rhymes has 3,113 videos but only about 10.6K subscribers and about 190K to 250K views a month in late 2026, and its newest upload (a Finger Family plus Itsy Bitsy mashup, 9 Nov) got about 1K views in 13 hours, a clear case that piling up classic rhyme mashups without characters or a hook goes nowhere.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 443
+    },
+    {
+     "t": "In the same census a wholesome everyday clips channel gained 1.18M subscribers in 25 days with Shorts averaging about 71K views at 14 seconds while its long videos had a median of 840 views, showing again that very short clips can drive subscribers even when long uploads barely move.",
+     "src": "creatordb.app, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 443
     }
    ]
   },
@@ -12633,11 +12654,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 363 (TRENDS (What are you thinking about? Me:, winter ba..."
-  },
-  {
-   "date": "2026-11-16 07:45",
-   "note": "Run 364 (music craft and tools (Suno's September download and remix rules)): Music craft research is saturated, so this round checked Suno's rules that took effect on 3 Sep 2026: Remix outputs stay personal use on every plan, a song can only be released after a counted download is used on it, Premier gets 60 downloads a month (about our 14 songs a week) but Suno Studio downloads are unlimited, and Suno is adding watermarking so its songs can be identified elsewhere. The playbook's originality rule now says to publish only fresh paid plan generations, never Remixes. Total 1509."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 364 (music craft and tools (Suno's September download an..."
   },
   {
    "date": "2026-11-16 07:46",
@@ -12950,6 +12967,10 @@
   {
    "date": "2026-11-16 10:43",
    "note": "Run 442 (rules, safety and monetisation (AI kids content: vetted channels on YouTube Kids, Google's Animaj bet, slop purge numbers)): YouTube answered the 200 expert letter by saying AI made videos on the YouTube Kids app are already limited to a smaller set of vetted channels with AI disclosure required, while Google's AI Futures Fund put 1M USD into Animaj (Pocoyo) in March 2026; the January 2026 purge removed 16 channels with 35M subscribers and 4.7B views, and one removed style channel posted about 50 videos a day, so human craft and a moderate 14 a week pace are our protection. Total 1791."
+  },
+  {
+   "date": "2026-11-16 10:44",
+   "note": "Run 443 (YouTube channels (our Metricool data already checked today and unchanged, so skipped; upload volume versus growth)): A September 2026 census of 417 fast growing channels found those posting under 8 times a month gained a median of about 98,800 subscribers per upload against about 1,900 for 'industrial' channels posting 60 or more a month, which is about our 14 songs a week; CocoBus shows the low end, 3,113 rhyme mashup videos but only 10.6K subscribers and about 200K views a month. Total 1794."
   }
  ],
  "history": [
@@ -13700,6 +13721,10 @@
   {
    "date": "2026-11-16 10:43",
    "total": 1791
+  },
+  {
+   "date": "2026-11-16 10:44",
+   "total": 1794
   }
  ],
  "next_week_ideas": [
