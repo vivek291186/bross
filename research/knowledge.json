@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:53:59+05:30",
- "runs": 637,
+ "updated": "2026-11-16T17:55:02+05:30",
+ "runs": 638,
  "branches": [
   {
    "id": "platforms",
@@ -6509,6 +6509,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 616
+    },
+    {
+     "t": "An eLife study (July 2026, 79 babies aged 3, 6 and 12 months) found high pitched versions of children's songs predicted more spontaneous movement than low pitched versions at every age, so a bright, high melody line and high voices do more to get little ones moving than a heavy bass.",
+     "src": "eLife via PsyPost, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 638
+    },
+    {
+     "t": "In the same study babies' brains told real music from scrambled music by 3 months, but only 12 month olds moved more to real music, and no baby moved in time with the beat; their moves were rocking, swaying and clapping like motions, so dance songs for under ones should invite upper body sway and claps without expecting beat matching.",
+     "src": "eLife via PsyPost, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 638
     }
    ]
   },
@@ -7790,6 +7804,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 630
+    },
+    {
+     "t": "In the Vanderbilt eye tracking work on sung nursery rhymes, singers naturally made their most positive facial expressions on the beats and babies looked at the singer's eyes on those beats (about 2x chance at 2 months, over 4x at 6 months) only when the rhythm stayed predictable, so our characters' smiles and eyebrow lifts should land on the beat.",
+     "src": "Vanderbilt Music Cognition Lab (PNAS)",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 638
     }
    ]
   },
@@ -15054,12 +15075,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:38",
-   "note": "Earlier runs summarised: all rounds through Run 558 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:39",
-   "note": "Run 559 (global markets (dubbed audio track data; Brazil Portuguese channel)): AIR's 2026 dubbing dataset shows a kids channel's German track had the smallest audience but the best loyalty (52% returning viewers vs 47% Arabic, 42% French), so dub languages should be ranked by returning viewers, not views; Brazil's Cleo e Cuquin (6.4M subscribers) lives on a colourful train song and is down about two thirds since March. Total 2051."
+   "note": "Earlier runs summarised: all rounds through Run 559 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:39",
@@ -15372,6 +15389,10 @@
   {
    "date": "2026-11-16 17:53",
    "note": "Run 637 (TRENDS (December repeat memes: gnomes, retro Christmas, kid mispronunciations)): Weekly trackers had nothing new since 13 Nov, so this round looked at December memes that return every year: Christmas gnome armies, 1990s retro Christmas (decor videos up 100% in a year), a child's funny 'Merry Chrysler' greeting that resurfaces each December, and National Ugly Sweater Day on 18 Dec 2026. Total 2137."
+  },
+  {
+   "date": "2026-11-16 17:55",
+   "note": "Run 638 (music craft (infant brain and movement study; Shorts rechecks skipped)): An eLife study (July 2026, 79 babies) found high pitched music sparked more spontaneous movement than low pitched music at 3, 6 and 12 months, but babies only moved more to real music than scrambled music at 12 months and never in time with the beat; Shorts length and retention sources were already leaves or unreliable. Total 2140."
   }
  ],
  "history": [
@@ -15858,6 +15879,10 @@
   {
    "date": "2026-11-16 17:53",
    "total": 2137
+  },
+  {
+   "date": "2026-11-16 17:55",
+   "total": 2140
   }
  ],
  "next_week_ideas": [
