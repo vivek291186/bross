@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:11:31+05:30",
- "runs": 460,
+ "updated": "2026-11-16T11:35:59+05:30",
+ "runs": 461,
  "branches": [
   {
    "id": "platforms",
@@ -5697,6 +5697,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 460
+    },
+    {
+     "t": "A June 2026 Suno v5.5 guide says the first 20 to 30 words of the style prompt matter most, so put genre, mood and tempo first, keep 4 to 7 descriptors and only 2 or 3 instrument textures; crowded prompts give muddy mixes, and short conversational lyric lines render more clearly than dense ones.",
+     "src": "roo.beehiiv.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 461
+    },
+    {
+     "t": "Without [Verse], [Chorus] and [Bridge] tags in the lyrics field Suno tends to keep one energy level for the whole song, so every Bro Bros lyric sheet should mark sections so the chorus lifts and the bridge breaks.",
+     "src": "roo.beehiiv.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 461
+    },
+    {
+     "t": "On Billboard's Kid Albums chart in the first week of November a Christmas soundtrack was already number 1 and a Halloween album number 2, alongside film soundtracks that have charted for 400+ weeks, so holiday music starts pulling family listening from the first days of November and evergreen albums never leave.",
+     "src": "billboard.com, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 461
     }
    ]
   },
@@ -8889,6 +8910,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 451
+    },
+    {
+     "t": "In Nigeria, Ghana, Kenya and South Africa, Spotify Wrapped lists in 2025 were full of kids songs (Wheels on the Bus, Baby Shark, a retro 1962 lullaby revived on TikTok) because children's music plays daily at breakfast, on car rides and at bedtime, with local language lullabies mixed in, so routine songs travel well to African families.",
+     "src": "expression.africa, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 461
     }
    ]
   },
@@ -12877,12 +12905,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 07:58",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 381 (TRENDS (rock paper scissors snack game, pose and bo..."
-  },
-  {
    "date": "2026-11-16 08:43",
-   "note": "Run 382 (rules (Shorts originality ranking from 1 Oct, AI monetisation risk tiers)): Most rules topics were already covered; new is YouTube's 1 Oct 2026 change that judges Shorts originality per channel and cuts reach for channels that mainly re-upload others' clips (no warning, no status check, no recovery timeline), plus a risk ladder for AI assisted channels: AI music inside creator led videos is low risk, near identical daily uploads are medium, title swap template clones are high. Total 1592."
+   "note": "Earlier runs summarised: all rounds through Run 382 (rules (Shorts originality ranking from 1 Oct, AI monetisation risk tiers)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:44",
@@ -13195,6 +13219,10 @@
   {
    "date": "2026-11-16 11:11",
    "note": "Run 460 (music craft (which Christmas songs are free to re sing)): Ohio State University's copyright guide lists Deck the Halls, Jingle Bells, Silent Night, Up on the House Top, Twelve Days of Christmas, We Wish You a Merry Christmas, O Christmas Tree, Away in a Manger and Toyland as public domain compositions, while Rudolph, Frosty, Winter Wonderland, Jingle Bell Rock and Rockin' Around the Christmas Tree stay protected for decades. Total 1826."
+  },
+  {
+   "date": "2026-11-16 11:35",
+   "note": "Run 461 (music craft (Suno v5.5 prompt structure, holiday albums on kids charts; infant studies already covered)): Most infant music studies were already in the tree; new: Suno v5.5 guides say to front load 4 to 7 style words and keep 2 or 3 instrument textures, and on Billboard's Kid Albums chart holiday albums jump to the top by early November, so our Christmas playlist should already be live. Total 1830."
   }
  ],
  "history": [
@@ -14017,6 +14045,10 @@
   {
    "date": "2026-11-16 11:11",
    "total": 1826
+  },
+  {
+   "date": "2026-11-16 11:35",
+   "total": 1830
   }
  ],
  "next_week_ideas": [
