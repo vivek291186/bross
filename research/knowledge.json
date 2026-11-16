@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:43:04+05:30",
- "runs": 466,
+ "updated": "2026-11-16T11:44:12+05:30",
+ "runs": 467,
  "branches": [
   {
    "id": "platforms",
@@ -10247,6 +10247,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 454
+    },
+    {
+     "t": "The UK confirmed on 15 Jun 2026 an Australia style ban on social media accounts for under 16s, made through a new section of the Online Safety Act and expected from spring 2027; YouTube is named as in scope while YouTube Kids, educational sites and music streaming are planned exemptions, so British children will increasingly reach our songs through YouTube Kids, Spotify and parents' TV accounts.",
+     "src": "orrick.com, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 467
+    },
+    {
+     "t": "By July 2026 at least 14 countries had passed or proposed minimum ages for social media: France passed an under 15 law on 21 Jul 2026, Greece plans under 15 from Jan 2027, Turkey's parliament passed an under 15 bill, and Denmark (15), Spain (16), Austria (14), Poland and Slovenia (15) were drafting, so the young viewers of kids songs are moving to logged out, parent account and YouTube Kids viewing across Europe.",
+     "src": "almcorp.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 467
+    },
+    {
+     "t": "Because these laws target accounts rather than viewing, the practical effect for a made for kids channel is fewer child signed in sessions, more co viewing on a parent's phone or TV and more YouTube Kids traffic, which strengthens the case for TV friendly long compilations and correct made for kids labels rather than chasing comments or subscriptions from children.",
+     "src": "orrick.com and almcorp.com, Jun to Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 467
     }
    ]
   },
@@ -12982,12 +13003,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:47",
-   "note": "Earlier runs summarised: all rounds through Run 387 (TRENDS (zoom in hidden message, then and now, Wrapped recaps in early December)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:49",
-   "note": "Run 388 (music (where Christmas songs chart worldwide, the bilingual Feliz Navidad jump, the cosy folk lane)): Infant music studies were already in the tree, so this round looked at Christmas listening: in Christmas week 2025 YouTube's charts were full of holiday songs in the US, UK, Europe, Australia and Japan but had few or none in India, Brazil and South Africa; the bilingual Feliz Navidad jumped 61 places that week; and the cosy 'Folksy Christmas' playlist grew about 30x since 2019 while the main hits playlist stayed cheerful. Total 1617."
+   "note": "Earlier runs summarised: all rounds through Run 388 (music (where Christmas songs chart worldwide, the bilingual Feliz Navidad jump, the cosy folk lane)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:49",
@@ -13300,6 +13317,10 @@
   {
    "date": "2026-11-16 11:43",
    "note": "Run 466 (algorithm experiments and data (trends skipped: nothing new two rounds ago; AIR kids cases and RPM study already covered)): All AIR kids channel cases (Shorts shift, Vania Mania network, 24/7 streams) were already in the tree; new only the details of two coming Studio tools: Ask Studio thumbnail refresh for old videos (early 2027) and audience specific thumbnails, up to 3 images shown to different viewer groups (no date). Total 1841."
+  },
+  {
+   "date": "2026-11-16 11:44",
+   "note": "Run 467 (rules and safety (UK and European under 15 and under 16 social media laws)): The UK confirmed on 15 Jun 2026 an Australia style under 16 ban expected from spring 2027 that names YouTube but plans to exempt YouTube Kids and music streaming; France passed an under 15 law on 21 Jul 2026, Greece starts in Jan 2027 and Turkey, Denmark, Spain, Austria and Poland are moving, so more child viewing will flow through YouTube Kids, parents' accounts and TVs. Total 1844."
   }
  ],
  "history": [
@@ -14146,6 +14167,10 @@
   {
    "date": "2026-11-16 11:43",
    "total": 1841
+  },
+  {
+   "date": "2026-11-16 11:44",
+   "total": 1844
   }
  ],
  "next_week_ideas": [
