@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:57:26+05:30",
- "runs": 691,
+ "updated": "2026-11-16T21:58:07+05:30",
+ "runs": 692,
  "branches": [
   {
    "id": "platforms",
@@ -10765,6 +10765,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 680
+    },
+    {
+     "t": "Little Angel's Indonesian channel (14.8M subscribers, about 8.9B views) drew only about 26M views in the 28 days to late October 2026 with no subscriber growth, while its all time top videos (35 to 41M each) are everyday life songs (hot or cold, a zoo visit, favourite vegetables, the playground, healthy morning habits), so in Indonesia simple daily routine songs keep earning long after newer uploads stall.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 692
+    },
+    {
+     "t": "Indonesia remains one of AIR's top four dub languages by views (with Spanish, Arabic and Portuguese) and Little Angel, CoComelon, LooLoo and BabyBus all run Indonesian dubbed channels, so an Indonesian audio track is a sound third or fourth language for Bro Bros after Spanish and Portuguese.",
+     "src": "vidiq.com and air.io, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 692
     }
    ]
   },
@@ -15923,11 +15937,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 612 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:07",
-   "note": "Run 613 (YouTube algorithm (made for kids feature limits and autoplay)): Made for kids feature limits (no end screens, cards or notification bell) and autoplay behaviour were already leaves, so no new leaves. Total 2099."
+   "note": "Earlier runs summarised: all rounds through Run 613 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:07",
@@ -16240,6 +16250,10 @@
   {
    "date": "2026-11-16 21:57",
    "note": "Run 691 (TRENDS (December calendar recheck: advent reveals, Jumper Day, Hanukkah)): Seasonal searches for the next four weeks (advent calendar reveal videos, Christmas Jumper Day on 10 Dec, Hanukkah from 4 Dec) confirmed dates and formats already in the tree and trend bank; no new leaves. Total 2261."
+  },
+  {
+   "date": "2026-11-16 21:58",
+   "note": "Run 692 (global markets (Indonesia and Latin America kids channels)): Spanish language searches (Plim Plim, El Reino Infantil 240M network) repeated the tree. New: Little Angel's Indonesian dub (14.8M subscribers, 8.9B views) now earns only about 26M views in 28 days with flat subscribers, and its all time top videos are everyday life songs (hot or cold, zoo, favourite vegetables, playground, healthy morning habits). Total 2263."
   }
  ],
  "history": [
@@ -16942,6 +16956,10 @@
   {
    "date": "2026-11-16 21:57",
    "total": 2261
+  },
+  {
+   "date": "2026-11-16 21:58",
+   "total": 2263
   }
  ],
  "next_week_ideas": [
