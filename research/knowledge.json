@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:59:17+05:30",
- "runs": 372,
+ "updated": "2026-11-16T08:00:20+05:30",
+ "runs": 373,
  "branches": [
   {
    "id": "platforms",
@@ -6628,6 +6628,34 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 345
+    },
+    {
+     "t": "The 2027 Toy of the Year finalists (announced 7 Nov 2026, 122 finalists in 17 categories) list Bluey, K-Pop Demon Hunters, Pokémon, Spider-Man, a Super Mario galaxy film, Toy Story and Transformers as licences of the year, so the hottest play themes are K-pop stars, space and galaxy trips, toys that come alive and transforming robots; we serve them with original stories, never those characters.",
+     "src": "ICv2 (TOTY finalists), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 373
+    },
+    {
+     "t": "Surprise and blind box collectibles appear across many 2027 Toy of the Year categories (mini shop and fridge playsets, squishy collectibles), so a 'what's inside the mystery box?' reveal song or Short, with one surprise per verse, matches what children are excited about this Christmas.",
+     "src": "ICv2 (TOTY finalists), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 373
+    },
+    {
+     "t": "Hybrid toys that mix physical play with sound or digital features (audio players with figures, a mini record player) are a 2027 finalist trend, which keeps 'press the button and the song starts' moments and toy band or record player scenes current for a music channel like ours.",
+     "src": "ICv2 (TOTY finalists), Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 373
+    },
+    {
+     "t": "Comfort plush finalists (a glowing, roaring tiger, mother and baby plush, weighted plush) point to soothing bedtime companions, so a lullaby where a glowing plush friend lights the room as Little Bro falls asleep fits both the toy trend and our best Reel result (the bedtime monster song).",
+     "src": "ICv2 (TOTY finalists), Nov 2026 + Metricool",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 373
     }
    ]
   },
@@ -10942,10 +10970,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 03:49",
-   "note": "Run 294 (visual craft (baby colour study, emojis in titles, title length and kids naming)): Sussex Baby Lab (Jun 2026, 54 babies, 100 book pages) found infants look longest at high contrast, saturated reds, blues, purples and teals and least at pastels, the opposite of what adults rated best. vidIQ's 128.5M video study found one or two emojis lift Shorts views (median +13%) but not long videos, and AIR's 18,080 channel title study found 30 to 50 characters best, with questions and numbers weak for kids and character first, series style names easier to classify. Total 1257."
-  },
-  {
    "date": "2026-11-16 03:51",
    "note": "Run 295 (TRENDS (kid took over the account, teacher joins the dance, original audio rising)): A Gulf wide Instagram format has brands posting as if a child grabbed the phone (crooked selfies, a finger over the lens, random captions), copied by Uber UAE and Visit Abu Dhabi. Teacher and pupil dance clips keep going viral in South Africa, India and the US (one hit 1.5M views in two days). Tokchart's 15 Nov chart shows the fastest growing TikTok sounds are nearly all creators' original audio. Two formats joined the trend bank. Total 1260."
   },
@@ -11256,13 +11280,13 @@
   {
    "date": "2026-11-16 07:59",
    "note": "Run 372 (TRENDS (Google Holiday 100: toy trains up 240%, Secret Santa and gamified formats, 25 day series)): Google's Holiday 100 (9 Nov) shows searches for classic toy train sets up 240% and roller skates up 180%, a nostalgia wave that suits a Christmas train song; Google's YouTube holiday report adds that gamified formats peak before Black Friday and stay strong to mid December, Secret Santa videos are popular, and 25 day daily series like Vlogmas are a comfort ritual that a Bro Bros Advent series can copy. Total 1549."
+  },
+  {
+   "date": "2026-11-16 08:00",
+   "note": "Run 373 (topics and seasons (algorithm skipped, nothing new; 2027 Toy of the Year finalists)): The algorithm focus brought nothing new beyond run 361, so this round looked at what kids want this season. The 2027 Toy of the Year finalists (7 Nov) put K-pop, space and galaxy adventures, toys that come alive, transforming robots and surprise or blind box reveals at the centre of kids' play, all themes we can serve with original characters and songs. Total 1553."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:43",
-   "total": 396
-  },
   {
    "date": "2026-11-15 17:43",
    "total": 400
@@ -12458,6 +12482,10 @@
   {
    "date": "2026-11-16 07:59",
    "total": 1549
+  },
+  {
+   "date": "2026-11-16 08:00",
+   "total": 1553
   }
  ],
  "next_week_ideas": [
