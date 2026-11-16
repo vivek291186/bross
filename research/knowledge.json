@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:36:58+05:30",
- "runs": 462,
+ "updated": "2026-11-16T11:39:16+05:30",
+ "runs": 463,
  "branches": [
   {
    "id": "platforms",
@@ -8938,13 +8938,6 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 451
-    },
-    {
-     "t": "In Nigeria, Ghana, Kenya and South Africa, Spotify Wrapped lists in 2025 were full of kids songs (Wheels on the Bus, Baby Shark, a retro 1962 lullaby revived on TikTok) because children's music plays daily at breakfast, on car rides and at bedtime, with local language lullabies mixed in, so routine songs travel well to African families.",
-     "src": "expression.africa, Dec 2025",
-     "conf": "low",
-     "date": "2026-11-16",
-     "run": 461
     }
    ]
   },
@@ -12933,12 +12926,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:44",
-   "note": "Earlier runs summarised: all rounds through Run 383 (YouTube channels (our Metricool check already done today so skipped; VocaVoca's 2026 surge and cool down, Pokémon Kids TV)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:45",
-   "note": "Run 384 (TRENDS (holiday piano sway dance returns each December, DreamToys 2026 themes)): Last December families revived the awkward cartoon party dance from the classic Charlie Brown Christmas special (one video 4.3M views), a seasonal dance that will likely return this December; the UK DreamToys list (11 Nov 2026) shows what kids will be playing with at Christmas: dinosaur vehicles, a pet tiger that grows, hatching robot sharks, slime and squishies, a pirate ship and K-pop singing dolls. Total 1601."
+   "note": "Earlier runs summarised: all rounds through Run 384 (TRENDS (holiday piano sway dance returns each December, DreamToys 2026 themes)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:46",
@@ -13251,6 +13240,10 @@
   {
    "date": "2026-11-16 11:36",
    "note": "Run 462 (visual craft (Christmas story pacing and lighting, Blender 5.2 speed tips; thumbnail study already covered)): A worked AI Christmas story example uses 39 scenes in about 4 minutes (a new shot every 6 seconds), narration in only a quarter of them, and cold midnight blue against warm gold light; Blender 5.2 EEVEE renders instance heavy scenes (snowy forests, ornaments) up to 2 times faster. Total 1834."
+  },
+  {
+   "date": "2026-11-16 11:39",
+   "note": "Run 463 (TRENDS (weekly lists from Later, NewEngen, Epidemic Sound, Virlo, Lightreel; nothing new)): Checked every weekly Reels and TikTok roundup (latest 13 Nov); all their kid safe formats (chipmunk trio dance, No No No Yes, Add to Cart, every girl waltz, bicep heart) were already in the tree, so no new leaves; also removed one duplicate Africa Wrapped leaf from run 461. Next lists expected about 20 Nov. Total 1833."
   }
  ],
  "history": [
@@ -14081,6 +14074,10 @@
   {
    "date": "2026-11-16 11:36",
    "total": 1834
+  },
+  {
+   "date": "2026-11-16 11:39",
+   "total": 1833
   }
  ],
  "next_week_ideas": [
