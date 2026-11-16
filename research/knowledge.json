@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T13:46:40+05:30",
- "runs": 513,
+ "updated": "2026-11-16T13:47:38+05:30",
+ "runs": 514,
  "branches": [
   {
    "id": "platforms",
@@ -10891,6 +10891,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 507
+    },
+    {
+     "t": "Gyre's Nov 2026 study found channels that stream 8 or more times a month earn a median 50.2% of their ad revenue from live streams, against 4.4% for channels streaming once a month, so a steady weekly Bro Bros stream schedule in December pays far more than a one off holiday stream.",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 514
+    },
+    {
+     "t": "YouTube does not show side by side mid roll ads on live streams that have captions turned on, so for a 24/7 Bro Bros music stream we should put lyrics into the video picture itself rather than switch on stream captions, keeping all mid roll formats available.",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 514
     }
    ]
   },
@@ -13872,11 +13886,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 434 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 10:03",
-   "note": "Run 435 (TRENDS (kids songs that go viral with grown ups: character relay lip syncs, cartoon dance songs, kids' own dance tracks)): Kids songs keep crossing into adult TikTok: D Billions' 'My Name Is Chicky' (four characters, one signature move each) spread as groups of four lip syncing their own part, a preschool cartoon's dance song got a joking 'artpop era' dance trend in March 2026, and an Irish kids dance club's drum and bass track became a summer anthem; a four character 'My name is...' relay went into the trend bank. Also removed a run 420 Wrapped date leaf that repeated an older one. Total 1765."
+   "note": "Earlier runs summarised: all rounds through Run 435 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:35",
@@ -14189,6 +14199,10 @@
   {
    "date": "2026-11-16 13:46",
    "note": "Run 513 (TRENDS (this week's most viewed Shorts, US and worldwide charts)): New format signals in the week to 15 Nov: 'Ranking the cutest...' countdown Shorts (9M in a week), creator made animated mini stories retelling classic tales with emoji titles (Three Little Piggies 3.4M, The Moon Visitor 7.1M) and two kids lesson Shorts (sharing 22M, Arabic food alphabet 20M) among the world's top 16 Shorts. Total 1968."
+  },
+  {
+   "date": "2026-11-16 13:47",
+   "note": "Run 514 (rules and monetisation (made for kids policy, COPPA, inauthentic content, Q4 ad rates; nearly all already in the tree)): Policy and COPPA items were already leaves; new from Gyre's 16 Nov update: channels that stream 8 or more times a month earn about half their ad revenue from live versus about 4% for monthly streamers, and streams with captions switched on lose side by side mid rolls. Total 1970."
   }
  ],
  "history": [
@@ -15223,6 +15237,10 @@
   {
    "date": "2026-11-16 13:46",
    "total": 1968
+  },
+  {
+   "date": "2026-11-16 13:47",
+   "total": 1970
   }
  ],
  "next_week_ideas": [
