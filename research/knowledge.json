@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:08:55+05:30",
- "runs": 616,
+ "updated": "2026-11-16T17:09:10+05:30",
+ "runs": 617,
  "branches": [
   {
    "id": "platforms",
@@ -14803,11 +14803,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 537 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:03",
-   "note": "Run 538 (rules and monetisation (Shorts RPM by country, Australia under 16 rules)): Shorts RPM by country and Australia's under 16 account rules were already leaves and the government's September review could not be read, so no new leaves. Total 2020."
+   "note": "Earlier runs summarised: all rounds through Run 538 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:03",
@@ -15120,13 +15116,13 @@
   {
    "date": "2026-11-16 17:08",
    "note": "Run 616 (music craft (moving in sync and helping)): Laura Cirelli's studies found 14 month olds bounced in time with an adult to music were more willing to help that adult afterwards than babies bounced out of time, which supports songs that ask parent and child to bounce, sway or clap together on the beat. Total 2101."
+  },
+  {
+   "date": "2026-11-16 17:09",
+   "note": "Run 617 (visual craft (designing for TV screens)): Searches on TV safe areas and text size for kids videos returned only banner guides and ad playbooks; the useful TV ready points (4K, text off the edges, high contrast, speaker mix) were added in run 601, so no new leaves. Total 2101."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:42",
-   "total": 1327
-  },
   {
    "date": "2026-11-16 04:43",
    "total": 1331
@@ -16321,6 +16317,10 @@
   },
   {
    "date": "2026-11-16 17:08",
+   "total": 2101
+  },
+  {
+   "date": "2026-11-16 17:09",
    "total": 2101
   }
  ],
