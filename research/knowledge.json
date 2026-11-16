@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:46:12+05:30",
- "runs": 488,
+ "updated": "2026-11-16T12:47:00+05:30",
+ "runs": 489,
  "branches": [
   {
    "id": "platforms",
@@ -4682,6 +4682,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 485
+    },
+    {
+     "t": "Little Angel's main channel uploaded almost daily in late Sep and early Oct 2026, with most new videos at about 7K to 30K views, while its 'Brush Your Teeth Song' healthy habits video reached about 96K, so routine and habit songs still beat generic play stories even for a big brand.",
+     "src": "vidanalyze.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 489
+    },
+    {
+     "t": "Little Angel posted its Halloween dress up song on 30 Sep 2026, a full month before the day, which matches a roughly four week lead time for seasonal songs; by that rule Christmas songs should already be live by late November.",
+     "src": "vidanalyze.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 489
+    },
+    {
+     "t": "Little Angel Playtime (3.24M subs, 1,255 videos) gained no subscribers in the 28 days to 16 Nov 2026 and its monthly views fell from about 15.6M in Jan 2026 to about 4.9M in Oct, with its top five videos all from 2021 and 2022, another sign that spin off channels of big brands are decaying.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 489
+    },
+    {
+     "t": "Little Angel Playtime's all time hits are safety and feelings songs (No No Swimming 118M, Daddy's Little Helper 84M, Monsters in the Dark 70M, a boo boo care song 63M), and its newest upload is an 'eye tests are not scary' song, so songs that calm a child's fear of a new experience are a long lasting format.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 489
+    },
+    {
+     "t": "A 'Do the Daddy and Jill Dance' Short from Little Angel (29K views) outperformed most of its long uploads that week, showing that a named family dance Short helps even a brand whose main videos are stories.",
+     "src": "vidanalyze.com, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 489
     }
    ]
   },
@@ -13438,11 +13473,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 409 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:10",
-   "note": "Run 410 (music (Shorts and Reels skipped as saturated; Suno style tag consistency for kids songs)): Shorts and Reels topics were already covered, so this round checked Suno prompting guides for kids songs: they stress one consistent set of mood words per song (mixed moods give uneven energy), adding words like 'polished, clean mix' when results sound amateur, and making separate instrumental versions with 'instrumental, no vocals' for background or sing along use. Total 1679."
+   "note": "Earlier runs summarised: all rounds through Run 410 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:11",
@@ -13755,6 +13786,10 @@
   {
    "date": "2026-11-16 12:46",
    "note": "Run 488 (global markets (France: holiday screen time and French dub channels)): French children aged 3 to 10 watch screens most in the winter holidays (1h51 a day in February, 96% exposed) and grandparents are often in charge, while a French nursery dub channel (Kaboochi) has shrunk to about 100K views a month, so French audio should be a re sung track on our main videos rather than a new channel, aimed at holiday weeks. Total 1906."
+  },
+  {
+   "date": "2026-11-16 12:47",
+   "note": "Run 489 (competitor deep dive (Little Angel and Little Angel Playtime)): Little Angel's daily uploads mostly get 7K to 30K views, but healthy habit songs (Brush Your Teeth, 96K) and safety songs lead, its Halloween song went up a full month early, and the Playtime second channel fell from 15.6M views in Jan 2026 to 4.9M in Oct with all top hits from 2021 and 2022. Total 1911."
   }
  ],
  "history": [
@@ -14689,9 +14724,17 @@
   {
    "date": "2026-11-16 12:46",
    "total": 1906
+  },
+  {
+   "date": "2026-11-16 12:47",
+   "total": 1911
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "The Haircut Is Not Scary",
+   "why": "Fear calming songs about new experiences (eye test, dark room, doctor) are among the longest lasting kids hits worldwide; a Bro nervous at his first haircut, a brave counting chorus and a proud mirror dance travels to every culture."
+  },
   {
    "title": "Fly Up High, My Kite! (Kite Festival Song)",
    "why": "Makar Sankranti on 15 Jan 2027 brings kite flying across India and kite festivals around the world; the Bros run, tug and let their kites climb with a rising melody and a 'pull, pull, let it fly' action chorus, made in English and Hindi for our big Indian audience."
@@ -14743,10 +14786,6 @@
   {
    "title": "Jump, Jump, Happy New Year!",
    "why": "New Year countdown songs peak in the last week of December worldwide; a jump on each number from 10 to 1 then a big cheer is a standing, in place party move any family can copy at midnight or at a daytime kids countdown."
-  },
-  {
-   "title": "Happy New Year, Everyone! (New Year Around the World)",
-   "why": "New Year is the biggest winter family night for Russian speaking kids (tree and gifts on 31 Dec) and the main holiday in Japan (gift envelopes and kites on 1 Jan); one song with a tree, kite and lantern verse and a 10 to 1 jump countdown serves every market at once."
   }
  ],
  "trend_bank": [
