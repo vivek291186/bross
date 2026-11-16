@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:52:04+05:30",
- "runs": 493,
+ "updated": "2026-11-16T12:53:02+05:30",
+ "runs": 494,
  "branches": [
   {
    "id": "platforms",
@@ -13550,11 +13550,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 414 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:38",
-   "note": "Run 415 (global markets (Bengali and Pakistani kids audiences)): vidIQ shows Kids Tv Bangla at 3.69M subscribers and about 55M views a month yet only about 2,500 USD modelled monthly ad income, so Bengali views pay very little; its best recent upload is an August remake of a classic folk rhyme (68 times its usual views). Pakistan's top 100 YouTube channels by subscribers contain no kids channel at all. Total 1700."
+   "note": "Earlier runs summarised: all rounds through Run 415 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:39",
@@ -13867,6 +13863,10 @@
   {
    "date": "2026-11-16 12:52",
    "note": "Run 493 (TRENDS (looking ahead to December and January: Gen Alpha number chant, owl impressions, jingle writing)): Found a gap in the tree: the Gen Alpha '6 7' call and answer chant (Dictionary.com's 2025 word of the year) got a Christmas remix last year, and January's family safe formats included owl impressions and writing a catchy 15 to 20 second jingle, all easy to redo with the Bros and our own music. Total 1922."
+  },
+  {
+   "date": "2026-11-16 12:53",
+   "note": "Run 494 (YouTube algorithm (AIR month by month guide updated 4 Nov, Partner Program 2027 rules; all already in the tree)): Rechecked every confirmed October and November 2026 YouTube change (original Shorts priority, custom feeds, hacked channel pause, spam lock, 20 USD payout test, Feb 2027 Partner Program thresholds); all were already leaves, and no new November algorithm change has been confirmed yet, so no new leaves. Total 1922."
   }
  ],
  "history": [
@@ -14820,6 +14820,10 @@
   },
   {
    "date": "2026-11-16 12:52",
+   "total": 1922
+  },
+  {
+   "date": "2026-11-16 12:53",
    "total": 1922
   }
  ],
