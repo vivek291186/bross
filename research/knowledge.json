@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:40:53+05:30",
- "runs": 464,
+ "updated": "2026-11-16T11:41:50+05:30",
+ "runs": 465,
  "branches": [
   {
    "id": "platforms",
@@ -4549,6 +4549,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 458
+    },
+    {
+     "t": "Boom Buddies, a US 3D nursery rhyme channel with five buddy characters who sing and dance, has 6.18M subscribers, 3.1B views and 1,150 videos but gained zero subscribers between 19 Oct and 15 Nov 2026 and earns only about 10.7M views a month (under 10K per video), showing that a big library of generic 3D rhymes stalls without fresh hooks or trend formats.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 465
+    },
+    {
+     "t": "Two of Boom Buddies' five most viewed videos are Halloween songs (Monster in the Dark 19M, Halloween Finger Family 12.7M) and another is a dance instruction song (Kaboochi Dance Song 19M), next to medleys titled 'X + More Nursery Rhymes', confirming seasonal songs and follow the moves dance songs as the long lasting hits of 3D song channels.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 465
     }
    ]
   },
@@ -8959,6 +8973,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 464
+    },
+    {
+     "t": "Boom Buddies India (Hindi and English, 1.24M subscribers) drew about 15.8M views in 28 days to Nov 2026, more than the US main channel's 10.7M, yet vidIQ's modelled ad income was about 830 dollars against about 3,300 for the main channel, roughly a fifth of the money per view, so Hindi editions buy reach while English and European audiences pay the bills.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 465
     }
    ]
   },
@@ -12947,12 +12968,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:46",
-   "note": "Earlier runs summarised: all rounds through Run 385 (algorithm (subscriber click rates, repeat recommendation cap, live watch time abroad)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:47",
-   "note": "Run 386 (Shorts and Reels (2026 short video benchmarks: 14 second average Short watch, non follower share, Shorts plus long form growth)): Instagram's algorithm news was already in the tree, so this round gathered Kapwing's July 2026 short video benchmarks: the average Short is watched about 14 seconds, 74% of Shorts views and 55% of Reels views come from people who do not follow the account, and channels that combine Shorts with long videos grow about 41% faster; captions raise completion sharply. Total 1609."
+   "note": "Earlier runs summarised: all rounds through Run 386 (Shorts and Reels (2026 short video benchmarks covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:47",
@@ -13265,6 +13282,10 @@
   {
    "date": "2026-11-16 11:40",
    "note": "Run 464 (global markets (smaller markets: Thailand, Italy, Turkey)): Thailand's top 100 YouTube list holds Thai editions of global kids brands (Vlad and Niki Thai 14.2M subs) and three Thai kids song channels with about 7M subs and 4B+ views each; Italy's top 100 has 9 kids channels, mostly Italian editions of global brands plus local song brands like HeyKids (3.4M); Turkey has no big kids song animation channel yet. Total 1836."
+  },
+  {
+   "date": "2026-11-16 11:41",
+   "note": "Run 465 (competitor deep dive (Boom Buddies, a 3D nursery rhyme channel with five buddy characters)): Boom Buddies (6.18M subs, 3.1B views, 1,150 videos) gained no subscribers in the last 28 days and gets only about 10.7M views a month, so generic 3D rhyme catalogues stall; two of its top 5 videos are Halloween songs and a dance instruction song has 19M. Its Hindi edition gets more monthly views but a modelled ad income about a quarter as large. Total 1839."
   }
  ],
  "history": [
@@ -14103,6 +14124,10 @@
   {
    "date": "2026-11-16 11:40",
    "total": 1836
+  },
+  {
+   "date": "2026-11-16 11:41",
+   "total": 1839
   }
  ],
  "next_week_ideas": [
