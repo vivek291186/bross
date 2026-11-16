@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:53:02+05:30",
- "runs": 494,
+ "updated": "2026-11-16T12:54:05+05:30",
+ "runs": 495,
  "branches": [
   {
    "id": "platforms",
@@ -1518,6 +1518,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 491
+    },
+    {
+     "t": "In Instagram's Features test (from 26 Oct 2026) up to eight short vertical Reels can link to one long horizontal video, so each Bro Bros compilation could get up to eight song teaser Reels that all lead to the full playlist video once the tool reaches our account.",
+     "src": "Variety via Online Tech Tips, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 495
+    },
+    {
+     "t": "Instagram Features does not share ad revenue with creators yet (Instagram is only exploring brand, fan and platform deals), so on Instagram long compilations are for reach and fan building while YouTube stays the place that earns from long videos.",
+     "src": "Variety via Online Tech Tips, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 495
+    },
+    {
+     "t": "Meta's 'Series' tab, which groups episodic Reels on a profile and lets a viewer tap from one episode to the whole set, has been in testing since spring 2026 in the US, India and Mexico, so numbered Bro Bros story Reels (Episode 1, 2, 3) are ready to slot into it when it opens to us.",
+     "src": "TechCrunch via Lindsey Gamble, Jun 2026; Online Tech Tips, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 495
     }
    ]
   },
@@ -13550,11 +13571,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 415 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:39",
-   "note": "Run 416 (competitor deep dive (LooLoo Kids and its Spanish channel)): LooLoo Kids, a 3D nursery rhyme brand close to our style, has about 62.8M subscribers and 43B views from under 1,000 videos and still uploads in Nov 2026; its Spanish channel (15.1M) drew about 154M views in 28 days but its subscriber growth slowed to 0 to 100K a month in 2026, and new uploads stack three classic songs in one title. Total 1706."
+   "note": "Earlier runs summarised: all rounds through Run 416 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:40",
@@ -13867,6 +13884,10 @@
   {
    "date": "2026-11-16 12:53",
    "note": "Run 494 (YouTube algorithm (AIR month by month guide updated 4 Nov, Partner Program 2027 rules; all already in the tree)): Rechecked every confirmed October and November 2026 YouTube change (original Shorts priority, custom feeds, hacked channel pause, spam lock, 20 USD payout test, Feb 2027 Partner Program thresholds); all were already leaves, and no new November algorithm change has been confirmed yet, so no new leaves. Total 1922."
+  },
+  {
+   "date": "2026-11-16 12:54",
+   "note": "Run 495 (Shorts and Reels (Instagram Features and Series details)): Instagram's new long form 'Features' lets up to eight short Reels point to one long horizontal video but shares no ad revenue yet, and the Series profile tab for episodic Reels has been tested since spring in the US, India and Mexico, so Bro Bros can cut eight teaser Reels per compilation and group story songs as a Series when it reaches us. Total 1925."
   }
  ],
  "history": [
@@ -14825,6 +14846,10 @@
   {
    "date": "2026-11-16 12:53",
    "total": 1922
+  },
+  {
+   "date": "2026-11-16 12:54",
+   "total": 1925
   }
  ],
  "next_week_ideas": [
