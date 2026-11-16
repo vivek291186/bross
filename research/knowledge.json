@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:41:50+05:30",
- "runs": 465,
+ "updated": "2026-11-16T11:43:04+05:30",
+ "runs": 466,
  "branches": [
   {
    "id": "platforms",
@@ -2778,6 +2778,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 449
+    },
+    {
+     "t": "YouTube plans an Ask Studio tool that suggests refreshed thumbnails for older videos (global rollout planned for early 2027), useful for reviving our back catalogue of songs without re rendering, as long as each new thumbnail is still checked by hand for kids quality.",
+     "src": "xenospectrum.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 466
+    },
+    {
+     "t": "YouTube also announced audience specific thumbnails, up to 3 images each shown to a different viewer group (no date given), which would let one Bro Bros song show, for example, a calm face to bedtime viewers and a dance pose to party viewers; no kids or family features were announced at Made on YouTube 2026.",
+     "src": "xenospectrum.com, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 466
     }
    ]
   },
@@ -12969,11 +12983,7 @@
  "log": [
   {
    "date": "2026-11-16 08:47",
-   "note": "Earlier runs summarised: all rounds through Run 386 (Shorts and Reels (2026 short video benchmarks covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 08:47",
-   "note": "Run 387 (TRENDS (zoom in hidden message, then and now, Wrapped recaps in early December)): Inmagic's 16 Nov list keeps the 'It's time' Christmas switch at No. 1 and the Dame Hombro shoulder dance in the top 10, and adds two kid usable formats: a 'zoom in' Reel hiding tiny text for viewers to find and 'then and now' clips cut on a strong beat. Spotify Wrapped is expected around 2 Dec, the start of the yearly recap trend. Total 1613."
+   "note": "Earlier runs summarised: all rounds through Run 387 (TRENDS (zoom in hidden message, then and now, Wrapped recaps in early December)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:49",
@@ -13286,6 +13296,10 @@
   {
    "date": "2026-11-16 11:41",
    "note": "Run 465 (competitor deep dive (Boom Buddies, a 3D nursery rhyme channel with five buddy characters)): Boom Buddies (6.18M subs, 3.1B views, 1,150 videos) gained no subscribers in the last 28 days and gets only about 10.7M views a month, so generic 3D rhyme catalogues stall; two of its top 5 videos are Halloween songs and a dance instruction song has 19M. Its Hindi edition gets more monthly views but a modelled ad income about a quarter as large. Total 1839."
+  },
+  {
+   "date": "2026-11-16 11:43",
+   "note": "Run 466 (algorithm experiments and data (trends skipped: nothing new two rounds ago; AIR kids cases and RPM study already covered)): All AIR kids channel cases (Shorts shift, Vania Mania network, 24/7 streams) were already in the tree; new only the details of two coming Studio tools: Ask Studio thumbnail refresh for old videos (early 2027) and audience specific thumbnails, up to 3 images shown to different viewer groups (no date). Total 1841."
   }
  ],
  "history": [
@@ -14128,6 +14142,10 @@
   {
    "date": "2026-11-16 11:41",
    "total": 1839
+  },
+  {
+   "date": "2026-11-16 11:43",
+   "total": 1841
   }
  ],
  "next_week_ideas": [
