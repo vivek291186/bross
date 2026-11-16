@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:56:06+05:30",
- "runs": 740,
+ "updated": "2026-11-16T23:01:35+05:30",
+ "runs": 741,
  "branches": [
   {
    "id": "platforms",
@@ -16273,11 +16273,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 661 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:57",
-   "note": "Run 662 (YouTube algorithm (Rene Ritchie on small channel tests, dislikes, shadow bans)): From YouTube's creator liaison on vidIQ's TubeTalk (Feb 2026): Home sometimes tests videos that have only a few dozen to a few hundred views, dislikes are a real negative personalisation signal, and most 'shadow ban' complaints turn out to be ordinary underperformance, with real limits coming from copyright blocks or age restriction. Total 2203."
+   "note": "Earlier runs summarised: all rounds through Run 662 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:58",
@@ -16590,6 +16586,10 @@
   {
    "date": "2026-11-16 22:56",
    "note": "Run 740 (global markets (German kids song channels)): Sing mit mir (3.95M subs) earns about 66M views a month from funny everyday and vehicle songs; a 5 week old German animated song channel averages about 1,100 views per video, with a song about loving Mama as its only breakout. Total 2311."
+  },
+  {
+   "date": "2026-11-16 23:01",
+   "note": "Run 741 (competitor deep dive (Dave and Ava, Mother Goose Club recheck)): vidIQ's 16 Nov figures for Dave and Ava (15.9M subs, about 40 to 57M views a month, no subscriber growth, Halloween songs on top) and Mother Goose Club (about 21 to 27M a month and falling) matched leaves already in the tree; no new leaves. Total 2311."
   }
  ],
  "history": [
@@ -17487,6 +17487,10 @@
   },
   {
    "date": "2026-11-16 22:56",
+   "total": 2311
+  },
+  {
+   "date": "2026-11-16 23:01",
    "total": 2311
   }
  ],
