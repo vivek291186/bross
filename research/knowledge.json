@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:37:30+05:30",
- "runs": 782,
+ "updated": "2026-11-17T00:39:12+05:30",
+ "runs": 783,
  "branches": [
   {
    "id": "platforms",
@@ -1749,6 +1749,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 770
+    },
+    {
+     "t": "Tubular data for US media creators shows 2 to 5 minute YouTube videos rising to about 18% of views by Feb 2026 (from about 15% in Jul 2025) while views of videos under 2 minutes fell about 22% in one month and stayed roughly 20% below their January level, so a 2 to 3 minute full Bro Bros song sits in the length band that is gaining share, with Shorts as its trailer.",
+     "src": "tvrev.com (Tubular Labs), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 783
     }
    ]
   },
@@ -16539,11 +16546,7 @@
  "log": [
   {
    "date": "2026-11-16 22:04",
-   "note": "Earlier runs summarised: all rounds through Run 703 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 22:04",
-   "note": "Run 704 (global markets (Brazil kids channel ranking recheck)): Brazil searches (Inflr's October ranking with Mundo Bita third, ECA Digital rules) returned only findings already in the tree; no new leaves. Total 2275."
+   "note": "Earlier runs summarised: all rounds through Run 704 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:05",
@@ -16856,6 +16859,10 @@
   {
    "date": "2026-11-17 00:37",
    "note": "Run 782 (YouTube algorithm (Studio Clips to Shorts, related video links, November feature news)): New: since 12 Nov Studio's Clips tool cuts vertical Shorts from long videos by transcript or timestamps with AI picks in India and the US, but reportedly does not auto add the related video link on made for kids Shorts, so every Short's link to its full song must be checked by hand; AIR confirms no kids specific algorithm change since September. Total 2349."
+  },
+  {
+   "date": "2026-11-17 00:39",
+   "note": "Run 783 (Shorts and Reels (length data, Instagram Features, Shorts charts)): Reels length data (45 to 60 s best), Instagram Features, the removal of linked Reels series and Metricool's YouTube study were already in the tree; new: Tubular shows 2 to 5 minute videos gaining view share in 2026 while sub 2 minute views fell, supporting 2 to 3 minute full songs. Total 2350."
   }
  ],
  "history": [
@@ -17922,6 +17929,10 @@
   {
    "date": "2026-11-17 00:37",
    "total": 2349
+  },
+  {
+   "date": "2026-11-17 00:39",
+   "total": 2350
   }
  ],
  "next_week_ideas": [
