@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:46:30+05:30",
- "runs": 655,
+ "updated": "2026-11-16T19:47:42+05:30",
+ "runs": 656,
  "branches": [
   {
    "id": "platforms",
@@ -10457,6 +10457,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 632
+    },
+    {
+     "t": "A Korea Institute of Child Care and Education survey of 13,241 children under 6 (Jul to Sep 2025, published Feb 2026) found 14.6% already take private English lessons, and 85.7% of children in intensive half day academies attend English immersion preschools at about 1.54M won a month, so Korean parents actively seek English for toddlers and clearly sung, simple English Bro Bros songs have a paying audience there.",
+     "src": "Korea Times, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 656
+    },
+    {
+     "t": "TD Hub's analysis of Ukraine's 1,137 largest YouTube channels (2024 to Sep 2026) found kids content was the only one of 15 niches where the Ukrainian language share of views fell, mainly because one popular Russian language kids channel kept growing, which shows that in kids video one strong channel in a language can move a whole country's viewing, and that local language kids songs are a contested gap.",
+     "src": "UA.NEWS, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 656
     }
    ]
   },
@@ -15398,11 +15412,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 576 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:50",
-   "note": "Run 577 (YouTube algorithm (YouTube Kids entry and co viewing on TV)): The YouTube Kids filter FAQ was already in the tree; one new data point added from Precise TV's kids report: 95% of families co view and 70% co view YouTube on a connected TV, with kids 2 to 12 averaging 106 minutes of YouTube a day. Total 2072."
+   "note": "Earlier runs summarised: all rounds through Run 577 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:50",
@@ -15715,6 +15725,10 @@
   {
    "date": "2026-11-16 19:46",
    "note": "Run 655 (TRENDS (2026 Christmas single wave, twelve day countdowns)): Mid November lists repeat banked trends. New: pop stars dropped a wave of new Christmas singles by 13 Nov 2026 (including a first holiday single from a major young pop star and an Elton John remake), and Apple TV's 'Snoopy Presents: 12 Days of Snoopy' special brings the twelve day countdown into kids TV this season, so a 12 day Bro Bros Shorts countdown was added to the trend bank. Total 2186."
+  },
+  {
+   "date": "2026-11-16 19:47",
+   "note": "Run 656 (global markets (Korea early English demand, Ukraine kids language shift)): Dubbing, MENA, India and Brazil findings were already in the tree. New: a Korean government institute survey of 13,241 under 6s found 14.6% take private English lessons and 85.7% of intensive half day academy pupils attend English immersion preschools, a strong market for clear English kids songs; and Ukraine's kids segment is the only one of 15 YouTube niches where the local language share fell (2024 to 2026), driven by one Russian language kids channel, showing how a single strong kids channel can shift a whole market. Total 2188."
   }
  ],
  "history": [
@@ -16273,6 +16287,10 @@
   {
    "date": "2026-11-16 19:46",
    "total": 2186
+  },
+  {
+   "date": "2026-11-16 19:47",
+   "total": 2188
   }
  ],
  "next_week_ideas": [
