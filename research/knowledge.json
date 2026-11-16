@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:02:24+05:30",
- "runs": 375,
+ "updated": "2026-11-16T08:03:03+05:30",
+ "runs": 376,
  "branches": [
   {
    "id": "platforms",
@@ -4892,6 +4892,34 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 364
+    },
+    {
+     "t": "Spotify Wrapped 2025 coverage from Nigeria, Ghana, Kenya and South Africa says children now steer household listening: CoComelon, Pinkfong and Super Simple Songs dominate toddler playlists, played through TVs and smart speakers as routine markers (getting ready, car rides, bath, bedtime), so naming the routine in our song titles helps families pick them.",
+     "src": "NewsTrends Kenya, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 376
+    },
+    {
+     "t": "A 1960s style ballad ('Pretty Little Baby') and a soft 'You Are My Sunshine' cover are among the songs young children repeat in those homes, showing that gentle retro doo wop and lullaby sounds appeal to toddlers and their parents; one retro style lullaby of our own per month adds variety to our bright pop sound.",
+     "src": "NewsTrends Kenya, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 376
+    },
+    {
+     "t": "'Mongolian Jingle Bells', a throat singing version of the public domain carol, became a viral Christmas anthem in 2025, so a Bro Bros 'Jingle Bells around the world' medley with our own arrangement (tabla, steel drum, throat style drone, mariachi trumpet) is a fresh Christmas idea for a global audience.",
+     "src": "AOL, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 376
+    },
+    {
+     "t": "Retro holiday mashups (a 1960s ballad blended with a winter standard) were released for the 2026 season, a sign that labels see family demand for nostalgic sounds at Christmas; a slow 1950s style 'snow song' with a doo wop backing in Suno suits the cosy evening slot.",
+     "src": "uDiscover Music, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 376
     }
    ]
   },
@@ -11019,10 +11047,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 03:58",
-   "note": "Run 297 (competitor deep dive (Bebefinn main channel slowdown and newest upload)): Bebefinn's main English channel has 37.3M subscribers and 25.1B views from 1,086 videos, adds about 370M views a month, but its subscriber gains slowed to 100K to 300K a month in 2026 from 500K to 1.3M in 2024 and 2025. Its newest upload (13 Nov, 'We Are Car Mechanics! Let's Fix the Car!') passed 133K views in 13 hours, and its top video is still a 2022 good morning routine song at 775M. The same slowdown pattern seen at BabyBus and Little Angel. Total 1266."
-  },
-  {
    "date": "2026-11-16 03:59",
    "note": "Run 298 (TRENDS (December calendar hooks: GivingTuesday, treat days, sweater day, inclusion day)): GivingTuesday falls on Tue 1 Dec 2026 and runs in more than 110 countries (US 2025: 38.1M people, 13.5M donated goods), a ready hook for a sharing and kindness Short. Other kid friendly December hooks: International Day of Persons with Disabilities (3 Dec), International Volunteer Day (5 Dec), Brownie Day (8 Dec), Gingerbread House Day (12 Dec) and US Ugly Christmas Sweater Day (18 Dec). A kindness chain format joined the trend bank. Total 1269."
   },
@@ -11333,13 +11357,13 @@
   {
    "date": "2026-11-16 08:02",
    "note": "Run 375 (algorithm experiments (TRENDS skipped, sound charts had nothing kid usable; 24/7 stream case data)): This TRENDS slot found nothing new and kid usable (the growing TikTok sounds are unlabelled original audios), so it switched to stream experiments: a safe 24/7 kids stream checklist (made for kids on, chat off, no links, titles that match what plays, rotating playlists), a Korean kids channel that grew revenue 80% and watch time 4x in 90 days with streams, and a DIY channel whose four themed streams tripled view duration. Total 1560."
+  },
+  {
+   "date": "2026-11-16 08:03",
+   "note": "Run 376 (music (what African homes stream for kids, world music twists on carols, retro ballad style)): Spotify Wrapped coverage from Nigeria, Ghana, Kenya and South Africa shows the big three kids brands dominating toddler playlists, with songs used as markers for routines (morning, car, bath, bedtime) and a 1960s ballad loved by young kids; last Christmas a Mongolian throat singing Jingle Bells went viral, proof that a world music twist on a public domain carol travels. Total 1564."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:37",
-   "total": 409
-  },
   {
    "date": "2026-11-15 18:38",
    "total": 415
@@ -12535,6 +12559,10 @@
   {
    "date": "2026-11-16 08:02",
    "total": 1560
+  },
+  {
+   "date": "2026-11-16 08:03",
+   "total": 1564
   }
  ],
  "next_week_ideas": [
