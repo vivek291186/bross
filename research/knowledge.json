@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:57:51+05:30",
- "runs": 593,
+ "updated": "2026-11-16T16:58:24+05:30",
+ "runs": 594,
  "branches": [
   {
    "id": "platforms",
@@ -14684,11 +14684,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 514 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 13:48",
-   "note": "Run 515 (our results (Metricool rechecked at 13:50 IST)): Metricool still holds YouTube stats only to 11 Nov and Reels only to 15 Nov, unchanged since this morning's check (best long song Lion Needs a Doctor 833 views, best Reel Ant Parade 113, Shorts 1 to 30 views), so no new leaves. Total 1970."
+   "note": "Earlier runs summarised: all rounds through Run 515 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 13:48",
@@ -15001,13 +14997,13 @@
   {
    "date": "2026-11-16 16:57",
    "note": "Run 593 (visual craft and production tools (Meshy changelog, compilation packaging); playbook languages rule updated): Meshy's model retirements (lowpoly gone 30 Oct, meshy-7 3D generation ends 31 Dec) and thumbnail packaging studies were already leaves; the playbook languages rule now adds a vocals only 'NO INSTRUMENTS' edit of our best songs for Arabic, Malay and Indonesian families, backed by today's Arabic, Omar & Hana and Islamic pop evidence. Total 2084."
+  },
+  {
+   "date": "2026-11-16 16:58",
+   "note": "Run 594 (TRENDS (SocialPilot Reels audio list recheck)): SocialPilot's Reels audio list is still dated 30 Oct (holiday reveals, bare to decorated, countdowns, Dame Hombro), all already covered as formats in the tree, and every listed sound is a label track we would not use, so no new leaves. Total 2084."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 03:49",
-   "total": 1257
-  },
   {
    "date": "2026-11-16 03:51",
    "total": 1260
@@ -16202,6 +16198,10 @@
   },
   {
    "date": "2026-11-16 16:57",
+   "total": 2084
+  },
+  {
+   "date": "2026-11-16 16:58",
    "total": 2084
   }
  ],
