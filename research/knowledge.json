@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:53:53+05:30",
- "runs": 584,
+ "updated": "2026-11-16T16:54:24+05:30",
+ "runs": 585,
  "branches": [
   {
    "id": "platforms",
@@ -10016,6 +10016,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 583
+    },
+    {
+     "t": "Roy Morgan's survey of 1,129 Australian children aged 6 to 13 (Apr to Dec 2025, published Feb 2026) found 89% watch YouTube; for 6 to 9 year olds the top genres after gaming are animation (40%), animals (35%) and challenges (32%), girls lead on animals and music, and the under 16 ban does not cover YouTube Kids or logged out viewing, so animated animal songs with a little challenge are the best fit for young Australians.",
+     "src": "Roy Morgan, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 585
     }
    ]
   },
@@ -14649,11 +14656,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 505 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 13:37",
-   "note": "Run 506 (Shorts and Reels kids formats (Reels algorithm news, Shorts retention curve study)): No new Reels ranking change since June, but Instagram now lets creators replace audio on published posts and link sounds in Edits; an April 2026 retention study gives three Shorts curve shapes (cliff, hump, plateau), a visual change every 1.5 to 2 seconds and warns per Short retention falls above 7 Shorts a week. Total 1950."
+   "note": "Earlier runs summarised: all rounds through Run 506 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 13:40",
@@ -14966,13 +14969,13 @@
   {
    "date": "2026-11-16 16:53",
    "note": "Run 584 (competitor deep dive (Cocobi Spanish)): Cocobi's Spanish channel more than doubled to about 215M views in October 2026 (+70K subscribers); its top videos are 'where is...?' mysteries (the T-Rex's tail 21M, my cookie 17M) and place based safety songs, and its newest upload is a police dog catching a thief, the same chase and missing snack hooks seen across markets. Total 2079."
+  },
+  {
+   "date": "2026-11-16 16:54",
+   "note": "Run 585 (TRENDS (kids search and viewing reports)): No fresh weekly kid trend surfaced; one useful market finding from Roy Morgan's Australian survey: among 6 to 9 year olds the top YouTube genres after gaming are animation (40%), animals (35%) and challenges (32%), and the under 16 ban leaves YouTube Kids and logged out viewing open. Total 2080."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 03:39",
-   "total": 1229
-  },
   {
    "date": "2026-11-16 03:41",
    "total": 1231
@@ -16168,6 +16171,10 @@
   {
    "date": "2026-11-16 16:53",
    "total": 2079
+  },
+  {
+   "date": "2026-11-16 16:54",
+   "total": 2080
   }
  ],
  "next_week_ideas": [
