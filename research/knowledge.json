@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:03:37+05:30",
- "runs": 350,
+ "updated": "2026-11-16T06:04:15+05:30",
+ "runs": 351,
  "branches": [
   {
    "id": "platforms",
@@ -1217,6 +1217,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 348
+    },
+    {
+     "t": "In the iTunes kids songs chart in mid November 2026 only one of the top 25 is a Christmas song (a TobyMac track at 13; Jingle Bells is at 39 and Silent Night at 60), while gentle faith songs, novelty food songs and Ms Rachel, Bluey and Baby Shark tracks lead, so kids' music charts turn to Christmas later than TikTok; our Christmas audio releases should peak in December.",
+     "src": "PopVortex (iTunes), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 351
+    },
+    {
+     "t": "Amazon's best selling Tonies music item in June 2026 was the Ms Rachel figurine (about 6K units a month), ahead of film characters like Woody, Lightning McQueen, Elsa and Toothless (about 2K to 3K each), showing a YouTube born music brand can outsell major film characters in screen free audio.",
+     "src": "AsInsight, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 351
+    },
+    {
+     "t": "Ms Rachel and Mr Aron versions of Wheels on the Bus and Caterpillar both sit in the iTunes kids top 20 beside CoComelon's Wheels on the Bus, so a well known rhyme can carry two competing brand versions at once; a fresh Bro Bros version of a public domain classic still has room.",
+     "src": "PopVortex (iTunes), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 351
     }
    ]
   },
@@ -10165,10 +10186,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 02:06",
-   "note": "Run 272 (other platforms (Amazon Kids+ in Italy, iTunes kids chart recheck)): Amazon Kids+ launched in Italy on 19 Oct 2026 for ages 3 to 12 (about 7 to 8 euros a month, ad free, with originals, games and audiobooks), one more ad free subscription home for kids video in Europe. The iTunes kids chart this week still shows only one holiday song in its top 20, so the holiday wave on kids charts has not started yet. Total 1173."
-  },
-  {
    "date": "2026-11-16 02:35",
    "note": "Run 273 (competitor deep dive (BabyBus slowdown, CoComelon Portuguese upload mix)): vidIQ's 13 Nov snapshot shows BabyBus (44.2M subs) growing only about 100K a month in 2026 with monthly views falling from about 328M in April to 218M in October, while old evergreen songs (Rainbow Juice, Sharing is Caring) still lead. CoComelon's Portuguese channel mixes about 3 long videos to 2 Shorts, keeps Shorts near 20 seconds as 'find the hidden character' games, and marks new songs with a star NEW tag. Total 1179."
   },
@@ -10479,6 +10496,10 @@
   {
    "date": "2026-11-16 06:03",
    "note": "Run 350 (YouTube algorithm (YouTube Kids parent settings and what they do to discovery)): YouTube Kids Help says 'Approve content yourself' limits a child to parent picked videos, channels and collections (topic groups chosen by the YouTube Kids team or partners), pausing watch or search history freezes recommendations, and autoplay can be switched off separately, so collections and parent approvals are routes into the strictest households. Total 1438."
+  },
+  {
+   "date": "2026-11-16 06:04",
+   "note": "Run 351 (other platforms (iTunes kids chart before Christmas, Tonies best sellers)): In mid November the iTunes kids top 25 still holds only one Christmas song (Jingle Bells sits at 39, Silent Night at 60) while faith songs, novelty food songs and Ms Rachel and Bluey tracks lead, so kids' music charts switch to Christmas later than TikTok. On Amazon the best selling Tonies music figurine was Ms Rachel (about 6K a month in June), ahead of big film characters. Total 1441."
   }
  ],
  "history": [
@@ -10489,10 +10510,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:05",
-   "total": 317
   },
   {
    "date": "2026-11-15 17:06",
@@ -11681,6 +11698,10 @@
   {
    "date": "2026-11-16 06:03",
    "total": 1438
+  },
+  {
+   "date": "2026-11-16 06:04",
+   "total": 1441
   }
  ],
  "next_week_ideas": [
