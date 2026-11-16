@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:01:21+05:30",
- "runs": 600,
+ "updated": "2026-11-16T17:01:51+05:30",
+ "runs": 601,
  "branches": [
   {
    "id": "platforms",
@@ -2974,6 +2974,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 589
+    },
+    {
+     "t": "A 7.55M subscriber kids channel (AIR case, Q3 to Q4 2025) cut long uploads from 21 to 11 and raised Shorts from 10 to 23, moved to 4K with on screen text kept away from the edges, high contrast colours and an audio mix for TV speakers, and got only 5.5% more views but 33.6% more revenue, a sign that TV ready quality pays more than extra uploads.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 601
+    },
+    {
+     "t": "A kids channel near 1M subscribers (AIR case, Q3 to Q4 2025) went from one manual live stream to 16 automated 24/7 streams, added 44% more long videos and began cutting Shorts from its best moments; views rose 12.6% but watch time rose 31% (average view 1:36 to 2:06) and revenue 63%, so once we have enough songs several themed 24/7 streams (bedtime, dance, animals) are a strong next step.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 601
     }
    ]
   },
@@ -14712,11 +14726,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 521 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 14:42",
-   "note": "Run 522 (TRENDS (SocialPilot and Later November Reels lists, Christmas and recap formats)): Later's 13 Nov list was already in the tree; new from SocialPilot's 31 Oct to 10 Nov sound list: a bare tree styled in five beat cuts, an overnight holiday decor reveal, colour graded year in review edits, and a duo teaches the dance then the whole class joins format. Added the five cut tree to the trend bank. Total 1986."
+   "note": "Earlier runs summarised: all rounds through Run 522 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 14:43",
@@ -15029,13 +15039,13 @@
   {
    "date": "2026-11-16 17:01",
    "note": "Run 600 (TRENDS (kids songs that became meme sounds)): A little known 2021 Russian kids song about piglets scrubbing each other's backs at the bathhouse became a worldwide TikTok meme sound in June 2025 after one clip of mini pigs in a basin, proof that a calm, catchy kids song can turn into a trending audio years later. Total 2088."
+  },
+  {
+   "date": "2026-11-16 17:01",
+   "note": "Run 601 (YouTube algorithm and channel experiments (AIR kids channel cases)): Two AIR kids channel cases (Q3 to Q4 2025): a 7.55M channel halved long uploads, doubled Shorts and made videos TV ready (4K, text off the edges, high contrast, speaker mix) for +5.5% views but +33.6% revenue; a near 1M channel went from 1 to 16 automated 24/7 streams and lifted watch time 31%. Total 2090."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:01",
-   "total": 1278
-  },
   {
    "date": "2026-11-16 04:03",
    "total": 1281
@@ -16231,6 +16241,10 @@
   {
    "date": "2026-11-16 17:01",
    "total": 2088
+  },
+  {
+   "date": "2026-11-16 17:01",
+   "total": 2090
   }
  ],
  "next_week_ideas": [
