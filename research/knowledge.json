@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:50:46+05:30",
- "runs": 730,
+ "updated": "2026-11-16T22:51:24+05:30",
+ "runs": 731,
  "branches": [
   {
    "id": "platforms",
@@ -12473,6 +12473,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 728
+    },
+    {
+     "t": "Across 300 monetised channels (May 2025 to May 2026) the median video RPM was about $2.35 in November and $2.12 in December against $1.56 in January, and live stream RPM peaked at about $5.47 in December, so late November to Christmas is the best paying window of the year for uploads and streams.",
+     "src": "Gyre (AIR data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 731
+    },
+    {
+     "t": "Kids and Teens content had the second largest Q4 RPM rise of 11 niches (about +22%) even though made for kids videos only carry contextual ads, so holiday kids songs earn noticeably more per view than the same songs in January.",
+     "src": "Gyre (AIR data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 731
     }
    ]
   },
@@ -16203,11 +16217,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 651 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:42",
-   "note": "Run 652 (TRENDS (one take wide dances, holiday room reveals, headphone swap)): Mid November lists mostly repeat trends already banked (Dame Hombro, Chipmunks trio, fan transition, go go go). New for us: Lightreel's 7 Nov Instagram report shows K pop dances spreading through one continuous wide take that makes steps easy to copy and holiday home before and after reveals accelerating with comment keyword prompts; the headphone swap reaction format from April is still used. Leaf crunch rating and 'it is very important' were dropped from the trend bank as faded. Total 2177."
+   "note": "Earlier runs summarised: all rounds through Run 652 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:43",
@@ -16520,6 +16530,10 @@
   {
    "date": "2026-11-16 22:50",
    "note": "Run 730 (algorithm experiments (dubbing retention and Shorts length studies; trends skipped after an empty trends round)): AIR's auto dub against pro dub retention data, YouTube's auto dubbing figures and the Shorts length studies (Adobe, Quso, Bytecap, Overseer) were all already in the tree; no new leaves. Total 2301."
+  },
+  {
+   "date": "2026-11-16 22:51",
+   "note": "Run 731 (rules and monetisation (Q4 RPM by month)): The Digital Fairness Act and kids live RPM gap were already in the tree; new were monthly RPM medians across 300 channels (about $2.35 Nov and $2.12 Dec against $1.56 Jan) and Kids and Teens having the second largest Q4 rise (about +22%). Total 2303."
   }
  ],
  "history": [
@@ -17378,6 +17392,10 @@
   {
    "date": "2026-11-16 22:50",
    "total": 2301
+  },
+  {
+   "date": "2026-11-16 22:51",
+   "total": 2303
   }
  ],
  "next_week_ideas": [
