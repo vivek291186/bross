@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:45:57+05:30",
- "runs": 444,
+ "updated": "2026-11-16T10:52:59+05:30",
+ "runs": 445,
  "branches": [
   {
    "id": "platforms",
@@ -1434,6 +1434,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 433
+    },
+    {
+     "t": "Tubi, the free ad supported streaming service, calls 2026 its 'cartoon era': it added hundreds of classic Sesame Street episodes (seasons 1 to 38, April 2026) and classic Cartoon Network series that a paid service removed, filed under a Family Shows genre, so free streamers are actively collecting kids catalogues and could later license a large Bro Bros song library.",
+     "src": "cabletv.com, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 445
+    },
+    {
+     "t": "Sesame Street is now split across a paid service for new seasons, another for some library, and free episodes on Tubi, PBS Kids and YouTube, showing that even the biggest kids brands spread one catalogue over many windows; our plan of full songs on YouTube plus compilations elsewhere follows the same playbook.",
+     "src": "cabletv.com, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 445
     }
    ]
   },
@@ -12661,11 +12675,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 365 (visual craft (Blender 5.3 tools for our pipeline, s..."
-  },
-  {
-   "date": "2026-11-16 07:48",
-   "note": "Run 366 (TRENDS (China's flash step folk dance, seasonal playlists, Instagram year end features)): China's 'flash step' dance (folk moves from a Beijing Dance Academy tutorial: a quick side dodge, a hopping kick and a 'black bear shaking fur' wiggle) went viral from September and sent untrained imitators to hospital, so we keep only a slow, safe bear shake version. Seasonal playlists topped US YouTube trending in early November, and Instagram's year end 'Add Yours' sticker and New Year effects ran from about 16 Dec last year. Total 1520."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 366 (TRENDS (China's flash step folk dance, seasonal pla..."
   },
   {
    "date": "2026-11-16 07:50",
@@ -12978,6 +12988,10 @@
   {
    "date": "2026-11-16 10:45",
    "note": "Run 444 (TRENDS (Christmas toy wishlists: wearable pets, ball runs, butterfly catch; Reels audio lists not updated since 30 Oct)): Hello! magazine's 12 Nov Christmas 2026 toy list adds themes not yet in the tree: a wearable electronic pet that 'bonds' with its child and meets other pets, clear tube ball run sets, and a revived butterfly catching game; weekly Reels audio lists have not been updated since 30 Oct, so no new formats this round. Total 1795."
+  },
+  {
+   "date": "2026-11-16 10:52",
+   "note": "Run 445 (other platforms (free streaming services for kids; YouTube algorithm and Reels features checked first and already fully covered)): YouTube algorithm news since October (Shorts originality, custom feeds, YPP 2027, Shorts series, Reels features) is all already in the tree; new is Tubi's 2026 'cartoon era', in which the free ad supported service is gathering classic kids shows dropped by paid services (Sesame Street's first 38 seasons, classic Cartoon Network series) into a Family Shows lineup. Total 1797."
   }
  ],
  "history": [
@@ -13736,6 +13750,10 @@
   {
    "date": "2026-11-16 10:45",
    "total": 1795
+  },
+  {
+   "date": "2026-11-16 10:52",
+   "total": 1797
   }
  ],
  "next_week_ideas": [
