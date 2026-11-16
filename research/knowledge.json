@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:49:01+05:30",
- "runs": 388,
+ "updated": "2026-11-16T08:49:39+05:30",
+ "runs": 389,
  "branches": [
   {
    "id": "platforms",
@@ -6103,6 +6103,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 377
+    },
+    {
+     "t": "For Christmas thumbnails: keep text to three or four bold words readable on a phone, cut the Bros out from the background so they pop, add depth with a soft glow, small shadow or gentle vignette, give each element room, and design at 1280x720 so details survive; viewers decide in about two seconds while scrolling.",
+     "src": "Kittl, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 389
+    },
+    {
+     "t": "Vania Mania's kids network (Q4 2025) replaced shocked faces, all caps text and cluttered thumbnails with warm expressions, one focal point and calm colours, and wrote titles as a curiosity hook plus a plain search keyword that adds to the thumbnail instead of repeating it; its French channel grew views 37% and revenue 60% in the quarter.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 389
+    },
+    {
+     "t": "In the same case the network's live channel raised uploads from 32 to 42 before the holidays and its views rose from 3.1M to 11.4M with Suggested traffic up 351%, so a pre Christmas push of extra seasonal uploads can pay off quickly.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 389
     }
    ]
   },
@@ -9078,6 +9099,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 382
+    },
+    {
+     "t": "AIR found a YouTube bug had silently deleted multilingual audio tracks on two of Vania Mania's channels, so once we add dubbed tracks we should check monthly in Studio that every language track is still attached to our top songs.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 389
     }
    ]
   },
@@ -11418,10 +11446,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:10",
-   "note": "Run 310 (TRENDS (Instagram Edits snow effect, snow globe look for December)): Instagram's Edits app added a one tap animated Snow Effect (Restyle, plus rain, fog and golden light overlays) that became one of the biggest creator trends in India within weeks (a Hindi tutorial passed 5.5M views, with Gujarati, Marathi and Kannada creators joining). Snow globe themed drinks went viral again last December, so the snow globe look is a December visual hook we can use kid safe. A snow globe shake format joined the trend bank. Total 1305."
-  },
-  {
    "date": "2026-11-16 04:11",
    "note": "Run 311 (monetisation (Shorts pay by country, how music splits the Shorts pool)): AIR's country Shorts RPMs show the spread: about 0.33 USD per 1,000 views in the US, 0.17 in the UK and Germany, 0.10 in France, 0.045 in Brazil, 0.012 in Indonesia and 0.008 in India. In the Shorts pool, one licensed music track sends 50% of a Short's allocation to music partners and two tracks send 67%, so Shorts with our own unlicensed original music keep the full creator share. Total 1308."
   },
@@ -11732,13 +11756,13 @@
   {
    "date": "2026-11-16 08:49",
    "note": "Run 388 (music (where Christmas songs chart worldwide, the bilingual Feliz Navidad jump, the cosy folk lane)): Infant music studies were already in the tree, so this round looked at Christmas listening: in Christmas week 2025 YouTube's charts were full of holiday songs in the US, UK, Europe, Australia and Japan but had few or none in India, Brazil and South Africa; the bilingual Feliz Navidad jumped 61 places that week; and the cosy 'Folksy Christmas' playlist grew about 30x since 2019 while the main hits playlist stayed cheerful. Total 1617."
+  },
+  {
+   "date": "2026-11-16 08:49",
+   "note": "Run 389 (visual craft (Christmas thumbnails, calm packaging in a dubbed kids network)): Kittl's Christmas thumbnail guide adds practical rules (three or four words, cut out the subject, soft glow or vignette for depth, no crowded layouts, check it at phone size) and AIR's Q4 2025 Vania Mania case shows calm, warm, single focus thumbnails and curiosity plus keyword titles alongside +37% views and +60% revenue on its French channel; a YouTube bug once deleted that network's dubbed audio tracks. Total 1621."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:54",
-   "total": 464
-  },
   {
    "date": "2026-11-15 18:55",
    "total": 467
@@ -12934,6 +12958,10 @@
   {
    "date": "2026-11-16 08:49",
    "total": 1617
+  },
+  {
+   "date": "2026-11-16 08:49",
+   "total": 1621
   }
  ],
  "next_week_ideas": [
