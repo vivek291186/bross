@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:38:02+05:30",
- "runs": 650,
+ "updated": "2026-11-16T19:39:26+05:30",
+ "runs": 651,
  "branches": [
   {
    "id": "platforms",
@@ -1651,6 +1651,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 636
+    },
+    {
+     "t": "Instagram's Edits app launched on Mac on 5 Nov 2026 with watermark free 4K export in vertical and horizontal, custom LUT and font import and direct publishing with Trial Reels, tags and location, so the same desktop that renders our Blender songs can now cut and post Bro Bros Reels in one place with a consistent brand look.",
+     "src": "Analytics Insight, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 651
+    },
+    {
+     "t": "Edits templates now accept overlay layers and a clip lock that keeps chosen clips fixed when a template is reused, so one Bro Bros Reel template (logo, lyric strip, end card) can be locked once and refilled with each new song's dance clip without rebuilding the layout.",
+     "src": "FoneArena, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 651
     }
    ]
   },
@@ -11794,6 +11808,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 647
+    },
+    {
+     "t": "A University of Bayreuth systematic review (European Child and Adolescent Psychiatry, 2026; 42 studies, about 47,000 young people) linked intensive, unstructured short video use (about four hours a day or more, spontaneous scrolling that eats into sleep) with mild rises in inattention and impulsivity, and named fixed family routines and supportive adults as protective, so Bro Bros Shorts framed as routine songs (wake up, tidy up, bedtime) fit what worried parents want.",
+     "src": "University of Bayreuth, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 651
     }
    ]
   },
@@ -15286,11 +15307,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 571 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:47",
-   "note": "Run 572 (competitor deep dive (Omar & Hana, English and Malay)): Omar & Hana's English channel (4.02M) labels its newest upload 'NO INSTRUMENTS' in the title, confirming vocals only versions as a named format for Muslim families, and its Malay channel (8.67M, about 98M views in October) is over three times bigger than the English one, led by 45 to 90 minute compilations. Total 2067."
+   "note": "Earlier runs summarised: all rounds through Run 572 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:47",
@@ -15603,6 +15620,10 @@
   {
    "date": "2026-11-16 19:38",
    "note": "Run 650 (YouTube algorithm (Gemini candidate model, invisible negative signals)): Most algorithm news was already in the tree (Shorts timer at zero, originality cut, 2027 YPP rules, custom feeds). New: Google's PLUM paper reports a Gemini based candidate model lifted Shorts click rate about 5% in live tests, negative 'not interested' signals are invisible in Studio and show up only as falling impressions with steady click rate, and YouTube streams have not counted toward US Billboard charts since early 2026. Total 2170."
+  },
+  {
+   "date": "2026-11-16 19:39",
+   "note": "Run 651 (Shorts and Reels (Edits for Mac, short video research review)): Most Reels and Shorts feature news was already in the tree. New: Instagram's Edits app reached Mac on 5 Nov 2026 (earlier than the December plan we had noted) with watermark free 4K export, custom LUTs and fonts and direct Trial Reels publishing, and a 2026 Bayreuth review of 42 studies links only intensive, unstructured short video scrolling (4 hours a day or more) with weaker attention, which supports positioning our Shorts as part of structured family routines. Total 2173."
   }
  ],
  "history": [
@@ -16141,6 +16162,10 @@
   {
    "date": "2026-11-16 19:38",
    "total": 2170
+  },
+  {
+   "date": "2026-11-16 19:39",
+   "total": 2173
   }
  ],
  "next_week_ideas": [
