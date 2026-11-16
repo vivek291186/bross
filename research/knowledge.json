@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:57:08+05:30",
- "runs": 342,
+ "updated": "2026-11-16T05:58:06+05:30",
+ "runs": 343,
  "branches": [
   {
    "id": "platforms",
@@ -9960,6 +9960,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 340
+    },
+    {
+     "t": "Pinterest's 2026 parenting report shows parents searching for daily routine charts (+575%), fun physical activities for kids (+340%), movement activities for toddlers (+145%) and life skills activities (+100%), so routine and move along songs answer what parents actively look for; a printable routine chart matching a Bro Bros morning song would ride the same search.",
+     "src": "Pinterest Newsroom, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 343
+    },
+    {
+     "t": "Pinterest saw sensory play ideas up 1,070%, DIY kids playgrounds up 630% and pretend play food up 370%, so songs built around squishy, sparkly sensory moments, pretend cooking or a backyard obstacle course fit what families do at home this year.",
+     "src": "Pinterest Newsroom, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 343
+    },
+    {
+     "t": "Pinterest's 'Throwback Kid' trend (2000s kids' toys +610%, 90s baby clothes +660%, 1970s toys +280%) and 'animated movies for kids' (+430%) plus home movie night aesthetics (+140%) show parents bring their own childhood into kids' play, so a retro 90s or 2000s style Bro Bros song (game sounds, cassette look) appeals to co watching parents.",
+     "src": "Pinterest Newsroom, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 343
+    },
+    {
+     "t": "Pinterest also found family trip vision boards up 545%, traveller's journals up 1,280% and road trip car setups up 530% with printables to keep kids busy without tablets, so a 'Road Trip Bros' sing along song for car journeys fits December holiday travel.",
+     "src": "Pinterest Newsroom, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 343
     }
    ]
   }
@@ -9988,10 +10016,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 01:59",
-   "note": "Run 264 (YouTube main and YouTube Kids (Kids app entry results, growth audits)): No new weekly top 50 yet (the 15 Nov list is not out). AIR's 2026 growth guide adds one result not yet in the tree: a Spanish kids channel admitted to the YouTube Kids app about a month after a partner submitted it saw views rise 396%, with the app bringing 67.4% of its traffic; AIR's order of fixes is trust signals first, then dubbing, then 24/7 streams. Total 1147."
   },
   {
    "date": "2026-11-16 02:00",
@@ -10304,6 +10328,10 @@
   {
    "date": "2026-11-16 05:57",
    "note": "Run 342 (visual craft (December thumbnails, preschool redesigns toward stylised looks)): December thumbnail advice: high contrast, one cut out subject, three or four bold words at most, a calmer layout than the crowded holiday norm and one consistent December template family; interest in Christmas YouTube climbs from late November. A preschool spin off of a famous car franchise moved from glossy realism to flatter colours, bigger eyes and rubbery motion to suit ages 2 to 6, the same direction our 3D Bros already take. Total 1413."
+  },
+  {
+   "date": "2026-11-16 05:58",
+   "note": "Run 343 (TRENDS (Pinterest's 2026 parenting searches: routine charts, movement, throwback)): Weekly Reels and TikTok lists repeated last week's formats, so the round used Pinterest's parenting trend data: daily routine charts (+575%), movement activities for toddlers (+145%), fun physical activities (+340%), sensory play (+1070%), animated movie nights (+430%) and 'throwback kid' nostalgia (2000s toys +610%). Parents want screen time that gets kids moving and builds routines, which is exactly our dance and routine songs. Total 1417."
   }
  ],
  "history": [
@@ -10314,10 +10342,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:01",
-   "total": 284
   },
   {
    "date": "2026-11-15 17:01",
@@ -11506,6 +11530,10 @@
   {
    "date": "2026-11-16 05:57",
    "total": 1413
+  },
+  {
+   "date": "2026-11-16 05:58",
+   "total": 1417
   }
  ],
  "next_week_ideas": [
@@ -11567,6 +11595,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Routine chart sing along",
+   "where": "Pinterest searches (daily routine charts +575%, 2026) and parent Reels",
+   "status": "evergreen",
+   "use": "On screen a picture chart (wake up, brush teeth, get dressed, breakfast) ticks one box per chorus of our own morning song while the Bros act each step; end with all boxes ticked and a happy dance. Meshy prompt: standing, mime brushing teeth with one hand, then stretch both arms up high and bounce in place."
+  },
   {
    "name": "Dino friend dance",
    "where": "November 2026 family films (dinosaur island movie, 12 Nov) and evergreen dino topic",
@@ -11680,12 +11714,6 @@
    "where": "TikTok rising (6 second crop and plant growth montages, Nov 2026)",
    "status": "rising",
    "use": "6 to 8 second loop for our planting song: a seed in a pot, sprout, leaves, bud, big sunflower, each stage popping on a beat of the chorus, with Little Bro growing taller beside it in step. Ends where it started so it loops. Meshy prompt for Little Bro: standing in place, start with arms down, then slowly rise onto tiptoes while stretching both arms up overhead."
-  },
-  {
-   "name": "Save Christmas quest",
-   "where": "YouTube kids creators every December (story arc reveals, choose a path)",
-   "status": "seasonal",
-   "use": "A 2 to 3 minute song story: the Bros' sleigh bell goes missing and viewers pick door A or door B on screen (pause with a 3 second countdown) before each verse; each correct pick adds a jingle to the chorus until the bell is found. Our own song, no toy brands."
   }
  ]
 }
