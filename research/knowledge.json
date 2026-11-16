@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:07:27+05:30",
- "runs": 545,
+ "updated": "2026-11-16T16:07:52+05:30",
+ "runs": 546,
  "branches": [
   {
    "id": "platforms",
@@ -14258,6 +14258,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 543
+    },
+    {
+     "t": "TokChart's worldwide TikTok sound chart for 16 Nov 2026 has nine creator 'original audio' clips in its top 10, the fastest adding about 100K new videos a day, and only one released track (a Brazilian funk 'montagem' at about 1M videos), so this month's fastest spreading sounds are home made clips, which is good news for a channel pushing its own named original audio.",
+     "src": "TokChart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 546
     }
    ]
   }
@@ -14285,11 +14292,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 466 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:44",
-   "note": "Run 467 (rules and safety (UK and European under 15 and under 16 social media laws)): The UK confirmed on 15 Jun 2026 an Australia style under 16 ban expected from spring 2027 that names YouTube but plans to exempt YouTube Kids and music streaming; France passed an under 15 law on 21 Jul 2026, Greece starts in Jan 2027 and Turkey, Denmark, Spain, Austria and Poland are moving, so more child viewing will flow through YouTube Kids, parents' accounts and TVs. Total 1844."
+   "note": "Earlier runs summarised: all rounds through Run 467 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:45",
@@ -14602,6 +14605,10 @@
   {
    "date": "2026-11-16 16:07",
    "note": "Run 545 (visual craft (thumbnail face studies, Blender Eevee toon pipeline)): Thumbnail face guides had no new data and the Eevee toon pipeline study was already a leaf, so no new leaves; the playbook learning rule was updated to sing the learning word on the melody, from the previous round's word learning study. Total 2027."
+  },
+  {
+   "date": "2026-11-16 16:07",
+   "note": "Run 546 (TRENDS (TokChart worldwide sounds chart for 16 Nov)): TokChart's 16 Nov worldwide chart is led by creators' own 'original audio' clips rather than released songs, with only one music track (a Brazilian funk montagem at about 1M videos) in the top 10, which backs our plan of naming and pushing our own original audio. Total 2028."
   }
  ],
  "history": [
@@ -15764,6 +15771,10 @@
   {
    "date": "2026-11-16 16:07",
    "total": 2027
+  },
+  {
+   "date": "2026-11-16 16:07",
+   "total": 2028
   }
  ],
  "next_week_ideas": [
