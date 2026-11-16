@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:51:49+05:30",
- "runs": 391,
+ "updated": "2026-11-16T08:52:34+05:30",
+ "runs": 392,
  "branches": [
   {
    "id": "platforms",
@@ -4038,6 +4038,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 383
+    },
+    {
+     "t": "Super Simple Songs (47.3M subscribers, about 65B views) is still growing in 2026: monthly views rose from about 446M in February to 574M in September and 592M in October, with 100K to 200K new subscribers a month, proof that a mature brand keeps rising through steady themed uploads.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 392
+    },
+    {
+     "t": "Super Simple Songs' newest song 'Scrubbity Rubbity Doo' (wash your hands and face, 5 Nov 2026) reached about 915K views in nine days; a silly made up word in the title plus a hygiene routine is exactly our playbook's nonsense chant and healthy habit formula.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 392
+    },
+    {
+     "t": "Super Simple Songs' biggest videos add a new action or a puppet cast to a familiar song ('If You're Happy and You Know It Spin Around' 176M, 'Five Little Speckled Frogs' with frog puppets 164M, '500 Ducks' 214M, the puppet food song 'Are You Hungry?' 183M), so a known tune with one surprising action twist is a proven long term hit.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 392
+    },
+    {
+     "t": "By 15 November 2026 Super Simple Songs, BabyBus English and Lalafun had all not yet posted a Christmas song, while smaller channels such as Junior Squad started in early November, so the big preschool brands seem to time Christmas releases for late November or December.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 392
     }
    ]
   },
@@ -11488,10 +11516,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:37",
-   "note": "Run 313 (YouTube algorithm (YouTube Kids filter gate, Shorts consistency bonus, image posts in the Shorts feed)): Team YouTube's Kids FAQ says thumbnail, title and video filters each can block a video on their own, so one risky thumbnail can keep a good song out of YouTube Kids. YouTube is piloting an invite only monthly Shorts bonus for regular uploaders (US, UK, Germany, Brazil, Japan, South Korea, not India) and testing image carousel Posts with music inside the Shorts feed. Total 1313."
-  },
-  {
    "date": "2026-11-16 04:39",
    "note": "Run 314 (Shorts and Reels (view through benchmarks, best Short length, kids songs in YouTube's all time top 10)): Quso's 508K post dataset puts the median Short at about 45% view through and the top 10% near 91%, with 11 to 20 second Shorts earning the highest median views; five of YouTube's ten most viewed videos ever are children's songs. Reels algorithm news was quiet: nothing new beyond the tree. Total 1316."
   },
@@ -11802,13 +11826,13 @@
   {
    "date": "2026-11-16 08:51",
    "note": "Run 391 (global markets (India's Hindi rhyme giants plateau, El Reino Infantil's Spanish scale)): India's two biggest Hindi rhyme channels look mature rather than growing: Infobells Hindi (72.8M) stopped adding subscribers from September and runs at roughly 450M views a month, while Kids Channel India (44.1M) holds 310M to 500M a month and now pushes animal rhyme Shorts with #viral tags; El Reino Infantil passed 5.6B views in the first four months of 2026 and backs YouTube with licensing in 15 countries and live shows. Total 1627."
+  },
+  {
+   "date": "2026-11-16 08:52",
+   "note": "Run 392 (competitors (Super Simple Songs' steady 2026 growth, nonsense word hygiene hit, action twists on classics)): Super Simple Songs (47.3M) grew its monthly views from about 446M in February to 592M in October 2026; its newest song, a hand and face washing song with a nonsense word title, passed 915K views in nine days, its all time hits are new action twists on classics and puppet songs, and like BabyBus and Lalafun it had no Christmas upload by mid November. Total 1631."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:56",
-   "total": 473
-  },
   {
    "date": "2026-11-15 18:57",
    "total": 476
@@ -13004,6 +13028,10 @@
   {
    "date": "2026-11-16 08:51",
    "total": 1627
+  },
+  {
+   "date": "2026-11-16 08:52",
+   "total": 1631
   }
  ],
  "next_week_ideas": [
