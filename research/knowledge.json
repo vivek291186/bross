@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:06:42+05:30",
- "runs": 752,
+ "updated": "2026-11-16T23:07:11+05:30",
+ "runs": 753,
  "branches": [
   {
    "id": "platforms",
@@ -16308,11 +16308,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 673 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 20:39",
-   "note": "Run 674 (YouTube algorithm (custom feeds, Reels ranking, subscriber feed recheck)): Searches on November algorithm changes (prompt built custom feeds, Ask YouTube, original Shorts boost, Suggested beating the Subscriptions feed, Instagram's Your Algorithm) only returned findings already in the tree, so no new leaves. Total 2225."
+   "note": "Earlier runs summarised: all rounds through Run 674 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 21:36",
@@ -16625,6 +16621,10 @@
   {
    "date": "2026-11-16 23:06",
    "note": "Run 752 (global markets (Pakistan kids channels recheck)): Pakistan searches returned the TinyTaleem ABC channel and Google's Pakistan growth report, both already in the tree; no new leaves. Total 2316."
+  },
+  {
+   "date": "2026-11-16 23:07",
+   "note": "Run 753 (competitor deep dive (Banana Cartoon 3D, Toonzey Songs)): vidIQ pages for two smaller 3D nursery rhyme channels returned no current figures (one only June 2025 data), so nothing reliable to add. Total 2316."
   }
  ],
  "history": [
@@ -17570,6 +17570,10 @@
   },
   {
    "date": "2026-11-16 23:06",
+   "total": 2316
+  },
+  {
+   "date": "2026-11-16 23:07",
    "total": 2316
   }
  ],
