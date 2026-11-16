@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:42:42+05:30",
- "runs": 357,
+ "updated": "2026-11-16T07:36:18+05:30",
+ "runs": 358,
  "branches": [
   {
    "id": "platforms",
@@ -8343,6 +8343,55 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 348
+    },
+    {
+     "t": "YouTube said in April 2026 that the YouTube Kids app limits AI generated content to a small set of high quality channels and lets parents block any channel, so Bro Bros must look clearly crafted (consistent characters, original songs, real story) to be one of the AI assisted channels allowed into the app.",
+     "src": "The Star / AFP, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 358
+    },
+    {
+     "t": "Fairplay's 1 Apr 2026 open letter to YouTube, signed by 135 organisations and about 100 experts, asks YouTube to label all AI video, ban it from YouTube Kids, stop recommending it to under 18s and give parents an off switch; if any of this is adopted, AI assisted kids channels without visible human craft lose reach first.",
+     "src": "The Star / AFP, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 358
+    },
+    {
+     "t": "YouTube's disclosure rule still covers only realistic synthetic media: clearly unrealistic content such as animation does not need the altered or synthetic label, so our stylised 3D cartoons need no AI label, though YouTube says it is building separate labels for YouTube Kids.",
+     "src": "The Star / Fairplay, Apr and May 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 358
+    },
+    {
+     "t": "Fairplay called YouTube's May 2026 AI label pledge lip service because animated AI videos only get a label tucked in the description and children who cannot read cannot use labels; its next ask is fewer made for kids AI videos in recommendations, so quality signals (watch time, likes, low skip rate) are our protection.",
+     "src": "Fairplay, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 358
+    },
+    {
+     "t": "Across 300 channels, the median all format RPM peaked in November (2.35 USD), dipped in December (2.12) and fell to 1.56 in January, and kids and teens RPM rose about 22% in Q4, so the most valuable upload weeks of the year are right now, before Black Friday (27 Nov 2026).",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 358
+    },
+    {
+     "t": "In the same study a live view in the kids and teens niche paid about 3.4 times a normal video view, and December was the top month for live RPM (median 5.47 USD against 2.31 in January), so a December looping live stream of our Christmas songs is the best paid format of the year.",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 358
+    },
+    {
+     "t": "From 1 Feb 2027 existing Partner Program channels must stay active: 1,000 watch hours in a year, or 1M Shorts views in 90 days, or at least 2 long videos or 5 Shorts every 90 days, with a 90 day grace window; our 14 songs a week clears this easily.",
+     "src": "AIR Media-Tech, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 358
     }
    ]
   },
@@ -10361,10 +10410,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 02:42",
-   "note": "Run 279 (Shorts and Reels (Reels retention curves and skip rate benchmarks, how fast Reels collect views)): No Reels ranking change has been confirmed since August 2026 (SocialPilot). New this round: Instagram's per Reel retention curve and 3 second skip rate panels (Reels with 100+ plays, about 48 hours to fill) with one analyst's benchmarks of under 20% skip and 70%+ three second retention as strong, plus Socialinsider's Nov 2026 update showing most Reel views come in the first 5 days and plateau around day 20. Total 1205."
-  },
-  {
    "date": "2026-11-16 02:43",
    "note": "Run 280 (TRENDS (December streaming slate and holiday sing along shorts)): Netflix's 2026 Christmas slate has almost no new animated kids specials (the main family title is a Gabby's Dollhouse holiday baking competition on 9 Dec, US only), so December demand for holiday cartoons and songs falls even more on YouTube. Disney Jr. last December backed its holiday episodes with short stop motion holiday sing along music videos, a light format we can match with our own songs. Thanksgiving parent humour (feed kids before the big feast) returns every year. Total 1208."
   },
@@ -10675,13 +10720,13 @@
   {
    "date": "2026-11-16 06:42",
    "note": "Run 357 (competitor deep dive (Super Simple's autumn uploads, Pinkfong's new formats, Blocks Universe Christmas single)): Super Simple's autumn feed is weekly Top 20 mixes near 1M views plus two Halloween live streams, with a party song ('Everybody Celebrate', 6M) as the outlier. Pinkfong is spreading past songs into 3 minute slapstick episodes (Kikipuppup, YouTube first in English, Japanese and Korean) and remixes its hit with other channels (Doggyland) and an orchestra, while the Blocks Universe released one Christmas song as a live action dance video and, a week later, an animated video. Total 1466."
+  },
+  {
+   "date": "2026-11-16 07:36",
+   "note": "Run 358 (rules and safety (AI content on YouTube Kids, Q4 ad money, 2027 activity rule)): YouTube told reporters in April that the YouTube Kids app only lets AI made content from a small set of high quality channels, while 135 groups and about 100 experts led by Fairplay are pushing to ban AI video from YouTube Kids altogether. Animation still needs no AI label on main YouTube, kids RPM rose about 22% in Q4 last year with November the best month, and from Feb 2027 partners must stay active (for example 5 Shorts per 90 days). Total 1473."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:08",
-   "total": 337
-  },
   {
    "date": "2026-11-15 17:09",
    "total": 341
@@ -11877,6 +11922,10 @@
   {
    "date": "2026-11-16 06:42",
    "total": 1466
+  },
+  {
+   "date": "2026-11-16 07:36",
+   "total": 1473
   }
  ],
  "next_week_ideas": [
