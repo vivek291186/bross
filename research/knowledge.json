@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:51:01+05:30",
- "runs": 635,
+ "updated": "2026-11-16T17:52:40+05:30",
+ "runs": 636,
  "branches": [
   {
    "id": "platforms",
@@ -1630,6 +1630,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 627
+    },
+    {
+     "t": "On 16 Nov 2026 the iTunes kids songs chart is topped by a soft pop singer's cover of the public domain lullaby 'You Are My Sunshine', ahead of Baby Shark at 3, showing that a gentle, warm adult voice on an old public domain song can beat the big kids brands on paid downloads.",
+     "src": "PopVortex iTunes kids chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 636
+    },
+    {
+     "t": "Three of the top six iTunes kids songs on 16 Nov 2026 are faith or comfort songs for children (a goodnight 'see you tomorrow' song and two gentle worship songs), a sizeable download audience that we can serve without religion through calm 'I am safe, see you tomorrow' bedtime songs.",
+     "src": "PopVortex iTunes kids chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 636
+    },
+    {
+     "t": "A Halloween novelty track (a skeleton song remix) and a 1980s winter film theme ('Walking in the Air') both sit in the iTunes kids top 21 in mid November, so seasonal kids songs keep selling for weeks after their date and winter songs start climbing before Christmas songs do.",
+     "src": "PopVortex iTunes kids chart, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 636
     }
    ]
   },
@@ -15006,11 +15027,7 @@
  "log": [
   {
    "date": "2026-11-16 16:37",
-   "note": "Earlier runs summarised: all rounds through Run 556 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:37",
-   "note": "Run 557 (visual craft (slow media pacing and thumbnail faces)): A Sep 2026 essay by an early childhood professor lists what makes kids media calmer and better rated (stopping points, one object to look at, meaningful repetition, a familiar ritual frame); thumbnail testers report friendly smiles and natural mid action faces now beating fake shock faces. Total 2046."
+   "note": "Earlier runs summarised: all rounds through Run 557 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:38",
@@ -15323,6 +15340,10 @@
   {
    "date": "2026-11-16 17:51",
    "note": "Run 635 (rules and monetisation (Indonesia platform commitments, RPM spread)): Indonesia's PP Tunas (in force 28 Mar 2026) drew commitments from YouTube, Meta, TikTok and X by 22 Apr 2026 with Roblox the holdout, and YouTube promised to stop ads aimed at children there; AIR's niche data shows the kids RPM middle range is only about 0.16 to 0.88 USD. AI slop and Q4 RPM findings were already leaves. Total 2130."
+  },
+  {
+   "date": "2026-11-16 17:52",
+   "note": "Run 636 (other platforms (iTunes kids chart, our data and algorithm rechecks)): Our Metricool data has no uploads after 11 Nov and was already recorded today, and the YouTube algorithm changes found (custom feeds, original Shorts, inauthentic content) were already leaves; the iTunes kids chart on 16 Nov is led by a gentle adult cover of a public domain lullaby, with three faith songs in its top six. Total 2133."
   }
  ],
  "history": [
@@ -15801,6 +15822,10 @@
   {
    "date": "2026-11-16 17:51",
    "total": 2130
+  },
+  {
+   "date": "2026-11-16 17:52",
+   "total": 2133
   }
  ],
  "next_week_ideas": [
