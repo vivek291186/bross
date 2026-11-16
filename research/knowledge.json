@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:41:29+05:30",
- "runs": 679,
+ "updated": "2026-11-16T21:42:46+05:30",
+ "runs": 680,
  "branches": [
   {
    "id": "platforms",
@@ -10688,6 +10688,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 671
+    },
+    {
+     "t": "Parrot Analytics found that across 16 MENA markets family rated animation over indexes (28.6% of demand from 20.6% of titles) while kids only titles under index, so for an Arabic audio track our whole family songs (dancing with parents and grandparents) are a better first pick than toddler only rhymes.",
+     "src": "parrotanalytics.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 680
+    },
+    {
+     "t": "In the same MENA data about 23% of the kids animation audience is Gen X or older and the audience skews about 60% male, a sign of heavy parent co viewing, so Arabic titles and thumbnails should appeal to parents as well as children.",
+     "src": "parrotanalytics.com, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 680
     }
    ]
   },
@@ -15804,11 +15818,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 600 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:01",
-   "note": "Run 601 (YouTube algorithm and channel experiments (AIR kids channel cases)): Two AIR kids channel cases (Q3 to Q4 2025): a 7.55M channel halved long uploads, doubled Shorts and made videos TV ready (4K, text off the edges, high contrast, speaker mix) for +5.5% views but +33.6% revenue; a near 1M channel went from 1 to 16 automated 24/7 streams and lifted watch time 31%. Total 2090."
+   "note": "Earlier runs summarised: all rounds through Run 601 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:02",
@@ -16121,6 +16131,10 @@
   {
    "date": "2026-11-16 21:41",
    "note": "Run 679 (TRENDS (Blippi's November Shorts, Wrapped date, holiday searches)): Blippi's 1 to 13 Nov Shorts show playground game and beat the clock formats winning (Red Light Green Light about 198K views in 30 seconds, a 45 second build challenge about 130K) while long uploads are mostly two hour compilations; Spotify Wrapped 2026 is still unconfirmed (Official Charts predicts Wednesday 2 Dec); Elf and New Year searches only returned items already in the tree. Total 2244."
+  },
+  {
+   "date": "2026-11-16 21:42",
+   "note": "Run 680 (global markets (MENA family demand; dubbing and Gen Alpha rechecks)): Dubbing, Vania Mania, Precisify and Gen Alpha searches returned only findings already in the tree. New from Parrot Analytics: in 16 MENA markets family titles over index (28.6% of demand on 20.6% of supply) while kids titles under index, and the kids audience there has a large adult co viewer share, so whole family songs travel best in the Arab world. Total 2246."
   }
  ],
  "history": [
@@ -16775,6 +16789,10 @@
   {
    "date": "2026-11-16 21:41",
    "total": 2244
+  },
+  {
+   "date": "2026-11-16 21:42",
+   "total": 2246
   }
  ],
  "next_week_ideas": [
