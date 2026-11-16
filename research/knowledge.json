@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:53:36+05:30",
- "runs": 735,
+ "updated": "2026-11-16T22:54:14+05:30",
+ "runs": 736,
  "branches": [
   {
    "id": "platforms",
@@ -16238,11 +16238,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 656 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:53",
-   "note": "Run 657 (competitor deep dive (Funlala Kids Songs; Lili and Max as a warning)): Funlala Kids Songs, a Lalafun branded US channel with 2,936 videos, still draws about 41.7M views a month (Oct 2026 +75.5M, well below its Sep 2025 peak of 237M), and its second biggest video is a Feb 2026 baby animals train song (12.9M); by contrast Lili and Max, a 1,637 video pretend play channel, fell from hundreds of thousands of views a month in early 2025 to about 10K to 20K, a warning about mass produced compilations after YouTube's July 2025 inauthentic content rules. Total 2191."
+   "note": "Earlier runs summarised: all rounds through Run 657 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:54",
@@ -16555,6 +16551,10 @@
   {
    "date": "2026-11-16 22:53",
    "note": "Run 735 (Shorts and Reels (Reels benchmark pages)): Metricool's 375,462 account short video benchmark and other Reels statistics pages were already in the tree (a duplicate leaf added this round was removed); no new leaves. Total 2306."
+  },
+  {
+   "date": "2026-11-16 22:54",
+   "note": "Run 736 (other platforms (Netflix 2 to 8 Nov, Roblox November games; trends skipped after an empty trends round)): Netflix's 2 to 8 Nov list (A Dog's Perfect Christmas No. 1) and Roblox's fastest growing November games were already in the tree; no new leaves. Total 2306."
   }
  ],
  "history": [
@@ -17432,6 +17432,10 @@
   },
   {
    "date": "2026-11-16 22:53",
+   "total": 2306
+  },
+  {
+   "date": "2026-11-16 22:54",
    "total": 2306
   }
  ],
