@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:51:07+05:30",
- "runs": 474,
+ "updated": "2026-11-16T11:51:55+05:30",
+ "runs": 475,
  "branches": [
   {
    "id": "platforms",
@@ -13124,6 +13124,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 472
+    },
+    {
+     "t": "Christmas Jumper Day, Save the Children's yearly school and office fundraiser in the UK (running since 2012, over 42M pounds raised), falls on Thursday 10 Dec 2026, so a Bro Bros 'jumper spin' Short that day reaches British families, as long as we only wear jumpers and never imply a link to the charity.",
+     "src": "letsknit.co.uk, 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 475
+    },
+    {
+     "t": "NORAD's Santa tracking website opens on 1 December in nine languages and families follow Santa's flight around the world on 24 December (it marked its 70th year in 2025), so a 'Where is Santa now?' song visiting countries in time zone order is a natural Christmas Eve upload that also suits our global audience.",
+     "src": "dvidshub.net, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 475
+    },
+    {
+     "t": "Parents on TikTok praise low effort, gentle elf traditions, such as an elf who rests in a tiny house from 1 Dec, fills the advent calendar and carries notes to Santa without watching or reporting on the children (one such video passed 300K views), so a Bro Bros elf friend should be a helper and a friend, never a spy.",
+     "src": "mother.ly, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 475
     }
    ]
   }
@@ -13150,12 +13171,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:54",
-   "note": "Earlier runs summarised: all rounds through Run 395 (YouTube channels (our Metricool check already done today so skipped; Danny Go! event uploads, Bounce Patrol stalling)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:55",
-   "note": "Run 396 (topics and seasons (TRENDS skipped, last trends round found little new; December 2026 calendar and top Christmas searches)): Hanukkah comes early this year (sundown 4 Dec to 12 Dec 2026), Kwanzaa runs 26 Dec to 1 Jan and Boxing Day is 26 Dec, so a 'lights around the world' song should be live by 1 Dec; YouTube's top Christmas searches include 'christmas dance', 'christmas ambience', 'christmas piano' and 'christmas fireplace', which point to a dance title keyword and a long cosy fireplace compilation. Total 1644."
+   "note": "Earlier runs summarised: all rounds through Run 396 (topics and seasons (TRENDS skipped, last trends round found little new; December 2026 calendar and top Christmas searches)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:56",
@@ -13468,6 +13485,10 @@
   {
    "date": "2026-11-16 11:51",
    "note": "Run 474 (visual craft (Reels safe zones, on screen lettering for young readers, 4K uploads)): Meta's Reels safe zones on 1080 by 1920 leave the top 270 px and bottom 670 px for interface, with a centred safe area of about 950 by 980 px and a 3:4 grid crop; for on screen words, early readers do best with plain rounded sans serif letters, single storey a and g and sentence case; 4K uploads get YouTube's better VP9 encode. Total 1865."
+  },
+  {
+   "date": "2026-11-16 11:51",
+   "note": "Run 475 (TRENDS (December dates: Christmas Jumper Day, NORAD Santa tracking, gentle elf alternatives)): Christmas Jumper Day is Thursday 10 Dec 2026 in UK schools; NORAD's Santa tracking site opens on 1 Dec in 9 languages ahead of the 24 Dec flight; parents on TikTok praise gentle elf ideas where the elf helps instead of watching. Added a jumper spin reveal to the trend bank (dropped the late October shoulder bounce). Total 1868."
   }
  ],
  "history": [
@@ -14346,6 +14367,10 @@
   {
    "date": "2026-11-16 11:51",
    "total": 1865
+  },
+  {
+   "date": "2026-11-16 11:51",
+   "total": 1868
   }
  ],
  "next_week_ideas": [
@@ -14407,6 +14432,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Christmas jumper spin reveal",
+   "where": "Reels and Shorts, UK Christmas Jumper Day 10 Dec 2026 and all December",
+   "status": "seasonal",
+   "use": "A 10 to 15 second Short: the Bros stand side by side in plain tops, count 'one, two, three' and do a spin (standing, turn once on the spot with arms out, 2 seconds); on the cut they finish the turn in bright knitted Christmas jumpers (snowflakes, a reindeer, a tree), then point at each other's jumper and do a happy shoulder shimmy to our own jingly song; caption 'Jumper check!'."
+  },
   {
    "name": "Big Chew or Tiny Nibble",
    "where": "TikTok and Reels (W Chews / L Nibbles slang, Nov 2026)",
@@ -14520,12 +14551,6 @@
    "where": "Instagram Reels (Later, 13 Nov 2026)",
    "status": "rising",
    "use": "A 15 to 20 second Reel with five captioned clips and one line of our own Christmas waiting song each: 1 super excited jumping, 2 counting days on fingers, 3 peeking at a present, 4 flopped and tired of waiting, 5 Christmas morning cheer with arms up. Meshy prompts: standing in place, small excited hops with fists pumping; standing, counting on fingers while nodding; leaning forward slightly peeking with hand over eyes; standing, shoulders drop and arms hang loose with a big sigh; standing, both arms thrown up in a happy cheer."
-  },
-  {
-   "name": "Shoulder bounce (dembow style)",
-   "where": "TikTok, rising Nov 2026 (US Latin creators, Spain, Italy); still on NewEngen 13 Nov and Inmagic 16 Nov 2026 lists, now in Spain and Italy",
-   "status": "peak",
-   "use": "Make one of our own bouncy 100 BPM dembow flavoured kids songs with a 'shoulder, shoulder' hook; Big Bro and Little Bro face camera and bounce their shoulders up and down on every beat, then point to the viewer to copy. Meshy prompt: standing in place, bounce both shoulders up and down to the beat, small knee bounce, arms relaxed at sides, then point forward."
   }
  ]
 }
