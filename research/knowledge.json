@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:00:21+05:30",
- "runs": 447,
+ "updated": "2026-11-16T11:01:41+05:30",
+ "runs": 448,
  "branches": [
   {
    "id": "platforms",
@@ -5599,6 +5599,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 436
+    },
+    {
+     "t": "A study matching 70 children's and adult songs from 35 regions of the world found children's songs everywhere use fewer different scale notes and a narrower melodic range than adult songs, which the authors tie to young voices' motor limits, so a chorus built from four or five notes is a worldwide pattern, not just a Western one.",
+     "src": "PsyArXiv via sciencegate.app, undated",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 448
+    },
+    {
+     "t": "Music education guides say young children should sing in a light head voice because pushing into chest voice creates throat tension, so Suno vocal prompts should ask for a light, bright, heady voice that kids can copy rather than a deep, chesty, belting singer.",
+     "src": "SUNY Music and the Child (lumenlearning.com)",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 448
     }
    ]
   },
@@ -12724,11 +12738,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 368 (competitor deep dive (CoComelon Brasil's breakout r..."
-  },
-  {
-   "date": "2026-11-16 07:56",
-   "note": "Run 369 (TRENDS (Christmas audio at peak, digicam diary look, tips over an instrumental)): SocialPilot's Reels audio chart (31 Oct to 10 Nov) shows Christmas has fully started: Mariah Carey's classic is in about 5.8M Reels and other Christmas pop songs are at peak, which means our own Christmas songs should be out now. Two clean new formats are the soft 'digicam diary' look for cosy clips and quick tips over a wordless instrumental. Total 1536."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 369 (TRENDS (Christmas audio at peak, digicam diary look..."
   },
   {
    "date": "2026-11-16 07:57",
@@ -13041,6 +13051,10 @@
   {
    "date": "2026-11-16 11:00",
    "note": "Run 447 (TRENDS (13 Nov TikTok trend chart: hop and point cut, karate cat, family line dance)): A 13 Nov 2026 chart of 50 TikTok trends ranked by new videos a day is mostly dances, many done 'with your mom, your dog or an AI character'; new kid safe formats are a two shot hop then point hard cut, a cat karate chopping a tissue, and a family line dance, so a hop and point cut and a karate kitty gag went into the trend bank. Total 1804."
+  },
+  {
+   "date": "2026-11-16 11:01",
+   "note": "Run 448 (music craft (melody shape: cross cultural children's song study, phrase length, head voice; Suno v6 and Meshy changelog checked and already covered)): A comparison of 70 matched children's and adult songs from 35 regions found children's songs everywhere use fewer scale notes and a narrower range, and singing guides favour a light head voice over chest voice; range, phrase length and downbeat starts were already in the tree. Total 1806."
   }
  ],
  "history": [
@@ -13811,6 +13825,10 @@
   {
    "date": "2026-11-16 11:00",
    "total": 1804
+  },
+  {
+   "date": "2026-11-16 11:01",
+   "total": 1806
   }
  ],
  "next_week_ideas": [
