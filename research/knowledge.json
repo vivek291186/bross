@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:45:27+05:30",
- "runs": 569,
+ "updated": "2026-11-16T16:46:03+05:30",
+ "runs": 570,
  "branches": [
   {
    "id": "platforms",
@@ -14496,6 +14496,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 564
+    },
+    {
+     "t": "Fabulate's October 2026 TikTok roundup (B&T, 2 Nov) lists 'dancing boyfriends', candid phone clips of someone dancing unprompted and a bit clumsily to a catchy sound; the family version is a 'caught dancing' Reel where Little Bro is spotted dancing to our song while brushing his teeth or tidying up, freezes when he sees the camera, then pulls Big Bro in to dance together.",
+     "src": "B&T / Fabulate, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 570
     }
    ]
   }
@@ -14523,11 +14530,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 490 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 12:49",
-   "note": "Run 491 (rules and safety (rechecked AI slop purge, YouTube Kids gate, Disney COPPA order; mostly already in the tree)): Rules sources are now almost fully covered; the only new practical points are the compliance habits in the final Disney order (decide made for kids per video with written criteria, a named owner and regular audits of labels and third party tags) and that 88% of US parents of 2 to 5 year olds say their child prefers YouTube to TV. Total 1916."
+   "note": "Earlier runs summarised: all rounds through Run 491 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 12:50",
@@ -14840,13 +14843,13 @@
   {
    "date": "2026-11-16 16:45",
    "note": "Run 569 (visual craft (title formula of a one hit channel; Blender cartoon shading)): Twinkle Little Songs (1.2M subscribers) gets about a third of its 1B views from one spider rhyme and its next hits are the same character in a new world or holiday; Blender Studio's open 'Wing It!' short shows how to fake a flat, painted cartoon look with toon shading, rim light and outlines. Total 2061."
+  },
+  {
+   "date": "2026-11-16 16:46",
+   "note": "Run 570 (TRENDS (Fabulate's October TikTok roundup and Later's 13 Nov list)): Later's 13 Nov additions were already leaves; Fabulate's roundup adds 'dancing boyfriends', candid clips of someone dancing unprompted to a catchy sound, which becomes a kid safe 'caught dancing' Reel where a Bro is spotted dancing when he thinks no one is watching. Total 2062."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 02:04",
-   "total": 1167
-  },
   {
    "date": "2026-11-16 02:05",
    "total": 1171
@@ -16042,6 +16045,10 @@
   {
    "date": "2026-11-16 16:45",
    "total": 2061
+  },
+  {
+   "date": "2026-11-16 16:46",
+   "total": 2062
   }
  ],
  "next_week_ideas": [
@@ -16103,6 +16110,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Caught dancing",
+   "where": "TikTok and Reels (candid dance clips, rising)",
+   "status": "rising",
+   "use": "Little Bro dances alone to our song while doing a chore (brushing teeth, sweeping, stirring cookie dough), Big Bro peeks in with the phone, Little Bro freezes mid move with a surprised face, then shrugs and pulls Big Bro in so both finish the chorus together. Meshy steps, standing in place: a bouncy side step with arms swinging, a sudden freeze with arms out, a shrug, a two person side to side groove."
+  },
   {
    "name": "Rainbow igloo build",
    "where": "TikTok and Instagram family winter videos (winter, seasonal)",
@@ -16216,12 +16229,6 @@
    "where": "Instagram Reels and TikTok, mid Nov 2026",
    "status": "seasonal",
    "use": "One calm 20 second shot of the Bros' playroom: leaves outside turn to snow, lights switch on one by one, a tree appears, presents pop in; the Bros stand in the middle swaying side to side with arms out (slow standing sway, 4 beats each way) to our soft winter lullaby; ends with them waving at camera."
-  },
-  {
-   "name": "One spot outfit switch",
-   "where": "Instagram Reels, week of 16 Nov 2026",
-   "status": "rising",
-   "use": "Locked camera, the Bros stand on the same spot; on every strong beat of our winter song the look changes (autumn jacket, snow suit, Christmas jumper, party hat); between cuts they do the same standing move: a little hop in place with both hands on hips and a head nod, so every cut matches."
   }
  ]
 }
