@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:03:42+05:30",
- "runs": 802,
+ "updated": "2026-11-17T01:04:18+05:30",
+ "runs": 803,
  "branches": [
   {
    "id": "platforms",
@@ -12844,6 +12844,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 767
+    },
+    {
+     "t": "On 5 May 2026 Brazil's justice ministry raised YouTube's official age rating from 14 to 16 under ECA Digital, citing viral AI made 'fruit soap opera' Shorts: Pixar looking talking fruits and vegetables that draw children in but act out betrayal, violence and drug plots, so cute anthropomorphic food characters are now under regulator scrutiny and Bro Bros food characters must stay visibly gentle, kind and clearly for small children.",
+     "src": "tnh1.com.br, May 2026",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 803
+    },
+    {
+     "t": "Brazil raised TikTok, Kwai and Pinterest ratings the week before YouTube's, judging each platform on sex and nudity, violence, drugs and interactivity across its whole catalogue, which means regulators now hold the platform responsible for look alike kids animation with adult themes and are likely to push stricter filters on cartoon food and animal content in Brazil, our third biggest market for kids dubs.",
+     "src": "tnh1.com.br and congressoemfoco.com.br, May 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 803
     }
    ]
   },
@@ -16699,12 +16713,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:41",
-   "note": "Earlier runs summarised: all rounds through Run 723 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:42",
-   "note": "Run 724 (TRENDS (dated mid November searches, Shorts school dance searches)): Searches dated 14 to 15 Nov and school dance challenge searches returned only older items (Boat clap song from Feb 2026, a February classroom kick dance) or 6 7 material already in the tree; no new leaves and the trend bank stays as it is. Total 2293."
+   "note": "Earlier runs summarised: all rounds through Run 724 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:42",
@@ -17017,6 +17027,10 @@
   {
    "date": "2026-11-17 01:03",
    "note": "Run 802 (algorithm experiments and data (trends skipped after an empty trends round; upload timing study, 24/7 stream cases)): AIR's 31,852 video timing study (Kids Friday 16:00 UTC, Wednesday worst) and the 24/7 stream and Q4 live RPM cases were already in the tree; no new leaves. Total 2372."
+  },
+  {
+   "date": "2026-11-17 01:04",
+   "note": "Run 803 (rules and safety (Brazil age rating, ad rates)): New: Brazil raised YouTube's age rating to 16 in May 2026 because of AI 'fruit soap opera' Shorts with adult plots dressed as cute Pixar style fruit, so our food and animal characters must read as clearly gentle and preschool; ad rate and ECA Digital enforcement items were already in the tree. Total 2374."
   }
  ],
  "history": [
@@ -18163,6 +18177,10 @@
   {
    "date": "2026-11-17 01:03",
    "total": 2372
+  },
+  {
+   "date": "2026-11-17 01:04",
+   "total": 2374
   }
  ],
  "next_week_ideas": [
