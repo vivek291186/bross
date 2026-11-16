@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:51:12+05:30",
- "runs": 766,
+ "updated": "2026-11-16T23:52:04+05:30",
+ "runs": 767,
  "branches": [
   {
    "id": "platforms",
@@ -12683,6 +12683,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 759
+    },
+    {
+     "t": "Because ads on kids content cannot use personal data for targeting or measurement, Moonbug (CoComelon, Blippi) sells its connected TV inventory on context and parent co viewing: it says it reaches about 22M US households a month on Roku, Vizio and Fire TV, that 71% of its audience has cut or never had cable, and that 87% of impressions in a 2024 iSpot pilot reached homes the advertisers' linear TV campaigns missed, so kids song revenue depends on TV room views watched with parents, which favours longer, parent friendly compilations.",
+     "src": "AdExchanger, Apr 2024",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 767
     }
    ]
   },
@@ -16430,10 +16437,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 21:55",
-   "note": "Run 688 (other platforms (Disney Jr readiness series, Roblox and Netflix rechecks; trends skipped after an empty trends round)): Netflix kids top 10, Roblox fastest growing games and kids streaming charts only repeated the tree. New: Disney Jr. extended its 'Ready for Preschool' shorts into longer Megan and Cupcake episodes on Disney+ from 12 Oct 2026, mixing a live host, a puppet and animation around simple school readiness concepts. Total 2260."
-  },
-  {
    "date": "2026-11-16 21:56",
    "note": "Run 689 (music craft (Suno Studio and genre rechecks, singing vocabulary study)): Suno Studio 2.0, v6 and global genre searches only repeated the tree. New: an October 2026 kindergarten study in Indonesia (53 children learning English through repetitive singing) found about 85% could say the colour words and about 74% the numbers one to ten, supporting colour and counting songs for non native English speaking kids. Total 2261."
   },
@@ -16744,6 +16747,10 @@
   {
    "date": "2026-11-16 23:51",
    "note": "Run 766 (TRENDS (Epidemic Sound 13 Nov, Tokchart, howtogoviral US rising searches)): Most items (bicep heart, fancy cafe gag, Christmas switch, beat drop poses) were already in the tree; new: calm 'affirmation over action' and morning affirmation routines are rising US TikTok searches, added to the trend bank as a kid morning song format. Total 2333."
+  },
+  {
+   "date": "2026-11-16 23:52",
+   "note": "Run 767 (rules, safety and monetisation (COPPA enforcement, kids ad market)): Disney's COPPA settlement, the July 2026 inauthentic content rules and kids RPM guides were already in the tree; new: Moonbug's CTV pilot shows kids video ads can only be sold on context and parent co viewing, reaching mostly cord cutting homes. Total 2334."
   }
  ],
  "history": [
@@ -17746,6 +17753,10 @@
   {
    "date": "2026-11-16 23:51",
    "total": 2333
+  },
+  {
+   "date": "2026-11-16 23:52",
+   "total": 2334
   }
  ],
  "next_week_ideas": [
