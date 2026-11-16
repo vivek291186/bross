@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:07:38+05:30",
- "runs": 809,
+ "updated": "2026-11-17T01:08:06+05:30",
+ "runs": 810,
  "branches": [
   {
    "id": "platforms",
@@ -16741,12 +16741,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:51",
-   "note": "Earlier runs summarised: all rounds through Run 731 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:52",
-   "note": "Run 732 (YouTube main and Kids (Moonbug and CoComelon news; our results skipped as unchanged within the hour)): CoComelon's Disney+ move, movie date and spin offs were already in the tree; new was the paired holiday crossover format (one different episode on each partner channel on the same day) used by Blippi and Dr Seuss. Total 2304."
+   "note": "Earlier runs summarised: all rounds through Run 732 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:52",
@@ -17059,6 +17055,10 @@
   {
    "date": "2026-11-17 01:07",
    "note": "Run 809 (music craft (toddler tempo and slowing down)): Holiday instrument and tempo rules were mostly already in the tree; new: toddlers' natural beat is about 150 BPM and slowing to a 100 BPM beat only develops between 2 and 2.5 years, so fast and slow songs need a strong, clearly signalled contrast. Total 2378."
+  },
+  {
+   "date": "2026-11-17 01:08",
+   "note": "Run 810 (visual craft (Blender 5.1 and Meshy tool updates)): Blender 5.1 speed and Grease Pencil changes and Meshy's October changes (Meshy Edit, T2.5, N1 textures, model retirements) were already in the tree, and Meshy lists no new text to motion change since July; no new leaves. Total 2378."
   }
  ],
  "history": [
@@ -18232,6 +18232,10 @@
   },
   {
    "date": "2026-11-17 01:07",
+   "total": 2378
+  },
+  {
+   "date": "2026-11-17 01:08",
    "total": 2378
   }
  ],
