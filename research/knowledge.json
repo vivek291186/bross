@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:38:43+05:30",
- "runs": 438,
+ "updated": "2026-11-16T10:39:48+05:30",
+ "runs": 439,
  "branches": [
   {
    "id": "platforms",
@@ -8672,6 +8672,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 436
+    },
+    {
+     "t": "Kids Tv Bangla (3.69M subscribers, about 2.1B views) gets about 52M to 59M views a month in 2026, yet vidIQ models only about 2,500 USD of ad income from that, roughly 0.05 USD per 1,000 views, so a Bengali dub would add reach and fans but very little money.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 439
+    },
+    {
+     "t": "Kids Tv Bangla's three most viewed videos are remix versions of traditional Bengali rhymes (15M to 18M each), and an August 2026 traditional rhyme upload reached 9.3M views in under three months, 68 times its usual video, so in South Asian markets a remixed folk rhyme beats new material.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 439
+    },
+    {
+     "t": "Bangladesh has about 45 million children and too little local children's content, so many kids watch Indian Hindi cartoons on YouTube and some speak Hindi better than Bengali, which makes a Hindi dub reach Bangladeshi children too (article undated, early to mid 2020s).",
+     "src": "thedailystar.net, about 2022",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 439
+    },
+    {
+     "t": "HypeAuditor's November 2026 Thailand ranking puts localised editions of global family brands in its top ten family channels (Vlad and Niki THA 14.2M subscribers, Brianna's Secret Club TH 8.2M) next to local Thai family channels of 6M to 13.5M, so a separately localised Thai channel of a global brand can reach the top there.",
+     "src": "hypeauditor.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 439
+    },
+    {
+     "t": "Thai preschool song channels stay small next to Thai family vlogs: Little Treehouse Thailand, a kindergarten songs channel, has about 223K subscribers and 83M views, growing about 4% a month, while the biggest Thai kids song channels (kids song 7.7M, KidsMeSong 7.4M) are a fraction of the top family channels.",
+     "src": "vidiq.com and hypeauditor.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 439
     }
    ]
   },
@@ -12535,11 +12570,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 359 (YouTube main channels (our Metricool data unchanged..."
-  },
-  {
-   "date": "2026-11-16 07:40",
-   "note": "Run 360 (TRENDS (5 stages of, locked camera outfit switch, timestamped day, Blue Danube pyjama switch)): Later's 13 Nov roundup adds three clean formats: '5 stages of being...' (five clips from hyped to worn out), a locked camera outfit switch on a simple move, and timestamped appointment or day clips; Inmagic's 16 Nov list adds a slow autumn to Christmas room makeover, and B&T's November list has a 'my partner is always dancing' kitchen format and the lip sync handoff with a surprise reveal. These go into the trend bank as kid versions with our own music. Total 1486."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 360 (TRENDS (5 stages of, locked camera outfit switch, t..."
   },
   {
    "date": "2026-11-16 07:41",
@@ -12852,6 +12883,10 @@
   {
    "date": "2026-11-16 10:38",
    "note": "Run 438 (TRENDS (face dancing; weekly Reels and TikTok lists rechecked, no new kid safe formats)): Later's 13 Nov Reels roundup and the November TikTok lists hold no new family formats beyond our trend bank; the one fresh kid safe find is face dancing (exaggerated faces and lip sync on each beat), still spreading across TikTok, Reels and X since August 2026, which went into the trend bank as a funny face beat game. Total 1777."
+  },
+  {
+   "date": "2026-11-16 10:39",
+   "note": "Run 439 (global markets (Bengali and Thai kids audiences)): Kids Tv Bangla draws about 55M views a month but vidIQ models only about 2,500 USD of ads (about 0.05 USD per 1,000), with remixes of traditional Bengali rhymes as its top videos; in Thailand, localised editions of global family brands (Vlad and Niki THA 14.2M, Brianna TH 8.2M) sit in the top ten family channels next to local ones, so a dubbed Bro Bros channel can compete there. Total 1782."
   }
  ],
  "history": [
@@ -13586,6 +13621,10 @@
   {
    "date": "2026-11-16 10:38",
    "total": 1777
+  },
+  {
+   "date": "2026-11-16 10:39",
+   "total": 1782
   }
  ],
  "next_week_ideas": [
@@ -13600,10 +13639,6 @@
   {
    "title": "Disco Fruit Party! (Baby Sensory Dance)",
    "why": "Hey Bear Sensory's dancing fruit and veggie parties average about 35M views per video (Smoothie Mix 383M) with no words needed; a 10 to 20 minute Bro Bros version with smiling dancing fruit on a dark, high contrast background and a funky cumbia beat travels to every country."
-  },
-  {
-   "title": "Who Took My Snack? (Cheeky Squirrel Parade)",
-   "why": "Our two best Reels of 9 to 15 Nov were both 'someone took the food, then we share' stories (cookie mystery 91 views, ant parade 113, lowest skip rate of the week); a marching chant where a cheeky squirrel line carries off the Bros' winter nuts repeats the winning hook with a new animal."
   },
   {
    "title": "Defrost! (Frozen to Dancing Christmas Lights)",
@@ -13644,6 +13679,10 @@
   {
    "title": "Open the Door! (Advent Countdown Song)",
    "why": "Advent calendar videos peak in November on YouTube (about 280M views in Nov 2025, Google 2026 report); one song with a number in every verse and a daily door reveal can run as 24 Shorts from 1 Dec, counting practice for kids worldwide."
+  },
+  {
+   "title": "Jump, Jump, Happy New Year!",
+   "why": "New Year countdown songs peak in the last week of December worldwide; a jump on each number from 10 to 1 then a big cheer is a standing, in place party move any family can copy at midnight or at a daytime kids countdown."
   }
  ],
  "trend_bank": [
