@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:49:15+05:30",
- "runs": 472,
+ "updated": "2026-11-16T11:50:15+05:30",
+ "runs": 473,
  "branches": [
   {
    "id": "platforms",
@@ -5802,6 +5802,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 461
+    },
+    {
+     "t": "An Oxford systematic review (Hamilton and others, 2024) of 60 studies in 23 countries where whole classes used songs, chants or rhymes found no harm to language learning but unclear evidence on how much songs help compared with stories; vocabulary was the most measured gain and only 3 studies were rated strong, so our titles should promise fun and sing along rather than guaranteed learning.",
+     "src": "education.ox.ac.uk, Nov 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 473
+    },
+    {
+     "t": "Because the language gains from songs are uncertain, the parts most likely to help are the ones studies measured most: clear repeated key words (vocabulary), slow enough diction and actions tied to each word, so every Bro Bros learning song should repeat its 3 to 5 target words many times with a matching move.",
+     "src": "education.ox.ac.uk, Nov 2025 (our reading)",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 473
     }
    ]
   },
@@ -9078,6 +9092,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 465
+    },
+    {
+     "t": "Kenyan kids brand Super Sema released a nursery rhyme album remade with Afrobeat rhythms, including a Swahili hello song, a Swahili Twinkle Twinkle and an African safari 'Bear Hunt', presenting them as heritage and bilingual learning, a model for Afrobeat flavoured Bro Bros versions aimed at Nigeria, Kenya and Ghana.",
+     "src": "supersema.com, Jul 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 473
     }
    ]
   },
@@ -13101,12 +13122,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:53",
-   "note": "Earlier runs summarised: all rounds through Run 393 (algorithm experiments (TRENDS skipped, last round found little new; compilations around 10 minutes, distinct visuals for alternate versions, 16 automated streams)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:54",
-   "note": "Run 394 (rules (Australia's under 16 ban one year on: YouTube barely affected, logged out viewing allowed)): Australia's under 16 ban (from 10 Dec 2025) blocks kids' own YouTube accounts but still allows logged out viewing, and Qustodio data show 13 to 15 year olds' YouTube use fell only 1 point (to about 37%) against nearly 14 points for Snapchat; for a preschool channel this means Australian families keep watching through parent accounts and TVs, though without personal recommendations for kids on their own. Total 1637."
+   "note": "Earlier runs summarised: all rounds through Run 394 (rules (Australia's under 16 ban one year on covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:54",
@@ -13419,6 +13436,10 @@
   {
    "date": "2026-11-16 11:49",
    "note": "Run 472 (TRENDS (Know Your Meme weekly roundups, school dance virals; most already covered)): Know Your Meme's 6 Nov 2026 roundup adds 'W Chews / L Nibbles' (new slang for good food and bad food, shown in silly AI videos of a toddler character eating); the rest of that roundup (thirst trap poses, angry political memes, rude wordplay) is not kid safe. Added a food positive 'Big Chew or Tiny Nibble' format to the trend bank. Total 1858."
+  },
+  {
+   "date": "2026-11-16 11:50",
+   "note": "Run 473 (music craft (do songs really teach language; Afrobeat nursery rhymes)): An Oxford systematic review of 60 classroom studies in 23 countries found songs do no harm to language learning but the evidence on how much they help is unclear (only 3 strong studies), so we should not overclaim learning in titles; Kenya's Super Sema remade nursery rhymes with Afrobeat rhythms and Swahili versions. Total 1861."
   }
  ],
  "history": [
@@ -14289,6 +14310,10 @@
   {
    "date": "2026-11-16 11:49",
    "total": 1858
+  },
+  {
+   "date": "2026-11-16 11:50",
+   "total": 1861
   }
  ],
  "next_week_ideas": [
