@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:06:12+05:30",
- "runs": 807,
+ "updated": "2026-11-17T01:07:03+05:30",
+ "runs": 808,
  "branches": [
   {
    "id": "platforms",
@@ -11276,13 +11276,6 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 800
-    },
-    {
-     "t": "Mexico's Christmas posadas (16 to 24 Dec) end each night with children breaking a star shaped piñata while singing, so an original Bro Bros piñata song (take turns, swing three times, share the sweets) released in early December in English with a Spanish version fits both the posada season and Mexico's top performing kids format.",
-     "src": "vidiq.com and our seasonal calendar, Nov 2026",
-     "conf": "medium",
-     "date": "2026-11-17",
-     "run": 800
     }
    ]
   },
@@ -16708,6 +16701,13 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 805
+    },
+    {
+     "t": "LEGO's 2026 holiday film (5 Nov 2026) follows one small brick passed hand to hand through a workshop until it becomes a gift that the makers find 'hard to let go', then everyone builds it together with the family; the pass along chain plus a sharing ending is this season's big brand story, which backs our 'Pass the Present!' idea: one wrapped box moves friend to friend, each adds a move, and the last verse opens and shares it.",
+     "src": "lego.com newsroom, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 808
     }
    ]
   }
@@ -16734,16 +16734,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:49",
-   "note": "Earlier runs summarised: all rounds through Run 728 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:50",
-   "note": "Run 729 (competitor deep dive (Hey Bear Sensory and Bounce Patrol recheck)): Bounce Patrol's latest uploads were already in the tree; new for Hey Bear are steeply falling views per upload (61M, then 17M, then 5.4M per batch of 10) alongside a steady 51M monthly views from old long dancing fruit parties. Total 2301."
-  },
-  {
-   "date": "2026-11-16 22:50",
-   "note": "Run 730 (algorithm experiments (dubbing retention and Shorts length studies; trends skipped after an empty trends round)): AIR's auto dub against pro dub retention data, YouTube's auto dubbing figures and the Shorts length studies (Adobe, Quso, Bytecap, Overseer) were all already in the tree; no new leaves. Total 2301."
+   "note": "Earlier runs summarised: all rounds through Run 730 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:51",
@@ -17023,7 +17015,7 @@
   },
   {
    "date": "2026-11-17 00:57",
-   "note": "Run 800 (global markets (Mexico Spanish rhyme channels, Pakistan Urdu poems)): El Reino Infantil and Plim Plim facts were already in the tree; new: a Mexican rhyme channel's 42M view piñata party medley is ten times its next hit, giving a 'Swing Swing Piñata' idea timed for the 16 to 24 Dec posadas. Total 2372."
+   "note": "Run 800 (global markets (Mexico Spanish rhyme channels, Pakistan Urdu poems)): El Reino Infantil and Plim Plim facts were already in the tree; new: a Mexican rhyme channel's 42M view piñata party medley is ten times its next hit, which backs the existing piñata song idea for the posada season. Total 2372."
   },
   {
    "date": "2026-11-17 01:03",
@@ -17052,6 +17044,14 @@
   {
    "date": "2026-11-17 01:06",
    "note": "Run 807 (Shorts and Reels (kids accounts on Instagram, Facebook Reels for parents)): Instagram growth studies, Facebook Reels retention data and Creator Fast Track were already in the tree; no new leaves. Total 2377."
+  },
+  {
+   "date": "2026-11-17 01:06",
+   "note": "Note: removed a duplicate piñata idea and a duplicate posada leaf added in Run 800; the existing 'Whack the Piñata!' idea already covers them."
+  },
+  {
+   "date": "2026-11-17 01:07",
+   "note": "Run 808 (TRENDS (holiday brand films, Christmas brain break songs)): Christmas brain break playlists (freeze, hokey pokey, shake) and Danny Go holiday specials were already in the tree; new: LEGO's 5 Nov holiday film uses a hand to hand pass along chain ending in sharing, supporting the 'Pass the Present!' idea. Also removed a duplicate piñata idea and posada leaf from Run 800. Total 2377."
   }
  ],
  "history": [
@@ -18218,13 +18218,13 @@
   {
    "date": "2026-11-17 01:06",
    "total": 2377
+  },
+  {
+   "date": "2026-11-17 01:07",
+   "total": 2377
   }
  ],
  "next_week_ideas": [
-  {
-   "title": "Swing Swing Piñata",
-   "why": "Piñata party medleys are a top Spanish kids format in Mexico and posadas (16 to 24 Dec) end with children breaking a star piñata; an original take turns, count to three, share the sweets song in English plus Spanish is seasonal, safe and global."
-  },
   {
    "title": "Little Whale Finds Her Song",
    "why": "December family films lean on ocean and forest nature stories; an original lullaby pace song where a small whale tries a hum, a splash and a big echo, and the brothers help her sing, is character free, global and calm for bedtime playlists."
