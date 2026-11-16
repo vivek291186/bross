@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:42:32+05:30",
- "runs": 441,
+ "updated": "2026-11-16T10:43:22+05:30",
+ "runs": 442,
  "branches": [
   {
    "id": "platforms",
@@ -9939,6 +9939,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 427
+    },
+    {
+     "t": "YouTube says AI generated videos on the YouTube Kids app are already limited to a smaller set of vetted channels, AI use must be disclosed, and spammy mass produced videos are penalised, so a new AI assisted channel like ours should expect most growth on main YouTube and earn trust before the Kids app picks it up.",
+     "src": "androidauthority.com (Bloomberg report), 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 442
+    },
+    {
+     "t": "Google's AI Futures Fund invested 1M USD in Animaj (owner of Pocoyo and Maya the Bee, about 22B views a year) in March 2026 with early access to Veo, Gemini and Imagen, seven weeks after YouTube's CEO named fighting AI slop the 2026 priority, so YouTube is against careless mass output, not against AI tools used by real studios.",
+     "src": "xataka.com, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 442
+    },
+    {
+     "t": "In January 2026 YouTube removed 16 AI slop channels with about 35M subscribers and 4.7B views (around 10M USD a year), and a study of over 15,000 channels found 278 pure slop channels with about 63B views, showing enforcement hits even very large channels.",
+     "src": "xataka.com, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 442
+    },
+    {
+     "t": "One flagged kids channel posted more than 10,000 videos in its first seven months (about 50 a day), some 'educational' ones with plain errors such as showing consonants while claiming to teach vowels, so the red flags are extreme volume and wrong learning claims; our 14 checked songs a week, with correct facts, stay clear of that pattern.",
+     "src": "xataka.com, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 442
     }
    ]
   },
@@ -12605,11 +12633,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 362 (Shorts and Reels (what new channels' Shorts normall..."
-  },
-  {
-   "date": "2026-11-16 07:44",
-   "note": "Run 363 (TRENDS (What are you thinking about? Me:, winter basket build, Go Go Go, numbered animated series)): A French roundup of November TikTok formats adds clean Christmas formats: the 'What are you thinking about? Me:' question card followed by a fast festive montage, a days till Christmas photo countdown and a winter basket built item by item; NewEngen's 13 Nov list adds a frantic 'Go, go, go' lip sync and numbered, second person animated story series. All fit kid versions with our own songs. Total 1504."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 363 (TRENDS (What are you thinking about? Me:, winter ba..."
   },
   {
    "date": "2026-11-16 07:45",
@@ -12922,6 +12946,10 @@
   {
    "date": "2026-11-16 10:42",
    "note": "Run 441 (TRENDS (rhyme for as long as we can game, toddler name call trick; quiet week, December lists not out)): No new weekly lists since 13 Nov; two family formats not yet in the tree: last December's 'rhyme for as long as we can' sway game, which suits a kids rhyming chain song, and the 'Where is Jessica?' trick parents use to stop tantrums by calling a made up name, which shows toddlers snap to a sudden called name. Total 1787."
+  },
+  {
+   "date": "2026-11-16 10:43",
+   "note": "Run 442 (rules, safety and monetisation (AI kids content: vetted channels on YouTube Kids, Google's Animaj bet, slop purge numbers)): YouTube answered the 200 expert letter by saying AI made videos on the YouTube Kids app are already limited to a smaller set of vetted channels with AI disclosure required, while Google's AI Futures Fund put 1M USD into Animaj (Pocoyo) in March 2026; the January 2026 purge removed 16 channels with 35M subscribers and 4.7B views, and one removed style channel posted about 50 videos a day, so human craft and a moderate 14 a week pace are our protection. Total 1791."
   }
  ],
  "history": [
@@ -13668,6 +13696,10 @@
   {
    "date": "2026-11-16 10:42",
    "total": 1787
+  },
+  {
+   "date": "2026-11-16 10:43",
+   "total": 1791
   }
  ],
  "next_week_ideas": [
