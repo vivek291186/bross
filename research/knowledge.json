@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:36:21+05:30",
- "runs": 812,
+ "updated": "2026-11-17T01:37:54+05:30",
+ "runs": 813,
  "branches": [
   {
    "id": "platforms",
@@ -5683,6 +5683,20 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 789
+    },
+    {
+     "t": "Bebefinn's Korean language channel peaked at about 467M views in November 2025 and slid to about 69M in October 2026 (around 85% lower) while still uploading most days, so even a mega brand's single language channel can fade fast once its early hits age; growth has to come from fresh hit songs and new language tracks, not volume alone.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 813
+    },
+    {
+     "t": "Hey Bear Sensory's best recent upload is a 'Party Time Dance Off!' (about 3.9M views in two months, ahead of its Halloween party at 2.7M), so even an older dance brand gets its strongest new response from a simple dance battle between friendly characters, a format the Bros can copy with their own song.",
+     "src": "nexlev.io, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 813
     }
    ]
   },
@@ -16784,11 +16798,7 @@
  "log": [
   {
    "date": "2026-11-16 22:53",
-   "note": "Earlier runs summarised: all rounds through Run 734 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 22:53",
-   "note": "Run 735 (Shorts and Reels (Reels benchmark pages)): Metricool's 375,462 account short video benchmark and other Reels statistics pages were already in the tree (a duplicate leaf added this round was removed); no new leaves. Total 2306."
+   "note": "Earlier runs summarised: all rounds through Run 735 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:54",
@@ -17101,6 +17111,10 @@
   {
    "date": "2026-11-17 01:36",
    "note": "Run 812 (global markets (MENA supervised accounts, Turkiye, Pakistan Urdu)): New: in YouTube's MENA supervised accounts dance sits in the youngest 'Explore' level and autoplay is off; Kantar sees parental controls up 60% and kids education searches doubled in the region; 77% of Turkish parents call YouTube a key free learning resource; Pakistan's Urdu song series Pakkay Dost shows curriculum topic songs made for parent co viewing. Total 2384."
+  },
+  {
+   "date": "2026-11-17 01:37",
+   "note": "Run 813 (competitor deep dive (Bebefinn Korean, Hey Bear, Kids Diana)): Most competitor facts were already in the tree. New: Bebefinn's Korean channel fell from about 467M views a month (Nov 2025) to about 69M (Oct 2026), and Hey Bear's newest hit is a 'Party Time Dance Off'. Also merged exact duplicate leaves (same sentence twice). Total 2386."
   }
  ],
  "history": [
@@ -18287,6 +18301,10 @@
   {
    "date": "2026-11-17 01:36",
    "total": 2384
+  },
+  {
+   "date": "2026-11-17 01:37",
+   "total": 2386
   }
  ],
  "next_week_ideas": [
