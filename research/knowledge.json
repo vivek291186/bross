@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:38:22+05:30",
- "runs": 758,
+ "updated": "2026-11-16T23:39:30+05:30",
+ "runs": 759,
  "branches": [
   {
    "id": "platforms",
@@ -1728,6 +1728,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 734
+    },
+    {
+     "t": "Meta removed about 756,000 accounts it judged to belong to under 16s in Australia between 1 Dec 2025 and 30 Jun 2026 (462,000 on Instagram), so in ban countries Bro Bros Reels reach families only through parents' own feeds, and captions should speak to the parent ('Save this for bedtime').",
+     "src": "PPC Land, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 759
     }
    ]
   },
@@ -12606,6 +12613,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 755
+    },
+    {
+     "t": "California's AB 1709 (signed 10 Sep 2026, age checks from 1 Jan 2027) bars social platforms from giving under 16s personalised 'addictive' feeds or autoplay, with fines up to $50,000 per child, but still allows search results, content the user explicitly asks for and the next item in a chronological series from the same source, so playlists, searchable titles and numbered series become the ways young Californians reach our songs.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 759
+    },
+    {
+     "t": "Meta said on 9 Nov 2026 that its AI now moves suspected teens who listed adult birthdays into Teen Accounts worldwide, and an Aug 2026 US court order makes it build and run under 13 detection on all accounts within two years; with EU findings that 10 to 12% of under 13s use Instagram or Facebook, our Instagram Reels must target parents, never children holding their own accounts.",
+     "src": "PPC Land, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 759
     }
    ]
   },
@@ -16339,10 +16360,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 21:42",
-   "note": "Run 680 (global markets (MENA family demand; dubbing and Gen Alpha rechecks)): Dubbing, Vania Mania, Precisify and Gen Alpha searches returned only findings already in the tree. New from Parrot Analytics: in 16 MENA markets family titles over index (28.6% of demand on 20.6% of supply) while kids titles under index, and the kids audience there has a large adult co viewer share, so whole family songs travel best in the Arab world. Total 2246."
-  },
-  {
    "date": "2026-11-16 21:48",
    "note": "Run 681 (competitor deep dive (ChuChu TV decline, Bebefinn Portuguese)): ChuChu TV's flagship fell from about 390 to 460M monthly views in 2025 to 270 to 330M in 2026 and its 7 Nov Diwali story Short drew only about 59K views in five days, while Bebefinn Portuguese (9.08M subscribers) gained about 150K subscribers and about 296M views in 28 days with roughly 20 uploads a month, its newest a 'never open the door to strangers' safety song. Super Simple Songs data was already in the tree. Total 2250."
   },
@@ -16653,6 +16670,10 @@
   {
    "date": "2026-11-16 23:38",
    "note": "Run 758 (YouTube algorithm (Sep to Nov 2026 change logs, upload cadence FAQ)): TeamYouTube's Sep 2026 FAQ says neither upload breaks nor the gap between uploads change view counts (only a slow return of viewer habits after a pause); every other Aug to Oct 2026 change (Shorts originality, Subs tab, custom feeds, AI music labels, spam cleanup lock, YPP thresholds) was already in the tree. Total 2320."
+  },
+  {
+   "date": "2026-11-16 23:39",
+   "note": "Run 759 (Shorts and Reels (Reels reach data, teen and under 16 feed rules)): Reels data checks (Emplifi speech and loop figures, Reels topic controls) were already in the tree; new: California AB 1709 bans addictive feeds and autoplay for under 16s from 2027, and Meta (9 Nov 2026) widened AI age checks that move suspected teens into Teen Accounts and must build under 13 detection under a court order. Total 2323."
   }
  ],
  "history": [
@@ -17623,6 +17644,10 @@
   {
    "date": "2026-11-16 23:38",
    "total": 2320
+  },
+  {
+   "date": "2026-11-16 23:39",
+   "total": 2323
   }
  ],
  "next_week_ideas": [
