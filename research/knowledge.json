@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:37:45+05:30",
- "runs": 327,
+ "updated": "2026-11-16T05:39:30+05:30",
+ "runs": 328,
  "branches": [
   {
    "id": "platforms",
@@ -9617,6 +9617,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 324
+    },
+    {
+     "t": "The 'No, No, No... Yes!' Reel (week of 13 Nov 2026) shows three or four one second clips of dull things each labelled 'no', then one fun clip labelled 'yes' held a beat longer, all under 12 seconds; the Bros can say no to bath, broccoli and bedtime, then yes to the dance chorus.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 328
+    },
+    {
+     "t": "The 'War Is Over' Reel (6 to 10 seconds) puts 'war is over.' on screen and then names one tiny win, such as finally being allowed to decorate for Christmas, with the relief clip on the chorus; a kid safe version is 'Homework done!' or 'Shoes tied!' followed by the Bros' happy dance to our own song.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 328
+    },
+    {
+     "t": "'Lately on my SD card' Reels open on an SD card graphic and race through 8 to 15 clips of under one second each, ending on the favourite shot, a cheap way to recap a week of Bro Bros songs in one fast Reel.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 328
+    },
+    {
+     "t": "'Add to Cart' Reels (8 to 15 seconds) show items handed in from off camera one at a time, each getting a nod, a shrug or a quick reaction, ending on the full pile; the Bros can pack Santa's sleigh or a picnic basket on each beat of a counting song.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 328
+    },
+    {
+     "t": "Most mid November adult audio trends ('Paid Me No Mind' overthinking lip syncs, 'My Moon My Man' couple soft launches, Housewife POVs) do not fit a kids channel; the useful parts are only the on screen text plus repeat structure, rebuilt with our own songs.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 328
     }
    ]
   }
@@ -9645,10 +9680,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 01:46",
-   "note": "Run 249 (competitor deep dive (Moonbug's Meekah launch and music label, Pinkfong's staged holiday soundtrack)): Moonbug launched Meekah on its own YouTube channel on 7 Nov 2026 with a music video teaser five days earlier, 15 minute episodes that alternate movement and pauses, and a new episode every other Saturday; it also opened Big Feelings Music to outside kids music creators. Pinkfong is releasing its Christmas film soundtrack in two waves (10 and 27 Nov) before the 5 Dec film. Total 1097."
   },
   {
    "date": "2026-11-16 01:47",
@@ -9961,16 +9992,16 @@
   {
    "date": "2026-11-16 05:37",
    "note": "Run 327 (Shorts and Reels (Instagram's November tests, Edits beat sync, YouTube Music AI song labels)): Instagram is testing opening the app straight to Reels, linking up to eight Reel clips to one long video and a wider Series rollout, while Edits adds beat synced effects and a desktop app with Trial Reels. YouTube Music began labelling Fully or Partly Gen AI songs on 14 Oct using partner declarations plus its own detection, which matters for our Suno songs once we distribute music. Total 1364."
+  },
+  {
+   "date": "2026-11-16 05:39",
+   "note": "Run 328 (TRENDS (No no no yes, tiny win reveal, fast camera roll dump, hand it in one by one)): NewEngen's 13 Nov Instagram list brings four new kid adaptable formats: 'No, No, No... Yes!' (three boring one second clips, then the fun one held longer), 'War Is Over' tiny victory reveals, 'Lately on my SD card' dumps of sub second clips, and 'Add to Cart' items handed in one at a time. Two joined the trend bank. Total 1369."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:47",
-   "total": 219
   },
   {
    "date": "2026-11-15 16:48",
@@ -11163,6 +11194,10 @@
   {
    "date": "2026-11-16 05:37",
    "total": 1364
+  },
+  {
+   "date": "2026-11-16 05:39",
+   "total": 1369
   }
  ],
  "next_week_ideas": [
@@ -11225,6 +11260,18 @@
  ],
  "trend_bank": [
   {
+   "name": "Tiny win reveal",
+   "where": "Instagram Reels ('War Is Over', NewEngen, Nov 2026)",
+   "status": "rising",
+   "use": "On screen text 'It's over!' then one tiny kid win: 'Shoes tied all by myself!' or 'Last pea eaten!'; on the chorus of our own song Big Bro lifts Little Bro's hand like a champion and they do a victory dance. 6 to 10 seconds. Meshy prompt: standing, raise one fist high, then march in place with knees up and pump both arms."
+  },
+  {
+   "name": "No, no, no... YES!",
+   "where": "Instagram Reels (NewEngen, week of 13 Nov 2026)",
+   "status": "rising",
+   "use": "Three one second clips: Little Bro shakes his head 'no' at bath time, 'no' at broccoli, 'no' at bedtime, each with a big 'NO' sticker; then the first beat of our own dance chorus hits, a giant 'YES!' appears and both Bros dance, held two beats longer. Under 12 seconds, loops back to the first 'no'. Meshy prompt: standing, shake head side to side with arms crossed, then throw both arms up and bounce in place."
+  },
+  {
    "name": "Feed the animals toss",
    "where": "Roblox ('Throw Food For Animals' +738% in the week to 1 Nov 2026)",
    "status": "rising",
@@ -11283,18 +11330,6 @@
    "where": "TikTok and Shorts (Christmas edition spread mid Dec 2025, likely back)",
    "status": "seasonal",
    "use": "Vertical Short on our own beat: a grid of festive pictures (bell, shell, star, car, tree, bee) lights up one per beat and the Bros say each word aloud, then the viewer's turn with the same grid; round two is faster, round three faster still, ending with the Bros laughing when Little Bro slips. No copyrighted song, our own beat."
-  },
-  {
-   "name": "Silent dance, then the song",
-   "where": "TikTok (dance in silence then replay with a random sound, Nov 2025)",
-   "status": "seasonal",
-   "use": "Part 1: the Bros dance our new signature move in total silence with only footstep sounds, caption 'dancing to nothing'. Part 2: the exact same clip replays with our new song and every move lands on the beat. 12 to 16 seconds, loops well."
-  },
-  {
-   "name": "Dancing plush puppet",
-   "where": "TikTok (dancing plush animal and blanket puppet dances, Nov 2025, likely back with December toy season)",
-   "status": "seasonal",
-   "use": "Little Bro's own original teddy comes to life and does a stiff, floppy toy dance to our chorus; Big Bro copies it with wobbly arms, then throws a blanket over himself and dances as a silly floppy puppet. Meshy prompt: standing in place, arms hanging loose, bounce gently up and down while swinging arms left and right like a floppy toy."
   },
   {
    "name": "Hatch the egg",
