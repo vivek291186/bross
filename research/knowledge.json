@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:44:44+05:30",
- "runs": 363,
+ "updated": "2026-11-16T07:45:49+05:30",
+ "runs": 364,
  "branches": [
   {
    "id": "platforms",
@@ -4731,6 +4731,41 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 353
+    },
+    {
+     "t": "Since 3 Sep 2026 Suno says Remixes stay limited to personal, non commercial use on every plan, even when downloaded, so a Christmas or Spanish version of a Bro Bros hit must be generated as a new song (or a cover from our own lyrics) rather than made with the Remix feature if it will be published.",
+     "src": "Music Business Worldwide, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 364
+    },
+    {
+     "t": "Under the same rules a song in a paid library cannot be released, sold or licensed until one of the plan's counted downloads has been used on it, so every song we publish must be downloaded through the plan and logged, not exported by screen capture or another route.",
+     "src": "Music Business Worldwide, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 364
+    },
+    {
+     "t": "Suno's caps are 20 downloads a month on Pro, 60 on Premier and 7 lifetime on Free (personal use only), with extra downloads for sale; 14 songs a week is about 60 a month, so Premier is exactly at the limit, but Suno says downloads from Suno Studio are unlimited, which makes Studio the safer route for our weekly batch plus fixes.",
+     "src": "Music Business Worldwide, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 364
+    },
+    {
+     "t": "Suno announced audio watermarking and fingerprinting so its songs can be identified when shared on other platforms, plus copyright scanning with Audible Magic and Musixmatch's Sentinel, so streaming services and YouTube may detect our songs as Suno made; honest AI disclosure in distribution forms is the safe default.",
+     "src": "Digital Music News, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 364
+    },
+    {
+     "t": "Suno's revised community rules explicitly ban uploading copyrighted audio and using a real person's voice or likeness without permission, with suspension or bans for breaches, so never feed a trending song or a famous singer's style reference into Suno, only our own lyrics and generic genre words.",
+     "src": "Digital Music News, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 364
     }
    ]
   },
@@ -10616,7 +10651,7 @@
   "Thumbnails: one or two happy faces cropped big (both Bros, or a Bro with an animal friend; several face layouts beat single faces) (about 40% of the frame height), one clear action, one recognisable object, high contrast with a warm accent on a plain bright background (red and white or blue and orange), max 3 outlined words kept out of the bottom right corner; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Weekly long form: one 25 to 45 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday, because videos over 40 minutes break out far more often and kids compilations lift RPM; add a timestamp chapter per song named in the plain words parents search ('Brush Teeth Song', 'Dinosaur Stomp'); make the 25 Dec and 1 Jan Fridays holiday mega mixes; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
   "Languages: add re-sung audio tracks (not low quality AI voice swaps) to the best songs in Spanish, Portuguese, Indonesian and Arabic first, then Hindi; judge each dubbed language after about 3 months by its share of returning viewers (Audience by watch behaviour, filtered by audio track: above 40% is working, below 20% after 4 months means fix or drop); translate titles and descriptions of the top songs into 20 languages to test demand; keep one channel with multi audio rather than new language channels; make one bilingual English Spanish song a week (switch language each chorus), the lane where 123 Andres nearly doubled its views this autumn.",
-  "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), vary Suno style prompts, instruments and tempo song to song so our audio does not cluster, build compilations from distinct full songs (never loops), run YouTube's copyright check on every track, tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan.",
+  "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), vary Suno style prompts, instruments and tempo song to song so our audio does not cluster, build compilations from distinct full songs (never loops), run YouTube's copyright check on every track, tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan; publish only songs generated fresh on a paid Suno plan and downloaded through the plan (Remix outputs stay personal use on every plan since Sep 2026).",
   "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) or movement games (freeze dance, going on a hunt, floor is lava, the top five hits of The Kiboomers) with a funny chantable nonsense word kids can shout, and make a part 2 of any game that wins; on Instagram post fewer, better Reels (the best 1 or 2 songs a day), captions as one keyword sentence plus a question to parents and at most 2 hashtags; group Shorts of one song family into a YouTube Shorts series and test two hooks per song with Trial Reels after 1,000 followers.",
   "Every week, build 2 to 3 Shorts/Reels on a current trend format from the trend bank, adapted kid-safe with our own original song (never copyrighted trending audio).",
   "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
@@ -10625,10 +10660,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 03:39",
-   "note": "Run 285 (competitor deep dive (Pinkfong's Baby Shark Boy and sing along musical, Super Simple at 20)): Pinkfong is ageing its brand up with Baby Shark Boy's K-pop style debut single 'WAVE' (starts with the Baby Shark tune, grows into electropop with trap beats and an easy point dance) and opens an audience participation musical on 2 Dec where kids' voices and moves become part of the show. Super Simple turned 20 in Aug 2026 with over 70M subscribers and 90B views across Skyship's channels, still rooted in teachers writing simple songs for English learners. Total 1229."
   },
   {
    "date": "2026-11-16 03:41",
@@ -10941,13 +10972,13 @@
   {
    "date": "2026-11-16 07:44",
    "note": "Run 363 (TRENDS (What are you thinking about? Me:, winter basket build, Go Go Go, numbered animated series)): A French roundup of November TikTok formats adds clean Christmas formats: the 'What are you thinking about? Me:' question card followed by a fast festive montage, a days till Christmas photo countdown and a winter basket built item by item; NewEngen's 13 Nov list adds a frantic 'Go, go, go' lip sync and numbered, second person animated story series. All fit kid versions with our own songs. Total 1504."
+  },
+  {
+   "date": "2026-11-16 07:45",
+   "note": "Run 364 (music craft and tools (Suno's September download and remix rules)): Music craft research is saturated, so this round checked Suno's rules that took effect on 3 Sep 2026: Remix outputs stay personal use on every plan, a song can only be released after a counted download is used on it, Premier gets 60 downloads a month (about our 14 songs a week) but Suno Studio downloads are unlimited, and Suno is adding watermarking so its songs can be identified elsewhere. The playbook's originality rule now says to publish only fresh paid plan generations, never Remixes. Total 1509."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:35",
-   "total": 360
-  },
   {
    "date": "2026-11-15 17:37",
    "total": 367
@@ -12143,6 +12174,10 @@
   {
    "date": "2026-11-16 07:44",
    "total": 1504
+  },
+  {
+   "date": "2026-11-16 07:45",
+   "total": 1509
   }
  ],
  "next_week_ideas": [
