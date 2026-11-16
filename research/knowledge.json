@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:01:13+05:30",
- "runs": 347,
+ "updated": "2026-11-16T06:02:12+05:30",
+ "runs": 348,
  "branches": [
   {
    "id": "platforms",
@@ -1203,6 +1203,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 346
+    },
+    {
+     "t": "Since Feb 2026 YouTube has tested two AI tools in the Shorts Remix menu: 'Add object' inserts items into up to 8 seconds of another creator's Short and 'Reimagine' turns one frame of it into a new AI video; it is limited to a small English speaking group outside the EU and UK, and every result links back to the original Short.",
+     "src": "PPC Land, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 348
+    },
+    {
+     "t": "YouTube plans Shorts made with a creator's own AI likeness, clearly labelled and with controls over how the likeness is used, which is aimed at human creators; for us the takeaway is that YouTube is building tools to protect a character's look, so registering the Bros' designs early is worth doing.",
+     "src": "TweakTown, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 348
     }
    ]
   },
@@ -8182,6 +8196,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 347
+    },
+    {
+     "t": "Creators can block AI remixing of their Shorts in YouTube Studio under 'Shorts remixing', but that also turns off normal remixes (Cut, Green Screen, Collab); since kids remixes of our dance Shorts can spread the Bros, we should keep remixing on and watch for misuse of our characters.",
+     "src": "PPC Land, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 348
     }
    ]
   },
@@ -10102,10 +10123,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 02:03",
-   "note": "Run 269 (algorithm experiments and data (upload timing for kids long form, slow growth tiers)): AIR's July 2026 study of 31,852 long videos found kids and teens videos are the most timing sensitive niche (+379% median views best day versus worst), with Friday best, Wednesday worst and the strongest hour 16:00 UTC (21:30 IST), mostly reflecting US viewers. Our 10 AM and 4 PM IST slots land at 04:30 and 10:30 UTC, early for the Americas. Metricool adds that 83% of interactions arrive in a video's first 10 days. Total 1164."
-  },
-  {
    "date": "2026-11-16 02:04",
    "note": "Run 270 (topics (what parents weigh and what little kids are thankful for)): Lingokids' 2026 report (US parents of 2 to 8 year olds) finds safety ranks first when parents pick content (87.7%), ahead of fun (67.3%) and learning (64.8%), and screen time guilt rose to 84.6% from 74%; Talker Research's survey of 2,000 parents of under 6s found young kids are mostly thankful for siblings, family, pets, toys and favourite foods, ready material for a thankful song. Total 1167."
   },
@@ -10416,6 +10433,10 @@
   {
    "date": "2026-11-16 06:01",
    "note": "Run 347 (rules and safety (Brazil's channel rules for under 16s, AI slop crackdown recap)): Since 17 Mar 2026 YouTube in Brazil requires every under 16 channel to be linked to a supervising guardian, rolled out machine learning age estimation there, and a draft decree would make platforms ask for a court order before monetising content made by minors. The inauthentic content line stays clear: mass produced, template clones are high risk, human directed AI assisted work is low risk. Total 1429."
+  },
+  {
+   "date": "2026-11-16 06:02",
+   "note": "Run 348 (Shorts (AI remix of other creators' Shorts, AI likeness Shorts)): YouTube has been testing 'Add object' and 'Reimagine' in the Shorts Remix menu since Feb 2026, letting a small English speaking group (not EU or UK) turn a frame of someone else's Short into a new AI video, with a link back to the original; opting out in Studio also removes normal remixes like Green Screen. YouTube also plans AI likeness Shorts with labels and creator controls. Total 1432."
   }
  ],
  "history": [
@@ -10426,10 +10447,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:04",
-   "total": 305
   },
   {
    "date": "2026-11-15 17:04",
@@ -11618,6 +11635,10 @@
   {
    "date": "2026-11-16 06:01",
    "total": 1429
+  },
+  {
+   "date": "2026-11-16 06:02",
+   "total": 1432
   }
  ],
  "next_week_ideas": [
