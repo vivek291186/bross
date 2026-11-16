@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:41:22+05:30",
- "runs": 330,
+ "updated": "2026-11-16T05:43:15+05:30",
+ "runs": 331,
  "branches": [
   {
    "id": "platforms",
@@ -9701,6 +9701,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 328
+    },
+    {
+     "t": "ILLIT's 'You're Under Arrest' is the fastest rising TikTok sound in Revid's 15 Nov 2026 sample, mostly in K-pop relay dance posts where dancers take turns with the chorus; its signature move is a finger gun gesture and the police costumes drew criticism, so for kids we borrow only the relay pass, never the gesture.",
+     "src": "Revid and Star News Korea, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 331
+    },
+    {
+     "t": "By mid November 2026 classic Christmas songs (Dean Martin's Let It Snow, Brenda Lee's Rockin' Around the Christmas Tree, Mariah Carey) are already among TikTok's most reused sounds across about 6.8K viral posts, a sign families start Christmas viewing now, so Bro Bros Christmas songs should publish from this week rather than December.",
+     "src": "Revid, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 331
+    },
+    {
+     "t": "Calm animal clips (tigers and other wildlife) set to sweeping cinematic music are rising on TikTok in mid November 2026, which supports a gentle 'animals in winter' Short with our own soft orchestral track.",
+     "src": "Revid, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 331
     }
    ]
   }
@@ -9729,10 +9750,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 01:49",
-   "note": "Run 252 (our own results (Metricool recheck, Reels 13 and 14 Nov)): YouTube data in Metricool still ends at 11 Nov uploads. New Reels: the 13 Nov bedtime 'shy fluffy monster' lullaby reached 65 views, the best of the 12 to 14 Nov story songs, while the 13 Nov sports day story song got 21 views against 110 for the 8 Nov sports day cartoon, so the same topic lost about 80% of views in five days, pointing to lower distribution of the account rather than a weak topic. Total 1110."
   },
   {
    "date": "2026-11-16 01:50",
@@ -10045,16 +10062,16 @@
   {
    "date": "2026-11-16 05:41",
    "note": "Run 330 (visual craft (shot length and overstimulation, calm versus fast pacing)): Parent guides now rate kids shows by shot length: CoComelon cuts every 1 to 3 seconds, Bluey holds 7 to 12, Daniel Tiger 8 to 15 and Sesame Street 10 to 30, and neon colours, rapid colour shifts and constant sound effects count as overstimulating. Moonbug's UCLA partner scores content on four child development principles. Our dance songs can keep energy through movement while holding shots 4 seconds or longer. Total 1376."
+  },
+  {
+   "date": "2026-11-16 05:43",
+   "note": "Run 331 (TRENDS (K-pop relay dance, holiday classics climbing on TikTok)): Revid's 15 Nov sample shows ILLIT's 'You're Under Arrest' rising with relay dance posts (about 2M views on four posts), but its point move is a finger gun and the police styling drew criticism, so we copy only the relay idea. Classic Christmas songs (Let It Snow, Rockin' Around the Christmas Tree, Mariah) are already among TikTok's most reused sounds in mid November, so our own Christmas songs should go live from this week. Total 1379."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:49",
-   "total": 231
   },
   {
    "date": "2026-11-15 16:54",
@@ -11247,6 +11264,10 @@
   {
    "date": "2026-11-16 05:41",
    "total": 1376
+  },
+  {
+   "date": "2026-11-16 05:43",
+   "total": 1379
   }
  ],
  "next_week_ideas": [
@@ -11308,6 +11329,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Pass the dance relay",
+   "where": "TikTok K-pop relay dance posts (Revid, 15 Nov 2026)",
+   "status": "rising",
+   "use": "Our own chorus plays and each Bro Bros friend dances one line, then points to the next friend who takes over, ending with everyone together on the last line; no finger gun or police gestures. Meshy prompt: standing, do two side steps with arm swings, then point one open hand to the side and freeze with a smile."
+  },
   {
    "name": "Tiny win reveal",
    "where": "Instagram Reels ('War Is Over', NewEngen, Nov 2026)",
@@ -11421,12 +11448,6 @@
    "where": "TikTok December 2025 (Christmas lights alphabet wall, no show reference needed)",
    "status": "seasonal",
    "use": "A wall of coloured holiday lights with letters painted under them; in our own alphabet or spelling song the lights blink one letter at a time to spell short winter words (S N O W, H A T) while the brothers point and sing each letter. Works as a learning Short and a long December song."
-  },
-  {
-   "name": "Frozen bubble science",
-   "where": "TikTok and parenting sites every winter (frozen bubbles revival, Feb 2026)",
-   "status": "seasonal",
-   "use": "Little Bro blows a bubble outside in the snow, the music slows and the bubble freezes into sparkly ice feathers in close up, then Big Bro taps it and it shatters into snowflakes for the chorus. Meshy steps: standing, blowing with hands cupped at the mouth, slow wide eyed lean forward, then a happy jump and arms raised for the snowflake burst."
   }
  ]
 }
