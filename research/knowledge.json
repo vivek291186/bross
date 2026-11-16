@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:10:31+05:30",
- "runs": 620,
+ "updated": "2026-11-16T17:11:02+05:30",
+ "runs": 621,
  "branches": [
   {
    "id": "platforms",
@@ -14790,6 +14790,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 618
+    },
+    {
+     "t": "The TikTok 'cookie sharing challenge' (spring 2025, one family's video over 49.5M views) sets three covered plates: the child finds two cookies, one parent one and the other parent none, and viewers wait to see if the child shares; it joins our two proven hooks, a cookie and sharing, so a Bro Bros version where Little Bro lifts the napkins, sees Big Bro has none and happily shares is a natural Short and song moment.",
+     "src": "Motherly, Apr 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 621
     }
    ]
   }
@@ -14817,11 +14824,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 541 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:05",
-   "note": "Run 542 (Shorts and Reels (Instagram update roundups for late October and November)): Planoly and other roundups had no Instagram change newer than items already in the tree (Trial Reels scheduling, repost limits, First Draft auto edit), so no new leaves. Total 2024."
+   "note": "Earlier runs summarised: all rounds through Run 542 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:06",
@@ -15134,13 +15137,13 @@
   {
    "date": "2026-11-16 17:10",
    "note": "Run 620 (competitor deep dive (Bebefinn Japanese)): One new detail on Bebefinn's Japanese channel: its single most viewed video is the English language 'Good Morning' song (21.4M), ahead of the Japanese version (20.2M), so English learning songs travel into the Japanese market on a localised channel. Total 2103."
+  },
+  {
+   "date": "2026-11-16 17:11",
+   "note": "Run 621 (TRENDS (family challenges: the cookie sharing test)): The TikTok cookie sharing challenge (three covered plates, the toddler gets two cookies and one parent none; does the child share?) gave one family 49.5M views and fits our proven cookie and sharing hooks; added to the trend bank. Total 2104."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:51",
-   "total": 1342
-  },
   {
    "date": "2026-11-16 04:52",
    "total": 1345
@@ -16336,6 +16339,10 @@
   {
    "date": "2026-11-16 17:10",
    "total": 2103
+  },
+  {
+   "date": "2026-11-16 17:11",
+   "total": 2104
   }
  ],
  "next_week_ideas": [
@@ -16397,6 +16404,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Cookie share test",
+   "where": "TikTok and Reels family videos (evergreen since 2025)",
+   "status": "evergreen",
+   "use": "Three covered plates in front of Little Bro, Big Bro and a friend; on the beat the napkins lift: Little Bro has two cookies, the friend one, Big Bro none. Little Bro looks, thinks, then hands one over, and all three cheer and dance. Ends on our sharing song chorus. Meshy steps, standing: lifting a napkin with one hand, a thinking pose with a finger on the chin, handing an item forward with both hands, a three person happy bounce."
+  },
   {
    "name": "Bark dance",
    "where": "Instagram Reels and Shorts, India (rising from Aug 2026 viral)",
@@ -16510,12 +16523,6 @@
    "where": "Gen Alpha game slang and dance clips, 2026",
    "status": "rising",
    "use": "A 10 second Short to our own chiptune style beat: the Bros 'lag' like game characters: standing in place, stutter step (tiny step forward, freeze, tiny step back, freeze), arms move in three jerky stops up to a wave, head tilts in small ticks, then on the drop they snap back to smooth side to side grooving; caption 'Loading... Bros lagging!'"
-  },
-  {
-   "name": "Real vs render shoulder bounce",
-   "where": "TikTok, Reels",
-   "status": "rising",
-   "use": "A 10 second split screen Short to our own bouncy song: left side a simple hand drawn or clay look Little Bro, right side the 3D Little Bro; both stand in place and bounce their shoulders up and down twice on each beat, then both point at the camera together on the last beat. Caption: 'Drawn or 3D? Which one dances better?' Meshy prompt: standing in place, shrug both shoulders up and down to the beat, arms relaxed, then point forward with right hand."
   }
  ]
 }
