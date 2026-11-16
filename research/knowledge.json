@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:36:59+05:30",
- "runs": 627,
+ "updated": "2026-11-16T17:38:44+05:30",
+ "runs": 628,
  "branches": [
   {
    "id": "platforms",
@@ -8742,6 +8742,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 551
+    },
+    {
+     "t": "Saint Lucia Day on 13 December is a big preschool and school event in Sweden, Norway and Finland: children walk in a candle lit procession in white gowns (a crown of candles for Lucia, star boys with paper cones and wands) singing, with saffron buns and gingerbread, so a gentle 'light in the dark' winter procession song with paper star props reaches Nordic families without copying any traditional song.",
+     "src": "The Local Sweden, Horniman Museum, Dec 2022 to 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 628
     }
    ]
   },
@@ -14832,6 +14839,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 621
+    },
+    {
+     "t": "The Chipmunks trio routine began on 3 Oct 2026 with three college dancers and its biggest clips passed 20M plays by late October: centre dancer bounces with hands on hips, spins while the two outside dancers swap sides behind, all turn their backs with arms up, turn back pointing at the sky, take turns running to the camera, then stomp and swing arms when the beat switches.",
+     "src": "Atlas Cloud blog, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 628
+    },
+    {
+     "t": "The Chipmunks dance has turned into AI templates: a generated trio of kittens in tutus doing the routine had about 5.7M plays by 3 Nov 2026 and CapCut motion transfer templates turn one photo into the trio clip, which shows that cute animated animal trios copying a human trend dance are a working format for us.",
+     "src": "Atlas Cloud blog, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 628
     }
    ]
   }
@@ -14858,12 +14879,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:08",
-   "note": "Earlier runs summarised: all rounds through Run 548 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:09",
-   "note": "Run 549 (TRENDS (Later 13 Nov list and Trending4's November guide)): Later's 13 Nov additions (cool to do both, what do you bring to the table, things AI can never replace) and Trending4's list (Mariah reveal, Dame Hombro, bicep heart, fancy cafe meme) were all already leaves; two undescribed dances (Stateside, a Smooth Criminal remake) were skipped, so no new leaves. Total 2033."
+   "note": "Earlier runs summarised: all rounds through Run 549 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:09",
@@ -15176,6 +15193,10 @@
   {
    "date": "2026-11-16 17:36",
    "note": "Run 627 (Shorts and Reels (Instagram November updates)): Instagram ended Linked Reels on 28 Oct 2026 (use Part 2 text plus a pinned first part), is testing a Reels first home feed on iOS, and is adding beat synced effects in Edits and Instagram, which suits our dance clips. Total 2109."
+  },
+  {
+   "date": "2026-11-16 17:38",
+   "note": "Run 628 (TRENDS (Chipmunks trio routine and Lucia Day)): The Chipmunks trio routine (October 2026, biggest clips past 20M plays) has a simple standing structure we can copy without its audio, and AI animal trio versions (kittens in tutus, 5.7M plays) show animated animal trios doing it travel well; Saint Lucia Day (13 Dec) added as a Nordic seasonal hook. Total 2112."
   }
  ],
  "history": [
@@ -15622,6 +15643,10 @@
   {
    "date": "2026-11-16 17:36",
    "total": 2109
+  },
+  {
+   "date": "2026-11-16 17:38",
+   "total": 2112
   }
  ],
  "next_week_ideas": [
@@ -15683,6 +15708,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Trio spin swap",
+   "where": "TikTok and Reels (Chipmunks routine, rising since Oct 2026)",
+   "status": "peak",
+   "use": "Big Bro in the middle, Little Bro and a friend either side, on our own bouncy original song. Meshy steps, all standing in place: bounce with hands on hips; middle dancer does one full spin while the side dancers step behind and swap sides; all three turn to face away with both arms raised; turn back and point one finger up, circling it over the head; each one steps forward toward the camera for two counts and back; on the beat drop all stomp in place swinging both arms. A cute animal trio version (three penguins or bunnies) makes a second Short."
+  },
   {
    "name": "Cookie share test",
    "where": "TikTok and Reels family videos (evergreen since 2025)",
@@ -15796,12 +15827,6 @@
    "where": "YouTube Shorts (US weekly chart)",
    "status": "rising",
    "use": "A 25 second Short to a short loop of our own song: big numbers 5, 4, 3, 2, 1 pop on screen and each shows one funny Bro Bros dance moment from our own videos (a wobble, a spin, a freeze, a jump, a big finish), the music rises at 1 and the Short loops back to 5. Title it as a numbered series ('Ranking the Bros' silliest moves, Part 1') so each week adds a new part."
-  },
-  {
-   "name": "Glitch walk",
-   "where": "Gen Alpha game slang and dance clips, 2026",
-   "status": "rising",
-   "use": "A 10 second Short to our own chiptune style beat: the Bros 'lag' like game characters: standing in place, stutter step (tiny step forward, freeze, tiny step back, freeze), arms move in three jerky stops up to a wave, head tilts in small ticks, then on the drop they snap back to smooth side to side grooving; caption 'Loading... Bros lagging!'"
   }
  ]
 }
