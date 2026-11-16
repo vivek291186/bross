@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:04:26+05:30",
- "runs": 450,
+ "updated": "2026-11-16T11:05:17+05:30",
+ "runs": 451,
  "branches": [
   {
    "id": "platforms",
@@ -8798,6 +8798,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 439
+    },
+    {
+     "t": "LooLoo's Polish channel (about 200K subscribers, 103M views, 622 videos) slid from about 1.8M monthly views in July 2026 to about 0.8M in October and vidIQ models only about 200 USD a month, so Polish is a small, low paying dub market to add late, not early.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 451
+    },
+    {
+     "t": "LooLoo Polish's two biggest videos are 30 and 40 minute compilations led by a marching ants song (about 5.3M and 4.7M views), so the marching ants theme that gave our best Reel this week (Ant Parade) also travels to Eastern Europe and suits a long compilation opener.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 451
+    },
+    {
+     "t": "CoComelon Italiano has only about 1.2M subscribers and 1.3B views from 939 uploads; its October 2026 Halloween Shorts drew about 3K to 10K views each while a long seasonal vegetables episode reached about 161K within a week, so in Italy even the biggest brand's Shorts are weak and long episodes carry the channel.",
+     "src": "vidanalyze.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 451
     }
    ]
   },
@@ -12752,11 +12773,7 @@
  "log": [
   {
    "date": "2026-11-16 07:58",
-   "note": "Run 371 (YouTube channels (our Metricool data still unchanged so skipped; Bebefinn's Portuguese and Japanese channels)): Metricool still had no YouTube data after 11 Nov, so this round compared local language channels. Bebefinn Portuguese (9.1M subscribers) drew about 296M views and 150K new subscribers in 28 days, far ahead of CoComelon Brasil, and Bebefinn Japanese matches BabyBus Japan's monthly views with a quarter of the subscribers, proof that a newer brand can overtake incumbents in a language. Their newest uploads are a stranger safety song and a rainy day clothes song. Total 1544."
-  },
-  {
-   "date": "2026-11-16 07:59",
-   "note": "Run 372 (TRENDS (Google Holiday 100: toy trains up 240%, Secret Santa and gamified formats, 25 day series)): Google's Holiday 100 (9 Nov) shows searches for classic toy train sets up 240% and roller skates up 180%, a nostalgia wave that suits a Christmas train song; Google's YouTube holiday report adds that gamified formats peak before Black Friday and stay strong to mid December, Secret Santa videos are popular, and 25 day daily series like Vlogmas are a comfort ritual that a Bro Bros Advent series can copy. Total 1549."
+   "note": "Earlier runs summarised: 2 rounds, Run 371 (YouTube channels (our Metricool data still unchange... through Run 372 (TRENDS (Google Holiday 100: toy trains up 240%, Sec..."
   },
   {
    "date": "2026-11-16 08:00",
@@ -13069,6 +13086,10 @@
   {
    "date": "2026-11-16 11:04",
    "note": "Run 450 (TRENDS (December family films, classroom brain breaks, baby dance sounds)): nothing new for the trend bank; corrected the Angry Birds Movie 3 leaf to its 23 Dec 2026 US opening per Box Office Mojo (it said 25 Dec), and Hexed (25 Nov) is already in the tree. Total 1808."
+  },
+  {
+   "date": "2026-11-16 11:05",
+   "note": "Run 451 (global markets (Polish and Italian dub channels)): Dub channels for Poland and Italy are small: LooLoo's Polish channel has about 200K subscribers and fell from 1.8M to 0.8M monthly views between July and October 2026 (vidIQ models about 200 USD), and CoComelon Italiano has about 1.2M subscribers with October Shorts at 3K to 10K views; LooLoo Polish's top videos are 30 to 40 minute 'ants go marching' compilations, the same marching ants theme as our best Reel this week. Total 1811."
   }
  ],
  "history": [
@@ -13851,6 +13872,10 @@
   {
    "date": "2026-11-16 11:04",
    "total": 1808
+  },
+  {
+   "date": "2026-11-16 11:05",
+   "total": 1811
   }
  ],
  "next_week_ideas": [
