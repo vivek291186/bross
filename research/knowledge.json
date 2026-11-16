@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:45:21+05:30",
- "runs": 384,
+ "updated": "2026-11-16T08:46:20+05:30",
+ "runs": 385,
  "branches": [
   {
    "id": "platforms",
@@ -2484,6 +2484,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 375
+    },
+    {
+     "t": "YouTube's Todd Beaupré said most videos, even a channel's best, get about a 10% or lower click rate in the Subscriptions row, so subscribers ignoring most uploads is normal and not a penalty; the watch page Suggested list matters far more.",
+     "src": "PPC Land (Creator Insider), Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 385
+    },
+    {
+     "t": "YouTube has tested capping repeat recommendations of the same video to one viewer at about eight times (one upload was shown 19 times to a viewer who never noticed it), so a song that is ignored keeps a few more chances but not endless ones; a fresh thumbnail or a new Short is the way to reopen it.",
+     "src": "PPC Land (Creator Insider), Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 385
+    },
+    {
+     "t": "At Made on YouTube (Sep 2026) YouTube said over 600M logged in viewers watched live content daily in August and more than 40% of live watch time comes from outside a creator's home country, so a 24/7 Bro Bros song stream should be planned for a worldwide audience across time zones.",
+     "src": "AIR Media-Tech, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 385
     }
    ]
   },
@@ -11307,10 +11328,6 @@
   },
   {
    "date": "2026-11-16 04:07",
-   "note": "Run 306 (visual craft (Blender 5.2 LTS tools, Meshy text to motion limits)): Blender 5.2 LTS (Jul 2026, supported to Jul 2028) adds node based hair and cloth physics, online asset libraries (Blender Online Essentials), a Cycles texture cache, EEVEE usability fixes and a better Grease Pencil fill, a stable base for our pipeline. Meshy's Text to Motion makes clips of 2 to 10 seconds from prompts up to 400 characters and deletes results after 3 days, so long dances must be built from several short clips and downloaded quickly. Total 1293."
-  },
-  {
-   "date": "2026-11-16 04:07",
    "note": "Run 307 (TRENDS (December returners: Christmas say the word on the beat, letters to Santa, holidays around the world)): Last December Kapwing pushed a Christmas edition of 'say the word on the beat' (rhyming festive pictures, the beat speeds up each round, one slip ends it), a kid perfect game Short likely to return. Kids channel holiday staples remain sing alongs with on screen lyrics, letters to Santa read aloud with replies, daily advent minis and 'Christmas around the world' tours. The beat word game joined the trend bank. Total 1296."
   },
   {
@@ -11620,13 +11637,13 @@
   {
    "date": "2026-11-16 08:45",
    "note": "Run 384 (TRENDS (holiday piano sway dance returns each December, DreamToys 2026 themes)): Last December families revived the awkward cartoon party dance from the classic Charlie Brown Christmas special (one video 4.3M views), a seasonal dance that will likely return this December; the UK DreamToys list (11 Nov 2026) shows what kids will be playing with at Christmas: dinosaur vehicles, a pet tiger that grows, hatching robot sharks, slime and squishies, a pirate ship and K-pop singing dolls. Total 1601."
+  },
+  {
+   "date": "2026-11-16 08:46",
+   "note": "Run 385 (algorithm (subscriber click rates, repeat recommendation cap, live watch time abroad)): Most algorithm news was already in the tree; new details are that even top videos get about one click in ten from the Subscriptions row, that YouTube has tested capping how often one video is re-recommended to the same viewer at eight times, and that over 40% of live watch time comes from outside the creator's home country, which supports a global 24/7 Bro Bros stream. Total 1604."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:51",
-   "total": 449
-  },
   {
    "date": "2026-11-15 18:52",
    "total": 453
@@ -12822,6 +12839,10 @@
   {
    "date": "2026-11-16 08:45",
    "total": 1601
+  },
+  {
+   "date": "2026-11-16 08:46",
+   "total": 1604
   }
  ],
  "next_week_ideas": [
