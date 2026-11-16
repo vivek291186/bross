@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:52:40+05:30",
- "runs": 636,
+ "updated": "2026-11-16T17:53:59+05:30",
+ "runs": 637,
  "branches": [
   {
    "id": "platforms",
@@ -8833,6 +8833,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 629
+    },
+    {
+     "t": "US National Ugly Christmas Sweater Day falls on Friday 18 December 2026 (the third Friday of December), when schools and offices wear silly jumpers, a ready made date for a 'silly sweater' dress up song with patterned sweaters that light up on the beat.",
+     "src": "National Today and Punchbowl, 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 637
     }
    ]
   },
@@ -15000,6 +15007,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 634
+    },
+    {
+     "t": "Pointy hatted Christmas gnomes flood homes and feeds every December and feeds joke about the 'gnome army' taking over, a recurring, harmless meme we can turn into an original marching gnome song with our own gnome characters.",
+     "src": "Firenze Digest, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 637
+    },
+    {
+     "t": "TikTok said in December 2025 that 'Christmas has gone retro': Christmas decor videos rose about 100% in a year, #90sChristmas passed 8,000 videos and one post of old Christmas film tapes drew nearly 4M views, which supports a nostalgic 1990s look (coloured bulbs, tinsel, felt ornaments) for our December sets.",
+     "src": "The Guardian, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 637
+    },
+    {
+     "t": "A small child's mispronounced 'Merry Christmas' clip keeps resurfacing every December and people reuse it as a playful greeting, so cute toddler style wordplay (Little Bro getting a festive word wrong and Big Bro helping) is a recurring December comedy hook.",
+     "src": "Firenze Digest, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 637
     }
    ]
   }
@@ -15026,12 +15054,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:37",
-   "note": "Earlier runs summarised: all rounds through Run 557 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:38",
-   "note": "Run 558 (TRENDS (December holiday short video formats)): Revid's holiday data says holiday dance videos had a median of about 84K views with 15.5% passing 1M, and that a lit tree and enthusiasm matter more than technique; simple kids Christmas crafts are the format parents and teachers save. Added a seasonal 'holiday craft along' trend. Total 2048."
+   "note": "Earlier runs summarised: all rounds through Run 558 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:39",
@@ -15344,6 +15368,10 @@
   {
    "date": "2026-11-16 17:52",
    "note": "Run 636 (other platforms (iTunes kids chart, our data and algorithm rechecks)): Our Metricool data has no uploads after 11 Nov and was already recorded today, and the YouTube algorithm changes found (custom feeds, original Shorts, inauthentic content) were already leaves; the iTunes kids chart on 16 Nov is led by a gentle adult cover of a public domain lullaby, with three faith songs in its top six. Total 2133."
+  },
+  {
+   "date": "2026-11-16 17:53",
+   "note": "Run 637 (TRENDS (December repeat memes: gnomes, retro Christmas, kid mispronunciations)): Weekly trackers had nothing new since 13 Nov, so this round looked at December memes that return every year: Christmas gnome armies, 1990s retro Christmas (decor videos up 100% in a year), a child's funny 'Merry Chrysler' greeting that resurfaces each December, and National Ugly Sweater Day on 18 Dec 2026. Total 2137."
   }
  ],
  "history": [
@@ -15826,6 +15854,10 @@
   {
    "date": "2026-11-16 17:52",
    "total": 2133
+  },
+  {
+   "date": "2026-11-16 17:53",
+   "total": 2137
   }
  ],
  "next_week_ideas": [
@@ -15887,6 +15919,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Gnome army march",
+   "where": "TikTok and Reels every December (recurring seasonal meme)",
+   "status": "seasonal",
+   "use": "Big Bro and Little Bro in pointy felt hats lead a growing line of our own little gnome characters marching across the living room on our original marching song, one more gnome joining every bar until the whole army freezes and waves. Meshy steps, standing in place: high knee march on the spot, arms swinging; stop and salute; turn the head left and right peeking; a big two handed wave."
+  },
   {
    "name": "That makes no sense",
    "where": "TikTok (Ramdam list, 3 Nov 2026), rising",
@@ -16000,12 +16038,6 @@
    "where": "TikTok (Shoulder Carry trend, peak on 13 Nov 2026 chart)",
    "status": "peak",
    "use": "An 8 second Short to our own bouncy brothers song: big Bro stands with little Bro sitting on his shoulders, both wave both arms side to side on the beat; on the drop a hard cut and now little Bro is the one carrying big Bro (silly impossible swap), both do a big surprised face and two arm pumps up. Meshy prompt for each: standing in place, sway both raised arms left and right, then pump both fists up twice."
-  },
-  {
-   "name": "Back away high five",
-   "where": "TikTok duo routine (13 Nov 2026 chart)",
-   "status": "rising",
-   "use": "A 6 second loop to our own friendship song: the two Bros face each other, each takes one step back, they clap a big high five in the middle, each does one small front kick, then both freeze in a pose (one hand on hip, other hand pointing at camera) and it loops. Meshy prompt: standing, step back one step, clap hands forward at chest height, small front kick with right leg, then pose with left hand on hip and right hand pointing forward."
   }
  ]
 }
