@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:53:39+05:30",
- "runs": 794,
+ "updated": "2026-11-17T00:54:13+05:30",
+ "runs": 795,
  "branches": [
   {
    "id": "platforms",
@@ -16664,12 +16664,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:36",
-   "note": "Earlier runs summarised: all rounds through Run 715 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:37",
-   "note": "Run 716 (global markets (Poland kids screen time)): Poland's Internet of Children 2026 report shows kids 7 to 14 online about 4h25m a day, 88% on phones, with TikTok (29% of time) ahead of YouTube (22%); an FDDS survey of 22,000 kids aged 7 to 9 found over 80% watch YouTube regularly. Total 2283."
+   "note": "Earlier runs summarised: all rounds through Run 716 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:37",
@@ -16982,6 +16978,10 @@
   {
    "date": "2026-11-17 00:53",
    "note": "Run 794 (YouTube algorithm (recommendation outage lessons, YouTube Kids app, Home feed shifts)): Home feed row cuts, satisfaction ranking and the teen Shorts timers were already in the tree; new: the Feb 2026 two hour recommendation outage showed search ranked evergreen videos keep their views when Browse and Suggested fail. Total 2367."
+  },
+  {
+   "date": "2026-11-17 00:54",
+   "note": "Run 795 (Shorts and Reels (Trial Reels evidence, kids Shorts case studies, Tubefilter week of 8 Nov)): Trial Reels evidence, AIR kids Shorts cases and the 8 Nov Tubefilter kids movers (Cadel and Mia, Sierra and Rhia, Baccha Mat Bolna) were already in the tree; no new leaves. Total 2367."
   }
  ],
  "history": [
@@ -18095,6 +18095,10 @@
   },
   {
    "date": "2026-11-17 00:53",
+   "total": 2367
+  },
+  {
+   "date": "2026-11-17 00:54",
    "total": 2367
   }
  ],
