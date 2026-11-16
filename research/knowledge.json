@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:35:54+05:30",
- "runs": 326,
+ "updated": "2026-11-16T05:37:45+05:30",
+ "runs": 327,
  "branches": [
   {
    "id": "platforms",
@@ -1161,6 +1161,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 314
+    },
+    {
+     "t": "Instagram is testing an option to open the app straight into Reels instead of the home feed (Stories stay on top and users can switch back), and US creators can link up to eight Reel clips to one longer video, so short song cuts could later lead viewers into a full Bro Bros compilation.",
+     "src": "Gain blog, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 327
+    },
+    {
+     "t": "Edits added beat synced video effects, bulk caption editing and clip volume boosts up to 150% in November 2026, and a desktop Edits app with Trial Reels is planned for December, an easy way to make our Reels flash and pop on the beat of our own songs.",
+     "src": "SocialBee, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 327
     }
    ]
   },
@@ -7860,6 +7874,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 326
+    },
+    {
+     "t": "YouTube Music began labelling songs as 'Fully Gen AI' or 'Partly Gen AI' on 14 Oct 2026, using what music partners declare at delivery plus YouTube's own detection, and the label will spread to the main YouTube app; a track made from a text prompt in an AI generator counts as Fully Gen AI, so our Suno songs should be declared honestly when distributed.",
+     "src": "Music Business Worldwide, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 327
+    },
+    {
+     "t": "YouTube has not said whether AI music labels change recommendations or royalties; for videos it said in May 2026 that a disclosure label alone does not change reach or monetisation, so adding our own sung or played layers on top of Suno tracks is a quality choice, not a ranking trick.",
+     "src": "Music Business Worldwide, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 327
     }
    ]
   },
@@ -9619,10 +9647,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:45",
-   "note": "Run 248 (global markets (Latin America by age, MENA demand and dialects)): Kidscorp's July 2026 Latin America study says children aged 3 to 5 use only YouTube, with similar reach across rich and poor homes and about 68% YouTube reach in Mexico and Chile; in MENA, kids animation makes up 40.6% of supply but only 30.2% of demand, and pan Arab hits mix dialects and draw viewers from Iraq and Egypt. Total 1092."
-  },
-  {
    "date": "2026-11-16 01:46",
    "note": "Run 249 (competitor deep dive (Moonbug's Meekah launch and music label, Pinkfong's staged holiday soundtrack)): Moonbug launched Meekah on its own YouTube channel on 7 Nov 2026 with a music video teaser five days earlier, 15 minute episodes that alternate movement and pauses, and a new episode every other Saturday; it also opened Big Feelings Music to outside kids music creators. Pinkfong is releasing its Christmas film soundtrack in two waves (10 and 27 Nov) before the 5 Dec film. Total 1097."
   },
@@ -9933,16 +9957,16 @@
   {
    "date": "2026-11-16 05:35",
    "note": "Run 326 (YouTube algorithm (where subscribers really watch, notifications, payout test)): Todd Beaupre says Suggested, not the subscriptions feed, is where viewers most often watch channels they follow, and a new channel's video keeps getting impressions only while some interested audience appears; push notifications already stopped for inactive subscribers in April. SocialBee's log to 9 Nov shows no Home ranking change, but YouTube is building a watch time tool across all formats, and a 20 USD payout floor is being tested in India, the US and Indonesia. Total 1360."
+  },
+  {
+   "date": "2026-11-16 05:37",
+   "note": "Run 327 (Shorts and Reels (Instagram's November tests, Edits beat sync, YouTube Music AI song labels)): Instagram is testing opening the app straight to Reels, linking up to eight Reel clips to one long video and a wider Series rollout, while Edits adds beat synced effects and a desktop app with Trial Reels. YouTube Music began labelling Fully or Partly Gen AI songs on 14 Oct using partner declarations plus its own detection, which matters for our Suno songs once we distribute music. Total 1364."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:46",
-   "total": 215
   },
   {
    "date": "2026-11-15 16:47",
@@ -11135,6 +11159,10 @@
   {
    "date": "2026-11-16 05:35",
    "total": 1360
+  },
+  {
+   "date": "2026-11-16 05:37",
+   "total": 1364
   }
  ],
  "next_week_ideas": [
