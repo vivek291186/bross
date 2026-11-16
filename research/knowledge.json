@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:45:17+05:30",
- "runs": 421,
+ "updated": "2026-11-16T09:46:39+05:30",
+ "runs": 422,
  "branches": [
   {
    "id": "platforms",
@@ -4283,6 +4283,41 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 416
+    },
+    {
+     "t": "Bounce Patrol has about 34M subscribers but CreatorDB shows zero subscriber growth over the 365 days to Oct 2026 and only about one upload every few weeks, another big kids song channel living on its back catalogue.",
+     "src": "creatordb.app, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 422
+    },
+    {
+     "t": "Bounce Patrol's biggest 2026 uploads are collaborations with a famous puppet show ('Where is Elmo? (Hidey Tag)' 11.2M views, 'Ball Pit Party' 8M) while its own new songs (Rainbow Disco colours song, 30 Oct 2026) sit near 270K, so borrowed fame lifts old channels far more than fresh songs do.",
+     "src": "vidanalyze.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 422
+    },
+    {
+     "t": "Bounce Patrol's top video overall is a seek and find song ('Can You Find the Yummy Fruit?', 18.2M) and its hide and seek collab is its 2026 leader, which adds to the evidence that 'can you find it?' games are one of the strongest kids song formats.",
+     "src": "vidanalyze.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 422
+    },
+    {
+     "t": "A July 2026 ranking of kids exercise and movement channels lists Bounce Patrol (34M), Jack Hartmann (5.5M), Danny Go! (5.0M), GVO Kids (4.2M), Cosmic Kids Yoga (2.0M) and GoNoodle (1.7M) as the leaders, the field our dance songs compete in on classroom screens.",
+     "src": "vloggingpro.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 422
+    },
+    {
+     "t": "Bounce Patrol's Halloween compilation built on a marching song ('Halloween Ants Go Marching & More', 3 Oct 2026, 517K) outperformed its newer original upload, a reminder that seasonal versions of marching and counting songs are dependable.",
+     "src": "vidanalyze.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 422
     }
    ]
   },
@@ -12163,10 +12198,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 05:57",
-   "note": "Run 342 (visual craft (December thumbnails, preschool redesigns toward stylised looks)): December thumbnail advice: high contrast, one cut out subject, three or four bold words at most, a calmer layout than the crowded holiday norm and one consistent December template family; interest in Christmas YouTube climbs from late November. A preschool spin off of a famous car franchise moved from glossy realism to flatter colours, bigger eyes and rubbery motion to suit ages 2 to 6, the same direction our 3D Bros already take. Total 1413."
-  },
-  {
    "date": "2026-11-16 05:58",
    "note": "Run 343 (TRENDS (Pinterest's 2026 parenting searches: routine charts, movement, throwback)): Weekly Reels and TikTok lists repeated last week's formats, so the round used Pinterest's parenting trend data: daily routine charts (+575%), movement activities for toddlers (+145%), fun physical activities (+340%), sensory play (+1070%), animated movie nights (+430%) and 'throwback kid' nostalgia (2000s toys +610%). Parents want screen time that gets kids moving and builds routines, which is exactly our dance and routine songs. Total 1417."
   },
@@ -12481,6 +12512,10 @@
   {
    "date": "2026-11-16 09:45",
    "note": "Run 421 (other platforms (algorithm checked first and skipped, nothing new; Roblox music games)): Algorithm news this week (custom feeds in the top bar, Shorts originality push) was already in the tree, so the round moved to Roblox: the simple 'Musical Chairs' game has about 560M visits, a 33K player peak and 8.4 minute sessions, and bbno$'s July charity concert drew 28M unique viewers while Roblox added licensed pop tracks to its Creator Store through an indie distributor. Total 1724."
+  },
+  {
+   "date": "2026-11-16 09:46",
+   "note": "Run 422 (competitor deep dive (Bounce Patrol; Shorts and Reels, algorithm and music craft checked first and skipped as already covered)): Bounce Patrol (34M subscribers) gained no subscribers in the year to Oct 2026 and now uploads only a few times a month; its 2026 breakouts were Sesame Street collaborations (a hide and seek song 11.2M, a ball pit party 8M) while its own new songs such as a 30 Oct colours disco reached about 270K. A July 2026 ranking of kids movement channels puts Jack Hartmann, Danny Go!, GVO Kids, Cosmic Kids Yoga and GoNoodle behind it. Total 1729."
   }
  ],
  "history": [
@@ -13147,6 +13182,10 @@
   {
    "date": "2026-11-16 09:45",
    "total": 1724
+  },
+  {
+   "date": "2026-11-16 09:46",
+   "total": 1729
   }
  ],
  "next_week_ideas": [
