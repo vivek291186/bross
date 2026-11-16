@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:40:35+05:30",
- "runs": 329,
+ "updated": "2026-11-16T05:41:22+05:30",
+ "runs": 330,
  "branches": [
   {
    "id": "platforms",
@@ -5319,6 +5319,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 323
+    },
+    {
+     "t": "Parent guides measure pacing by how long each shot lasts: CoComelon cuts every 1 to 3 seconds, Bubble Guppies 3 to 6, Spidey 4 to 7, Bluey 7 to 12, Daniel Tiger 8 to 15 and Sesame Street 10 to 30; shots under about 4 seconds are flagged as overload, so our dance videos can stay lively through moves while holding most shots 4 to 8 seconds.",
+     "src": "Yippee and Everhem, 2025 to 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 330
+    },
+    {
+     "t": "Overstimulation checklists now flag neon, highly saturated palettes that shift quickly, flashing effects, loud repetitive music and frequent sound effects, while calm shows use softer palettes, acoustic music and story led pacing, so our bedtime and calm songs should switch to pastel lighting and fewer effects.",
+     "src": "Yippee, Jul 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 330
+    },
+    {
+     "t": "The widely cited 2011 Pediatrics experiment found nine minutes of a very fast paced cartoon lowered four year olds' scores on attention and self control tasks compared with a slower show or drawing, which is why critics keep raising pacing against fast cut kids channels.",
+     "src": "Everhem, 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 330
     }
    ]
   },
@@ -7909,6 +7930,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 327
+    },
+    {
+     "t": "Moonbug's partner, UCLA's Center for Scholars and Storytellers, rates content on four principles: real life moments, positive relationships, learning through play and authentically inclusive stories; Moonbug's older content scored 1 out of 2 on its rubric, so building these four into each Bro Bros song gives a simple quality check parents trust.",
+     "src": "Everhem, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 330
     }
    ]
   },
@@ -9703,10 +9731,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:48",
-   "note": "Run 251 (rules and monetisation (EU Kids Act proposal, Australia's ban evaluation, Shorts RPM by country)): The EU Kids Act proposed on 17 Sep 2026 would ban personal social accounts under 13, switch off engagement based recommendations for minors by default and prohibit endless autoplay, so European kids would reach us mostly through parents' accounts, search and subscriptions. eSafety's first evaluation found Australian under 16 account holding fell only from 52.4% to 42.1%, and AIR's data puts US Shorts RPM at about twice the global average. Total 1107."
-  },
-  {
    "date": "2026-11-16 01:49",
    "note": "Run 252 (our own results (Metricool recheck, Reels 13 and 14 Nov)): YouTube data in Metricool still ends at 11 Nov uploads. New Reels: the 13 Nov bedtime 'shy fluffy monster' lullaby reached 65 views, the best of the 12 to 14 Nov story songs, while the 13 Nov sports day story song got 21 views against 110 for the 8 Nov sports day cartoon, so the same topic lost about 80% of views in five days, pointing to lower distribution of the account rather than a weak topic. Total 1110."
   },
@@ -10017,16 +10041,16 @@
   {
    "date": "2026-11-16 05:40",
    "note": "Run 329 (music craft (Suno v6 sound complaints, how tempo taste changes with age)): Suno subscribers report v6 output as muffled with buried vocals and little top end, so our masters need a brightness and vocal check; a Scientific Reports study shows children's preferred tempo is faster and much wider than adults', which supports energetic, varied tempos for kids and a steady groove for co watching parents. Total 1372."
+  },
+  {
+   "date": "2026-11-16 05:41",
+   "note": "Run 330 (visual craft (shot length and overstimulation, calm versus fast pacing)): Parent guides now rate kids shows by shot length: CoComelon cuts every 1 to 3 seconds, Bluey holds 7 to 12, Daniel Tiger 8 to 15 and Sesame Street 10 to 30, and neon colours, rapid colour shifts and constant sound effects count as overstimulating. Moonbug's UCLA partner scores content on four child development principles. Our dance songs can keep energy through movement while holding shots 4 seconds or longer. Total 1376."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:48",
-   "total": 227
   },
   {
    "date": "2026-11-15 16:49",
@@ -11219,6 +11243,10 @@
   {
    "date": "2026-11-16 05:40",
    "total": 1372
+  },
+  {
+   "date": "2026-11-16 05:41",
+   "total": 1376
   }
  ],
  "next_week_ideas": [
