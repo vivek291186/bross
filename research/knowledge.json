@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:01:51+05:30",
- "runs": 601,
+ "updated": "2026-11-16T17:02:19+05:30",
+ "runs": 602,
  "branches": [
   {
    "id": "platforms",
@@ -1602,6 +1602,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 578
+    },
+    {
+     "t": "AIR's correlational study of 18,000 English language channels (Mar 2025 to Mar 2026, 11 niches) found the best Shorts share is about 25 to 40% of uploads and results weaken above 55%; in the kids niche, long only channels of 100K to 1M subscribers led mixed channels by about 63% on its median subscriber measure, with a tie only at 10M to 50M, and channels that switched strategy mid year did worst.",
+     "src": "AIR Media-Tech, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 602
     }
    ]
   },
@@ -11934,6 +11941,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 589
+    },
+    {
+     "t": "With one Short published 5 minutes after every song, about half of our YouTube uploads are Shorts, above AIR's 25 to 40% sweet spot and close to the 55% level where results weaken, and our Shorts get almost no views, so trimming to Shorts only for the best one or two songs a day (about 25 to 35% of uploads) fits both the data and our own results; the change should be made once and kept, since mid year strategy swings did worst.",
+     "src": "own synthesis of AIR study and Metricool (our data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 602
     }
    ]
   },
@@ -14726,11 +14740,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 522 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 14:43",
-   "note": "Run 523 (global markets (East and West Africa kids channels; dubbing news already in the tree)): Auto dubbing and Africa listening habits were already leaves; new: a Swahili kids cartoon channel has 711K subscribers but only about 28K views a day with no subscriber growth in October, and a Nigerian made 3D kids show found its biggest audiences in the US and UK before Nigeria, so African styled songs can earn in rich ad markets through diaspora families. Total 1988."
+   "note": "Earlier runs summarised: all rounds through Run 523 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 15:40",
@@ -15043,13 +15053,13 @@
   {
    "date": "2026-11-16 17:01",
    "note": "Run 601 (YouTube algorithm and channel experiments (AIR kids channel cases)): Two AIR kids channel cases (Q3 to Q4 2025): a 7.55M channel halved long uploads, doubled Shorts and made videos TV ready (4K, text off the edges, high contrast, speaker mix) for +5.5% views but +33.6% revenue; a near 1M channel went from 1 to 16 automated 24/7 streams and lifted watch time 31%. Total 2090."
+  },
+  {
+   "date": "2026-11-16 17:02",
+   "note": "Run 602 (Shorts and Reels (AIR's 18,000 channel Shorts mix study)): AIR's study of 18,000 English channels (Mar 2025 to Mar 2026) found a 25 to 40% Shorts share works best overall and over 55% weakens, while in kids long only channels of 100K to 1M subscribers led mixed ones by about 63% on its median subscriber measure; our one Short per song is about 50%. Total 2092."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:03",
-   "total": 1281
-  },
   {
    "date": "2026-11-16 04:04",
    "total": 1284
@@ -16245,6 +16255,10 @@
   {
    "date": "2026-11-16 17:01",
    "total": 2090
+  },
+  {
+   "date": "2026-11-16 17:02",
+   "total": 2092
   }
  ],
  "next_week_ideas": [
