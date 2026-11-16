@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:08:23+05:30",
- "runs": 711,
+ "updated": "2026-11-16T22:09:10+05:30",
+ "runs": 712,
  "branches": [
   {
    "id": "platforms",
@@ -16049,11 +16049,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 632 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:48",
-   "note": "Run 633 (competitor deep dive (Kids Diana Show, Jumblikans)): Kids Diana Show (138M) still pulls about 326M views a month with flat subscribers, and its five biggest videos ever are all challenge adventures (school bus rules, escape room, 10 doors, maze, cube challenge), which points to a door by door adventure song; ChuChu's sister channel Jumblikans gets only 50K to 80K per new upload. Total 2126."
+   "note": "Earlier runs summarised: all rounds through Run 633 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:49",
@@ -16366,6 +16362,10 @@
   {
    "date": "2026-11-16 22:08",
    "note": "Run 711 (Shorts and Reels (kids Shorts RPM and freshness recheck)): AIR's 274 channel Shorts RPM study and the 28 to 30 day Shorts 'flattening' were already in the tree, so no new leaves; next_week_ideas updated: added a winter Penguin Waddle animal dance along (backed by Pinkfong's 922M view animal dance hit) in place of the bike song idea. Total 2279."
+  },
+  {
+   "date": "2026-11-16 22:09",
+   "note": "Run 712 (other platforms (Netflix animated rankings and kids viewership recheck; trends skipped after an empty trends round)): Netflix's 2026 animated series ranking (Peppa Pig, The Creature Cases, Little Angel, Bebefinn) and the H2 2025 kids viewership report were already in the tree; no new leaves. Total 2279."
   }
  ],
  "history": [
@@ -17147,6 +17147,10 @@
   },
   {
    "date": "2026-11-16 22:08",
+   "total": 2279
+  },
+  {
+   "date": "2026-11-16 22:09",
    "total": 2279
   }
  ],
