@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:45:35+05:30",
- "runs": 528,
+ "updated": "2026-11-16T15:46:30+05:30",
+ "runs": 529,
  "branches": [
   {
    "id": "platforms",
@@ -14117,11 +14117,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 449 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:04",
-   "note": "Run 450 (TRENDS (December family films, classroom brain breaks, baby dance sounds)): nothing new for the trend bank; corrected the Angry Birds Movie 3 leaf to its 23 Dec 2026 US opening per Box Office Mojo (it said 25 Dec), and Hexed (25 Nov) is already in the tree. Total 1808."
+   "note": "Earlier runs summarised: all rounds through Run 450 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:05",
@@ -14434,6 +14430,10 @@
   {
    "date": "2026-11-16 15:45",
    "note": "Run 528 (TRENDS (NewEngen 13 Nov list, Know Your Meme, NapoleonCat; almost all already in the tree)): NewEngen's 13 Nov list (Mariah 'It's time' reveals, the three person Chipmunks dance, Dame Hombro shoulder bounce, fan blade outfit wipe, numbered cartoon survival stories) was already in the tree and still active; Know Your Meme's soccer kick fake out is mostly adult; one new evergreen: the Indonesian boat bow dancer routine done by an 11 year old, copied by sports teams and mascots. Total 2003."
+  },
+  {
+   "date": "2026-11-16 15:46",
+   "note": "Run 529 (YouTube algorithm (OutlierKit change log, Creator Insider, Home feed news)): OutlierKit's log still has no November 2026 change; the October items (original Shorts priority, custom feeds, Subs tab moved into Home, hacked channel pause, 30 day spam lock, Shorts bonus pilot) and Beaupre's subscriber and late peak points were all already leaves, so no new leaves. Total 2003."
   }
  ],
  "history": [
@@ -15527,6 +15527,10 @@
   },
   {
    "date": "2026-11-16 15:45",
+   "total": 2003
+  },
+  {
+   "date": "2026-11-16 15:46",
    "total": 2003
   }
  ],
