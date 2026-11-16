@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:56:54+05:30",
- "runs": 776,
+ "updated": "2026-11-16T23:57:29+05:30",
+ "runs": 777,
  "branches": [
   {
    "id": "platforms",
@@ -16493,10 +16493,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 22:01",
-   "note": "Run 698 (YouTube algorithm (YouTube Kids app and supervised accounts recheck)): YouTube Kids feature searches (MENA and Turkiye supervised kid accounts, Shorts timers, Dublin summit standards) only returned items already in the tree, so no new leaves. Total 2273."
-  },
-  {
    "date": "2026-11-16 22:02",
    "note": "Run 699 (Shorts and Reels (Edits app and Mosseri recheck)): Instagram Edits (Mac app 5 Nov, in video links, bilingual captions) and Mosseri's Features and Your Algorithm announcements were all already in the tree; no new leaves. Total 2273."
   },
@@ -16807,6 +16803,10 @@
   {
    "date": "2026-11-16 23:56",
    "note": "Run 776 (global markets (Philippines and Brazil kids music)): Soundcharts' Philippines kids chart shows 12 of the top 15 kids songs by Filipino linked acts are in English, led by an upbeat action worship singer, so English songs need no dubbing there; Brazil sources were already in the tree. Total 2342."
+  },
+  {
+   "date": "2026-11-16 23:57",
+   "note": "Run 777 (competitor deep dive (Super Simple Songs, Kids Diana Show)): Super Simple Songs' remake and high contrast outliers were already in the tree and Kids Diana Show stats did not load; no new leaves. Total 2342."
   }
  ],
  "history": [
@@ -17848,6 +17848,10 @@
   },
   {
    "date": "2026-11-16 23:56",
+   "total": 2342
+  },
+  {
+   "date": "2026-11-16 23:57",
    "total": 2342
   }
  ],
