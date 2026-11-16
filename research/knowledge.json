@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:10:06+05:30",
- "runs": 619,
+ "updated": "2026-11-16T17:10:31+05:30",
+ "runs": 620,
  "branches": [
   {
    "id": "platforms",
@@ -5095,6 +5095,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 608
+    },
+    {
+     "t": "On Bebefinn's Japanese channel (1.62M subscribers, about 125M views in October 2026) the most viewed video is the English language 'Good Morning' song with English nursery rhymes (21.4M), just ahead of its Japanese version (20.2M), and the newest upload (6 Nov) is episode 164 of a weather song series about dressing for rain, so Japanese parents also play English songs for language learning and long numbered everyday series keep paying off.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 620
     }
    ]
   },
@@ -14810,11 +14817,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 540 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:05",
-   "note": "Run 541 (topics and seasons (holiday 2026 toy lists from ConsumerAffairs and Macy's; algorithm skipped as rechecked 35 minutes earlier)): Nostalgia toys and K pop doll items were already leaves; new detail: this year's hot toy lists lean on animals that change into other animals (a rolling kitten that becomes a lion or a fox), digital pets that unlock new characters, and music toys (a singing doll, a toy rock guitar), which point to transformation and band play song themes. Total 2024."
+   "note": "Earlier runs summarised: all rounds through Run 541 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:05",
@@ -15127,13 +15130,13 @@
   {
    "date": "2026-11-16 17:10",
    "note": "Run 619 (global markets (East Africa, Akili and Me recheck)): Akili and Me's numbers (1.24M subscribers, about 7.7M views in 28 days, a toilet training song on top) and Kenya's read along captions result were already leaves, so no new leaves. Total 2102."
+  },
+  {
+   "date": "2026-11-16 17:10",
+   "note": "Run 620 (competitor deep dive (Bebefinn Japanese)): One new detail on Bebefinn's Japanese channel: its single most viewed video is the English language 'Good Morning' song (21.4M), ahead of the Japanese version (20.2M), so English learning songs travel into the Japanese market on a localised channel. Total 2103."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:50",
-   "total": 1339
-  },
   {
    "date": "2026-11-16 04:51",
    "total": 1342
@@ -16329,6 +16332,10 @@
   {
    "date": "2026-11-16 17:10",
    "total": 2102
+  },
+  {
+   "date": "2026-11-16 17:10",
+   "total": 2103
   }
  ],
  "next_week_ideas": [
