@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:03:56+05:30",
- "runs": 539,
+ "updated": "2026-11-16T16:04:32+05:30",
+ "runs": 540,
  "branches": [
   {
    "id": "platforms",
@@ -14209,6 +14209,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 537
+    },
+    {
+     "t": "A new India led Reels and Shorts trend, 'Sheru Bhai', took off around 6 to 15 Nov 2026: an AI made upright lion in sunglasses and designer clothes poses beside people in 'photo with me' shots at weddings, palaces and cars, with Google search interest still climbing on 15 Nov.",
+     "src": "Muse Signal, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 540
+    },
+    {
+     "t": "The Sheru Bhai craze shows that an original, cool looking animal character can become a trend on its own in India within a week, so a Bro Bros lion friend with sunglasses doing a proud pose and a thumbs up with the Bros fits the moment, as long as we drop the gold chain and luxury flexing for kids.",
+     "src": "own synthesis of Muse Signal, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 540
+    },
+    {
+     "t": "Anijam's 4 Nov 2026 Shorts list names Dame Hombro (shoulder pops, relaxed knee bends, fists near the chest and a palms up shrug, released 7 Oct) as the one November dance creators are redoing with characters, avatars and pets, because it forgives slightly off beat moves.",
+     "src": "Anijam, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 540
     }
    ]
   }
@@ -14236,11 +14257,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 460 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:35",
-   "note": "Run 461 (music craft (Suno v5.5 prompt structure, holiday albums on kids charts; infant studies already covered)): Most infant music studies were already in the tree; new: Suno v5.5 guides say to front load 4 to 7 style words and keep 2 or 3 instrument textures, and on Billboard's Kid Albums chart holiday albums jump to the top by early November, so our Christmas playlist should already be live. Total 1830."
+   "note": "Earlier runs summarised: all rounds through Run 461 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:36",
@@ -14553,6 +14570,10 @@
   {
    "date": "2026-11-16 16:03",
    "note": "Run 539 (YouTube channels (our Metricool data unchanged since 15:50, so skipped; Danny Go and toddler learning channels rechecked)): Danny Go (plus 90K subscribers and 167M views in the 28 days to 12 Nov) matched leaves already in the tree, and small toddler learning brands had no fresh public stats, so no new leaves. Total 2020."
+  },
+  {
+   "date": "2026-11-16 16:04",
+   "note": "Run 540 (TRENDS (India Reels and Shorts this week: Sheru Bhai AI lion)): New this week: 'Sheru Bhai', an AI made upright lion in sunglasses and designer clothes posing beside people in 'photo with me' Reels and Shorts, rose in India from about 6 Nov with search interest still climbing on 15 Nov; we can borrow the cool animal sidekick pose format with our own lion friend, minus the gold chain and luxury flexing. Anijam's 4 Nov list confirms Dame Hombro as the one November dance that suits animated characters. Total 2023."
   }
  ],
  "history": [
@@ -15691,6 +15712,10 @@
   {
    "date": "2026-11-16 16:03",
    "total": 2020
+  },
+  {
+   "date": "2026-11-16 16:04",
+   "total": 2023
   }
  ],
  "next_week_ideas": [
@@ -15752,6 +15777,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Cool lion photo pose",
+   "where": "Instagram Reels and YouTube Shorts (India, from 6 Nov 2026)",
+   "status": "rising",
+   "use": "Our own original lion friend in sunglasses walks in on the beat and stands beside each Bro for a 'photo with me' freeze; each photo flash changes the place (beach, snowy hill, birthday party). Step for Meshy: standing in place, chest out, one hand on hip, other hand gives a thumbs up, small head nod. No gold chains or money props."
+  },
   {
    "name": "Kangaroo hop circle",
    "where": "TikTok and X (Mexico, then school groups in Japan and Korea)",
@@ -15865,12 +15896,6 @@
    "where": "Reels and Shorts, UK Christmas Jumper Day 10 Dec 2026 and all December",
    "status": "seasonal",
    "use": "A 10 to 15 second Short: the Bros stand side by side in plain tops, count 'one, two, three' and do a spin (standing, turn once on the spot with arms out, 2 seconds); on the cut they finish the turn in bright knitted Christmas jumpers (snowflakes, a reindeer, a tree), then point at each other's jumper and do a happy shoulder shimmy to our own jingly song; caption 'Jumper check!'."
-  },
-  {
-   "name": "Big Chew or Tiny Nibble",
-   "where": "TikTok and Reels (W Chews / L Nibbles slang, Nov 2026)",
-   "status": "rising",
-   "use": "A 20 to 30 second Short: a food pops in on each beat (apple, broccoli, carrot, a cookie), the Bros react with a 'BIG CHEW' (standing in place, both hands up to the mouth, big chomping jaw and a happy head bob, 2 seconds) or a 'tiny nibble' (standing in place, lean forward a little, small quick bites with a surprised then pleased face, 2 seconds); every food ends liked, never 'yuck', sung to our own bouncy food song with the caption 'Big chew or tiny nibble?'."
   }
  ]
 }
