@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:49:27+05:30",
- "runs": 764,
+ "updated": "2026-11-16T23:50:22+05:30",
+ "runs": 765,
  "branches": [
   {
    "id": "platforms",
@@ -5592,6 +5592,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 764
+    },
+    {
+     "t": "Bebefinn's first feature (streaming on Netflix from Apr 2026) has the youngest brother pulled into a tablet and his siblings teaming up with mascot friends to bring him home, with sing along numbers that hop between jazz, EDM and Broadway styles and scenes that switch from 3D to pixel art; a Bro Bros 'brother inside the video game' song with a pixel art verse and a style change per verse is the same trick on a small budget.",
+     "src": "BSC Kids, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 765
+    },
+    {
+     "t": "Bebefinn's Korean language channel (5.14M subscribers, about 4.5B views) still drew about 65M views in the 28 days to 13 Nov 2026 with short role play songs such as fixing a toy car with hashtags in the title, showing that a big brand keeps a separate home language channel fed with pretend play songs alongside its English channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 765
+    },
+    {
+     "t": "ChuChu TV, which says it has over 180M subscribers and 100B views across its channels, hired Cookbook Media (Sep 2025) to sell its library to TV and streaming and build toys, publishing, live shows and games in North America, so the largest Indian kids song brand is turning into a licensed lifestyle brand built on recurring characters, not just songs.",
+     "src": "Licensing International, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 765
     }
    ]
   },
@@ -16396,10 +16417,6 @@
   },
   {
    "date": "2026-11-16 21:54",
-   "note": "Run 686 (YouTube algorithm (October to November change log recheck)): AIR's month by month algorithm log (updated 4 Nov) and the Beaupre subscriber click interview only repeated items already in the tree (original Shorts boost 1 Oct, custom Home feeds 22 Oct, 30 day spam cleanup test 29 Oct, eight impression cap); no November ranking change has been reported, so no new leaves. Total 2258."
-  },
-  {
-   "date": "2026-11-16 21:54",
    "note": "Run 687 (Shorts and Reels (benchmarks and loop recheck)): Loop, hook and Shorts timing searches repeated the tree (Socialinsider's late arriving Shorts views is already a leaf). New from Metricool's 2026 short video benchmark of 375,462 accounts: TikTok gives the most views for small and medium accounts, while Instagram leads every size tier in shares and medium Reels average about 21 comments, nearly four times a Short. Total 2259."
   },
   {
@@ -16709,6 +16726,10 @@
   {
    "date": "2026-11-16 23:49",
    "note": "Run 764 (global markets (Kenya and Indonesia kids music channels)): Kenya's Uli and Tata's African Nursery Rhymes (a brother and sister guided by a singing bird, songs in five languages) shows a sibling quest format travelling across Africa; Indonesia's NANANA KIDS (11,591 uploads) fell from about 3.2M monthly views in Feb 2026 to about 170K in Oct, more proof that bulk compilations are fading. Total 2328."
+  },
+  {
+   "date": "2026-11-16 23:50",
+   "note": "Run 765 (competitor deep dive (Bebefinn film and Korean channel, ChuChu TV licensing)): Bebefinn's first film (on Netflix since Apr 2026) has siblings rescuing a brother pulled into a tablet, mixing jazz, EDM and Broadway music with 3D plus pixel art; its Korean home channel (5.14M subs) still pulls about 65M views a month with role play songs like fixing a car. Total 2331."
   }
  ],
  "history": [
@@ -17703,9 +17724,17 @@
   {
    "date": "2026-11-16 23:49",
    "total": 2328
+  },
+  {
+   "date": "2026-11-16 23:50",
+   "total": 2331
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Brother in the Game! (Pixel Rescue Song)",
+   "why": "Bebefinn's film rescue plot and pixel art switch show kids love a sibling pulled into a screen world; one Bro jumps into a pixel game and the other sings him out level by level, with an 8 bit verse and a big 3D chorus, an original idea that works in every language."
+  },
   {
    "title": "Penguin Waddle Dance! (Winter Animal Dance Along)",
    "why": "Pinkfong's biggest video ever is a simple named animal dance along (Monkey Banana Dance, about 922M views, five times its next best) and babies watch lively play songs far longer than calm ones; a winter penguin song where the brothers copy waddle, flap, slide in place and freeze fits the season, our evergreen gap before 23 Nov, and the one by one parade format for the Reel."
@@ -17757,10 +17786,6 @@
   {
    "title": "Sammy the Sea Lion Says Clap!",
    "why": "Loud, clappy sea lion clips were among 2026's most loved animal videos; a copy me song where an original sea lion barks, claps and hops and the Bros and viewers copy him is a simple worldwide action song with no words needed in the hook."
-  },
-  {
-   "title": "The Haircut Is Not Scary",
-   "why": "Fear calming songs about new experiences (eye test, dark room, doctor) are among the longest lasting kids hits worldwide; a Bro nervous at his first haircut, a brave counting chorus and a proud mirror dance travels to every culture."
   }
  ],
  "trend_bank": [
