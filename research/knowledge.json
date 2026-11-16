@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:40:13+05:30",
- "runs": 815,
+ "updated": "2026-11-17T01:40:57+05:30",
+ "runs": 816,
  "branches": [
   {
    "id": "platforms",
@@ -13572,6 +13572,20 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 804
+    },
+    {
+     "t": "Between 10 and 14 Nov 2026 about 87 to 94% of our daily YouTube views (for example 1,296 of 1,386 on 10 Nov) went to videos published since 3 Nov, so songs older than about a week bring almost no views; each new song gets roughly one week of life unless a playlist, compilation or end screen keeps sending viewers back to it.",
+     "src": "Metricool YouTube evolution, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 816
+    },
+    {
+     "t": "Daily YouTube views climbed from about 450 to 500 a day (3 to 6 Nov) to 900 to 1,400 (10 to 13 Nov) while uploads stayed at 3 to 4 a day, then eased to about 850 on 14 Nov, so the second week of November lifted the whole channel and the next check should see whether this holds or fades with the newer songs.",
+     "src": "Metricool YouTube evolution, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 816
     }
    ]
   },
@@ -16832,12 +16846,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:54",
-   "note": "Earlier runs summarised: all rounds through Run 737 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:55",
-   "note": "Run 738 (visual craft (character colour and gender appeal, title rule tests)): Emoji and title rule studies were already in the tree; a Japanese preprint with 345 preschoolers found recolouring robots pink barely changed girls' choices, a weak hint that characters need their own roles, not just colour swaps. Total 2308."
+   "note": "Earlier runs summarised: all rounds through Run 738 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:55",
@@ -17150,6 +17160,10 @@
   {
    "date": "2026-11-17 01:40",
    "note": "Run 815 (TRENDS (mid November dance and Reels lists)): Later (13 Nov), B&T (2 Nov) and Virlo (29 Oct) lists hold no new kid safe formats beyond what is in the tree and trend bank; added a skip note for the 'Babybooing' dance, whose clap section looks harmless but whose moves are suggestive. Trend bank unchanged. Total 2391."
+  },
+  {
+   "date": "2026-11-17 01:40",
+   "note": "Run 816 (our own results (YouTube evolution, published vs visited views)): Metricool data runs only to 14 Nov. New: from 10 to 14 Nov about 87 to 94% of daily YouTube views came from videos published since 3 Nov, so our back catalogue older than about a week brings almost nothing and each song lives about one week unless playlists or compilations revive it. Total 2393."
   }
  ],
  "history": [
@@ -18348,6 +18362,10 @@
   {
    "date": "2026-11-17 01:40",
    "total": 2391
+  },
+  {
+   "date": "2026-11-17 01:40",
+   "total": 2393
   }
  ],
  "next_week_ideas": [
