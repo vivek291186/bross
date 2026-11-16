@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:55:53+05:30",
- "runs": 660,
+ "updated": "2026-11-16T19:56:48+05:30",
+ "runs": 661,
  "branches": [
   {
    "id": "platforms",
@@ -15462,6 +15462,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 658
+    },
+    {
+     "t": "Volume's hook tracker for the week to 15 Nov 2026 shows 'POV your baby is in charge of turning the pages' reaching about 469 times its creator's usual views on Instagram, a gentle read aloud format where a little one controls the story; a Bro Bros picture book song where Little Bro flips the pages at the wrong time is a direct kid safe version.",
+     "src": "tryvolume.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 661
+    },
+    {
+     "t": "In the same week the strongest family hooks were first time parent confessions ('Why didn't I know this with my first baby?', about 1,246 times usual likes; 'Things I wish I knew as a first time mom', 52 times usual views), so captions on Bro Bros routine song Reels can speak to parents with a helpful tip line ('the song that ended our tooth brushing fights') rather than only to kids.",
+     "src": "tryvolume.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 661
     }
    ]
   }
@@ -15489,11 +15503,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 581 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:52",
-   "note": "Run 582 (TRENDS (K-pop challenges and Japanese kids' buzzwords)): IVE's 'Looks Can Kill' relay challenge (out 26 Oct) passed 100M views in two days with a cute repeating part and a signature 'sniper' point move; Japan's 2025 kids survey put silly hybrid animal memes first for girls and second for boys, so absurd original animal mash ups appeal to both. Total 2076."
+   "note": "Earlier runs summarised: all rounds through Run 582 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:53",
@@ -15806,6 +15816,10 @@
   {
    "date": "2026-11-16 19:55",
    "note": "Run 660 (our results (Metricool schedule check for 16 to 18 Nov)): Analytics were already recorded today, so this round read the Metricool schedule instead: the six songs for 16 to 18 Nov (drum freeze dance, Wiggle Bus, digger, boo boo bandage, veggie tango, Freeze Arena) all follow the playbook but none is wintry or Christmas yet, every post has the YouTube and Instagram AI flags set to false although the music is made in Suno, and each song still gets a Short 5 minutes after the long video. Total 2199."
+  },
+  {
+   "date": "2026-11-16 19:56",
+   "note": "Run 661 (TRENDS (baby page turner POV, parent hack hooks)): Weekly TikTok and Reels lists (Epidemic Sound 13 Nov, Anijam, NewEngen) only repeated banked trends. New from Volume's 15 Nov hook tracker: 'POV your baby is in charge of turning the pages' ran about 469 times its account's usual views and first time parent hack hooks ran 50 to 1,200 times usual, so a page turning comedy song went into the trend bank. Total 2201."
   }
  ],
  "history": [
@@ -16384,6 +16398,10 @@
   {
    "date": "2026-11-16 19:55",
    "total": 2199
+  },
+  {
+   "date": "2026-11-16 19:56",
+   "total": 2201
   }
  ],
  "next_week_ideas": [
@@ -16445,6 +16463,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Baby turns the pages",
+   "where": "Instagram Reels (family and creative accounts, outperforming about 469x usual views, week of 15 Nov 2026)",
+   "status": "rising",
+   "use": "POV text 'Little Bro is in charge of turning the pages': Big Bro sings a picture book song but Little Bro keeps flipping too early, skipping back or turning to the last page, so the story jumps (a snowman suddenly at the beach) and Big Bro has to sing faster to catch up; it ends with both singing the real ending together. Meshy motion: standing, Big Bro holds a big book and sways while singing; Little Bro does quick page flip arm sweeps and a cheeky shoulder shrug."
+  },
   {
    "name": "Room glow up reveal",
    "where": "Instagram Reels (holiday home transformations accelerating, week of 7 Nov 2026)",
@@ -16558,12 +16582,6 @@
    "where": "TikTok and Instagram family winter videos (winter, seasonal)",
    "status": "seasonal",
    "use": "A winter colours song where the Bros stack glowing ice blocks one colour per line (red, orange, yellow, green, blue, purple) in a quick time lapse, then step back for a night time glowing reveal and a cosy wave from the doorway. Meshy steps, standing: lifting a block to chest height and placing it forward, a proud hands on hips pose, a two hand wave."
-  },
-  {
-   "name": "Balloon pop countdown",
-   "where": "Family Reels, Shorts and YouTube New Year videos (31 Dec, seasonal)",
-   "status": "seasonal",
-   "use": "A New Year countdown song where ten numbered balloons float behind the Bros; on each count one pops and shows a picture of the next move (clap, jump, wave, spin in place, arms up, march, wiggle, point up, star pose, big cheer), with confetti and fireworks at zero. Meshy steps, all standing in place: two claps, a small jump, a big wave, a slow turn in place, arms up and down, marching on the spot, a hip wiggle, pointing up, a star pose with arms and legs wide, a cheering arm pump."
   }
  ]
 }
