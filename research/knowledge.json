@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:09:38+05:30",
- "runs": 713,
+ "updated": "2026-11-16T22:10:08+05:30",
+ "runs": 714,
  "branches": [
   {
    "id": "platforms",
@@ -5452,6 +5452,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 705
+    },
+    {
+     "t": "Kids Diana Show gained about 5.0B views in January to October 2026 against about 10.6B in the same months of 2025, roughly half, with zero subscriber growth, even though it still packages videos as challenges, mazes and escape rooms; together with ChuChu TV and Little Angel this shows 2026 is shrinking the old giants while Ms Rachel, Super Simple Songs and Danny Go! grow.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 714
     }
    ]
   },
@@ -16049,11 +16056,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 634 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:51",
-   "note": "Run 635 (rules and monetisation (Indonesia platform commitments, RPM spread)): Indonesia's PP Tunas (in force 28 Mar 2026) drew commitments from YouTube, Meta, TikTok and X by 22 Apr 2026 with Roblox the holdout, and YouTube promised to stop ads aimed at children there; AIR's niche data shows the kids RPM middle range is only about 0.16 to 0.88 USD. AI slop and Q4 RPM findings were already leaves. Total 2130."
+   "note": "Earlier runs summarised: all rounds through Run 635 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:52",
@@ -16366,6 +16369,10 @@
   {
    "date": "2026-11-16 22:09",
    "note": "Run 713 (music craft (Danny Go! movement songs recheck)): Danny Go!'s latest stats (5.43M subscribers, about 167M views in 28 days, 2026 up about 17% on 2025 from only 131 videos) matched leaves already in the tree; no new leaves. Total 2279."
+  },
+  {
+   "date": "2026-11-16 22:10",
+   "note": "Run 714 (visual craft and packaging (Kids Diana Show title patterns and 2026 decline)): Kids Diana Show's views halved in 2026 (about 5.0B in Jan to Oct against about 10.6B a year earlier) even though its titles keep the challenge, maze and escape formats that built it, which adds to the evidence that live action kid creator channels are fading while steady animated music brands hold. Total 2280."
   }
  ],
  "history": [
@@ -17156,6 +17163,10 @@
   {
    "date": "2026-11-16 22:09",
    "total": 2279
+  },
+  {
+   "date": "2026-11-16 22:10",
+   "total": 2280
   }
  ],
  "next_week_ideas": [
