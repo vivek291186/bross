@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:11:39+05:30",
- "runs": 554,
+ "updated": "2026-11-16T16:36:27+05:30",
+ "runs": 555,
  "branches": [
   {
    "id": "platforms",
@@ -14328,6 +14328,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 552
+    },
+    {
+     "t": "On 16 Nov 2026 the main TikTok trend trackers (SocialPilot, Virlo and Spain's que.es) still showed lists last refreshed on 29 to 30 Oct, all built around Halloween costume reveals and the Dame Hombro bounce, so mid November is a quiet gap before the Christmas wave and our evergreen formats (copycat chain, loading reveal, mirror dance) carry this week.",
+     "src": "SocialPilot, Virlo, que.es, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 555
+    },
+    {
+     "t": "YouTube's US trending list on 1 Nov 2026 was led by a long seasonal song playlist used as background music at home and at parties, and 6 of the top 20 trending videos had been uploaded within the previous 24 hours, so a long Bro Bros Christmas songs compilation should be live by the first days of December to catch the same play it in the background habit.",
+     "src": "Mean CEO blog (YouTube trending data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 555
+    },
+    {
+     "t": "Virlo's late October tracker showed the 'Paparazzi bow' (pose for the camera, then a deep bow on the beat drop) rising from 22 to 33 creators in a week; a standing pose and a polite bow is an easy kid safe ending move for any Bro Bros song, done with our own music.",
+     "src": "Virlo, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 555
     }
    ]
   }
@@ -14355,11 +14376,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 475 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:52",
-   "note": "Run 476 (global markets (Philippines and South Korea viewing habits)): A 6 Nov 2026 survey of 1,000 Filipino parents found 34% use kids apps like YouTube Kids as a safety step and 97% want evidence based rules; Filipino toddlers average nearly two hours of screen video a day, picked by mothers as educational; in Korea YouTube takes 113.6B minutes a month, over 20 times Netflix, and YouTube Music grew 186% since 2022. Total 1871."
+   "note": "Earlier runs summarised: all rounds through Run 476 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:53",
@@ -14672,6 +14689,10 @@
   {
    "date": "2026-11-16 16:11",
    "note": "Run 554 (other platforms (Netflix top 10 for 2 to 8 Nov; Shorts and Reels skipped as rechecked at 16:05)): Netflix's 2 to 8 Nov chart was led by the family dog Christmas film already in the tree, with no new kids series, so no new leaves. Total 2037."
+  },
+  {
+   "date": "2026-11-16 16:36",
+   "note": "Run 555 (TRENDS (mid November tracker check)): The big TikTok trend trackers (SocialPilot, Virlo, que.es) have not refreshed since 29 to 30 Oct, so mid November is a lull between Halloween and the Christmas wave; YouTube's 1 Nov US trending list shows fresh uploads and seasonal song playlists leading. Total 2040."
   }
  ],
  "history": [
@@ -15870,6 +15891,10 @@
   {
    "date": "2026-11-16 16:11",
    "total": 2037
+  },
+  {
+   "date": "2026-11-16 16:36",
+   "total": 2040
   }
  ],
  "next_week_ideas": [
