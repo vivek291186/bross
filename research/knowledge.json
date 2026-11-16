@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:59:14+05:30",
- "runs": 446,
+ "updated": "2026-11-16T11:00:21+05:30",
+ "runs": 447,
  "branches": [
   {
    "id": "platforms",
@@ -12669,6 +12669,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 444
+    },
+    {
+     "t": "On a 13 Nov 2026 chart of the 50 fastest growing TikTok trends (ranked by new videos a day) most entries are dances, and many invite you to do them with your mum, your dog, your cat or an AI character, so letting a Bro Bros pet or toy join the dance is the current way to refresh a routine.",
+     "src": "viralremix.org, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 447
+    },
+    {
+     "t": "The 'Hop Hop Hop' trend on that chart is just two shots joined by a hard cut, a hop in the first and a point at the camera in the second, one of the simplest transitions going and easy to render with two Meshy clips.",
+     "src": "viralremix.org, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 447
+    },
+    {
+     "t": "A 'Kung Fu Cat' AI trend (a cat blocks and then karate chops a tissue in half) and a pet headbanging to rock are among the kid friendly pet gags rising in mid November 2026, so a short animal action gag on the beat drop is a ready Short ending.",
+     "src": "viralremix.org, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 447
+    },
+    {
+     "t": "Line dances you do 'with family or a crew' and couples' line dances keep appearing on mid November charts, so a simple Bro Bros line dance (everyone in a row doing the same four moves) remains a format families can copy together at holiday parties.",
+     "src": "viralremix.org, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 447
     }
    ]
   }
@@ -12696,11 +12724,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 367 (global markets (BabyBus in Japan and Vietnam, Japan..."
-  },
-  {
-   "date": "2026-11-16 07:56",
-   "note": "Run 368 (competitor deep dive (CoComelon Brasil's breakout rain song, ChuChu TV's stalled giant)): CoComelon's Portuguese channel shows how big a localised classic can be: its new 'Rain Rain Go Away' version (17 Oct) passed 4.7M views, about 36 times its usual, and a two song duck combo hit 1.7M, while its 11 to 27 second Shorts stay at 3K to 92K and there was still no Christmas upload by 10 Nov. ChuChu TV's main channel (98M subscribers) gained no subscribers in 28 days, living on 30 minute classic compilations. Total 1531."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 368 (competitor deep dive (CoComelon Brasil's breakout r..."
   },
   {
    "date": "2026-11-16 07:56",
@@ -13013,6 +13037,10 @@
   {
    "date": "2026-11-16 10:59",
    "note": "Run 446 (topics and seasons (New Year as the main winter holiday in Russia and Japan; Shorts and Reels skipped as fully covered)): For Russian speaking families the tree, gifts and Grandfather Frost with the Snow Maiden belong to New Year's Eve on 31 Dec (Orthodox Christmas is 7 Jan), and in Japan New Year is the family holiday with otoshidama gift envelopes for children and kites, so a New Year tree, gift and kite song travels further than a Santa song in those markets. Total 1800."
+  },
+  {
+   "date": "2026-11-16 11:00",
+   "note": "Run 447 (TRENDS (13 Nov TikTok trend chart: hop and point cut, karate cat, family line dance)): A 13 Nov 2026 chart of 50 TikTok trends ranked by new videos a day is mostly dances, many done 'with your mom, your dog or an AI character'; new kid safe formats are a two shot hop then point hard cut, a cat karate chopping a tissue, and a family line dance, so a hop and point cut and a karate kitty gag went into the trend bank. Total 1804."
   }
  ],
  "history": [
@@ -13779,6 +13807,10 @@
   {
    "date": "2026-11-16 10:59",
    "total": 1800
+  },
+  {
+   "date": "2026-11-16 11:00",
+   "total": 1804
   }
  ],
  "next_week_ideas": [
@@ -13841,6 +13873,18 @@
  ],
  "trend_bank": [
   {
+   "name": "Hop and point cut",
+   "where": "TikTok (Hop Hop Hop trend on the 13 Nov 2026 chart: two shots, a hop then a point, joined by a hard cut)",
+   "status": "rising",
+   "use": "Use it as the hook of any new song's Short: shot 1 Big Bro hops once in place on the last word of the chorus, hard cut, shot 2 Little Bro points straight at the camera on the next beat and says 'Your turn!'. Meshy prompts: standing, one small two foot hop in place, land and freeze; standing, point forward at the viewer with the right arm and smile."
+  },
+  {
+   "name": "Karate kitty chop",
+   "where": "TikTok (Kung Fu Cat AI trend, a cat blocks then chops a tissue in half; rising mid Nov 2026 among pet gags)",
+   "status": "rising",
+   "use": "A 10 second Short ending: our own original cartoon kitten friend watches the Bros dance, then on the beat drop does a tiny 'hi ya!' karate chop that splits a falling snowflake or leaf in two, and the Bros copy the chop with a big cheer. Meshy prompt for the Bros: standing in place, two quick blocks with both forearms, then one downward chop with the right hand and a proud pose."
+  },
+  {
    "name": "Rhyme for as long as we can",
    "where": "TikTok (December 2025 family game, two people sway and trade made up rhymes until one fails; likely to return in December)",
    "status": "seasonal",
@@ -13875,12 +13919,6 @@
    "where": "TikTok holiday templates (Dromana, Nov 2026)",
    "status": "seasonal",
    "use": "The Bros in our own original elf outfits (striped tights, pointed shoes, not any branded elf) dance among wrapped presents to our own toy workshop song: hammer tap with one hand, wrap a parcel with both arms in a circle, tiptoe in place, then a big jazz hands finish. Meshy prompt: standing in place, tap right fist down twice, roll both arms in a circle, small tiptoe steps on the spot, jazz hands."
-  },
-  {
-   "name": "Chipmunk trio dance",
-   "where": "TikTok (NewEngen November 2026 list, updated 13 Nov)",
-   "status": "rising",
-   "use": "Three characters in a row (Big Bro, Little Bro and a friend) do a short sped up routine to our own high pitched, fast party chorus: two small hops in place, a front kick with each leg, a full spin on the spot, then a head toss with hands on hips; film wide so all three fit. Meshy prompt: standing in place, small hop twice, kick right leg forward, kick left leg forward, spin around once, hands on hips and nod."
   },
   {
    "name": "Slow motion entrance",
@@ -13935,12 +13973,6 @@
    "where": "Instagram Reels and TikTok (Inmagic 16 Nov, NewEngen 13 Nov 2026)",
    "status": "peak",
    "use": "Fixed camera on the Bros' plain living room; Little Bro shouts 'It's time!' on our own beat, a jump cut on the drum hit turns the room into a full Christmas set (tree, lights, snow at the window) and both Bros start our Christmas chorus. Same angle before and after so the cut looks magic. Meshy prompt: standing, raise both arms and shout, then bounce in place with jazz hands."
-  },
-  {
-   "name": "Choo choo toy train",
-   "where": "Google Holiday 100 (classic toy train searches +240%, Nov 2026)",
-   "status": "rising",
-   "use": "A 15 second Short where a wooden toy train circles the Christmas tree and each carriage carries one Bro Bros friend waving; on each 'choo choo' in our own train song the kids do the train arm move. Meshy prompt: standing in place, both bent arms circle forward like train wheels while stepping on the spot, then pull an imaginary whistle cord overhead twice."
   },
   {
    "name": "Five stages of waiting",
