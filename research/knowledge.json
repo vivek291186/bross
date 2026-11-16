@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:59:26+05:30",
- "runs": 694,
+ "updated": "2026-11-16T22:00:15+05:30",
+ "runs": 695,
  "branches": [
   {
    "id": "platforms",
@@ -12249,6 +12249,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 683
+    },
+    {
+     "t": "eSafety Australia's survey of 898 parents of 8 to 15 year olds (Jan to Feb 2026) found the share of children with their own YouTube account fell from 36.5% to 17.7% after the under 16 rules, and across all restricted platforms from about 50% to 31%; viewing without an account remains allowed, so in Australia (and possibly the UK next) kids increasingly watch logged out or in YouTube Kids, where likes and subscribes mean little and the parent's choices matter more.",
+     "src": "esafety.gov.au, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 695
+    },
+    {
+     "t": "In the same survey, the main reason older children kept YouTube accounts was that YouTube had not yet asked them to verify age (about 66%), with smaller shares using borrowed IDs, VPNs or new accounts, so age checks are still tightening and logged in child viewing in age restricted countries will keep falling.",
+     "src": "esafety.gov.au, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 695
     }
    ]
   },
@@ -15958,11 +15972,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 615 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:08",
-   "note": "Run 616 (music craft (moving in sync and helping)): Laura Cirelli's studies found 14 month olds bounced in time with an adult to music were more willing to help that adult afterwards than babies bounced out of time, which supports songs that ask parent and child to bounce, sway or clap together on the beat. Total 2101."
+   "note": "Earlier runs summarised: all rounds through Run 616 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:09",
@@ -16275,6 +16285,10 @@
   {
    "date": "2026-11-16 21:59",
    "note": "Run 694 (algorithm experiments and data (title formulas, Netflix creator ranks, upload timing; trends skipped after an empty trends round)): vidIQ's 2026 title formula study, the H1 2026 YouTube creators on Netflix ranking and AIR's kids upload timing and case pages were all already in the tree; no new leaves. Total 2266."
+  },
+  {
+   "date": "2026-11-16 22:00",
+   "note": "Run 695 (rules and safety (Australia under 16 account data)): eSafety's survey of 898 Australian parents (Jan to Feb 2026) found the share of 8 to 15 year olds with a YouTube account fell from about 37% to 18% after the under 16 rules, while logged out viewing stayed allowed; RPM and AI policy searches repeated the tree. Total 2268."
   }
  ],
  "history": [
@@ -16989,6 +17003,10 @@
   {
    "date": "2026-11-16 21:59",
    "total": 2266
+  },
+  {
+   "date": "2026-11-16 22:00",
+   "total": 2268
   }
  ],
  "next_week_ideas": [
