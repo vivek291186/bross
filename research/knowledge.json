@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:48:21+05:30",
- "runs": 471,
+ "updated": "2026-11-16T11:49:15+05:30",
+ "runs": 472,
  "branches": [
   {
    "id": "platforms",
@@ -13061,6 +13061,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 456
+    },
+    {
+     "t": "'W Chews / L Nibbles' (Know Your Meme, 6 Nov 2026) is new TikTok slang for good food versus bad food, spread through silly AI videos of a baby like character eating; a food positive Bro Bros version rates foods with a big happy chew or a brave tiny nibble, which also fits the picky eater advice of trying small tastes.",
+     "src": "knowyourmeme.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 472
+    },
+    {
+     "t": "Most of Know Your Meme's early November 2026 roundup is unsuitable for kids (a thirst trap version of the heart pose, angry political memes, rude wordplay), confirming that only a few of each week's memes can be adapted and the bicep heart pose should now be avoided.",
+     "src": "knowyourmeme.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 472
     }
    ]
   }
@@ -13087,12 +13101,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:52",
-   "note": "Earlier runs summarised: all rounds through Run 392 (competitors (Super Simple Songs' steady 2026 growth, nonsense word hygiene hit, action twists on classics)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:53",
-   "note": "Run 393 (algorithm experiments (TRENDS skipped, last round found little new; compilations around 10 minutes, distinct visuals for alternate versions, 16 automated streams)): The TRENDS slot was skipped because the last trends round found little new. Two AIR kids cases (Q4 2025) add data: a million subscriber song channel that rebuilt 2 to 3 minute songs into about 10 minute compilations saw +19% watch duration, +9% CPM and +72% RPM, and gave acoustic or alternate versions their own visuals to avoid duplicate signals; a smaller channel that went from one manual stream to 16 automated 24/7 streams lifted average view duration from 1:36 to 2:06 and revenue 63%. Total 1634."
+   "note": "Earlier runs summarised: all rounds through Run 393 (algorithm experiments (TRENDS skipped, last round found little new; compilations around 10 minutes, distinct visuals for alternate versions, 16 automated streams)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:54",
@@ -13405,6 +13415,10 @@
   {
    "date": "2026-11-16 11:48",
    "note": "Run 471 (Shorts and Reels (new Instagram tools: Use as reference, end of Reels series linking, audio links)): Instagram ended Reels series linking on 28 Oct 2026 while testing a Series hub with Watch Next; its new 'Use as reference' camera plays any Reel under 90 seconds in a corner with a countdown so people can copy the moves, and Edits now adds clickable links to a Reel's sound. Total 1856."
+  },
+  {
+   "date": "2026-11-16 11:49",
+   "note": "Run 472 (TRENDS (Know Your Meme weekly roundups, school dance virals; most already covered)): Know Your Meme's 6 Nov 2026 roundup adds 'W Chews / L Nibbles' (new slang for good food and bad food, shown in silly AI videos of a toddler character eating); the rest of that roundup (thirst trap poses, angry political memes, rude wordplay) is not kid safe. Added a food positive 'Big Chew or Tiny Nibble' format to the trend bank. Total 1858."
   }
  ],
  "history": [
@@ -14271,6 +14285,10 @@
   {
    "date": "2026-11-16 11:48",
    "total": 1856
+  },
+  {
+   "date": "2026-11-16 11:49",
+   "total": 1858
   }
  ],
  "next_week_ideas": [
@@ -14332,6 +14350,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Big Chew or Tiny Nibble",
+   "where": "TikTok and Reels (W Chews / L Nibbles slang, Nov 2026)",
+   "status": "rising",
+   "use": "A 20 to 30 second Short: a food pops in on each beat (apple, broccoli, carrot, a cookie), the Bros react with a 'BIG CHEW' (standing in place, both hands up to the mouth, big chomping jaw and a happy head bob, 2 seconds) or a 'tiny nibble' (standing in place, lean forward a little, small quick bites with a surprised then pleased face, 2 seconds); every food ends liked, never 'yuck', sung to our own bouncy food song with the caption 'Big chew or tiny nibble?'."
+  },
   {
    "name": "Snow delivery surprise",
    "where": "TikTok and Reels evergreen each winter (relatives bring mountain snow to a child in a warm place; one clip about 12.5M views)",
@@ -14445,12 +14469,6 @@
    "where": "TikTok, rising Nov 2026 (US Latin creators, Spain, Italy); still on NewEngen 13 Nov and Inmagic 16 Nov 2026 lists, now in Spain and Italy",
    "status": "peak",
    "use": "Make one of our own bouncy 100 BPM dembow flavoured kids songs with a 'shoulder, shoulder' hook; Big Bro and Little Bro face camera and bounce their shoulders up and down on every beat, then point to the viewer to copy. Meshy prompt: standing in place, bounce both shoulders up and down to the beat, small knee bounce, arms relaxed at sides, then point forward."
-  },
-  {
-   "name": "Advent door countdown",
-   "where": "YouTube (Advent calendar videos about 280M views in Nov 2025, Google 2026 report)",
-   "status": "seasonal",
-   "use": "A daily Short from 1 Dec (teaser in late Nov): the Bros open one numbered door on a giant Advent calendar and our own tiny helper elf (original design, kind, never spying) pops out with a surprise inside, a toy, a snack, a dance move or a kind deed, each with its own 15 second song line, ending 'See you tomorrow!'."
   }
  ]
 }
