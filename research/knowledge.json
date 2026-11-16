@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:58:22+05:30",
- "runs": 371,
+ "updated": "2026-11-16T07:59:17+05:30",
+ "runs": 372,
  "branches": [
   {
    "id": "platforms",
@@ -10877,6 +10877,41 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 369
+    },
+    {
+     "t": "Google's Holiday 100 (9 Nov 2026) reports searches for 'classic toy train set' up 240% (the example is a wooden train for a 2 year old) and adjustable roller skates up 180%, a nostalgia and timeless play wave that makes a Christmas train song with a wooden toy train look very current.",
+     "src": "Google, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 372
+    },
+    {
+     "t": "Google's YouTube holiday report says gamified video formats (challenges, quizzes, games) spike before Black Friday and Cyber Monday and stay strong through mid December, so late November is the moment for interactive Bro Bros Shorts such as 'spot the present' or 'freeze when the bell rings'.",
+     "src": "Google holiday trends report, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 372
+    },
+    {
+     "t": "Secret Santa videos are a popular holiday format (one creator's Secret Santa reached about 1M views last season), and a kind version for kids fits us: the Bros and friends draw names and make each other small handmade gifts in a sharing song.",
+     "src": "Google holiday trends report, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 372
+    },
+    {
+     "t": "Daily 25 day series are a holiday comfort ritual on YouTube (over 250K Vlogmas titled videos were uploaded in Dec 2025; one 25 day series passed 5M views), which supports running a 1 to 24 December Bro Bros Advent series with the same opening and a new tiny surprise each day.",
+     "src": "Google holiday trends report, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 372
+    },
+    {
+     "t": "'What I got for Christmas' videos surge from 25 to 28 December, so a gentle 'my favourite present was...' Bro Bros song or Short (focused on time together, not toy brands) should be scheduled for Christmas Day and the days after.",
+     "src": "Google holiday trends report, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 372
     }
    ]
   }
@@ -10905,10 +10940,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 03:49",
-   "note": "Run 293 (music craft (Suno solo vocals, songs with staying power)): A Sept 2026 Suno guide shows how to keep one clear lead voice (describe 'one clear lead singer' first, push the chorus lift into instruments, list choir, crowd, gang vocals and harmonies in Exclude, avoid words like anthemic or singalong in Style, fix single sections with Replace Section). Hit Songs Deconstructed's 2025 staying power report found long running hits are shorter (3:17), open faster (11 second intros), use pre choruses far more (73% vs 40%) and borrow 1980s sounds. Playbook rule on vocals updated. Total 1254."
   },
   {
    "date": "2026-11-16 03:49",
@@ -11221,13 +11252,13 @@
   {
    "date": "2026-11-16 07:58",
    "note": "Run 371 (YouTube channels (our Metricool data still unchanged so skipped; Bebefinn's Portuguese and Japanese channels)): Metricool still had no YouTube data after 11 Nov, so this round compared local language channels. Bebefinn Portuguese (9.1M subscribers) drew about 296M views and 150K new subscribers in 28 days, far ahead of CoComelon Brasil, and Bebefinn Japanese matches BabyBus Japan's monthly views with a quarter of the subscribers, proof that a newer brand can overtake incumbents in a language. Their newest uploads are a stranger safety song and a rainy day clothes song. Total 1544."
+  },
+  {
+   "date": "2026-11-16 07:59",
+   "note": "Run 372 (TRENDS (Google Holiday 100: toy trains up 240%, Secret Santa and gamified formats, 25 day series)): Google's Holiday 100 (9 Nov) shows searches for classic toy train sets up 240% and roller skates up 180%, a nostalgia wave that suits a Christmas train song; Google's YouTube holiday report adds that gamified formats peak before Black Friday and stay strong to mid December, Secret Santa videos are popular, and 25 day daily series like Vlogmas are a comfort ritual that a Bro Bros Advent series can copy. Total 1549."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:42",
-   "total": 392
-  },
   {
    "date": "2026-11-15 17:43",
    "total": 396
@@ -12423,6 +12454,10 @@
   {
    "date": "2026-11-16 07:58",
    "total": 1544
+  },
+  {
+   "date": "2026-11-16 07:59",
+   "total": 1549
   }
  ],
  "next_week_ideas": [
@@ -12463,8 +12498,8 @@
    "why": "Frozen bubbles go viral every winter; a calm song where a bubble freezes into ice feathers is visual, wordless enough to travel worldwide and needs no holiday, so it works in both hemispheres' winter content windows."
   },
   {
-   "title": "Clean the Moon! (Space Tidy Up Song)",
-   "why": "'Clean the Moon!' was one of Roblox's fastest risers (+1,323% in a week) and tidy up songs are a routine parents want; the Bros fly up to scrub, sweep and polish the moon until it shines for bedtime, mixing space wonder with a clean up routine that works in any language."
+   "title": "Choo Choo, Christmas Train!",
+   "why": "Google's Holiday 100 (9 Nov 2026) shows searches for classic toy train sets up 240%; a cosy Christmas train song where a wooden train picks up friends, presents and a snowman at each stop gives a counting chorus, a 'choo choo' arm move kids copy and an easy long compilation of station verses."
   },
   {
    "title": "Where's Little Bro? (Hide and Seek Song)",
@@ -12495,6 +12530,12 @@
    "where": "Instagram Reels and TikTok (Inmagic 16 Nov, NewEngen 13 Nov 2026)",
    "status": "peak",
    "use": "Fixed camera on the Bros' plain living room; Little Bro shouts 'It's time!' on our own beat, a jump cut on the drum hit turns the room into a full Christmas set (tree, lights, snow at the window) and both Bros start our Christmas chorus. Same angle before and after so the cut looks magic. Meshy prompt: standing, raise both arms and shout, then bounce in place with jazz hands."
+  },
+  {
+   "name": "Choo choo toy train",
+   "where": "Google Holiday 100 (classic toy train searches +240%, Nov 2026)",
+   "status": "rising",
+   "use": "A 15 second Short where a wooden toy train circles the Christmas tree and each carriage carries one Bro Bros friend waving; on each 'choo choo' in our own train song the kids do the train arm move. Meshy prompt: standing in place, both bent arms circle forward like train wheels while stepping on the spot, then pull an imaginary whistle cord overhead twice."
   },
   {
    "name": "Five stages of waiting",
@@ -12555,12 +12596,6 @@
    "where": "YouTube (Advent calendar videos about 280M views in Nov 2025, Google 2026 report)",
    "status": "seasonal",
    "use": "A daily Short from 1 Dec (teaser in late Nov): the Bros open one numbered door on a giant Advent calendar, a surprise inside (a jingle bell, a snowflake, a dance move) and they do that move to the same 10 second hook of our countdown song, saying the number aloud. Meshy prompt: standing, reach forward and pull open a door, then jump with both arms up."
-  },
-  {
-   "name": "Zoom in hidden word",
-   "where": "Instagram Reels (Inmagic 16 Nov 2026)",
-   "status": "rising",
-   "use": "A still dancing scene with a tiny word hidden in the snow (SMILE, JUMP); caption 'zoom in!' and the Bros do whatever the word says in the next loop, so the viewer pauses, zooms and replays. Keep it one word, big when revealed, kid readable. Meshy prompt: standing, cup hand to ear, then do the named move such as a jump with arms up."
   },
   {
    "name": "Christmas workshop stream",
