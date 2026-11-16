@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:54:04+05:30",
- "runs": 394,
+ "updated": "2026-11-16T08:54:51+05:30",
+ "runs": 395,
  "branches": [
   {
    "id": "platforms",
@@ -4087,6 +4087,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 392
+    },
+    {
+     "t": "Danny Go! (5.43M subscribers) gets about 160M to 210M views every month of 2026 from just 131 videos, adding 100K to 160K subscribers a month; a few big, carefully made movement videos can out earn hundreds of quick uploads.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 395
+    },
+    {
+     "t": "Danny Go!'s newest video, the 'Burning ENERGY! Don't Stop Moving Challenge' (9 Sep 2026), reached about 21.5M views in two months; naming a dance song a 'challenge' with a clear goal (never stop moving) suits older preschoolers and school classroom brain breaks.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 395
+    },
+    {
+     "t": "All five of Danny Go!'s top videos are pretend danger movement games with sequels: 'Quicksand, Lava, Sharks' compilation 270M, 'The Floor Is Lava 2: Into the Volcano!' 263M, 'The Floor is Lava Dance!' 223M, a spooky spiders version 208M and 'Sharks in the Water 2: Rise of the Shark King!' 202M, so a winning game should get numbered part 2 and seasonal versions.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 395
+    },
+    {
+     "t": "Bounce Patrol (Australia, 34M subscribers, 28.7B views) has stalled: about 89M views in the 28 days to 27 Oct 2026 with no subscriber change, and its Halloween upload drew only about 371K views in 24 days while its top hits ('Fruit So Yummy' 335M, Wheels on the Bus remixes) are years old, a warning that live action remix channels without new characters lose momentum.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 395
     }
    ]
   },
@@ -11558,10 +11586,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:41",
-   "note": "Run 316 (music craft (rhythm games build cooperation, rhythm and movement for self regulation, singing to kids fades with age)): Two 2026 trials back movement songs: 8 weeks of clap, step and pass rhythm games lifted cooperation in 5 to 6 year olds (81% cooperative versus 16% before), and an Australian trial with 213 preschoolers found rhythm and movement sessions improved prosocial behaviour six months later. A 12 year New Zealand study shows parents sing less as kids grow while kids start picking their own music. Total 1324."
-  },
-  {
    "date": "2026-11-16 04:42",
    "note": "Run 317 (visual craft (Blender 5.3 release, build the world before boarding, lo fi and hybrid 3D looks)): Blender 5.3 came out on 10 November with Vulkan by default, DLSS 4.5 denoised Cycles previews on NVIDIA and up to 2x compositor playback, but 5.2 LTS stays the safer production base. Max and the Midknights built its whole CG world before storyboarding so only working shots were boarded. Creative Bloq's 2026 list adds lo fi low poly 3D and hybrid flat 3D as rising looks. Total 1327."
   },
@@ -11872,13 +11896,13 @@
   {
    "date": "2026-11-16 08:54",
    "note": "Run 394 (rules (Australia's under 16 ban one year on: YouTube barely affected, logged out viewing allowed)): Australia's under 16 ban (from 10 Dec 2025) blocks kids' own YouTube accounts but still allows logged out viewing, and Qustodio data show 13 to 15 year olds' YouTube use fell only 1 point (to about 37%) against nearly 14 points for Snapchat; for a preschool channel this means Australian families keep watching through parent accounts and TVs, though without personal recommendations for kids on their own. Total 1637."
+  },
+  {
+   "date": "2026-11-16 08:54",
+   "note": "Run 395 (YouTube channels (our Metricool check already done today so skipped; Danny Go! event uploads, Bounce Patrol stalling)): Danny Go! earns about 160M to 210M views a month from only 131 videos: its newest 'Don't Stop Moving Challenge' (9 Sep) passed 21M views in two months and its top five are all movement games with sequels (floor is lava, sharks, spiders). Australia's Bounce Patrol (34M subscribers) has stalled at about 89M views a month with no subscriber growth and a Halloween upload of only 371K views in 24 days. Total 1641."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:58",
-   "total": 483
-  },
   {
    "date": "2026-11-15 18:59",
    "total": 486
@@ -13074,9 +13098,17 @@
   {
    "date": "2026-11-16 08:54",
    "total": 1637
+  },
+  {
+   "date": "2026-11-16 08:54",
+   "total": 1641
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "The Snow Is Lava! (Winter Movement Game)",
+   "why": "Danny Go!'s pretend danger movement games ('The Floor Is Lava' 223M, its part 2 263M, a sharks sequel 202M) are the strongest dance along format for older preschoolers; a winter version where the Bros hop between safe snow mats, freeze on the whistle and dodge a sleepy snow monster gives us a numbered game series of our own."
+  },
   {
    "title": "Catch the Runaway Snowman! (Chase Song)",
    "why": "Lalafun's mission titled rhymes ('Catch the Black Sheep!' 33M in 9 weeks) show chase missions are the top preschool breakout; a snowman that rolls away through town lets the Bros chase, count and finally hug him, with a seasonal winter hook."
@@ -13112,10 +13144,6 @@
   {
    "title": "Hands Up, Bro Bros! (K-pop Style Kids Anthem)",
    "why": "K-pop is Gen Alpha's second favourite genre and idol x kids brand dance challenges keep working; an original bright K-pop flavoured song with a 4 move point choreography (point up, clap twice, side step, heart hands) gives a learnable full dance kids can copy in groups."
-  },
-  {
-   "title": "Freeze, Little Bubble! (Winter Science Song)",
-   "why": "Frozen bubbles go viral every winter; a calm song where a bubble freezes into ice feathers is visual, wordless enough to travel worldwide and needs no holiday, so it works in both hemispheres' winter content windows."
   },
   {
    "title": "Choo Choo, Christmas Train!",
