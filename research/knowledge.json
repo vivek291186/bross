@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:54:57+05:30",
- "runs": 587,
+ "updated": "2026-11-16T16:55:30+05:30",
+ "runs": 588,
  "branches": [
   {
    "id": "platforms",
@@ -14629,6 +14629,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 582
+    },
+    {
+     "t": "A family video that went viral in Mexico (Mar 2026) shows parents stopping two siblings' fight by having them dance one after the other until the anger turns into laughter, and commenters praised it as a better way to handle feelings; a 'dance it out' song where the grumpy Bros take turns doing a silly move until they laugh and hug is a kind, parent approved twist on the dance battle format.",
+     "src": "El Imparcial, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 588
     }
    ]
   }
@@ -14656,11 +14663,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 508 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 13:42",
-   "note": "Run 509 (visual craft (thumbnail studies, MIPJunior and MIPCOM 2026 slates, pacing research; nearly all already in the tree)): Thumbnail and pacing studies were already leaves; the only new point is that the big new preschool slates at MIPCOM 2026 are built from very short episodes (3, 7 and 11 minutes), the same bite size as a Bro Bros song plus a short story. Total 1959."
+   "note": "Earlier runs summarised: all rounds through Run 509 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 13:43",
@@ -14973,13 +14976,13 @@
   {
    "date": "2026-11-16 16:54",
    "note": "Run 587 (our results (Metricool recheck at 16:54 IST)): Metricool still holds YouTube video stats only to 11 Nov and Reels to 15 Nov, unchanged since the 16:41 analysis, so no new leaves. Total 2080."
+  },
+  {
+   "date": "2026-11-16 16:55",
+   "note": "Run 588 (TRENDS (Latin American and Indonesian family dance check)): No new family dance this week; one usable family format from Mexico: parents who stop sibling fights by making the children take turns dancing, which went viral as a kinder way to handle anger and fits a Bro Bros 'dance it out' feelings song. Total 2081."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 03:44",
-   "total": 1238
-  },
   {
    "date": "2026-11-16 03:45",
    "total": 1241
@@ -16175,6 +16178,10 @@
   {
    "date": "2026-11-16 16:54",
    "total": 2080
+  },
+  {
+   "date": "2026-11-16 16:55",
+   "total": 2081
   }
  ],
  "next_week_ideas": [
@@ -16236,6 +16243,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Dance it out battle",
+   "where": "Instagram and TikTok family videos (evergreen)",
+   "status": "evergreen",
+   "use": "Big Bro and Little Bro start cross over one toy, a parent voice says 'dance it out!', and they take turns doing one silly move each (a stomp, a wiggle, a chicken flap, a spin) to our song until both laugh, then share the toy and finish side by side. Meshy steps, standing in place: arms crossed grumpy pose, a heavy stomp, a hip wiggle, elbows flapping, a slow turn in place, then a side hug."
+  },
   {
    "name": "Boom snap clap",
    "where": "Classroom brain breaks, TikTok and Reels (evergreen)",
@@ -16349,12 +16362,6 @@
    "where": "Roblox craze (DONT SPLASH), Nov 2026",
    "status": "rising",
    "use": "A 20 second freeze game Short to our own quiet then loud song: the Bros tiptoe in place (standing, lifting knees slowly, arms out for balance, finger on lips) while the music is soft; on the word 'SPLASH!' the music jumps and they do a big standing star jump with arms up, then freeze like statues until the soft part starts again; kids at home play along."
-  },
-  {
-   "name": "Waiting for the beat",
-   "where": "TikTok and Reels, returning each December",
-   "status": "seasonal",
-   "use": "6 second Short: the younger Bro stands perfectly still, arms by his sides, blinking, during a quiet build of our own song; caption 'What I say most on car trips:' then 'Are we there yet?' pops up on the drop and he does a happy standing bounce with both fists pumping up and down in place (2 seconds), then the older Bro joins with the same bounce."
   }
  ]
 }
