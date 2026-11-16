@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T13:43:15+05:30",
- "runs": 510,
+ "updated": "2026-11-16T13:44:24+05:30",
+ "runs": 511,
  "branches": [
   {
    "id": "platforms",
@@ -9540,6 +9540,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 500
+    },
+    {
+     "t": "Maasranga Kids, the children's channel of a Bangladeshi TV station and the only kids channel in Bangladesh's top 100 (vidIQ, 12 Nov 2026, 5.31M subscribers), grew from about 3.0B views in July 2025 to about 4.9B by November 2026 (roughly 120M views a month) by posting about 14 videos a week averaging 9 minutes, showing steady volume beats virality in this market.",
+     "src": "vidIQ, Jul 2025 and Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 511
     }
    ]
   },
@@ -13784,13 +13791,6 @@
      "run": 504
     },
     {
-     "t": "SocialPilot's late October TikTok list shows a 'AI versus handmade' twist on the Dame Hombro shoulder bounce, putting an AI made clip beside a handmade one doing the same move; for us that is a split screen of a hand drawn or clay style Bro next to the 3D Bro doing the same shoulder bounce, which also fits the post AI authenticity mood.",
-     "src": "SocialPilot TikTok trends, Oct 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 507
-    },
-    {
      "t": "A choreographer's routine to a 1981 jump rope funk song (Double Dutch Bus) drew over 3.5M TikTok likes and more than 13,000 copies in 2026, showing that bouncy, playground style rhythm dances with simple repeatable counts travel well; we can make our own original jump rope rhyme song with an in place hop and arm roll.",
      "src": "Pulse and Hello Magazine, Mar 2026",
      "conf": "medium",
@@ -13823,11 +13823,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 431 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 10:01",
-   "note": "Run 432 (TRENDS (Pinterest weekly trend signals; quiet week for new formats)): Pinterest's weekly business trend report (23 Oct 2026) showed cold weather recipes up 200%, a sign that cosy soup and warm food themes rise into winter, which fits our 18 Nov veggie soup song; no new kid friendly Reels or TikTok formats appeared beyond those already in the trend bank, and Pinterest holiday data online for this season is not yet published. Total 1758."
+   "note": "Earlier runs summarised: all rounds through Run 432 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:01",
@@ -14140,6 +14136,10 @@
   {
    "date": "2026-11-16 13:43",
    "note": "Run 510 (TRENDS (seasonal: holiday toy lists, Pinterest, holiday calendars; mostly already in the tree)): Toy lists confirm squishy sensory toys are selling out in 2026 and TikTok's holiday calendar keeps the season running from 22 Dec pre Christmas through Boxing Day to New Year sales all January, so winter songs stay useful into late January. Total 1961."
+  },
+  {
+   "date": "2026-11-16 13:44",
+   "note": "Run 511 (global markets (Bangladesh, Italy, Poland top lists; almost all already in the tree)): Italy, Poland and Bangladesh lists were already leaves; the one new point is that Bangladesh's only kids channel in the national top 100, TV station run Maasranga Kids, grew from about 3.0B to 4.9B views between Jul 2025 and Nov 2026 by posting about 14 videos a week. Also merged a duplicate 'AI versus handmade' Dame Hombro leaf added in Run 507 into the existing 15 Nov leaf. Total 1961."
   }
  ],
  "history": [
@@ -15161,6 +15161,10 @@
   },
   {
    "date": "2026-11-16 13:43",
+   "total": 1961
+  },
+  {
+   "date": "2026-11-16 13:44",
    "total": 1961
   }
  ],
