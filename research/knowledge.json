@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:56:31+05:30",
- "runs": 341,
+ "updated": "2026-11-16T05:57:08+05:30",
+ "runs": 342,
  "branches": [
   {
    "id": "platforms",
@@ -5417,6 +5417,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 330
+    },
+    {
+     "t": "December thumbnail guidance: high contrast (dark background with a bright subject or the reverse), the main character cut out from the background, at most three or four bold words readable on a phone, and a calmer, less crowded layout than the busy holiday norm; keep all December Bro Bros thumbnails in one template family so they read as a set.",
+     "src": "Kittl, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 342
+    },
+    {
+     "t": "A preschool spin off of a famous race car film series (Oct 2026) swapped glossy photoreal metal for a stylised look with flatter colours, bigger eyes and more rubbery, expressive motion, said to be easier for ages 2 to 6 to follow and closer to the toys; our Blender renders should favour clear flat colours and big readable eyes over realistic reflections.",
+     "src": "Screenwise, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 342
+    },
+    {
+     "t": "The same redesign guide warns that kids 7 and up may find simplified preschool looks 'too babyish', so if we want older kids for dance songs, those videos can use slightly more detailed lighting and faster camera moves while preschool songs keep the simplest look.",
+     "src": "Screenwise, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 342
     }
    ]
   },
@@ -9970,10 +9991,6 @@
   },
   {
    "date": "2026-11-16 01:59",
-   "note": "Run 263 (monetisation (YouTube ad growth slowing, TV share and CPM context)): YouTube's Q3 2026 ad revenue was about $11.2B, up 9.2%, its slowest growth of 2026, even as YouTube hit a record 15.8% of US TV time in August; midterm political ads pushed premium CTV CPMs up for a while, so December rates will lean on holiday retail demand instead. Total 1145."
-  },
-  {
-   "date": "2026-11-16 01:59",
    "note": "Run 264 (YouTube main and YouTube Kids (Kids app entry results, growth audits)): No new weekly top 50 yet (the 15 Nov list is not out). AIR's 2026 growth guide adds one result not yet in the tree: a Spanish kids channel admitted to the YouTube Kids app about a month after a partner submitted it saw views rise 396%, with the app bringing 67.4% of its traffic; AIR's order of fixes is trust signals first, then dubbing, then 24/7 streams. Total 1147."
   },
   {
@@ -10283,6 +10300,10 @@
   {
    "date": "2026-11-16 05:56",
    "note": "Run 341 (music craft (what makes a song sound like Christmas)): Berklee musicologist Joe Bennett's study of the 78 most streamed holiday songs found 95% in a major key, a median tempo of 115 BPM, 90% in 4/4, sleigh bells in 38% and a swing or shuffle feel in 35%; tubular bells and choirs also signal Christmas. A label's analysis of 50 years of UK Christmas No. 1s points to G major and about 114 BPM. These give a ready Suno recipe for our December songs. Total 1410."
+  },
+  {
+   "date": "2026-11-16 05:57",
+   "note": "Run 342 (visual craft (December thumbnails, preschool redesigns toward stylised looks)): December thumbnail advice: high contrast, one cut out subject, three or four bold words at most, a calmer layout than the crowded holiday norm and one consistent December template family; interest in Christmas YouTube climbs from late November. A preschool spin off of a famous car franchise moved from glossy realism to flatter colours, bigger eyes and rubbery motion to suit ages 2 to 6, the same direction our 3D Bros already take. Total 1413."
   }
  ],
  "history": [
@@ -10293,10 +10314,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:00",
-   "total": 279
   },
   {
    "date": "2026-11-15 17:01",
@@ -11485,6 +11502,10 @@
   {
    "date": "2026-11-16 05:56",
    "total": 1410
+  },
+  {
+   "date": "2026-11-16 05:57",
+   "total": 1413
   }
  ],
  "next_week_ideas": [
