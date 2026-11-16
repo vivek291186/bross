@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:03:21+05:30",
- "runs": 745,
+ "updated": "2026-11-16T23:03:35+05:30",
+ "runs": 746,
  "branches": [
   {
    "id": "platforms",
@@ -16280,11 +16280,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 666 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 20:06",
-   "note": "Run 667 (TRENDS (Shorts music chart longevity; winter dance recheck)): Winter dance and snow day trends checked were already banked (Winter Vibes, snow angels). One new platform pattern: YouTube's global Shorts song chart keeps slowed remixes for a very long time (one slowed track in its 51st week, another song in its 68th week) while a big K pop single that creators did not adopt fell from No. 1 to No. 20 in a week, so creator reuse on Shorts, not launch size, decides a song's life. Total 2212."
+   "note": "Earlier runs summarised: all rounds through Run 667 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 20:07",
@@ -16597,6 +16593,10 @@
   {
    "date": "2026-11-16 23:03",
    "note": "Run 745 (YouTube algorithm (YouTube Kids app parent controls; trends skipped after an empty trends round)): YouTube Kids feature searches returned only older controls (collections, approved content only, search off rosters) already in the tree; no new leaves. Total 2312."
+  },
+  {
+   "date": "2026-11-16 23:03",
+   "note": "Run 746 (Shorts and Reels (made for kids Shorts reach, Shorts timer)): Searches on made for kids Shorts (AIR RPM and PlayToys cases, the zero Shorts timer, Metricool's 799,718 video study, AI slop investigations) returned only items already in the tree; no new leaves. Total 2312."
   }
  ],
  "history": [
@@ -17510,6 +17510,10 @@
   },
   {
    "date": "2026-11-16 23:02",
+   "total": 2312
+  },
+  {
+   "date": "2026-11-16 23:03",
    "total": 2312
   },
   {
