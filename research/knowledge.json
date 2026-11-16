@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:58:51+05:30",
- "runs": 780,
+ "updated": "2026-11-17T00:36:11+05:30",
+ "runs": 781,
  "branches": [
   {
    "id": "platforms",
@@ -16463,6 +16463,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 769
+    },
+    {
+     "t": "Volume's 15 Nov 2026 measurement of 170 carousel and slideshow formats found posts pinned to one exact age or stage (for example 'for your 3 year old') reached a median of about 12 times an account's usual reach, with the best family example at about 52 times, so a Bro Bros Instagram carousel like '5 winter songs for 3 year olds' is the strongest kid friendly carousel shape right now.",
+     "src": "tryvolume.app slideshows, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 781
+    },
+    {
+     "t": "In the same Volume data a single family photo reused as the background of every slide with one tradition or tip per slide reached about 43 times usual views, and then and now reveal carousels about 15 times, so one bright Bro Bros still with a different winter tradition written on each slide is a cheap, high lift carousel we can make without a new render.",
+     "src": "tryvolume.app slideshows, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 781
+    },
+    {
+     "t": "NewEngen's 16 Nov 2026 TikTok list includes animated, second person adventure stories set in familiar places and released in numbered parts that end on a cliffhanger; the zombie theme is not for us, but a gentle numbered animated adventure ('Part 1: the brothers find a snow map') that resolves kindly in each part fits the format without the endless suspense kids quality rules discourage.",
+     "src": "newengen.com TikTok trends, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 781
+    },
+    {
+     "t": "Lightreel's Instagram report for 31 Oct to 7 Nov 2026 rates timestamped day micro vlogs as its highest confidence format and an empty room cut to a fully decorated holiday room with a comment keyword prompt as accelerating; Bro Bros can do a timestamped 'our snow day' song Reel (7:00 wake up, 8:00 boots on) and a bare room to Christmas room reveal on the chorus.",
+     "src": "lightreel.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 781
     }
    ]
   }
@@ -16489,12 +16517,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:03",
-   "note": "Run 702 (visual craft (holiday thumbnail recheck)): Holiday thumbnail searches (1of10 2026 thumbnail trends, Christmas thumbnail guides) repeated what the tree already holds (saturated three colour palettes, emotional faces, little text outside learning content); no new leaves. Total 2274."
+   "note": "Earlier runs summarised: all rounds through Run 702 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:04",
@@ -16807,6 +16831,10 @@
   {
    "date": "2026-11-16 23:58",
    "note": "Run 780 (our own results (Metricool YouTube videos 2 to 16 Nov)): Metricool's 2 to 16 Nov YouTube data (Giant Pumpkin 924 views top, long songs holding about 16 to 24 seconds, Shorts at 1 to 35 views) matched what the tree already records; no new leaves. Total 2342."
+  },
+  {
+   "date": "2026-11-17 00:36",
+   "note": "Run 781 (TRENDS (NewEngen 16 Nov TikTok list, Volume carousel data, Lightreel Instagram report)): New this week: Volume's carousel data shows posts pinned to one exact age reach about 12 times usual (best family case 52 times) and one photo reused across slides 43 times, so an age pinned Bro Bros carousel joins the trend bank; NewEngen adds numbered animated adventure parts; most other formats (chipmunk trio dance, fan wipe, slow motion entrances) were already in the tree. Total 2346."
   }
  ],
  "history": [
@@ -17865,6 +17893,10 @@
   {
    "date": "2026-11-16 23:58",
    "total": 2342
+  },
+  {
+   "date": "2026-11-17 00:36",
+   "total": 2346
   }
  ],
  "next_week_ideas": [
@@ -17926,6 +17958,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Age pinned carousel",
+   "where": "Instagram carousels, TikTok photo mode",
+   "status": "rising",
+   "use": "Post a 6 slide carousel titled for one exact age, for example '5 winter songs for 3 year olds': one bright Bro Bros still per slide with the song name and one line on what the child does (clap, stomp, count), last slide says the full songs are on YouTube; no audio needed beyond our own song."
+  },
   {
    "name": "Step back high five kick",
    "where": "TikTok duo trend (13 Nov 2026 chart)",
@@ -18039,12 +18077,6 @@
    "where": "TikTok and Reels family videos (evergreen since 2025)",
    "status": "evergreen",
    "use": "Three covered plates in front of Little Bro, Big Bro and a friend; on the beat the napkins lift: Little Bro has two cookies, the friend one, Big Bro none. Little Bro looks, thinks, then hands one over, and all three cheer and dance. Ends on our sharing song chorus. Meshy steps, standing: lifting a napkin with one hand, a thinking pose with a finger on the chin, handing an item forward with both hands, a three person happy bounce."
-  },
-  {
-   "name": "Bark dance",
-   "where": "Instagram Reels and Shorts, India (rising from Aug 2026 viral)",
-   "status": "rising",
-   "use": "A puppy friend barks a rhythm (woof, woof, woof woof woof) and the Bros answer each bark pattern with a move, getting faster each round until the puppy does a happy spin; our own song carries a bark sound as the beat. Meshy steps, standing in place: a step touch on each bark, a double clap on the double bark, a small jump on the triple bark, then a slow turn in place."
   }
  ]
 }
