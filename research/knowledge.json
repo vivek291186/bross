@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:40:42+05:30",
- "runs": 641,
+ "updated": "2026-11-16T18:41:46+05:30",
+ "runs": 642,
  "branches": [
   {
    "id": "platforms",
@@ -5165,6 +5165,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 633
+    },
+    {
+     "t": "LEGO and BBC Studios launched LEGO Bluey Shorts on 2 Jul 2026 as ten episodes of about 2 minutes, retelling show scenes in brick style, released weekly until 3 Sep in 12 languages at once and posted on three YouTube channels plus the show's site, a template for a short weekly mini series dubbed from day one.",
+     "src": "senalnews.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 642
+    },
+    {
+     "t": "Spin Master turned its Roblox game Sparkles Magical Market into a YouTube animated series and released Unicorn Academy Shorts weekly on Fridays in six languages, calling these launches the next step in its digital evolution, which shows toy brands now treat Roblox games and YouTube Shorts as starting points for kids shows.",
+     "src": "worldscreen.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 642
     }
    ]
   },
@@ -7832,6 +7846,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 638
+    },
+    {
+     "t": "In a 2025 Purdue study, 61 viewers rated 60 animated clips in which six design elements were varied one at a time, and the colour palette changed character appeal the most, followed by body and face proportions, while each element worked largely on its own; so recolouring the brothers' outfits is the cheapest big lever when testing new looks.",
+     "src": "Purdue thesis, May 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 642
+    },
+    {
+     "t": "A Kyoto University PNAS study (2025) found Japanese children aged 3 to 12 and Chinese children aged 6 to 8 judge how similar colours look almost exactly as adults do, with only small age differences, so colour contrast rules tested on adult viewers (thumbnails, text on screen) can be trusted for young kids too.",
+     "src": "kyoto-u.ac.jp, Mar 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 642
     }
    ]
   },
@@ -15135,10 +15163,6 @@
    "note": "Earlier runs summarised: all rounds through Run 560 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 16:41",
-   "note": "Run 563 (our results (fresh look at the same Metricool data, 2 to 15 Nov)): Metricool data is unchanged (YouTube to 11 Nov, Reels to 15 Nov), but a fresh analysis of 42 Reels shows skip rate has almost no link to views (correlation about 0.04), and on Instagram our cartoon episode clips did as well as our songs (about 92 versus 94 views in 2 to 8 Nov), unlike on YouTube. Total 2057."
-  },
-  {
    "date": "2026-11-16 16:42",
    "note": "Run 564 (TRENDS (winter and New Year family formats)): Two seasonal family formats for December: a time lapse rainbow ice igloo build (one family's video passed 70M views) and the 'Noon Year's Eve' balloon countdown, where each numbered balloon popped holds an activity; both added to the trend bank as Bro Bros formats. Total 2059."
   },
@@ -15449,6 +15473,10 @@
   {
    "date": "2026-11-16 18:40",
    "note": "Run 641 (music craft (live versus recorded music for babies, karaoke style parent videos)): A Toronto study found babies watched 72% of a live children's opera but only 54% of the same show on a screen, and the gap is linked to performers interacting with the audience; the Yale trial's song videos were karaoke style and simplified so untrained parents could sing along. Song cover recognition work at MacEwan had hypotheses only, so no leaf. Total 2148."
+  },
+  {
+   "date": "2026-11-16 18:41",
+   "note": "Run 642 (visual craft (character appeal factors, children's colour perception, brand short series)): A 2025 Purdue study of 60 animated clips found colour palette was the strongest driver of character appeal, then proportions; a Kyoto PNAS study found children from age 3 judge colours almost exactly like adults; LEGO and BBC Studios launched Bluey brick shorts as ten 2 minute weekly episodes in 12 languages at once, and Spin Master turned a Roblox game into a YouTube animated series. Total 2152."
   }
  ],
  "history": [
@@ -15951,6 +15979,10 @@
   {
    "date": "2026-11-16 18:40",
    "total": 2148
+  },
+  {
+   "date": "2026-11-16 18:41",
+   "total": 2152
   }
  ],
  "next_week_ideas": [
