@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:58:49+05:30",
- "runs": 693,
+ "updated": "2026-11-16T21:59:26+05:30",
+ "runs": 694,
  "branches": [
   {
    "id": "platforms",
@@ -15958,11 +15958,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 614 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:08",
-   "note": "Run 615 (TRENDS (Philippine Christmas season)): The Philippine 'ber months' Christmas season (carols from 1 Sep, parol lanterns kept up to 6 Jan, Simbang Gabi 16 to 24 Dec) was already in the tree, and no new Filipino family dance surfaced, so no new leaves. Total 2100."
+   "note": "Earlier runs summarised: all rounds through Run 615 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:08",
@@ -16275,6 +16271,10 @@
   {
    "date": "2026-11-16 21:58",
    "note": "Run 693 (competitor deep dive (BabyBus English, Little Angel and Friends)): BabyBus's main English channel (44.2M) gained about 2.56B views in Jan to Oct 2026, about 13% below 2025, and its Thanksgiving upload set a seasonal sharing story to a classic rhyme tune; Little Angel and Friends fell more than half (about 429M against 959M views for the same months), with only an August spike, while it keeps uploading routine songs such as a 'no no bath time' song. Total 2266."
+  },
+  {
+   "date": "2026-11-16 21:59",
+   "note": "Run 694 (algorithm experiments and data (title formulas, Netflix creator ranks, upload timing; trends skipped after an empty trends round)): vidIQ's 2026 title formula study, the H1 2026 YouTube creators on Netflix ranking and AIR's kids upload timing and case pages were all already in the tree; no new leaves. Total 2266."
   }
  ],
  "history": [
@@ -16984,6 +16984,10 @@
   },
   {
    "date": "2026-11-16 21:58",
+   "total": 2266
+  },
+  {
+   "date": "2026-11-16 21:59",
    "total": 2266
   }
  ],
