@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:06:56+05:30",
- "runs": 667,
+ "updated": "2026-11-16T20:07:23+05:30",
+ "runs": 668,
  "branches": [
   {
    "id": "platforms",
@@ -10548,6 +10548,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 656
+    },
+    {
+     "t": "3Vision's Video Markets Tracker (reported Jul 2026) forecasts YouTube ad revenue in Sub Saharan Africa of about 583M USD in 2026, above any single subscription streamer's revenue there, rising to about 1.18B USD by 2031 (about 92% of the region's ad supported video market), so English speaking Africa is a free, YouTube first market where Bro Bros songs can grow without competing with paid services.",
+     "src": "Senal News / 3Vision, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 668
+    },
+    {
+     "t": "In the same forecast Nigeria's YouTube ad revenue grows from about 128M USD (2026) to 279M USD (2031) while Netflix there has only about 1.2M subscribers, and South Africa's YouTube ad revenue rises from about 191M to 325M USD; ad rates are low but the audience is large, English speaking and growing, which suits an English kids song channel.",
+     "src": "Senal News / 3Vision, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 668
     }
    ]
   },
@@ -15580,11 +15594,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 588 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:56",
-   "note": "Run 589 (YouTube algorithm and growth benchmarks (vidIQ 2026 studies)): vidIQ's 2026 studies: channels adding 52+ videos a year reached 1,000 subscribers about 31% of the time versus 9% for 12 to 51 videos, and channels with 1,000 to 9,999 subscribers grow a median 0.51% a month, so our roughly 1% a week puts us well above the median. Total 2083."
+   "note": "Earlier runs summarised: all rounds through Run 589 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:56",
@@ -15897,6 +15907,10 @@
   {
    "date": "2026-11-16 20:06",
    "note": "Run 667 (TRENDS (Shorts music chart longevity; winter dance recheck)): Winter dance and snow day trends checked were already banked (Winter Vibes, snow angels). One new platform pattern: YouTube's global Shorts song chart keeps slowed remixes for a very long time (one slowed track in its 51st week, another song in its 68th week) while a big K pop single that creators did not adopt fell from No. 1 to No. 20 in a week, so creator reuse on Shorts, not launch size, decides a song's life. Total 2212."
+  },
+  {
+   "date": "2026-11-16 20:07",
+   "note": "Run 668 (global markets (Sub Saharan Africa YouTube ad money)): 3Vision's forecast (Jul 2026) puts YouTube's 2026 ad revenue in Sub Saharan Africa at about 583M USD, more than any single subscription service there and rising to about 1.18B by 2031 (about 92% of the region's ad video market), with Nigeria growing from 128M to 279M USD, so English kids songs reach a fast growing, YouTube first market where families watch free. Total 2214."
   }
  ],
  "history": [
@@ -16503,6 +16517,10 @@
   {
    "date": "2026-11-16 20:06",
    "total": 2212
+  },
+  {
+   "date": "2026-11-16 20:07",
+   "total": 2214
   }
  ],
  "next_week_ideas": [
