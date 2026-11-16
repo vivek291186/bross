@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:46:10+05:30",
- "runs": 646,
+ "updated": "2026-11-16T18:47:05+05:30",
+ "runs": 647,
  "branches": [
   {
    "id": "platforms",
@@ -11745,6 +11745,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 635
+    },
+    {
+     "t": "Since 17 Nov 2025 YouTube age restricts social casino content (simulated slots or card gambling with no real money) and expands its gambling rules to in game items with real value, and age restricted videos are hidden from under 18s and signed out viewers, so a Bro Bros 'spin the wheel' or prize machine scene must never look like a slot machine or betting game.",
+     "src": "technologylaw.fkks.com, Oct 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 647
+    },
+    {
+     "t": "The same update lets YouTube age restrict game footage that dwells on realistic human characters in mass violence or torture, while ordinary cartoon or game combat stays allowed, so Roblox or Minecraft style Bro Bros videos stay safe as long as conflict is cartoonish, brief and not the focus.",
+     "src": "technologylaw.fkks.com, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 647
     }
    ]
   },
@@ -15226,10 +15240,6 @@
    "note": "Earlier runs summarised: all rounds through Run 560 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 16:44",
-   "note": "Run 568 (music craft (Christmas sound and streaming charts)): Berklee's summary of the Christmas song analysis (sleigh bells, nostalgia, big band style with modern vocals) and Spotify's kids and family taste profile toggle were already leaves, so no new leaves. Total 2059."
-  },
-  {
    "date": "2026-11-16 16:45",
    "note": "Run 569 (visual craft (title formula of a one hit channel; Blender cartoon shading)): Twinkle Little Songs (1.2M subscribers) gets about a third of its 1B views from one spider rhyme and its next hits are the same character in a new world or holiday; Blender Studio's open 'Wing It!' short shows how to fake a flat, painted cartoon look with toon shading, rim light and outlines. Total 2061."
   },
@@ -15540,6 +15550,10 @@
   {
    "date": "2026-11-16 18:46",
    "note": "Run 646 (TRENDS (word of the year 'maxxing', grandparent dance duets)): Dictionary.com named 'maxxing' its 2026 word of the year on 26 Oct (with 'unc' on the shortlist), a joking suffix kids now attach to anything, though its best known form is about looks so we use only cosy versions; an Argentine grandson and grandpa dance challenge clip passed 18.9M views because of the warmth between them, a format that suits a Bro Bros grandpa character for the holidays. Total 2161."
+  },
+  {
+   "date": "2026-11-16 18:47",
+   "note": "Run 647 (rules and monetisation (gaming age limits; ban and ad rechecks)): Social media age bans, COPPA, the Disney order and RPM data were already leaves; the only new rule found is YouTube's Nov 2025 gaming update, under which realistic mass violence in game footage and simulated casino games (slots, card games with no real money) are age restricted, hidden from under 18s and signed out viewers, so any Bro Bros game themed video must avoid slot machine or casino style scenes. Total 2163."
   }
  ],
  "history": [
@@ -16062,6 +16076,10 @@
   {
    "date": "2026-11-16 18:46",
    "total": 2161
+  },
+  {
+   "date": "2026-11-16 18:47",
+   "total": 2163
   }
  ],
  "next_week_ideas": [
