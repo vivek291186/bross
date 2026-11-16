@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:57:53+05:30",
- "runs": 399,
+ "updated": "2026-11-16T08:58:31+05:30",
+ "runs": 400,
  "branches": [
   {
    "id": "platforms",
@@ -5179,6 +5179,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 397
+    },
+    {
+     "t": "Five of YouTube's ten most viewed clips in the year to November 2025 were kids songs, together earning an estimated 84M USD in ads, and all ten of the most viewed videos ever are songs (Baby Shark Dance about 16.4B views, CoComelon's Wheels on the Bus third); music, especially kids songs, is still YouTube's biggest view engine.",
+     "src": "Mediaweek (BonusInsider estimates), Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 400
+    },
+    {
+     "t": "The 2026 Grammy nominees for Best Children's Music Album were concept albums with a story or theme (a magic tree house adventure in rap, women's history, an album across generations from children to 100 year olds, a muse fantasy world), and the winner 'Harmony' was made by a father and daughter; a themed Bro Bros album (a winter journey, a world tour) could later suit streaming and awards.",
+     "src": "Recording Academy, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 400
     }
    ]
   },
@@ -11656,10 +11670,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:51",
-   "note": "Run 321 (TRENDS (classroom dance formats: kid versus grown up dance battle, join in one by one)): This week's sound charts held nothing new, so the round looked at evergreen classroom dance formats: a 'cool kids vs cool teachers' battle set to Gracie's Corner's own Veggie Dance song (nearly 20M TikTok views) and a teacher who starts dancing while children join one by one (17.8M Instagram views). Both show a kids brand's original song can become the sound creators dance to. Total 1342."
-  },
-  {
    "date": "2026-11-16 04:52",
    "note": "Run 322 (rules and safety (Disney's 10M USD audience label settlement, FTC age check shield)): The FTC's 10M USD settlement with Disney came from setting 'made for kids' at channel level, so child directed videos on 'not made for kids' channels collected data and ran targeted ads; Disney must now review each video's label. A Feb 2026 FTC policy shields general audience sites that check ages, but child directed services get no relief and must treat every viewer as a child. Total 1345."
   },
@@ -11970,16 +11980,16 @@
   {
    "date": "2026-11-16 08:57",
    "note": "Run 399 (TRENDS (little new this week; classroom dance crazes and the 'ya ya ya' high note chant)): No new major family trend appeared since the 16 Nov lists, so the trend bank stays as is; background finds are that teacher led school dances can become national crazes (South Africa's Amapiano 'Zep' spin with hands up, March 2026) and that kids still use the 'raise your ya ya ya' high note chant (28M likes on the original clip) as a playful 'bring your best' call. Total 1651."
+  },
+  {
+   "date": "2026-11-16 08:58",
+   "note": "Run 400 (music (kids songs among YouTube's most viewed clips, children's Grammy themes)): Music craft research is close to saturated; new context is BonusInsider's estimate that five of YouTube's ten most viewed clips in the year to Nov 2025 were kids songs (about 84M USD in ad revenue together) and that every one of the ten most viewed videos ever is a song, while the latest children's Grammy nominees lean on story and history concepts (a magic tree house, women in history, songs across a hundred years of age). Total 1653."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:02",
-   "total": 502
   },
   {
    "date": "2026-11-15 19:03",
@@ -13172,6 +13182,10 @@
   {
    "date": "2026-11-16 08:57",
    "total": 1651
+  },
+  {
+   "date": "2026-11-16 08:58",
+   "total": 1653
   }
  ],
  "next_week_ideas": [
