@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:07:40+05:30",
- "runs": 710,
+ "updated": "2026-11-16T22:08:23+05:30",
+ "runs": 711,
  "branches": [
   {
    "id": "platforms",
@@ -16049,11 +16049,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 631 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:47",
-   "note": "Run 632 (global markets (Thai song channel revenue, Italian home grown brands)): KidsMeSong in Thailand drew about 40.5M views in 28 days but only about 9K USD estimated monthly revenue, so a Thai dub is for reach not money; Italy's top 100 holds two home grown kids music brands next to dubbed global ones. Total 2123."
+   "note": "Earlier runs summarised: all rounds through Run 632 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:48",
@@ -16366,6 +16362,10 @@
   {
    "date": "2026-11-16 22:07",
    "note": "Run 710 (YouTube algorithm (satisfied watch time shift recheck)): The Shorts distribution shift reported from September 2025 (ranking by expected satisfied watch time per click) is already in the tree; no new leaves. Total 2279."
+  },
+  {
+   "date": "2026-11-16 22:08",
+   "note": "Run 711 (Shorts and Reels (kids Shorts RPM and freshness recheck)): AIR's 274 channel Shorts RPM study and the 28 to 30 day Shorts 'flattening' were already in the tree, so no new leaves; next_week_ideas updated: added a winter Penguin Waddle animal dance along (backed by Pinkfong's 922M view animal dance hit) in place of the bike song idea. Total 2279."
   }
  ],
  "history": [
@@ -17144,9 +17144,17 @@
   {
    "date": "2026-11-16 22:07",
    "total": 2279
+  },
+  {
+   "date": "2026-11-16 22:08",
+   "total": 2279
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Penguin Waddle Dance! (Winter Animal Dance Along)",
+   "why": "Pinkfong's biggest video ever is a simple named animal dance along (Monkey Banana Dance, about 922M views, five times its next best) and babies watch lively play songs far longer than calm ones; a winter penguin song where the brothers copy waddle, flap, slide in place and freeze fits the season, our evergreen gap before 23 Nov, and the one by one parade format for the Reel."
+  },
   {
    "title": "The Big Balloon Parade",
    "why": "The 100th Thanksgiving parade on 26 Nov 2026 will fill US family feeds with giant balloons; our own parade song (a new invented balloon each verse, kids shout its colour, march and wave in place) is timely that week and works year round anywhere as a colours and marching song."
@@ -17186,10 +17194,6 @@
   {
    "title": "Kitten, Kitten, ROAR! (The Changing Animal Song)",
    "why": "Holiday 2026 toy lists favour animals that transform; each verse a small animal (kitten, puppy, chick) spins and becomes a big one (lion, wolf, eagle) with a dance move kids copy, an original song for every country."
-  },
-  {
-   "title": "Wobble Wobble, I Can Ride My Bike",
-   "why": "Kids Funny Songs' bike riding song pulled about 1K views an hour in its first days and its biggest hits are single everyday moment songs; ours shows a Bro wobbling, falling, trying again with a helmet and finally riding, an original song for every country."
   },
   {
    "title": "Sammy the Sea Lion Says Clap!",
