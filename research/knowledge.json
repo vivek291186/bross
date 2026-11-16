@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:48:58+05:30",
- "runs": 727,
+ "updated": "2026-11-16T22:49:29+05:30",
+ "runs": 728,
  "branches": [
   {
    "id": "platforms",
@@ -10961,6 +10961,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 716
+    },
+    {
+     "t": "Egypt has about 49.3M adult YouTube users (almost level with Facebook's 51.6M and TikTok's 48.8M) and 92.6M mobile internet users, making it one of the largest Arabic speaking YouTube audiences even though its ad rates are low.",
+     "src": "Egypt IDSC / Kepios via Scene Now, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 728
     }
    ]
   },
@@ -12445,6 +12452,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 719
+    },
+    {
+     "t": "Egypt is drafting a law on children's technology use that would make platforms verify users' ages, joining the wider 2026 wave of age check rules outside the US, EU and Australia.",
+     "src": "Scene Now (Egypt IDSC report), Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 728
     }
    ]
   },
@@ -16175,11 +16189,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 648 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 18:48",
-   "note": "Run 649 (TRENDS (reverse camera family reactions; no new weekly lists)): No new weekly trend lists were out by 16 Nov evening IST. The one fresh family format found: parents ask a child to film their silly dance so the clip quietly captures the child's proud or giggling reaction (a recurring TikTok trend since 2022), while the related Nov 2025 'flip the camera' format was flagged for consent and teasing, so we use only the gentle animated version. Total 2167."
+   "note": "Earlier runs summarised: all rounds through Run 649 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:38",
@@ -16492,6 +16502,10 @@
   {
    "date": "2026-11-16 22:48",
    "note": "Run 727 (topics and seasons (St Nicholas Eve boots, Sinterklaas dance songs; trends skipped after an empty trends round)): St Nicholas Eve on 5 Dec (kids polish boots for treats in Germany, Austria, Switzerland, parts of the US) was barely in the tree; Dutch producers say kids prefer bouncy seasonal dance songs to slow classics. next_week_ideas: added Shiny Boots, Stomp Stomp! in place of the summer pool idea. Total 2297."
+  },
+  {
+   "date": "2026-11-16 22:49",
+   "note": "Run 728 (global markets (Egypt)): Egypt has about 49.3M adult YouTube users and 92.6M mobile internet users, and is drafting a children's tech law with age checks; kids channel rankings and Gulf ad rate gaps were already in the tree. Total 2299."
   }
  ],
  "history": [
@@ -17338,6 +17352,10 @@
   {
    "date": "2026-11-16 22:48",
    "total": 2297
+  },
+  {
+   "date": "2026-11-16 22:49",
+   "total": 2299
   }
  ],
  "next_week_ideas": [
