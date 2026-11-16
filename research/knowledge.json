@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:07:52+05:30",
- "runs": 546,
+ "updated": "2026-11-16T16:08:25+05:30",
+ "runs": 547,
  "branches": [
   {
    "id": "platforms",
@@ -6243,6 +6243,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 544
+    },
+    {
+     "t": "German, Polish and US channels all show the same pattern for long lived hits: a feeling or a small worry turned into a simple picture (a tantrum as a thunderstorm, a shot at the doctor, a first haircut), which gives Bro Bros a reliable recipe for feelings songs that parents also search for.",
+     "src": "own synthesis of vidIQ channel data, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 547
     }
    ]
   },
@@ -9792,6 +9799,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 535
+    },
+    {
+     "t": "Germany's Hurra Kinderlieder (4.09M subscribers, 5.7B views) got about 58M views and 10K subscribers in the 28 days to 3 Nov 2026, and its biggest songs are about everyday moments and feelings: a haircut at the hairdresser (44M), an upside down world play song (32M), a tantrum told as a sudden thunderstorm (30M) and get well soon (28M).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 547
+    },
+    {
+     "t": "A small Turkish kids song channel (Minnak, 201K subscribers, under 1M views a month) owes almost all its reach to one silly fruit character song, 'Watermelon Man' (8.6M views), and a watermelon song is also the top hit of Poland's biggest local song channel, so a goofy fruit character song is a cheap test that has travelled in two different markets.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 547
     }
    ]
   },
@@ -14292,11 +14313,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 467 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:45",
-   "note": "Run 468 (topics and seasons (Befana, Australian summer Christmas, European Christmas markets)): Europe's big Christmas markets opened from 13 Nov (Vienna, Tivoli, Valkenburg) with giant carousels, reindeer rides, ice rinks and gingerbread hearts; Australian kids spend Christmas Day in 35 to 40 degree heat in pools, sprinklers and at the beach; Italy's Befana fills stockings on 5 to 6 Jan. Added a summer Christmas beach song idea. Total 1848."
+   "note": "Earlier runs summarised: all rounds through Run 468 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:46",
@@ -14609,6 +14626,10 @@
   {
    "date": "2026-11-16 16:07",
    "note": "Run 546 (TRENDS (TokChart worldwide sounds chart for 16 Nov)): TokChart's 16 Nov worldwide chart is led by creators' own 'original audio' clips rather than released songs, with only one music track (a Brazilian funk montagem at about 1M videos) in the top 10, which backs our plan of naming and pushing our own original audio. Total 2028."
+  },
+  {
+   "date": "2026-11-16 16:08",
+   "note": "Run 547 (global markets (Germany and Turkey local song channels)): German channel Hurra Kinderlieder (4.09M subscribers, about 58M views a month) wins with everyday feelings and moment songs (at the hairdresser 44M, a tantrum as a sudden thunderstorm 30M, get well soon 28M); a small Turkish channel's only breakout is a silly watermelon man song (8.6M), and a watermelon song is also Poland's top kids hit, so silly fruit character songs travel. Total 2031."
   }
  ],
  "history": [
@@ -15775,9 +15796,17 @@
   {
    "date": "2026-11-16 16:07",
    "total": 2028
+  },
+  {
+   "date": "2026-11-16 16:08",
+   "total": 2031
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "The Silly Watermelon Man",
+   "why": "Goofy fruit character songs are the top hits of local channels in Poland (watermelon) and Turkey (Watermelon Man, 8.6M); ours is an original watermelon friend who loses his seeds while dancing and the Bros help find them, a counting song for every country."
+  },
   {
    "title": "Kitten, Kitten, ROAR! (The Changing Animal Song)",
    "why": "Holiday 2026 toy lists favour animals that transform; each verse a small animal (kitten, puppy, chick) spins and becomes a big one (lion, wolf, eagle) with a dance move kids copy, an original song for every country."
@@ -15829,10 +15858,6 @@
   {
    "title": "No, No, No... YES! (The Yes Dance)",
    "why": "The 'No, No, No... Yes!' Reel format is rising (week of 13 Nov 2026): Little Bro says no to bath, broccoli and bedtime, then YES to the dance chorus; a funny refusal then joy structure that works as a song, a Short and a loop."
-  },
-  {
-   "title": "Dear Santa, Here's Our List! (Kind Wishes Song)",
-   "why": "'Dear Santa' list Reels are trending and 86% of holiday buying happens before December; a Christmas song in G major at about 115 BPM with sleigh bells where each verse is a kind wish (a snowman friend, socks for Grandpa, a dance party for all)."
   }
  ],
  "trend_bank": [
