@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:37:08+05:30",
- "runs": 671,
+ "updated": "2026-11-16T20:37:51+05:30",
+ "runs": 672,
  "branches": [
   {
    "id": "platforms",
@@ -12564,6 +12564,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 660
+    },
+    {
+     "t": "With YouTube data now reaching 15 Nov 2026, the Giant Pumpkin garden story song (12 Nov) is our most viewed long video of the fortnight at 924 views, ahead of Jungle Doctors (858), Space Bus (554) and The Big Race (515), so a magic growing garden topic is now our strongest English song.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 672
+    },
+    {
+     "t": "Across 9 to 14 Nov the six 10 AM IST English story songs averaged about 575 YouTube views each against about 280 for the six 4 PM uploads (three Hindi Didi stories and three English songs), so the content and language of the slot matter more than the 4 PM hour that Metricool's model rates highest.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 672
+    },
+    {
+     "t": "The 14 Nov 4 PM beach song (Sandcastle vs The Wave) has only 76 YouTube views after two days, our weakest English song of the week, while the same day's 10 AM kitten rescue reached 330, which hints that a seasonal mismatch (a beach topic in a northern winter week) costs views.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 672
     }
    ]
   },
@@ -15650,11 +15671,7 @@
  "log": [
   {
    "date": "2026-11-16 16:57",
-   "note": "Earlier runs summarised: all rounds through Run 592 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:57",
-   "note": "Run 593 (visual craft and production tools (Meshy changelog, compilation packaging); playbook languages rule updated): Meshy's model retirements (lowpoly gone 30 Oct, meshy-7 3D generation ends 31 Dec) and thumbnail packaging studies were already leaves; the playbook languages rule now adds a vocals only 'NO INSTRUMENTS' edit of our best songs for Arabic, Malay and Indonesian families, backed by today's Arabic, Omar & Hana and Islamic pop evidence. Total 2084."
+   "note": "Earlier runs summarised: all rounds through Run 593 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:58",
@@ -15967,6 +15984,10 @@
   {
    "date": "2026-11-16 20:37",
    "note": "Run 671 (rules and safety (UK may widen under 16 ban to YouTube Kids)): Most rules searches (COPPA, DPDP, AI slop, Q4 RPM, Digital Fairness Act) returned items already in the tree. New: the UK is weighing widening its under 16 ban to recommendation services including YouTube Kids and Spotify, with a bill due in December, and Monterey Bay Aquarium launched a YouTube Kids channel built on five short named segments. Total 2222."
+  },
+  {
+   "date": "2026-11-16 20:37",
+   "note": "Run 672 (our results (YouTube stats now reach 15 Nov)): Metricool YouTube data now includes 12 to 15 Nov: the Giant Pumpkin garden song leads the fortnight with 924 views, 10 AM English story songs average about twice the views of 4 PM uploads, and the beach song is the week's weakest, hinting a winter season mismatch; Shorts still get 1 to 14 views each. Total 2225."
   }
  ],
  "history": [
@@ -16589,6 +16610,10 @@
   {
    "date": "2026-11-16 20:37",
    "total": 2222
+  },
+  {
+   "date": "2026-11-16 20:37",
+   "total": 2225
   }
  ],
  "next_week_ideas": [
