@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:37:51+05:30",
- "runs": 672,
+ "updated": "2026-11-16T20:39:09+05:30",
+ "runs": 673,
  "branches": [
   {
    "id": "platforms",
@@ -15670,12 +15670,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:57",
-   "note": "Earlier runs summarised: all rounds through Run 593 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:58",
-   "note": "Run 594 (TRENDS (SocialPilot Reels audio list recheck)): SocialPilot's Reels audio list is still dated 30 Oct (holiday reveals, bare to decorated, countdowns, Dame Hombro), all already covered as formats in the tree, and every listed sound is a label track we would not use, so no new leaves. Total 2084."
+   "note": "Earlier runs summarised: all rounds through Run 594 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:59",
@@ -15988,6 +15984,10 @@
   {
    "date": "2026-11-16 20:37",
    "note": "Run 672 (our results (YouTube stats now reach 15 Nov)): Metricool YouTube data now includes 12 to 15 Nov: the Giant Pumpkin garden song leads the fortnight with 924 views, 10 AM English story songs average about twice the views of 4 PM uploads, and the beach song is the week's weakest, hinting a winter season mismatch; Shorts still get 1 to 14 views each. Total 2225."
+  },
+  {
+   "date": "2026-11-16 20:39",
+   "note": "Run 673 (TRENDS (NewEngen 13 Nov, SocialPilot, B&T, Know Your Meme, Wrapped recheck)): Every trend found this round (slow motion entrances, Chipmunks trio routine, Dame Hombro, costume loading, runway walks, gratitude tablecloth, eerie polar bear meme) was already in the trend bank or rejected earlier; Spotify still has not confirmed the Wrapped 2026 date (expected Wednesday 2 Dec), so no new leaves. Total 2225."
   }
  ],
  "history": [
@@ -16613,6 +16613,10 @@
   },
   {
    "date": "2026-11-16 20:37",
+   "total": 2225
+  },
+  {
+   "date": "2026-11-16 20:39",
    "total": 2225
   }
  ],
