@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:56:24+05:30",
- "runs": 480,
+ "updated": "2026-11-16T11:57:19+05:30",
+ "runs": 481,
  "branches": [
   {
    "id": "platforms",
@@ -1504,6 +1504,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 471
+    },
+    {
+     "t": "Shorts trackers put Shorts at over 200B daily views in 2026 (about 70B in 2024) and say top performers post 18 to 22 Shorts a month against an average of about 7, which supports our daily Shorts plus Reels cadence, although the article does not name its sources.",
+     "src": "anijam.ai, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 481
     }
    ]
   },
@@ -13236,6 +13243,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 478
+    },
+    {
+     "t": "A YouTube Shorts tracker (refreshed 4 Nov 2026) lists November's 'friend group glue' POV skit, short scenes about the one friend who keeps the group together, which maps to a gentle Bro Bros friendship song where one Bro helps everyone join the dance.",
+     "src": "anijam.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 481
+    },
+    {
+     "t": "The same tracker names 'Twins at the Carousel' (Jul 2026) as a song timed animation template trend where creators swap their own characters into the same choreographed motion, a reminder that reusable, easy to copy animated templates spread on Shorts and that a Bro Bros dance loop can be offered as a 'put your own character in' style format.",
+     "src": "anijam.ai, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 481
     }
    ]
   }
@@ -13263,11 +13284,7 @@
  "log": [
   {
    "date": "2026-11-16 08:59",
-   "note": "Earlier runs summarised: all rounds through Run 401 (visual craft (Meshy October tools for props, Pixar's pastel caution)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 08:59",
-   "note": "Run 402 (topics (TRENDS skipped, last trends round found little; calm smiling animals and what under 6s are fascinated by)): Sloths and quokkas have joined capybaras as children's favourite animals because they look calm, baby faced and smiling, replacing lions and tigers; a 2,000 parent survey of under 6s found the natural world (rain, worms, weather, bugs) leads kids' fascinations, with odd favourites like elevators and their buttons, knights and drums. Total 1658."
+   "note": "Earlier runs summarised: all rounds through Run 402 (topics (TRENDS skipped, last trends round found little; calm smiling animals and what under 6s are fascinated by)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:00",
@@ -13580,6 +13597,10 @@
   {
    "date": "2026-11-16 11:56",
    "note": "Run 480 (global markets (Pakistan and Bangladesh; data thin)): Public stats for Urdu and Bangla kids song channels were mostly unreadable; Pakistan's most subscribed list (Nov 2026) has only one family channel near the top (Peep Peep, 13.4M subs, 10.1B views), and a Pakistani ABC channel with 145K subscribers gets only about 2K views a month, showing old subscriber counts mean little without fresh uploads. Total 1881."
+  },
+  {
+   "date": "2026-11-16 11:57",
+   "note": "Run 481 (TRENDS (YouTube Shorts monthly trend list; animation templates)): A Shorts trend tracker refreshed 4 Nov 2026 lists a 'friend group glue' POV skit for November (the friend who keeps everyone together) and an animation template trend, 'Twins at the Carousel', where creators drop their own characters into a song timed motion template, both easy to redo with the Bros; it also reports Shorts at over 200B daily views. Total 1884."
   }
  ],
  "history": [
@@ -14482,6 +14503,10 @@
   {
    "date": "2026-11-16 11:56",
    "total": 1881
+  },
+  {
+   "date": "2026-11-16 11:57",
+   "total": 1884
   }
  ],
  "next_week_ideas": [
@@ -14543,6 +14568,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Friend group glue",
+   "where": "YouTube Shorts and TikTok POV skits, Nov 2026",
+   "status": "rising",
+   "use": "A 20 second Short to our own friendship song: one friend stands alone at the side, the Bro 'glue' walks over (standing walk in place, then a big beckoning wave, 2 seconds), takes his hand and brings him into the group, then everyone does the same move together (standing in place, side step left and right with a clap on each beat, 4 seconds); caption 'POV: you are the friend who brings everyone in'."
+  },
   {
    "name": "Koplo group sway (Indonesia)",
    "where": "TikTok and Reels Indonesia, Nov 2026",
@@ -14656,12 +14687,6 @@
    "where": "TikTok ('my boyfriend's always dancing', B&T 2 Nov 2026), rising",
    "status": "rising",
    "use": "A 15 second Short with a caption 'My brother is ALWAYS dancing': four quick clips of Big Bro bursting into the same silly move to our own song in everyday places (brushing teeth, supermarket queue, bus stop, bedtime), Little Bro rolling his eyes then joining in the last clip. Step for Meshy: standing in place, bounce knees, swing both arms side to side twice, then wiggle hips and point up."
-  },
-  {
-   "name": "It's time! Christmas switch",
-   "where": "Instagram Reels and TikTok (Inmagic 16 Nov, NewEngen 13 Nov 2026)",
-   "status": "peak",
-   "use": "Fixed camera on the Bros' plain living room; Little Bro shouts 'It's time!' on our own beat, a jump cut on the drum hit turns the room into a full Christmas set (tree, lights, snow at the window) and both Bros start our Christmas chorus. Same angle before and after so the cut looks magic. Meshy prompt: standing, raise both arms and shout, then bounce in place with jazz hands."
   }
  ]
 }
