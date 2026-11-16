@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T13:41:06+05:30",
- "runs": 508,
+ "updated": "2026-11-16T13:42:08+05:30",
+ "runs": 509,
  "branches": [
   {
    "id": "platforms",
@@ -4822,6 +4822,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 501
+    },
+    {
+     "t": "Blue Ant Media's largest ever kids slate at MIPCOM 2026 is built from short episodes: Tralala (52 x 7 minutes, a young frog and her dad, already sold to CBeebies, ABC Australia, SVT and YLE), Little Margo Stories (50 x 3 minutes) and BeddyByes (52 x 11 minutes), confirming that broadcasters now buy the same bite sized lengths that work on YouTube.",
+     "src": "Senal News, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 509
     }
    ]
   },
@@ -13802,11 +13809,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 429 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:54",
-   "note": "Run 430 (global markets, Vietnam; music craft checked first and skipped as covered): most Vietnam facts (POPS Kids size, BabyBus Vietnam views) were already in the tree, so only two new points were kept: vidIQ models BabyBus Vietnam at about 3,500 USD a month from about 92M views (about 0.04 USD per 1,000), and its top long videos are all 2021 to 2022 uploads. Total 1753."
+   "note": "Earlier runs summarised: all rounds through Run 430 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:00",
@@ -14119,6 +14122,10 @@
   {
    "date": "2026-11-16 13:41",
    "note": "Run 508 (music craft (2026 rhythm development reviews, Suno's kids song library)): A 2026 Annals review finds speech to children and lullabies across languages pulse at about 2 beats a second (120 BPM) and that months of rhythm based music play improved word reading in 7 to 8 year olds; Suno's own kids library advises clap or step cues for dance songs, endings that loop back to the start and few brass hits for little ones. Total 1958."
+  },
+  {
+   "date": "2026-11-16 13:42",
+   "note": "Run 509 (visual craft (thumbnail studies, MIPJunior and MIPCOM 2026 slates, pacing research; nearly all already in the tree)): Thumbnail and pacing studies were already leaves; the only new point is that the big new preschool slates at MIPCOM 2026 are built from very short episodes (3, 7 and 11 minutes), the same bite size as a Bro Bros song plus a short story. Total 1959."
   }
  ],
  "history": [
@@ -15133,6 +15140,10 @@
   {
    "date": "2026-11-16 13:41",
    "total": 1958
+  },
+  {
+   "date": "2026-11-16 13:42",
+   "total": 1959
   }
  ],
  "next_week_ideas": [
