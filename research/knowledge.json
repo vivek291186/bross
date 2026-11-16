@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:04:19+05:30",
- "runs": 703,
+ "updated": "2026-11-16T22:04:48+05:30",
+ "runs": 704,
  "branches": [
   {
    "id": "platforms",
@@ -16021,11 +16021,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 624 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:12",
-   "note": "Run 625 (YouTube algorithm (Shorts parental limits)): YouTube's Shorts feed timer for supervised accounts (parents can set it to zero) was already a leaf, so no new leaves. Total 2105."
+   "note": "Earlier runs summarised: all rounds through Run 625 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:12",
@@ -16338,6 +16334,10 @@
   {
    "date": "2026-11-16 22:04",
    "note": "Run 703 (topics and seasons (family play and toy themes; trends skipped after an empty trends round)): DreamToys and Circana toy themes were already in the tree; new from The Insights Family (11 Nov 2026): children's weekend play with toys and games is up 10% on last year and one in five parents of 3 to 9 year olds buy toys for playing together as a family, which backs family play songs for the holidays. Total 2275."
+  },
+  {
+   "date": "2026-11-16 22:04",
+   "note": "Run 704 (global markets (Brazil kids channel ranking recheck)): Brazil searches (Inflr's October ranking with Mundo Bita third, ECA Digital rules) returned only findings already in the tree; no new leaves. Total 2275."
   }
  ],
  "history": [
@@ -17084,6 +17084,10 @@
   {
    "date": "2026-11-16 22:03",
    "total": 2274
+  },
+  {
+   "date": "2026-11-16 22:04",
+   "total": 2275
   },
   {
    "date": "2026-11-16 22:04",
