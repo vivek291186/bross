@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:35:34+05:30",
- "runs": 413,
+ "updated": "2026-11-16T09:37:06+05:30",
+ "runs": 414,
  "branches": [
   {
    "id": "platforms",
@@ -11899,6 +11899,48 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 411
+    },
+    {
+     "t": "A trio dance to a sped up, chipmunk voiced 80s pop song (small jumps, kicks, spins and hair flips performed by three people in a row) is a November 2026 TikTok trend, a ready made format for three Bro Bros characters with our own fast, high pitched chorus.",
+     "src": "newengen.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 414
+    },
+    {
+     "t": "'Pray For Me' slow motion entrances (friends enter a steady wide shot one at a time from different sides in exaggerated slow motion) are trending in November 2026 and need no dance skill, only a locked camera and big drum hits.",
+     "src": "newengen.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 414
+    },
+    {
+     "t": "Animated, second person survival stories released in numbered parts, each ending on a cliffhanger, are a November 2026 TikTok format; a gentle kids version is a Part 1, Part 2 Bro Bros adventure (lost puppy, missing snowman) that ends each Short on 'what happens next?'",
+     "src": "newengen.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 414
+    },
+    {
+     "t": "A frantic 'go, go, go' audio with big hand gestures and on screen text about a moment that needs instant action is trending in November 2026, which maps onto kid moments like the ice cream van or 'park time' with our own chant.",
+     "src": "newengen.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 414
+    },
+    {
+     "t": "Thanksgiving 2026 food trends on TikTok include turkey shaped snack boards with crackers fanned into tail feathers, filmed overhead and sped up, which a Bro Bros fruit turkey snack song could copy on a plate of fruit for 26 Nov.",
+     "src": "newengen.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 414
+    },
+    {
+     "t": "The fan blade wipe transition (a fixed overhead shot where a passing fan hides an outfit change) is a current CapCut format that a Blender shot can copy easily: a spinning ceiling fan wipe that swaps the Bros from pyjamas into winter coats.",
+     "src": "newengen.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 414
     }
    ]
   }
@@ -11924,10 +11966,6 @@
   "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
  ],
  "log": [
-  {
-   "date": "2026-11-16 05:50",
-   "note": "Run 334 (TRENDS (Dear Santa list Reels, hand motion reveal, November dumps)): This week's Instagram audio charts add a 'Dear Santa' list format (each line a wish, set to Mariah), a before and after reveal triggered by one hand motion (Diana Ross's Upside Down, 127K Reels) and November photo dumps of small seasonal moments; Mariah's song passed 5.8M Reels. A kid safe Dear Santa list joined the trend bank. Total 1388."
-  },
   {
    "date": "2026-11-16 05:51",
    "note": "Run 335 (rules and safety (EU Digital Fairness Act proposal, Ofcom and YouTube feeds)): The EU Commission proposed the Digital Fairness Act on 11 Nov 2026: bans on dark patterns, limits on personalised ads and prices for minors, clear influencer disclosure, the right to switch off addictive features and fines up to 6% of turnover; it now goes to Parliament and Council. In the UK, YouTube declined Ofcom's call to overhaul its recommendation feeds in May, while Ofcom found 73% of 11 to 17 year olds met harmful content in four weeks. Total 1391."
@@ -12243,6 +12281,10 @@
   {
    "date": "2026-11-16 09:35",
    "note": "Run 413 (topics (UK toy boom, family play, why kids quit apps)): Circana via MadeForMums (11 Nov): UK toy sales to October are up 17%, a 10 year high, led by squishies and stickers (+45%) and building sets (+32%), and hands on play is rising as screen time debate grows; PwC's Gen Alpha survey says kids 7 to 14 quit apps mostly from boredom (52%) and too many ads (47%). Total 1690."
+  },
+  {
+   "date": "2026-11-16 09:37",
+   "note": "Run 414 (TRENDS (chipmunk trio dance, slow motion entrances, 'go go go', numbered cliffhanger stories)): NewEngen's November list (updated 13 Nov) adds a sped up chipmunk voiced trio routine (hops, kicks, spins), slow motion group entrances, a frantic 'go go go' gesture lip sync and animated stories in numbered parts ending on cliffhangers; added three kid safe versions to the trend bank and dropped the late October snack game. Total 1696."
   }
  ],
  "history": [
@@ -12877,6 +12919,10 @@
   {
    "date": "2026-11-16 09:35",
    "total": 1690
+  },
+  {
+   "date": "2026-11-16 09:37",
+   "total": 1696
   }
  ],
  "next_week_ideas": [
@@ -12939,6 +12985,24 @@
  ],
  "trend_bank": [
   {
+   "name": "Chipmunk trio dance",
+   "where": "TikTok (NewEngen November 2026 list, updated 13 Nov)",
+   "status": "rising",
+   "use": "Three characters in a row (Big Bro, Little Bro and a friend) do a short sped up routine to our own high pitched, fast party chorus: two small hops in place, a front kick with each leg, a full spin on the spot, then a head toss with hands on hips; film wide so all three fit. Meshy prompt: standing in place, small hop twice, kick right leg forward, kick left leg forward, spin around once, hands on hips and nod."
+  },
+  {
+   "name": "Slow motion entrance",
+   "where": "TikTok ('Pray For Me' slow mo entrances, NewEngen Nov 2026)",
+   "status": "rising",
+   "use": "Locked wide shot of the Bro Bros playroom; one by one each character walks in from a different side in exaggerated slow motion on our own big drum hits (Little Bro with a scarf flying, the dog with ears flapping), ending in a group pose on the last beat. Meshy prompt: slow dramatic walk forward, arms swinging wide, stop and pose with both arms up."
+  },
+  {
+   "name": "Go go go!",
+   "where": "TikTok (frantic 'go go go' gesture lip sync, NewEngen Nov 2026)",
+   "status": "rising",
+   "use": "A 10 second Reel with caption 'When the ice cream truck song starts' or 'When Mum says shoes on, park time': the Bros wave both arms forward and point to the door on each 'go' of our own chant, then dash off screen. Meshy prompt: standing, pump both arms forward three times fast, point to the side, then jog in place."
+  },
+  {
    "name": "Days until Christmas countdown",
    "where": "Reels and TikTok (Christmas countdown, Startups.co.uk Nov 2026), seasonal",
    "status": "seasonal",
@@ -12973,12 +13037,6 @@
    "where": "TikTok each December (Charlie Brown party dance revival, YPulse Dec 2025)",
    "status": "seasonal",
    "use": "From mid December post a Short where the Bros and friends do a goofy cartoon party dance to our own jazzy piano Christmas song in a cosy room with a small tree. Steps for Meshy: standing in place, head bobbing side to side, arms swinging loosely in front one after the other, shoulders bouncing up and down, then lean back and nod with eyes shut."
-  },
-  {
-   "name": "Rock paper scissors snack game",
-   "where": "TikTok (Virlo, rising late Oct 2026), family format",
-   "status": "rising",
-   "use": "A 15 second Short: Big Bro and Little Bro face each other over a plate of fruit pieces; on each beat of our own chant song they play rock paper scissors, the winner takes one piece and a big 'YUM', and the last round ends in a draw so they share the final strawberry. Moves for Meshy: standing in place, pump a fist up and down three times, then open the hand forward."
   },
   {
    "name": "My brother is ALWAYS dancing",
@@ -13045,18 +13103,6 @@
    "where": "TikTok greenscreen and Reels, late Dec to early Jan",
    "status": "seasonal",
    "use": "Big Bro holds up a giant checklist 'Bro Bros goals for 2027' (brush teeth, share toys, learn to swim, be kind) and each item gets a quick move on the beat of our New Year song, ticking boxes; ends on a jump and confetti. Meshy prompt: standing, point forward, nod, then jump once with arms up."
-  },
-  {
-   "name": "Christmas outfit loading",
-   "where": "TikTok and Reels, costume loading format moving to Christmas",
-   "status": "seasonal",
-   "use": "Bros in pyjamas next to a big 'Christmas outfit loading...' bar that fills up; freeze frame, then on the first drum hit of our own Christmas song the camera starts at their new boots and tilts up beat by beat (boots, trousers, jumper, hat) to reveal the full festive outfit, ending with a big jump and wave."
-  },
-  {
-   "name": "Say the word on the beat (Christmas)",
-   "where": "TikTok and Shorts (Christmas edition spread mid Dec 2025, likely back)",
-   "status": "seasonal",
-   "use": "Vertical Short on our own beat: a grid of festive pictures (bell, shell, star, car, tree, bee) lights up one per beat and the Bros say each word aloud, then the viewer's turn with the same grid; round two is faster, round three faster still, ending with the Bros laughing when Little Bro slips. No copyrighted song, our own beat."
   }
  ]
 }
