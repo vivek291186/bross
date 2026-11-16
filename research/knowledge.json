@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:59:20+05:30",
- "runs": 664,
+ "updated": "2026-11-16T20:00:42+05:30",
+ "runs": 665,
  "branches": [
   {
    "id": "platforms",
@@ -6705,6 +6705,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 653
+    },
+    {
+     "t": "In a McMaster study (Developmental Science, 2023) children aged 3 to 6 chose and danced more to rhythms with medium syncopation than low syncopation, the same inverted U sweet spot adult ballet and hip hop dancers show, so Bro Bros dance tracks should have a few off beat kicks and claps rather than a plain straight beat or an over busy one.",
+     "src": "McMaster University / Developmental Science, 2023",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 665
+    },
+    {
+     "t": "A University of Padua eye tracking study (2026, 60 toddlers aged 18 to 36 months) found toddlers pick up the rules of four chord sequences, that children who learned the music rule also tended to learn a grammar rule, and that more music at home went with more curiosity about surprising endings, so a playful 'wrong chord, then the right one' gag at a song's end can grab toddlers' attention.",
+     "src": "University of Padua (conference poster), 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 665
     }
    ]
   },
@@ -15523,7 +15537,7 @@
   }
  ],
  "playbook": [
-  "Major key, 4/4, 110-125 BPM for dance songs; keep one slow 60-70 BPM wind-down song in the week with no drum groove, a narrow melody and soft repeated phrases (the lullaby shape that calms babies in every culture). Christmas songs: G or C major around 110 to 118 BPM, sleigh bells and bright bells, an optional swing shuffle and a big 'everyone sing' group chorus (about 2 to 3 minutes).",
+  "Major key, 4/4, 110-125 BPM for dance songs; keep one slow 60-70 BPM wind-down song in the week with no drum groove, a narrow melody and soft repeated phrases (the lullaby shape that calms babies in every culture). Christmas songs: G or C major around 110 to 118 BPM, sleigh bells and bright bells, an optional swing shuffle and a big 'everyone sing' group chorus (about 2 to 3 minutes). Keep dance grooves moderately syncopated (a few off beat kicks and claps, not straight four on the floor and not busy), the level children 3 to 6 rate best for dancing.",
   "One 1-2 bar hook repeated in every chorus, simple melody inside about 5 notes sitting mostly between middle C and A (C, F or G major), where preschoolers sing best; add nonsense syllables (la la, doo doo) kids can sing before they can talk.",
   "Every lyric line has an action kids can copy (Total Physical Response): clap, jump, wiggle, freeze, stomp, with big quiet and loud contrasts (tiptoe, then jump, then a sudden stop) because toddlers move to changes in energy, not to the beat.",
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
@@ -15545,11 +15559,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 585 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:54",
-   "note": "Run 586 (rules (EU AI Act labels and UK children's codes check)): The EU AI Act labelling duty (from 2 Aug 2026) and Ofcom's children's codes and teen feed findings were already leaves, and no new kids rule appeared this week, so no new leaves. Total 2080."
+   "note": "Earlier runs summarised: all rounds through Run 586 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:54",
@@ -15862,6 +15872,10 @@
   {
    "date": "2026-11-16 19:59",
    "note": "Run 664 (TRENDS (meme check: AI fairy tale dance, AI game merges)): Trend trackers (Virlo, Know Your Meme, weekly lists) showed no new family friendly dance this round. Two current memes were checked and rejected: the AI made 'tiptoe' Rumpelstiltskin dance (Sep to Oct 2026, millions of views) has a creepy tone and adult captions, and AI 'video game merging' clips depend on protected games; the only usable lesson is that public domain fairy tale characters doing one silly tiptoe dance can go viral. Total 2207."
+  },
+  {
+   "date": "2026-11-16 20:00",
+   "note": "Run 665 (music craft (syncopation sweet spot, harmonic learning in toddlers)): A McMaster study in Developmental Science found children aged 3 to 6, like adult dancers, prefer medium syncopation for dancing (an inverted U), so the playbook's tempo rule now asks for moderately syncopated grooves; a 2026 University of Padua study of 60 toddlers found they learn chord sequence rules and that those who did also learned a grammar rule, with more home music exposure linked to more curiosity about surprising endings. Total 2209."
   }
  ],
  "history": [
@@ -16456,6 +16470,10 @@
   {
    "date": "2026-11-16 19:59",
    "total": 2207
+  },
+  {
+   "date": "2026-11-16 20:00",
+   "total": 2209
   }
  ],
  "next_week_ideas": [
