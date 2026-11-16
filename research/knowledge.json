@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:41:24+05:30",
- "runs": 361,
+ "updated": "2026-11-16T07:42:49+05:30",
+ "runs": 362,
  "branches": [
   {
    "id": "platforms",
@@ -1238,6 +1238,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 351
+    },
+    {
+     "t": "In vidIQ's July 2026 study of 448K new channels, a typical first Short drew about 1,360 views in 30 days and Shorts stayed flat across the first ten uploads (about 1,275 by the fifth, 1,344 by the tenth), while long videos rose from 180 to 272 views; 86.5% of new Shorts channels had at least one Short pass 1,000 views.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 362
+    },
+    {
+     "t": "Meta One (launched 15 Sep 2026) sells Instagram Plus at 3.99 USD a month and creator bundles from 14.99 USD (Essential) to 499 USD (Max); creator plans add a bold follow button on Reels and automatic follow invitations to people who engage, while Advanced (from 49.99 USD) adds links in organic Reels and scheduled Stories; Meta promises no extra reach.",
+     "src": "Meta Newsroom, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 362
+    },
+    {
+     "t": "For an account with almost no followers, Meta One's automatic follow invitations to people who liked or watched a Reel are the one paid feature that directly targets follower conversion; it is worth a one month trial only after Reels reach a few hundred views each, since invitations scale with engagement.",
+     "src": "Meta Newsroom, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 362
+    },
+    {
+     "t": "Instagram's updated Reels camera (2026) adds an undo button for the last clip, stronger countdown and timer tools and less flicker on green screen, which makes recording parent facing behind the scenes Reels (for example the owner showing a Bro Bros render) quicker to do in app.",
+     "src": "BetaNews, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 362
+    },
+    {
+     "t": "A 2025 case shows YouTube Kids access is granted per channel: two toy channels with over 7M subscribers each were missing from YouTube Kids until their agency asked for a review; about four weeks later the YouTube Kids team approved them and they appeared in Kids search and suggestions, after which their new Shorts reached about 877K and 301K views.",
+     "src": "AIR Media-Tech, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 362
     }
    ]
   },
@@ -8882,6 +8917,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 276
+    },
+    {
+     "t": "Measured against vidIQ's new channel norm of about 1,360 views per Short, our Shorts at 0 to 30 views are roughly 50 times lower, so the problem is how our Shorts are made and set up (a trimmed piece of the long song, posted five minutes after it, made for kids) rather than channel age; the next test should be Shorts built as standalone hooks (a trend format or a question in the first second).",
+     "src": "vidIQ Research, Jul 2026 + Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 362
     }
    ]
   },
@@ -10537,10 +10579,6 @@
   },
   {
    "date": "2026-11-16 03:38",
-   "note": "Run 283 (TRENDS (result first flash, last uppy, chipmunk trio, every big brother when)): Volume's 15 Nov niche tracker says the top family format this week flashes the finished result in the first second before showing the steps (median 20 times normal views for 18 accounts), and 'Every [role] when...' in joke captions lead creative comedy. The 'last uppy' hug trend (parents lifting their big kids one last time) is still drawing posts a year on, and NewEngen's 13 Nov list keeps the chipmunk voiced trio dance. Three formats joined the trend bank. Total 1221."
-  },
-  {
-   "date": "2026-11-16 03:38",
    "note": "Run 284 (global markets (Vietnam and Nigeria)): Vietnam's first billion view music video is a kids song about a mother duck and five ducklings sung by a three year old (Heo Con, about 40 videos, each under five minutes), and other kids songs fill the next places, while POPS Kids passed 20M subscribers. Nigeria's YouTube watch time grew over 50% in a year but pays only 0.5 to 2.5 USD per 1,000 views, and views from the US, UK and Canada are the growth lever. Total 1225."
   },
   {
@@ -10850,13 +10888,13 @@
   {
    "date": "2026-11-16 07:41",
    "note": "Run 361 (YouTube algorithm (AI labels do not cost reach, app opening into Shorts, live rehearsal mode)): Little changed in the algorithm since the 1 Oct originality update; new details are that YouTube says an AI label by itself does not change recommendations or monetisation, the app has been opening straight into Shorts for some users, and a private Live Practice Mode lets channels rehearse a stream before going public, useful before a December Christmas stream. Total 1491."
+  },
+  {
+   "date": "2026-11-16 07:42",
+   "note": "Run 362 (Shorts and Reels (what new channels' Shorts normally get, Meta One follow tools, Reels camera)): vidIQ's study of 448K new channels says a typical first Short gets about 1,360 views in 30 days and stays flat over the first ten, so our Shorts at under 30 views point to a packaging or setup problem, not just a young channel. Meta One (Sept 2026) adds automatic follow invitations and a bigger follow button on Reels in paid creator plans, which targets our 1 follower Instagram problem, and Instagram's Reels camera got an undo button and better timers. Total 1497."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:15",
-   "total": 351
-  },
   {
    "date": "2026-11-15 17:16",
    "total": 355
@@ -12052,6 +12090,10 @@
   {
    "date": "2026-11-16 07:41",
    "total": 1491
+  },
+  {
+   "date": "2026-11-16 07:42",
+   "total": 1497
   }
  ],
  "next_week_ideas": [
