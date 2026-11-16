@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:43:25+05:30",
- "runs": 643,
+ "updated": "2026-11-16T18:44:00+05:30",
+ "runs": 644,
  "branches": [
   {
    "id": "platforms",
@@ -10345,6 +10345,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 632
+    },
+    {
+     "t": "A kids channel that subtitled 11 languages and dubbed six (Spanish, Arabic, Indonesian, Portuguese, Japanese, Korean) as extra audio tracks on new premieres and about 70% of its back catalogue gained 125.5M views from dubs in five months, over 30% of its total, mostly from Suggested and Browse rather than search.",
+     "src": "air.io, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 644
+    },
+    {
+     "t": "In that case average view duration was longer on the dubs than on English (Spanish 8:24, Portuguese 7:59, Russian 7:40, Indonesian 7:12, Arabic 6:46 versus English 6:26), so a dub can strengthen a video's retention signal, not just add views.",
+     "src": "air.io, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 644
+    },
+    {
+     "t": "Spanish, Arabic, Indonesian and Portuguese dubs won early while Japanese and Korean rose later, and the team picked languages by comparing Views by Country with Audio Track Enabled in analytics, which is a cheap way for Bro Bros to choose its first two dub languages from real demand.",
+     "src": "air.io, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 644
     }
    ]
   },
@@ -15185,10 +15206,6 @@
   },
   {
    "date": "2026-11-16 16:43",
-   "note": "Run 565 (YouTube algorithm (Beaupre interview and satisfaction signals recheck)): The September Creator Insider interview (subscribers click about 10% of uploads, Suggested beats the subscriptions feed, new channels reached by topic matching) and the valued watch time survey rule were all already leaves, so no new leaves. Total 2059."
-  },
-  {
-   "date": "2026-11-16 16:43",
    "note": "Run 566 (Shorts and Reels (platform news check to 16 Nov)): Instagram's Reels controls for English speaking users, Shorts series, Shorts thumbnails and AI likeness Shorts were all already leaves and no new Reels or Shorts ranking change was announced this month, so no new leaves. Total 2059."
   },
   {
@@ -15498,6 +15515,10 @@
   {
    "date": "2026-11-16 18:43",
    "note": "Run 643 (TRENDS (Wrapped artist messages, family Christmas dance shape, calm then gallop drop)): Spotify still had not confirmed the Wrapped 2026 date on 4 Nov but closed artist video message submissions (under 30 seconds) on 6 Nov; the Christmas dances families actually joined were simple group or partner routines with about four basic moves; Kapwing's Nov 2025 'horses in the stable' format (stand still, then gallop when the beat drops) is a ready made kid move. Total 2155."
+  },
+  {
+   "date": "2026-11-16 18:44",
+   "note": "Run 644 (global markets (which dubs pay off and hold viewers longest)): An AIR case study (Mar 2026) of an unnamed kids channel: after testing 11 subtitle languages it dubbed six (Spanish, Arabic, Indonesian, Portuguese, Japanese, Korean), the dubs added 125.5M views in five months (over 30% of all views, mostly via Suggested and Browse), and Spanish and Portuguese dubs were watched about 1.5 to 2 minutes longer per view than English. Total 2158."
   }
  ],
  "history": [
@@ -16008,6 +16029,10 @@
   {
    "date": "2026-11-16 18:43",
    "total": 2155
+  },
+  {
+   "date": "2026-11-16 18:44",
+   "total": 2158
   }
  ],
  "next_week_ideas": [
