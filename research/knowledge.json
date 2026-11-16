@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:56:08+05:30",
- "runs": 368,
+ "updated": "2026-11-16T07:56:55+05:30",
+ "runs": 369,
  "branches": [
   {
    "id": "platforms",
@@ -10786,6 +10786,41 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 366
+    },
+    {
+     "t": "By 10 Nov 2026 Christmas sounds were already at peak on Reels (Mariah Carey's classic in about 5.8M Reels, Ariana Grande's 'Santa Tell Me' about 571K, Kelly Clarkson's 'Underneath the Tree' about 451K), so Christmas viewing has begun; our original Christmas songs and Christmas Reels should be live from this week, not December.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 369
+    },
+    {
+     "t": "A soft 'digicam diary' look (grainy, slightly washed out clips that feel like an old digital camera) is rising on Reels for cosy autumn and winter moments in November 2026; a Bro Bros 'winter diary' Reel can add a digicam style filter and date stamp in Edits over a calm song of ours.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 369
+    },
+    {
+     "t": "Quick tips set over a wordless instrumental (no lyrics, text on screen) are rising on Reels in November 2026; a parent facing 'three ways to make tooth brushing fun' Reel over an instrumental of one of our songs gives parents value and keeps our music in their ears.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 369
+    },
+    {
+     "t": "'Before and after' transformation edits (room makeovers, progress timelines) are a strong November 2026 Reels format; for kids this fits a snowman, gingerbread house or Christmas tree build from empty to finished on one beat drop of our song.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 369
+    },
+    {
+     "t": "Most of this week's trending Reels sounds are major label tracks that business accounts often cannot use, so copying the format (countdowns, before and after, duo routines) with our own songs is the only reliable way for a brand account like ours to join these trends.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 369
     }
    ]
   }
@@ -10814,10 +10849,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 03:46",
-   "note": "Run 290 (YouTube algorithm (original Shorts priority, Shorts off switch, subscriber vs non subscriber learning)): YouTube announced on 1 Oct 2026 that the Shorts feed will favour original content and cut reach for channels that mainly re upload others' clips, judged at channel level and with no notice. Since April 2026 any viewer can set Shorts time to zero, which removes Shorts from Home, Search and Suggested, so Shorts only channels lose those viewers. Todd Beaupre explained that early results are learned separately for subscribers and new viewers and that most subscribed viewing happens in Suggested, not the Subscriptions feed. Total 1245."
   },
   {
    "date": "2026-11-16 03:47",
@@ -11130,13 +11161,13 @@
   {
    "date": "2026-11-16 07:56",
    "note": "Run 368 (competitor deep dive (CoComelon Brasil's breakout rain song, ChuChu TV's stalled giant)): CoComelon's Portuguese channel shows how big a localised classic can be: its new 'Rain Rain Go Away' version (17 Oct) passed 4.7M views, about 36 times its usual, and a two song duck combo hit 1.7M, while its 11 to 27 second Shorts stay at 3K to 92K and there was still no Christmas upload by 10 Nov. ChuChu TV's main channel (98M subscribers) gained no subscribers in 28 days, living on 30 minute classic compilations. Total 1531."
+  },
+  {
+   "date": "2026-11-16 07:56",
+   "note": "Run 369 (TRENDS (Christmas audio at peak, digicam diary look, tips over an instrumental)): SocialPilot's Reels audio chart (31 Oct to 10 Nov) shows Christmas has fully started: Mariah Carey's classic is in about 5.8M Reels and other Christmas pop songs are at peak, which means our own Christmas songs should be out now. Two clean new formats are the soft 'digicam diary' look for cosy clips and quick tips over a wordless instrumental. Total 1536."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:40",
-   "total": 381
-  },
   {
    "date": "2026-11-15 17:41",
    "total": 384
@@ -12332,6 +12363,10 @@
   {
    "date": "2026-11-16 07:56",
    "total": 1531
+  },
+  {
+   "date": "2026-11-16 07:56",
+   "total": 1536
   }
  ],
  "next_week_ideas": [
@@ -12430,6 +12465,12 @@
    "use": "A routine song Reel where each clip carries a big clock caption (7:00 wake up and stretch, 7:05 brush teeth, 7:15 breakfast, 8:00 school bag on, 8:05 wave bye), one beat per clip and a happy ending shot. Meshy prompts: standing, stretch both arms overhead and yawn; standing, brush teeth motion with one hand; standing, wave goodbye with one hand."
   },
   {
+   "name": "Before and after build",
+   "where": "Instagram Reels (SocialPilot, Nov 2026)",
+   "status": "rising",
+   "use": "A 10 second Reel: an empty snowy garden (or bare tree) shown for one bar, then on the beat drop of our own winter song it cuts to the finished snowman (or fully decorated tree) with both Bros posing beside it, caption 'before' and 'after'. Meshy prompt: standing in place, both arms open wide in a proud 'ta da' pose, then point at the object beside you."
+  },
+  {
    "name": "What are you thinking about? Me:",
    "where": "TikTok and Reels (November 2026 formats roundup)",
    "status": "rising",
@@ -12476,12 +12517,6 @@
    "where": "Instagram Reels (week of 11 Nov 2026, Christmas songs)",
    "status": "seasonal",
    "use": "Little Bro holds up a big letter 'Dear Santa' and on each beat of our own Christmas song a new kind wish pops up as a picture: a snowman friend, warm socks for Grandpa, a dance party for everyone; on the last line both Bros post the letter into a glowing mailbox and dance. Meshy prompt: standing, hold both hands forward as if holding a letter, then hop twice and wave one arm overhead."
-  },
-  {
-   "name": "Pass the dance relay",
-   "where": "TikTok K-pop relay dance posts (Revid, 15 Nov 2026)",
-   "status": "rising",
-   "use": "Our own chorus plays and each Bro Bros friend dances one line, then points to the next friend who takes over, ending with everyone together on the last line; no finger gun or police gestures. Meshy prompt: standing, do two side steps with arm swings, then point one open hand to the side and freeze with a smile."
   },
   {
    "name": "No, no, no... YES!",
