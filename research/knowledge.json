@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:54:30+05:30",
- "runs": 796,
+ "updated": "2026-11-17T00:55:27+05:30",
+ "runs": 797,
  "branches": [
   {
    "id": "platforms",
@@ -7181,6 +7181,13 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 785
+    },
+    {
+     "t": "Splice's Core Trends 2026 report (2025 sample download data) named Afro house its sound of the year (downloads up 778%), with speed garage (up 625%) and bedroom pop (up 297%) next and K pop downloads rebounding after an animated K pop film, so a light Afro house groove (four on the floor kick with shakers and log drums) or a K pop style chant break are the freshest production colours to try in a Suno style prompt for a dance song, kept at kid tempo and bright.",
+     "src": "splice.com Core Trends 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 797
     }
    ]
   },
@@ -16664,12 +16671,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:37",
-   "note": "Earlier runs summarised: all rounds through Run 717 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:38",
-   "note": "Run 718 (algorithm experiments (Shorts thumbnail A/B test; trends skipped after an empty trends round)): AIR's WOA Song Spanish and Vania Mania cases were already in the tree; one vendor test of 500 Shorts says custom covers help only on Home, Browse and search, not in the Shorts feed (low confidence). Total 2287."
+   "note": "Earlier runs summarised: all rounds through Run 718 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:39",
@@ -16982,6 +16985,10 @@
   {
    "date": "2026-11-17 00:54",
    "note": "Run 796 (TRENDS (advent calendar season, Tubefilter latest chart)): Advent calendar countdown formats and the latest available Tubefilter chart (week of 8 Nov) were already in the tree and the 15 Nov chart is not out yet; no new leaves. Total 2367."
+  },
+  {
+   "date": "2026-11-17 00:55",
+   "note": "Run 797 (music craft (children's singing range, African kids listening, producer sound trends)): Children's singing ranges and Africa's Wrapped listening were already in the tree; new: Splice's 2026 producer data makes Afro house, speed garage and a K pop rebound the freshest production colours for a dance song. Total 2368."
   }
  ],
  "history": [
@@ -18104,6 +18111,10 @@
   {
    "date": "2026-11-17 00:54",
    "total": 2367
+  },
+  {
+   "date": "2026-11-17 00:55",
+   "total": 2368
   }
  ],
  "next_week_ideas": [
