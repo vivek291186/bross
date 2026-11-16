@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:02:39+05:30",
- "runs": 434,
+ "updated": "2026-11-16T10:03:41+05:30",
+ "runs": 435,
  "branches": [
   {
    "id": "platforms",
@@ -12314,13 +12314,6 @@
      "run": 417
     },
     {
-     "t": "Official Charts (4 Nov 2026) expects Spotify Wrapped 2026 on Wednesday 2 December, since every Wrapped since 2021 has launched on a Wednesday (3 Dec 2025, 4 Dec 2024), so our own 'Bro Bros Wrapped' top songs recap should be ready to post the same day.",
-     "src": "officialcharts.com, Nov 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 420
-    },
-    {
      "t": "Spotify keeps counting Wrapped listening until about mid November rather than stopping on 31 October, so songs released in early November can still appear in a child's 2026 Wrapped.",
      "src": "officialcharts.com, Nov 2026; newsnationnow.com, Dec 2025",
      "conf": "medium",
@@ -12410,6 +12403,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 432
+    },
+    {
+     "t": "D Billions' 'My Name Is Chicky' (four colourful characters, each with its own line and signature move) went viral as groups of four people lip syncing one part each, with one post at about 8.3M likes, and the song passed 700M YouTube views, so a song with one clearly owned part per character is built for group copying.",
+     "src": "romper.com, 2022",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 435
+    },
+    {
+     "t": "A preschool cartoon's dance song (Disney Jr.'s 'Minnie Slide') turned into a grown up TikTok dance trend in March 2026, with fans joking about its 'artpop era', so an odd, catchy kids track with a clear routine can be adopted ironically by teens and adults and reach far beyond kids.",
+     "src": "dailydot.com, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 435
+    },
+    {
+     "t": "'Found My Spark', a drum and bass track recorded by children from a Cork kids dance club, went viral in Ireland as a summer anthem (millions of views, live radio performance), showing that fast electronic energy sung by kids is not only for teens.",
+     "src": "dailydot.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 435
     }
    ]
   }
@@ -12435,10 +12449,6 @@
   "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
  ],
  "log": [
-  {
-   "date": "2026-11-16 06:40",
-   "note": "Run 355 (TRENDS (Dame Hombro reaches Europe, feet up camera reveal, winter dance for January)): The Dame Hombro shoulder bounce is still on every list this week (NewEngen 13 Nov, Inmagic 16 Nov) and has spread to Spain and Italy, so it moves to peak. Fabulate's November roundup adds the feet up camera reveal, and last January's Winter Vibes routine (sway, snowflake fingers, self hug twist, spin, freeze) is a ready template for a winter dance Short in early January. Total 1459."
-  },
   {
    "date": "2026-11-16 06:41",
    "note": "Run 356 (global markets (Brazil's TIC Kids Online 2025 survey)): Brazil's national kids survey (published May 2026) shows 60% of online 9 to 17 year olds go online through the TV every day, phone ownership among 9 to 10 year olds fell from 67% to 55% in a year, and 28% first went online by age 6, so Brazil's younger kids increasingly watch on the family TV, which favours Portuguese audio tracks and long form compilations. Total 1462."
@@ -12754,6 +12764,10 @@
   {
    "date": "2026-11-16 10:02",
    "note": "Run 434 (music craft: sleep music channels; Christmas music craft already covered): classical lullaby channel Mozart Baby Bear has 1.92M subscribers but only about 4M views a month and its newest 12 hour lullaby got about 13K views in a month, a crowded low paying niche, while its top video is a familiar Brahms lullaby (1.6M). A TinkaBop note was dropped because the tree already had it. Total 1763."
+  },
+  {
+   "date": "2026-11-16 10:03",
+   "note": "Run 435 (TRENDS (kids songs that go viral with grown ups: character relay lip syncs, cartoon dance songs, kids' own dance tracks)): Kids songs keep crossing into adult TikTok: D Billions' 'My Name Is Chicky' (four characters, one signature move each) spread as groups of four lip syncing their own part, a preschool cartoon's dance song got a joking 'artpop era' dance trend in March 2026, and an Irish kids dance club's drum and bass track became a summer anthem; a four character 'My name is...' relay went into the trend bank. Also removed a run 420 Wrapped date leaf that repeated an older one. Total 1765."
   }
  ],
  "history": [
@@ -13472,6 +13486,10 @@
   {
    "date": "2026-11-16 10:02",
    "total": 1763
+  },
+  {
+   "date": "2026-11-16 10:03",
+   "total": 1765
   }
  ],
  "next_week_ideas": [
@@ -13533,6 +13551,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "My name is... character relay",
+   "where": "TikTok evergreen (groups of four lip sync a kids song where each character sings its own line with one signature move; a D Billions version reached 8.3M likes)",
+   "status": "evergreen",
+   "use": "A 15 second Short of our own intro song: four cuts, one per character (Big Bro, Little Bro, Buddy the dog, a friend), each sings 'My name is ...!' and does one signature move on the beat, then all four do their moves together; families copy it in groups of four. Meshy prompts: standing, point to self with both thumbs then one move each (big arm wave, two hops in place, hip wiggle, spin on the spot)."
+  },
   {
    "name": "December's D is...",
    "where": "TikTok Indonesia ('Desember D-nya apa?', started early Dec 2025, likely to return)",
@@ -13646,12 +13670,6 @@
    "where": "YouTube (Advent calendar videos about 280M views in Nov 2025, Google 2026 report)",
    "status": "seasonal",
    "use": "A daily Short from 1 Dec (teaser in late Nov): the Bros open one numbered door on a giant Advent calendar and our own tiny helper elf (original design, kind, never spying) pops out with a surprise inside, a toy, a snack, a dance move or a kind deed, each with its own 15 second song line, ending 'See you tomorrow!'."
-  },
-  {
-   "name": "Dear Santa list",
-   "where": "Instagram Reels (week of 11 Nov 2026, Christmas songs)",
-   "status": "seasonal",
-   "use": "Little Bro holds up a big letter 'Dear Santa' and on each beat of our own Christmas song a new kind wish pops up as a picture: a snowman friend, warm socks for Grandpa, a dance party for everyone; on the last line both Bros post the letter into a glowing mailbox and dance. Meshy prompt: standing, hold both hands forward as if holding a letter, then hop twice and wave one arm overhead."
   }
  ]
 }
