@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:38:36+05:30",
- "runs": 486,
+ "updated": "2026-11-16T12:39:45+05:30",
+ "runs": 487,
  "branches": [
   {
    "id": "platforms",
@@ -13334,6 +13334,48 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 481
+    },
+    {
+     "t": "The 16 Nov 2026 weekly Reels list puts a 'one spot glow up switch' in its top 10: the camera never moves while the person changes look on a beat cut, which suits the Bros changing from autumn clothes to snow suits to Christmas jumpers on the same spot.",
+     "src": "inmagic.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 487
+    },
+    {
+     "t": "A calm 'slow festive makeover' format is trending in mid November 2026: a space slowly turns from autumn into a Christmas scene in one steady shot, an easy Blender build where the Bros' playroom fills with lights, a tree and snow outside the window to a gentle song.",
+     "src": "inmagic.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 487
+    },
+    {
+     "t": "A 'loading' edit is spreading on Reels: each beat cut raises an on screen loading percentage from 0% to 100% as the person gets ready, which kids can read as a counting game, for example a Bro getting ready for snow from 0% in pyjamas to 100% in hat, scarf and boots.",
+     "src": "anijam.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 487
+    },
+    {
+     "t": "The mock documentary sit down (a person sits as if interviewed while a grand score plays and a narrator describes something ordinary), popular since July 2026, is still listed in November roundups; the Bros can do a kid version about brushing teeth or building a snowman, without naming any streaming brand.",
+     "src": "anijam.ai Nov 2026, YPulse Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 487
+    },
+    {
+     "t": "Green screen and visual illusion tricks that turn an everyday task into magic are listed as a rewatch driver on Reels in November 2026, because viewers replay to see how it was done; a gift that vanishes and reappears in a Bro's hands on the beat is a loopable 7 second Short.",
+     "src": "anijam.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 487
+    },
+    {
+     "t": "AI video trend lists for November 2026 say numbered story series with the same recurring characters are beating one off clips on Reels, which supports labelling Bro Bros Shorts as Episode 1, 2, 3 of a running mini story.",
+     "src": "anijam.ai, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 487
     }
    ]
   }
@@ -13361,11 +13403,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 407 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:04",
-   "note": "Run 408 (TRENDS (AI video template trends: matching pyjama Christmas duo dance, trio holiday dance, dancing pets)): Starrd's AI video trend roundup (updated 15 Nov) shows November's template trends turning festive: a duo Christmas dance in matching pyjamas, a trio holiday dance in a row, and pet clips (a dog dancing to a car alarm, two dogs failing to make coffee, a dog driving and singing); these map neatly onto the Bros and their dog friend with our own music. Total 1675."
+   "note": "Earlier runs summarised: all rounds through Run 408 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:04",
@@ -13678,6 +13716,10 @@
   {
    "date": "2026-11-16 12:38",
    "note": "Run 486 (visual craft (Meshy 7.1 and part edits; small team 3D pipelines)): Meshy's October 2026 prompt based part edit lets us change one region of a model (a Santa hat, a winter scarf, a new shirt colour) while keeping the rest, so seasonal outfits for the Bros stay on model; Unreal's kids animation spotlight shows solo and four person teams making a shot list in days by timing a rough edit first and reusing effects. Total 1895."
+  },
+  {
+   "date": "2026-11-16 12:39",
+   "note": "Run 487 (TRENDS (inmagic 16 Nov top 10 Reels; anijam 4 Nov list)): New kid safe Reels formats this week: the one spot glow up switch (fixed camera, the look changes on the beat), the slow festive makeover of a room from autumn to Christmas, the 0 to 100 percent loading cut, the mock documentary chair interview and green screen magic tricks that make viewers rewatch. Total 1901."
   }
  ],
  "history": [
@@ -14604,6 +14646,10 @@
   {
    "date": "2026-11-16 12:38",
    "total": 1895
+  },
+  {
+   "date": "2026-11-16 12:39",
+   "total": 1901
   }
  ],
  "next_week_ideas": [
@@ -14665,6 +14711,30 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Documentary chair interview",
+   "where": "TikTok and Reels, since Jul 2026, still listed Nov 2026",
+   "status": "peak",
+   "use": "A Bro sits on a chair facing a little off camera while a grand original score plays and a narrator voice says 'Day 1 of building the biggest snowman'; cut to the snowman fail, then back to the Bro shrugging (standing shrug with palms up, 2 seconds); never name a streaming brand."
+  },
+  {
+   "name": "Slow festive makeover",
+   "where": "Instagram Reels and TikTok, mid Nov 2026",
+   "status": "seasonal",
+   "use": "One calm 20 second shot of the Bros' playroom: leaves outside turn to snow, lights switch on one by one, a tree appears, presents pop in; the Bros stand in the middle swaying side to side with arms out (slow standing sway, 4 beats each way) to our soft winter lullaby; ends with them waving at camera."
+  },
+  {
+   "name": "One spot outfit switch",
+   "where": "Instagram Reels, week of 16 Nov 2026",
+   "status": "rising",
+   "use": "Locked camera, the Bros stand on the same spot; on every strong beat of our winter song the look changes (autumn jacket, snow suit, Christmas jumper, party hat); between cuts they do the same standing move: a little hop in place with both hands on hips and a head nod, so every cut matches."
+  },
+  {
+   "name": "Loading 0 to 100",
+   "where": "Instagram Reels and TikTok, Nov 2026",
+   "status": "rising",
+   "use": "A 15 second Reel to our own get ready song: big on screen numbers 0%, 25%, 50%, 75%, 100%, one beat cut each; a Bro adds one winter item per cut (hat, scarf, mittens, boots) and at 100% both brothers do a standing star jump in place with arms up (1 second), then a happy side step left and right; kids count along."
+  },
   {
    "name": "Friend group glue",
    "where": "YouTube Shorts and TikTok POV skits, Nov 2026",
@@ -14760,30 +14830,6 @@
    "where": "Reels and TikTok (Christmas countdown, Startups.co.uk Nov 2026), seasonal",
    "status": "seasonal",
    "use": "Every 5 days from now to 1 Dec post a 7 second Short with a big caption '35 days until Christmas!' (then 30, 25...) in the Bros' cosy room; each time one new festive thing appears on the beat of our own Christmas hook (a wreath, lights, a tree, a stocking), ending with both Bros shouting the number. Leads into the daily Advent door series."
-  },
-  {
-   "name": "Matching pyjamas Christmas dance",
-   "where": "AI video and Reels templates ('Christmas Dance', Starrd Nov 2026), rising",
-   "status": "rising",
-   "use": "A 15 second Short: Big Bro and Little Bro side by side in matching red and white Christmas pyjamas by the tree, doing the same simple routine to our own Christmas song, then a friend jumps in for a trio on the last bar. Steps for Meshy: standing in place, step side to side with claps on beats 2 and 4, two arm rolls, point to the tree, then a little hop and wave."
-  },
-  {
-   "name": "Bro Bros Wrapped",
-   "where": "Every platform after Spotify Wrapped (about 2 Dec 2026)",
-   "status": "seasonal",
-   "use": "Early December Short: a big countdown card 'Bro Bros 2026 Wrapped' then our top five songs of the year from 5 to 1, two seconds each with the song's signature move and a title caption, ending with both Bros saying 'Thank you for dancing with us!' and a question to parents: which was your child's favourite?"
-  },
-  {
-   "name": "Holiday piano sway",
-   "where": "TikTok each December (Charlie Brown party dance revival, YPulse Dec 2025)",
-   "status": "seasonal",
-   "use": "From mid December post a Short where the Bros and friends do a goofy cartoon party dance to our own jazzy piano Christmas song in a cosy room with a small tree. Steps for Meshy: standing in place, head bobbing side to side, arms swinging loosely in front one after the other, shoulders bouncing up and down, then lean back and nod with eyes shut."
-  },
-  {
-   "name": "My brother is ALWAYS dancing",
-   "where": "TikTok ('my boyfriend's always dancing', B&T 2 Nov 2026), rising",
-   "status": "rising",
-   "use": "A 15 second Short with a caption 'My brother is ALWAYS dancing': four quick clips of Big Bro bursting into the same silly move to our own song in everyday places (brushing teeth, supermarket queue, bus stop, bedtime), Little Bro rolling his eyes then joining in the last clip. Step for Meshy: standing in place, bounce knees, swing both arms side to side twice, then wiggle hips and point up."
   }
  ]
 }
