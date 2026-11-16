@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:39:16+05:30",
- "runs": 463,
+ "updated": "2026-11-16T11:40:53+05:30",
+ "runs": 464,
  "branches": [
   {
    "id": "platforms",
@@ -8938,6 +8938,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 451
+    },
+    {
+     "t": "Thailand's YouTube top 100 (Nov 2026) includes Thai editions of global kids brands (Vlad and Niki Thai 14.2M subscribers, Brianna's Secret Club TH 8.2M) and three Thai language kids song channels with about 7.1M to 7.7M subscribers and 4B to 4.6B views each, so a Thai dubbed Bro Bros channel would enter a large, song hungry market despite the small language.",
+     "src": "hypeauditor.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 464
+    },
+    {
+     "t": "Nine of Italy's top 100 YouTube channels (vidIQ, 12 Nov 2026) are for kids, mostly Italian editions of global brands (Masha e Orso 7.3M subscribers at 12th, WB Kids Italiano 5.4M, Disney Junior Italia 3.8M, Nickelodeon Italia 2.6M) plus local song brands HeyKids (3.4M, 3.4B views), Dolci Melodie (3.0M) and Coccole Sonore (2.6M), so Italian families readily watch dubbed foreign cartoons and an Italian song channel has room.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 464
+    },
+    {
+     "t": "Turkey's top animation channel list (Nov 2026) has no large kids song cartoon brand; the biggest kids entry is the Turkish edition of an Arabic kids song channel at about 1.1M subscribers and about 33K average views, so Turkish is an under served language for animated kids songs, worth testing after the big languages.",
+     "src": "hypeauditor.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 464
     }
    ]
   },
@@ -12926,12 +12947,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:45",
-   "note": "Earlier runs summarised: all rounds through Run 384 (TRENDS (holiday piano sway dance returns each December, DreamToys 2026 themes)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:46",
-   "note": "Run 385 (algorithm (subscriber click rates, repeat recommendation cap, live watch time abroad)): Most algorithm news was already in the tree; new details are that even top videos get about one click in ten from the Subscriptions row, that YouTube has tested capping how often one video is re-recommended to the same viewer at eight times, and that over 40% of live watch time comes from outside the creator's home country, which supports a global 24/7 Bro Bros stream. Total 1604."
+   "note": "Earlier runs summarised: all rounds through Run 385 (algorithm (subscriber click rates, repeat recommendation cap, live watch time abroad)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:47",
@@ -13244,6 +13261,10 @@
   {
    "date": "2026-11-16 11:39",
    "note": "Run 463 (TRENDS (weekly lists from Later, NewEngen, Epidemic Sound, Virlo, Lightreel; nothing new)): Checked every weekly Reels and TikTok roundup (latest 13 Nov); all their kid safe formats (chipmunk trio dance, No No No Yes, Add to Cart, every girl waltz, bicep heart) were already in the tree, so no new leaves; also removed one duplicate Africa Wrapped leaf from run 461. Next lists expected about 20 Nov. Total 1833."
+  },
+  {
+   "date": "2026-11-16 11:40",
+   "note": "Run 464 (global markets (smaller markets: Thailand, Italy, Turkey)): Thailand's top 100 YouTube list holds Thai editions of global kids brands (Vlad and Niki Thai 14.2M subs) and three Thai kids song channels with about 7M subs and 4B+ views each; Italy's top 100 has 9 kids channels, mostly Italian editions of global brands plus local song brands like HeyKids (3.4M); Turkey has no big kids song animation channel yet. Total 1836."
   }
  ],
  "history": [
@@ -14078,6 +14099,10 @@
   {
    "date": "2026-11-16 11:39",
    "total": 1833
+  },
+  {
+   "date": "2026-11-16 11:40",
+   "total": 1836
   }
  ],
  "next_week_ideas": [
