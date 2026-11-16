@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:42:39+05:30",
- "runs": 725,
+ "updated": "2026-11-16T22:48:12+05:30",
+ "runs": 726,
  "branches": [
   {
    "id": "platforms",
@@ -16161,11 +16161,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 646 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 18:47",
-   "note": "Run 647 (rules and monetisation (gaming age limits; ban and ad rechecks)): Social media age bans, COPPA, the Disney order and RPM data were already leaves; the only new rule found is YouTube's Nov 2025 gaming update, under which realistic mass violence in game footage and simulated casino games (slots, card games with no real money) are age restricted, hidden from under 18s and signed out viewers, so any Bro Bros game themed video must avoid slot machine or casino style scenes. Total 2163."
+   "note": "Earlier runs summarised: all rounds through Run 647 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 18:48",
@@ -16478,6 +16474,10 @@
   {
    "date": "2026-11-16 22:42",
    "note": "Run 725 (music craft (Verona rhythm and movement trial)): A 2026 Italian trial with 108 children aged 2 and 4 found eight weeks of dance, singing and body percussion improved rhythm copying at both ages and self control at age 4, but not vocabulary; Suno v6 and infant dance studies were already in the tree. Total 2295."
+  },
+  {
+   "date": "2026-11-16 22:48",
+   "note": "Run 726 (visual craft (pacing and fantasy studies, Blender toon workflows)): The 2024 BMC Psychology review of 15 studies (fantasy content dips inhibitory control, pacing effects mixed) only repeats the larger meta analysis already in the tree, and Blender toon searches found nothing new; no new leaves. Total 2295."
   }
  ],
  "history": [
@@ -17315,6 +17315,10 @@
   },
   {
    "date": "2026-11-16 22:42",
+   "total": 2295
+  },
+  {
+   "date": "2026-11-16 22:48",
    "total": 2295
   }
  ],
