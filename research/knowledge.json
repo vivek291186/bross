@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:59:50+05:30",
- "runs": 402,
+ "updated": "2026-11-16T09:00:26+05:30",
+ "runs": 403,
  "branches": [
   {
    "id": "platforms",
@@ -8154,6 +8154,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 391
+    },
+    {
+     "t": "Brazil's biggest kids music stars are home grown 'pop infantil' acts: MC Divertida (about 18.3M subscribers, 8.6B plays) and the duo Kysha e Mine (about 1.2B YouTube views and 130M TikTok likes in roughly a year, its school life series 'Lance de Escola' over 350M views), built on YouTube plus TikTok plus sold out live shows and family friendly values.",
+     "src": "Billboard Brasil, Oct 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 403
+    },
+    {
+     "t": "Junior Squad Português, a separate Brazilian dub of an animated nursery channel (813K subscribers), is fading: monthly views fell from about 2.7M in March 2026 to 0.8M in October, subscribers are flat and its newest Short got about 300 views in three days, more proof that a stand alone dubbed channel without new local originals withers while multi audio tracks on the main channel keep the main channel's signals.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 403
+    },
+    {
+     "t": "Junior Squad Português's all time top videos are a five little monkeys rhyme (46M), a boo boo song (14M) and a peekaboo song (14M), all from 2021 to 2022, showing that in Portuguese the same evergreen topics (counting rhymes, small hurts, peekaboo) lead as in English.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 403
     }
    ]
   },
@@ -11705,10 +11726,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:54",
-   "note": "Run 324 (TRENDS (Roblox's rising kid games: feeding animals, cleaning the moon, bug evolution, cat sumo)): Roblox's week to 1 Nov shows the gentle, silly loops kids pick up: 'Throw Food For Animals' rose 738% to about 59K concurrent players, 'Clean the Moon!' 1,323%, 'Bug Evolution' 1,779%, while 'Steal a Brainrot' fell 70%. Cat sumo battles and bike collecting joined the fastest growing new games. A feed the animals format joined the trend bank and a moon cleaning song joined the ideas. Total 1352."
-  },
-  {
    "date": "2026-11-16 04:56",
    "note": "Run 325 (topics and seasons (Christmas 2026 toy lists: music toys, hatching eggs, feelings plush, football)): Argos's top 20 Christmas toys put music front and centre (a retro record player, a light up guitar, a karaoke projector, singing dolls) beside a hatching shark egg, a dragon pet and a plush monster for talking about feelings; Which? adds football toys riding the 2026 World Cup and quirky 'ugly cute' plush. All point to Christmas morning songs about making music, hatching surprises and naming feelings. Total 1355."
   },
@@ -12019,16 +12036,16 @@
   {
    "date": "2026-11-16 08:59",
    "note": "Run 402 (topics (TRENDS skipped, last trends round found little; calm smiling animals and what under 6s are fascinated by)): Sloths and quokkas have joined capybaras as children's favourite animals because they look calm, baby faced and smiling, replacing lions and tigers; a 2,000 parent survey of under 6s found the natural world (rain, worms, weather, bugs) leads kids' fascinations, with odd favourites like elevators and their buttons, knights and drums. Total 1658."
+  },
+  {
+   "date": "2026-11-16 09:00",
+   "note": "Run 403 (global markets (Brazil: kid pop stars rise, a dubbed nursery channel fades)): Brazil's kids audience is led by home grown 'pop infantil' acts (MC Divertida 18.3M subscribers and 8.6B plays, the duo Kysha e Mine about 1.2B views within a year, a school series at 350M) that combine YouTube, TikTok and live shows, while Junior Squad's separate Portuguese dub channel has faded from about 2.7M views in March to 0.8M in October 2026 with new Shorts at about 300 views. Total 1661."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:04",
-   "total": 511
   },
   {
    "date": "2026-11-15 19:05",
@@ -13221,6 +13238,10 @@
   {
    "date": "2026-11-16 08:59",
    "total": 1658
+  },
+  {
+   "date": "2026-11-16 09:00",
+   "total": 1661
   }
  ],
  "next_week_ideas": [
