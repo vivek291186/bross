@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:01:35+05:30",
- "runs": 741,
+ "updated": "2026-11-16T23:02:04+05:30",
+ "runs": 742,
  "branches": [
   {
    "id": "platforms",
@@ -16273,11 +16273,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 662 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:58",
-   "note": "Run 663 (other platforms (Shorts and Reels skipped as fully covered; Yoto and Roblox karaoke)): Trial Reels and Shorts length studies were all already leaves, so the round moved to other platforms. New: Yoto's fourth generation players (Sep 2026) add 64GB offline storage and a cardless 'Green Button' personalised playlist, and its catalogue now runs from toddlers to 14+, while Billie Eilish's May 2026 Roblox activation used in game karaoke as the music hook; the Netflix and Alexa items found were already in the tree. Total 2205."
+   "note": "Earlier runs summarised: all rounds through Run 663 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:59",
@@ -16590,6 +16586,10 @@
   {
    "date": "2026-11-16 23:01",
    "note": "Run 741 (competitor deep dive (Dave and Ava, Mother Goose Club recheck)): vidIQ's 16 Nov figures for Dave and Ava (15.9M subs, about 40 to 57M views a month, no subscriber growth, Halloween songs on top) and Mother Goose Club (about 21 to 27M a month and falling) matched leaves already in the tree; no new leaves. Total 2311."
+  },
+  {
+   "date": "2026-11-16 23:02",
+   "note": "Run 742 (TRENDS (toy crazes, parenting trends)): Toy craze searches (NeeDoh, squishies) and parenting TikTok trends returned items already in the tree, an April 'hide from your toddler' prank we skip because it can upset small children, and a doorstep challenge police called dangerous; no new leaves. Total 2311."
   }
  ],
  "history": [
@@ -17491,6 +17491,10 @@
   },
   {
    "date": "2026-11-16 23:01",
+   "total": 2311
+  },
+  {
+   "date": "2026-11-16 23:02",
    "total": 2311
   }
  ],
