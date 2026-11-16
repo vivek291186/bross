@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:49:59+05:30",
- "runs": 333,
+ "updated": "2026-11-16T05:50:33+05:30",
+ "runs": 334,
  "branches": [
   {
    "id": "platforms",
@@ -9764,6 +9764,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 331
+    },
+    {
+     "t": "A 'Dear Santa' list Reel is trending in the week of 11 Nov 2026: creators show a handwritten letter and reveal one wish per beat over a Christmas song; the kid safe version is the Bros reading out silly, kind wishes (a snowman friend, socks for Grandpa, a dance party) to our own Christmas tune.",
+     "src": "SocialBee, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 334
+    },
+    {
+     "t": "A before and after Reel driven by one hand motion (a swipe across the lens that flips the scene, on Diana Ross's 'Upside Down', about 127K Reels) is trending in mid November 2026; the Bros can swipe a hand to turn a plain room into a decorated Christmas room on the drop of our own song.",
+     "src": "CreatorDB, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 334
+    },
+    {
+     "t": "'November' photo dump Reels (monthly dumps of autumn walks, rainy days and small cosy moments) are trending this week, so a 'Bro Bros November dump' of our best song moments in quick cuts suits the end of the month.",
+     "src": "SocialBee, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 334
     }
    ]
   }
@@ -9792,10 +9813,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 01:52",
-   "note": "Run 255 (Shorts and Reels (Reels algorithm timeline recheck)): Little new: SocialPilot's September 2026 update reports no Reels ranking changes in August or September, after 'Your Algorithm' spread from Reels (Jan) to Explore (15 Apr) and Feed (Jun), and puts Explore's reach rate at about 37.8% against 30.8% for Reels overall. Planoly's October review finds only small vendor tests for Trial Reels, so they stay an optional test, not a growth plan. Total 1121."
   },
   {
    "date": "2026-11-16 01:53",
@@ -10108,16 +10125,16 @@
   {
    "date": "2026-11-16 05:49",
    "note": "Run 333 (competitor deep dive (ChuChu TV's newest uploads)): ChuChu TV's newest uploads on its 98M English channel are long story and learning compilations (24 to 34 minutes) that earn only about 15K to 200K views in their first weeks, including a combined Diwali plus Christmas festival video, plus a 2 minute toddler read along with copy the duck actions; the channel's views still come mostly from old classics. Total 1385."
+  },
+  {
+   "date": "2026-11-16 05:50",
+   "note": "Run 334 (TRENDS (Dear Santa list Reels, hand motion reveal, November dumps)): This week's Instagram audio charts add a 'Dear Santa' list format (each line a wish, set to Mariah), a before and after reveal triggered by one hand motion (Diana Ross's Upside Down, 127K Reels) and November photo dumps of small seasonal moments; Mariah's song passed 5.8M Reels. A kid safe Dear Santa list joined the trend bank. Total 1388."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:56",
-   "total": 244
   },
   {
    "date": "2026-11-15 16:56",
@@ -11310,6 +11327,10 @@
   {
    "date": "2026-11-16 05:49",
    "total": 1385
+  },
+  {
+   "date": "2026-11-16 05:50",
+   "total": 1388
   }
  ],
  "next_week_ideas": [
@@ -11371,6 +11392,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Dear Santa list",
+   "where": "Instagram Reels (week of 11 Nov 2026, Christmas songs)",
+   "status": "seasonal",
+   "use": "Little Bro holds up a big letter 'Dear Santa' and on each beat of our own Christmas song a new kind wish pops up as a picture: a snowman friend, warm socks for Grandpa, a dance party for everyone; on the last line both Bros post the letter into a glowing mailbox and dance. Meshy prompt: standing, hold both hands forward as if holding a letter, then hop twice and wave one arm overhead."
+  },
   {
    "name": "Pass the dance relay",
    "where": "TikTok K-pop relay dance posts (Revid, 15 Nov 2026)",
@@ -11484,12 +11511,6 @@
    "where": "TikTok ('signature line' trend, Dec 2025, likely back this December)",
    "status": "seasonal",
    "use": "Each brother stares at the camera with a deadpan face while our own beat builds; on the drop he shouts his catchphrase with a big pose (Big Bro: arms out wide, Little Bro: double thumbs up), then they swap and say each other's line. 8 to 12 second Short, a fun way to teach kids the characters."
-  },
-  {
-   "name": "Blinking lights alphabet",
-   "where": "TikTok December 2025 (Christmas lights alphabet wall, no show reference needed)",
-   "status": "seasonal",
-   "use": "A wall of coloured holiday lights with letters painted under them; in our own alphabet or spelling song the lights blink one letter at a time to spell short winter words (S N O W, H A T) while the brothers point and sing each letter. Works as a learning Short and a long December song."
   }
  ]
 }
