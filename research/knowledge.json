@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:42:46+05:30",
- "runs": 680,
+ "updated": "2026-11-16T21:48:55+05:30",
+ "runs": 681,
  "branches": [
   {
    "id": "platforms",
@@ -5354,6 +5354,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 679
+    },
+    {
+     "t": "ChuChu TV's main channel slid from about 390 to 460M monthly views in 2025 to about 270 to 330M a month through 2026 (285.8M in October), roughly a 30% drop, while calmer Super Simple Songs grew about 17% over the same months, so older remix style rhyme libraries are losing ground to fresh, simple originals.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 681
+    },
+    {
+     "t": "ChuChu TV's Diwali story Short (7 Nov 2026) drew only about 59K views in its first five and a half days on a 98M subscriber channel, a reminder that even giant channels get small Shorts reach for festival story Shorts without a song or dance hook.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 681
+    },
+    {
+     "t": "Bebefinn Portuguese (9.08M subscribers, 7.74B views) gained about 150K subscribers and about 296M views in the 28 days to late October 2026 with roughly 20 uploads a month, showing a dubbed local language channel of a global character brand can grow faster than many English originals.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 681
     }
    ]
   },
@@ -9218,6 +9239,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 653
+    },
+    {
+     "t": "Bebefinn Portuguese's newest upload in late October 2026 was a safety song about never opening the door to strangers (about 1.2K views an hour at launch), so stranger safety is a current song theme for preschool brands; a gentle, non scary Bro Bros version could fit.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 681
     }
    ]
   },
@@ -15818,11 +15846,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 601 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:02",
-   "note": "Run 602 (Shorts and Reels (AIR's 18,000 channel Shorts mix study)): AIR's study of 18,000 English channels (Mar 2025 to Mar 2026) found a 25 to 40% Shorts share works best overall and over 55% weakens, while in kids long only channels of 100K to 1M subscribers led mixed ones by about 63% on its median subscriber measure; our one Short per song is about 50%. Total 2092."
+   "note": "Earlier runs summarised: all rounds through Run 602 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:02",
@@ -16135,6 +16159,10 @@
   {
    "date": "2026-11-16 21:42",
    "note": "Run 680 (global markets (MENA family demand; dubbing and Gen Alpha rechecks)): Dubbing, Vania Mania, Precisify and Gen Alpha searches returned only findings already in the tree. New from Parrot Analytics: in 16 MENA markets family titles over index (28.6% of demand on 20.6% of supply) while kids titles under index, and the kids audience there has a large adult co viewer share, so whole family songs travel best in the Arab world. Total 2246."
+  },
+  {
+   "date": "2026-11-16 21:48",
+   "note": "Run 681 (competitor deep dive (ChuChu TV decline, Bebefinn Portuguese)): ChuChu TV's flagship fell from about 390 to 460M monthly views in 2025 to 270 to 330M in 2026 and its 7 Nov Diwali story Short drew only about 59K views in five days, while Bebefinn Portuguese (9.08M subscribers) gained about 150K subscribers and about 296M views in 28 days with roughly 20 uploads a month, its newest a 'never open the door to strangers' safety song. Super Simple Songs data was already in the tree. Total 2250."
   }
  ],
  "history": [
@@ -16793,6 +16821,10 @@
   {
    "date": "2026-11-16 21:42",
    "total": 2246
+  },
+  {
+   "date": "2026-11-16 21:48",
+   "total": 2250
   }
  ],
  "next_week_ideas": [
