@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T13:03:47+05:30",
- "runs": 505,
+ "updated": "2026-11-16T13:37:55+05:30",
+ "runs": 506,
  "branches": [
   {
    "id": "platforms",
@@ -1539,6 +1539,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 495
+    },
+    {
+     "t": "A 2026 Shorts retention study sorts curves into three shapes: a cliff (30 to 50% gone by second 3), a hump (strong middle, hard ending, best for shares) and a plateau (above 70% all the way with a rewatch spike over 100% at second 1), and the plateau is what the feed rewards most.",
+     "src": "Aibrify, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 506
+    },
+    {
+     "t": "Instagram now lets creators replace the music on already published posts and carousels without losing likes, comments or reach, so a Bro Bros post whose sound gets muted or that needs a newer song version can be fixed in place instead of reposted.",
+     "src": "Metricool Instagram news, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 506
+    },
+    {
+     "t": "Instagram's Edits app now lets creators attach clickable links to the sounds used in a Reel, so every Bro Bros Reel can link its own original song audio, making it easier for other families to reuse our sound.",
+     "src": "Metricool Instagram news, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 506
     }
    ]
   },
@@ -2883,6 +2904,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 469
+    },
+    {
+     "t": "Creator benchmarks say a Short whose average view lasts over 80% of its length travels beyond subscribers while below 60% it stalls; for a 30 second Short that means at least 24 seconds watched on average (these are creator figures, not YouTube's).",
+     "src": "Aibrify, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 506
+    },
+    {
+     "t": "Creator data suggests per Short retention tends to drop when a channel posts more than about 7 Shorts a week, so with 14 songs a week Bro Bros should keep Shorts to the best cut of each song and spread them, rather than adding many extra Shorts per song.",
+     "src": "Aibrify, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 506
     }
    ]
   },
@@ -7174,6 +7209,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 486
+    },
+    {
+     "t": "The same study finds a new visual every 1.5 to 2 seconds keeps Shorts viewers best, while cuts faster than about 1.2 seconds read as noise and gaps longer than 2.5 seconds lose people, so Bro Bros Shorts should change camera angle or dance move about every 2 beats at 120 BPM.",
+     "src": "Aibrify, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 506
     }
    ]
   },
@@ -13704,11 +13746,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 426 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:51",
-   "note": "Run 427 (YouTube and YouTube Kids channels (holiday playbook of Toys and Colors; Kids app entry threshold)): Tubefilter's chart for the week of 15 Nov is not out yet. Toys and Colors' holiday playbook last year was a 22 minute 'Elf Academy' special, a holiday single placed on a multi creator 'Snow Day' soundtrack on Spotify, Amazon Music and Apple Music, and creator guest spots; AIR says it accepts YouTube Kids app review requests from channels with 1,500+ subscribers, a bar our channel (about 2,140) already clears. Total 1745."
+   "note": "Earlier runs summarised: all rounds through Run 427 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:52",
@@ -14021,6 +14059,10 @@
   {
    "date": "2026-11-16 13:03",
    "note": "Run 505 (YouTube experiments and data (24/7 streams, AIR case studies, upload time studies; all already in the tree)): Rechecked AIR's kids channel case studies (DONA English and Heidi dan Zidane streams, Sandy the Sticker's 16 automated streams, the 7.55M channel that cut long form and doubled Shorts for +33.6% revenue) and 2026 posting time studies; all were already leaves, so no new leaves. Total 1944."
+  },
+  {
+   "date": "2026-11-16 13:37",
+   "note": "Run 506 (Shorts and Reels kids formats (Reels algorithm news, Shorts retention curve study)): No new Reels ranking change since June, but Instagram now lets creators replace audio on published posts and link sounds in Edits; an April 2026 retention study gives three Shorts curve shapes (cliff, hump, plateau), a visual change every 1.5 to 2 seconds and warns per Short retention falls above 7 Shorts a week. Total 1950."
   }
  ],
  "history": [
@@ -15023,6 +15065,10 @@
   {
    "date": "2026-11-16 13:03",
    "total": 1944
+  },
+  {
+   "date": "2026-11-16 13:37",
+   "total": 1950
   }
  ],
  "next_week_ideas": [
