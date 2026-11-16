@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:40:44+05:30",
- "runs": 417,
+ "updated": "2026-11-16T09:41:45+05:30",
+ "runs": 418,
  "branches": [
   {
    "id": "platforms",
@@ -9561,6 +9561,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 394
+    },
+    {
+     "t": "Brazil's ECA Digital (child and teen online safety law) took effect on 17 Mar 2026 with fines up to about 10M USD; platforms must use reliable age checks, avoid profiling children for ads and use stronger privacy defaults for minors.",
+     "src": "techpolicy.press, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 418
+    },
+    {
+     "t": "ECA Digital also tells platforms to avoid compulsive use designs that hide natural stopping points, push unrequested content or send too many notifications, so long kids compilations in Brazil may face more autoplay limits; clear song endings and a calm goodbye fit this direction.",
+     "src": "techpolicy.press, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 418
+    },
+    {
+     "t": "Since a June 2026 CNJ resolution, real children and teens in Brazil need a court authorisation (valid up to 12 months for children) to appear in monetised digital content, and platforms may be asked to check it before monetising; Bro Bros uses only animated characters, so it should never show real kids in its videos or Reels.",
+     "src": "tozzinifreire.com.br, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 418
+    },
+    {
+     "t": "Brazil's ANPD leads ECA Digital enforcement but says it cannot monitor everything at once and is still hiring staff, so enforcement will start with the biggest risks (sexualised content, gambling, profiling) rather than small animated song channels.",
+     "src": "techpolicy.press, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 418
     }
    ]
   },
@@ -12058,10 +12086,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 05:53",
-   "note": "Run 338 (topics and seasons (holiday wishlists, who drives toy growth)): SuperAwesome's Holidays Unwrapped 2026 says 59% of kids' gifts are inspired online, 34% trace to a fandom, 86% of holiday buying happens before December and 70% of parents buy mainly from the child's wishlist. Circana says the toy market grew 8% to 123B USD in 2025, under 10s are still 67% of it, and developing markets grow fastest. Total 1401."
-  },
-  {
    "date": "2026-11-16 05:54",
    "note": "Run 339 (algorithm experiments and data (24/7 live streams, originality rebuild, Buffer's timing data)): A kids channel replaced re uploads and food videos with original 4K stories and gained 55% views and 77% revenue. Buffer's 1.8M video study puts long videos' best window at weekend and Monday mornings and Shorts' at Thursday to Saturday evenings. Total 1404."
   },
@@ -12376,6 +12400,10 @@
   {
    "date": "2026-11-16 09:40",
    "note": "Run 417 (TRENDS (Christmas AI template trends: holiday defrost, elf workshop dance, mini me; Revid TikTok format data)): Dromana's Christmas TikTok guide (updated 7 Nov) lists a 'holiday defrost' reveal, Santa photobomb selfies, a mini me climbing out of a phone, moving snow angels, reindeer rides and a goofy elf workshop dance; Revid's study of 176K TikToks finds challenges and animal clips get about twice the median views of one person talking. Also removed two leaves from run 414 (turkey snack boards, fan wipe) that repeated older leaves. Total 1709."
+  },
+  {
+   "date": "2026-11-16 09:41",
+   "note": "Run 418 (rules (Brazil's ECA Digital child online safety law)): Brazil's ECA Digital law took effect 17 Mar 2026: platforms must avoid features that hide natural stopping points or push unrequested content, may not profile children for ads, and since June 2026 monetised content featuring real minors needs a court authorisation; our animated, voice only original characters avoid that rule, but Brazil is a top kids market so 'end of video' moments matter. Total 1713."
   }
  ],
  "history": [
@@ -13026,6 +13054,10 @@
   {
    "date": "2026-11-16 09:40",
    "total": 1709
+  },
+  {
+   "date": "2026-11-16 09:41",
+   "total": 1713
   }
  ],
  "next_week_ideas": [
