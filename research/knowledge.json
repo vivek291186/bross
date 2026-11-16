@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:42:27+05:30",
- "runs": 652,
+ "updated": "2026-11-16T19:43:43+05:30",
+ "runs": 653,
  "branches": [
   {
    "id": "platforms",
@@ -6628,6 +6628,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 650
+    },
+    {
+     "t": "The 2027 Grammy nominees for Best Children's Music Album (announced 16 Nov 2026) are Snooknuk 'All in Good Time', Lucky Diaz and the Family Jam Band 'Hasta La Vista...Baby', Scott and Mark Hoying 'Little Birdie's Big Symphony', Lachi 'Magnificent' and Divinity Roxx and Divi Roxx Kids 'Starchild, Vol. 1', so award level kids music is bilingual, hip hop, orchestral and inclusive rather than nursery rhyme pop.",
+     "src": "Yahoo / Variety India, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 653
+    },
+    {
+     "t": "Two of the five 2027 Grammy kids album nominees are parent and child or family acts (Divinity Roxx with her Divi Roxx Kids, Lucky Diaz's Family Jam Band), following the 2026 win by a father and daughter duo, so a real family feel (the Bro Bros brothers singing with Mum, Dad or Grandpa characters) matches what the music industry is rewarding.",
+     "src": "grammy.com / Yahoo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 653
+    },
+    {
+     "t": "Pentatonix's Scott and Mark Hoying are nominated for 'Little Birdie's Big Symphony', a holiday picture book released with a matching album that introduces orchestra instruments, showing a book plus song pairing can win prestige; a Bro Bros 'meet the instruments' winter song with each instrument shown on screen is a similar idea in our own style.",
+     "src": "Yahoo / Vogue PH, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 653
     }
    ]
   },
@@ -8980,6 +9001,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 637
+    },
+    {
+     "t": "Toy Story 5's end song by Taylor Swift ('I Knew It, I Knew You') earned a 2027 Grammy nomination for Best Song Written for Visual Media, keeping the film's toy friendship theme in the news through the holidays; we can echo the theme only with our own toys coming alive song, never the film's characters or song.",
+     "src": "Yahoo, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 653
     }
    ]
   },
@@ -15335,11 +15363,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 573 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:48",
-   "note": "Run 574 (rules and safety (Malaysia and Indonesia under 16 rules)): Malaysia's Child Protection Code (in force 1 Jun 2026) gives Facebook, Instagram, TikTok and YouTube until about 1 Dec 2026 to verify ages with government ID records and close under 16 accounts; it covers account sign up only, not watching, so Malaysian kids will reach us through parents' accounts and TV screens. Total 2070."
+   "note": "Earlier runs summarised: all rounds through Run 574 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:48",
@@ -15652,6 +15676,10 @@
   {
    "date": "2026-11-16 19:42",
    "note": "Run 652 (TRENDS (one take wide dances, holiday room reveals, headphone swap)): Mid November lists mostly repeat trends already banked (Dame Hombro, Chipmunks trio, fan transition, go go go). New for us: Lightreel's 7 Nov Instagram report shows K pop dances spreading through one continuous wide take that makes steps easy to copy and holiday home before and after reveals accelerating with comment keyword prompts; the headphone swap reaction format from April is still used. Leaf crunch rating and 'it is very important' were dropped from the trend bank as faded. Total 2177."
+  },
+  {
+   "date": "2026-11-16 19:43",
+   "note": "Run 653 (music craft (2027 Grammy kids nominees)): Children's music studies and Suno v6 news were already in the tree. New today: the 2027 Grammy nominations (announced 16 Nov 2026) name five Best Children's Music Album nominees, including a bilingual family band, a hip hop mother and kids act and a Pentatonix brothers' holiday picture book plus album, and Toy Story 5's Taylor Swift song is up for Best Song Written for Visual Media. Total 2181."
   }
  ],
  "history": [
@@ -16198,6 +16226,10 @@
   {
    "date": "2026-11-16 19:42",
    "total": 2177
+  },
+  {
+   "date": "2026-11-16 19:43",
+   "total": 2181
   }
  ],
  "next_week_ideas": [
