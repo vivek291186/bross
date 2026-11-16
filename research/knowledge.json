@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:08:06+05:30",
- "runs": 810,
+ "updated": "2026-11-17T01:08:41+05:30",
+ "runs": 811,
  "branches": [
   {
    "id": "platforms",
@@ -16715,6 +16715,20 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 808
+    },
+    {
+     "t": "Viral.app's study of about 150,000 videos posted to both TikTok and Reels (Oct 2025 to Aug 2026) found Reels captions that open with a numbered list broke out 7.4% of the time against a 4.9% baseline, Reels got about two thirds of their first week views within one day (TikTok about 38%), and only 23% of TikTok breakouts repeated on Reels, so Bro Bros Reel captions can open with a number ('3 moves to try:') and each platform needs its own judgement after 24 hours rather than copying the other's winners.",
+     "src": "viral.app, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 811
+    },
+    {
+     "t": "Benly's Q2 2026 family and parenting ad benchmark (22K ads, 25 brands) found medium paced videos and text over footage lasted longest (about 33 days, 58% still running after 30 days) while fast cut videos died quickest (21 days, 44%), and hands only shots outlived ones built around a child's face, which supports calm, readable pacing with big on screen words for our parent facing Reels.",
+     "src": "benly.ai, Q2 2026",
+     "conf": "low",
+     "date": "2026-11-17",
+     "run": 811
     }
    ]
   }
@@ -16742,11 +16756,7 @@
  "log": [
   {
    "date": "2026-11-16 22:52",
-   "note": "Earlier runs summarised: all rounds through Run 732 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 22:52",
-   "note": "Run 733 (TRENDS (Later 13 Nov roundup, Thanksgiving family trends)): Later's 13 Nov list (5 stages of being, locked camera outfit change, appointment timestamps) and Thanksgiving family searches (gratitude tablecloth, recipe hacks) were already in the tree and trend bank; no new leaves. Total 2304."
+   "note": "Earlier runs summarised: all rounds through Run 733 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:53",
@@ -17059,6 +17069,10 @@
   {
    "date": "2026-11-17 01:08",
    "note": "Run 810 (visual craft (Blender 5.1 and Meshy tool updates)): Blender 5.1 speed and Grease Pencil changes and Meshy's October changes (Meshy Edit, T2.5, N1 textures, model retirements) were already in the tree, and Meshy lists no new text to motion change since July; no new leaves. Total 2378."
+  },
+  {
+   "date": "2026-11-17 01:08",
+   "note": "Run 811 (TRENDS (cross posting and caption hooks, family creative benchmarks)): New: across 150,000 cross posted videos, numbered list captions lift Reel breakouts (7.4% vs 4.9%), Reels collect most views in the first day and only 23% of TikTok breakouts repeat on Reels; family ad benchmarks favour medium pacing and text over footage over fast cuts. Total 2380."
   }
  ],
  "history": [
@@ -18237,6 +18251,10 @@
   {
    "date": "2026-11-17 01:08",
    "total": 2378
+  },
+  {
+   "date": "2026-11-17 01:08",
+   "total": 2380
   }
  ],
  "next_week_ideas": [
