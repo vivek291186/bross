@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T13:44:24+05:30",
- "runs": 511,
+ "updated": "2026-11-16T13:45:37+05:30",
+ "runs": 512,
  "branches": [
   {
    "id": "platforms",
@@ -4829,6 +4829,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 509
+    },
+    {
+     "t": "Mother Goose Club (live action costume nursery rhymes, 9.89M subscribers, 12B views) gained zero subscribers in almost every month of 2026 and only about 21M to 27M views a month, and its newest Halloween compilation (29 Oct 2026) had about 10K views, so a big legacy library of classic rhymes is now flat.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 512
+    },
+    {
+     "t": "Mother Goose Club Toons, the brand's animated channel (1.08M subscribers), earns about 5M to 6M views a month in 2026 with almost no subscriber growth; its best videos are character story rhymes from 2022 to 2023 ('Lazy Mary' 8.9M, 'Five Little Ducks' 7.8M) and its 11 Nov 2026 Thanksgiving feast video got about 7.5K views in three days.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 512
+    },
+    {
+     "t": "Mother Goose Club's top long videos are all 'Song + More' compilations led by one famous song (ABC Song 4.4M, Baby Shark 2.3M, The Planting Song 1.8M), which confirms that the lead song in a compilation title does the selling, so each Bro Bros compilation should be named after its single strongest song.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 512
     }
    ]
   },
@@ -13823,11 +13844,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 432 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 10:01",
-   "note": "Run 433 (other platforms (smart speakers: Alexa requests; algorithm and Shorts skipped as covered)): Amazon's UK Alexa year in review (Jan to Nov 2025) had KPop Demon Hunters as the second most played artist after Taylor Swift, so a film soundtrack families love lands straight in voice requests at home; Amazon publishes these lists around 11 to 15 December, and KIDZ BOP once got an 'Alexa, play a duet' feature, showing kids music brands can win voice exposure. Total 1761."
+   "note": "Earlier runs summarised: all rounds through Run 433 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:02",
@@ -14140,6 +14157,10 @@
   {
    "date": "2026-11-16 13:44",
    "note": "Run 511 (global markets (Bangladesh, Italy, Poland top lists; almost all already in the tree)): Italy, Poland and Bangladesh lists were already leaves; the one new point is that Bangladesh's only kids channel in the national top 100, TV station run Maasranga Kids, grew from about 3.0B to 4.9B views between Jul 2025 and Nov 2026 by posting about 14 videos a week. Also merged a duplicate 'AI versus handmade' Dame Hombro leaf added in Run 507 into the existing 15 Nov leaf. Total 1961."
+  },
+  {
+   "date": "2026-11-16 13:45",
+   "note": "Run 512 (competitor deep dive (Mother Goose Club and its Toons channel; Hogi already in the tree)): Mother Goose Club (9.89M subscribers) gained no subscribers in nearly every month of 2026 and only about 21M to 27M views a month, and its animated Toons spin off adds about 5M to 6M a month, with new seasonal compilations (Halloween, Thanksgiving) getting under 10K views in days, a clear warning that an old library of classic rhymes no longer wins without fresh hooks. Total 1964."
   }
  ],
  "history": [
@@ -15166,6 +15187,10 @@
   {
    "date": "2026-11-16 13:44",
    "total": 1961
+  },
+  {
+   "date": "2026-11-16 13:45",
+   "total": 1964
   }
  ],
  "next_week_ideas": [
