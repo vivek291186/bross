@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:00:42+05:30",
- "runs": 665,
+ "updated": "2026-11-16T20:06:22+05:30",
+ "runs": 666,
  "branches": [
   {
    "id": "platforms",
@@ -8028,6 +8028,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 654
+    },
+    {
+     "t": "In an eye tracking study of 149 children aged 6 to 9 (Journal of the Academy of Nutrition and Dietetics, 2016), packages with cartoon characters drew more looking time, especially from younger boys and children who already liked the character, yet children still chose by what they wanted (they picked the character free item about 62% of the time), so the Bros on every thumbnail buy attention but the song topic must do the persuading.",
+     "src": "Aprifel summary of Graham et al., 2016",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 666
+    },
+    {
+     "t": "The same study found the pull of a character depended on whether the child already liked it, which means familiarity is the multiplier: keeping Big Bro and Little Bro in the same outfits, colours and poses on every thumbnail lets repeat viewers spot them instantly in a feed.",
+     "src": "Aprifel summary of Graham et al., 2016",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 666
     }
    ]
   },
@@ -15559,11 +15573,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 586 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:54",
-   "note": "Run 587 (our results (Metricool recheck at 16:54 IST)): Metricool still holds YouTube video stats only to 11 Nov and Reels to 15 Nov, unchanged since the 16:41 analysis, so no new leaves. Total 2080."
+   "note": "Earlier runs summarised: all rounds through Run 587 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:55",
@@ -15876,6 +15886,10 @@
   {
    "date": "2026-11-16 20:00",
    "note": "Run 665 (music craft (syncopation sweet spot, harmonic learning in toddlers)): A McMaster study in Developmental Science found children aged 3 to 6, like adult dancers, prefer medium syncopation for dancing (an inverted U), so the playbook's tempo rule now asks for moderately syncopated grooves; a 2026 University of Padua study of 60 toddlers found they learn chord sequence rules and that those who did also learned a grammar rule, with more home music exposure linked to more curiosity about surprising endings. Total 2209."
+  },
+  {
+   "date": "2026-11-16 20:06",
+   "note": "Run 666 (visual craft (characters on packaging eye tracking; Christmas thumbnail recheck)): Christmas thumbnail advice and the Oxford Brookes toddler eye tracking work were already leaves. New: an eye tracking study of 149 children aged 6 to 9 found products showing cartoon characters drew more looking time, most of all among younger boys and children who liked the character, while choices still followed taste, which supports always putting the recognisable Bros faces on thumbnails while the topic itself still has to appeal. Total 2211."
   }
  ],
  "history": [
@@ -16474,6 +16488,10 @@
   {
    "date": "2026-11-16 20:00",
    "total": 2209
+  },
+  {
+   "date": "2026-11-16 20:06",
+   "total": 2211
   }
  ],
  "next_week_ideas": [
