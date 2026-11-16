@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:48:29+05:30",
- "runs": 633,
+ "updated": "2026-11-16T17:49:53+05:30",
+ "runs": 634,
  "branches": [
   {
    "id": "platforms",
@@ -14951,6 +14951,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 631
+    },
+    {
+     "t": "Social Growth Engineers' December 2025 roundup grouped Christmas TikTok into five formats: shopping cart reveals, year recaps, end of year overshares, lists (wish lists, 'don't get me this' lists, goal lists) and personal lore, so list videos are the December format most likely to return, and a kid wish list countdown is the family safe version.",
+     "src": "Social Growth Engineers, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 634
+    },
+    {
+     "t": "Student dance circle clips keep resurfacing through the year (a Pretoria arts festival ring where students take turns stepping into the middle, Sep 2026; a teacher stepping into a classroom ring, May 2026), confirming turn taking circles as an evergreen school format rather than a passing trend.",
+     "src": "Briefly News, May and Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 634
     }
    ]
   }
@@ -14977,12 +14991,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:11",
-   "note": "Earlier runs summarised: all rounds through Run 554 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:36",
-   "note": "Run 555 (TRENDS (mid November tracker check)): The big TikTok trend trackers (SocialPilot, Virlo, que.es) have not refreshed since 29 to 30 Oct, so mid November is a lull between Halloween and the Christmas wave; YouTube's 1 Nov US trending list shows fresh uploads and seasonal song playlists leading. Total 2040."
+   "note": "Earlier runs summarised: all rounds through Run 555 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:37",
@@ -15295,6 +15305,10 @@
   {
    "date": "2026-11-16 17:48",
    "note": "Run 633 (competitor deep dive (Kids Diana Show, Jumblikans)): Kids Diana Show (138M) still pulls about 326M views a month with flat subscribers, and its five biggest videos ever are all challenge adventures (school bus rules, escape room, 10 doors, maze, cube challenge), which points to a door by door adventure song; ChuChu's sister channel Jumblikans gets only 50K to 80K per new upload. Total 2126."
+  },
+  {
+   "date": "2026-11-16 17:49",
+   "note": "Run 634 (TRENDS (December list formats; school dance clips recheck)): Last December's TikTok roundup was built on list formats (shopping carts, wish lists, 'do not get me this' lists, goal lists) and year recaps, so a counting wish list song fits December; school dance circle clips were already leaves. Total 2128."
   }
  ],
  "history": [
@@ -15765,6 +15779,10 @@
   {
    "date": "2026-11-16 17:48",
    "total": 2126
+  },
+  {
+   "date": "2026-11-16 17:49",
+   "total": 2128
   }
  ],
  "next_week_ideas": [
