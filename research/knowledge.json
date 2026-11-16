@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:47:00+05:30",
- "runs": 489,
+ "updated": "2026-11-16T12:48:20+05:30",
+ "runs": 490,
  "branches": [
   {
    "id": "platforms",
@@ -13446,6 +13446,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 487
+    },
+    {
+     "t": "A December 2025 TikTok format had people film themselves waiting still for a beat drop and then show the phrase they say most as text; a Bro version (the younger Bro waits, then the caption 'Are we there yet?' pops up and he bursts into a dance) is a kid safe variant likely to fit this December too.",
+     "src": "Kapwing, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 490
+    },
+    {
+     "t": "A clip of a toddler dancing to an upbeat samba track spread in late 2026 as parents posted their own little dancers tapping feet in bright costumes, showing that a simple toe tap and hip wiggle on a samba beat is a move tiny kids copy; only one thin source, so treat as a weak signal.",
+     "src": "highaltitudescience.com, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 490
+    },
+    {
+     "t": "TikTok's own product news for the season (14 Oct 2026) is about TikTok Shop Black Friday to Cyber Monday running 11 to 30 Nov, so late November feeds are crowded with shopping lives; kids song Shorts stand out more by being calm, musical and ad free in feel.",
+     "src": "TikTok Newsroom, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 490
     }
    ]
   }
@@ -13473,11 +13494,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 410 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:11",
-   "note": "Run 411 (TRENDS (days until Christmas countdowns, first snow reactions, 'money can't buy happiness' finish the saying)): Startups.co.uk's November list adds a Christmas countdown format (cosy clips captioned 'X days until Christmas' at regular milestones) and a 'money can't buy happiness, but it can buy...' finish the saying joke, and each winter 'first time seeing snow' clips of pets, babies and people from warm countries go viral; on 16 Nov there are 39 days to Christmas. Total 1682."
+   "note": "Earlier runs summarised: all rounds through Run 411 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:11",
@@ -13790,6 +13807,10 @@
   {
    "date": "2026-11-16 12:47",
    "note": "Run 489 (competitor deep dive (Little Angel and Little Angel Playtime)): Little Angel's daily uploads mostly get 7K to 30K views, but healthy habit songs (Brush Your Teeth, 96K) and safety songs lead, its Halloween song went up a full month early, and the Playtime second channel fell from 15.6M views in Jan 2026 to 4.9M in Oct with all top hits from 2021 and 2022. Total 1911."
+  },
+  {
+   "date": "2026-11-16 12:48",
+   "note": "Run 490 (TRENDS (December pattern check, family dance clips; most mid November lists already in the tree)): Little new this hour: last December's 'waiting on the beat' text skit is a safe format likely to return, a toddler samba foot tap clip is spreading as a parent remake trend (thin source), and TikTok's news this month is about holiday shopping, not creator formats. Total 1914."
   }
  ],
  "history": [
@@ -14728,6 +14749,10 @@
   {
    "date": "2026-11-16 12:47",
    "total": 1911
+  },
+  {
+   "date": "2026-11-16 12:48",
+   "total": 1914
   }
  ],
  "next_week_ideas": [
@@ -14789,6 +14814,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Waiting for the beat",
+   "where": "TikTok and Reels, returning each December",
+   "status": "seasonal",
+   "use": "6 second Short: the younger Bro stands perfectly still, arms by his sides, blinking, during a quiet build of our own song; caption 'What I say most on car trips:' then 'Are we there yet?' pops up on the drop and he does a happy standing bounce with both fists pumping up and down in place (2 seconds), then the older Bro joins with the same bounce."
+  },
   {
    "name": "Documentary chair interview",
    "where": "TikTok and Reels, since Jul 2026, still listed Nov 2026",
@@ -14902,12 +14933,6 @@
    "where": "TikTok (frantic 'go go go' gesture lip sync, NewEngen Nov 2026)",
    "status": "rising",
    "use": "A 10 second Reel with caption 'When the ice cream truck song starts' or 'When Mum says shoes on, park time': the Bros wave both arms forward and point to the door on each 'go' of our own chant, then dash off screen. Meshy prompt: standing, pump both arms forward three times fast, point to the side, then jog in place."
-  },
-  {
-   "name": "Days until Christmas countdown",
-   "where": "Reels and TikTok (Christmas countdown, Startups.co.uk Nov 2026), seasonal",
-   "status": "seasonal",
-   "use": "Every 5 days from now to 1 Dec post a 7 second Short with a big caption '35 days until Christmas!' (then 30, 25...) in the Bros' cosy room; each time one new festive thing appears on the beat of our own Christmas hook (a wreath, lights, a tree, a stocking), ending with both Bros shouting the number. Leads into the daily Advent door series."
   }
  ]
 }
