@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:41:16+05:30",
- "runs": 440,
+ "updated": "2026-11-16T10:42:32+05:30",
+ "runs": 441,
  "branches": [
   {
    "id": "platforms",
@@ -12564,6 +12564,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 438
+    },
+    {
+     "t": "A December 2025 TikTok game had two people sway side by side and trade made up rhymes for as long as they could, a family friendly, no props format likely to come back; for kids it becomes a rhyming chain song where each Bro adds one rhyme on the beat until someone giggles and misses.",
+     "src": "newengen.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 441
+    },
+    {
+     "t": "The 'Where is Jessica?' parent trick, spread through 2026 on TikTok and Instagram, stops a toddler's tantrum by calling out a made up name toward another room so the child looks to see who it is; toddlers turn to a sudden called name, so a surprise 'Who's there?' call is a strong attention reset in the middle of our songs.",
+     "src": "freepressjournal.in, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 441
     }
    ]
   }
@@ -12591,11 +12605,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 361 (YouTube algorithm (AI labels do not cost reach, app..."
-  },
-  {
-   "date": "2026-11-16 07:42",
-   "note": "Run 362 (Shorts and Reels (what new channels' Shorts normally get, Meta One follow tools, Reels camera)): vidIQ's study of 448K new channels says a typical first Short gets about 1,360 views in 30 days and stays flat over the first ten, so our Shorts at under 30 views point to a packaging or setup problem, not just a young channel. Meta One (Sept 2026) adds automatic follow invitations and a bigger follow button on Reels in paid creator plans, which targets our 1 follower Instagram problem, and Instagram's Reels camera got an undo button and better timers. Total 1497."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 362 (Shorts and Reels (what new channels' Shorts normall..."
   },
   {
    "date": "2026-11-16 07:44",
@@ -12908,6 +12918,10 @@
   {
    "date": "2026-11-16 10:41",
    "note": "Run 440 (competitor deep dive (Dave and Ava; Bebefinn and Little Angel Playtime rechecked, already in the tree)): Dave and Ava, an older 3D nursery rhyme brand, has 15.9M subscribers but gained none from June to October 2026 and holds at about 45M to 55M views a month, with Halloween songs as its all time top videos and its newest upload a plain classic rhyme (30K views in 2 days), a picture of a big catalogue channel that stopped growing. Total 1785."
+  },
+  {
+   "date": "2026-11-16 10:42",
+   "note": "Run 441 (TRENDS (rhyme for as long as we can game, toddler name call trick; quiet week, December lists not out)): No new weekly lists since 13 Nov; two family formats not yet in the tree: last December's 'rhyme for as long as we can' sway game, which suits a kids rhyming chain song, and the 'Where is Jessica?' trick parents use to stop tantrums by calling a made up name, which shows toddlers snap to a sudden called name. Total 1787."
   }
  ],
  "history": [
@@ -13650,6 +13664,10 @@
   {
    "date": "2026-11-16 10:41",
    "total": 1785
+  },
+  {
+   "date": "2026-11-16 10:42",
+   "total": 1787
   }
  ],
  "next_week_ideas": [
@@ -13712,6 +13730,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Rhyme for as long as we can",
+   "where": "TikTok (December 2025 family game, two people sway and trade made up rhymes until one fails; likely to return in December)",
+   "status": "seasonal",
+   "use": "A 20 second Short: Big Bro and Little Bro stand side by side swaying, our own beat plays, and they trade one rhyming word each on the beat (cat, hat, bat, mat...) getting faster until Little Bro says a wrong word and both burst out laughing. Meshy prompt: standing in place, gentle side to side sway with a small knee bounce, ending in a big laugh with hands on tummy."
+  },
+  {
    "name": "Funny face beat game",
    "where": "TikTok, Reels and X (face dancing: exaggerated faces and lip sync on each beat, viral since Aug 2026, millions of views on top clips)",
    "status": "rising",
@@ -13770,12 +13794,6 @@
    "where": "AI video and Reels templates ('Christmas Dance', Starrd Nov 2026), rising",
    "status": "rising",
    "use": "A 15 second Short: Big Bro and Little Bro side by side in matching red and white Christmas pyjamas by the tree, doing the same simple routine to our own Christmas song, then a friend jumps in for a trio on the last bar. Steps for Meshy: standing in place, step side to side with claps on beats 2 and 4, two arm rolls, point to the tree, then a little hop and wave."
-  },
-  {
-   "name": "Dancing dog gag",
-   "where": "AI video trends (car alarm dance, dog coffee fail, Starrd Oct to Nov 2026), rising",
-   "status": "rising",
-   "use": "An 8 second loopable Short: the Bros' dog friend hears a funny honk or bell sound in our song, stands up on two legs and wiggles on the beat while the Bros freeze and stare, then all three dance together; caption 'When the beat drops...'. Dog dance keyed by hand in Blender (Meshy has no quadruped dances)."
   },
   {
    "name": "Zoom in and find it",
