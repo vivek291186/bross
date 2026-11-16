@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:09:58+05:30",
- "runs": 551,
+ "updated": "2026-11-16T16:10:36+05:30",
+ "runs": 552,
  "branches": [
   {
    "id": "platforms",
@@ -14321,6 +14321,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 546
+    },
+    {
+     "t": "'Dancefloor copycats' is an evergreen family TikTok game where each person repeats all the moves so far and then adds one new move, which turns a Bro Bros song into a memory dance: Big Bro does a clap, Little Bro does clap plus jump, a friend adds a spin, and kids at home try to keep the whole chain.",
+     "src": "Mommy Poppins family dance list, 2023 (evergreen)",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 552
     }
    ]
   }
@@ -14330,7 +14337,7 @@
   "One 1-2 bar hook repeated in every chorus, simple melody inside about 5 notes sitting mostly between middle C and A (C, F or G major), where preschoolers sing best; add nonsense syllables (la la, doo doo) kids can sing before they can talk.",
   "Every lyric line has an action kids can copy (Total Physical Response): clap, jump, wiggle, freeze, stomp, with big quiet and loud contrasts (tiptoe, then jump, then a sudden stop) because toddlers move to changes in energy, not to the beat.",
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
-  "A tiny story that is easy to follow (one problem, one fix, one clear lesson such as kindness or a healthy habit) with one tempo change kids can act out, ending in a happy payoff; show people and places from many cultures.",
+  "A tiny story that is easy to follow (one problem, one fix, one clear lesson such as kindness or a healthy habit) with one tempo change kids can act out, ending in a happy payoff; show people and places from many cultures. A missing snack or toy mystery ('who took the cookie?') is our most proven story hook: it gave our two best Reels and the two biggest songs of a 3.5M subscriber German channel.",
   "A bright, young sounding lead voice (in Suno ask for 'bright youthful vocals' rather than 'children's choir', which often comes out uncanny; start the Style field with 'one clear lead singer', put the chorus lift into drums and synths instead of extra voices, and list choir, crowd and gang vocals in Exclude); characters look into the camera and talk to the viewer, with spoken lines in their own [Spoken] section; master every song to about -14 LUFS with -1 dBTP peaks.",
   "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist, a mission in the title ('Catch the...!', 'Help the...!', 'Cure the boo boo!') and a learning tag.",
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele); reach the chorus by about 0:15, because our long songs hold viewers only about 20 seconds on average.",
@@ -14348,11 +14355,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 472 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:50",
-   "note": "Run 473 (music craft (do songs really teach language; Afrobeat nursery rhymes)): An Oxford systematic review of 60 classroom studies in 23 countries found songs do no harm to language learning but the evidence on how much they help is unclear (only 3 strong studies), so we should not overclaim learning in titles; Kenya's Super Sema remade nursery rhymes with Afrobeat rhythms and Swahili versions. Total 1861."
+   "note": "Earlier runs summarised: all rounds through Run 473 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:51",
@@ -14665,6 +14668,10 @@
   {
    "date": "2026-11-16 16:09",
    "note": "Run 551 (YouTube channels (German sing and move channel; our data skipped as unchanged)): Germany's Kinderlieder zum Mitsingen und Bewegen (3.47M subscribers, about 33M views a month) has as its two biggest hits a 'who took the cookie from the jar' movement song (24.4M) and a 'your bone is gone, doggy' song (22.9M), the same taken snack hook that gave our two best Reels; its newest upload teaches tying shoelaces. Total 2036."
+  },
+  {
+   "date": "2026-11-16 16:10",
+   "note": "Run 552 (TRENDS (family dance guides; no new trend this week)): No fresh family trend since this afternoon; the viral 'spider step' is a floor roll we cannot use, so only one evergreen family format was added, 'dancefloor copycats', where each person copies the moves so far and adds one new move. Playbook story rule updated with the proven missing snack mystery hook. Total 2037."
   }
  ],
  "history": [
@@ -15851,6 +15858,10 @@
   {
    "date": "2026-11-16 16:09",
    "total": 2036
+  },
+  {
+   "date": "2026-11-16 16:10",
+   "total": 2037
   }
  ],
  "next_week_ideas": [
@@ -15912,6 +15923,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Copycat chain dance",
+   "where": "TikTok and Reels family accounts (evergreen)",
+   "status": "evergreen",
+   "use": "Each character in turn repeats every move so far and adds one: clap; clap and jump; clap, jump and spin; clap, jump, spin and wave. Steps for Meshy, all standing in place: two claps, one small jump, one slow turn in place, one big wave. Our own counting song names each move as it is added."
+  },
   {
    "name": "Cool lion photo pose",
    "where": "Instagram Reels and YouTube Shorts (India, from 6 Nov 2026)",
@@ -16025,12 +16042,6 @@
    "where": "TikTok and Reels Indonesia, Nov 2026",
    "status": "rising",
    "use": "For an Indonesian language Short with our own upbeat koplo style beat: the Bros and friends stand in a row and do a hip sway (standing in place, sway hips left and right on each beat with hands on hips, 4 seconds), then a hand wave across the body (standing, wave both hands side to side above the head, 4 seconds), then a happy clap and point to the camera; caption 'Joget bareng!' (dance together)."
-  },
-  {
-   "name": "Christmas jumper spin reveal",
-   "where": "Reels and Shorts, UK Christmas Jumper Day 10 Dec 2026 and all December",
-   "status": "seasonal",
-   "use": "A 10 to 15 second Short: the Bros stand side by side in plain tops, count 'one, two, three' and do a spin (standing, turn once on the spot with arms out, 2 seconds); on the cut they finish the turn in bright knitted Christmas jumpers (snowflakes, a reindeer, a tree), then point at each other's jumper and do a happy shoulder shimmy to our own jingly song; caption 'Jumper check!'."
   }
  ]
 }
