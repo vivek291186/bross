@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:07:23+05:30",
- "runs": 668,
+ "updated": "2026-11-16T20:07:55+05:30",
+ "runs": 669,
  "branches": [
   {
    "id": "platforms",
@@ -5298,6 +5298,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 657
+    },
+    {
+     "t": "Lalafun spreads its songs across several English sister channels: Little Lalaby (US, since Jun 2023, 1.17M subscribers, 622M views, 1,833 videos) gained about 18.3M views in the 28 days to 16 Nov 2026 after a July peak of 46M a month, alongside Funlala (about 42M a month) and the 15M subscriber main channel, so a proven song brand can fill several channels and feeds at once.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 669
+    },
+    {
+     "t": "Little Lalaby's 13 Nov 2026 upload 'A Ram Sam Sam, Move Your Hands and Feet!' (a public domain Moroccan folk action song) reached about 33K views in under three days, roughly 28 times its usual, and its third biggest video is an Aug 2026 'Don't Cry, Baby! Wheels on the Bus' newborn soothing song (1.45M), so action songs with hand and feet moves and baby soothing stories are this network's current winners.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 669
+    },
+    {
+     "t": "Nursery Rhymes KS 3D (611K subscribers, 55M views) built its audience from only 76 very long compilations averaging nearly two hours and then stopped uploading; by mid 2025 it earned only a few thousand views a day and was losing subscribers, a sign that long compilations without a stream of fresh songs fade.",
+     "src": "vidIQ, Jul 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 669
     }
    ]
   },
@@ -15594,11 +15615,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 589 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:56",
-   "note": "Run 590 (Shorts and Reels (Trial Reels and teen content settings check)): Trial Reels studies and Instagram's 13+ teen content settings were already leaves, so no new leaves. Total 2083."
+   "note": "Earlier runs summarised: all rounds through Run 590 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:56",
@@ -15911,6 +15928,10 @@
   {
    "date": "2026-11-16 20:07",
    "note": "Run 668 (global markets (Sub Saharan Africa YouTube ad money)): 3Vision's forecast (Jul 2026) puts YouTube's 2026 ad revenue in Sub Saharan Africa at about 583M USD, more than any single subscription service there and rising to about 1.18B by 2031 (about 92% of the region's ad video market), with Nigeria growing from 128M to 279M USD, so English kids songs reach a fast growing, YouTube first market where families watch free. Total 2214."
+  },
+  {
+   "date": "2026-11-16 20:07",
+   "note": "Run 669 (competitor deep dive (Lalafun's English sister channels; KS 3D)): Lalafun runs at least two more English US channels besides its main one: Little Lalaby (1.17M subscribers, 1,833 videos, about 18.3M views in the last 28 days, peak 46M in Jul 2026) and Funlala (about 42M a month), and both share new songs under the Lalafun name; Little Lalaby's 13 Nov 'A Ram Sam Sam, move your hands and feet' action song is running about 28 times its usual views. A 3D nursery rhyme channel with only 76 very long compilations (KS 3D) has stalled with zero uploads, showing long compilations alone do not keep a channel alive. Total 2217."
   }
  ],
  "history": [
@@ -16521,6 +16542,10 @@
   {
    "date": "2026-11-16 20:07",
    "total": 2214
+  },
+  {
+   "date": "2026-11-16 20:07",
+   "total": 2217
   }
  ],
  "next_week_ideas": [
