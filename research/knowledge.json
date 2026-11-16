@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:01:26+05:30",
- "runs": 485,
+ "updated": "2026-11-16T12:38:36+05:30",
+ "runs": 486,
  "branches": [
   {
    "id": "platforms",
@@ -7034,6 +7034,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 474
+    },
+    {
+     "t": "Meshy added prompt based part editing in October 2026: select a region of a model and describe the change, and the rest of the model is kept, so Bro Bros can make seasonal outfit variants (Santa hat, scarf, raincoat) of the same brothers without regenerating them and drifting off model.",
+     "src": "RuntimeWire, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 486
+    },
+    {
+     "t": "Meshy 7.1 (Sep 2026) adds Ultra 2K and Ultra 4K modes that build fine detail like stitching and woven fabric into the mesh itself, with raw meshes up to about 80 million triangles, so use it only for close up hero props (a knitted hat, a gift box) and decimate hard before rigging or animating anything.",
+     "src": "PR Newswire via Webull, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 486
+    },
+    {
+     "t": "Small 3D kids teams now report very fast output with real time engines: the solo creator of Silly Crocodile makes an episode in a few days and the four person BellyFant team says one artist can finish 8 to 10 shots a day, a useful benchmark for keeping 14 songs a week sustainable.",
+     "src": "Unreal Engine spotlight, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 486
+    },
+    {
+     "t": "Nickelodeon's Max and the Midknights only storyboarded shots that were already locked in a rough edit, which cut waste; for Bro Bros, cut a rough animatic to the Suno track first and only animate and render the shots that survive that edit.",
+     "src": "Unreal Engine spotlight, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 486
+    },
+    {
+     "t": "Yuki 7's team built water splash effects once and reused them automatically across shots instead of hand animating each one; a small kit of reusable Blender effects (confetti burst, snow puff, sparkle trail, bubble pop) can be dropped onto every song's big moments.",
+     "src": "Unreal Engine spotlight, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 486
     }
    ]
   },
@@ -13326,11 +13361,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 406 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:03",
-   "note": "Run 407 (algorithm (our data and channels already covered this run; YouTube's TV share and TV AI search)): YouTube held about 13.4% of all US TV viewing in April 2026 (Nielsen Gauge), back at its summer 2025 peak and above any single network group most months, and since May its conversational AI answers questions about the playing video on smart TVs without stopping it; most other algorithm items were already in the tree. Total 1672."
+   "note": "Earlier runs summarised: all rounds through Run 407 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:04",
@@ -13643,6 +13674,10 @@
   {
    "date": "2026-11-16 12:01",
    "note": "Run 485 (competitor deep dive (Morphle TV, a Moonbug 3D pet cartoon)): Morphle TV (13.1M subs, 10.1B views, 2,263 videos) gained no subscribers in the 28 days to 23 Oct 2026 and got about 15M views a month, roughly 6.6K per video, with all top 5 videos from 2021 to 2023; together with Boom Buddies this shows once famous 3D kids libraries stalling without new hooks. Total 1890."
+  },
+  {
+   "date": "2026-11-16 12:38",
+   "note": "Run 486 (visual craft (Meshy 7.1 and part edits; small team 3D pipelines)): Meshy's October 2026 prompt based part edit lets us change one region of a model (a Santa hat, a winter scarf, a new shirt colour) while keeping the rest, so seasonal outfits for the Bros stay on model; Unreal's kids animation spotlight shows solo and four person teams making a shot list in days by timing a rough edit first and reusing effects. Total 1895."
   }
  ],
  "history": [
@@ -14565,6 +14600,10 @@
   {
    "date": "2026-11-16 12:01",
    "total": 1890
+  },
+  {
+   "date": "2026-11-16 12:38",
+   "total": 1895
   }
  ],
  "next_week_ideas": [
