@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:48:02+05:30",
- "runs": 648,
+ "updated": "2026-11-16T18:48:42+05:30",
+ "runs": 649,
  "branches": [
   {
    "id": "platforms",
@@ -15224,6 +15224,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 646
+    },
+    {
+     "t": "A recurring family TikTok format has parents ask their small child to film them doing a silly dance, and the clip quietly captures the child's proud, giggling reaction too; commenters say the joy comes from kids seeing grown ups being playful, which Bro Bros can recreate with Mum or Dad dancing and the brothers' faces reflected in a mirror behind them.",
+     "src": "mel.fm, Nov 2022",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 649
+    },
+    {
+     "t": "Kapwing's November 2025 'flip the camera' format, turning the phone on the person who was filming, was flagged for teasing and consent problems, so Bro Bros keeps reveal style camera turns only between our own animated characters and never invites viewers to film or post real children.",
+     "src": "kapwing.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 649
     }
    ]
   }
@@ -15252,10 +15266,6 @@
   {
    "date": "2026-11-16 16:39",
    "note": "Earlier runs summarised: all rounds through Run 560 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:46",
-   "note": "Run 570 (TRENDS (Fabulate's October TikTok roundup and Later's 13 Nov list)): Later's 13 Nov additions were already leaves; Fabulate's roundup adds 'dancing boyfriends', candid clips of someone dancing unprompted to a catchy sound, which becomes a kid safe 'caught dancing' Reel where a Bro is spotted dancing when he thinks no one is watching. Total 2062."
   },
   {
    "date": "2026-11-16 16:46",
@@ -15568,6 +15578,10 @@
   {
    "date": "2026-11-16 18:48",
    "note": "Run 648 (YouTube kids channels (Sierra and Rhia English uploads; Tubefilter week of 15 Nov not yet out)): Tubefilter's 15 Nov chart was not yet published. Sierra and Rhia English (15.7M subscribers, 34.2B views), No. 6 worldwide, posted nine short sister role play videos on 3 Nov alone, each titled with the sisters' names plus one kind behaviour (sharing the slide, caring for toys), and its best recent upload is a 'which one is chocolate?' guessing game; no Christmas videos yet. Total 2165."
+  },
+  {
+   "date": "2026-11-16 18:48",
+   "note": "Run 649 (TRENDS (reverse camera family reactions; no new weekly lists)): No new weekly trend lists were out by 16 Nov evening IST. The one fresh family format found: parents ask a child to film their silly dance so the clip quietly captures the child's proud or giggling reaction (a recurring TikTok trend since 2022), while the related Nov 2025 'flip the camera' format was flagged for consent and teasing, so we use only the gentle animated version. Total 2167."
   }
  ],
  "history": [
@@ -16098,6 +16112,10 @@
   {
    "date": "2026-11-16 18:48",
    "total": 2165
+  },
+  {
+   "date": "2026-11-16 18:48",
+   "total": 2167
   }
  ],
  "next_week_ideas": [
@@ -16159,6 +16177,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Film my silly dance",
+   "where": "TikTok and Reels, recurring family format",
+   "status": "evergreen",
+   "use": "In our 3D living room Dad asks the brothers to 'film' him dancing to our own song; the camera shows Dad's goofy steps while a mirror behind him shows the brothers giggling and then joining in for the last chorus. Meshy motion for Dad: standing, wobbly side steps with arms flapping, then a small hop and a proud pose; brothers: standing, clap and bounce in place."
+  },
   {
    "name": "Dance with grandpa",
    "where": "TikTok and Reels, Latin America and worldwide, peaks in family holidays",
@@ -16272,12 +16296,6 @@
    "where": "TikTok and X (Mexico, then school groups in Japan and Korea)",
    "status": "evergreen",
    "use": "Friends stand in a circle clapping while the two Bros hop in the middle like kangaroos to our own cumbia style song. Step for Meshy: standing in place, hands held up in front of the chest like little paws, two small hops to the left, two small hops to the right, then one clap. Swap who is in the middle every eight counts."
-  },
-  {
-   "name": "Mirror clone group dance",
-   "where": "Instagram Reels (India, late Oct 2026), spreading",
-   "status": "rising",
-   "use": "One Bro stands in a room of mirrors; on the chorus his four reflections start dancing with him as a group. Step for Meshy: standing in place, sway side to side, then reach both arms out sideways as if holding hands, then clap twice. Render with mirrored copies of one character and our own original song."
   }
  ]
 }
