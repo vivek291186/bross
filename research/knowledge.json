@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:52:50+05:30",
- "runs": 582,
+ "updated": "2026-11-16T16:53:26+05:30",
+ "runs": 583,
  "branches": [
   {
    "id": "platforms",
@@ -9995,6 +9995,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 571
+    },
+    {
+     "t": "LooLoo Kids' Spanish channel (La Alegría de Cantar, 1.57M subscribers, 664M views) gets its biggest views from a chicks and Lola the cow medley (362M) and then two 'who breaks the piñata?' party song compilations (79M and 43M), showing that the piñata party song is a big Latin American family favourite, useful for birthdays all year and for Mexico's posadas from 16 to 24 December.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 583
     }
    ]
   },
@@ -14628,11 +14635,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 503 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 13:02",
-   "note": "Run 504 (TRENDS (Gen Alpha words and moves of 2026)): Two harmless Gen Alpha ideas were missing from the tree: 'glitch walking' (moving like a lagging video game character), a ready made robot style dance step, and 'side quest' (a random fun detour), a story frame for older kids; linguists say such words spread because they signal belonging, so an original Bro Bros nonsense hook word can do the same. Total 1944."
+   "note": "Earlier runs summarised: all rounds through Run 504 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 13:03",
@@ -14945,13 +14948,13 @@
   {
    "date": "2026-11-16 16:52",
    "note": "Run 582 (TRENDS (K-pop challenges and Japanese kids' buzzwords)): IVE's 'Looks Can Kill' relay challenge (out 26 Oct) passed 100M views in two days with a cute repeating part and a signature 'sniper' point move; Japan's 2025 kids survey put silly hybrid animal memes first for girls and second for boys, so absurd original animal mash ups appeal to both. Total 2076."
+  },
+  {
+   "date": "2026-11-16 16:53",
+   "note": "Run 583 (global markets (Spanish and Vietnamese song channels)): On LooLoo Kids' Spanish channel the biggest hits after a farm animals medley are two 'who breaks the piñata?' party songs (79M and 43M), so a piñata song fits Mexican birthdays and the 16 to 24 Dec posadas; Vietnam's Táo TV data was too old to use. Total 2077."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 03:38",
-   "total": 1221
-  },
   {
    "date": "2026-11-16 03:38",
    "total": 1225
@@ -16147,9 +16150,17 @@
   {
    "date": "2026-11-16 16:52",
    "total": 2076
+  },
+  {
+   "date": "2026-11-16 16:53",
+   "total": 2077
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Whack the Piñata! (Party Turn Taking Song)",
+   "why": "Piñata party songs are among the biggest Spanish kids videos (79M and 43M on one channel) and Mexico's posadas run 16 to 24 Dec; each verse a different friend takes a turn with eyes covered while everyone counts, then sweets rain down and are shared, teaching waiting your turn and sharing."
+  },
   {
    "title": "Jingle Dhol! (Bhangra Christmas Dance)",
    "why": "Indian style Christmas remixes went viral worldwide on TikTok last December and our dhol Diwali songs were our best Reels, so an original bhangra Christmas song with sleigh bells over a dhol beat, shoulder shrugs and a 'hoy hoy' call can travel to Indian, diaspora and global families."
@@ -16201,10 +16212,6 @@
   {
    "title": "The Snow Is Lava! (Winter Movement Game)",
    "why": "Danny Go!'s pretend danger movement games ('The Floor Is Lava' 223M, its part 2 263M, a sharks sequel 202M) are the strongest dance along format for older preschoolers; a winter version where the Bros hop between safe snow mats, freeze on the whistle and dodge a sleepy snow monster gives us a numbered game series of our own."
-  },
-  {
-   "title": "Catch the Runaway Snowman! (Chase Song)",
-   "why": "Lalafun's mission titled rhymes ('Catch the Black Sheep!' 33M in 9 weeks) show chase missions are the top preschool breakout; a snowman that rolls away through town lets the Bros chase, count and finally hug him, with a seasonal winter hook."
   }
  ],
  "trend_bank": [
