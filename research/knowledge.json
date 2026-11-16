@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:54:22+05:30",
- "runs": 430,
+ "updated": "2026-11-16T10:00:31+05:30",
+ "runs": 431,
  "branches": [
   {
    "id": "platforms",
@@ -4395,6 +4395,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 428
+    },
+    {
+     "t": "Disney turned Gracie's Corner's YouTube songs into a Disney+ and Disney Jr. series of 120+ short sing along videos and 18 themed compilations (first drop of 68 shorts and 7 compilations on 15 Jun 2026, with global linear and streaming rights), so a clean library of short songs plus themed compilations is exactly what TV buyers want.",
+     "src": "press.disneyplus.com, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 431
+    },
+    {
+     "t": "Gracie's Corner reached its size with only about 307 YouTube videos (Screenwise listing), so a focused catalogue of strong original songs, not sheer volume, is what built one of the biggest new kids music brands.",
+     "src": "screenwiseapp.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 431
+    },
+    {
+     "t": "Gracie's Corner launched its first live US tour with Live Nation (announced Jun 2025), showing the usual order for a YouTube song brand: grow the audience, then streaming deals and live shows.",
+     "src": "blackamericaweb.com, Jun 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 431
     }
    ]
   },
@@ -12366,10 +12387,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 06:04",
-   "note": "Run 351 (other platforms (iTunes kids chart before Christmas, Tonies best sellers)): In mid November the iTunes kids top 25 still holds only one Christmas song (Jingle Bells sits at 39, Silent Night at 60) while faith songs, novelty food songs and Ms Rachel and Bluey tracks lead, so kids' music charts switch to Christmas later than TikTok. On Amazon the best selling Tonies music figurine was Ms Rachel (about 6K a month in June), ahead of big film characters. Total 1441."
-  },
-  {
    "date": "2026-11-16 06:36",
    "note": "Run 352 (TRENDS (Christmas switch, Chipmunks group dance, Advent calendar season)): This week's top Reels are the fixed spot 'It's time' Christmas switch, 'zoom in' hidden messages and then and now remakes, and NewEngen's 13 Nov list adds a family friendly Chipmunks group routine (jumps, kicks, spins to a sped up track). Google's holiday report shows Advent calendar videos peak in November (about 280M views in Nov 2025), so an Advent countdown series should start before 1 Dec. Total 1449."
   },
@@ -12684,6 +12701,10 @@
   {
    "date": "2026-11-16 09:54",
    "note": "Run 430 (global markets, Vietnam; music craft checked first and skipped as covered): most Vietnam facts (POPS Kids size, BabyBus Vietnam views) were already in the tree, so only two new points were kept: vidIQ models BabyBus Vietnam at about 3,500 USD a month from about 92M views (about 0.04 USD per 1,000), and its top long videos are all 2021 to 2022 uploads. Total 1753."
+  },
+  {
+   "date": "2026-11-16 10:00",
+   "note": "Run 431 (YouTube kids channels (Gracie's Corner's catalogue and Disney roll out; our own data already checked this run)): Disney's Gracie's Corner deal (premiere 15 Jun 2026 on Disney+ and Disney Jr.) packaged the YouTube catalogue as 120+ short sing along videos and 18 themed compilations, with 68 shorts and 7 compilations in the first drop, from a channel of only about 300 videos; the brand also toured the US with Live Nation, the path from YouTube songs to TV and live shows. Total 1756."
   }
  ],
  "history": [
@@ -13386,6 +13407,10 @@
   {
    "date": "2026-11-16 09:54",
    "total": 1753
+  },
+  {
+   "date": "2026-11-16 10:00",
+   "total": 1756
   }
  ],
  "next_week_ideas": [
