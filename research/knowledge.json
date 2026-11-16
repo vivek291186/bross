@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:47:59+05:30",
- "runs": 387,
+ "updated": "2026-11-16T08:49:01+05:30",
+ "runs": 388,
  "branches": [
   {
    "id": "platforms",
@@ -5053,6 +5053,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 380
+    },
+    {
+     "t": "The bilingual 'Feliz Navidad' climbed 61 places on YouTube's global chart in the final week before Christmas 2025, the biggest jump of any holiday song, which supports making one English Spanish Christmas song for the week of 21 December.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 388
+    },
+    {
+     "t": "Spotify's cosy 'Folksy Christmas' playlist grew from about 4K followers in 2019 to about 128K in 2025 while the main 'Christmas Hits' playlist stayed mostly cheerful and celebratory; for families this points to one soft acoustic Christmas song (guitar, glockenspiel, warm voice) next to our bright party ones.",
+     "src": "Chartmetric, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 388
     }
    ]
   },
@@ -7902,6 +7916,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 379
+    },
+    {
+     "t": "In YouTube's weekly music charts for 19 to 25 Dec 2025, holiday songs filled the top 10 in the US, UK, Germany, the Netherlands, Australia, Portugal, Spain, France and Japan, but India, Brazil and South Africa had few or none, so for those big kids audiences our December slots should also carry winter, party and New Year songs, not only Christmas.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 388
+    },
+    {
+     "t": "In Japan a Japanese language Christmas song by a local band sat at No. 3 on YouTube's chart in Christmas week 2025, beside the Western classics, so a Japanese audio track on our main Christmas song is worth testing for that market.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 388
     }
    ]
   },
@@ -11390,10 +11418,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:09",
-   "note": "Run 309 (competitor deep dive (Super Simple Play with Caitie, Super Supremes)): Skyship's live action 'Super Simple Play with Caitie!' (5.25M subscribers) holds a steady 47 to 58M views a month in 2026, down from 332M in April 2025, and its top songs are a fire truck song (109M), a colour hunt (78M) and a freeze dance game (50M); vidIQ models about 46K USD a month. Older 3D rhyme channel Super Supremes (4M subscribers) is flat, with its newest Short getting under 2K views in five days. Halloween and fire truck songs top both channels. Total 1302."
-  },
-  {
    "date": "2026-11-16 04:10",
    "note": "Run 310 (TRENDS (Instagram Edits snow effect, snow globe look for December)): Instagram's Edits app added a one tap animated Snow Effect (Restyle, plus rain, fog and golden light overlays) that became one of the biggest creator trends in India within weeks (a Hindi tutorial passed 5.5M views, with Gujarati, Marathi and Kannada creators joining). Snow globe themed drinks went viral again last December, so the snow globe look is a December visual hook we can use kid safe. A snow globe shake format joined the trend bank. Total 1305."
   },
@@ -11704,13 +11728,13 @@
   {
    "date": "2026-11-16 08:47",
    "note": "Run 387 (TRENDS (zoom in hidden message, then and now, Wrapped recaps in early December)): Inmagic's 16 Nov list keeps the 'It's time' Christmas switch at No. 1 and the Dame Hombro shoulder dance in the top 10, and adds two kid usable formats: a 'zoom in' Reel hiding tiny text for viewers to find and 'then and now' clips cut on a strong beat. Spotify Wrapped is expected around 2 Dec, the start of the yearly recap trend. Total 1613."
+  },
+  {
+   "date": "2026-11-16 08:49",
+   "note": "Run 388 (music (where Christmas songs chart worldwide, the bilingual Feliz Navidad jump, the cosy folk lane)): Infant music studies were already in the tree, so this round looked at Christmas listening: in Christmas week 2025 YouTube's charts were full of holiday songs in the US, UK, Europe, Australia and Japan but had few or none in India, Brazil and South Africa; the bilingual Feliz Navidad jumped 61 places that week; and the cosy 'Folksy Christmas' playlist grew about 30x since 2019 while the main hits playlist stayed cheerful. Total 1617."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:53",
-   "total": 460
-  },
   {
    "date": "2026-11-15 18:54",
    "total": 464
@@ -12906,6 +12930,10 @@
   {
    "date": "2026-11-16 08:47",
    "total": 1613
+  },
+  {
+   "date": "2026-11-16 08:49",
+   "total": 1617
   }
  ],
  "next_week_ideas": [
