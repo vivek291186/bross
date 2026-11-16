@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:02:45+05:30",
- "runs": 700,
+ "updated": "2026-11-16T22:03:21+05:30",
+ "runs": 701,
  "branches": [
   {
    "id": "platforms",
@@ -6894,6 +6894,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 689
+    },
+    {
+     "t": "Bluey's first Christmas release (a four track EP, 7 Nov 2025) used a simple template: a play along track, the show theme reworked around Tchaikovsky's public domain Nutcracker music, one new song written in a Santa obsessed child's voice, and a Christmas version of the theme with festive quotes; Bro Bros can copy the shape with a Christmas version of our own signature song plus one new child's eye Santa song.",
+     "src": "buggreport.com.au, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 701
     }
    ]
   },
@@ -16007,11 +16014,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 621 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:11",
-   "note": "Run 622 (rules (US kids online safety bills)): The House KIDS Act, Senate COPPA 2.0 and KOSA status (passed one chamber, stalled in the other) were already leaves and nothing new passed this month, so no new leaves. Total 2104."
+   "note": "Earlier runs summarised: all rounds through Run 622 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:11",
@@ -16324,6 +16327,10 @@
   {
    "date": "2026-11-16 22:02",
    "note": "Run 700 (TRENDS (Virlo early, peaking and late list; SocialPilot weekly)): Virlo's latest early, peaking and late list (rock paper scissors food challenge, Paparazzi bow, costume loading, upside down transition, outfit kick transition) only repeated trends already in the tree; the 16 Nov meme chart is not yet online, so no new leaves. Total 2273."
+  },
+  {
+   "date": "2026-11-16 22:03",
+   "note": "Run 701 (music craft (how kids brands package a first Christmas release)): Searches for new 2026 kids Christmas releases surfaced mostly older items; the useful one was Bluey's first Christmas EP (Nov 2025), a four track model of a play along track, the theme reworked as a public domain Nutcracker style piece, one new child voiced Santa song and a Christmas version of the theme tune. Total 2274."
   }
  ],
  "history": [
@@ -17062,6 +17069,10 @@
   {
    "date": "2026-11-16 22:02",
    "total": 2273
+  },
+  {
+   "date": "2026-11-16 22:03",
+   "total": 2274
   }
  ],
  "next_week_ideas": [
