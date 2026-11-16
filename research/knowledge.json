@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:09:10+05:30",
- "runs": 617,
+ "updated": "2026-11-16T17:09:40+05:30",
+ "runs": 618,
  "branches": [
   {
    "id": "platforms",
@@ -14776,6 +14776,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 606
+    },
+    {
+     "t": "A Kerala video (Aug 2026, over 1M likes) of four children dancing in the rain beside a paddy field, timing their steps to a dog that keeps barking at them, went viral as 'not break dance, bark dance'; a Bro Bros song where a puppy friend's 'woof woof' is the beat and the Bros invent a move for each bark turns this into a simple call and response dance for toddlers.",
+     "src": "Kerala Kaumudi, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 618
     }
    ]
   }
@@ -14803,11 +14810,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 538 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:03",
-   "note": "Run 539 (YouTube channels (our Metricool data unchanged since 15:50, so skipped; Danny Go and toddler learning channels rechecked)): Danny Go (plus 90K subscribers and 167M views in the 28 days to 12 Nov) matched leaves already in the tree, and small toddler learning brands had no fresh public stats, so no new leaves. Total 2020."
+   "note": "Earlier runs summarised: all rounds through Run 539 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:04",
@@ -15120,13 +15123,13 @@
   {
    "date": "2026-11-16 17:09",
    "note": "Run 617 (visual craft (designing for TV screens)): Searches on TV safe areas and text size for kids videos returned only banner guides and ad playbooks; the useful TV ready points (4K, text off the edges, high contrast, speaker mix) were added in run 601, so no new leaves. Total 2101."
+  },
+  {
+   "date": "2026-11-16 17:09",
+   "note": "Run 618 (TRENDS (viral kids dances in India and South Africa)): A Kerala clip of children dancing in the rain to the rhythm of a barking dog ('not break dance, bark dance') passed 1M likes in Aug 2026; turning a funny everyday sound into the beat is a kid made format we can copy with an animal friend. Total 2102."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:43",
-   "total": 1331
-  },
   {
    "date": "2026-11-16 04:49",
    "total": 1335
@@ -16322,6 +16325,10 @@
   {
    "date": "2026-11-16 17:09",
    "total": 2101
+  },
+  {
+   "date": "2026-11-16 17:09",
+   "total": 2102
   }
  ],
  "next_week_ideas": [
@@ -16383,6 +16390,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Bark dance",
+   "where": "Instagram Reels and Shorts, India (rising from Aug 2026 viral)",
+   "status": "rising",
+   "use": "A puppy friend barks a rhythm (woof, woof, woof woof woof) and the Bros answer each bark pattern with a move, getting faster each round until the puppy does a happy spin; our own song carries a bark sound as the beat. Meshy steps, standing in place: a step touch on each bark, a double clap on the double bark, a small jump on the triple bark, then a slow turn in place."
+  },
   {
    "name": "Turkey freeze dance",
    "where": "US classrooms, YouTube and Reels (Thanksgiving, 26 Nov, seasonal)",
@@ -16496,12 +16509,6 @@
    "where": "TikTok, Reels",
    "status": "rising",
    "use": "A 10 second split screen Short to our own bouncy song: left side a simple hand drawn or clay look Little Bro, right side the 3D Little Bro; both stand in place and bounce their shoulders up and down twice on each beat, then both point at the camera together on the last beat. Caption: 'Drawn or 3D? Which one dances better?' Meshy prompt: standing in place, shrug both shoulders up and down to the beat, arms relaxed, then point forward with right hand."
-  },
-  {
-   "name": "Clappy sea lion",
-   "where": "Instagram Reels and TikTok zoo clips, 2026 (evergreen animal humour)",
-   "status": "evergreen",
-   "use": "Our own sea lion friend at the Bros' pool: on each beat of our original splashy song he barks 'Ow ow!' and claps his flippers, then hops side to side; the Bros copy him: standing in place, clap hands twice above the head, hop left, hop right, then both arms out like flippers and a little bow; caption 'Copy the sea lion!'"
   }
  ]
 }
