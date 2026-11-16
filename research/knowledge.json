@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:37:07+05:30",
- "runs": 556,
+ "updated": "2026-11-16T16:37:55+05:30",
+ "runs": 557,
  "branches": [
   {
    "id": "platforms",
@@ -7503,6 +7503,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 533
+    },
+    {
+     "t": "An early childhood professor's Children's Slow Media Project (Aeon, Sep 2026) rates shows by pace using simple checks: a story you can follow, small stopping points to take in what happened, the eye guided to one important object instead of clutter, meaningful repetition, and moments a child and adult can notice something together; it rates reward loops and constant attention restarts lowest.",
+     "src": "Aeon, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 557
+    },
+    {
+     "t": "The same project counts a familiar ritual (the same greeting or opening song every episode) as a stabilising frame for young viewers, so every long Bro Bros video should open with the same short Bros hello and wave and close with the same goodbye pose, while Shorts keep their instant hook.",
+     "src": "Aeon, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 557
+    },
+    {
+     "t": "Thumbnail testers summarised in Oct 2026 report that a friendly smile and a natural mid action pose often beat the old wide open shocked face, and that thumbnails with several faces beat a single face, so a Bro Bros thumbnail should show both Bros smiling in the middle of the dance move rather than screaming at the camera.",
+     "src": "Upstream blog, Oct 2026 update",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 557
     }
    ]
   },
@@ -14397,11 +14418,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 477 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:53",
-   "note": "Run 478 (TRENDS (non English markets: Indonesia TikTok sounds, India Reels formats)): Indonesia's fastest rising November 2026 TikTok sounds are upbeat koplo and dangdut style dance tracks for group dance challenges (Singkong dan Keju up 84.5%), and in India Reels that open with a few seconds in a regional language before switching to Hindi or English are growing fastest, two localisation ideas for our Indonesian and Indian viewers. Total 1876."
+   "note": "Earlier runs summarised: all rounds through Run 478 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:54",
@@ -14714,13 +14731,13 @@
   {
    "date": "2026-11-16 16:37",
    "note": "Run 556 (music craft (producer and songwriter interviews)): Kids producers lift the lead vocal 1 to 2 dB above a normal pop mix so every word lands, and UK kids songwriters build each song around one character's feeling and want, starting from a chorus children can repeat. Total 2043."
+  },
+  {
+   "date": "2026-11-16 16:37",
+   "note": "Run 557 (visual craft (slow media pacing and thumbnail faces)): A Sep 2026 essay by an early childhood professor lists what makes kids media calmer and better rated (stopping points, one object to look at, meaningful repetition, a familiar ritual frame); thumbnail testers report friendly smiles and natural mid action faces now beating fake shock faces. Total 2046."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 19:11",
-   "total": 542
-  },
   {
    "date": "2026-11-15 20:00",
    "total": 613
@@ -15916,6 +15933,10 @@
   {
    "date": "2026-11-16 16:37",
    "total": 2043
+  },
+  {
+   "date": "2026-11-16 16:37",
+   "total": 2046
   }
  ],
  "next_week_ideas": [
