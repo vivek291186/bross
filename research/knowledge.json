@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:47:25+05:30",
- "runs": 530,
+ "updated": "2026-11-16T15:48:06+05:30",
+ "runs": 531,
  "branches": [
   {
    "id": "platforms",
@@ -14111,6 +14111,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 528
+    },
+    {
+     "t": "A Mexican TikTok group dance to a classic cumbia, the 'kangaroo dance' (side to side steps and small coordinated hops), spread to school groups in Japan (Jan 2025) and South Korea (May 2026, millions of views), with classmates clapping in a circle while a few dance in the middle, proof that a hop and sway routine anyone can learn in seconds crosses languages.",
+     "src": "Tus Buenas Noticias, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 531
+    },
+    {
+     "t": "Spanish and Portuguese language kids dance virals in 2026 are mostly real children doing simple school or party routines (clap circles, party trains, a grandparent joining in), not new choreography, so for Latin American viewers the winning shape is a circle of friends clapping while one or two dance in the middle.",
+     "src": "Tus Buenas Noticias and Spanish language news searches, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 531
     }
    ]
   }
@@ -14138,11 +14152,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 451 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:05",
-   "note": "Run 452 (competitor deep dive (Mother Goose Club)): Mother Goose Club, a veteran nursery rhyme brand with 9.89M subscribers and 12B views, gained almost no subscribers in 2026 and holds at about 19M to 25M views a month; its newest upload, a Halloween compilation, had under 10K views after two days, the same stall seen at Dave and Ava, so legacy rhyme catalogues are coasting and leave room for fresh character brands. Total 1813."
+   "note": "Earlier runs summarised: all rounds through Run 452 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:06",
@@ -14455,6 +14465,10 @@
   {
    "date": "2026-11-16 15:47",
    "note": "Run 530 (Shorts and Reels (Reels algorithm news, kids Shorts case studies, a children's book reading Reels account)): No new Reels or Shorts ranking change this week (WOA Song Spanish's Shorts reset and Your Algorithm controls were already leaves); new: a creator reading children's picture books on camera grew to 500K followers in nine months after one book reading hit 1M views on day 31, then repeated the same hook with new books, re ran winners as Trial Reels with new hooks, and used follower requests as the idea list. Total 2006."
+  },
+  {
+   "date": "2026-11-16 15:48",
+   "note": "Run 531 (TRENDS (Spanish, Portuguese and Indonesian language kids dance searches)): English trend lists were exhausted for this hour, so this round searched other languages; new: the Mexican 'kangaroo dance' (side to side steps and small hops to a cumbia classic) jumped to school groups in South Korea and Japan, showing that a simple hop and sway group dance travels across cultures. Added as an evergreen trend bank move. Total 2008."
   }
  ],
  "history": [
@@ -15557,6 +15571,10 @@
   {
    "date": "2026-11-16 15:47",
    "total": 2006
+  },
+  {
+   "date": "2026-11-16 15:48",
+   "total": 2008
   }
  ],
  "next_week_ideas": [
@@ -15618,6 +15636,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Kangaroo hop circle",
+   "where": "TikTok and X (Mexico, then school groups in Japan and Korea)",
+   "status": "evergreen",
+   "use": "Friends stand in a circle clapping while the two Bros hop in the middle like kangaroos to our own cumbia style song. Step for Meshy: standing in place, hands held up in front of the chest like little paws, two small hops to the left, two small hops to the right, then one clap. Swap who is in the middle every eight counts."
+  },
   {
    "name": "Mirror clone group dance",
    "where": "Instagram Reels (India, late Oct 2026), spreading",
@@ -15731,12 +15755,6 @@
    "where": "TikTok and Reels (W Chews / L Nibbles slang, Nov 2026)",
    "status": "rising",
    "use": "A 20 to 30 second Short: a food pops in on each beat (apple, broccoli, carrot, a cookie), the Bros react with a 'BIG CHEW' (standing in place, both hands up to the mouth, big chomping jaw and a happy head bob, 2 seconds) or a 'tiny nibble' (standing in place, lean forward a little, small quick bites with a surprised then pleased face, 2 seconds); every food ends liked, never 'yuck', sung to our own bouncy food song with the caption 'Big chew or tiny nibble?'."
-  },
-  {
-   "name": "Snow delivery surprise",
-   "where": "TikTok and Reels evergreen each winter (relatives bring mountain snow to a child in a warm place; one clip about 12.5M views)",
-   "status": "evergreen",
-   "use": "A 30 second Short and a full story song: it is sunny and hot where the Bros' friend lives and she has never seen snow, so the Bros arrive with a little cart of snow, sprinkle flakes over her and all three dance in the snow in the sunshine. Meshy prompts: standing in place, arms raised and fingers wiggling like falling snow, then a happy bounce with both arms open and a spin on the spot."
   }
  ]
 }
