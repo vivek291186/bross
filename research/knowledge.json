@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:53:25+05:30",
- "runs": 337,
+ "updated": "2026-11-16T05:53:58+05:30",
+ "runs": 338,
  "branches": [
   {
    "id": "platforms",
@@ -6117,6 +6117,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 336
+    },
+    {
+     "t": "SuperAwesome's Holidays Unwrapped 2026 report says 59% of children's gifts are inspired online, 34% trace back to a fandom, 86% of holiday purchases happen before December and 70% of parents buy only or mainly what is on the child's wishlist, so a Bro Bros 'wishlist' or toy box song lands best in November.",
+     "src": "SuperAwesome, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 338
+    },
+    {
+     "t": "Circana says the global toy market grew 8% to about 123B USD in 2025 with average spend per child about 64 USD; under 10s are still 67% of sales, but developing markets grew fastest (about 25 USD per child and rising), which supports making songs that travel to India, Southeast Asia, Latin America and Africa.",
+     "src": "Circana, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 338
+    },
+    {
+     "t": "Circana counts Gen Alpha (about ages 0 to 12) at over 2.1B people and says 56% of US parents report their Gen Alpha child looks at online shopping content for ideas, so kids see brands and toys mainly through videos, one more reason our songs stay free of real brand names.",
+     "src": "Circana, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 338
     }
    ]
   },
@@ -9886,10 +9907,6 @@
   },
   {
    "date": "2026-11-16 01:56",
-   "note": "Run 259 (TRENDS (US Thanksgiving classroom picks, recheck of November roundups)): Most early November roundup trends were already in the tree. New detail for US Thanksgiving (26 Nov): a kindergarten teacher's list of picks is half movement songs (turkey wobble, turkey hop), plus counting down and subtraction songs, all 1 to 5 minutes long and used as brain breaks. Total 1132."
-  },
-  {
-   "date": "2026-11-16 01:56",
    "note": "Run 260 (global markets (Japan's Sanrio Kids launch, Philippine parents)): Sanrio launched a global preschool YouTube channel on 15 Sep 2026 with 3D, about two minute episodes in three series (sing along, movement and calming down, everyday stories) and Japanese and English audio switchable in the same video. A 1,000 parent Philippine survey (Oct to Nov 2026) found 34% rely on kids apps such as YouTube Kids for safety and 60% say children use social apps to relax. Total 1136."
   },
   {
@@ -10199,16 +10216,16 @@
   {
    "date": "2026-11-16 05:53",
    "note": "Run 337 (TRENDS (dance circle cheer, Thanksgiving week timing)): Little new in this week's trend sources, so the round added the evergreen school 'dance circle' moment (a teacher steps into the middle of cheering pupils and dances, viral in South Africa) and set timing for gratitude formats: US Thanksgiving is Thursday 26 Nov 2026, so 'little things we love' and thank you songs should post from about 19 Nov. Total 1398."
+  },
+  {
+   "date": "2026-11-16 05:53",
+   "note": "Run 338 (topics and seasons (holiday wishlists, who drives toy growth)): SuperAwesome's Holidays Unwrapped 2026 says 59% of kids' gifts are inspired online, 34% trace to a fandom, 86% of holiday buying happens before December and 70% of parents buy mainly from the child's wishlist. Circana says the toy market grew 8% to 123B USD in 2025, under 10s are still 67% of it, and developing markets grow fastest. Total 1401."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:58",
-   "total": 259
   },
   {
    "date": "2026-11-15 16:58",
@@ -11401,6 +11418,10 @@
   {
    "date": "2026-11-16 05:53",
    "total": 1398
+  },
+  {
+   "date": "2026-11-16 05:53",
+   "total": 1401
   }
  ],
  "next_week_ideas": [
