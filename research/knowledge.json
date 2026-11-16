@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:41:45+05:30",
- "runs": 418,
+ "updated": "2026-11-16T09:42:37+05:30",
+ "runs": 419,
  "branches": [
   {
    "id": "platforms",
@@ -10030,6 +10030,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 406
+    },
+    {
+     "t": "The 15 Nov 2026 Ant Parade Reel (tiny ants marching off with a cookie, a 'left, right' chant, then the Bros share their picnic) reached 113 views and 88 people with a 74% skip rate, our best Reel since the 9 Nov cookie mystery (91 views), so marching chants with a small cheeky animal problem work on Instagram.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 419
+    },
+    {
+     "t": "The 15 Nov Hindi Didi story Reel (Golu the elephant's giant sneeze) got only 9 views with an 89% skip rate, the weakest of the week, so the earlier idea that Didi stories are our best retaining Reel format no longer holds.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 419
+    },
+    {
+     "t": "Across 9 to 15 Nov 2026 our 10 English story song Reels averaged about 43 views each and our 4 Hindi Didi story Reels about 22, so on Instagram the English songs now pull about twice the views of the Hindi stories.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 419
+    },
+    {
+     "t": "Both top Reels of the week (cookie mystery 91 views, ant parade 113) involve food being taken and then shared, which suggests a 'who took the snack?' hook is our most reliable Reel opener so far.",
+     "src": "Metricool, 16 Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 419
     }
    ]
   },
@@ -12086,10 +12114,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 05:54",
-   "note": "Run 339 (algorithm experiments and data (24/7 live streams, originality rebuild, Buffer's timing data)): A kids channel replaced re uploads and food videos with original 4K stories and gained 55% views and 77% revenue. Buffer's 1.8M video study puts long videos' best window at weekend and Monday mornings and Shorts' at Thursday to Saturday evenings. Total 1404."
-  },
-  {
    "date": "2026-11-16 05:55",
    "note": "Run 340 (TRENDS (dinosaur and fairytale twists in November kids films)): Social trend trackers had nothing new since the last round, so the round checked what kids are being shown on streamers this month: dinosaurs (a pup team movie with a new dino friend, 12 Nov), a Cinderella retelling where the stepsisters are kind (Netflix, 20 Nov), a Nutcracker remake (1 Nov) and a 'home alone' holiday defence (Disney+, 27 Nov). Dinosaur friends and kind twist fairytales are this month's story hooks. Total 1407."
   },
@@ -12404,6 +12428,10 @@
   {
    "date": "2026-11-16 09:41",
    "note": "Run 418 (rules (Brazil's ECA Digital child online safety law)): Brazil's ECA Digital law took effect 17 Mar 2026: platforms must avoid features that hide natural stopping points or push unrequested content, may not profile children for ads, and since June 2026 monetised content featuring real minors needs a court authorisation; our animated, voice only original characters avoid that rule, but Brazil is a top kids market so 'end of video' moments matter. Total 1713."
+  },
+  {
+   "date": "2026-11-16 09:42",
+   "note": "Run 419 (our results (Reels of 9 to 15 Nov, now including 15 Nov)): Metricool now has Instagram data for 15 Nov: the Ant Parade marching story song Reel reached 113 views (88 people) with the lowest skip rate of the week (74%), our best Reel since the 9 Nov cookie mystery, while the Hindi Golu elephant Didi Reel got only 9 views with an 89% skip rate. Over 9 to 15 Nov English story song Reels averaged about 43 views against about 22 for Hindi Didi Reels. YouTube data still stops at 11 Nov. Total 1717."
   }
  ],
  "history": [
@@ -13058,6 +13086,10 @@
   {
    "date": "2026-11-16 09:41",
    "total": 1713
+  },
+  {
+   "date": "2026-11-16 09:42",
+   "total": 1717
   }
  ],
  "next_week_ideas": [
