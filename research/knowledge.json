@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:53:19+05:30",
- "runs": 685,
+ "updated": "2026-11-16T21:54:03+05:30",
+ "runs": 686,
  "branches": [
   {
    "id": "platforms",
@@ -15902,11 +15902,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 606 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:04",
-   "note": "Run 607 (global markets (Pandobi mosquito song channel)): Panpandodobibi (1.66M subscribers) earns over half its 481M views from one 'Go Away Mosquito' song (253M) plus two more mosquito songs above 20M each, and its newest colour song is a 10x outlier, so a mosquito song is a proven global hit, especially for warm countries where mosquitoes are part of daily life. Total 2096."
+   "note": "Earlier runs summarised: all rounds through Run 607 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:05",
@@ -16219,6 +16215,10 @@
   {
    "date": "2026-11-16 21:53",
    "note": "Run 685 (YouTube main and Kids (vidIQ US top 100 on 14 Nov; trends skipped after an empty trends round)): Tubefilter's week of 15 Nov chart is still not published and the AIR and CreatorDB growth reports were already in the tree. vidIQ's US top 100 on 14 Nov 2026 has about 34 kids and family channels, with three nursery rhyme brands in the top 20 (CoComelon 2, Pinkfong 11, LooLoo 18) and a twin brothers channel (Lucas and Marcus, 37.2M) at 64. Total 2258."
+  },
+  {
+   "date": "2026-11-16 21:54",
+   "note": "Run 686 (YouTube algorithm (October to November change log recheck)): AIR's month by month algorithm log (updated 4 Nov) and the Beaupre subscriber click interview only repeated items already in the tree (original Shorts boost 1 Oct, custom Home feeds 22 Oct, 30 day spam cleanup test 29 Oct, eight impression cap); no November ranking change has been reported, so no new leaves. Total 2258."
   }
  ],
  "history": [
@@ -16896,6 +16896,10 @@
   },
   {
    "date": "2026-11-16 21:53",
+   "total": 2258
+  },
+  {
+   "date": "2026-11-16 21:54",
    "total": 2258
   }
  ],
