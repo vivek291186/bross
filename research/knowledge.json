@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:54:36+05:30",
- "runs": 339,
+ "updated": "2026-11-16T05:55:59+05:30",
+ "runs": 340,
  "branches": [
   {
    "id": "platforms",
@@ -9897,6 +9897,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 337
+    },
+    {
+     "t": "November 2026 family film releases centre on dinosaurs (a pup team movie where a new puppy teaches them to live alongside dinos, 12 Nov) and holiday home stories (Mickey's Home Alone, 27 Nov), so an original 'My Dinosaur Friend' song and a 'Christmas home helpers' song match what kids are watching this month.",
+     "src": "CableTV, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 340
+    },
+    {
+     "t": "Netflix's 'Steps' (20 Nov 2026) retells Cinderella with kind stepsisters who help fix the story, part of a wave of 'kind twist' fairytales; public domain fairytales retold with a kindness twist suit Bro Bros songs without using any studio's designs.",
+     "src": "CableTV, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 340
+    },
+    {
+     "t": "A 45 minute 'Nutcracker' remake with a fashion doll brand arrived on Netflix on 1 Nov 2026, so the Nutcracker story is in front of kids again this season; our own toy soldier and sugar plum dance using Tchaikovsky's public domain melody (with our own arrangement) fits December.",
+     "src": "CableTV, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 340
     }
    ]
   }
@@ -9925,10 +9946,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 01:57",
-   "note": "Run 261 (competitor deep dive (Kids Diana language network, weekly top 50 movers)): AIR's October 2026 profile counts Kids Diana's family of 32 channels in 17 languages at about 429M subscribers and 261B views, with the non main language channels together larger than the main one and about 12 channels running 24/7 live streams. In the 8 Nov top 50, Spanish preschool channel El Tren Nam Nam fell 52% (No. 7 to 39) while Keizo and Friends rose from 29 to 20. Total 1139."
   },
   {
    "date": "2026-11-16 01:58",
@@ -10241,16 +10258,16 @@
   {
    "date": "2026-11-16 05:54",
    "note": "Run 339 (algorithm experiments and data (24/7 live streams, originality rebuild, Buffer's timing data)): A kids channel replaced re uploads and food videos with original 4K stories and gained 55% views and 77% revenue. Buffer's 1.8M video study puts long videos' best window at weekend and Monday mornings and Shorts' at Thursday to Saturday evenings. Total 1404."
+  },
+  {
+   "date": "2026-11-16 05:55",
+   "note": "Run 340 (TRENDS (dinosaur and fairytale twists in November kids films)): Social trend trackers had nothing new since the last round, so the round checked what kids are being shown on streamers this month: dinosaurs (a pup team movie with a new dino friend, 12 Nov), a Cinderella retelling where the stepsisters are kind (Netflix, 20 Nov), a Nutcracker remake (1 Nov) and a 'home alone' holiday defence (Disney+, 27 Nov). Dinosaur friends and kind twist fairytales are this month's story hooks. Total 1407."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:59",
-   "total": 267
   },
   {
    "date": "2026-11-15 16:59",
@@ -11443,6 +11460,10 @@
   {
    "date": "2026-11-16 05:54",
    "total": 1404
+  },
+  {
+   "date": "2026-11-16 05:55",
+   "total": 1407
   }
  ],
  "next_week_ideas": [
@@ -11504,6 +11525,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Dino friend dance",
+   "where": "November 2026 family films (dinosaur island movie, 12 Nov) and evergreen dino topic",
+   "status": "rising",
+   "use": "A friendly baby dinosaur hatches next to the Bros and copies each move of our own dino song: big stomp, tiny claw wave, long tail swish; kids shout ROAR on the last beat. Meshy prompt: standing, stomp one foot then the other in place, hold both hands up like small claws and sway side to side."
+  },
   {
    "name": "Dance circle cheer",
    "where": "TikTok school videos (South Africa, May 2026; evergreen classroom format)",
@@ -11617,12 +11644,6 @@
    "where": "YouTube kids creators every December (story arc reveals, choose a path)",
    "status": "seasonal",
    "use": "A 2 to 3 minute song story: the Bros' sleigh bell goes missing and viewers pick door A or door B on screen (pause with a 3 second countdown) before each verse; each correct pick adds a jingle to the chorus until the bell is found. Our own song, no toy brands."
-  },
-  {
-   "name": "First snow ever",
-   "where": "TikTok, Reels and Shorts every early winter (first snow reaction videos from warm country visitors, babies and pets)",
-   "status": "seasonal",
-   "use": "12 to 20 second Short: Little Bro looks up as the first snowflake lands on his nose, gasps, then both Bros hold out their hands, spin slowly and jump in place as snow falls, to the chorus of our own winter song; caption 'Our first snow ever!'. Meshy prompt: standing in place, look up, hold both palms up, turn slowly in a circle, then small happy jumps in place."
   }
  ]
 }
