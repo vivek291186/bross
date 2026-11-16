@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:07:11+05:30",
- "runs": 753,
+ "updated": "2026-11-16T23:07:42+05:30",
+ "runs": 754,
  "branches": [
   {
    "id": "platforms",
@@ -16308,11 +16308,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 674 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 21:36",
-   "note": "Run 675 (Shorts and Reels (vertical live, Shorts launch lift)): Most Reels and Shorts algorithm searches returned items already in the tree (Features, Your Algorithm, Shorts series, original content). New: AIR partner data says vertical live streams lifted reach up to 25% and revenue 10 to 27%, a kids channel gained 52% channel views within two weeks of starting Shorts, and Instagram tested a Trending Audio filter that shows sounds popular among your followers. Total 2228."
+   "note": "Earlier runs summarised: all rounds through Run 675 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 21:38",
@@ -16625,6 +16621,10 @@
   {
    "date": "2026-11-16 23:07",
    "note": "Run 753 (competitor deep dive (Banana Cartoon 3D, Toonzey Songs)): vidIQ pages for two smaller 3D nursery rhyme channels returned no current figures (one only June 2025 data), so nothing reliable to add. Total 2316."
+  },
+  {
+   "date": "2026-11-16 23:07",
+   "note": "Run 754 (algorithm experiments (compilation length; trends skipped after an empty trends round)): Video length studies (AIR's 18,080 channels, Little Dot whitepaper, TV length data) were already in the tree, and the YouTube Kids visit length figure found dates from 2023; no new leaves. Total 2316."
   }
  ],
  "history": [
@@ -17570,6 +17570,10 @@
   },
   {
    "date": "2026-11-16 23:06",
+   "total": 2316
+  },
+  {
+   "date": "2026-11-16 23:07",
    "total": 2316
   },
   {
