@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:50:33+05:30",
- "runs": 334,
+ "updated": "2026-11-16T05:51:22+05:30",
+ "runs": 335,
  "branches": [
   {
    "id": "platforms",
@@ -7979,6 +7979,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 330
+    },
+    {
+     "t": "The European Commission proposed the Digital Fairness Act on 11 Nov 2026: it bans manipulative dark patterns, restricts personalised ads and prices aimed at minors, requires clear influencer marketing disclosure, lets users switch off addictive features and allows fines up to 6% of worldwide turnover; it still needs Parliament and Council approval.",
+     "src": "Lovguiden (EU press corner), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 335
+    },
+    {
+     "t": "Under the EU Digital Fairness Act proposal non EU companies selling to EU consumers would need an EU legal representative and the Commission could investigate large cross border cases directly, which matters for Bro Bros only if we later sell apps, games or merch with in app coins to European families.",
+     "src": "Lovguiden (EU press corner), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 335
+    },
+    {
+     "t": "Ofcom found 73% of UK 11 to 17 year olds met harmful content in a four week window (36% of those on YouTube) and asked platforms for safer feeds in March 2026; Snap, Meta and Roblox committed to new protections, but YouTube declined a major feed overhaul, saying its systems already protect children.",
+     "src": "Shopifreaks, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 335
     }
    ]
   },
@@ -9815,10 +9836,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:53",
-   "note": "Run 256 (TRENDS (Brazil's aura battles, Korean before and after challenge audio)): In Brazil, 'farmear aura' battles (kids, teens and adults step into a circle and win cheers with poses and exaggerated moves) grew from slang into city championships in 2026, one event with 200+ entrants, a kid safe show your style format. In Korea, Young Tak's 'Kkeokgeo' hit No. 7 on Instagram's audio chart mainly as a 180 degree before and after transformation sound. One duplicate Grammy leaf from this run was merged. Total 1123."
-  },
-  {
    "date": "2026-11-16 01:54",
    "note": "Run 257 (music craft (holiday listening calendar, original holiday songs that last)): Spotify data via Digital Music News shows holiday streaming first jumps around 1 Sep, rises again in October (US holiday playlist creation up 60% year on year) and peaks through November, with 20 of the top 25 global tracks festive by the second week of December. A modern original, Sia's 'Snowman', passed 1.3B plays, proof a new holiday song can become a yearly standard. Total 1127."
   },
@@ -10129,16 +10146,16 @@
   {
    "date": "2026-11-16 05:50",
    "note": "Run 334 (TRENDS (Dear Santa list Reels, hand motion reveal, November dumps)): This week's Instagram audio charts add a 'Dear Santa' list format (each line a wish, set to Mariah), a before and after reveal triggered by one hand motion (Diana Ross's Upside Down, 127K Reels) and November photo dumps of small seasonal moments; Mariah's song passed 5.8M Reels. A kid safe Dear Santa list joined the trend bank. Total 1388."
+  },
+  {
+   "date": "2026-11-16 05:51",
+   "note": "Run 335 (rules and safety (EU Digital Fairness Act proposal, Ofcom and YouTube feeds)): The EU Commission proposed the Digital Fairness Act on 11 Nov 2026: bans on dark patterns, limits on personalised ads and prices for minors, clear influencer disclosure, the right to switch off addictive features and fines up to 6% of turnover; it now goes to Parliament and Council. In the UK, YouTube declined Ofcom's call to overhaul its recommendation feeds in May, while Ofcom found 73% of 11 to 17 year olds met harmful content in four weeks. Total 1391."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:56",
-   "total": 248
   },
   {
    "date": "2026-11-15 16:57",
@@ -11331,6 +11348,10 @@
   {
    "date": "2026-11-16 05:50",
    "total": 1388
+  },
+  {
+   "date": "2026-11-16 05:51",
+   "total": 1391
   }
  ],
  "next_week_ideas": [
