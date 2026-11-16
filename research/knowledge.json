@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:42:41+05:30",
- "runs": 526,
+ "updated": "2026-11-16T15:43:50+05:30",
+ "runs": 527,
  "branches": [
   {
    "id": "platforms",
@@ -4899,6 +4899,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 524
+    },
+    {
+     "t": "Kids Funny Songs (7.81M subscribers) still gained about 230K subscribers in the 28 days to 16 Nov 2026, and its newest song about learning to ride a bike (13 Nov) drew 62.7K views in its first two and a half days, about 966 views an hour.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 527
+    },
+    {
+     "t": "Kids Funny Songs' all time biggest videos are songs about one everyday moment a toddler meets, such as getting a shot at the doctor (270M), a copycat game (160M) and not playing on a manhole cover (120M), so a single real life moment with a small fear or a game in it beats a general theme.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 527
+    },
+    {
+     "t": "Pinkfong's 3D preschool series Dinolings (a little T rex at Dino School learning numbers, colours and friendship) passed 1M YouTube subscribers and 160M views by May 2026 after its second season lifted views 639% over the first, helped by Netflix top 10 placings in the US, UK, Canada and Australia.",
+     "src": "BSC Kids, May 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 527
     }
    ]
   },
@@ -9659,6 +9680,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 523
+    },
+    {
+     "t": "WildBrain runs six YouTube channels for The Fixies by language: English passed 3M subscribers and 3B views, Spanish 3M subscribers and 1.8B views, and an Arabic channel opened in 2024 already has 45M views, so Spanish deserves a full channel and Arabic is a fast growing extra.",
+     "src": "Senal News, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 527
     }
    ]
   },
@@ -14068,11 +14096,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 447 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:01",
-   "note": "Run 448 (music craft (melody shape: cross cultural children's song study, phrase length, head voice; Suno v6 and Meshy changelog checked and already covered)): A comparison of 70 matched children's and adult songs from 35 regions found children's songs everywhere use fewer scale notes and a narrower range, and singing guides favour a light head voice over chest voice; range, phrase length and downbeat starts were already in the tree. Total 1806."
+   "note": "Earlier runs summarised: all rounds through Run 448 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:03",
@@ -14385,6 +14409,10 @@
   {
    "date": "2026-11-16 15:42",
    "note": "Run 526 (rules and our results (EU AI Act labels, YouTube made for kids rules, Metricool rechecked at 15:50 IST)): EU AI Act labelling (2 Dec deadline) and made for kids rules were already leaves, and Metricool still holds YouTube stats only to 11 Nov and Reels to 15 Nov (Ant Parade still best at 113 views), so no new leaves. Total 1996."
+  },
+  {
+   "date": "2026-11-16 15:43",
+   "note": "Run 527 (YouTube channels (no new Tubefilter chart yet; Kids Funny Songs, Dinolings, The Fixies)): Tubefilter's newest chart is still 8 Nov; new: Kids Funny Songs still gained about 230K subscribers in 28 days and its 13 Nov bike riding song drew 62.7K views in 2.5 days, with its all time hits being everyday moment songs (getting a shot, copycat game, a manhole safety song); Pinkfong's 3D Dinolings passed 1M subscribers after season two lifted views 639%; The Fixies run six language channels with Spanish at 3M subscribers. Total 2000."
   }
  ],
  "history": [
@@ -15471,9 +15499,17 @@
   {
    "date": "2026-11-16 15:42",
    "total": 1996
+  },
+  {
+   "date": "2026-11-16 15:43",
+   "total": 2000
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Wobble Wobble, I Can Ride My Bike",
+   "why": "Kids Funny Songs' bike riding song pulled about 1K views an hour in its first days and its biggest hits are single everyday moment songs; ours shows a Bro wobbling, falling, trying again with a helmet and finally riding, an original song for every country."
+  },
   {
    "title": "Sammy the Sea Lion Says Clap!",
    "why": "Loud, clappy sea lion clips were among 2026's most loved animal videos; a copy me song where an original sea lion barks, claps and hops and the Bros and viewers copy him is a simple worldwide action song with no words needed in the hook."
@@ -15525,10 +15561,6 @@
   {
    "title": "Is It Christmas Yet? (The Waiting Song)",
    "why": "The '5 stages of being...' Reel format is rising (Later, 13 Nov 2026) and every child knows the long wait for Christmas; a funny countdown song with five verses (excited, counting, peeking, sleepy, Christmas morning) gives a long video plus a ready made five stages Reel."
-  },
-  {
-   "title": "Choo Choo, Christmas Train!",
-   "why": "Google's Holiday 100 (9 Nov 2026) shows searches for classic toy train sets up 240%; a cosy Christmas train song where a wooden train picks up friends, presents and a snowman at each stop gives a counting chorus, a 'choo choo' arm move kids copy and an easy long compilation of station verses."
   }
  ],
  "trend_bank": [
