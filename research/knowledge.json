@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T14:42:48+05:30",
- "runs": 522,
+ "updated": "2026-11-16T14:43:38+05:30",
+ "runs": 523,
  "branches": [
   {
    "id": "platforms",
@@ -9617,6 +9617,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 511
+    },
+    {
+     "t": "A Swahili kids cartoon channel (Kids TV Africa, about 711K subscribers, 245M views from 872 videos) drew only about 28K views a day and gained no subscribers from 11 to 24 Oct 2026, so Swahili is a low priority dub for now compared with Spanish, Portuguese or Hindi.",
+     "src": "Social Blade, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 523
+    },
+    {
+     "t": "Omo Berry, a Nigerian made 3D animated learning show with Black child characters and African rooted songs (launched on YouTube Feb 2021), had its biggest audiences in the US and UK ahead of Nigeria, showing that culturally specific kids songs travel through diaspora families in high ad rate countries; an Afrobeats flavoured Bro Bros song can do the same.",
+     "src": "BBC Communique via mirror, 2023",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 523
     }
    ]
   },
@@ -13997,12 +14011,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 10:44",
-   "note": "Earlier runs summarised: all rounds through Run 443 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 10:45",
-   "note": "Run 444 (TRENDS (Christmas toy wishlists: wearable pets, ball runs, butterfly catch; Reels audio lists not updated since 30 Oct)): Hello! magazine's 12 Nov Christmas 2026 toy list adds themes not yet in the tree: a wearable electronic pet that 'bonds' with its child and meets other pets, clear tube ball run sets, and a revived butterfly catching game; weekly Reels audio lists have not been updated since 30 Oct, so no new formats this round. Total 1795."
+   "note": "Earlier runs summarised: all rounds through Run 444 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:52",
@@ -14315,6 +14325,10 @@
   {
    "date": "2026-11-16 14:42",
    "note": "Run 522 (TRENDS (SocialPilot and Later November Reels lists, Christmas and recap formats)): Later's 13 Nov list was already in the tree; new from SocialPilot's 31 Oct to 10 Nov sound list: a bare tree styled in five beat cuts, an overnight holiday decor reveal, colour graded year in review edits, and a duo teaches the dance then the whole class joins format. Added the five cut tree to the trend bank. Total 1986."
+  },
+  {
+   "date": "2026-11-16 14:43",
+   "note": "Run 523 (global markets (East and West Africa kids channels; dubbing news already in the tree)): Auto dubbing and Africa listening habits were already leaves; new: a Swahili kids cartoon channel has 711K subscribers but only about 28K views a day with no subscriber growth in October, and a Nigerian made 3D kids show found its biggest audiences in the US and UK before Nigeria, so African styled songs can earn in rich ad markets through diaspora families. Total 1988."
   }
  ],
  "history": [
@@ -15385,6 +15399,10 @@
   {
    "date": "2026-11-16 14:42",
    "total": 1986
+  },
+  {
+   "date": "2026-11-16 14:43",
+   "total": 1988
   }
  ],
  "next_week_ideas": [
