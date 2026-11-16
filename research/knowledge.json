@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:03:11+05:30",
- "runs": 801,
+ "updated": "2026-11-17T01:03:42+05:30",
+ "runs": 802,
  "branches": [
   {
    "id": "platforms",
@@ -16699,12 +16699,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:40",
-   "note": "Earlier runs summarised: all rounds through Run 722 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:41",
-   "note": "Run 723 (Shorts and Reels (Instagram November feature log)): Metricool's Instagram news log (updated 14 Nov) mostly repeated items in the tree (Features 90 minute videos, series linking removed, AI profile label, 13+ teen setting); new were Replace Audio for published posts and an Edits Trending topics insight limited to 10K+ accounts. Total 2293."
+   "note": "Earlier runs summarised: all rounds through Run 723 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:42",
@@ -17017,6 +17013,10 @@
   {
    "date": "2026-11-17 01:03",
    "note": "Run 801 (competitor deep dive (Bebefinn, Lalafun and its Learning Time channel, BabyBus)): Bebefinn's ballet song and monthly views, Lalafun's May 2026 step up and its Learning Time side channel's verb plus baby helper titles were already in the tree, and BabyBus's vidIQ page had no 2026 data; no new leaves. Total 2372."
+  },
+  {
+   "date": "2026-11-17 01:03",
+   "note": "Run 802 (algorithm experiments and data (trends skipped after an empty trends round; upload timing study, 24/7 stream cases)): AIR's 31,852 video timing study (Kids Friday 16:00 UTC, Wednesday worst) and the 24/7 stream and Q4 live RPM cases were already in the tree; no new leaves. Total 2372."
   }
  ],
  "history": [
@@ -18154,6 +18154,10 @@
   },
   {
    "date": "2026-11-17 00:57",
+   "total": 2372
+  },
+  {
+   "date": "2026-11-17 01:03",
    "total": 2372
   },
   {
