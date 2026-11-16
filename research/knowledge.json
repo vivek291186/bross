@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:47:33+05:30",
- "runs": 423,
+ "updated": "2026-11-16T09:48:36+05:30",
+ "runs": 424,
  "branches": [
   {
    "id": "platforms",
@@ -2680,6 +2680,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 407
+    },
+    {
+     "t": "In the Vania Mania kids network, adding a Portuguese dub as an extra audio track on already successful videos (rather than new uploads) brought nearly 5M extra views in about six months, so our best English songs should get a Portuguese and Spanish audio track first.",
+     "src": "air.io, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 424
+    },
+    {
+     "t": "The same network's French channel grew Suggested traffic 42% (21.2M to 30.1M a quarter), views 37% and revenue 60% in Q4 2025 after warm, single focus thumbnails, hook first titles and one change at a time to old videos' metadata.",
+     "src": "air.io, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 424
+    },
+    {
+     "t": "AIR advises uploading the highest quality master file possible (it mentions files up to 256GB) because YouTube's TV placement favours sharp, high bitrate video, so we should export our Blender renders at the best quality and not upload compressed copies.",
+     "src": "air.io, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 424
+    },
+    {
+     "t": "Vania Mania's live channel went from 3.1M to 11.4M views in a quarter as Suggested traffic rose 351% while uploads grew only from 32 to 42, showing that live and looping streams are mainly fed by Suggested, not search or subscribers.",
+     "src": "air.io, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 424
     }
    ]
   },
@@ -12212,10 +12240,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 05:58",
-   "note": "Run 344 (global markets (Egypt and Ukraine)): Egypt's top YouTube list (Nov 2026) is led by Kids Diana's Arabic channel (30.9M) and a family song and story channel, Osratouna TV (21.8M), with Marah TV (14.2M) and many family comedy channels; no plain nursery rhyme channel ranks. In Ukraine (Detector Media, Aug 2025) the No. 2 kids channel is a home grown Ukrainian song channel (614M views) and half the top 20 are in Ukrainian, while the 3D song brand Sandy the Sticker ranks No. 9 in English. Total 1420."
-  },
-  {
    "date": "2026-11-16 05:59",
    "note": "Run 345 (competitor deep dive (Little Angel and Friends, Little Angel Playtime)): Little Angel's side channels are sliding: Little Angel and Friends (7.3M) drew about 26M views in October and a new Wheels on the Bus vehicle song got about 3.7K views in 10 hours; Little Angel Playtime (3.24M) fell from 10.5M monthly views in August to 4.9M in October, and its newest 'eye tests are not scary' song had under 1K views in 11 hours. Both channels' all time hits are 2021 to 2022 songs about bedtime monsters, boo boos, water safety and helping parents. Total 1423."
   },
@@ -12530,6 +12554,10 @@
   {
    "date": "2026-11-16 09:47",
    "note": "Run 423 (TRENDS (word of the year slang check; weekly Reels lists unchanged)): This week's Reels trend lists (SocialPilot to 10 Nov, Inmagic 16 Nov) hold no format the tree lacks. Collins named 'mogging' (outshining someone) its 2026 word of the year on 3 Nov; Gen Alpha uses it jokingly but it comes from appearance ranking slang, so we keep it out of our songs. Also removed a run 414 leaf on numbered cliffhanger stories that repeated an older leaf. Total 1731."
+  },
+  {
+   "date": "2026-11-16 09:48",
+   "note": "Run 424 (algorithm experiments and data (AIR kids network cases; most were already in the tree)): Most AIR kids case studies were already in the tree; new details from the Vania Mania network case (Q4 2025): adding a Portuguese dub as an extra audio track on its best videos brought nearly 5M extra views in six months, its French channel's Suggested traffic rose 42% after thumbnail and metadata fixes, and AIR advises uploading the highest quality master files for TV placement. Total 1735."
   }
  ],
  "history": [
@@ -13204,6 +13232,10 @@
   {
    "date": "2026-11-16 09:47",
    "total": 1731
+  },
+  {
+   "date": "2026-11-16 09:48",
+   "total": 1735
   }
  ],
  "next_week_ideas": [
