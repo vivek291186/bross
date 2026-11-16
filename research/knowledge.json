@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:50:01+05:30",
- "runs": 682,
+ "updated": "2026-11-16T21:51:14+05:30",
+ "runs": 683,
  "branches": [
   {
    "id": "platforms",
@@ -12158,6 +12158,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 671
+    },
+    {
+     "t": "Commentary on YouTube's 2026 reused and repetitive content enforcement names a music channel risk pattern: long playlists of similar AI songs with static visuals and no intro or human touch, so Bro Bros compilations must keep full animation, varied songs and a short spoken or sung welcome.",
+     "src": "milx.app, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 683
+    },
+    {
+     "t": "If a channel is flagged for repetitive or low effort content, the advice is to stop uploading, document the flagged videos and send one clear appeal; reviews take about three to six weeks and recovery depends on visible change across the next five to ten uploads.",
+     "src": "milx.app, Jan 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 683
+    },
+    {
+     "t": "As of late October 2026 YouTube Kids still had no parent switch to hide AI made videos and no documented AI label; the only firm control is 'approve content yourself', so being on parents' approved lists through clearly human crafted, branded quality is a real distribution advantage.",
+     "src": "kidsaitools.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 683
     }
    ]
   },
@@ -15846,11 +15867,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 603 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:03",
-   "note": "Run 604 (music craft (singing to babies trial)): A Yale and Auckland randomised trial of 110 families found that nudging parents to sing more lifted babies' mood (about 0.18 standard deviations, still there a week later), and the effect came from parents singing, not recorded music, which argues for Bro Bros sing along versions that get parents singing. Total 2094."
+   "note": "Earlier runs summarised: all rounds through Run 604 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:03",
@@ -16163,6 +16180,10 @@
   {
    "date": "2026-11-16 21:50",
    "note": "Run 682 (TRENDS (SocialPilot Reels and TikTok lists, Thanksgiving, school dance offs)): SocialPilot's latest Reels and TikTok lists (to 10 Nov), Thanksgiving searches and school dance challenge searches only returned trends already in the bank (Dame Hombro, costume loading, Christmas switch, gratitude tablecloth, holiday countdowns); no new leaves. Tubefilter's week of 15 Nov chart is still not out. Total 2250."
+  },
+  {
+   "date": "2026-11-16 21:51",
+   "note": "Run 683 (rules and safety (AI music channel risk signals, YouTube Kids AI status)): Policy searches (Dublin summit, Disney COPPA order, AI labels, Fairplay) mostly repeated the tree. New: guidance on YouTube's reused content enforcement names long playlists of similar AI songs with static visuals and no intro as a demonetisation risk pattern for music channels, and appeals take about three to six weeks with recovery judged over the next five to ten uploads. Total 2253."
   }
  ],
  "history": [
@@ -16829,6 +16850,10 @@
   {
    "date": "2026-11-16 21:50",
    "total": 2250
+  },
+  {
+   "date": "2026-11-16 21:51",
+   "total": 2253
   }
  ],
  "next_week_ideas": [
