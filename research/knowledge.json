@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:50:54+05:30",
- "runs": 535,
+ "updated": "2026-11-16T15:56:53+05:30",
+ "runs": 536,
  "branches": [
   {
    "id": "platforms",
@@ -4934,6 +4934,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 527
+    },
+    {
+     "t": "Zoobees, a nursery rhyme channel launched in March 2023, got all five of its biggest videos (Wheels on the Bus 23.6M, Finger Family 9.8M, Johny Johny 5M) within its first two months, but now sits at 179K subscribers and about 1M views a month, so the 2023 window when a new channel could ride classic rhyme remakes has closed.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 536
+    },
+    {
+     "t": "Zoobees posted a Christmas song (five little elves playing peekaboo with Santa) on 12 Nov 2026 and it drew only about 1.9K views in its first two and a half days, showing that small rhyme channels are already in the Christmas lane by mid November but a generic seasonal rhyme alone does not break through.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 536
+    },
+    {
+     "t": "A Zoobees safety remix, 'Wheels on the Ambulance', reached 4.3M views as one of its top five, a sign that putting a familiar tune on a rescue vehicle with a safety message travels better than plain rhyme covers; our own version should be an original tune about a helper vehicle, not a cover.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 536
     }
    ]
   },
@@ -14208,11 +14229,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 456 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:09",
-   "note": "Run 457 (other platforms (Yoto best sellers; algorithm and Shorts skipped as covered)): Yoto's Canadian best seller list (mid November 2026) is 16 story collections and only 4 music cards (KPop Demon Hunters 4th, Disney Hits, Sing with Raffi, Frozen songs), with blank 'make your own' cards at number 2, so on audio players stories outsell songs and parents like to load their own audio. Total 1823."
+   "note": "Earlier runs summarised: all rounds through Run 457 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:10",
@@ -14525,6 +14542,10 @@
   {
    "date": "2026-11-16 15:50",
    "note": "Run 535 (global markets (Poland and the Arab world)): A home grown Polish kids song channel (2.61M subscribers) still pulls about 46M views a month with silly original songs about a watermelon, a pug and a little chicken, while Moonbug's Arabic hub (909K subscribers) gets only about 1.7M views a month, so local language channels with their own songs beat a big brand's general dubbed hub. Total 2016."
+  },
+  {
+   "date": "2026-11-16 15:56",
+   "note": "Run 536 (competitor deep dive (Zoobees, a 2023 born nursery rhyme channel; Bounce Patrol and Kiboomers already in the tree)): Zoobees, started in March 2023, got all five of its biggest videos (up to 23.6M views) in its first two months and now gets only about 1M views a month with 179K subscribers; its 12 Nov Christmas elves peekaboo song had 1.9K views in over two days, so classic rhyme remakes no longer lift a new channel the way they did in 2023. Total 2019."
   }
  ],
  "history": [
@@ -15647,6 +15668,10 @@
   {
    "date": "2026-11-16 15:50",
    "total": 2016
+  },
+  {
+   "date": "2026-11-16 15:56",
+   "total": 2019
   }
  ],
  "next_week_ideas": [
