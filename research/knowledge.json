@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:05:17+05:30",
- "runs": 451,
+ "updated": "2026-11-16T11:05:49+05:30",
+ "runs": 452,
  "branches": [
   {
    "id": "platforms",
@@ -4493,6 +4493,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 443
+    },
+    {
+     "t": "Mother Goose Club (9.89M subscribers, 12B views, 1,742 videos) gained zero subscribers in the 28 days to 31 Oct 2026 and only about 10K in its best 2026 month, while views drifted between about 19M and 25M a month, and vidIQ models it at about 27K USD a month: another veteran rhyme brand coasting on its catalogue.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 452
+    },
+    {
+     "t": "Mother Goose Club's newest upload, a 'BOO-tiful Songs' Halloween compilation posted 29 Oct 2026, had only about 9.9K views two days later, and its recent top videos are 'song plus more' compilations (ABC, Baby Shark, phonics) of 1.6M to 4.4M views, so a seasonal compilation from an old brand no longer gets a launch push and fresh characters are what the feed rewards.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 452
     }
    ]
   },
@@ -12773,11 +12787,7 @@
  "log": [
   {
    "date": "2026-11-16 07:58",
-   "note": "Earlier runs summarised: 2 rounds, Run 371 (YouTube channels (our Metricool data still unchange... through Run 372 (TRENDS (Google Holiday 100: toy trains up 240%, Sec..."
-  },
-  {
-   "date": "2026-11-16 08:00",
-   "note": "Run 373 (topics and seasons (algorithm skipped, nothing new; 2027 Toy of the Year finalists)): The algorithm focus brought nothing new beyond run 361, so this round looked at what kids want this season. The 2027 Toy of the Year finalists (7 Nov) put K-pop, space and galaxy adventures, toys that come alive, transforming robots and surprise or blind box reveals at the centre of kids' play, all themes we can serve with original characters and songs. Total 1553."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Run 371 (YouTube channels... through Run 373 (topics and seasons (algorithm skipped, nothing new;..."
   },
   {
    "date": "2026-11-16 08:01",
@@ -13090,6 +13100,10 @@
   {
    "date": "2026-11-16 11:05",
    "note": "Run 451 (global markets (Polish and Italian dub channels)): Dub channels for Poland and Italy are small: LooLoo's Polish channel has about 200K subscribers and fell from 1.8M to 0.8M monthly views between July and October 2026 (vidIQ models about 200 USD), and CoComelon Italiano has about 1.2M subscribers with October Shorts at 3K to 10K views; LooLoo Polish's top videos are 30 to 40 minute 'ants go marching' compilations, the same marching ants theme as our best Reel this week. Total 1811."
+  },
+  {
+   "date": "2026-11-16 11:05",
+   "note": "Run 452 (competitor deep dive (Mother Goose Club)): Mother Goose Club, a veteran nursery rhyme brand with 9.89M subscribers and 12B views, gained almost no subscribers in 2026 and holds at about 19M to 25M views a month; its newest upload, a Halloween compilation, had under 10K views after two days, the same stall seen at Dave and Ava, so legacy rhyme catalogues are coasting and leave room for fresh character brands. Total 1813."
   }
  ],
  "history": [
@@ -13876,6 +13890,10 @@
   {
    "date": "2026-11-16 11:05",
    "total": 1811
+  },
+  {
+   "date": "2026-11-16 11:05",
+   "total": 1813
   }
  ],
  "next_week_ideas": [
