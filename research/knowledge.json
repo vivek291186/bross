@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:05:46+05:30",
- "runs": 609,
+ "updated": "2026-11-16T17:06:23+05:30",
+ "runs": 610,
  "branches": [
   {
    "id": "platforms",
@@ -11458,6 +11458,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 574
+    },
+    {
+     "t": "AIR's report on YouTube's 'Growing Up in the Digital Age' summit (Dublin, 11 Mar 2026) says kids creators will increasingly be judged on whether the whole channel is coherent and age appropriate, not just each video, and that broad 'kids and family' channels should define a target age more precisely, so Bro Bros should keep a clear core age (about 2 to 7) and keep potty humour, scary themes or older kid jokes mild and consistent with it.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 610
     }
    ]
   },
@@ -14782,11 +14789,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 530 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 15:48",
-   "note": "Run 531 (TRENDS (Spanish, Portuguese and Indonesian language kids dance searches)): English trend lists were exhausted for this hour, so this round searched other languages; new: the Mexican 'kangaroo dance' (side to side steps and small hops to a cumbia classic) jumped to school groups in South Korea and Japan, showing that a simple hop and sway group dance travels across cultures. Added as an evergreen trend bank move. Total 2008."
+   "note": "Earlier runs summarised: all rounds through Run 531 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 15:49",
@@ -15099,13 +15102,13 @@
   {
    "date": "2026-11-16 17:05",
    "note": "Run 609 (TRENDS (Kapwing's December 2025 list as a guide to this December)): Kapwing's December 2025 list mainly holds teen or adult audio trends (a 3 Dec sweater photo song about a crush, club and pop dances) plus the classic Christmas pop sounds and the 'say the word on the beat' game already in the tree, so nothing kid usable is new. Total 2098."
+  },
+  {
+   "date": "2026-11-16 17:06",
+   "note": "Run 610 (rules (kids quality standards from YouTube's Dublin summit)): One new point from AIR's report on YouTube's March 2026 Dublin safety summit: channels will be judged on whether the whole channel is coherent and age appropriate, not video by video, so mixing older child humour with toddler songs needs care. Total 2099."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:10",
-   "total": 1305
-  },
   {
    "date": "2026-11-16 04:11",
    "total": 1308
@@ -16301,6 +16304,10 @@
   {
    "date": "2026-11-16 17:05",
    "total": 2098
+  },
+  {
+   "date": "2026-11-16 17:06",
+   "total": 2099
   }
  ],
  "next_week_ideas": [
