@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:50:10+05:30",
- "runs": 729,
+ "updated": "2026-11-16T22:50:46+05:30",
+ "runs": 730,
  "branches": [
   {
    "id": "platforms",
@@ -16203,11 +16203,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 650 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:39",
-   "note": "Run 651 (Shorts and Reels (Edits for Mac, short video research review)): Most Reels and Shorts feature news was already in the tree. New: Instagram's Edits app reached Mac on 5 Nov 2026 (earlier than the December plan we had noted) with watermark free 4K export, custom LUTs and fonts and direct Trial Reels publishing, and a 2026 Bayreuth review of 42 studies links only intensive, unstructured short video scrolling (4 hours a day or more) with weaker attention, which supports positioning our Shorts as part of structured family routines. Total 2173."
+   "note": "Earlier runs summarised: all rounds through Run 651 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:42",
@@ -16520,6 +16516,10 @@
   {
    "date": "2026-11-16 22:50",
    "note": "Run 729 (competitor deep dive (Hey Bear Sensory and Bounce Patrol recheck)): Bounce Patrol's latest uploads were already in the tree; new for Hey Bear are steeply falling views per upload (61M, then 17M, then 5.4M per batch of 10) alongside a steady 51M monthly views from old long dancing fruit parties. Total 2301."
+  },
+  {
+   "date": "2026-11-16 22:50",
+   "note": "Run 730 (algorithm experiments (dubbing retention and Shorts length studies; trends skipped after an empty trends round)): AIR's auto dub against pro dub retention data, YouTube's auto dubbing figures and the Shorts length studies (Adobe, Quso, Bytecap, Overseer) were all already in the tree; no new leaves. Total 2301."
   }
  ],
  "history": [
@@ -17370,6 +17370,10 @@
   {
    "date": "2026-11-16 22:49",
    "total": 2299
+  },
+  {
+   "date": "2026-11-16 22:50",
+   "total": 2301
   },
   {
    "date": "2026-11-16 22:50",
