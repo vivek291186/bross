@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:53:26+05:30",
- "runs": 583,
+ "updated": "2026-11-16T16:53:53+05:30",
+ "runs": 584,
  "branches": [
   {
    "id": "platforms",
@@ -5032,6 +5032,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 575
+    },
+    {
+     "t": "Cocobi's Spanish channel (3.2M subscribers, 3.5B views) jumped from about 89M views in September 2026 to about 215M in October and gained 70K subscribers, and its all time top videos are 'where is...?' mysteries ('Where is the T-Rex's tail?' 21M, 'Where is my cookie?' 16.9M) plus safety songs set in one place (the amusement park 18.4M, the supermarket 18.1M).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 584
+    },
+    {
+     "t": "Cocobi's newest Spanish upload (14 Nov 2026) is 'Police dog to the rescue! Catch the thief!', so a fourth big brand (after a German movement channel, an Arabic song channel and our own Reels) is betting on the missing item or chase hook; a 'Where is ...?' title with one lost object is now our safest mystery format across languages.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 584
     }
    ]
   },
@@ -14635,11 +14649,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 504 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 13:03",
-   "note": "Run 505 (YouTube experiments and data (24/7 streams, AIR case studies, upload time studies; all already in the tree)): Rechecked AIR's kids channel case studies (DONA English and Heidi dan Zidane streams, Sandy the Sticker's 16 automated streams, the 7.55M channel that cut long form and doubled Shorts for +33.6% revenue) and 2026 posting time studies; all were already leaves, so no new leaves. Total 1944."
+   "note": "Earlier runs summarised: all rounds through Run 505 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 13:37",
@@ -14952,13 +14962,13 @@
   {
    "date": "2026-11-16 16:53",
    "note": "Run 583 (global markets (Spanish and Vietnamese song channels)): On LooLoo Kids' Spanish channel the biggest hits after a farm animals medley are two 'who breaks the piñata?' party songs (79M and 43M), so a piñata song fits Mexican birthdays and the 16 to 24 Dec posadas; Vietnam's Táo TV data was too old to use. Total 2077."
+  },
+  {
+   "date": "2026-11-16 16:53",
+   "note": "Run 584 (competitor deep dive (Cocobi Spanish)): Cocobi's Spanish channel more than doubled to about 215M views in October 2026 (+70K subscribers); its top videos are 'where is...?' mysteries (the T-Rex's tail 21M, my cookie 17M) and place based safety songs, and its newest upload is a police dog catching a thief, the same chase and missing snack hooks seen across markets. Total 2079."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 03:38",
-   "total": 1225
-  },
   {
    "date": "2026-11-16 03:39",
    "total": 1229
@@ -16154,6 +16164,10 @@
   {
    "date": "2026-11-16 16:53",
    "total": 2077
+  },
+  {
+   "date": "2026-11-16 16:53",
+   "total": 2079
   }
  ],
  "next_week_ideas": [
