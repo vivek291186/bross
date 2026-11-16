@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:49:39+05:30",
- "runs": 389,
+ "updated": "2026-11-16T08:50:54+05:30",
+ "runs": 390,
  "branches": [
   {
    "id": "platforms",
@@ -11416,6 +11416,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 387
+    },
+    {
+     "t": "Instagram's Add Yours 'Monthly Dump' template lets people post a collage of the month's photos, and a 'November dump' wave returns each year around 30 Nov and 1 Dec; Bro Bros can post a carousel or 10 second Reel of the month's best dance frames with one line per song.",
+     "src": "Kontan, Dec 2022",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 390
+    },
+    {
+     "t": "Parents on TikTok share gentler alternatives to the spying Christmas elf, such as a tiny hard working elf who moves into a little house on 1 December and only fills the Advent calendar (one video over 300K views); an original Bro Bros tiny helper elf of our own design who brings one kind surprise a day fits our Advent series without the trademarked toy.",
+     "src": "Motherly, Dec 2024",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 390
+    },
+    {
+     "t": "Turkey shaped food boards are one of NewEngen's 13 Nov 2026 TikTok trends ahead of US Thanksgiving (26 Nov); a kid version is a counting Short where the Bros build a turkey from fruit pieces, one colour per beat, ending with a 'thank you' song line.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 390
     }
    ]
   }
@@ -11444,10 +11465,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 04:11",
-   "note": "Run 311 (monetisation (Shorts pay by country, how music splits the Shorts pool)): AIR's country Shorts RPMs show the spread: about 0.33 USD per 1,000 views in the US, 0.17 in the UK and Germany, 0.10 in France, 0.045 in Brazil, 0.012 in Indonesia and 0.008 in India. In the Shorts pool, one licensed music track sends 50% of a Short's allocation to music partners and two tracks send 67%, so Shorts with our own unlicensed original music keep the full creator share. Total 1308."
   },
   {
    "date": "2026-11-16 04:36",
@@ -11760,13 +11777,13 @@
   {
    "date": "2026-11-16 08:49",
    "note": "Run 389 (visual craft (Christmas thumbnails, calm packaging in a dubbed kids network)): Kittl's Christmas thumbnail guide adds practical rules (three or four words, cut out the subject, soft glow or vignette for depth, no crowded layouts, check it at phone size) and AIR's Q4 2025 Vania Mania case shows calm, warm, single focus thumbnails and curiosity plus keyword titles alongside +37% views and +60% revenue on its French channel; a YouTube bug once deleted that network's dubbed audio tracks. Total 1621."
+  },
+  {
+   "date": "2026-11-16 08:50",
+   "note": "Run 390 (TRENDS (few new formats this week; monthly dump, a gentle elf helper, turkey food builds)): This week's trend lists (NewEngen 13 Nov, Inmagic 16 Nov) add little beyond what the tree already holds, so the trend bank stays current; new seasonal angles are the end of month 'dump' collage on Instagram, parents' wish for a gentle elf ritual that does not spy on kids, and turkey shaped food builds for US Thanksgiving. Total 1624."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:55",
-   "total": 467
-  },
   {
    "date": "2026-11-15 18:56",
    "total": 470
@@ -12962,6 +12979,10 @@
   {
    "date": "2026-11-16 08:49",
    "total": 1621
+  },
+  {
+   "date": "2026-11-16 08:50",
+   "total": 1624
   }
  ],
  "next_week_ideas": [
@@ -13099,7 +13120,7 @@
    "name": "Advent door countdown",
    "where": "YouTube (Advent calendar videos about 280M views in Nov 2025, Google 2026 report)",
    "status": "seasonal",
-   "use": "A daily Short from 1 Dec (teaser in late Nov): the Bros open one numbered door on a giant Advent calendar, a surprise inside (a jingle bell, a snowflake, a dance move) and they do that move to the same 10 second hook of our countdown song, saying the number aloud. Meshy prompt: standing, reach forward and pull open a door, then jump with both arms up."
+   "use": "A daily Short from 1 Dec (teaser in late Nov): the Bros open one numbered door on a giant Advent calendar and our own tiny helper elf (original design, kind, never spying) pops out with a surprise inside, a toy, a snack, a dance move or a kind deed, each with its own 15 second song line, ending 'See you tomorrow!'."
   },
   {
    "name": "Christmas workshop stream",
