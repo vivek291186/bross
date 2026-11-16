@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:39:09+05:30",
- "runs": 673,
+ "updated": "2026-11-16T20:39:49+05:30",
+ "runs": 674,
  "branches": [
   {
    "id": "platforms",
@@ -15670,12 +15670,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:58",
-   "note": "Earlier runs summarised: all rounds through Run 594 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:59",
-   "note": "Run 595 (global markets (Japanese nursery song channels)): Japan's Utamap channel (365K subscribers, 1.08B views, about 10M views a month) wins with finger play songs (a 'tonton, Mr Beard' hand game 67M, a sweet potato rock paper scissors finger play 38M), a seated hands only format we have not used yet. Total 2086."
+   "note": "Earlier runs summarised: all rounds through Run 595 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:59",
@@ -15988,6 +15984,10 @@
   {
    "date": "2026-11-16 20:39",
    "note": "Run 673 (TRENDS (NewEngen 13 Nov, SocialPilot, B&T, Know Your Meme, Wrapped recheck)): Every trend found this round (slow motion entrances, Chipmunks trio routine, Dame Hombro, costume loading, runway walks, gratitude tablecloth, eerie polar bear meme) was already in the trend bank or rejected earlier; Spotify still has not confirmed the Wrapped 2026 date (expected Wednesday 2 Dec), so no new leaves. Total 2225."
+  },
+  {
+   "date": "2026-11-16 20:39",
+   "note": "Run 674 (YouTube algorithm (custom feeds, Reels ranking, subscriber feed recheck)): Searches on November algorithm changes (prompt built custom feeds, Ask YouTube, original Shorts boost, Suggested beating the Subscriptions feed, Instagram's Your Algorithm) only returned findings already in the tree, so no new leaves. Total 2225."
   }
  ],
  "history": [
@@ -16613,6 +16613,10 @@
   },
   {
    "date": "2026-11-16 20:37",
+   "total": 2225
+  },
+  {
+   "date": "2026-11-16 20:39",
    "total": 2225
   },
   {
