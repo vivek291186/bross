@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:36:11+05:30",
- "runs": 781,
+ "updated": "2026-11-17T00:37:30+05:30",
+ "runs": 782,
  "branches": [
   {
    "id": "platforms",
@@ -3205,6 +3205,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 770
+    },
+    {
+     "t": "Since 12 Nov 2026 YouTube Studio can cut a vertical Short from any long video by picking timestamps or highlighting transcript lines, auto reframing 16:9 to vertical and adding styled captions, with AI picked stand alone moments in India, the US, the UK and seven other countries; for Bro Bros this is a fast way to pull a chorus Short from each long song, though our own vertical render still looks better.",
+     "src": "searchenginejournal.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 782
+    },
+    {
+     "t": "Shorts made with the Clips tool automatically link back to their long video as the related video, but SEJ reports this link is not added when the Short is set as made for kids, while YouTube's general related video help lists only advanced features and a public video as conditions; so after every Bro Bros Short upload we must check that the tappable link to the full song actually shows and add it by hand if missing.",
+     "src": "searchenginejournal.com and support.google.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 782
+    },
+    {
+     "t": "AIR's month by month log of 2026 algorithm changes (updated 4 Nov) lists no recommendation change aimed at made for kids content from September to mid November; the newest shifts were the 1 Oct Shorts originality preference, custom Home feeds and Ask YouTube, so our Shorts must stay clearly original renders rather than reposted clips.",
+     "src": "air.io, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 782
     }
    ]
   },
@@ -16517,12 +16538,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:03",
-   "note": "Earlier runs summarised: all rounds through Run 702 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:04",
-   "note": "Run 703 (topics and seasons (family play and toy themes; trends skipped after an empty trends round)): DreamToys and Circana toy themes were already in the tree; new from The Insights Family (11 Nov 2026): children's weekend play with toys and games is up 10% on last year and one in five parents of 3 to 9 year olds buy toys for playing together as a family, which backs family play songs for the holidays. Total 2275."
+   "note": "Earlier runs summarised: all rounds through Run 703 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:04",
@@ -16835,6 +16852,10 @@
   {
    "date": "2026-11-17 00:36",
    "note": "Run 781 (TRENDS (NewEngen 16 Nov TikTok list, Volume carousel data, Lightreel Instagram report)): New this week: Volume's carousel data shows posts pinned to one exact age reach about 12 times usual (best family case 52 times) and one photo reused across slides 43 times, so an age pinned Bro Bros carousel joins the trend bank; NewEngen adds numbered animated adventure parts; most other formats (chipmunk trio dance, fan wipe, slow motion entrances) were already in the tree. Total 2346."
+  },
+  {
+   "date": "2026-11-17 00:37",
+   "note": "Run 782 (YouTube algorithm (Studio Clips to Shorts, related video links, November feature news)): New: since 12 Nov Studio's Clips tool cuts vertical Shorts from long videos by transcript or timestamps with AI picks in India and the US, but reportedly does not auto add the related video link on made for kids Shorts, so every Short's link to its full song must be checked by hand; AIR confirms no kids specific algorithm change since September. Total 2349."
   }
  ],
  "history": [
@@ -17897,6 +17918,10 @@
   {
    "date": "2026-11-17 00:36",
    "total": 2346
+  },
+  {
+   "date": "2026-11-17 00:37",
+   "total": 2349
   }
  ],
  "next_week_ideas": [
