@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:58:25+05:30",
- "runs": 498,
+ "updated": "2026-11-16T12:59:18+05:30",
+ "runs": 499,
  "branches": [
   {
    "id": "platforms",
@@ -13613,11 +13613,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 419 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:44",
-   "note": "Run 420 (TRENDS (Wrapped season dates, TikTok growth chart check, adult pacifier fad skipped)): Official Charts expects Spotify Wrapped 2026 on Wednesday 2 Dec (every Wrapped since 2021 came on a Wednesday), so the 'Bro Bros Wrapped' recap Reel should be ready by 1 Dec; Tokchart's 15 Nov growth chart is still all creator original audio plus one Brazilian funk montage linked to an adult pacifier fad, which we skip. Total 1721."
+   "note": "Earlier runs summarised: all rounds through Run 420 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:45",
@@ -13930,6 +13926,10 @@
   {
    "date": "2026-11-16 12:58",
    "note": "Run 498 (topics and markets (Parrot Analytics global kids demand; visual Christmas thumbnail sources checked first and skipped as generic)): Parrot Analytics found global demand for preschool shows rose about 25% and school age about 21% in a year while TV overall declined, and India made Mighty Little Bheem draws US demand at 76% of its Indian level (Pakistan 75%, Philippines 74%), strong evidence that a kids brand made in India can travel worldwide. Total 1931."
+  },
+  {
+   "date": "2026-11-16 12:59",
+   "note": "Run 499 (TRENDS (SocialPilot Reels audio, weekend dance news, Last Dance animation trend; all already in the tree)): Weekly trend sources have not refreshed since 13 Nov; the 'Last Dance' synced character animation, Dame Hombro shimmy and Christmas countdown sounds were already leaves, so no new leaves; fresh lists are expected around 19 to 20 Nov. Total 1931."
   }
  ],
  "history": [
@@ -14903,6 +14903,10 @@
   },
   {
    "date": "2026-11-16 12:58",
+   "total": 1931
+  },
+  {
+   "date": "2026-11-16 12:59",
    "total": 1931
   }
  ],
