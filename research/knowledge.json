@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:55:30+05:30",
- "runs": 588,
+ "updated": "2026-11-16T16:56:04+05:30",
+ "runs": 589,
  "branches": [
   {
    "id": "platforms",
@@ -2967,6 +2967,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 518
+    },
+    {
+     "t": "vidIQ's study of 32.9M channels under 1,000 subscribers (Sep 2026) found that within a year 30.8% of channels adding 52 or more videos reached 1,000 subscribers, against 8.65% for 12 to 51 videos, 1.86% for 1 to 11 and 0.2% for none; it is a pattern, not proof, but steady volume clearly matters and our 14 songs a week already clears it, so quality and hooks, not volume, are our lever.",
+     "src": "vidIQ Research, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 589
     }
    ]
   },
@@ -11885,6 +11892,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 563
+    },
+    {
+     "t": "vidIQ's July 2026 benchmarks give channels with 1,000 to 9,999 subscribers a median growth of about 0.51% a month (about 13 subscribers); our channel rose from about 2,130 to 2,150 subscribers in roughly a week in mid November, about 1% a week or several times the median, so the channel is growing faster than most of its size even while views per video are small.",
+     "src": "vidIQ Research, Jul 2026, and Metricool (our data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 589
     }
    ]
   },
@@ -14663,11 +14677,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 509 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 13:43",
-   "note": "Run 510 (TRENDS (seasonal: holiday toy lists, Pinterest, holiday calendars; mostly already in the tree)): Toy lists confirm squishy sensory toys are selling out in 2026 and TikTok's holiday calendar keeps the season running from 22 Dec pre Christmas through Boxing Day to New Year sales all January, so winter songs stay useful into late January. Total 1961."
+   "note": "Earlier runs summarised: all rounds through Run 510 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 13:44",
@@ -14980,13 +14990,13 @@
   {
    "date": "2026-11-16 16:55",
    "note": "Run 588 (TRENDS (Latin American and Indonesian family dance check)): No new family dance this week; one usable family format from Mexico: parents who stop sibling fights by making the children take turns dancing, which went viral as a kinder way to handle anger and fits a Bro Bros 'dance it out' feelings song. Total 2081."
+  },
+  {
+   "date": "2026-11-16 16:56",
+   "note": "Run 589 (YouTube algorithm and growth benchmarks (vidIQ 2026 studies)): vidIQ's 2026 studies: channels adding 52+ videos a year reached 1,000 subscribers about 31% of the time versus 9% for 12 to 51 videos, and channels with 1,000 to 9,999 subscribers grow a median 0.51% a month, so our roughly 1% a week puts us well above the median. Total 2083."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 03:45",
-   "total": 1241
-  },
   {
    "date": "2026-11-16 03:46",
    "total": 1245
@@ -16182,6 +16192,10 @@
   {
    "date": "2026-11-16 16:55",
    "total": 2081
+  },
+  {
+   "date": "2026-11-16 16:56",
+   "total": 2083
   }
  ],
  "next_week_ideas": [
