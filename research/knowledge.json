@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:58:42+05:30",
- "runs": 482,
+ "updated": "2026-11-16T11:59:48+05:30",
+ "runs": 483,
  "branches": [
   {
    "id": "platforms",
@@ -10499,6 +10499,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 479
+    },
+    {
+     "t": "Disney's three year deal with OpenAI (announced Dec 2025, usable from 2026, with a 1B dollar investment) licenses more than 200 animated Disney, Pixar, Marvel and Star Wars characters for fan videos inside the Sora app, excluding actors' likeness and voices; that licence covers only that app, so using those characters in Bro Bros videos or Meshy and Blender scenes stays off limits.",
+     "src": "npr.org, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 483
+    },
+    {
+     "t": "With big studios licensing famous characters to AI video apps, short clips of well known characters will keep multiplying in kids feeds, so a small channel's edge is a clearly owned original cast (the two Bros and their friends) with names, personalities and a signature move repeated in every video.",
+     "src": "npr.org, Dec 2025 (our reading)",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 483
     }
    ]
   },
@@ -13298,11 +13312,7 @@
  "log": [
   {
    "date": "2026-11-16 09:00",
-   "note": "Earlier runs summarised: all rounds through Run 403 (global markets (Brazil covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:00",
-   "note": "Run 404 (competitors (CoComelon main channel in 2026, a winter 'VS' race)): CoComelon's main channel (203M subscribers) draws about 1.2B to 1.6B views a month in 2026, down from 2.18B in January, and adds about 1M subscribers every other month; its newest upload is a winter 'JJ VS Cody' ski race rather than a Christmas song, and its biggest hit, 'Humpty Dumpty Grocery Store' (1.57B), resets a classic rhyme in an everyday place. Total 1664."
+   "note": "Earlier runs summarised: all rounds through Run 404 (competitors (CoComelon main channel in 2026, a winter 'VS' race)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:01",
@@ -13615,6 +13625,10 @@
   {
    "date": "2026-11-16 11:58",
    "note": "Run 482 (topics and seasons (planning January and February 2027: Sankranti kites, Lohri bonfires, Lunar New Year of the Goat)): Makar Sankranti falls on Fri 15 Jan 2027 (kite flying, Ahmedabad's kite festival with lamp kites at night) with Lohri bonfires the evening before; Lunar New Year 2027 starts Sat 6 Feb as the Year of the Goat, with the Lantern Festival on 20 Feb, so a goat dance song and a kite song should be ready by early January. Total 1886."
+  },
+  {
+   "date": "2026-11-16 11:59",
+   "note": "Run 483 (rules and industry news (Disney characters licensed to an AI video app; Shorts length studies already covered)): Disney's three year deal (announced Dec 2025, live in 2026) licenses 200+ Disney, Pixar, Marvel and Star Wars animated characters to OpenAI's Sora video app, without actors' likeness or voices, so fans can legally make clips inside that app only; that is no permission for anyone to upload those characters elsewhere, and a flood of licensed character clips raises the bar for original characters like the Bros. Total 1888."
   }
  ],
  "history": [
@@ -14525,6 +14539,10 @@
   {
    "date": "2026-11-16 11:58",
    "total": 1886
+  },
+  {
+   "date": "2026-11-16 11:59",
+   "total": 1888
   }
  ],
  "next_week_ideas": [
