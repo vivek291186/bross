@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:01:46+05:30",
- "runs": 698,
+ "updated": "2026-11-16T22:02:17+05:30",
+ "runs": 699,
  "branches": [
   {
    "id": "platforms",
@@ -16007,11 +16007,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 619 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:10",
-   "note": "Run 620 (competitor deep dive (Bebefinn Japanese)): One new detail on Bebefinn's Japanese channel: its single most viewed video is the English language 'Good Morning' song (21.4M), ahead of the Japanese version (20.2M), so English learning songs travel into the Japanese market on a localised channel. Total 2103."
+   "note": "Earlier runs summarised: all rounds through Run 620 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:11",
@@ -16324,6 +16320,10 @@
   {
    "date": "2026-11-16 22:01",
    "note": "Run 698 (YouTube algorithm (YouTube Kids app and supervised accounts recheck)): YouTube Kids feature searches (MENA and Turkiye supervised kid accounts, Shorts timers, Dublin summit standards) only returned items already in the tree, so no new leaves. Total 2273."
+  },
+  {
+   "date": "2026-11-16 22:02",
+   "note": "Run 699 (Shorts and Reels (Edits app and Mosseri recheck)): Instagram Edits (Mac app 5 Nov, in video links, bilingual captions) and Mosseri's Features and Your Algorithm announcements were all already in the tree; no new leaves. Total 2273."
   }
  ],
  "history": [
@@ -17053,6 +17053,10 @@
   },
   {
    "date": "2026-11-16 22:01",
+   "total": 2273
+  },
+  {
+   "date": "2026-11-16 22:02",
    "total": 2273
   }
  ],
