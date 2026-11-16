@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:47:54+05:30",
- "runs": 573,
+ "updated": "2026-11-16T16:48:25+05:30",
+ "runs": 574,
  "branches": [
   {
    "id": "platforms",
@@ -11318,6 +11318,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 518
+    },
+    {
+     "t": "Malaysia's Child Protection Code under the Online Safety Act 2025 came into force on 1 Jun 2026 and gives platforms with 8M+ Malaysian users (named: Facebook, Instagram, TikTok and YouTube) up to six months, so until about 1 Dec 2026, to verify ages using government ID based records and delete or suspend under 16 accounts, with fines up to RM10 million.",
+     "src": "Lowyat.net / MCMC, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 574
+    },
+    {
+     "t": "Malaysia's rule only blocks under 16s from registering accounts and does not ban children from watching, and YouTube Kids is not named, so from December Malaysian children will mostly watch Bro Bros through a parent's account, the YouTube Kids app or the family TV, another reason our titles, thumbnails and compilations should appeal to parents choosing for their kids.",
+     "src": "own synthesis of Lowyat.net / MCMC, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 574
     }
    ]
   },
@@ -14572,11 +14586,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 494 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 12:54",
-   "note": "Run 495 (Shorts and Reels (Instagram Features and Series details)): Instagram's new long form 'Features' lets up to eight short Reels point to one long horizontal video but shares no ad revenue yet, and the Series profile tab for episodic Reels has been tested since spring in the US, India and Mexico, so Bro Bros can cut eight teaser Reels per compilation and group story songs as a Series when it reaches us. Total 1925."
+   "note": "Earlier runs summarised: all rounds through Run 495 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 12:55",
@@ -14889,13 +14899,13 @@
   {
    "date": "2026-11-16 16:47",
    "note": "Run 573 (TRENDS (body percussion and classroom rhythm games)): No new body percussion craze this week, but the evergreen 'Boom Snap Clap' classroom game (chest tap, finger snap, clap, a 'shh' at the end) gives a ready made rhythm for vocals only Bro Bros edits; added to the trend bank as evergreen. Total 2068."
+  },
+  {
+   "date": "2026-11-16 16:48",
+   "note": "Run 574 (rules and safety (Malaysia and Indonesia under 16 rules)): Malaysia's Child Protection Code (in force 1 Jun 2026) gives Facebook, Instagram, TikTok and YouTube until about 1 Dec 2026 to verify ages with government ID records and close under 16 accounts; it covers account sign up only, not watching, so Malaysian kids will reach us through parents' accounts and TV screens. Total 2070."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 02:38",
-   "total": 1184
-  },
   {
    "date": "2026-11-16 02:39",
    "total": 1189
@@ -16091,6 +16101,10 @@
   {
    "date": "2026-11-16 16:47",
    "total": 2068
+  },
+  {
+   "date": "2026-11-16 16:48",
+   "total": 2070
   }
  ],
  "next_week_ideas": [
