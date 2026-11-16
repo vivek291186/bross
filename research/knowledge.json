@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:47:36+05:30",
- "runs": 632,
+ "updated": "2026-11-16T17:48:29+05:30",
+ "runs": 633,
  "branches": [
   {
    "id": "platforms",
@@ -5123,6 +5123,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 620
+    },
+    {
+     "t": "Kids Diana Show (138M subscribers) drew about 326M views in the 28 days to 14 Nov 2026 with no net subscriber change, and its newest upload, a real cardboard train challenge (12 Nov), had about 152K views in a day and a half, so even the biggest family brands now live on their back catalogue.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 633
+    },
+    {
+     "t": "Kids Diana Show's five most viewed videos ever (420M to 566M each) are all challenge or adventure stories: school bus rules with friends, an escape room, opening 10 doors, a maze to help a baby brother, a cube challenge; a 'what is behind the door' or 'find the way' structure is one of the strongest proven story spines for kids.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 633
+    },
+    {
+     "t": "ChuChu TV's sister channel Jumblikans (5.42M subscribers, 3.3B views, 384 videos) gets only about 50K to 80K views per new upload, such as a 2 minute counting song about ten little supercars and superbikes, so a spin off channel does not inherit the main channel's reach.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 633
     }
    ]
   },
@@ -14957,11 +14978,7 @@
  "log": [
   {
    "date": "2026-11-16 16:11",
-   "note": "Earlier runs summarised: all rounds through Run 553 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:11",
-   "note": "Run 554 (other platforms (Netflix top 10 for 2 to 8 Nov; Shorts and Reels skipped as rechecked at 16:05)): Netflix's 2 to 8 Nov chart was led by the family dog Christmas film already in the tree, with no new kids series, so no new leaves. Total 2037."
+   "note": "Earlier runs summarised: all rounds through Run 554 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:36",
@@ -15274,6 +15291,10 @@
   {
    "date": "2026-11-16 17:47",
    "note": "Run 632 (global markets (Thai song channel revenue, Italian home grown brands)): KidsMeSong in Thailand drew about 40.5M views in 28 days but only about 9K USD estimated monthly revenue, so a Thai dub is for reach not money; Italy's top 100 holds two home grown kids music brands next to dubbed global ones. Total 2123."
+  },
+  {
+   "date": "2026-11-16 17:48",
+   "note": "Run 633 (competitor deep dive (Kids Diana Show, Jumblikans)): Kids Diana Show (138M) still pulls about 326M views a month with flat subscribers, and its five biggest videos ever are all challenge adventures (school bus rules, escape room, 10 doors, maze, cube challenge), which points to a door by door adventure song; ChuChu's sister channel Jumblikans gets only 50K to 80K per new upload. Total 2126."
   }
  ],
  "history": [
@@ -15740,9 +15761,17 @@
   {
    "date": "2026-11-16 17:47",
    "total": 2123
+  },
+  {
+   "date": "2026-11-16 17:48",
+   "total": 2126
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Behind Door Number One! (Ten Doors Adventure Song)",
+   "why": "Kids Diana Show's biggest videos are door, maze and escape adventures (400M to 566M views); Big Bro and Little Bro knock and open ten colourful doors, each hiding an animal sound or a dance move, a counting and surprise loop that dubs into any language."
+  },
   {
    "title": "Squishy Squish! (Squeeze and Bounce Back Song)",
    "why": "Squishy toys are Hamleys' unofficial toy of the year for Christmas 2026; Little Bro and Big Bro squeeze, hold, and slowly pop back up on a slow then fast beat, a sensory pattern that loops well as a Short and works in any language."
@@ -15794,10 +15823,6 @@
   {
    "title": "Make a Face! (Feelings Face Dance)",
    "why": "Face dancing (big expressions on every beat) is spreading across TikTok, Reels and X, and naming feelings is a core preschool skill; a beat by beat happy, surprised, grumpy, silly face game is easy to copy on a sofa and travels without words."
-  },
-  {
-   "title": "Bro Speak! (Secret Clap Language Song)",
-   "why": "GoNoodle, in 88% of US elementary schools, just ran a body percussion 'secret language' campaign (hello, yes, no, goodbye as moves); our own four gesture code (clap clap hello, pat pat yes, shake shake no, wave stomp goodbye) is a classroom friendly call and response song, all standing and in place."
   }
  ],
  "trend_bank": [
