@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:50:48+05:30",
- "runs": 426,
+ "updated": "2026-11-16T09:51:55+05:30",
+ "runs": 427,
  "branches": [
   {
    "id": "platforms",
@@ -4353,6 +4353,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 422
+    },
+    {
+     "t": "Toys and Colors' 2025 holiday plan was a 22 minute 'Elf Academy' special (premiered 21 Nov on its own kids streaming app, then Hulu on 27 Nov) plus a new holiday single and guest appearances by other creators, so a single longer holiday special is how big YouTube kids brands mark Christmas.",
+     "src": "senalnews.com, Nov 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 427
+    },
+    {
+     "t": "That holiday single was released on a multi creator 'Holiday Hits Snow Day Soundtrack' distributed to Spotify, Amazon Music and Apple Music, so kids brands now push their Christmas songs to audio streaming as well as YouTube; a small Bro Bros Christmas EP fits the same pattern.",
+     "src": "senalnews.com, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 427
     }
    ]
   },
@@ -9701,6 +9715,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 418
+    },
+    {
+     "t": "AIR says it accepts YouTube Kids app review requests from channels with at least 1,500 subscribers and has helped over 200 channels in, which means our channel (about 2,140 subscribers) is already past the size a partner needs before asking for a Kids app review.",
+     "src": "air.io, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 427
     }
    ]
   },
@@ -12258,8 +12279,8 @@
      "run": 426
     },
     {
-     "t": "Indonesian kids widely joined the 'flip the camera' challenge (a phone flip transition that turns the frame upside down to reveal a new scene), a simple camera rotation we can reproduce in Blender with a 180 degree roll to swap scenes, for example from autumn leaves to snow.",
-     "src": "medcom.id, 2026",
+     "t": "Indonesian kids have joined the 'flip the camera' challenge (a phone flip transition that turns the frame upside down to reveal a new scene), a simple camera rotation we can reproduce in Blender with a 180 degree roll to swap scenes, for example from autumn leaves to snow.",
+     "src": "medcom.id (headline only, date unclear)",
      "conf": "low",
      "date": "2026-11-16",
      "run": 426
@@ -12288,10 +12309,6 @@
   "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
  ],
  "log": [
-  {
-   "date": "2026-11-16 06:01",
-   "note": "Run 347 (rules and safety (Brazil's channel rules for under 16s, AI slop crackdown recap)): Since 17 Mar 2026 YouTube in Brazil requires every under 16 channel to be linked to a supervising guardian, rolled out machine learning age estimation there, and a draft decree would make platforms ask for a court order before monetising content made by minors. The inauthentic content line stays clear: mass produced, template clones are high risk, human directed AI assisted work is low risk. Total 1429."
-  },
   {
    "date": "2026-11-16 06:02",
    "note": "Run 348 (Shorts (AI remix of other creators' Shorts, AI likeness Shorts)): YouTube has been testing 'Add object' and 'Reimagine' in the Shorts Remix menu since Feb 2026, letting a small English speaking group (not EU or UK) turn a frame of someone else's Short into a new AI video, with a link back to the original; opting out in Studio also removes normal remixes like Green Screen. YouTube also plans AI likeness Shorts with labels and creator controls. Total 1432."
@@ -12607,6 +12624,10 @@
   {
    "date": "2026-11-16 09:50",
    "note": "Run 426 (TRENDS (Indonesia's 'December's D is...?' word game; eastern Indonesian songs; Tubefilter week chart not yet out)): Indonesia's 'Desember D-nya apa?' trend (early Dec 2025: answer what December's D stands for with a D word) is likely to return in two weeks and works as an alphabet game in many languages, so it went into the trend bank; songs from eastern Indonesia led the country's 2026 TikTok sounds (four tracks about 443M estimated streams). Total 1742."
+  },
+  {
+   "date": "2026-11-16 09:51",
+   "note": "Run 427 (YouTube and YouTube Kids channels (holiday playbook of Toys and Colors; Kids app entry threshold)): Tubefilter's chart for the week of 15 Nov is not out yet. Toys and Colors' holiday playbook last year was a 22 minute 'Elf Academy' special, a holiday single placed on a multi creator 'Snow Day' soundtrack on Spotify, Amazon Music and Apple Music, and creator guest spots; AIR says it accepts YouTube Kids app review requests from channels with 1,500+ subscribers, a bar our channel (about 2,140) already clears. Total 1745."
   }
  ],
  "history": [
@@ -13293,6 +13314,10 @@
   {
    "date": "2026-11-16 09:50",
    "total": 1742
+  },
+  {
+   "date": "2026-11-16 09:51",
+   "total": 1745
   }
  ],
  "next_week_ideas": [
