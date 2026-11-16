@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:05:45+05:30",
- "runs": 706,
+ "updated": "2026-11-16T22:06:30+05:30",
+ "runs": 707,
  "branches": [
   {
    "id": "platforms",
@@ -12312,6 +12312,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 695
+    },
+    {
+     "t": "A third party policy blog (AI drafted, not confirmed by YouTube) claims that from April 2026 YouTube widened Limited Ads mode to family friendly videos that are not strictly child directed, with contextual ads only and RPM between full ads and made for kids; if true, an older kids or family Bro Bros line would still earn less than general content, so treat this as unverified.",
+     "src": "auditsocials.com, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 707
     }
    ]
   },
@@ -16042,11 +16049,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 627 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:38",
-   "note": "Run 628 (TRENDS (Chipmunks trio routine and Lucia Day)): The Chipmunks trio routine (October 2026, biggest clips past 20M plays) has a simple standing structure we can copy without its audio, and AI animal trio versions (kittens in tutus, 5.7M plays) show animated animal trios doing it travel well; Saint Lucia Day (13 Dec) added as a Nordic seasonal hook. Total 2112."
+   "note": "Earlier runs summarised: all rounds through Run 628 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:39",
@@ -16359,6 +16362,10 @@
   {
    "date": "2026-11-16 22:05",
    "note": "Run 706 (algorithm experiments (24/7 streams recheck; trends skipped after an empty trends round)): 24/7 live stream case searches (Heidi and Zidane, DONA English, Gyre) were already in the tree and the one new case (a DIY channel, 2025) is not kids content; no new leaves. Total 2278."
+  },
+  {
+   "date": "2026-11-16 22:06",
+   "note": "Run 707 (rules and safety (made for kids ad rules recheck)): The COPPA compliance deadline FAQ (22 Apr 2026) is already in the tree. One unverified, AI drafted third party article claims YouTube widened Limited Ads mode in April 2026 to family friendly content that is not strictly for children; logged as low confidence until YouTube confirms it. Total 2279."
   }
  ],
  "history": [
@@ -17121,6 +17128,10 @@
   {
    "date": "2026-11-16 22:05",
    "total": 2278
+  },
+  {
+   "date": "2026-11-16 22:06",
+   "total": 2279
   }
  ],
  "next_week_ideas": [
