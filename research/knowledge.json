@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:52:59+05:30",
- "runs": 445,
+ "updated": "2026-11-16T10:59:14+05:30",
+ "runs": 446,
  "branches": [
   {
    "id": "platforms",
@@ -7615,6 +7615,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 425
+    },
+    {
+     "t": "In Russia and many former Soviet countries the decorated tree, the gifts and the visit of Grandfather Frost with his granddaughter the Snow Maiden belong to New Year's Eve (31 Dec), a mostly non religious family night, while Orthodox Christmas comes on 7 Jan, so for Russian speaking kids a New Year tree and gifts song lands better than a Santa Christmas song.",
+     "src": "rferl.org, Dec 2018",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 446
+    },
+    {
+     "t": "In Japan New Year (Oshogatsu, 1 Jan) is the main family holiday: children receive otoshidama gifts of money in decorated envelopes, kites are a classic New Year symbol, and a pounded rice cake decoration is displayed and later shared, so a New Year kite flying and 'first day of the year' song suits Japanese families better than Christmas.",
+     "src": "japansociety.org.uk, undated",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 446
+    },
+    {
+     "t": "Because the end of year 'big night' differs by market (Christmas Eve or Day in the West and Philippines, New Year's Eve in Russia and much of Eastern Europe, 1 Jan in Japan, Lunar New Year on 6 Feb 2027 in China and Vietnam), a 'Happy New Year around the world' song with a tree, a kite and a lantern verse reaches more countries than one more Christmas song.",
+     "src": "rferl.org and japansociety.org.uk",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 446
     }
    ]
   },
@@ -12675,11 +12696,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 366 (TRENDS (China's flash step folk dance, seasonal pla..."
-  },
-  {
-   "date": "2026-11-16 07:50",
-   "note": "Run 367 (global markets (BabyBus in Japan and Vietnam, Japan's kids song chart, Nigeria's YouTube boom)): BabyBus's local channels show the size of single language markets: about 104M views a month in Japanese and 92M in Vietnamese, but subscriber gains have slowed to about 20K a month in both, so views come from the catalogue and recommendations rather than new fans. Japan's kids song chart is led by anime themes and NHK show songs, and Nigeria's YouTube watch time grew over 50% in a year with views up 80%, an English speaking market that needs no dub. Total 1525."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 367 (global markets (BabyBus in Japan and Vietnam, Japan..."
   },
   {
    "date": "2026-11-16 07:56",
@@ -12992,6 +13009,10 @@
   {
    "date": "2026-11-16 10:52",
    "note": "Run 445 (other platforms (free streaming services for kids; YouTube algorithm and Reels features checked first and already fully covered)): YouTube algorithm news since October (Shorts originality, custom feeds, YPP 2027, Shorts series, Reels features) is all already in the tree; new is Tubi's 2026 'cartoon era', in which the free ad supported service is gathering classic kids shows dropped by paid services (Sesame Street's first 38 seasons, classic Cartoon Network series) into a Family Shows lineup. Total 1797."
+  },
+  {
+   "date": "2026-11-16 10:59",
+   "note": "Run 446 (topics and seasons (New Year as the main winter holiday in Russia and Japan; Shorts and Reels skipped as fully covered)): For Russian speaking families the tree, gifts and Grandfather Frost with the Snow Maiden belong to New Year's Eve on 31 Dec (Orthodox Christmas is 7 Jan), and in Japan New Year is the family holiday with otoshidama gift envelopes for children and kites, so a New Year tree, gift and kite song travels further than a Santa song in those markets. Total 1800."
   }
  ],
  "history": [
@@ -13754,6 +13775,10 @@
   {
    "date": "2026-11-16 10:52",
    "total": 1797
+  },
+  {
+   "date": "2026-11-16 10:59",
+   "total": 1800
   }
  ],
  "next_week_ideas": [
@@ -13802,16 +13827,16 @@
    "why": "Google's Holiday 100 (9 Nov 2026) shows searches for classic toy train sets up 240%; a cosy Christmas train song where a wooden train picks up friends, presents and a snowman at each stop gives a counting chorus, a 'choo choo' arm move kids copy and an easy long compilation of station verses."
   },
   {
-   "title": "Where's Little Bro? (Hide and Seek Song)",
-   "why": "CoComelon's 11 to 25 second 'find the hidden character' Shorts are a repeatable interactive format; each verse he hides behind a new prop (tree, box, snowman) and kids shout the answer, works without words in any country."
-  },
-  {
    "title": "Open the Door! (Advent Countdown Song)",
    "why": "Advent calendar videos peak in November on YouTube (about 280M views in Nov 2025, Google 2026 report); one song with a number in every verse and a daily door reveal can run as 24 Shorts from 1 Dec, counting practice for kids worldwide."
   },
   {
    "title": "Jump, Jump, Happy New Year!",
    "why": "New Year countdown songs peak in the last week of December worldwide; a jump on each number from 10 to 1 then a big cheer is a standing, in place party move any family can copy at midnight or at a daytime kids countdown."
+  },
+  {
+   "title": "Happy New Year, Everyone! (New Year Around the World)",
+   "why": "New Year is the biggest winter family night for Russian speaking kids (tree and gifts on 31 Dec) and the main holiday in Japan (gift envelopes and kites on 1 Jan); one song with a tree, kite and lantern verse and a 10 to 1 jump countdown serves every market at once."
   }
  ],
  "trend_bank": [
