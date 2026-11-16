@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:54:35+05:30",
- "runs": 772,
+ "updated": "2026-11-16T23:55:13+05:30",
+ "runs": 773,
  "branches": [
   {
    "id": "platforms",
@@ -8497,6 +8497,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 762
+    },
+    {
+     "t": "YouTube announced on 23 Sep 2026 a Studio storytelling assistant that reads a script or rough cut, compares it with what has worked on the channel, suggests pacing and structure changes, and lets creators test up to three edited versions of the same video at once and retire the weaker ones; once it reaches us we can test the first 10 seconds of a song (dance hook first versus story intro first) on real viewers instead of guessing.",
+     "src": "The Decoder, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 773
     }
    ]
   },
@@ -16472,10 +16479,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 21:59",
-   "note": "Run 694 (algorithm experiments and data (title formulas, Netflix creator ranks, upload timing; trends skipped after an empty trends round)): vidIQ's 2026 title formula study, the H1 2026 YouTube creators on Netflix ranking and AIR's kids upload timing and case pages were all already in the tree; no new leaves. Total 2266."
-  },
-  {
    "date": "2026-11-16 22:00",
    "note": "Run 695 (rules and safety (Australia under 16 account data)): eSafety's survey of 898 Australian parents (Jan to Feb 2026) found the share of 8 to 15 year olds with a YouTube account fell from about 37% to 18% after the under 16 rules, while logged out viewing stayed allowed; RPM and AI policy searches repeated the tree. Total 2268."
   },
@@ -16786,6 +16789,10 @@
   {
    "date": "2026-11-16 23:54",
    "note": "Run 772 (TRENDS (Instagram trending audio lists)): SocialBee's 11 Nov Instagram audio (November photo dumps, Christmas wish list lists) and older Reels lists were already in the tree; no new leaves, trend bank unchanged. Total 2339."
+  },
+  {
+   "date": "2026-11-16 23:55",
+   "note": "Run 773 (visual craft (music skipped after an empty music round; Studio AI tools, stimulation)): Dynamic thumbnails and high stimulation concerns were already in the tree; new: YouTube's Sep 2026 Studio storytelling assistant reviews a channel's past hits to suggest pacing changes and can test up to three edited cuts of one video, dropping the weaker ones. Total 2340."
   }
  ],
  "history": [
@@ -17812,6 +17819,10 @@
   {
    "date": "2026-11-16 23:54",
    "total": 2339
+  },
+  {
+   "date": "2026-11-16 23:55",
+   "total": 2340
   }
  ],
  "next_week_ideas": [
