@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:48:46+05:30",
- "runs": 763,
+ "updated": "2026-11-16T23:49:27+05:30",
+ "runs": 764,
  "branches": [
   {
    "id": "platforms",
@@ -5585,6 +5585,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 756
+    },
+    {
+     "t": "Indonesian kids song channel NANANA KIDS (316K subscribers, 11,591 videos, mostly remixes and compilations) slid from about 3.2M monthly views in Feb 2026 to about 170K in Oct 2026 and gained no subscribers in the last 28 days, another sign that bulk compilation channels without fresh characters or stories are losing reach in 2026.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 764
     }
    ]
   },
@@ -11087,6 +11094,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 740
+    },
+    {
+     "t": "Kenya's 'Uli and Tata's African Nursery Rhymes' (on YouTube since Oct 2024, also on free TV channel Akili Kids with a cited audience of about 5M children) follows a brother and sister guided by a giant singing bird to find nursery rhymes across Africa, sung in English, French, Swahili, Gikuyu and Luhya and set in real places; a sibling quest that visits a new country per song is a proven frame for our two brothers to travel with original songs.",
+     "src": "Culture Custodian, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 764
+    },
+    {
+     "t": "The Uli and Tata team visits communities to research each song and setting so the show avoids stereotypes, which is the standard we should keep for any Bro Bros song set in a real country: real foods, clothes, instruments and places checked against reliable sources, never jokes about accents.",
+     "src": "Culture Custodian, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 764
     }
    ]
   },
@@ -16374,10 +16395,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 21:53",
-   "note": "Run 685 (YouTube main and Kids (vidIQ US top 100 on 14 Nov; trends skipped after an empty trends round)): Tubefilter's week of 15 Nov chart is still not published and the AIR and CreatorDB growth reports were already in the tree. vidIQ's US top 100 on 14 Nov 2026 has about 34 kids and family channels, with three nursery rhyme brands in the top 20 (CoComelon 2, Pinkfong 11, LooLoo 18) and a twin brothers channel (Lucas and Marcus, 37.2M) at 64. Total 2258."
-  },
-  {
    "date": "2026-11-16 21:54",
    "note": "Run 686 (YouTube algorithm (October to November change log recheck)): AIR's month by month algorithm log (updated 4 Nov) and the Beaupre subscriber click interview only repeated items already in the tree (original Shorts boost 1 Oct, custom Home feeds 22 Oct, 30 day spam cleanup test 29 Oct, eight impression cap); no November ranking change has been reported, so no new leaves. Total 2258."
   },
@@ -16688,6 +16705,10 @@
   {
    "date": "2026-11-16 23:48",
    "note": "Run 763 (topics and seasons (trends skipped after an empty trends round; Christmas toys, holiday films, December days)): The Entertainer, DreamToys and Toy of the Year lists, holiday family films (Hexed, Angry Birds 3, The Man with the Bag), December festival dates and Indian style Christmas remixes were already in the tree; no new leaves. Total 2325."
+  },
+  {
+   "date": "2026-11-16 23:49",
+   "note": "Run 764 (global markets (Kenya and Indonesia kids music channels)): Kenya's Uli and Tata's African Nursery Rhymes (a brother and sister guided by a singing bird, songs in five languages) shows a sibling quest format travelling across Africa; Indonesia's NANANA KIDS (11,591 uploads) fell from about 3.2M monthly views in Feb 2026 to about 170K in Oct, more proof that bulk compilations are fading. Total 2328."
   }
  ],
  "history": [
@@ -17678,6 +17699,10 @@
   {
    "date": "2026-11-16 23:48",
    "total": 2325
+  },
+  {
+   "date": "2026-11-16 23:49",
+   "total": 2328
   }
  ],
  "next_week_ideas": [
