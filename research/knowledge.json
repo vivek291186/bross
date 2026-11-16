@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:53:01+05:30",
- "runs": 793,
+ "updated": "2026-11-17T00:53:39+05:30",
+ "runs": 794,
  "branches": [
   {
    "id": "platforms",
@@ -3233,6 +3233,13 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 782
+    },
+    {
+     "t": "On 17 Feb 2026 YouTube's recommendation layer failed for about two hours (over 340K outage reports): Home and Up Next went generic while search, playback and uploads kept working, so search ranked older videos held their views and new uploads lost their crucial first hours; a kids channel that lives almost entirely on Browse and Suggested should also build search titled evergreen songs (bath time song, brushing teeth song) as a steadier base.",
+     "src": "outlierkit.com, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 794
     }
    ]
   },
@@ -16657,12 +16664,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:10",
-   "note": "Earlier runs summarised: all rounds through Run 714 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:36",
-   "note": "Run 715 (TRENDS (mid November lists, Know Your Meme, holiday dance searches)): SocialPilot, NewEngen, Know Your Meme, Daily Dot and holiday challenge searches surfaced only trends already in the bank (Peanuts holiday dance, cute little X, Winter Vibes, out of breath, Last Dance) or adult and couple trends we skip; no new leaves. Total 2280."
+   "note": "Earlier runs summarised: all rounds through Run 715 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:37",
@@ -16975,6 +16978,10 @@
   {
    "date": "2026-11-17 00:53",
    "note": "Run 793 (TRENDS (sound newsletters, Daily Dot Gen Alpha, rising sounds)): Daily Dot's Gen Alpha tag had nothing newer than January 2026 and most sound newsletter formats (walking in, handshake, slow motion) were already in the tree or not kid suitable; new: a side by side 'size difference' format that maps onto a big and small opposites Short. Total 2366."
+  },
+  {
+   "date": "2026-11-17 00:53",
+   "note": "Run 794 (YouTube algorithm (recommendation outage lessons, YouTube Kids app, Home feed shifts)): Home feed row cuts, satisfaction ranking and the teen Shorts timers were already in the tree; new: the Feb 2026 two hour recommendation outage showed search ranked evergreen videos keep their views when Browse and Suggested fail. Total 2367."
   }
  ],
  "history": [
@@ -18085,6 +18092,10 @@
   {
    "date": "2026-11-17 00:53",
    "total": 2366
+  },
+  {
+   "date": "2026-11-17 00:53",
+   "total": 2367
   }
  ],
  "next_week_ideas": [
