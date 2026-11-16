@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:36:44+05:30",
- "runs": 437,
+ "updated": "2026-11-16T10:38:43+05:30",
+ "runs": 438,
  "branches": [
   {
    "id": "platforms",
@@ -12487,6 +12487,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 435
+    },
+    {
+     "t": "Face dancing, where creators 'dance' only with exaggerated facial expressions and lip sync on each beat, has spread from TikTok and Reels to X by August 2026 and its biggest clips get millions of views; it is goofy and harmless, and our version is a funny face on every beat song, which needs Blender shape keys because Meshy clips have no facial animation.",
+     "src": "knowyourmeme.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 438
+    },
+    {
+     "t": "Viral meme roundups from mid 2026 (a dance set to a dark film breakdown scene, a prison kettle ranking meme, a mob scene AI edit) show many big dance memes come from grown up film clips, so each new dance trend must be traced to its source before we copy the move.",
+     "src": "knowyourmeme.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 438
+    },
+    {
+     "t": "No December 2026 social trend roundups had been published by 16 Nov; brand holiday guides only list TikTok shopping dates (Black Friday weekend, Cyber Monday, pre Christmas 22 to 24 Dec), so our December plan should still be built from evergreen holiday formats already in the trend bank.",
+     "src": "ignitesocialmedia.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 438
     }
    ]
   }
@@ -12514,11 +12535,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Run 356 (global markets (... through Run 358 (rules and safety (AI content on YouTube Kids, Q4 ad..."
-  },
-  {
-   "date": "2026-11-16 07:38",
-   "note": "Run 359 (YouTube main channels (our Metricool data unchanged so skipped; Blippi's November challenge Shorts, Junior Squad's early Christmas)): Metricool still shows no new YouTube stats after 11 Nov, so this round studied channel movers instead. Blippi's best November Shorts are timed challenges and games (a rocket build in 45 seconds at 130K, red light green light at 198K), its 2 hour compilations still outperform, and a Doggyland dance collab came in below average. Junior Squad (5.45M subs) gets only about 3K views per new video but started Christmas Shorts on 6 Nov. Total 1479."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 359 (YouTube main channels (our Metricool data unchanged..."
   },
   {
    "date": "2026-11-16 07:40",
@@ -12831,6 +12848,10 @@
   {
    "date": "2026-11-16 10:36",
    "note": "Run 437 (visual craft (2027 colour forecasts; thumbnails, Blender and preschool styles checked and already covered)): The 2027 colour of the year picks announced since September 2026 converge on calm soft greens (Dulux Soulful Sage, Sherwin-Williams Celery, Benjamin Moore green), while WGSN's 2027 palette pairs Luminous Blue with Energy Orange and a playful Pop Pink, which backs our blue and orange thumbnails and suggests sage sets for calm and bedtime songs. Total 1774."
+  },
+  {
+   "date": "2026-11-16 10:38",
+   "note": "Run 438 (TRENDS (face dancing; weekly Reels and TikTok lists rechecked, no new kid safe formats)): Later's 13 Nov Reels roundup and the November TikTok lists hold no new family formats beyond our trend bank; the one fresh kid safe find is face dancing (exaggerated faces and lip sync on each beat), still spreading across TikTok, Reels and X since August 2026, which went into the trend bank as a funny face beat game. Total 1777."
   }
  ],
  "history": [
@@ -13561,9 +13582,17 @@
   {
    "date": "2026-11-16 10:36",
    "total": 1774
+  },
+  {
+   "date": "2026-11-16 10:38",
+   "total": 1777
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Make a Face! (Feelings Face Dance)",
+   "why": "Face dancing (big expressions on every beat) is spreading across TikTok, Reels and X, and naming feelings is a core preschool skill; a beat by beat happy, surprised, grumpy, silly face game is easy to copy on a sofa and travels without words."
+  },
   {
    "title": "Bro Speak! (Secret Clap Language Song)",
    "why": "GoNoodle, in 88% of US elementary schools, just ran a body percussion 'secret language' campaign (hello, yes, no, goodbye as moves); our own four gesture code (clap clap hello, pat pat yes, shake shake no, wave stomp goodbye) is a classroom friendly call and response song, all standing and in place."
@@ -13615,13 +13644,15 @@
   {
    "title": "Open the Door! (Advent Countdown Song)",
    "why": "Advent calendar videos peak in November on YouTube (about 280M views in Nov 2025, Google 2026 report); one song with a number in every verse and a daily door reveal can run as 24 Shorts from 1 Dec, counting practice for kids worldwide."
-  },
-  {
-   "title": "Jump, Jump, Happy New Year!",
-   "why": "Parents look for early 'fake midnight' countdowns every 31 Dec; a counting song from 10 to 1 with a jump on each number and world New Year actions (12 grapes, seven waves, right foot first) lets toddlers worldwide celebrate before bedtime."
   }
  ],
  "trend_bank": [
+  {
+   "name": "Funny face beat game",
+   "where": "TikTok, Reels and X (face dancing: exaggerated faces and lip sync on each beat, viral since Aug 2026, millions of views on top clips)",
+   "status": "rising",
+   "use": "A 20 second Short of an original 'Make a Face!' song: each beat the singer calls a feeling (happy, surprised, grumpy, silly) and Big Bro and Little Bro snap into that face in a close up, then freeze; last beat both pull the silliest face and fall into giggles. Kids copy the faces at home. Bodies stay standing with small head tilts (Meshy prompt: standing in place, small head bob and shoulder shrug on the beat); faces are keyed with Blender shape keys."
+  },
   {
    "name": "My name is... character relay",
    "where": "TikTok evergreen (groups of four lip sync a kids song where each character sings its own line with one signature move; a D Billions version reached 8.3M likes)",
@@ -13705,12 +13736,6 @@
    "where": "TikTok ('my boyfriend's always dancing', B&T 2 Nov 2026), rising",
    "status": "rising",
    "use": "A 15 second Short with a caption 'My brother is ALWAYS dancing': four quick clips of Big Bro bursting into the same silly move to our own song in everyday places (brushing teeth, supermarket queue, bus stop, bedtime), Little Bro rolling his eyes then joining in the last clip. Step for Meshy: standing in place, bounce knees, swing both arms side to side twice, then wiggle hips and point up."
-  },
-  {
-   "name": "Drawing vs real bounce",
-   "where": "TikTok (AI vs handmade bounce, SocialPilot Nov 2026), rising",
-   "status": "rising",
-   "use": "Split screen Reel: left half a flat crayon drawing of the Bro Bros, right half the 3D brothers; both bounce on every beat of our own song, then the drawing comes alive and steps into the 3D side. Step for Meshy: standing in place, small knee bounces on the beat with hands on hips, a head tilt left and right."
   },
   {
    "name": "It's time! Christmas switch",
