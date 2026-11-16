@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:02:54+05:30",
- "runs": 744,
+ "updated": "2026-11-16T23:03:21+05:30",
+ "runs": 745,
  "branches": [
   {
    "id": "platforms",
@@ -16280,11 +16280,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 665 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 20:06",
-   "note": "Run 666 (visual craft (characters on packaging eye tracking; Christmas thumbnail recheck)): Christmas thumbnail advice and the Oxford Brookes toddler eye tracking work were already leaves. New: an eye tracking study of 149 children aged 6 to 9 found products showing cartoon characters drew more looking time, most of all among younger boys and children who liked the character, while choices still followed taste, which supports always putting the recognisable Bros faces on thumbnails while the topic itself still has to appeal. Total 2211."
+   "note": "Earlier runs summarised: all rounds through Run 666 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 20:06",
@@ -16597,6 +16593,10 @@
   {
    "date": "2026-11-16 23:02",
    "note": "Run 744 (YouTube main and Kids (Netflix Jr, Super Simple 20th; our results skipped as unchanged)): Netflix Jr (26.6M subs) now posts daily Doozie's Doghouse clips with wheel spin and hide and seek game hooks that promote its Netflix Playground games app; Super Simple's 20th anniversary facts were already in the tree. Total 2312."
+  },
+  {
+   "date": "2026-11-16 23:03",
+   "note": "Run 745 (YouTube algorithm (YouTube Kids app parent controls; trends skipped after an empty trends round)): YouTube Kids feature searches returned only older controls (collections, approved content only, search off rosters) already in the tree; no new leaves. Total 2312."
   }
  ],
  "history": [
@@ -17510,6 +17510,10 @@
   },
   {
    "date": "2026-11-16 23:02",
+   "total": 2312
+  },
+  {
+   "date": "2026-11-16 23:03",
    "total": 2312
   }
  ],
