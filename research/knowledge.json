@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:41:09+05:30",
- "runs": 356,
+ "updated": "2026-11-16T06:42:42+05:30",
+ "runs": 357,
  "branches": [
   {
    "id": "platforms",
@@ -3646,6 +3646,34 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 345
+    },
+    {
+     "t": "Super Simple Songs' uploads from late August to mid October 2026 were mostly 'Top 20' themed mixes (about 0.8 to 1.2M views each) and two 'Super Simple Live!' Halloween streams, while a single party song, 'Everybody Celebrate' (27 Aug), reached 6M, the clear outlier; a celebration song for any party day can outperform themed compilations.",
+     "src": "VidAnalyze, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 357
+    },
+    {
+     "t": "Pinkfong launched Kikipuppup (with Japan's TBS) on YouTube first, in English, Japanese and Korean, as about 3 minute slapstick episodes with a cat, a dog and a grumpy rival, and is rolling out a wordless comedy (SEALOOK) in Russia, so the biggest song brand is adding short, dialogue light comedy that travels without dubbing.",
+     "src": "The Pinkfong Company, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 357
+    },
+    {
+     "t": "Pinkfong keeps refreshing Baby Shark through partner remixes: a 'Do The Shark' remix in Doggyland's style, a Baby Shark and Peppa Pig mash up for the song's 10th anniversary (26 Dec 2025), and a Bebefinn medley with the London Symphony Orchestra; a hit song can be re released many times in new styles.",
+     "src": "Pinkfong newsletter, 2025 to 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 357
+    },
+    {
+     "t": "The Blocks Universe (Numberblocks, Alphablocks) launched its first Christmas single, 'Making Christmas Magical' with K-pop group FIFTY FIFTY, as two videos of the same song a week apart (a live action dance video on 28 Nov, the animated video on 5 Dec) plus a printables hub, a model for getting two premieres out of one holiday song.",
+     "src": "Blocks Universe, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 357
     }
    ]
   },
@@ -10333,10 +10361,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 02:41",
-   "note": "Run 278 (YouTube algorithm (Ask YouTube age gate, repeat recommendation limits, Subs tab move)): Ask YouTube, the conversational AI search, is limited to signed in US users aged 13+ and excludes supervised accounts and signed out viewers, so kids find songs through classic search and Home. YouTube's discovery lead says the same upload can be shown to one viewer many times without a click (one was recommended 19 times), and the 22 Oct US app redesign moved Subscriptions into a top bar 'Subs' tab with custom feeds limited to signed in English US users. Total 1201."
-  },
-  {
    "date": "2026-11-16 02:42",
    "note": "Run 279 (Shorts and Reels (Reels retention curves and skip rate benchmarks, how fast Reels collect views)): No Reels ranking change has been confirmed since August 2026 (SocialPilot). New this round: Instagram's per Reel retention curve and 3 second skip rate panels (Reels with 100+ plays, about 48 hours to fill) with one analyst's benchmarks of under 20% skip and 70%+ three second retention as strong, plus Socialinsider's Nov 2026 update showing most Reel views come in the first 5 days and plateau around day 20. Total 1205."
   },
@@ -10647,13 +10671,13 @@
   {
    "date": "2026-11-16 06:41",
    "note": "Run 356 (global markets (Brazil's TIC Kids Online 2025 survey)): Brazil's national kids survey (published May 2026) shows 60% of online 9 to 17 year olds go online through the TV every day, phone ownership among 9 to 10 year olds fell from 67% to 55% in a year, and 28% first went online by age 6, so Brazil's younger kids increasingly watch on the family TV, which favours Portuguese audio tracks and long form compilations. Total 1462."
+  },
+  {
+   "date": "2026-11-16 06:42",
+   "note": "Run 357 (competitor deep dive (Super Simple's autumn uploads, Pinkfong's new formats, Blocks Universe Christmas single)): Super Simple's autumn feed is weekly Top 20 mixes near 1M views plus two Halloween live streams, with a party song ('Everybody Celebrate', 6M) as the outlier. Pinkfong is spreading past songs into 3 minute slapstick episodes (Kikipuppup, YouTube first in English, Japanese and Korean) and remixes its hit with other channels (Doggyland) and an orchestra, while the Blocks Universe released one Christmas song as a live action dance video and, a week later, an animated video. Total 1466."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:08",
-   "total": 332
-  },
   {
    "date": "2026-11-15 17:08",
    "total": 337
@@ -11849,6 +11873,10 @@
   {
    "date": "2026-11-16 06:41",
    "total": 1462
+  },
+  {
+   "date": "2026-11-16 06:42",
+   "total": 1466
   }
  ],
  "next_week_ideas": [
