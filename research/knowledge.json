@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:37:45+05:30",
- "runs": 717,
+ "updated": "2026-11-16T22:38:42+05:30",
+ "runs": 718,
  "branches": [
   {
    "id": "platforms",
@@ -3135,6 +3135,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 675
+    },
+    {
+     "t": "A vendor test of 500 Shorts (250 auto frames against 250 custom text thumbnails) found custom thumbnails made no difference in the Shorts feed but lifted click rate on Home and Browse (about +140%) and in search (about +85% with readable text), so Bro Bros Shorts need a strong first frame for the feed plus a custom cover for search and the channel page.",
+     "src": "Joyspace A/B test, Dec 2025 (vendor data, no baselines)",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 718
     }
    ]
   },
@@ -16098,11 +16105,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 638 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 18:00",
-   "note": "Run 639 (other platforms (PBS Kids, Amazon Kids+, streamer reports recheck)): Searches on PBS Kids, Amazon Kids+ and 2026 streamer reports returned only general trend overviews without data or pages that could not be opened, and World Children's Day and World Hello Day were already leaves, so no new leaves; run ends here because the tree is saturated for today's sources. Total 2140."
+   "note": "Earlier runs summarised: all rounds through Run 639 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 18:39",
@@ -16415,6 +16418,10 @@
   {
    "date": "2026-11-16 22:37",
    "note": "Run 717 (competitor deep dive (The Kiboomers; Dave and Ava stats unavailable)): The Kiboomers (4.05M subs, 4.6B views) built its catalog on freeze and game songs but its 2026 compilations average only about 115K views, showing new singles matter more than repackaging; its titles list actions plus a learning benefit. Total 2286."
+  },
+  {
+   "date": "2026-11-16 22:38",
+   "note": "Run 718 (algorithm experiments (Shorts thumbnail A/B test; trends skipped after an empty trends round)): AIR's WOA Song Spanish and Vania Mania cases were already in the tree; one vendor test of 500 Shorts says custom covers help only on Home, Browse and search, not in the Shorts feed (low confidence). Total 2287."
   }
  ],
  "history": [
@@ -17221,6 +17228,10 @@
   {
    "date": "2026-11-16 22:37",
    "total": 2286
+  },
+  {
+   "date": "2026-11-16 22:38",
+   "total": 2287
   }
  ],
  "next_week_ideas": [
