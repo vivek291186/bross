@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T14:38:28+05:30",
- "runs": 518,
+ "updated": "2026-11-16T14:40:03+05:30",
+ "runs": 519,
  "branches": [
   {
    "id": "platforms",
@@ -13887,6 +13887,41 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 513
+    },
+    {
+     "t": "The 'Shoulder Carry' trend is at peak on ViralRemix's 13 Nov 2026 TikTok chart: two people, one rides on the other's shoulders, then a cut and they swap places, an easy big brother, little brother gag for Bro Bros (big Bro carries little Bro, then the impossible swap on the beat).",
+     "src": "ViralRemix TikTok chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 519
+    },
+    {
+     "t": "A duo routine on the same chart (past peak but still copied) is simple enough for kids: both partners step back from each other, slap hands in a high five, do one kick, then freeze in a pose, a ready made 4 move Bro Bros friendship dance.",
+     "src": "ViralRemix TikTok chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 519
+    },
+    {
+     "t": "NewEngen's 13 Nov 2026 list shows animated, narrated survival stories told in numbered parts, each ending on a cliffhanger; the kid safe Bro Bros version is a cosy 'Snowed In Part 1, 2, 3' adventure (lost mitten, frozen pond, snowman rescue) with a short song chorus at the end of each part.",
+     "src": "NewEngen TikTok trends, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 519
+    },
+    {
+     "t": "Seasonal AI photo templates at peak in mid November 2026 include a baby riding a little reindeer down a snowy Christmas street and a Santa nice list frame with a child's photo, so animated Bro Bros clips of the brothers riding our own original reindeer through a snowy town fit what parents are sharing now.",
+     "src": "ViralRemix TikTok chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 519
+    },
+    {
+     "t": "Rising on the 13 Nov 2026 chart: a 'floatie' template where a person sits on a giant pink flamingo pool float and pushes off toward the edge of a rooftop pool, a warm weather idea for Southern Hemisphere December clips (the Bros on a flamingo float gliding along to a summer holiday song).",
+     "src": "ViralRemix TikTok chart, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 519
     }
    ]
   }
@@ -13913,12 +13948,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 10:39",
-   "note": "Earlier runs summarised: all rounds through Run 439 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 10:41",
-   "note": "Run 440 (competitor deep dive (Dave and Ava; Bebefinn and Little Angel Playtime rechecked, already in the tree)): Dave and Ava, an older 3D nursery rhyme brand, has 15.9M subscribers but gained none from June to October 2026 and holds at about 45M to 55M views a month, with Halloween songs as its all time top videos and its newest upload a plain classic rhyme (30K views in 2 days), a picture of a big catalogue channel that stopped growing. Total 1785."
+   "note": "Earlier runs summarised: all rounds through Run 440 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:42",
@@ -14231,6 +14262,10 @@
   {
    "date": "2026-11-16 14:38",
    "note": "Run 518 (Shorts and Reels trends and algorithm (November news check)): Most November platform news was already in the tree; new: YouTube says creators below the Shorts pool line will get trend activation boosts and shopping bonuses, Reels posting grew 35% while Reels views grew under 2% (more competition per Reel), Meta ranks Facebook Reels partly by in feed 'does this match your interests' surveys, and YouTube is testing AI answers on top of search. Total 1974."
+  },
+  {
+   "date": "2026-11-16 14:40",
+   "note": "Run 519 (TRENDS (ViralRemix 13 Nov chart and NewEngen list, new family duo formats)): Most chart trends were already leaves; new family safe formats: the Shoulder Carry swap (one rides on the other's shoulders, then they switch), the back away, high five, kick and pose duo routine, numbered cliffhanger animated survival stories, the AI baby riding a reindeer down a snowy street, and the rising flamingo float push off. Added two duo dances to the trend bank. Total 1979."
   }
  ],
  "history": [
@@ -15285,6 +15320,10 @@
   {
    "date": "2026-11-16 14:38",
    "total": 1974
+  },
+  {
+   "date": "2026-11-16 14:40",
+   "total": 1979
   }
  ],
  "next_week_ideas": [
@@ -15346,6 +15385,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Shoulder ride swap",
+   "where": "TikTok (Shoulder Carry trend, peak on 13 Nov 2026 chart)",
+   "status": "peak",
+   "use": "An 8 second Short to our own bouncy brothers song: big Bro stands with little Bro sitting on his shoulders, both wave both arms side to side on the beat; on the drop a hard cut and now little Bro is the one carrying big Bro (silly impossible swap), both do a big surprised face and two arm pumps up. Meshy prompt for each: standing in place, sway both raised arms left and right, then pump both fists up twice."
+  },
+  {
+   "name": "Back away high five",
+   "where": "TikTok duo routine (13 Nov 2026 chart)",
+   "status": "rising",
+   "use": "A 6 second loop to our own friendship song: the two Bros face each other, each takes one step back, they clap a big high five in the middle, each does one small front kick, then both freeze in a pose (one hand on hip, other hand pointing at camera) and it loops. Meshy prompt: standing, step back one step, clap hands forward at chest height, small front kick with right leg, then pose with left hand on hip and right hand pointing forward."
+  },
   {
    "name": "Ranking countdown 5 to 1",
    "where": "YouTube Shorts (US weekly chart)",
@@ -15453,18 +15504,6 @@
    "where": "TikTok, Reels and X (face dancing: exaggerated faces and lip sync on each beat, viral since Aug 2026, millions of views on top clips)",
    "status": "rising",
    "use": "A 20 second Short of an original 'Make a Face!' song: each beat the singer calls a feeling (happy, surprised, grumpy, silly) and Big Bro and Little Bro snap into that face in a close up, then freeze; last beat both pull the silliest face and fall into giggles. Kids copy the faces at home. Bodies stay standing with small head tilts (Meshy prompt: standing in place, small head bob and shoulder shrug on the beat); faces are keyed with Blender shape keys."
-  },
-  {
-   "name": "My name is... character relay",
-   "where": "TikTok evergreen (groups of four lip sync a kids song where each character sings its own line with one signature move; a D Billions version reached 8.3M likes)",
-   "status": "evergreen",
-   "use": "A 15 second Short of our own intro song: four cuts, one per character (Big Bro, Little Bro, Buddy the dog, a friend), each sings 'My name is ...!' and does one signature move on the beat, then all four do their moves together; families copy it in groups of four. Meshy prompts: standing, point to self with both thumbs then one move each (big arm wave, two hops in place, hip wiggle, spin on the spot)."
-  },
-  {
-   "name": "December's D is...",
-   "where": "TikTok Indonesia ('Desember D-nya apa?', started early Dec 2025, likely to return)",
-   "status": "seasonal",
-   "use": "A 10 to 15 second Reel or Short for 1 to 5 Dec: caption 'December's D is...?' then quick cuts on each beat of our own chant: Big Bro 'Dancing!', Little Bro 'Donuts!', the dog 'Dig in the snow!', ending on 'D for Dreams!' with a pointing pose and a question in the caption asking kids for their own D word. Works as an alphabet game in every language (Diciembre, Dezember, Dezembro). Meshy prompt: standing, point forward with right hand, then both hands up and bounce on the spot."
   }
  ]
 }
