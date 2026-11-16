@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T04:56:07+05:30",
- "runs": 325,
+ "updated": "2026-11-16T05:35:54+05:30",
+ "runs": 326,
  "branches": [
   {
    "id": "platforms",
@@ -2218,6 +2218,34 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 313
+    },
+    {
+     "t": "Todd Beaupre (Creator Insider, 1 Sep 2026) said Suggested videos, not the subscriptions feed, are the number one place viewers watch channels they subscribe to, so each Bro Bros song should sit naturally next to our other songs and the big rhyme hits on the same topic.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 326
+    },
+    {
+     "t": "For a new channel with no viewer history YouTube matches the video's topic to viewers likely to enjoy it, and if no interested group shows up, impressions simply stop, so a clear single topic in each title, thumbnail and opening helps a new song find its first audience.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 326
+    },
+    {
+     "t": "YouTube stopped sending push notifications to inactive subscribers in April 2026, and one channel with about 21,900 subscribers saw only seven notifications go out for an upload; made for kids videos get no bell notifications anyway, so our reach depends on recommendations, not alerts.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 326
+    },
+    {
+     "t": "SocialBee's running log of YouTube changes (updated 9 Nov 2026) lists no Home or recommendation change for late October or November; YouTube is instead building a tool to help viewers manage watching across all formats, not only Shorts, which could shorten family viewing sessions later.",
+     "src": "SocialBee, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 326
     }
    ]
   },
@@ -7825,6 +7853,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 322
+    },
+    {
+     "t": "Since October 2026 payments YouTube is testing a 20 USD AdSense payout minimum instead of 100 USD for randomly chosen Partner Program members in the US, India and Indonesia; creators can raise it in AdSense and eligibility for the Partner Program does not change.",
+     "src": "Tubefilter, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 326
     }
    ]
   },
@@ -9584,10 +9619,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:44",
-   "note": "Run 247 (TRENDS (November roundups, transform format, holiday film calendar)): Early November roundups add 'X days until Christmas' cosy countdown captions and a muffled 'reasons why you don't need to' joke, while the wholesome 'Today I'm gonna turn into a cute little X' transform (Aug 2026, a bird version passed 10M views) has faded but suits animation. Family film dates to frame topics without copying: a Seuss hat film (6 Nov) and a Santa comedy (2 Dec). Total 1087."
-  },
-  {
    "date": "2026-11-16 01:45",
    "note": "Run 248 (global markets (Latin America by age, MENA demand and dialects)): Kidscorp's July 2026 Latin America study says children aged 3 to 5 use only YouTube, with similar reach across rich and poor homes and about 68% YouTube reach in Mexico and Chile; in MENA, kids animation makes up 40.6% of supply but only 30.2% of demand, and pan Arab hits mix dialects and draw viewers from Iraq and Egypt. Total 1092."
   },
@@ -9898,16 +9929,16 @@
   {
    "date": "2026-11-16 04:56",
    "note": "Run 325 (topics and seasons (Christmas 2026 toy lists: music toys, hatching eggs, feelings plush, football)): Argos's top 20 Christmas toys put music front and centre (a retro record player, a light up guitar, a karaoke projector, singing dolls) beside a hatching shark egg, a dragon pet and a plush monster for talking about feelings; Which? adds football toys riding the 2026 World Cup and quirky 'ugly cute' plush. All point to Christmas morning songs about making music, hatching surprises and naming feelings. Total 1355."
+  },
+  {
+   "date": "2026-11-16 05:35",
+   "note": "Run 326 (YouTube algorithm (where subscribers really watch, notifications, payout test)): Todd Beaupre says Suggested, not the subscriptions feed, is where viewers most often watch channels they follow, and a new channel's video keeps getting impressions only while some interested audience appears; push notifications already stopped for inactive subscribers in April. SocialBee's log to 9 Nov shows no Home ranking change, but YouTube is building a watch time tool across all formats, and a 20 USD payout floor is being tested in India, the US and Indonesia. Total 1360."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:46",
-   "total": 211
   },
   {
    "date": "2026-11-15 16:46",
@@ -11100,6 +11131,10 @@
   {
    "date": "2026-11-16 04:56",
    "total": 1355
+  },
+  {
+   "date": "2026-11-16 05:35",
+   "total": 1360
   }
  ],
  "next_week_ideas": [
