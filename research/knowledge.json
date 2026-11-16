@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:00:12+05:30",
- "runs": 346,
+ "updated": "2026-11-16T06:01:13+05:30",
+ "runs": 347,
  "branches": [
   {
    "id": "platforms",
@@ -8161,6 +8161,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 335
+    },
+    {
+     "t": "Since Brazil's ECA Digital took effect on 17 Mar 2026, YouTube requires channels run by under 16s in Brazil to be linked to a supervising parent or guardian or lose access, and uses machine learning age estimation from watch, search and like signals to restrict teen profiles; Bro Bros has adult owners and animated characters, so it is not affected, but family creator rivals there are.",
+     "src": "Jornal de Brasilia, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 347
+    },
+    {
+     "t": "A draft ECA Digital decree reported in Brazil would require platforms to see a court authorisation before monetising or boosting content made by child creators, a sign that real kid performers are getting harder to use commercially, which favours animated characters like ours.",
+     "src": "Jornal de Brasilia, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 347
+    },
+    {
+     "t": "OutlierKit's risk scale for YouTube's inauthentic content rules (updated Oct 2026): fully automated channels and template clones are high risk, daily uploads with little variation and unreviewed AI pipelines are medium risk, and AI assisted work with human creative direction is low risk, so each Bro Bros song needs visibly new story, setting or choreography, not just a new title.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 347
     }
    ]
   },
@@ -10082,10 +10103,6 @@
   },
   {
    "date": "2026-11-16 02:03",
-   "note": "Run 268 (TRENDS (year end recap season: YouTube Recap and Wrapped timing)): YouTube launched its own personalised Recap on 2 Dec 2025 (up to 12 cards: top channels, interests, a viewer personality type and a 'top 10% of viewers' badge for a favourite channel), so early December 2026 should bring Recap and Spotify Wrapped (still expected Wed 2 Dec, unconfirmed on 4 Nov) at the same time; parents who share cards are free word of mouth. Total 1160."
-  },
-  {
-   "date": "2026-11-16 02:03",
    "note": "Run 269 (algorithm experiments and data (upload timing for kids long form, slow growth tiers)): AIR's July 2026 study of 31,852 long videos found kids and teens videos are the most timing sensitive niche (+379% median views best day versus worst), with Friday best, Wednesday worst and the strongest hour 16:00 UTC (21:30 IST), mostly reflecting US viewers. Our 10 AM and 4 PM IST slots land at 04:30 and 10:30 UTC, early for the Americas. Metricool adds that 83% of interactions arrive in a video's first 10 days. Total 1164."
   },
   {
@@ -10395,6 +10412,10 @@
   {
    "date": "2026-11-16 06:00",
    "note": "Run 346 (TRENDS (Roblox co op rally, Roblox's first yearly user drop)): Roblox reported its first year on year fall in daily players (138M in Q3 2026, down 9%, hours down 15%) after age checks and chat limits, while India grew 37% and Japan 33%. Among new hits, 'Backseat Rally' (one player drives, the other calls out the road) is a gentle co op loop that maps neatly onto a call and response song. Total 1426."
+  },
+  {
+   "date": "2026-11-16 06:01",
+   "note": "Run 347 (rules and safety (Brazil's channel rules for under 16s, AI slop crackdown recap)): Since 17 Mar 2026 YouTube in Brazil requires every under 16 channel to be linked to a supervising guardian, rolled out machine learning age estimation there, and a draft decree would make platforms ask for a court order before monetising content made by minors. The inauthentic content line stays clear: mass produced, template clones are high risk, human directed AI assisted work is low risk. Total 1429."
   }
  ],
  "history": [
@@ -10405,10 +10426,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:03",
-   "total": 301
   },
   {
    "date": "2026-11-15 17:04",
@@ -11597,6 +11614,10 @@
   {
    "date": "2026-11-16 06:00",
    "total": 1426
+  },
+  {
+   "date": "2026-11-16 06:01",
+   "total": 1429
   }
  ],
  "next_week_ideas": [
