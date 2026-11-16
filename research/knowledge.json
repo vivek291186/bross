@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:45:19+05:30",
- "runs": 468,
+ "updated": "2026-11-16T11:46:28+05:30",
+ "runs": 469,
  "branches": [
   {
    "id": "platforms",
@@ -2792,6 +2792,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 466
+    },
+    {
+     "t": "In an AIR case (Sep 2024 to Aug 2025) a mid sized European channel added AI translated, human edited subtitles in 20+ languages plus translated titles, descriptions and tags (Spanish, Hindi, Portuguese, Turkish, Vietnamese) to videos showing early promise; views rose 10.7%, subtitled videos produced about 22% of all views and translated metadata about 8%, so translating titles and descriptions is a cheap first localisation step before full dubbing.",
+     "src": "air.io, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 469
+    },
+    {
+     "t": "For a song channel whose viewers are too young to read, translated titles and descriptions matter more than subtitles, because they let parents find the video in YouTube search and Suggested in their own language, while on screen lyrics stay a bonus for older children.",
+     "src": "air.io, Nov 2025 (our reading)",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 469
     }
    ]
   },
@@ -13031,12 +13045,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:49",
-   "note": "Earlier runs summarised: all rounds through Run 389 (visual craft (Christmas thumbnails, calm packaging in a dubbed kids network)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:50",
-   "note": "Run 390 (TRENDS (few new formats this week; monthly dump, a gentle elf helper, turkey food builds)): This week's trend lists (NewEngen 13 Nov, Inmagic 16 Nov) add little beyond what the tree already holds, so the trend bank stays current; new seasonal angles are the end of month 'dump' collage on Instagram, parents' wish for a gentle elf ritual that does not spy on kids, and turkey shaped food builds for US Thanksgiving. Total 1624."
+   "note": "Earlier runs summarised: all rounds through Run 390 (TRENDS (few new formats this week; monthly dump, a gentle elf helper, turkey food builds)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:51",
@@ -13349,6 +13359,10 @@
   {
    "date": "2026-11-16 11:45",
    "note": "Run 468 (topics and seasons (Befana, Australian summer Christmas, European Christmas markets)): Europe's big Christmas markets opened from 13 Nov (Vienna, Tivoli, Valkenburg) with giant carousels, reindeer rides, ice rinks and gingerbread hearts; Australian kids spend Christmas Day in 35 to 40 degree heat in pools, sprinklers and at the beach; Italy's Befana fills stockings on 5 to 6 Jan. Added a summer Christmas beach song idea. Total 1848."
+  },
+  {
+   "date": "2026-11-16 11:46",
+   "note": "Run 469 (algorithm (trends and channels skipped as checked within the last rounds; Trial Reels and Reels ranking already covered, new on subtitles and translated metadata)): Trial Reels evidence and Reels ranking signals were already in the tree; new: an AIR case where AI translated subtitles in 20+ languages and translated titles in Spanish, Hindi, Portuguese, Turkish and Vietnamese on selected videos lifted views 10.7%, with subtitled videos giving about 22% of all views. Total 1850."
   }
  ],
  "history": [
@@ -14203,6 +14217,10 @@
   {
    "date": "2026-11-16 11:45",
    "total": 1848
+  },
+  {
+   "date": "2026-11-16 11:46",
+   "total": 1850
   }
  ],
  "next_week_ideas": [
