@@ -10345,27 +10345,6 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 632
-    },
-    {
-     "t": "A kids channel that subtitled 11 languages and dubbed six (Spanish, Arabic, Indonesian, Portuguese, Japanese, Korean) as extra audio tracks on new premieres and about 70% of its back catalogue gained 125.5M views from dubs in five months, over 30% of its total, mostly from Suggested and Browse rather than search.",
-     "src": "air.io, Mar 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 644
-    },
-    {
-     "t": "In that case average view duration was longer on the dubs than on English (Spanish 8:24, Portuguese 7:59, Russian 7:40, Indonesian 7:12, Arabic 6:46 versus English 6:26), so a dub can strengthen a video's retention signal, not just add views.",
-     "src": "air.io, Mar 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 644
-    },
-    {
-     "t": "Spanish, Arabic, Indonesian and Portuguese dubs won early while Japanese and Korean rose later, and the team picked languages by comparing Views by Country with Audio Track Enabled in analytics, which is a cheap way for Bro Bros to choose its first two dub languages from real demand.",
-     "src": "air.io, Mar 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 644
     }
    ]
   },
@@ -15518,7 +15497,7 @@
   },
   {
    "date": "2026-11-16 18:44",
-   "note": "Run 644 (global markets (which dubs pay off and hold viewers longest)): An AIR case study (Mar 2026) of an unnamed kids channel: after testing 11 subtitle languages it dubbed six (Spanish, Arabic, Indonesian, Portuguese, Japanese, Korean), the dubs added 125.5M views in five months (over 30% of all views, mostly via Suggested and Browse), and Spanish and Portuguese dubs were watched about 1.5 to 2 minutes longer per view than English. Total 2158."
+   "note": "Run 644 (global markets (dub languages recheck)): The AIR 125.5M views dubbing case (six dubs, Spanish 8:24 versus English 6:26 view duration, Spanish, Arabic, Indonesian and Portuguese winning first) turned out to be already in the tree from 15 Nov, so the three leaves written this round were merged back as duplicates; no new leaves. Total 2155."
   }
  ],
  "history": [
@@ -16032,7 +16011,7 @@
   },
   {
    "date": "2026-11-16 18:44",
-   "total": 2158
+   "total": 2155
   }
  ],
  "next_week_ideas": [
