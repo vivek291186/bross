@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:50:02+05:30",
- "runs": 425,
+ "updated": "2026-11-16T09:50:48+05:30",
+ "runs": 426,
  "branches": [
   {
    "id": "platforms",
@@ -12242,6 +12242,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 423
+    },
+    {
+     "t": "In early December 2025 Indonesian TikTok ran 'Desember D-nya apa?' ('What is December's D?'), where people answer with a word starting with D for their mood or plans; it is a yearly style prompt likely to return, and a kid version ('Dancing! Donuts! Dreams!') doubles as an alphabet game.",
+     "src": "goodnewsfromindonesia.id, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 426
+    },
+    {
+     "t": "Pop songs from eastern Indonesia (Papua and Maluku style slang and melodies) dominated Indonesia's viral TikTok sounds in 2026, four tracks totalling an estimated 443M streams, one as a club remix for fast transition dance challenges, so regional pop flavours travel inside Indonesia faster than Western hits.",
+     "src": "pdiperjuanganbali.id citing Jurnal IT PLN, May 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 426
+    },
+    {
+     "t": "Indonesian kids widely joined the 'flip the camera' challenge (a phone flip transition that turns the frame upside down to reveal a new scene), a simple camera rotation we can reproduce in Blender with a 180 degree roll to swap scenes, for example from autumn leaves to snow.",
+     "src": "medcom.id, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 426
     }
    ]
   }
@@ -12267,10 +12288,6 @@
   "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
  ],
  "log": [
-  {
-   "date": "2026-11-16 06:00",
-   "note": "Run 346 (TRENDS (Roblox co op rally, Roblox's first yearly user drop)): Roblox reported its first year on year fall in daily players (138M in Q3 2026, down 9%, hours down 15%) after age checks and chat limits, while India grew 37% and Japan 33%. Among new hits, 'Backseat Rally' (one player drives, the other calls out the road) is a gentle co op loop that maps neatly onto a call and response song. Total 1426."
-  },
   {
    "date": "2026-11-16 06:01",
    "note": "Run 347 (rules and safety (Brazil's channel rules for under 16s, AI slop crackdown recap)): Since 17 Mar 2026 YouTube in Brazil requires every under 16 channel to be linked to a supervising guardian, rolled out machine learning age estimation there, and a draft decree would make platforms ask for a court order before monetising content made by minors. The inauthentic content line stays clear: mass produced, template clones are high risk, human directed AI assisted work is low risk. Total 1429."
@@ -12586,6 +12603,10 @@
   {
    "date": "2026-11-16 09:50",
    "note": "Run 425 (topics (Kaspersky's 2026 worldwide kids search and app data)): Kaspersky's Safe Kids report 2026 (worldwide, May 2025 to Apr 2026) finds YouTube takes 29% of children's Android app time, music is the largest YouTube search category (26%) with 'phonk' the top query and girl groups like KATSEYE and BLACKPINK leading artists, and cartoons make up over half of film and TV searches on YouTube, led by Cocomelon and Bluey alongside indie web cartoons. Total 1739."
+  },
+  {
+   "date": "2026-11-16 09:50",
+   "note": "Run 426 (TRENDS (Indonesia's 'December's D is...?' word game; eastern Indonesian songs; Tubefilter week chart not yet out)): Indonesia's 'Desember D-nya apa?' trend (early Dec 2025: answer what December's D stands for with a D word) is likely to return in two weeks and works as an alphabet game in many languages, so it went into the trend bank; songs from eastern Indonesia led the country's 2026 TikTok sounds (four tracks about 443M estimated streams). Total 1742."
   }
  ],
  "history": [
@@ -13268,6 +13289,10 @@
   {
    "date": "2026-11-16 09:50",
    "total": 1739
+  },
+  {
+   "date": "2026-11-16 09:50",
+   "total": 1742
   }
  ],
  "next_week_ideas": [
@@ -13329,6 +13354,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "December's D is...",
+   "where": "TikTok Indonesia ('Desember D-nya apa?', started early Dec 2025, likely to return)",
+   "status": "seasonal",
+   "use": "A 10 to 15 second Reel or Short for 1 to 5 Dec: caption 'December's D is...?' then quick cuts on each beat of our own chant: Big Bro 'Dancing!', Little Bro 'Donuts!', the dog 'Dig in the snow!', ending on 'D for Dreams!' with a pointing pose and a question in the caption asking kids for their own D word. Works as an alphabet game in every language (Diciembre, Dezember, Dezembro). Meshy prompt: standing, point forward with right hand, then both hands up and bounce on the spot."
+  },
   {
    "name": "Holiday defrost",
    "where": "TikTok AI video templates (Dromana Christmas guide, updated 7 Nov 2026)",
@@ -13442,12 +13473,6 @@
    "where": "Instagram Reels (week of 11 Nov 2026, Christmas songs)",
    "status": "seasonal",
    "use": "Little Bro holds up a big letter 'Dear Santa' and on each beat of our own Christmas song a new kind wish pops up as a picture: a snowman friend, warm socks for Grandpa, a dance party for everyone; on the last line both Bros post the letter into a glowing mailbox and dance. Meshy prompt: standing, hold both hands forward as if holding a letter, then hop twice and wave one arm overhead."
-  },
-  {
-   "name": "No, no, no... YES!",
-   "where": "Instagram Reels (NewEngen, week of 13 Nov 2026)",
-   "status": "rising",
-   "use": "Three one second clips: Little Bro shakes his head 'no' at bath time, 'no' at broccoli, 'no' at bedtime, each with a big 'NO' sticker; then the first beat of our own dance chorus hits, a giant 'YES!' appears and both Bros dance, held two beats longer. Under 12 seconds, loops back to the first 'no'. Meshy prompt: standing, shake head side to side with arms crossed, then throw both arms up and bounce in place."
   }
  ]
 }
