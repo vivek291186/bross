@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:53:26+05:30",
- "runs": 393,
+ "updated": "2026-11-16T08:54:04+05:30",
+ "runs": 394,
  "branches": [
   {
    "id": "platforms",
@@ -9176,6 +9176,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 389
+    },
+    {
+     "t": "Australia's under 16 social media ban (in force since 10 Dec 2025) covers YouTube accounts but allows anyone to watch YouTube logged out, without comments, likes, subscriptions or personalised recommendations; platforms restricted about 4.7M under 16 accounts in the first weeks and face fines up to AU$49.5M.",
+     "src": "The Current, Aug 2025 / Net Influencer, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 394
+    },
+    {
+     "t": "After the ban, 13 to 15 year olds' YouTube use in Australia fell only about 1 point (to about 37%), against about 14 points for Snapchat and 6 for TikTok (Qustodio, Nov 2025 to Feb 2026), so YouTube stays the main kids video platform there and preschool viewing through parents' accounts and TVs is largely unaffected.",
+     "src": "Net Influencer, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 394
+    },
+    {
+     "t": "Children aged 4 to 15 drive most YouTube viewing on Australian TV sets, often on shared family screens, and advertisers there are moving to contextual rather than personal targeting, which matches how made for kids ads already work and makes clear topic words in our titles and descriptions even more important.",
+     "src": "The Current, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 394
     }
    ]
   },
@@ -11537,10 +11558,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:40",
-   "note": "Run 315 (TRENDS (last winter's returners: New Year goal reveals, 'it's freezing' reaction, sway at the drop duet, cheesy winter effects, original jingles)): NewEngen's December and January roundups show which winter formats are likely back in 4 to 7 weeks: greenscreen New Year resolution reveals and month by month recaps, a squeaky 'freezing!' reaction on stepping outside, a duet where two people argue then sway and cover their faces at the drop, deadpan snow clips with deliberately cheesy effects, and creators writing original jingles. Two joined the trend bank and a winter clothes song joined the ideas. Total 1321."
-  },
-  {
    "date": "2026-11-16 04:41",
    "note": "Run 316 (music craft (rhythm games build cooperation, rhythm and movement for self regulation, singing to kids fades with age)): Two 2026 trials back movement songs: 8 weeks of clap, step and pass rhythm games lifted cooperation in 5 to 6 year olds (81% cooperative versus 16% before), and an Australian trial with 213 preschoolers found rhythm and movement sessions improved prosocial behaviour six months later. A 12 year New Zealand study shows parents sing less as kids grow while kids start picking their own music. Total 1324."
   },
@@ -11851,13 +11868,13 @@
   {
    "date": "2026-11-16 08:53",
    "note": "Run 393 (algorithm experiments (TRENDS skipped, last round found little new; compilations around 10 minutes, distinct visuals for alternate versions, 16 automated streams)): The TRENDS slot was skipped because the last trends round found little new. Two AIR kids cases (Q4 2025) add data: a million subscriber song channel that rebuilt 2 to 3 minute songs into about 10 minute compilations saw +19% watch duration, +9% CPM and +72% RPM, and gave acoustic or alternate versions their own visuals to avoid duplicate signals; a smaller channel that went from one manual stream to 16 automated 24/7 streams lifted average view duration from 1:36 to 2:06 and revenue 63%. Total 1634."
+  },
+  {
+   "date": "2026-11-16 08:54",
+   "note": "Run 394 (rules (Australia's under 16 ban one year on: YouTube barely affected, logged out viewing allowed)): Australia's under 16 ban (from 10 Dec 2025) blocks kids' own YouTube accounts but still allows logged out viewing, and Qustodio data show 13 to 15 year olds' YouTube use fell only 1 point (to about 37%) against nearly 14 points for Snapchat; for a preschool channel this means Australian families keep watching through parent accounts and TVs, though without personal recommendations for kids on their own. Total 1637."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:58",
-   "total": 480
-  },
   {
    "date": "2026-11-15 18:58",
    "total": 483
@@ -13053,6 +13070,10 @@
   {
    "date": "2026-11-16 08:53",
    "total": 1634
+  },
+  {
+   "date": "2026-11-16 08:54",
+   "total": 1637
   }
  ],
  "next_week_ideas": [
