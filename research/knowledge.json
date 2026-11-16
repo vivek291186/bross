@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:04:19+05:30",
- "runs": 408,
+ "updated": "2026-11-16T09:04:53+05:30",
+ "runs": 409,
  "branches": [
   {
    "id": "platforms",
@@ -1350,6 +1350,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 407
+    },
+    {
+     "t": "Samsung TV Plus (about 100M monthly active users) expanded creator led FAST channels to the UK, Australia, New Zealand, Singapore, Thailand and the Philippines in Sep 2026 and brought Mark Rober TV, dubbed, to Brazil and Mexico; channels come through partner studios, not open sign up, so a big Bro Bros catalogue with dubbed tracks could later be pitched through such a partner.",
+     "src": "Señal News, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 409
+    },
+    {
+     "t": "Amazon announced a Fire TV Creator Hub at Cannes Lions (Jun 2026) to surface YouTube and TikTok creators on Fire TV, aiming to support 500+ creators by 2027 (MrBeast and 5-Minute Crafts among the first); no kids channels were named, so the TV creator lane is still open for kids music brands.",
+     "src": "Tubefilter, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 409
     }
    ]
   },
@@ -11824,10 +11838,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 05:41",
-   "note": "Run 330 (visual craft (shot length and overstimulation, calm versus fast pacing)): Parent guides now rate kids shows by shot length: CoComelon cuts every 1 to 3 seconds, Bluey holds 7 to 12, Daniel Tiger 8 to 15 and Sesame Street 10 to 30, and neon colours, rapid colour shifts and constant sound effects count as overstimulating. Moonbug's UCLA partner scores content on four child development principles. Our dance songs can keep energy through movement while holding shots 4 seconds or longer. Total 1376."
-  },
-  {
    "date": "2026-11-16 05:43",
    "note": "Run 331 (TRENDS (K-pop relay dance, holiday classics climbing on TikTok)): Revid's 15 Nov sample shows ILLIT's 'You're Under Arrest' rising with relay dance posts (about 2M views on four posts), but its point move is a finger gun and the police styling drew criticism, so we copy only the relay idea. Classic Christmas songs (Let It Snow, Rockin' Around the Christmas Tree, Mariah) are already among TikTok's most reused sounds in mid November, so our own Christmas songs should go live from this week. Total 1379."
   },
@@ -12138,16 +12148,16 @@
   {
    "date": "2026-11-16 09:04",
    "note": "Run 408 (TRENDS (AI video template trends: matching pyjama Christmas duo dance, trio holiday dance, dancing pets)): Starrd's AI video trend roundup (updated 15 Nov) shows November's template trends turning festive: a duo Christmas dance in matching pyjamas, a trio holiday dance in a row, and pet clips (a dog dancing to a car alarm, two dogs failing to make coffee, a dog driving and singing); these map neatly onto the Bros and their dog friend with our own music. Total 1675."
+  },
+  {
+   "date": "2026-11-16 09:04",
+   "note": "Run 409 (other platforms (algorithm just done, so skipped; creator FAST channels and Fire TV's creator hub)): TV platforms are opening to YouTube creators: Samsung TV Plus (about 100M monthly users) added creator channels in eight more markets in September 2026 through partner studios, and Amazon is building a Fire TV Creator Hub aiming at 500+ creators by 2027; none of the new launches are kids channels yet, and entry is through partnerships, so this is a later step once our catalogue is large. Total 1677."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:09",
-   "total": 530
   },
   {
    "date": "2026-11-15 19:09",
@@ -13340,6 +13350,10 @@
   {
    "date": "2026-11-16 09:04",
    "total": 1675
+  },
+  {
+   "date": "2026-11-16 09:04",
+   "total": 1677
   }
  ],
  "next_week_ideas": [
