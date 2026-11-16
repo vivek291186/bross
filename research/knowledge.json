@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:49:53+05:30",
- "runs": 634,
+ "updated": "2026-11-16T17:51:01+05:30",
+ "runs": 635,
  "branches": [
   {
    "id": "platforms",
@@ -11612,6 +11612,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 610
+    },
+    {
+     "t": "Indonesia's PP Tunas child protection rule took effect on 28 Mar 2026 and by 22 Apr seven of eight high risk platforms (including YouTube, Meta's apps, TikTok and X) had committed to it, with Roblox still negotiating; YouTube pledged to deactivate under 16 accounts, filter ad content and stop ads targeting children, so Indonesian views of our made for kids videos will earn even less.",
+     "src": "RRI, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 635
+    },
+    {
+     "t": "AIR's May 2025 to May 2026 data (300 channels, 3,595 channel months) puts the middle half of kids and teens channels at only about 0.16 to 0.88 USD RPM, against about 1.35 to 4.16 for music channels, so for a made for kids song channel scale, compilations and watch time matter far more than RPM tuning.",
+     "src": "AIR Media-Tech, 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 635
     }
    ]
   },
@@ -14991,12 +15005,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:36",
-   "note": "Earlier runs summarised: all rounds through Run 555 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:37",
-   "note": "Run 556 (music craft (producer and songwriter interviews)): Kids producers lift the lead vocal 1 to 2 dB above a normal pop mix so every word lands, and UK kids songwriters build each song around one character's feeling and want, starting from a chorus children can repeat. Total 2043."
+   "note": "Earlier runs summarised: all rounds through Run 556 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:37",
@@ -15309,6 +15319,10 @@
   {
    "date": "2026-11-16 17:49",
    "note": "Run 634 (TRENDS (December list formats; school dance clips recheck)): Last December's TikTok roundup was built on list formats (shopping carts, wish lists, 'do not get me this' lists, goal lists) and year recaps, so a counting wish list song fits December; school dance circle clips were already leaves. Total 2128."
+  },
+  {
+   "date": "2026-11-16 17:51",
+   "note": "Run 635 (rules and monetisation (Indonesia platform commitments, RPM spread)): Indonesia's PP Tunas (in force 28 Mar 2026) drew commitments from YouTube, Meta, TikTok and X by 22 Apr 2026 with Roblox the holdout, and YouTube promised to stop ads aimed at children there; AIR's niche data shows the kids RPM middle range is only about 0.16 to 0.88 USD. AI slop and Q4 RPM findings were already leaves. Total 2130."
   }
  ],
  "history": [
@@ -15783,6 +15797,10 @@
   {
    "date": "2026-11-16 17:49",
    "total": 2128
+  },
+  {
+   "date": "2026-11-16 17:51",
+   "total": 2130
   }
  ],
  "next_week_ideas": [
