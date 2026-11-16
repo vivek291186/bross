@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:59:16+05:30",
- "runs": 345,
+ "updated": "2026-11-16T06:00:12+05:30",
+ "runs": 346,
  "branches": [
   {
    "id": "platforms",
@@ -1196,6 +1196,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 336
+    },
+    {
+     "t": "Roblox's Q3 2026 results showed its first year on year drop in daily players (about 138M, down 9%), hours played down 15% and paying users down 16%, after age checks and chat limits added friction for young players; daily players still grew 37% in India and 33% in Japan, and adults were 29% of age checked players.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 346
     }
    ]
   },
@@ -10030,6 +10037,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 343
+    },
+    {
+     "t": "'Backseat Rally', one of Roblox's fastest growing new games (about 2.1M visits a day, 92% likes, Nov 2026), has one player drive while the partner calls out the road ahead through forest and snow; a call and response Bro Bros song where Big Bro calls 'left!', 'jump!', 'snow!' and Little Bro and the viewers act it fits this co op loop.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 346
+    },
+    {
+     "t": "The most popular new Roblox games of early November 2026 also include horror loops (a flooded pool where you must stay silent, a chip shop that turns scary at night) and a war strategy game, so Roblox trend borrowing must stay limited to gentle loops such as cats, cars, bikes, eggs and co op driving.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 346
     }
    ]
   }
@@ -10058,10 +10079,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 02:02",
-   "note": "Run 267 (Shorts and long form balance (Metricool's 2026 YouTube study: views up, ad money down)): Metricool's study of about 800K videos (Aug 2026) found views up 76% but estimated ad revenue down 55%, because average long view duration fell from about 4 to 2.5 minutes, ad impressions fell 51% and Shorts (now about 16 seconds on average) took 61% of organic views; two to four long uploads a week performed best. Total 1157."
   },
   {
    "date": "2026-11-16 02:03",
@@ -10374,6 +10391,10 @@
   {
    "date": "2026-11-16 05:59",
    "note": "Run 345 (competitor deep dive (Little Angel and Friends, Little Angel Playtime)): Little Angel's side channels are sliding: Little Angel and Friends (7.3M) drew about 26M views in October and a new Wheels on the Bus vehicle song got about 3.7K views in 10 hours; Little Angel Playtime (3.24M) fell from 10.5M monthly views in August to 4.9M in October, and its newest 'eye tests are not scary' song had under 1K views in 11 hours. Both channels' all time hits are 2021 to 2022 songs about bedtime monsters, boo boos, water safety and helping parents. Total 1423."
+  },
+  {
+   "date": "2026-11-16 06:00",
+   "note": "Run 346 (TRENDS (Roblox co op rally, Roblox's first yearly user drop)): Roblox reported its first year on year fall in daily players (138M in Q3 2026, down 9%, hours down 15%) after age checks and chat limits, while India grew 37% and Japan 33%. Among new hits, 'Backseat Rally' (one player drives, the other calls out the road) is a gentle co op loop that maps neatly onto a call and response song. Total 1426."
   }
  ],
  "history": [
@@ -10384,10 +10405,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:02",
-   "total": 298
   },
   {
    "date": "2026-11-15 17:03",
@@ -11576,6 +11593,10 @@
   {
    "date": "2026-11-16 05:59",
    "total": 1423
+  },
+  {
+   "date": "2026-11-16 06:00",
+   "total": 1426
   }
  ],
  "next_week_ideas": [
@@ -11637,6 +11658,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Co driver call out",
+   "where": "Roblox ('Backseat Rally', about 2.1M visits a day, Nov 2026)",
+   "status": "rising",
+   "use": "Big Bro drives a toy rally car and calls the road on each beat of our own song ('Left!', 'Right!', 'Bump!', 'Snow!') while Little Bro leans, bounces and shivers to match; kids at home copy the call. Meshy prompt: standing, hold both hands as if on a steering wheel and lean left, then lean right, then do a small bounce in place."
+  },
   {
    "name": "Routine chart sing along",
    "where": "Pinterest searches (daily routine charts +575%, 2026) and parent Reels",
@@ -11750,12 +11777,6 @@
    "where": "GivingTuesday 1 Dec 2026 and year end kindness posts (110+ countries)",
    "status": "seasonal",
    "use": "15 second Short for 1 Dec: Big Bro hands Little Bro a wrapped gift, Little Bro passes it to a friend, who passes it to a puppy, and so on in a quick chain on each beat of our own kindness chorus, ending with everyone hugging in a circle; caption 'Pass the kindness on'. Meshy prompt: standing in place, turn to the right and hold both hands out as if handing over a box, then clap twice."
-  },
-  {
-   "name": "Growth stages montage",
-   "where": "TikTok rising (6 second crop and plant growth montages, Nov 2026)",
-   "status": "rising",
-   "use": "6 to 8 second loop for our planting song: a seed in a pot, sprout, leaves, bud, big sunflower, each stage popping on a beat of the chorus, with Little Bro growing taller beside it in step. Ends where it started so it loops. Meshy prompt for Little Bro: standing in place, start with arms down, then slowly rise onto tiptoes while stretching both arms up overhead."
   }
  ]
 }
