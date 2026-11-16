@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:00:42+05:30",
- "runs": 696,
+ "updated": "2026-11-16T22:01:18+05:30",
+ "runs": 697,
  "branches": [
   {
    "id": "platforms",
@@ -5417,6 +5417,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 693
+    },
+    {
+     "t": "Ms Rachel's YouTube channel (21.9M subscribers, about 318M views in the 28 days to 15 Nov 2026) gained about 4.12B views in January to October 2026 against about 3.92B a year earlier, one of the few big preschool channels still growing while CoComelon, ChuChu TV and Little Angel shrink.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 697
+    },
+    {
+     "t": "Ms Rachel's 30 Oct 2026 upload 'Best Baby Songs ... Open Shut Them + More', a long compilation for babies, drew about 8.4M views in 15 days (an outlier over 100 times her normal), showing that a baby aimed (under 2) compilation with a hand action song in the title can still break out in late 2026.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 697
     }
    ]
   },
@@ -15993,11 +16007,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 617 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:09",
-   "note": "Run 618 (TRENDS (viral kids dances in India and South Africa)): A Kerala clip of children dancing in the rain to the rhythm of a barking dog ('not break dance, bark dance') passed 1M likes in Aug 2026; turning a funny everyday sound into the beat is a kid made format we can copy with an animal friend. Total 2102."
+   "note": "Earlier runs summarised: all rounds through Run 618 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:10",
@@ -16310,6 +16320,10 @@
   {
    "date": "2026-11-16 22:00",
    "note": "Run 696 (our results (schedule check 19 to 22 Nov)): Metricool shows 24 posts queued for 19 to 22 Nov (8 songs: farm band, bubble gum, elephant parade, little car, kitty band, tooth brushing, peekaboo, ride to the moon); still no winter or Christmas song before 23 Nov, the tooth brushing topic repeats from 4 Nov, and the 20 Nov elephant parade is a ready fit for the Thanksgiving parade week and the one by one parade trend. Total 2271."
+  },
+  {
+   "date": "2026-11-16 22:01",
+   "note": "Run 697 (YouTube main and Kids (Ms Rachel November stats; trends skipped after an empty trends round)): Ms Rachel's channel (21.9M) is still growing in 2026 (about 4.12B views in Jan to Oct against 3.92B a year earlier, about 318M in the last 28 days) and her 30 Oct 'Best Baby Songs' compilation drew about 8.4M views in 15 days, over 100 times her usual video, while CoComelon's spin off channels data was too old to use. Total 2273."
   }
  ],
  "history": [
@@ -17032,6 +17046,10 @@
   {
    "date": "2026-11-16 22:00",
    "total": 2271
+  },
+  {
+   "date": "2026-11-16 22:01",
+   "total": 2273
   }
  ],
  "next_week_ideas": [
