@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:50:06+05:30",
- "runs": 367,
+ "updated": "2026-11-16T07:56:08+05:30",
+ "runs": 368,
  "branches": [
   {
    "id": "platforms",
@@ -3786,6 +3786,48 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 359
+    },
+    {
+     "t": "CoComelon Brasil's new Portuguese 'Rain Rain Go Away' ('Vá Embora, Chuva', 3:01, 17 Oct 2026) reached about 4.7M views in under a month, about 36 times the channel's usual, and a two song combo ('Lá na lagoa & Os Patinhos', 5:55) reached 1.7M, so re sung classic rhymes are the breakout engine for a Portuguese track.",
+     "src": "vidIQ (CoComelon Brasil), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 368
+    },
+    {
+     "t": "CoComelon Brasil had no Christmas video among its last 48 uploads by 10 Nov 2026, while English kids channels switched in the first week of November, so Brazilian Christmas songs can go live later (late November to mid December, when the summer school holidays start).",
+     "src": "vidIQ (CoComelon Brasil), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 368
+    },
+    {
+     "t": "CoComelon Brasil's Shorts are only 11 to 27 seconds (find the hidden JJ, making a JJ snowman or doll, a magic fruit salad) and draw 3K to 92K views, against 12K to 4.7M for its long songs, so even for the biggest brand the local language Shorts are a side feed and long songs do the heavy lifting.",
+     "src": "vidIQ (CoComelon Brasil), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 368
+    },
+    {
+     "t": "CoComelon Brasil marks every new long song with a '⭐NOVO⭐' (new) prefix and ends each title with the same brand and category tag, a cheap packaging habit that tells returning parents which upload is fresh; a 'NEW' star prefix on our newest song of the day is worth testing.",
+     "src": "vidIQ (CoComelon Brasil), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 368
+    },
+    {
+     "t": "ChuChu TV's main channel (98.2M subscribers, 61B views) gained no net subscribers in the 28 days to mid November 2026 and its most watched video is a 30 minute classics compilation led by 'Rain Rain Go Away' (109M views), showing that a giant catalogue can stall while old compilations keep earning.",
+     "src": "vidIQ (ChuChu TV), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 368
+    },
+    {
+     "t": "Rain songs keep winning across brands in late 2026 (CoComelon Brasil's 36x rain song, ChuChu TV's top compilation, our own rain themed Didi story among our better Reels), so an original Bro Bros rain song with puddle jumps and umbrella moves is a safe evergreen bet.",
+     "src": "vidIQ, Nov 2026 + Metricool",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 368
     }
    ]
   },
@@ -10774,10 +10816,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 03:45",
-   "note": "Run 289 (TRENDS (December returners: save Christmas quests, holiday classics, first snow ever reactions)): Last December's kids creator hits wrapped toys in a story (a quest to 'save Christmas') or let viewers choose between two paths, and a republished classic Christmas cartoon gathered 12M views in a month. 'First snow ever' reactions (a man from Uganda in Canada, students in Finland, babies, pets, even a baby camel) go viral every early winter and suit an animated wonder moment. Two December formats joined the trend bank. Total 1241."
-  },
-  {
    "date": "2026-11-16 03:46",
    "note": "Run 290 (YouTube algorithm (original Shorts priority, Shorts off switch, subscriber vs non subscriber learning)): YouTube announced on 1 Oct 2026 that the Shorts feed will favour original content and cut reach for channels that mainly re upload others' clips, judged at channel level and with no notice. Since April 2026 any viewer can set Shorts time to zero, which removes Shorts from Home, Search and Suggested, so Shorts only channels lose those viewers. Todd Beaupre explained that early results are learned separately for subscribers and new viewers and that most subscribed viewing happens in Suggested, not the Subscriptions feed. Total 1245."
   },
@@ -11088,13 +11126,13 @@
   {
    "date": "2026-11-16 07:50",
    "note": "Run 367 (global markets (BabyBus in Japan and Vietnam, Japan's kids song chart, Nigeria's YouTube boom)): BabyBus's local channels show the size of single language markets: about 104M views a month in Japanese and 92M in Vietnamese, but subscriber gains have slowed to about 20K a month in both, so views come from the catalogue and recommendations rather than new fans. Japan's kids song chart is led by anime themes and NHK show songs, and Nigeria's YouTube watch time grew over 50% in a year with views up 80%, an English speaking market that needs no dub. Total 1525."
+  },
+  {
+   "date": "2026-11-16 07:56",
+   "note": "Run 368 (competitor deep dive (CoComelon Brasil's breakout rain song, ChuChu TV's stalled giant)): CoComelon's Portuguese channel shows how big a localised classic can be: its new 'Rain Rain Go Away' version (17 Oct) passed 4.7M views, about 36 times its usual, and a two song duck combo hit 1.7M, while its 11 to 27 second Shorts stay at 3K to 92K and there was still no Christmas upload by 10 Nov. ChuChu TV's main channel (98M subscribers) gained no subscribers in 28 days, living on 30 minute classic compilations. Total 1531."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:39",
-   "total": 377
-  },
   {
    "date": "2026-11-15 17:40",
    "total": 381
@@ -12290,6 +12328,10 @@
   {
    "date": "2026-11-16 07:50",
    "total": 1525
+  },
+  {
+   "date": "2026-11-16 07:56",
+   "total": 1531
   }
  ],
  "next_week_ideas": [
