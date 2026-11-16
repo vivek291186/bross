@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:37:54+05:30",
- "runs": 813,
+ "updated": "2026-11-17T01:55+05:30",
+ "runs": 814,
  "branches": [
   {
    "id": "platforms",
@@ -3240,6 +3240,34 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 794
+    },
+    {
+     "t": "Metricool's best time model for our own brand (week of 23 Nov, IST) peaks every day at 16:00 IST with a second peak at 10:00 IST; Wednesday and Thursday score highest and Saturday and Sunday about half of weekdays.",
+     "src": "Metricool best time tool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 814
+    },
+    {
+     "t": "General 2026 studies disagree on the best upload day (SocialPilot: Wed to Fri 2 to 4 PM local; Buffer: Sunday 10 AM for long form), but agree on uploading 2 to 3 hours before the audience's evening peak.",
+     "src": "SocialPilot / Buffer via Socialkit, 2026",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 814
+    },
+    {
+     "t": "Kids in the US watch the most YouTube (about 86 min a day; YouTube Kids about 108 min), far above France and Spain, so a second daily slot aimed at American after school time reaches the heaviest viewers.",
+     "src": "Qustodio 2024 report",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 814
+    },
+    {
+     "t": "For two uploads a day to a global audience the usual advice is one slot per time zone block: post the second upload for the audience whose peak the first one misses.",
+     "src": "SocialRails scheduling guide, 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 814
     }
    ]
   },
@@ -16793,7 +16821,7 @@
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), vary Suno style prompts, instruments and tempo song to song so our audio does not cluster, build compilations from distinct full songs (never loops), run YouTube's copyright check on every track, tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan; publish only songs generated fresh on a paid Suno plan and downloaded through the plan (Remix outputs stay personal use on every plan since Sep 2026); rescue and doctor songs show gentle problems and quick happy fixes, never a suffering or scared animal, and stay a small share of each week. Pass the parents' 'AI slop' check (ZERO TO THREE, May 2026): a clear named creator, a stated purpose for every song, accurate facts and no loud surprises used only to hold attention.",
   "Mix in older kid energy: at least two songs a week should be full body dance alongs (Danny Go! style) or movement games (freeze dance, going on a hunt, floor is lava, the top five hits of The Kiboomers) with a funny chantable nonsense word kids can shout, and make a part 2 of any game that wins; on Instagram post fewer, better Reels (the best 1 or 2 songs a day), captions as one keyword sentence plus a question to parents and at most 2 hashtags; group Shorts of one song family into a YouTube Shorts series and test two hooks per song with Trial Reels after 1,000 followers.",
   "Every week, build 2 to 3 Shorts/Reels on a current trend format from the trend bank, adapted kid-safe with our own original song (never copyrighted trending audio).",
-  "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
+  "Upload slots: 16:00 IST (Asia, Middle East, Europe) and 04:30 IST (US after school); strongest song plus the weekly compilation on Friday; re-check slots after 2 weeks in YouTube Studio."
  ],
  "log": [
   {
@@ -17115,6 +17143,10 @@
   {
    "date": "2026-11-17 01:37",
    "note": "Run 813 (competitor deep dive (Bebefinn Korean, Hey Bear, Kids Diana)): Most competitor facts were already in the tree. New: Bebefinn's Korean channel fell from about 467M views a month (Nov 2025) to about 69M (Oct 2026), and Hey Bear's newest hit is a 'Party Time Dance Off'. Total 2386."
+  },
+  {
+   "date": "2026-11-17 01:55",
+   "note": "Run 814 (posting times for 2 daily uploads): our Metricool peaks (16:00 and 10:00 IST) plus global kids timing studies; new posting plan 16:00 IST and 04:30 IST. Total 2390."
   }
  ],
  "history": [
@@ -18305,6 +18337,10 @@
   {
    "date": "2026-11-17 01:37",
    "total": 2386
+  },
+  {
+   "date": "2026-11-17 01:55",
+   "total": 2390
   }
  ],
  "next_week_ideas": [
@@ -18482,5 +18518,25 @@
    "status": "peak",
    "use": "Big Bro in the middle, Little Bro and a friend either side, on our own bouncy original song. Meshy steps, all standing in place: bounce with hands on hips; middle dancer does one full spin while the side dancers step behind and swap sides; all three turn to face away with both arms raised; turn back and point one finger up, circling it over the head; each one steps forward toward the camera for two counts and back; on the beat drop all stomp in place swinging both arms. A cute animal trio version (three penguins or bunnies) makes a second Short."
   }
- ]
+ ],
+ "posting_plan": {
+  "summary": "Two long videos a day, each with its Short 5 minutes later and its Reel at the same time.",
+  "slots": [
+   {
+    "time_ist": "16:00 IST",
+    "utc": "10:30 UTC",
+    "for": "India, Middle East, Southeast Asia afternoon/evening; UK and Europe late morning",
+    "why": "Our own Metricool peak every day of the week."
+   },
+   {
+    "time_ist": "04:30 IST (next morning)",
+    "utc": "23:00 UTC",
+    "for": "US and Canada after school (6 PM New York, 3 PM Los Angeles), Latin America evening",
+    "why": "AIR's kids study peak slot; the US is the heaviest kids YouTube audience. Metricool posts it automatically, nobody needs to be awake."
+   }
+  ],
+  "days": "Every day. Put the strongest song of the week and the weekly compilation on Friday; weekends get lighter, evergreen songs.",
+  "shorts": "Short 5 minutes after each video; extra Shorts work best Thursday to Saturday evenings local time.",
+  "test": "Run this for 2 weeks, then compare in YouTube Studio (Audience: When your viewers are on YouTube) and move each slot to 2 to 3 hours before our real peaks."
+ }
 }
