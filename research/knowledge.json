@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:50:15+05:30",
- "runs": 473,
+ "updated": "2026-11-16T11:51:07+05:30",
+ "runs": 474,
  "branches": [
   {
    "id": "platforms",
@@ -6957,6 +6957,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 462
+    },
+    {
+     "t": "On a 1080 by 1920 Reel Meta's interface covers about the top 270 px (14%), the bottom 670 px (35%), the right hand 230 px of the lower part (action buttons) and 65 px at each side, leaving a centred safe area of roughly 950 by 980 px, so the Bros' faces, lyrics and any count numbers must sit in that middle block.",
+     "src": "hopperhq.com, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 474
+    },
+    {
+     "t": "Instagram's profile grid now crops Reel covers to the centred 1080 by 1440 (3:4) area, cutting 240 px from top and bottom, and covers cannot be changed after posting, so each Bro Bros cover must be designed for the 3:4 crop with the song title and faces inside it before publishing.",
+     "src": "hopperhq.com, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 474
+    },
+    {
+     "t": "For on screen words aimed at early readers, the evidence leans to plain rounded sans serif lettering with 'infant' single storey a and g, sentence case instead of all caps, slightly wider line spacing and no decorative or condensed styles (screen designed fonts like Verdana did best in an eye tracking study), so lyric captions should follow those rules even when titles use playful 3D letters.",
+     "src": "medium.com UX of EdTech, 2024",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 474
+    },
+    {
+     "t": "A YouTube upload test found the 4K version received a VP9 stream at about 8 Mbps against about 1 Mbps for the 1080p upload, roughly eight times the bitrate for four times the pixels, so rendering or carefully upscaling our Blender videos to 4K gives sharper colours and edges even for viewers watching at lower resolutions, at the cost of slower processing.",
+     "src": "provideocoalition.com, Jul 2021",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 474
     }
    ]
   },
@@ -13123,11 +13151,7 @@
  "log": [
   {
    "date": "2026-11-16 08:54",
-   "note": "Earlier runs summarised: all rounds through Run 394 (rules (Australia's under 16 ban one year on covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 08:54",
-   "note": "Run 395 (YouTube channels (our Metricool check already done today so skipped; Danny Go! event uploads, Bounce Patrol stalling)): Danny Go! earns about 160M to 210M views a month from only 131 videos: its newest 'Don't Stop Moving Challenge' (9 Sep) passed 21M views in two months and its top five are all movement games with sequels (floor is lava, sharks, spiders). Australia's Bounce Patrol (34M subscribers) has stalled at about 89M views a month with no subscriber growth and a Halloween upload of only 371K views in 24 days. Total 1641."
+   "note": "Earlier runs summarised: all rounds through Run 395 (YouTube channels (our Metricool check already done today so skipped; Danny Go! event uploads, Bounce Patrol stalling)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:55",
@@ -13440,6 +13464,10 @@
   {
    "date": "2026-11-16 11:50",
    "note": "Run 473 (music craft (do songs really teach language; Afrobeat nursery rhymes)): An Oxford systematic review of 60 classroom studies in 23 countries found songs do no harm to language learning but the evidence on how much they help is unclear (only 3 strong studies), so we should not overclaim learning in titles; Kenya's Super Sema remade nursery rhymes with Afrobeat rhythms and Swahili versions. Total 1861."
+  },
+  {
+   "date": "2026-11-16 11:51",
+   "note": "Run 474 (visual craft (Reels safe zones, on screen lettering for young readers, 4K uploads)): Meta's Reels safe zones on 1080 by 1920 leave the top 270 px and bottom 670 px for interface, with a centred safe area of about 950 by 980 px and a 3:4 grid crop; for on screen words, early readers do best with plain rounded sans serif letters, single storey a and g and sentence case; 4K uploads get YouTube's better VP9 encode. Total 1865."
   }
  ],
  "history": [
@@ -14314,6 +14342,10 @@
   {
    "date": "2026-11-16 11:50",
    "total": 1861
+  },
+  {
+   "date": "2026-11-16 11:51",
+   "total": 1865
   }
  ],
  "next_week_ideas": [
