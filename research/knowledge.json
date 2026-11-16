@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T13:40:02+05:30",
- "runs": 507,
+ "updated": "2026-11-16T13:41:06+05:30",
+ "runs": 508,
  "branches": [
   {
    "id": "platforms",
@@ -6026,6 +6026,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 501
+    },
+    {
+     "t": "A 2026 Annals of the New York Academy of Sciences review notes that speech aimed at children has a strong pulse at about 2 beats a second and that lullabies across languages sit near the same rate (about 120 BPM), so a steady 110 to 125 BPM groove matches how adults naturally talk and sing to kids.",
+     "src": "Annals NYAS (Tillmann, Goswami, Moghimi), 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 508
+    },
+    {
+     "t": "The same review reports that eight months of rhythm focused music training improved word reading accuracy in 7 to 8 year olds and that beat keeping at age 6 predicts reading at 7 to 9 (mostly small or correlational studies), which supports clap, tap and stomp along parts in Bro Bros songs and gives parents a real learning reason to share them.",
+     "src": "Annals NYAS, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 508
+    },
+    {
+     "t": "The review's suggested home activity is moving in time with sung rhymes (lap bouncing for babies, tapping strong and weak syllables for older kids), so our parent captions can say 'bounce your baby on the beat' or 'tap the BIG words' to turn a song into a shared rhythm game.",
+     "src": "Annals NYAS, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 508
+    },
+    {
+     "t": "Suno's own kids song library advises asking for a gradual energy build with clap or step cues for dance songs, an ending that connects smoothly back to the start for loops, a clear melody with a warm voice and few brass hits or abrupt changes for young children, and changing only one prompt element at a time between drafts.",
+     "src": "Suno music library (kids), 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 508
+    },
+    {
+     "t": "Suno's Hindi kids song library suggests a bouncy kick with dhol or tabla, manjira, guitar and bright strings with folk or film style colour, a ready sound palette for Hindi versions of Bro Bros songs that still keeps one clear melody and a repeatable hook.",
+     "src": "Suno music library (Hindi kids), 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 508
     }
    ]
   },
@@ -13767,11 +13802,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 428 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:53",
-   "note": "Run 429 (TRENDS (classroom movement: GoNoodle's body percussion 'Thinglish' campaign; new December trend lists not yet published)): No December 2026 trend roundups exist yet. GoNoodle (used in 88% of US elementary schools) ran a 5 Oct to 1 Nov 'Thinglish' campaign with a new family film, teaching kids to say hello, goodbye, yes and no in body percussion and to invent movement names, and counting class minutes of movement in a contest; an old UK school craze shows such call and response chants travel from class to home. A 'Bro Speak' clap language song and a Hey Bear style 'Disco Fruit Party' went into next week's ideas. Total 1751."
+   "note": "Earlier runs summarised: all rounds through Run 429 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:54",
@@ -14084,6 +14115,10 @@
   {
    "date": "2026-11-16 13:40",
    "note": "Run 507 (TRENDS (SocialPilot TikTok and Reels lists, Know Your Meme, Daily Dot; most already in the tree)): Weekly lists still date from 30 Oct to 13 Nov, so only small gains: an 'AI versus handmade' side by side version of the Dame Hombro shoulder bounce, the Double Dutch Bus choreography revival (3.5M likes, 13K copies) as proof old school playground rhythm dances travel, and a reminder that original audio is not royalty free for paid promotion. Total 1953."
+  },
+  {
+   "date": "2026-11-16 13:41",
+   "note": "Run 508 (music craft (2026 rhythm development reviews, Suno's kids song library)): A 2026 Annals review finds speech to children and lullabies across languages pulse at about 2 beats a second (120 BPM) and that months of rhythm based music play improved word reading in 7 to 8 year olds; Suno's own kids library advises clap or step cues for dance songs, endings that loop back to the start and few brass hits for little ones. Total 1958."
   }
  ],
  "history": [
@@ -15094,6 +15129,10 @@
   {
    "date": "2026-11-16 13:40",
    "total": 1953
+  },
+  {
+   "date": "2026-11-16 13:41",
+   "total": 1958
   }
  ],
  "next_week_ideas": [
