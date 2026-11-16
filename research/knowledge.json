@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:56:47+05:30",
- "runs": 591,
+ "updated": "2026-11-16T16:57:16+05:30",
+ "runs": 592,
  "branches": [
   {
    "id": "platforms",
@@ -6369,6 +6369,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 556
+    },
+    {
+     "t": "Releasing each song twice, as a 'music version' and a 'vocals only' version, is an established practice of the big Islamic pop label Awakening (home of Maher Zain and Sami Yusuf), studied in Popular Music and Society (2020); together with 'NO INSTRUMENTS' labels on kids channels this makes a vocals only (voices, claps and body percussion) edit of our strongest songs a normal, expected format for Muslim families from Indonesia and Malaysia to the Gulf.",
+     "src": "Otterbeck and Skjelbo, Popular Music and Society, 2020",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 592
     }
    ]
   },
@@ -14677,11 +14684,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 512 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 13:46",
-   "note": "Run 513 (TRENDS (this week's most viewed Shorts, US and worldwide charts)): New format signals in the week to 15 Nov: 'Ranking the cutest...' countdown Shorts (9M in a week), creator made animated mini stories retelling classic tales with emoji titles (Three Little Piggies 3.4M, The Moon Visitor 7.1M) and two kids lesson Shorts (sharing 22M, Arabic food alphabet 20M) among the world's top 16 Shorts. Total 1968."
+   "note": "Earlier runs summarised: all rounds through Run 513 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 13:47",
@@ -14994,13 +14997,13 @@
   {
    "date": "2026-11-16 16:56",
    "note": "Run 591 (TRENDS (Hanukkah and winter movement songs)): Hanukkah and winter movement song searches found only older parody videos and classroom brain breaks already reflected in the tree (Hanukkah starts 4 Dec, freeze and snowman moves), so no new leaves. Total 2083."
+  },
+  {
+   "date": "2026-11-16 16:57",
+   "note": "Run 592 (music craft (vocals only versions)): A 2020 academic study confirms that the big Islamic pop label behind Maher Zain releases the same songs as a 'music version' and a 'vocals only' version as a normal production practice, backing the plan to make vocals only edits of our best songs. Total 2084."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 03:47",
-   "total": 1251
-  },
   {
    "date": "2026-11-16 03:49",
    "total": 1254
@@ -16196,6 +16199,10 @@
   {
    "date": "2026-11-16 16:56",
    "total": 2083
+  },
+  {
+   "date": "2026-11-16 16:57",
+   "total": 2084
   }
  ],
  "next_week_ideas": [
