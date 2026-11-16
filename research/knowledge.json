@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:55:11+05:30",
- "runs": 738,
+ "updated": "2026-11-16T22:55:34+05:30",
+ "runs": 739,
  "branches": [
   {
    "id": "platforms",
@@ -9491,6 +9491,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 727
+    },
+    {
+     "t": "Japanese New Year (1 to 3 January) is the country's biggest family holiday: children get otoshidama money envelopes, eat osechi box meals and traditionally play kite flying, spinning tops, a paddle shuttlecock game and a blindfold funny face game, so a 'New Year games' song with kites and spinning tops gives Japan (one of YouTube's largest audiences) a seasonal video without copying any character.",
+     "src": "Kids Web Japan (Japanese government), evergreen",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 739
     }
    ]
   },
@@ -16252,11 +16259,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 659 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:55",
-   "note": "Run 660 (our results (Metricool schedule check for 16 to 18 Nov)): Analytics were already recorded today, so this round read the Metricool schedule instead: the six songs for 16 to 18 Nov (drum freeze dance, Wiggle Bus, digger, boo boo bandage, veggie tango, Freeze Arena) all follow the playbook but none is wintry or Christmas yet, every post has the YouTube and Instagram AI flags set to false although the music is made in Suno, and each song still gets a Short 5 minutes after the long video. Total 2199."
+   "note": "Earlier runs summarised: all rounds through Run 660 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:56",
@@ -16569,6 +16572,10 @@
   {
    "date": "2026-11-16 22:55",
    "note": "Run 738 (visual craft (character colour and gender appeal, title rule tests)): Emoji and title rule studies were already in the tree; a Japanese preprint with 345 preschoolers found recolouring robots pink barely changed girls' choices, a weak hint that characters need their own roles, not just colour swaps. Total 2308."
+  },
+  {
+   "date": "2026-11-16 22:55",
+   "note": "Run 739 (topics and seasons (Japanese New Year; trends skipped after an empty trends round)): Japanese New Year traditions (otoshidama, osechi, kites, spinning tops, blindfold face game) were missing from the tree; southern hemisphere summer Christmas was already covered. Total 2309."
   }
  ],
  "history": [
@@ -17459,6 +17466,10 @@
   {
    "date": "2026-11-16 22:55",
    "total": 2308
+  },
+  {
+   "date": "2026-11-16 22:55",
+   "total": 2309
   }
  ],
  "next_week_ideas": [
