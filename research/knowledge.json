@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:07:55+05:30",
- "runs": 669,
+ "updated": "2026-11-16T20:08:33+05:30",
+ "runs": 670,
  "branches": [
   {
    "id": "platforms",
@@ -15588,6 +15588,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 667
+    },
+    {
+     "t": "The 26 Nov 2026 Macy's Thanksgiving Day Parade is the 100th, with centennial marketing, new character balloons and a holiday merchandise line, so giant balloon parades will fill US family feeds that week; a Bro Bros parade song with our own invented balloons (sun, rainbow whale, drum) is a timely, character safe way to join.",
+     "src": "Disney Parks Blog / Attractions Magazine, Aug to Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 670
+    },
+    {
+     "t": "Last year's parade added kid magnets beyond balloons (a LEGO winter mountain float with penguins and seals, a tiny under 8 inch float pulled by a remote control truck, a counting sheep float), showing that tiny versus giant and counting gags are what parade organisers use to delight children, ideas our parade song can borrow in our own designs.",
+     "src": "AOL, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 670
     }
    ]
   }
@@ -15615,11 +15629,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 590 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:56",
-   "note": "Run 591 (TRENDS (Hanukkah and winter movement songs)): Hanukkah and winter movement song searches found only older parody videos and classroom brain breaks already reflected in the tree (Hanukkah starts 4 Dec, freeze and snowman moves), so no new leaves. Total 2083."
+   "note": "Earlier runs summarised: all rounds through Run 591 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:57",
@@ -15932,6 +15942,10 @@
   {
    "date": "2026-11-16 20:07",
    "note": "Run 669 (competitor deep dive (Lalafun's English sister channels; KS 3D)): Lalafun runs at least two more English US channels besides its main one: Little Lalaby (1.17M subscribers, 1,833 videos, about 18.3M views in the last 28 days, peak 46M in Jul 2026) and Funlala (about 42M a month), and both share new songs under the Lalafun name; Little Lalaby's 13 Nov 'A Ram Sam Sam, move your hands and feet' action song is running about 28 times its usual views. A 3D nursery rhyme channel with only 76 very long compilations (KS 3D) has stalled with zero uploads, showing long compilations alone do not keep a channel alive. Total 2217."
+  },
+  {
+   "date": "2026-11-16 20:08",
+   "note": "Run 670 (TRENDS (100th Thanksgiving parade; Tubefilter week of 15 Nov not out)): Tubefilter's week of 15 Nov chart was not yet published. Seasonal find: the Macy's Thanksgiving Day Parade on 26 Nov 2026 is the 100th, with centennial marketing (new Disney and Snoopy balloons), so a giant balloon parade song with our own balloons was added to the trend bank for 25 to 26 Nov. Total 2219."
   }
  ],
  "history": [
@@ -16546,9 +16560,17 @@
   {
    "date": "2026-11-16 20:07",
    "total": 2217
+  },
+  {
+   "date": "2026-11-16 20:08",
+   "total": 2219
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "The Big Balloon Parade",
+   "why": "The 100th Thanksgiving parade on 26 Nov 2026 will fill US family feeds with giant balloons; our own parade song (a new invented balloon each verse, kids shout its colour, march and wave in place) is timely that week and works year round anywhere as a colours and marching song."
+  },
   {
    "title": "Twelve Winter Gifts (Counting Song)",
    "why": "The twelve day countdown is on kids TV this December (Apple TV's 12 Days of Snoopy special); our original cumulative counting song adds one gift and one dance move per verse, works as 12 daily Shorts from 13 to 24 Dec and as one long video, and counting songs travel across languages."
@@ -16600,10 +16622,6 @@
   {
    "title": "The Haircut Is Not Scary",
    "why": "Fear calming songs about new experiences (eye test, dark room, doctor) are among the longest lasting kids hits worldwide; a Bro nervous at his first haircut, a brave counting chorus and a proud mirror dance travels to every culture."
-  },
-  {
-   "title": "Fly Up High, My Kite! (Kite Festival Song)",
-   "why": "Makar Sankranti on 15 Jan 2027 brings kite flying across India and kite festivals around the world; the Bros run, tug and let their kites climb with a rising melody and a 'pull, pull, let it fly' action chorus, made in English and Hindi for our big Indian audience."
   }
  ],
  "trend_bank": [
@@ -16630,6 +16648,12 @@
    "where": "Instagram Reels and TikTok (evergreen since Apr 2026)",
    "status": "evergreen",
    "use": "Big Bro and Little Bro swap headphones: one hears our calm lullaby and starts yawning and swaying, the other hears our fast dance song and starts bouncing; they swap back and the moods flip, ending with both singing our chorus together. Meshy motion: standing, slow side sway with arms floating, then quick bounce in place with fists pumping."
+  },
+  {
+   "name": "Giant balloon parade",
+   "where": "US TV and social feeds on 26 Nov 2026 (100th Macy's Thanksgiving Day Parade, seasonal)",
+   "status": "seasonal",
+   "use": "Post on 25 to 26 Nov a Bro Bros parade song with our own giant balloons (a smiling sun, a rainbow whale, a drum) floating down a toy town street while the brothers and friends march and wave below; each verse a new balloon appears and kids shout its colour. Meshy motion: standing march in place with high knees, big two hand waves overhead, then pointing up at the sky."
   },
   {
    "name": "Twelve day countdown",
@@ -16720,12 +16744,6 @@
    "where": "TikTok and Reels (candid dance clips, rising)",
    "status": "rising",
    "use": "Little Bro dances alone to our song while doing a chore (brushing teeth, sweeping, stirring cookie dough), Big Bro peeks in with the phone, Little Bro freezes mid move with a surprised face, then shrugs and pulls Big Bro in so both finish the chorus together. Meshy steps, standing in place: a bouncy side step with arms swinging, a sudden freeze with arms out, a shrug, a two person side to side groove."
-  },
-  {
-   "name": "Rainbow igloo build",
-   "where": "TikTok and Instagram family winter videos (winter, seasonal)",
-   "status": "seasonal",
-   "use": "A winter colours song where the Bros stack glowing ice blocks one colour per line (red, orange, yellow, green, blue, purple) in a quick time lapse, then step back for a night time glowing reveal and a cosy wave from the doorway. Meshy steps, standing: lifting a block to chest height and placing it forward, a proud hands on hips pose, a two hand wave."
   }
  ]
 }
