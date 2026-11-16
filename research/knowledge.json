@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:50:06+05:30",
- "runs": 577,
+ "updated": "2026-11-16T16:50:41+05:30",
+ "runs": 578,
  "branches": [
   {
    "id": "platforms",
@@ -1595,6 +1595,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 577
+    },
+    {
+     "t": "A UK agency's analysis of its own 68 Instagram videos (Dec 2024 to Jun 2026) found views fall as Reels get longer (correlation about minus 0.38): 1 to 1.5 minutes reached most (463 views against a 263 average), 3.5 to 4 minutes least (125), and 2 to 3 minute Reels were the weakest on both reach and engagement, so a full Bro Bros song should be cut to a 30 to 90 second Reel rather than posted at 2 to 3 minutes.",
+     "src": "The SEO Works, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 578
     }
    ]
   },
@@ -14600,11 +14607,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 498 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 12:59",
-   "note": "Run 499 (TRENDS (SocialPilot Reels audio, weekend dance news, Last Dance animation trend; all already in the tree)): Weekly trend sources have not refreshed since 13 Nov; the 'Last Dance' synced character animation, Dame Hombro shimmy and Christmas countdown sounds were already leaves, so no new leaves; fresh lists are expected around 19 to 20 Nov. Total 1931."
+   "note": "Earlier runs summarised: all rounds through Run 499 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 12:59",
@@ -14917,13 +14920,13 @@
   {
    "date": "2026-11-16 16:50",
    "note": "Run 577 (YouTube algorithm (YouTube Kids entry and co viewing on TV)): The YouTube Kids filter FAQ was already in the tree; one new data point added from Precise TV's kids report: 95% of families co view and 70% co view YouTube on a connected TV, with kids 2 to 12 averaging 106 minutes of YouTube a day. Total 2072."
+  },
+  {
+   "date": "2026-11-16 16:50",
+   "note": "Run 578 (Shorts and Reels (video length data)): A UK agency's 68 Reel test (Jul 2026) found views fall as Reels get longer (best reach at 1 to 1.5 minutes, worst at 3.5 to 4) and 2 to 3 minute Reels weakest on both reach and engagement; Adobe's Shorts length survey was already a leaf. Total 2073."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 02:41",
-   "total": 1201
-  },
   {
    "date": "2026-11-16 02:42",
    "total": 1205
@@ -16119,6 +16122,10 @@
   {
    "date": "2026-11-16 16:50",
    "total": 2072
+  },
+  {
+   "date": "2026-11-16 16:50",
+   "total": 2073
   }
  ],
  "next_week_ideas": [
