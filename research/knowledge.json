@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:45:49+05:30",
- "runs": 364,
+ "updated": "2026-11-16T07:46:58+05:30",
+ "runs": 365,
  "branches": [
   {
    "id": "platforms",
@@ -5739,6 +5739,48 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 354
+    },
+    {
+     "t": "Blender 5.3 (10 Nov 2026) adds a scene level compositor effects stack, like a modifier stack, with built in Bloom, Chromatic Aberration, Film Grain and Vignette, so one saved Bro Bros finishing look (soft bloom plus a light grain) can be applied to every scene, giving the warm handmade feel that sets crafted animation apart from AI slop.",
+     "src": "Digital Production, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 365
+    },
+    {
+     "t": "Blender 5.3's Video Sequencer gains ripple trim and delete, overwrite and shuffle modes and rewritten blade tools, which makes assembling 25 to 45 minute song compilations inside Blender much faster without a separate editor.",
+     "src": "Digital Production, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 365
+    },
+    {
+     "t": "Blender 5.3's optional project system (a .blender_project folder with shared paths, project asset libraries and one colour setup) lets every weekly song file pull the same Bro Bros characters, props and sets from one library, which keeps characters on model across 14 songs a week.",
+     "src": "Digital Production, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 365
+    },
+    {
+     "t": "Blender 5.3 Grease Pencil adds lasso and box selection, a carver tool and gradient fills, handy for hand drawn doodle overlays (stars, sparkles, sound lines) on top of 3D shots, one of the 'post AI authenticity' touches.",
+     "src": "Digital Production, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 365
+    },
+    {
+     "t": "An aggregate of 3,200 song video thumbnails (Sep 2026) found muted or desaturated palettes lost about 47% CTR in tests, vivid colours won 58% of tests, and dark navy (6.8%) or orange (6.2%) backgrounds beat mid grey (4.2%) and busy photos (4.1%), so a single strong colour field behind the Bros beats a detailed scene background.",
+     "src": "mer.vin song thumbnail study, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 365
+    },
+    {
+     "t": "The same study found 0 to 3 words of text win about 65% of A/B tests, with letters at least 70 to 96 px tall on a 1280x720 image and a 4 to 6 px outline or shadow linked to about 20% higher CTR, because thumbnails are seen at about 168 px wide in the sidebar.",
+     "src": "mer.vin song thumbnail study, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 365
     }
    ]
   },
@@ -10662,10 +10704,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 03:41",
-   "note": "Run 286 (TRENDS (Christmas 2026 toy wish lists, nostalgia shared by parents and kids)): Social trackers this week repeat formats already in the bank, so this round looked at the gifts kids will unbox on camera: the toys taking off for Christmas 2026 are nostalgic remakes parents remember (a 90s giggling plush, a retro electronic pet at about 15 USD, mini collectible playsets), singing character dolls and big playhouses. Removed one duplicate Super Simple leaf from Run 285 that repeated an older leaf. Total 1231."
-  },
-  {
    "date": "2026-11-16 03:42",
    "note": "Run 287 (rules and monetisation (Malaysia under 16 ban, Ofcom vs YouTube feeds, India DPDP timeline, AI label placement)): Malaysia has enforced an under 16 ban on accounts for platforms with 8M+ users since 1 Jun 2026, YouTube included, with age checks for existing users phased over six months. Ofcom found 73% of UK 11 to 17s met harmful content in four weeks and YouTube declined to overhaul its feeds. India's DPDP rollout runs to May 2027, with DigiLocker style tokens for parental consent. YouTube's AI labels now sit on Shorts and just below the player, but animation is excluded. Total 1235."
   },
@@ -10976,13 +11014,13 @@
   {
    "date": "2026-11-16 07:45",
    "note": "Run 364 (music craft and tools (Suno's September download and remix rules)): Music craft research is saturated, so this round checked Suno's rules that took effect on 3 Sep 2026: Remix outputs stay personal use on every plan, a song can only be released after a counted download is used on it, Premier gets 60 downloads a month (about our 14 songs a week) but Suno Studio downloads are unlimited, and Suno is adding watermarking so its songs can be identified elsewhere. The playbook's originality rule now says to publish only fresh paid plan generations, never Remixes. Total 1509."
+  },
+  {
+   "date": "2026-11-16 07:46",
+   "note": "Run 365 (visual craft (Blender 5.3 tools for our pipeline, song thumbnail colour data)): Blender 5.3 (10 Nov) adds three things that fit our weekly pipeline: a scene effects stack for one consistent finishing look (bloom, light grain, vignette), faster ripple editing in the Video Sequencer for long compilations, and an optional project folder with shared asset libraries to keep the Bros on model. A 3,200 thumbnail song study adds that muted palettes lose about 47% CTR and 0 to 3 words of large outlined text win most tests. Total 1515."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:37",
-   "total": 367
-  },
   {
    "date": "2026-11-15 17:38",
    "total": 371
@@ -12178,6 +12216,10 @@
   {
    "date": "2026-11-16 07:45",
    "total": 1509
+  },
+  {
+   "date": "2026-11-16 07:46",
+   "total": 1515
   }
  ],
  "next_week_ideas": [
