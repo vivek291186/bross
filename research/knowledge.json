@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:48:02+05:30",
- "runs": 787,
+ "updated": "2026-11-17T00:49:21+05:30",
+ "runs": 788,
  "branches": [
   {
    "id": "platforms",
@@ -11199,6 +11199,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 776
+    },
+    {
+     "t": "HypeAuditor's November 2026 Thailand ranking shows the biggest kids channels there are local language versions and Thai song channels: a Thai dub of a global family vlog brand at 14.2M subscribers, Thai kids song channels at 7 to 8M (one tagged animals and education), and BabyBus's Thai channel at 5.5M, so Thailand rewards a dedicated Thai language track with animal themed songs rather than English only uploads.",
+     "src": "hypeauditor.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 788
+    },
+    {
+     "t": "Indonesia, TikTok's largest market, began a social media ban for under 16s on 28 Mar 2026 with up to a year for platforms to comply, so Indonesian children (a top dubbing language for kids channels) will increasingly reach Bro Bros through a parent's account or the family TV, which favours full songs and long compilations over Shorts and Reels for that market.",
+     "src": "insidethecreator.beehiiv.com, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 788
+    },
+    {
+     "t": "Arab preschool YouTube hits often adapt classic rhymes and songs into a regional dialect (a Lebanese Arabic preschool music channel passed 1M subscribers serving local families and the diaspora), so an Arabic Bro Bros track should pick one warm, widely understood spoken dialect for chants and keep sung choruses simple rather than formal classroom Arabic.",
+     "src": "kidscreen.com, 2023",
+     "conf": "low",
+     "date": "2026-11-17",
+     "run": 788
     }
    ]
   },
@@ -16580,12 +16601,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:06",
-   "note": "Earlier runs summarised: all rounds through Run 708 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:07",
-   "note": "Run 709 (TRENDS (Anijam November list, mid November dance searches)): Anijam's November list (holiday 'defrosted' spooky to festive switch, runway walk, Dame Hombro shoulder loop) and other mid November dance searches returned only trends already in the bank; no new leaves. Total 2279."
+   "note": "Earlier runs summarised: all rounds through Run 709 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:07",
@@ -16898,6 +16915,10 @@
   {
    "date": "2026-11-17 00:48",
    "note": "Run 787 (TRENDS (December family films, classroom dance clips, B&T monthly lists)): December family films in Europe add forest and young whale nature stories, giving a new 'Little Whale Finds Her Song' idea; teacher led one by one classroom dance lines echo our dance parade format; B&T's latest lists were from 2025. Total 2355."
+  },
+  {
+   "date": "2026-11-17 00:49",
+   "note": "Run 788 (global markets (Thailand, Indonesia, Arab world)): New: Thailand's November top kids channels are Thai language versions and Thai song channels (BabyBus Thai 5.5M), Indonesia's under 16 social media ban since Mar 2026 pushes kids there to family accounts and TV, and Arab preschool hits use local dialect rhymes; Saudi Kaspersky data was 2023 and global. Total 2358."
   }
  ],
  "history": [
@@ -17984,6 +18005,10 @@
   {
    "date": "2026-11-17 00:48",
    "total": 2355
+  },
+  {
+   "date": "2026-11-17 00:49",
+   "total": 2358
   }
  ],
  "next_week_ideas": [
