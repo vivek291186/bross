@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:48:56+05:30",
- "runs": 366,
+ "updated": "2026-11-16T07:50:06+05:30",
+ "runs": 367,
  "branches": [
   {
    "id": "platforms",
@@ -7475,6 +7475,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 356
+    },
+    {
+     "t": "BabyBus's Japanese channel (5.86M subscribers) still draws about 104M views every 28 days, but its monthly subscriber gains fell from about 150K in Dec 2025 to 20K in Oct 2026, so in a mature market views now come from catalogue and recommendations, not fresh subscriptions.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 367
+    },
+    {
+     "t": "BabyBus's Vietnamese channel (9.75M subscribers, rank 33 in Vietnam) gets about 71M to 116M views a month in 2026 and a single new Short reached about 528K views in 2.5 days, so Vietnam (63M YouTube users) is a large kids market where a re sung Vietnamese track or Shorts could earn real volume.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 367
+    },
+    {
+     "t": "Japan's kids songs on YouTube are led by anime and character themes (Pokémon, Doraemon, Anpanman) and songs from NHK's daily preschool show 'Okaasan to Issho' (a clock song, a noodle song), plus family pop such as Gen Hoshino's 'Family Song', so Japanese parents favour songs tied to a familiar show; a Japanese Bro Bros track works best on everyday routine topics like time, food and bath.",
+     "src": "Soundcharts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 367
+    },
+    {
+     "t": "Nigeria has over 30M adult YouTube viewers, watch time grew over 50% in a year and views from Nigeria rose about 80% (Yoola data), with local CPMs of about 0.50 to 2.50 USD against up to 15 USD in the US; as an English speaking country it is a growing audience our English songs reach with no dubbing.",
+     "src": "TechCabal, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 367
+    },
+    {
+     "t": "Both BabyBus local channels post Shorts and song live streams in local language (for example a Japanese ice cream song live stream on 13 Nov 2026), showing that the big brands run the same three formats (long songs, Shorts, live loops) in every language, not only in English.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 367
     }
    ]
   },
@@ -10739,10 +10774,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 03:44",
-   "note": "Run 288 (YouTube main channels (Sasha Show surge, Toys and Colors franchise scale)): Our own results were checked an hour ago with no new Metricool data, so this round moved to channel movers. Russian language family creator Sasha Show jumped from about 1 to 2M new subscribers a month to 9.47M in October 2026 (633M views in 28 days) with toy and candy challenge videos, yet vidIQ models only about 17K USD from it, a reminder that huge Shorts and kids views pay little. Toys and Colors' three main channels reached 348M unique viewers and 11.6B watch minutes in 90 days and launched holiday specials with an original single on music apps. Total 1238."
-  },
-  {
    "date": "2026-11-16 03:45",
    "note": "Run 289 (TRENDS (December returners: save Christmas quests, holiday classics, first snow ever reactions)): Last December's kids creator hits wrapped toys in a story (a quest to 'save Christmas') or let viewers choose between two paths, and a republished classic Christmas cartoon gathered 12M views in a month. 'First snow ever' reactions (a man from Uganda in Canada, students in Finland, babies, pets, even a baby camel) go viral every early winter and suit an animated wonder moment. Two December formats joined the trend bank. Total 1241."
   },
@@ -11053,13 +11084,13 @@
   {
    "date": "2026-11-16 07:48",
    "note": "Run 366 (TRENDS (China's flash step folk dance, seasonal playlists, Instagram year end features)): China's 'flash step' dance (folk moves from a Beijing Dance Academy tutorial: a quick side dodge, a hopping kick and a 'black bear shaking fur' wiggle) went viral from September and sent untrained imitators to hospital, so we keep only a slow, safe bear shake version. Seasonal playlists topped US YouTube trending in early November, and Instagram's year end 'Add Yours' sticker and New Year effects ran from about 16 Dec last year. Total 1520."
+  },
+  {
+   "date": "2026-11-16 07:50",
+   "note": "Run 367 (global markets (BabyBus in Japan and Vietnam, Japan's kids song chart, Nigeria's YouTube boom)): BabyBus's local channels show the size of single language markets: about 104M views a month in Japanese and 92M in Vietnamese, but subscriber gains have slowed to about 20K a month in both, so views come from the catalogue and recommendations rather than new fans. Japan's kids song chart is led by anime themes and NHK show songs, and Nigeria's YouTube watch time grew over 50% in a year with views up 80%, an English speaking market that needs no dub. Total 1525."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:39",
-   "total": 374
-  },
   {
    "date": "2026-11-15 17:39",
    "total": 377
@@ -12255,6 +12286,10 @@
   {
    "date": "2026-11-16 07:48",
    "total": 1520
+  },
+  {
+   "date": "2026-11-16 07:50",
+   "total": 1525
   }
  ],
  "next_week_ideas": [
