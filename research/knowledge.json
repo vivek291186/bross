@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:06:14+05:30",
- "runs": 543,
+ "updated": "2026-11-16T16:06:49+05:30",
+ "runs": 544,
  "branches": [
   {
    "id": "platforms",
@@ -6229,6 +6229,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 532
+    },
+    {
+     "t": "In a 2024 experiment (Quarterly Journal of Experimental Psychology), 1 to 2 year olds learned new word and object pairs only when the words were sung, not spoken; 3 to 4 year olds learned both but did better with song, and 4 to 5 year olds still reliably recalled the sung words days later, an effect not explained by extra attention.",
+     "src": "Princeton, QJEP 2024",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 544
+    },
+    {
+     "t": "Because toddlers learned only the sung words, any teaching word in a Bro Bros song (a colour, a number, an animal name) should be sung on the melody in the chorus, never dropped into a spoken line or a sound effect gap, which especially matters for the youngest viewers.",
+     "src": "own synthesis of QJEP 2024",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 544
     }
    ]
   },
@@ -14271,11 +14285,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 464 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:41",
-   "note": "Run 465 (competitor deep dive (Boom Buddies, a 3D nursery rhyme channel with five buddy characters)): Boom Buddies (6.18M subs, 3.1B views, 1,150 videos) gained no subscribers in the last 28 days and gets only about 10.7M views a month, so generic 3D rhyme catalogues stall; two of its top 5 videos are Halloween songs and a dance instruction song has 19M. Its Hindi edition gets more monthly views but a modelled ad income about a quarter as large. Total 1839."
+   "note": "Earlier runs summarised: all rounds through Run 465 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:43",
@@ -14588,6 +14598,10 @@
   {
    "date": "2026-11-16 16:06",
    "note": "Run 543 (TRENDS (India Reels roundups and Southeast Asia dance check)): No new India Reels trend beyond Sheru Bhai this week; Philippine budots (a free knee bend and hip swing street dance that went global on TikTok in 2024) was profiled again in October but is not trending anew and its low squat does not suit Meshy, so it went in only as a market note. Total 2025."
+  },
+  {
+   "date": "2026-11-16 16:06",
+   "note": "Run 544 (music craft (sung versus spoken word learning studies)): The infant movement study was already a leaf; new: a 2024 Quarterly Journal of Experimental Psychology study found 1 to 2 year olds learned new words only when they were sung, 3 to 4 year olds learned both but did better with song, and 4 to 5 year olds remembered sung words days later, so every Bro Bros learning song should sing its key words, not speak them. Total 2027."
   }
  ],
  "history": [
@@ -15742,6 +15756,10 @@
   {
    "date": "2026-11-16 16:06",
    "total": 2025
+  },
+  {
+   "date": "2026-11-16 16:06",
+   "total": 2027
   }
  ],
  "next_week_ideas": [
