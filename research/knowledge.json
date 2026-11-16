@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:40:20+05:30",
- "runs": 379,
+ "updated": "2026-11-16T08:41:26+05:30",
+ "runs": 380,
  "branches": [
   {
    "id": "platforms",
@@ -3912,6 +3912,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 371
+    },
+    {
+     "t": "Lalafun Nursery Rhymes (15.1M subscribers) is one of 2026's fastest growing preschool song channels: about 139M views in April, then 585M to 722M every month from May to October with 500K to 700K new subscribers a month.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 380
+    },
+    {
+     "t": "Lalafun's breakout formula is a familiar rhyme plus a toddler mission in the title: 'Catch the Black Sheep! Baa Baa Song' reached 33M views in 63 days (30x its typical video), 'Baby Helps the Itsy Bitsy Spider!' 14M and 'Paramedic Cures the Boo Boos' 6M; chasing animals, boo boos and vehicles beat planets and counting.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 380
+    },
+    {
+     "t": "Lalafun uploads about three videos a week, almost all long form (recent average about 18 minutes), which shows a mostly long form preschool channel can still grow fast in 2026 without leaning on Shorts.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 380
+    },
+    {
+     "t": "BabyBus's English channel (44.2M subscribers) is steady rather than growing: about 186M to 257M views a month through 2026 and 100K new subscribers a month, flat in October; its newest upload (12 Nov) is a good habits 'Boo Boo Song' that drew about 46K views in 13 hours.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 380
+    },
+    {
+     "t": "By 13 November 2026 neither BabyBus English nor Lalafun had posted a Christmas video (Lalafun's newest is a 'Sharing is Great!' manners song, 158K views in under two days), so big preschool brands start Christmas late and an early, original Christmas song still has room.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 380
     }
    ]
   },
@@ -4920,6 +4955,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 376
+    },
+    {
+     "t": "Two leading preschool brands released 'boo boo' care songs within weeks (BabyBus's 'Boo Boo Song' Nov 2026, Lalafun's 'Paramedic Cures the Boo Boos' 6M views), confirming that small hurts and caring for them is a strong evergreen song topic.",
+     "src": "vidIQ and OutlierKit, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 380
     }
    ]
   },
@@ -11126,7 +11168,7 @@
   "Use call-and-response or riddle lines ('What colour? RED!') with a short pause so kids can answer at home.",
   "A tiny story that is easy to follow (one problem, one fix, one clear lesson such as kindness or a healthy habit) with one tempo change kids can act out, ending in a happy payoff; show people and places from many cultures.",
   "A bright, young sounding lead voice (in Suno ask for 'bright youthful vocals' rather than 'children's choir', which often comes out uncanny; start the Style field with 'one clear lead singer', put the chorus lift into drums and synths instead of extra voices, and list choir, crowd and gang vocals in Exclude); characters look into the camera and talk to the viewer, with spoken lines in their own [Spoken] section; master every song to about -14 LUFS with -1 dBTP peaks.",
-  "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist and a learning tag in the title.",
+  "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist, a mission in the title ('Catch the...!', 'Help the...!', 'Cure the boo boo!') and a learning tag.",
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele); reach the chorus by about 0:15, because our long songs hold viewers only about 20 seconds on average.",
   "Camera and motion: calm cuts every 3 to 6 s, lead Bro centred and big, gentle constant background motion (drifting clouds, bubbles, stars) that matches the song, bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; every week make at least one healthy habit song led by a friendly helper mascot (brush teeth for two minutes, wash hands) and one sharing or taking turns song, the topics behind this autumn's biggest kids breakouts.",
@@ -11143,10 +11185,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 04:01",
-   "note": "Run 301 (TRENDS (what kids play now: Roblox's fastest growing new games, Gen Alpha gift asks)): The ten fastest growing new Roblox games in early November 2026 lean on pets and egg stealing, a cat sumo game, car football, bike and rally racing and a fries cooking game (plus one horror pool game we avoid). Last holiday season 69% of US Gen Alpha asked for gifts they first saw in online ads or creator videos, with YouTube the top influence (56%). A hatch the egg format joined the trend bank. Total 1278."
   },
   {
    "date": "2026-11-16 04:03",
@@ -11459,13 +11497,13 @@
   {
    "date": "2026-11-16 08:40",
    "note": "Run 379 (global markets (Arabic content gap, Arabic lullabies, higher paying smaller European languages)): Abu Dhabi's culture chief said in September that about 80% of what Arab children watch is not in Arabic, and Arabic lullabies are so scarce that Spacetoon and Moonbug made four originals this year, so an Arabic dub of our bedtime songs fills a real gap; AIR's vendor data puts smaller European languages (Polish, Czech, Hungarian, Greek, Romanian) at 3 to 6 times Indonesia's ad rate per view. Total 1578."
+  },
+  {
+   "date": "2026-11-16 08:41",
+   "note": "Run 380 (competitors (Lalafun's fivefold growth and mission titles, BabyBus flat)): Lalafun's main channel jumped from about 139M views in April to 600M to 720M a month from May to October 2026 (+600K to 700K subscribers a month), and its breakouts all pair a classic rhyme with a toddler mission in the title ('Catch the Black Sheep!' 33M in 9 weeks); BabyBus English holds a steady 220M a month and, like Lalafun, has no Christmas upload yet, while both just released boo boo and sharing songs. Total 1584."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:47",
-   "total": 428
-  },
   {
    "date": "2026-11-15 18:47",
    "total": 433
@@ -12661,9 +12699,17 @@
   {
    "date": "2026-11-16 08:40",
    "total": 1578
+  },
+  {
+   "date": "2026-11-16 08:41",
+   "total": 1584
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Catch the Runaway Snowman! (Chase Song)",
+   "why": "Lalafun's mission titled rhymes ('Catch the Black Sheep!' 33M in 9 weeks) show chase missions are the top preschool breakout; a snowman that rolls away through town lets the Bros chase, count and finally hug him, with a seasonal winter hook."
+  },
   {
    "title": "No, No, No... YES! (The Yes Dance)",
    "why": "The 'No, No, No... Yes!' Reel format is rising (week of 13 Nov 2026): Little Bro says no to bath, broccoli and bedtime, then YES to the dance chorus; a funny refusal then joy structure that works as a song, a Short and a loop."
@@ -12711,10 +12757,6 @@
   {
    "title": "Open the Door! (Advent Countdown Song)",
    "why": "Advent calendar videos peak in November on YouTube (about 280M views in Nov 2025, Google 2026 report); one song with a number in every verse and a daily door reveal can run as 24 Shorts from 1 Dec, counting practice for kids worldwide."
-  },
-  {
-   "title": "Wiggle in Your Seat!",
-   "why": "Kids are often told to sit still in cars, classrooms and waiting rooms; a dance song built entirely on seated moves (shoulders, hands, head, feet tapping) follows Laurie Berkner's interactive approach, gives parents a calm screen moment and works as a follow along Short."
   },
   {
    "title": "Jump, Jump, Happy New Year!",
