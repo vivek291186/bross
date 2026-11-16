@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:03:08+05:30",
- "runs": 407,
+ "updated": "2026-11-16T09:04:19+05:30",
+ "runs": 408,
  "branches": [
   {
    "id": "platforms",
@@ -11773,6 +11773,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 399
+    },
+    {
+     "t": "AI video template trends for November 2026 include a 'Christmas Dance' where two people dance side by side in matching pyjamas and a 'Jingle Bell Rock' style trio holiday routine in a row; both fit the Bro Bros exactly (two brothers in matching Christmas pyjamas, then a trio with a friend) with our own Christmas song.",
+     "src": "Starrd, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 408
+    },
+    {
+     "t": "Pet clips are the family friendly core of 2026's AI video trends: a dog standing up to dance to a car alarm, two dogs failing to make coffee, a dog driving and singing in sunglasses, a monkey stealing a snack; a short gag where the Bros' dog friend dances to a silly sound in our song is a cheap, loopable Short.",
+     "src": "Starrd, Oct to Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 408
+    },
+    {
+     "t": "A Thanksgiving menu chant ('beans, greens, potatoes, tomatoes') is one of November 2026's AI video memes, showing that a rhythmic list of foods is itself a meme format; a Bro Bros veggie list chant on the beat fits US Thanksgiving week and healthy eating at the same time.",
+     "src": "Starrd, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 408
     }
    ]
   }
@@ -11801,10 +11822,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 05:40",
-   "note": "Run 329 (music craft (Suno v6 sound complaints, how tempo taste changes with age)): Suno subscribers report v6 output as muffled with buried vocals and little top end, so our masters need a brightness and vocal check; a Scientific Reports study shows children's preferred tempo is faster and much wider than adults', which supports energetic, varied tempos for kids and a steady groove for co watching parents. Total 1372."
   },
   {
    "date": "2026-11-16 05:41",
@@ -12117,16 +12134,16 @@
   {
    "date": "2026-11-16 09:03",
    "note": "Run 407 (algorithm (our data and channels already covered this run; YouTube's TV share and TV AI search)): YouTube held about 13.4% of all US TV viewing in April 2026 (Nielsen Gauge), back at its summer 2025 peak and above any single network group most months, and since May its conversational AI answers questions about the playing video on smart TVs without stopping it; most other algorithm items were already in the tree. Total 1672."
+  },
+  {
+   "date": "2026-11-16 09:04",
+   "note": "Run 408 (TRENDS (AI video template trends: matching pyjama Christmas duo dance, trio holiday dance, dancing pets)): Starrd's AI video trend roundup (updated 15 Nov) shows November's template trends turning festive: a duo Christmas dance in matching pyjamas, a trio holiday dance in a row, and pet clips (a dog dancing to a car alarm, two dogs failing to make coffee, a dog driving and singing); these map neatly onto the Bros and their dog friend with our own music. Total 1675."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:08",
-   "total": 527
   },
   {
    "date": "2026-11-15 19:09",
@@ -13319,6 +13336,10 @@
   {
    "date": "2026-11-16 09:03",
    "total": 1672
+  },
+  {
+   "date": "2026-11-16 09:04",
+   "total": 1675
   }
  ],
  "next_week_ideas": [
@@ -13381,6 +13402,18 @@
  ],
  "trend_bank": [
   {
+   "name": "Matching pyjamas Christmas dance",
+   "where": "AI video and Reels templates ('Christmas Dance', Starrd Nov 2026), rising",
+   "status": "rising",
+   "use": "A 15 second Short: Big Bro and Little Bro side by side in matching red and white Christmas pyjamas by the tree, doing the same simple routine to our own Christmas song, then a friend jumps in for a trio on the last bar. Steps for Meshy: standing in place, step side to side with claps on beats 2 and 4, two arm rolls, point to the tree, then a little hop and wave."
+  },
+  {
+   "name": "Dancing dog gag",
+   "where": "AI video trends (car alarm dance, dog coffee fail, Starrd Oct to Nov 2026), rising",
+   "status": "rising",
+   "use": "An 8 second loopable Short: the Bros' dog friend hears a funny honk or bell sound in our song, stands up on two legs and wiggles on the beat while the Bros freeze and stare, then all three dance together; caption 'When the beat drops...'. Dog dance keyed by hand in Blender (Meshy has no quadruped dances)."
+  },
+  {
    "name": "Zoom in and find it",
    "where": "Instagram Reels ('zoom in' hidden message, Inmagic top 10, 16 Nov 2026)",
    "status": "rising",
@@ -13403,12 +13436,6 @@
    "where": "TikTok (Virlo, rising late Oct 2026), family format",
    "status": "rising",
    "use": "A 15 second Short: Big Bro and Little Bro face each other over a plate of fruit pieces; on each beat of our own chant song they play rock paper scissors, the winner takes one piece and a big 'YUM', and the last round ends in a draw so they share the final strawberry. Moves for Meshy: standing in place, pump a fist up and down three times, then open the hand forward."
-  },
-  {
-   "name": "Pose, pose, BOW!",
-   "where": "TikTok (Paparazzi bowing, Virlo, rising late Oct 2026)",
-   "status": "rising",
-   "use": "Ending tag for any dance Short: on our own beat the Bros strike three quick star poses for a pretend camera flash (hands on hips, arms up in a V, a thumbs up), then on the drop both take a big slow bow and wave. Step for Meshy: standing in place, three held poses one per beat, then bend forward at the waist into a bow and stand back up waving."
   },
   {
    "name": "My brother is ALWAYS dancing",
@@ -13439,12 +13466,6 @@
    "where": "Instagram Reels (Later, 13 Nov 2026)",
    "status": "rising",
    "use": "A 15 to 20 second Reel with five captioned clips and one line of our own Christmas waiting song each: 1 super excited jumping, 2 counting days on fingers, 3 peeking at a present, 4 flopped and tired of waiting, 5 Christmas morning cheer with arms up. Meshy prompts: standing in place, small excited hops with fists pumping; standing, counting on fingers while nodding; leaning forward slightly peeking with hand over eyes; standing, shoulders drop and arms hang loose with a big sigh; standing, both arms thrown up in a happy cheer."
-  },
-  {
-   "name": "Clap outfit switch",
-   "where": "Instagram Reels and TikTok (Later 13 Nov, Inmagic 16 Nov 2026)",
-   "status": "rising",
-   "use": "Locked camera on the Bro Bros in the same spot; on every clap in our own song the scene cuts on the beat to a new winter outfit (scarf and hat, snowman, reindeer antlers, Santa helper), ending with both brothers in matching jumpers waving. Meshy prompt: standing in place, clap hands once in front of chest, then hold a proud pose with hands on hips."
   },
   {
    "name": "Shoulder bounce (dembow style)",
