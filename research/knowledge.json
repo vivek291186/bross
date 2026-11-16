@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:08:41+05:30",
- "runs": 811,
+ "updated": "2026-11-17T01:36:21+05:30",
+ "runs": 812,
  "branches": [
   {
    "id": "platforms",
@@ -11283,6 +11283,34 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 800
+    },
+    {
+     "t": "In YouTube's supervised kid accounts for MENA and Turkiye (launched 1 Jul 2026) dance sits in the youngest 'Explore' level next to tutorials and crafts, and autoplay is switched off, so every Bro Bros video there must win the next tap through playlists, end screens and a clear series look.",
+     "src": "arabnews.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 812
+    },
+    {
+     "t": "Kantar data cited by YouTube shows parental control use in the Middle East up about 60% in a year and searches for children's educational YouTube programmes doubled, so Arabic titles that name what a song teaches (colours, counting, manners) fit what Gulf parents now look for.",
+     "src": "arabnews.com (Kantar), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 812
+    },
+    {
+     "t": "77% of Turkish parents of under 15s call YouTube an important free resource for learning, while Turkiye and the UAE have moved to near bans on social media for under 15s, so in those markets YouTube (parent supervised) stays our main door and Instagram reaches parents, not kids.",
+     "src": "arabnews.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 812
+    },
+    {
+     "t": "Pakistan's Urdu kids series Pakkay Dost, led by a well known pop singer, has 50+ songs and its fourth season (YouTube, 22 Aug 2026) sings about fitness, kindness to animals, vegetable names and the body's bones and joints, built so parents enjoy it as much as kids, a model for an Urdu or Hindi dub of our learning songs.",
+     "src": "tribune.com.pk, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 812
     }
    ]
   },
@@ -16755,12 +16783,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:52",
-   "note": "Earlier runs summarised: all rounds through Run 733 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:53",
-   "note": "Run 734 (YouTube algorithm and TV viewing (TVision attention panel)): TVision's panel shows mid and long videos fill about two thirds of YouTube TV sessions, short form about 17%, and music is the least watched with eyes on screen; Precise TV and the Shorts on TV hours were already in the tree. Total 2306."
+   "note": "Earlier runs summarised: all rounds through Run 734 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:53",
@@ -17073,6 +17097,10 @@
   {
    "date": "2026-11-17 01:08",
    "note": "Run 811 (TRENDS (cross posting and caption hooks, family creative benchmarks)): New: across 150,000 cross posted videos, numbered list captions lift Reel breakouts (7.4% vs 4.9%), Reels collect most views in the first day and only 23% of TikTok breakouts repeat on Reels; family ad benchmarks favour medium pacing and text over footage over fast cuts. Total 2380."
+  },
+  {
+   "date": "2026-11-17 01:36",
+   "note": "Run 812 (global markets (MENA supervised accounts, Turkiye, Pakistan Urdu)): New: in YouTube's MENA supervised accounts dance sits in the youngest 'Explore' level and autoplay is off; Kantar sees parental controls up 60% and kids education searches doubled in the region; 77% of Turkish parents call YouTube a key free learning resource; Pakistan's Urdu song series Pakkay Dost shows curriculum topic songs made for parent co viewing. Total 2384."
   }
  ],
  "history": [
@@ -18255,6 +18283,10 @@
   {
    "date": "2026-11-17 01:08",
    "total": 2380
+  },
+  {
+   "date": "2026-11-17 01:36",
+   "total": 2384
   }
  ],
  "next_week_ideas": [
