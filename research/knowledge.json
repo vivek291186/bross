@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:58:48+05:30",
- "runs": 344,
+ "updated": "2026-11-16T05:59:16+05:30",
+ "runs": 345,
  "branches": [
   {
    "id": "platforms",
@@ -3569,6 +3569,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 333
+    },
+    {
+     "t": "Little Angel Playtime (3.24M subscribers) fell from about 10.5M monthly views in Aug 2026 to 8.6M, 7.5M and then 4.9M in October, and its newest song ('Eye Tests Are Not Scary!', 14 Nov) had under 1K views after 11 hours, showing that even a famous brand's spin off channel fades when it keeps posting small routine topics without fresh hooks.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 345
+    },
+    {
+     "t": "Little Angel and Friends (7.3M subscribers, about 26M views in Oct 2026) earns mostly from 2021 to 2022 songs: Baa Baa Black Sheep 601M, a bedtime 'Monsters Under the Bed' song 210M and a lollipops, balloons and sunglasses colours song 205M; its new Baby John Wheels on the Bus vehicle song had about 3.7K views in 10 hours.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 345
     }
    ]
   },
@@ -6201,6 +6215,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 338
+    },
+    {
+     "t": "Across Little Angel's spin off channels the biggest originals are about fears and care: monsters in the dark at bedtime (210M and 70M), a water safety 'No No Swimming' song (118M), a boo boo song caring for Daddy (63M) and helping Daddy (84M), more proof that gentle fear and care songs are evergreen global hits.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 345
     }
    ]
   },
@@ -10039,10 +10060,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 02:01",
-   "note": "Run 266 (topics and seasons (2027 Toy of the Year finalists and Amazon's toy list)): The 2027 Toy of the Year finalists (announced 7 Nov 2026, 122 finalists) lean on hatching (a hatching megalodon shark), squishy and jelly collectibles (NeeDoh, Magic Jellykins), Pokemon's 30th anniversary and glowing, roaring interactive pets; Amazon's 2026 list adds slime, undersea magnet tiles and a lava land roller coaster, all easy original song topics. Total 1154."
-  },
-  {
    "date": "2026-11-16 02:02",
    "note": "Run 267 (Shorts and long form balance (Metricool's 2026 YouTube study: views up, ad money down)): Metricool's study of about 800K videos (Aug 2026) found views up 76% but estimated ad revenue down 55%, because average long view duration fell from about 4 to 2.5 minutes, ad impressions fell 51% and Shorts (now about 16 seconds on average) took 61% of organic views; two to four long uploads a week performed best. Total 1157."
   },
@@ -10353,6 +10370,10 @@
   {
    "date": "2026-11-16 05:58",
    "note": "Run 344 (global markets (Egypt and Ukraine)): Egypt's top YouTube list (Nov 2026) is led by Kids Diana's Arabic channel (30.9M) and a family song and story channel, Osratouna TV (21.8M), with Marah TV (14.2M) and many family comedy channels; no plain nursery rhyme channel ranks. In Ukraine (Detector Media, Aug 2025) the No. 2 kids channel is a home grown Ukrainian song channel (614M views) and half the top 20 are in Ukrainian, while the 3D song brand Sandy the Sticker ranks No. 9 in English. Total 1420."
+  },
+  {
+   "date": "2026-11-16 05:59",
+   "note": "Run 345 (competitor deep dive (Little Angel and Friends, Little Angel Playtime)): Little Angel's side channels are sliding: Little Angel and Friends (7.3M) drew about 26M views in October and a new Wheels on the Bus vehicle song got about 3.7K views in 10 hours; Little Angel Playtime (3.24M) fell from 10.5M monthly views in August to 4.9M in October, and its newest 'eye tests are not scary' song had under 1K views in 11 hours. Both channels' all time hits are 2021 to 2022 songs about bedtime monsters, boo boos, water safety and helping parents. Total 1423."
   }
  ],
  "history": [
@@ -10363,10 +10384,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:02",
-   "total": 293
   },
   {
    "date": "2026-11-15 17:02",
@@ -11555,6 +11572,10 @@
   {
    "date": "2026-11-16 05:58",
    "total": 1420
+  },
+  {
+   "date": "2026-11-16 05:59",
+   "total": 1423
   }
  ],
  "next_week_ideas": [
