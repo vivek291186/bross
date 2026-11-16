@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:08:25+05:30",
- "runs": 547,
+ "updated": "2026-11-16T16:08:52+05:30",
+ "runs": 548,
  "branches": [
   {
    "id": "platforms",
@@ -4955,6 +4955,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 536
+    },
+    {
+     "t": "HeyKids' Polish song channel (856K subscribers) drew only about 3.2M views and 1K subscribers in the 28 days to 16 Nov 2026, and its 14 Nov upload had 881 views after two days, roughly a fourteenth of the home grown Polish leader Spiewajace Brzdace (about 46M a month).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 548
+    },
+    {
+     "t": "HeyKids Polish's biggest video by far is a song named after a cheeky little boy character (19.4M, Apr 2024), with construction machines (6.9M) and a red car (5.7M) next, so a named, mischievous kid character in the title beats generic topic songs even inside a translated network channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 548
     }
    ]
   },
@@ -14313,11 +14327,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 468 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:46",
-   "note": "Run 469 (algorithm (trends and channels skipped as checked within the last rounds; Trial Reels and Reels ranking already covered, new on subtitles and translated metadata)): Trial Reels evidence and Reels ranking signals were already in the tree; new: an AIR case where AI translated subtitles in 20+ languages and translated titles in Spanish, Hindi, Portuguese, Turkish and Vietnamese on selected videos lifted views 10.7%, with subtitled videos giving about 22% of all views. Total 1850."
+   "note": "Earlier runs summarised: all rounds through Run 469 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:47",
@@ -14630,6 +14640,10 @@
   {
    "date": "2026-11-16 16:08",
    "note": "Run 547 (global markets (Germany and Turkey local song channels)): German channel Hurra Kinderlieder (4.09M subscribers, about 58M views a month) wins with everyday feelings and moment songs (at the hairdresser 44M, a tantrum as a sudden thunderstorm 30M, get well soon 28M); a small Turkish channel's only breakout is a silly watermelon man song (8.6M), and a watermelon song is also Poland's top kids hit, so silly fruit character songs travel. Total 2031."
+  },
+  {
+   "date": "2026-11-16 16:08",
+   "note": "Run 548 (competitor deep dive (HeyKids, a multi language song network, Polish channel)): HeyKids' Polish channel (856K subscribers) gets only about 3.2M views a month and its newest upload 881 views in two days, versus about 46M a month for the home grown Polish channel, so a network's translated channel earns roughly a fourteenth of a local favourite; its one big Polish hit is a song named after a cheeky boy character (19M). Total 2033."
   }
  ],
  "history": [
@@ -15800,6 +15814,10 @@
   {
    "date": "2026-11-16 16:08",
    "total": 2031
+  },
+  {
+   "date": "2026-11-16 16:08",
+   "total": 2033
   }
  ],
  "next_week_ideas": [
