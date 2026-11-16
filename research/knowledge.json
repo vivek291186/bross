@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:58:06+05:30",
- "runs": 343,
+ "updated": "2026-11-16T05:58:48+05:30",
+ "runs": 344,
  "branches": [
   {
    "id": "platforms",
@@ -7083,6 +7083,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 332
+    },
+    {
+     "t": "Egypt's most subscribed YouTube channel (HypeAuditor, Nov 2026) is Kids Diana's Arabic channel 'Diana and Roma ARA' (30.9M), followed by family channels Osratouna TV (21.8M) and Marah TV (14.2M) and about ten Egyptian family comedy channels with 7 to 12M each, so Arabic family audiences favour dubbed sibling characters and family sketches over plain rhymes.",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 344
+    },
+    {
+     "t": "In Ukraine the second most watched kids YouTube channel is a local Ukrainian language song channel by Lviv authors (about 614M views), about half of the top 20 kids channels are in Ukrainian and the English 3D song brand Sandy the Sticker ranks No. 9 (74M), so a Ukrainian dub of our songs would meet strong demand for local language kids music.",
+     "src": "dev.ua (Detector Media), Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 344
+    },
+    {
+     "t": "English language animated kids channels still reach the top 10 in non English markets like Ukraine (two of the top 10: an Ali Baba channel and Sandy the Sticker) because music and movement carry without words, supporting our plan to grow first in English and add dubs where local demand is proven.",
+     "src": "dev.ua (Detector Media), Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 344
     }
    ]
   },
@@ -10018,10 +10039,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 02:00",
-   "note": "Run 265 (TRENDS (HeyOrca's week of 11 Nov: the same word game, fill in the blank, early sunsets)): HeyOrca's 11 Nov 2026 roundup brings a kid perfect game format: two people name things in a category until they say the same word, and every miss costs a lap. Also new: 'In a world full of ___' fill in the blank posts, an 'It's only 5:30' early sunset audio after the clocks changed, and a 'random day in [month]' year recap carousel ahead of a 2026 recap template. Total 1151."
-  },
-  {
    "date": "2026-11-16 02:01",
    "note": "Run 266 (topics and seasons (2027 Toy of the Year finalists and Amazon's toy list)): The 2027 Toy of the Year finalists (announced 7 Nov 2026, 122 finalists) lean on hatching (a hatching megalodon shark), squishy and jelly collectibles (NeeDoh, Magic Jellykins), Pokemon's 30th anniversary and glowing, roaring interactive pets; Amazon's 2026 list adds slime, undersea magnet tiles and a lava land roller coaster, all easy original song topics. Total 1154."
   },
@@ -10332,6 +10349,10 @@
   {
    "date": "2026-11-16 05:58",
    "note": "Run 343 (TRENDS (Pinterest's 2026 parenting searches: routine charts, movement, throwback)): Weekly Reels and TikTok lists repeated last week's formats, so the round used Pinterest's parenting trend data: daily routine charts (+575%), movement activities for toddlers (+145%), fun physical activities (+340%), sensory play (+1070%), animated movie nights (+430%) and 'throwback kid' nostalgia (2000s toys +610%). Parents want screen time that gets kids moving and builds routines, which is exactly our dance and routine songs. Total 1417."
+  },
+  {
+   "date": "2026-11-16 05:58",
+   "note": "Run 344 (global markets (Egypt and Ukraine)): Egypt's top YouTube list (Nov 2026) is led by Kids Diana's Arabic channel (30.9M) and a family song and story channel, Osratouna TV (21.8M), with Marah TV (14.2M) and many family comedy channels; no plain nursery rhyme channel ranks. In Ukraine (Detector Media, Aug 2025) the No. 2 kids channel is a home grown Ukrainian song channel (614M views) and half the top 20 are in Ukrainian, while the 3D song brand Sandy the Sticker ranks No. 9 in English. Total 1420."
   }
  ],
  "history": [
@@ -10342,10 +10363,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:01",
-   "total": 288
   },
   {
    "date": "2026-11-15 17:02",
@@ -11534,6 +11551,10 @@
   {
    "date": "2026-11-16 05:58",
    "total": 1417
+  },
+  {
+   "date": "2026-11-16 05:58",
+   "total": 1420
   }
  ],
  "next_week_ideas": [
