@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:53:58+05:30",
- "runs": 338,
+ "updated": "2026-11-16T05:54:36+05:30",
+ "runs": 339,
  "branches": [
   {
    "id": "platforms",
@@ -2281,6 +2281,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 326
+    },
+    {
+     "t": "A kids channel near 1M subscribers (Sandy the Sticker) went from one manual live stream to 16 automated 24/7 streams of its back catalogue, added Shorts cut from high energy long video moments and 44% more long uploads; in about 90 days views rose 12.6%, watch time 31%, average view duration from 1:36 to 2:06 and revenue 63%.",
+     "src": "AIR, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 339
+    },
+    {
+     "t": "A kids channel that dropped re uploads and repetitive food videos for original story led videos in 4K, paced for TV viewing, and added 4K live streams with mid rolls and vertical shorts grew views 55% (3.6M to 5.7M) and revenue 77%, supporting originality and TV friendly quality as growth levers.",
+     "src": "AIR, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 339
+    },
+    {
+     "t": "Buffer's study of about 1.8M videos (Jul 2026) found long videos get the most engagement on Sunday about 10 AM local time (and Monday, Tuesday mornings), while Shorts peak on Friday, Saturday and Thursday evenings from about 6 to 11 PM, with Monday and Tuesday weakest; kids content was not separated, so test against our own data.",
+     "src": "Buffer, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 339
+    },
+    {
+     "t": "In Buffer's data the best and worst long video slots differ hugely (engagement factor 0.95 on Sunday 10 AM against 0.11 on Thursday 2 PM), but the times are local to each viewer, so for a global audience our 10 AM and 4 PM IST slots hit Europe's morning and the Americas' night; a weekend morning long video for the Americas is worth one test.",
+     "src": "Buffer, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 339
     }
    ]
   },
@@ -9906,10 +9934,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:56",
-   "note": "Run 260 (global markets (Japan's Sanrio Kids launch, Philippine parents)): Sanrio launched a global preschool YouTube channel on 15 Sep 2026 with 3D, about two minute episodes in three series (sing along, movement and calming down, everyday stories) and Japanese and English audio switchable in the same video. A 1,000 parent Philippine survey (Oct to Nov 2026) found 34% rely on kids apps such as YouTube Kids for safety and 60% say children use social apps to relax. Total 1136."
-  },
-  {
    "date": "2026-11-16 01:57",
    "note": "Run 261 (competitor deep dive (Kids Diana language network, weekly top 50 movers)): AIR's October 2026 profile counts Kids Diana's family of 32 channels in 17 languages at about 429M subscribers and 261B views, with the non main language channels together larger than the main one and about 12 channels running 24/7 live streams. In the 8 Nov top 50, Spanish preschool channel El Tren Nam Nam fell 52% (No. 7 to 39) while Keizo and Friends rose from 29 to 20. Total 1139."
   },
@@ -10220,16 +10244,16 @@
   {
    "date": "2026-11-16 05:53",
    "note": "Run 338 (topics and seasons (holiday wishlists, who drives toy growth)): SuperAwesome's Holidays Unwrapped 2026 says 59% of kids' gifts are inspired online, 34% trace to a fandom, 86% of holiday buying happens before December and 70% of parents buy mainly from the child's wishlist. Circana says the toy market grew 8% to 123B USD in 2025, under 10s are still 67% of it, and developing markets grow fastest. Total 1401."
+  },
+  {
+   "date": "2026-11-16 05:54",
+   "note": "Run 339 (algorithm experiments and data (24/7 live streams, originality rebuild, Buffer's timing data)): AIR's Sandy the Sticker case went from 1 manual stream to 16 automated 24/7 live streams plus Shorts cut from long videos and lifted watch time 31% and revenue 63% in about 90 days; another kids channel replaced re uploads and food videos with original 4K stories and gained 55% views and 77% revenue. Buffer's 1.8M video study puts long videos' best window at weekend and Monday mornings and Shorts' at Thursday to Saturday evenings. Total 1405."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:58",
-   "total": 262
   },
   {
    "date": "2026-11-15 16:59",
@@ -11422,6 +11446,10 @@
   {
    "date": "2026-11-16 05:53",
    "total": 1401
+  },
+  {
+   "date": "2026-11-16 05:54",
+   "total": 1405
   }
  ],
  "next_week_ideas": [
