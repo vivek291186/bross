@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:49:29+05:30",
- "runs": 728,
+ "updated": "2026-11-16T22:50:10+05:30",
+ "runs": 729,
  "branches": [
   {
    "id": "platforms",
@@ -5508,6 +5508,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 721
+    },
+    {
+     "t": "Hey Bear Sensory's views per upload have fallen steeply (about 61M for its first 10 videos, 17M for the next 10, 5.4M for the latest 10) yet the channel still earns about 51M views a month from just 95 videos and under one upload a month, because its early dancing fruit hits keep playing; one breakout dance format can carry a channel for years.",
+     "src": "NexLev, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 729
+    },
+    {
+     "t": "Hey Bear's newest uploads are short (mostly 1 to 6 minutes) while its biggest hits run 10 to 27 minutes, so its long, looping dance parties rather than its new short clips remain what children replay.",
+     "src": "NexLev, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 729
     }
    ]
   },
@@ -16189,11 +16203,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 649 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:38",
-   "note": "Run 650 (YouTube algorithm (Gemini candidate model, invisible negative signals)): Most algorithm news was already in the tree (Shorts timer at zero, originality cut, 2027 YPP rules, custom feeds). New: Google's PLUM paper reports a Gemini based candidate model lifted Shorts click rate about 5% in live tests, negative 'not interested' signals are invisible in Studio and show up only as falling impressions with steady click rate, and YouTube streams have not counted toward US Billboard charts since early 2026. Total 2170."
+   "note": "Earlier runs summarised: all rounds through Run 650 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:39",
@@ -16506,6 +16516,10 @@
   {
    "date": "2026-11-16 22:49",
    "note": "Run 728 (global markets (Egypt)): Egypt has about 49.3M adult YouTube users and 92.6M mobile internet users, and is drafting a children's tech law with age checks; kids channel rankings and Gulf ad rate gaps were already in the tree. Total 2299."
+  },
+  {
+   "date": "2026-11-16 22:50",
+   "note": "Run 729 (competitor deep dive (Hey Bear Sensory and Bounce Patrol recheck)): Bounce Patrol's latest uploads were already in the tree; new for Hey Bear are steeply falling views per upload (61M, then 17M, then 5.4M per batch of 10) alongside a steady 51M monthly views from old long dancing fruit parties. Total 2301."
   }
  ],
  "history": [
@@ -17356,6 +17370,10 @@
   {
    "date": "2026-11-16 22:49",
    "total": 2299
+  },
+  {
+   "date": "2026-11-16 22:50",
+   "total": 2301
   }
  ],
  "next_week_ideas": [
