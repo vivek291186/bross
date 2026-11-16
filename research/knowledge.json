@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:56:44+05:30",
- "runs": 497,
+ "updated": "2026-11-16T12:58:25+05:30",
+ "runs": 498,
  "branches": [
   {
    "id": "platforms",
@@ -4759,6 +4759,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 492
+    },
+    {
+     "t": "Legacy brands dominate kids demand worldwide (Sesame Street 55 years, Peppa Pig 20+, CoComelon's roots 15+) and a 10 year old action series, Miraculous, rose 98% to become the most in demand kids IP, so a new brand wins by staying consistent for years with the same characters rather than chasing one hit.",
+     "src": "Parrot Analytics via Kidscreen, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 498
     }
    ]
   },
@@ -8105,6 +8112,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 482
+    },
+    {
+     "t": "Parrot Analytics saw kids show demand dip mainly in Northern Hemisphere school holidays, suggesting much kids viewing is tied to school week routines (breakfast, after school, bedtime), so routine songs keep their pull all year while holiday weeks bring fewer but longer sessions.",
+     "src": "Parrot Analytics via Kidscreen, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 498
     }
    ]
   },
@@ -9358,6 +9372,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 488
+    },
+    {
+     "t": "Parrot Analytics measured global audience demand for preschool titles up about 25% and school age titles up about 21% over the year to mid 2025, while TV demand overall fell, so kids content is one of the few growing categories worldwide.",
+     "src": "Parrot Analytics via Kidscreen, Sep 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 498
+    },
+    {
+     "t": "India made Mighty Little Bheem reaches US demand at 76% of its Indian level, Pakistan 75% and the Philippines 74%, with Germany and Brazil above half, proof that a wordless or simple English kids brand created in India can be loved almost equally abroad.",
+     "src": "Parrot Analytics via Kidscreen, Sep 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 498
     }
    ]
   },
@@ -13585,11 +13613,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 418 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:42",
-   "note": "Run 419 (our results (Reels of 9 to 15 Nov, now including 15 Nov)): Metricool now has Instagram data for 15 Nov: the Ant Parade marching story song Reel reached 113 views (88 people) with the lowest skip rate of the week (74%), our best Reel since the 9 Nov cookie mystery, while the Hindi Golu elephant Didi Reel got only 9 views with an 89% skip rate. Over 9 to 15 Nov English story song Reels averaged about 43 views against about 22 for Hindi Didi Reels. YouTube data still stops at 11 Nov. Total 1717."
+   "note": "Earlier runs summarised: all rounds through Run 419 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:44",
@@ -13902,6 +13926,10 @@
   {
    "date": "2026-11-16 12:56",
    "note": "Run 497 (music craft (infant music studies and sleep tracks; most already in the tree)): Most music studies were already leaves; the new one is a Japanese audio lab's 14 minute crying baby track (high music box tones over soft pink noise and ocean waves) that drew 3.8M views on X and 350K site visits in two weeks in June 2026, which supports a music box plus waves calm version of our lullabies. Total 1927."
+  },
+  {
+   "date": "2026-11-16 12:58",
+   "note": "Run 498 (topics and markets (Parrot Analytics global kids demand; visual Christmas thumbnail sources checked first and skipped as generic)): Parrot Analytics found global demand for preschool shows rose about 25% and school age about 21% in a year while TV overall declined, and India made Mighty Little Bheem draws US demand at 76% of its Indian level (Pakistan 75%, Philippines 74%), strong evidence that a kids brand made in India can travel worldwide. Total 1931."
   }
  ],
  "history": [
@@ -14872,6 +14900,10 @@
   {
    "date": "2026-11-16 12:56",
    "total": 1927
+  },
+  {
+   "date": "2026-11-16 12:58",
+   "total": 1931
   }
  ],
  "next_week_ideas": [
