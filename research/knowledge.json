@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:03:46+05:30",
- "runs": 702,
+ "updated": "2026-11-16T22:04:19+05:30",
+ "runs": 703,
  "branches": [
   {
    "id": "platforms",
@@ -9323,6 +9323,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 693
+    },
+    {
+     "t": "The Insights Family reported on 11 Nov 2026 that children's weekend playtime with toys and games is up 10% on last year and one in five UK parents of 3 to 9 year olds pick toys that let the family play together, so holiday songs built around a whole family game (parents and grandparents joining the brothers) match what families want this Christmas.",
+     "src": "irishnews.com (PA), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 703
     }
    ]
   },
@@ -16014,11 +16021,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 623 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:12",
-   "note": "Run 624 (TRENDS (Christmas decor looks for December videos)): Parents online are turning away from beige 'aesthetic' Christmas decor toward colourful, 1990s style trees (coloured lights, tinsel, shiny ornaments) because that is what makes children's eyes light up, which settles the look for our Christmas sets. Total 2105."
+   "note": "Earlier runs summarised: all rounds through Run 624 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:12",
@@ -16331,6 +16334,10 @@
   {
    "date": "2026-11-16 22:03",
    "note": "Run 702 (visual craft (holiday thumbnail recheck)): Holiday thumbnail searches (1of10 2026 thumbnail trends, Christmas thumbnail guides) repeated what the tree already holds (saturated three colour palettes, emotional faces, little text outside learning content); no new leaves. Total 2274."
+  },
+  {
+   "date": "2026-11-16 22:04",
+   "note": "Run 703 (topics and seasons (family play and toy themes; trends skipped after an empty trends round)): DreamToys and Circana toy themes were already in the tree; new from The Insights Family (11 Nov 2026): children's weekend play with toys and games is up 10% on last year and one in five parents of 3 to 9 year olds buy toys for playing together as a family, which backs family play songs for the holidays. Total 2275."
   }
  ],
  "history": [
@@ -17077,6 +17084,10 @@
   {
    "date": "2026-11-16 22:03",
    "total": 2274
+  },
+  {
+   "date": "2026-11-16 22:04",
+   "total": 2275
   }
  ],
  "next_week_ideas": [
