@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:56:38+05:30",
- "runs": 397,
+ "updated": "2026-11-16T08:57:17+05:30",
+ "runs": 398,
  "branches": [
   {
    "id": "platforms",
@@ -1329,6 +1329,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 397
+    },
+    {
+     "t": "Socialinsider's 2025 YouTube Shorts dataset (millions of Shorts, updated 6 Nov 2026) found views often arrive late: average views were about 833 in days 1 to 5 and 1,786 in days 5 to 10 but about 3,310 in days 25 to 30, the largest window, so a Short should be judged after about 30 days (review over 90) rather than deleted or reposted after a slow first week.",
+     "src": "Socialinsider, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 398
+    },
+    {
+     "t": "YouTube Shorts and Instagram Reels age differently: Reels gather most views in their first 5 days and fade after day 10, while Shorts can spike weeks later as YouTube keeps testing them, so a slow Reel can be remixed after a week but a slow Short should be left alone for a month.",
+     "src": "Socialinsider, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 398
     }
    ]
   },
@@ -2568,6 +2582,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 393
+    },
+    {
+     "t": "Socialinsider advises keeping Shorts and long videos separate in analytics, because channel averages hide strong or weak Shorts; for Bro Bros this means a weekly check of Shorts by themselves (views, swipe away rate) next to a separate check of full songs.",
+     "src": "Socialinsider, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 398
     }
    ]
   },
@@ -11621,10 +11642,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:49",
-   "note": "Run 319 (global markets (Bangladesh and Poland)): Bangladesh's top YouTube list has no rhyme channels at all; kids watch craft and drawing giants (Tonni art and craft 19.5M, Farjana Drawing Academy 15.6M) and Maasranga Kids (5.3M), so Bengali kids music is open ground. Poland's top 100 is led by dubbed foreign brands (WB Kids, Cartoonito, Masha, Peppa) plus local Singing Toddlers (2.6M) and Hejka tu Lenka; HeyKids Polish gets 3.5 to 5M views a month, with a cheeky boy song and vehicle songs on top. Total 1335."
-  },
-  {
    "date": "2026-11-16 04:50",
    "note": "Run 320 (competitor deep dive (Lalafun's spin off channels: Learning Time, Funny Lala, Canada)): Lalafun's newer side channels show how a 3D rhyme brand keeps growing: Learning Time went from flat to 40 to 60M views a month after June 2026 with only 91 videos, led by action titles ('Catch the Black Sheep!' 76M, 'Baby Helps the Itsy Bitsy Spider!' 31M); Funny Lala (1.77M subscribers) earns about 72M views a month from remixed rhymes; the older Canada feed with 2,408 videos now gets a few hundred views on new uploads. Total 1339."
   },
@@ -11935,16 +11952,16 @@
   {
    "date": "2026-11-16 08:56",
    "note": "Run 397 (other platforms (algorithm skipped as saturated; screen free audio toys, little new on Netflix and Roblox)): Netflix, Roblox and Spotify findings this round were already in the tree; new is that the screen free kids audio toy market is put at about 860M USD, with parents citing eyesight, screen habits, listening skills and focus, which strengthens the case for audio only versions of our songs with clear sung instructions. Total 1646."
+  },
+  {
+   "date": "2026-11-16 08:57",
+   "note": "Run 398 (Shorts and Reels (Shorts views arrive late; most Reels topics already covered)): Reels length, Trial Reels and loop findings were already in the tree; new is Socialinsider's 2025 Shorts data (updated 6 Nov 2026) showing Shorts views often arrive late: the 25 to 30 day window carried the largest share of views, so a Bro Bros Short should be judged after about a month, not a few days, unlike Reels which peak in their first week. Total 1649."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:01",
-   "total": 496
   },
   {
    "date": "2026-11-15 19:02",
@@ -13137,6 +13154,10 @@
   {
    "date": "2026-11-16 08:56",
    "total": 1646
+  },
+  {
+   "date": "2026-11-16 08:57",
+   "total": 1649
   }
  ],
  "next_week_ideas": [
