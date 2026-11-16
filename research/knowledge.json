@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:54:51+05:30",
- "runs": 395,
+ "updated": "2026-11-16T08:55:42+05:30",
+ "runs": 396,
  "branches": [
   {
    "id": "platforms",
@@ -7027,6 +7027,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 384
+    },
+    {
+     "t": "Hanukkah 2026 starts early, at sundown on Friday 4 December and ends at sundown on Saturday 12 December, so a gentle, respectful 'festival of lights' counting song (eight little lights, shared with Christmas lights and lanterns around the world) needs to be live by about 1 December to be found in time.",
+     "src": "Farmers' Almanac, 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 396
+    },
+    {
+     "t": "Other December 2026 dates for family content: Human Rights Day 10 Dec (a kindness and fairness song fits), Christmas 25 Dec, Boxing Day 26 Dec (giving), Kwanzaa 26 Dec to 1 Jan and New Year's Eve 31 Dec, so the last week of December needs giving, sharing and New Year songs, not only Christmas.",
+     "src": "PepTalk cultural calendar, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 396
+    },
+    {
+     "t": "vidIQ's list of top Christmas keywords on YouTube is led by christmas, christmas music, christmas ambience, christmas tree, christmas carols, christmas movies, christmas dance, merry christmas, christmas piano and christmas fireplace; 'Christmas dance for kids' belongs in a title, and a calm fireplace and tree ambience compilation of our gentle songs matches a top search.",
+     "src": "vidIQ, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 396
     }
    ]
   },
@@ -11586,10 +11607,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:42",
-   "note": "Run 317 (visual craft (Blender 5.3 release, build the world before boarding, lo fi and hybrid 3D looks)): Blender 5.3 came out on 10 November with Vulkan by default, DLSS 4.5 denoised Cycles previews on NVIDIA and up to 2x compositor playback, but 5.2 LTS stays the safer production base. Max and the Midknights built its whole CG world before storyboarding so only working shots were boarded. Creative Bloq's 2026 list adds lo fi low poly 3D and hybrid flat 3D as rising looks. Total 1327."
-  },
-  {
    "date": "2026-11-16 04:43",
    "note": "Run 318 (TRENDS (gratitude formats before Thanksgiving, Spotify Wrapped timing)): Gratitude formats are back: the '1000 little things' text card plus montage trend (235K to 744K views in two to four days per copy) and 'what a privilege' chore reframes, plus kids kindly finishing old parenting lines (about 10M views on one video). Spotify had not dated Wrapped 2026 by 9 Nov; estimates point to about 2 Dec. A 'little things we love' format joined the trend bank. Total 1331."
   },
@@ -11900,16 +11917,16 @@
   {
    "date": "2026-11-16 08:54",
    "note": "Run 395 (YouTube channels (our Metricool check already done today so skipped; Danny Go! event uploads, Bounce Patrol stalling)): Danny Go! earns about 160M to 210M views a month from only 131 videos: its newest 'Don't Stop Moving Challenge' (9 Sep) passed 21M views in two months and its top five are all movement games with sequels (floor is lava, sharks, spiders). Australia's Bounce Patrol (34M subscribers) has stalled at about 89M views a month with no subscriber growth and a Halloween upload of only 371K views in 24 days. Total 1641."
+  },
+  {
+   "date": "2026-11-16 08:55",
+   "note": "Run 396 (topics and seasons (TRENDS skipped, last trends round found little new; December 2026 calendar and top Christmas searches)): Hanukkah comes early this year (sundown 4 Dec to 12 Dec 2026), Kwanzaa runs 26 Dec to 1 Jan and Boxing Day is 26 Dec, so a 'lights around the world' song should be live by 1 Dec; YouTube's top Christmas searches include 'christmas dance', 'christmas ambience', 'christmas piano' and 'christmas fireplace', which point to a dance title keyword and a long cosy fireplace compilation. Total 1644."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:00",
-   "total": 489
   },
   {
    "date": "2026-11-15 19:00",
@@ -13102,6 +13119,10 @@
   {
    "date": "2026-11-16 08:54",
    "total": 1641
+  },
+  {
+   "date": "2026-11-16 08:55",
+   "total": 1644
   }
  ],
  "next_week_ideas": [
