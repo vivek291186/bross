@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:08:42+05:30",
- "runs": 456,
+ "updated": "2026-11-16T11:09:18+05:30",
+ "runs": 457,
  "branches": [
   {
    "id": "platforms",
@@ -1448,6 +1448,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 445
+    },
+    {
+     "t": "Yoto's Canadian best seller list in mid November 2026 holds 16 story collections and only four music cards in its top 20 (KPop Demon Hunters 4th, Disney Hits, Sing with Raffi, Frozen songs), so on screen free audio players stories outsell songs and only film soundtracks or a classic family singer make it as music.",
+     "src": "ca.yotoplay.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 457
+    },
+    {
+     "t": "Blank 'Make Your Own' Yoto cards are the second best seller in that list, meaning many parents load their own audio onto kids' players, so offering free downloadable audio of our songs (for personal use) is a way into screen free listening without a licensing deal.",
+     "src": "ca.yotoplay.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 457
     }
    ]
   },
@@ -12843,11 +12857,7 @@
  "log": [
   {
    "date": "2026-11-16 07:58",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 377 (visual craft (Disney's 2026 holiday short and the d..."
-  },
-  {
-   "date": "2026-11-16 08:39",
-   "note": "Run 378 (TRENDS (always dancing, drawing vs real bounce, feet to head reveal, waltz for no reason)): Later's 13 Nov roundup and B&T's 2 Nov TikTok report add four kid usable formats: 'always dancing' compilations of someone breaking into dance in everyday places, AI versus real side by side bounces, a camera that starts at the feet and tilts up on the beat to reveal a costume, and playful twirls to the public domain Blue Danube waltz; squishy collectibles remain a hot playground craze. Total 1573."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 378 (TRENDS (always dancing, drawing vs real bounce, fee..."
   },
   {
    "date": "2026-11-16 08:40",
@@ -13160,6 +13170,10 @@
   {
    "date": "2026-11-16 11:08",
    "note": "Run 456 (TRENDS (snow delivery surprise for kids in warm places; weekly lists and first snow reactions already covered)): No new weekly trend lists since 13 Nov; added the evergreen 'snow delivery surprise' (relatives drive snow down from the mountains so a toddler in a warm place can touch it for the first time; one clip passed 12.5M TikTok views), a strong winter story for our many viewers in countries that never get snow. Total 1821."
+  },
+  {
+   "date": "2026-11-16 11:09",
+   "note": "Run 457 (other platforms (Yoto best sellers; algorithm and Shorts skipped as covered)): Yoto's Canadian best seller list (mid November 2026) is 16 story collections and only 4 music cards (KPop Demon Hunters 4th, Disney Hits, Sing with Raffi, Frozen songs), with blank 'make your own' cards at number 2, so on audio players stories outsell songs and parents like to load their own audio. Total 1823."
   }
  ],
  "history": [
@@ -13966,6 +13980,10 @@
   {
    "date": "2026-11-16 11:08",
    "total": 1821
+  },
+  {
+   "date": "2026-11-16 11:09",
+   "total": 1823
   }
  ],
  "next_week_ideas": [
