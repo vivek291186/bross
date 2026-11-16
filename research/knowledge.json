@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:44:57+05:30",
- "runs": 654,
+ "updated": "2026-11-16T19:46:30+05:30",
+ "runs": 655,
  "branches": [
   {
    "id": "platforms",
@@ -15350,6 +15350,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 652
+    },
+    {
+     "t": "By 13 Nov 2026 a wave of new star Christmas singles was out (Olivia Rodrigo's first holiday single, an Elton John and CMAT remake of 'Step Into Christmas', Tegan and Sara, Laufey and others), so holiday audio will crowd Reels and Shorts from now on; Bro Bros should publish its own Christmas songs early rather than compete in the last week.",
+     "src": "Dork, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 655
+    },
+    {
+     "t": "Apple TV's 2026 special 'Snoopy Presents: 12 Days of Snoopy' (with a jazz pop carol by Laufey) puts the twelve day countdown in front of families this December, supporting a 12 day Bro Bros Shorts series that adds one gift and one dance move per day.",
+     "src": "Dork, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 655
+    },
+    {
+     "t": "Spotify had still not confirmed the Wrapped 2026 date on 4 Nov; UK chart watchers expect Wednesday 2 December based on every launch since 2021, so the first week of December is when families share their kids' top songs and a Bro Bros 'our year in songs' Reel should be ready.",
+     "src": "Official Charts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 655
     }
    ]
   }
@@ -15377,11 +15398,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 575 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:49",
-   "note": "Run 576 (TRENDS (mascot dance check)): Mascot and character dance searches only surfaced 2025 trends (China's leg sweep dance, a college mascot impression) that are adult aimed or faded, and no new weekly roundup has appeared since 13 Nov, so no new leaves. Total 2071."
+   "note": "Earlier runs summarised: all rounds through Run 576 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:50",
@@ -15694,6 +15711,10 @@
   {
    "date": "2026-11-16 19:44",
    "note": "Run 654 (visual craft (Meshy 3D Agent, YouTube first CG shorts)): Thumbnail, pacing and Blender 5.1 findings were already in the tree. New: Meshy opened its conversational 3D Agent to all users in July 2026 with in chat rigging and animation rolling out and exports including BLEND and FBX, and WildBrain's CG 'Bake Shop' series is 26 episodes of about 3 minutes made first for YouTube for ages 4 to 8. Total 2183."
+  },
+  {
+   "date": "2026-11-16 19:46",
+   "note": "Run 655 (TRENDS (2026 Christmas single wave, twelve day countdowns)): Mid November lists repeat banked trends. New: pop stars dropped a wave of new Christmas singles by 13 Nov 2026 (including a first holiday single from a major young pop star and an Elton John remake), and Apple TV's 'Snoopy Presents: 12 Days of Snoopy' special brings the twelve day countdown into kids TV this season, so a 12 day Bro Bros Shorts countdown was added to the trend bank. Total 2186."
   }
  ],
  "history": [
@@ -16248,9 +16269,17 @@
   {
    "date": "2026-11-16 19:44",
    "total": 2183
+  },
+  {
+   "date": "2026-11-16 19:46",
+   "total": 2186
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Twelve Winter Gifts (Counting Song)",
+   "why": "The twelve day countdown is on kids TV this December (Apple TV's 12 Days of Snoopy special); our original cumulative counting song adds one gift and one dance move per verse, works as 12 daily Shorts from 13 to 24 Dec and as one long video, and counting songs travel across languages."
+  },
   {
    "title": "Pass the Present! (Christmas Party Game Song)",
    "why": "Party game songs are evergreen (a hot potato game song is Patty Shukla's top video at 20M views); the brothers and friends pass a wrapped present around a circle while the music plays and whoever holds it when the music stops does a silly dance, so families can play it at December parties anywhere."
@@ -16302,10 +16331,6 @@
   {
    "title": "Fly Up High, My Kite! (Kite Festival Song)",
    "why": "Makar Sankranti on 15 Jan 2027 brings kite flying across India and kite festivals around the world; the Bros run, tug and let their kites climb with a rising melody and a 'pull, pull, let it fly' action chorus, made in English and Hindi for our big Indian audience."
-  },
-  {
-   "title": "Christmas at the Beach! (Summer Christmas Song)",
-   "why": "Australia, New Zealand, South Africa, Brazil and Argentina spend Christmas in summer heat; the Bros swap snow for sprinklers, a sandcastle Christmas tree, a pool splash dance and carrots left out for Santa's reindeer, a fresh angle in a sea of snow songs for high RPM Australia and NZ."
   }
  ],
  "trend_bank": [
@@ -16326,6 +16351,12 @@
    "where": "Instagram Reels and TikTok (evergreen since Apr 2026)",
    "status": "evergreen",
    "use": "Big Bro and Little Bro swap headphones: one hears our calm lullaby and starts yawning and swaying, the other hears our fast dance song and starts bouncing; they swap back and the moods flip, ending with both singing our chorus together. Meshy motion: standing, slow side sway with arms floating, then quick bounce in place with fists pumping."
+  },
+  {
+   "name": "Twelve day countdown",
+   "where": "Apple TV holiday special and family Reels and Shorts (December, seasonal)",
+   "status": "seasonal",
+   "use": "Run a 12 day Shorts and Reels series from 13 to 24 Dec: each day the brothers unwrap one new winter 'gift' (a snowflake, a drum, a sledge) and add one new dance move, building a counting chorus in our own melody (never the traditional tune's lyrics); day 12 shows all twelve moves in one wide shot. Meshy motion per day: standing, one simple added move such as clap, star jump arms only, march in place, spin with arms out."
   },
   {
    "name": "Film my silly dance",
@@ -16422,12 +16453,6 @@
    "where": "Instagram Reels, YouTube Shorts and Pinterest (December, seasonal)",
    "status": "seasonal",
    "use": "A 30 to 45 second Reel where Big Bro and Little Bro make one easy Christmas craft (a paper plate snowman face or a handprint reindeer) in three steps, each step sung as one line of our own craft song, ending with both holding it up next to a lit tree and doing a happy two hand wave; the caption invites families to save it for craft time."
-  },
-  {
-   "name": "Copycat chain dance",
-   "where": "TikTok and Reels family accounts (evergreen)",
-   "status": "evergreen",
-   "use": "Each character in turn repeats every move so far and adds one: clap; clap and jump; clap, jump and spin; clap, jump, spin and wave. Steps for Meshy, all standing in place: two claps, one small jump, one slow turn in place, one big wave. Our own counting song names each move as it is added."
   }
  ]
 }
