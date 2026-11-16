@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T14:43:38+05:30",
- "runs": 523,
+ "updated": "2026-11-16T15:40:40+05:30",
+ "runs": 524,
  "branches": [
   {
    "id": "platforms",
@@ -4871,6 +4871,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 512
+    },
+    {
+     "t": "Cartoon Clubhouse, a CoComelon compilation channel with 12.8M subscribers and 5.7B views, gained zero subscribers in the 28 days to 24 Oct 2026 and got about 26M views, while its newest upload had only 3.3K views, so even a giant brand's reupload channel now lives on its old library, not on new uploads.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 524
+    },
+    {
+     "t": "Cartoon Clubhouse's top five videos are all two hour compilations from late 2022, and the two biggest are sing along karaoke versions (182M views for a Wheels on the Bus karaoke), so on screen lyric sing along cuts of a proven hit can outperform the original song video.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 524
+    },
+    {
+     "t": "Pancake Manor, a two person indie Canadian kids music channel mixing original songs with classic rhymes, uploads roughly once a month; its newest songs earn 51K to 85K views in one to four months while year old songs sit at 160K to 340K, so an original song keeps gaining views for about a year before it settles.",
+     "src": "Invidious channel page, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 524
+    },
+    {
+     "t": "Pancake Manor earns beyond YouTube ads through music streaming, a Patreon style fan club and a shop of dolls and shirts, which shows a small original music brand can survive on several thin income lines rather than ad views alone.",
+     "src": "Invidious channel page and pancakemanor.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 524
     }
    ]
   },
@@ -11444,6 +11472,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 419
+    },
+    {
+     "t": "Lesson from Cartoon Clubhouse and Pancake Manor: judge a new Bro Bros song on its views after several months, not its first week, and give each proven song a second life as an on screen lyric sing along version inside a longer compilation.",
+     "src": "own synthesis of vidIQ and channel data, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 524
     }
    ]
   },
@@ -14012,11 +14047,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 444 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 10:52",
-   "note": "Run 445 (other platforms (free streaming services for kids; YouTube algorithm and Reels features checked first and already fully covered)): YouTube algorithm news since October (Shorts originality, custom feeds, YPP 2027, Shorts series, Reels features) is all already in the tree; new is Tubi's 2026 'cartoon era', in which the free ad supported service is gathering classic kids shows dropped by paid services (Sesame Street's first 38 seasons, classic Cartoon Network series) into a Family Shows lineup. Total 1797."
+   "note": "Earlier runs summarised: all rounds through Run 445 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:59",
@@ -14329,6 +14360,10 @@
   {
    "date": "2026-11-16 14:43",
    "note": "Run 523 (global markets (East and West Africa kids channels; dubbing news already in the tree)): Auto dubbing and Africa listening habits were already leaves; new: a Swahili kids cartoon channel has 711K subscribers but only about 28K views a day with no subscriber growth in October, and a Nigerian made 3D kids show found its biggest audiences in the US and UK before Nigeria, so African styled songs can earn in rich ad markets through diaspora families. Total 1988."
+  },
+  {
+   "date": "2026-11-16 15:40",
+   "note": "Run 524 (competitor deep dive (Cartoon Clubhouse and Pancake Manor)): Cartoon Clubhouse, a 12.8M subscriber CoComelon compilation channel, gained no subscribers in 28 days and its newest upload had only 3.3K views while 2022 two hour karaoke compilations still lead; indie Pancake Manor posts about once a month, new songs earn 50K to 85K views and keep growing to 160K to 340K within a year, and it earns through Patreon, streaming and merch. Total 1993."
   }
  ],
  "history": [
@@ -15403,6 +15438,10 @@
   {
    "date": "2026-11-16 14:43",
    "total": 1988
+  },
+  {
+   "date": "2026-11-16 15:40",
+   "total": 1993
   }
  ],
  "next_week_ideas": [
