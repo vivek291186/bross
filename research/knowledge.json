@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:58:33+05:30",
- "runs": 663,
+ "updated": "2026-11-16T19:59:20+05:30",
+ "runs": 664,
  "branches": [
   {
    "id": "platforms",
@@ -15504,6 +15504,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 661
+    },
+    {
+     "t": "An AI made clip of the fairy tale character Rumpelstiltskin tiptoe dancing in a barn became a meme from late Sep 2026 (one X post about 9.8M views in five days, recreated by NFL players in an 18 Oct touchdown celebration), but its tone is eerie and captions are adult, so we skip the meme itself; the lesson is that a public domain fairy tale figure doing one silly tiptoe dance can travel, which an original Bro Bros fairy tale song can use in a cheerful style.",
+     "src": "Know Your Meme / NBC, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 664
+    },
+    {
+     "t": "'AI video game merging' clips (two famous games blended into one imagined game) were a Know Your Meme roundup topic in autumn 2026, but they rely on protected game worlds and characters, so Bro Bros must not copy them; an own version would merge only our own worlds (the rainbow stage meets the Veggie Kitchen).",
+     "src": "Know Your Meme, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 664
     }
    ]
   }
@@ -15531,11 +15545,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 584 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:54",
-   "note": "Run 585 (TRENDS (kids search and viewing reports)): No fresh weekly kid trend surfaced; one useful market finding from Roy Morgan's Australian survey: among 6 to 9 year olds the top YouTube genres after gaming are animation (40%), animals (35%) and challenges (32%), and the under 16 ban leaves YouTube Kids and logged out viewing open. Total 2080."
+   "note": "Earlier runs summarised: all rounds through Run 585 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:54",
@@ -15848,6 +15858,10 @@
   {
    "date": "2026-11-16 19:58",
    "note": "Run 663 (other platforms (Shorts and Reels skipped as fully covered; Yoto and Roblox karaoke)): Trial Reels and Shorts length studies were all already leaves, so the round moved to other platforms. New: Yoto's fourth generation players (Sep 2026) add 64GB offline storage and a cardless 'Green Button' personalised playlist, and its catalogue now runs from toddlers to 14+, while Billie Eilish's May 2026 Roblox activation used in game karaoke as the music hook; the Netflix and Alexa items found were already in the tree. Total 2205."
+  },
+  {
+   "date": "2026-11-16 19:59",
+   "note": "Run 664 (TRENDS (meme check: AI fairy tale dance, AI game merges)): Trend trackers (Virlo, Know Your Meme, weekly lists) showed no new family friendly dance this round. Two current memes were checked and rejected: the AI made 'tiptoe' Rumpelstiltskin dance (Sep to Oct 2026, millions of views) has a creepy tone and adult captions, and AI 'video game merging' clips depend on protected games; the only usable lesson is that public domain fairy tale characters doing one silly tiptoe dance can go viral. Total 2207."
   }
  ],
  "history": [
@@ -16438,6 +16452,10 @@
   {
    "date": "2026-11-16 19:58",
    "total": 2205
+  },
+  {
+   "date": "2026-11-16 19:59",
+   "total": 2207
   }
  ],
  "next_week_ideas": [
