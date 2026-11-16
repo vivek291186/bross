@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:52:35+05:30",
- "runs": 476,
+ "updated": "2026-11-16T11:53:14+05:30",
+ "runs": 477,
  "branches": [
   {
    "id": "platforms",
@@ -4633,6 +4633,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 465
+    },
+    {
+     "t": "Sheriff Labrador (BabyBus, joined Nov 2022) reached 10.9M subscribers and 7.8B views with 1,298 videos and still gained about 100K subscribers and 173M views in the 28 days to 14 Nov 2026; its newest upload, an outdoor safety mystery ('The Mystery of the Popcorn'), drew 263K views in 36 hours, so a recurring detective style 'solve it and learn a safety rule' frame keeps a 3D animal brand growing.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 477
+    },
+    {
+     "t": "Sheriff Labrador's most viewed videos are pretend play and alphabet games ('Cardboard World, Learn Occupations' 73M, 'ABC Surprise Box' 71M, 'Alphabet Game' 43M) plus safety stories ('Don't Play With Ants' 39M), and its titles stack the story name with plain search phrases ('Learn Occupations, Pretend Play, Preschool Cartoon'), a title pattern worth copying for Bro Bros learning songs.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 477
+    },
+    {
+     "t": "Wolfoo and Friends (6.02M subscribers) gets its views from toddler care songs: a potty song 26.8M ('Yes Yes, Push the Button'), a diaper change song 15.7M and a 'mommy has a big belly' new sibling song 12.9M, while its latest Shorts get only about 2K views, more proof that parents search for songs that help with real toddler moments (potty, nappy, a new baby).",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 477
     }
    ]
   },
@@ -13192,12 +13213,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:56",
-   "note": "Earlier runs summarised: all rounds through Run 397 (other platforms (algorithm skipped as saturated; screen free audio toys, little new on Netflix and Roblox)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:57",
-   "note": "Run 398 (Shorts and Reels (Shorts views arrive late; most Reels topics already covered)): Reels length, Trial Reels and loop findings were already in the tree; new is Socialinsider's 2025 Shorts data (updated 6 Nov 2026) showing Shorts views often arrive late: the 25 to 30 day window carried the largest share of views, so a Bro Bros Short should be judged after about a month, not a few days, unlike Reels which peak in their first week. Total 1649."
+   "note": "Earlier runs summarised: all rounds through Run 398 (Shorts and Reels (Shorts views arrive late; most Reels topics already covered)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:57",
@@ -13510,6 +13527,10 @@
   {
    "date": "2026-11-16 11:52",
    "note": "Run 476 (global markets (Philippines and South Korea viewing habits)): A 6 Nov 2026 survey of 1,000 Filipino parents found 34% use kids apps like YouTube Kids as a safety step and 97% want evidence based rules; Filipino toddlers average nearly two hours of screen video a day, picked by mothers as educational; in Korea YouTube takes 113.6B minutes a month, over 20 times Netflix, and YouTube Music grew 186% since 2022. Total 1871."
+  },
+  {
+   "date": "2026-11-16 11:53",
+   "note": "Run 477 (competitor deep dive (Sheriff Labrador by BabyBus; Wolfoo and Friends)): Sheriff Labrador (10.9M subs, 7.8B views since Nov 2022) still gains about 100K subs and 173M views a month with safety mystery episodes; its top videos are pretend play jobs and ABC games. Wolfoo and Friends' best videos are toddler care songs (potty 26.8M, diaper change 15.7M), while its newest Shorts get only about 2K views. Total 1874."
   }
  ],
  "history": [
@@ -14396,6 +14417,10 @@
   {
    "date": "2026-11-16 11:52",
    "total": 1871
+  },
+  {
+   "date": "2026-11-16 11:53",
+   "total": 1874
   }
  ],
  "next_week_ideas": [
