@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:53:15+05:30",
- "runs": 429,
+ "updated": "2026-11-16T09:54:22+05:30",
+ "runs": 430,
  "branches": [
   {
    "id": "platforms",
@@ -8539,6 +8539,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 416
+    },
+    {
+     "t": "POPS Kids, Vietnam's biggest kids channel, had 20.3M subscribers, about 15B views and 4,687 videos by Oct 2026 (8th largest Vietnamese channel), mixing its own preschool shows with licensed Japanese anime dubs, so Vietnamese kids watch a lot in their own language.",
+     "src": "cafef.vn citing Social Blade, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 430
+    },
+    {
+     "t": "BabyBus's Vietnamese dub channel has 9.75M subscribers and steady 71M to 116M views a month in 2026 (about 92M in the 28 days to 7 Nov), yet vidIQ models only about 3,500 USD a month, roughly 0.04 USD per 1,000 views, among the lowest earning kids audiences we have measured.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 430
+    },
+    {
+     "t": "The Vietnamese BabyBus channel's most viewed long videos are all December 2021 to 2022 uploads (Kiki and friends 26M, a sushi song 24M, a mystery gift box 23M), showing that its library peaked years ago and new long videos rarely overtake old winners, while new Shorts still reach about 500K views in two days.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 430
     }
    ]
   },
@@ -12352,10 +12373,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 06:03",
-   "note": "Run 350 (YouTube algorithm (YouTube Kids parent settings and what they do to discovery)): YouTube Kids Help says 'Approve content yourself' limits a child to parent picked videos, channels and collections (topic groups chosen by the YouTube Kids team or partners), pausing watch or search history freezes recommendations, and autoplay can be switched off separately, so collections and parent approvals are routes into the strictest households. Total 1438."
-  },
-  {
    "date": "2026-11-16 06:04",
    "note": "Run 351 (other platforms (iTunes kids chart before Christmas, Tonies best sellers)): In mid November the iTunes kids top 25 still holds only one Christmas song (Jingle Bells sits at 39, Silent Night at 60) while faith songs, novelty food songs and Ms Rachel and Bluey tracks lead, so kids' music charts switch to Christmas later than TikTok. On Amazon the best selling Tonies music figurine was Ms Rachel (about 6K a month in June), ahead of big film characters. Total 1441."
   },
@@ -12670,6 +12687,10 @@
   {
    "date": "2026-11-16 09:53",
    "note": "Run 429 (TRENDS (classroom movement: GoNoodle's body percussion 'Thinglish' campaign; new December trend lists not yet published)): No December 2026 trend roundups exist yet. GoNoodle (used in 88% of US elementary schools) ran a 5 Oct to 1 Nov 'Thinglish' campaign with a new family film, teaching kids to say hello, goodbye, yes and no in body percussion and to invent movement names, and counting class minutes of movement in a contest; an old UK school craze shows such call and response chants travel from class to home. A 'Bro Speak' clap language song and a Hey Bear style 'Disco Fruit Party' went into next week's ideas. Total 1751."
+  },
+  {
+   "date": "2026-11-16 09:54",
+   "note": "Run 430 (global markets (Vietnam; music craft checked first and skipped as covered)): Music craft and Suno news were already in the tree, so the round looked at Vietnam: POPS Kids, the country's biggest kids channel, has 20.3M subscribers and 15B views from 4,687 videos mixing originals with licensed anime, and BabyBus's Vietnamese dub channel (9.75M) gets 71M to 116M views a month but vidIQ models only about 3,500 USD a month, so Vietnamese views add reach but little income. Total 1754."
   }
  ],
  "history": [
@@ -13368,6 +13389,10 @@
   {
    "date": "2026-11-16 09:53",
    "total": 1751
+  },
+  {
+   "date": "2026-11-16 09:54",
+   "total": 1754
   }
  ],
  "next_week_ideas": [
