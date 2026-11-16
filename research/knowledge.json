@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:52:34+05:30",
- "runs": 392,
+ "updated": "2026-11-16T08:53:26+05:30",
+ "runs": 393,
  "branches": [
   {
    "id": "platforms",
@@ -2540,6 +2540,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 386
+    },
+    {
+     "t": "A million subscriber kids song channel turned most of its 2 to 3 minute songs into compilations of about 10 minutes in Q4 2025: those compilations gained about 19% watch duration, 9% higher CPM and 72% higher RPM, and total views rose 27% (355M to 450M a quarter) with several Shorts a day added.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 393
+    },
+    {
+     "t": "The same channel gave every alternate version of a song (for example an acoustic version) its own distinct visuals and never reused identical video sequences, to avoid duplicate content signals; our slow or Spanish versions of a hit should get new scenes, not the same render with new audio.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 393
+    },
+    {
+     "t": "A kids channel that went from one manual live stream to 16 automated 24/7 streams, posted 13 long videos instead of 9 and started Shorts cut from its liveliest moments raised average view duration from 1:36 to 2:06 (+31% watch time) and revenue 63% while views rose only 13% (Q4 2025).",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 393
     }
    ]
   },
@@ -11516,10 +11537,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:39",
-   "note": "Run 314 (Shorts and Reels (view through benchmarks, best Short length, kids songs in YouTube's all time top 10)): Quso's 508K post dataset puts the median Short at about 45% view through and the top 10% near 91%, with 11 to 20 second Shorts earning the highest median views; five of YouTube's ten most viewed videos ever are children's songs. Reels algorithm news was quiet: nothing new beyond the tree. Total 1316."
-  },
-  {
    "date": "2026-11-16 04:40",
    "note": "Run 315 (TRENDS (last winter's returners: New Year goal reveals, 'it's freezing' reaction, sway at the drop duet, cheesy winter effects, original jingles)): NewEngen's December and January roundups show which winter formats are likely back in 4 to 7 weeks: greenscreen New Year resolution reveals and month by month recaps, a squeaky 'freezing!' reaction on stepping outside, a duet where two people argue then sway and cover their faces at the drop, deadpan snow clips with deliberately cheesy effects, and creators writing original jingles. Two joined the trend bank and a winter clothes song joined the ideas. Total 1321."
   },
@@ -11830,13 +11847,13 @@
   {
    "date": "2026-11-16 08:52",
    "note": "Run 392 (competitors (Super Simple Songs' steady 2026 growth, nonsense word hygiene hit, action twists on classics)): Super Simple Songs (47.3M) grew its monthly views from about 446M in February to 592M in October 2026; its newest song, a hand and face washing song with a nonsense word title, passed 915K views in nine days, its all time hits are new action twists on classics and puppet songs, and like BabyBus and Lalafun it had no Christmas upload by mid November. Total 1631."
+  },
+  {
+   "date": "2026-11-16 08:53",
+   "note": "Run 393 (algorithm experiments (TRENDS skipped, last round found little new; compilations around 10 minutes, distinct visuals for alternate versions, 16 automated streams)): The TRENDS slot was skipped because the last trends round found little new. Two AIR kids cases (Q4 2025) add data: a million subscriber song channel that rebuilt 2 to 3 minute songs into about 10 minute compilations saw +19% watch duration, +9% CPM and +72% RPM, and gave acoustic or alternate versions their own visuals to avoid duplicate signals; a smaller channel that went from one manual stream to 16 automated 24/7 streams lifted average view duration from 1:36 to 2:06 and revenue 63%. Total 1634."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:57",
-   "total": 476
-  },
   {
    "date": "2026-11-15 18:58",
    "total": 480
@@ -13032,6 +13049,10 @@
   {
    "date": "2026-11-16 08:52",
    "total": 1631
+  },
+  {
+   "date": "2026-11-16 08:53",
+   "total": 1634
   }
  ],
  "next_week_ideas": [
