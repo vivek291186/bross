@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:39:30+05:30",
- "runs": 328,
+ "updated": "2026-11-16T05:40:35+05:30",
+ "runs": 329,
  "branches": [
   {
    "id": "platforms",
@@ -4395,6 +4395,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 316
+    },
+    {
+     "t": "Many Suno subscribers say v6 output sounds muffled, overly compressed and dull, with vocals buried and little high end (Sep 2026 Reddit reports), so each Bro Bros track should get a quick listening check and, if needed, a gentle treble lift and a louder lead vocal before mastering.",
+     "src": "Digital Music News, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 329
+    },
+    {
+     "t": "A Scientific Reports study of children aged 5 to 6, 8 to 9 and 11 to 12 and young adults found preferred tempos generally slow with age and the range of liked tempos narrows, with a single steady default only in adults, so young kids accept a wide spread of tempos and faster songs while parents prefer one steady groove.",
+     "src": "Scientific Reports, 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 329
+    },
+    {
+     "t": "Because the Suno v6 vocal can sit low in the mix, prompts that ask for 'one clear lead vocal, upfront and bright, crisp high end' plus bells or xylophone on top help keep the sparkle that babies and toddlers react to most.",
+     "src": "Digital Music News, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 329
     }
    ]
   },
@@ -9682,10 +9703,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:47",
-   "note": "Run 250 (TRENDS (evergreen cheer dance, Instagram episodic Series, holiday living room viewing)): Few new kid safe dances surfaced this week, but the Korean baseball Pikki Pikki cheer (alternate thumbs up hands up and down, 80M views on one clip) is an evergreen move our Meshy pipeline can do easily. Instagram's episodic Series for Reels reaches the US by late 2026 or early 2027 and live videos in the Reels tab are rolling out in Brazil and Indonesia; YouTube's 2026 holiday playbook says families watch together on the biggest screen. Total 1102."
-  },
-  {
    "date": "2026-11-16 01:48",
    "note": "Run 251 (rules and monetisation (EU Kids Act proposal, Australia's ban evaluation, Shorts RPM by country)): The EU Kids Act proposed on 17 Sep 2026 would ban personal social accounts under 13, switch off engagement based recommendations for minors by default and prohibit endless autoplay, so European kids would reach us mostly through parents' accounts, search and subscriptions. eSafety's first evaluation found Australian under 16 account holding fell only from 52.4% to 42.1%, and AIR's data puts US Shorts RPM at about twice the global average. Total 1107."
   },
@@ -9996,16 +10013,16 @@
   {
    "date": "2026-11-16 05:39",
    "note": "Run 328 (TRENDS (No no no yes, tiny win reveal, fast camera roll dump, hand it in one by one)): NewEngen's 13 Nov Instagram list brings four new kid adaptable formats: 'No, No, No... Yes!' (three boring one second clips, then the fun one held longer), 'War Is Over' tiny victory reveals, 'Lately on my SD card' dumps of sub second clips, and 'Add to Cart' items handed in one at a time. Two joined the trend bank. Total 1369."
+  },
+  {
+   "date": "2026-11-16 05:40",
+   "note": "Run 329 (music craft (Suno v6 sound complaints, how tempo taste changes with age)): Suno subscribers report v6 output as muffled with buried vocals and little top end, so our masters need a brightness and vocal check; a Scientific Reports study shows children's preferred tempo is faster and much wider than adults', which supports energetic, varied tempos for kids and a steady groove for co watching parents. Total 1372."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:48",
-   "total": 223
   },
   {
    "date": "2026-11-15 16:48",
@@ -11198,6 +11215,10 @@
   {
    "date": "2026-11-16 05:39",
    "total": 1369
+  },
+  {
+   "date": "2026-11-16 05:40",
+   "total": 1372
   }
  ],
  "next_week_ideas": [
