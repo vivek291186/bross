@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:35:52+05:30",
- "runs": 436,
+ "updated": "2026-11-16T10:36:44+05:30",
+ "runs": 437,
  "branches": [
   {
    "id": "platforms",
@@ -6649,6 +6649,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 412
+    },
+    {
+     "t": "Paint brands' 2027 colours of the year, announced in September 2026, all land on soft calming greens (Dulux Soulful Sage, Sherwin-Williams Celery, a yellow green 'tinted neutral', and a classic Benjamin Moore green), sold as rest and wellness colours, so sage and celery rooms will look current to parents in our calm, bedtime and tidy up song sets.",
+     "src": "homesandgardens.com and hunker.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 437
+    },
+    {
+     "t": "WGSN and Coloro's colour of the year 2027 is Luminous Blue, and their key spring summer 2027 colours add Energy Orange, Pop Pink (described as joyful and playful), Meadowland Green and Clay, so our blue and orange thumbnail pairing and a pink accent stay on trend through 2027.",
+     "src": "wgsn.com, 2025 forecast for 2027",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 437
+    },
+    {
+     "t": "Because forecasters frame 2027's calm greens as relief from a stressful pace, a two mood palette fits Bro Bros: bright saturated red, yellow and blue for party and dance songs, soft sage, celery and warm clay for sleep and calm songs, so a parent can tell the mood from the thumbnail alone.",
+     "src": "hunker.com and wgsn.com, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 437
     }
    ]
   },
@@ -12493,11 +12514,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Run 356 (global markets (Brazil's TIC Kids Online 2025 surve... through Run 357 (competitor deep dive (Super Simple's autumn uploads..."
-  },
-  {
-   "date": "2026-11-16 07:36",
-   "note": "Run 358 (rules and safety (AI content on YouTube Kids, Q4 ad money, 2027 activity rule)): YouTube told reporters in April that the YouTube Kids app only lets AI made content from a small set of high quality channels, while 135 groups and about 100 experts led by Fairplay are pushing to ban AI video from YouTube Kids altogether. Animation still needs no AI label on main YouTube, kids RPM rose about 22% in Q4 last year with November the best month, and from Feb 2027 partners must stay active (for example 5 Shorts per 90 days). Total 1473."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Run 356 (global markets (... through Run 358 (rules and safety (AI content on YouTube Kids, Q4 ad..."
   },
   {
    "date": "2026-11-16 07:38",
@@ -12810,6 +12827,10 @@
   {
    "date": "2026-11-16 10:35",
    "note": "Run 436 (music craft (infant rhythm science, sped up album versions, Grammy timing)): A September 2026 review of infant rhythm research says babies of 6 to 10 months move most regularly near 120 BPM, two year olds lock onto beats between about 86 and 150 BPM, and only by 3 to 4 years can kids follow tempo changes, with a clear drum beat and a dancing grown up helping; MusicClubKids filled half of a 22 track Christmas album with sped up versions; Grammy 2027 nominations land tonight 18:15 IST. Total 1771."
+  },
+  {
+   "date": "2026-11-16 10:36",
+   "note": "Run 437 (visual craft (2027 colour forecasts; thumbnails, Blender and preschool styles checked and already covered)): The 2027 colour of the year picks announced since September 2026 converge on calm soft greens (Dulux Soulful Sage, Sherwin-Williams Celery, Benjamin Moore green), while WGSN's 2027 palette pairs Luminous Blue with Energy Orange and a playful Pop Pink, which backs our blue and orange thumbnails and suggests sage sets for calm and bedtime songs. Total 1774."
   }
  ],
  "history": [
@@ -13536,6 +13557,10 @@
   {
    "date": "2026-11-16 10:35",
    "total": 1771
+  },
+  {
+   "date": "2026-11-16 10:36",
+   "total": 1774
   }
  ],
  "next_week_ideas": [
