@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:07:27+05:30",
- "runs": 613,
+ "updated": "2026-11-16T17:07:53+05:30",
+ "runs": 614,
  "branches": [
   {
    "id": "platforms",
@@ -1609,6 +1609,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 602
+    },
+    {
+     "t": "Dash Social's children and baby industry benchmark (Jan to Jun 2025; 2,967 Instagram, 970 TikTok and 630 YouTube brand handles with 1K+ followers) found about 2.4% Reels engagement and about 71K average views per post on both Instagram and TikTok but only about 10.6K on YouTube, where on demand long videos beat Shorts; the standout brands use bright hands on play (a modelling dough brand) and short personality driven character clips (a fashion doll brand).",
+     "src": "Dash Social, 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 614
     }
    ]
   },
@@ -14789,11 +14796,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 534 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 15:50",
-   "note": "Run 535 (global markets (Poland and the Arab world)): A home grown Polish kids song channel (2.61M subscribers) still pulls about 46M views a month with silly original songs about a watermelon, a pug and a little chicken, while Moonbug's Arabic hub (909K subscribers) gets only about 1.7M views a month, so local language channels with their own songs beat a big brand's general dubbed hub. Total 2016."
+   "note": "Earlier runs summarised: all rounds through Run 535 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 15:56",
@@ -15106,13 +15109,13 @@
   {
    "date": "2026-11-16 17:07",
    "note": "Run 613 (YouTube algorithm (made for kids feature limits and autoplay)): Made for kids feature limits (no end screens, cards or notification bell) and autoplay behaviour were already leaves, so no new leaves. Total 2099."
+  },
+  {
+   "date": "2026-11-16 17:07",
+   "note": "Run 614 (Shorts and Reels (children and baby brand benchmarks)): Dash Social's children and baby brand benchmarks (H1 2025, about 4,500 handles) put Reels engagement at about 2.4% with about 71K views per post on Instagram and TikTok but only about 11K on YouTube, where long videos beat Shorts for these brands. Total 2100."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:39",
-   "total": 1316
-  },
   {
    "date": "2026-11-16 04:40",
    "total": 1321
@@ -16308,6 +16311,10 @@
   {
    "date": "2026-11-16 17:07",
    "total": 2099
+  },
+  {
+   "date": "2026-11-16 17:07",
+   "total": 2100
   }
  ],
  "next_week_ideas": [
