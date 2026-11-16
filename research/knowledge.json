@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:41:49+05:30",
- "runs": 525,
+ "updated": "2026-11-16T15:42:41+05:30",
+ "runs": 526,
  "branches": [
   {
    "id": "platforms",
@@ -14068,11 +14068,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 446 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:00",
-   "note": "Run 447 (TRENDS (13 Nov TikTok trend chart: hop and point cut, karate cat, family line dance)): A 13 Nov 2026 chart of 50 TikTok trends ranked by new videos a day is mostly dances, many done 'with your mom, your dog or an AI character'; new kid safe formats are a two shot hop then point hard cut, a cat karate chopping a tissue, and a family line dance, so a hop and point cut and a karate kitty gag went into the trend bank. Total 1804."
+   "note": "Earlier runs summarised: all rounds through Run 447 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:01",
@@ -14385,6 +14381,10 @@
   {
    "date": "2026-11-16 15:41",
    "note": "Run 525 (TRENDS (Virlo, B&T and SocialPilot late October lists, mirror clone Reel)): Most listed trends were already leaves; new family safe formats: a child dancing with her own mirror reflections as if they were a dance group (Kerala Reel, late October), the duo pick your favourite on the count of three game, and the leg kick outfit transition. Added the mirror clone dance and pick on three to the trend bank. Total 1996."
+  },
+  {
+   "date": "2026-11-16 15:42",
+   "note": "Run 526 (rules and our results (EU AI Act labels, YouTube made for kids rules, Metricool rechecked at 15:50 IST)): EU AI Act labelling (2 Dec deadline) and made for kids rules were already leaves, and Metricool still holds YouTube stats only to 11 Nov and Reels to 15 Nov (Ant Parade still best at 113 views), so no new leaves. Total 1996."
   }
  ],
  "history": [
@@ -15466,6 +15466,10 @@
   },
   {
    "date": "2026-11-16 15:41",
+   "total": 1996
+  },
+  {
+   "date": "2026-11-16 15:42",
    "total": 1996
   }
  ],
