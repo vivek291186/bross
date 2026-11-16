@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:59:55+05:30",
- "runs": 500,
+ "updated": "2026-11-16T13:00:37+05:30",
+ "runs": 501,
  "branches": [
   {
    "id": "platforms",
@@ -4766,6 +4766,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 498
+    },
+    {
+     "t": "Super Simple Play with Caitie (5.25M subs, 712 videos) has held steady at about 47M to 58M views and 20K to 30K new subscribers every month of 2026, unlike most legacy kids channels that are shrinking, which suggests a warm host leading simple action songs keeps families coming back.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 501
+    },
+    {
+     "t": "Caitie's biggest videos are participation songs: a fire truck song (109M), an 'I see something blue' colour spotting song (78M), a knock knock trick or treat song (63M) and 'Can You Dance and Stop?' (50M), so call and respond, spot it and freeze dance songs are the strongest formats for this audience.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 501
+    },
+    {
+     "t": "Super Simple Play posted its first Christmas party Short ('It's time to party!') on 12 Nov 2026, about 12.7K views in two days, another big brand switching to Christmas content in the second week of November.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 501
     }
    ]
   },
@@ -5963,6 +5984,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 497
+    },
+    {
+     "t": "Caitie's Christmas album with Warner's Arts Music mixes 'funky twists' on public domain classics (Up on the Housetop, Jingle Bells, Deck the Halls) with originals about snow days, shovelling snow, crafts and a countdown, a ready template for a Bro Bros holiday album of half new songs and half fresh takes on public domain carols.",
+     "src": "Skyship press release, Nov 2023",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 501
     }
    ]
   },
@@ -13634,11 +13662,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 421 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:46",
-   "note": "Run 422 (competitor deep dive (Bounce Patrol; Shorts and Reels, algorithm and music craft checked first and skipped as already covered)): Bounce Patrol (34M subscribers) gained no subscribers in the year to Oct 2026 and now uploads only a few times a month; its 2026 breakouts were Sesame Street collaborations (a hide and seek song 11.2M, a ball pit party 8M) while its own new songs such as a 30 Oct colours disco reached about 270K. A July 2026 ranking of kids movement channels puts Jack Hartmann, Danny Go!, GVO Kids, Cosmic Kids Yoga and GoNoodle behind it. Total 1729."
+   "note": "Earlier runs summarised: all rounds through Run 422 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:47",
@@ -13951,6 +13975,10 @@
   {
    "date": "2026-11-16 12:59",
    "note": "Run 500 (global markets (Japan's school age kids: games and YouTube habits)): Japanese primary school children mostly watch game streamers (HikakinGames first for the seventh year, Minecraft and Roblox the top games, Roblox up about eight times in a year), while kids song and educational channels rank far down for 6 to 9 year olds, so in Japan Bro Bros should target preschoolers and use game style themes for older kids. Total 1934."
+  },
+  {
+   "date": "2026-11-16 13:00",
+   "note": "Run 501 (competitor deep dive (Super Simple Play with Caitie)): Super Simple's live host channel (5.25M subs) is one of the few steady performers, about 47M to 58M views a month all of 2026, with hits that are action songs (fire truck, I spy colours, dance and stop) and a Christmas party Short already out on 12 Nov; its 10 track holiday album mixes funky classics with originals about snow days and crafts. Total 1938."
   }
  ],
  "history": [
@@ -14933,6 +14961,10 @@
   {
    "date": "2026-11-16 12:59",
    "total": 1934
+  },
+  {
+   "date": "2026-11-16 13:00",
+   "total": 1938
   }
  ],
  "next_week_ideas": [
