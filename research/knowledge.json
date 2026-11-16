@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:42:37+05:30",
- "runs": 419,
+ "updated": "2026-11-16T09:44:03+05:30",
+ "runs": 420,
  "branches": [
   {
    "id": "platforms",
@@ -12088,6 +12088,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 417
+    },
+    {
+     "t": "Official Charts (4 Nov 2026) expects Spotify Wrapped 2026 on Wednesday 2 December, since every Wrapped since 2021 has launched on a Wednesday (3 Dec 2025, 4 Dec 2024), so our own 'Bro Bros Wrapped' top songs recap should be ready to post the same day.",
+     "src": "officialcharts.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 420
+    },
+    {
+     "t": "Spotify keeps counting Wrapped listening until about mid November rather than stopping on 31 October, so songs released in early November can still appear in a child's 2026 Wrapped.",
+     "src": "officialcharts.com, Nov 2026; newsnationnow.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 420
+    },
+    {
+     "t": "Tokchart's 15 Nov 2026 worldwide top 10 fastest growing TikTok sounds were again almost all creators' own original audio (8,000 to 33,000 new videos a day each), with one Brazilian funk 'montagem' as the only named track.",
+     "src": "tokchart.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 420
+    },
+    {
+     "t": "That funk montage rides an adult 'chupeta' (pacifier for stress) fad in Brazil and Latin America that doctors criticise, so it is an adult trend and not one for Bro Bros, even though it sounds childlike.",
+     "src": "tnh1.com.br and tokchart.com, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 420
     }
    ]
   }
@@ -12113,10 +12141,6 @@
   "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
  ],
  "log": [
-  {
-   "date": "2026-11-16 05:55",
-   "note": "Run 340 (TRENDS (dinosaur and fairytale twists in November kids films)): Social trend trackers had nothing new since the last round, so the round checked what kids are being shown on streamers this month: dinosaurs (a pup team movie with a new dino friend, 12 Nov), a Cinderella retelling where the stepsisters are kind (Netflix, 20 Nov), a Nutcracker remake (1 Nov) and a 'home alone' holiday defence (Disney+, 27 Nov). Dinosaur friends and kind twist fairytales are this month's story hooks. Total 1407."
-  },
   {
    "date": "2026-11-16 05:56",
    "note": "Run 341 (music craft (what makes a song sound like Christmas)): Berklee musicologist Joe Bennett's study of the 78 most streamed holiday songs found 95% in a major key, a median tempo of 115 BPM, 90% in 4/4, sleigh bells in 38% and a swing or shuffle feel in 35%; tubular bells and choirs also signal Christmas. A label's analysis of 50 years of UK Christmas No. 1s points to G major and about 114 BPM. These give a ready Suno recipe for our December songs. Total 1410."
@@ -12432,6 +12456,10 @@
   {
    "date": "2026-11-16 09:42",
    "note": "Run 419 (our results (Reels of 9 to 15 Nov, now including 15 Nov)): Metricool now has Instagram data for 15 Nov: the Ant Parade marching story song Reel reached 113 views (88 people) with the lowest skip rate of the week (74%), our best Reel since the 9 Nov cookie mystery, while the Hindi Golu elephant Didi Reel got only 9 views with an 89% skip rate. Over 9 to 15 Nov English story song Reels averaged about 43 views against about 22 for Hindi Didi Reels. YouTube data still stops at 11 Nov. Total 1717."
+  },
+  {
+   "date": "2026-11-16 09:44",
+   "note": "Run 420 (TRENDS (Wrapped season dates, TikTok growth chart check, adult pacifier fad skipped)): Official Charts expects Spotify Wrapped 2026 on Wednesday 2 Dec (every Wrapped since 2021 came on a Wednesday), so the 'Bro Bros Wrapped' recap Reel should be ready by 1 Dec; Tokchart's 15 Nov growth chart is still all creator original audio plus one Brazilian funk montage linked to an adult pacifier fad, which we skip. Total 1721."
   }
  ],
  "history": [
@@ -13090,6 +13118,10 @@
   {
    "date": "2026-11-16 09:42",
    "total": 1717
+  },
+  {
+   "date": "2026-11-16 09:44",
+   "total": 1721
   }
  ],
  "next_week_ideas": [
