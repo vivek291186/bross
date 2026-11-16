@@ -2283,13 +2283,6 @@
      "run": 326
     },
     {
-     "t": "A kids channel near 1M subscribers (Sandy the Sticker) went from one manual live stream to 16 automated 24/7 streams of its back catalogue, added Shorts cut from high energy long video moments and 44% more long uploads; in about 90 days views rose 12.6%, watch time 31%, average view duration from 1:36 to 2:06 and revenue 63%.",
-     "src": "AIR, Mar 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 339
-    },
-    {
      "t": "A kids channel that dropped re uploads and repetitive food videos for original story led videos in 4K, paced for TV viewing, and added 4K live streams with mid rolls and vertical shorts grew views 55% (3.6M to 5.7M) and revenue 77%, supporting originality and TV friendly quality as growth levers.",
      "src": "AIR, Apr 2026",
      "conf": "medium",
@@ -2304,7 +2297,7 @@
      "run": 339
     },
     {
-     "t": "In Buffer's data the best and worst long video slots differ hugely (engagement factor 0.95 on Sunday 10 AM against 0.11 on Thursday 2 PM), but the times are local to each viewer, so for a global audience our 10 AM and 4 PM IST slots hit Europe's morning and the Americas' night; a weekend morning long video for the Americas is worth one test.",
+     "t": "In Buffer's data the best and worst long video slots differ hugely (engagement factor 0.95 on Sunday 10 AM against 0.11 on Thursday 2 PM), and the times are local to each viewer; our 10 AM IST slot lands at about 5:30 AM in Central Europe and late evening in the US, and 4 PM IST at late morning in Europe and early morning in the US, so one weekend morning upload timed for Europe or the Americas is worth testing.",
      "src": "Buffer, Jul 2026",
      "conf": "low",
      "date": "2026-11-16",
@@ -10247,7 +10240,7 @@
   },
   {
    "date": "2026-11-16 05:54",
-   "note": "Run 339 (algorithm experiments and data (24/7 live streams, originality rebuild, Buffer's timing data)): AIR's Sandy the Sticker case went from 1 manual stream to 16 automated 24/7 live streams plus Shorts cut from long videos and lifted watch time 31% and revenue 63% in about 90 days; another kids channel replaced re uploads and food videos with original 4K stories and gained 55% views and 77% revenue. Buffer's 1.8M video study puts long videos' best window at weekend and Monday mornings and Shorts' at Thursday to Saturday evenings. Total 1405."
+   "note": "Run 339 (algorithm experiments and data (24/7 live streams, originality rebuild, Buffer's timing data)): A kids channel replaced re uploads and food videos with original 4K stories and gained 55% views and 77% revenue. Buffer's 1.8M video study puts long videos' best window at weekend and Monday mornings and Shorts' at Thursday to Saturday evenings. Total 1404."
   }
  ],
  "history": [
@@ -11449,7 +11442,7 @@
   },
   {
    "date": "2026-11-16 05:54",
-   "total": 1405
+   "total": 1404
   }
  ],
  "next_week_ideas": [
