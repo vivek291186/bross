@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:41:20+05:30",
- "runs": 631,
+ "updated": "2026-11-16T17:47:36+05:30",
+ "runs": 632,
  "branches": [
   {
    "id": "platforms",
@@ -10205,6 +10205,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 607
+    },
+    {
+     "t": "Thai kids song channel KidsMeSong (7.39M subscribers) got about 40.5M views in the 28 days to mid October 2026 but vidIQ estimates only about 9K USD a month in revenue (roughly 0.2 USD per 1,000 views), so a Thai dub would add reach and subscribers far more than income.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 632
+    },
+    {
+     "t": "KidsMeSong's all time hits are a cat sound song (about 71M views), 3D cartoon Thai alphabet songs (37M and 29M) and caterpillar and insect songs (about 29M each), which again shows animal sound and alphabet songs travel best into a new language.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 632
+    },
+    {
+     "t": "Italy's top 100 channels (vidIQ, Nov 2026) include two home grown kids music brands, Ninna e Matti (2.69M subscribers, 2.35B views) and CoccoleSonore (2.55M, 2.38B), beside HeyKids Italian (3.36M, 3.4B), so Italian families support original song brands, not only dubbed TV shows.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 632
     }
    ]
   },
@@ -14935,12 +14956,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:10",
-   "note": "Earlier runs summarised: all rounds through Run 552 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:11",
-   "note": "Run 553 (YouTube algorithm (news check for 9 to 16 Nov)): The only YouTube changes this week (custom feeds moved to the top bar in the US, Hype with Jewels in nine countries, video A/B tests and dynamic thumbnails) were already leaves, so no new leaves. Total 2037."
+   "note": "Earlier runs summarised: all rounds through Run 553 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:11",
@@ -15253,6 +15270,10 @@
   {
    "date": "2026-11-16 17:41",
    "note": "Run 631 (TRENDS (Ramdam early November TikTok formats)): Ramdam's 3 and 10 Nov TikTok lists add a confused 'no, that does not make any sense' lip sync over a needlessly complicated way of doing something, which becomes a kid safe silly way versus easy way comedy beat; most other new formats are adult or ironic. Total 2120."
+  },
+  {
+   "date": "2026-11-16 17:47",
+   "note": "Run 632 (global markets (Thai song channel revenue, Italian home grown brands)): KidsMeSong in Thailand drew about 40.5M views in 28 days but only about 9K USD estimated monthly revenue, so a Thai dub is for reach not money; Italy's top 100 holds two home grown kids music brands next to dubbed global ones. Total 2123."
   }
  ],
  "history": [
@@ -15715,6 +15736,10 @@
   {
    "date": "2026-11-16 17:41",
    "total": 2120
+  },
+  {
+   "date": "2026-11-16 17:47",
+   "total": 2123
   }
  ],
  "next_week_ideas": [
