@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:37:55+05:30",
- "runs": 557,
+ "updated": "2026-11-16T16:38:32+05:30",
+ "runs": 558,
  "branches": [
   {
    "id": "platforms",
@@ -14391,6 +14391,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 555
+    },
+    {
+     "t": "Revid's own data on holiday short videos gives Christmas dance videos a median of about 84K views, with 15.5% passing 1M views, and its advice is that enthusiasm and a lit Christmas tree in the frame matter more than dance technique, so our December dance Shorts should put the Bros in front of a glowing tree from the first frame.",
+     "src": "Revid, holiday video ideas (2025 to 2026)",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 558
+    },
+    {
+     "t": "Simple kids Christmas crafts (a paper plate Santa face, a lolly stick snowflake, a handprint reindeer) are a holiday format parents and teachers save to use later, and saves are a strong signal on Reels, so a short 'make it with the Bros' craft song where each verse is one easy step is a December Reel worth making.",
+     "src": "Revid, holiday video ideas (2025 to 2026)",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 558
     }
    ]
   }
@@ -14418,11 +14432,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 478 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:54",
-   "note": "Run 479 (rules and monetisation (distress then rescue content, ad rates by country)): TechCrunch's account of YouTube's 16 Jul 2026 update names 'an animal in distress that is then rescued' as an example of off putting content made to upset, and channels built on it leave the Partner Program even without AI, which matters for our rescue story songs; 2026 RPM tables put Australia and the US at about 9 to 12 dollars per 1,000 views against 0.20 to 1.50 dollars for India, Indonesia, the Philippines, Brazil and Mexico, with kids animation at about 2.50 dollars median and a 1.5 times Q4 lift. Total 1879."
+   "note": "Earlier runs summarised: all rounds through Run 479 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:56",
@@ -14735,13 +14745,13 @@
   {
    "date": "2026-11-16 16:37",
    "note": "Run 557 (visual craft (slow media pacing and thumbnail faces)): A Sep 2026 essay by an early childhood professor lists what makes kids media calmer and better rated (stopping points, one object to look at, meaningful repetition, a familiar ritual frame); thumbnail testers report friendly smiles and natural mid action faces now beating fake shock faces. Total 2046."
+  },
+  {
+   "date": "2026-11-16 16:38",
+   "note": "Run 558 (TRENDS (December holiday short video formats)): Revid's holiday data says holiday dance videos had a median of about 84K views with 15.5% passing 1M, and that a lit tree and enthusiasm matter more than technique; simple kids Christmas crafts are the format parents and teachers save. Added a seasonal 'holiday craft along' trend. Total 2048."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 20:00",
-   "total": 613
-  },
   {
    "date": "2026-11-15 21:00",
    "total": 726
@@ -15937,6 +15947,10 @@
   {
    "date": "2026-11-16 16:37",
    "total": 2046
+  },
+  {
+   "date": "2026-11-16 16:38",
+   "total": 2048
   }
  ],
  "next_week_ideas": [
@@ -15998,6 +16012,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Holiday craft along",
+   "where": "Instagram Reels, YouTube Shorts and Pinterest (December, seasonal)",
+   "status": "seasonal",
+   "use": "A 30 to 45 second Reel where Big Bro and Little Bro make one easy Christmas craft (a paper plate snowman face or a handprint reindeer) in three steps, each step sung as one line of our own craft song, ending with both holding it up next to a lit tree and doing a happy two hand wave; the caption invites families to save it for craft time."
+  },
   {
    "name": "Copycat chain dance",
    "where": "TikTok and Reels family accounts (evergreen)",
@@ -16111,12 +16131,6 @@
    "where": "YouTube Shorts and TikTok POV skits, Nov 2026",
    "status": "rising",
    "use": "A 20 second Short to our own friendship song: one friend stands alone at the side, the Bro 'glue' walks over (standing walk in place, then a big beckoning wave, 2 seconds), takes his hand and brings him into the group, then everyone does the same move together (standing in place, side step left and right with a clap on each beat, 4 seconds); caption 'POV: you are the friend who brings everyone in'."
-  },
-  {
-   "name": "Koplo group sway (Indonesia)",
-   "where": "TikTok and Reels Indonesia, Nov 2026",
-   "status": "rising",
-   "use": "For an Indonesian language Short with our own upbeat koplo style beat: the Bros and friends stand in a row and do a hip sway (standing in place, sway hips left and right on each beat with hands on hips, 4 seconds), then a hand wave across the body (standing, wave both hands side to side above the head, 4 seconds), then a happy clap and point to the camera; caption 'Joget bareng!' (dance together)."
   }
  ]
 }
