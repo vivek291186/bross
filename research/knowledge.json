@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:42:25+05:30",
- "runs": 381,
+ "updated": "2026-11-16T08:43:38+05:30",
+ "runs": 382,
  "branches": [
   {
    "id": "platforms",
@@ -8931,6 +8931,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 370
+    },
+    {
+     "t": "On 1 October 2026 YouTube said its Shorts recommendations will further favour original content and cut reach for channels that mainly re-upload other creators' videos without significant changes; the judgement is per channel, and minor technical edits or template based changes do not count as original.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 382
+    },
+    {
+     "t": "YouTube's Rene Ritchie said a channel's Shorts reach is re-evaluated after it shifts to original work, but gave no timeline and no way to check status, so the safest course for Bro Bros is never to post clips from other channels, even trending ones, and to keep every Short built from our own renders.",
+     "src": "PPC Land / Search Engine Journal, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 382
+    },
+    {
+     "t": "A 2026 summary of YouTube's inauthentic content enforcement ranks risk for AI assisted channels: AI music or graphics inside creator led, edited videos is low risk; daily uploads with little variation or AI music over static images is medium; template clones where only the title or character name changes is high, which is why our 14 weekly songs need clearly different stories, scenes and moves.",
+     "src": "OutlierKit, 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 382
     }
    ]
   },
@@ -11222,10 +11243,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:04",
-   "note": "Run 303 (other platforms (Spotify kids genre popularity mix, sleep audio, Netflix kids staying power)): Shorts and Reels sources had nothing new this round, so it moved to other platforms. Spotify's kids genre popularity list mixes adult family friendly pop (Avicii's Wake Me Up scores 88, The Clash 84) with Ms Rachel, Plim Plim and many sleep tracks (a Swedish lullaby duo, German baby sea sounds, four 'Relaxing Music For Kids' pieces in the top 31). On Netflix, KPop Demon Hunters was still in the English film top 10 in its 65th week in September. Total 1284."
-  },
-  {
    "date": "2026-11-16 04:05",
    "note": "Run 304 (TRENDS (late November returners: dancing plush animals, silent dance then random sound, holiday theme decorate reveal)): This week's trackers had nothing new beyond the trend bank, so this round looked at what ran last late November and may return: creators copying dancing plush animals or becoming a blanket puppet, dancing in silence and letting TikTok pick the sound for a replay, and labelled step by step holiday decorating ending in a before and after reveal. Two formats joined the trend bank. Total 1287."
   },
@@ -11536,13 +11553,13 @@
   {
    "date": "2026-11-16 08:42",
    "note": "Run 381 (TRENDS (rock paper scissors snack game, pose and bow, gratitude tablecloth, one week meme lifespans)): Virlo's late October tracker shows two family friendly TikTok formats still early: a rock paper scissors game where the winner takes a bite, and a pose then bow on the beat drop; it also shows memes now rise and die within a single week. TikTok's holiday shopping event opened on 14 Nov, and the US gratitude tablecloth tradition (kids trace their hands) returns for Thanksgiving on 26 Nov. Total 1589."
+  },
+  {
+   "date": "2026-11-16 08:43",
+   "note": "Run 382 (rules (Shorts originality ranking from 1 Oct, AI monetisation risk tiers)): Most rules topics were already covered; new is YouTube's 1 Oct 2026 change that judges Shorts originality per channel and cuts reach for channels that mainly re-upload others' clips (no warning, no status check, no recovery timeline), plus a risk ladder for AI assisted channels: AI music inside creator led videos is low risk, near identical daily uploads are medium, title swap template clones are high. Total 1592."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:48",
-   "total": 438
-  },
   {
    "date": "2026-11-15 18:49",
    "total": 442
@@ -12738,6 +12755,10 @@
   {
    "date": "2026-11-16 08:42",
    "total": 1589
+  },
+  {
+   "date": "2026-11-16 08:43",
+   "total": 1592
   }
  ],
  "next_week_ideas": [
