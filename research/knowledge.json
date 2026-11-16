@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:07:20+05:30",
- "runs": 454,
+ "updated": "2026-11-16T11:08:02+05:30",
+ "runs": 455,
  "branches": [
   {
    "id": "platforms",
@@ -4507,6 +4507,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 452
+    },
+    {
+     "t": "IvyBears, an animated kids franchise made with human led storytelling and AI supported production, launched on YouTube in May 2026 and by July reported 2.5M subscribers and 40M views, with its third music driven episode at 3M views in three days (company press release, unverified); a very high subscriber to view ratio like that usually signals paid promotion, so it is not a normal organic benchmark.",
+     "src": "aap.com.au (PR Newswire), Jul 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 455
+    },
+    {
+     "t": "IvyBears calls its model a 'reversed flywheel': it sold its bear products in more than 60 countries first and only then launched animation, releasing one full episode a month toward a seven episode season plus a planned preschool science and music spin off, showing that even AI assisted brands plan seasons and spin offs, not endless one off clips.",
+     "src": "aap.com.au (PR Newswire), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 455
+    },
+    {
+     "t": "DRAGGLiNS, an AI animated series for 4 to 8 year olds made by one solo creator without a studio, launched on YouTube in April 2026 with four episodes, a new one every Saturday, a merch store and a US trademark filing for its name, a reminder that a solo AI assisted brand like Bro Bros should secure its name and characters early.",
+     "src": "pulse.bot, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 455
     }
    ]
   },
@@ -12815,11 +12836,7 @@
  "log": [
   {
    "date": "2026-11-16 07:58",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 375 (algorithm experiments (TRENDS skipped, sound charts..."
-  },
-  {
-   "date": "2026-11-16 08:03",
-   "note": "Run 376 (music (what African homes stream for kids, world music twists on carols, retro ballad style)): Spotify Wrapped coverage from Nigeria, Ghana, Kenya and South Africa shows the big three kids brands dominating toddler playlists, with songs used as markers for routines (morning, car, bath, bedtime) and a 1960s ballad loved by young kids; last Christmas a Mongolian throat singing Jingle Bells went viral, proof that a world music twist on a public domain carol travels. Total 1564."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 376 (music (what African homes stream for kids, world mu..."
   },
   {
    "date": "2026-11-16 08:03",
@@ -13132,6 +13149,10 @@
   {
    "date": "2026-11-16 11:07",
    "note": "Run 454 (rules (EU AI Act labelling: 2 Dec 2026 marking deadline for AI tools)): Under the EU AI Act, generative AI tools already on the market (such as music and 3D generators) must embed machine readable marks and offer detection by 2 Dec 2026, and an EU Code of Practice now offers standard AI content icons, so from December our Suno audio may be detectable as AI by platforms anywhere, another reason to keep disclosing AI use. Total 1817."
+  },
+  {
+   "date": "2026-11-16 11:08",
+   "note": "Run 455 (YouTube channels (our Metricool data already checked today, so skipped; new AI assisted kids franchises IvyBears and DRAGGLiNS)): Two 2026 AI assisted kids launches: IvyBears (human led story with AI supported animation, monthly music driven episodes) reports 2.5M subscribers and 40M views within weeks of its May 2026 launch after first selling toys in 60+ countries, and DRAGGLiNS, a solo creator's AI animated series for ages 4 to 8, launched with weekly Saturday episodes, a merch store and a trademark filing from day one. Total 1820."
   }
  ],
  "history": [
@@ -13930,6 +13951,10 @@
   {
    "date": "2026-11-16 11:07",
    "total": 1817
+  },
+  {
+   "date": "2026-11-16 11:08",
+   "total": 1820
   }
  ],
  "next_week_ideas": [
