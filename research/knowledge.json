@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:40:17+05:30",
- "runs": 355,
+ "updated": "2026-11-16T06:41:09+05:30",
+ "runs": 356,
  "branches": [
   {
    "id": "platforms",
@@ -7237,6 +7237,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 344
+    },
+    {
+     "t": "Brazil's ICT Kids Online 2025 survey (2,370 children aged 9 to 17, published May 2026) found 92% are internet users (about 24M children) and 60% of them go online through a television every day, so in Brazil the living room TV is a daily screen for kids, which rewards long form compilations with a Portuguese audio track.",
+     "src": "Cetic.br / NIC.br, May 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 356
+    },
+    {
+     "t": "In the same Brazilian survey phone ownership among 9 to 10 year olds fell to 55% (from 67% in 2024) and social media use in that age group dropped from 48% in 2021 to 33% in 2025, a sign that younger Brazilian children are moving toward shared family screens and supervised viewing rather than their own phones.",
+     "src": "Cetic.br / NIC.br, May 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 356
+    },
+    {
+     "t": "28% of Brazilian 9 to 17 year olds first went online by age 6, and 80% watch influencer videos, series or films online (46% watch influencer content several times a day), so a Brazilian family meets kids' video in the preschool years, the exact age band of Bro Bros songs.",
+     "src": "Cetic.br / NIC.br, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 356
     }
    ]
   },
@@ -10313,10 +10334,6 @@
   },
   {
    "date": "2026-11-16 02:41",
-   "note": "Run 277 (TRENDS (December returners: signature line, blinking light letters, frozen bubbles)): Looking ahead four weeks, last December's kid safe TikTok formats were a 'signature line' trend (stare at the camera, then say your most repeated phrase on the beat), a blinking Christmas lights alphabet wall and holiday audio pause reveals; last winter families also made frozen bubbles go viral as a cold weather science trick. A Bloomberg look inside 13 US kids' rooms (ages 5 to 12) shows Pokemon, blind boxes, plush collectibles, Minecraft and Roblox, pets like axolotls and frogs, and disco ball sparkle. Three seasonal formats joined the trend bank. Total 1197."
-  },
-  {
-   "date": "2026-11-16 02:41",
    "note": "Run 278 (YouTube algorithm (Ask YouTube age gate, repeat recommendation limits, Subs tab move)): Ask YouTube, the conversational AI search, is limited to signed in US users aged 13+ and excludes supervised accounts and signed out viewers, so kids find songs through classic search and Home. YouTube's discovery lead says the same upload can be shown to one viewer many times without a click (one was recommended 19 times), and the 22 Oct US app redesign moved Subscriptions into a top bar 'Subs' tab with custom feeds limited to signed in English US users. Total 1201."
   },
   {
@@ -10626,13 +10643,13 @@
   {
    "date": "2026-11-16 06:40",
    "note": "Run 355 (TRENDS (Dame Hombro reaches Europe, feet up camera reveal, winter dance for January)): The Dame Hombro shoulder bounce is still on every list this week (NewEngen 13 Nov, Inmagic 16 Nov) and has spread to Spain and Italy, so it moves to peak. Fabulate's November roundup adds the feet up camera reveal, and last January's Winter Vibes routine (sway, snowflake fingers, self hug twist, spin, freeze) is a ready template for a winter dance Short in early January. Total 1459."
+  },
+  {
+   "date": "2026-11-16 06:41",
+   "note": "Run 356 (global markets (Brazil's TIC Kids Online 2025 survey)): Brazil's national kids survey (published May 2026) shows 60% of online 9 to 17 year olds go online through the TV every day, phone ownership among 9 to 10 year olds fell from 67% to 55% in a year, and 28% first went online by age 6, so Brazil's younger kids increasingly watch on the family TV, which favours Portuguese audio tracks and long form compilations. Total 1462."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:07",
-   "total": 328
-  },
   {
    "date": "2026-11-15 17:08",
    "total": 332
@@ -11828,6 +11845,10 @@
   {
    "date": "2026-11-16 06:40",
    "total": 1459
+  },
+  {
+   "date": "2026-11-16 06:41",
+   "total": 1462
   }
  ],
  "next_week_ideas": [
