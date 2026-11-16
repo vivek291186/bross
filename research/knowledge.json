@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:04:18+05:30",
- "runs": 803,
+ "updated": "2026-11-17T01:04:49+05:30",
+ "runs": 804,
  "branches": [
   {
    "id": "platforms",
@@ -12853,7 +12853,7 @@
      "run": 803
     },
     {
-     "t": "Brazil raised TikTok, Kwai and Pinterest ratings the week before YouTube's, judging each platform on sex and nudity, violence, drugs and interactivity across its whole catalogue, which means regulators now hold the platform responsible for look alike kids animation with adult themes and are likely to push stricter filters on cartoon food and animal content in Brazil, our third biggest market for kids dubs.",
+     "t": "Brazil raised TikTok, Kwai and Pinterest ratings the week before YouTube's, judging each platform on sex and nudity, violence, drugs and interactivity across its whole catalogue, which means regulators now hold the platform responsible for look alike kids animation with adult themes and are likely to push stricter filters on cartoon food and animal content in Brazil, a major market for Portuguese kids dubs.",
      "src": "tnh1.com.br and congressoemfoco.com.br, May 2026",
      "conf": "medium",
      "date": "2026-11-17",
@@ -13488,6 +13488,20 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 792
+    },
+    {
+     "t": "Of about 16,900 YouTube views from 2 to 16 Nov 2026, 71% came from Suggested (next to other videos), 17% from YouTube search, 6% from subscribers, 3% from our channel page and only 0.3% from the Shorts feed and 0.1% from playlists, so Bro Bros lives on Suggested and search; titles that match what parents type and end screens that chain our own songs matter far more than Shorts as a traffic source right now.",
+     "src": "Metricool YouTube traffic sources, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 804
+    },
+    {
+     "t": "Playlists brought only 12 of about 16,900 YouTube views in the first half of November and the Shorts feed only 48, so our playlists are not yet being surfaced and our Shorts are not sending viewers on to full songs; themed playlists (bath and bedtime, vehicles, winter) set as the end screen target and a related video link on every Short are the two cheapest fixes to test.",
+     "src": "Metricool YouTube traffic sources, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 804
     }
    ]
   },
@@ -16714,11 +16728,7 @@
  "log": [
   {
    "date": "2026-11-16 22:42",
-   "note": "Earlier runs summarised: all rounds through Run 724 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 22:42",
-   "note": "Run 725 (music craft (Verona rhythm and movement trial)): A 2026 Italian trial with 108 children aged 2 and 4 found eight weeks of dance, singing and body percussion improved rhythm copying at both ages and self control at age 4, but not vocabulary; Suno v6 and infant dance studies were already in the tree. Total 2295."
+   "note": "Earlier runs summarised: all rounds through Run 725 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:48",
@@ -17031,6 +17041,10 @@
   {
    "date": "2026-11-17 01:04",
    "note": "Run 803 (rules and safety (Brazil age rating, ad rates)): New: Brazil raised YouTube's age rating to 16 in May 2026 because of AI 'fruit soap opera' Shorts with adult plots dressed as cute Pixar style fruit, so our food and animal characters must read as clearly gentle and preschool; ad rate and ECA Digital enforcement items were already in the tree. Total 2374."
+  },
+  {
+   "date": "2026-11-17 01:04",
+   "note": "Run 804 (our own results (Metricool YouTube traffic sources 2 to 16 Nov)): YouTube traffic 2 to 16 Nov: Suggested 71%, search 17%, subscribers 6%, Shorts feed 0.3% and playlists 0.1%, so Suggested and search carry the channel while Shorts and playlists send almost nothing to the full songs. Total 2376."
   }
  ],
  "history": [
@@ -18181,6 +18195,10 @@
   {
    "date": "2026-11-17 01:04",
    "total": 2374
+  },
+  {
+   "date": "2026-11-17 01:04",
+   "total": 2376
   }
  ],
  "next_week_ideas": [
