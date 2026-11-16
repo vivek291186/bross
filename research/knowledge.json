@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T13:02:02+05:30",
- "runs": 503,
+ "updated": "2026-11-16T13:02:56+05:30",
+ "runs": 504,
  "branches": [
   {
    "id": "platforms",
@@ -13656,6 +13656,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 502
+    },
+    {
+     "t": "'Glitch walking', moving jerkily like a lagging video game character, is listed among 2026 Gen Alpha slang, a harmless, very visual move that translates straight into a Bro Bros dance step (stutter steps and freeze frames on the beat).",
+     "src": "GrammarBook, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 504
+    },
+    {
+     "t": "Gen Alpha now call any random fun detour a 'side quest', borrowed from games; a Bro Bros story song where the brothers take silly side quests on the way to the park (help a snail, find a red leaf) uses that game logic without slang in the lyrics.",
+     "src": "GrammarBook, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 504
+    },
+    {
+     "t": "Linguists quoted in Dec 2025 say nonsense words like '6 7' and 'skibidi' spread because they carry social meaning (who is in the group) rather than literal meaning, so an original made up Bro Bros word in a chorus, repeated with one gesture, can become a playground in joke of our own.",
+     "src": "MadeForMums, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 504
     }
    ]
   }
@@ -13683,11 +13704,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 424 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:50",
-   "note": "Run 425 (topics (Kaspersky's 2026 worldwide kids search and app data)): Kaspersky's Safe Kids report 2026 (worldwide, May 2025 to Apr 2026) finds YouTube takes 29% of children's Android app time, music is the largest YouTube search category (26%) with 'phonk' the top query and girl groups like KATSEYE and BLACKPINK leading artists, and cartoons make up over half of film and TV searches on YouTube, led by Cocomelon and Bluey alongside indie web cartoons. Total 1739."
+   "note": "Earlier runs summarised: all rounds through Run 425 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:50",
@@ -14000,6 +14017,10 @@
   {
    "date": "2026-11-16 13:02",
    "note": "Run 503 (other platforms (rules, our data and algorithm skipped as checked this run; iTunes kids chart and Netflix animated series 2026 rechecked)): The iTunes kids chart (silly food songs, Bluey, Ms Rachel, faith songs) and Netflix's 2026 animated series ranking (Peppa, CoComelon, Little Angel, Bebefinn) were already in the tree, so no new leaves; the tree is saturated on most weekly sources until new charts land later this week. Total 1941."
+  },
+  {
+   "date": "2026-11-16 13:02",
+   "note": "Run 504 (TRENDS (Gen Alpha words and moves of 2026)): Two harmless Gen Alpha ideas were missing from the tree: 'glitch walking' (moving like a lagging video game character), a ready made robot style dance step, and 'side quest' (a random fun detour), a story frame for older kids; linguists say such words spread because they signal belonging, so an original Bro Bros nonsense hook word can do the same. Total 1944."
   }
  ],
  "history": [
@@ -14994,6 +15015,10 @@
   {
    "date": "2026-11-16 13:02",
    "total": 1941
+  },
+  {
+   "date": "2026-11-16 13:02",
+   "total": 1944
   }
  ],
  "next_week_ideas": [
@@ -15055,6 +15080,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Glitch walk",
+   "where": "Gen Alpha game slang and dance clips, 2026",
+   "status": "rising",
+   "use": "A 10 second Short to our own chiptune style beat: the Bros 'lag' like game characters: standing in place, stutter step (tiny step forward, freeze, tiny step back, freeze), arms move in three jerky stops up to a wave, head tilts in small ticks, then on the drop they snap back to smooth side to side grooving; caption 'Loading... Bros lagging!'"
+  },
   {
    "name": "Clappy sea lion",
    "where": "Instagram Reels and TikTok zoo clips, 2026 (evergreen animal humour)",
@@ -15168,12 +15199,6 @@
    "where": "TikTok Indonesia ('Desember D-nya apa?', started early Dec 2025, likely to return)",
    "status": "seasonal",
    "use": "A 10 to 15 second Reel or Short for 1 to 5 Dec: caption 'December's D is...?' then quick cuts on each beat of our own chant: Big Bro 'Dancing!', Little Bro 'Donuts!', the dog 'Dig in the snow!', ending on 'D for Dreams!' with a pointing pose and a question in the caption asking kids for their own D word. Works as an alphabet game in every language (Diciembre, Dezember, Dezembro). Meshy prompt: standing, point forward with right hand, then both hands up and bounce on the spot."
-  },
-  {
-   "name": "Holiday defrost",
-   "where": "TikTok AI video templates (Dromana Christmas guide, updated 7 Nov 2026)",
-   "status": "seasonal",
-   "use": "Opening shot of a winter Short: Little Bro stands frozen inside a cartoon ice block in the snowy garden; on the first note of our own Christmas song the fairy lights switch on, the ice cracks and melts away, and he shakes off the snow and starts dancing. Meshy prompt: standing still, then shiver and shake arms and shoulders, then bounce on the spot with arms up."
   }
  ]
 }
