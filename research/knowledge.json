@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:10:22+05:30",
- "runs": 410,
+ "updated": "2026-11-16T09:11:02+05:30",
+ "runs": 411,
  "branches": [
   {
    "id": "platforms",
@@ -11822,6 +11822,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 408
+    },
+    {
+     "t": "'Christmas countdown' posts are a November 2026 trend: cosy clips captioned with the days left ('99 days until Christmas') and repeated at milestones; for us a recurring Short every few days ('35 days until Christmas!', '30 days...') with a new festive object added to the Bros' room each time builds a habit and leads into our Advent series on 1 Dec.",
+     "src": "Startups.co.uk, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 411
+    },
+    {
+     "t": "'First time seeing snow' clips go viral every winter (a golden retriever's joyful first snowfall, a baby's first touch of snow, people from Uganda or Australia meeting Canadian snow), so a Bro Bros winter Short where Little Bro sees snow for the first time, gasps and catches a flake on his tongue, set to our own winter song, rides a proven, global, kid safe emotion.",
+     "src": "AOL, Yahoo and Daily Hive, 2025 to 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 411
+    },
+    {
+     "t": "'Money can't buy happiness, but it can buy...' is a November 2026 finish the saying format (people end it with a small treat); a kind Bro Bros twist ends it with free things, 'but hugs are free!', 'a dance with your brother is free!', which keeps the joke and adds a sharing message.",
+     "src": "Startups.co.uk, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 411
     }
    ]
   }
@@ -11850,10 +11871,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 05:44",
-   "note": "Run 332 (global markets (Thailand's family channels, Moonbug's Arabic channel)): Thailand's biggest kids and family YouTube channels in November 2026 are family vlogs and comedy (Vlad and Niki Thai 14.2M, J Jai Pan 13.5M, YimYam TV 10.5M), with two animal and learning song channels at about 7.5M each. Moonbug Kids Arabic, a dubbed brand channel, has 909K subscribers but only about 2M views a month and a few thousand views per new upload, a warning that plain dubs of a global brand do not automatically win the Arabic market. Total 1382."
   },
   {
    "date": "2026-11-16 05:49",
@@ -12166,16 +12183,16 @@
   {
    "date": "2026-11-16 09:10",
    "note": "Run 410 (music (Shorts and Reels skipped as saturated; Suno style tag consistency for kids songs)): Shorts and Reels topics were already covered, so this round checked Suno prompting guides for kids songs: they stress one consistent set of mood words per song (mixed moods give uneven energy), adding words like 'polished, clean mix' when results sound amateur, and making separate instrumental versions with 'instrumental, no vocals' for background or sing along use. Total 1679."
+  },
+  {
+   "date": "2026-11-16 09:11",
+   "note": "Run 411 (TRENDS (days until Christmas countdowns, first snow reactions, 'money can't buy happiness' finish the saying)): Startups.co.uk's November list adds a Christmas countdown format (cosy clips captioned 'X days until Christmas' at regular milestones) and a 'money can't buy happiness, but it can buy...' finish the saying joke, and each winter 'first time seeing snow' clips of pets, babies and people from warm countries go viral; on 16 Nov there are 39 days to Christmas. Total 1682."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:10",
-   "total": 536
   },
   {
    "date": "2026-11-15 19:11",
@@ -13368,6 +13385,10 @@
   {
    "date": "2026-11-16 09:10",
    "total": 1679
+  },
+  {
+   "date": "2026-11-16 09:11",
+   "total": 1682
   }
  ],
  "next_week_ideas": [
@@ -13429,6 +13450,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Days until Christmas countdown",
+   "where": "Reels and TikTok (Christmas countdown, Startups.co.uk Nov 2026), seasonal",
+   "status": "seasonal",
+   "use": "Every 5 days from now to 1 Dec post a 7 second Short with a big caption '35 days until Christmas!' (then 30, 25...) in the Bros' cosy room; each time one new festive thing appears on the beat of our own Christmas hook (a wreath, lights, a tree, a stocking), ending with both Bros shouting the number. Leads into the daily Advent door series."
+  },
   {
    "name": "Matching pyjamas Christmas dance",
    "where": "AI video and Reels templates ('Christmas Dance', Starrd Nov 2026), rising",
@@ -13506,12 +13533,6 @@
    "where": "YouTube (Advent calendar videos about 280M views in Nov 2025, Google 2026 report)",
    "status": "seasonal",
    "use": "A daily Short from 1 Dec (teaser in late Nov): the Bros open one numbered door on a giant Advent calendar and our own tiny helper elf (original design, kind, never spying) pops out with a surprise inside, a toy, a snack, a dance move or a kind deed, each with its own 15 second song line, ending 'See you tomorrow!'."
-  },
-  {
-   "name": "Christmas workshop stream",
-   "where": "YouTube 24/7 Santa workshop livestreams (North Pole Live, Dec 2025)",
-   "status": "seasonal",
-   "use": "A 24/7 looping stream from 1 Dec: the Bros and friends wrap presents on a conveyor belt in a cosy workshop between our own Christmas songs, with a daily changing scene (Monday paint toys, Tuesday feed the reindeer); no chat, made for kids. Meshy prompt: standing, mime wrapping a box with both hands, then lift it up high and sway side to side."
   },
   {
    "name": "Dear Santa list",
