@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:39:45+05:30",
- "runs": 487,
+ "updated": "2026-11-16T12:46:12+05:30",
+ "runs": 488,
  "branches": [
   {
    "id": "platforms",
@@ -9253,6 +9253,41 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 480
+    },
+    {
+     "t": "An OpinionWay survey of 1,049 French parents of 3 to 10 year olds found screen exposure peaks in the winter holidays (96% of kids, average 1h51 a day in February versus 1 hour in term time, 16% over three hours), so holiday weeks are when French speaking families watch most.",
+     "src": "OpinionWay for tonies via CB News, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 488
+    },
+    {
+     "t": "In the same French survey 46% of parents said grandparents are more relaxed about screens and half leave screens on more in holidays for lack of time, so in holiday weeks the person pressing play is often a grandparent who searches simple words like song name plus 'comptine'.",
+     "src": "OpinionWay for tonies via CB News, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 488
+    },
+    {
+     "t": "29% of French parents count watching cartoons together as family bonding time, which supports family singalong compilations in French for the Christmas and February holidays.",
+     "src": "OpinionWay for tonies via CB News, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 488
+    },
+    {
+     "t": "Kaboochi's French nursery rhyme channel (197K subscribers, 618 videos) gained no subscribers in the 28 days to 13 Nov 2026 and earns about 100K views a month, down from up to 255K a month in 2024, and its biggest hit is a Short, so small French dub channels stall and Shorts carry what reach they have.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 488
+    },
+    {
+     "t": "A French expert commission (2024) advised no screens under 3, limited and accompanied screens from 3 to 6 and curbs on autoplay; French parents are primed to prefer calm, educational, co watched videos, so the French version of Bro Bros should lead with learning songs, not hype.",
+     "src": "The Media Leader France, May 2024",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 488
     }
    ]
   },
@@ -13403,11 +13438,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 408 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:04",
-   "note": "Run 409 (other platforms (algorithm just done, so skipped; creator FAST channels and Fire TV's creator hub)): TV platforms are opening to YouTube creators: Samsung TV Plus (about 100M monthly users) added creator channels in eight more markets in September 2026 through partner studios, and Amazon is building a Fire TV Creator Hub aiming at 500+ creators by 2027; none of the new launches are kids channels yet, and entry is through partnerships, so this is a later step once our catalogue is large. Total 1677."
+   "note": "Earlier runs summarised: all rounds through Run 409 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:10",
@@ -13720,6 +13751,10 @@
   {
    "date": "2026-11-16 12:39",
    "note": "Run 487 (TRENDS (inmagic 16 Nov top 10 Reels; anijam 4 Nov list)): New kid safe Reels formats this week: the one spot glow up switch (fixed camera, the look changes on the beat), the slow festive makeover of a room from autumn to Christmas, the 0 to 100 percent loading cut, the mock documentary chair interview and green screen magic tricks that make viewers rewatch. Total 1901."
+  },
+  {
+   "date": "2026-11-16 12:46",
+   "note": "Run 488 (global markets (France: holiday screen time and French dub channels)): French children aged 3 to 10 watch screens most in the winter holidays (1h51 a day in February, 96% exposed) and grandparents are often in charge, while a French nursery dub channel (Kaboochi) has shrunk to about 100K views a month, so French audio should be a re sung track on our main videos rather than a new channel, aimed at holiday weeks. Total 1906."
   }
  ],
  "history": [
@@ -14650,6 +14685,10 @@
   {
    "date": "2026-11-16 12:39",
    "total": 1901
+  },
+  {
+   "date": "2026-11-16 12:46",
+   "total": 1906
   }
  ],
  "next_week_ideas": [
