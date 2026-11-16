@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:54:28+05:30",
- "runs": 658,
+ "updated": "2026-11-16T19:55:16+05:30",
+ "runs": 659,
  "branches": [
   {
    "id": "platforms",
@@ -11899,6 +11899,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 658
+    },
+    {
+     "t": "Answering the 200 plus group letter against AI kids videos, a YouTube spokesperson said AI generated content on the YouTube Kids app is already restricted to a smaller set of vetted channels and that creators must disclose AI use, so Bro Bros should disclose AI assisted music and motion honestly and build a track record of original, high quality uploads before expecting YouTube Kids app reach.",
+     "src": "Android Authority, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 659
+    },
+    {
+     "t": "Senate Commerce advanced an updated KOSA on 5 Aug 2026 together with the CHATBOT Act (family accounts and parental consent for minors using AI chatbots), the Youth AI Privacy Act and a Children's AI Toy Safety study bill; despite the committee chair's pledge to pass KOSA in 2026, none was law by mid November, so current COPPA and made for kids rules still govern our channel.",
+     "src": "Captain Compliance, Aug and Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 659
     }
    ]
   },
@@ -15454,11 +15468,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 579 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:51",
-   "note": "Run 580 (music craft (Suno clean lead vocal; bhangra rhythm)): The Suno guide on keeping one clear lead vocal was already a leaf and the bhangra teaching pages gave no usable tempo or rhythm detail, so no new leaves. Total 2074."
+   "note": "Earlier runs summarised: all rounds through Run 580 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:52",
@@ -15771,6 +15781,10 @@
   {
    "date": "2026-11-16 19:54",
    "note": "Run 658 (TRENDS (winter play: indoor snowball games, ski toddler shuffle, ice safety)): Looked ahead to December winter play. Indoor soft snowball games are a perennial winter parent activity and were added to the trend bank as a freeze game song; the 2022 ski toddler dance (one hand waving overhead with a side shuffle) remains a reusable winter move; a 5.4M view Christmas clip of a family falling through a frozen pool while dancing is a reminder never to show dancing on ice over water. Total 2194."
+  },
+  {
+   "date": "2026-11-16 19:55",
+   "note": "Run 659 (rules and monetisation (YouTube Kids AI vetting, KOSA committee step)): COPPA, KIDS Act, RPM and the 200 group AI letter were already leaves. New: replying to that letter YouTube said AI generated content on the YouTube Kids app is limited to a smaller set of vetted channels, which matters because our songs are rendered in Blender with AI assisted music and motion; and on 5 Aug 2026 Senate Commerce sent an updated KOSA plus a chatbot consent bill and an AI toy safety study to the full Senate, though nothing was law by mid November. Total 2196."
   }
  ],
  "history": [
@@ -16341,6 +16355,10 @@
   {
    "date": "2026-11-16 19:54",
    "total": 2194
+  },
+  {
+   "date": "2026-11-16 19:55",
+   "total": 2196
   }
  ],
  "next_week_ideas": [
