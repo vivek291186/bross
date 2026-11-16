@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:56:55+05:30",
- "runs": 369,
+ "updated": "2026-11-16T07:57:41+05:30",
+ "runs": 370,
  "branches": [
   {
    "id": "platforms",
@@ -8658,6 +8658,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 358
+    },
+    {
+     "t": "The US Senate passed COPPA 2.0 unanimously around 5 Mar 2026, extending children's privacy protections to everyone under 17, but the House had not passed it by autumn 2026 (its committee advanced the separate KIDS Act instead), so the current COPPA Rule stays the law we must follow for now.",
+     "src": "Movieguide, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 370
+    },
+    {
+     "t": "YouTube's AI age estimation now runs in waves in parts of the US, the UK and the EU; accounts it cannot verify as adult get teen settings (reduced recommendations, non personalised ads, no age restricted videos) until they verify with ID, a selfie or a card, so some parent viewers are quietly treated as teens.",
+     "src": "Particle News, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 370
+    },
+    {
+     "t": "Under the EU Digital Services Act the Commission asked YouTube (Oct 2025) for details of its age assurance and of how its recommender system stops harmful content reaching minors, a sign that EU rules may further shape what YouTube recommends to children; clearly educational, calm, made for kids songs sit on the safe side of any such change.",
+     "src": "European Commission, Oct 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 370
     }
    ]
   },
@@ -10852,10 +10873,6 @@
   },
   {
    "date": "2026-11-16 03:47",
-   "note": "Run 291 (Shorts and Reels (Content ID on long Shorts, clip length habits, trial Reel test rules)): Little new on Reels ranking since August. Practical finds: a Short longer than one minute with an active Content ID claim can be blocked worldwide, so if our songs go to a distributor with Content ID, our own channel must be whitelisted first; OpusClip's 2.9M clips cluster at 30 to 60 seconds (40%) with only 4% under 15 seconds, a habit not proof; Planoly's test rules for Trial Reels are fresh footage, one change at a time and trial versus trial comparisons after 24 hours. Total 1248."
-  },
-  {
-   "date": "2026-11-16 03:47",
    "note": "Run 292 (TRENDS (pet does human things, growth stages montage, wordless twist gag, one take living room dance)): ppl.studio's weekly TikTok board (Nov 2026) lists a 'pet doing human things' format used by 41 creators, a one take living room friends' dance whose top post has 50.2M views, rising 6 second crop growth stage montages and 18 second wordless 'wait for the twist' gags. All are kid safe and wordless enough to travel; two joined the trend bank. Total 1251."
   },
   {
@@ -11165,13 +11182,13 @@
   {
    "date": "2026-11-16 07:56",
    "note": "Run 369 (TRENDS (Christmas audio at peak, digicam diary look, tips over an instrumental)): SocialPilot's Reels audio chart (31 Oct to 10 Nov) shows Christmas has fully started: Mariah Carey's classic is in about 5.8M Reels and other Christmas pop songs are at peak, which means our own Christmas songs should be out now. Two clean new formats are the soft 'digicam diary' look for cosy clips and quick tips over a wordless instrumental. Total 1536."
+  },
+  {
+   "date": "2026-11-16 07:57",
+   "note": "Run 370 (rules (COPPA 2.0 in Congress, YouTube age estimation errors, EU review of YouTube's recommender)): The US Senate passed COPPA 2.0 unanimously in March 2026, widening child privacy rules to under 17s, but the House has not acted; YouTube's AI age checks now run in parts of the US, UK and EU and treat adults it cannot verify as teens (fewer recommendations, non personalised ads); and the EU has asked YouTube to explain its age assurance and recommender for minors under the DSA. Total 1539."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:41",
-   "total": 384
-  },
   {
    "date": "2026-11-15 17:41",
    "total": 389
@@ -12367,6 +12384,10 @@
   {
    "date": "2026-11-16 07:56",
    "total": 1536
+  },
+  {
+   "date": "2026-11-16 07:57",
+   "total": 1539
   }
  ],
  "next_week_ideas": [
