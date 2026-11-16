@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:08:33+05:30",
- "runs": 670,
+ "updated": "2026-11-16T20:37:08+05:30",
+ "runs": 671,
  "branches": [
   {
    "id": "platforms",
@@ -5319,6 +5319,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 669
+    },
+    {
+     "t": "Monterey Bay Aquarium launched a YouTube Kids channel on 10 Nov 2026 with eight episodes on day one in five repeatable formats, including a calm one minute 'ocean wonder' of animals moving and an 'I spot' clue game where children find animals in the footage, a sign that trusted institutions now build kids channels around short, named, repeatable segments.",
+     "src": "GlobeNewswire, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 671
     }
    ]
   },
@@ -10583,6 +10590,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 668
+    },
+    {
+     "t": "If the UK widens its under 16 rule to YouTube Kids, British children would reach Bro Bros mostly through a parent's signed in account or logged out viewing on the family TV, so our UK titles, thumbnails and Reels should also speak to parents choosing for their children.",
+     "src": "AI Weekly, Nov 2026 (our reading)",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 671
     }
    ]
   },
@@ -12004,6 +12018,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 659
+    },
+    {
+     "t": "The UK government is weighing (reported 11 Nov 2026) widening its planned under 16 ban from social media to any service built on recommendations and user uploads, naming YouTube Kids, Spotify and Lego Play, with up to 150 services in scope and a bill due in December, reversing the June promise to exempt music streaming and education.",
+     "src": "AI Weekly citing The Guardian, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 671
     }
    ]
   },
@@ -15628,12 +15649,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 591 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:57",
-   "note": "Run 592 (music craft (vocals only versions)): A 2020 academic study confirms that the big Islamic pop label behind Maher Zain releases the same songs as a 'music version' and a 'vocals only' version as a normal production practice, backing the plan to make vocals only edits of our best songs. Total 2084."
+   "note": "Earlier runs summarised: all rounds through Run 592 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:57",
@@ -15946,6 +15963,10 @@
   {
    "date": "2026-11-16 20:08",
    "note": "Run 670 (TRENDS (100th Thanksgiving parade; Tubefilter week of 15 Nov not out)): Tubefilter's week of 15 Nov chart was not yet published. Seasonal find: the Macy's Thanksgiving Day Parade on 26 Nov 2026 is the 100th, with centennial marketing (new Disney and Snoopy balloons), so a giant balloon parade song with our own balloons was added to the trend bank for 25 to 26 Nov. Total 2219."
+  },
+  {
+   "date": "2026-11-16 20:37",
+   "note": "Run 671 (rules and safety (UK may widen under 16 ban to YouTube Kids)): Most rules searches (COPPA, DPDP, AI slop, Q4 RPM, Digital Fairness Act) returned items already in the tree. New: the UK is weighing widening its under 16 ban to recommendation services including YouTube Kids and Spotify, with a bill due in December, and Monterey Bay Aquarium launched a YouTube Kids channel built on five short named segments. Total 2222."
   }
  ],
  "history": [
@@ -16564,6 +16585,10 @@
   {
    "date": "2026-11-16 20:08",
    "total": 2219
+  },
+  {
+   "date": "2026-11-16 20:37",
+   "total": 2222
   }
  ],
  "next_week_ideas": [
