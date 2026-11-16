@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:39:26+05:30",
- "runs": 651,
+ "updated": "2026-11-16T19:42:27+05:30",
+ "runs": 652,
  "branches": [
   {
    "id": "platforms",
@@ -15280,6 +15280,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 649
+    },
+    {
+     "t": "Lightreel's Instagram report for 31 Oct to 7 Nov 2026 shows a K pop dance ('Drip') spreading through one continuous wide angle take with no cuts, which makes the choreography easy to read and copy, so each Bro Bros dance song should also get a single wide 'learn the dance' Reel.",
+     "src": "lightreel.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 652
+    },
+    {
+     "t": "Holiday home transformation Reels (plain room, then a full before and after decoration reveal, with a comment one word call to action) were accelerating on Instagram in early November 2026, a format our brothers can do with their bedroom and our own winter song.",
+     "src": "lightreel.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 652
+    },
+    {
+     "t": "The headphone swap format (two people trade earbuds and react to each other's music, kept unscripted) has run on Reels since April 2026; for kids it becomes a mood contrast gag between a sleepy lullaby and a bouncy dance song, both our own.",
+     "src": "NapoleonCat, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 652
+    },
+    {
+     "t": "Instagram's October 2026 overhead camera trend (phone fixed on the ceiling or upside down, under 10 seconds) shows that an unusual camera angle alone can be the hook, so a short top down shot of the brothers looking up and singing the first line is an easy Blender camera variation.",
+     "src": "NapoleonCat, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 652
     }
    ]
   }
@@ -15307,11 +15335,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 572 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:47",
-   "note": "Run 573 (TRENDS (body percussion and classroom rhythm games)): No new body percussion craze this week, but the evergreen 'Boom Snap Clap' classroom game (chest tap, finger snap, clap, a 'shh' at the end) gives a ready made rhythm for vocals only Bro Bros edits; added to the trend bank as evergreen. Total 2068."
+   "note": "Earlier runs summarised: all rounds through Run 573 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:48",
@@ -15624,6 +15648,10 @@
   {
    "date": "2026-11-16 19:39",
    "note": "Run 651 (Shorts and Reels (Edits for Mac, short video research review)): Most Reels and Shorts feature news was already in the tree. New: Instagram's Edits app reached Mac on 5 Nov 2026 (earlier than the December plan we had noted) with watermark free 4K export, custom LUTs and fonts and direct Trial Reels publishing, and a 2026 Bayreuth review of 42 studies links only intensive, unstructured short video scrolling (4 hours a day or more) with weaker attention, which supports positioning our Shorts as part of structured family routines. Total 2173."
+  },
+  {
+   "date": "2026-11-16 19:42",
+   "note": "Run 652 (TRENDS (one take wide dances, holiday room reveals, headphone swap)): Mid November lists mostly repeat trends already banked (Dame Hombro, Chipmunks trio, fan transition, go go go). New for us: Lightreel's 7 Nov Instagram report shows K pop dances spreading through one continuous wide take that makes steps easy to copy and holiday home before and after reveals accelerating with comment keyword prompts; the headphone swap reaction format from April is still used. Leaf crunch rating and 'it is very important' were dropped from the trend bank as faded. Total 2177."
   }
  ],
  "history": [
@@ -16166,6 +16194,10 @@
   {
    "date": "2026-11-16 19:39",
    "total": 2173
+  },
+  {
+   "date": "2026-11-16 19:42",
+   "total": 2177
   }
  ],
  "next_week_ideas": [
@@ -16228,6 +16260,24 @@
  ],
  "trend_bank": [
   {
+   "name": "Room glow up reveal",
+   "where": "Instagram Reels (holiday home transformations accelerating, week of 7 Nov 2026)",
+   "status": "rising",
+   "use": "The brothers' plain bedroom fades to black on a clap and returns fully decorated for winter (paper chains, star lights, a tiny tree) as our own song's chorus lands; on screen text 'before' and 'after', and the caption asks viewers to comment one word (STAR) to pick tomorrow's decoration. Meshy motion: standing, one big clap above the head, then arms open wide in a ta da pose."
+  },
+  {
+   "name": "One take wide dance",
+   "where": "Instagram Reels (ATEEZ 'Drip' style one continuous wide shot, rising Nov 2026)",
+   "status": "rising",
+   "use": "Film the whole Bro Bros chorus dance in one continuous wide camera with no cuts and the full bodies of all dancers visible, so children and parents can copy every step; post it as the 'learn the dance' Reel beside the normal edited cut. Meshy motion: standing in place, step touch right and left, two claps, arms rolling forward, point up on the last beat."
+  },
+  {
+   "name": "Headphone swap",
+   "where": "Instagram Reels and TikTok (evergreen since Apr 2026)",
+   "status": "evergreen",
+   "use": "Big Bro and Little Bro swap headphones: one hears our calm lullaby and starts yawning and swaying, the other hears our fast dance song and starts bouncing; they swap back and the moods flip, ending with both singing our chorus together. Meshy motion: standing, slow side sway with arms floating, then quick bounce in place with fists pumping."
+  },
+  {
    "name": "Film my silly dance",
    "where": "TikTok and Reels, recurring family format",
    "status": "evergreen",
@@ -16250,18 +16300,6 @@
    "where": "TikTok, Reels and Shorts every December",
    "status": "seasonal",
    "use": "An original Bro Bros Christmas song with exactly four looping moves the whole family can copy: step touch side to side with jingle hands, roll the arms forward, point up to the star, spin once in place with arms out. Meshy motion: standing, step right and left with hands shaking at shoulder height, then arm roll, then one arm points up, then a slow full turn in place."
-  },
-  {
-   "name": "Leaf crunch rating",
-   "where": "Instagram Reels, Korea and US, autumn",
-   "status": "seasonal",
-   "use": "The two brothers walk on a path of big autumn leaves in our 3D park; each brother stomps one leaf, a big '7/10' or '10/10' score pops up, and the chorus of an original 'Crunch Crunch Leaves' song counts the scores. Meshy motion: standing, lift one knee high and stamp the foot down in place, then turn to camera with both thumbs up."
-  },
-  {
-   "name": "It is very important",
-   "where": "TikTok and Reels, recurring fill in the blank frame",
-   "status": "evergreen",
-   "use": "On screen text: 'When you are little there will be a puddle. It is very important that you...' then a cut to the brothers jumping in puddles on the beat of an original song; repeat with snow, a hug, sharing a cookie. Meshy motion: standing, small jump in place with both feet, arms swinging up."
   },
   {
    "name": "Gnome army march",
@@ -16340,12 +16378,6 @@
    "where": "TikTok and Reels family accounts (evergreen)",
    "status": "evergreen",
    "use": "Each character in turn repeats every move so far and adds one: clap; clap and jump; clap, jump and spin; clap, jump, spin and wave. Steps for Meshy, all standing in place: two claps, one small jump, one slow turn in place, one big wave. Our own counting song names each move as it is added."
-  },
-  {
-   "name": "Kangaroo hop circle",
-   "where": "TikTok and X (Mexico, then school groups in Japan and Korea)",
-   "status": "evergreen",
-   "use": "Friends stand in a circle clapping while the two Bros hop in the middle like kangaroos to our own cumbia style song. Step for Meshy: standing in place, hands held up in front of the chest like little paws, two small hops to the left, two small hops to the right, then one clap. Swap who is in the middle every eight counts."
   }
  ]
 }
