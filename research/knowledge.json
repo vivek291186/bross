@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:57:41+05:30",
- "runs": 370,
+ "updated": "2026-11-16T07:58:22+05:30",
+ "runs": 371,
  "branches": [
   {
    "id": "platforms",
@@ -3828,6 +3828,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 368
+    },
+    {
+     "t": "Bebefinn's Portuguese channel (about 9.1M subscribers) gained about 150K subscribers and 296M views in the 28 days to 24 Oct 2026, roughly twice CoComelon Brasil's size and still growing fast, so a newer brand can overtake the incumbent in a dubbed language within about three years.",
+     "src": "vidIQ (Bebefinn Português), Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 371
+    },
+    {
+     "t": "Bebefinn's Japanese channel (1.62M subscribers) pulled about 108M views in 28 days and adds 50K to 60K subscribers a month, the same monthly views as BabyBus Japan with a quarter of the subscribers, so in Japan a fresh brand's new videos still get recommended while old catalogues plateau.",
+     "src": "vidIQ (Bebefinn Japanese), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 371
+    },
+    {
+     "t": "Bebefinn Japanese grew most in January (+110K) and June 2026 (+90K) and least in April and May (+30K), matching school holidays and rainy season in Japan, so Japanese audio tracks should launch before the winter break and the June rainy season.",
+     "src": "vidIQ (Bebefinn Japanese), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 371
+    },
+    {
+     "t": "Bebefinn's newest local uploads are practical life lessons: a Portuguese 'never open the door to strangers' safety song (24 Oct 2026) and a Japanese 'what do we wear on a rainy day?' dressing song (6 Nov), both built as a question the child answers, which supports our safety and routine songs with a question hook.",
+     "src": "vidIQ (Bebefinn), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 371
+    },
+    {
+     "t": "Bebefinn Portuguese's biggest hit is an episode of a shark finger family song (about 60M views, over 100x the channel average), showing that a brand's signature character song re sung locally can carry an entire language channel.",
+     "src": "vidIQ (Bebefinn Português), Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 371
     }
    ]
   },
@@ -10872,10 +10907,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 03:47",
-   "note": "Run 292 (TRENDS (pet does human things, growth stages montage, wordless twist gag, one take living room dance)): ppl.studio's weekly TikTok board (Nov 2026) lists a 'pet doing human things' format used by 41 creators, a one take living room friends' dance whose top post has 50.2M views, rising 6 second crop growth stage montages and 18 second wordless 'wait for the twist' gags. All are kid safe and wordless enough to travel; two joined the trend bank. Total 1251."
-  },
-  {
    "date": "2026-11-16 03:49",
    "note": "Run 293 (music craft (Suno solo vocals, songs with staying power)): A Sept 2026 Suno guide shows how to keep one clear lead voice (describe 'one clear lead singer' first, push the chorus lift into instruments, list choir, crowd, gang vocals and harmonies in Exclude, avoid words like anthemic or singalong in Style, fix single sections with Replace Section). Hit Songs Deconstructed's 2025 staying power report found long running hits are shorter (3:17), open faster (11 second intros), use pre choruses far more (73% vs 40%) and borrow 1980s sounds. Playbook rule on vocals updated. Total 1254."
   },
@@ -11186,13 +11217,13 @@
   {
    "date": "2026-11-16 07:57",
    "note": "Run 370 (rules (COPPA 2.0 in Congress, YouTube age estimation errors, EU review of YouTube's recommender)): The US Senate passed COPPA 2.0 unanimously in March 2026, widening child privacy rules to under 17s, but the House has not acted; YouTube's AI age checks now run in parts of the US, UK and EU and treat adults it cannot verify as teens (fewer recommendations, non personalised ads); and the EU has asked YouTube to explain its age assurance and recommender for minors under the DSA. Total 1539."
+  },
+  {
+   "date": "2026-11-16 07:58",
+   "note": "Run 371 (YouTube channels (our Metricool data still unchanged so skipped; Bebefinn's Portuguese and Japanese channels)): Metricool still had no YouTube data after 11 Nov, so this round compared local language channels. Bebefinn Portuguese (9.1M subscribers) drew about 296M views and 150K new subscribers in 28 days, far ahead of CoComelon Brasil, and Bebefinn Japanese matches BabyBus Japan's monthly views with a quarter of the subscribers, proof that a newer brand can overtake incumbents in a language. Their newest uploads are a stranger safety song and a rainy day clothes song. Total 1544."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:41",
-   "total": 389
-  },
   {
    "date": "2026-11-15 17:42",
    "total": 392
@@ -12388,6 +12419,10 @@
   {
    "date": "2026-11-16 07:57",
    "total": 1539
+  },
+  {
+   "date": "2026-11-16 07:58",
+   "total": 1544
   }
  ],
  "next_week_ideas": [
