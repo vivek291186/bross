@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:43:43+05:30",
- "runs": 653,
+ "updated": "2026-11-16T19:44:57+05:30",
+ "runs": 654,
  "branches": [
   {
    "id": "platforms",
@@ -5242,6 +5242,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 648
+    },
+    {
+     "t": "WildBrain's CG 'Strawberry Shortcake's Bake Shop' (shown at Annecy 2026) is 26 episodes of about 3 minutes for ages 4 to 8 premiering first on the brand's own YouTube channel, more proof that big studios now make 3 minute YouTube first CG episodes, the same length as a Bro Bros song.",
+     "src": "License Global, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 654
     }
    ]
   },
@@ -7951,6 +7958,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 642
+    },
+    {
+     "t": "Meshy opened its chat based 3D Agent to all users in July 2026: it keeps context over a conversation, turns sketches or rough ideas into batches of matching textured models and exports BLEND, FBX and GLB, with in chat rigging and animation rolling out, so new Bro Bros props and friend characters can be made as one consistent set instead of one prompt at a time.",
+     "src": "80.lv (sponsored), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 654
     }
    ]
   },
@@ -15363,11 +15377,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 574 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:48",
-   "note": "Run 575 (YouTube channels (our data skipped as checked at 16:41; Tubefilter week of 15 Nov not out yet; Moonbug Arabic)): Tubefilter's chart for the week of 15 Nov is not published yet; Moonbug's dubbed Arabic channel (909K subscribers) is sliding from about 2.7M views a month in August to 2.0M in October, more evidence that a network's dubbed channel trails home grown local favourites. Total 2071."
+   "note": "Earlier runs summarised: all rounds through Run 575 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:49",
@@ -15680,6 +15690,10 @@
   {
    "date": "2026-11-16 19:43",
    "note": "Run 653 (music craft (2027 Grammy kids nominees)): Children's music studies and Suno v6 news were already in the tree. New today: the 2027 Grammy nominations (announced 16 Nov 2026) name five Best Children's Music Album nominees, including a bilingual family band, a hip hop mother and kids act and a Pentatonix brothers' holiday picture book plus album, and Toy Story 5's Taylor Swift song is up for Best Song Written for Visual Media. Total 2181."
+  },
+  {
+   "date": "2026-11-16 19:44",
+   "note": "Run 654 (visual craft (Meshy 3D Agent, YouTube first CG shorts)): Thumbnail, pacing and Blender 5.1 findings were already in the tree. New: Meshy opened its conversational 3D Agent to all users in July 2026 with in chat rigging and animation rolling out and exports including BLEND and FBX, and WildBrain's CG 'Bake Shop' series is 26 episodes of about 3 minutes made first for YouTube for ages 4 to 8. Total 2183."
   }
  ],
  "history": [
@@ -16230,6 +16244,10 @@
   {
    "date": "2026-11-16 19:43",
    "total": 2181
+  },
+  {
+   "date": "2026-11-16 19:44",
+   "total": 2183
   }
  ],
  "next_week_ideas": [
