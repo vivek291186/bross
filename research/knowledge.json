@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:38:42+05:30",
- "runs": 718,
+ "updated": "2026-11-16T22:39:21+05:30",
+ "runs": 719,
  "branches": [
   {
    "id": "platforms",
@@ -12375,6 +12375,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 707
+    },
+    {
+     "t": "In August 2026 the US Justice Department, on an FTC referral, announced a $400 million COPPA settlement with a large social media company ($300M upfront, $100M tied to ending a 2019 order), showing children's privacy penalties in 2026 reach far beyond the earlier YouTube and Disney cases.",
+     "src": "Privacy + Security Forum FTC update, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 719
+    },
+    {
+     "t": "The FTC said in February 2026 it will not bring COPPA cases against services that collect data only to verify age, delete it promptly and disclose it, and its chairman floated future rule changes to push age verification, so more apps and platforms will check ages and kids audiences may become more clearly separated from general feeds.",
+     "src": "Privacy + Security Forum FTC update, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 719
     }
    ]
   },
@@ -16105,11 +16119,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 639 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 18:39",
-   "note": "Run 640 (TRENDS (autumn leaf crunch, Korean guessing game, holiday playlists)): Weekly trackers still had nothing newer than 13 Nov, so this round mined Korean and US explainers: an Instagram account that rates the crunch of single fallen leaves out of 10 (top video over 10M views, Korean copycats), a Korean 'is that really a ball?' bluff guessing game, a Halloween song playlist that topped US YouTube trending on 1 Nov with only about 128K views, and the 'it is very important that you...' fill in the blank frame. Total 2145."
+   "note": "Earlier runs summarised: all rounds through Run 640 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 18:40",
@@ -16422,6 +16432,10 @@
   {
    "date": "2026-11-16 22:38",
    "note": "Run 718 (algorithm experiments (Shorts thumbnail A/B test; trends skipped after an empty trends round)): AIR's WOA Song Spanish and Vania Mania cases were already in the tree; one vendor test of 500 Shorts says custom covers help only on Home, Browse and search, not in the Shorts feed (low confidence). Total 2287."
+  },
+  {
+   "date": "2026-11-16 22:39",
+   "note": "Run 719 (rules and safety (FTC November update, AI label scope)): The FTC's November 2026 forum deck lists a $400M COPPA settlement (Aug 2026) and a February 2026 age verification policy statement; YouTube's May 2026 AI labels were already in the tree. Total 2289."
   }
  ],
  "history": [
@@ -17232,6 +17246,10 @@
   {
    "date": "2026-11-16 22:38",
    "total": 2287
+  },
+  {
+   "date": "2026-11-16 22:39",
+   "total": 2289
   }
  ],
  "next_week_ideas": [
