@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:07:42+05:30",
- "runs": 754,
+ "updated": "2026-11-16T23:08:14+05:30",
+ "runs": 755,
  "branches": [
   {
    "id": "platforms",
@@ -12578,6 +12578,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 750
+    },
+    {
+     "t": "At a Brookings panel (16 Jul 2026) Fairplay cited a New York Times test in which about 40% of the videos YouTube recommended after popular preschool shows contained AI generated content, and experts asked for an AI off switch for families, watermarks and no AI recommendations to under 18s; if such a filter arrives, channels known as AI made could lose most kids reach overnight, so Bro Bros should keep its human made story and voice clearly visible.",
+     "src": "Brookings webinar transcript, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 755
+    },
+    {
+     "t": "A former PBS Kids executive told the same Brookings panel that good children's media starts from child development, is tested with educators, families and children, and is judged on outcomes such as curiosity and social skills rather than only watch time, the standard that reviewers and app curators will use for AI assisted channels.",
+     "src": "Brookings webinar transcript, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 755
     }
    ]
   },
@@ -16308,11 +16322,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 675 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 21:38",
-   "note": "Run 676 (TRENDS (13 Nov meme chart: duo kick dance, one by one parade, arms up jump)): The 13 Nov TikTok chart showed new kid safe dances: a duo routine of step back, hand slap, kick and pose; a parade where cute animals walk up and dance past the camera one at a time; and an arms out, hands over head, jump routine. Two were added to the trend bank as our own moves; holiday filter reveals (pet to grumpy holiday creature, cartoon Christmas frames) are peaking but rely on protected characters, so we copy only the reveal. Total 2232."
+   "note": "Earlier runs summarised: all rounds through Run 676 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 21:39",
@@ -16625,6 +16635,10 @@
   {
    "date": "2026-11-16 23:07",
    "note": "Run 754 (algorithm experiments (compilation length; trends skipped after an empty trends round)): Video length studies (AIR's 18,080 channels, Little Dot whitepaper, TV length data) were already in the tree, and the YouTube Kids visit length figure found dates from 2023; no new leaves. Total 2316."
+  },
+  {
+   "date": "2026-11-16 23:08",
+   "note": "Run 755 (rules and safety (Brookings AI slop panel)): A July 2026 Brookings panel cited a NYT test where about 40% of videos recommended after preschool shows had AI content, and experts pressed YouTube for an AI off switch, watermarks and no AI recommendations to minors; a former PBS Kids leader set out the test with families standard. Total 2318."
   }
  ],
  "history": [
@@ -17579,6 +17593,10 @@
   {
    "date": "2026-11-16 23:07",
    "total": 2316
+  },
+  {
+   "date": "2026-11-16 23:08",
+   "total": 2318
   }
  ],
  "next_week_ideas": [
