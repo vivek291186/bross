@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:48:42+05:30",
- "runs": 649,
+ "updated": "2026-11-16T19:38:02+05:30",
+ "runs": 650,
  "branches": [
   {
    "id": "platforms",
@@ -3044,6 +3044,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 627
+    },
+    {
+     "t": "Google's PLUM research paper (Oct 2025) reports that adding a Gemini based model which understands what a video is about to the Shorts candidate pool lifted Shorts click rate by about 5% in live tests, so clear, consistent visual and spoken topic signals in each Bro Bros Short (song name said and shown early) help the system place it.",
+     "src": "creatorsignal / arXiv 2510.07784, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 650
+    },
+    {
+     "t": "'Not interested' and 'Don't recommend channel' clicks are strong negative signals that YouTube Studio never shows; the visible symptom is impressions shrinking while click rate stays steady, so when a Bro Bros song shows that pattern we should change its thumbnail promise or audience rather than the song itself.",
+     "src": "creatorsignal, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 650
     }
    ]
   },
@@ -6593,6 +6607,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 641
+    },
+    {
+     "t": "YouTube stopped supplying US streaming data to Billboard from January 2026 after Billboard weighted ad supported streams lower, so US chart positions of kids songs now reflect Spotify, Apple and Amazon only and a song can be huge on YouTube without charting; we judge our songs by YouTube and Spotify data directly.",
+     "src": "blog.youtube / Tribune, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 650
     }
    ]
   },
@@ -15265,11 +15286,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 560 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:46",
-   "note": "Run 571 (global markets (small Arabic kids song channels)): The top video of Arabic channel Tn Tn Baby (23.75M views) is the 'without rhythm' version of its police and runaway thief song, a sign that vocals only versions matter for many Muslim families; Super Dido's top Arabic songs are about mama coming home, grandpa's donkey, a fish and a train. Total 2065."
+   "note": "Earlier runs summarised: all rounds through Run 571 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:47",
@@ -15582,6 +15599,10 @@
   {
    "date": "2026-11-16 18:48",
    "note": "Run 649 (TRENDS (reverse camera family reactions; no new weekly lists)): No new weekly trend lists were out by 16 Nov evening IST. The one fresh family format found: parents ask a child to film their silly dance so the clip quietly captures the child's proud or giggling reaction (a recurring TikTok trend since 2022), while the related Nov 2025 'flip the camera' format was flagged for consent and teasing, so we use only the gentle animated version. Total 2167."
+  },
+  {
+   "date": "2026-11-16 19:38",
+   "note": "Run 650 (YouTube algorithm (Gemini candidate model, invisible negative signals)): Most algorithm news was already in the tree (Shorts timer at zero, originality cut, 2027 YPP rules, custom feeds). New: Google's PLUM paper reports a Gemini based candidate model lifted Shorts click rate about 5% in live tests, negative 'not interested' signals are invisible in Studio and show up only as falling impressions with steady click rate, and YouTube streams have not counted toward US Billboard charts since early 2026. Total 2170."
   }
  ],
  "history": [
@@ -16116,6 +16137,10 @@
   {
    "date": "2026-11-16 18:48",
    "total": 2167
+  },
+  {
+   "date": "2026-11-16 19:38",
+   "total": 2170
   }
  ],
  "next_week_ideas": [
