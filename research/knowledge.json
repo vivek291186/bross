@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:38:17+05:30",
- "runs": 353,
+ "updated": "2026-11-16T06:39:16+05:30",
+ "runs": 354,
  "branches": [
   {
    "id": "platforms",
@@ -5536,6 +5536,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 342
+    },
+    {
+     "t": "vidIQ's study of over 4M videos uploaded in 2026 found concrete story promise titles far above average ('Turning X into Y' over 3x, 'caught on camera' over 4x, a time span such as '24 hours' nearly 1.5x) while titles ending in a question averaged 0.82x, so kids titles should promise a visible change ('Bros Turn the House into a Snow Party!') rather than ask.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 354
+    },
+    {
+     "t": "AIR Media-Tech's title study of 18,080 English channels in 11 niches found numbers and question marks have little or neutral effect in Kids and Animation, since viewers there are not searching for an answer, while a single relevant emoji can act as a visual anchor; it advises writing kids titles for recommendation eligibility (clear topic words) rather than for comments, which are off for made for kids videos.",
+     "src": "AIR Media-Tech, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 354
+    },
+    {
+     "t": "AIR's general sweet spot for title length across niches was 30 to 50 characters, which matches a kids title of one clear song name plus one learning tag (about 6 to 8 words) before the channel name.",
+     "src": "AIR Media-Tech, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 354
+    },
+    {
+     "t": "1of10's review of videos that beat their channel's click rate by 3x or more (Jun 2026) says thumbnails are judged at about 120 px wide in phone feeds, where fine detail and muted tones fail; saturated three colour palettes with one very bright colour and face forward layouts are rising while minimal clean designs and object only layouts are falling.",
+     "src": "1of10, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 354
     }
    ]
   },
@@ -10264,10 +10292,6 @@
   },
   {
    "date": "2026-11-16 02:39",
-   "note": "Run 275 (rules and monetisation (Mexico age checks, New York feed rules, Q4 kids RPM)): Mexico's online child safety decree took effect 14 Oct 2026 and makes platforms verify ages beyond self declaration (compliance reports due 13 Nov), and New York's final SAFE for Kids rules (from 25 Jan 2027) ban algorithmic feeds for minors without parental consent. Gyre's 10 Nov summary of AIR data says Q4 lifts kids and teens RPM only about 22% (finance about 60%), regular video RPM peaks in November but live RPM peaks in December, and unattended streams need mid rolls set to Automatic. Total 1189."
-  },
-  {
-   "date": "2026-11-16 02:39",
    "note": "Run 276 (our own results (Metricool recheck 16 Nov, 15 Nov uploads, overlap with BabyBus)): Metricool still shows YouTube stats only up to the 11 Nov uploads and Instagram Reels only up to 14 Nov, so no new performance data today. The 15 Nov Ant Parade song and the Hindi Golu elephant Didi story went out on time. Our Boo Boo Bandage song (17 Nov) lands five days after BabyBus's own Boo Boo Song, which proves the topic but means competing with a 44M channel in search. Total 1192."
   },
   {
@@ -10577,13 +10601,13 @@
   {
    "date": "2026-11-16 06:38",
    "note": "Run 353 (music craft (song rituals, Suno Studio 2.0 editing)): Most music science found this round was already in the tree, so the new learnings are practical: Ms Rachel's appeal rests on a fixed opening and closing plus pauses for the child to answer, Suno Studio 2.0 (Premier plan) lets us fix single notes with MIDI instead of regenerating, and parents often exclude kids' playlists from their Spotify taste profile. The 69th Grammy nominations land today, 16 Nov. Total 1452."
+  },
+  {
+   "date": "2026-11-16 06:39",
+   "note": "Run 354 (visual craft (titles that win in 2026, phone size thumbnails)): vidIQ's 4M video title study shows concrete story promises such as 'turning X into Y' at about 3x average views while titles ending in a question sit 18% below; AIR's 18K channel study says numbers and question marks do little in Kids and Animation, and one relevant emoji can anchor a title. Thumbnails are judged at about 120 px wide on phones, where saturated three colour designs beat minimal ones. Total 1456."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:06",
-   "total": 321
-  },
   {
    "date": "2026-11-15 17:06",
    "total": 324
@@ -11779,6 +11803,10 @@
   {
    "date": "2026-11-16 06:38",
    "total": 1452
+  },
+  {
+   "date": "2026-11-16 06:39",
+   "total": 1456
   }
  ],
  "next_week_ideas": [
