@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:01:11+05:30",
- "runs": 374,
+ "updated": "2026-11-16T08:02:24+05:30",
+ "runs": 375,
  "branches": [
   {
    "id": "platforms",
@@ -2456,6 +2456,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 361
+    },
+    {
+     "t": "A 24/7 kids stream checklist (Gyre, updated Nov 2026): made for kids on, chat, comments and notifications off, no outbound links, only copyright safe music, every file checked by hand, clean non clickbait thumbnails, a title that matches what is actually playing (a mismatch can be flagged) and playlists rotated with mixed clip lengths so the loop does not look repetitive.",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 375
+    },
+    {
+     "t": "A Korean kids and teens channel (3.92M subscribers) that added automated 24/7 streams grew revenue about 80% and watch time about four times in 90 days, more evidence that looping streams of existing songs are the cheapest big lever for a song catalogue.",
+     "src": "Gyre, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 375
+    },
+    {
+     "t": "A 731K subscriber DIY channel ran four themed 24/7 streams at once from existing videos and average view duration rose from 1:56 on uploads to 5:58 inside the streams, with streams reaching about 15% of income; for us four themed loops (Christmas, bedtime, dance party, animals) would let each stream match a different parent need.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 375
+    },
+    {
+     "t": "Even a small entertainment channel that rebroadcast its old videos as 24/7 streams grew stream views from about 65K to 800K and stream watch time about 13 fold in six months (Jan to Jun 2025), so streaming helps channels of our size too, not only giants.",
+     "src": "AIR Media-Tech, Sep 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 375
     }
    ]
   },
@@ -10991,10 +11019,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 03:52",
-   "note": "Run 296 (global markets (Germany and Japan)): Germany's 'Kinderlieder zum Mitsingen und Bewegen' (3.47M subscribers, about 33 to 43M views a month from 1,453 videos) tags new songs with NEU at both ends of the title, its newest teaches tying a bow, and its biggest hits are remixed singing games like 'who stole the cookie from the jar'. Japan's top kids songs by YouTube views are franchise themes and Japanese versions of Disney songs plus public TV songs, so English originals travel least there and Japanese should be a later dub. Total 1263."
-  },
-  {
    "date": "2026-11-16 03:58",
    "note": "Run 297 (competitor deep dive (Bebefinn main channel slowdown and newest upload)): Bebefinn's main English channel has 37.3M subscribers and 25.1B views from 1,086 videos, adds about 370M views a month, but its subscriber gains slowed to 100K to 300K a month in 2026 from 500K to 1.3M in 2024 and 2025. Its newest upload (13 Nov, 'We Are Car Mechanics! Let's Fix the Car!') passed 133K views in 13 hours, and its top video is still a 2022 good morning routine song at 775M. The same slowdown pattern seen at BabyBus and Little Angel. Total 1266."
   },
@@ -11305,13 +11329,13 @@
   {
    "date": "2026-11-16 08:01",
    "note": "Run 374 (Shorts and Reels (text overlays and loops on music Reels, child account protections)): Emplifi's study of 10,000 Reels adds two practical numbers for music clips: on screen text lifted 30 second retention by up to 9.8%, and seamless loops under 7 seconds lifted reach by about 24%, so every Bro Bros Reel should carry lyric text and have a short loop cut. Instagram's extra protections for adult run accounts that show real children do not apply to an animated account like ours, but Hidden Words can be switched on by hand. Total 1556."
+  },
+  {
+   "date": "2026-11-16 08:02",
+   "note": "Run 375 (algorithm experiments (TRENDS skipped, sound charts had nothing kid usable; 24/7 stream case data)): This TRENDS slot found nothing new and kid usable (the growing TikTok sounds are unlabelled original audios), so it switched to stream experiments: a safe 24/7 kids stream checklist (made for kids on, chat off, no links, titles that match what plays, rotating playlists), a Korean kids channel that grew revenue 80% and watch time 4x in 90 days with streams, and a DIY channel whose four themed streams tripled view duration. Total 1560."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:44",
-   "total": 403
-  },
   {
    "date": "2026-11-15 18:37",
    "total": 409
@@ -12507,6 +12531,10 @@
   {
    "date": "2026-11-16 08:01",
    "total": 1556
+  },
+  {
+   "date": "2026-11-16 08:02",
+   "total": 1560
   }
  ],
  "next_week_ideas": [
