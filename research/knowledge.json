@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:39:12+05:30",
- "runs": 783,
+ "updated": "2026-11-17T00:45:21+05:30",
+ "runs": 784,
  "branches": [
   {
    "id": "platforms",
@@ -16519,6 +16519,20 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 781
+    },
+    {
+     "t": "Virlo's late October 2026 TikTok list had a rising 'pick your favourite thing' challenge: two people stand at a table of items, count to three and grab their favourite at the same moment, and the reaction is the payoff; a kid safe Bro Bros version has the brothers count 'one, two, three' in the song and both grab the same toy or snack, then share it on the chorus.",
+     "src": "virlo.ai, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 784
+    },
+    {
+     "t": "Know Your Meme's 30 Oct 2026 roundup shows a cartoon fighter's carefree 'dancing like nobody is watching' animation being clipped into reaction GIFs, more evidence that a short, goofy, loopable free dance by an animated character spreads as a reusable meme; we should export a 2 to 3 second silly dance loop of each Bro as a GIF sticker, never using the protected character itself.",
+     "src": "knowyourmeme.com, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-17",
+     "run": 784
     }
    ]
   }
@@ -16545,12 +16559,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:04",
-   "note": "Earlier runs summarised: all rounds through Run 704 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:05",
-   "note": "Run 705 (competitor deep dive (Pinkfong main channel)): Pinkfong's main channel (85.4M) held almost flat in 2026 (about 4.72B views Jan to Oct, about 3% below 2025, about 426M in the last 28 days); its all time leader is a 2023 dance along song (Monkey Banana Dance, about 922M) far above any Baby Shark compilation, and its newest upload is a vehicle rescue story from its Hoi Poi spin off. Total 2278."
+   "note": "Earlier runs summarised: all rounds through Run 705 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:05",
@@ -16863,6 +16873,10 @@
   {
    "date": "2026-11-17 00:39",
    "note": "Run 783 (Shorts and Reels (length data, Instagram Features, Shorts charts)): Reels length data (45 to 60 s best), Instagram Features, the removal of linked Reels series and Metricool's YouTube study were already in the tree; new: Tubular shows 2 to 5 minute videos gaining view share in 2026 while sub 2 minute views fell, supporting 2 to 3 minute full songs. Total 2350."
+  },
+  {
+   "date": "2026-11-17 00:45",
+   "note": "Run 784 (TRENDS (holiday season early signals, Virlo late October list, Know Your Meme roundups)): Holiday decor, gratitude tablecloth, retro multicolour Christmas, paparazzi bow and the Know Your Meme November roundups were already in the tree or not kid safe; new: the count of three 'pick your favourite thing' grab challenge and animated free dance loops spreading as GIF memes. Total 2352."
   }
  ],
  "history": [
@@ -17933,6 +17947,10 @@
   {
    "date": "2026-11-17 00:39",
    "total": 2350
+  },
+  {
+   "date": "2026-11-17 00:45",
+   "total": 2352
   }
  ],
  "next_week_ideas": [
