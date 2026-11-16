@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:11:13+05:30",
- "runs": 553,
+ "updated": "2026-11-16T16:11:39+05:30",
+ "runs": 554,
  "branches": [
   {
    "id": "platforms",
@@ -14355,11 +14355,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 474 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:51",
-   "note": "Run 475 (TRENDS (December dates: Christmas Jumper Day, NORAD Santa tracking, gentle elf alternatives)): Christmas Jumper Day is Thursday 10 Dec 2026 in UK schools; NORAD's Santa tracking site opens on 1 Dec in 9 languages ahead of the 24 Dec flight; parents on TikTok praise gentle elf ideas where the elf helps instead of watching. Added a jumper spin reveal to the trend bank (dropped the late October shoulder bounce). Total 1868."
+   "note": "Earlier runs summarised: all rounds through Run 475 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:52",
@@ -14672,6 +14668,10 @@
   {
    "date": "2026-11-16 16:11",
    "note": "Run 553 (YouTube algorithm (news check for 9 to 16 Nov)): The only YouTube changes this week (custom feeds moved to the top bar in the US, Hype with Jewels in nine countries, video A/B tests and dynamic thumbnails) were already leaves, so no new leaves. Total 2037."
+  },
+  {
+   "date": "2026-11-16 16:11",
+   "note": "Run 554 (other platforms (Netflix top 10 for 2 to 8 Nov; Shorts and Reels skipped as rechecked at 16:05)): Netflix's 2 to 8 Nov chart was led by the family dog Christmas film already in the tree, with no new kids series, so no new leaves. Total 2037."
   }
  ],
  "history": [
@@ -15861,6 +15861,10 @@
   },
   {
    "date": "2026-11-16 16:10",
+   "total": 2037
+  },
+  {
+   "date": "2026-11-16 16:11",
    "total": 2037
   },
   {
