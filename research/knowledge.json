@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:54:03+05:30",
- "runs": 686,
+ "updated": "2026-11-16T21:54:52+05:30",
+ "runs": 687,
  "branches": [
   {
    "id": "platforms",
@@ -1693,6 +1693,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 675
+    },
+    {
+     "t": "Metricool's 2026 short video benchmark (375,462 accounts on Reels, TikTok and Shorts) found TikTok gives the most average views to tiny, small and medium accounts, Instagram leads all sizes in shares, and medium Instagram accounts average about 21 comments per Reel, nearly four times a YouTube Short, so Reels are where Bro Bros should invite parents to share and comment.",
+     "src": "metricool.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 687
     }
    ]
   },
@@ -15902,11 +15909,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 607 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:05",
-   "note": "Run 608 (competitor deep dive (Miliki Family and Tidi Kids, two rising mid size song channels)): Two mid size song channels doubled monthly views from May to October 2026: Miliki Family (2.59M) lives on 'afraid of...' songs (an afraid of the dark bedtime song at 381M, then doctor shot, dentist, boo boo safety) and Tidi Kids (2.73M) on silly potty and vehicle humour songs plus opposites. Total 2098."
+   "note": "Earlier runs summarised: all rounds through Run 608 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:05",
@@ -16219,6 +16222,10 @@
   {
    "date": "2026-11-16 21:54",
    "note": "Run 686 (YouTube algorithm (October to November change log recheck)): AIR's month by month algorithm log (updated 4 Nov) and the Beaupre subscriber click interview only repeated items already in the tree (original Shorts boost 1 Oct, custom Home feeds 22 Oct, 30 day spam cleanup test 29 Oct, eight impression cap); no November ranking change has been reported, so no new leaves. Total 2258."
+  },
+  {
+   "date": "2026-11-16 21:54",
+   "note": "Run 687 (Shorts and Reels (benchmarks and loop recheck)): Loop, hook and Shorts timing searches repeated the tree (Socialinsider's late arriving Shorts views is already a leaf). New from Metricool's 2026 short video benchmark of 375,462 accounts: TikTok gives the most views for small and medium accounts, while Instagram leads every size tier in shares and medium Reels average about 21 comments, nearly four times a Short. Total 2259."
   }
  ],
  "history": [
@@ -16901,6 +16908,10 @@
   {
    "date": "2026-11-16 21:54",
    "total": 2258
+  },
+  {
+   "date": "2026-11-16 21:54",
+   "total": 2259
   }
  ],
  "next_week_ideas": [
