@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:58:31+05:30",
- "runs": 400,
+ "updated": "2026-11-16T08:59:13+05:30",
+ "runs": 401,
  "branches": [
   {
    "id": "platforms",
@@ -6250,6 +6250,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 389
+    },
+    {
+     "t": "Meshy's October 2026 update added the N1 texture model for stylised and low poly assets on all plans and Meshy T2.5 image to 3D (up to 30,000 faces, Smart Topology by default), handy for quick seasonal props like sleds, toy trains, presents and snowmen; there were no new animation or Text to Motion features after July 2026.",
+     "src": "Meshy changelog, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 401
+    },
+    {
+     "t": "Meshy's Auto Split now follows directions (for example separating a car's wheels or a dragon's wings) and works on textured models, so a generated toy train or bus can be split into body and wheels and the wheels spun in Blender instead of modelling them by hand.",
+     "src": "Meshy changelog, Sep to Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 401
+    },
+    {
+     "t": "Pixar moved Toy Story 5 toward a softer, stylised pastel look meant to feel like a child's imagined world, but a SIGGRAPH write up warns that pastel palettes wash out forms and blur material separation unless colour scripts and exposure are tightly controlled; for our calm pastel songs keep strong silhouettes, a rim light and one saturated accent colour on each Bro.",
+     "src": "SIGGRAPH Blog via GameDev.net, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 401
     }
    ]
   },
@@ -11670,10 +11691,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:52",
-   "note": "Run 322 (rules and safety (Disney's 10M USD audience label settlement, FTC age check shield)): The FTC's 10M USD settlement with Disney came from setting 'made for kids' at channel level, so child directed videos on 'not made for kids' channels collected data and ran targeted ads; Disney must now review each video's label. A Feb 2026 FTC policy shields general audience sites that check ages, but child directed services get no relief and must treat every viewer as a child. Total 1345."
-  },
-  {
    "date": "2026-11-16 04:54",
    "note": "Run 323 (algorithm experiments and data (Jason Vlogs' working system; our Metricool and Tubefilter checks had nothing new)): Our own Metricool data still stops at 11 Nov (YouTube) and 14 Nov (Reels), already recorded today, and the 8 Nov Tubefilter chart is fully in the tree, so the round moved to case data: Jason Vlogs (46M+ subscribers, a 5 person team) posts one main video a week, brainstorms about 30 ideas a week to make 3, batches weeks ahead and runs 10 localised channels that brought new viewers without hurting the main one. Total 1349."
   },
@@ -11984,16 +12001,16 @@
   {
    "date": "2026-11-16 08:58",
    "note": "Run 400 (music (kids songs among YouTube's most viewed clips, children's Grammy themes)): Music craft research is close to saturated; new context is BonusInsider's estimate that five of YouTube's ten most viewed clips in the year to Nov 2025 were kids songs (about 84M USD in ad revenue together) and that every one of the ten most viewed videos ever is a song, while the latest children's Grammy nominees lean on story and history concepts (a magic tree house, women in history, songs across a hundred years of age). Total 1653."
+  },
+  {
+   "date": "2026-11-16 08:59",
+   "note": "Run 401 (visual craft (Meshy October tools for props, Pixar's pastel caution)): Meshy's October 2026 releases help our props more than our dances (no new animation features since Text to Motion in July): a stylised texture model on all plans, sharper image to 3D up to 30K faces, and Auto Split that can separate parts such as a toy train's wheels for animation; Pixar's softer pastel look for Toy Story 5 comes with a warning that pastels wash out form unless colour and exposure are controlled. Total 1656."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:03",
-   "total": 505
   },
   {
    "date": "2026-11-15 19:04",
@@ -13186,6 +13203,10 @@
   {
    "date": "2026-11-16 08:58",
    "total": 1653
+  },
+  {
+   "date": "2026-11-16 08:59",
+   "total": 1656
   }
  ],
  "next_week_ideas": [
