@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:07:03+05:30",
- "runs": 808,
+ "updated": "2026-11-17T01:07:38+05:30",
+ "runs": 809,
  "branches": [
   {
    "id": "platforms",
@@ -7188,6 +7188,13 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 797
+    },
+    {
+     "t": "A Kyoto study of toddlers drumming along to a twinkle star song found their own natural tempo is about 400 ms per beat (about 150 BPM) against about 600 ms (100 BPM) for adults, and that slowing down to the slower beat only develops between 24 and 30 months, so for the youngest viewers the 'slow' verse of a fast and slow song should be a big contrast with clear visual cues rather than a subtle tempo drop, and the fast parts can sit near 140 to 150 BPM.",
+     "src": "Frontiers in Psychology (Yu, Todoriki, Myowa), 2022",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 809
     }
    ]
   },
@@ -16734,12 +16741,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:50",
-   "note": "Earlier runs summarised: all rounds through Run 730 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:51",
-   "note": "Run 731 (rules and monetisation (Q4 RPM by month)): The Digital Fairness Act and kids live RPM gap were already in the tree; new were monthly RPM medians across 300 channels (about $2.35 Nov and $2.12 Dec against $1.56 Jan) and Kids and Teens having the second largest Q4 rise (about +22%). Total 2303."
+   "note": "Earlier runs summarised: all rounds through Run 731 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:52",
@@ -17052,6 +17055,10 @@
   {
    "date": "2026-11-17 01:07",
    "note": "Run 808 (TRENDS (holiday brand films, Christmas brain break songs)): Christmas brain break playlists (freeze, hokey pokey, shake) and Danny Go holiday specials were already in the tree; new: LEGO's 5 Nov holiday film uses a hand to hand pass along chain ending in sharing, supporting the 'Pass the Present!' idea. Also removed a duplicate piñata idea and posada leaf from Run 800. Total 2377."
+  },
+  {
+   "date": "2026-11-17 01:07",
+   "note": "Run 809 (music craft (toddler tempo and slowing down)): Holiday instrument and tempo rules were mostly already in the tree; new: toddlers' natural beat is about 150 BPM and slowing to a 100 BPM beat only develops between 2 and 2.5 years, so fast and slow songs need a strong, clearly signalled contrast. Total 2378."
   }
  ],
  "history": [
@@ -18222,6 +18229,10 @@
   {
    "date": "2026-11-17 01:07",
    "total": 2377
+  },
+  {
+   "date": "2026-11-17 01:07",
+   "total": 2378
   }
  ],
  "next_week_ideas": [
