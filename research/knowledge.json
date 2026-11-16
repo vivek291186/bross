@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:39:21+05:30",
- "runs": 378,
+ "updated": "2026-11-16T08:40:20+05:30",
+ "runs": 379,
  "branches": [
   {
    "id": "platforms",
@@ -6761,6 +6761,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 378
+    },
+    {
+     "t": "Themes that kids streaming services push worldwide in 2026 are learning through fun (science, nature, feelings), interactive quizzes and choices, environmental stories (recycling, wildlife), short mobile friendly episodes and characters from many cultures and family types; all of these travel across languages.",
+     "src": "TTV News, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 379
     }
    ]
   },
@@ -7720,6 +7727,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 367
+    },
+    {
+     "t": "About 80% of the content children consume in the Arab world is in languages other than Arabic, Abu Dhabi's culture chief said in September 2026, calling for a 50 50 split; with around 430M Arabic speakers this is a large, under served audience for a well voiced Arabic track.",
+     "src": "Khaleej Times, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 379
+    },
+    {
+     "t": "Arabic lullaby videos are still scarce online: Spacetoon Mum and Moonbug launched just four original Arabic lullabies in June 2026 to fill the gap, so a calm Bro Bros bedtime song with a human voiced Arabic audio track could rank with little competition.",
+     "src": "Spacetoon Group, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 379
+    },
+    {
+     "t": "AIR's dubbing case data gives typical CPMs of about 0.84 USD for Indonesian, 1.52 Serbian, 1.77 Ukrainian, 2.56 Bulgarian, 3.10 Romanian, 3.69 Greek, 4.02 Hungarian, 5.23 Czech, 5.31 Polish and 9.79 German, so after the big reach languages, Polish, Czech and German tracks earn several times more per view.",
+     "src": "AIR Media-Tech, Aug 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 379
+    },
+    {
+     "t": "Small language dubs can dominate local charts: an Indonesian kids animation channel (HZH, 12.5M subscribers, about 6.8B views) and the German dub of Vania Mania (1.21M subscribers, #7 in German kids entertainment) both grew from dubbed tracks, which AIR says sometimes beat the original in watch time.",
+     "src": "AIR Media-Tech, Aug 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 379
     }
    ]
   },
@@ -11111,10 +11146,6 @@
   },
   {
    "date": "2026-11-16 04:01",
-   "note": "Run 300 (YouTube main channels (Keizo and Friends economics, upload pace vs pay per video)): Our own Metricool data was checked earlier today, so this round looked at channel movers. Indonesia's Keizo and Friends (started Dec 2022) has about 9.9M subscribers and 39.2B views from 1,998 uploads, adds about 1.65B views a month and its newest video drew 1.5M views in 14 hours, yet vidIQ models only about 9K USD a month. AIR's 282 channel study found large kids channels earn most in total at 16+ videos a month but only about 165 USD per video, against about 2,161 USD per video at one or two a month. Total 1275."
-  },
-  {
-   "date": "2026-11-16 04:01",
    "note": "Run 301 (TRENDS (what kids play now: Roblox's fastest growing new games, Gen Alpha gift asks)): The ten fastest growing new Roblox games in early November 2026 lean on pets and egg stealing, a cat sumo game, car football, bike and rally racing and a fries cooking game (plus one horror pool game we avoid). Last holiday season 69% of US Gen Alpha asked for gifts they first saw in online ads or creator videos, with YouTube the top influence (56%). A hatch the egg format joined the trend bank. Total 1278."
   },
   {
@@ -11424,13 +11455,13 @@
   {
    "date": "2026-11-16 08:39",
    "note": "Run 378 (TRENDS (always dancing, drawing vs real bounce, feet to head reveal, waltz for no reason)): Later's 13 Nov roundup and B&T's 2 Nov TikTok report add four kid usable formats: 'always dancing' compilations of someone breaking into dance in everyday places, AI versus real side by side bounces, a camera that starts at the feet and tilts up on the beat to reveal a costume, and playful twirls to the public domain Blue Danube waltz; squishy collectibles remain a hot playground craze. Total 1573."
+  },
+  {
+   "date": "2026-11-16 08:40",
+   "note": "Run 379 (global markets (Arabic content gap, Arabic lullabies, higher paying smaller European languages)): Abu Dhabi's culture chief said in September that about 80% of what Arab children watch is not in Arabic, and Arabic lullabies are so scarce that Spacetoon and Moonbug made four originals this year, so an Arabic dub of our bedtime songs fills a real gap; AIR's vendor data puts smaller European languages (Polish, Czech, Hungarian, Greek, Romanian) at 3 to 6 times Indonesia's ad rate per view. Total 1578."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:45",
-   "total": 424
-  },
   {
    "date": "2026-11-15 18:47",
    "total": 428
@@ -12626,6 +12657,10 @@
   {
    "date": "2026-11-16 08:39",
    "total": 1573
+  },
+  {
+   "date": "2026-11-16 08:40",
+   "total": 1578
   }
  ],
  "next_week_ideas": [
