@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:57:27+05:30",
- "runs": 662,
+ "updated": "2026-11-16T19:58:33+05:30",
+ "runs": 663,
  "branches": [
   {
    "id": "platforms",
@@ -1665,6 +1665,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 651
+    },
+    {
+     "t": "Yoto's fourth generation players (announced Sep 2026, about 90 to 120 GBP) store over 1,000 hours offline and add a cardless 'Green Button' personalised playlist, and its catalogue (about 2,000 titles, with music now more visible beside stories) has stretched from toddlers to 14+, so screen free audio is becoming a playlist platform where a future Bro Bros song card could live.",
+     "src": "RouteNote / Music Ally, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 663
+    },
+    {
+     "t": "Billie Eilish's May 2026 Roblox activation centred on a virtual stage, role play and in game karaoke rather than a one off concert, showing that on Roblox music engages kids through singing along and dressing up; if Bro Bros ever goes there, a karaoke style sing along of our own songs is the format to copy.",
+     "src": "pulse.bot, May 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 663
     }
    ]
   },
@@ -15517,11 +15531,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 583 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:53",
-   "note": "Run 584 (competitor deep dive (Cocobi Spanish)): Cocobi's Spanish channel more than doubled to about 215M views in October 2026 (+70K subscribers); its top videos are 'where is...?' mysteries (the T-Rex's tail 21M, my cookie 17M) and place based safety songs, and its newest upload is a police dog catching a thief, the same chase and missing snack hooks seen across markets. Total 2079."
+   "note": "Earlier runs summarised: all rounds through Run 584 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:54",
@@ -15834,6 +15844,10 @@
   {
    "date": "2026-11-16 19:57",
    "note": "Run 662 (YouTube algorithm (Rene Ritchie on small channel tests, dislikes, shadow bans)): From YouTube's creator liaison on vidIQ's TubeTalk (Feb 2026): Home sometimes tests videos that have only a few dozen to a few hundred views, dislikes are a real negative personalisation signal, and most 'shadow ban' complaints turn out to be ordinary underperformance, with real limits coming from copyright blocks or age restriction. Total 2203."
+  },
+  {
+   "date": "2026-11-16 19:58",
+   "note": "Run 663 (other platforms (Shorts and Reels skipped as fully covered; Yoto and Roblox karaoke)): Trial Reels and Shorts length studies were all already leaves, so the round moved to other platforms. New: Yoto's fourth generation players (Sep 2026) add 64GB offline storage and a cardless 'Green Button' personalised playlist, and its catalogue now runs from toddlers to 14+, while Billie Eilish's May 2026 Roblox activation used in game karaoke as the music hook; the Netflix and Alexa items found were already in the tree. Total 2205."
   }
  ],
  "history": [
@@ -16420,6 +16434,10 @@
   {
    "date": "2026-11-16 19:57",
    "total": 2203
+  },
+  {
+   "date": "2026-11-16 19:58",
+   "total": 2205
   }
  ],
  "next_week_ideas": [
