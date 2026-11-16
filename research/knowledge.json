@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:49:25+05:30",
- "runs": 576,
+ "updated": "2026-11-16T16:50:06+05:30",
+ "runs": 577,
  "branches": [
   {
    "id": "platforms",
@@ -1588,6 +1588,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 530
+    },
+    {
+     "t": "Precise TV's kids advertiser report (Giraffe Insights survey, published Feb 2024) found 81% of 2 to 12 year olds watch YouTube, averaging about 106 minutes a day, that 95% of families co view (nearly half every day) and that 70% of that co viewing happens on a connected TV, so a Bro Bros long video is usually watched by a child and a parent together on the big screen.",
+     "src": "Next TV / Precise TV, Feb 2024",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 577
     }
    ]
   },
@@ -14593,11 +14600,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 497 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 12:58",
-   "note": "Run 498 (topics and markets (Parrot Analytics global kids demand; visual Christmas thumbnail sources checked first and skipped as generic)): Parrot Analytics found global demand for preschool shows rose about 25% and school age about 21% in a year while TV overall declined, and India made Mighty Little Bheem draws US demand at 76% of its Indian level (Pakistan 75%, Philippines 74%), strong evidence that a kids brand made in India can travel worldwide. Total 1931."
+   "note": "Earlier runs summarised: all rounds through Run 498 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 12:59",
@@ -14910,13 +14913,13 @@
   {
    "date": "2026-11-16 16:49",
    "note": "Run 576 (TRENDS (mascot dance check)): Mascot and character dance searches only surfaced 2025 trends (China's leg sweep dance, a college mascot impression) that are adult aimed or faded, and no new weekly roundup has appeared since 13 Nov, so no new leaves. Total 2071."
+  },
+  {
+   "date": "2026-11-16 16:50",
+   "note": "Run 577 (YouTube algorithm (YouTube Kids entry and co viewing on TV)): The YouTube Kids filter FAQ was already in the tree; one new data point added from Precise TV's kids report: 95% of families co view and 70% co view YouTube on a connected TV, with kids 2 to 12 averaging 106 minutes of YouTube a day. Total 2072."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 02:41",
-   "total": 1197
-  },
   {
    "date": "2026-11-16 02:41",
    "total": 1201
@@ -16112,6 +16115,10 @@
   {
    "date": "2026-11-16 16:49",
    "total": 2071
+  },
+  {
+   "date": "2026-11-16 16:50",
+   "total": 2072
   }
  ],
  "next_week_ideas": [
