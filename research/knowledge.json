@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:10:46+05:30",
- "runs": 459,
+ "updated": "2026-11-16T11:11:31+05:30",
+ "runs": 460,
  "branches": [
   {
    "id": "platforms",
@@ -5683,6 +5683,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 448
+    },
+    {
+     "t": "Public domain Christmas compositions we may re sing with our own arrangement include Deck the Halls, Jingle Bells, Silent Night, Away in a Manger, Up on the House Top, The Twelve Days of Christmas, We Wish You a Merry Christmas, O Christmas Tree and Toyland, but only the original melody and words are free, never anyone's recording or a modern arrangement.",
+     "src": "library.osu.edu, Dec 2018",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 460
+    },
+    {
+     "t": "Famous holiday songs that are still protected include Winter Wonderland (until about 2030), Rudolph the Red Nosed Reindeer (about 2035), Frosty the Snowman (about 2046), Jingle Bell Rock, Rockin' Around the Christmas Tree and Holly Jolly Christmas (2050s to 2060), so Bro Bros must never cover them and should write original snowman and reindeer songs instead.",
+     "src": "library.osu.edu, Dec 2018",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 460
     }
    ]
   },
@@ -12864,11 +12878,7 @@
  "log": [
   {
    "date": "2026-11-16 07:58",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 380 (competitors (Lalafun's fivefold growth and mission ..."
-  },
-  {
-   "date": "2026-11-16 08:42",
-   "note": "Run 381 (TRENDS (rock paper scissors snack game, pose and bow, gratitude tablecloth, one week meme lifespans)): Virlo's late October tracker shows two family friendly TikTok formats still early: a rock paper scissors game where the winner takes a bite, and a pose then bow on the beat drop; it also shows memes now rise and die within a single week. TikTok's holiday shopping event opened on 14 Nov, and the US gratitude tablecloth tradition (kids trace their hands) returns for Thanksgiving on 26 Nov. Total 1589."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 381 (TRENDS (rock paper scissors snack game, pose and bo..."
   },
   {
    "date": "2026-11-16 08:43",
@@ -13181,6 +13191,10 @@
   {
    "date": "2026-11-16 11:10",
    "note": "Run 459 (TRENDS (Christmas dance challenges; nothing new)): Searched for new Christmas 2026 family dance challenges; only 2020 era lists (easy group routines in front of the tree, matching sweaters) came up, already covered by the matching pyjamas Christmas dance in the trend bank, so no new leaves this round. Total 1824."
+  },
+  {
+   "date": "2026-11-16 11:11",
+   "note": "Run 460 (music craft (which Christmas songs are free to re sing)): Ohio State University's copyright guide lists Deck the Halls, Jingle Bells, Silent Night, Up on the House Top, Twelve Days of Christmas, We Wish You a Merry Christmas, O Christmas Tree, Away in a Manger and Toyland as public domain compositions, while Rudolph, Frosty, Winter Wonderland, Jingle Bell Rock and Rockin' Around the Christmas Tree stay protected for decades. Total 1826."
   }
  ],
  "history": [
@@ -13999,6 +14013,10 @@
   {
    "date": "2026-11-16 11:10",
    "total": 1824
+  },
+  {
+   "date": "2026-11-16 11:11",
+   "total": 1826
   }
  ],
  "next_week_ideas": [
