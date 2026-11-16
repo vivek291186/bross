@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:05:53+05:30",
- "runs": 806,
+ "updated": "2026-11-17T01:06:12+05:30",
+ "runs": 807,
  "branches": [
   {
    "id": "platforms",
@@ -16734,12 +16734,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:48",
-   "note": "Earlier runs summarised: all rounds through Run 727 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:49",
-   "note": "Run 728 (global markets (Egypt)): Egypt has about 49.3M adult YouTube users and 92.6M mobile internet users, and is drafting a children's tech law with age checks; kids channel rankings and Gulf ad rate gaps were already in the tree. Total 2299."
+   "note": "Earlier runs summarised: all rounds through Run 728 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:50",
@@ -17052,6 +17048,10 @@
   {
    "date": "2026-11-17 01:05",
    "note": "Run 806 (YouTube algorithm (Gemini search evidence signals, AI Overviews citations)): Ask YouTube's use of spoken words, captions and chapters as answer evidence and YouTube's share of AI Overview citations were already in the tree; no new leaves. Total 2377."
+  },
+  {
+   "date": "2026-11-17 01:06",
+   "note": "Run 807 (Shorts and Reels (kids accounts on Instagram, Facebook Reels for parents)): Instagram growth studies, Facebook Reels retention data and Creator Fast Track were already in the tree; no new leaves. Total 2377."
   }
  ],
  "history": [
@@ -18213,6 +18213,10 @@
   },
   {
    "date": "2026-11-17 01:05",
+   "total": 2377
+  },
+  {
+   "date": "2026-11-17 01:06",
    "total": 2377
   }
  ],
