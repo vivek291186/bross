@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:46:28+05:30",
- "runs": 469,
+ "updated": "2026-11-16T11:47:22+05:30",
+ "runs": 470,
  "branches": [
   {
    "id": "platforms",
@@ -1462,6 +1462,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 457
+    },
+    {
+     "t": "Meta's Creator Fast Track (18 Mar 2026) gives creators with 100K+ followers on Instagram, TikTok or YouTube instant Facebook monetisation plus 1,000 dollars a month for three months (3,000 dollars with 1M+), if they post at least 15 Reels on Facebook in every 30 days on at least 10 different days; reposts from other platforms count if original, so once a Bro Bros account passes 100K our daily songs could be cross posted to Facebook for parents.",
+     "src": "tubefilter.com, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 470
+    },
+    {
+     "t": "Facebook's audience is adults, so for Bro Bros it is a parent channel rather than a child channel: Reels there should be framed for grown ups sharing songs with their kids (sing along clips, bedtime songs, holiday songs to play at home), and we must check Facebook's monetisation rules for content made for children before relying on that income.",
+     "src": "tubefilter.com, Mar 2026 (our reading)",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 470
+    },
+    {
+     "t": "Kidoodle.TV is a free, ad supported 'safe streaming' service for under 12s in over 160 countries with 30,000+ hand picked, human vetted episodes and 10 to 20 new shows added each week, and it lists music based streams as a priority, a possible extra home for Bro Bros song compilations beyond YouTube.",
+     "src": "worldscreen.com, undated",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 470
     }
    ]
   },
@@ -13045,12 +13066,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:50",
-   "note": "Earlier runs summarised: all rounds through Run 390 (TRENDS (few new formats this week; monthly dump, a gentle elf helper, turkey food builds)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:51",
-   "note": "Run 391 (global markets (India's Hindi rhyme giants plateau, El Reino Infantil's Spanish scale)): India's two biggest Hindi rhyme channels look mature rather than growing: Infobells Hindi (72.8M) stopped adding subscribers from September and runs at roughly 450M views a month, while Kids Channel India (44.1M) holds 310M to 500M a month and now pushes animal rhyme Shorts with #viral tags; El Reino Infantil passed 5.6B views in the first four months of 2026 and backs YouTube with licensing in 15 countries and live shows. Total 1627."
+   "note": "Earlier runs summarised: all rounds through Run 391 (global markets (India's Hindi rhyme giants plateau, El Reino Infantil's Spanish scale)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:52",
@@ -13363,6 +13380,10 @@
   {
    "date": "2026-11-16 11:46",
    "note": "Run 469 (algorithm (trends and channels skipped as checked within the last rounds; Trial Reels and Reels ranking already covered, new on subtitles and translated metadata)): Trial Reels evidence and Reels ranking signals were already in the tree; new: an AIR case where AI translated subtitles in 20+ languages and translated titles in Spanish, Hindi, Portuguese, Turkish and Vietnamese on selected videos lifted views 10.7%, with subtitled videos giving about 22% of all views. Total 1850."
+  },
+  {
+   "date": "2026-11-16 11:47",
+   "note": "Run 470 (other platforms (Facebook Creator Fast Track, Kidoodle.TV; Tonies already covered)): Meta's Creator Fast Track (Mar 2026) gives creators with 100K+ followers on Instagram, TikTok or YouTube instant Facebook monetisation plus 1,000 dollars a month for three months (3,000 at 1M+) for 15 Reels in 30 days on 10 different days, reposts allowed; Kidoodle.TV, a vetted kids AVOD in 160+ countries, adds 10 to 20 shows a week and wants music streams. Total 1853."
   }
  ],
  "history": [
@@ -14221,6 +14242,10 @@
   {
    "date": "2026-11-16 11:46",
    "total": 1850
+  },
+  {
+   "date": "2026-11-16 11:47",
+   "total": 1853
   }
  ],
  "next_week_ideas": [
