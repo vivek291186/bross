@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:39:56+05:30",
- "runs": 677,
+ "updated": "2026-11-16T21:40:42+05:30",
+ "runs": 678,
  "branches": [
   {
    "id": "platforms",
@@ -8126,6 +8126,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 666
+    },
+    {
+     "t": "A PACIS 2025 study of 38,598 videos from top ranked children's YouTube channels found thumbnails with higher colour saturation, higher brightness, sharper image quality and short text were linked to more views, so every Bro Bros thumbnail should be bright, saturated, crisp and carry two or three big words.",
+     "src": "PACIS (Choi, Go and Park), 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 678
+    },
+    {
+     "t": "The same study found thumbnails centred on objects drew more views than ones centred on people, so a big clear object from the song (a giant pumpkin, a balloon, a present) next to small Bro Bros faces may beat a faces only thumbnail; worth an A/B test with Test and Compare.",
+     "src": "PACIS (Choi, Go and Park), 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 678
+    },
+    {
+     "t": "Disney Jr.'s 2026 Sofia the First reboot moved away from flat toon shading to dappled cinematic lighting (sunlight through trees) and one large reusable hero set, a premium look on a TV budget that Bro Bros can copy in Blender with one rich, reused world and soft filtered light.",
+     "src": "pulse.bot, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 678
+    },
+    {
+     "t": "A new University of the Arts London lab (Nerve Lab, opened June 2026) is analysing about 1,000 animated episodes for pacing, colour, loudness and shot frequency against the attention of 3 to 6 year olds; no results yet, but its findings will be a key guide to how fast our edits should be.",
+     "src": "news.ainauten.com, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 678
     }
    ]
   },
@@ -15755,11 +15783,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 598 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:00",
-   "note": "Run 599 (YouTube channels (our data skipped as unchanged at 16:54; Tubefilter week of 15 Nov still not published)): Tubefilter has not yet published the week of 15 Nov charts and the 8 Nov most subscribed findings are already leaves, so no new leaves. Total 2087."
+   "note": "Earlier runs summarised: all rounds through Run 599 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:01",
@@ -16072,6 +16096,10 @@
   {
    "date": "2026-11-16 21:39",
    "note": "Run 677 (music craft (play song gaze study, outros, Spotify holiday data)): A 2026 Musicae Scientiae study of 74 seven month olds found babies looked at the singer much longer during a fast play song (170 BPM) than a lullaby, and looks followed rises in acoustic change; Spotify's 1 Oct holiday report shows festive streams averaging 36.2M a day with the Philippines the top early market; long staying hits had shorter outros. Total 2237."
+  },
+  {
+   "date": "2026-11-16 21:40",
+   "note": "Run 678 (visual craft (thumbnail feature study, cinematic CG lighting, Nerve Lab)): A PACIS 2025 study of 38,598 videos from top kids channels linked brighter, more saturated, sharper thumbnails with short text to more views, and found thumbnails showing objects outperformed ones showing people; Disney Jr.'s 2026 Sofia reboot dropped flat toon shading for dappled cinematic lighting and one big reusable hero set; a London lab is measuring pacing, colour and loudness in about 1,000 kids episodes. Total 2241."
   }
  ],
  "history": [
@@ -16718,6 +16746,10 @@
   {
    "date": "2026-11-16 21:39",
    "total": 2237
+  },
+  {
+   "date": "2026-11-16 21:40",
+   "total": 2241
   }
  ],
  "next_week_ideas": [
