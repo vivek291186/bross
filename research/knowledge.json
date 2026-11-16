@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T14:40:03+05:30",
- "runs": 519,
+ "updated": "2026-11-16T14:40:42+05:30",
+ "runs": 520,
  "branches": [
   {
    "id": "platforms",
@@ -6110,6 +6110,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 508
+    },
+    {
+     "t": "An eLife study (79 babies aged 3, 6 and 12 months, two children's song choruses) found only 12 month olds moved more to real music than to scrambled sound, rocking, swaying and clapping, but none moved in time with the beat; their movement followed rises and falls in loudness, so toddler songs should build clear loud and soft sections (quiet verse, big chorus) rather than rely on tight beat syncing.",
+     "src": "PsyPost / eLife, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 520
+    },
+    {
+     "t": "In the same eLife study a song version with the melody raised one octave predicted more spontaneous baby movement than a version with the bass lowered, at 3, 6 and 12 months, so a bright, high melody line (bells, glockenspiel, high voices) on top of the mix is what gets the youngest viewers moving.",
+     "src": "PsyPost / eLife, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 520
+    },
+    {
+     "t": "Six month olds in that study showed stronger brain responses to the high pitched version of the songs than to the low pitched one, while scrambled notes barely registered at any age, so our songs need a clear, regular melody (not random sound effects) with the tune sitting high and the bass kept simple.",
+     "src": "PsyPost / eLife, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 520
     }
    ]
   },
@@ -13948,12 +13969,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 10:41",
-   "note": "Earlier runs summarised: all rounds through Run 440 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 10:42",
-   "note": "Run 441 (TRENDS (rhyme for as long as we can game, toddler name call trick; quiet week, December lists not out)): No new weekly lists since 13 Nov; two family formats not yet in the tree: last December's 'rhyme for as long as we can' sway game, which suits a kids rhyming chain song, and the 'Where is Jessica?' trick parents use to stop tantrums by calling a made up name, which shows toddlers snap to a sudden called name. Total 1787."
+   "note": "Earlier runs summarised: all rounds through Run 441 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 10:43",
@@ -14266,6 +14283,10 @@
   {
    "date": "2026-11-16 14:40",
    "note": "Run 519 (TRENDS (ViralRemix 13 Nov chart and NewEngen list, new family duo formats)): Most chart trends were already leaves; new family safe formats: the Shoulder Carry swap (one rides on the other's shoulders, then they switch), the back away, high five, kick and pose duo routine, numbered cliffhanger animated survival stories, the AI baby riding a reindeer down a snowy street, and the rising flamingo float push off. Added two duo dances to the trend bank. Total 1979."
+  },
+  {
+   "date": "2026-11-16 14:40",
+   "note": "Run 520 (music craft (infant movement study, kids charts mostly already in the tree)): An eLife study of 79 babies found that by 12 months they rock, sway and clap more to real songs than to scrambled ones, but follow loudness changes rather than the beat, and a melody raised an octave makes babies of every age move more; charts and Grammy items were already leaves (nominations come out tonight). Total 1982."
   }
  ],
  "history": [
@@ -15324,6 +15345,10 @@
   {
    "date": "2026-11-16 14:40",
    "total": 1979
+  },
+  {
+   "date": "2026-11-16 14:40",
+   "total": 1982
   }
  ],
  "next_week_ideas": [
