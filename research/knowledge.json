@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T13:00:37+05:30",
- "runs": 501,
+ "updated": "2026-11-16T13:01:15+05:30",
+ "runs": 502,
  "branches": [
   {
    "id": "platforms",
@@ -8154,6 +8154,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 500
+    },
+    {
+     "t": "Short looped zoo clips that frame ordinary animal behaviour as a tiny story (otters holding hands, unlikely animal friendships, a squealing baby pygmy hippo) keep going viral in 2026, supporting 20 second Bro Bros animal friend Shorts with one clear beginning, middle and end.",
+     "src": "inkl, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 502
     }
    ]
   },
@@ -13635,6 +13642,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 496
+    },
+    {
+     "t": "Screaming sea lion clips (zoo sea lions barking loudly, clapping flippers and hopping side to side, one reel over 20M likes) took off on Reels and TikTok in January 2026 as audiences moved from calm capybara clips to 'chaotic whimsy', so a loud, clappy animal friend suits kids' sense of humour now.",
+     "src": "ThePrint, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 502
+    },
+    {
+     "t": "2026's most shared animal stories were emotional underdogs: a baby macaque at a Japanese zoo clinging to a plush toy until his troop accepted him, and a lone penguin walking away from its colony, so a small animal who feels left out and is welcomed by friends is a story kids and parents already love this year.",
+     "src": "inkl / The National, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 502
     }
    ]
   }
@@ -13662,11 +13683,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 422 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:47",
-   "note": "Run 423 (TRENDS (word of the year slang check; weekly Reels lists unchanged)): This week's Reels trend lists (SocialPilot to 10 Nov, Inmagic 16 Nov) hold no format the tree lacks. Collins named 'mogging' (outshining someone) its 2026 word of the year on 3 Nov; Gen Alpha uses it jokingly but it comes from appearance ranking slang, so we keep it out of our songs. Also removed a run 414 leaf on numbered cliffhanger stories that repeated an older leaf. Total 1731."
+   "note": "Earlier runs summarised: all rounds through Run 423 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:48",
@@ -13979,6 +13996,10 @@
   {
    "date": "2026-11-16 13:00",
    "note": "Run 501 (competitor deep dive (Super Simple Play with Caitie)): Super Simple's live host channel (5.25M subs) is one of the few steady performers, about 47M to 58M views a month all of 2026, with hits that are action songs (fire truck, I spy colours, dance and stop) and a Christmas party Short already out on 12 Nov; its 10 track holiday album mixes funky classics with originals about snow days and crafts. Total 1938."
+  },
+  {
+   "date": "2026-11-16 13:01",
+   "note": "Run 502 (TRENDS (viral animals of 2026 as kid topics)): Animal stars carried 2026's feeds: a baby macaque hugging a plush toy, a lone walking penguin, a squealing baby pygmy hippo and loud clapping sea lions (one reel over 20M likes); a cheeky sea lion friend who barks, claps and jumps on the beat is an original character idea that rides this 'chaotic whimsy' mood. Total 1941."
   }
  ],
  "history": [
@@ -14965,9 +14986,17 @@
   {
    "date": "2026-11-16 13:00",
    "total": 1938
+  },
+  {
+   "date": "2026-11-16 13:01",
+   "total": 1941
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Sammy the Sea Lion Says Clap!",
+   "why": "Loud, clappy sea lion clips were among 2026's most loved animal videos; a copy me song where an original sea lion barks, claps and hops and the Bros and viewers copy him is a simple worldwide action song with no words needed in the hook."
+  },
   {
    "title": "Tiptoe, Tiptoe, Don't Splash!",
    "why": "Kids are playing a quiet sneak through the pool game on Roblox right now; a soft and loud freeze song with tiptoes, a big splash jump and statue freezes is a party game parents can use worldwide, with our own story of the Bros crossing stepping stones to a rubber duck."
@@ -15019,13 +15048,15 @@
   {
    "title": "Choo Choo, Christmas Train!",
    "why": "Google's Holiday 100 (9 Nov 2026) shows searches for classic toy train sets up 240%; a cosy Christmas train song where a wooden train picks up friends, presents and a snowman at each stop gives a counting chorus, a 'choo choo' arm move kids copy and an easy long compilation of station verses."
-  },
-  {
-   "title": "Open the Door! (Advent Countdown Song)",
-   "why": "Advent calendar videos peak in November on YouTube (about 280M views in Nov 2025, Google 2026 report); one song with a number in every verse and a daily door reveal can run as 24 Shorts from 1 Dec, counting practice for kids worldwide."
   }
  ],
  "trend_bank": [
+  {
+   "name": "Clappy sea lion",
+   "where": "Instagram Reels and TikTok zoo clips, 2026 (evergreen animal humour)",
+   "status": "evergreen",
+   "use": "Our own sea lion friend at the Bros' pool: on each beat of our original splashy song he barks 'Ow ow!' and claps his flippers, then hops side to side; the Bros copy him: standing in place, clap hands twice above the head, hop left, hop right, then both arms out like flippers and a little bow; caption 'Copy the sea lion!'"
+  },
   {
    "name": "Tiptoe don't splash",
    "where": "Roblox craze (DONT SPLASH), Nov 2026",
@@ -15139,12 +15170,6 @@
    "where": "TikTok AI video templates (Dromana Christmas guide, updated 7 Nov 2026)",
    "status": "seasonal",
    "use": "Opening shot of a winter Short: Little Bro stands frozen inside a cartoon ice block in the snowy garden; on the first note of our own Christmas song the fairy lights switch on, the ice cracks and melts away, and he shakes off the snow and starts dancing. Meshy prompt: standing still, then shiver and shake arms and shoulders, then bounce on the spot with arms up."
-  },
-  {
-   "name": "Elf workshop dance",
-   "where": "TikTok holiday templates (Dromana, Nov 2026)",
-   "status": "seasonal",
-   "use": "The Bros in our own original elf outfits (striped tights, pointed shoes, not any branded elf) dance among wrapped presents to our own toy workshop song: hammer tap with one hand, wrap a parcel with both arms in a circle, tiptoe in place, then a big jazz hands finish. Meshy prompt: standing in place, tap right fist down twice, roll both arms in a circle, small tiptoe steps on the spot, jazz hands."
   }
  ]
 }
