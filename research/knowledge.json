@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:12:41+05:30",
- "runs": 626,
+ "updated": "2026-11-16T17:36:59+05:30",
+ "runs": 627,
  "branches": [
   {
    "id": "platforms",
@@ -1616,6 +1616,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 614
+    },
+    {
+     "t": "Instagram removed the Linked Reels option on 28 Oct 2026, so a multi part Bro Bros story can no longer be chained; the working substitute is 'Part 2' in the on screen text, the first part pinned to the grid, and later the separate Series format once it leaves testing.",
+     "src": "Ethical SMM and SocialBee, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 627
+    },
+    {
+     "t": "Instagram began testing a Reels first home feed on iOS in October 2026, which would put Reels ahead of photos for many viewers and makes Reels the format to prioritise over static posts on our Instagram.",
+     "src": "SocialBee, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 627
     }
    ]
   },
@@ -3002,6 +3016,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 601
+    },
+    {
+     "t": "As of November 2026 Instagram still names watch time, likes per reach and sends per reach as the main signals for reaching non followers, and keeps one subject per post across caption, on screen text and audio so Your Algorithm files it under the right topic.",
+     "src": "Ethical SMM, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 627
     }
    ]
   },
@@ -7699,6 +7720,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 624
+    },
+    {
+     "t": "Instagram is testing 'Sync Video Effects to Music' (Oct 2026) and the Edits app added beat synced video effects in November 2026, so flashes, zooms and colour pops can land on each beat of our song automatically instead of being hand timed in Blender.",
+     "src": "SocialBee, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 627
     }
    ]
   },
@@ -14830,12 +14858,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 547 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:08",
-   "note": "Run 548 (competitor deep dive (HeyKids, a multi language song network, Polish channel)): HeyKids' Polish channel (856K subscribers) gets only about 3.2M views a month and its newest upload 881 views in two days, versus about 46M a month for the home grown Polish channel, so a network's translated channel earns roughly a fourteenth of a local favourite; its one big Polish hit is a song named after a cheeky boy character (19M). Total 2033."
+   "note": "Earlier runs summarised: all rounds through Run 548 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:09",
@@ -15148,6 +15172,10 @@
   {
    "date": "2026-11-16 17:12",
    "note": "Run 626 (music craft (sensory baby channel recheck)): The sensory baby video channel checked this round is already well covered in the tree, so no new leaves; run ends here after about 40 minutes and 72 rounds today in this run. Total 2105."
+  },
+  {
+   "date": "2026-11-16 17:36",
+   "note": "Run 627 (Shorts and Reels (Instagram November updates)): Instagram ended Linked Reels on 28 Oct 2026 (use Part 2 text plus a pinned first part), is testing a Reels first home feed on iOS, and is adding beat synced effects in Edits and Instagram, which suits our dance clips. Total 2109."
   }
  ],
  "history": [
@@ -15156,804 +15184,44 @@
    "total": 1364
   },
   {
-   "date": "2026-11-16 05:39",
-   "total": 1369
-  },
-  {
-   "date": "2026-11-16 05:40",
-   "total": 1372
-  },
-  {
-   "date": "2026-11-16 05:41",
-   "total": 1376
-  },
-  {
-   "date": "2026-11-16 05:43",
-   "total": 1379
-  },
-  {
-   "date": "2026-11-16 05:44",
-   "total": 1382
-  },
-  {
-   "date": "2026-11-16 05:49",
-   "total": 1385
-  },
-  {
-   "date": "2026-11-16 05:50",
-   "total": 1388
-  },
-  {
-   "date": "2026-11-16 05:51",
-   "total": 1391
-  },
-  {
-   "date": "2026-11-16 05:52",
-   "total": 1395
-  },
-  {
-   "date": "2026-11-16 05:53",
-   "total": 1398
-  },
-  {
-   "date": "2026-11-16 05:53",
-   "total": 1401
-  },
-  {
-   "date": "2026-11-16 05:54",
-   "total": 1404
-  },
-  {
-   "date": "2026-11-16 05:55",
-   "total": 1407
-  },
-  {
-   "date": "2026-11-16 05:56",
-   "total": 1410
-  },
-  {
-   "date": "2026-11-16 05:57",
-   "total": 1413
-  },
-  {
-   "date": "2026-11-16 05:58",
-   "total": 1417
-  },
-  {
-   "date": "2026-11-16 05:58",
-   "total": 1420
-  },
-  {
-   "date": "2026-11-16 05:59",
-   "total": 1423
-  },
-  {
    "date": "2026-11-16 06:00",
    "total": 1426
-  },
-  {
-   "date": "2026-11-16 06:01",
-   "total": 1429
-  },
-  {
-   "date": "2026-11-16 06:02",
-   "total": 1432
-  },
-  {
-   "date": "2026-11-16 06:02",
-   "total": 1435
-  },
-  {
-   "date": "2026-11-16 06:03",
-   "total": 1438
-  },
-  {
-   "date": "2026-11-16 06:04",
-   "total": 1441
-  },
-  {
-   "date": "2026-11-16 06:36",
-   "total": 1449
-  },
-  {
-   "date": "2026-11-16 06:38",
-   "total": 1452
-  },
-  {
-   "date": "2026-11-16 06:39",
-   "total": 1456
-  },
-  {
-   "date": "2026-11-16 06:40",
-   "total": 1459
-  },
-  {
-   "date": "2026-11-16 06:41",
-   "total": 1462
-  },
-  {
-   "date": "2026-11-16 06:42",
-   "total": 1466
   },
   {
    "date": "2026-11-16 07:36",
    "total": 1473
   },
   {
-   "date": "2026-11-16 07:38",
-   "total": 1479
-  },
-  {
-   "date": "2026-11-16 07:40",
-   "total": 1486
-  },
-  {
-   "date": "2026-11-16 07:41",
-   "total": 1491
-  },
-  {
-   "date": "2026-11-16 07:42",
-   "total": 1497
-  },
-  {
-   "date": "2026-11-16 07:44",
-   "total": 1504
-  },
-  {
-   "date": "2026-11-16 07:45",
-   "total": 1509
-  },
-  {
-   "date": "2026-11-16 07:46",
-   "total": 1515
-  },
-  {
-   "date": "2026-11-16 07:48",
-   "total": 1520
-  },
-  {
-   "date": "2026-11-16 07:50",
-   "total": 1525
-  },
-  {
-   "date": "2026-11-16 07:56",
-   "total": 1531
-  },
-  {
-   "date": "2026-11-16 07:56",
-   "total": 1536
-  },
-  {
-   "date": "2026-11-16 07:57",
-   "total": 1539
-  },
-  {
-   "date": "2026-11-16 07:58",
-   "total": 1544
-  },
-  {
-   "date": "2026-11-16 07:59",
-   "total": 1549
-  },
-  {
    "date": "2026-11-16 08:00",
    "total": 1553
-  },
-  {
-   "date": "2026-11-16 08:01",
-   "total": 1556
-  },
-  {
-   "date": "2026-11-16 08:02",
-   "total": 1560
-  },
-  {
-   "date": "2026-11-16 08:03",
-   "total": 1564
-  },
-  {
-   "date": "2026-11-16 08:03",
-   "total": 1567
-  },
-  {
-   "date": "2026-11-16 08:39",
-   "total": 1573
-  },
-  {
-   "date": "2026-11-16 08:40",
-   "total": 1578
-  },
-  {
-   "date": "2026-11-16 08:41",
-   "total": 1584
-  },
-  {
-   "date": "2026-11-16 08:42",
-   "total": 1589
-  },
-  {
-   "date": "2026-11-16 08:43",
-   "total": 1592
-  },
-  {
-   "date": "2026-11-16 08:44",
-   "total": 1597
-  },
-  {
-   "date": "2026-11-16 08:45",
-   "total": 1601
-  },
-  {
-   "date": "2026-11-16 08:46",
-   "total": 1604
-  },
-  {
-   "date": "2026-11-16 08:47",
-   "total": 1609
-  },
-  {
-   "date": "2026-11-16 08:47",
-   "total": 1613
-  },
-  {
-   "date": "2026-11-16 08:49",
-   "total": 1617
-  },
-  {
-   "date": "2026-11-16 08:49",
-   "total": 1621
-  },
-  {
-   "date": "2026-11-16 08:50",
-   "total": 1624
-  },
-  {
-   "date": "2026-11-16 08:51",
-   "total": 1627
-  },
-  {
-   "date": "2026-11-16 08:52",
-   "total": 1631
-  },
-  {
-   "date": "2026-11-16 08:53",
-   "total": 1634
-  },
-  {
-   "date": "2026-11-16 08:54",
-   "total": 1637
-  },
-  {
-   "date": "2026-11-16 08:54",
-   "total": 1641
-  },
-  {
-   "date": "2026-11-16 08:55",
-   "total": 1644
-  },
-  {
-   "date": "2026-11-16 08:56",
-   "total": 1646
-  },
-  {
-   "date": "2026-11-16 08:57",
-   "total": 1649
-  },
-  {
-   "date": "2026-11-16 08:57",
-   "total": 1651
-  },
-  {
-   "date": "2026-11-16 08:58",
-   "total": 1653
-  },
-  {
-   "date": "2026-11-16 08:59",
-   "total": 1656
-  },
-  {
-   "date": "2026-11-16 08:59",
-   "total": 1658
   },
   {
    "date": "2026-11-16 09:00",
    "total": 1661
   },
   {
-   "date": "2026-11-16 09:00",
-   "total": 1664
-  },
-  {
-   "date": "2026-11-16 09:01",
-   "total": 1667
-  },
-  {
-   "date": "2026-11-16 09:02",
-   "total": 1670
-  },
-  {
-   "date": "2026-11-16 09:03",
-   "total": 1672
-  },
-  {
-   "date": "2026-11-16 09:04",
-   "total": 1675
-  },
-  {
-   "date": "2026-11-16 09:04",
-   "total": 1677
-  },
-  {
-   "date": "2026-11-16 09:10",
-   "total": 1679
-  },
-  {
-   "date": "2026-11-16 09:11",
-   "total": 1682
-  },
-  {
-   "date": "2026-11-16 09:11",
-   "total": 1683
-  },
-  {
-   "date": "2026-11-16 09:35",
-   "total": 1690
-  },
-  {
-   "date": "2026-11-16 09:37",
-   "total": 1696
-  },
-  {
-   "date": "2026-11-16 09:38",
-   "total": 1700
-  },
-  {
-   "date": "2026-11-16 09:39",
-   "total": 1706
-  },
-  {
-   "date": "2026-11-16 09:40",
-   "total": 1709
-  },
-  {
-   "date": "2026-11-16 09:41",
-   "total": 1713
-  },
-  {
-   "date": "2026-11-16 09:42",
-   "total": 1717
-  },
-  {
-   "date": "2026-11-16 09:44",
-   "total": 1721
-  },
-  {
-   "date": "2026-11-16 09:45",
-   "total": 1724
-  },
-  {
-   "date": "2026-11-16 09:46",
-   "total": 1729
-  },
-  {
-   "date": "2026-11-16 09:47",
-   "total": 1731
-  },
-  {
-   "date": "2026-11-16 09:48",
-   "total": 1735
-  },
-  {
-   "date": "2026-11-16 09:50",
-   "total": 1739
-  },
-  {
-   "date": "2026-11-16 09:50",
-   "total": 1742
-  },
-  {
-   "date": "2026-11-16 09:51",
-   "total": 1745
-  },
-  {
-   "date": "2026-11-16 09:52",
-   "total": 1749
-  },
-  {
-   "date": "2026-11-16 09:53",
-   "total": 1751
-  },
-  {
-   "date": "2026-11-16 09:54",
-   "total": 1753
-  },
-  {
    "date": "2026-11-16 10:00",
    "total": 1756
-  },
-  {
-   "date": "2026-11-16 10:01",
-   "total": 1758
-  },
-  {
-   "date": "2026-11-16 10:01",
-   "total": 1761
-  },
-  {
-   "date": "2026-11-16 10:02",
-   "total": 1763
-  },
-  {
-   "date": "2026-11-16 10:03",
-   "total": 1765
-  },
-  {
-   "date": "2026-11-16 10:35",
-   "total": 1771
-  },
-  {
-   "date": "2026-11-16 10:36",
-   "total": 1774
-  },
-  {
-   "date": "2026-11-16 10:38",
-   "total": 1777
-  },
-  {
-   "date": "2026-11-16 10:39",
-   "total": 1782
-  },
-  {
-   "date": "2026-11-16 10:41",
-   "total": 1785
-  },
-  {
-   "date": "2026-11-16 10:42",
-   "total": 1787
-  },
-  {
-   "date": "2026-11-16 10:43",
-   "total": 1791
-  },
-  {
-   "date": "2026-11-16 10:44",
-   "total": 1792
-  },
-  {
-   "date": "2026-11-16 10:45",
-   "total": 1795
-  },
-  {
-   "date": "2026-11-16 10:52",
-   "total": 1797
-  },
-  {
-   "date": "2026-11-16 10:59",
-   "total": 1800
   },
   {
    "date": "2026-11-16 11:00",
    "total": 1804
   },
   {
-   "date": "2026-11-16 11:01",
-   "total": 1806
-  },
-  {
-   "date": "2026-11-16 11:03",
-   "total": 1808
-  },
-  {
-   "date": "2026-11-16 11:04",
-   "total": 1808
-  },
-  {
-   "date": "2026-11-16 11:05",
-   "total": 1811
-  },
-  {
-   "date": "2026-11-16 11:05",
-   "total": 1813
-  },
-  {
-   "date": "2026-11-16 11:06",
-   "total": 1815
-  },
-  {
-   "date": "2026-11-16 11:07",
-   "total": 1817
-  },
-  {
-   "date": "2026-11-16 11:08",
-   "total": 1820
-  },
-  {
-   "date": "2026-11-16 11:08",
-   "total": 1821
-  },
-  {
-   "date": "2026-11-16 11:09",
-   "total": 1823
-  },
-  {
-   "date": "2026-11-16 11:10",
-   "total": 1824
-  },
-  {
-   "date": "2026-11-16 11:10",
-   "total": 1824
-  },
-  {
-   "date": "2026-11-16 11:11",
-   "total": 1826
-  },
-  {
-   "date": "2026-11-16 11:35",
-   "total": 1830
-  },
-  {
-   "date": "2026-11-16 11:36",
-   "total": 1834
-  },
-  {
-   "date": "2026-11-16 11:39",
-   "total": 1833
-  },
-  {
-   "date": "2026-11-16 11:40",
-   "total": 1836
-  },
-  {
-   "date": "2026-11-16 11:41",
-   "total": 1839
-  },
-  {
-   "date": "2026-11-16 11:43",
-   "total": 1841
-  },
-  {
-   "date": "2026-11-16 11:44",
-   "total": 1844
-  },
-  {
-   "date": "2026-11-16 11:45",
-   "total": 1848
-  },
-  {
-   "date": "2026-11-16 11:46",
-   "total": 1850
-  },
-  {
-   "date": "2026-11-16 11:47",
-   "total": 1853
-  },
-  {
-   "date": "2026-11-16 11:48",
-   "total": 1856
-  },
-  {
-   "date": "2026-11-16 11:49",
-   "total": 1858
-  },
-  {
-   "date": "2026-11-16 11:50",
-   "total": 1861
-  },
-  {
-   "date": "2026-11-16 11:51",
-   "total": 1865
-  },
-  {
-   "date": "2026-11-16 11:51",
-   "total": 1868
-  },
-  {
-   "date": "2026-11-16 11:52",
-   "total": 1871
-  },
-  {
-   "date": "2026-11-16 11:53",
-   "total": 1874
-  },
-  {
-   "date": "2026-11-16 11:53",
-   "total": 1876
-  },
-  {
-   "date": "2026-11-16 11:54",
-   "total": 1879
-  },
-  {
-   "date": "2026-11-16 11:56",
-   "total": 1881
-  },
-  {
-   "date": "2026-11-16 11:57",
-   "total": 1884
-  },
-  {
-   "date": "2026-11-16 11:58",
-   "total": 1886
-  },
-  {
-   "date": "2026-11-16 11:59",
-   "total": 1888
-  },
-  {
    "date": "2026-11-16 12:00",
    "total": 1888
-  },
-  {
-   "date": "2026-11-16 12:01",
-   "total": 1890
-  },
-  {
-   "date": "2026-11-16 12:38",
-   "total": 1895
-  },
-  {
-   "date": "2026-11-16 12:39",
-   "total": 1901
-  },
-  {
-   "date": "2026-11-16 12:46",
-   "total": 1906
-  },
-  {
-   "date": "2026-11-16 12:47",
-   "total": 1911
-  },
-  {
-   "date": "2026-11-16 12:48",
-   "total": 1914
-  },
-  {
-   "date": "2026-11-16 12:49",
-   "total": 1916
-  },
-  {
-   "date": "2026-11-16 12:50",
-   "total": 1918
-  },
-  {
-   "date": "2026-11-16 12:52",
-   "total": 1922
-  },
-  {
-   "date": "2026-11-16 12:53",
-   "total": 1922
-  },
-  {
-   "date": "2026-11-16 12:54",
-   "total": 1925
-  },
-  {
-   "date": "2026-11-16 12:55",
-   "total": 1925
-  },
-  {
-   "date": "2026-11-16 12:56",
-   "total": 1927
-  },
-  {
-   "date": "2026-11-16 12:58",
-   "total": 1931
-  },
-  {
-   "date": "2026-11-16 12:59",
-   "total": 1931
-  },
-  {
-   "date": "2026-11-16 12:59",
-   "total": 1934
   },
   {
    "date": "2026-11-16 13:00",
    "total": 1938
   },
   {
-   "date": "2026-11-16 13:01",
-   "total": 1941
-  },
-  {
-   "date": "2026-11-16 13:02",
-   "total": 1941
-  },
-  {
-   "date": "2026-11-16 13:02",
-   "total": 1944
-  },
-  {
-   "date": "2026-11-16 13:03",
-   "total": 1944
-  },
-  {
-   "date": "2026-11-16 13:37",
-   "total": 1950
-  },
-  {
-   "date": "2026-11-16 13:40",
-   "total": 1953
-  },
-  {
-   "date": "2026-11-16 13:41",
-   "total": 1958
-  },
-  {
-   "date": "2026-11-16 13:42",
-   "total": 1959
-  },
-  {
-   "date": "2026-11-16 13:43",
-   "total": 1961
-  },
-  {
-   "date": "2026-11-16 13:44",
-   "total": 1961
-  },
-  {
-   "date": "2026-11-16 13:45",
-   "total": 1964
-  },
-  {
-   "date": "2026-11-16 13:46",
-   "total": 1968
-  },
-  {
-   "date": "2026-11-16 13:47",
-   "total": 1970
-  },
-  {
-   "date": "2026-11-16 13:48",
-   "total": 1970
-  },
-  {
-   "date": "2026-11-16 13:48",
-   "total": 1970
-  },
-  {
-   "date": "2026-11-16 13:48",
-   "total": 1970
-  },
-  {
    "date": "2026-11-16 14:38",
    "total": 1974
   },
   {
-   "date": "2026-11-16 14:40",
-   "total": 1979
-  },
-  {
-   "date": "2026-11-16 14:40",
-   "total": 1982
-  },
-  {
-   "date": "2026-11-16 14:41",
-   "total": 1983
-  },
-  {
-   "date": "2026-11-16 14:42",
-   "total": 1986
-  },
-  {
-   "date": "2026-11-16 14:43",
-   "total": 1988
-  },
-  {
    "date": "2026-11-16 15:40",
    "total": 1993
-  },
-  {
-   "date": "2026-11-16 15:41",
-   "total": 1996
-  },
-  {
-   "date": "2026-11-16 15:42",
-   "total": 1996
-  },
-  {
-   "date": "2026-11-16 15:43",
-   "total": 2000
   },
   {
    "date": "2026-11-16 15:45",
@@ -16350,6 +15618,10 @@
   {
    "date": "2026-11-16 17:12",
    "total": 2105
+  },
+  {
+   "date": "2026-11-16 17:36",
+   "total": 2109
   }
  ],
  "next_week_ideas": [
