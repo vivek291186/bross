@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:10:36+05:30",
- "runs": 552,
+ "updated": "2026-11-16T16:11:13+05:30",
+ "runs": 553,
  "branches": [
   {
    "id": "platforms",
@@ -14355,11 +14355,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 473 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:51",
-   "note": "Run 474 (visual craft (Reels safe zones, on screen lettering for young readers, 4K uploads)): Meta's Reels safe zones on 1080 by 1920 leave the top 270 px and bottom 670 px for interface, with a centred safe area of about 950 by 980 px and a 3:4 grid crop; for on screen words, early readers do best with plain rounded sans serif letters, single storey a and g and sentence case; 4K uploads get YouTube's better VP9 encode. Total 1865."
+   "note": "Earlier runs summarised: all rounds through Run 474 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:51",
@@ -14672,6 +14668,10 @@
   {
    "date": "2026-11-16 16:10",
    "note": "Run 552 (TRENDS (family dance guides; no new trend this week)): No fresh family trend since this afternoon; the viral 'spider step' is a floor roll we cannot use, so only one evergreen family format was added, 'dancefloor copycats', where each person copies the moves so far and adds one new move. Playbook story rule updated with the proven missing snack mystery hook. Total 2037."
+  },
+  {
+   "date": "2026-11-16 16:11",
+   "note": "Run 553 (YouTube algorithm (news check for 9 to 16 Nov)): The only YouTube changes this week (custom feeds moved to the top bar in the US, Hype with Jewels in nine countries, video A/B tests and dynamic thumbnails) were already leaves, so no new leaves. Total 2037."
   }
  ],
  "history": [
@@ -15861,6 +15861,10 @@
   },
   {
    "date": "2026-11-16 16:10",
+   "total": 2037
+  },
+  {
+   "date": "2026-11-16 16:11",
    "total": 2037
   }
  ],
