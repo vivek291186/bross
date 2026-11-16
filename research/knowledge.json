@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:48:36+05:30",
- "runs": 424,
+ "updated": "2026-11-16T09:50:02+05:30",
+ "runs": 425,
  "branches": [
   {
    "id": "platforms",
@@ -1406,6 +1406,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 421
+    },
+    {
+     "t": "Kaspersky's 2026 Safe Kids data (worldwide, May 2025 to Apr 2026) puts YouTube at 29% of children's time in the top 25 Android apps, ahead of WhatsApp (16%), TikTok (12%), Roblox (9%) and Instagram (8%), with Spotify at only about 1%.",
+     "src": "kaspersky.com, 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 425
     }
    ]
   },
@@ -5410,6 +5417,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 410
+    },
+    {
+     "t": "In the same Kaspersky data music is the biggest YouTube search category for kids (26% of queries), the single most searched music term is 'phonk' (heavy, bass driven drift music) and the top artists are K-pop and pop acts (KATSEYE, BLACKPINK, BTS, BABYMONSTER, Sabrina Carpenter), so older kids want punchy beats and idol style energy.",
+     "src": "kaspersky.com, 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 425
     }
    ]
   },
@@ -7391,6 +7405,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 413
+    },
+    {
+     "t": "Cartoons are 53% of kids' YouTube searches for films and TV in Kaspersky's 2026 data, with indie web cartoons (Glitch Productions' shows), Cocomelon and Bluey named, and anime (One Piece, Naruto, Doraemon) another 14%, so animated series with returning characters are what children type in themselves.",
+     "src": "kaspersky.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 425
+    },
+    {
+     "t": "Kaspersky's 2026 report shows browser games (Poki, CrazyGames, Geometry Dash) and Roblox and Minecraft as the most searched game names, and MrBeast as the most searched YouTuber, so a rhythm game style 'jump on the beat' song and challenge style titles match what older kids look for.",
+     "src": "kaspersky.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 425
     }
    ]
   },
@@ -12240,10 +12268,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 05:59",
-   "note": "Run 345 (competitor deep dive (Little Angel and Friends, Little Angel Playtime)): Little Angel's side channels are sliding: Little Angel and Friends (7.3M) drew about 26M views in October and a new Wheels on the Bus vehicle song got about 3.7K views in 10 hours; Little Angel Playtime (3.24M) fell from 10.5M monthly views in August to 4.9M in October, and its newest 'eye tests are not scary' song had under 1K views in 11 hours. Both channels' all time hits are 2021 to 2022 songs about bedtime monsters, boo boos, water safety and helping parents. Total 1423."
-  },
-  {
    "date": "2026-11-16 06:00",
    "note": "Run 346 (TRENDS (Roblox co op rally, Roblox's first yearly user drop)): Roblox reported its first year on year fall in daily players (138M in Q3 2026, down 9%, hours down 15%) after age checks and chat limits, while India grew 37% and Japan 33%. Among new hits, 'Backseat Rally' (one player drives, the other calls out the road) is a gentle co op loop that maps neatly onto a call and response song. Total 1426."
   },
@@ -12558,6 +12582,10 @@
   {
    "date": "2026-11-16 09:48",
    "note": "Run 424 (algorithm experiments and data (AIR kids network cases; most were already in the tree)): Most AIR kids case studies were already in the tree; new details from the Vania Mania network case (Q4 2025): adding a Portuguese dub as an extra audio track on its best videos brought nearly 5M extra views in six months, its French channel's Suggested traffic rose 42% after thumbnail and metadata fixes, and AIR advises uploading the highest quality master files for TV placement. Total 1735."
+  },
+  {
+   "date": "2026-11-16 09:50",
+   "note": "Run 425 (topics (Kaspersky's 2026 worldwide kids search and app data)): Kaspersky's Safe Kids report 2026 (worldwide, May 2025 to Apr 2026) finds YouTube takes 29% of children's Android app time, music is the largest YouTube search category (26%) with 'phonk' the top query and girl groups like KATSEYE and BLACKPINK leading artists, and cartoons make up over half of film and TV searches on YouTube, led by Cocomelon and Bluey alongside indie web cartoons. Total 1739."
   }
  ],
  "history": [
@@ -13236,6 +13264,10 @@
   {
    "date": "2026-11-16 09:48",
    "total": 1735
+  },
+  {
+   "date": "2026-11-16 09:50",
+   "total": 1739
   }
  ],
  "next_week_ideas": [
