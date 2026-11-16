@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:44:12+05:30",
- "runs": 467,
+ "updated": "2026-11-16T11:45:19+05:30",
+ "runs": 468,
  "branches": [
   {
    "id": "platforms",
@@ -7811,6 +7811,34 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 446
+    },
+    {
+     "t": "Europe's big Christmas markets opened from 13 Nov 2026 (Vienna, Copenhagen's Tivoli and Valkenburg; Madrid from 25 Nov, Prague from 28 Nov, Rome from 1 Dec) and their child favourites are a giant lit carousel, reindeer rides, ice rinks, gingerbread hearts and nightly light shows, all easy, recognisable set pieces for a Bro Bros Christmas market song.",
+     "src": "afar.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 468
+    },
+    {
+     "t": "In Australia Christmas Day often reaches 35 to 40 degrees, so children swim in the backyard pool, run under the sprinkler or go to the beach, play backyard cricket, hang stockings on walls or under the tree because most homes have no fireplace, and leave carrots for the reindeer and cookies for Santa.",
+     "src": "brisbanekids.com.au, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 468
+    },
+    {
+     "t": "Families in Australia picnic at evening 'carols by candlelight' events with battery candles in the weeks before Christmas and many drive around to see house lights from 1 December, so a gentle candle sway carol and a 'look at the lights' car ride song both fit Southern Hemisphere December viewing.",
+     "src": "brisbanekids.com.au, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 468
+    },
+    {
+     "t": "In Italy the Befana, a kind old woman flying on a broom, fills children's stockings with sweets and toys on the night of 5 to 6 January (a lump of coal for the naughty), children leave her milk and cookies, and in Rome she appears at the Piazza Navona market, so a friendly 'Befana's broom ride' song extends Christmas content into January for Italian viewers.",
+     "src": "romeing.it, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 468
     }
    ]
   },
@@ -13004,11 +13032,7 @@
  "log": [
   {
    "date": "2026-11-16 08:49",
-   "note": "Earlier runs summarised: all rounds through Run 388 (music (where Christmas songs chart worldwide, the bilingual Feliz Navidad jump, the cosy folk lane)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 08:49",
-   "note": "Run 389 (visual craft (Christmas thumbnails, calm packaging in a dubbed kids network)): Kittl's Christmas thumbnail guide adds practical rules (three or four words, cut out the subject, soft glow or vignette for depth, no crowded layouts, check it at phone size) and AIR's Q4 2025 Vania Mania case shows calm, warm, single focus thumbnails and curiosity plus keyword titles alongside +37% views and +60% revenue on its French channel; a YouTube bug once deleted that network's dubbed audio tracks. Total 1621."
+   "note": "Earlier runs summarised: all rounds through Run 389 (visual craft (Christmas thumbnails, calm packaging in a dubbed kids network)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:50",
@@ -13321,6 +13345,10 @@
   {
    "date": "2026-11-16 11:44",
    "note": "Run 467 (rules and safety (UK and European under 15 and under 16 social media laws)): The UK confirmed on 15 Jun 2026 an Australia style under 16 ban expected from spring 2027 that names YouTube but plans to exempt YouTube Kids and music streaming; France passed an under 15 law on 21 Jul 2026, Greece starts in Jan 2027 and Turkey, Denmark, Spain, Austria and Poland are moving, so more child viewing will flow through YouTube Kids, parents' accounts and TVs. Total 1844."
+  },
+  {
+   "date": "2026-11-16 11:45",
+   "note": "Run 468 (topics and seasons (Befana, Australian summer Christmas, European Christmas markets)): Europe's big Christmas markets opened from 13 Nov (Vienna, Tivoli, Valkenburg) with giant carousels, reindeer rides, ice rinks and gingerbread hearts; Australian kids spend Christmas Day in 35 to 40 degree heat in pools, sprinklers and at the beach; Italy's Befana fills stockings on 5 to 6 Jan. Added a summer Christmas beach song idea. Total 1848."
   }
  ],
  "history": [
@@ -14171,9 +14199,17 @@
   {
    "date": "2026-11-16 11:44",
    "total": 1844
+  },
+  {
+   "date": "2026-11-16 11:45",
+   "total": 1848
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Christmas at the Beach! (Summer Christmas Song)",
+   "why": "Australia, New Zealand, South Africa, Brazil and Argentina spend Christmas in summer heat; the Bros swap snow for sprinklers, a sandcastle Christmas tree, a pool splash dance and carrots left out for Santa's reindeer, a fresh angle in a sea of snow songs for high RPM Australia and NZ."
+  },
   {
    "title": "My Pocket Pet! (A Little Friend Who Comes Everywhere)",
    "why": "Wearable and 'grows with you' pets top the 2026 Christmas toy lists; a song where Little Bro's tiny original pocket pet rides along to the park, the bath and bed, copying each move, gives kids a cosy companion story and a copy me dance."
@@ -14185,10 +14221,6 @@
   {
    "title": "Bro Speak! (Secret Clap Language Song)",
    "why": "GoNoodle, in 88% of US elementary schools, just ran a body percussion 'secret language' campaign (hello, yes, no, goodbye as moves); our own four gesture code (clap clap hello, pat pat yes, shake shake no, wave stomp goodbye) is a classroom friendly call and response song, all standing and in place."
-  },
-  {
-   "title": "Disco Fruit Party! (Baby Sensory Dance)",
-   "why": "Hey Bear Sensory's dancing fruit and veggie parties average about 35M views per video (Smoothie Mix 383M) with no words needed; a 10 to 20 minute Bro Bros version with smiling dancing fruit on a dark, high contrast background and a funky cumbia beat travels to every country."
   },
   {
    "title": "Defrost! (Frozen to Dancing Christmas Lights)",
