@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:53:12+05:30",
- "runs": 769,
+ "updated": "2026-11-16T23:53:51+05:30",
+ "runs": 770,
  "branches": [
   {
    "id": "platforms",
@@ -1742,6 +1742,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 760
+    },
+    {
+     "t": "A Feb 2026 industry report says YouTube reaches about 80% of US children aged 10 to 12, more than half of Gen Alpha watch it on a TV screen and 55% of parents co watch with their kids, so even older siblings of our preschool viewers are on YouTube and a family TV session is the usual setting for our songs.",
+     "src": "Advanced Television via Pulse, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 770
     }
    ]
   },
@@ -3191,6 +3198,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 758
+    },
+    {
+     "t": "Since Sep 2026 YouTube links a phone and a TV simply by being signed into the same account (no shared Wi-Fi or code needed), lets the phone push any video from its home feed to the TV through the three dot menu, and keeps the phone free for browsing Shorts while the TV plays, so a parent who sees a Bro Bros Short on their phone can send the full song to the living room TV in two taps; every Short should point to its full song.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 770
     }
    ]
   },
@@ -16458,10 +16472,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 21:57",
-   "note": "Run 691 (TRENDS (December calendar recheck: advent reveals, Jumper Day, Hanukkah)): Seasonal searches for the next four weeks (advent calendar reveal videos, Christmas Jumper Day on 10 Dec, Hanukkah from 4 Dec) confirmed dates and formats already in the tree and trend bank; no new leaves. Total 2261."
-  },
-  {
    "date": "2026-11-16 21:58",
    "note": "Run 692 (global markets (Indonesia and Latin America kids channels)): Spanish language searches (Plim Plim, El Reino Infantil 240M network) repeated the tree. New: Little Angel's Indonesian dub (14.8M subscribers, 8.9B views) now earns only about 26M views in 28 days with flat subscribers, and its all time top videos are everyday life songs (hot or cold, zoo, favourite vegetables, playground, healthy morning habits). Total 2263."
   },
@@ -16772,6 +16782,10 @@
   {
    "date": "2026-11-16 23:53",
    "note": "Run 769 (TRENDS (virlo.ai week of 16 Nov 2026 list)): Virlo's 16 Nov list has nine fresh formats, mostly adult text memes; the new kid safe one is a reach toward the camera then cut to petting a cat, added to the trend bank, while the bicep heart is now marked fading and the door slam prank is skipped. Total 2337."
+  },
+  {
+   "date": "2026-11-16 23:53",
+   "note": "Run 770 (YouTube algorithm (TV and phone handoff, living room viewing)): Satisfaction signal and CTV share items were already in the tree; new: since Sep 2026 a phone signed into the same account can push any video from its home feed to the TV with no shared Wi-Fi, which shortens the path from a Short seen on a parent's phone to the full song on the family TV. Total 2339."
   }
  ],
  "history": [
@@ -17786,6 +17800,10 @@
   {
    "date": "2026-11-16 23:53",
    "total": 2337
+  },
+  {
+   "date": "2026-11-16 23:53",
+   "total": 2339
   }
  ],
  "next_week_ideas": [
