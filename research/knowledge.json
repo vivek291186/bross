@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:55:16+05:30",
- "runs": 659,
+ "updated": "2026-11-16T19:55:53+05:30",
+ "runs": 660,
  "branches": [
   {
    "id": "platforms",
@@ -12431,6 +12431,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 602
+    },
+    {
+     "t": "All 18 posts scheduled for 16 to 18 Nov 2026 (6 songs, each as a long video, a Short and a Reel) have YouTube 'isAiGeneratedContent' and Instagram 'isAiGenerated' set to false even though the music comes from Suno; YouTube says the disclosure does not change recommendations or monetisation for animated content, so turning it on for the long videos is a free safeguard as AI scrutiny of kids content grows.",
+     "src": "Metricool schedule, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 660
+    },
+    {
+     "t": "The six songs going out 16 to 18 Nov (drum clap stomp freeze, Wiggle Bus, Dig Dig Digger, Boo Boo Bandage, Roly Poly Tomato tango, Freeze Arena) all match the playbook (action verbs, vehicles, care routines, freeze games, timestamped descriptions), but none is wintry or Christmas themed even though big channels start holiday uploads in the second half of November, so the next week should bring winter and Christmas songs forward.",
+     "src": "Metricool schedule, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 660
+    },
+    {
+     "t": "Two of the six songs scheduled 16 to 18 Nov are freeze dance songs (the drum song's statue freeze and the Freeze Arena), two days apart; freeze games are proven, but spacing look alike formats at least a week apart and giving each a clearly different hook protects us from YouTube's repetitive content checks.",
+     "src": "Metricool schedule, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 660
     }
    ]
   },
@@ -15468,11 +15489,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 580 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:52",
-   "note": "Run 581 (visual craft (colour and character appeal studies)): The Sussex baby colour study (saturated, high contrast beats pastel) and Disney Research's character proportions by age were already leaves, so no new leaves. Total 2074."
+   "note": "Earlier runs summarised: all rounds through Run 581 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:52",
@@ -15785,6 +15802,10 @@
   {
    "date": "2026-11-16 19:55",
    "note": "Run 659 (rules and monetisation (YouTube Kids AI vetting, KOSA committee step)): COPPA, KIDS Act, RPM and the 200 group AI letter were already leaves. New: replying to that letter YouTube said AI generated content on the YouTube Kids app is limited to a smaller set of vetted channels, which matters because our songs are rendered in Blender with AI assisted music and motion; and on 5 Aug 2026 Senate Commerce sent an updated KOSA plus a chatbot consent bill and an AI toy safety study to the full Senate, though nothing was law by mid November. Total 2196."
+  },
+  {
+   "date": "2026-11-16 19:55",
+   "note": "Run 660 (our results (Metricool schedule check for 16 to 18 Nov)): Analytics were already recorded today, so this round read the Metricool schedule instead: the six songs for 16 to 18 Nov (drum freeze dance, Wiggle Bus, digger, boo boo bandage, veggie tango, Freeze Arena) all follow the playbook but none is wintry or Christmas yet, every post has the YouTube and Instagram AI flags set to false although the music is made in Suno, and each song still gets a Short 5 minutes after the long video. Total 2199."
   }
  ],
  "history": [
@@ -16359,6 +16380,10 @@
   {
    "date": "2026-11-16 19:55",
    "total": 2196
+  },
+  {
+   "date": "2026-11-16 19:55",
+   "total": 2199
   }
  ],
  "next_week_ideas": [
