@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:49:21+05:30",
- "runs": 788,
+ "updated": "2026-11-17T00:50:00+05:30",
+ "runs": 789,
  "branches": [
   {
    "id": "platforms",
@@ -5655,6 +5655,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 765
+    },
+    {
+     "t": "ChuChu TV's main channel (98.2M subscribers, about 61B views) gained about 391M views in Dec 2025 but only about 286M in Oct 2026 with flat subscribers, and its newest upload (13 Nov 2026) is a 24 minute themed story compilation ('Curiosity Corner') with about 32K views in under three days, so even a giant now earns mostly from old remixed classics while new uploads start small.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 789
+    },
+    {
+     "t": "Little Angel's main English channel (7.3M subscribers) swings wildly month to month (about 125M views in Aug 2026, 14M in Sep, 26M in Oct) and showed no December lift in either of the last two years (52M in Dec 2024, 39M in Dec 2025), so for a nursery song channel Christmas songs add seasonal search traffic but do not reliably lift the whole channel; our winter plan should mix evergreen routine songs with the holiday ones.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 789
+    },
+    {
+     "t": "Little Angel's newest upload on 14 Nov 2026 is a bath time 'no no' routine song (about 17K views in 10 hours), showing the biggest nursery brands keep returning to everyday care routines (bath, bedtime, boo boos) even in mid November rather than switching fully to Christmas.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 789
     }
    ]
   },
@@ -16602,11 +16623,7 @@
  "log": [
   {
    "date": "2026-11-16 22:07",
-   "note": "Earlier runs summarised: all rounds through Run 709 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 22:07",
-   "note": "Run 710 (YouTube algorithm (satisfied watch time shift recheck)): The Shorts distribution shift reported from September 2025 (ranking by expected satisfied watch time per click) is already in the tree; no new leaves. Total 2279."
+   "note": "Earlier runs summarised: all rounds through Run 710 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:08",
@@ -16919,6 +16936,10 @@
   {
    "date": "2026-11-17 00:49",
    "note": "Run 788 (global markets (Thailand, Indonesia, Arab world)): New: Thailand's November top kids channels are Thai language versions and Thai song channels (BabyBus Thai 5.5M), Indonesia's under 16 social media ban since Mar 2026 pushes kids there to family accounts and TV, and Arab preschool hits use local dialect rhymes; Saudi Kaspersky data was 2023 and global. Total 2358."
+  },
+  {
+   "date": "2026-11-17 00:50",
+   "note": "Run 789 (competitor deep dive (ChuChu TV and Little Angel main channels)): ChuChu TV's main channel fell from about 391M monthly views (Dec 2025) to 286M (Oct 2026) and now uploads 24 minute themed compilations; Little Angel's channel swings from 125M to 14M a month with no December lift in two years and keeps posting routine songs like bath time in mid November. Total 2361."
   }
  ],
  "history": [
@@ -18009,6 +18030,10 @@
   {
    "date": "2026-11-17 00:49",
    "total": 2358
+  },
+  {
+   "date": "2026-11-17 00:50",
+   "total": 2361
   }
  ],
  "next_week_ideas": [
