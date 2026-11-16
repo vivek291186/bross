@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:38:07+05:30",
- "runs": 415,
+ "updated": "2026-11-16T09:39:05+05:30",
+ "runs": 416,
  "branches": [
   {
    "id": "platforms",
@@ -4227,6 +4227,41 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 404
+    },
+    {
+     "t": "LooLoo Kids, a 3D animated nursery rhyme brand, has about 62.8M subscribers and 43.2B views from only about 985 videos and still uploads (latest 13 Nov 2026), proof that a small catalogue of long compilations can build a giant channel.",
+     "src": "subsub.io, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 416
+    },
+    {
+     "t": "vidIQ's older snapshot of LooLoo Kids showed about 2 uploads a week with an average length of about 31 minutes and a low engagement rate (0.21%), the classic pattern of long, passively watched compilations.",
+     "src": "vidiq.com, Oct 2024 data",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 416
+    },
+    {
+     "t": "LooLoo runs separate channels per language (Spanish, Portuguese, Polish, French, Arabic and more); the Spanish one alone has 15.1M subscribers and about 154M views in the 28 days to 14 Nov 2026, so dedicated dub channels can grow into big channels of their own.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 416
+    },
+    {
+     "t": "LooLoo's Spanish channel gained 200K to 600K subscribers a month in early 2025 but mostly 0 to 100K a month in 2026, while views stayed around 100M to 150M a month, a sign that old rhyme channels keep views but are losing new fans.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 416
+    },
+    {
+     "t": "LooLoo's newest Spanish upload (13 Nov 2026) stacks three classic songs plus a learning tag in one title ('Los Pollitos + Rompe la Piñata + La Vaca Lechera, Animales de la Granja'), the same multi hook title stacking Cocomelon uses.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 416
     }
    ]
   },
@@ -8343,6 +8378,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 415
+    },
+    {
+     "t": "vidIQ models LooLoo's Spanish channel at only about 20K USD from about 154M monthly views (roughly 0.13 USD per 1,000), so Spanish language kids views pay several times less than English ones, though more than Bengali ones.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 416
     }
    ]
   },
@@ -11995,10 +12037,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 05:52",
-   "note": "Run 336 (other platforms (Disney+ November kids slate; our Metricool check still at 14 Nov)): Metricool still has no Reels after 14 Nov (already recorded today), so the round moved to Disney+: Gracie's Corner, the YouTube sing along brand Disney bought, got Season 2 plus a separate 'Shorts' season on 13 Nov, Disney Jr. launched Ariel 'Shorts' on 4 Nov, and a real kids Bluey cooking spin off arrives 16 Nov, so streamers now package short song clips as their own seasons. Total 1395."
-  },
-  {
    "date": "2026-11-16 05:53",
    "note": "Run 337 (TRENDS (dance circle cheer, Thanksgiving week timing)): Little new in this week's trend sources, so the round added the evergreen school 'dance circle' moment (a teacher steps into the middle of cheering pupils and dances, viral in South Africa) and set timing for gratitude formats: US Thanksgiving is Thursday 26 Nov 2026, so 'little things we love' and thank you songs should post from about 19 Nov. Total 1398."
   },
@@ -12313,6 +12351,10 @@
   {
    "date": "2026-11-16 09:38",
    "note": "Run 415 (global markets (Bengali and Pakistani kids audiences)): vidIQ shows Kids Tv Bangla at 3.69M subscribers and about 55M views a month yet only about 2,500 USD modelled monthly ad income, so Bengali views pay very little; its best recent upload is an August remake of a classic folk rhyme (68 times its usual views). Pakistan's top 100 YouTube channels by subscribers contain no kids channel at all. Total 1700."
+  },
+  {
+   "date": "2026-11-16 09:39",
+   "note": "Run 416 (competitor deep dive (LooLoo Kids and its Spanish channel)): LooLoo Kids, a 3D nursery rhyme brand close to our style, has about 62.8M subscribers and 43B views from under 1,000 videos and still uploads in Nov 2026; its Spanish channel (15.1M) drew about 154M views in 28 days but its subscriber growth slowed to 0 to 100K a month in 2026, and new uploads stack three classic songs in one title. Total 1706."
   }
  ],
  "history": [
@@ -12955,6 +12997,10 @@
   {
    "date": "2026-11-16 09:38",
    "total": 1700
+  },
+  {
+   "date": "2026-11-16 09:39",
+   "total": 1706
   }
  ],
  "next_week_ideas": [
