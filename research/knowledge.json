@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:53:56+05:30",
- "runs": 478,
+ "updated": "2026-11-16T11:54:47+05:30",
+ "runs": 479,
  "branches": [
   {
    "id": "platforms",
@@ -10443,6 +10443,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 467
+    },
+    {
+     "t": "YouTube's 16 Jul 2026 clarification gives 'an animal in distress that someone then rescues' as an example of off putting content made to upset viewers, and channels dedicated to such content are removed from the Partner Program whether or not AI is used, so Bro Bros rescue songs (kitten, jungle doctor) must show calm, gentle problems and quick happy fixes, never a suffering or scared animal in the thumbnail or opening.",
+     "src": "techcrunch.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 479
+    },
+    {
+     "t": "Because the rule judges a channel's overall pattern, rescue and doctor stories should stay a small share of each week and be mixed with dance, routine and holiday songs, so the channel never looks 'dedicated' to distress then rescue content.",
+     "src": "techcrunch.com, Jul 2026 (our reading)",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 479
+    },
+    {
+     "t": "A 2026 country table puts average RPM (creator earnings per 1,000 views) at about 10 to 12 dollars for Australia, 9 to 11 for the US, 8 to 10 for Canada, 6 to 7 for the UK and 5.50 to 6.50 for Germany, against 0.60 to 1.50 for Brazil and Mexico, 0.40 to 1 for India, 0.35 to 0.80 for Indonesia and 0.20 to 0.50 for the Philippines; kids and animation sits at about 2.50 dollars median with roughly a 1.5 times lift in Q4.",
+     "src": "videodubbing.com, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 479
     }
    ]
   },
@@ -13227,12 +13248,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:57",
-   "note": "Earlier runs summarised: all rounds through Run 399 (TRENDS (little new this week; classroom dance crazes and the 'ya ya ya' high note chant)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:58",
-   "note": "Run 400 (music (kids songs among YouTube's most viewed clips, children's Grammy themes)): Music craft research is close to saturated; new context is BonusInsider's estimate that five of YouTube's ten most viewed clips in the year to Nov 2025 were kids songs (about 84M USD in ad revenue together) and that every one of the ten most viewed videos ever is a song, while the latest children's Grammy nominees lean on story and history concepts (a magic tree house, women in history, songs across a hundred years of age). Total 1653."
+   "note": "Earlier runs summarised: all rounds through Run 400 (music (kids songs among YouTube's most viewed clips, children's Grammy themes)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:59",
@@ -13545,6 +13562,10 @@
   {
    "date": "2026-11-16 11:53",
    "note": "Run 478 (TRENDS (non English markets: Indonesia TikTok sounds, India Reels formats)): Indonesia's fastest rising November 2026 TikTok sounds are upbeat koplo and dangdut style dance tracks for group dance challenges (Singkong dan Keju up 84.5%), and in India Reels that open with a few seconds in a regional language before switching to Hindi or English are growing fastest, two localisation ideas for our Indonesian and Indian viewers. Total 1876."
+  },
+  {
+   "date": "2026-11-16 11:54",
+   "note": "Run 479 (rules and monetisation (distress then rescue content, ad rates by country)): TechCrunch's account of YouTube's 16 Jul 2026 update names 'an animal in distress that is then rescued' as an example of off putting content made to upset, and channels built on it leave the Partner Program even without AI, which matters for our rescue story songs; 2026 RPM tables put Australia and the US at about 9 to 12 dollars per 1,000 views against 0.20 to 1.50 dollars for India, Indonesia, the Philippines, Brazil and Mexico, with kids animation at about 2.50 dollars median and a 1.5 times Q4 lift. Total 1879."
   }
  ],
  "history": [
@@ -14439,6 +14460,10 @@
   {
    "date": "2026-11-16 11:53",
    "total": 1876
+  },
+  {
+   "date": "2026-11-16 11:54",
+   "total": 1879
   }
  ],
  "next_week_ideas": [
