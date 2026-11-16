@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T07:46:58+05:30",
- "runs": 365,
+ "updated": "2026-11-16T07:48:56+05:30",
+ "runs": 366,
  "branches": [
   {
    "id": "platforms",
@@ -10674,6 +10674,41 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 363
+    },
+    {
+     "t": "China's viral 'flash step' dance (from Sept 2026) comes from a Beijing Dance Academy tutorial of folk dance moves: a quick side to side dodge, a hopping kick with arms out and a vigorous 'black bear shaking fur' shake; it reached celebrities and fitness influencers worldwide.",
+     "src": "The Star / SCMP, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 366
+    },
+    {
+     "t": "Doctors in several Chinese regions treated many young people for ligament and knee injuries within days of trying the flash step, because the moves need strong core and thigh muscles, so any Bro Bros version must be a slow, standing, no kick version (sway side to side, then a happy bear shoulder wiggle).",
+     "src": "The Star / SCMP, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 366
+    },
+    {
+     "t": "In early November 2026 the number one trending video in the US was a seasonal song playlist ('Top Halloween Songs of All Time'), a sign that holiday song compilations surge in trending the moment a season starts; a Bro Bros Christmas song mix should be live by late November.",
+     "src": "Mean CEO (YouTube trends), Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 366
+    },
+    {
+     "t": "Instagram ran its year end 'Add Yours' sticker from about 16 Dec to 2 Jan last season, with New Year Restyle effects, a New Year typeface and an Edits seasonal pack, so a Bro Bros 'my favourite song of the year' Add Yours prompt in late December rides a built in Instagram feature.",
+     "src": "Inro, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 366
+    },
+    {
+     "t": "Folk dance moves travel: the flash step's appeal is that the moves have funny animal names, which kids remember; giving each Bro Bros dance step a playful name ('bear shake', 'penguin waddle', 'snowflake flutter') makes it easier to teach in a Short.",
+     "src": "The Star / SCMP, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 366
     }
    ]
   }
@@ -10702,10 +10737,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 03:42",
-   "note": "Run 287 (rules and monetisation (Malaysia under 16 ban, Ofcom vs YouTube feeds, India DPDP timeline, AI label placement)): Malaysia has enforced an under 16 ban on accounts for platforms with 8M+ users since 1 Jun 2026, YouTube included, with age checks for existing users phased over six months. Ofcom found 73% of UK 11 to 17s met harmful content in four weeks and YouTube declined to overhaul its feeds. India's DPDP rollout runs to May 2027, with DigiLocker style tokens for parental consent. YouTube's AI labels now sit on Shorts and just below the player, but animation is excluded. Total 1235."
   },
   {
    "date": "2026-11-16 03:44",
@@ -11018,13 +11049,13 @@
   {
    "date": "2026-11-16 07:46",
    "note": "Run 365 (visual craft (Blender 5.3 tools for our pipeline, song thumbnail colour data)): Blender 5.3 (10 Nov) adds three things that fit our weekly pipeline: a scene effects stack for one consistent finishing look (bloom, light grain, vignette), faster ripple editing in the Video Sequencer for long compilations, and an optional project folder with shared asset libraries to keep the Bros on model. A 3,200 thumbnail song study adds that muted palettes lose about 47% CTR and 0 to 3 words of large outlined text win most tests. Total 1515."
+  },
+  {
+   "date": "2026-11-16 07:48",
+   "note": "Run 366 (TRENDS (China's flash step folk dance, seasonal playlists, Instagram year end features)): China's 'flash step' dance (folk moves from a Beijing Dance Academy tutorial: a quick side dodge, a hopping kick and a 'black bear shaking fur' wiggle) went viral from September and sent untrained imitators to hospital, so we keep only a slow, safe bear shake version. Seasonal playlists topped US YouTube trending in early November, and Instagram's year end 'Add Yours' sticker and New Year effects ran from about 16 Dec last year. Total 1520."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:38",
-   "total": 371
-  },
   {
    "date": "2026-11-15 17:39",
    "total": 374
@@ -12220,6 +12251,10 @@
   {
    "date": "2026-11-16 07:46",
    "total": 1515
+  },
+  {
+   "date": "2026-11-16 07:48",
+   "total": 1520
   }
  ],
  "next_week_ideas": [
@@ -12298,6 +12333,12 @@
    "where": "Instagram Reels (Later, 13 Nov 2026)",
    "status": "rising",
    "use": "A 15 to 20 second Reel with five captioned clips and one line of our own Christmas waiting song each: 1 super excited jumping, 2 counting days on fingers, 3 peeking at a present, 4 flopped and tired of waiting, 5 Christmas morning cheer with arms up. Meshy prompts: standing in place, small excited hops with fists pumping; standing, counting on fingers while nodding; leaning forward slightly peeking with hand over eyes; standing, shoulders drop and arms hang loose with a big sigh; standing, both arms thrown up in a happy cheer."
+  },
+  {
+   "name": "Bear shake (safe flash step)",
+   "where": "Chinese social media, worldwide celebrity copies (Sept to Nov 2026)",
+   "status": "peak",
+   "use": "A slowed, kid safe 10 second Short to our own folk style beat: two slow side steps each way with hands up like paws, then a happy 'bear shake' wiggle of shoulders and arms, then freeze with a big bear smile; no hopping kicks or fast stops. Meshy prompt: standing in place, step side to side slowly with hands raised like paws, then shake shoulders and arms loosely in place, end in a still pose with arms out."
   },
   {
    "name": "Clap outfit switch",
@@ -12388,12 +12429,6 @@
    "where": "TikTok and Reels, costume loading format moving to Christmas",
    "status": "seasonal",
    "use": "Bros in pyjamas next to a big 'Christmas outfit loading...' bar that fills up; freeze frame, then on the first drum hit of our winter song cut to them in jumpers and Santa hats, camera tilting up from their boots, and they dance. Meshy prompt: standing still, then jump once in place and throw arms up, then march in place."
-  },
-  {
-   "name": "Snow globe shake",
-   "where": "TikTok and Reels every December (snow globe looks, Instagram Edits snow effect)",
-   "status": "seasonal",
-   "use": "Open on the Bros frozen inside a giant snow globe on a shelf; a hand gives it a shake on the first beat of our winter song, snow swirls, and the Bros spring to life and dance until the snow settles, then freeze again so the Short loops. Meshy prompt: standing still, then bounce lightly in place, sway arms side to side, then stop and hold a pose."
   },
   {
    "name": "Say the word on the beat (Christmas)",
