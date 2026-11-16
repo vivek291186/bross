@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:53:14+05:30",
- "runs": 477,
+ "updated": "2026-11-16T11:53:56+05:30",
+ "runs": 478,
  "branches": [
   {
    "id": "platforms",
@@ -13187,6 +13187,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 475
+    },
+    {
+     "t": "Indonesia's fastest rising TikTok sounds in early November 2026 include upbeat koplo and dangdut style dance tracks used for group dance challenges and togetherness videos ('Singkong dan Keju' up 84.5%, 'Negoro Angin', 'Pesta Tanpa Henti' up 73%), so an Indonesian Bro Bros version could use our own koplo flavoured beat with a simple group hip sway and hand wave.",
+     "src": "akurat.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 478
+    },
+    {
+     "t": "In India, Reels that open with a few seconds in a regional language (Tamil, Telugu, Kannada or Marathi) and then switch to Hindi or English are reported to grow faster than Hindi only content in those states, and festival windows of about 72 hours act as reach multipliers, so a short regional greeting at the start of a Hindi or English Bro Bros song could widen Indian reach.",
+     "src": "insights.vaizle.com, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 478
     }
    ]
   }
@@ -13214,11 +13228,7 @@
  "log": [
   {
    "date": "2026-11-16 08:57",
-   "note": "Earlier runs summarised: all rounds through Run 398 (Shorts and Reels (Shorts views arrive late; most Reels topics already covered)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 08:57",
-   "note": "Run 399 (TRENDS (little new this week; classroom dance crazes and the 'ya ya ya' high note chant)): No new major family trend appeared since the 16 Nov lists, so the trend bank stays as is; background finds are that teacher led school dances can become national crazes (South Africa's Amapiano 'Zep' spin with hands up, March 2026) and that kids still use the 'raise your ya ya ya' high note chant (28M likes on the original clip) as a playful 'bring your best' call. Total 1651."
+   "note": "Earlier runs summarised: all rounds through Run 399 (TRENDS (little new this week; classroom dance crazes and the 'ya ya ya' high note chant)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:58",
@@ -13531,6 +13541,10 @@
   {
    "date": "2026-11-16 11:53",
    "note": "Run 477 (competitor deep dive (Sheriff Labrador by BabyBus; Wolfoo and Friends)): Sheriff Labrador (10.9M subs, 7.8B views since Nov 2022) still gains about 100K subs and 173M views a month with safety mystery episodes; its top videos are pretend play jobs and ABC games. Wolfoo and Friends' best videos are toddler care songs (potty 26.8M, diaper change 15.7M), while its newest Shorts get only about 2K views. Total 1874."
+  },
+  {
+   "date": "2026-11-16 11:53",
+   "note": "Run 478 (TRENDS (non English markets: Indonesia TikTok sounds, India Reels formats)): Indonesia's fastest rising November 2026 TikTok sounds are upbeat koplo and dangdut style dance tracks for group dance challenges (Singkong dan Keju up 84.5%), and in India Reels that open with a few seconds in a regional language before switching to Hindi or English are growing fastest, two localisation ideas for our Indonesian and Indian viewers. Total 1876."
   }
  ],
  "history": [
@@ -14421,6 +14435,10 @@
   {
    "date": "2026-11-16 11:53",
    "total": 1874
+  },
+  {
+   "date": "2026-11-16 11:53",
+   "total": 1876
   }
  ],
  "next_week_ideas": [
@@ -14482,6 +14500,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Koplo group sway (Indonesia)",
+   "where": "TikTok and Reels Indonesia, Nov 2026",
+   "status": "rising",
+   "use": "For an Indonesian language Short with our own upbeat koplo style beat: the Bros and friends stand in a row and do a hip sway (standing in place, sway hips left and right on each beat with hands on hips, 4 seconds), then a hand wave across the body (standing, wave both hands side to side above the head, 4 seconds), then a happy clap and point to the camera; caption 'Joget bareng!' (dance together)."
+  },
   {
    "name": "Christmas jumper spin reveal",
    "where": "Reels and Shorts, UK Christmas Jumper Day 10 Dec 2026 and all December",
@@ -14595,12 +14619,6 @@
    "where": "Instagram Reels and TikTok (Inmagic 16 Nov, NewEngen 13 Nov 2026)",
    "status": "peak",
    "use": "Fixed camera on the Bros' plain living room; Little Bro shouts 'It's time!' on our own beat, a jump cut on the drum hit turns the room into a full Christmas set (tree, lights, snow at the window) and both Bros start our Christmas chorus. Same angle before and after so the cut looks magic. Meshy prompt: standing, raise both arms and shout, then bounce in place with jazz hands."
-  },
-  {
-   "name": "Five stages of waiting",
-   "where": "Instagram Reels (Later, 13 Nov 2026)",
-   "status": "rising",
-   "use": "A 15 to 20 second Reel with five captioned clips and one line of our own Christmas waiting song each: 1 super excited jumping, 2 counting days on fingers, 3 peeking at a present, 4 flopped and tired of waiting, 5 Christmas morning cheer with arms up. Meshy prompts: standing in place, small excited hops with fists pumping; standing, counting on fingers while nodding; leaning forward slightly peeking with hand over eyes; standing, shoulders drop and arms hang loose with a big sigh; standing, both arms thrown up in a happy cheer."
   }
  ]
 }
