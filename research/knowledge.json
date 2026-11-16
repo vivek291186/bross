@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:48:12+05:30",
- "runs": 726,
+ "updated": "2026-11-16T22:48:58+05:30",
+ "runs": 727,
  "branches": [
   {
    "id": "platforms",
@@ -9428,6 +9428,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 703
+    },
+    {
+     "t": "St Nicholas Eve (5 December) is a big child ritual in Germany, Austria, Switzerland and pockets of the US: kids polish their boots, set them outside the door and wake on 6 December to sweets, nuts or mandarins inside, so an early December boots and shine song fits Central Europe before Christmas songs peak.",
+     "src": "Baer shoes St Nicholas guide, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 727
+    },
+    {
+     "t": "Dutch kids media producers say traditional Sinterklaas songs are slow while children want bouncing and jumping, which is why a fast street dance Sinterklaas video passed 25M views; for any seasonal tradition, a high energy dance version can beat the classic songs (we avoid the controversial helper character entirely).",
+     "src": "Omroep Brabant (updated Oct 2025)",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 727
     }
    ]
   },
@@ -16161,11 +16175,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 647 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 18:48",
-   "note": "Run 648 (YouTube kids channels (Sierra and Rhia English uploads; Tubefilter week of 15 Nov not yet out)): Tubefilter's 15 Nov chart was not yet published. Sierra and Rhia English (15.7M subscribers, 34.2B views), No. 6 worldwide, posted nine short sister role play videos on 3 Nov alone, each titled with the sisters' names plus one kind behaviour (sharing the slide, caring for toys), and its best recent upload is a 'which one is chocolate?' guessing game; no Christmas videos yet. Total 2165."
+   "note": "Earlier runs summarised: all rounds through Run 648 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 18:48",
@@ -16478,6 +16488,10 @@
   {
    "date": "2026-11-16 22:48",
    "note": "Run 726 (visual craft (pacing and fantasy studies, Blender toon workflows)): The 2024 BMC Psychology review of 15 studies (fantasy content dips inhibitory control, pacing effects mixed) only repeats the larger meta analysis already in the tree, and Blender toon searches found nothing new; no new leaves. Total 2295."
+  },
+  {
+   "date": "2026-11-16 22:48",
+   "note": "Run 727 (topics and seasons (St Nicholas Eve boots, Sinterklaas dance songs; trends skipped after an empty trends round)): St Nicholas Eve on 5 Dec (kids polish boots for treats in Germany, Austria, Switzerland, parts of the US) was barely in the tree; Dutch producers say kids prefer bouncy seasonal dance songs to slow classics. next_week_ideas: added Shiny Boots, Stomp Stomp! in place of the summer pool idea. Total 2297."
   }
  ],
  "history": [
@@ -17320,6 +17334,10 @@
   {
    "date": "2026-11-16 22:48",
    "total": 2295
+  },
+  {
+   "date": "2026-11-16 22:48",
+   "total": 2297
   }
  ],
  "next_week_ideas": [
@@ -17334,6 +17352,10 @@
   {
    "title": "Twelve Winter Gifts (Counting Song)",
    "why": "The twelve day countdown is on kids TV this December (Apple TV's 12 Days of Snoopy special); our original cumulative counting song adds one gift and one dance move per verse, works as 12 daily Shorts from 13 to 24 Dec and as one long video, and counting songs travel across languages."
+  },
+  {
+   "title": "Shiny Boots, Stomp Stomp! (Boot Polish Night Song)",
+   "why": "On the evening of 5 December children in Germany, Austria, Switzerland and parts of the US polish their boots and set them by the door to find sweets and mandarins inside next morning; a bouncy song where the Bros scrub, shine, line up and stomp their boots gives Europe a seasonal hit for 1 to 5 Dec without naming any character, and Dutch producers note kids prefer bouncy jumping songs to the slow traditional ones."
   },
   {
    "title": "Pass the Present! (Christmas Party Game Song)",
@@ -17370,10 +17392,6 @@
   {
    "title": "Sammy the Sea Lion Says Clap!",
    "why": "Loud, clappy sea lion clips were among 2026's most loved animal videos; a copy me song where an original sea lion barks, claps and hops and the Bros and viewers copy him is a simple worldwide action song with no words needed in the hook."
-  },
-  {
-   "title": "Tiptoe, Tiptoe, Don't Splash!",
-   "why": "Kids are playing a quiet sneak through the pool game on Roblox right now; a soft and loud freeze song with tiptoes, a big splash jump and statue freezes is a party game parents can use worldwide, with our own story of the Bros crossing stepping stones to a rubber duck."
   },
   {
    "title": "The Haircut Is Not Scary",
