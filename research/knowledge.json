@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:00:31+05:30",
- "runs": 431,
+ "updated": "2026-11-16T10:01:14+05:30",
+ "runs": 432,
  "branches": [
   {
    "id": "platforms",
@@ -12361,6 +12361,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 429
+    },
+    {
+     "t": "Pinterest's weekly business trend report for 23 Oct 2026 showed searches for cold weather recipes up 200%, so warm, cosy food songs (soup, hot cocoa, porridge) ride a real seasonal search rise from late October into winter.",
+     "src": "community.pinterest.biz, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 432
+    },
+    {
+     "t": "The same report showed family Halloween crafts like ghost face pumpkin painting rising 50% in late October, a reminder that seasonal craft searches peak one to two weeks before the holiday, so our Christmas craft and decorating songs should be live by early December, not Christmas week.",
+     "src": "community.pinterest.biz, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 432
     }
    ]
   }
@@ -12386,10 +12400,6 @@
   "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
  ],
  "log": [
-  {
-   "date": "2026-11-16 06:36",
-   "note": "Run 352 (TRENDS (Christmas switch, Chipmunks group dance, Advent calendar season)): This week's top Reels are the fixed spot 'It's time' Christmas switch, 'zoom in' hidden messages and then and now remakes, and NewEngen's 13 Nov list adds a family friendly Chipmunks group routine (jumps, kicks, spins to a sped up track). Google's holiday report shows Advent calendar videos peak in November (about 280M views in Nov 2025), so an Advent countdown series should start before 1 Dec. Total 1449."
-  },
   {
    "date": "2026-11-16 06:38",
    "note": "Run 353 (music craft (song rituals, Suno Studio 2.0 editing)): Most music science found this round was already in the tree, so the new learnings are practical: Ms Rachel's appeal rests on a fixed opening and closing plus pauses for the child to answer, Suno Studio 2.0 (Premier plan) lets us fix single notes with MIDI instead of regenerating, and parents often exclude kids' playlists from their Spotify taste profile. The 69th Grammy nominations land today, 16 Nov. Total 1452."
@@ -12705,6 +12715,10 @@
   {
    "date": "2026-11-16 10:00",
    "note": "Run 431 (YouTube kids channels (Gracie's Corner's catalogue and Disney roll out; our own data already checked this run)): Disney's Gracie's Corner deal (premiere 15 Jun 2026 on Disney+ and Disney Jr.) packaged the YouTube catalogue as 120+ short sing along videos and 18 themed compilations, with 68 shorts and 7 compilations in the first drop, from a channel of only about 300 videos; the brand also toured the US with Live Nation, the path from YouTube songs to TV and live shows. Total 1756."
+  },
+  {
+   "date": "2026-11-16 10:01",
+   "note": "Run 432 (TRENDS (Pinterest weekly trend signals; quiet week for new formats)): Pinterest's weekly business trend report (23 Oct 2026) showed cold weather recipes up 200%, a sign that cosy soup and warm food themes rise into winter, which fits our 18 Nov veggie soup song; no new kid friendly Reels or TikTok formats appeared beyond those already in the trend bank, and Pinterest holiday data online for this season is not yet published. Total 1758."
   }
  ],
  "history": [
@@ -13411,6 +13425,10 @@
   {
    "date": "2026-11-16 10:00",
    "total": 1756
+  },
+  {
+   "date": "2026-11-16 10:01",
+   "total": 1758
   }
  ],
  "next_week_ideas": [
