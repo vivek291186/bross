@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:04:32+05:30",
- "runs": 540,
+ "updated": "2026-11-16T16:05:18+05:30",
+ "runs": 541,
  "branches": [
   {
    "id": "platforms",
@@ -8441,6 +8441,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 510
+    },
+    {
+     "t": "Macy's Top Toys of 2026 (20 Oct) and ConsumerAffairs' early hot list (9 Nov) are dominated by characters plus three kid play themes: animals that transform (a rolling kitten that becomes a lion or a fox, a hatching dinosaur friend), digital pets that unlock new creatures, and music toys (a singing doll, a toy rock guitar, an audio story box).",
+     "src": "Today and ConsumerAffairs, Oct to Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 541
     }
    ]
   },
@@ -14257,11 +14264,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 461 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:36",
-   "note": "Run 462 (visual craft (Christmas story pacing and lighting, Blender 5.2 speed tips; thumbnail study already covered)): A worked AI Christmas story example uses 39 scenes in about 4 minutes (a new shot every 6 seconds), narration in only a quarter of them, and cold midnight blue against warm gold light; Blender 5.2 EEVEE renders instance heavy scenes (snowy forests, ornaments) up to 2 times faster. Total 1834."
+   "note": "Earlier runs summarised: all rounds through Run 462 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:39",
@@ -14574,6 +14577,10 @@
   {
    "date": "2026-11-16 16:04",
    "note": "Run 540 (TRENDS (India Reels and Shorts this week: Sheru Bhai AI lion)): New this week: 'Sheru Bhai', an AI made upright lion in sunglasses and designer clothes posing beside people in 'photo with me' Reels and Shorts, rose in India from about 6 Nov with search interest still climbing on 15 Nov; we can borrow the cool animal sidekick pose format with our own lion friend, minus the gold chain and luxury flexing. Anijam's 4 Nov list confirms Dame Hombro as the one November dance that suits animated characters. Total 2023."
+  },
+  {
+   "date": "2026-11-16 16:05",
+   "note": "Run 541 (topics and seasons (holiday 2026 toy lists from ConsumerAffairs and Macy's; algorithm skipped as rechecked 35 minutes earlier)): Nostalgia toys and K pop doll items were already leaves; new detail: this year's hot toy lists lean on animals that change into other animals (a rolling kitten that becomes a lion or a fox), digital pets that unlock new characters, and music toys (a singing doll, a toy rock guitar), which point to transformation and band play song themes. Total 2024."
   }
  ],
  "history": [
@@ -15716,9 +15723,17 @@
   {
    "date": "2026-11-16 16:04",
    "total": 2023
+  },
+  {
+   "date": "2026-11-16 16:05",
+   "total": 2024
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Kitten, Kitten, ROAR! (The Changing Animal Song)",
+   "why": "Holiday 2026 toy lists favour animals that transform; each verse a small animal (kitten, puppy, chick) spins and becomes a big one (lion, wolf, eagle) with a dance move kids copy, an original song for every country."
+  },
   {
    "title": "Wobble Wobble, I Can Ride My Bike",
    "why": "Kids Funny Songs' bike riding song pulled about 1K views an hour in its first days and its biggest hits are single everyday moment songs; ours shows a Bro wobbling, falling, trying again with a helmet and finally riding, an original song for every country."
@@ -15770,10 +15785,6 @@
   {
    "title": "Dear Santa, Here's Our List! (Kind Wishes Song)",
    "why": "'Dear Santa' list Reels are trending and 86% of holiday buying happens before December; a Christmas song in G major at about 115 BPM with sleigh bells where each verse is a kind wish (a snowman friend, socks for Grandpa, a dance party for all)."
-  },
-  {
-   "title": "Is It Christmas Yet? (The Waiting Song)",
-   "why": "The '5 stages of being...' Reel format is rising (Later, 13 Nov 2026) and every child knows the long wait for Christmas; a funny countdown song with five verses (excited, counting, peeking, sleepy, Christmas morning) gives a long video plus a ready made five stages Reel."
   }
  ],
  "trend_bank": [
