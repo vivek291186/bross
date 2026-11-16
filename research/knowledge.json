@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:51:22+05:30",
- "runs": 335,
+ "updated": "2026-11-16T05:52:43+05:30",
+ "runs": 336,
  "branches": [
   {
    "id": "platforms",
@@ -1175,6 +1175,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 327
+    },
+    {
+     "t": "Disney+ added Gracie's Corner Season 2 and a separate 'Gracie's Corner: Shorts' Season 2 on 13 Nov 2026, so a YouTube born sing along brand now ships both full episodes and short song clips as streaming seasons; Bro Bros Shorts grouped into themed sets would be ready for that kind of deal later.",
+     "src": "Scary Mommy, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 336
+    },
+    {
+     "t": "Disney Jr. premiered 'Ariel: Dolphin Cove Tales: Shorts' on Disney+ on 4 Nov 2026, more proof that streamers now copy YouTube's short episode format for preschoolers.",
+     "src": "Scary Mommy, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 336
+    },
+    {
+     "t": "'Bluey Fancy Restaurant' (Disney+, 16 Nov 2026) is a live action spin off where real children cook, decorate and plan a special dinner for their parents, a sign that kids love 'we surprise our parents' missions, a good song topic for the Bros.",
+     "src": "Scary Mommy, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 336
     }
    ]
   },
@@ -6089,6 +6110,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 333
+    },
+    {
+     "t": "Disney+'s November 2026 family slate leans on 'save Christmas' and holiday specials (A Proud Family Wizmas, where Penny accidentally ruins Christmas and must save it, on 14 Nov; a Sofia the First holiday special on 26 Nov; Mickey's Home Alone on 27 Nov), confirming the save Christmas arc is this season's strongest family story shape.",
+     "src": "Scary Mommy, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 336
     }
    ]
   },
@@ -9836,10 +9864,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:54",
-   "note": "Run 257 (music craft (holiday listening calendar, original holiday songs that last)): Spotify data via Digital Music News shows holiday streaming first jumps around 1 Sep, rises again in October (US holiday playlist creation up 60% year on year) and peaks through November, with 20 of the top 25 global tracks festive by the second week of December. A modern original, Sia's 'Snowman', passed 1.3B plays, proof a new holiday song can become a yearly standard. Total 1127."
-  },
-  {
    "date": "2026-11-16 01:55",
    "note": "Run 258 (visual craft (real versus cartoon attention, uncanny faces, tool updates)): An Oxford Brookes eye tracking study of 70+ two and three year olds found they looked longer at a real person placed in a cartoon scene, and a Carnegie Mellon study found more time on a near real virtual face went with higher creepiness ratings, so stylised faces stay safest. Meshy's changelog has no new animation features since Text to Motion arrived in July 2026. Total 1130."
   },
@@ -10150,16 +10174,16 @@
   {
    "date": "2026-11-16 05:51",
    "note": "Run 335 (rules and safety (EU Digital Fairness Act proposal, Ofcom and YouTube feeds)): The EU Commission proposed the Digital Fairness Act on 11 Nov 2026: bans on dark patterns, limits on personalised ads and prices for minors, clear influencer disclosure, the right to switch off addictive features and fines up to 6% of turnover; it now goes to Parliament and Council. In the UK, YouTube declined Ofcom's call to overhaul its recommendation feeds in May, while Ofcom found 73% of 11 to 17 year olds met harmful content in four weeks. Total 1391."
+  },
+  {
+   "date": "2026-11-16 05:52",
+   "note": "Run 336 (other platforms (Disney+ November kids slate; our Metricool check still at 14 Nov)): Metricool still has no Reels after 14 Nov (already recorded today), so the round moved to Disney+: Gracie's Corner, the YouTube sing along brand Disney bought, got Season 2 plus a separate 'Shorts' season on 13 Nov, Disney Jr. launched Ariel 'Shorts' on 4 Nov, and a real kids Bluey cooking spin off arrives 16 Nov, so streamers now package short song clips as their own seasons. Total 1395."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:57",
-   "total": 252
   },
   {
    "date": "2026-11-15 16:57",
@@ -11352,6 +11376,10 @@
   {
    "date": "2026-11-16 05:51",
    "total": 1391
+  },
+  {
+   "date": "2026-11-16 05:52",
+   "total": 1395
   }
  ],
  "next_week_ideas": [
