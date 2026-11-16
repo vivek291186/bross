@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:53:05+05:30",
- "runs": 734,
+ "updated": "2026-11-16T22:53:36+05:30",
+ "runs": 735,
  "branches": [
   {
    "id": "platforms",
@@ -1728,6 +1728,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 734
+    },
+    {
+     "t": "Metricool's 2026 short video benchmark of about 375,000 accounts found TikTok brings the most views per video for every account size under 1M followers, while Instagram Reels lead on shares and comments in every size band (medium accounts average about 21 comments per Reel, roughly four times YouTube Shorts), so Reels are where parents share and talk and TikTok is where small accounts get reach.",
+     "src": "Metricool short video benchmarks, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 735
     }
    ]
   },
@@ -16238,11 +16245,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 655 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:47",
-   "note": "Run 656 (global markets (Korea early English demand, Ukraine kids language shift)): Dubbing, MENA, India and Brazil findings were already in the tree. New: a Korean government institute survey of 13,241 under 6s found 14.6% take private English lessons and 85.7% of intensive half day academy pupils attend English immersion preschools, a strong market for clear English kids songs; and Ukraine's kids segment is the only one of 15 YouTube niches where the local language share fell (2024 to 2026), driven by one Russian language kids channel, showing how a single strong kids channel can shift a whole market. Total 2188."
+   "note": "Earlier runs summarised: all rounds through Run 656 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:53",
@@ -16555,6 +16558,10 @@
   {
    "date": "2026-11-16 22:53",
    "note": "Run 734 (YouTube algorithm and TV viewing (TVision attention panel)): TVision's panel shows mid and long videos fill about two thirds of YouTube TV sessions, short form about 17%, and music is the least watched with eyes on screen; Precise TV and the Shorts on TV hours were already in the tree. Total 2306."
+  },
+  {
+   "date": "2026-11-16 22:53",
+   "note": "Run 735 (Shorts and Reels (Metricool short video benchmark by account size)): Metricool's study of about 375,000 accounts ranks TikTok first for views below 1M followers and Instagram first for shares and comments in every tier; other Reels statistics pages repeated known figures. Total 2307."
   }
  ],
  "history": [
@@ -17429,6 +17436,10 @@
   {
    "date": "2026-11-16 22:53",
    "total": 2306
+  },
+  {
+   "date": "2026-11-16 22:53",
+   "total": 2307
   }
  ],
  "next_week_ideas": [
