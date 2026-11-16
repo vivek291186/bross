@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:05:02+05:30",
- "runs": 749,
+ "updated": "2026-11-16T23:05:46+05:30",
+ "runs": 750,
  "branches": [
   {
    "id": "platforms",
@@ -12571,6 +12571,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 749
+    },
+    {
+     "t": "Reporting by The 74 and Undark (Mar 2026) found mass AI kids channels posting about 50 videos a day with unsafe scenes (whole grapes, honey for babies, children unbuckled in cars) and teaching errors hidden midway through (consonants shown as vowels, misspelled states), and YouTube acted on at least seven such channels, terminating two, so every Bro Bros song needs a full watch check for safe behaviour and correct facts, not just a look at the opening.",
+     "src": "Undark / The 74, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 750
     }
    ]
   },
@@ -16301,11 +16308,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 670 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 20:37",
-   "note": "Run 671 (rules and safety (UK may widen under 16 ban to YouTube Kids)): Most rules searches (COPPA, DPDP, AI slop, Q4 RPM, Digital Fairness Act) returned items already in the tree. New: the UK is weighing widening its under 16 ban to recommendation services including YouTube Kids and Spotify, with a bill due in December, and Monterey Bay Aquarium launched a YouTube Kids channel built on five short named segments. Total 2222."
+   "note": "Earlier runs summarised: all rounds through Run 671 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 20:37",
@@ -16618,6 +16621,10 @@
   {
    "date": "2026-11-16 23:05",
    "note": "Run 749 (visual craft and trust (AI slop guide for parents; music skipped as just checked)): ZERO TO THREE's May 2026 guide lists the signs parents use to spot AI slop (repetitive, generic songs, shallow facts, no clear creator, loud surprises) and its E-AIMS test; Azaria found 65.7% of parents trust a brand less when content looks AI made. Total 2315."
+  },
+  {
+   "date": "2026-11-16 23:05",
+   "note": "Run 750 (rules and safety (AI kids video errors; topics skipped after thin toy trend results)): Undark and The 74 documented AI kids channels at about 50 uploads a day with unsafe modelling and hidden teaching errors, after which YouTube acted on at least seven channels; toy trend searches added nothing new. Total 2316."
   }
  ],
  "history": [
@@ -17552,6 +17559,10 @@
   {
    "date": "2026-11-16 23:05",
    "total": 2315
+  },
+  {
+   "date": "2026-11-16 23:05",
+   "total": 2316
   }
  ],
  "next_week_ideas": [
