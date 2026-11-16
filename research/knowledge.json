@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:54:05+05:30",
- "runs": 495,
+ "updated": "2026-11-16T12:55:19+05:30",
+ "runs": 496,
  "branches": [
   {
    "id": "platforms",
@@ -7125,27 +7125,6 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 486
-    },
-    {
-     "t": "Small 3D kids teams now report very fast output with real time engines: the solo creator of Silly Crocodile makes an episode in a few days and the four person BellyFant team says one artist can finish 8 to 10 shots a day, a useful benchmark for keeping 14 songs a week sustainable.",
-     "src": "Unreal Engine spotlight, Apr 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 486
-    },
-    {
-     "t": "Nickelodeon's Max and the Midknights only storyboarded shots that were already locked in a rough edit, which cut waste; for Bro Bros, cut a rough animatic to the Suno track first and only animate and render the shots that survive that edit.",
-     "src": "Unreal Engine spotlight, Apr 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 486
-    },
-    {
-     "t": "Yuki 7's team built water splash effects once and reused them automatically across shots instead of hand animating each one; a small kit of reusable Blender effects (confetti burst, snow puff, sparkle trail, bubble pop) can be dropped onto every song's big moments.",
-     "src": "Unreal Engine spotlight, Apr 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 486
     }
    ]
   },
@@ -13544,6 +13523,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 493
+    },
+    {
+     "t": "The fastest growing new Roblox game in early November 2026 is DONT SPLASH (about 97K players at once on 2 Nov): players tiptoe through a flooded pool maze without making a splash, so a 'tiptoe, tiptoe, don't splash' quiet then loud freeze song taps a game kids are playing right now (our own idea, no game names or logos).",
+     "src": "GGRecon, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 496
+    },
+    {
+     "t": "Two more of November's fastest growing new Roblox games are about eggs and pets (smash eggs to find rare animals; disguise yourself as an egg), so egg hatching surprises with a cute animal reveal remain a top kid fantasy alongside the hatching toys on Christmas lists.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 496
+    },
+    {
+     "t": "Cat Battles, a new Roblox hit in Nov 2026, has players as cats in sumo style ring matches pushing each other out, so a gentle 'kitty push' party game dance (soft hip bump, both stay standing, everyone laughs) fits what kids find funny now.",
+     "src": "GGRecon, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 496
     }
    ]
   }
@@ -13571,11 +13571,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 416 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:40",
-   "note": "Run 417 (TRENDS (Christmas AI template trends: holiday defrost, elf workshop dance, mini me; Revid TikTok format data)): Dromana's Christmas TikTok guide (updated 7 Nov) lists a 'holiday defrost' reveal, Santa photobomb selfies, a mini me climbing out of a phone, moving snow angels, reindeer rides and a goofy elf workshop dance; Revid's study of 176K TikToks finds challenges and animal clips get about twice the median views of one person talking. Also removed two leaves from run 414 (turkey snack boards, fan wipe) that repeated older leaves. Total 1709."
+   "note": "Earlier runs summarised: all rounds through Run 417 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:41",
@@ -13851,7 +13847,7 @@
   },
   {
    "date": "2026-11-16 12:38",
-   "note": "Run 486 (visual craft (Meshy 7.1 and part edits; small team 3D pipelines)): Meshy's October 2026 prompt based part edit lets us change one region of a model (a Santa hat, a winter scarf, a new shirt colour) while keeping the rest, so seasonal outfits for the Bros stay on model; Unreal's kids animation spotlight shows solo and four person teams making a shot list in days by timing a rough edit first and reusing effects. Total 1895."
+   "note": "Run 486 (visual craft (Meshy 7.1 and part edits; small team 3D pipelines)): Meshy's October 2026 prompt based part edit lets us change one region of a model (a Santa hat, a winter scarf, a new shirt colour) while keeping the rest, so seasonal outfits for the Bros stay on model; Unreal's kids animation spotlight shows solo and four person teams making a shot list in days by timing a rough edit first and reusing effects. Total 1895. (Later in run 496: 3 of these 5 leaves merged away as true duplicates of older leaves from runs 65 and 317.)"
   },
   {
    "date": "2026-11-16 12:39",
@@ -13888,6 +13884,10 @@
   {
    "date": "2026-11-16 12:54",
    "note": "Run 495 (Shorts and Reels (Instagram Features and Series details)): Instagram's new long form 'Features' lets up to eight short Reels point to one long horizontal video but shares no ad revenue yet, and the Series profile tab for episodic Reels has been tested since spring in the US, India and Mexico, so Bro Bros can cut eight teaser Reels per compilation and group story songs as a Series when it reaches us. Total 1925."
+  },
+  {
+   "date": "2026-11-16 12:55",
+   "note": "Run 496 (TRENDS (kid game crazes: fastest growing new Roblox games, Nov 2026; toy lists already covered)): The fastest growing new Roblox games this month are a tiptoe through a pool maze without splashing game (about 97K players at once), egg smashing and pet stealing games and a cat sumo ring push game, which point to a quiet tiptoe freeze song and a gentle cat push dance for the Bros; also merged away 3 duplicate visual leaves from this run's first round. Total 1925."
   }
  ],
  "history": [
@@ -14850,9 +14850,17 @@
   {
    "date": "2026-11-16 12:54",
    "total": 1925
+  },
+  {
+   "date": "2026-11-16 12:55",
+   "total": 1925
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Tiptoe, Tiptoe, Don't Splash!",
+   "why": "Kids are playing a quiet sneak through the pool game on Roblox right now; a soft and loud freeze song with tiptoes, a big splash jump and statue freezes is a party game parents can use worldwide, with our own story of the Bros crossing stepping stones to a rubber duck."
+  },
   {
    "title": "The Haircut Is Not Scary",
    "why": "Fear calming songs about new experiences (eye test, dark room, doctor) are among the longest lasting kids hits worldwide; a Bro nervous at his first haircut, a brave counting chorus and a proud mirror dance travels to every culture."
@@ -14904,13 +14912,15 @@
   {
    "title": "Open the Door! (Advent Countdown Song)",
    "why": "Advent calendar videos peak in November on YouTube (about 280M views in Nov 2025, Google 2026 report); one song with a number in every verse and a daily door reveal can run as 24 Shorts from 1 Dec, counting practice for kids worldwide."
-  },
-  {
-   "title": "Jump, Jump, Happy New Year!",
-   "why": "New Year countdown songs peak in the last week of December worldwide; a jump on each number from 10 to 1 then a big cheer is a standing, in place party move any family can copy at midnight or at a daytime kids countdown."
   }
  ],
  "trend_bank": [
+  {
+   "name": "Tiptoe don't splash",
+   "where": "Roblox craze (DONT SPLASH), Nov 2026",
+   "status": "rising",
+   "use": "A 20 second freeze game Short to our own quiet then loud song: the Bros tiptoe in place (standing, lifting knees slowly, arms out for balance, finger on lips) while the music is soft; on the word 'SPLASH!' the music jumps and they do a big standing star jump with arms up, then freeze like statues until the soft part starts again; kids at home play along."
+  },
   {
    "name": "Animal impression hoot",
    "where": "TikTok, January 2026 family format",
@@ -15024,12 +15034,6 @@
    "where": "TikTok holiday templates (Dromana, Nov 2026)",
    "status": "seasonal",
    "use": "The Bros in our own original elf outfits (striped tights, pointed shoes, not any branded elf) dance among wrapped presents to our own toy workshop song: hammer tap with one hand, wrap a parcel with both arms in a circle, tiptoe in place, then a big jazz hands finish. Meshy prompt: standing in place, tap right fist down twice, roll both arms in a circle, small tiptoe steps on the spot, jazz hands."
-  },
-  {
-   "name": "Slow motion entrance",
-   "where": "TikTok ('Pray For Me' slow mo entrances, NewEngen Nov 2026)",
-   "status": "rising",
-   "use": "Locked wide shot of the Bro Bros playroom; one by one each character walks in from a different side in exaggerated slow motion on our own big drum hits (Little Bro with a scarf flying, the dog with ears flapping), ending in a group pose on the last beat. Meshy prompt: slow dramatic walk forward, arms swinging wide, stop and pose with both arms up."
   }
  ]
 }
