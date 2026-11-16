@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:51:24+05:30",
- "runs": 731,
+ "updated": "2026-11-16T22:52:04+05:30",
+ "runs": 732,
  "branches": [
   {
    "id": "platforms",
@@ -5522,6 +5522,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 729
+    },
+    {
+     "t": "Big kids brands run holiday crossovers as paired uploads: Blippi and the Dr Seuss channel each posted a different episode on the same day (19 Dec 2025, gingerbread houses on one channel and Christmas games on the other) so each audience is sent to the other channel; small channels can copy the idea with a friendly creator, each posting its own version of one shared song.",
+     "src": "Licensing International, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 732
     }
    ]
   },
@@ -16217,11 +16224,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 652 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:43",
-   "note": "Run 653 (music craft (2027 Grammy kids nominees)): Children's music studies and Suno v6 news were already in the tree. New today: the 2027 Grammy nominations (announced 16 Nov 2026) name five Best Children's Music Album nominees, including a bilingual family band, a hip hop mother and kids act and a Pentatonix brothers' holiday picture book plus album, and Toy Story 5's Taylor Swift song is up for Best Song Written for Visual Media. Total 2181."
+   "note": "Earlier runs summarised: all rounds through Run 653 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:44",
@@ -16534,6 +16537,10 @@
   {
    "date": "2026-11-16 22:51",
    "note": "Run 731 (rules and monetisation (Q4 RPM by month)): The Digital Fairness Act and kids live RPM gap were already in the tree; new were monthly RPM medians across 300 channels (about $2.35 Nov and $2.12 Dec against $1.56 Jan) and Kids and Teens having the second largest Q4 rise (about +22%). Total 2303."
+  },
+  {
+   "date": "2026-11-16 22:52",
+   "note": "Run 732 (YouTube main and Kids (Moonbug and CoComelon news; our results skipped as unchanged within the hour)): CoComelon's Disney+ move, movie date and spin offs were already in the tree; new was the paired holiday crossover format (one different episode on each partner channel on the same day) used by Blippi and Dr Seuss. Total 2304."
   }
  ],
  "history": [
@@ -17396,6 +17403,10 @@
   {
    "date": "2026-11-16 22:51",
    "total": 2303
+  },
+  {
+   "date": "2026-11-16 22:52",
+   "total": 2304
   }
  ],
  "next_week_ideas": [
