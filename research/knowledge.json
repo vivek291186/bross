@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:47:22+05:30",
- "runs": 470,
+ "updated": "2026-11-16T11:48:21+05:30",
+ "runs": 471,
  "branches": [
   {
    "id": "platforms",
@@ -1483,6 +1483,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 470
+    },
+    {
+     "t": "Instagram's 'Use as reference' option (three dot menu on Reels under 90 seconds, iOS first) opens the camera with the original Reel playing in a small window and a countdown, so families can copy a dance in time; Bro Bros dance Reels kept under 90 seconds with a clear, front facing, follow me routine are easy to copy and can spread through copies.",
+     "src": "metricool.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 471
+    },
+    {
+     "t": "Instagram stopped letting creators link Reels together into a series on 28 Oct 2026 and is only testing a new Series hub with a Watch Next button, so for multi part song stories we should use pinned Reels, a highlight and clear part numbers in captions rather than relying on series links.",
+     "src": "metricool.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 471
+    },
+    {
+     "t": "Edits now lets creators add a clickable link to the sound used in a Reel, so every Bro Bros Reel should carry our own named original audio (for example 'Bro Bros, Snow Is Lava') with the link on, making it easy for other families and creators to find and reuse our song rather than a copyrighted track.",
+     "src": "metricool.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 471
     }
    ]
   },
@@ -13066,12 +13087,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:51",
-   "note": "Earlier runs summarised: all rounds through Run 391 (global markets (India's Hindi rhyme giants plateau, El Reino Infantil's Spanish scale)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:52",
-   "note": "Run 392 (competitors (Super Simple Songs' steady 2026 growth, nonsense word hygiene hit, action twists on classics)): Super Simple Songs (47.3M) grew its monthly views from about 446M in February to 592M in October 2026; its newest song, a hand and face washing song with a nonsense word title, passed 915K views in nine days, its all time hits are new action twists on classics and puppet songs, and like BabyBus and Lalafun it had no Christmas upload by mid November. Total 1631."
+   "note": "Earlier runs summarised: all rounds through Run 392 (competitors (Super Simple Songs' steady 2026 growth, nonsense word hygiene hit, action twists on classics)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:53",
@@ -13384,6 +13401,10 @@
   {
    "date": "2026-11-16 11:47",
    "note": "Run 470 (other platforms (Facebook Creator Fast Track, Kidoodle.TV; Tonies already covered)): Meta's Creator Fast Track (Mar 2026) gives creators with 100K+ followers on Instagram, TikTok or YouTube instant Facebook monetisation plus 1,000 dollars a month for three months (3,000 at 1M+) for 15 Reels in 30 days on 10 different days, reposts allowed; Kidoodle.TV, a vetted kids AVOD in 160+ countries, adds 10 to 20 shows a week and wants music streams. Total 1853."
+  },
+  {
+   "date": "2026-11-16 11:48",
+   "note": "Run 471 (Shorts and Reels (new Instagram tools: Use as reference, end of Reels series linking, audio links)): Instagram ended Reels series linking on 28 Oct 2026 while testing a Series hub with Watch Next; its new 'Use as reference' camera plays any Reel under 90 seconds in a corner with a countdown so people can copy the moves, and Edits now adds clickable links to a Reel's sound. Total 1856."
   }
  ],
  "history": [
@@ -14246,6 +14267,10 @@
   {
    "date": "2026-11-16 11:47",
    "total": 1853
+  },
+  {
+   "date": "2026-11-16 11:48",
+   "total": 1856
   }
  ],
  "next_week_ideas": [
