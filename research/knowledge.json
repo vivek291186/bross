@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:00:50+05:30",
- "runs": 484,
+ "updated": "2026-11-16T12:01:26+05:30",
+ "runs": 485,
  "branches": [
   {
    "id": "platforms",
@@ -4668,6 +4668,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 480
+    },
+    {
+     "t": "Morphle TV (Moonbug's 3D magic pet cartoon) has 13.1M subscribers and 10.1B views from 2,263 videos but gained no subscribers in the 28 days to 23 Oct 2026 and drew only about 15M views a month (about 6.6K per video), its newest Shorts start at about 5K views, and all of its top 5 videos date from 2021 to 2023.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 485
+    },
+    {
+     "t": "Morphle's biggest hits are transformation and emotion hooks in the title ('Morphing Family' 41M, 'Morphle is CRYING!' 32M, 'Giant Morphle Monster' 12M), and together with Boom Buddies' flat month it shows that huge 3D libraries stall once they stop adding fresh story hooks, while newer brands with weekly new stories (Sheriff Labrador, VocaVoca) keep growing.",
+     "src": "vidiq.com, Oct to Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 485
     }
    ]
   },
@@ -13311,12 +13325,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 09:01",
-   "note": "Earlier runs summarised: all rounds through Run 405 (algorithm experiments (TRENDS skipped, last trends round found little; upload frequency studies)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 09:02",
-   "note": "Run 406 (our results (rules saturated so skipped; fresh Metricool sync: YouTube through 13 Nov, Instagram Reels halved)): Metricool's YouTube data now runs to 13 Nov: daily views were 1,386 (10 Nov), 1,296 (12 Nov) and 1,055 (13 Nov), about double the 450 to 750 a day of early November, and subscribers reached about 2,150 by 15 Nov. On Instagram the account posted 4 Reels a day from 2 to 7 Nov but only 2 a day from 9 Nov, and daily Reel views fell from about 250 to 415 to about 25 to 150. Total 1670."
+   "note": "Earlier runs summarised: all rounds through Run 406 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:03",
@@ -13629,6 +13639,10 @@
   {
    "date": "2026-11-16 12:00",
    "note": "Run 484 (TRENDS (ViralRemix 13 Nov TikTok chart; all kid safe items already in the tree)): Rechecked the 13 Nov ViralRemix chart of 50 TikTok trends; its family friendly entries (Ba Ba Ba duo, Magic Double sketch dance, Baby Doll line dance, kitten parade) were already in the tree, so no new leaves. The knowledge tree now repeats itself on most weekly sources; new trend lists are expected around 19 to 20 Nov. Total 1888."
+  },
+  {
+   "date": "2026-11-16 12:01",
+   "note": "Run 485 (competitor deep dive (Morphle TV, a Moonbug 3D pet cartoon)): Morphle TV (13.1M subs, 10.1B views, 2,263 videos) gained no subscribers in the 28 days to 23 Oct 2026 and got about 15M views a month, roughly 6.6K per video, with all top 5 videos from 2021 to 2023; together with Boom Buddies this shows once famous 3D kids libraries stalling without new hooks. Total 1890."
   }
  ],
  "history": [
@@ -14547,6 +14561,10 @@
   {
    "date": "2026-11-16 12:00",
    "total": 1888
+  },
+  {
+   "date": "2026-11-16 12:01",
+   "total": 1890
   }
  ],
  "next_week_ideas": [
