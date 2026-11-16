@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:55:19+05:30",
- "runs": 496,
+ "updated": "2026-11-16T12:56:44+05:30",
+ "runs": 497,
  "branches": [
   {
    "id": "platforms",
@@ -5942,6 +5942,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 473
+    },
+    {
+     "t": "A Japanese audio lab (Institute of Audio Communication Laboratory Chiba) released a 14 minute track for crying babies in June 2026, high music box tones over pink noise and ocean waves, that passed 3.8M views on X and drew about 350K visitors in two weeks, so a long music box plus waves version of a Bro Bros lullaby meets a real parent need.",
+     "src": "Inquirer Global Nation, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 497
+    },
+    {
+     "t": "The lab chose high pitched music box tones partly because they still sound clear through a phone speaker, a reminder to check every lullaby mix on a phone speaker where bass disappears and only the high melody carries.",
+     "src": "Inquirer Global Nation, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 497
     }
    ]
   },
@@ -13571,11 +13585,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 417 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:41",
-   "note": "Run 418 (rules (Brazil's ECA Digital child online safety law)): Brazil's ECA Digital law took effect 17 Mar 2026: platforms must avoid features that hide natural stopping points or push unrequested content, may not profile children for ads, and since June 2026 monetised content featuring real minors needs a court authorisation; our animated, voice only original characters avoid that rule, but Brazil is a top kids market so 'end of video' moments matter. Total 1713."
+   "note": "Earlier runs summarised: all rounds through Run 418 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:42",
@@ -13888,6 +13898,10 @@
   {
    "date": "2026-11-16 12:55",
    "note": "Run 496 (TRENDS (kid game crazes: fastest growing new Roblox games, Nov 2026; toy lists already covered)): The fastest growing new Roblox games this month are a tiptoe through a pool maze without splashing game (about 97K players at once), egg smashing and pet stealing games and a cat sumo ring push game, which point to a quiet tiptoe freeze song and a gentle cat push dance for the Bros; also merged away 3 duplicate visual leaves from this run's first round. Total 1925."
+  },
+  {
+   "date": "2026-11-16 12:56",
+   "note": "Run 497 (music craft (infant music studies and sleep tracks; most already in the tree)): Most music studies were already leaves; the new one is a Japanese audio lab's 14 minute crying baby track (high music box tones over soft pink noise and ocean waves) that drew 3.8M views on X and 350K site visits in two weeks in June 2026, which supports a music box plus waves calm version of our lullabies. Total 1927."
   }
  ],
  "history": [
@@ -14854,6 +14868,10 @@
   {
    "date": "2026-11-16 12:55",
    "total": 1925
+  },
+  {
+   "date": "2026-11-16 12:56",
+   "total": 1927
   }
  ],
  "next_week_ideas": [
