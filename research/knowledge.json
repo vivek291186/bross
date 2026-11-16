@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:44:03+05:30",
- "runs": 420,
+ "updated": "2026-11-16T09:45:17+05:30",
+ "runs": 421,
  "branches": [
   {
    "id": "platforms",
@@ -1385,6 +1385,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 413
+    },
+    {
+     "t": "A plain 'Musical Chairs' party game on Roblox has about 560M visits, 1.7M favourites, a peak of about 33K players at once and 8.4 minute average sessions (late 2026), proof that 'music stops, everybody stops' games still hook kids, which supports our freeze dance and musical statues songs.",
+     "src": "rotrends.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 421
+    },
+    {
+     "t": "Rapper bbno$'s charity concert on Roblox (mid 2026) reached 28M unique viewers with 8.5M watching at the peak, so music events inside kids games now draw audiences bigger than most kids TV premieres.",
+     "src": "tubefilter.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 421
+    },
+    {
+     "t": "Roblox added a library of licensed pop tracks (Teddy Swims, Alex Warren and others) to its Creator Store through the indie distributor Too Lost in July 2026, so game builders now pick soundtracks there; distributing our own songs through such a partner could one day put Bro Bros music inside kids' games.",
+     "src": "tubefilter.com, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 421
     }
    ]
   },
@@ -12142,10 +12163,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 05:56",
-   "note": "Run 341 (music craft (what makes a song sound like Christmas)): Berklee musicologist Joe Bennett's study of the 78 most streamed holiday songs found 95% in a major key, a median tempo of 115 BPM, 90% in 4/4, sleigh bells in 38% and a swing or shuffle feel in 35%; tubular bells and choirs also signal Christmas. A label's analysis of 50 years of UK Christmas No. 1s points to G major and about 114 BPM. These give a ready Suno recipe for our December songs. Total 1410."
-  },
-  {
    "date": "2026-11-16 05:57",
    "note": "Run 342 (visual craft (December thumbnails, preschool redesigns toward stylised looks)): December thumbnail advice: high contrast, one cut out subject, three or four bold words at most, a calmer layout than the crowded holiday norm and one consistent December template family; interest in Christmas YouTube climbs from late November. A preschool spin off of a famous car franchise moved from glossy realism to flatter colours, bigger eyes and rubbery motion to suit ages 2 to 6, the same direction our 3D Bros already take. Total 1413."
   },
@@ -12460,6 +12477,10 @@
   {
    "date": "2026-11-16 09:44",
    "note": "Run 420 (TRENDS (Wrapped season dates, TikTok growth chart check, adult pacifier fad skipped)): Official Charts expects Spotify Wrapped 2026 on Wednesday 2 Dec (every Wrapped since 2021 came on a Wednesday), so the 'Bro Bros Wrapped' recap Reel should be ready by 1 Dec; Tokchart's 15 Nov growth chart is still all creator original audio plus one Brazilian funk montage linked to an adult pacifier fad, which we skip. Total 1721."
+  },
+  {
+   "date": "2026-11-16 09:45",
+   "note": "Run 421 (other platforms (algorithm checked first and skipped, nothing new; Roblox music games)): Algorithm news this week (custom feeds in the top bar, Shorts originality push) was already in the tree, so the round moved to Roblox: the simple 'Musical Chairs' game has about 560M visits, a 33K player peak and 8.4 minute sessions, and bbno$'s July charity concert drew 28M unique viewers while Roblox added licensed pop tracks to its Creator Store through an indie distributor. Total 1724."
   }
  ],
  "history": [
@@ -13122,6 +13143,10 @@
   {
    "date": "2026-11-16 09:44",
    "total": 1721
+  },
+  {
+   "date": "2026-11-16 09:45",
+   "total": 1724
   }
  ],
  "next_week_ideas": [
