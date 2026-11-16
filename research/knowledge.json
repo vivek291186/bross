@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:41:05+05:30",
- "runs": 562,
+ "updated": "2026-11-16T16:41:55+05:30",
+ "runs": 563,
  "branches": [
   {
    "id": "platforms",
@@ -11759,6 +11759,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 551
+    },
+    {
+     "t": "Across our 42 Instagram Reels from 2 to 15 Nov 2026 the 3 second skip rate (40 to 100%) had almost no link to views (correlation about 0.04): Birthday Shake had 121 views with an 85% skip rate while the sandcastle story had 18 views with 100%, so with so few views per Reel, skip rate alone is not yet a reliable guide and total views plus reach should decide which hooks to repeat.",
+     "src": "Metricool (our data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 563
+    },
+    {
+     "t": "On Instagram our cartoon episode clips (Zoomy, treasure hunt, guess the sound, pressure cooker) averaged about 92 views in 2 to 8 Nov, the same as our song Reels (about 94), even though on YouTube our songs beat episodes about 3 to 1, so short funny episode moments still deserve Reel slots while YouTube long form stays song first.",
+     "src": "Metricool (our data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 563
     }
    ]
   },
@@ -14481,11 +14495,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 483 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 12:00",
-   "note": "Run 484 (TRENDS (ViralRemix 13 Nov TikTok chart; all kid safe items already in the tree)): Rechecked the 13 Nov ViralRemix chart of 50 TikTok trends; its family friendly entries (Ba Ba Ba duo, Magic Double sketch dance, Baby Doll line dance, kitten parade) were already in the tree, so no new leaves. The knowledge tree now repeats itself on most weekly sources; new trend lists are expected around 19 to 20 Nov. Total 1888."
+   "note": "Earlier runs summarised: all rounds through Run 484 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 12:01",
@@ -14798,13 +14808,13 @@
   {
    "date": "2026-11-16 16:41",
    "note": "Run 562 (rules, safety and monetisation (policy news check to 16 Nov)): No new YouTube policy, YouTube Kids or COPPA change since late October; AIR's dated 2026 policy timeline (last updated 28 Aug) and the RPM by country and Q4 figures were all already leaves, so no new leaves. Total 2055."
+  },
+  {
+   "date": "2026-11-16 16:41",
+   "note": "Run 563 (our results (fresh look at the same Metricool data, 2 to 15 Nov)): Metricool data is unchanged (YouTube to 11 Nov, Reels to 15 Nov), but a fresh analysis of 42 Reels shows skip rate has almost no link to views (correlation about 0.04), and on Instagram our cartoon episode clips did as well as our songs (about 92 versus 94 views in 2 to 8 Nov), unlike on YouTube. Total 2057."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 01:40",
-   "total": 1073
-  },
   {
    "date": "2026-11-16 01:59",
    "total": 1147
@@ -16000,6 +16010,10 @@
   {
    "date": "2026-11-16 16:41",
    "total": 2055
+  },
+  {
+   "date": "2026-11-16 16:41",
+   "total": 2057
   }
  ],
  "next_week_ideas": [
