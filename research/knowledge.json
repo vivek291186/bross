@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:03:41+05:30",
- "runs": 435,
+ "updated": "2026-11-16T10:35:52+05:30",
+ "runs": 436,
  "branches": [
   {
    "id": "platforms",
@@ -5522,6 +5522,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 434
+    },
+    {
+     "t": "A September 2026 review of infant rhythm studies reports that babies of 6 to 10 months move most regularly at about 120 BPM, two year olds can lock onto a beat between roughly 86 and 150 BPM, and only at 3 to 4 years can children follow a song that speeds up and slows down, so baby songs should stay near 120 BPM and save fast and slow games for preschool songs.",
+     "src": "lead.ube.fr (Iorio et al.), Sep 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 436
+    },
+    {
+     "t": "The same review says music with a clear embedded drum beat is more engaging for little ones than a plain click, and toddlers of 18 to 30 months keep the beat better with a real caregiver than with a robot, so our songs need a steady audible kick and our videos should show a grown up or big brother dancing along to model the beat.",
+     "src": "lead.ube.fr (Iorio et al.), Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 436
+    },
+    {
+     "t": "Babies' rhythmic movement is whole body (head, arms, torso, legs), not just hands, so dance moves for baby songs should be big simple bounces and sways that a baby can copy with the whole body.",
+     "src": "lead.ube.fr (Iorio et al.), Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 436
+    },
+    {
+     "t": "MusicClubKids, a YouTube Kids series with about 400M views in its breakout year, filled 10 of the 22 tracks on its Christmas album with sped up versions of the other 10, showing sped up edits as a cheap standard extra for kids songs; for us that means a sped up Short of each new song (a 2023 release, older evidence).",
+     "src": "shorefire.com, Nov 2023",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 436
+    },
+    {
+     "t": "The 2027 Grammy nominations, including Best Children's Music Album, are announced on 16 November 2026 at 7:45 am New York time (about 18:15 IST) with the ceremony on 7 February 2027; last year's nominees were all concept albums built around a story or theme, so a later run should check this year's list.",
+     "src": "goodmorningamerica.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 436
     }
    ]
   },
@@ -8609,6 +8644,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 430
+    },
+    {
+     "t": "A December 2025 look at Spotify Wrapped in Nigeria, Ghana, Kenya and South Africa found kids' picks (CoComelon, Pinkfong, Super Simple Songs, Wheels on the Bus, Baby Shark) became the whole household's soundtrack, used for morning prep, car rides, bath and bedtime, alongside local language lullabies, so routine songs travel well in African homes.",
+     "src": "expression.africa, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 436
     }
    ]
   },
@@ -12451,11 +12493,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Run 356 (global markets (Brazil's TIC Kids Online 2025 survey)): Brazil's national kids survey (published May 2026) shows 60% of online 9 to 17 year olds go online through the TV every day, phone ownership among 9 to 10 year olds fell from 67% to 55% in a year, and 28% first went online by age 6, so Brazil's younger kids increasingly watch on the family TV, which favours Portuguese audio tracks and long form compilations. Total 1462."
-  },
-  {
-   "date": "2026-11-16 06:42",
-   "note": "Run 357 (competitor deep dive (Super Simple's autumn uploads, Pinkfong's new formats, Blocks Universe Christmas single)): Super Simple's autumn feed is weekly Top 20 mixes near 1M views plus two Halloween live streams, with a party song ('Everybody Celebrate', 6M) as the outlier. Pinkfong is spreading past songs into 3 minute slapstick episodes (Kikipuppup, YouTube first in English, Japanese and Korean) and remixes its hit with other channels (Doggyland) and an orchestra, while the Blocks Universe released one Christmas song as a live action dance video and, a week later, an animated video. Total 1466."
+   "note": "Earlier runs summarised: 2 rounds, Run 356 (global markets (Brazil's TIC Kids Online 2025 surve... through Run 357 (competitor deep dive (Super Simple's autumn uploads..."
   },
   {
    "date": "2026-11-16 07:36",
@@ -12768,6 +12806,10 @@
   {
    "date": "2026-11-16 10:03",
    "note": "Run 435 (TRENDS (kids songs that go viral with grown ups: character relay lip syncs, cartoon dance songs, kids' own dance tracks)): Kids songs keep crossing into adult TikTok: D Billions' 'My Name Is Chicky' (four characters, one signature move each) spread as groups of four lip syncing their own part, a preschool cartoon's dance song got a joking 'artpop era' dance trend in March 2026, and an Irish kids dance club's drum and bass track became a summer anthem; a four character 'My name is...' relay went into the trend bank. Also removed a run 420 Wrapped date leaf that repeated an older one. Total 1765."
+  },
+  {
+   "date": "2026-11-16 10:35",
+   "note": "Run 436 (music craft (infant rhythm science, sped up album versions, Grammy timing)): A September 2026 review of infant rhythm research says babies of 6 to 10 months move most regularly near 120 BPM, two year olds lock onto beats between about 86 and 150 BPM, and only by 3 to 4 years can kids follow tempo changes, with a clear drum beat and a dancing grown up helping; MusicClubKids filled half of a 22 track Christmas album with sped up versions; Grammy 2027 nominations land tonight 18:15 IST. Total 1771."
   }
  ],
  "history": [
@@ -13490,6 +13532,10 @@
   {
    "date": "2026-11-16 10:03",
    "total": 1765
+  },
+  {
+   "date": "2026-11-16 10:35",
+   "total": 1771
   }
  ],
  "next_week_ideas": [
