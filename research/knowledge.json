@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:43:38+05:30",
- "runs": 382,
+ "updated": "2026-11-16T08:44:36+05:30",
+ "runs": 383,
  "branches": [
   {
    "id": "platforms",
@@ -3947,6 +3947,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 380
+    },
+    {
+     "t": "VocaVoca (US nursery songs) is 2026's breakout kids song channel: monthly views grew from about 368M in January to 1.11B in July, 1.82B in August, 2.29B in September and 2.91B in October, and subscribers from 4.9M to 10.5M.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 383
+    },
+    {
+     "t": "VocaVoca is cooling in November 2026: about 1.46B views in the 28 days to 15 Nov, roughly half its October pace, though it still adds about 1.16M subscribers a month and 300K a week (Tubefilter, week of 8 Nov), a reminder that kids song surges can halve within weeks.",
+     "src": "vidIQ and Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 383
+    },
+    {
+     "t": "VocaVoca's newest upload, 'Toothy and Tootsie Help the Toy Train Find All Colors' (14 Nov 2026, about 121K views in 11 hours), combines three proven hooks at once: named helper characters, a mission verb in the title and this season's toy train theme, plus a colours learning tag.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 383
+    },
+    {
+     "t": "VocaVoca's all time top videos are practical life skill songs from 2021 to 2022 (The Dentist Song 164M, Taking Care of Baby 68M, Police Officer Song 52M, Stranger Danger Song 42M, Buckle Up Song 37M), more proof that safety and routine songs keep earning for years.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 383
+    },
+    {
+     "t": "Pokémon Kids TV has 44.8M subscribers and gains about 1.2M a month (400K in the week of 8 Nov, #23 worldwide) yet draws only about 71M views a month, so a big brand's subscriber surge does not mean views; we should judge competitors and ourselves by monthly views and returning viewers, not subscribers.",
+     "src": "vidIQ and Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 383
     }
    ]
   },
@@ -11243,10 +11278,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:05",
-   "note": "Run 304 (TRENDS (late November returners: dancing plush animals, silent dance then random sound, holiday theme decorate reveal)): This week's trackers had nothing new beyond the trend bank, so this round looked at what ran last late November and may return: creators copying dancing plush animals or becoming a blanket puppet, dancing in silence and letting TikTok pick the sound for a replay, and labelled step by step holiday decorating ending in a before and after reveal. Two formats joined the trend bank. Total 1287."
-  },
-  {
    "date": "2026-11-16 04:06",
    "note": "Run 305 (music craft (newborn happy music, rhythm drives eye contact, predictability in kids songs)): Three studies on why simple, steady songs work: a University of Dundee study found newborns fell asleep faster and their heart rate dropped with a happy children's song but not a sad lullaby or silence; a PNAS study with 112 babies found they look at a singer's eyes in time with the beat (twice chance at 2 months, over four times at 6 months) and the effect vanishes when the rhythm is made unpredictable; a 2025 Communications Psychology paper measures how predictability shifts over time in child directed songs. Total 1290."
   },
@@ -11557,13 +11588,13 @@
   {
    "date": "2026-11-16 08:43",
    "note": "Run 382 (rules (Shorts originality ranking from 1 Oct, AI monetisation risk tiers)): Most rules topics were already covered; new is YouTube's 1 Oct 2026 change that judges Shorts originality per channel and cuts reach for channels that mainly re-upload others' clips (no warning, no status check, no recovery timeline), plus a risk ladder for AI assisted channels: AI music inside creator led videos is low risk, near identical daily uploads are medium, title swap template clones are high. Total 1592."
+  },
+  {
+   "date": "2026-11-16 08:44",
+   "note": "Run 383 (YouTube channels (our Metricool check already done today so skipped; VocaVoca's 2026 surge and cool down, Pokémon Kids TV)): VocaVoca was 2026's breakout nursery song channel, rising from about 368M views in January to 2.91B in October (5M to 10.5M subscribers), but its last 28 days fell to about 1.46B, matching its exit from the weekly top 50; its newest upload pairs a helper mission with this season's toy train theme. Pokémon Kids TV adds about 1.2M subscribers a month on only about 71M views, so big IP subscriber counts say little about views. Total 1597."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:49",
-   "total": 442
-  },
   {
    "date": "2026-11-15 18:50",
    "total": 446
@@ -12759,6 +12790,10 @@
   {
    "date": "2026-11-16 08:43",
    "total": 1592
+  },
+  {
+   "date": "2026-11-16 08:44",
+   "total": 1597
   }
  ],
  "next_week_ideas": [
