@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:56:28+05:30",
- "runs": 689,
+ "updated": "2026-11-16T21:57:07+05:30",
+ "runs": 690,
  "branches": [
   {
    "id": "platforms",
@@ -15923,11 +15923,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 610 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:06",
-   "note": "Run 611 (YouTube channels (our data skipped as unchanged; two small kids song channels)): Two small kids song channels gave nothing usable: one page had no data, and the other shows 964K subscribers but only 1.8M lifetime views built on copies of a famous shark song, a reminder to judge channels by monthly views, so no new leaves. Total 2099."
+   "note": "Earlier runs summarised: all rounds through Run 611 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:07",
@@ -16240,6 +16236,10 @@
   {
    "date": "2026-11-16 21:56",
    "note": "Run 689 (music craft (Suno Studio and genre rechecks, singing vocabulary study)): Suno Studio 2.0, v6 and global genre searches only repeated the tree. New: an October 2026 kindergarten study in Indonesia (53 children learning English through repetitive singing) found about 85% could say the colour words and about 74% the numbers one to ten, supporting colour and counting songs for non native English speaking kids. Total 2261."
+  },
+  {
+   "date": "2026-11-16 21:57",
+   "note": "Run 690 (visual craft (colour preference and CoComelon holiday rechecks)): Colour preference research (Sussex baby book study) and CoComelon holiday packaging searches only returned items already in the tree or older than 2025, so no new leaves this round. Total 2261."
   }
  ],
  "history": [
@@ -16933,6 +16933,10 @@
   },
   {
    "date": "2026-11-16 21:56",
+   "total": 2261
+  },
+  {
+   "date": "2026-11-16 21:57",
    "total": 2261
   }
  ],
