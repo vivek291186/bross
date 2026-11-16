@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:00:57+05:30",
- "runs": 404,
+ "updated": "2026-11-16T09:01:44+05:30",
+ "runs": 405,
  "branches": [
   {
    "id": "platforms",
@@ -2589,6 +2589,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 398
+    },
+    {
+     "t": "vidIQ's upload frequency study of 10.2M channels with 1,000+ subscribers (Apr 2025 to Mar 2026) found median monthly view growth of 0.53% for under 1 upload a month, 0.89% for 1 to 3, 1.32% for 4 to 7, 1.70% for 8 to 11 and 2.18% for 12 or more, and subscriber growth rising from 0% to 0.91%; frequency correlates with growth, though healthier channels may simply post more.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 405
+    },
+    {
+     "t": "OverseerOS measured 2,543 upload gaps on 53 channels (Aug 2026) and found the time since the previous upload made no clear difference to a video's chance of breaking out (about 9.5% to 12% in every gap band), so posting often does not tire out the audience or hurt each new song's chance, and a short pause does not reset a channel.",
+     "src": "OverseerOS, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 405
+    },
+    {
+     "t": "Taken together, the two 2026 frequency studies suggest Bro Bros' 14 songs a week helps channel level growth as long as each song stays distinct and well made, since breakout odds per video do not depend on cadence; quality per upload, not the gap between uploads, decides each song's reach.",
+     "src": "vidIQ and OverseerOS, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 405
     }
    ]
   },
@@ -11747,10 +11768,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 05:35",
-   "note": "Run 326 (YouTube algorithm (where subscribers really watch, notifications, payout test)): Todd Beaupre says Suggested, not the subscriptions feed, is where viewers most often watch channels they follow, and a new channel's video keeps getting impressions only while some interested audience appears; push notifications already stopped for inactive subscribers in April. SocialBee's log to 9 Nov shows no Home ranking change, but YouTube is building a watch time tool across all formats, and a 20 USD payout floor is being tested in India, the US and Indonesia. Total 1360."
-  },
-  {
    "date": "2026-11-16 05:37",
    "note": "Run 327 (Shorts and Reels (Instagram's November tests, Edits beat sync, YouTube Music AI song labels)): Instagram is testing opening the app straight to Reels, linking up to eight Reel clips to one long video and a wider Series rollout, while Edits adds beat synced effects and a desktop app with Trial Reels. YouTube Music began labelling Fully or Partly Gen AI songs on 14 Oct using partner declarations plus its own detection, which matters for our Suno songs once we distribute music. Total 1364."
   },
@@ -12061,16 +12078,16 @@
   {
    "date": "2026-11-16 09:00",
    "note": "Run 404 (competitors (CoComelon main channel in 2026, a winter 'VS' race)): CoComelon's main channel (203M subscribers) draws about 1.2B to 1.6B views a month in 2026, down from 2.18B in January, and adds about 1M subscribers every other month; its newest upload is a winter 'JJ VS Cody' ski race rather than a Christmas song, and its biggest hit, 'Humpty Dumpty Grocery Store' (1.57B), resets a classic rhyme in an everyday place. Total 1664."
+  },
+  {
+   "date": "2026-11-16 09:01",
+   "note": "Run 405 (algorithm experiments (TRENDS skipped, last trends round found little; upload frequency studies)): vidIQ's study of 10.2M channels found median monthly view growth rises with upload count, from 0.53% for under one upload a month to 2.18% for 12 or more (and subscriber growth from 0% to 0.91%), while OverseerOS found the gap before an upload does not change a video's chance to break out; so frequency helps the channel grow but each video must still earn its own reach, which suits our 14 songs a week if quality holds. Total 1667."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:06",
-   "total": 518
   },
   {
    "date": "2026-11-15 19:07",
@@ -13263,6 +13280,10 @@
   {
    "date": "2026-11-16 09:00",
    "total": 1664
+  },
+  {
+   "date": "2026-11-16 09:01",
+   "total": 1667
   }
  ],
  "next_week_ideas": [
