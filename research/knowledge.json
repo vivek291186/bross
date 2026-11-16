@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:52:33+05:30",
- "runs": 428,
+ "updated": "2026-11-16T09:53:15+05:30",
+ "runs": 429,
  "branches": [
   {
    "id": "platforms",
@@ -12312,6 +12312,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 426
+    },
+    {
+     "t": "GoNoodle, used in 88% of US public and private elementary schools, ran a 'Let's Speak Thinglish!' campaign (5 Oct to 1 Nov 2026) with a new family film: kids learn hello, goodbye, yes and no as body percussion moves and invent their own movement names, and classes compete on minutes of movement.",
+     "src": "webull.com news, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 429
+    },
+    {
+     "t": "A body percussion 'secret language' (clap clap for hello, pat pat knees for yes, a wave and a stomp for goodbye) is an easy, original Bro Bros version of that classroom trend: a 'Bro Speak' song teaching four gestures, all standing and in place.",
+     "src": "own idea from webull.com news, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 429
+    },
+    {
+     "t": "Classroom crazes spread home through call and response chants: a UK teacher wrote that her children repeated a GoNoodle chant dance at breakfast and on the school run until the whole family performed it, so our chants should have a clear 'I say, you say' part kids can teach their parents.",
+     "src": "tes.com, 2015",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 429
     }
    ]
   }
@@ -12337,10 +12358,6 @@
   "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
  ],
  "log": [
-  {
-   "date": "2026-11-16 06:02",
-   "note": "Run 349 (TRENDS (24/7 Santa workshop streams, daily December Shorts)): Families made 'North Pole Live', a looping 24/7 YouTube stream of a Santa workshop with rotating scenes and kids' voicemails, a daily December habit last year, and YouTube itself once seeded 'Shortsmas', a Short every day of December. Both point to a Bro Bros Christmas workshop 24/7 stream of our songs plus a daily December Short. The playbook now carries a Christmas song recipe and two ideas were refreshed. Total 1435."
-  },
   {
    "date": "2026-11-16 06:03",
    "note": "Run 350 (YouTube algorithm (YouTube Kids parent settings and what they do to discovery)): YouTube Kids Help says 'Approve content yourself' limits a child to parent picked videos, channels and collections (topic groups chosen by the YouTube Kids team or partners), pausing watch or search history freezes recommendations, and autoplay can be switched off separately, so collections and parent approvals are routes into the strictest households. Total 1438."
@@ -12656,6 +12673,10 @@
   {
    "date": "2026-11-16 09:52",
    "note": "Run 428 (competitor deep dive (Hey Bear Sensory)): Hey Bear Sensory has about 3.99M subscribers and 3.36B views from only 95 videos (about 35M views each), still drawing about 50M views a month while uploading less than once a month; its hits are long dancing fruit and vegetable parties with funky or cumbia music (Smoothie Mix 383M, Fruit Salad counting 334M), a baby sensory format our characters could borrow with our own dancing food friends. Total 1749."
+  },
+  {
+   "date": "2026-11-16 09:53",
+   "note": "Run 429 (TRENDS (classroom movement: GoNoodle's body percussion 'Thinglish' campaign; new December trend lists not yet published)): No December 2026 trend roundups exist yet. GoNoodle (used in 88% of US elementary schools) ran a 5 Oct to 1 Nov 'Thinglish' campaign with a new family film, teaching kids to say hello, goodbye, yes and no in body percussion and to invent movement names, and counting class minutes of movement in a contest; an old UK school craze shows such call and response chants travel from class to home. Total 1752."
   }
  ],
  "history": [
@@ -13350,6 +13371,10 @@
   {
    "date": "2026-11-16 09:52",
    "total": 1749
+  },
+  {
+   "date": "2026-11-16 09:53",
+   "total": 1752
   }
  ],
  "next_week_ideas": [
