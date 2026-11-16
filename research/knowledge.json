@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:59:48+05:30",
- "runs": 483,
+ "updated": "2026-11-16T12:00:50+05:30",
+ "runs": 484,
  "branches": [
   {
    "id": "platforms",
@@ -13311,12 +13311,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 09:00",
-   "note": "Earlier runs summarised: all rounds through Run 404 (competitors (CoComelon main channel in 2026, a winter 'VS' race)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 09:01",
-   "note": "Run 405 (algorithm experiments (TRENDS skipped, last trends round found little; upload frequency studies)): vidIQ's study of 10.2M channels found median monthly view growth rises with upload count, from 0.53% for under one upload a month to 2.18% for 12 or more (and subscriber growth from 0% to 0.91%), while OverseerOS found the gap before an upload does not change a video's chance to break out; so frequency helps the channel grow but each video must still earn its own reach, which suits our 14 songs a week if quality holds. Total 1667."
+   "note": "Earlier runs summarised: all rounds through Run 405 (algorithm experiments (TRENDS skipped, last trends round found little; upload frequency studies)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:02",
@@ -13629,6 +13625,10 @@
   {
    "date": "2026-11-16 11:59",
    "note": "Run 483 (rules and industry news (Disney characters licensed to an AI video app; Shorts length studies already covered)): Disney's three year deal (announced Dec 2025, live in 2026) licenses 200+ Disney, Pixar, Marvel and Star Wars animated characters to OpenAI's Sora video app, without actors' likeness or voices, so fans can legally make clips inside that app only; that is no permission for anyone to upload those characters elsewhere, and a flood of licensed character clips raises the bar for original characters like the Bros. Total 1888."
+  },
+  {
+   "date": "2026-11-16 12:00",
+   "note": "Run 484 (TRENDS (ViralRemix 13 Nov TikTok chart; all kid safe items already in the tree)): Rechecked the 13 Nov ViralRemix chart of 50 TikTok trends; its family friendly entries (Ba Ba Ba duo, Magic Double sketch dance, Baby Doll line dance, kitten parade) were already in the tree, so no new leaves. The knowledge tree now repeats itself on most weekly sources; new trend lists are expected around 19 to 20 Nov. Total 1888."
   }
  ],
  "history": [
@@ -14542,6 +14542,10 @@
   },
   {
    "date": "2026-11-16 11:59",
+   "total": 1888
+  },
+  {
+   "date": "2026-11-16 12:00",
    "total": 1888
   }
  ],
