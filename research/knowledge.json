@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:52:27+05:30",
- "runs": 684,
+ "updated": "2026-11-16T21:53:19+05:30",
+ "runs": 685,
  "branches": [
   {
    "id": "platforms",
@@ -5375,6 +5375,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 681
+    },
+    {
+     "t": "vidIQ's US top 100 by subscribers on 14 Nov 2026 holds about 34 kids and family channels, with three nursery rhyme music brands in the top 20 (CoComelon No. 2 at 203M, Pinkfong No. 11 at 85.4M, LooLoo Kids No. 18 at 62.8M), so music led preschool channels remain the strongest kids format on US YouTube.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 685
+    },
+    {
+     "t": "Twin brothers Lucas and Marcus sit at No. 64 in the US top 100 (about 37.2M subscribers, 14 Nov 2026), and sibling duos (Vlad and Niki, Diana and Roma) dominate the family list, which supports a brothers duo as a brand that kids worldwide relate to.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 685
     }
    ]
   },
@@ -15888,11 +15902,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 605 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:04",
-   "note": "Run 606 (TRENDS (Santa and Christmas dance virals)): No new Santa dance trend yet this season; the useful find is that a 2018 Hungarian 3D cartoon of Santa sprinting through space became a reusable caption meme in 2023 (1.5M plays in 10 days), showing that a short, over the top 3D motion clip can live on as a reaction template. Total 2095."
+   "note": "Earlier runs summarised: all rounds through Run 606 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:04",
@@ -16205,6 +16215,10 @@
   {
    "date": "2026-11-16 21:52",
    "note": "Run 684 (our results (Instagram reach halved in week two)): Metricool data to 16 Nov: our Instagram Reels averaged about 86 views each in 2 to 8 Nov but only about 43 for the English story song Reels of 9 to 15 Nov and about 22 for the Hindi Didi story Reels, a halving after the Diwali week; the Ant Parade Reel (113 views) and the Detective cookie Reel (91) were the week's exceptions. Shares stayed at zero. Total 2256."
+  },
+  {
+   "date": "2026-11-16 21:53",
+   "note": "Run 685 (YouTube main and Kids (vidIQ US top 100 on 14 Nov; trends skipped after an empty trends round)): Tubefilter's week of 15 Nov chart is still not published and the AIR and CreatorDB growth reports were already in the tree. vidIQ's US top 100 on 14 Nov 2026 has about 34 kids and family channels, with three nursery rhyme brands in the top 20 (CoComelon 2, Pinkfong 11, LooLoo 18) and a twin brothers channel (Lucas and Marcus, 37.2M) at 64. Total 2258."
   }
  ],
  "history": [
@@ -16879,6 +16893,10 @@
   {
    "date": "2026-11-16 21:52",
    "total": 2256
+  },
+  {
+   "date": "2026-11-16 21:53",
+   "total": 2258
   }
  ],
  "next_week_ideas": [
