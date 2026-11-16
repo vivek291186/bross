@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:47:12+05:30",
- "runs": 386,
+ "updated": "2026-11-16T08:47:59+05:30",
+ "runs": 387,
  "branches": [
   {
    "id": "platforms",
@@ -11332,6 +11332,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 384
+    },
+    {
+     "t": "The 'zoom in' hidden message format is in Inmagic's top 10 Reels trends for 16 Nov 2026: tiny text hides a secret that viewers zoom in to read, which makes them pause and rewatch; a kid version hides a tiny snowman or a secret word in a busy Bro Bros winter scene with the caption 'Zoom in! Can you find it?'.",
+     "src": "Inmagic, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 387
+    },
+    {
+     "t": "'Then and now' Reels (an old photo or clip, then the same pose, place or skill today, cut on a strong beat) are a top format on 16 Nov 2026; Bro Bros can show Little Bro learning a dance move clumsily 'then' and nailing it 'now', or our first song render next to today's.",
+     "src": "Inmagic, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 387
+    },
+    {
+     "t": "On 16 Nov 2026 the 'It's time' switch to Christmas is still the No. 1 Reels trend and the Dame Hombro shoulder bounce is still in the top 10, so both stay at peak for at least another week and are safe bets for this week's Shorts.",
+     "src": "Inmagic, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 387
+    },
+    {
+     "t": "Spotify Wrapped has landed between 29 Nov and 6 Dec every year since 2018 (3 Dec in 2025) and is predicted for about 2 Dec 2026; the yearly 'my top songs' recap mood that follows suits a 'Bro Bros 2026 Wrapped' Short counting down our top five songs with the signature move of each.",
+     "src": "Official Charts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 387
     }
    ]
   }
@@ -11360,10 +11388,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 04:09",
-   "note": "Run 308 (global markets (Pakistan)): Pakistan's top YouTube channels (HypeAuditor, Nov 2026) are dominated by family and Shorts creators (Ak Ultra 19M subscribers and 22.3B views, Anaya Eshaal Family 16.9M, Minsa Saim Omer 20.9B views), with story channel Geo Kahani at 7M. A small Pakistani learning channel (TinyTaleem, 145K subscribers) now gets only about 2.5K views a month, proof that old subscribers bring no views without fresh, recommended videos. Total 1299."
   },
   {
    "date": "2026-11-16 04:09",
@@ -11676,13 +11700,13 @@
   {
    "date": "2026-11-16 08:47",
    "note": "Run 386 (Shorts and Reels (2026 short video benchmarks: 14 second average Short watch, non follower share, Shorts plus long form growth)): Instagram's algorithm news was already in the tree, so this round gathered Kapwing's July 2026 short video benchmarks: the average Short is watched about 14 seconds, 74% of Shorts views and 55% of Reels views come from people who do not follow the account, and channels that combine Shorts with long videos grow about 41% faster; captions raise completion sharply. Total 1609."
+  },
+  {
+   "date": "2026-11-16 08:47",
+   "note": "Run 387 (TRENDS (zoom in hidden message, then and now, Wrapped recaps in early December)): Inmagic's 16 Nov list keeps the 'It's time' Christmas switch at No. 1 and the Dame Hombro shoulder dance in the top 10, and adds two kid usable formats: a 'zoom in' Reel hiding tiny text for viewers to find and 'then and now' clips cut on a strong beat. Spotify Wrapped is expected around 2 Dec, the start of the yearly recap trend. Total 1613."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:52",
-   "total": 457
-  },
   {
    "date": "2026-11-15 18:53",
    "total": 460
@@ -12878,6 +12902,10 @@
   {
    "date": "2026-11-16 08:47",
    "total": 1609
+  },
+  {
+   "date": "2026-11-16 08:47",
+   "total": 1613
   }
  ],
  "next_week_ideas": [
@@ -12940,6 +12968,18 @@
  ],
  "trend_bank": [
   {
+   "name": "Zoom in and find it",
+   "where": "Instagram Reels ('zoom in' hidden message, Inmagic top 10, 16 Nov 2026)",
+   "status": "rising",
+   "use": "A 10 second Reel of a busy, colourful Bro Bros winter scene (market, snowy park, toy shop) with the caption 'Zoom in! Can you find the tiny snowman?' while our own song plays; the last second zooms in to reveal it with a big 'You found it!' and the Bros wave. Encourages pauses and rewatches."
+  },
+  {
+   "name": "Bro Bros Wrapped",
+   "where": "Every platform after Spotify Wrapped (about 2 Dec 2026)",
+   "status": "seasonal",
+   "use": "Early December Short: a big countdown card 'Bro Bros 2026 Wrapped' then our top five songs of the year from 5 to 1, two seconds each with the song's signature move and a title caption, ending with both Bros saying 'Thank you for dancing with us!' and a question to parents: which was your child's favourite?"
+  },
+  {
    "name": "Holiday piano sway",
    "where": "TikTok each December (Charlie Brown party dance revival, YPulse Dec 2025)",
    "status": "seasonal",
@@ -12992,18 +13032,6 @@
    "where": "Instagram Reels and TikTok (Later 13 Nov, Inmagic 16 Nov 2026)",
    "status": "rising",
    "use": "Locked camera on the Bro Bros in the same spot; on every clap in our own song the scene cuts on the beat to a new winter outfit (scarf and hat, snowman, reindeer antlers, Santa helper), ending with both brothers in matching jumpers waving. Meshy prompt: standing in place, clap hands once in front of chest, then hold a proud pose with hands on hips."
-  },
-  {
-   "name": "Before and after build",
-   "where": "Instagram Reels (SocialPilot, Nov 2026)",
-   "status": "rising",
-   "use": "A 10 second Reel: an empty snowy garden (or bare tree) shown for one bar, then on the beat drop of our own winter song it cuts to the finished snowman (or fully decorated tree) with both Bros posing beside it, caption 'before' and 'after'. Meshy prompt: standing in place, both arms open wide in a proud 'ta da' pose, then point at the object beside you."
-  },
-  {
-   "name": "Squeaky hop routine",
-   "where": "TikTok (Chipmunks Dance, NewEngen 13 Nov 2026)",
-   "status": "rising",
-   "use": "Three friends in a row do a short routine to our own sped up, squeaky voiced chorus: hop, hop, kick right, kick left, quick turn on the spot, freeze with paws up like little chipmunks. Film wide, then a half speed 'learn it' version for kids. Meshy prompt: standing in place, two small hops, kick right foot forward, kick left foot forward, turn in place once, hold hands up by chest."
   },
   {
    "name": "Shoulder bounce (dembow style)",
