@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:39:30+05:30",
- "runs": 759,
+ "updated": "2026-11-16T23:40:29+05:30",
+ "runs": 760,
  "branches": [
   {
    "id": "platforms",
@@ -1735,6 +1735,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 759
+    },
+    {
+     "t": "Nielsen's first half 2026 US streaming ranking (Jan to Jun) had Bluey second of all titles with 22.81B minutes, SpongeBob seventh (16.89B) and PAW Patrol tenth (13.56B), and Nielsen counts a film as a kids movie when 30% or more of its minutes come from ages 2 to 11, so kids animation is now a top tier of all TV viewing, not a niche.",
+     "src": "Nielsen, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 760
     }
    ]
   },
@@ -16360,10 +16367,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 21:48",
-   "note": "Run 681 (competitor deep dive (ChuChu TV decline, Bebefinn Portuguese)): ChuChu TV's flagship fell from about 390 to 460M monthly views in 2025 to 270 to 330M in 2026 and its 7 Nov Diwali story Short drew only about 59K views in five days, while Bebefinn Portuguese (9.08M subscribers) gained about 150K subscribers and about 296M views in 28 days with roughly 20 uploads a month, its newest a 'never open the door to strangers' safety song. Super Simple Songs data was already in the tree. Total 2250."
-  },
-  {
    "date": "2026-11-16 21:50",
    "note": "Run 682 (TRENDS (SocialPilot Reels and TikTok lists, Thanksgiving, school dance offs)): SocialPilot's latest Reels and TikTok lists (to 10 Nov), Thanksgiving searches and school dance challenge searches only returned trends already in the bank (Dame Hombro, costume loading, Christmas switch, gratitude tablecloth, holiday countdowns); no new leaves. Tubefilter's week of 15 Nov chart is still not out. Total 2250."
   },
@@ -16674,6 +16677,10 @@
   {
    "date": "2026-11-16 23:39",
    "note": "Run 759 (Shorts and Reels (Reels reach data, teen and under 16 feed rules)): Reels data checks (Emplifi speech and loop figures, Reels topic controls) were already in the tree; new: California AB 1709 bans addictive feeds and autoplay for under 16s from 2027, and Meta (9 Nov 2026) widened AI age checks that move suspected teens into Teen Accounts and must build under 13 detection under a court order. Total 2323."
+  },
+  {
+   "date": "2026-11-16 23:40",
+   "note": "Run 760 (TikTok and other platforms (trends skipped after an empty trends round; Nielsen H1 2026, Netflix, Apple, Alexa)): Nielsen's H1 2026 report puts Bluey second of all US streaming titles (22.81B minutes) with SpongeBob and PAW Patrol also in the top 10; Netflix preschool, Roblox music, iTunes kids and Alexa checks were already in the tree. Total 2324."
   }
  ],
  "history": [
@@ -17648,6 +17655,10 @@
   {
    "date": "2026-11-16 23:39",
    "total": 2323
+  },
+  {
+   "date": "2026-11-16 23:40",
+   "total": 2324
   }
  ],
  "next_week_ideas": [
