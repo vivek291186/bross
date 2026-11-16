@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:10:08+05:30",
- "runs": 714,
+ "updated": "2026-11-16T22:36:07+05:30",
+ "runs": 715,
  "branches": [
   {
    "id": "platforms",
@@ -16056,11 +16056,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 635 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:52",
-   "note": "Run 636 (other platforms (iTunes kids chart, our data and algorithm rechecks)): Our Metricool data has no uploads after 11 Nov and was already recorded today, and the YouTube algorithm changes found (custom feeds, original Shorts, inauthentic content) were already leaves; the iTunes kids chart on 16 Nov is led by a gentle adult cover of a public domain lullaby, with three faith songs in its top six. Total 2133."
+   "note": "Earlier runs summarised: all rounds through Run 636 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:53",
@@ -16373,6 +16369,10 @@
   {
    "date": "2026-11-16 22:10",
    "note": "Run 714 (visual craft and packaging (Kids Diana Show title patterns and 2026 decline)): Kids Diana Show's views halved in 2026 (about 5.0B in Jan to Oct against about 10.6B a year earlier) even though its titles keep the challenge, maze and escape formats that built it, which adds to the evidence that live action kid creator channels are fading while steady animated music brands hold. Total 2280."
+  },
+  {
+   "date": "2026-11-16 22:36",
+   "note": "Run 715 (TRENDS (mid November lists, Know Your Meme, holiday dance searches)): SocialPilot, NewEngen, Know Your Meme, Daily Dot and holiday challenge searches surfaced only trends already in the bank (Peanuts holiday dance, cute little X, Winter Vibes, out of breath, Last Dance) or adult and couple trends we skip; no new leaves. Total 2280."
   }
  ],
  "history": [
@@ -17166,6 +17166,10 @@
   },
   {
    "date": "2026-11-16 22:10",
+   "total": 2280
+  },
+  {
+   "date": "2026-11-16 22:36",
    "total": 2280
   }
  ],
