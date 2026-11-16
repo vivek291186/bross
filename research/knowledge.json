@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:39:05+05:30",
- "runs": 416,
+ "updated": "2026-11-16T09:40:44+05:30",
+ "runs": 417,
  "branches": [
   {
    "id": "platforms",
@@ -11999,18 +11999,39 @@
      "run": 414
     },
     {
-     "t": "Thanksgiving 2026 food trends on TikTok include turkey shaped snack boards with crackers fanned into tail feathers, filmed overhead and sped up, which a Bro Bros fruit turkey snack song could copy on a plate of fruit for 26 Nov.",
-     "src": "newengen.com, Nov 2026",
+     "t": "A 'holiday defrost' clip (you thaw out of a block of ice as the holiday lights switch on, timed to the first Christmas song) is a named November 2026 TikTok template trend, a perfect season opener for a Bro Bros Christmas song.",
+     "src": "dromana.app, Nov 2026",
      "conf": "medium",
      "date": "2026-11-16",
-     "run": 414
+     "run": 417
     },
     {
-     "t": "The fan blade wipe transition (a fixed overhead shot where a passing fan hides an outfit change) is a current CapCut format that a Blender shot can copy easily: a spinning ceiling fan wipe that swaps the Bros from pyjamas into winter coats.",
-     "src": "newengen.com, Nov 2026",
+     "t": "Other Christmas 2026 template trends are a Santa photobomb selfie, a collectible sized 'mini me' climbing out of a phone onto a desk, a moving top down snow angel, a reindeer gallop through a snowy forest and a goofy elf workshop dance among presents.",
+     "src": "dromana.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 417
+    },
+    {
+     "t": "Revid's analysis of 176,367 TikToks with 1,000+ likes (Oct 2025 to Oct 2026) found challenge videos had the highest median views (about 182K, a quarter passed 1M), with comedy next (about 155K) and tutorials far lower (about 62K).",
+     "src": "revid.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 417
+    },
+    {
+     "t": "In the same Revid sample, animal videos reached a median of about 147K views and faceless videos about 114K, against about 67K for one person on camera, so animal friends and character led clips have an edge over talking heads.",
+     "src": "revid.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 417
+    },
+    {
+     "t": "Revid also found videos under 15 seconds earned the most shares (about 1.4 per 100 views), posts with about 4 hashtags beat none or 9 plus (77K vs 51K vs 16K median), and captions of 41 to 80 characters did best.",
+     "src": "revid.ai, Nov 2026",
      "conf": "low",
      "date": "2026-11-16",
-     "run": 414
+     "run": 417
     }
    ]
   }
@@ -12036,10 +12057,6 @@
   "Give each new song one signature 'challenge move' (sway, wave, clap, spin) simple enough for kids to copy, and teach it in a slow-motion Short."
  ],
  "log": [
-  {
-   "date": "2026-11-16 05:53",
-   "note": "Run 337 (TRENDS (dance circle cheer, Thanksgiving week timing)): Little new in this week's trend sources, so the round added the evergreen school 'dance circle' moment (a teacher steps into the middle of cheering pupils and dances, viral in South Africa) and set timing for gratitude formats: US Thanksgiving is Thursday 26 Nov 2026, so 'little things we love' and thank you songs should post from about 19 Nov. Total 1398."
-  },
   {
    "date": "2026-11-16 05:53",
    "note": "Run 338 (topics and seasons (holiday wishlists, who drives toy growth)): SuperAwesome's Holidays Unwrapped 2026 says 59% of kids' gifts are inspired online, 34% trace to a fandom, 86% of holiday buying happens before December and 70% of parents buy mainly from the child's wishlist. Circana says the toy market grew 8% to 123B USD in 2025, under 10s are still 67% of it, and developing markets grow fastest. Total 1401."
@@ -12355,6 +12372,10 @@
   {
    "date": "2026-11-16 09:39",
    "note": "Run 416 (competitor deep dive (LooLoo Kids and its Spanish channel)): LooLoo Kids, a 3D nursery rhyme brand close to our style, has about 62.8M subscribers and 43B views from under 1,000 videos and still uploads in Nov 2026; its Spanish channel (15.1M) drew about 154M views in 28 days but its subscriber growth slowed to 0 to 100K a month in 2026, and new uploads stack three classic songs in one title. Total 1706."
+  },
+  {
+   "date": "2026-11-16 09:40",
+   "note": "Run 417 (TRENDS (Christmas AI template trends: holiday defrost, elf workshop dance, mini me; Revid TikTok format data)): Dromana's Christmas TikTok guide (updated 7 Nov) lists a 'holiday defrost' reveal, Santa photobomb selfies, a mini me climbing out of a phone, moving snow angels, reindeer rides and a goofy elf workshop dance; Revid's study of 176K TikToks finds challenges and animal clips get about twice the median views of one person talking. Also removed two leaves from run 414 (turkey snack boards, fan wipe) that repeated older leaves. Total 1709."
   }
  ],
  "history": [
@@ -13001,6 +13022,10 @@
   {
    "date": "2026-11-16 09:39",
    "total": 1706
+  },
+  {
+   "date": "2026-11-16 09:40",
+   "total": 1709
   }
  ],
  "next_week_ideas": [
@@ -13062,6 +13087,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Holiday defrost",
+   "where": "TikTok AI video templates (Dromana Christmas guide, updated 7 Nov 2026)",
+   "status": "seasonal",
+   "use": "Opening shot of a winter Short: Little Bro stands frozen inside a cartoon ice block in the snowy garden; on the first note of our own Christmas song the fairy lights switch on, the ice cracks and melts away, and he shakes off the snow and starts dancing. Meshy prompt: standing still, then shiver and shake arms and shoulders, then bounce on the spot with arms up."
+  },
+  {
+   "name": "Elf workshop dance",
+   "where": "TikTok holiday templates (Dromana, Nov 2026)",
+   "status": "seasonal",
+   "use": "The Bros in our own original elf outfits (striped tights, pointed shoes, not any branded elf) dance among wrapped presents to our own toy workshop song: hammer tap with one hand, wrap a parcel with both arms in a circle, tiptoe in place, then a big jazz hands finish. Meshy prompt: standing in place, tap right fist down twice, roll both arms in a circle, small tiptoe steps on the spot, jazz hands."
+  },
   {
    "name": "Chipmunk trio dance",
    "where": "TikTok (NewEngen November 2026 list, updated 13 Nov)",
@@ -13169,18 +13206,6 @@
    "where": "Instagram Reels (NewEngen, week of 13 Nov 2026)",
    "status": "rising",
    "use": "Three one second clips: Little Bro shakes his head 'no' at bath time, 'no' at broccoli, 'no' at bedtime, each with a big 'NO' sticker; then the first beat of our own dance chorus hits, a giant 'YES!' appears and both Bros dance, held two beats longer. Under 12 seconds, loops back to the first 'no'. Meshy prompt: standing, shake head side to side with arms crossed, then throw both arms up and bounce in place."
-  },
-  {
-   "name": "It's freezing! step outside",
-   "where": "TikTok and Reels each winter (NewEngen Dec 2025)",
-   "status": "seasonal",
-   "use": "Bros open the front door in shorts, step out, freeze stiff and squeak 'FREEZING!', run back in, then dress in hat, scarf and mittens verse by verse of our own winter clothes song and step out again dancing. Meshy prompt: standing in place, shiver with arms hugging body, then jump and march in place with knees high."
-  },
-  {
-   "name": "New Year goals reveal",
-   "where": "TikTok greenscreen and Reels, late Dec to early Jan",
-   "status": "seasonal",
-   "use": "Big Bro holds up a giant checklist 'Bro Bros goals for 2027' (brush teeth, share toys, learn to swim, be kind) and each item gets a quick move on the beat of our New Year song, ticking boxes; ends on a jump and confetti. Meshy prompt: standing, point forward, nod, then jump once with arms up."
   }
  ]
 }
