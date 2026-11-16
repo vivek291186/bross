@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:01:54+05:30",
- "runs": 433,
+ "updated": "2026-11-16T10:02:39+05:30",
+ "runs": 434,
  "branches": [
   {
    "id": "platforms",
@@ -5508,6 +5508,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 425
+    },
+    {
+     "t": "Mozart Baby Bear, a classical lullaby channel with 1.92M subscribers, gets only about 4M views a month in 2026 (vidIQ models about 1,300 USD) and its newest 12 hour lullaby drew about 13K views in a month, so long generic sleep music is a crowded, low paying niche; our own lullaby should be a short character song.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 434
+    },
+    {
+     "t": "Lullaby searches favour familiar classical melodies: that channel's top video is a Brahms lullaby (about 1.6M views), far ahead of its Mozart titles, so a public domain tune parents already know is the strongest bedtime hook.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 434
     }
    ]
   },
@@ -10275,6 +10289,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 419
+    },
+    {
+     "t": "A brand new baby sensory channel (TinkaBop, 11 videos since Aug 2026, about 5K subscribers) found its short routine songs (Bath Time 18K views, Good Morning movement song 14K) beat its 48 minute sensory videos (about 110 views each) by over 100 times, a direct lesson for a small channel like ours: lead with short routine and movement songs, not long sensory compilations.",
+     "src": "outlierkit.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 434
     }
    ]
   },
@@ -12422,10 +12443,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 06:39",
-   "note": "Run 354 (visual craft (titles that win in 2026, phone size thumbnails)): vidIQ's 4M video title study shows concrete story promises such as 'turning X into Y' at about 3x average views while titles ending in a question sit 18% below; AIR's 18K channel study says numbers and question marks do little in Kids and Animation, and one relevant emoji can anchor a title. Thumbnails are judged at about 120 px wide on phones, where saturated three colour designs beat minimal ones. Total 1456."
-  },
-  {
    "date": "2026-11-16 06:40",
    "note": "Run 355 (TRENDS (Dame Hombro reaches Europe, feet up camera reveal, winter dance for January)): The Dame Hombro shoulder bounce is still on every list this week (NewEngen 13 Nov, Inmagic 16 Nov) and has spread to Spain and Italy, so it moves to peak. Fabulate's November roundup adds the feet up camera reveal, and last January's Winter Vibes routine (sway, snowflake fingers, self hug twist, spin, freeze) is a ready template for a winter dance Short in early January. Total 1459."
   },
@@ -12740,6 +12757,10 @@
   {
    "date": "2026-11-16 10:01",
    "note": "Run 433 (other platforms (smart speakers: Alexa requests; algorithm and Shorts skipped as covered)): Amazon's UK Alexa year in review (Jan to Nov 2025) had KPop Demon Hunters as the second most played artist after Taylor Swift, so a film soundtrack families love lands straight in voice requests at home; Amazon publishes these lists around 11 to 15 December, and KIDZ BOP once got an 'Alexa, play a duet' feature, showing kids music brands can win voice exposure. Total 1761."
+  },
+  {
+   "date": "2026-11-16 10:02",
+   "note": "Run 434 (music craft (sleep and sensory music channels; Christmas music craft already covered)): Classical lullaby channel Mozart Baby Bear has 1.92M subscribers but only about 4M views a month and its newest 12 hour lullaby got about 13K views in a month, a crowded niche; a brand new baby sensory channel (TinkaBop, started Aug 2026) found its short routine songs (bath time 18K, good morning movement 14K) beat its 48 minute sensory videos (about 110 views) by more than 100 times. Total 1764."
   }
  ],
  "history": [
@@ -13454,6 +13475,10 @@
   {
    "date": "2026-11-16 10:01",
    "total": 1761
+  },
+  {
+   "date": "2026-11-16 10:02",
+   "total": 1764
   }
  ],
  "next_week_ideas": [
