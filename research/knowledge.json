@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:39:52+05:30",
- "runs": 720,
+ "updated": "2026-11-16T22:40:33+05:30",
+ "runs": 721,
  "branches": [
   {
    "id": "platforms",
@@ -3142,6 +3142,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 718
+    },
+    {
+     "t": "After a catalog cleanup, a 1M subscriber Spanish kids channel went from 2.3M to 25.9M views in 30 days (+1017%, revenue +426%), more evidence that removing or fixing old videos that break kids quality rules can unlock recommendations for the whole channel.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 721
     }
    ]
   },
@@ -5480,6 +5487,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 717
+    },
+    {
+     "t": "Toy and kids channels that run several 24/7 streams can get most of their traffic from them: BIBO and Toys (12.4M subscribers, about 60 streams a month) drew 86% of traffic and 93% of revenue from streams, and Prenses MeLisa drew 93% of traffic from 4 to 8 streams while uploading less than once a month.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 721
+    },
+    {
+     "t": "Translated channel networks keep paying off for kids brands: Amelka Karamelka's translated channels hold about 436M views and over 1M subscribers, alongside Lady Diana's 52 dubbed channels.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 721
     }
    ]
   },
@@ -16119,11 +16140,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 641 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 18:41",
-   "note": "Run 642 (visual craft (character appeal factors, children's colour perception, brand short series)): A 2025 Purdue study of 60 animated clips found colour palette was the strongest driver of character appeal, then proportions; a Kyoto PNAS study found children from age 3 judge colours almost exactly like adults; LEGO and BBC Studios launched Bluey brick shorts as ten 2 minute weekly episodes in 12 languages at once, and Spin Master turned a Roblox game into a YouTube animated series. Total 2152."
+   "note": "Earlier runs summarised: all rounds through Run 642 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 18:43",
@@ -16436,6 +16453,10 @@
   {
    "date": "2026-11-16 22:39",
    "note": "Run 720 (our results (late 16 Nov data check)): Metricool still has no 16 Nov Reel or YouTube results; the latest numbers (Kitten Rescue 321 YouTube views, Ant Parade Reel 113 views, Shorts at 2 to 4 views) match leaves already in the tree. No new leaves. Total 2289."
+  },
+  {
+   "date": "2026-11-16 22:40",
+   "note": "Run 721 (YouTube main and Kids (AIR's four growth tactics, Oct 2026; trends skipped after an empty trends round)): Most of AIR's tactics were already in the tree; new were BIBO and Toys getting 86% of traffic from about 60 streams a month, Amelka Karamelka's 436M views on translated channels and a Spanish kids channel up 1017% in 30 days after a catalog cleanup. Total 2292."
   }
  ],
  "history": [
@@ -17254,6 +17275,10 @@
   {
    "date": "2026-11-16 22:39",
    "total": 2289
+  },
+  {
+   "date": "2026-11-16 22:40",
+   "total": 2292
   }
  ],
  "next_week_ideas": [
