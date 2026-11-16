@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:51:44+05:30",
- "runs": 791,
+ "updated": "2026-11-17T00:52:27+05:30",
+ "runs": 792,
  "branches": [
   {
    "id": "platforms",
@@ -13411,6 +13411,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 768
+    },
+    {
+     "t": "Across our 42 Instagram Reels of 2 to 15 Nov 2026 the skip rate (viewers gone before 3 seconds) averaged about 73 to 77% for every format (songs, Zoomy episode clips, English story songs, Hindi Didi stories) and had almost no link to views, so three in four viewers leave in the first 3 seconds whatever we post; the opening frame and first sound, not the format, are our biggest Reel weakness.",
+     "src": "Metricool Instagram Reels, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-17",
+     "run": 792
+    },
+    {
+     "t": "Our powerful Diwali rock song Reel (8 Nov, dhol, guitars and fireworks) held an average of about 20 seconds per view on 115 views, five times our usual 3 to 5 seconds, and the Space Bus story song (11 Nov) held about 14 seconds, so a loud, high energy musical opening with an instant countdown or drum hit is the pattern that keeps Reel viewers watching.",
+     "src": "Metricool Instagram Reels, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 792
+    },
+    {
+     "t": "Zoomy episode clips and action songs averaged about 82 to 88 views per Reel in early November against about 43 for English story songs and 22 for Hindi Didi stories, yet the Didi stories had the lowest skip rate (about 71%) and the longest watch (about 6 seconds), so Didi stories win attention once seen but are rarely shown, a distribution problem that captions and a clearer first frame should address before dropping the format.",
+     "src": "Metricool Instagram Reels, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 792
     }
    ]
   },
@@ -16630,11 +16651,7 @@
  "log": [
   {
    "date": "2026-11-16 22:09",
-   "note": "Earlier runs summarised: all rounds through Run 712 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 22:09",
-   "note": "Run 713 (music craft (Danny Go! movement songs recheck)): Danny Go!'s latest stats (5.43M subscribers, about 167M views in 28 days, 2026 up about 17% on 2025 from only 131 videos) matched leaves already in the tree; no new leaves. Total 2279."
+   "note": "Earlier runs summarised: all rounds through Run 713 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:10",
@@ -16947,6 +16964,10 @@
   {
    "date": "2026-11-17 00:51",
    "note": "Run 791 (rules and safety (FTC COPPA orders, AI labels on kids content, EU Digital Fairness Act)): The Disney COPPA order lessons, the May 2026 AI label rules (not shown on YouTube Kids, softer for animation) and the 11 Nov EU Digital Fairness Act proposal were already in the tree; no new leaves. Total 2362."
+  },
+  {
+   "date": "2026-11-17 00:52",
+   "note": "Run 792 (our own results (Metricool Instagram Reels 2 to 15 Nov, skip rate and watch time)): Instagram Reels 2 to 15 Nov: skip rate sits near 75% for every format with no link to views, the Diwali rock song held about 20 seconds per view (five times normal), and Zoomy clips and action songs got about twice the views of story songs while Hindi Didi stories hold best but are shown least. Total 2365."
   }
  ],
  "history": [
@@ -18049,6 +18070,10 @@
   {
    "date": "2026-11-17 00:51",
    "total": 2362
+  },
+  {
+   "date": "2026-11-17 00:52",
+   "total": 2365
   }
  ],
  "next_week_ideas": [
