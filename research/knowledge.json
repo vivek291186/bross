@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:54:43+05:30",
- "runs": 737,
+ "updated": "2026-11-16T22:55:11+05:30",
+ "runs": 738,
  "branches": [
   {
    "id": "platforms",
@@ -8392,6 +8392,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 717
+    },
+    {
+     "t": "A Japanese study of 345 children aged 3 to 5 (preprint, Oct 2026) found that making robot toys pink or lavender with doll like faces barely shifted girls' choices toward them, so simply recolouring a character does not win a new audience; Bro Bros' girl friends should have their own personalities and roles in the story, not just pink versions of the boys' looks.",
+     "src": "Research Square preprint (Okanda), Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 738
     }
    ]
   },
@@ -16245,11 +16252,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 658 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 19:55",
-   "note": "Run 659 (rules and monetisation (YouTube Kids AI vetting, KOSA committee step)): COPPA, KIDS Act, RPM and the 200 group AI letter were already leaves. New: replying to that letter YouTube said AI generated content on the YouTube Kids app is limited to a smaller set of vetted channels, which matters because our songs are rendered in Blender with AI assisted music and motion; and on 5 Aug 2026 Senate Commerce sent an updated KOSA plus a chatbot consent bill and an AI toy safety study to the full Senate, though nothing was law by mid November. Total 2196."
+   "note": "Earlier runs summarised: all rounds through Run 659 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 19:55",
@@ -16562,6 +16565,10 @@
   {
    "date": "2026-11-16 22:54",
    "note": "Run 737 (music craft (fill in the lyric and call and response)): Singing and language studies and Christmas streaming charts were mostly in the tree; new was LENA's advice to drop a familiar word and pause so children sing it, turning a song into conversation turns. Total 2307."
+  },
+  {
+   "date": "2026-11-16 22:55",
+   "note": "Run 738 (visual craft (character colour and gender appeal, title rule tests)): Emoji and title rule studies were already in the tree; a Japanese preprint with 345 preschoolers found recolouring robots pink barely changed girls' choices, a weak hint that characters need their own roles, not just colour swaps. Total 2308."
   }
  ],
  "history": [
@@ -17448,6 +17455,10 @@
   {
    "date": "2026-11-16 22:54",
    "total": 2307
+  },
+  {
+   "date": "2026-11-16 22:55",
+   "total": 2308
   }
  ],
  "next_week_ideas": [
