@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:51:55+05:30",
- "runs": 475,
+ "updated": "2026-11-16T11:52:35+05:30",
+ "runs": 476,
  "branches": [
   {
    "id": "platforms",
@@ -9127,6 +9127,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 473
+    },
+    {
+     "t": "In a survey of 1,000 Filipino parents of 8 to 17 year olds (29 Oct to 2 Nov 2026) 34% said they use child specific apps such as YouTube Kids for safety and 97% want evidence based rules on children's social media, so Philippine families are open to supervised kids platforms and stricter rules may follow there too.",
+     "src": "tribune.net.ph, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 476
+    },
+    {
+     "t": "A University of the Philippines study of children aged 2 to 36 months found touchscreen video use of nearly two hours a day, with mothers choosing shows they see as educational and using that time to work or do chores, so English learning songs (colours, numbers, routines) suit Filipino parents, who already accept English content.",
+     "src": "ovpaa.up.edu.ph, 2023",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 476
+    },
+    {
+     "t": "South Koreans spent about 113.6B minutes a month on YouTube in Jan to May 2026, over 20 times Netflix, while YouTube Music usage grew 186% since 2022 and now beats Melon and Spotify there, so for Korean families our songs should be on YouTube Music as well as on the main channel.",
+     "src": "hankyung.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 476
     }
    ]
   },
@@ -13171,12 +13192,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 08:55",
-   "note": "Earlier runs summarised: all rounds through Run 396 (topics and seasons (TRENDS skipped, last trends round found little new; December 2026 calendar and top Christmas searches)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 08:56",
-   "note": "Run 397 (other platforms (algorithm skipped as saturated; screen free audio toys, little new on Netflix and Roblox)): Netflix, Roblox and Spotify findings this round were already in the tree; new is that the screen free kids audio toy market is put at about 860M USD, with parents citing eyesight, screen habits, listening skills and focus, which strengthens the case for audio only versions of our songs with clear sung instructions. Total 1646."
+   "note": "Earlier runs summarised: all rounds through Run 397 (other platforms (algorithm skipped as saturated; screen free audio toys, little new on Netflix and Roblox)) covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 08:57",
@@ -13489,6 +13506,10 @@
   {
    "date": "2026-11-16 11:51",
    "note": "Run 475 (TRENDS (December dates: Christmas Jumper Day, NORAD Santa tracking, gentle elf alternatives)): Christmas Jumper Day is Thursday 10 Dec 2026 in UK schools; NORAD's Santa tracking site opens on 1 Dec in 9 languages ahead of the 24 Dec flight; parents on TikTok praise gentle elf ideas where the elf helps instead of watching. Added a jumper spin reveal to the trend bank (dropped the late October shoulder bounce). Total 1868."
+  },
+  {
+   "date": "2026-11-16 11:52",
+   "note": "Run 476 (global markets (Philippines and South Korea viewing habits)): A 6 Nov 2026 survey of 1,000 Filipino parents found 34% use kids apps like YouTube Kids as a safety step and 97% want evidence based rules; Filipino toddlers average nearly two hours of screen video a day, picked by mothers as educational; in Korea YouTube takes 113.6B minutes a month, over 20 times Netflix, and YouTube Music grew 186% since 2022. Total 1871."
   }
  ],
  "history": [
@@ -14371,6 +14392,10 @@
   {
    "date": "2026-11-16 11:51",
    "total": 1868
+  },
+  {
+   "date": "2026-11-16 11:52",
+   "total": 1871
   }
  ],
  "next_week_ideas": [
