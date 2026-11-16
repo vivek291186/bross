@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:48:20+05:30",
- "runs": 490,
+ "updated": "2026-11-16T12:49:40+05:30",
+ "runs": 491,
  "branches": [
   {
    "id": "platforms",
@@ -1511,6 +1511,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 481
+    },
+    {
+     "t": "A 2026 Precisify parent survey reports 88% of US parents say their 2 to 5 year olds prefer YouTube over on demand and broadcast TV, 55% of parents watch YouTube with their kids and over half of kids watch it on a TV screen, so long form Bro Bros videos are often a shared living room watch.",
+     "src": "Precisify via Tubefilter, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 491
     }
    ]
   },
@@ -10632,6 +10639,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 483
+    },
+    {
+     "t": "The court approved Disney's COPPA order (31 Dec 2025) makes it review every YouTube video for child direction under a written programme with oversight; a small channel can copy the habit cheaply: a one line audience checklist per upload, one named person responsible and a monthly audit of labels, links and any tracking tags.",
+     "src": "Subscription Insider / FTC, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 491
     }
    ]
   },
@@ -13494,11 +13508,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 411 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:11",
-   "note": "Run 412 (visual craft (holiday 2026 colours and character decor; merged one duplicate Lalafun leaf)): Holiday 2026 retail forecasts keep classic red and green as the base but push burgundy, jewel tones, shimmer and pink with red, plus whimsical character pieces (nutcrackers, snow globes) over generic motifs; Pantone's current colour of the year is a soft white, Cloud Dancer. Also merged this run's Lalafun mission title leaf into an older leaf that already said the same thing. Total 1683."
+   "note": "Earlier runs summarised: all rounds through Run 412 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:35",
@@ -13811,6 +13821,10 @@
   {
    "date": "2026-11-16 12:48",
    "note": "Run 490 (TRENDS (December pattern check, family dance clips; most mid November lists already in the tree)): Little new this hour: last December's 'waiting on the beat' text skit is a safe format likely to return, a toddler samba foot tap clip is spreading as a parent remake trend (thin source), and TikTok's news this month is about holiday shopping, not creator formats. Total 1914."
+  },
+  {
+   "date": "2026-11-16 12:49",
+   "note": "Run 491 (rules and safety (rechecked AI slop purge, YouTube Kids gate, Disney COPPA order; mostly already in the tree)): Rules sources are now almost fully covered; the only new practical points are the compliance habits in the final Disney order (decide made for kids per video with written criteria, a named owner and regular audits of labels and third party tags) and that 88% of US parents of 2 to 5 year olds say their child prefers YouTube to TV. Total 1916."
   }
  ],
  "history": [
@@ -14753,6 +14767,10 @@
   {
    "date": "2026-11-16 12:48",
    "total": 1914
+  },
+  {
+   "date": "2026-11-16 12:49",
+   "total": 1916
   }
  ],
  "next_week_ideas": [
