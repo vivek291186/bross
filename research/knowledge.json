@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:02:45+05:30",
- "runs": 603,
+ "updated": "2026-11-16T17:03:13+05:30",
+ "runs": 604,
  "branches": [
   {
    "id": "platforms",
@@ -6404,6 +6404,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 595
+    },
+    {
+     "t": "In a randomised trial with 110 US and New Zealand families (Yale and University of Auckland, 2023 cohorts), giving parents songs and reminders raised how often they sang from about 65% to 89% of check ins and lifted babies' reported mood by about 0.18 standard deviations, lasting a week after the study, and the effect came from the parent singing, not from recorded music, so our songs should be easy for parents to sing back (on screen lyrics, short repeated lines, a slow sing along version).",
+     "src": "ScienceBlog (Yale and Auckland trial), 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 604
     }
    ]
   },
@@ -14747,11 +14754,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 524 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 15:41",
-   "note": "Run 525 (TRENDS (Virlo, B&T and SocialPilot late October lists, mirror clone Reel)): Most listed trends were already leaves; new family safe formats: a child dancing with her own mirror reflections as if they were a dance group (Kerala Reel, late October), the duo pick your favourite on the count of three game, and the leg kick outfit transition. Added the mirror clone dance and pick on three to the trend bank. Total 1996."
+   "note": "Earlier runs summarised: all rounds through Run 525 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 15:42",
@@ -15064,13 +15067,13 @@
   {
    "date": "2026-11-16 17:02",
    "note": "Run 603 (TRENDS (wholesome animal virals)): A zoo clip of meerkats one by one settling into tiny deck chairs like holiday makers drew tens of millions of Instagram views in Aug to Sep 2026, another 'animals doing a human routine' viral that suits a Bro Bros animal friends song. Total 2093."
+  },
+  {
+   "date": "2026-11-16 17:03",
+   "note": "Run 604 (music craft (singing to babies trial)): A Yale and Auckland randomised trial of 110 families found that nudging parents to sing more lifted babies' mood (about 0.18 standard deviations, still there a week later), and the effect came from parents singing, not recorded music, which argues for Bro Bros sing along versions that get parents singing. Total 2094."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 04:05",
-   "total": 1287
-  },
   {
    "date": "2026-11-16 04:06",
    "total": 1290
@@ -16266,6 +16269,10 @@
   {
    "date": "2026-11-16 17:02",
    "total": 2093
+  },
+  {
+   "date": "2026-11-16 17:03",
+   "total": 2094
   }
  ],
  "next_week_ideas": [
