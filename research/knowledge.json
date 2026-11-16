@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:04:48+05:30",
- "runs": 704,
+ "updated": "2026-11-16T22:05:20+05:30",
+ "runs": 705,
  "branches": [
   {
    "id": "platforms",
@@ -5431,6 +5431,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 697
+    },
+    {
+     "t": "Pinkfong's main channel (85.4M subscribers) gained about 4.72B views in January to October 2026, only about 3% below 2025 and about 426M in the 28 days to 15 Nov, so it is holding steady while ChuChu TV and Little Angel fall sharply.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 705
+    },
+    {
+     "t": "Pinkfong's most watched video is not Baby Shark but 'Monkey Banana Dance' (Jun 2023, about 922M views, five times its next best), a simple animal dance along song, and its other top uploads are dance along compilations, which confirms a named animal plus a copyable dance is the strongest single song format.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 705
+    },
+    {
+     "t": "Pinkfong's newest main channel upload (12 Nov 2026) is a vehicle rescue story ('The Super Rescue Team is Hurt') from its car mechanic spin off, about 173K views in two days, showing even song brands now mix in vehicle rescue stories to keep boys aged 2 to 5 watching.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 705
     }
    ]
   },
@@ -16021,11 +16042,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 625 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:12",
-   "note": "Run 626 (music craft (sensory baby channel recheck)): The sensory baby video channel checked this round is already well covered in the tree, so no new leaves; run ends here after about 40 minutes and 72 rounds today in this run. Total 2105."
+   "note": "Earlier runs summarised: all rounds through Run 626 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:36",
@@ -16338,6 +16355,10 @@
   {
    "date": "2026-11-16 22:04",
    "note": "Run 704 (global markets (Brazil kids channel ranking recheck)): Brazil searches (Inflr's October ranking with Mundo Bita third, ECA Digital rules) returned only findings already in the tree; no new leaves. Total 2275."
+  },
+  {
+   "date": "2026-11-16 22:05",
+   "note": "Run 705 (competitor deep dive (Pinkfong main channel)): Pinkfong's main channel (85.4M) held almost flat in 2026 (about 4.72B views Jan to Oct, about 3% below 2025, about 426M in the last 28 days); its all time leader is a 2023 dance along song (Monkey Banana Dance, about 922M) far above any Baby Shark compilation, and its newest upload is a vehicle rescue story from its Hoi Poi spin off. Total 2278."
   }
  ],
  "history": [
@@ -17092,6 +17113,10 @@
   {
    "date": "2026-11-16 22:04",
    "total": 2275
+  },
+  {
+   "date": "2026-11-16 22:05",
+   "total": 2278
   }
  ],
  "next_week_ideas": [
