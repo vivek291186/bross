@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:38:32+05:30",
- "runs": 558,
+ "updated": "2026-11-16T16:39:11+05:30",
+ "runs": 559,
  "branches": [
   {
    "id": "platforms",
@@ -9883,6 +9883,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 547
+    },
+    {
+     "t": "In AIR's 2026 dataset a kids channel uploaded the same videos with Arabic, French and German audio tracks (16 Feb to 24 Mar 2026): Arabic drew 3.4M views, French 745K and German only 134K, yet German had the highest share of returning viewers (about 52% versus 47% and 42%) and the longest watch time for new viewers (4:30), so dub languages should be judged by how many viewers come back, not by raw views.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 559
+    },
+    {
+     "t": "AIR's rule of thumb for a dubbed audio track: in the first 90 days most views come from new viewers, so judge it after about 4 months; if casual plus regular viewers are still under 20% of that track's views it is not working, 20 to 40% is building and above 40% is working (YouTube Analytics, Audience, watch behaviour, filtered by audio track).",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 559
+    },
+    {
+     "t": "Brazil's Portuguese kids song channel Cleo e Cuquin (6.42M subscribers, 5.36B views) has as its biggest hit a colourful train song (65M), followed by wheels on the bus, surprise eggs with numbers and colours, and a farm song, but its monthly views fell from about 135M in March 2026 to 44M in October, so vehicles, colours and farm topics travel to Brazil while even big local channels are losing ground this year.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 559
     }
    ]
   },
@@ -14432,11 +14453,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 479 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:56",
-   "note": "Run 480 (global markets (Pakistan and Bangladesh; data thin)): Public stats for Urdu and Bangla kids song channels were mostly unreadable; Pakistan's most subscribed list (Nov 2026) has only one family channel near the top (Peep Peep, 13.4M subs, 10.1B views), and a Pakistani ABC channel with 145K subscribers gets only about 2K views a month, showing old subscriber counts mean little without fresh uploads. Total 1881."
+   "note": "Earlier runs summarised: all rounds through Run 480 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:57",
@@ -14749,13 +14766,13 @@
   {
    "date": "2026-11-16 16:38",
    "note": "Run 558 (TRENDS (December holiday short video formats)): Revid's holiday data says holiday dance videos had a median of about 84K views with 15.5% passing 1M, and that a lit tree and enthusiasm matter more than technique; simple kids Christmas crafts are the format parents and teachers save. Added a seasonal 'holiday craft along' trend. Total 2048."
+  },
+  {
+   "date": "2026-11-16 16:39",
+   "note": "Run 559 (global markets (dubbed audio track data; Brazil Portuguese channel)): AIR's 2026 dubbing dataset shows a kids channel's German track had the smallest audience but the best loyalty (52% returning viewers vs 47% Arabic, 42% French), so dub languages should be ranked by returning viewers, not views; Brazil's Cleo e Cuquin (6.4M subscribers) lives on a colourful train song and is down about two thirds since March. Total 2051."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 21:00",
-   "total": 726
-  },
   {
    "date": "2026-11-15 22:35",
    "total": 805
@@ -15951,6 +15968,10 @@
   {
    "date": "2026-11-16 16:38",
    "total": 2048
+  },
+  {
+   "date": "2026-11-16 16:39",
+   "total": 2051
   }
  ],
  "next_week_ideas": [
