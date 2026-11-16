@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:11:50+05:30",
- "runs": 412,
+ "updated": "2026-11-16T09:35:34+05:30",
+ "runs": 413,
  "branches": [
   {
    "id": "platforms",
@@ -1364,6 +1364,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 409
+    },
+    {
+     "t": "PwC's 2026 Gen Alpha survey (1,004 US kids aged 7 to 14) found the top reasons kids quit an app are boredom (52%), too many ads (47%) and slow loading (36%), so slow intros and repetitive filler lose older kids fast.",
+     "src": "pwc.com, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 413
+    },
+    {
+     "t": "In the same PwC survey 68% of 7 to 14 year olds regularly use YouTube against 21% to 46% for TikTok (rising with age), and kids average 3.6 hours of recreational screen time a day.",
+     "src": "pwc.com, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 413
+    },
+    {
+     "t": "Precisify (Feb 2026) found 55% of US parents watch YouTube together with their children, so our videos should be pleasant for adults too (no shrill loops) because a parent is often on the sofa.",
+     "src": "advanced-television.com, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 413
     }
    ]
   },
@@ -7223,6 +7244,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 402
+    },
+    {
+     "t": "UK toy sales up to October 2026 were 17% higher than a year earlier, a 10 year high, with squishies and stickers up 45% and building sets up 32%, so squishy, sticker and building themes are what kids are holding right now.",
+     "src": "madeformums.com citing Circana, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 413
+    },
+    {
+     "t": "Circana links the 2026 rise in hands on, non digital toys to public worry about screen time (connected toys are under 1% of sales), so songs that get kids moving or making something off screen match what parents want to feel good about.",
+     "src": "madeformums.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 413
+    },
+    {
+     "t": "One in five parents of 3 to 9 year olds say the chance to play together as a family shapes what they buy (The Insights Family), which supports 'do it with mum or dad' action songs and captions inviting the whole family to join.",
+     "src": "madeformums.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 413
+    },
+    {
+     "t": "Toys priced around 5 to 10 GBP show some of the strongest UK growth as stocking fillers, and nearly half of toy sales happen before Christmas, so stocking and small surprise gifts are a natural December song theme.",
+     "src": "madeformums.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 413
     }
    ]
   },
@@ -11876,10 +11925,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-15 21:01",
-   "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
    "date": "2026-11-16 05:50",
    "note": "Run 334 (TRENDS (Dear Santa list Reels, hand motion reveal, November dumps)): This week's Instagram audio charts add a 'Dear Santa' list format (each line a wish, set to Mariah), a before and after reveal triggered by one hand motion (Diana Ross's Upside Down, 127K Reels) and November photo dumps of small seasonal moments; Mariah's song passed 5.8M Reels. A kid safe Dear Santa list joined the trend bank. Total 1388."
   },
@@ -12194,6 +12239,10 @@
   {
    "date": "2026-11-16 09:11",
    "note": "Run 412 (visual craft (holiday 2026 colours and character decor; merged one duplicate Lalafun leaf)): Holiday 2026 retail forecasts keep classic red and green as the base but push burgundy, jewel tones, shimmer and pink with red, plus whimsical character pieces (nutcrackers, snow globes) over generic motifs; Pantone's current colour of the year is a soft white, Cloud Dancer. Also merged this run's Lalafun mission title leaf into an older leaf that already said the same thing. Total 1683."
+  },
+  {
+   "date": "2026-11-16 09:35",
+   "note": "Run 413 (topics (UK toy boom, family play, why kids quit apps)): Circana via MadeForMums (11 Nov): UK toy sales to October are up 17%, a 10 year high, led by squishies and stickers (+45%) and building sets (+32%), and hands on play is rising as screen time debate grows; PwC's Gen Alpha survey says kids 7 to 14 quit apps mostly from boredom (52%) and too many ads (47%). Total 1690."
   }
  ],
  "history": [
@@ -12206,600 +12255,28 @@
    "total": 542
   },
   {
-   "date": "2026-11-15 19:40",
-   "total": 549
-  },
-  {
-   "date": "2026-11-15 19:41",
-   "total": 556
-  },
-  {
-   "date": "2026-11-15 19:42",
-   "total": 560
-  },
-  {
-   "date": "2026-11-15 19:43",
-   "total": 563
-  },
-  {
-   "date": "2026-11-15 19:45",
-   "total": 567
-  },
-  {
-   "date": "2026-11-15 19:46",
-   "total": 571
-  },
-  {
-   "date": "2026-11-15 19:47",
-   "total": 574
-  },
-  {
-   "date": "2026-11-15 19:48",
-   "total": 578
-  },
-  {
-   "date": "2026-11-15 19:49",
-   "total": 582
-  },
-  {
-   "date": "2026-11-15 19:50",
-   "total": 586
-  },
-  {
-   "date": "2026-11-15 19:50",
-   "total": 590
-  },
-  {
-   "date": "2026-11-15 19:56",
-   "total": 594
-  },
-  {
-   "date": "2026-11-15 19:57",
-   "total": 598
-  },
-  {
-   "date": "2026-11-15 19:58",
-   "total": 602
-  },
-  {
-   "date": "2026-11-15 19:58",
-   "total": 606
-  },
-  {
-   "date": "2026-11-15 19:59",
-   "total": 610
-  },
-  {
    "date": "2026-11-15 20:00",
    "total": 613
-  },
-  {
-   "date": "2026-11-15 20:00",
-   "total": 616
-  },
-  {
-   "date": "2026-11-15 20:01",
-   "total": 619
-  },
-  {
-   "date": "2026-11-15 20:02",
-   "total": 622
-  },
-  {
-   "date": "2026-11-15 20:02",
-   "total": 625
-  },
-  {
-   "date": "2026-11-15 20:03",
-   "total": 628
-  },
-  {
-   "date": "2026-11-15 20:04",
-   "total": 631
-  },
-  {
-   "date": "2026-11-15 20:05",
-   "total": 634
-  },
-  {
-   "date": "2026-11-15 20:06",
-   "total": 637
-  },
-  {
-   "date": "2026-11-15 20:06",
-   "total": 640
-  },
-  {
-   "date": "2026-11-15 20:12",
-   "total": 643
-  },
-  {
-   "date": "2026-11-15 20:13",
-   "total": 645
-  },
-  {
-   "date": "2026-11-15 20:14",
-   "total": 648
-  },
-  {
-   "date": "2026-11-15 20:14",
-   "total": 651
-  },
-  {
-   "date": "2026-11-15 20:36",
-   "total": 656
-  },
-  {
-   "date": "2026-11-15 20:37",
-   "total": 661
-  },
-  {
-   "date": "2026-11-15 20:39",
-   "total": 666
-  },
-  {
-   "date": "2026-11-15 20:40",
-   "total": 671
-  },
-  {
-   "date": "2026-11-15 20:46",
-   "total": 675
-  },
-  {
-   "date": "2026-11-15 20:47",
-   "total": 679
-  },
-  {
-   "date": "2026-11-15 20:48",
-   "total": 683
-  },
-  {
-   "date": "2026-11-15 20:50",
-   "total": 687
-  },
-  {
-   "date": "2026-11-15 20:51",
-   "total": 692
-  },
-  {
-   "date": "2026-11-15 20:52",
-   "total": 696
-  },
-  {
-   "date": "2026-11-15 20:53",
-   "total": 700
-  },
-  {
-   "date": "2026-11-15 20:54",
-   "total": 703
-  },
-  {
-   "date": "2026-11-15 20:55",
-   "total": 706
-  },
-  {
-   "date": "2026-11-15 20:56",
-   "total": 709
-  },
-  {
-   "date": "2026-11-15 20:57",
-   "total": 713
-  },
-  {
-   "date": "2026-11-15 20:57",
-   "total": 717
-  },
-  {
-   "date": "2026-11-15 20:58",
-   "total": 720
-  },
-  {
-   "date": "2026-11-15 20:59",
-   "total": 723
   },
   {
    "date": "2026-11-15 21:00",
    "total": 726
   },
   {
-   "date": "2026-11-15 21:01",
-   "total": 729
-  },
-  {
-   "date": "2026-11-15 21:07",
-   "total": 733
-  },
-  {
-   "date": "2026-11-15 21:07",
-   "total": 736
-  },
-  {
-   "date": "2026-11-15 21:08",
-   "total": 738
-  },
-  {
-   "date": "2026-11-15 21:35",
-   "total": 742
-  },
-  {
-   "date": "2026-11-15 21:36",
-   "total": 746
-  },
-  {
-   "date": "2026-11-15 21:37",
-   "total": 749
-  },
-  {
-   "date": "2026-11-15 21:50",
-   "total": 759
-  },
-  {
-   "date": "2026-11-15 21:39",
-   "total": 762
-  },
-  {
-   "date": "2026-11-15 21:40",
-   "total": 766
-  },
-  {
-   "date": "2026-11-15 21:41",
-   "total": 770
-  },
-  {
-   "date": "2026-11-15 21:42",
-   "total": 774
-  },
-  {
-   "date": "2026-11-15 21:43",
-   "total": 778
-  },
-  {
-   "date": "2026-11-15 21:44",
-   "total": 782
-  },
-  {
-   "date": "2026-11-15 21:45",
-   "total": 786
-  },
-  {
-   "date": "2026-11-15 21:46",
-   "total": 789
-  },
-  {
-   "date": "2026-11-15 21:47",
-   "total": 793
-  },
-  {
-   "date": "2026-11-15 21:48",
-   "total": 796
-  },
-  {
-   "date": "2026-11-15 21:49",
-   "total": 799
-  },
-  {
    "date": "2026-11-15 22:35",
    "total": 805
-  },
-  {
-   "date": "2026-11-15 22:37",
-   "total": 811
-  },
-  {
-   "date": "2026-11-15 22:38",
-   "total": 815
-  },
-  {
-   "date": "2026-11-15 22:39",
-   "total": 818
-  },
-  {
-   "date": "2026-11-15 22:40",
-   "total": 822
-  },
-  {
-   "date": "2026-11-15 22:41",
-   "total": 826
-  },
-  {
-   "date": "2026-11-15 22:47",
-   "total": 830
-  },
-  {
-   "date": "2026-11-15 22:48",
-   "total": 834
-  },
-  {
-   "date": "2026-11-15 22:49",
-   "total": 837
-  },
-  {
-   "date": "2026-11-15 22:50",
-   "total": 840
-  },
-  {
-   "date": "2026-11-15 22:50",
-   "total": 843
-  },
-  {
-   "date": "2026-11-15 22:51",
-   "total": 847
-  },
-  {
-   "date": "2026-11-15 22:52",
-   "total": 851
-  },
-  {
-   "date": "2026-11-15 22:53",
-   "total": 854
-  },
-  {
-   "date": "2026-11-15 22:54",
-   "total": 857
   },
   {
    "date": "2026-11-15 23:35",
    "total": 863
   },
   {
-   "date": "2026-11-15 23:37",
-   "total": 868
-  },
-  {
-   "date": "2026-11-15 23:38",
-   "total": 874
-  },
-  {
-   "date": "2026-11-15 23:39",
-   "total": 880
-  },
-  {
-   "date": "2026-11-15 23:40",
-   "total": 886
-  },
-  {
-   "date": "2026-11-15 23:41",
-   "total": 891
-  },
-  {
-   "date": "2026-11-15 23:43",
-   "total": 895
-  },
-  {
-   "date": "2026-11-15 23:44",
-   "total": 899
-  },
-  {
-   "date": "2026-11-15 23:45",
-   "total": 904
-  },
-  {
-   "date": "2026-11-15 23:46",
-   "total": 909
-  },
-  {
-   "date": "2026-11-15 23:47",
-   "total": 913
-  },
-  {
-   "date": "2026-11-15 23:48",
-   "total": 917
-  },
-  {
-   "date": "2026-11-15 23:49",
-   "total": 922
-  },
-  {
-   "date": "2026-11-15 23:49",
-   "total": 927
-  },
-  {
-   "date": "2026-11-15 23:50",
-   "total": 932
-  },
-  {
-   "date": "2026-11-15 23:51",
-   "total": 937
-  },
-  {
-   "date": "2026-11-15 23:51",
-   "total": 940
-  },
-  {
-   "date": "2026-11-15 23:52",
-   "total": 945
-  },
-  {
-   "date": "2026-11-15 23:53",
-   "total": 949
-  },
-  {
-   "date": "2026-11-15 23:54",
-   "total": 952
-  },
-  {
-   "date": "2026-11-15 23:55",
-   "total": 955
-  },
-  {
-   "date": "2026-11-15 23:56",
-   "total": 959
-  },
-  {
-   "date": "2026-11-15 23:57",
-   "total": 963
-  },
-  {
-   "date": "2026-11-15 23:58",
-   "total": 967
-  },
-  {
-   "date": "2026-11-15 23:58",
-   "total": 972
-  },
-  {
-   "date": "2026-11-15 23:59",
-   "total": 976
-  },
-  {
    "date": "2026-11-16 00:00",
    "total": 979
   },
   {
-   "date": "2026-11-16 00:00",
-   "total": 984
-  },
-  {
-   "date": "2026-11-16 00:01",
-   "total": 987
-  },
-  {
-   "date": "2026-11-16 00:02",
-   "total": 991
-  },
-  {
-   "date": "2026-11-16 00:03",
-   "total": 994
-  },
-  {
-   "date": "2026-11-16 00:05",
-   "total": 997
-  },
-  {
-   "date": "2026-11-16 00:06",
-   "total": 1001
-  },
-  {
-   "date": "2026-11-16 00:07",
-   "total": 1004
-  },
-  {
-   "date": "2026-11-16 00:08",
-   "total": 1009
-  },
-  {
-   "date": "2026-11-16 00:36",
-   "total": 1017
-  },
-  {
-   "date": "2026-11-16 00:37",
-   "total": 1022
-  },
-  {
-   "date": "2026-11-16 00:39",
-   "total": 1029
-  },
-  {
-   "date": "2026-11-16 00:40",
-   "total": 1036
-  },
-  {
-   "date": "2026-11-16 00:41",
-   "total": 1041
-  },
-  {
-   "date": "2026-11-16 00:43",
-   "total": 1046
-  },
-  {
-   "date": "2026-11-16 00:44",
-   "total": 1050
-  },
-  {
-   "date": "2026-11-16 00:45",
-   "total": 1054
-  },
-  {
-   "date": "2026-11-16 00:46",
-   "total": 1058
-  },
-  {
-   "date": "2026-11-16 00:47",
-   "total": 1062
-  },
-  {
-   "date": "2026-11-16 00:48",
-   "total": 1066
-  },
-  {
    "date": "2026-11-16 01:40",
    "total": 1073
-  },
-  {
-   "date": "2026-11-16 01:42",
-   "total": 1077
-  },
-  {
-   "date": "2026-11-16 01:43",
-   "total": 1082
-  },
-  {
-   "date": "2026-11-16 01:44",
-   "total": 1087
-  },
-  {
-   "date": "2026-11-16 01:45",
-   "total": 1092
-  },
-  {
-   "date": "2026-11-16 01:46",
-   "total": 1097
-  },
-  {
-   "date": "2026-11-16 01:47",
-   "total": 1102
-  },
-  {
-   "date": "2026-11-16 01:48",
-   "total": 1107
-  },
-  {
-   "date": "2026-11-16 01:49",
-   "total": 1110
-  },
-  {
-   "date": "2026-11-16 01:50",
-   "total": 1114
-  },
-  {
-   "date": "2026-11-16 01:51",
-   "total": 1118
-  },
-  {
-   "date": "2026-11-16 01:52",
-   "total": 1121
-  },
-  {
-   "date": "2026-11-16 01:53",
-   "total": 1123
-  },
-  {
-   "date": "2026-11-16 01:54",
-   "total": 1127
-  },
-  {
-   "date": "2026-11-16 01:55",
-   "total": 1130
-  },
-  {
-   "date": "2026-11-16 01:56",
-   "total": 1132
-  },
-  {
-   "date": "2026-11-16 01:56",
-   "total": 1136
-  },
-  {
-   "date": "2026-11-16 01:57",
-   "total": 1139
-  },
-  {
-   "date": "2026-11-16 01:58",
-   "total": 1142
-  },
-  {
-   "date": "2026-11-16 01:59",
-   "total": 1145
   },
   {
    "date": "2026-11-16 01:59",
@@ -13396,6 +12873,10 @@
   {
    "date": "2026-11-16 09:11",
    "total": 1683
+  },
+  {
+   "date": "2026-11-16 09:35",
+   "total": 1690
   }
  ],
  "next_week_ideas": [
