@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:39:34+05:30",
- "runs": 640,
+ "updated": "2026-11-16T18:40:42+05:30",
+ "runs": 641,
  "branches": [
   {
    "id": "platforms",
@@ -6523,6 +6523,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 638
+    },
+    {
+     "t": "In a University of Toronto study of 120 babies aged 6 to 14 months, infants watched 72% of a live 12 minute children's opera but only 54% of the same show as a life size recording (about 64% when watched at home), and live audiences' heart rates rose and fell together.",
+     "src": "utoronto.ca, Jul 2023",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 641
+    },
+    {
+     "t": "The researchers credit the live advantage to performers interacting with the audience and to shared moments when a pitch change or vocal flourish lifts the whole room, so a Bro Bros song should fake liveness: the brothers look into the lens, ask a question, leave a one beat pause for the child to answer and react as if they heard it.",
+     "src": "utoronto.ca, Jul 2023",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 641
+    },
+    {
+     "t": "The song videos in the Yale and Auckland singing trial were karaoke style, with on screen words and rhythm cues, and the songs were simplified so caregivers with little musical training could sing them, which suggests a parent friendly 'sing along' version of each Bro Bros song with lyrics on screen could turn passive viewing into real singing at home.",
+     "src": "Child Development (PMC), May 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 641
     }
    ]
   },
@@ -15115,10 +15136,6 @@
   },
   {
    "date": "2026-11-16 16:41",
-   "note": "Run 562 (rules, safety and monetisation (policy news check to 16 Nov)): No new YouTube policy, YouTube Kids or COPPA change since late October; AIR's dated 2026 policy timeline (last updated 28 Aug) and the RPM by country and Q4 figures were all already leaves, so no new leaves. Total 2055."
-  },
-  {
-   "date": "2026-11-16 16:41",
    "note": "Run 563 (our results (fresh look at the same Metricool data, 2 to 15 Nov)): Metricool data is unchanged (YouTube to 11 Nov, Reels to 15 Nov), but a fresh analysis of 42 Reels shows skip rate has almost no link to views (correlation about 0.04), and on Instagram our cartoon episode clips did as well as our songs (about 92 versus 94 views in 2 to 8 Nov), unlike on YouTube. Total 2057."
   },
   {
@@ -15428,6 +15445,10 @@
   {
    "date": "2026-11-16 18:39",
    "note": "Run 640 (TRENDS (autumn leaf crunch, Korean guessing game, holiday playlists)): Weekly trackers still had nothing newer than 13 Nov, so this round mined Korean and US explainers: an Instagram account that rates the crunch of single fallen leaves out of 10 (top video over 10M views, Korean copycats), a Korean 'is that really a ball?' bluff guessing game, a Halloween song playlist that topped US YouTube trending on 1 Nov with only about 128K views, and the 'it is very important that you...' fill in the blank frame. Total 2145."
+  },
+  {
+   "date": "2026-11-16 18:40",
+   "note": "Run 641 (music craft (live versus recorded music for babies, karaoke style parent videos)): A Toronto study found babies watched 72% of a live children's opera but only 54% of the same show on a screen, and the gap is linked to performers interacting with the audience; the Yale trial's song videos were karaoke style and simplified so untrained parents could sing along. Song cover recognition work at MacEwan had hypotheses only, so no leaf. Total 2148."
   }
  ],
  "history": [
@@ -15926,6 +15947,10 @@
   {
    "date": "2026-11-16 18:39",
    "total": 2145
+  },
+  {
+   "date": "2026-11-16 18:40",
+   "total": 2148
   }
  ],
  "next_week_ideas": [
