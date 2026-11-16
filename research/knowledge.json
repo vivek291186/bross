@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:03:35+05:30",
- "runs": 746,
+ "updated": "2026-11-16T23:04:09+05:30",
+ "runs": 747,
  "branches": [
   {
    "id": "platforms",
@@ -16280,11 +16280,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 667 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 20:07",
-   "note": "Run 668 (global markets (Sub Saharan Africa YouTube ad money)): 3Vision's forecast (Jul 2026) puts YouTube's 2026 ad revenue in Sub Saharan Africa at about 583M USD, more than any single subscription service there and rising to about 1.18B by 2031 (about 92% of the region's ad video market), with Nigeria growing from 128M to 279M USD, so English kids songs reach a fast growing, YouTube first market where families watch free. Total 2214."
+   "note": "Earlier runs summarised: all rounds through Run 668 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 20:07",
@@ -16597,6 +16593,10 @@
   {
    "date": "2026-11-16 23:03",
    "note": "Run 746 (Shorts and Reels (made for kids Shorts reach, Shorts timer)): Searches on made for kids Shorts (AIR RPM and PlayToys cases, the zero Shorts timer, Metricool's 799,718 video study, AI slop investigations) returned only items already in the tree; no new leaves. Total 2312."
+  },
+  {
+   "date": "2026-11-16 23:04",
+   "note": "Run 747 (other platforms (iTunes kids chart, Yoto and Amazon Kids; Shorts skipped as just checked)): The iTunes kids chart (faith and comfort songs, Kiboomers' Bear Hunt, Danny Go!'s Wiggle Dance, winter songs climbing) and Yoto's 43% revenue growth were already in the tree from earlier today; no new leaves. Total 2312."
   }
  ],
  "history": [
@@ -17518,6 +17518,10 @@
   },
   {
    "date": "2026-11-16 23:03",
+   "total": 2312
+  },
+  {
+   "date": "2026-11-16 23:04",
    "total": 2312
   }
  ],
