@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T19:56:48+05:30",
- "runs": 661,
+ "updated": "2026-11-16T19:57:27+05:30",
+ "runs": 662,
  "branches": [
   {
    "id": "platforms",
@@ -3072,6 +3072,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 650
+    },
+    {
+     "t": "Rene Ritchie (YouTube creator liaison, TubeTalk, Feb 2026) said YouTube sometimes tests videos with only a few dozen or a few hundred views in Home slots to see whether they suit an audience, so a small channel like ours can still get Home impressions for a strong new song; a low view song is usually just underperforming, not hidden.",
+     "src": "vidIQ TubeTalk, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 662
+    },
+    {
+     "t": "Ritchie said dislikes on long videos count as a negative signal for personal recommendations (a viewer who dislikes sees fewer similar videos, and many dislikes tell the system the audience reacted badly), while real reach limits come mainly from copyright blocks in some countries or age restriction, so clean original audio and fully kid safe content remove the only true 'hidden' limits.",
+     "src": "vidIQ TubeTalk, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 662
     }
    ]
   },
@@ -15503,11 +15517,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 582 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:53",
-   "note": "Run 583 (global markets (Spanish and Vietnamese song channels)): On LooLoo Kids' Spanish channel the biggest hits after a farm animals medley are two 'who breaks the piñata?' party songs (79M and 43M), so a piñata song fits Mexican birthdays and the 16 to 24 Dec posadas; Vietnam's Táo TV data was too old to use. Total 2077."
+   "note": "Earlier runs summarised: all rounds through Run 583 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:53",
@@ -15820,6 +15830,10 @@
   {
    "date": "2026-11-16 19:56",
    "note": "Run 661 (TRENDS (baby page turner POV, parent hack hooks)): Weekly TikTok and Reels lists (Epidemic Sound 13 Nov, Anijam, NewEngen) only repeated banked trends. New from Volume's 15 Nov hook tracker: 'POV your baby is in charge of turning the pages' ran about 469 times its account's usual views and first time parent hack hooks ran 50 to 1,200 times usual, so a page turning comedy song went into the trend bank. Total 2201."
+  },
+  {
+   "date": "2026-11-16 19:57",
+   "note": "Run 662 (YouTube algorithm (Rene Ritchie on small channel tests, dislikes, shadow bans)): From YouTube's creator liaison on vidIQ's TubeTalk (Feb 2026): Home sometimes tests videos that have only a few dozen to a few hundred views, dislikes are a real negative personalisation signal, and most 'shadow ban' complaints turn out to be ordinary underperformance, with real limits coming from copyright blocks or age restriction. Total 2203."
   }
  ],
  "history": [
@@ -16402,6 +16416,10 @@
   {
    "date": "2026-11-16 19:56",
    "total": 2201
+  },
+  {
+   "date": "2026-11-16 19:57",
+   "total": 2203
   }
  ],
  "next_week_ideas": [
