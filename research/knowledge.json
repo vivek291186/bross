@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:00:26+05:30",
- "runs": 403,
+ "updated": "2026-11-16T09:00:57+05:30",
+ "runs": 404,
  "branches": [
   {
    "id": "platforms",
@@ -4143,6 +4143,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 395
+    },
+    {
+     "t": "CoComelon's main channel (203M subscribers, about 230B views) gets about 1.2B to 1.6B views a month in 2026 after 2.18B in January, with roughly 1M new subscribers every other month; even the biggest kids channel is flat to slightly down, so its audience share is slowly opening to newer brands.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 404
+    },
+    {
+     "t": "CoComelon's newest upload (14 Nov 2026) is 'Snowy Holiday Ski Race! JJ VS CODY', a friendly winter race between two characters rather than a Christmas song, about 203K views in its first day or so; a gentle 'Big Bro VS Little Bro' snow race with a tie and a hug at the end fits the same winter competition hook.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 404
+    },
+    {
+     "t": "CoComelon's all time top videos reset classic rhymes in everyday places or routines: 'Humpty Dumpty Grocery Store' 1.57B, 'Yes Yes Fruits Song' 1.24B, 'Twinkle Twinkle Little Star' 878M, 'Pasta Song' 417M and 'Fire Truck Wash Song' 402M, supporting our rule of familiar tune plus everyday setting.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 404
     }
    ]
   },
@@ -11726,10 +11747,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 04:56",
-   "note": "Run 325 (topics and seasons (Christmas 2026 toy lists: music toys, hatching eggs, feelings plush, football)): Argos's top 20 Christmas toys put music front and centre (a retro record player, a light up guitar, a karaoke projector, singing dolls) beside a hatching shark egg, a dragon pet and a plush monster for talking about feelings; Which? adds football toys riding the 2026 World Cup and quirky 'ugly cute' plush. All point to Christmas morning songs about making music, hatching surprises and naming feelings. Total 1355."
-  },
-  {
    "date": "2026-11-16 05:35",
    "note": "Run 326 (YouTube algorithm (where subscribers really watch, notifications, payout test)): Todd Beaupre says Suggested, not the subscriptions feed, is where viewers most often watch channels they follow, and a new channel's video keeps getting impressions only while some interested audience appears; push notifications already stopped for inactive subscribers in April. SocialBee's log to 9 Nov shows no Home ranking change, but YouTube is building a watch time tool across all formats, and a 20 USD payout floor is being tested in India, the US and Indonesia. Total 1360."
   },
@@ -12040,16 +12057,16 @@
   {
    "date": "2026-11-16 09:00",
    "note": "Run 403 (global markets (Brazil: kid pop stars rise, a dubbed nursery channel fades)): Brazil's kids audience is led by home grown 'pop infantil' acts (MC Divertida 18.3M subscribers and 8.6B plays, the duo Kysha e Mine about 1.2B views within a year, a school series at 350M) that combine YouTube, TikTok and live shows, while Junior Squad's separate Portuguese dub channel has faded from about 2.7M views in March to 0.8M in October 2026 with new Shorts at about 300 views. Total 1661."
+  },
+  {
+   "date": "2026-11-16 09:00",
+   "note": "Run 404 (competitors (CoComelon main channel in 2026, a winter 'VS' race)): CoComelon's main channel (203M subscribers) draws about 1.2B to 1.6B views a month in 2026, down from 2.18B in January, and adds about 1M subscribers every other month; its newest upload is a winter 'JJ VS Cody' ski race rather than a Christmas song, and its biggest hit, 'Humpty Dumpty Grocery Store' (1.57B), resets a classic rhyme in an everyday place. Total 1664."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:05",
-   "total": 515
   },
   {
    "date": "2026-11-15 19:06",
@@ -13242,6 +13259,10 @@
   {
    "date": "2026-11-16 09:00",
    "total": 1661
+  },
+  {
+   "date": "2026-11-16 09:00",
+   "total": 1664
   }
  ],
  "next_week_ideas": [
