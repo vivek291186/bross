@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:04:49+05:30",
- "runs": 804,
+ "updated": "2026-11-17T01:05:19+05:30",
+ "runs": 805,
  "branches": [
   {
    "id": "platforms",
@@ -16701,6 +16701,13 @@
      "conf": "low",
      "date": "2026-11-17",
      "run": 793
+    },
+    {
+     "t": "A gentle 'bashful sway' dance meme started on TikTok on 7 Nov 2026 and was still spreading in mid November: people sway slowly side to side with both hands folded under the chin, copying a shy anime pose, solo or in sync with a friend; the move is soft and cute, so Bro Bros can copy the move (never the sped up pop audio) as a shy, smiley sway in a lullaby or a 'say sorry, be friends' song.",
+     "src": "meme.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 805
     }
    ]
   }
@@ -16727,12 +16734,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:42",
-   "note": "Earlier runs summarised: all rounds through Run 725 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:48",
-   "note": "Run 726 (visual craft (pacing and fantasy studies, Blender toon workflows)): The 2024 BMC Psychology review of 15 studies (fantasy content dips inhibitory control, pacing effects mixed) only repeats the larger meta analysis already in the tree, and Blender toon searches found nothing new; no new leaves. Total 2295."
+   "note": "Earlier runs summarised: all rounds through Run 726 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:48",
@@ -17045,6 +17048,10 @@
   {
    "date": "2026-11-17 01:04",
    "note": "Run 804 (our own results (Metricool YouTube traffic sources 2 to 16 Nov)): YouTube traffic 2 to 16 Nov: Suggested 71%, search 17%, subscribers 6%, Shorts feed 0.3% and playlists 0.1%, so Suggested and search carry the channel while Shorts and playlists send almost nothing to the full songs. Total 2376."
+  },
+  {
+   "date": "2026-11-17 01:05",
+   "note": "Run 805 (TRENDS (new mid November dance memes, trend radars)): New this week: a gentle 'bashful sway' with hands folded under the chin, started 7 Nov and still spreading, joins the trend bank as a soft move for shy or sorry songs; trend radars and B&T lists had nothing newer for kids. Total 2377."
   }
  ],
  "history": [
@@ -18199,6 +18206,10 @@
   {
    "date": "2026-11-17 01:04",
    "total": 2376
+  },
+  {
+   "date": "2026-11-17 01:05",
+   "total": 2377
   }
  ],
  "next_week_ideas": [
@@ -18260,6 +18271,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Bashful chin sway",
+   "where": "TikTok, spreading to Reels",
+   "status": "rising",
+   "use": "In a soft verse of an original song (a shy new friend or a 'say sorry' moment) both brothers stand side by side and do the sway together for 8 beats, then wave. Meshy prompt: a child standing in place, hands folded together under the chin, swaying the upper body slowly left and right with a shy smile and small shoulder shrugs, feet planted, no floor moves."
+  },
   {
    "name": "Age pinned carousel",
    "where": "Instagram carousels, TikTok photo mode",
@@ -18373,12 +18390,6 @@
    "where": "TikTok and Reels (Chipmunks routine, rising since Oct 2026)",
    "status": "peak",
    "use": "Big Bro in the middle, Little Bro and a friend either side, on our own bouncy original song. Meshy steps, all standing in place: bounce with hands on hips; middle dancer does one full spin while the side dancers step behind and swap sides; all three turn to face away with both arms raised; turn back and point one finger up, circling it over the head; each one steps forward toward the camera for two counts and back; on the beat drop all stomp in place swinging both arms. A cute animal trio version (three penguins or bunnies) makes a second Short."
-  },
-  {
-   "name": "Cookie share test",
-   "where": "TikTok and Reels family videos (evergreen since 2025)",
-   "status": "evergreen",
-   "use": "Three covered plates in front of Little Bro, Big Bro and a friend; on the beat the napkins lift: Little Bro has two cookies, the friend one, Big Bro none. Little Bro looks, thinks, then hands one over, and all three cheer and dance. Ends on our sharing song chorus. Meshy steps, standing: lifting a napkin with one hand, a thinking pose with a finger on the chin, handing an item forward with both hands, a three person happy bounce."
   }
  ]
 }
