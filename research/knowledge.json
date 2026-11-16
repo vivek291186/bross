@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:00:20+05:30",
- "runs": 373,
+ "updated": "2026-11-16T08:01:11+05:30",
+ "runs": 374,
  "branches": [
   {
    "id": "platforms",
@@ -1273,6 +1273,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 362
+    },
+    {
+     "t": "In Emplifi's study of over 10,000 Reels, adding text overlays to music backed Reels raised 30 second retention by up to 9.8% and vertical 9:16 Reels had about 21% more reach and 38.5% better 30 second retention, so every Bro Bros Reel should be full vertical with big on screen lyric words.",
+     "src": "Hypebot / Emplifi, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 374
+    },
+    {
+     "t": "The same study found seamless loops under 7 seconds raised replay rate by 18.7% and reach by 23.6%, so each song should also get one 6 second dance loop Reel whose last frame matches its first.",
+     "src": "Hypebot / Emplifi, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 374
+    },
+    {
+     "t": "Instagram's extra protections for adult managed accounts that feature real children (strict DMs, Hidden Words on by default, less discoverable to accounts teens block) target accounts showing real kids; an animated account like Bro Bros is not covered automatically, so switching on Hidden Words and comment filters by hand keeps our comment section clean for parents.",
+     "src": "The Tech Outlook, Jul 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 374
     }
    ]
   },
@@ -10970,10 +10991,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 03:51",
-   "note": "Run 295 (TRENDS (kid took over the account, teacher joins the dance, original audio rising)): A Gulf wide Instagram format has brands posting as if a child grabbed the phone (crooked selfies, a finger over the lens, random captions), copied by Uber UAE and Visit Abu Dhabi. Teacher and pupil dance clips keep going viral in South Africa, India and the US (one hit 1.5M views in two days). Tokchart's 15 Nov chart shows the fastest growing TikTok sounds are nearly all creators' original audio. Two formats joined the trend bank. Total 1260."
-  },
-  {
    "date": "2026-11-16 03:52",
    "note": "Run 296 (global markets (Germany and Japan)): Germany's 'Kinderlieder zum Mitsingen und Bewegen' (3.47M subscribers, about 33 to 43M views a month from 1,453 videos) tags new songs with NEU at both ends of the title, its newest teaches tying a bow, and its biggest hits are remixed singing games like 'who stole the cookie from the jar'. Japan's top kids songs by YouTube views are franchise themes and Japanese versions of Disney songs plus public TV songs, so English originals travel least there and Japanese should be a later dub. Total 1263."
   },
@@ -11284,13 +11301,13 @@
   {
    "date": "2026-11-16 08:00",
    "note": "Run 373 (topics and seasons (algorithm skipped, nothing new; 2027 Toy of the Year finalists)): The algorithm focus brought nothing new beyond run 361, so this round looked at what kids want this season. The 2027 Toy of the Year finalists (7 Nov) put K-pop, space and galaxy adventures, toys that come alive, transforming robots and surprise or blind box reveals at the centre of kids' play, all themes we can serve with original characters and songs. Total 1553."
+  },
+  {
+   "date": "2026-11-16 08:01",
+   "note": "Run 374 (Shorts and Reels (text overlays and loops on music Reels, child account protections)): Emplifi's study of 10,000 Reels adds two practical numbers for music clips: on screen text lifted 30 second retention by up to 9.8%, and seamless loops under 7 seconds lifted reach by about 24%, so every Bro Bros Reel should carry lyric text and have a short loop cut. Instagram's extra protections for adult run accounts that show real children do not apply to an animated account like ours, but Hidden Words can be switched on by hand. Total 1556."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 17:43",
-   "total": 400
-  },
   {
    "date": "2026-11-15 17:44",
    "total": 403
@@ -12486,6 +12503,10 @@
   {
    "date": "2026-11-16 08:00",
    "total": 1553
+  },
+  {
+   "date": "2026-11-16 08:01",
+   "total": 1556
   }
  ],
  "next_week_ideas": [
