@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T23:47:36+05:30",
- "runs": 762,
+ "updated": "2026-11-16T23:48:46+05:30",
+ "runs": 763,
  "branches": [
   {
    "id": "platforms",
@@ -16374,10 +16374,6 @@
    "note": "Earlier runs summarised: all rounds through Run 677 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 21:52",
-   "note": "Run 684 (our results (Instagram reach halved in week two)): Metricool data to 16 Nov: our Instagram Reels averaged about 86 views each in 2 to 8 Nov but only about 43 for the English story song Reels of 9 to 15 Nov and about 22 for the Hindi Didi story Reels, a halving after the Diwali week; the Ant Parade Reel (113 views) and the Detective cookie Reel (91) were the week's exceptions. Shares stayed at zero. Total 2256."
-  },
-  {
    "date": "2026-11-16 21:53",
    "note": "Run 685 (YouTube main and Kids (vidIQ US top 100 on 14 Nov; trends skipped after an empty trends round)): Tubefilter's week of 15 Nov chart is still not published and the AIR and CreatorDB growth reports were already in the tree. vidIQ's US top 100 on 14 Nov 2026 has about 34 kids and family channels, with three nursery rhyme brands in the top 20 (CoComelon 2, Pinkfong 11, LooLoo 18) and a twin brothers channel (Lucas and Marcus, 37.2M) at 64. Total 2258."
   },
@@ -16688,6 +16684,10 @@
   {
    "date": "2026-11-16 23:47",
    "note": "Run 762 (visual craft (thumbnail faces, pacing and fantasy, toddler gaze)): Thumbnail face data and the pace versus fantasy meta analysis were already in the tree; new: a 2026 eye tracking study of 127 toddlers found toys pull gaze first and faces win more attention once props are removed, so dance moments should keep the frame clear of toys. Total 2325."
+  },
+  {
+   "date": "2026-11-16 23:48",
+   "note": "Run 763 (topics and seasons (trends skipped after an empty trends round; Christmas toys, holiday films, December days)): The Entertainer, DreamToys and Toy of the Year lists, holiday family films (Hexed, Angry Birds 3, The Man with the Bag), December festival dates and Indian style Christmas remixes were already in the tree; no new leaves. Total 2325."
   }
  ],
  "history": [
@@ -17673,6 +17673,10 @@
   },
   {
    "date": "2026-11-16 23:47",
+   "total": 2325
+  },
+  {
+   "date": "2026-11-16 23:48",
    "total": 2325
   }
  ],
