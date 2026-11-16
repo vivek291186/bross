@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:55:48+05:30",
- "runs": 688,
+ "updated": "2026-11-16T21:56:28+05:30",
+ "runs": 689,
  "branches": [
   {
    "id": "platforms",
@@ -6859,6 +6859,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 677
+    },
+    {
+     "t": "An October 2026 study of 53 kindergarten children in Indonesia learning English through repeated songs found about 85% could say the colour words and about 74% could count one to ten in English (descriptive, no control group), so short colour and counting songs are an effective first English for the non native English kids who make up much of our global audience.",
+     "src": "Journal of Education Research, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 689
     }
    ]
   },
@@ -15916,11 +15923,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 609 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:06",
-   "note": "Run 610 (rules (kids quality standards from YouTube's Dublin summit)): One new point from AIR's report on YouTube's March 2026 Dublin safety summit: channels will be judged on whether the whole channel is coherent and age appropriate, not video by video, so mixing older child humour with toddler songs needs care. Total 2099."
+   "note": "Earlier runs summarised: all rounds through Run 610 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:06",
@@ -16233,6 +16236,10 @@
   {
    "date": "2026-11-16 21:55",
    "note": "Run 688 (other platforms (Disney Jr readiness series, Roblox and Netflix rechecks; trends skipped after an empty trends round)): Netflix kids top 10, Roblox fastest growing games and kids streaming charts only repeated the tree. New: Disney Jr. extended its 'Ready for Preschool' shorts into longer Megan and Cupcake episodes on Disney+ from 12 Oct 2026, mixing a live host, a puppet and animation around simple school readiness concepts. Total 2260."
+  },
+  {
+   "date": "2026-11-16 21:56",
+   "note": "Run 689 (music craft (Suno Studio and genre rechecks, singing vocabulary study)): Suno Studio 2.0, v6 and global genre searches only repeated the tree. New: an October 2026 kindergarten study in Indonesia (53 children learning English through repetitive singing) found about 85% could say the colour words and about 74% the numbers one to ten, supporting colour and counting songs for non native English speaking kids. Total 2261."
   }
  ],
  "history": [
@@ -16923,6 +16930,10 @@
   {
    "date": "2026-11-16 21:55",
    "total": 2260
+  },
+  {
+   "date": "2026-11-16 21:56",
+   "total": 2261
   }
  ],
  "next_week_ideas": [
