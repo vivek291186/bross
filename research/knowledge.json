@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:44:48+05:30",
- "runs": 568,
+ "updated": "2026-11-16T16:45:27+05:30",
+ "runs": 569,
  "branches": [
   {
    "id": "platforms",
@@ -7545,6 +7545,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 557
+    },
+    {
+     "t": "Twinkle Little Songs (1.2M subscribers, 1.0B views, about 14 minute videos, no Shorts) earns about 354M of its views from one spider rhyme, and its other outliers are the same character dropped into a new holiday or world with that word in capitals (a HALLOWEEN version 14M, a Part 2 10M), so once a Bro Bros character song works, its follow ups should keep the character's name first in the title and add one new world or holiday word.",
+     "src": "OutlierKit, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 569
+    },
+    {
+     "t": "Blender Studio's open short 'Wing It!' fakes its painted cartoon look inside the material instead of with many lights: flat hand painted colour, toon shading from simplified silhouette normals, a rim light placed by the silhouette edge, outlines from Geometry Nodes and a light paper texture, with the line noise animated on twos to avoid shimmer; the downside is that the effect is baked for one camera, so it suits fixed camera song shots more than moving cameras.",
+     "src": "Blender Studio blog, Nov 2023",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 569
     }
    ]
   },
@@ -14509,11 +14523,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 489 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 12:48",
-   "note": "Run 490 (TRENDS (December pattern check, family dance clips; most mid November lists already in the tree)): Little new this hour: last December's 'waiting on the beat' text skit is a safe format likely to return, a toddler samba foot tap clip is spreading as a parent remake trend (thin source), and TikTok's news this month is about holiday shopping, not creator formats. Total 1914."
+   "note": "Earlier runs summarised: all rounds through Run 490 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 12:49",
@@ -14826,13 +14836,13 @@
   {
    "date": "2026-11-16 16:44",
    "note": "Run 568 (music craft (Christmas sound and streaming charts)): Berklee's summary of the Christmas song analysis (sleigh bells, nostalgia, big band style with modern vocals) and Spotify's kids and family taste profile toggle were already leaves, so no new leaves. Total 2059."
+  },
+  {
+   "date": "2026-11-16 16:45",
+   "note": "Run 569 (visual craft (title formula of a one hit channel; Blender cartoon shading)): Twinkle Little Songs (1.2M subscribers) gets about a third of its 1B views from one spider rhyme and its next hits are the same character in a new world or holiday; Blender Studio's open 'Wing It!' short shows how to fake a flat, painted cartoon look with toon shading, rim light and outlines. Total 2061."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 02:03",
-   "total": 1164
-  },
   {
    "date": "2026-11-16 02:04",
    "total": 1167
@@ -16028,6 +16038,10 @@
   {
    "date": "2026-11-16 16:44",
    "total": 2059
+  },
+  {
+   "date": "2026-11-16 16:45",
+   "total": 2061
   }
  ],
  "next_week_ideas": [
