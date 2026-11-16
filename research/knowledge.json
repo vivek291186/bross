@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:52:13+05:30",
- "runs": 581,
+ "updated": "2026-11-16T16:52:50+05:30",
+ "runs": 582,
  "branches": [
   {
    "id": "platforms",
@@ -14587,6 +14587,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 579
+    },
+    {
+     "t": "K-pop girl group IVE's 'Looks Can Kill' challenge passed 100M combined views by 28 Oct 2026, two days after release, using three versions (a dance version, an 'eyebeam' face expression version and a vocal version) and a cute repeating section that fans replay; offering one song as a dance, a funny faces and a sing along version is a ready way to multiply Bro Bros Shorts from one track.",
+     "src": "Sports Khan, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 582
+    },
+    {
+     "t": "In Shogakukan's 2025 survey of Japanese elementary school readers, the silly AI made hybrid animal meme craze was the top buzzword for girls and second for boys (after a ninja run dance meme), which its researchers read as internet memes crossing gender lines; for us the lesson is that absurd mash up animals of our own (a pineapple penguin, a teapot elephant) can amuse both boys and girls, without copying any meme character.",
+     "src": "Automaton (Shogakukan survey), Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 582
     }
    ]
   }
@@ -14614,11 +14628,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 502 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 13:02",
-   "note": "Run 503 (other platforms (rules, our data and algorithm skipped as checked this run; iTunes kids chart and Netflix animated series 2026 rechecked)): The iTunes kids chart (silly food songs, Bluey, Ms Rachel, faith songs) and Netflix's 2026 animated series ranking (Peppa, CoComelon, Little Angel, Bebefinn) were already in the tree, so no new leaves; the tree is saturated on most weekly sources until new charts land later this week. Total 1941."
+   "note": "Earlier runs summarised: all rounds through Run 503 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 13:02",
@@ -14931,13 +14941,13 @@
   {
    "date": "2026-11-16 16:52",
    "note": "Run 581 (visual craft (colour and character appeal studies)): The Sussex baby colour study (saturated, high contrast beats pastel) and Disney Research's character proportions by age were already leaves, so no new leaves. Total 2074."
+  },
+  {
+   "date": "2026-11-16 16:52",
+   "note": "Run 582 (TRENDS (K-pop challenges and Japanese kids' buzzwords)): IVE's 'Looks Can Kill' relay challenge (out 26 Oct) passed 100M views in two days with a cute repeating part and a signature 'sniper' point move; Japan's 2025 kids survey put silly hybrid animal memes first for girls and second for boys, so absurd original animal mash ups appeal to both. Total 2076."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 03:36",
-   "total": 1216
-  },
   {
    "date": "2026-11-16 03:38",
    "total": 1221
@@ -16133,6 +16143,10 @@
   {
    "date": "2026-11-16 16:52",
    "total": 2074
+  },
+  {
+   "date": "2026-11-16 16:52",
+   "total": 2076
   }
  ],
  "next_week_ideas": [
