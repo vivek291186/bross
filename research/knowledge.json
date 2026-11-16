@@ -4460,22 +4460,8 @@
      "run": 440
     },
     {
-     "t": "CreatorDB's September 2026 census of 417 fast growing channels found that channels posting fewer than 8 times a month gained a median of about 98,800 subscribers per upload, against about 1,900 for 'industrial' channels posting 60 or more times a month, and that upload pace is now the quickest way platforms and analysts spot content farms; our 14 songs a week plus Shorts puts us in the high volume group, so each song must be visibly crafted.",
-     "src": "creatordb.app, Sep 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 443
-    },
-    {
      "t": "CocoBus Nursery Rhymes has 3,113 videos but only about 10.6K subscribers and about 190K to 250K views a month in late 2026, and its newest upload (a Finger Family plus Itsy Bitsy mashup, 9 Nov) got about 1K views in 13 hours, a clear case that piling up classic rhyme mashups without characters or a hook goes nowhere.",
      "src": "vidiq.com, Nov 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 443
-    },
-    {
-     "t": "In the same census a wholesome everyday clips channel gained 1.18M subscribers in 25 days with Shorts averaging about 71K views at 14 seconds while its long videos had a median of 840 views, showing again that very short clips can drive subscribers even when long uploads barely move.",
-     "src": "creatordb.app, Sep 2026",
      "conf": "medium",
      "date": "2026-11-16",
      "run": 443
@@ -12970,7 +12956,7 @@
   },
   {
    "date": "2026-11-16 10:44",
-   "note": "Run 443 (YouTube channels (our Metricool data already checked today and unchanged, so skipped; upload volume versus growth)): A September 2026 census of 417 fast growing channels found those posting under 8 times a month gained a median of about 98,800 subscribers per upload against about 1,900 for 'industrial' channels posting 60 or more a month, which is about our 14 songs a week; CocoBus shows the low end, 3,113 rhyme mashup videos but only 10.6K subscribers and about 200K views a month. Total 1794."
+   "note": "Run 443 (YouTube channels (our Metricool data already checked today and unchanged, so skipped)): CocoBus shows that volume alone fails: 3,113 classic rhyme mashup videos but only about 10.6K subscribers and about 200K views a month; two CreatorDB upload volume points were dropped because run 156 already had them. Total 1792."
   }
  ],
  "history": [
@@ -13724,7 +13710,7 @@
   },
   {
    "date": "2026-11-16 10:44",
-   "total": 1794
+   "total": 1792
   }
  ],
  "next_week_ideas": [
