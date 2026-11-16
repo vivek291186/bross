@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T10:01:14+05:30",
- "runs": 432,
+ "updated": "2026-11-16T10:01:54+05:30",
+ "runs": 433,
  "branches": [
   {
    "id": "platforms",
@@ -1413,6 +1413,27 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 425
+    },
+    {
+     "t": "In Amazon's UK Alexa review of Jan to Nov 2025, the KPop Demon Hunters soundtrack was the second most played artist, just behind Taylor Swift, and its song 'Golden' was the second most requested song, so family films' music dominates what households ask smart speakers for.",
+     "src": "t3.com, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 433
+    },
+    {
+     "t": "Amazon publishes its national 'most asked of Alexa' year lists around 11 to 15 December (UK 11 Dec, India 15 Dec 2025, covering January to November), a yearly moment to see which kids and family songs households request by voice.",
+     "src": "t3.com and aboutamazon.in, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 433
+    },
+    {
+     "t": "KIDZ BOP and Amazon once made a voice duet ('Alexa, play a duet with KIDZ BOP') of its most requested Halloween song, at a time the brand had nearly 1B Amazon Music streams, so voice assistants reward kids songs with short, easy to say names that children can request themselves.",
+     "src": "kidzbop.com, Oct 2019",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 433
     }
    ]
   },
@@ -12401,10 +12422,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 06:38",
-   "note": "Run 353 (music craft (song rituals, Suno Studio 2.0 editing)): Most music science found this round was already in the tree, so the new learnings are practical: Ms Rachel's appeal rests on a fixed opening and closing plus pauses for the child to answer, Suno Studio 2.0 (Premier plan) lets us fix single notes with MIDI instead of regenerating, and parents often exclude kids' playlists from their Spotify taste profile. The 69th Grammy nominations land today, 16 Nov. Total 1452."
-  },
-  {
    "date": "2026-11-16 06:39",
    "note": "Run 354 (visual craft (titles that win in 2026, phone size thumbnails)): vidIQ's 4M video title study shows concrete story promises such as 'turning X into Y' at about 3x average views while titles ending in a question sit 18% below; AIR's 18K channel study says numbers and question marks do little in Kids and Animation, and one relevant emoji can anchor a title. Thumbnails are judged at about 120 px wide on phones, where saturated three colour designs beat minimal ones. Total 1456."
   },
@@ -12719,6 +12736,10 @@
   {
    "date": "2026-11-16 10:01",
    "note": "Run 432 (TRENDS (Pinterest weekly trend signals; quiet week for new formats)): Pinterest's weekly business trend report (23 Oct 2026) showed cold weather recipes up 200%, a sign that cosy soup and warm food themes rise into winter, which fits our 18 Nov veggie soup song; no new kid friendly Reels or TikTok formats appeared beyond those already in the trend bank, and Pinterest holiday data online for this season is not yet published. Total 1758."
+  },
+  {
+   "date": "2026-11-16 10:01",
+   "note": "Run 433 (other platforms (smart speakers: Alexa requests; algorithm and Shorts skipped as covered)): Amazon's UK Alexa year in review (Jan to Nov 2025) had KPop Demon Hunters as the second most played artist after Taylor Swift, so a film soundtrack families love lands straight in voice requests at home; Amazon publishes these lists around 11 to 15 December, and KIDZ BOP once got an 'Alexa, play a duet' feature, showing kids music brands can win voice exposure. Total 1761."
   }
  ],
  "history": [
@@ -13429,6 +13450,10 @@
   {
    "date": "2026-11-16 10:01",
    "total": 1758
+  },
+  {
+   "date": "2026-11-16 10:01",
+   "total": 1761
   }
  ],
  "next_week_ideas": [
