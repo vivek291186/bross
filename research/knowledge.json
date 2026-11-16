@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:01:41+05:30",
- "runs": 448,
+ "updated": "2026-11-16T11:03:21+05:30",
+ "runs": 449,
  "branches": [
   {
    "id": "platforms",
@@ -2750,6 +2750,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 424
+    },
+    {
+     "t": "A Spanish kids channel that YouTube deleted, most likely an automated false positive, stayed deleted after a rejected appeal but was restored with all its history and standing once its agency documented the cause and escalated to YouTube partner contacts, so a rejected appeal is not the end; keep clean records of our original songs and production files for such a case.",
+     "src": "air.io, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 449
+    },
+    {
+     "t": "The same partner's Arabic kids channel grew from about 253M to 437M views a quarter (+72%) and revenue 133% in Q4 2025 after daily checks of every upload and thumbnail, pacing and metadata changes aligned with YouTube's kids quality principles, which suggests small compliance problems quietly throttle Suggested and Shorts reach with no strike or warning.",
+     "src": "air.io, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 449
     }
    ]
   },
@@ -12738,11 +12752,7 @@
  "log": [
   {
    "date": "2026-11-16 06:41",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 369 (TRENDS (Christmas audio at peak, digicam diary look..."
-  },
-  {
-   "date": "2026-11-16 07:57",
-   "note": "Run 370 (rules (COPPA 2.0 in Congress, YouTube age estimation errors, EU review of YouTube's recommender)): The US Senate passed COPPA 2.0 unanimously in March 2026, widening child privacy rules to under 17s, but the House has not acted; YouTube's AI age checks now run in parts of the US, UK and EU and treat adults it cannot verify as teens (fewer recommendations, non personalised ads); and the EU has asked YouTube to explain its age assurance and recommender for minors under the DSA. Total 1539."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 370 (rules (COPPA 2.0 in Congress, YouTube age estimatio..."
   },
   {
    "date": "2026-11-16 07:58",
@@ -13055,6 +13065,10 @@
   {
    "date": "2026-11-16 11:01",
    "note": "Run 448 (music craft (melody shape: cross cultural children's song study, phrase length, head voice; Suno v6 and Meshy changelog checked and already covered)): A comparison of 70 matched children's and adult songs from 35 regions found children's songs everywhere use fewer scale notes and a narrower range, and singing guides favour a light head voice over chest voice; range, phrase length and downbeat starts were already in the tree. Total 1806."
+  },
+  {
+   "date": "2026-11-16 11:03",
+   "note": "Run 449 (algorithm experiments and case studies (AIR kids cases: a wrongly deleted channel restored, compliance fixes)): An AIR kids case not yet in the tree: a Spanish kids channel deleted by automated enforcement, with its appeal rejected, was restored with all its history after a documented escalation, while its Arabic sister channel grew views 72% and revenue 133% after daily checks of thumbnails, pacing and metadata against YouTube's kids quality principles; the Emir Ela and Vania Mania cases were already in the tree. Total 1808."
   }
  ],
  "history": [
@@ -13829,6 +13843,10 @@
   {
    "date": "2026-11-16 11:01",
    "total": 1806
+  },
+  {
+   "date": "2026-11-16 11:03",
+   "total": 1808
   }
  ],
  "next_week_ideas": [
