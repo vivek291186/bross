@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T06:02:59+05:30",
- "runs": 349,
+ "updated": "2026-11-16T06:03:37+05:30",
+ "runs": 350,
  "branches": [
   {
    "id": "platforms",
@@ -2323,6 +2323,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 339
+    },
+    {
+     "t": "In YouTube Kids, 'Approve content yourself' limits a child to videos, channels and collections a parent picks; collections are topic groups (such as music or science) chosen by the YouTube Kids team or partners, so being included in a YouTube Kids music collection is one of the few ways into the strictest households.",
+     "src": "YouTube Kids Help, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 350
+    },
+    {
+     "t": "YouTube Kids parents can pause watch history (new views stop shaping Recommended and Watch it again), pause search history and switch off autoplay separately, so in some homes our next song only plays if the child taps it, another reason for bright, readable thumbnails of one clear character.",
+     "src": "YouTube Kids Help, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 350
+    },
+    {
+     "t": "Parents choose a YouTube Kids level (Preschool, Younger, Older or approve it themselves) in the app or in Family Link, and the self approval mode can only be switched on inside the YouTube Kids app, so a parent facing Instagram caption like 'find us in YouTube Kids, search Bro Bros' helps families add us by hand.",
+     "src": "YouTube Kids Help, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 350
     }
    ]
   },
@@ -10144,10 +10165,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 02:05",
-   "note": "Run 271 (TRENDS (mid November formats: slow motion entrances, tiny item jokes, three move tutorials)): NewEngen's 13 Nov list adds a 'Pray For Me' slow motion format where friends glide into a wide shot one by one from different directions, and a US weekly tracker (about 15 Nov) shows group dances of two to four friends doing one easy repeated move (29.7M views), comically tiny everyday items (17.1M), escalating visual jokes and beginner tutorials of three clearly separated moves. Total 1171."
-  },
-  {
    "date": "2026-11-16 02:06",
    "note": "Run 272 (other platforms (Amazon Kids+ in Italy, iTunes kids chart recheck)): Amazon Kids+ launched in Italy on 19 Oct 2026 for ages 3 to 12 (about 7 to 8 euros a month, ad free, with originals, games and audiobooks), one more ad free subscription home for kids video in Europe. The iTunes kids chart this week still shows only one holiday song in its top 20, so the holiday wave on kids charts has not started yet. Total 1173."
   },
@@ -10458,6 +10475,10 @@
   {
    "date": "2026-11-16 06:02",
    "note": "Run 349 (TRENDS (24/7 Santa workshop streams, daily December Shorts)): Families made 'North Pole Live', a looping 24/7 YouTube stream of a Santa workshop with rotating scenes and kids' voicemails, a daily December habit last year, and YouTube itself once seeded 'Shortsmas', a Short every day of December. Both point to a Bro Bros Christmas workshop 24/7 stream of our songs plus a daily December Short. The playbook now carries a Christmas song recipe and two ideas were refreshed. Total 1435."
+  },
+  {
+   "date": "2026-11-16 06:03",
+   "note": "Run 350 (YouTube algorithm (YouTube Kids parent settings and what they do to discovery)): YouTube Kids Help says 'Approve content yourself' limits a child to parent picked videos, channels and collections (topic groups chosen by the YouTube Kids team or partners), pausing watch or search history freezes recommendations, and autoplay can be switched off separately, so collections and parent approvals are routes into the strictest households. Total 1438."
   }
  ],
  "history": [
@@ -10468,10 +10489,6 @@
   {
    "date": "2026-11-15 17:00",
    "total": 275
-  },
-  {
-   "date": "2026-11-15 17:05",
-   "total": 312
   },
   {
    "date": "2026-11-15 17:05",
@@ -11660,6 +11677,10 @@
   {
    "date": "2026-11-16 06:02",
    "total": 1435
+  },
+  {
+   "date": "2026-11-16 06:03",
+   "total": 1438
   }
  ],
  "next_week_ideas": [
