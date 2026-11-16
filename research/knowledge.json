@@ -8541,23 +8541,16 @@
      "run": 416
     },
     {
-     "t": "POPS Kids, Vietnam's biggest kids channel, had 20.3M subscribers, about 15B views and 4,687 videos by Oct 2026 (8th largest Vietnamese channel), mixing its own preschool shows with licensed Japanese anime dubs, so Vietnamese kids watch a lot in their own language.",
-     "src": "cafef.vn citing Social Blade, Oct 2026",
-     "conf": "high",
-     "date": "2026-11-16",
-     "run": 430
-    },
-    {
-     "t": "BabyBus's Vietnamese dub channel has 9.75M subscribers and steady 71M to 116M views a month in 2026 (about 92M in the 28 days to 7 Nov), yet vidIQ models only about 3,500 USD a month, roughly 0.04 USD per 1,000 views, among the lowest earning kids audiences we have measured.",
-     "src": "vidiq.com, Nov 2026",
-     "conf": "medium",
-     "date": "2026-11-16",
-     "run": 430
-    },
-    {
      "t": "The Vietnamese BabyBus channel's most viewed long videos are all December 2021 to 2022 uploads (Kiki and friends 26M, a sushi song 24M, a mystery gift box 23M), showing that its library peaked years ago and new long videos rarely overtake old winners, while new Shorts still reach about 500K views in two days.",
      "src": "vidiq.com, Nov 2026",
      "conf": "medium",
+     "date": "2026-11-16",
+     "run": 430
+    },
+    {
+     "t": "vidIQ models BabyBus's Vietnamese channel at only about 3,500 USD a month from about 92M monthly views (roughly 0.04 USD per 1,000), among the lowest earning kids audiences we have measured, so Vietnamese dubs are for reach, not income.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "low",
      "date": "2026-11-16",
      "run": 430
     }
@@ -12690,7 +12683,7 @@
   },
   {
    "date": "2026-11-16 09:54",
-   "note": "Run 430 (global markets (Vietnam; music craft checked first and skipped as covered)): Music craft and Suno news were already in the tree, so the round looked at Vietnam: POPS Kids, the country's biggest kids channel, has 20.3M subscribers and 15B views from 4,687 videos mixing originals with licensed anime, and BabyBus's Vietnamese dub channel (9.75M) gets 71M to 116M views a month but vidIQ models only about 3,500 USD a month, so Vietnamese views add reach but little income. Total 1754."
+   "note": "Run 430 (global markets, Vietnam; music craft checked first and skipped as covered): most Vietnam facts (POPS Kids size, BabyBus Vietnam views) were already in the tree, so only two new points were kept: vidIQ models BabyBus Vietnam at about 3,500 USD a month from about 92M views (about 0.04 USD per 1,000), and its top long videos are all 2021 to 2022 uploads. Total 1753."
   }
  ],
  "history": [
@@ -13392,7 +13385,7 @@
   },
   {
    "date": "2026-11-16 09:54",
-   "total": 1754
+   "total": 1753
   }
  ],
  "next_week_ideas": [
