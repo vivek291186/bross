@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:55:02+05:30",
- "runs": 638,
+ "updated": "2026-11-16T18:00:45+05:30",
+ "runs": 639,
  "branches": [
   {
    "id": "platforms",
@@ -15076,11 +15076,7 @@
  "log": [
   {
    "date": "2026-11-16 16:39",
-   "note": "Earlier runs summarised: all rounds through Run 559 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:39",
-   "note": "Run 560 (competitor deep dive (Bebefinn and Super Simple Songs, mid November)): Bebefinn's newest episode is a dance style dream song ('I Want to Be a Ballerina', 247K views in 1.5 days) and Super Simple Songs grew its monthly views from 479M in June to 592M in October 2026; neither had a Christmas title up by 16 Nov. Total 2054."
+   "note": "Earlier runs summarised: all rounds through Run 560 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:40",
@@ -15393,6 +15389,10 @@
   {
    "date": "2026-11-16 17:55",
    "note": "Run 638 (music craft (infant brain and movement study; Shorts rechecks skipped)): An eLife study (July 2026, 79 babies) found high pitched music sparked more spontaneous movement than low pitched music at 3, 6 and 12 months, but babies only moved more to real music than scrambled music at 12 months and never in time with the beat; Shorts length and retention sources were already leaves or unreliable. Total 2140."
+  },
+  {
+   "date": "2026-11-16 18:00",
+   "note": "Run 639 (other platforms (PBS Kids, Amazon Kids+, streamer reports recheck)): Searches on PBS Kids, Amazon Kids+ and 2026 streamer reports returned only general trend overviews without data or pages that could not be opened, and World Children's Day and World Hello Day were already leaves, so no new leaves; run ends here because the tree is saturated for today's sources. Total 2140."
   }
  ],
  "history": [
@@ -15882,6 +15882,10 @@
   },
   {
    "date": "2026-11-16 17:55",
+   "total": 2140
+  },
+  {
+   "date": "2026-11-16 18:00",
    "total": 2140
   }
  ],
