@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:38:32+05:30",
- "runs": 676,
+ "updated": "2026-11-16T21:39:56+05:30",
+ "runs": 677,
  "branches": [
   {
    "id": "platforms",
@@ -6768,6 +6768,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 665
+    },
+    {
+     "t": "In a 2026 Musicae Scientiae study of 74 seven month old babies, infants looked at their singing mother far more during a lively play song (sung at about 170 BPM) than during a lullaby (about 28 against 17 seconds per block, longer single looks), so upbeat action songs win eye contact even with the youngest viewers.",
+     "src": "Musicae Scientiae (Reisner et al.), 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 677
+    },
+    {
+     "t": "The same study found babies' looks were preceded and followed by bursts of acoustic change in the singing (louder moments, new sounds, pitch jumps), so a Bro Bros song should add a fresh sound or a lift every few seconds rather than staying flat.",
+     "src": "Musicae Scientiae (Reisner et al.), 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 677
+    },
+    {
+     "t": "Hit Songs Deconstructed's 2025 staying power data also showed long lasting top 10 hits had shorter outros (about 19 against 28 seconds) and more often ended abruptly, so Bro Bros songs should end quickly after the last chorus, which also helps Shorts loop.",
+     "src": "hitsongsdeconstructed.com, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 677
+    },
+    {
+     "t": "Spotify said on 1 Oct 2026 that festive songs already average about 36.2M streams a day, the global holiday listening peak starts around 30 Oct, and the Philippines, the US, the UK, Indonesia and Germany lead holiday searches, so our Christmas songs should be live by mid November, not December.",
+     "src": "newsroom.spotify.com, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 677
+    },
+    {
+     "t": "Spotify's 2026 top holiday tracks include two recent originals (Bleachers' and Alex Crichton's Christmas songs) next to Sia's 2017 Snowman, showing a new original holiday song can break into a list long dominated by decades old classics.",
+     "src": "newsroom.spotify.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 677
     }
    ]
   },
@@ -15720,11 +15755,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 597 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:00",
-   "note": "Run 598 (rules (AI animation monetisation news)): Searches for new AI animation demonetisation news found only the January to February 2026 sweeps (including dinosaur and monster animators) and the advocacy letter, all already reflected in the tree, so no new leaves. Total 2087."
+   "note": "Earlier runs summarised: all rounds through Run 598 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:00",
@@ -16037,6 +16068,10 @@
   {
    "date": "2026-11-16 21:38",
    "note": "Run 676 (TRENDS (13 Nov meme chart: duo kick dance, one by one parade, arms up jump)): The 13 Nov TikTok chart showed new kid safe dances: a duo routine of step back, hand slap, kick and pose; a parade where cute animals walk up and dance past the camera one at a time; and an arms out, hands over head, jump routine. Two were added to the trend bank as our own moves; holiday filter reveals (pet to grumpy holiday creature, cartoon Christmas frames) are peaking but rely on protected characters, so we copy only the reveal. Total 2232."
+  },
+  {
+   "date": "2026-11-16 21:39",
+   "note": "Run 677 (music craft (play song gaze study, outros, Spotify holiday data)): A 2026 Musicae Scientiae study of 74 seven month olds found babies looked at the singer much longer during a fast play song (170 BPM) than a lullaby, and looks followed rises in acoustic change; Spotify's 1 Oct holiday report shows festive streams averaging 36.2M a day with the Philippines the top early market; long staying hits had shorter outros. Total 2237."
   }
  ],
  "history": [
@@ -16679,6 +16714,10 @@
   {
    "date": "2026-11-16 21:38",
    "total": 2232
+  },
+  {
+   "date": "2026-11-16 21:39",
+   "total": 2237
   }
  ],
  "next_week_ideas": [
