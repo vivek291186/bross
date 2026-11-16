@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T17:40:23+05:30",
- "runs": 630,
+ "updated": "2026-11-16T17:41:20+05:30",
+ "runs": 631,
  "branches": [
   {
    "id": "platforms",
@@ -14895,6 +14895,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 628
+    },
+    {
+     "t": "Ramdam's 3 Nov 2026 TikTok list includes a 'No, that doesn't make any sense' format: a confused, disbelieving lip sync while on screen text shows an overly complicated way of doing a simple task; kids get this joke instantly, so Little Bro doing something the long silly way while Big Bro reacts is an easy Short.",
+     "src": "Ramdam, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 631
+    },
+    {
+     "t": "Most other fresh TikTok formats in early November 2026 are confession or irony memes (an 'I'm so cringe' admission lip sync, a dramatic either or question, a documentary quote about deceiving) built on adult audio and humour, so they are not worth adapting for preschoolers.",
+     "src": "Ramdam and Epidemic Sound, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 631
     }
    ]
   }
@@ -14921,12 +14935,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 16:09",
-   "note": "Earlier runs summarised: all rounds through Run 551 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 16:10",
-   "note": "Run 552 (TRENDS (family dance guides; no new trend this week)): No fresh family trend since this afternoon; the viral 'spider step' is a floor roll we cannot use, so only one evergreen family format was added, 'dancefloor copycats', where each person copies the moves so far and adds one new move. Playbook story rule updated with the proven missing snack mystery hook. Total 2037."
+   "note": "Earlier runs summarised: all rounds through Run 552 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 16:11",
@@ -15239,6 +15249,10 @@
   {
    "date": "2026-11-16 17:40",
    "note": "Run 630 (visual craft (vidIQ breakout thumbnail study)): vidIQ's June 2026 study of 500 breakout long videos found a face in 80% of the top 50 thumbnails and a face or high contrast in about 9 of 10, while exaggerated expressions were rare (about 5%), so a big friendly character face beats a screaming one. Total 2118."
+  },
+  {
+   "date": "2026-11-16 17:41",
+   "note": "Run 631 (TRENDS (Ramdam early November TikTok formats)): Ramdam's 3 and 10 Nov TikTok lists add a confused 'no, that does not make any sense' lip sync over a needlessly complicated way of doing something, which becomes a kid safe silly way versus easy way comedy beat; most other new formats are adult or ironic. Total 2120."
   }
  ],
  "history": [
@@ -15697,6 +15711,10 @@
   {
    "date": "2026-11-16 17:40",
    "total": 2118
+  },
+  {
+   "date": "2026-11-16 17:41",
+   "total": 2120
   }
  ],
  "next_week_ideas": [
@@ -15758,6 +15776,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "That makes no sense",
+   "where": "TikTok (Ramdam list, 3 Nov 2026), rising",
+   "status": "rising",
+   "use": "On screen text: 'Little Bro's way to put on a hat'. Little Bro does it the long silly way (spins three times, hops, balances it on one finger) while Big Bro watches; cut to Big Bro shaking his head, palms up in a big shrug, then showing the easy way, and both laugh into our own original chorus. Meshy steps, standing in place: slow head shake side to side, both palms up shrug with raised shoulders, hand on forehead, one full spin, small hop on the spot."
+  },
   {
    "name": "Trio spin swap",
    "where": "TikTok and Reels (Chipmunks routine, rising since Oct 2026)",
@@ -15871,12 +15895,6 @@
    "where": "TikTok duo routine (13 Nov 2026 chart)",
    "status": "rising",
    "use": "A 6 second loop to our own friendship song: the two Bros face each other, each takes one step back, they clap a big high five in the middle, each does one small front kick, then both freeze in a pose (one hand on hip, other hand pointing at camera) and it loops. Meshy prompt: standing, step back one step, clap hands forward at chest height, small front kick with right leg, then pose with left hand on hip and right hand pointing forward."
-  },
-  {
-   "name": "Ranking countdown 5 to 1",
-   "where": "YouTube Shorts (US weekly chart)",
-   "status": "rising",
-   "use": "A 25 second Short to a short loop of our own song: big numbers 5, 4, 3, 2, 1 pop on screen and each shows one funny Bro Bros dance moment from our own videos (a wobble, a spin, a freeze, a jump, a big finish), the music rises at 1 and the Short loops back to 5. Title it as a numbered series ('Ranking the Bros' silliest moves, Part 1') so each week adds a new part."
   }
  ]
 }
