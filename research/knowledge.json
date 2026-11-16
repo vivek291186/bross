@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:00:45+05:30",
- "runs": 639,
+ "updated": "2026-11-16T18:39:34+05:30",
+ "runs": 640,
  "branches": [
   {
    "id": "platforms",
@@ -15049,6 +15049,41 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 637
+    },
+    {
+     "t": "An Instagram account that steps on one fallen leaf at a time and rates its crunch out of 10 with mock serious commentary gained about 80K followers in two months and its top video passed 10M views; Korean copycat accounts and even a brand copied it, so a leaf crunch rating Short fits late autumn in the northern hemisphere.",
+     "src": "gogumafarm.kr, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 640
+    },
+    {
+     "t": "A Korean TikTok 'lying challenge' has two people hold objects behind a screen; one claims to hold something (a games console) and the other sets a test to catch the bluff, and the comedy version claims a heavy lawn mower is a basketball and tries to bounce it; a kid version is a silly 'is that really a ball?' guessing game.",
+     "src": "gogumafarm.kr, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 640
+    },
+    {
+     "t": "On 1 Nov 2026 the No. 1 video on US YouTube trending was a Halloween songs playlist with only about 128K views, and 6 of the top 20 trending videos were under a day old, so a fresh seasonal song compilation uploaded just before a holiday can reach trending with modest views.",
+     "src": "blog.mean.ceo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 640
+    },
+    {
+     "t": "The 'it is very important' format (Nov 2025, Daily Dot) uses on screen text 'In your 20s there will be a ___. It is very important that you ___' over clips of doing it; a gentle kid version is 'When you are little there will be a puddle. It is very important that you jump in it.'",
+     "src": "dailydot.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 640
+    },
+    {
+     "t": "Holiday Shorts guides (Oct 2026) say December gift season works better as a connected three part series than one long video, and that from late December content should shift to new year goals and habits; for Bro Bros that means a three part Christmas mini story and a 'new year, new skill' song after 26 Dec.",
+     "src": "influencers-time.com, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 640
     }
    ]
   }
@@ -15077,10 +15112,6 @@
   {
    "date": "2026-11-16 16:39",
    "note": "Earlier runs summarised: all rounds through Run 560 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:40",
-   "note": "Run 561 (TRENDS (India, Brazil and Latin America dance check)): No new family dance trend surfaced in India or Brazil this week; the one usable find is Brazil's 'Passinho do Jamal' brega funk step (two steps one way, two steps back, hands copying the feet), which reached over 160K TikTok videos. Total 2055."
   },
   {
    "date": "2026-11-16 16:41",
@@ -15393,6 +15424,10 @@
   {
    "date": "2026-11-16 18:00",
    "note": "Run 639 (other platforms (PBS Kids, Amazon Kids+, streamer reports recheck)): Searches on PBS Kids, Amazon Kids+ and 2026 streamer reports returned only general trend overviews without data or pages that could not be opened, and World Children's Day and World Hello Day were already leaves, so no new leaves; run ends here because the tree is saturated for today's sources. Total 2140."
+  },
+  {
+   "date": "2026-11-16 18:39",
+   "note": "Run 640 (TRENDS (autumn leaf crunch, Korean guessing game, holiday playlists)): Weekly trackers still had nothing newer than 13 Nov, so this round mined Korean and US explainers: an Instagram account that rates the crunch of single fallen leaves out of 10 (top video over 10M views, Korean copycats), a Korean 'is that really a ball?' bluff guessing game, a Halloween song playlist that topped US YouTube trending on 1 Nov with only about 128K views, and the 'it is very important that you...' fill in the blank frame. Total 2145."
   }
  ],
  "history": [
@@ -15887,6 +15922,10 @@
   {
    "date": "2026-11-16 18:00",
    "total": 2140
+  },
+  {
+   "date": "2026-11-16 18:39",
+   "total": 2145
   }
  ],
  "next_week_ideas": [
@@ -15948,6 +15987,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Leaf crunch rating",
+   "where": "Instagram Reels, Korea and US, autumn",
+   "status": "seasonal",
+   "use": "The two brothers walk on a path of big autumn leaves in our 3D park; each brother stomps one leaf, a big '7/10' or '10/10' score pops up, and the chorus of an original 'Crunch Crunch Leaves' song counts the scores. Meshy motion: standing, lift one knee high and stamp the foot down in place, then turn to camera with both thumbs up."
+  },
+  {
+   "name": "It is very important",
+   "where": "TikTok and Reels, recurring fill in the blank frame",
+   "status": "evergreen",
+   "use": "On screen text: 'When you are little there will be a puddle. It is very important that you...' then a cut to the brothers jumping in puddles on the beat of an original song; repeat with snow, a hug, sharing a cookie. Meshy motion: standing, small jump in place with both feet, arms swinging up."
+  },
   {
    "name": "Gnome army march",
    "where": "TikTok and Reels every December (recurring seasonal meme)",
@@ -16027,12 +16078,6 @@
    "use": "Each character in turn repeats every move so far and adds one: clap; clap and jump; clap, jump and spin; clap, jump, spin and wave. Steps for Meshy, all standing in place: two claps, one small jump, one slow turn in place, one big wave. Our own counting song names each move as it is added."
   },
   {
-   "name": "Cool lion photo pose",
-   "where": "Instagram Reels and YouTube Shorts (India, from 6 Nov 2026)",
-   "status": "rising",
-   "use": "Our own original lion friend in sunglasses walks in on the beat and stands beside each Bro for a 'photo with me' freeze; each photo flash changes the place (beach, snowy hill, birthday party). Step for Meshy: standing in place, chest out, one hand on hip, other hand gives a thumbs up, small head nod. No gold chains or money props."
-  },
-  {
    "name": "Kangaroo hop circle",
    "where": "TikTok and X (Mexico, then school groups in Japan and Korea)",
    "status": "evergreen",
@@ -16061,12 +16106,6 @@
    "where": "Instagram Reels (duo then class format, Nov 2026)",
    "status": "rising",
    "use": "A 20 second Short to our own dance song: the two Bros face camera and teach a 4 move standing routine (clap, clap, arms up, wiggle), then the camera pulls back and all our animal friends are behind them doing it together on the final chorus. Meshy prompt: standing in place, clap twice, raise both arms up, wiggle hips side to side."
-  },
-  {
-   "name": "Shoulder ride swap",
-   "where": "TikTok (Shoulder Carry trend, peak on 13 Nov 2026 chart)",
-   "status": "peak",
-   "use": "An 8 second Short to our own bouncy brothers song: big Bro stands with little Bro sitting on his shoulders, both wave both arms side to side on the beat; on the drop a hard cut and now little Bro is the one carrying big Bro (silly impossible swap), both do a big surprised face and two arm pumps up. Meshy prompt for each: standing in place, sway both raised arms left and right, then pump both fists up twice."
   }
  ]
 }
