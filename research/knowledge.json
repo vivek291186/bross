@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T22:37:03+05:30",
- "runs": 716,
+ "updated": "2026-11-16T22:37:45+05:30",
+ "runs": 717,
  "branches": [
   {
    "id": "platforms",
@@ -5459,6 +5459,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 714
+    },
+    {
+     "t": "The Kiboomers (about 4.05M subscribers, 4.6B lifetime views, 1,486 videos) built its brand on movement game songs such as Freeze Dance, Floor is Lava and Going on a Bear Hunt, the same stop and go dance space Bro Bros plays in.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 717
+    },
+    {
+     "t": "The Kiboomers' new uploads in Sep to Nov 2026 are themed compilations (fall, Halloween, animal, movement) that average only about 115K lifetime views each, so its reach now comes from old evergreen hits rather than fresh uploads; new singles, not compilations, are what build a catalog.",
+     "src": "SponsorRadar, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 717
     }
    ]
   },
@@ -8280,6 +8294,13 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 678
+    },
+    {
+     "t": "Movement song channels title videos as an action list plus a parent benefit, for example 'Jump, Freeze, and Count' or 'Brain Breaks, Dance and Freeze Songs', so a Bro Bros title can name two or three actions kids do and one thing they learn.",
+     "src": "SponsorRadar (Kiboomers uploads), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 717
     }
    ]
   },
@@ -16077,11 +16098,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 637 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:55",
-   "note": "Run 638 (music craft (infant brain and movement study; Shorts rechecks skipped)): An eLife study (July 2026, 79 babies) found high pitched music sparked more spontaneous movement than low pitched music at 3, 6 and 12 months, but babies only moved more to real music than scrambled music at 12 months and never in time with the beat; Shorts length and retention sources were already leaves or unreliable. Total 2140."
+   "note": "Earlier runs summarised: all rounds through Run 638 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 18:00",
@@ -16394,6 +16411,10 @@
   {
    "date": "2026-11-16 22:37",
    "note": "Run 716 (global markets (Poland kids screen time)): Poland's Internet of Children 2026 report shows kids 7 to 14 online about 4h25m a day, 88% on phones, with TikTok (29% of time) ahead of YouTube (22%); an FDDS survey of 22,000 kids aged 7 to 9 found over 80% watch YouTube regularly. Total 2283."
+  },
+  {
+   "date": "2026-11-16 22:37",
+   "note": "Run 717 (competitor deep dive (The Kiboomers; Dave and Ava stats unavailable)): The Kiboomers (4.05M subs, 4.6B views) built its catalog on freeze and game songs but its 2026 compilations average only about 115K views, showing new singles matter more than repackaging; its titles list actions plus a learning benefit. Total 2286."
   }
  ],
  "history": [
@@ -17196,6 +17217,10 @@
   {
    "date": "2026-11-16 22:37",
    "total": 2283
+  },
+  {
+   "date": "2026-11-16 22:37",
+   "total": 2286
   }
  ],
  "next_week_ideas": [
