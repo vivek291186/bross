@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T21:51:14+05:30",
- "runs": 683,
+ "updated": "2026-11-16T21:52:27+05:30",
+ "runs": 684,
  "branches": [
   {
    "id": "platforms",
@@ -12739,6 +12739,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 672
+    },
+    {
+     "t": "Our Instagram Reels averaged about 86 views each in 2 to 8 Nov 2026 (Diwali, Zoomy episode clips and action songs) but only about 43 for the English story song Reels of 9 to 15 Nov, so reach halved once we switched to a single story song format; the format change and post Diwali dip both likely played a part.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 684
+    },
+    {
+     "t": "In 9 to 15 Nov the best Instagram Reels were the Ant Parade marching song (113 views, 15 Nov) and the Detective Bros cookie mystery (91 views), both with a clear repeated action or a question to solve, while the sandcastle (18) and kitten rescue (7) Reels nearly flopped.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 684
+    },
+    {
+     "t": "Our four Hindi Didi story Reels of 10 to 15 Nov averaged only about 22 views each (the 15 Nov sneezing elephant story got 9) against about 43 for English song Reels the same week, even though they hold viewers longer, so on our mainly English account the Hindi stories reach few new people.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 684
     }
    ]
   },
@@ -15867,11 +15888,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 604 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 17:03",
-   "note": "Run 605 (visual craft (sing along lyric video design)): Lyric highlighting sources were either old (YouTube Kids' 2016 read along push) or marketing without data, and same language karaoke subtitles are already in the tree, so no new leaves. Total 2094."
+   "note": "Earlier runs summarised: all rounds through Run 605 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:04",
@@ -16184,6 +16201,10 @@
   {
    "date": "2026-11-16 21:51",
    "note": "Run 683 (rules and safety (AI music channel risk signals, YouTube Kids AI status)): Policy searches (Dublin summit, Disney COPPA order, AI labels, Fairplay) mostly repeated the tree. New: guidance on YouTube's reused content enforcement names long playlists of similar AI songs with static visuals and no intro as a demonetisation risk pattern for music channels, and appeals take about three to six weeks with recovery judged over the next five to ten uploads. Total 2253."
+  },
+  {
+   "date": "2026-11-16 21:52",
+   "note": "Run 684 (our results (Instagram reach halved in week two)): Metricool data to 16 Nov: our Instagram Reels averaged about 86 views each in 2 to 8 Nov but only about 43 for the English story song Reels of 9 to 15 Nov and about 22 for the Hindi Didi story Reels, a halving after the Diwali week; the Ant Parade Reel (113 views) and the Detective cookie Reel (91) were the week's exceptions. Shares stayed at zero. Total 2256."
   }
  ],
  "history": [
@@ -16854,6 +16875,10 @@
   {
    "date": "2026-11-16 21:51",
    "total": 2253
+  },
+  {
+   "date": "2026-11-16 21:52",
+   "total": 2256
   }
  ],
  "next_week_ideas": [
