@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T11:06:35+05:30",
- "runs": 453,
+ "updated": "2026-11-16T11:07:20+05:30",
+ "runs": 454,
  "branches": [
   {
    "id": "platforms",
@@ -10072,6 +10072,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 442
+    },
+    {
+     "t": "Under Article 50 of the EU AI Act, providers of generative AI systems already on the market before 2 Aug 2026, which would include music and 3D generators, have until 2 Dec 2026 to embed machine readable marks in their output and offer a detection method, so from December platforms may automatically spot AI made audio and visuals; honest AI disclosure on our uploads avoids any mismatch.",
+     "src": "cooley.com, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 454
+    },
+    {
+     "t": "The EU AI Office's voluntary Code of Practice on transparency of AI generated content includes standard icons for labelling AI content and several major AI providers have signed it, while deployers must disclose deepfakes unless the content had real human editorial review, so a simple 'made with AI tools, written and directed by humans' line fits both the rule and the spirit.",
+     "src": "cooley.com, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 454
     }
    ]
   },
@@ -12801,11 +12815,7 @@
  "log": [
   {
    "date": "2026-11-16 07:58",
-   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 374 (Shorts and Reels (text overlays and loops on music ..."
-  },
-  {
-   "date": "2026-11-16 08:02",
-   "note": "Run 375 (algorithm experiments (TRENDS skipped, sound charts had nothing kid usable; 24/7 stream case data)): This TRENDS slot found nothing new and kid usable (the growing TikTok sounds are unlabelled original audios), so it switched to stream experiments: a safe 24/7 kids stream checklist (made for kids on, chat off, no links, titles that match what plays, rotating playlists), a Korean kids channel that grew revenue 80% and watch time 4x in 90 days with streams, and a DIY channel whose four themed streams tripled view duration. Total 1560."
+   "note": "Earlier runs summarised: 2 rounds, Earlier runs summarised: 2 rounds, Earlier runs summarised: ... through Run 375 (algorithm experiments (TRENDS skipped, sound charts..."
   },
   {
    "date": "2026-11-16 08:03",
@@ -13118,6 +13128,10 @@
   {
    "date": "2026-11-16 11:06",
    "note": "Run 453 (TRENDS (year ahead trend reports: Pinterest Predicts timing, letter writing revival)): Pinterest Predicts, which Pinterest says has been 88% accurate over six years, came out on 9 Dec last year, so the 2027 edition should land in early December; its 2026 list also forecast a letter writing revival (snail mail gift searches up 110%, pen pal ideas up 90%), which supports a handwritten letter to Santa song this month. Total 1815."
+  },
+  {
+   "date": "2026-11-16 11:07",
+   "note": "Run 454 (rules (EU AI Act labelling: 2 Dec 2026 marking deadline for AI tools)): Under the EU AI Act, generative AI tools already on the market (such as music and 3D generators) must embed machine readable marks and offer detection by 2 Dec 2026, and an EU Code of Practice now offers standard AI content icons, so from December our Suno audio may be detectable as AI by platforms anywhere, another reason to keep disclosing AI use. Total 1817."
   }
  ],
  "history": [
@@ -13912,6 +13926,10 @@
   {
    "date": "2026-11-16 11:06",
    "total": 1815
+  },
+  {
+   "date": "2026-11-16 11:07",
+   "total": 1817
   }
  ],
  "next_week_ideas": [
