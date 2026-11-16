@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:59:13+05:30",
- "runs": 401,
+ "updated": "2026-11-16T08:59:50+05:30",
+ "runs": 402,
  "branches": [
   {
    "id": "platforms",
@@ -7118,6 +7118,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 396
+    },
+    {
+     "t": "Sloths, capybaras and quokkas are now a group of children's favourite animals, replacing lions, tigers and monkeys, because they show baby like features (round faces, big eyes, soft bodies), calm slow behaviour and faces that seem to smile; a smiling quokka or sloth friend suits gentle Bro Bros songs.",
+     "src": "A-Z Animals, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 402
+    },
+    {
+     "t": "A Talker Research survey of 2,000 parents of children aged 0 to 6 (Oct 2025) found kids most fascinated by the natural world (rain, worms, weather, bugs and building little bug houses), plus knights, drums and everyday machines like elevators and their buttons; these make cheap, relatable song topics with no licensed characters.",
+     "src": "Talker Research, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 402
     }
    ]
   },
@@ -11692,10 +11706,6 @@
   },
   {
    "date": "2026-11-16 04:54",
-   "note": "Run 323 (algorithm experiments and data (Jason Vlogs' working system; our Metricool and Tubefilter checks had nothing new)): Our own Metricool data still stops at 11 Nov (YouTube) and 14 Nov (Reels), already recorded today, and the 8 Nov Tubefilter chart is fully in the tree, so the round moved to case data: Jason Vlogs (46M+ subscribers, a 5 person team) posts one main video a week, brainstorms about 30 ideas a week to make 3, batches weeks ahead and runs 10 localised channels that brought new viewers without hurting the main one. Total 1349."
-  },
-  {
-   "date": "2026-11-16 04:54",
    "note": "Run 324 (TRENDS (Roblox's rising kid games: feeding animals, cleaning the moon, bug evolution, cat sumo)): Roblox's week to 1 Nov shows the gentle, silly loops kids pick up: 'Throw Food For Animals' rose 738% to about 59K concurrent players, 'Clean the Moon!' 1,323%, 'Bug Evolution' 1,779%, while 'Steal a Brainrot' fell 70%. Cat sumo battles and bike collecting joined the fastest growing new games. A feed the animals format joined the trend bank and a moon cleaning song joined the ideas. Total 1352."
   },
   {
@@ -12005,16 +12015,16 @@
   {
    "date": "2026-11-16 08:59",
    "note": "Run 401 (visual craft (Meshy October tools for props, Pixar's pastel caution)): Meshy's October 2026 releases help our props more than our dances (no new animation features since Text to Motion in July): a stylised texture model on all plans, sharper image to 3D up to 30K faces, and Auto Split that can separate parts such as a toy train's wheels for animation; Pixar's softer pastel look for Toy Story 5 comes with a warning that pastels wash out form unless colour and exposure are controlled. Total 1656."
+  },
+  {
+   "date": "2026-11-16 08:59",
+   "note": "Run 402 (topics (TRENDS skipped, last trends round found little; calm smiling animals and what under 6s are fascinated by)): Sloths and quokkas have joined capybaras as children's favourite animals because they look calm, baby faced and smiling, replacing lions and tigers; a 2,000 parent survey of under 6s found the natural world (rain, worms, weather, bugs) leads kids' fascinations, with odd favourites like elevators and their buttons, knights and drums. Total 1658."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 18:59",
    "total": 486
-  },
-  {
-   "date": "2026-11-15 19:04",
-   "total": 508
   },
   {
    "date": "2026-11-15 19:04",
@@ -13207,9 +13217,17 @@
   {
    "date": "2026-11-16 08:59",
    "total": 1656
+  },
+  {
+   "date": "2026-11-16 08:59",
+   "total": 1658
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Ding! Going Up! (Elevator Button Song)",
+   "why": "Parents of under 6s say everyday machines like elevators and their buttons fascinate toddlers; a counting song where the Bros press buttons 1 to 5 and each floor opens on a surprise (a snowy roof, a farm, a party) gives counting, waiting turns and a reveal on every beat."
+  },
   {
    "title": "The Snow Is Lava! (Winter Movement Game)",
    "why": "Danny Go!'s pretend danger movement games ('The Floor Is Lava' 223M, its part 2 263M, a sharks sequel 202M) are the strongest dance along format for older preschoolers; a winter version where the Bros hop between safe snow mats, freeze on the whistle and dodge a sleepy snow monster gives us a numbered game series of our own."
@@ -13233,10 +13251,6 @@
   {
    "title": "Is It Christmas Yet? (The Waiting Song)",
    "why": "The '5 stages of being...' Reel format is rising (Later, 13 Nov 2026) and every child knows the long wait for Christmas; a funny countdown song with five verses (excited, counting, peeking, sleepy, Christmas morning) gives a long video plus a ready made five stages Reel."
-  },
-  {
-   "title": "Fix It, Fix It, Bro Bros Garage!",
-   "why": "Bebefinn's newest car mechanic song pulled 133K views in 13 hours, proving pretend play jobs still pull; our own garage song where the brothers fix a squeaky toy car with a 'tap, twist, beep' action chorus fits ages 2 to 6 everywhere."
   },
   {
    "title": "My Drawing Came Alive! (Christmas Story Song)",
