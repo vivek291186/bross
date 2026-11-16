@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T08:03:03+05:30",
- "runs": 376,
+ "updated": "2026-11-16T08:03:59+05:30",
+ "runs": 377,
  "branches": [
   {
    "id": "platforms",
@@ -5935,6 +5935,27 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 365
+    },
+    {
+     "t": "Disney's 2026 holiday short 'The Invisible Horse' (released 9 Nov, about 3 minutes, live action) follows a boy who thinks he is too old for Christmas until he finds an 'invisible horse', is teased, and gets a surprising happy turn; Creative Bloq notes it works through story and nostalgia rather than famous characters, proof that a simple original imaginary friend story can move families.",
+     "src": "Creative Bloq, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 377
+    },
+    {
+     "t": "Disney's 2025 holiday short (a child's crayon doodle comes to life on Christmas morning, then a year of everyday adventures such as brushing teeth and Halloween, ending with the doodle finding its voice) shows the 'drawing comes alive' premise carries big emotion; a flat hand drawn friend moving in a 3D world is easy for us with Blender's Grease Pencil.",
+     "src": "ContentGrip, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 377
+    },
+    {
+     "t": "Both recent Disney holiday shorts run about three minutes with one child, one magical friend and a small emotional arc, the same length as a Bro Bros song, so a Christmas story song can follow the same beat plan: lonely or doubtful start, magic discovery, small setback, warm reveal in the final chorus.",
+     "src": "Creative Bloq and ContentGrip, 2025 to 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 377
     }
    ]
   },
@@ -11047,10 +11068,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 03:59",
-   "note": "Run 298 (TRENDS (December calendar hooks: GivingTuesday, treat days, sweater day, inclusion day)): GivingTuesday falls on Tue 1 Dec 2026 and runs in more than 110 countries (US 2025: 38.1M people, 13.5M donated goods), a ready hook for a sharing and kindness Short. Other kid friendly December hooks: International Day of Persons with Disabilities (3 Dec), International Volunteer Day (5 Dec), Brownie Day (8 Dec), Gingerbread House Day (12 Dec) and US Ugly Christmas Sweater Day (18 Dec). A kindness chain format joined the trend bank. Total 1269."
-  },
-  {
    "date": "2026-11-16 04:00",
    "note": "Run 299 (rules (US KIDS Act contents, state app store age laws)): The House passed KIDS Act (H.R. 7757, 29 Jun 2026) would extend privacy protection to teens, ban targeted ads to minors, require the most protective default settings and limit autoplay, push notifications and infinite scroll, but the Senate sponsor of KOSA calls it dead there. Texas's app store age law has been enforced since 28 May 2026 during appeal; Utah's deadline moved to 6 May 2027 and Louisiana's to 1 Jul 2027, with stores passing age bands (under 13, 13 to 15, 16 to 17, 18+) to apps. Total 1272."
   },
@@ -11361,13 +11378,13 @@
   {
    "date": "2026-11-16 08:03",
    "note": "Run 376 (music (what African homes stream for kids, world music twists on carols, retro ballad style)): Spotify Wrapped coverage from Nigeria, Ghana, Kenya and South Africa shows the big three kids brands dominating toddler playlists, with songs used as markers for routines (morning, car, bath, bedtime) and a 1960s ballad loved by young kids; last Christmas a Mongolian throat singing Jingle Bells went viral, proof that a world music twist on a public domain carol travels. Total 1564."
+  },
+  {
+   "date": "2026-11-16 08:03",
+   "note": "Run 377 (visual craft (Disney's 2026 holiday short and the drawing comes alive story model)): Disney's new holiday short 'The Invisible Horse' (9 Nov 2026, about 3 minutes) moves viewers with a simple original story (a boy who feels too old for Christmas and an imaginary friend) rather than famous characters, and last year's short turned a child's crayon doodle into a living friend; both are the length of our songs and suggest a Christmas story song where Little Bro's drawing comes alive, drawn with Grease Pencil inside the 3D scene. Total 1567."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-15 18:38",
-   "total": 415
-  },
   {
    "date": "2026-11-15 18:39",
    "total": 420
@@ -12563,6 +12580,10 @@
   {
    "date": "2026-11-16 08:03",
    "total": 1564
+  },
+  {
+   "date": "2026-11-16 08:03",
+   "total": 1567
   }
  ],
  "next_week_ideas": [
@@ -12587,8 +12608,8 @@
    "why": "Bebefinn's newest car mechanic song pulled 133K views in 13 hours, proving pretend play jobs still pull; our own garage song where the brothers fix a squeaky toy car with a 'tap, twist, beep' action chorus fits ages 2 to 6 everywhere."
   },
   {
-   "title": "Bunny Ears, Tie Your Shoes!",
-   "why": "Germany's big kids song channel just released a bow tying song and life skill songs travel across languages; a step by step song (loop, loop, cross, pull) with big hand close ups helps 4 to 6 year olds worldwide and parents love practical songs."
+   "title": "My Drawing Came Alive! (Christmas Story Song)",
+   "why": "Disney's last two holiday shorts (a crayon doodle that comes to life, an imaginary horse) show that a simple original 'magic friend' story moves families at Christmas; Little Bro's crayon snowman stepping off the page as a 2D Grease Pencil friend inside our 3D world gives a 3 minute story song with a huggable new character we own."
   },
   {
    "title": "Brrr, It's Freezing! (Winter Clothes Song)",
