@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:59:18+05:30",
- "runs": 499,
+ "updated": "2026-11-16T12:59:55+05:30",
+ "runs": 500,
  "branches": [
   {
    "id": "platforms",
@@ -8119,6 +8119,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 498
+    },
+    {
+     "t": "Roblox's roughly eightfold jump among Japanese primary schoolers in a year (June 2026) matches its rise elsewhere, so game world themes (obstacle courses, egg hatching, building a base) are now shared playground language for school age kids across Asia, Europe and the Americas.",
+     "src": "gamebiz.jp, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 500
     }
    ]
   },
@@ -9386,6 +9393,20 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 498
+    },
+    {
+     "t": "A June 2026 survey of 367 Japanese primary school children found Minecraft (31.8%) and Roblox (12.7%, about eight times last year) are the most played games and HikakinGames is the favourite game YouTuber for the seventh year (29.6%), so block building and obby style challenge themes reach Japanese 6 to 12 year olds.",
+     "src": "gamebiz.jp (Gametore survey), Jun 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 500
+    },
+    {
+     "t": "In a Shogakukan survey of 500 Japanese parents of 6 to 9 year olds, about 65% of children watch YouTube, most for 30 minutes to an hour a day, and the top channels are variety and Minecraft creators while kids educational channels rank 14th and below, so Japanese Bro Bros audio should aim at preschool families rather than school age kids.",
+     "src": "HugKum (Shogakukan), Aug 2024",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 500
     }
    ]
   },
@@ -13613,11 +13634,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 420 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:45",
-   "note": "Run 421 (other platforms (algorithm checked first and skipped, nothing new; Roblox music games)): Algorithm news this week (custom feeds in the top bar, Shorts originality push) was already in the tree, so the round moved to Roblox: the simple 'Musical Chairs' game has about 560M visits, a 33K player peak and 8.4 minute sessions, and bbno$'s July charity concert drew 28M unique viewers while Roblox added licensed pop tracks to its Creator Store through an indie distributor. Total 1724."
+   "note": "Earlier runs summarised: all rounds through Run 421 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:46",
@@ -13930,6 +13947,10 @@
   {
    "date": "2026-11-16 12:59",
    "note": "Run 499 (TRENDS (SocialPilot Reels audio, weekend dance news, Last Dance animation trend; all already in the tree)): Weekly trend sources have not refreshed since 13 Nov; the 'Last Dance' synced character animation, Dame Hombro shimmy and Christmas countdown sounds were already leaves, so no new leaves; fresh lists are expected around 19 to 20 Nov. Total 1931."
+  },
+  {
+   "date": "2026-11-16 12:59",
+   "note": "Run 500 (global markets (Japan's school age kids: games and YouTube habits)): Japanese primary school children mostly watch game streamers (HikakinGames first for the seventh year, Minecraft and Roblox the top games, Roblox up about eight times in a year), while kids song and educational channels rank far down for 6 to 9 year olds, so in Japan Bro Bros should target preschoolers and use game style themes for older kids. Total 1934."
   }
  ],
  "history": [
@@ -14908,6 +14929,10 @@
   {
    "date": "2026-11-16 12:59",
    "total": 1931
+  },
+  {
+   "date": "2026-11-16 12:59",
+   "total": 1934
   }
  ],
  "next_week_ideas": [
