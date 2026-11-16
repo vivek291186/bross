@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T20:39:49+05:30",
- "runs": 674,
+ "updated": "2026-11-16T21:36:48+05:30",
+ "runs": 675,
  "branches": [
   {
    "id": "platforms",
@@ -1679,6 +1679,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 663
+    },
+    {
+     "t": "AIR's partner data says channels that ran vertical (phone shaped) live streams saw reach rise up to 25%, revenue 10% to 27% and subscribers up to 10%, so a weekly vertical Bro Bros dance along live (allowed for made for kids channels, with chat off) is a cheap test.",
+     "src": "air.io, Jan 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 675
+    },
+    {
+     "t": "Instagram tested a Trending Audio filter that shows sounds popular among an account's followers and a 'May contain' label on original audio pages, so an original Bro Bros sound used by many small accounts can surface to their followers as trending.",
+     "src": "socialbee.com, Nov 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 675
     }
    ]
   },
@@ -3100,6 +3114,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 662
+    },
+    {
+     "t": "In AIR's data a kids channel that started Shorts on 19 Jun 2025 gained 52% channel views and 33% revenue in under two weeks, and AIR says daily or several a day Shorts uploads usually show results only after several weeks of steady posting, so our Shorts tests need at least a month before judging.",
+     "src": "air.io, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 675
     }
    ]
   },
@@ -15671,11 +15692,7 @@
  "log": [
   {
    "date": "2026-11-16 16:59",
-   "note": "Earlier runs summarised: all rounds through Run 595 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:59",
-   "note": "Run 596 (competitor deep dive (Little Angel main and Playtime channels)): Little Angel's main channel (7.3M, Baby John Wheels on the Bus on 13 Nov) and its Playtime channel (eye test 'not scary' song on 14 Nov, views sliding to 4.9M a month) matched leaves already in the tree, so no new leaves. Total 2086."
+   "note": "Earlier runs summarised: all rounds through Run 596 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 17:00",
@@ -15988,6 +16005,10 @@
   {
    "date": "2026-11-16 20:39",
    "note": "Run 674 (YouTube algorithm (custom feeds, Reels ranking, subscriber feed recheck)): Searches on November algorithm changes (prompt built custom feeds, Ask YouTube, original Shorts boost, Suggested beating the Subscriptions feed, Instagram's Your Algorithm) only returned findings already in the tree, so no new leaves. Total 2225."
+  },
+  {
+   "date": "2026-11-16 21:36",
+   "note": "Run 675 (Shorts and Reels (vertical live, Shorts launch lift)): Most Reels and Shorts algorithm searches returned items already in the tree (Features, Your Algorithm, Shorts series, original content). New: AIR partner data says vertical live streams lifted reach up to 25% and revenue 10 to 27%, a kids channel gained 52% channel views within two weeks of starting Shorts, and Instagram tested a Trending Audio filter that shows sounds popular among your followers. Total 2228."
   }
  ],
  "history": [
@@ -16622,6 +16643,10 @@
   {
    "date": "2026-11-16 20:39",
    "total": 2225
+  },
+  {
+   "date": "2026-11-16 21:36",
+   "total": 2228
   }
  ],
  "next_week_ideas": [
