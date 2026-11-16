@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:52:43+05:30",
- "runs": 336,
+ "updated": "2026-11-16T05:53:25+05:30",
+ "runs": 337,
  "branches": [
   {
    "id": "platforms",
@@ -9834,6 +9834,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 334
+    },
+    {
+     "t": "A school 'dance circle' clip went viral in South Africa (May 2026): pupils form a ring, cheer and clap while a teacher steps into the middle and dances, and commenters loved the warmth; the Bros can stand in a circle of friends who each jump into the middle for one move of our own song.",
+     "src": "Briefly News, May 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 337
+    },
+    {
+     "t": "US Thanksgiving falls on Thursday 26 Nov 2026, so gratitude and thank you Reels peak in the week of 19 to 26 Nov; our 'little things we love' style song and gratitude Shorts should go live from about 19 Nov, with Christmas songs taking over from 27 Nov.",
+     "src": "Calendar, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 337
+    },
+    {
+     "t": "Classroom dance clips keep spreading in 2026 in three forms: whole classes doing one simple routine in uniform, kid versus teacher battles and the cheering dance circle, so a Bro Bros chorus with one move per line that a class of 30 can copy standing in place fits all three.",
+     "src": "Briefly News and WHYY, 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 337
     }
    ]
   }
@@ -9862,10 +9883,6 @@
   {
    "date": "2026-11-15 21:01",
    "note": "Earlier runs summarised: older log lines condensed."
-  },
-  {
-   "date": "2026-11-16 01:55",
-   "note": "Run 258 (visual craft (real versus cartoon attention, uncanny faces, tool updates)): An Oxford Brookes eye tracking study of 70+ two and three year olds found they looked longer at a real person placed in a cartoon scene, and a Carnegie Mellon study found more time on a near real virtual face went with higher creepiness ratings, so stylised faces stay safest. Meshy's changelog has no new animation features since Text to Motion arrived in July 2026. Total 1130."
   },
   {
    "date": "2026-11-16 01:56",
@@ -10178,16 +10195,16 @@
   {
    "date": "2026-11-16 05:52",
    "note": "Run 336 (other platforms (Disney+ November kids slate; our Metricool check still at 14 Nov)): Metricool still has no Reels after 14 Nov (already recorded today), so the round moved to Disney+: Gracie's Corner, the YouTube sing along brand Disney bought, got Season 2 plus a separate 'Shorts' season on 13 Nov, Disney Jr. launched Ariel 'Shorts' on 4 Nov, and a real kids Bluey cooking spin off arrives 16 Nov, so streamers now package short song clips as their own seasons. Total 1395."
+  },
+  {
+   "date": "2026-11-16 05:53",
+   "note": "Run 337 (TRENDS (dance circle cheer, Thanksgiving week timing)): Little new in this week's trend sources, so the round added the evergreen school 'dance circle' moment (a teacher steps into the middle of cheering pupils and dances, viral in South Africa) and set timing for gratitude formats: US Thanksgiving is Thursday 26 Nov 2026, so 'little things we love' and thank you songs should post from about 19 Nov. Total 1398."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:57",
-   "total": 256
   },
   {
    "date": "2026-11-15 16:58",
@@ -11380,6 +11397,10 @@
   {
    "date": "2026-11-16 05:52",
    "total": 1395
+  },
+  {
+   "date": "2026-11-16 05:53",
+   "total": 1398
   }
  ],
  "next_week_ideas": [
@@ -11441,6 +11462,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Dance circle cheer",
+   "where": "TikTok school videos (South Africa, May 2026; evergreen classroom format)",
+   "status": "evergreen",
+   "use": "Friends stand in a ring clapping on the beat of our own song while one Bro jumps into the middle for one big move, then points to the next friend who jumps in; ends with everyone in the middle together. Meshy prompt: standing, clap hands overhead on the beat, then step forward and do a happy arm wave with a little hop in place."
+  },
   {
    "name": "Dear Santa list",
    "where": "Instagram Reels (week of 11 Nov 2026, Christmas songs)",
@@ -11554,12 +11581,6 @@
    "where": "TikTok, Reels and Shorts every early winter (first snow reaction videos from warm country visitors, babies and pets)",
    "status": "seasonal",
    "use": "12 to 20 second Short: Little Bro looks up as the first snowflake lands on his nose, gasps, then both Bros hold out their hands, spin slowly and jump in place as snow falls, to the chorus of our own winter song; caption 'Our first snow ever!'. Meshy prompt: standing in place, look up, hold both palms up, turn slowly in a circle, then small happy jumps in place."
-  },
-  {
-   "name": "Catchphrase on the beat",
-   "where": "TikTok ('signature line' trend, Dec 2025, likely back this December)",
-   "status": "seasonal",
-   "use": "Each brother stares at the camera with a deadpan face while our own beat builds; on the drop he shouts his catchphrase with a big pose (Big Bro: arms out wide, Little Bro: double thumbs up), then they swap and say each other's line. 8 to 12 second Short, a fun way to teach kids the characters."
   }
  ]
 }
