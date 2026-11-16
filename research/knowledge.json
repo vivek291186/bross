@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:45:21+05:30",
- "runs": 784,
+ "updated": "2026-11-17T00:46:20+05:30",
+ "runs": 785,
  "branches": [
   {
    "id": "platforms",
@@ -7146,6 +7146,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 737
+    },
+    {
+     "t": "Twelve years of Growing Up in New Zealand data (over 6,000 children) show most babies are sung to daily but parents sing less as children grow while children listen to more music on their own, so for the 4 to 8 year olds watching alone our songs must do the inviting a parent used to do: clear 'sing it with me' cues, a call and response line and a repeated chorus the child can lead.",
+     "src": "scimex.org (Journal of the Royal Society of New Zealand), Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-17",
+     "run": 785
     }
    ]
   },
@@ -16560,11 +16567,7 @@
  "log": [
   {
    "date": "2026-11-16 22:05",
-   "note": "Earlier runs summarised: all rounds through Run 705 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 22:05",
-   "note": "Run 706 (algorithm experiments (24/7 streams recheck; trends skipped after an empty trends round)): 24/7 live stream case searches (Heidi and Zidane, DONA English, Gyre) were already in the tree and the one new case (a DIY channel, 2025) is not kids content; no new leaves. Total 2278."
+   "note": "Earlier runs summarised: all rounds through Run 706 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:06",
@@ -16877,6 +16880,10 @@
   {
    "date": "2026-11-17 00:45",
    "note": "Run 784 (TRENDS (holiday season early signals, Virlo late October list, Know Your Meme roundups)): Holiday decor, gratitude tablecloth, retro multicolour Christmas, paparazzi bow and the Know Your Meme November roundups were already in the tree or not kid safe; new: the count of three 'pick your favourite thing' grab challenge and animated free dance loops spreading as GIF memes. Total 2352."
+  },
+  {
+   "date": "2026-11-17 00:46",
+   "note": "Run 785 (music craft (child music studies, Grammy nominees, Suno and streaming checks)): The 2027 Grammy children's nominees, Suno v6, Baby Shark's Spotify billion and infant movement studies were already in the tree; new: New Zealand's 12 year cohort shows parental singing fades as children age while solo listening rises, so songs for older kids need built in sing along cues. Total 2353."
   }
  ],
  "history": [
@@ -17951,6 +17958,10 @@
   {
    "date": "2026-11-17 00:45",
    "total": 2352
+  },
+  {
+   "date": "2026-11-17 00:46",
+   "total": 2353
   }
  ],
  "next_week_ideas": [
