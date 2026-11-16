@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T18:41:46+05:30",
- "runs": 642,
+ "updated": "2026-11-16T18:43:25+05:30",
+ "runs": 643,
  "branches": [
   {
    "id": "platforms",
@@ -15133,6 +15133,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 640
+    },
+    {
+     "t": "Spotify confirmed that artists had until 6 Nov 2026 to submit personalised Wrapped video messages under 30 seconds, while the Wrapped 2026 date itself was still unannounced on 4 Nov (predicted Wednesday 2 Dec), so if Bro Bros songs are on Spotify we should be set up in Spotify for Artists by October next year to send a thank you clip.",
+     "src": "officialcharts.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 643
+    },
+    {
+     "t": "The Christmas TikTok dances whole families joined were group or partner routines on classic carols with about four simple, repeatable moves (described as the easiest everyone in the family can learn), while versions with more footwork stayed niche, so a Bro Bros Christmas dance should have four standing moves that loop.",
+     "src": "elitedaily.com, Dec 2020",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 643
+    },
+    {
+     "t": "Kapwing's November 2025 'horses in the stable' dance had people stand perfectly calm and still, then burst into a galloping dance the moment the beat dropped; the calm then wild contrast is easy for small kids and suits a Bro Bros reindeer or pony song.",
+     "src": "kapwing.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 643
     }
    ]
   }
@@ -15161,10 +15182,6 @@
   {
    "date": "2026-11-16 16:39",
    "note": "Earlier runs summarised: all rounds through Run 560 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 16:42",
-   "note": "Run 564 (TRENDS (winter and New Year family formats)): Two seasonal family formats for December: a time lapse rainbow ice igloo build (one family's video passed 70M views) and the 'Noon Year's Eve' balloon countdown, where each numbered balloon popped holds an activity; both added to the trend bank as Bro Bros formats. Total 2059."
   },
   {
    "date": "2026-11-16 16:43",
@@ -15477,6 +15494,10 @@
   {
    "date": "2026-11-16 18:41",
    "note": "Run 642 (visual craft (character appeal factors, children's colour perception, brand short series)): A 2025 Purdue study of 60 animated clips found colour palette was the strongest driver of character appeal, then proportions; a Kyoto PNAS study found children from age 3 judge colours almost exactly like adults; LEGO and BBC Studios launched Bluey brick shorts as ten 2 minute weekly episodes in 12 languages at once, and Spin Master turned a Roblox game into a YouTube animated series. Total 2152."
+  },
+  {
+   "date": "2026-11-16 18:43",
+   "note": "Run 643 (TRENDS (Wrapped artist messages, family Christmas dance shape, calm then gallop drop)): Spotify still had not confirmed the Wrapped 2026 date on 4 Nov but closed artist video message submissions (under 30 seconds) on 6 Nov; the Christmas dances families actually joined were simple group or partner routines with about four basic moves; Kapwing's Nov 2025 'horses in the stable' format (stand still, then gallop when the beat drops) is a ready made kid move. Total 2155."
   }
  ],
  "history": [
@@ -15983,6 +16004,10 @@
   {
    "date": "2026-11-16 18:41",
    "total": 2152
+  },
+  {
+   "date": "2026-11-16 18:43",
+   "total": 2155
   }
  ],
  "next_week_ideas": [
@@ -16044,6 +16069,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Calm then gallop",
+   "where": "TikTok and Reels, recurring beat drop format",
+   "status": "evergreen",
+   "use": "The brothers stand still in a stable or snowy field with tiny smiles while the music hums quietly; on the drop of our own 'Giddy Up Reindeer' song they gallop in place with reins hands. Meshy motion: standing still for two seconds, then jog in place lifting knees high with both fists held forward, bouncing."
+  },
+  {
+   "name": "Four move family Christmas dance",
+   "where": "TikTok, Reels and Shorts every December",
+   "status": "seasonal",
+   "use": "An original Bro Bros Christmas song with exactly four looping moves the whole family can copy: step touch side to side with jingle hands, roll the arms forward, point up to the star, spin once in place with arms out. Meshy motion: standing, step right and left with hands shaking at shoulder height, then arm roll, then one arm points up, then a slow full turn in place."
+  },
   {
    "name": "Leaf crunch rating",
    "where": "Instagram Reels, Korea and US, autumn",
@@ -16151,18 +16188,6 @@
    "where": "TikTok (Virlo, late Oct 2026)",
    "status": "rising",
    "use": "The two Bros stand behind a table of three items (a scarf, a ball, a banana), the song counts one, two, three and both grab their favourite; if they match they jump and high five, if not they swap. Short loop for a Short or Reel with our own counting song."
-  },
-  {
-   "name": "Tree in five beats",
-   "where": "Instagram Reels (SocialPilot list 31 Oct to 10 Nov 2026), all December",
-   "status": "seasonal",
-   "use": "A 10 second Reel to our own Christmas song: locked camera on a bare tree in the Bros' playroom; on each of five strong beats a cut adds one thing (lights, baubles, tinsel, star, presents) while the Bros stand either side and do one clap above the head per cut; on the last beat both point up at the star and wave. Meshy prompt: standing in place, clap hands above head once, then point up with right hand and wave."
-  },
-  {
-   "name": "Teach then everyone joins",
-   "where": "Instagram Reels (duo then class format, Nov 2026)",
-   "status": "rising",
-   "use": "A 20 second Short to our own dance song: the two Bros face camera and teach a 4 move standing routine (clap, clap, arms up, wiggle), then the camera pulls back and all our animal friends are behind them doing it together on the final chorus. Meshy prompt: standing in place, clap twice, raise both arms up, wiggle hips side to side."
   }
  ]
 }
