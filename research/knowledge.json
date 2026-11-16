@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T05:55:59+05:30",
- "runs": 340,
+ "updated": "2026-11-16T05:56:31+05:30",
+ "runs": 341,
  "branches": [
   {
    "id": "platforms",
@@ -4472,6 +4472,27 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 329
+    },
+    {
+     "t": "Musicologist Joe Bennett's analysis of the 78 most streamed holiday songs on Spotify found 95% are in a major key, the median tempo is about 115 BPM (a little under pop's 120), 90% are in 4/4, 38% use sleigh bells and 35% use a swing or shuffle rhythm, a clear Suno recipe for Bro Bros Christmas songs.",
+     "src": "Discover Magazine, Dec 2021",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 341
+    },
+    {
+     "t": "Tubular or church style bells and group or children's choir singing are the other strongest 'Christmas' signals, and new holiday hits borrow chord moves from older classics; since Suno child choirs can sound uncanny, a warm adult group 'everyone sing' chorus plus bells gives the same festive feel.",
+     "src": "Discover Magazine, Dec 2021",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 341
+    },
+    {
+     "t": "A label's analysis of 50 years of UK Christmas number ones (Ostereo, 2018) found the typical one is in G major at about 114 BPM and about 4 minutes long, matching Bennett's 115 BPM; for kids we keep G major and 110 to 118 BPM but cut length to about 2 to 3 minutes.",
+     "src": "NME, Dec 2018",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 341
     }
    ]
   },
@@ -9948,10 +9969,6 @@
    "note": "Earlier runs summarised: older log lines condensed."
   },
   {
-   "date": "2026-11-16 01:58",
-   "note": "Run 262 (TRENDS (winter dance template, 2026 Christmas decor looks)): Last January's 'Winter Vibes' TikTok dance (sway, snowflake fingers, cozy twist, spin, freeze, with family and adaptive versions) is the clearest template for a winter routine, so the snowflake entry in the trend bank now holds its exact steps without the squat. Homes and Gardens' 2026 decor trends (bright 'Kitschmas' critter ornaments, paper chains and dried orange garlands) give ready set dressing ideas. Total 1142."
-  },
-  {
    "date": "2026-11-16 01:59",
    "note": "Run 263 (monetisation (YouTube ad growth slowing, TV share and CPM context)): YouTube's Q3 2026 ad revenue was about $11.2B, up 9.2%, its slowest growth of 2026, even as YouTube hit a record 15.8% of US TV time in August; midterm political ads pushed premium CTV CPMs up for a while, so December rates will lean on holiday retail demand instead. Total 1145."
   },
@@ -10262,16 +10279,16 @@
   {
    "date": "2026-11-16 05:55",
    "note": "Run 340 (TRENDS (dinosaur and fairytale twists in November kids films)): Social trend trackers had nothing new since the last round, so the round checked what kids are being shown on streamers this month: dinosaurs (a pup team movie with a new dino friend, 12 Nov), a Cinderella retelling where the stepsisters are kind (Netflix, 20 Nov), a Nutcracker remake (1 Nov) and a 'home alone' holiday defence (Disney+, 27 Nov). Dinosaur friends and kind twist fairytales are this month's story hooks. Total 1407."
+  },
+  {
+   "date": "2026-11-16 05:56",
+   "note": "Run 341 (music craft (what makes a song sound like Christmas)): Berklee musicologist Joe Bennett's study of the 78 most streamed holiday songs found 95% in a major key, a median tempo of 115 BPM, 90% in 4/4, sleigh bells in 38% and a swing or shuffle feel in 35%; tubular bells and choirs also signal Christmas. A label's analysis of 50 years of UK Christmas No. 1s points to G major and about 114 BPM. These give a ready Suno recipe for our December songs. Total 1410."
   }
  ],
  "history": [
   {
    "date": "2026-11-15 16:45",
    "total": 207
-  },
-  {
-   "date": "2026-11-15 16:59",
-   "total": 271
   },
   {
    "date": "2026-11-15 17:00",
@@ -11464,6 +11481,10 @@
   {
    "date": "2026-11-16 05:55",
    "total": 1407
+  },
+  {
+   "date": "2026-11-16 05:56",
+   "total": 1410
   }
  ],
  "next_week_ideas": [
