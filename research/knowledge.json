@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T09:37:06+05:30",
- "runs": 414,
+ "updated": "2026-11-16T09:38:07+05:30",
+ "runs": 415,
  "branches": [
   {
    "id": "platforms",
@@ -8315,6 +8315,34 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 403
+    },
+    {
+     "t": "Kids Tv Bangla (3.69M subscribers) gets about 55M views every 28 days but vidIQ models only about 2,500 USD a month in ads, roughly 0.05 USD per 1,000 views, so Bengali language views bring reach but almost no income compared with English views from rich countries.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 415
+    },
+    {
+     "t": "That channel's strongest recent upload is an August 2026 remake of an old Bengali folk rhyme (9.3M views, about 68 times its usual), so in South Asian markets refreshed classic local rhymes still beat new songs; for us that argues for original songs in English first and local dubs later, not local rhyme remakes.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 415
+    },
+    {
+     "t": "HypeAuditor's top 100 Pakistani YouTube channels by subscribers (Nov 2026) are led by TV networks and dramas (Geo, ARY, HUM) and contain no kids or nursery rhyme channel, which suggests Pakistani children mostly watch global English or Hindi and Urdu kids channels from abroad.",
+     "src": "hypeauditor.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 415
+    },
+    {
+     "t": "Bengali rhyme channels grow steadily rather than in spikes (Kids Tv Bangla has added about 35M to 90M views a month since late 2024 and about 40K to 50K subscribers a month), the slow and steady pattern of a library of evergreen rhymes and compilations.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 415
     }
    ]
   },
@@ -11967,10 +11995,6 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 05:51",
-   "note": "Run 335 (rules and safety (EU Digital Fairness Act proposal, Ofcom and YouTube feeds)): The EU Commission proposed the Digital Fairness Act on 11 Nov 2026: bans on dark patterns, limits on personalised ads and prices for minors, clear influencer disclosure, the right to switch off addictive features and fines up to 6% of turnover; it now goes to Parliament and Council. In the UK, YouTube declined Ofcom's call to overhaul its recommendation feeds in May, while Ofcom found 73% of 11 to 17 year olds met harmful content in four weeks. Total 1391."
-  },
-  {
    "date": "2026-11-16 05:52",
    "note": "Run 336 (other platforms (Disney+ November kids slate; our Metricool check still at 14 Nov)): Metricool still has no Reels after 14 Nov (already recorded today), so the round moved to Disney+: Gracie's Corner, the YouTube sing along brand Disney bought, got Season 2 plus a separate 'Shorts' season on 13 Nov, Disney Jr. launched Ariel 'Shorts' on 4 Nov, and a real kids Bluey cooking spin off arrives 16 Nov, so streamers now package short song clips as their own seasons. Total 1395."
   },
@@ -12285,6 +12309,10 @@
   {
    "date": "2026-11-16 09:37",
    "note": "Run 414 (TRENDS (chipmunk trio dance, slow motion entrances, 'go go go', numbered cliffhanger stories)): NewEngen's November list (updated 13 Nov) adds a sped up chipmunk voiced trio routine (hops, kicks, spins), slow motion group entrances, a frantic 'go go go' gesture lip sync and animated stories in numbered parts ending on cliffhangers; added three kid safe versions to the trend bank and dropped the late October snack game. Total 1696."
+  },
+  {
+   "date": "2026-11-16 09:38",
+   "note": "Run 415 (global markets (Bengali and Pakistani kids audiences)): vidIQ shows Kids Tv Bangla at 3.69M subscribers and about 55M views a month yet only about 2,500 USD modelled monthly ad income, so Bengali views pay very little; its best recent upload is an August remake of a classic folk rhyme (68 times its usual views). Pakistan's top 100 YouTube channels by subscribers contain no kids channel at all. Total 1700."
   }
  ],
  "history": [
@@ -12923,6 +12951,10 @@
   {
    "date": "2026-11-16 09:37",
    "total": 1696
+  },
+  {
+   "date": "2026-11-16 09:38",
+   "total": 1700
   }
  ],
  "next_week_ideas": [
