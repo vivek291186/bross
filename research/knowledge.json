@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T12:49:40+05:30",
- "runs": 491,
+ "updated": "2026-11-16T12:50:50+05:30",
+ "runs": 492,
  "branches": [
   {
    "id": "platforms",
@@ -4724,6 +4724,20 @@
      "conf": "low",
      "date": "2026-11-16",
      "run": 489
+    },
+    {
+     "t": "In the week of 2 to 8 Nov 2026 Cadel and Mia fell from first to third most viewed channel worldwide with weekly views down 24%, while Sierra and Rhia English rose from 8th to 6th and their FAM channel from 12th to 8th, so even giant family Shorts channels swing a quarter of their views week to week.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 492
+    },
+    {
+     "t": "In CreatorDB's Sep 2026 study, Grandma Dong's 14 second rural life Shorts averaged about 71K views while the same channel's long videos had a median of only about 840, a reminder that a Shorts audience does not automatically follow to long form; Bro Bros Shorts must point clearly to the full song.",
+     "src": "CreatorDB, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 492
     }
    ]
   },
@@ -13508,11 +13522,7 @@
  "log": [
   {
    "date": "2026-11-16 09:02",
-   "note": "Earlier runs summarised: all rounds through Run 412 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 09:35",
-   "note": "Run 413 (topics (UK toy boom, family play, why kids quit apps)): Circana via MadeForMums (11 Nov): UK toy sales to October are up 17%, a 10 year high, led by squishies and stickers (+45%) and building sets (+32%), and hands on play is rising as screen time debate grows; PwC's Gen Alpha survey says kids 7 to 14 quit apps mostly from boredom (52%) and too many ads (47%). Total 1690."
+   "note": "Earlier runs summarised: all rounds through Run 413 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 09:37",
@@ -13825,6 +13835,10 @@
   {
    "date": "2026-11-16 12:49",
    "note": "Run 491 (rules and safety (rechecked AI slop purge, YouTube Kids gate, Disney COPPA order; mostly already in the tree)): Rules sources are now almost fully covered; the only new practical points are the compliance habits in the final Disney order (decide made for kids per video with written criteria, a named owner and regular audits of labels and third party tags) and that 88% of US parents of 2 to 5 year olds say their child prefers YouTube to TV. Total 1916."
+  },
+  {
+   "date": "2026-11-16 12:50",
+   "note": "Run 492 (YouTube channels (our Metricool data unchanged since this morning, so skipped; Tubefilter week of 8 Nov rechecked)): Metricool still shows the same 14 to 15 Nov Reels (Ant Parade best at 113 views), so our own focus was skipped; the 8 Nov Tubefilter chart shows the top family Shorts spot rotating week to week (Cadel and Mia fell from first to third, views down 24%, as both Sierra and Rhia channels climbed). Total 1918."
   }
  ],
  "history": [
@@ -14771,6 +14785,10 @@
   {
    "date": "2026-11-16 12:49",
    "total": 1916
+  },
+  {
+   "date": "2026-11-16 12:50",
+   "total": 1918
   }
  ],
  "next_week_ideas": [
