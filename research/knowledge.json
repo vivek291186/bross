@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T00:50:59+05:30",
- "runs": 790,
+ "updated": "2026-11-17T00:51:44+05:30",
+ "runs": 791,
  "branches": [
   {
    "id": "platforms",
@@ -16629,12 +16629,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:08",
-   "note": "Earlier runs summarised: all rounds through Run 711 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
    "date": "2026-11-16 22:09",
-   "note": "Run 712 (other platforms (Netflix animated rankings and kids viewership recheck; trends skipped after an empty trends round)): Netflix's 2026 animated series ranking (Peppa Pig, The Creature Cases, Little Angel, Bebefinn) and the H2 2025 kids viewership report were already in the tree; no new leaves. Total 2279."
+   "note": "Earlier runs summarised: all rounds through Run 712 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 22:09",
@@ -16947,6 +16943,10 @@
   {
    "date": "2026-11-17 00:50",
    "note": "Run 790 (TRENDS (Later and SocialPilot Reels lists, year end trend reports)): Later's 13 Nov Reels list (5 stages, fixed camera outfit swap, appointment timestamps) and SocialPilot's audio list were already in the tree; new: Google's 2025 Year in Search put a mirror duo dance in the US top 10, so the early December 2026 year end lists are the next trend source to watch. Total 2362."
+  },
+  {
+   "date": "2026-11-17 00:51",
+   "note": "Run 791 (rules and safety (FTC COPPA orders, AI labels on kids content, EU Digital Fairness Act)): The Disney COPPA order lessons, the May 2026 AI label rules (not shown on YouTube Kids, softer for animation) and the 11 Nov EU Digital Fairness Act proposal were already in the tree; no new leaves. Total 2362."
   }
  ],
  "history": [
@@ -18044,6 +18044,10 @@
   },
   {
    "date": "2026-11-17 00:50",
+   "total": 2362
+  },
+  {
+   "date": "2026-11-17 00:51",
    "total": 2362
   }
  ],
