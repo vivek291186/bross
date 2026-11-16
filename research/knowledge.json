@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T16:09:36+05:30",
- "runs": 550,
+ "updated": "2026-11-16T16:09:58+05:30",
+ "runs": 551,
  "branches": [
   {
    "id": "platforms",
@@ -4969,6 +4969,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 548
+    },
+    {
+     "t": "German channel Kinderlieder zum Mitsingen und Bewegen (3.47M subscribers, 4.9B views) got about 33M views and 10K subscribers in the 28 days to 15 Nov 2026; its two biggest videos are 'who took the cookie from the jar' (24.4M) and 'your bone is gone, doggy' (22.9M), both sing, dance and move songs about something going missing.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-16",
+     "run": 551
     }
    ]
   },
@@ -8483,6 +8490,13 @@
      "conf": "high",
      "date": "2026-11-16",
      "run": 541
+    },
+    {
+     "t": "Practical skill songs are still being made for the new season: the German sing and move channel's 13 Nov 2026 upload teaches tying shoelaces ('tying bows is not hard'), joining brushing teeth and handwashing as skills parents look for in songs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 551
     }
    ]
   },
@@ -11654,6 +11668,13 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 530
+    },
+    {
+     "t": "The 'something got taken, who did it?' hook now has three independent wins: our cookie mystery and ant parade Reels were our best of the week, and a German movement channel's two all time top songs are a stolen cookie and a lost dog bone, so a missing snack or toy mystery should be a regular Bro Bros format.",
+     "src": "own synthesis of vidIQ and Metricool data, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 551
     }
    ]
   },
@@ -14327,11 +14348,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 471 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:49",
-   "note": "Run 472 (TRENDS (Know Your Meme weekly roundups, school dance virals; most already covered)): Know Your Meme's 6 Nov 2026 roundup adds 'W Chews / L Nibbles' (new slang for good food and bad food, shown in silly AI videos of a toddler character eating); the rest of that roundup (thirst trap poses, angry political memes, rude wordplay) is not kid safe. Added a food positive 'Big Chew or Tiny Nibble' format to the trend bank. Total 1858."
+   "note": "Earlier runs summarised: all rounds through Run 472 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:50",
@@ -14644,6 +14661,10 @@
   {
    "date": "2026-11-16 16:09",
    "note": "Run 550 (our results (rules skipped as rechecked at 16:03; Metricool rechecked at 16:10 IST)): Metricool still holds YouTube video stats only to 11 Nov and Reels to 15 Nov (Ant Parade 113 views, Golu Didi story 9), unchanged all afternoon, so no new leaves. Total 2033."
+  },
+  {
+   "date": "2026-11-16 16:09",
+   "note": "Run 551 (YouTube channels (German sing and move channel; our data skipped as unchanged)): Germany's Kinderlieder zum Mitsingen und Bewegen (3.47M subscribers, about 33M views a month) has as its two biggest hits a 'who took the cookie from the jar' movement song (24.4M) and a 'your bone is gone, doggy' song (22.9M), the same taken snack hook that gave our two best Reels; its newest upload teaches tying shoelaces. Total 2036."
   }
  ],
  "history": [
@@ -15826,6 +15847,10 @@
   {
    "date": "2026-11-16 16:09",
    "total": 2033
+  },
+  {
+   "date": "2026-11-16 16:09",
+   "total": 2036
   }
  ],
  "next_week_ideas": [
