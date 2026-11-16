@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-16T15:48:06+05:30",
- "runs": 531,
+ "updated": "2026-11-16T15:49:00+05:30",
+ "runs": 532,
  "branches": [
   {
    "id": "platforms",
@@ -6194,6 +6194,20 @@
      "conf": "medium",
      "date": "2026-11-16",
      "run": 520
+    },
+    {
+     "t": "Spotify Wrapped 2025 coverage from Nigeria, Ghana, Kenya and South Africa says the youngest children are shaping what whole households stream: CoComelon, Pinkfong and Super Simple nursery songs sit beside gentle old pop songs (a 1960s baby song, a soft 'You Are My Sunshine' cover) and local language lullabies, so a soft, retro sounding Bro Bros lullaby can enter family playlists, not only kids playlists.",
+     "src": "Newstrends Kenya, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-16",
+     "run": 532
+    },
+    {
+     "t": "Music educators describe the five note pentatonic scale as the easiest scale to sing and one that sits under folk songs around the world, but the claim rests on teaching practice rather than a cited study; it is still a safe default for our chorus melodies because no wrong sounding note can appear.",
+     "src": "KVNO, Nov 2025",
+     "conf": "low",
+     "date": "2026-11-16",
+     "run": 532
     }
    ]
   },
@@ -14152,11 +14166,7 @@
  "log": [
   {
    "date": "2026-11-16 10:45",
-   "note": "Earlier runs summarised: all rounds through Run 452 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 11:06",
-   "note": "Run 453 (TRENDS (year ahead trend reports: Pinterest Predicts timing, letter writing revival)): Pinterest Predicts, which Pinterest says has been 88% accurate over six years, came out on 9 Dec last year, so the 2027 edition should land in early December; its 2026 list also forecast a letter writing revival (snail mail gift searches up 110%, pen pal ideas up 90%), which supports a handwritten letter to Santa song this month. Total 1815."
+   "note": "Earlier runs summarised: all rounds through Run 453 (our results (rules saturated so skipped; fresh Metricool sync covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 11:07",
@@ -14469,6 +14479,10 @@
   {
    "date": "2026-11-16 15:48",
    "note": "Run 531 (TRENDS (Spanish, Portuguese and Indonesian language kids dance searches)): English trend lists were exhausted for this hour, so this round searched other languages; new: the Mexican 'kangaroo dance' (side to side steps and small hops to a cumbia classic) jumped to school groups in South Korea and Japan, showing that a simple hop and sway group dance travels across cultures. Added as an evergreen trend bank move. Total 2008."
+  },
+  {
+   "date": "2026-11-16 15:49",
+   "note": "Run 532 (music craft (Grammy kids category, pentatonic melodies, African family listening, Kid Albums chart)): Most music sources were already in the tree; new: Spotify Wrapped 2025 coverage from Nigeria, Ghana, Kenya and South Africa says toddlers now steer whole family playlists, mixing CoComelon, Pinkfong and Super Simple with gentle old pop songs and local language lullabies; the pentatonic scale is cited as the easiest scale to sing but without a study, so it stays a low confidence craft tip. Total 2010."
   }
  ],
  "history": [
@@ -15575,6 +15589,10 @@
   {
    "date": "2026-11-16 15:48",
    "total": 2008
+  },
+  {
+   "date": "2026-11-16 15:49",
+   "total": 2010
   }
  ],
  "next_week_ideas": [
