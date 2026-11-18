@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:40+05:30",
- "runs": 821,
+ "updated": "2026-11-19T02:41+05:30",
+ "runs": 822,
  "branches": [
   {
    "id": "platforms",
@@ -9806,6 +9806,27 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 818
+    },
+    {
+     "t": "Bloomberg Businessweek's 2026 look inside Gen Alpha bedrooms found retro music gear everywhere (karaoke mics, drum machines, boomboxes, instant cameras) and hobbies like beatmaking, choir and piano, so a Bro Bros song where the brothers build a beat on a toy drum machine, one sound per line, matches what kids actually own and do.",
+     "src": "bloomberg.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 822
+    },
+    {
+     "t": "The same Bloomberg survey of kids' rooms lists dinosaurs, disco and glam, trucks, pandas and wizardry as favourite themes, with pink, metallic glitter, gold and silver, bright blue and polka dots as the standout colours, a ready palette for a glittery New Year disco set for the Bros.",
+     "src": "bloomberg.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 822
+    },
+    {
+     "t": "ABC News' Oct 2026 roundup of Amazon and Walmart trending toys says squishy toys are having an especially big moment in 2026 (some shops cannot keep them in stock), with social media pushing small sensory collectibles and Walmart listing magnetic building sets, so squish, stretch and snap together moments are safe visual hooks this holiday season.",
+     "src": "abcnews.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 822
     }
    ]
   },
@@ -16980,11 +17001,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 743 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:02",
-   "note": "Run 744 (YouTube main and Kids (Netflix Jr, Super Simple 20th; our results skipped as unchanged)): Netflix Jr (26.6M subs) now posts daily Doozie's Doghouse clips with wheel spin and hide and seek game hooks that promote its Netflix Playground games app; Super Simple's 20th anniversary facts were already in the tree. Total 2312."
+   "note": "Earlier runs summarised: all rounds through Run 744 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:03",
@@ -17297,13 +17314,13 @@
   {
    "date": "2026-11-19 02:40",
    "note": "Run 821 (visual craft (Blender 5.3 EEVEE notes)): Thumbnail, title and Meshy tool studies were already in the tree. New from the Blender 5.3 EEVEE notes: the sky texture sun disc now lights the scene (a breaking change for old files), six new material lighting nodes allow true toon shading, and Vulkan is faster in some scenes and slower in others. Total 2412."
+  },
+  {
+   "date": "2026-11-19 02:41",
+   "note": "Run 822 (topics and seasons (Gen Alpha rooms, trending toy themes)): Skipped a second TRENDS round within minutes of the last. Season dates, toy lists and World Children's Day were already in the tree. New: Bloomberg's 2026 look at Gen Alpha rooms shows kids owning retro music gear (boomboxes, karaoke mics, drum machines) and loving disco, glitter, pandas and wizards; ABC News says squishy toys are having an especially big 2026. Added the song idea 'Boombox Beat Bros!'. Total 2415."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 10:00",
-   "total": 1756
-  },
   {
    "date": "2026-11-16 11:00",
    "total": 1804
@@ -18499,9 +18516,17 @@
   {
    "date": "2026-11-19 02:40",
    "total": 2412
+  },
+  {
+   "date": "2026-11-19 02:41",
+   "total": 2415
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Boombox Beat Bros! (Make a Beat Song)",
+   "why": "Gen Alpha rooms in 2026 are full of drum machines, karaoke mics and boomboxes, and beatmaking is a real kid hobby; the Bros add one sound per line (clap, stomp, boop, snap) until the full beat plays, a clap along song that works in any language."
+  },
   {
    "title": "Little Whale Finds Her Song",
    "why": "December family films lean on ocean and forest nature stories; an original lullaby pace song where a small whale tries a hum, a splash and a big echo, and the brothers help her sing, is character free, global and calm for bedtime playlists."
