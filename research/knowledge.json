@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:48+05:30",
- "runs": 823,
+ "updated": "2026-11-19T02:49+05:30",
+ "runs": 824,
  "branches": [
   {
    "id": "platforms",
@@ -5725,6 +5725,27 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 813
+    },
+    {
+     "t": "The Wiggles (11M subscribers, about 6.26B views, 1,483 videos) upload about one short song a day (1 to 3.5 minutes) with a median of about 54K views, yet a farm animal remake of Wheels on the Bus (15 Oct 2026) passed 3.7M in under three weeks while new originals sat at 8K to 30K, so classic rhyme remakes still carry daily uploaders.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 824
+    },
+    {
+     "t": "The Wiggles remake their own hits in a new genre ('Bouncing Balls, Country Music Version', 343K views in under two weeks, far above their median) and title songs as name, emoji, brand, then a plain descriptor ('Fun Animal Song for Kids', 'Nursery Rhyme'), so a country, reggae or rock version of a Bro Bros hit is a cheap second upload.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 824
+    },
+    {
+     "t": "The Wiggles released 20 studio albums in one year under a global Universal Music deal and say their YouTube audience is growing in Germany, Italy and France, with plans to take the catalogue into more languages (they already run Los Wiggles for Latin America), so European languages are rising for English preschool music too.",
+     "src": "senalnews.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 824
     }
    ]
   },
@@ -17022,11 +17043,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 745 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:03",
-   "note": "Run 746 (Shorts and Reels (made for kids Shorts reach, Shorts timer)): Searches on made for kids Shorts (AIR RPM and PlayToys cases, the zero Shorts timer, Metricool's 799,718 video study, AI slop investigations) returned only items already in the tree; no new leaves. Total 2312."
+   "note": "Earlier runs summarised: all rounds through Run 746 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:04",
@@ -17339,13 +17356,13 @@
   {
    "date": "2026-11-19 02:48",
    "note": "Run 823 (global markets (Saudi Arabia ranking, Plim Plim growth)): Dubbing and market size data were already deep in the tree. New: three of Saudi Arabia's 20 most subscribed channels are Arabic kids channels (two of them song channels, 24.3M and 22.1M), and Plim Plim reached 2B monthly views in May 2026, doubling in about two years with values based songs across languages. Total 2418."
+  },
+  {
+   "date": "2026-11-19 02:49",
+   "note": "Run 824 (competitor deep dive (The Wiggles)): The big competitors (CoComelon, Super Simple, BabyBus, Bebefinn, Pinkfong, Danny Go!) were already covered up to 16 Nov. New on The Wiggles: daily uploads of 1 to 3.5 minute songs with a 54K median, a farm animal Wheels on the Bus remake at 3.7M in under three weeks, genre flip remakes of its own hits, 20 albums in a year and a fast growing audience in Germany, Italy and France. Total 2421."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 12:00",
-   "total": 1888
-  },
   {
    "date": "2026-11-16 13:00",
    "total": 1938
@@ -18541,6 +18558,10 @@
   {
    "date": "2026-11-19 02:48",
    "total": 2418
+  },
+  {
+   "date": "2026-11-19 02:49",
+   "total": 2421
   }
  ],
  "next_week_ideas": [
