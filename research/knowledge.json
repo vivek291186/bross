@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:51+05:30",
- "runs": 827,
+ "updated": "2026-11-19T02:52+05:30",
+ "runs": 828,
  "branches": [
   {
    "id": "platforms",
@@ -5746,6 +5746,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 824
+    },
+    {
+     "t": "YUM YUM Kids Songs (US, since May 2023, 1.25M subscribers, 590M views from 573 videos) grew on one repeatable concept: 'School Bus Lost Wheel' (143.5M views) then the same story with an ambulance (27.1M) and an excavator (25.9M), so one strong problem story can be re run with new vehicles or animals as a Bro Bros series.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 828
+    },
+    {
+     "t": "YUM YUM's best month of 2026 was October (35.8M views against 15M to 24M in other months) even though its last upload was a Halloween bus remix on 30 Sep, showing that a seasonal version of a proven hit posted a month early keeps earning through the whole season without new uploads.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 828
+    },
+    {
+     "t": "Farmees (9.87M subscribers, 3.34B views, 1,896 videos) has had no subscriber change in 28 days and its newest uploads (Christmas Shorts, 28 minute dance compilations, rhyme Shorts stuffed with #trending #viral tags) draw only about 4K to 28K views each, a warning that hashtag stuffing and recycled rhymes no longer lift a large channel.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 828
     }
    ]
   },
@@ -17106,11 +17127,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 749 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:05",
-   "note": "Run 750 (rules and safety (AI kids video errors; topics skipped after thin toy trend results)): Undark and The 74 documented AI kids channels at about 50 uploads a day with unsafe modelling and hidden teaching errors, after which YouTube acted on at least seven channels; toy trend searches added nothing new. Total 2316."
+   "note": "Earlier runs summarised: all rounds through Run 750 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:06",
@@ -17423,13 +17440,13 @@
   {
    "date": "2026-11-19 02:51",
    "note": "Run 827 (our own results (Metricool YouTube and Instagram to 17 Nov)): Metricool now has YouTube to 15 Nov and Instagram to 17 Nov. YouTube averaged about 1,080 views a day in 11 to 15 Nov against about 730 in 4 to 10 Nov (+49%), with 15 Nov at 1,301 views from only 2 uploads, but subscribers only moved from 2,130 to 2,150. Instagram Reels fell from about 80 views each (4 to 8 Nov) to about 30 (10 to 17 Nov) and the account still shows 1 follower. Total 2430."
+  },
+  {
+   "date": "2026-11-19 02:52",
+   "note": "Run 828 (YouTube main and YouTube Kids (mid size song channels on vidIQ)): Tubefilter's 15 Nov chart is still not out and no new YouTube Kids app change turned up. New from vidIQ: YUM YUM Kids Songs (US) built 590M views on one repeatable 'lost wheel' vehicle concept and had its best 2026 month in October (35.8M) with no uploads since 30 Sep; Farmees (9.87M) has stalled with new uploads at only 4K to 28K views. Total 2433."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 15:45",
-   "total": 2003
-  },
   {
    "date": "2026-11-16 15:46",
    "total": 2003
@@ -18625,9 +18642,17 @@
   {
    "date": "2026-11-19 02:51",
    "total": 2430
+  },
+  {
+   "date": "2026-11-19 02:52",
+   "total": 2433
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Little Sled Lost Its Bell! (Winter Vehicle Rescue Song)",
+   "why": "The 'lost wheel' vehicle story built a 143M view hit and two 26M sequels for a small US channel; our winter version has the Bros help a sled, a snowplough and a toy train find what they lost, one vehicle per verse, a series we can repeat all season."
+  },
   {
    "title": "Boombox Beat Bros! (Make a Beat Song)",
    "why": "Gen Alpha rooms in 2026 are full of drum machines, karaoke mics and boomboxes, and beatmaking is a real kid hobby; the Bros add one sound per line (clap, stomp, boop, snap) until the full beat plays, a clap along song that works in any language."
@@ -18679,10 +18704,6 @@
   {
    "title": "Jingle Dhol! (Bhangra Christmas Dance)",
    "why": "Indian style Christmas remixes went viral worldwide on TikTok last December and our dhol Diwali songs were our best Reels, so an original bhangra Christmas song with sleigh bells over a dhol beat, shoulder shrugs and a 'hoy hoy' call can travel to Indian, diaspora and global families."
-  },
-  {
-   "title": "The Silly Watermelon Man",
-   "why": "Goofy fruit character songs are the top hits of local channels in Poland (watermelon) and Turkey (Watermelon Man, 8.6M); ours is an original watermelon friend who loses his seeds while dancing and the Bros help find them, a counting song for every country."
   }
  ],
  "trend_bank": [
