@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:41:03+05:30",
- "runs": 841,
+ "updated": "2026-11-19T04:42:04+05:30",
+ "runs": 842,
  "branches": [
   {
    "id": "platforms",
@@ -1791,6 +1791,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 839
+    },
+    {
+     "t": "Virlo behaviour data (Jan 2026) says about 67% of short video views go to clips under 30 seconds, viewers drop sharply after 30 to 35 seconds, and the best windows are about 11 to 17 seconds for entertainment Reels, 15 to 35 seconds for YouTube Shorts and 11 to 18 seconds for TikTok shares.",
+     "src": "Bizcommunity (Virlo data), Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 842
+    },
+    {
+     "t": "Revid's study of 176K TikToks with 1,000+ likes (updated 6 Nov 2026) found clips with under 40 characters of speech had a 123K median and 20% passed 1M views, against 68K and 12% for clips with talking throughout, so music and dance Shorts with almost no spoken words fit what is spreading.",
+     "src": "Revid, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 842
+    },
+    {
+     "t": "In Revid's wider index of 2.4M AI labelled TikToks, 16 to 30 second videos had the highest median views (about 141K) and under 15 second videos earned the most shares per view, so a two cut plan (a 20 to 25 second chorus Short for views, a 10 second hook clip for shares) covers both.",
+     "src": "Revid, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 842
+    },
+    {
+     "t": "Revid notes that on music or visual only videos on screen captions can compete with the picture, even though 97% of its captioned exports use animated word captions, so our dance Shorts should keep text to a short title and a few big chorus words rather than full karaoke captions.",
+     "src": "Revid, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 842
     }
    ]
   },
@@ -17522,10 +17550,6 @@
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 23:49",
-   "note": "Run 764 (global markets (Kenya and Indonesia kids music channels)): Kenya's Uli and Tata's African Nursery Rhymes (a brother and sister guided by a singing bird, songs in five languages) shows a sibling quest format travelling across Africa; Indonesia's NANANA KIDS (11,591 uploads) fell from about 3.2M monthly views in Feb 2026 to about 170K in Oct, more proof that bulk compilations are fading. Total 2328."
-  },
-  {
    "date": "2026-11-16 23:50",
    "note": "Run 765 (competitor deep dive (Bebefinn film and Korean channel, ChuChu TV licensing)): Bebefinn's first film (on Netflix since Apr 2026) has siblings rescuing a brother pulled into a tablet, mixing jazz, EDM and Broadway music with 3D plus pixel art; its Korean home channel (5.14M subs) still pulls about 65M views a month with role play songs like fixing a car. Total 2331."
   },
@@ -17836,16 +17860,16 @@
   {
    "date": "2026-11-19 04:41",
    "note": "Run 841 (YouTube algorithm (AIR month by month log, Sep to Nov 2026)): Beaupre's Creator Insider points and the Shorts freshness theory were already in the tree. New from AIR's month by month log (updated 4 Nov): no made for kids or kids discovery change since April, a $20 payout threshold test (down from $100) for random channels in the US, India and Indonesia from 26 Oct, and an automatic temporary feature pause for channels that look hacked. Total 2489."
+  },
+  {
+   "date": "2026-11-19 04:42",
+   "note": "Run 842 (Shorts and Reels (length windows, speech amount, signal weights)): Instagram signal weights and Reels length limits were already in the tree. New: Virlo data says 67% of short video views go to clips under 30 seconds with drop off after 30 to 35 seconds and best windows of Reels 11 to 17 s, Shorts 15 to 35 s and TikTok 11 to 18 s; Revid's 6 Nov update found clips with almost no speech (under 40 characters) had a 123K median against 68K for talking throughout, 16 to 30 second clips had the best median and under 15 second clips the most shares per view. Total 2493."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:06",
-   "total": 2025
   },
   {
    "date": "2026-11-16 16:06",
@@ -19038,6 +19062,10 @@
   {
    "date": "2026-11-19 04:41",
    "total": 2489
+  },
+  {
+   "date": "2026-11-19 04:42",
+   "total": 2493
   }
  ],
  "next_week_ideas": [
