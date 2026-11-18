@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:48:06+05:30",
- "runs": 848,
+ "updated": "2026-11-19T04:48:45+05:30",
+ "runs": 849,
  "branches": [
   {
    "id": "platforms",
@@ -17639,6 +17639,34 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 840
+    },
+    {
+     "t": "For 17 to 25 Nov 2026 Christmas audio is already at peak on Instagram Reels: a Michael Buble Christmas classic is on about 1.8M Reels (decorating and holiday styling reveals) and Wham's 'Last Christmas' on about 944K (light reveals, holiday baking), so December decorating reveal Reels have started a week before 1 December.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 849
+    },
+    {
+     "t": "On Reels the Pink Floyd 'Time' then and now format (about 467K Reels) usually opens on a childhood photo before cutting to today, a ready shape for a 'baby Bros to big Bros' Short.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 849
+    },
+    {
+     "t": "Calm seasonal sounds are rising on Reels this week too: a 'Christmas Market' track (about 89K) for slow tours of cosy holiday corners and a 'November' track (about 142K) for photo dumps and cold weather walks, so a slow, cosy winter village fly through with our own soft music fits the moment.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 849
+    },
+    {
+     "t": "Tokchart's 18 Nov 2026 top 10 growing TikTok sounds are nine creator 'original audio' clips plus one Brazilian funk track ('Montagem da Chupeta', over 1M videos), confirming that short original clips, not label songs, are what spreads this week.",
+     "src": "Tokchart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 849
     }
    ]
   }
@@ -17667,10 +17695,6 @@
   {
    "date": "2026-11-16 22:55",
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:54",
-   "note": "Run 771 (Shorts and Reels (Edits and Shorts feature news)): Edits for Mac, First Draft auto edits, in video links, Shorts series and AI likeness Shorts were already in the tree; no new leaves. Total 2339."
   },
   {
    "date": "2026-11-16 23:54",
@@ -17983,16 +18007,16 @@
   {
    "date": "2026-11-19 04:48",
    "note": "Run 848 (competitor deep dive (Kikoo Club India, Dave and Ava update)): Kikoo Club (India, since Jul 2023) is new to the tree: 808K subscribers and 969M views from only 330 videos, yet its best long video has only 493K views, so nearly all views came from Shorts; monthly views fell from about 14M in Feb to 2.7M in Oct, subscribers stayed flat and vidIQ models almost no ad income. Dave and Ava's newest 'Wheels on the Bus Part 2' got 17K views in its first day and a half. Total 2510."
+  },
+  {
+   "date": "2026-11-19 04:48",
+   "note": "Run 849 (TRENDS (SocialPilot Reels audio for 17 to 25 Nov, Tokchart 18 Nov)): On Reels the Christmas wave is already at peak: a Michael Buble Christmas song carries about 1.8M Reels of decorating reveals and Wham's 'Last Christmas' about 944K of light reveals; the Pink Floyd 'then and now' format on Reels starts with a childhood photo (467K). Tokchart's 18 Nov top 10 is nine creator 'original audio' clips and one Brazilian funk track. Updated the 'Same spot, years apart' entry. Total 2514."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:09",
-   "total": 2033
   },
   {
    "date": "2026-11-16 16:09",
@@ -19185,6 +19209,10 @@
   {
    "date": "2026-11-19 04:48",
    "total": 2510
+  },
+  {
+   "date": "2026-11-19 04:48",
+   "total": 2514
   }
  ],
  "next_week_ideas": [
@@ -19254,7 +19282,7 @@
   },
   {
    "name": "Same spot, years apart",
-   "where": "TikTok, at peak for 17 to 25 Nov 2026 (Pink Floyd 'Time' clip)",
+   "where": "TikTok and Instagram Reels, at peak for 17 to 25 Nov 2026 (Pink Floyd 'Time' clip, about 556K TikToks and 467K Reels)",
    "status": "peak",
    "use": "A split or cut Short: 'Baby Bros' (tiny toddler versions of the brothers) do a wobbly dance in the backyard, then a match cut to the big Bros doing the same move in the same spot, stronger and funnier, set to a soft clock tick and our own chorus. Meshy prompt: standing, slow wobbly sway side to side with arms out for balance, then the same sway done strongly with a clap on each side."
   },
