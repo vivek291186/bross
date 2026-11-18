@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T03:38:18+05:30",
- "runs": 833,
+ "updated": "2026-11-19T03:40:02+05:30",
+ "runs": 834,
  "branches": [
   {
    "id": "platforms",
@@ -17247,6 +17247,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 831
+    },
+    {
+     "t": "On 18 Nov 2026 four of the top 25 viral TikTok songs in Revid's chart are classic Christmas recordings (Mariah Carey, Nat King Cole, Kelly Clarkson, Dean Martin), so the holiday sound wave has started on TikTok as well as Reels; Bro Bros December Shorts should launch now with our own Christmas songs.",
+     "src": "Revid, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 834
+    },
+    {
+     "t": "K-pop girl group tracks (ILLIT's 'You're Under Arrest' and KATSEYE's 'Pinky Up') are still in the 18 Nov 2026 viral TikTok list, so short relay style chorus dances where friends take turns stay a strong format for kids who copy K-pop moves.",
+     "src": "Revid, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 834
+    },
+    {
+     "t": "A TikTok mum's 'Elfie' tradition, a little elf who moves into a tiny house on 1 December, fills the advent calendar and is fed one marshmallow a night but never watches or reports on the children, spread as a low stress alternative to spying elf games; a kind helper elf song avoids the fear of a naughty list.",
+     "src": "Motherly, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 834
+    },
+    {
+     "t": "Tokchart's 18 Nov 2026 top TikTok sound, a creator's original audio, is adding about 130K new videos a day (up from about 100K two days earlier) and only one of the top 10 is a released song, so original voice or song clips keep spreading faster than label tracks this week.",
+     "src": "Tokchart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 834
     }
    ]
   }
@@ -17274,11 +17302,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 755 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:08",
-   "note": "Run 756 (YouTube main and Kids (AI branded kids music channels; our results skipped as unchanged)): Two openly AI branded kids channels show tiny reach (one with about 1,100 uploads and 24K subscribers, recent lullabies under 300 views), consistent with the tree's evidence that volume alone does not grow a kids channel. Total 2319."
+   "note": "Earlier runs summarised: all rounds through Run 756 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:36",
@@ -17591,16 +17615,16 @@
   {
    "date": "2026-11-19 03:38",
    "note": "Run 833 (visual craft (Disney Jr. 2026 preschool CG looks)): Thumbnail and calm style research was already deep in the tree. New from Disney Jr.'s 2026 shows: Sofia the First: Royal Magic swapped flat toon shading for dappled, sunlit cinematic lighting on one huge reusable set; Cars: Lightning Racers made heroes chunkier, stages them facing the camera like actors on a stage, and after testing built episodes around everyday life plus a repeated 'get ready' sequence. Total 2454."
+  },
+  {
+   "date": "2026-11-19 03:40",
+   "note": "Run 834 (TRENDS (December repeats, holiday audio share, gentle elf tradition)): Most December formats (advent unboxing, grid harmony, say the word on beat) were already in the tree. New: on 18 Nov four of Revid's top 25 viral TikTok songs are classic Christmas recordings and K-pop girl group tracks (ILLIT, KATSEYE) are still there; a gentle 'Elfie' tradition (an elf who brings treats and never spies or reports) offers a kinder December story. Added 'Gentle helper elf' to the trend bank and merged 'Room glow up reveal' into 'Season starts now reveal'. Total 2458."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 15:50",
-   "total": 2016
   },
   {
    "date": "2026-11-16 15:56",
@@ -18793,6 +18817,10 @@
   {
    "date": "2026-11-19 03:38",
    "total": 2454
+  },
+  {
+   "date": "2026-11-19 03:40",
+   "total": 2458
   }
  ],
  "next_week_ideas": [
@@ -18854,6 +18882,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Gentle helper elf",
+   "where": "TikTok family accounts (kind elf tradition, returns every December)",
+   "status": "seasonal",
+   "use": "A 1 to 24 December Shorts series: a tiny original Bro Bros elf friend moves into a little house on the shelf on 1 December, and every day the Bros wake up to one small kind surprise (a snow drawing, a jingle bell, a note saying 'help a friend today'), then sing a 10 second chorus of our own elf song. Never spying, never a naughty list. Meshy prompt: standing, tiptoe in place with hands together, peek left and right, then a happy jump with arms up."
+  },
   {
    "name": "5 stages of",
    "where": "Instagram Reels (Later, 13 Nov 2026)",
@@ -18925,12 +18959,6 @@
    "where": "Instagram Reels (family and creative accounts, outperforming about 469x usual views, week of 15 Nov 2026)",
    "status": "rising",
    "use": "POV text 'Little Bro is in charge of turning the pages': Big Bro sings a picture book song but Little Bro keeps flipping too early, skipping back or turning to the last page, so the story jumps (a snowman suddenly at the beach) and Big Bro has to sing faster to catch up; it ends with both singing the real ending together. Meshy motion: standing, Big Bro holds a big book and sways while singing; Little Bro does quick page flip arm sweeps and a cheeky shoulder shrug."
-  },
-  {
-   "name": "Room glow up reveal",
-   "where": "Instagram Reels (holiday home transformations accelerating, week of 7 Nov 2026)",
-   "status": "rising",
-   "use": "The brothers' plain bedroom fades to black on a clap and returns fully decorated for winter (paper chains, star lights, a tiny tree) as our own song's chorus lands; on screen text 'before' and 'after', and the caption asks viewers to comment one word (STAR) to pick tomorrow's decoration. Meshy motion: standing, one big clap above the head, then arms open wide in a ta da pose."
   },
   {
    "name": "One take wide dance",
