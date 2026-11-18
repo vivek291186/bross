@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:41+05:30",
- "runs": 822,
+ "updated": "2026-11-19T02:48+05:30",
+ "runs": 823,
  "branches": [
   {
    "id": "platforms",
@@ -11472,6 +11472,27 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 818
+    },
+    {
+     "t": "Three of the 20 most subscribed YouTube channels in Saudi Arabia (Playboard, 17 Nov 2026) are kids channels: Katakit Baby TV (about 24.3M, Arabic children's songs), Wanasah TV (about 22.1M, Arabic children's songs) and Masha and the Bear Arabic (about 21.4M), so Arabic kids songs sit among the Gulf's very biggest channels and Arabic stays a first wave dub language.",
+     "src": "playboard.co, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 823
+    },
+    {
+     "t": "Arabic kids song giants in the Gulf are original Arabic language channels rather than dubs of Western brands, which suggests our Arabic version should get its own translated title, description and sung lyrics (not just subtitles) to compete there.",
+     "src": "playboard.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 823
+    },
+    {
+     "t": "Plim Plim, a Latin American preschool series built on positive values told through stories and songs, reached 2 billion YouTube views in May 2026 across its language channels, about double its monthly views of two years earlier, proof that kind, values led song cartoons from outside the US can still grow fast worldwide.",
+     "src": "senalnews.com, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 823
     }
    ]
   },
@@ -17001,11 +17022,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 744 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:03",
-   "note": "Run 745 (YouTube algorithm (YouTube Kids app parent controls; trends skipped after an empty trends round)): YouTube Kids feature searches returned only older controls (collections, approved content only, search off rosters) already in the tree; no new leaves. Total 2312."
+   "note": "Earlier runs summarised: all rounds through Run 745 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:03",
@@ -17318,13 +17335,13 @@
   {
    "date": "2026-11-19 02:41",
    "note": "Run 822 (topics and seasons (Gen Alpha rooms, trending toy themes)): Skipped a second TRENDS round within minutes of the last. Season dates, toy lists and World Children's Day were already in the tree. New: Bloomberg's 2026 look at Gen Alpha rooms shows kids owning retro music gear (boomboxes, karaoke mics, drum machines) and loving disco, glitter, pandas and wizards; ABC News says squishy toys are having an especially big 2026. Added the song idea 'Boombox Beat Bros!'. Total 2415."
+  },
+  {
+   "date": "2026-11-19 02:48",
+   "note": "Run 823 (global markets (Saudi Arabia ranking, Plim Plim growth)): Dubbing and market size data were already deep in the tree. New: three of Saudi Arabia's 20 most subscribed channels are Arabic kids channels (two of them song channels, 24.3M and 22.1M), and Plim Plim reached 2B monthly views in May 2026, doubling in about two years with values based songs across languages. Total 2418."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 11:00",
-   "total": 1804
-  },
   {
    "date": "2026-11-16 12:00",
    "total": 1888
@@ -18520,6 +18537,10 @@
   {
    "date": "2026-11-19 02:41",
    "total": 2415
+  },
+  {
+   "date": "2026-11-19 02:48",
+   "total": 2418
   }
  ],
  "next_week_ideas": [
