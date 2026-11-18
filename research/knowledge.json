@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:48:45+05:30",
- "runs": 849,
+ "updated": "2026-11-19T04:49:30+05:30",
+ "runs": 850,
  "branches": [
   {
    "id": "platforms",
@@ -13523,6 +13523,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 841
+    },
+    {
+     "t": "AIR says the ad year peaks from October to December and December CPMs can be 40 to 60% higher than January's, so our strongest Christmas songs should be live and monetisable by early December, not on 24 December.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 850
+    },
+    {
+     "t": "In AIR's 274 channel data, Kids and Teens channels earned about 26% less long form RPM in months with heavy Shorts posting, and a Shorts to long video ratio of about 0.28 to 0.40 went with the best combined subscriber and revenue results (correlation, not proof); our plan of one Short per long song is a ratio of 1.0, so every Short should push viewers to its full song.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 850
+    },
+    {
+     "t": "AIR puts 1M Shorts views at about $300 for a US heavy audience and $150 to $250 for a mixed global one, with US Shorts RPM about $0.33 against about $0.16 to $0.19 for the UK, Canada, Germany and Australia, so Shorts are for discovery and long songs are where kids channel money comes from.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 850
     }
    ]
   },
@@ -17697,10 +17718,6 @@
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 23:54",
-   "note": "Run 772 (TRENDS (Instagram trending audio lists)): SocialBee's 11 Nov Instagram audio (November photo dumps, Christmas wish list lists) and older Reels lists were already in the tree; no new leaves, trend bank unchanged. Total 2339."
-  },
-  {
    "date": "2026-11-16 23:55",
    "note": "Run 773 (visual craft (music skipped after an empty music round; Studio AI tools, stimulation)): Dynamic thumbnails and high stimulation concerns were already in the tree; new: YouTube's Sep 2026 Studio storytelling assistant reviews a channel's past hits to suggest pacing changes and can test up to three edited cuts of one video, dropping the weaker ones. Total 2340."
   },
@@ -18011,16 +18028,16 @@
   {
    "date": "2026-11-19 04:48",
    "note": "Run 849 (TRENDS (SocialPilot Reels audio for 17 to 25 Nov, Tokchart 18 Nov)): On Reels the Christmas wave is already at peak: a Michael Buble Christmas song carries about 1.8M Reels of decorating reveals and Wham's 'Last Christmas' about 944K of light reveals; the Pink Floyd 'then and now' format on Reels starts with a childhood photo (467K). Tokchart's 18 Nov top 10 is nine creator 'original audio' clips and one Brazilian funk track. Updated the 'Same spot, years apart' entry. Total 2514."
+  },
+  {
+   "date": "2026-11-19 04:49",
+   "note": "Run 850 (rules and monetisation (AIR Shorts versus long RPM, Q4 ad season)): Most of AIR's 274 channel RPM study was already in the tree. New: December CPMs run about 40 to 60% above January, kids channels' long form RPM was 26% lower in months heavy on Shorts (21+), and a Shorts to long video ratio of about 0.28 to 0.40 went with the best mix of subscribers and revenue; with 14 Shorts a week we sit far above that, so the extra Shorts must keep pointing to full songs. Total 2517."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:09",
-   "total": 2036
   },
   {
    "date": "2026-11-16 16:10",
@@ -19213,6 +19230,10 @@
   {
    "date": "2026-11-19 04:48",
    "total": 2514
+  },
+  {
+   "date": "2026-11-19 04:49",
+   "total": 2517
   }
  ],
  "next_week_ideas": [
