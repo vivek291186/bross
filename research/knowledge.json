@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:49+05:30",
- "runs": 825,
+ "updated": "2026-11-19T02:51+05:30",
+ "runs": 826,
  "branches": [
   {
    "id": "platforms",
@@ -13089,6 +13089,27 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 803
+    },
+    {
+     "t": "On 10 Nov 2026 the EU Commission urged Parliament to adopt the Kids Act quickly: no accounts under 13, parent opened accounts capped at one hour a day for ages 13 and 14, own accounts from 15 and safer default algorithms against addictive design, enforced through the DSA; its public consultation stays open until 26 Nov 2026, and it is still a proposal.",
+     "src": "lovguiden.dk (EU Commission press corner), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 826
+    },
+    {
+     "t": "Because the EU Kids Act would leave under 13s with no personal accounts, European viewing of Bro Bros would increasingly come through parent devices, YouTube Kids and TV screens, which makes parent friendly titles, calm thumbnails and long TV friendly compilations more important in Europe.",
+     "src": "lovguiden.dk, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 826
+    },
+    {
+     "t": "Since May 2026 channel descriptions are directly enforceable under YouTube's Community Guidelines, so the Bro Bros About text and every video description should stay clean and simple (what the channel is, the song topic, no misleading keywords, no links that collect children's data).",
+     "src": "air.io, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 826
     }
    ]
   },
@@ -17064,11 +17085,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 747 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:04",
-   "note": "Run 748 (music craft (Suno v6 kids prompts, child versus adult singer studies)): Suno v6 kids prompt guides and infant studies (familiar song preferred whoever sings it) were already in the tree; no new leaves. Total 2312."
+   "note": "Earlier runs summarised: all rounds through Run 748 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:05",
@@ -17381,13 +17398,13 @@
   {
    "date": "2026-11-19 02:49",
    "note": "Run 825 (TRENDS (SocialPilot TikTok 17 to 25 Nov, holiday dance revivals)): SocialPilot's TikTok list for 17 to 25 Nov adds a rising 'camera shy' format (a pet acts shy or grumpy, then gives in and dances) and Thanksgiving 'what I'm bringing' clips for 21 to 25 Nov; Daily Dot's archive shows a classic cartoon holiday dance revived last December. Added 'Shy then dance' to the trend bank and dropped 'Trio spin swap', which peaked in October. Total 2424."
+  },
+  {
+   "date": "2026-11-19 02:51",
+   "note": "Run 826 (rules, safety and monetisation (EU Kids Act status, channel descriptions)): YouTube monetisation, AI and COPPA changes for 2026 were already in the tree. New: on 10 Nov 2026 the EU urged quick adoption of the Kids Act (no accounts under 13, parent opened one hour accounts at 13 to 14, consultation open to 26 Nov), and since May 2026 channel descriptions are directly enforceable under YouTube's Community Guidelines. Total 2427."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 14:38",
-   "total": 1974
-  },
   {
    "date": "2026-11-16 15:40",
    "total": 1993
@@ -18583,6 +18600,10 @@
   {
    "date": "2026-11-19 02:49",
    "total": 2424
+  },
+  {
+   "date": "2026-11-19 02:51",
+   "total": 2427
   }
  ],
  "next_week_ideas": [
