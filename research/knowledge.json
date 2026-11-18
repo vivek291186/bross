@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:35:56+05:30",
- "runs": 837,
+ "updated": "2026-11-19T04:37:01+05:30",
+ "runs": 838,
  "branches": [
   {
    "id": "platforms",
@@ -11696,6 +11696,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 835
+    },
+    {
+     "t": "Precisify data cited in 2026 says YouTube reaches about 80% of boys and 72% of girls aged 6 to 9, so the older end of our audience leans slightly male, which suits a brothers led cast but means sister and girl friend characters help reach the rest.",
+     "src": "eMarketer, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 838
     }
    ]
   },
@@ -13292,6 +13299,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 826
+    },
+    {
+     "t": "Türkiye's under 15 social media rule took effect on 1 Nov 2026: under 15s cannot open accounts, adults verify age through the state e-Devlet system (existing users have until 31 Mar 2027), and 15 to 18 year olds get private accounts, no personalised ads and restricted live streaming and continuous short video scrolling such as Reels.",
+     "src": "Hurriyet Daily News, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 838
+    },
+    {
+     "t": "A June 2026 roundup of child social media limits lists Australia 16 (since Dec 2025), Indonesia 16 (since 28 Mar 2026), Malaysia 16 (since 1 Jun 2026), Greece 15 (from 1 Jan 2027), the UAE under 15 (platforms get up to 12 months), and the UK, Canada, Norway and Spain moving towards 16, so Instagram growth must target parents, not children.",
+     "src": "Gulf News, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 838
+    },
+    {
+     "t": "More than 200 advocacy groups and child development experts are asking for AI generated videos to be banned from the YouTube Kids app and for parent tools that limit AI content on main YouTube, arguing mass produced, low substance videos game recommendations; no YouTube rule change had been announced.",
+     "src": "eMarketer, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 838
+    },
+    {
+     "t": "In Feb 2026 several popular animation channels, including dinosaur and kaiju animators who say their work is original, were demonetised after YouTube changed how it classifies content that may include AI elements, with no clear guidance, so an AI assisted kids channel should keep proof of its own human creative work (storyboards, Blender files, lyric drafts).",
+     "src": "Creator Handbook, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 838
     }
    ]
   },
@@ -17410,10 +17445,6 @@
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 23:40",
-   "note": "Run 760 (TikTok and other platforms (trends skipped after an empty trends round; Nielsen H1 2026, Netflix, Apple, Alexa)): Nielsen's H1 2026 report puts Bluey second of all US streaming titles (22.81B minutes) with SpongeBob and PAW Patrol also in the top 10; Netflix preschool, Roblox music, iTunes kids and Alexa checks were already in the tree. Total 2324."
-  },
-  {
    "date": "2026-11-16 23:46",
    "note": "Run 761 (music craft (infant music studies, Grammy kids nominees, kids charts)): Infant rhythm and movement studies (eLife, PLOS Biology, Dundee), the 2027 Grammy children's album nominees, Baby Shark's Spotify billion and kids song ad revenue estimates were all already in the tree; no new leaves. Total 2324."
   },
@@ -17724,16 +17755,16 @@
   {
    "date": "2026-11-19 04:35",
    "note": "Run 837 (TRENDS (SocialPilot 17 Nov TikTok list, que.es November formats)): SocialPilot's 17 to 25 Nov list adds 'Same spot, years apart' (Pink Floyd 'Time' clip, about 556K videos), a soft launch reveal on Finneas' 'My Moon My Man' (about 547K) and ILLIT's 'You're Under Arrest' now played as a pass the hook duet; que.es adds the 'costume loading' freeze cut. This week's big cultural moments (GTA VI on 19 Nov, Hunger Games on 20 Nov) are teen or adult, so we skip them. Added three to the trend bank and dropped three older rising entries with no fresh evidence. Total 2473."
+  },
+  {
+   "date": "2026-11-19 04:37",
+   "note": "Run 838 (rules and safety (new national age limits, AI kids video pressure)): Türkiye's under 15 social media rule started on 1 Nov 2026 (e-Devlet age checks, existing users verify by 31 Mar 2027, 15 to 18 year olds get no endless Reels scrolling); a June 2026 list puts Greece at 15 from 1 Jan 2027 with the UK, Canada, Norway and Spain moving to 16. Over 200 advocacy groups want AI videos banned from YouTube Kids, and original animators of dinosaur and kaiju channels were demonetised in Feb 2026 without clear reasons, so our human made process needs to be visible. Total 2478."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:03",
-   "total": 2020
   },
   {
    "date": "2026-11-16 16:04",
@@ -18926,6 +18957,10 @@
   {
    "date": "2026-11-19 04:35",
    "total": 2473
+  },
+  {
+   "date": "2026-11-19 04:37",
+   "total": 2478
   }
  ],
  "next_week_ideas": [
