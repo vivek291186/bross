@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:52+05:30",
- "runs": 828,
+ "updated": "2026-11-19T02:53+05:30",
+ "runs": 829,
  "branches": [
   {
    "id": "platforms",
@@ -3268,6 +3268,27 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 814
+    },
+    {
+     "t": "TeamYouTube said on 1 Oct 2026 that Shorts recommendations will favour original material and give less reach to channels that mainly aggregate or re upload other creators' clips without real changes; the judgement is made per channel, with no threshold or notice, so every Bro Bros Short must be cut from our own renders and songs, never from trending clips.",
+     "src": "ppc.land, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 829
+    },
+    {
+     "t": "YouTube's discovery director Todd Beaupre (Creator Insider, 1 Sep 2026) said recommendations are built per viewer and per session and the system learns separately from how subscribers and non subscribers react, so a new upload can reach people who never watched us even when our own subscribers skip it.",
+     "src": "ppc.land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 829
+    },
+    {
+     "t": "Beaupre suggests reading the 'subscribers' row under Browse traffic sources in YouTube Studio as the cleanest signal of whether our regular audience likes a new song, rather than judging by total views, which mix many audiences.",
+     "src": "ppc.land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 829
     }
    ]
   },
@@ -17127,11 +17148,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 750 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:06",
-   "note": "Run 751 (TRENDS (SocialPilot 27 Oct to 10 Nov list, Christmas tree decor trends)): SocialPilot's latest TikTok list (sorry carousel, costume loading freeze, runway walk, Dame Hombro bounce) and Christmas tree decor trends were already in the tree and trend bank; no new leaves and no trend bank changes. Total 2316."
+   "note": "Earlier runs summarised: all rounds through Run 751 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:06",
@@ -17444,13 +17461,13 @@
   {
    "date": "2026-11-19 02:52",
    "note": "Run 828 (YouTube main and YouTube Kids (mid size song channels on vidIQ)): Tubefilter's 15 Nov chart is still not out and no new YouTube Kids app change turned up. New from vidIQ: YUM YUM Kids Songs (US) built 590M views on one repeatable 'lost wheel' vehicle concept and had its best 2026 month in October (35.8M) with no uploads since 30 Sep; Farmees (9.87M) has stalled with new uploads at only 4K to 28K views. Total 2433."
+  },
+  {
+   "date": "2026-11-19 02:53",
+   "note": "Run 829 (YouTube algorithm (Shorts originality, subscriber versus new viewer signals)): Home feed and Shorts drop reports were already in the tree. New: since a 1 Oct 2026 TeamYouTube post, Shorts recommendations favour original clips and channels that mainly re upload others' videos get less reach, judged per channel with no notice; and YouTube's discovery director says the system learns separately from subscriber and non subscriber reactions, with the subscriber row in Browse as the cleanest read on content. Total 2436."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 15:46",
-   "total": 2003
-  },
   {
    "date": "2026-11-16 15:47",
    "total": 2006
@@ -18646,6 +18663,10 @@
   {
    "date": "2026-11-19 02:52",
    "total": 2433
+  },
+  {
+   "date": "2026-11-19 02:53",
+   "total": 2436
   }
  ],
  "next_week_ideas": [
