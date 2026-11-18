@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:54+05:30",
- "runs": 830,
+ "updated": "2026-11-19T03:35:56+05:30",
+ "runs": 831,
  "branches": [
   {
    "id": "platforms",
@@ -17142,6 +17142,55 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 825
+    },
+    {
+     "t": "Later's 13 Nov 2026 Reels roundup lists a '5 stages of being...' format where five quick clips move from confident to totally overwhelmed, which fits a Bro Bros '5 stages of waiting for snow' or '5 stages of bedtime' Short.",
+     "src": "Later, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 831
+    },
+    {
+     "t": "The fixed camera outfit transition is back on Reels (13 Nov 2026): the camera never moves and one simple move like a jump or spin switches the creator into a new outfit, an easy Blender cut for the Bros changing into winter coats, pyjamas or party clothes.",
+     "src": "Later, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 831
+    },
+    {
+     "t": "NewEngen's mid November 2026 TikTok roundup names a 'Chipmunks dance', a short goofy group routine of jumps, kicks and spins to a sped up track, and notes families and kid friendly versions joining in.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 831
+    },
+    {
+     "t": "Mariah Carey's 'It's Time' moment is again the unofficial start of Christmas content on TikTok in mid November 2026, with clips of decorations going up and holiday drinks; we copy the 'season starts now' reveal, never the song.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 831
+    },
+    {
+     "t": "A 'Pray For Me' slow motion entrance trend (friends walk in one by one in dramatic slow motion) and a fan blade wipe outfit reveal shot from above are both rising on TikTok in November 2026 and are simple, kid safe camera tricks.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 831
+    },
+    {
+     "t": "Metricool's 2026 Instagram study says Reels get about 65% of their views in the first three days after posting, so a Bro Bros Reel that is flat after day three will rarely recover and the lesson should be applied to the next one.",
+     "src": "Metricool via mean.ceo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 831
+    },
+    {
+     "t": "A relaxed shoulder bounce freestyle to the Latin track 'Dame Hombro' is spreading on TikTok with families joining in; the move (shoulders bouncing up and down in turn, feet planted) is easy to copy with our own Latin beat.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 831
     }
    ]
   }
@@ -17169,11 +17218,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 752 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:07",
-   "note": "Run 753 (competitor deep dive (Banana Cartoon 3D, Toonzey Songs)): vidIQ pages for two smaller 3D nursery rhyme channels returned no current figures (one only June 2025 data), so nothing reliable to add. Total 2316."
+   "note": "Earlier runs summarised: all rounds through Run 753 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:07",
@@ -17486,16 +17531,16 @@
   {
    "date": "2026-11-19 02:54",
    "note": "Run 830 (Shorts and Reels (Instagram signal weights, Story reshares, account type)): Reels ranking order and Trial Reels were already in the tree. New: an agency estimate that one DM share is worth about 15 likes and one save about 10, business accounts reaching 7 to 12% organically against 10 to 20% for personal ones, and public Stories now reshareable by anyone without a tag. Total 2439."
+  },
+  {
+   "date": "2026-11-19 03:35",
+   "note": "Run 831 (TRENDS (Later 13 Nov, NewEngen mid Nov TikTok roundup)): Later's 13 Nov Reels roundup adds '5 stages of being' and the fixed camera outfit transition; NewEngen's 16 Nov TikTok list has a goofy family 'Chipmunks dance' (jumps, kicks, spins to a sped up track), Mariah's 'It's Time' season start, a slow motion entrance and a fan blade wipe reveal. Added four to the trend bank. Dropped four older evergreen entries to keep the December seasonal ones. Total 2446."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 15:49",
-   "total": 2010
   },
   {
    "date": "2026-11-16 15:49",
@@ -18688,6 +18733,10 @@
   {
    "date": "2026-11-19 02:54",
    "total": 2439
+  },
+  {
+   "date": "2026-11-19 03:35",
+   "total": 2446
   }
  ],
  "next_week_ideas": [
@@ -18750,6 +18799,30 @@
  ],
  "trend_bank": [
   {
+   "name": "5 stages of",
+   "where": "Instagram Reels (Later, 13 Nov 2026)",
+   "status": "rising",
+   "use": "Five 2 second clips with on screen numbers: '5 stages of waiting for snow' from Little Bro excited at the window, to checking every minute, to flopping his arms in a sigh, to grumpy, to snow finally falling and a happy dance on our own song's hook. Meshy prompt per stage: standing, a big excited bounce; a slow head turn; arms drop and shoulders slump; arms crossed; jump with both arms up."
+  },
+  {
+   "name": "Chipmunk hop dance",
+   "where": "TikTok family groups (mid Nov 2026)",
+   "status": "rising",
+   "use": "A sped up, squeaky voiced chorus of our own Suno song; the Bros and friends do a fast group routine: two hops in place, one small forward kick each leg, one spin in place, then freeze with paws up like a chipmunk. Meshy prompt: standing, hop twice in place, kick right foot forward, kick left foot forward, spin once in place, hold both hands near the chest like little paws, no floor moves."
+  },
+  {
+   "name": "Slow motion entrance",
+   "where": "TikTok ('Pray For Me' slow mo, Nov 2026)",
+   "status": "rising",
+   "use": "Intro of a friendship song: the Bros and each friend walk toward the camera one by one in slow motion with big proud faces, hair and scarves floating, then the beat drops to normal speed and they all dance. Meshy prompt: walk forward slowly with a proud chest out, arms swinging wide, stop and strike a hands on hips pose."
+  },
+  {
+   "name": "Season starts now reveal",
+   "where": "TikTok and Reels (Mariah 'It's Time' moment, mid Nov 2026)",
+   "status": "seasonal",
+   "use": "Short: a calendar flips to 1 December, Big Bro whispers 'it's time' in our own song's intro, claps once and the whole room bursts into lights and a snow globe swirl as the chorus lands. Our own music only. Meshy prompt: standing, look at the camera, one big clap overhead, then arms spread wide in a ta da pose and a small bounce."
+  },
+  {
    "name": "Shy then dance",
    "where": "TikTok (rising 'camera shy' pet sound, week of 17 Nov 2026)",
    "status": "rising",
@@ -18810,18 +18883,6 @@
    "use": "Film the whole Bro Bros chorus dance in one continuous wide camera with no cuts and the full bodies of all dancers visible, so children and parents can copy every step; post it as the 'learn the dance' Reel beside the normal edited cut. Meshy motion: standing in place, step touch right and left, two claps, arms rolling forward, point up on the last beat."
   },
   {
-   "name": "Morning affirmation routine",
-   "where": "TikTok US rising searches (Nov 2026)",
-   "status": "rising",
-   "use": "A 30 second Short: the Bros wake up, make the bed, look in the mirror and sing one clear positive line each ('I can try new things!', 'I can be kind today!') over the visible action, ending with a fist bump; our own calm, bright morning song, no talking over a trending audio. Meshy step: standing in place, both hands on chest, then arms open wide above the head, then a small thumbs up nod."
-  },
-  {
-   "name": "Headphone swap",
-   "where": "Instagram Reels and TikTok (evergreen since Apr 2026)",
-   "status": "evergreen",
-   "use": "Big Bro and Little Bro swap headphones: one hears our calm lullaby and starts yawning and swaying, the other hears our fast dance song and starts bouncing; they swap back and the moods flip, ending with both singing our chorus together. Meshy motion: standing, slow side sway with arms floating, then quick bounce in place with fists pumping."
-  },
-  {
    "name": "Giant balloon parade",
    "where": "US TV and social feeds on 26 Nov 2026 (100th Macy's Thanksgiving Day Parade, seasonal)",
    "status": "seasonal",
@@ -18834,12 +18895,6 @@
    "use": "Run a 12 day Shorts and Reels series from 13 to 24 Dec: each day the brothers unwrap one new winter 'gift' (a snowflake, a drum, a sledge) and add one new dance move, building a counting chorus in our own melody (never the traditional tune's lyrics); day 12 shows all twelve moves in one wide shot. Meshy motion per day: standing, one simple added move such as clap, star jump arms only, march in place, spin with arms out."
   },
   {
-   "name": "Film my silly dance",
-   "where": "TikTok and Reels, recurring family format",
-   "status": "evergreen",
-   "use": "In our 3D living room Dad asks the brothers to 'film' him dancing to our own song; the camera shows Dad's goofy steps while a mirror behind him shows the brothers giggling and then joining in for the last chorus. Meshy motion for Dad: standing, wobbly side steps with arms flapping, then a small hop and a proud pose; brothers: standing, clap and bounce in place."
-  },
-  {
    "name": "Indoor snowball party",
    "where": "Parent blogs, Reels and Shorts every winter (seasonal, Dec to Feb)",
    "status": "seasonal",
@@ -18850,12 +18905,6 @@
    "where": "TikTok and Reels, Latin America and worldwide, peaks in family holidays",
    "status": "evergreen",
    "use": "A Bro Bros grandpa character visits for Christmas; the brothers teach him a simple dance to our own song, he copies slowly and a bit wrong, then nails the last move and everyone cheers. Meshy motion: standing, slow side sway with hands on hips, then one careful turn in place and a big arms up finish."
-  },
-  {
-   "name": "Calm then gallop",
-   "where": "TikTok and Reels, recurring beat drop format",
-   "status": "evergreen",
-   "use": "The brothers stand still in a stable or snowy field with tiny smiles while the music hums quietly; on the drop of our own 'Giddy Up Reindeer' song they gallop in place with reins hands. Meshy motion: standing still for two seconds, then jog in place lifting knees high with both fists held forward, bouncing."
   },
   {
    "name": "Four move family Christmas dance",
