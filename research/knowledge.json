@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:42:04+05:30",
- "runs": 842,
+ "updated": "2026-11-19T04:43:12+05:30",
+ "runs": 843,
  "branches": [
   {
    "id": "platforms",
@@ -1819,6 +1819,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 842
+    },
+    {
+     "t": "YouTube's global music chart for 19 to 25 Dec 2025 had Christmas classics at #2, #3 and #17 to #19 (Mariah Carey about 57M weekly views), five of the US top 10 and #1 in the UK, Germany and the Netherlands, but the top Christmas song was only #53 in Brazil and none reached India's top 50, so our Christmas songs should go out in the US and Europe slot and the India slot should carry winter and party songs.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 843
+    },
+    {
+     "t": "In that same Christmas week the global #1 on YouTube's song chart was 'Golden' from KPop Demon Hunters (about 71M weekly views), above every Christmas classic, so an animated film soundtrack can out stream even peak season Christmas music.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 843
     }
    ]
   },
@@ -17550,10 +17564,6 @@
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 23:50",
-   "note": "Run 765 (competitor deep dive (Bebefinn film and Korean channel, ChuChu TV licensing)): Bebefinn's first film (on Netflix since Apr 2026) has siblings rescuing a brother pulled into a tablet, mixing jazz, EDM and Broadway music with 3D plus pixel art; its Korean home channel (5.14M subs) still pulls about 65M views a month with role play songs like fixing a car. Total 2331."
-  },
-  {
    "date": "2026-11-16 23:51",
    "note": "Run 766 (TRENDS (Epidemic Sound 13 Nov, Tokchart, howtogoviral US rising searches)): Most items (bicep heart, fancy cafe gag, Christmas switch, beat drop poses) were already in the tree; new: calm 'affirmation over action' and morning affirmation routines are rising US TikTok searches, added to the trend bank as a kid morning song format. Total 2333."
   },
@@ -17864,16 +17874,16 @@
   {
    "date": "2026-11-19 04:42",
    "note": "Run 842 (Shorts and Reels (length windows, speech amount, signal weights)): Instagram signal weights and Reels length limits were already in the tree. New: Virlo data says 67% of short video views go to clips under 30 seconds with drop off after 30 to 35 seconds and best windows of Reels 11 to 17 s, Shorts 15 to 35 s and TikTok 11 to 18 s; Revid's 6 Nov update found clips with almost no speech (under 40 characters) had a 123K median against 68K for talking throughout, 16 to 30 second clips had the best median and under 15 second clips the most shares per view. Total 2493."
+  },
+  {
+   "date": "2026-11-19 04:43",
+   "note": "Run 843 (other platforms (YouTube Music Christmas charts by country; Netflix and Roblox lists already in the tree)): A second TRENDS round in the same run was skipped. Netflix's 2026 animated top 10 and November's Roblox growers were already in the tree. New: in YouTube's last Christmas week chart (19 to 25 Dec 2025) Christmas classics filled five of the US top 10 and topped the UK, Germany and the Netherlands, but sat only at #53 in Brazil and nowhere in India's top 50, so Christmas songs should be timed for the US and Europe slot. Total 2495."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:06",
-   "total": 2027
   },
   {
    "date": "2026-11-16 16:07",
@@ -19066,6 +19076,10 @@
   {
    "date": "2026-11-19 04:42",
    "total": 2493
+  },
+  {
+   "date": "2026-11-19 04:43",
+   "total": 2495
   }
  ],
  "next_week_ideas": [
