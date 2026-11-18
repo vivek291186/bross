@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T03:35:56+05:30",
- "runs": 831,
+ "updated": "2026-11-19T03:37:05+05:30",
+ "runs": 832,
  "branches": [
   {
    "id": "platforms",
@@ -7363,6 +7363,34 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 820
+    },
+    {
+     "t": "A February 2026 review in the Annals of the New York Academy of Sciences (Vanderbilt music cognition lab) argues that a steady, beat based rhythm makes the repeated words of a song predictable in time, and that repeating the same chorus across verses and across days builds familiarity, so each Bro Bros song should keep a fixed beat and return to one identical hook.",
+     "src": "Annals NYAS via VUMC, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 832
+    },
+    {
+     "t": "A 2026 Early Childhood Education Journal study (108 children, 8 weeks of music sessions) found rhythm skills improved in both 2 and 4 year olds, focus and self control improved only in 4 year olds, and vocabulary did not change, so clap, stomp and copy the rhythm songs have the best evidence while 'learn new words' promises in titles are weaker.",
+     "src": "Early Childhood Education Journal, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 832
+    },
+    {
+     "t": "Pinkfong turned its signature hit into a Christmas version (Santa Shark) that families treat as a holiday staple, showing that a seasonal remake of a channel's own best song, same melody with new holiday words, is a cheap and proven way to ride December.",
+     "src": "Tinybeans, 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 832
+    },
+    {
+     "t": "Because older children (around 4) gain more than toddlers from music in focus and self control, call and response and 'stop when the music stops' freeze sections are a smart addition to Bro Bros dance songs aimed at 3 to 6 year olds.",
+     "src": "Early Childhood Education Journal, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 832
     }
    ]
   },
@@ -17218,11 +17246,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 753 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:07",
-   "note": "Run 754 (algorithm experiments (compilation length; trends skipped after an empty trends round)): Video length studies (AIR's 18,080 channels, Little Dot whitepaper, TV length data) were already in the tree, and the YouTube Kids visit length figure found dates from 2023; no new leaves. Total 2316."
+   "note": "Earlier runs summarised: all rounds through Run 754 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:08",
@@ -17535,16 +17559,16 @@
   {
    "date": "2026-11-19 03:35",
    "note": "Run 831 (TRENDS (Later 13 Nov, NewEngen mid Nov TikTok roundup)): Later's 13 Nov Reels roundup adds '5 stages of being' and the fixed camera outfit transition; NewEngen's 16 Nov TikTok list has a goofy family 'Chipmunks dance' (jumps, kicks, spins to a sped up track), Mariah's 'It's Time' season start, a slow motion entrance and a fan blade wipe reveal. Added four to the trend bank. Dropped four older evergreen entries to keep the December seasonal ones. Total 2446."
+  },
+  {
+   "date": "2026-11-19 03:37",
+   "note": "Run 832 (music craft (rhythm and repetition research)): A Feb 2026 Annals of the NY Academy of Sciences review (Lense lab) argues a steady beat makes repeated words predictable and 'supercharges' song communication with babies; a 2026 Verona study found 8 weeks of music sessions lifted rhythm skills in 2 and 4 year olds and focus skills only in 4 year olds, with no vocabulary gain. Pinkfong's Santa Shark shows the holiday remake of a signature song. Total 2450."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 15:49",
-   "total": 2012
   },
   {
    "date": "2026-11-16 15:50",
@@ -18737,9 +18761,17 @@
   {
    "date": "2026-11-19 03:35",
    "total": 2446
+  },
+  {
+   "date": "2026-11-19 03:37",
+   "total": 2450
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Freeze, Bros, Freeze! (Winter Freeze Dance)",
+   "why": "A stop and go dance song with a steady beat and a repeated 'freeze' hook; 2026 research shows rhythm and self control gains for 4 year olds from exactly this kind of play, and freeze games travel to every language."
+  },
   {
    "title": "Little Sled Lost Its Bell! (Winter Vehicle Rescue Song)",
    "why": "The 'lost wheel' vehicle story built a 143M view hit and two 26M sequels for a small US channel; our winter version has the Bros help a sled, a snowplough and a toy train find what they lost, one vehicle per verse, a series we can repeat all season."
@@ -18783,10 +18815,6 @@
   {
    "title": "Squishy Squish! (Squeeze and Bounce Back Song)",
    "why": "Squishy toys are Hamleys' unofficial toy of the year for Christmas 2026; Little Bro and Big Bro squeeze, hold, and slowly pop back up on a slow then fast beat, a sensory pattern that loops well as a Short and works in any language."
-  },
-  {
-   "title": "Buzz Off, Mosquito! (Bedtime Net Song)",
-   "why": "A single 'go away mosquito' song earned 253M views for a mid size channel and BabyBus also scores with mosquito songs, so an original song where the Bros clap, wave and tuck the net in at bedtime gives warm country families (India, Southeast Asia, Africa, Latin America) a funny, useful routine with no scary bites."
   },
   {
    "title": "Whack the Piñata! (Party Turn Taking Song)",
