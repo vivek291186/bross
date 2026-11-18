@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:37:01+05:30",
- "runs": 838,
+ "updated": "2026-11-19T04:38:37+05:30",
+ "runs": 839,
  "branches": [
   {
    "id": "platforms",
@@ -1784,6 +1784,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 835
+    },
+    {
+     "t": "YouTube's 2026 parent controls let a parent set the Shorts timer anywhere from 0 minutes to 2 hours on supervised accounts, and zero switches Shorts off completely, so in many homes only our full length songs and compilations can reach the child.",
+     "src": "PPC Land, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 839
     }
    ]
   },
@@ -5851,6 +5858,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 836
+    },
+    {
+     "t": "Farmees (9.87M subscribers) posted 48 uploads between 3 Aug and 17 Nov 2026 (30 long, 18 Shorts) with a median gap of 2 days and median views of about 19K; its 16 Nov 'Christmas Wheels on the Bus' remake (1:41) had 13.5K views after two days, while a September ABC song is its best at about 288K, so even a 10M channel's seasonal remakes start slowly.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 839
+    },
+    {
+     "t": "CocoBus Nursery Rhymes published about 109 videos in the last 28 days (3,145 in total since Aug 2024) and still has only about 10.8K subscribers, with views sliding from about 359K in May 2026 to 245K in October; its newest mash up got about 1K views in 13 hours, fresh proof that volume alone does not grow a kids channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 839
+    },
+    {
+     "t": "Rhythm And Nursery Rhymes Time For Kids (US, joined Aug 2022) has about 815K subscribers and 350M views from 818 videos, roughly 430K views per video, showing a mid size song channel can still break through within four years.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 839
     }
    ]
   },
@@ -17445,10 +17473,6 @@
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 23:46",
-   "note": "Run 761 (music craft (infant music studies, Grammy kids nominees, kids charts)): Infant rhythm and movement studies (eLife, PLOS Biology, Dundee), the 2027 Grammy children's album nominees, Baby Shark's Spotify billion and kids song ad revenue estimates were all already in the tree; no new leaves. Total 2324."
-  },
-  {
    "date": "2026-11-16 23:47",
    "note": "Run 762 (visual craft (thumbnail faces, pacing and fantasy, toddler gaze)): Thumbnail face data and the pace versus fantasy meta analysis were already in the tree; new: a 2026 eye tracking study of 127 toddlers found toys pull gaze first and faces win more attention once props are removed, so dance moments should keep the frame clear of toys. Total 2325."
   },
@@ -17759,16 +17783,16 @@
   {
    "date": "2026-11-19 04:37",
    "note": "Run 838 (rules and safety (new national age limits, AI kids video pressure)): Türkiye's under 15 social media rule started on 1 Nov 2026 (e-Devlet age checks, existing users verify by 31 Mar 2027, 15 to 18 year olds get no endless Reels scrolling); a June 2026 list puts Greece at 15 from 1 Jan 2027 with the UK, Canada, Norway and Spain moving to 16. Over 200 advocacy groups want AI videos banned from YouTube Kids, and original animators of dinosaur and kaiju channels were demonetised in Feb 2026 without clear reasons, so our human made process needs to be visible. Total 2478."
+  },
+  {
+   "date": "2026-11-19 04:38",
+   "note": "Run 839 (YouTube main and YouTube Kids (Metricool unchanged since Run 827, so own results skipped; vidIQ nursery channel cadence)): Metricool YouTube data still ends 15 Nov, so the own results round was skipped. From vidIQ on 18 Nov: Farmees (9.87M) uploads every 2 days with about 19K median views and its Christmas Wheels on the Bus remake got 13.5K in two days; CocoBus pushes about 109 uploads in 28 days for only 10.8K subscribers; Rhythm And Nursery Rhymes (US, 815K) averages about 430K views per video. Parents can also set the Shorts timer to zero. Total 2482."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:04",
-   "total": 2023
   },
   {
    "date": "2026-11-16 16:05",
@@ -18961,6 +18985,10 @@
   {
    "date": "2026-11-19 04:37",
    "total": 2478
+  },
+  {
+   "date": "2026-11-19 04:38",
+   "total": 2482
   }
  ],
  "next_week_ideas": [
