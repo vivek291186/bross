@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:52:04+05:30",
- "runs": 852,
+ "updated": "2026-11-19T04:53:03+05:30",
+ "runs": 853,
  "branches": [
   {
    "id": "platforms",
@@ -3401,6 +3401,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 846
+    },
+    {
+     "t": "Spotter's data on the Shorts related video link found only about 2% of channels got noticeable long form traffic from it (low use), but medium and large channels that did saw new uploads earn about 10% more views in their first 30 days than their channel average, so linking every Short to its full song is a small but real lift.",
+     "src": "Spotter, Mar 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 853
+    },
+    {
+     "t": "Applying YouTube's figure that recommendations drive about 70% of watching to Pew's survey of 3,054 parents (85% of under 12s watch YouTube, 35% of under 2s daily), about seven in ten videos a child sees are served by the recommender rather than chosen, so being recommended next to the songs kids already watch matters more than being searched.",
+     "src": "GCN (Pew Research), Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 853
     }
    ]
   },
@@ -17768,10 +17782,6 @@
   },
   {
    "date": "2026-11-16 23:56",
-   "note": "Run 775 (topics and seasons (trends skipped after an empty trends round; kid favourite animals, Kaspersky interests)): Capybara and quokka kid obsessions and Kaspersky's 2026 kids interest data were already in the tree; no new leaves. Total 2340."
-  },
-  {
-   "date": "2026-11-16 23:56",
    "note": "Run 776 (global markets (Philippines and Brazil kids music)): Soundcharts' Philippines kids chart shows 12 of the top 15 kids songs by Filipino linked acts are in English, led by an upbeat action worship singer, so English songs need no dubbing there; Brazil sources were already in the tree. Total 2342."
   },
   {
@@ -18081,16 +18091,16 @@
   {
    "date": "2026-11-19 04:52",
    "note": "Run 852 (TRENDS (Kapwing December 2025 recap for repeats, Virlo late Oct list)): Most of Virlo's late October list (costume loading, paparazzi bow, rock paper scissors) was already in the tree. From Kapwing's December 2025 recap, likely December repeats: a minimal hand groove dance ('Ace Up'), the 'Horses in the Stable' fake simple routine that turns into a gallop on the drop, the Brenda Lee Christmas audio for decorating and wrapping, and a 'lock in' goals push into the New Year. Added a hand groove entry to the trend bank and dropped 'Baby turns the pages'. Total 2524."
+  },
+  {
+   "date": "2026-11-19 04:53",
+   "note": "Run 853 (YouTube algorithm (Shorts to long form links, TV viewing)): Metricool's views up, revenue down study and the Pew parents survey were already in the tree. New: Spotter's analysis of the related video link on Shorts found only about 2% of channels got noticeable long form traffic from it, but those that did saw new uploads gain about 10% more views in their first 30 days; Pew's survey implies about 7 in 10 videos a child watches are picked by recommendations. Total 2526."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:11",
-   "total": 2037
   },
   {
    "date": "2026-11-16 16:36",
@@ -19283,6 +19293,10 @@
   {
    "date": "2026-11-19 04:52",
    "total": 2524
+  },
+  {
+   "date": "2026-11-19 04:53",
+   "total": 2526
   }
  ],
  "next_week_ideas": [
