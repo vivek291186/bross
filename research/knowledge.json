@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:39:47+05:30",
- "runs": 840,
+ "updated": "2026-11-19T04:41:03+05:30",
+ "runs": 841,
  "branches": [
   {
    "id": "platforms",
@@ -3324,6 +3324,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 829
+    },
+    {
+     "t": "AIR's month by month log of 2026 YouTube changes (updated 4 Nov) lists no made for kids or kids discovery change since April's Shorts timer for European parents, so the kids recommendation rules we planned around are stable going into December.",
+     "src": "AIR Media-Tech, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 841
     }
    ]
   },
@@ -13355,6 +13362,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 838
+    },
+    {
+     "t": "Since 26 Oct 2026 YouTube is testing a $20 AdSense payout threshold, down from $100, for a random group of channels in the US, India and Indonesia, so an India based channel like ours may be paid earlier once monetised.",
+     "src": "AIR Media-Tech (TeamYouTube thread), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 841
+    },
+    {
+     "t": "From 21 Oct 2026 a channel that looks hacked gets an automatic temporary pause of some features while YouTube reviews it, without hurting monetisation; strong two step login on the Bro Bros account avoids a sudden pause in the middle of a two uploads a day schedule.",
+     "src": "AIR Media-Tech (TeamYouTube), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 841
     }
    ]
   },
@@ -17501,10 +17522,6 @@
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 23:48",
-   "note": "Run 763 (topics and seasons (trends skipped after an empty trends round; Christmas toys, holiday films, December days)): The Entertainer, DreamToys and Toy of the Year lists, holiday family films (Hexed, Angry Birds 3, The Man with the Bag), December festival dates and Indian style Christmas remixes were already in the tree; no new leaves. Total 2325."
-  },
-  {
    "date": "2026-11-16 23:49",
    "note": "Run 764 (global markets (Kenya and Indonesia kids music channels)): Kenya's Uli and Tata's African Nursery Rhymes (a brother and sister guided by a singing bird, songs in five languages) shows a sibling quest format travelling across Africa; Indonesia's NANANA KIDS (11,591 uploads) fell from about 3.2M monthly views in Feb 2026 to about 170K in Oct, more proof that bulk compilations are fading. Total 2328."
   },
@@ -17815,16 +17832,16 @@
   {
    "date": "2026-11-19 04:39",
    "note": "Run 840 (TRENDS (December challenge ideas, meme formats)): A second trends pass minutes after Run 837, so it looked at December formats: Revid's 6 Nov Christmas guide says each year one Christmas song gets a viral routine where energy and a lit tree beat skill, pushes simple one line copyable challenges (wrap something in 30 seconds), harmless 'wrap the room' surprises and lyric on screen karaoke for duets; Know Your Meme logged a tiny squirrel waving bye in a tornado format for dramatic reactions to small mishaps. Added 'Wrap it in 30 seconds' to the trend bank. Total 2486."
+  },
+  {
+   "date": "2026-11-19 04:41",
+   "note": "Run 841 (YouTube algorithm (AIR month by month log, Sep to Nov 2026)): Beaupre's Creator Insider points and the Shorts freshness theory were already in the tree. New from AIR's month by month log (updated 4 Nov): no made for kids or kids discovery change since April, a $20 payout threshold test (down from $100) for random channels in the US, India and Indonesia from 26 Oct, and an automatic temporary feature pause for channels that look hacked. Total 2489."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:05",
-   "total": 2024
   },
   {
    "date": "2026-11-16 16:06",
@@ -19017,6 +19034,10 @@
   {
    "date": "2026-11-19 04:39",
    "total": 2486
+  },
+  {
+   "date": "2026-11-19 04:41",
+   "total": 2489
   }
  ],
  "next_week_ideas": [
