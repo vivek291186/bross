@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:45:03+05:30",
- "runs": 845,
+ "updated": "2026-11-19T04:45:57+05:30",
+ "runs": 846,
  "branches": [
   {
    "id": "platforms",
@@ -3373,6 +3373,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 841
+    },
+    {
+     "t": "Metricool's best time model for our brand for 19 to 25 Nov 2026 again peaks YouTube at 16:00 IST every day (Wednesday about 12.0K points, Thursday 12.0K, Sunday 5.6K, about 47% of the weekday peak) with 10:00 IST second, so the 16:00 IST slot is confirmed for next week.",
+     "src": "Metricool (brand 7552626), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 846
+    },
+    {
+     "t": "For the same week Metricool puts our Instagram peak at 10:00 IST on all seven days (Friday highest at about 6.7K points), a second rise at 18:00 IST on Tuesday, Thursday and Sunday, and 16:00 IST at only about 65 to 75% of the 10:00 value, so a Reel posted with the 16:00 video misses the Instagram peak; worth a two week test of Reels at 10:00 IST.",
+     "src": "Metricool (brand 7552626), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 846
     }
    ]
   },
@@ -17606,10 +17620,6 @@
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 23:52",
-   "note": "Run 768 (our own results (Metricool schedule 16 to 22 Nov; analytics already checked today in Run 684)): The 42 posts queued for 16 to 22 Nov follow one pattern (YouTube song, matching Short five minutes later, Instagram Reel); the 17 Nov boo boo bandage song fits a proven competitor topic, and the 18 Nov freeze dance is the only song with a winter touch, so the first true Christmas song is still missing. Total 2335."
-  },
-  {
    "date": "2026-11-16 23:53",
    "note": "Run 769 (TRENDS (virlo.ai week of 16 Nov 2026 list)): Virlo's 16 Nov list has nine fresh formats, mostly adult text memes; the new kid safe one is a reach toward the camera then cut to petting a cat, added to the trend bank, while the bicep heart is now marked fading and the door slam prank is skipped. Total 2337."
   },
@@ -17920,16 +17930,16 @@
   {
    "date": "2026-11-19 04:45",
    "note": "Run 845 (visual craft (Blender 5.3 animation and splat details; Meshy changelog has no new motion update)): Most Blender 5.3 and Meshy 7.1 changes were already in the tree, and Meshy's changelog shows no Text to Motion update since July. New: Blender 5.3 adds world space copy and paste of poses and Rigify B Bone fixes, compositor playback caching up to twice as fast, and native Gaussian splat import that renders in EEVEE and Cycles. Total 2501."
+  },
+  {
+   "date": "2026-11-19 04:45",
+   "note": "Run 846 (posting times (Metricool best times for 19 to 25 Nov; topics round skipped, toy and film lists already in the tree)): Metricool's model for 19 to 25 Nov again puts YouTube's daily peak at 16:00 IST (Wednesday highest, Sunday about 47% of it) with 10:00 second, and Instagram's at 10:00 IST with a smaller 18:00 rise, so the two daily slots stay as they are; no slot change. Total 2503."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:08",
-   "total": 2031
   },
   {
    "date": "2026-11-16 16:08",
@@ -19122,6 +19132,10 @@
   {
    "date": "2026-11-19 04:45",
    "total": 2501
+  },
+  {
+   "date": "2026-11-19 04:45",
+   "total": 2503
   }
  ],
  "next_week_ideas": [
