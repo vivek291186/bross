@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:47:06+05:30",
- "runs": 847,
+ "updated": "2026-11-19T04:48:06+05:30",
+ "runs": 848,
  "branches": [
   {
    "id": "platforms",
@@ -5956,6 +5956,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 839
+    },
+    {
+     "t": "Kikoo Club (India, joined Jul 2023) reached about 808K subscribers and 969M views from only 330 videos, but its most viewed long video (a Baa Baa Black Sheep colours lullaby) has about 493K views, so almost all of its views came from Shorts; vidIQ models only a few dollars of ad income, a warning that a Shorts only audience pays almost nothing.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 848
+    },
+    {
+     "t": "Kikoo Club's monthly views fell from about 14M in Feb and Apr 2026 to about 2.7M in Oct while subscribers sat flat around 808K and even dipped, and its newest dump truck song (24 Oct) got about 3.5K views in a day, so a Shorts boom fades within months unless long songs build a library.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 848
+    },
+    {
+     "t": "Kikoo Club's second biggest long video is 'Laxman Chacha had a farm', an Indian adaptation of Old MacDonald (268K views), showing a local name swap inside a familiar song structure works for Indian audiences; for Bro Bros the same idea means original songs with local name and food swaps in dubbed versions.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 848
+    },
+    {
+     "t": "Dave and Ava (15.9M) uploaded 20 videos in the 28 days to 18 Nov 2026 with zero subscriber gain, and its newest, 'The Wheels on the Bus Part 2 - Animal Song' (16 Nov), had about 17K views after a day and a half, again showing 'Part 2' remakes of classics start slowly for legacy 3D channels.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 848
     }
    ]
   },
@@ -17641,10 +17669,6 @@
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 23:53",
-   "note": "Run 770 (YouTube algorithm (TV and phone handoff, living room viewing)): Satisfaction signal and CTV share items were already in the tree; new: since Sep 2026 a phone signed into the same account can push any video from its home feed to the TV with no shared Wi-Fi, which shortens the path from a Short seen on a parent's phone to the full song on the family TV. Total 2339."
-  },
-  {
    "date": "2026-11-16 23:54",
    "note": "Run 771 (Shorts and Reels (Edits and Shorts feature news)): Edits for Mac, First Draft auto edits, in video links, Shorts series and AI likeness Shorts were already in the tree; no new leaves. Total 2339."
   },
@@ -17955,16 +17979,16 @@
   {
    "date": "2026-11-19 04:47",
    "note": "Run 847 (global markets (Bengali and Latin American kids channels already in the tree) plus fresh platform news): Kids Tv Bangla, Reino Infantil and Plim Plim facts were already in the tree. New platform news: from 16 Nov 2026 YouTube's public view counts, watch time and ad views include estimated TV co viewers (one TV play can count as several views), while engaged views, unique viewers and Partner Program thresholds do not; outside data puts YouTube TV co viewing at about 45%. Total 2506."
+  },
+  {
+   "date": "2026-11-19 04:48",
+   "note": "Run 848 (competitor deep dive (Kikoo Club India, Dave and Ava update)): Kikoo Club (India, since Jul 2023) is new to the tree: 808K subscribers and 969M views from only 330 videos, yet its best long video has only 493K views, so nearly all views came from Shorts; monthly views fell from about 14M in Feb to 2.7M in Oct, subscribers stayed flat and vidIQ models almost no ad income. Dave and Ava's newest 'Wheels on the Bus Part 2' got 17K views in its first day and a half. Total 2510."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:09",
-   "total": 2033
   },
   {
    "date": "2026-11-16 16:09",
@@ -19157,6 +19181,10 @@
   {
    "date": "2026-11-19 04:47",
    "total": 2506
+  },
+  {
+   "date": "2026-11-19 04:48",
+   "total": 2510
   }
  ],
  "next_week_ideas": [
