@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-19T02:51+05:30",
- "runs": 826,
+ "runs": 827,
  "branches": [
   {
    "id": "platforms",
@@ -13768,6 +13768,27 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 816
+    },
+    {
+     "t": "Our YouTube channel averaged about 1,080 views a day from 11 to 15 Nov 2026 against about 730 a day from 4 to 10 Nov (+49%), and Sunday 15 Nov drew 1,301 views from only two uploads, so view growth is holding even on lighter upload days; Metricool has no YouTube data after 15 Nov yet.",
+     "src": "Metricool (our brand), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 827
+    },
+    {
+     "t": "Subscribers moved only from about 2,130 to 2,150 between 4 and 15 Nov 2026 (1 to 5 gained a day while 450 to 1,400 views a day came in), roughly one new subscriber per 500 views, so our viewers watch via Suggested without subscribing and each song needs a sung or visual 'come back for more' moment at the end.",
+     "src": "Metricool (our brand), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 827
+    },
+    {
+     "t": "Our Instagram Reels earned about 250 to 415 views a day on 4 to 8 Nov (3 to 5 Reels a day, about 80 views each) but only about 25 to 150 a day on 10 to 17 Nov (2 Reels a day, about 30 views each; 16 and 17 Nov brought 44 and 38 views), and the account still shows 1 follower, so Instagram is not yet pushing our Reels beyond a small test audience.",
+     "src": "Metricool (our brand), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 827
     }
    ]
   },
@@ -17085,11 +17106,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 748 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:05",
-   "note": "Run 749 (visual craft and trust (AI slop guide for parents; music skipped as just checked)): ZERO TO THREE's May 2026 guide lists the signs parents use to spot AI slop (repetitive, generic songs, shallow facts, no clear creator, loud surprises) and its E-AIMS test; Azaria found 65.7% of parents trust a brand less when content looks AI made. Total 2315."
+   "note": "Earlier runs summarised: all rounds through Run 749 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:05",
@@ -17402,13 +17419,13 @@
   {
    "date": "2026-11-19 02:51",
    "note": "Run 826 (rules, safety and monetisation (EU Kids Act status, channel descriptions)): YouTube monetisation, AI and COPPA changes for 2026 were already in the tree. New: on 10 Nov 2026 the EU urged quick adoption of the Kids Act (no accounts under 13, parent opened one hour accounts at 13 to 14, consultation open to 26 Nov), and since May 2026 channel descriptions are directly enforceable under YouTube's Community Guidelines. Total 2427."
+  },
+  {
+   "date": "2026-11-19 02:51",
+   "note": "Run 827 (our own results (Metricool YouTube and Instagram to 17 Nov)): Metricool now has YouTube to 15 Nov and Instagram to 17 Nov. YouTube averaged about 1,080 views a day in 11 to 15 Nov against about 730 in 4 to 10 Nov (+49%), with 15 Nov at 1,301 views from only 2 uploads, but subscribers only moved from 2,130 to 2,150. Instagram Reels fell from about 80 views each (4 to 8 Nov) to about 30 (10 to 17 Nov) and the account still shows 1 follower. Total 2430."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 15:40",
-   "total": 1993
-  },
   {
    "date": "2026-11-16 15:45",
    "total": 2003
@@ -18604,6 +18621,10 @@
   {
    "date": "2026-11-19 02:51",
    "total": 2427
+  },
+  {
+   "date": "2026-11-19 02:51",
+   "total": 2430
   }
  ],
  "next_week_ideas": [
