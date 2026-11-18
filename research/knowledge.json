@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T03:40:02+05:30",
- "runs": 834,
+ "updated": "2026-11-19T03:41:11+05:30",
+ "runs": 835,
  "branches": [
   {
    "id": "platforms",
@@ -1777,6 +1777,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 830
+    },
+    {
+     "t": "In Ofcom's 2026 Children's Media Lives a 10 year old said she watched YouTube Shorts about 10 minutes at a time, but her screen data showed about six hours a day, and she called it addictive; regulators are watching kids' Shorts use closely, so Bro Bros Shorts should end with a calm close rather than endless cliffhangers.",
+     "src": "Ofcom / Revealing Reality, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 835
     }
    ]
   },
@@ -11633,6 +11640,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 823
+    },
+    {
+     "t": "In Ofcom's Children's Media Lives 2026 (UK) a 10 year old said American channels are the 'only option' she can find because so few creators near her make videos, showing that British children default to US English content, so a clear, neutral global English accent travels to the UK without a separate version.",
+     "src": "Ofcom / Revealing Reality, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 835
+    },
+    {
+     "t": "Ofcom's 2026 diaries show older siblings choosing videos for little ones (a 15 year old puts CoComelon on an iPad for her younger brothers), so Bro Bros titles and thumbnails must be easy for a teen or parent to find and trust, not only appealing to toddlers.",
+     "src": "Ofcom / Revealing Reality, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 835
+    },
+    {
+     "t": "UK 9 to 11 year olds in Ofcom's 2026 study mostly watch family vlog and challenge channels (The Norris Nuts, A for Adley, the Royalty family) and gaming creators on the family TV, so Bro Bros older sibling appeal comes from challenge and game formats, while songs serve their younger brothers and sisters.",
+     "src": "Ofcom / Revealing Reality, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 835
     }
    ]
   },
@@ -17302,11 +17330,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 756 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:36",
-   "note": "Run 757 (TRENDS (SocialPilot, Later 13 Nov, NewEngen, KYM, Daily Dot, December seasonals)): Every current list (Later 13 Nov, NewEngen 13 Nov, SocialPilot to 10 Nov, SocialBee 12 Nov) and December seasonal checks (Netflix kids NYE countdowns, Spotify Wrapped, Shortsmas) were already in the tree and trend bank; no new leaves, trend bank unchanged. Total 2319."
+   "note": "Earlier runs summarised: all rounds through Run 757 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:38",
@@ -17619,16 +17643,16 @@
   {
    "date": "2026-11-19 03:40",
    "note": "Run 834 (TRENDS (December repeats, holiday audio share, gentle elf tradition)): Most December formats (advent unboxing, grid harmony, say the word on beat) were already in the tree. New: on 18 Nov four of Revid's top 25 viral TikTok songs are classic Christmas recordings and K-pop girl group tracks (ILLIT, KATSEYE) are still there; a gentle 'Elfie' tradition (an elf who brings treats and never spies or reports) offers a kinder December story. Added 'Gentle helper elf' to the trend bank and merged 'Room glow up reveal' into 'Season starts now reveal'. Total 2458."
+  },
+  {
+   "date": "2026-11-19 03:41",
+   "note": "Run 835 (global markets (UK children's viewing, Ofcom Media Lives 2026)): Dubbing, MENA and Vania Mania market facts were already in the tree. New from Ofcom's Children's Media Lives 2026 (UK): a 10 year old says American creators are the 'only option' she finds, an older sibling chooses CoComelon for her little brothers, and one child thought she watched 10 minutes of Shorts at a time but averaged about six hours a day. Total 2462."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 15:56",
-   "total": 2019
   },
   {
    "date": "2026-11-16 16:02",
@@ -18821,6 +18845,10 @@
   {
    "date": "2026-11-19 03:40",
    "total": 2458
+  },
+  {
+   "date": "2026-11-19 03:41",
+   "total": 2462
   }
  ],
  "next_week_ideas": [
