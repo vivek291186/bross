@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T03:42:02+05:30",
- "runs": 836,
+ "updated": "2026-11-19T04:35:56+05:30",
+ "runs": 837,
  "branches": [
   {
    "id": "platforms",
@@ -17338,6 +17338,48 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 834
+    },
+    {
+     "t": "'Same spot, years apart' is at peak on TikTok for 17 to 25 Nov 2026: creators recreate an old photo or clip in the exact same place and pose and cut between the two, on a Pink Floyd 'Time' clip used in about 556K videos.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 837
+    },
+    {
+     "t": "The soft launch reveal is the top TikTok format this week: first only a hand, a jacket or a shadow of someone is shown, then the full person appears on the chorus; the Finneas 'My Moon My Man' cover behind it has about 547K videos, and Finneas posted to it himself.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 837
+    },
+    {
+     "t": "ILLIT's 'You're Under Arrest' has become a pass the hook challenge on TikTok (one person does the short dance hook, then hands it to a partner who repeats it), rising at about 110K videos on 17 Nov 2026, so a duo handover beat is the current shape of K-pop dance trends.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 837
+    },
+    {
+     "t": "'Costume loading' is a November 2026 TikTok format: the person stands in ordinary clothes with an on screen loading bar, the frame freezes, and on the beat it cuts to the full costume; a sister format shows 'what I planned' photos and ends on the real, funnier result.",
+     "src": "que.es, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 837
+    },
+    {
+     "t": "A November 2026 'AI versus handmade' format shows the same little shoulder move twice, first as an AI version and then as a real or handmade one, played for a joke, which shows audiences enjoy openly comparing AI and handmade takes.",
+     "src": "que.es, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 837
+    },
+    {
+     "t": "The biggest cultural moments on TikTok in the week of 17 Nov 2026 are GTA VI's launch (19 Nov) and The Hunger Games: Sunrise on the Reaping (20 Nov), both teen or adult; the family safe moments are US Thanksgiving prep (21 to 25 Nov) and the Mariah led Christmas start, which are the ones for Bro Bros.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 837
     }
    ]
   }
@@ -17366,10 +17408,6 @@
   {
    "date": "2026-11-16 22:55",
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:39",
-   "note": "Run 759 (Shorts and Reels (Reels reach data, teen and under 16 feed rules)): Reels data checks (Emplifi speech and loop figures, Reels topic controls) were already in the tree; new: California AB 1709 bans addictive feeds and autoplay for under 16s from 2027, and Meta (9 Nov 2026) widened AI age checks that move suspected teens into Teen Accounts and must build under 13 detection under a court order. Total 2323."
   },
   {
    "date": "2026-11-16 23:40",
@@ -17682,16 +17720,16 @@
   {
    "date": "2026-11-19 03:42",
    "note": "Run 836 (competitor deep dive (Baby Zoo, Kids Learning Songs)): Two US channels new to the tree. Baby Zoo (10.7M) built its biggest hits on tiny toddler problems ('I can't sleep', 'it's too hot', 'where is my mouth', 100M to 195M each) with emoji titles and '+ More' compilations, but monthly views fell from about 100M in Jan 2026 to 29M in Oct and its newest upload got 51K in 4 days. Kids Learning Songs (10.5M) is steady at 16M to 25M a month on colours and health routines (brush teeth, dentist). Total 2467."
+  },
+  {
+   "date": "2026-11-19 04:35",
+   "note": "Run 837 (TRENDS (SocialPilot 17 Nov TikTok list, que.es November formats)): SocialPilot's 17 to 25 Nov list adds 'Same spot, years apart' (Pink Floyd 'Time' clip, about 556K videos), a soft launch reveal on Finneas' 'My Moon My Man' (about 547K) and ILLIT's 'You're Under Arrest' now played as a pass the hook duet; que.es adds the 'costume loading' freeze cut. This week's big cultural moments (GTA VI on 19 Nov, Hunger Games on 20 Nov) are teen or adult, so we skip them. Added three to the trend bank and dropped three older rising entries with no fresh evidence. Total 2473."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:02",
-   "total": 2020
   },
   {
    "date": "2026-11-16 16:03",
@@ -18884,6 +18922,10 @@
   {
    "date": "2026-11-19 03:42",
    "total": 2467
+  },
+  {
+   "date": "2026-11-19 04:35",
+   "total": 2473
   }
  ],
  "next_week_ideas": [
@@ -18946,6 +18988,24 @@
  ],
  "trend_bank": [
   {
+   "name": "Same spot, years apart",
+   "where": "TikTok, at peak for 17 to 25 Nov 2026 (Pink Floyd 'Time' clip)",
+   "status": "peak",
+   "use": "A split or cut Short: 'Baby Bros' (tiny toddler versions of the brothers) do a wobbly dance in the backyard, then a match cut to the big Bros doing the same move in the same spot, stronger and funnier, set to a soft clock tick and our own chorus. Meshy prompt: standing, slow wobbly sway side to side with arms out for balance, then the same sway done strongly with a clap on each side."
+  },
+  {
+   "name": "Soft launch new friend",
+   "where": "TikTok and Reels (Finneas cover sound at peak, week of 17 Nov 2026)",
+   "status": "peak",
+   "use": "Reveal a new Bro Bros character the soft launch way: first only a mitten waving at the edge of the frame, then a shadow, then on the chorus of our own original song the new friend jumps in and dances with the Bros. Use it to launch any new character or a new song. Never use the Finneas audio. Meshy prompt: standing, a shy wave with one hand, then a big step in and a two hand wave, then bounce in place."
+  },
+  {
+   "name": "Costume loading",
+   "where": "TikTok (November 2026 format, spreading to Reels)",
+   "status": "rising",
+   "use": "A 10 second Short: one Bro stands in pyjamas with a big cartoon loading bar filling under him, the frame freezes at 99%, and on the beat of our own winter song he pops into a full snowman or reindeer costume and starts the chorus dance. Make a series (Santa, penguin, snowflake). Meshy prompt: standing still with arms at sides, then a quick hop in place with arms flung up and out, then side steps with clapping."
+  },
+  {
    "name": "Gentle helper elf",
    "where": "TikTok family accounts (kind elf tradition, returns every December)",
    "status": "seasonal",
@@ -18994,22 +19054,10 @@
    "use": "Our own Suno waltz arrangement of the public domain Blue Danube melody (never someone else's recording). The Bros tidy the playroom like ballet dancers: standing, rise on tiptoes, arms in a round circle overhead, slow turn in place, gentle bow while placing a toy in the box. Meshy prompt: a boy stands, rises onto tiptoes with arms curved overhead, turns slowly in place, then bows gracefully, no floor moves."
   },
   {
-   "name": "Bashful chin sway",
-   "where": "TikTok, spreading to Reels",
-   "status": "rising",
-   "use": "In a soft verse of an original song (a shy new friend or a 'say sorry' moment) both brothers stand side by side and do the sway together for 8 beats, then wave. Meshy prompt: a child standing in place, hands folded together under the chin, swaying the upper body slowly left and right with a shy smile and small shoulder shrugs, feet planted, no floor moves."
-  },
-  {
    "name": "Step back high five kick",
    "where": "TikTok duo trend (13 Nov 2026 chart)",
    "status": "rising",
    "use": "The two brothers stand side by side facing camera; on the beat both take one step back, turn and high five, each does one small forward kick, then both freeze in a pose with one arm up. Meshy prompt: standing, step backward once, clap hands with partner at shoulder height, small forward kick with right leg, freeze with right arm raised. Use in a friendship or party song chorus."
-  },
-  {
-   "name": "Reach out to the cat",
-   "where": "TikTok (fresh, week of 16 Nov 2026)",
-   "status": "rising",
-   "use": "A 10 to 15 second looping Short: Little Bro slowly reaches one hand toward the camera on a soft rising note of our own song, then hard cut on the beat to him hugging a fluffy kitten (or the Bros' puppy) that purrs along to the chorus; end on the kitten reaching back with a paw so it loops. Meshy step: standing still, one arm extends slowly forward at shoulder height, fingers open, small lean forward, then both arms fold into a hug at the chest."
   },
   {
    "name": "One by one dance parade",
@@ -19022,12 +19070,6 @@
    "where": "Instagram Reels (family and creative accounts, outperforming about 469x usual views, week of 15 Nov 2026)",
    "status": "rising",
    "use": "POV text 'Little Bro is in charge of turning the pages': Big Bro sings a picture book song but Little Bro keeps flipping too early, skipping back or turning to the last page, so the story jumps (a snowman suddenly at the beach) and Big Bro has to sing faster to catch up; it ends with both singing the real ending together. Meshy motion: standing, Big Bro holds a big book and sways while singing; Little Bro does quick page flip arm sweeps and a cheeky shoulder shrug."
-  },
-  {
-   "name": "One take wide dance",
-   "where": "Instagram Reels (ATEEZ 'Drip' style one continuous wide shot, rising Nov 2026)",
-   "status": "rising",
-   "use": "Film the whole Bro Bros chorus dance in one continuous wide camera with no cuts and the full bodies of all dancers visible, so children and parents can copy every step; post it as the 'learn the dance' Reel beside the normal edited cut. Meshy motion: standing in place, step touch right and left, two claps, arms rolling forward, point up on the last beat."
   },
   {
    "name": "Giant balloon parade",
