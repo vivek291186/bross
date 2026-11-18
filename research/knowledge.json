@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:49:30+05:30",
- "runs": 850,
+ "updated": "2026-11-19T04:51:15+05:30",
+ "runs": 851,
  "branches": [
   {
    "id": "platforms",
@@ -5984,6 +5984,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 848
+    },
+    {
+     "t": "Nine of ChuChu TV's 15 newest uploads (25 Jul to 8 Oct 2026) went out on a Friday, with a few on Thursdays and Saturdays, and every long one puts its runtime in the title ('57 Min', '19 Min'), the same Friday compilation habit our playbook already follows.",
+     "src": "VidAnalyze, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 851
+    },
+    {
+     "t": "Among those uploads ChuChu's 'Learn Numbers 1 to 10 with Surprise Eggs' hour led with about 858K views and 'Dinosaur Songs for Kids' (30 min) had about 620K, while its newer 'Bestie and Friends' story skits got about 30K to 305K and 'How to Draw' hours 25K to 346K, so learning plus surprise reveals still beat new story formats for a song brand.",
+     "src": "VidAnalyze, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 851
+    },
+    {
+     "t": "ChuChu TV had posted no Christmas themed upload on its main channel by mid November 2026 and no Shorts in its last 15 uploads, so the biggest Indian kids brand leaves the late November Christmas window on main YouTube open for smaller channels.",
+     "src": "VidAnalyze, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 851
     }
    ]
   },
@@ -10184,6 +10205,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 822
+    },
+    {
+     "t": "Thailand celebrates Father's Day and National Day on Saturday 5 Dec 2026 (King Bhumibol's birthday, a public holiday, also Myanmar's National Day holiday), so a gentle 'my dad, my hero' song in the 04:30 or 16:00 IST slot that week fits Thai families and other Asian viewers.",
+     "src": "Q++ Studio public holidays, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 851
     }
    ]
   },
@@ -17719,10 +17747,6 @@
   },
   {
    "date": "2026-11-16 23:55",
-   "note": "Run 773 (visual craft (music skipped after an empty music round; Studio AI tools, stimulation)): Dynamic thumbnails and high stimulation concerns were already in the tree; new: YouTube's Sep 2026 Studio storytelling assistant reviews a channel's past hits to suggest pacing changes and can test up to three edited cuts of one video, dropping the weaker ones. Total 2340."
-  },
-  {
-   "date": "2026-11-16 23:55",
    "note": "Run 774 (visual craft (Annecy and MIPJunior 2026 market takeaways)): Disney Jr's child testing, WildBrain's YouTube first Strawberry Shortcake shorts and the handmade look preference were already in the tree; no new leaves. Total 2340."
   },
   {
@@ -18032,16 +18056,16 @@
   {
    "date": "2026-11-19 04:49",
    "note": "Run 850 (rules and monetisation (AIR Shorts versus long RPM, Q4 ad season)): Most of AIR's 274 channel RPM study was already in the tree. New: December CPMs run about 40 to 60% above January, kids channels' long form RPM was 26% lower in months heavy on Shorts (21+), and a Shorts to long video ratio of about 0.28 to 0.40 went with the best mix of subscribers and revenue; with 14 Shorts a week we sit far above that, so the extra Shorts must keep pointing to full songs. Total 2517."
+  },
+  {
+   "date": "2026-11-19 04:51",
+   "note": "Run 851 (competitor deep dive (ChuChu TV upload pattern, Jul to Oct 2026) and December dates): ChuChu TV's monthly view slide was already in the tree. New from its 15 newest uploads (25 Jul to 8 Oct 2026): 9 of 15 went out on a Friday, the long ones carry the runtime in the title (19 to 57 minutes), a 'Learn Numbers 1 to 10 with Surprise Eggs' hour got the most views (about 858K) and dinosaur songs about 620K, while 'Bestie and Friends' story skits and How to Draw hours trail and no Christmas upload had appeared by mid November. Also: Thailand marks Father's Day on Saturday 5 Dec. Total 2521."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:10",
-   "total": 2037
   },
   {
    "date": "2026-11-16 16:11",
@@ -19234,6 +19258,10 @@
   {
    "date": "2026-11-19 04:49",
    "total": 2517
+  },
+  {
+   "date": "2026-11-19 04:51",
+   "total": 2521
   }
  ],
  "next_week_ideas": [
