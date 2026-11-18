@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T03:37:05+05:30",
- "runs": 832,
+ "updated": "2026-11-19T03:38:18+05:30",
+ "runs": 833,
  "branches": [
   {
    "id": "platforms",
@@ -8798,6 +8798,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 821
+    },
+    {
+     "t": "Disney Jr.'s Sofia the First: Royal Magic (May 2026) replaced the old flat, toon shaded look with dappled, cinematic sunlight through trees and one very large reusable school set, aiming for a near feature film feel on a TV budget; soft dappled key light in Blender is a cheap way for Bro Bros scenes to look premium.",
+     "src": "Pulse / Disney Jr., May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 833
+    },
+    {
+     "t": "For Cars: Lightning Racers (Annecy, Jun 2026) Disney Jr. made the preschool heroes chunkier and rounder and stages them side by side, angled toward the camera like actors on a stage, which suits Bro Bros dance shots where both brothers face the viewer.",
+     "src": "Laughing Place, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 833
+    },
+    {
+     "t": "Disney Jr.'s child testing for Cars: Lightning Racers showed preschoolers most wanted to see the hero's everyday life (where he sleeps, what he eats), so the series repeats a 'get ready to race' sequence in most episodes; a recurring 'get ready to dance' warm up in every Bro Bros video plus home routine scenes follows the same finding.",
+     "src": "Laughing Place, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 833
+    },
+    {
+     "t": "Cars: Lightning Racers gives each supporting character its own simple colour signature (for example a pink and purple character) while simplifying the town into a toonified look, so each Bro Bros friend should own one bold colour against calmer, simpler backgrounds.",
+     "src": "Laughing Place, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 833
     }
    ]
   },
@@ -17246,11 +17274,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 754 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:08",
-   "note": "Run 755 (rules and safety (Brookings AI slop panel)): A July 2026 Brookings panel cited a NYT test where about 40% of videos recommended after preschool shows had AI content, and experts pressed YouTube for an AI off switch, watermarks and no AI recommendations to minors; a former PBS Kids leader set out the test with families standard. Total 2318."
+   "note": "Earlier runs summarised: all rounds through Run 755 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:08",
@@ -17563,16 +17587,16 @@
   {
    "date": "2026-11-19 03:37",
    "note": "Run 832 (music craft (rhythm and repetition research)): A Feb 2026 Annals of the NY Academy of Sciences review (Lense lab) argues a steady beat makes repeated words predictable and 'supercharges' song communication with babies; a 2026 Verona study found 8 weeks of music sessions lifted rhythm skills in 2 and 4 year olds and focus skills only in 4 year olds, with no vocabulary gain. Pinkfong's Santa Shark shows the holiday remake of a signature song. Total 2450."
+  },
+  {
+   "date": "2026-11-19 03:38",
+   "note": "Run 833 (visual craft (Disney Jr. 2026 preschool CG looks)): Thumbnail and calm style research was already deep in the tree. New from Disney Jr.'s 2026 shows: Sofia the First: Royal Magic swapped flat toon shading for dappled, sunlit cinematic lighting on one huge reusable set; Cars: Lightning Racers made heroes chunkier, stages them facing the camera like actors on a stage, and after testing built episodes around everyday life plus a repeated 'get ready' sequence. Total 2454."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 15:50",
-   "total": 2013
   },
   {
    "date": "2026-11-16 15:50",
@@ -18765,6 +18789,10 @@
   {
    "date": "2026-11-19 03:37",
    "total": 2450
+  },
+  {
+   "date": "2026-11-19 03:38",
+   "total": 2454
   }
  ],
  "next_week_ideas": [
