@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:38:37+05:30",
- "runs": 839,
+ "updated": "2026-11-19T04:39:47+05:30",
+ "runs": 840,
  "branches": [
   {
    "id": "platforms",
@@ -17443,6 +17443,34 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 837
+    },
+    {
+     "t": "Revid's Christmas 2026 guide (updated 6 Nov) says most years one Christmas song gets a viral routine and that energy and a lit tree matter more than dance skill, so a simple, high energy Bro Bros routine in front of a glowing tree can compete.",
+     "src": "Revid, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 840
+    },
+    {
+     "t": "The same guide pushes 'make your own challenge' with a one line rule others can copy (for example wrap a present in 30 seconds) and harmless 'wrap the whole room in gift paper' surprises that end with everyone laughing, both easy December Short formats.",
+     "src": "Revid, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 840
+    },
+    {
+     "t": "Holiday karaoke lyric videos with words on screen invite duets and stitches even from non singers, so a Bro Bros sing along cut with big bouncing lyrics of our own Christmas song is a December format that spreads by duets.",
+     "src": "Revid, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 840
+    },
+    {
+     "t": "A 'small creature waving bye in a tornado' meme (a squirrel calmly waving as the wind takes it) is used on TikTok and X for over dramatic reactions to tiny mishaps; the joke shape (calm wave while chaos happens) is reusable with our own characters, but never the film scenes it was cut from.",
+     "src": "Know Your Meme, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 840
     }
    ]
   }
@@ -17471,10 +17499,6 @@
   {
    "date": "2026-11-16 22:55",
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:47",
-   "note": "Run 762 (visual craft (thumbnail faces, pacing and fantasy, toddler gaze)): Thumbnail face data and the pace versus fantasy meta analysis were already in the tree; new: a 2026 eye tracking study of 127 toddlers found toys pull gaze first and faces win more attention once props are removed, so dance moments should keep the frame clear of toys. Total 2325."
   },
   {
    "date": "2026-11-16 23:48",
@@ -17787,16 +17811,16 @@
   {
    "date": "2026-11-19 04:38",
    "note": "Run 839 (YouTube main and YouTube Kids (Metricool unchanged since Run 827, so own results skipped; vidIQ nursery channel cadence)): Metricool YouTube data still ends 15 Nov, so the own results round was skipped. From vidIQ on 18 Nov: Farmees (9.87M) uploads every 2 days with about 19K median views and its Christmas Wheels on the Bus remake got 13.5K in two days; CocoBus pushes about 109 uploads in 28 days for only 10.8K subscribers; Rhythm And Nursery Rhymes (US, 815K) averages about 430K views per video. Parents can also set the Shorts timer to zero. Total 2482."
+  },
+  {
+   "date": "2026-11-19 04:39",
+   "note": "Run 840 (TRENDS (December challenge ideas, meme formats)): A second trends pass minutes after Run 837, so it looked at December formats: Revid's 6 Nov Christmas guide says each year one Christmas song gets a viral routine where energy and a lit tree beat skill, pushes simple one line copyable challenges (wrap something in 30 seconds), harmless 'wrap the room' surprises and lyric on screen karaoke for duets; Know Your Meme logged a tiny squirrel waving bye in a tornado format for dramatic reactions to small mishaps. Added 'Wrap it in 30 seconds' to the trend bank. Total 2486."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:05",
-   "total": 2024
   },
   {
    "date": "2026-11-16 16:05",
@@ -18989,6 +19013,10 @@
   {
    "date": "2026-11-19 04:38",
    "total": 2482
+  },
+  {
+   "date": "2026-11-19 04:39",
+   "total": 2486
   }
  ],
  "next_week_ideas": [
@@ -19050,6 +19078,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Wrap it in 30 seconds",
+   "where": "TikTok, Reels and Shorts (December challenge style, Revid Christmas 2026 guide)",
+   "status": "seasonal",
+   "use": "A 30 second Short with a big on screen timer: Big Bro and Little Bro race to wrap a present (a teddy, a ball, a giant box) to a fast verse of our own 'Wrap It Up!' song; the messy funny results are revealed on the last beat, then both do the chorus dance. Caption: 'Can you wrap it before the bell?'. Meshy prompt: standing in place, fast arm rolling in front of the chest, then two claps above the head and a hop with arms up."
+  },
   {
    "name": "Same spot, years apart",
    "where": "TikTok, at peak for 17 to 25 Nov 2026 (Pink Floyd 'Time' clip)",
@@ -19115,12 +19149,6 @@
    "where": "Instagram Reels (Blue Danube waltz sound, week of 17 Nov 2026)",
    "status": "rising",
    "use": "Our own Suno waltz arrangement of the public domain Blue Danube melody (never someone else's recording). The Bros tidy the playroom like ballet dancers: standing, rise on tiptoes, arms in a round circle overhead, slow turn in place, gentle bow while placing a toy in the box. Meshy prompt: a boy stands, rises onto tiptoes with arms curved overhead, turns slowly in place, then bows gracefully, no floor moves."
-  },
-  {
-   "name": "Step back high five kick",
-   "where": "TikTok duo trend (13 Nov 2026 chart)",
-   "status": "rising",
-   "use": "The two brothers stand side by side facing camera; on the beat both take one step back, turn and high five, each does one small forward kick, then both freeze in a pose with one arm up. Meshy prompt: standing, step backward once, clap hands with partner at shoulder height, small forward kick with right leg, freeze with right arm raised. Use in a friendship or party song chorus."
   },
   {
    "name": "One by one dance parade",
