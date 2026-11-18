@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:43:12+05:30",
- "runs": 843,
+ "updated": "2026-11-19T04:44:27+05:30",
+ "runs": 844,
  "branches": [
   {
    "id": "platforms",
@@ -7510,6 +7510,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 832
+    },
+    {
+     "t": "A University of Pennsylvania study in Child Development (144 preschoolers, youngest about 3) found children matched 5 second instrumental clips to emotion faces best when the music was high energy (happy, scary) and in a major key; calm and sad were hardest, so a calm Bro Bros song needs clear visual cues (yawns, slow camera, soft light) to read as calm.",
+     "src": "Earth.com (Child Development), Aug 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 844
+    },
+    {
+     "t": "Audiomack analyst Chris Dalla Riva found about a quarter of US No. 1 hits changed key from the 1960s to the 1990s but only one did between 2010 and 2020, so one big key lift into a final chorus now sounds special rather than routine; keep it to one per song.",
+     "src": "NPR via WUSF, 2022",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 844
+    },
+    {
+     "t": "A Growing Up in New Zealand study of more than 6,000 children (AUT, Feb 2026) found most babies are sung to daily but parents sing less as children grow while children listen to more music on their own, so songs for 4 to 7 year olds must work without a parent, with easy self led actions.",
+     "src": "Scimex (AUT), Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 844
     }
    ]
   },
@@ -17564,10 +17585,6 @@
    "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
-   "date": "2026-11-16 23:51",
-   "note": "Run 766 (TRENDS (Epidemic Sound 13 Nov, Tokchart, howtogoviral US rising searches)): Most items (bicep heart, fancy cafe gag, Christmas switch, beat drop poses) were already in the tree; new: calm 'affirmation over action' and morning affirmation routines are rising US TikTok searches, added to the trend bank as a kid morning song format. Total 2333."
-  },
-  {
    "date": "2026-11-16 23:52",
    "note": "Run 767 (rules, safety and monetisation (COPPA enforcement, kids ad market)): Disney's COPPA settlement, the July 2026 inauthentic content rules and kids RPM guides were already in the tree; new: Moonbug's CTV pilot shows kids video ads can only be sold on context and parent co viewing, reaching mostly cord cutting homes. Total 2334."
   },
@@ -17878,16 +17895,16 @@
   {
    "date": "2026-11-19 04:43",
    "note": "Run 843 (other platforms (YouTube Music Christmas charts by country; Netflix and Roblox lists already in the tree)): A second TRENDS round in the same run was skipped. Netflix's 2026 animated top 10 and November's Roblox growers were already in the tree. New: in YouTube's last Christmas week chart (19 to 25 Dec 2025) Christmas classics filled five of the US top 10 and topped the UK, Germany and the Netherlands, but sat only at #53 in Brazil and nowhere in India's top 50, so Christmas songs should be timed for the US and Europe slot. Total 2495."
+  },
+  {
+   "date": "2026-11-19 04:44",
+   "note": "Run 844 (music craft (emotion cues for preschoolers, key changes, singing at home)): Suno v6 and the 2027 children's Grammy list were already in the tree. New: a Penn study of 144 preschoolers found they read emotion in 5 second clips best for high energy and major key music (36% against 25% chance), with calm and sad hardest; key changes fell from about a quarter of US No. 1 hits (1960s to 1990s) to one between 2010 and 2020; a 6,000 child New Zealand study shows parents sing less as children grow and children listen alone more. Total 2498."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:07",
-   "total": 2027
   },
   {
    "date": "2026-11-16 16:07",
@@ -19080,6 +19097,10 @@
   {
    "date": "2026-11-19 04:43",
    "total": 2495
+  },
+  {
+   "date": "2026-11-19 04:44",
+   "total": 2498
   }
  ],
  "next_week_ideas": [
