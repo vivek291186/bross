@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:44:27+05:30",
- "runs": 844,
+ "updated": "2026-11-19T04:45:03+05:30",
+ "runs": 845,
  "branches": [
   {
    "id": "platforms",
@@ -8966,6 +8966,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 833
+    },
+    {
+     "t": "Blender 5.3 (10 Nov 2026) adds world space copy and paste for animation and rotation mode conversion, so a Meshy dance pose can be pasted onto the second brother at the same spot on the stage without re aligning by hand, plus Rigify B Bone improvements for bendy cartoon limbs.",
+     "src": "Digital Production, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 845
+    },
+    {
+     "t": "Blender 5.3 imports Gaussian splats (PLY, SPZ, glTF) natively and renders them in EEVEE and Cycles, but relighting is still basic, so splat scanned real places suit far backgrounds only, not lit play areas where our characters dance.",
+     "src": "Digital Production, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 845
+    },
+    {
+     "t": "Meshy's web changelog shows no Text to Motion, rigging or motion library change since the July 2026 launch of Text to Motion (Sep and Oct were Meshy 7.1, T2.5 topology, N1 stylised textures and Meshy Edit), so our current motion prompt rules still apply.",
+     "src": "Meshy docs changelog, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 845
     }
    ]
   },
@@ -17586,10 +17607,6 @@
   },
   {
    "date": "2026-11-16 23:52",
-   "note": "Run 767 (rules, safety and monetisation (COPPA enforcement, kids ad market)): Disney's COPPA settlement, the July 2026 inauthentic content rules and kids RPM guides were already in the tree; new: Moonbug's CTV pilot shows kids video ads can only be sold on context and parent co viewing, reaching mostly cord cutting homes. Total 2334."
-  },
-  {
-   "date": "2026-11-16 23:52",
    "note": "Run 768 (our own results (Metricool schedule 16 to 22 Nov; analytics already checked today in Run 684)): The 42 posts queued for 16 to 22 Nov follow one pattern (YouTube song, matching Short five minutes later, Instagram Reel); the 17 Nov boo boo bandage song fits a proven competitor topic, and the 18 Nov freeze dance is the only song with a winter touch, so the first true Christmas song is still missing. Total 2335."
   },
   {
@@ -17899,16 +17916,16 @@
   {
    "date": "2026-11-19 04:44",
    "note": "Run 844 (music craft (emotion cues for preschoolers, key changes, singing at home)): Suno v6 and the 2027 children's Grammy list were already in the tree. New: a Penn study of 144 preschoolers found they read emotion in 5 second clips best for high energy and major key music (36% against 25% chance), with calm and sad hardest; key changes fell from about a quarter of US No. 1 hits (1960s to 1990s) to one between 2010 and 2020; a 6,000 child New Zealand study shows parents sing less as children grow and children listen alone more. Total 2498."
+  },
+  {
+   "date": "2026-11-19 04:45",
+   "note": "Run 845 (visual craft (Blender 5.3 animation and splat details; Meshy changelog has no new motion update)): Most Blender 5.3 and Meshy 7.1 changes were already in the tree, and Meshy's changelog shows no Text to Motion update since July. New: Blender 5.3 adds world space copy and paste of poses and Rigify B Bone fixes, compositor playback caching up to twice as fast, and native Gaussian splat import that renders in EEVEE and Cycles. Total 2501."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:07",
-   "total": 2028
   },
   {
    "date": "2026-11-16 16:08",
@@ -19101,6 +19118,10 @@
   {
    "date": "2026-11-19 04:44",
    "total": 2498
+  },
+  {
+   "date": "2026-11-19 04:45",
+   "total": 2501
   }
  ],
  "next_week_ideas": [
