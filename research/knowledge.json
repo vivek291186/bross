@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:38+05:30",
- "runs": 819,
+ "updated": "2026-11-19T02:39+05:30",
+ "runs": 820,
  "branches": [
   {
    "id": "platforms",
@@ -7258,6 +7258,27 @@
      "conf": "high",
      "date": "2026-11-17",
      "run": 818
+    },
+    {
+     "t": "Christmas listening share differs hugely by country: in December about 1 in 6 streams in Sweden and Norway are holiday songs but only about 1 in 150 in Brazil (and barely any rise before Christmas there), so for a worldwide channel each Christmas song should be paired with winter, party and gift songs that do not depend on Christmas traditions.",
+     "src": "hypebot.com (Economist and Spotify data), Dec 2022",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 820
+    },
+    {
+     "t": "Laurie Berkner (Jan 2026 interview) says her longest lasting kids songs began as small real life moments and carry movement cues sized to small bodies, written honestly and never talking down, so Bro Bros songs should start from an everyday moment (socks, bath, breakfast) and give one clear move per line.",
+     "src": "myweeklymixtape.com, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 820
+    },
+    {
+     "t": "A US pediatrician (Motherly, Jul 2026) notes that fussy babies settle to lower, slower sounds close to breathing and heartbeat while alert babies prefer fast songs with a strong rhythm, which supports keeping two clearly separate Bro Bros sound worlds: soft slow bedtime songs and bright fast dance songs, never mixed in one track.",
+     "src": "mother.ly, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 820
     }
    ]
   },
@@ -16938,11 +16959,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 741 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:02",
-   "note": "Run 742 (TRENDS (toy crazes, parenting trends)): Toy craze searches (NeeDoh, squishies) and parenting TikTok trends returned items already in the tree, an April 'hide from your toddler' prank we skip because it can upset small children, and a doorstep challenge police called dangerous; no new leaves. Total 2311."
+   "note": "Earlier runs summarised: all rounds through Run 742 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:02",
@@ -17255,13 +17272,13 @@
   {
    "date": "2026-11-19 02:38",
    "note": "Run 819 (TRENDS (SocialPilot 17 Nov Reels sounds, November format lists)): SocialPilot's 17 Nov list moved the Blue Danube waltz from outfit try ons to chores staged as a grand ballet, added a back to back bump into a unison dance and a dramatic 'STOP!' hook with a tiny twist; 4 of 11 top Reels sounds are now Christmas or winter. Added 'Chores ballet' and 'Back to back bump' to the trend bank, dropped two older ones. Total 2406."
+  },
+  {
+   "date": "2026-11-19 02:39",
+   "note": "Run 820 (music craft (holiday listening by country, songwriter and pediatric views)): Most music craft studies (rhythm trials, Suno v6, Tonies, Yoto, Luminate) were already in the tree. New: Christmas songs reach 1 in 6 December streams in Sweden and Norway but only 1 in 150 in Brazil, so winter party songs must travel beyond Christmas; songs that last grow from small real moments with body cues; slower lower sounds for calm, fast strong beats for alert kids. Total 2409."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 08:00",
-   "total": 1553
-  },
   {
    "date": "2026-11-16 09:00",
    "total": 1661
@@ -18457,6 +18474,10 @@
   {
    "date": "2026-11-19 02:38",
    "total": 2406
+  },
+  {
+   "date": "2026-11-19 02:39",
+   "total": 2409
   }
  ],
  "next_week_ideas": [
