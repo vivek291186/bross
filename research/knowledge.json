@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-17T01:55+05:30",
- "runs": 818,
+ "updated": "2026-11-19T02:38+05:30",
+ "runs": 819,
  "branches": [
   {
    "id": "platforms",
@@ -16876,6 +16876,41 @@
      "conf": "high",
      "date": "2026-11-17",
      "run": 815
+    },
+    {
+     "t": "SocialPilot's Reels sound list for 17 to 25 Nov 2026 shows the Blue Danube waltz now used to stage ordinary chores (cleaning, tidying, grooming a pet) as a grand ballet for comedy, so a 'tidy up ballet' Short where the Bros twirl and glide while putting toys away, set to our own waltz arrangement of the public domain tune, fits this week exactly.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 819
+    },
+    {
+     "t": "A 'back to back bump' format is in this week's top Reels sounds: two people stand back to back, bump hips or shoulders on the beat, then turn and burst into the same coordinated dance, a simple duo opener the two Bros can do at the start of any song.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 819
+    },
+    {
+     "t": "A dramatic 'STOP!' hook that lands on something tiny or funny (from a 'stop the wedding' sound) is trending on Reels this week; a kid safe version is Big Bro shouting 'STOP!' as the music cuts, then pointing out Little Bro's sock on his hand, and the song restarts.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 819
+    },
+    {
+     "t": "Four of the eleven top Instagram Reels sounds for the week of 17 Nov 2026 are Christmas or winter songs used for light displays, decorations going up and slow winter walks, confirming that the holiday switch on Reels has fully started in mid November; we copy the formats with our own winter songs, never those recordings.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 819
+    },
+    {
+     "t": "A 'silly little life' gratitude montage (fast cuts of small happy moments ending on a kind message) is trending on Reels this week; our version is a quick cut of the Bros' small joys (warm socks, a snowflake, a hug) over our own cheerful song, ending with 'you did great today'.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 819
     }
    ]
   }
@@ -16903,15 +16938,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 739 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 22:56",
-   "note": "Run 740 (global markets (German kids song channels)): Sing mit mir (3.95M subs) earns about 66M views a month from funny everyday and vehicle songs; a 5 week old German animated song channel averages about 1,100 views per video, with a song about loving Mama as its only breakout. Total 2311."
-  },
-  {
-   "date": "2026-11-16 23:01",
-   "note": "Run 741 (competitor deep dive (Dave and Ava, Mother Goose Club recheck)): vidIQ's 16 Nov figures for Dave and Ava (15.9M subs, about 40 to 57M views a month, no subscriber growth, Halloween songs on top) and Mother Goose Club (about 21 to 27M a month and falling) matched leaves already in the tree; no new leaves. Total 2311."
+   "note": "Earlier runs summarised: all rounds through Run 741 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:02",
@@ -17224,17 +17251,13 @@
   {
    "date": "2026-11-17 01:55",
    "note": "Run 818 (music craft and global markets, manual round): tempo and key defaults for kids songs, dubbing languages (Spanish, Arabic, Indonesian, Portuguese) via multi-audio tracks, December compilation demand. Total 2401."
+  },
+  {
+   "date": "2026-11-19 02:38",
+   "note": "Run 819 (TRENDS (SocialPilot 17 Nov Reels sounds, November format lists)): SocialPilot's 17 Nov list moved the Blue Danube waltz from outfit try ons to chores staged as a grand ballet, added a back to back bump into a unison dance and a dramatic 'STOP!' hook with a tiny twist; 4 of 11 top Reels sounds are now Christmas or winter. Added 'Chores ballet' and 'Back to back bump' to the trend bank, dropped two older ones. Total 2406."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 06:00",
-   "total": 1426
-  },
-  {
-   "date": "2026-11-16 07:36",
-   "total": 1473
-  },
   {
    "date": "2026-11-16 08:00",
    "total": 1553
@@ -18430,6 +18453,10 @@
   {
    "date": "2026-11-17 01:55",
    "total": 2401
+  },
+  {
+   "date": "2026-11-19 02:38",
+   "total": 2406
   }
  ],
  "next_week_ideas": [
@@ -18488,16 +18515,22 @@
  ],
  "trend_bank": [
   {
+   "name": "Back to back bump",
+   "where": "Instagram Reels (top sounds, week of 17 Nov 2026)",
+   "status": "rising",
+   "use": "Opening of a duo dance: the Bros stand back to back, bump shoulders twice on the beat, spin to face the camera and start the same chorus step together. Meshy prompt: a boy stands, leans one shoulder sideways twice, turns in place to face forward, then claps and bounces on the spot."
+  },
+  {
+   "name": "Chores ballet",
+   "where": "Instagram Reels (Blue Danube waltz sound, week of 17 Nov 2026)",
+   "status": "rising",
+   "use": "Our own Suno waltz arrangement of the public domain Blue Danube melody (never someone else's recording). The Bros tidy the playroom like ballet dancers: standing, rise on tiptoes, arms in a round circle overhead, slow turn in place, gentle bow while placing a toy in the box. Meshy prompt: a boy stands, rises onto tiptoes with arms curved overhead, turns slowly in place, then bows gracefully, no floor moves."
+  },
+  {
    "name": "Bashful chin sway",
    "where": "TikTok, spreading to Reels",
    "status": "rising",
    "use": "In a soft verse of an original song (a shy new friend or a 'say sorry' moment) both brothers stand side by side and do the sway together for 8 beats, then wave. Meshy prompt: a child standing in place, hands folded together under the chin, swaying the upper body slowly left and right with a shy smile and small shoulder shrugs, feet planted, no floor moves."
-  },
-  {
-   "name": "Age pinned carousel",
-   "where": "Instagram carousels, TikTok photo mode",
-   "status": "rising",
-   "use": "Post a 6 slide carousel titled for one exact age, for example '5 winter songs for 3 year olds': one bright Bro Bros still per slide with the song name and one line on what the child does (clap, stomp, count), last slide says the full songs are on YouTube; no audio needed beyond our own song."
   },
   {
    "name": "Step back high five kick",
@@ -18594,12 +18627,6 @@
    "where": "TikTok and Reels every December (recurring seasonal meme)",
    "status": "seasonal",
    "use": "Big Bro and Little Bro in pointy felt hats lead a growing line of our own little gnome characters marching across the living room on our original marching song, one more gnome joining every bar until the whole army freezes and waves. Meshy steps, standing in place: high knee march on the spot, arms swinging; stop and salute; turn the head left and right peeking; a big two handed wave."
-  },
-  {
-   "name": "That makes no sense",
-   "where": "TikTok (Ramdam list, 3 Nov 2026), rising",
-   "status": "rising",
-   "use": "On screen text: 'Little Bro's way to put on a hat'. Little Bro does it the long silly way (spins three times, hops, balances it on one finger) while Big Bro watches; cut to Big Bro shaking his head, palms up in a big shrug, then showing the easy way, and both laugh into our own original chorus. Meshy steps, standing in place: slow head shake side to side, both palms up shrug with raised shoulders, hand on forehead, one full spin, small hop on the spot."
   },
   {
    "name": "Trio spin swap",
