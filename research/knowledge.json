@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:45:57+05:30",
- "runs": 846,
+ "updated": "2026-11-19T04:47:06+05:30",
+ "runs": 847,
  "branches": [
   {
    "id": "platforms",
@@ -1833,6 +1833,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 843
+    },
+    {
+     "t": "Since 16 Nov 2026 YouTube's public view counts, watch time and ad driven views include estimated co viewers when people watch together on a TV, so one living room play of a Bro Bros song can count as several views; engaged views, unique viewers and Partner Program eligibility are not changed, and a new co view rate lets us remove the estimate.",
+     "src": "PPC Land (YouTube Help), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 847
+    },
+    {
+     "t": "Data cited with the co view change: a 2022 Nielsen study found several adults watched YouTube together on TV 26% of the time, and VAB/TVision put co viewing on YouTube's TV app at about 45%; kids songs are a natural shared TV watch (siblings, a parent), so TV friendly full songs gain most from the new counting.",
+     "src": "PPC Land, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 847
     }
    ]
   },
@@ -11836,6 +11850,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 838
+    },
+    {
+     "t": "Instagram's long form 'Features' (horizontal videos up to 90 minutes, with short previews in Reels) was tested in Brazil before US creators and will also appear in the new Instagram app for Apple TV in the US, so Brazil is again a first test market for Meta video features.",
+     "src": "The National, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 847
     }
    ]
   },
@@ -17621,10 +17642,6 @@
   },
   {
    "date": "2026-11-16 23:53",
-   "note": "Run 769 (TRENDS (virlo.ai week of 16 Nov 2026 list)): Virlo's 16 Nov list has nine fresh formats, mostly adult text memes; the new kid safe one is a reach toward the camera then cut to petting a cat, added to the trend bank, while the bicep heart is now marked fading and the door slam prank is skipped. Total 2337."
-  },
-  {
-   "date": "2026-11-16 23:53",
    "note": "Run 770 (YouTube algorithm (TV and phone handoff, living room viewing)): Satisfaction signal and CTV share items were already in the tree; new: since Sep 2026 a phone signed into the same account can push any video from its home feed to the TV with no shared Wi-Fi, which shortens the path from a Short seen on a parent's phone to the full song on the family TV. Total 2339."
   },
   {
@@ -17934,16 +17951,16 @@
   {
    "date": "2026-11-19 04:45",
    "note": "Run 846 (posting times (Metricool best times for 19 to 25 Nov; topics round skipped, toy and film lists already in the tree)): Metricool's model for 19 to 25 Nov again puts YouTube's daily peak at 16:00 IST (Wednesday highest, Sunday about 47% of it) with 10:00 second, and Instagram's at 10:00 IST with a smaller 18:00 rise, so the two daily slots stay as they are; no slot change. Total 2503."
+  },
+  {
+   "date": "2026-11-19 04:47",
+   "note": "Run 847 (global markets (Bengali and Latin American kids channels already in the tree) plus fresh platform news): Kids Tv Bangla, Reino Infantil and Plim Plim facts were already in the tree. New platform news: from 16 Nov 2026 YouTube's public view counts, watch time and ad views include estimated TV co viewers (one TV play can count as several views), while engaged views, unique viewers and Partner Program thresholds do not; outside data puts YouTube TV co viewing at about 45%. Total 2506."
   }
  ],
  "history": [
   {
    "date": "2026-11-16 15:48",
    "total": 2008
-  },
-  {
-   "date": "2026-11-16 16:08",
-   "total": 2033
   },
   {
    "date": "2026-11-16 16:09",
@@ -19136,6 +19153,10 @@
   {
    "date": "2026-11-19 04:45",
    "total": 2503
+  },
+  {
+   "date": "2026-11-19 04:47",
+   "total": 2506
   }
  ],
  "next_week_ideas": [
