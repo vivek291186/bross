@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-19T02:49+05:30",
- "runs": 824,
+ "runs": 825,
  "branches": [
   {
    "id": "platforms",
@@ -17016,6 +17016,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 819
+    },
+    {
+     "t": "A rising TikTok format for 17 to 25 Nov 2026 is the 'camera shy' clip: a pet acts shy or grumpy at the camera, then gives in and starts dancing, and a kid safe version is the Bros' shy animal friend turning away, peeking twice, then joining the chorus dance, which also models gentle inclusion.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 825
+    },
+    {
+     "t": "TikTok's US Thanksgiving and Friendsgiving prep wave runs 21 to 25 Nov 2026 with 'what I'm bringing' and table setup clips, so a Bro Bros 'what I'm bringing to the party' Short (each friend shows one dish or toy on a beat) fits that week and works for any shared meal worldwide.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 825
+    },
+    {
+     "t": "Last December TikTok users revived a classic cartoon's holiday dance (a loose head bob and side to side shuffle, Daily Dot, Dec 2025), showing that retro, easy, slightly awkward holiday dances come back every December; we can create our own gentle shuffle dance for a Christmas song without copying any character.",
+     "src": "dailydot.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 825
     }
    ]
   }
@@ -17043,11 +17064,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 746 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:04",
-   "note": "Run 747 (other platforms (iTunes kids chart, Yoto and Amazon Kids; Shorts skipped as just checked)): The iTunes kids chart (faith and comfort songs, Kiboomers' Bear Hunt, Danny Go!'s Wiggle Dance, winter songs climbing) and Yoto's 43% revenue growth were already in the tree from earlier today; no new leaves. Total 2312."
+   "note": "Earlier runs summarised: all rounds through Run 747 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:04",
@@ -17360,13 +17377,13 @@
   {
    "date": "2026-11-19 02:49",
    "note": "Run 824 (competitor deep dive (The Wiggles)): The big competitors (CoComelon, Super Simple, BabyBus, Bebefinn, Pinkfong, Danny Go!) were already covered up to 16 Nov. New on The Wiggles: daily uploads of 1 to 3.5 minute songs with a 54K median, a farm animal Wheels on the Bus remake at 3.7M in under three weeks, genre flip remakes of its own hits, 20 albums in a year and a fast growing audience in Germany, Italy and France. Total 2421."
+  },
+  {
+   "date": "2026-11-19 02:49",
+   "note": "Run 825 (TRENDS (SocialPilot TikTok 17 to 25 Nov, holiday dance revivals)): SocialPilot's TikTok list for 17 to 25 Nov adds a rising 'camera shy' format (a pet acts shy or grumpy, then gives in and dances) and Thanksgiving 'what I'm bringing' clips for 21 to 25 Nov; Daily Dot's archive shows a classic cartoon holiday dance revived last December. Added 'Shy then dance' to the trend bank and dropped 'Trio spin swap', which peaked in October. Total 2424."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 13:00",
-   "total": 1938
-  },
   {
    "date": "2026-11-16 14:38",
    "total": 1974
@@ -18562,6 +18579,10 @@
   {
    "date": "2026-11-19 02:49",
    "total": 2421
+  },
+  {
+   "date": "2026-11-19 02:49",
+   "total": 2424
   }
  ],
  "next_week_ideas": [
@@ -18623,6 +18644,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Shy then dance",
+   "where": "TikTok (rising 'camera shy' pet sound, week of 17 Nov 2026)",
+   "status": "rising",
+   "use": "Short: our shy penguin friend turns its back when the Bros start dancing, peeks over its shoulder twice on two beats, then spins round and joins the chorus step, with our own song. Meshy prompt: a character stands with back turned, looks over one shoulder, turns back, looks over the other shoulder, then turns to face forward and bounces with arms swinging, standing in place."
+  },
   {
    "name": "Back to back bump",
    "where": "Instagram Reels (top sounds, week of 17 Nov 2026)",
@@ -18736,12 +18763,6 @@
    "where": "TikTok and Reels every December (recurring seasonal meme)",
    "status": "seasonal",
    "use": "Big Bro and Little Bro in pointy felt hats lead a growing line of our own little gnome characters marching across the living room on our original marching song, one more gnome joining every bar until the whole army freezes and waves. Meshy steps, standing in place: high knee march on the spot, arms swinging; stop and salute; turn the head left and right peeking; a big two handed wave."
-  },
-  {
-   "name": "Trio spin swap",
-   "where": "TikTok and Reels (Chipmunks routine, rising since Oct 2026)",
-   "status": "peak",
-   "use": "Big Bro in the middle, Little Bro and a friend either side, on our own bouncy original song. Meshy steps, all standing in place: bounce with hands on hips; middle dancer does one full spin while the side dancers step behind and swap sides; all three turn to face away with both arms raised; turn back and point one finger up, circling it over the head; each one steps forward toward the camera for two counts and back; on the beat drop all stomp in place swinging both arms. A cute animal trio version (three penguins or bunnies) makes a second Short."
   }
  ],
  "posting_plan": {
