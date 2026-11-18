@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T02:53+05:30",
- "runs": 829,
+ "updated": "2026-11-19T02:54+05:30",
+ "runs": 830,
  "branches": [
   {
    "id": "platforms",
@@ -1756,6 +1756,27 @@
      "conf": "medium",
      "date": "2026-11-17",
      "run": 783
+    },
+    {
+     "t": "Pulse Advertising's 2026 review estimates that on Instagram one DM share now counts about as much as 15 likes and one save about 10, while likes and follower count carry almost no weight, so each Bro Bros Reel caption should give parents a reason to send it ('send this to a little dancer you know') rather than ask for likes.",
+     "src": "pulse-advertising.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 830
+    },
+    {
+     "t": "The same review puts organic reach at about 7 to 12% for Instagram business accounts against 10 to 20% for personal or creator style accounts, with the gap widening slightly in 2026, so a creator account type may suit our tiny Bro Bros Instagram better than a business account while it has almost no followers.",
+     "src": "pulse-advertising.com, 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 830
+    },
+    {
+     "t": "Since Dec 2025 anyone can reshare a public Instagram Story without being tagged, so posting every new Bro Bros Reel to our Story too gives fans and parents a one tap way to pass it to their own followers beyond the Reels feed.",
+     "src": "nowbam.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 830
     }
    ]
   },
@@ -17148,11 +17169,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 751 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:06",
-   "note": "Run 752 (global markets (Pakistan kids channels recheck)): Pakistan searches returned the TinyTaleem ABC channel and Google's Pakistan growth report, both already in the tree; no new leaves. Total 2316."
+   "note": "Earlier runs summarised: all rounds through Run 752 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:07",
@@ -17465,13 +17482,13 @@
   {
    "date": "2026-11-19 02:53",
    "note": "Run 829 (YouTube algorithm (Shorts originality, subscriber versus new viewer signals)): Home feed and Shorts drop reports were already in the tree. New: since a 1 Oct 2026 TeamYouTube post, Shorts recommendations favour original clips and channels that mainly re upload others' videos get less reach, judged per channel with no notice; and YouTube's discovery director says the system learns separately from subscriber and non subscriber reactions, with the subscriber row in Browse as the cleanest read on content. Total 2436."
+  },
+  {
+   "date": "2026-11-19 02:54",
+   "note": "Run 830 (Shorts and Reels (Instagram signal weights, Story reshares, account type)): Reels ranking order and Trial Reels were already in the tree. New: an agency estimate that one DM share is worth about 15 likes and one save about 10, business accounts reaching 7 to 12% organically against 10 to 20% for personal ones, and public Stories now reshareable by anyone without a tag. Total 2439."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 15:47",
-   "total": 2006
-  },
   {
    "date": "2026-11-16 15:48",
    "total": 2008
@@ -18667,6 +18684,10 @@
   {
    "date": "2026-11-19 02:53",
    "total": 2436
+  },
+  {
+   "date": "2026-11-19 02:54",
+   "total": 2439
   }
  ],
  "next_week_ideas": [
