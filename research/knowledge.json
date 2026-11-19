@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:45:42+05:30",
- "runs": 1157,
+ "updated": "2026-11-19T15:46:22+05:30",
+ "runs": 1158,
  "branches": [
   {
    "id": "platforms",
@@ -11297,6 +11297,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1146
+    },
+    {
+     "t": "Child development studies define 'fast paced' video by cut rate: Henderson et al. (2024) count fast as cuts or new ideas more often than once every 20 seconds, Cooper et al. (2009) compared scene changes every 4 seconds (fast) with every 15 seconds (slow), and Lillard and Peterson (2011) compared every 11 seconds (fast) with every 34 seconds (slow), so holding each Bro Bros dance shot for 8 to 15 seconds keeps us on the calmer side of every published line.",
+     "src": "SRI (Christensen et al.), May 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1158
+    },
+    {
+     "t": "In SRI's annotated set of YouTube videos actually watched by 47 children under 3 (426 videos), annotators rated 221 of the usable training videos fast paced against only 85 slow paced, so most of what toddlers already watch is fast, and a calmer, readable Bro Bros edit is a real point of difference for parents.",
+     "src": "SRI (Christensen et al.), May 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1158
     }
    ]
   },
@@ -21929,11 +21943,7 @@
  "log": [
   {
    "date": "2026-11-19 13:04",
-   "note": "Earlier: older log entries summarised; runs up to Run 1078 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:04",
-   "note": "Run 1079 (posting times (Metricool Instagram best times for 20 to 26 Nov, read only)): Nothing new: Metricool again puts our Instagram peak at 10:00 IST every day (Friday highest, weekends about half) with a second rise at 18:00 IST, exactly as already recorded, so both daily slots stay unchanged. No leaves added. Total 3009."
+   "note": "Earlier: older log entries summarised; runs up to Run 1079 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:04",
@@ -22246,13 +22256,13 @@
   {
    "date": "2026-11-19 15:45",
    "note": "Run 1157 (music craft (songs that include more children: signing and autistic viewers)): New: parents of autistic children (31 interviews, Journal of Autism and Developmental Disorders) say their children favour content made for younger ages, songs and characters they can imitate (some repeat the characters' words) and videos they can replay; UK nurseries already sign songs like 'Open, Shut Them' and the ABC song with Makaton, so a few simple hand signs on our chorus words make a song usable for many more children. Total 3119."
+  },
+  {
+   "date": "2026-11-19 15:46",
+   "note": "Run 1158 (visual craft (pacing thresholds researchers use)): New: the cut rates researchers call 'fast' for young children: a new scene or idea faster than once every 20 seconds (Henderson 2024), scene changes every 4 seconds versus every 15 (Cooper 2009) and every 11 seconds versus every 34 (Lillard 2011); and in SRI's sample of 426 YouTube videos watched by under 3s, fast paced videos outnumbered slow ones about 2.6 to 1, so a calmer Bro Bros edit stands out. Total 3121."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 20:00",
-   "total": 2209
-  },
   {
    "date": "2026-11-16 21:36",
    "total": 2228
@@ -23448,6 +23458,10 @@
   {
    "date": "2026-11-19 15:45",
    "total": 3119
+  },
+  {
+   "date": "2026-11-19 15:46",
+   "total": 3121
   }
  ],
  "next_week_ideas": [
