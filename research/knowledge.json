@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:06:28+05:30",
- "runs": 898,
+ "updated": "2026-11-19T07:07:09+05:30",
+ "runs": 899,
  "branches": [
   {
    "id": "platforms",
@@ -18555,11 +18555,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 819 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 02:39",
-   "note": "Run 820 (music craft (holiday listening by country, songwriter and pediatric views)): Most music craft studies (rhythm trials, Suno v6, Tonies, Yoto, Luminate) were already in the tree. New: Christmas songs reach 1 in 6 December streams in Sweden and Norway but only 1 in 150 in Brazil, so winter party songs must travel beyond Christmas; songs that last grow from small real moments with body cues; slower lower sounds for calm, fast strong beats for alert kids. Total 2409."
+   "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 02:40",
@@ -18872,6 +18868,10 @@
   {
    "date": "2026-11-19 07:06",
    "note": "Run 898 (TRENDS (December festivals in the next four weeks)): The December calendar (Hanukkah 4 Dec, St Lucia 13 Dec, Simbang Gabi 16 to 24 Dec, Las Posadas, Kwanzaa) was already in the tree. One new detail: in Swedish school Lucia processions some children walk as gingerbread people carrying lanterns, and the candle crowns now use battery lights for safety, so a 'gingerbread parade with lanterns' scene is a playful, safe winter visual that fits several cultures. Total 2637."
+  },
+  {
+   "date": "2026-11-19 07:07",
+   "note": "Run 899 (rules and monetisation (Partner Program 2027 changes, Grammy kids list check)): Nothing new: the Partner Program rules from 1 Feb 2027 (20M Shorts views in 90 days to join, 10M rolling Shorts views to keep Shorts pay) and this year's Grammy Best Children's Music Album nominees were already in the tree. No leaves added. Total 2637."
   }
  ],
  "history": [
@@ -19801,6 +19801,10 @@
   },
   {
    "date": "2026-11-19 07:06",
+   "total": 2637
+  },
+  {
+   "date": "2026-11-19 07:07",
    "total": 2637
   }
  ],
