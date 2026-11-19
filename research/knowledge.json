@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:46:33+05:30",
- "runs": 1059,
+ "updated": "2026-11-19T12:47:07+05:30",
+ "runs": 1060,
  "branches": [
   {
    "id": "platforms",
@@ -9197,6 +9197,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1036
+    },
+    {
+     "t": "A Maastricht study of 98 children aged 7 to 13 (Cognition, Nov 2026 issue) found implicit rhythm sensitivity, feeling the beat without trying, is remarkably stable across childhood, while explicit rhythm skills such as copying a pattern improve with age and music training, so every Bro Bros song should rest on one steady, obvious groove that any age can feel, with trickier clap back patterns saved for a bonus 'challenge' section.",
+     "src": "Cognition / Maastricht University, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1060
+    },
+    {
+     "t": "The same study links the two kinds of rhythm processing through cognitive flexibility, which supports 'copy me' clap and stomp call and response games as a playful brain workout parents value, worth naming in descriptions ('a rhythm game for 3 to 8 year olds').",
+     "src": "Cognition / Maastricht University, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1060
     }
    ]
   },
@@ -21004,12 +21018,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:09",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 980 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:10",
-   "note": "Run 981 (TRENDS (Inmagic 16 Nov Reels list rechecked)): Nothing new: Inmagic's 16 Nov list (Christmas switch, one spot glow up, timestamps, slow festive makeover, Dame Hombro shoulders, zoom in hidden message, then and now) was already in the tree and trend bank. No leaves added. Total 2849."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 981 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:10",
@@ -21322,6 +21332,10 @@
   {
    "date": "2026-11-19 12:46",
    "note": "Run 1059 (TRENDS (December outlook: last year's family TikTok trends, December festivals, kids films)): Nothing new: December 2025's family trends likely to return (advent calendar reveals, say the word on beat, one person choir harmonies, then and now carousels) and the December festival calendar (Hanukkah 4 Dec, St Lucia 13 Dec, Posadas, solstice) were already in the tree and trend bank. No leaves added. Total 2987."
+  },
+  {
+   "date": "2026-11-19 12:47",
+   "note": "Run 1060 (music craft (rhythm development study, Suno rights rechecked)): A Maastricht study in Cognition (Nov 2026 issue, 98 children aged 7 to 13) found that feeling the beat without thinking stays the same across childhood while deliberate rhythm skills (clapping back a pattern) grow with age and music lessons, so our main groove should stay simple for all ages and harder clap patterns belong in bonus parts. Infant movement studies and Suno v5.5 and licensing facts were already in the tree. Total 2989."
   }
  ],
  "history": [
@@ -22148,6 +22162,10 @@
   {
    "date": "2026-11-19 12:46",
    "total": 2987
+  },
+  {
+   "date": "2026-11-19 12:47",
+   "total": 2989
   }
  ],
  "next_week_ideas": [
