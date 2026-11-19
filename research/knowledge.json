@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:52:21+05:30",
- "runs": 1069,
+ "updated": "2026-11-19T12:52:53+05:30",
+ "runs": 1070,
  "branches": [
   {
    "id": "platforms",
@@ -21067,12 +21067,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:47",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 990 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:48",
-   "note": "Run 991 (global markets (Thailand children and family YouTube)): Thailand's biggest children and family YouTube channels mix Thai family vloggers with localised versions of global brands: Vlad and Niki's Thai channel (14.2M), Brianna's Thai channel (8.2M), a Korean kids playground channel (6.9M) and BabyBus Thai (5.5M), next to Thai originals such as J Jai Pan (13.5M, 14.8B views). Total 2873."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 991 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:49",
@@ -21385,6 +21381,10 @@
   {
    "date": "2026-11-19 12:52",
    "note": "Run 1069 (YouTube algorithm (Shorts freshness, view counting rechecked)): Nothing new: Shorts favouring fresh uploads, the September Shorts drops, views counted from the first frame and estimated TV co viewers in public counts were already in the tree. No leaves added. Total 2996."
+  },
+  {
+   "date": "2026-11-19 12:52",
+   "note": "Run 1070 (Shorts and Reels (Instagram child safety and teen content rules rechecked)): Nothing new: Meta's protections for adult run accounts featuring children, the 13+ default for teen accounts and the April 2026 penalty for repost aggregators were already in the tree. No leaves added. Total 2996."
   }
  ],
  "history": [
@@ -22246,6 +22246,10 @@
   },
   {
    "date": "2026-11-19 12:51",
+   "total": 2996
+  },
+  {
+   "date": "2026-11-19 12:52",
    "total": 2996
   },
   {
