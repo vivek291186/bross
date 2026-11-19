@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:41:48+05:30",
- "runs": 1289,
+ "updated": "2026-11-19T19:42:06+05:30",
+ "runs": 1290,
  "branches": [
   {
    "id": "platforms",
@@ -23003,10 +23003,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 16:08",
-   "note": "Run 1211 (rules (California's device age signal law from 2027)): New: California's Digital Age Assurance Act starts on 1 Jan 2027: phones and computers will pass an age bracket (under 13, 13 to 15, 16 to 17, adult) to every app, and apps like YouTube and Instagram must then treat the user's age as known, so more Californian children will be routed into kid settings, and made for kids rules will apply more often to who actually watches us. Total 3158."
-  },
-  {
    "date": "2026-11-19 16:36",
    "note": "Run 1212 (TRENDS (this week's Reels formats)): New: a rising Reels format films ordinary tasks as a grand ballet to a Strauss waltz, a rising 'silly little life' montage of small happy moments, and a reminder that trend sounds peak within 7 to 10 days while formats last longer. Added 'Tidy up waltz' to the trend bank. Total 3162."
   },
@@ -23317,13 +23313,13 @@
   {
    "date": "2026-11-19 19:41",
    "note": "Run 1289 (music craft (Grammy kids nominees and rhythm studies recheck)): Nothing new: the 2027 Grammy children's album nominees, the 2026 Latin Grammy kids winner, the Sep 2026 infant rhythm review (about 120 BPM sweet spot) and the 2026 Italian music session study were already in the tree. No leaves added. Total 3272."
+  },
+  {
+   "date": "2026-11-19 19:42",
+   "note": "Run 1290 (visual craft (Blender 5.3 recheck)): Nothing new: Blender 5.3's Vulkan default and benchmarks, DLSS denoising, Gaussian splats, new EEVEE light nodes, world space animation paste and the project system were all already in the tree. No leaves added. Total 3272."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:47",
-   "total": 2870
-  },
   {
    "date": "2026-11-19 10:48",
    "total": 2873
@@ -24518,6 +24514,10 @@
   },
   {
    "date": "2026-11-19 19:41",
+   "total": 3272
+  },
+  {
+   "date": "2026-11-19 19:42",
    "total": 3272
   }
  ],
