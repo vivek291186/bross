@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:53:26+05:30",
- "runs": 1118,
+ "updated": "2026-11-19T14:54:02+05:30",
+ "runs": 1119,
  "branches": [
   {
    "id": "platforms",
@@ -21705,11 +21705,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1039 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:54",
-   "note": "Run 1040 (competitor deep dive (ChuChu TV rechecked)): Nothing new: ChuChu TV's 18 Nov figures (98.2M subscribers, zero growth, about 223M to 330M views a month, latest 24 minute story compilation at about 50K views in 4.7 days) were already in the tree. No leaves added. Total 2961."
+   "note": "Earlier: older log entries summarised; runs up to Run 1040 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:54",
@@ -22022,6 +22018,10 @@
   {
    "date": "2026-11-19 14:53",
    "note": "Run 1118 (YouTube algorithm (made for kids feature limits rechecked)): Nothing new: the made for kids feature list (no end screens, cards, bell or miniplayer) and Hype rules were already in the tree. No leaves added. Total 3087."
+  },
+  {
+   "date": "2026-11-19 14:54",
+   "note": "Run 1119 (Shorts and Reels (2026 length and view timing studies rechecked)): Nothing new: the satisfied watch time per click shift and Reels length studies were already in the tree, and Socialinsider's Reels view timing data was too inconsistent to add. No leaves added. Total 3087."
   }
  ],
  "history": [
@@ -23083,6 +23083,10 @@
   },
   {
    "date": "2026-11-19 14:53",
+   "total": 3087
+  },
+  {
+   "date": "2026-11-19 14:54",
    "total": 3087
   }
  ],
