@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:51:46+05:30",
- "runs": 1035,
+ "updated": "2026-11-19T11:52:25+05:30",
+ "runs": 1036,
  "branches": [
   {
    "id": "platforms",
@@ -9092,6 +9092,34 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1024
+    },
+    {
+     "t": "On the US iTunes kids chart in mid November 2026, Danny Go! holds five of the top 25 with high energy movement songs (a new Christmas 'Candy Cane Crush!', 'The Bravest Knight!', 'The Wiggle Dance', 'Burning Energy!', 'The Pumpkin Pie Song'), confirming that get up and move songs with a name in the title are what US families buy right now.",
+     "src": "PopVortex iTunes chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1036
+    },
+    {
+     "t": "Seasonal dance songs with a silly food or animal hook ('Gobble Gobble Turkey Wobble', 'The Turkey Trot', a pumpkin pie song) sit in the US iTunes kids top 25 the week before Thanksgiving, so each holiday deserves one simple wobble or trot dance song released two to three weeks ahead.",
+     "src": "PopVortex iTunes chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1036
+    },
+    {
+     "t": "Three faith based children's songs released in 2026 are in the US iTunes kids top 7 in November, a sizeable gentle worship audience that Bro Bros does not target but should be aware of when reading US kids charts.",
+     "src": "PopVortex iTunes chart, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1036
+    },
+    {
+     "t": "Suno's lyric editor (mid 2026) lets you tag Verse, Pre Chorus, Chorus and Outro before generating and highlight one line to rewrite it in place, for example to fit a four count bar, so an awkward line in a Bro Bros chorus can be fixed without regenerating the whole song.",
+     "src": "Roo newsletter, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1036
     }
    ]
   },
@@ -20760,11 +20788,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 956 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:49",
-   "note": "Run 957 (TRENDS (seasonal: year end recaps, YouTube Culture and Trends report)): Thin round. New: Spotify Wrapped 2026 is expected around Wednesday 2 Dec, opening the year end recap season (a 'Bro Bros 2026 in 60 seconds' recap Short fits it), and YouTube's 2026 Culture and Trends survey found 63% of young viewers watch more of what their friends watch, so songs kids share in class matter. Total 2801."
+   "note": "Earlier runs summarised: all rounds through Run 957 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:50",
@@ -21077,6 +21101,10 @@
   {
    "date": "2026-11-19 11:51",
    "note": "Run 1035 (TRENDS (TikTok daily trend tracker and sound chart, 18 Nov)): Revid's 18 Nov TikTok sample shows Education as the only big category growing in share (+90%) while singing and dancing fell 71%, with Roblox and Minecraft hashtags rising and a Grinch Christmas clip passing 1.4M views in a day. Soundcharts' worldwide TikTok chart has the traditional Mexican birthday song in its top 11, a reminder that birthday songs are evergreen; added a Bro Bros birthday song idea. Total 2952."
+  },
+  {
+   "date": "2026-11-19 11:52",
+   "note": "Run 1036 (music craft (iTunes kids chart and Suno lyric editing)): The current iTunes kids top 25 is led by Danny Go! with five movement songs, including its new Christmas 'Candy Cane Crush!' and Thanksgiving pie and turkey wobble songs, while faith based kids songs released in 2026 also chart high. Suno's lyric editor lets a single line be rewritten in place to fit a four count bar. Total 2956."
   }
  ],
  "history": [
@@ -21807,6 +21835,10 @@
   {
    "date": "2026-11-19 11:51",
    "total": 2952
+  },
+  {
+   "date": "2026-11-19 11:52",
+   "total": 2956
   }
  ],
  "next_week_ideas": [
