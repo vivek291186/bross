@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:47:28+05:30",
- "runs": 1259,
+ "updated": "2026-11-19T18:48:30+05:30",
+ "runs": 1260,
  "branches": [
   {
    "id": "platforms",
@@ -22784,6 +22784,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1257
+    },
+    {
+     "t": "Spotify Wrapped 2026 is expected on Wednesday 2 December (reported 10 Nov, not yet confirmed by Spotify), and recap formats flood Reels and Shorts for about a week after, so a 'Bro Bros Wrapped: our top 5 songs of the year' countdown Short with the Bros dancing a few seconds of each hit fits 2 to 6 Dec.",
+     "src": "techloy.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1260
+    },
+    {
+     "t": "Last December's 'rhyming for as long as we can' clip (two people swaying side by side and trading silly rhymes in one take until someone breaks) is a ready made kids game: Big Bro and Little Bro trade winter rhymes (snow, go, toe, glow) over our own beat, swaying side to side, and laugh when one gets stuck.",
+     "src": "newengen.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1260
     }
    ]
   }
@@ -22810,12 +22824,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:55",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 15:56",
-   "note": "Run 1181 (music craft (singing range for kids who sing along)): New: early childhood music texts put the comfortable singing range of 3 to 5 year olds at about middle C up to A (strongest around F and G), 6 to 8 year olds at C to the C above, and warn that adults pitch songs where they themselves are comfortable, usually too low and in chest voice; so Suno melodies for singalong choruses should sit mostly between F and C above middle C. Total 3140."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 15:56",
@@ -23128,16 +23138,16 @@
   {
    "date": "2026-11-19 18:47",
    "note": "Run 1259 (our results (Metricool rechecked at 18:47 IST, read only)): Nothing new: YouTube data still ends at 16 Nov (2,150 subscribers) and the only Reels in Metricool are the two 18 Nov ones already logged (127 and 111 views, about 4 second average watch); 19 Nov posts not in yet. No leaves added. Total 3245."
+  },
+  {
+   "date": "2026-11-19 18:48",
+   "note": "Run 1260 (TRENDS (December recap and rhyme games)): Small: last December's TikTok list (advent reveals, harmony grid, say the word on beat, how to bait and switch) was already in the tree; added Spotify Wrapped's expected 2 Dec date for a 'Bro Bros Wrapped' top 5 Short and the trade the rhymes game. Box Office Mojo's December animation dates conflict with newer sources, so they were not added. Total 3247."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:52",
-   "total": 2808
   },
   {
    "date": "2026-11-19 09:52",
@@ -24330,6 +24340,10 @@
   {
    "date": "2026-11-19 18:47",
    "total": 3245
+  },
+  {
+   "date": "2026-11-19 18:48",
+   "total": 3247
   }
  ],
  "next_week_ideas": [
