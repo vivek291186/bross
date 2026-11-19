@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:45:17+05:30",
- "runs": 1318,
+ "updated": "2026-11-19T20:46:19+05:30",
+ "runs": 1319,
  "branches": [
   {
    "id": "platforms",
@@ -17905,6 +17905,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1295
+    },
+    {
+     "t": "A New York Times investigation (Feb 2026) found that after one CoComelon or 'Wheels on the Bus' video, over 40% of the Shorts YouTube recommended in a 15 minute session had AI made visuals, all under 30 seconds and often with warped faces, extra limbs and garbled text; YouTube then removed the five cited channels from the Partner Program and from YouTube Kids.",
+     "src": "digitaltrends.com (NYT), Feb 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1319
+    },
+    {
+     "t": "Since YouTube's AI disclosure label is required for realistic synthetic content but not for animated kids videos, the line between 'AI tool assisted' and 'AI slop' is judged by quality: Bro Bros must keep the same character models every time, check every frame for glitches (warped hands, extra limbs, garbled on screen text) and give each song a real learning or play purpose, because slop channels are being cut off from earnings and YouTube Kids.",
+     "src": "digitaltrends.com (NYT), Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1319
     }
    ]
   },
@@ -23258,12 +23272,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:35",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:36",
-   "note": "Run 1240 (TRENDS (mid November roundups recheck)): Small: this week's Reels and TikTok lists (It's time switch, glow up switch, Dame Hombro, Chipmunks dance, slow festive makeover) were already in the tree; added three older repeatable formats not yet logged (the one item then whole stash reveal, the same answer repeated with growing drama, and escalating music over calm footage) and a new trend bank entry for the stash reveal. Total 3192."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:38",
@@ -23576,13 +23586,13 @@
   {
    "date": "2026-11-19 20:45",
    "note": "Run 1318 (TRENDS (December family releases and the beige Christmas look)): Netflix's kids baking and crafting contest special (9 Dec, US) and French December family films (a Dr Seuss adaptation and a stop motion forest adventure on 9 Dec, a whale finding her voice on 16 Dec) point to baking, crafts and ocean songs; last December's beige 'Instagram Christmas' look drew a pushback of real, messy family Christmases, a ready humour format. Total 3309."
+  },
+  {
+   "date": "2026-11-19 20:46",
+   "note": "Run 1319 (rules and monetisation (AI kids content scrutiny)): The New York Times found over 40% of Shorts recommended after a CoComelon or Wheels on the Bus video were AI made (warped faces, garbled text, all under 30 seconds); YouTube removed the five cited channels from the Partner Program and YouTube Kids. Other rules checks (Disney COPPA case, YouTube Kids filters, Digital Fairness Act) were already in the tree. Total 3311."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:04",
-   "total": 2916
-  },
   {
    "date": "2026-11-19 11:04",
    "total": 2916
@@ -24778,6 +24788,10 @@
   {
    "date": "2026-11-19 20:45",
    "total": 3309
+  },
+  {
+   "date": "2026-11-19 20:46",
+   "total": 3311
   }
  ],
  "next_week_ideas": [
