@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:35:36+05:30",
- "runs": 1281,
+ "updated": "2026-11-19T19:36:56+05:30",
+ "runs": 1282,
  "branches": [
   {
    "id": "platforms",
@@ -22952,6 +22952,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1275
+    },
+    {
+     "t": "Disney's original animated film Hexed (a girl discovers she can do magic) opens 25 Nov 2026 tracking about 35M to 45M USD for the 3 day weekend and 50M to 70M over the 5 day Thanksgiving holiday, with presales pacing ahead of Encanto, so magic spells and wands will be a big playground theme into December.",
+     "src": "Boxoffice Pro via ComicBasics, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1282
+    },
+    {
+     "t": "Later's newest Reels roundup is still the 13 Nov 2026 edition (5 stages of, one move outfit change, appointment timestamps), so for kids Reels this week no fresh format has replaced the locked camera costume change, which suits a winter clothes song.",
+     "src": "Later, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1282
     }
    ]
   }
@@ -22980,10 +22994,6 @@
   {
    "date": "2026-11-19 16:03",
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
-   "date": "2026-11-19 16:04",
-   "note": "Run 1203 (Shorts and Reels (Shorts length and Shorts versus long form data rechecked)): Nothing new: AIR's 18,000 channel study (small kids channels with almost no Shorts had about 63% more median subscribers, a 25 to 40% Shorts share for most niches), Adobe's length study and Tubular's 75% of views from Shorts were already in the tree. No leaves added. Total 3155."
   },
   {
    "date": "2026-11-19 16:05",
@@ -23296,13 +23306,13 @@
   {
    "date": "2026-11-19 19:35",
    "note": "Run 1281 (our own results (Metricool recheck)): Nothing new: Metricool's YouTube feed still ends at 16 Nov (2,150 subscribers) and Instagram shows no 19 Nov Reels yet; the 17 and 18 Nov Reel numbers (freeze dance 111 views, veggie soup 127, digger 31, boo boo bandage 13) were already in the tree. No leaves added. Total 3269."
+  },
+  {
+   "date": "2026-11-19 19:36",
+   "note": "Run 1282 (TRENDS (Thanksgiving week films and this week's memes)): Small: Disney's original magic film opening 25 Nov is tracking about 50M to 70M USD over 5 days and pacing ahead of Encanto, so magic and spell play will be a hot kid theme into December; added a 'Magic word tidy up' trend bank entry (own song, no characters) and dropped the Halloween skeleton dance. This week's Know Your Meme and Later items were already in the tree. Total 3271."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:10",
-   "total": 2849
-  },
   {
    "date": "2026-11-19 10:36",
    "total": 2854
@@ -24498,6 +24508,10 @@
   {
    "date": "2026-11-19 19:35",
    "total": 3269
+  },
+  {
+   "date": "2026-11-19 19:36",
+   "total": 3271
   }
  ],
  "next_week_ideas": [
@@ -24560,6 +24574,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Magic word tidy up",
+   "where": "Instagram Reels, YouTube Shorts (riding the late Nov magic film buzz)",
+   "status": "rising",
+   "use": "A 15 second Short with our own song: the big brother says our invented magic word, both Bros wiggle their fingers forward like sprinkling glitter, then point at a messy toy pile together; hard cut in Blender and every toy is back on the shelf, the Bros cheer with arms up. Meshy prompt: standing in place, wiggle fingers forward at chest height, then both arms point forward, then both arms up and a small hop. No wands or spells from any film, no character names."
+  },
+  {
    "name": "Fast switch illusion",
    "where": "K-pop challenges on TikTok, Shorts and Reels (Oct to Nov 2026, 100M+ views)",
    "status": "rising",
@@ -24612,12 +24632,6 @@
    "where": "YouTube Shorts breakout (11 to 18 Nov 2026)",
    "status": "rising",
    "use": "A 20 second Short: the little brother walks into a snowy forest, a friendly animated fox peeks out, he waves, the fox waves; on our chorus they mirror each other: paws up, hop in place, wiggle tail (hips), spin slowly in place, then a high five. Next episodes: an owl (flap arms), a reindeer (antler hands on head). Our own song, no real babies or animals."
-  },
-  {
-   "name": "Friendly skeleton bone dance",
-   "where": "YouTube long form and Shorts, all year (HooplaKidz, Super Simple, Kiboomers)",
-   "status": "evergreen",
-   "use": "A 2 minute song plus 20 second Short: the Bros in glow in the dark skeleton pyjamas at a cosy (not scary) night party sing our own 'shake your bones' song that names one body part per line. Moves, all standing in place: shake both arms loosely, bounce the knees, wiggle the hips side to side, nod the head, rattle the fingers up high, then freeze in a funny pose on the last beat. Bright purple and green lights pulsing slowly (no fast flashing). Doubles as a body parts learning song; post a Short version any month, not only in October."
   },
   {
    "name": "Called step party dance",
