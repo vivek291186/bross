@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:55:31+05:30",
- "runs": 880,
+ "updated": "2026-11-19T06:56:30+05:30",
+ "runs": 881,
  "branches": [
   {
    "id": "platforms",
@@ -7888,6 +7888,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 856
+    },
+    {
+     "t": "An eLife study of 79 babies (3, 6 and 12 months, reported July 2026) found that their brains respond more to real children's songs than to scrambled versions from 3 months, that 12 month olds rock, sway and clap more to structured songs, and that a high pitched melody predicts spontaneous movement better than a low bassline at every age, so baby and toddler songs should carry the tune in a bright, high register.",
+     "src": "PsyPost on eLife, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 881
+    },
+    {
+     "t": "In the same study no baby moved in time with the beat; their movement followed changes in loudness and intensity, so for under twos clear loud and soft moments (a quiet 'shh' then a big 'hooray', a drum build then a stop) matter more than a precise groove, while true dancing on the beat comes later in the toddler years.",
+     "src": "PsyPost on eLife, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 881
     }
    ]
   },
@@ -18359,11 +18373,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 802 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:04",
-   "note": "Run 803 (rules and safety (Brazil age rating, ad rates)): New: Brazil raised YouTube's age rating to 16 in May 2026 because of AI 'fruit soap opera' Shorts with adult plots dressed as cute Pixar style fruit, so our food and animal characters must read as clearly gentle and preschool; ad rate and ECA Digital enforcement items were already in the tree. Total 2374."
+   "note": "Earlier runs summarised: all rounds through Run 803 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:04",
@@ -18676,6 +18686,10 @@
   {
    "date": "2026-11-19 06:55",
    "note": "Run 880 (TRENDS (Buffer and SocialPilot TikTok lists, 17 to 18 Nov)): Two gentle formats are new this week: 'Do Not Bother the Botherer' (close ups of a sleeping or happily busy pet or child with a deadpan voiceover) and the 'Actually...' carousel where every swipe reveals a detail that changes the story. Both fit Instagram with our own characters; the other sounds are adult or already in the tree. No new dances. Trend bank: dropped Costume loading (a Halloween season reveal that has faded) to keep Twelve day countdown for December. Total 2609."
+  },
+  {
+   "date": "2026-11-19 06:56",
+   "note": "Run 881 (music craft (how babies respond to songs, eLife 2026)): New: an eLife study (reported July 2026) of 79 babies found that from 3 months their brains respond more to real songs than scrambled ones, 12 month olds rock, sway and clap more to structured songs, a high pitched melody drives movement more than the bassline at every age, and no baby moved on the beat; they followed loudness changes. For our baby songs: bright high melody and clear loud and soft moments matter more than groove. Kids album news was already in the tree. Total 2611."
   }
  ],
  "history": [
@@ -19534,6 +19548,10 @@
   {
    "date": "2026-11-19 06:55",
    "total": 2609
+  },
+  {
+   "date": "2026-11-19 06:56",
+   "total": 2611
   }
  ],
  "next_week_ideas": [
