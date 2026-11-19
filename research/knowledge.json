@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:50:35+05:30",
- "runs": 1034,
+ "updated": "2026-11-19T11:51:46+05:30",
+ "runs": 1035,
  "branches": [
   {
    "id": "platforms",
@@ -20712,6 +20712,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1032
+    },
+    {
+     "t": "Revid's TikTok sample for 18 Nov 2026 shows Education as the only large category gaining share (about +90% week on week) while Singing and Dancing (-71%), Family (-37%) and Animals (-67%) lost share, so this week a Bro Bros Short that teaches something (count, colours, a fact) inside the dance has a better tailwind than a pure dance clip.",
+     "src": "Revid, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1035
+    },
+    {
+     "t": "In the same 18 Nov sample #roblox and #minecraft were rising (about 1.5 to 1.6 times) and a Grinch themed Christmas clip gained about 1.4M views in 24 hours, so blocky game style worlds and grumpy turned kind winter characters (our own, never the Grinch) are what kids are clicking now.",
+     "src": "Revid, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1035
+    },
+    {
+     "t": "The traditional Mexican birthday song sits around 11th on Soundcharts' worldwide TikTok chart for the week of 18 Nov 2026, showing that birthday songs are an evergreen sound families reuse every day; an original Bro Bros birthday song with a name pause ('Happy birthday, dear ...!') could be reused in family birthday Reels all year.",
+     "src": "Soundcharts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1035
     }
    ]
   }
@@ -20739,11 +20760,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 955 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:48",
-   "note": "Run 956 (competitor deep dive (Lalafun main channel, ChuChu TV and Jumblikans)): Lalafun's main channel (15.2M) gained about 500K subscribers and 592M views in 28 days from only 13 uploads, after near zero growth in early 2026. ChuChu TV (98.2M) gained no subscribers in 28 days yet still earns about 223M views a month, now posting 24 minute story compilations; its Jumblikans channel's newest video had only 247K views in six weeks. Total 2799."
+   "note": "Earlier runs summarised: all rounds through Run 956 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:49",
@@ -21056,6 +21073,10 @@
   {
    "date": "2026-11-19 11:50",
    "note": "Run 1034 (posting times (Metricool best times 19 to 25 Nov rechecked; Shorts length searches)): Nothing new: Metricool again puts our YouTube peak at 16:00 IST every day (Wednesday highest, weekends about half) and Instagram at 10:00 IST, matching the tree, so both posting slots stay unchanged. Shorts length studies found were already in the tree. No leaves added. Total 2949."
+  },
+  {
+   "date": "2026-11-19 11:51",
+   "note": "Run 1035 (TRENDS (TikTok daily trend tracker and sound chart, 18 Nov)): Revid's 18 Nov TikTok sample shows Education as the only big category growing in share (+90%) while singing and dancing fell 71%, with Roblox and Minecraft hashtags rising and a Grinch Christmas clip passing 1.4M views in a day. Soundcharts' worldwide TikTok chart has the traditional Mexican birthday song in its top 11, a reminder that birthday songs are evergreen; added a Bro Bros birthday song idea. Total 2952."
   }
  ],
  "history": [
@@ -21782,9 +21803,17 @@
   {
    "date": "2026-11-19 11:50",
    "total": 2949
+  },
+  {
+   "date": "2026-11-19 11:51",
+   "total": 2952
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Hip Hip Hooray, It's Your Birthday! (Bro Bros Party Dance)",
+   "why": "Birthday songs are reused by families every day (the Mexican birthday song is in TikTok's worldwide top 11 this week, and HeyKids' birthday edition passed 26M views); a pause for the child's name and a simple clap, jump and spin dance makes it a year round Reel sound and a long video that never goes out of season."
+  },
   {
    "title": "My Turn, Your Turn! (Sharing Toys Song)",
    "why": "NuNu Tv's 'I Want That, Share It Please' has 270M views; a Bro Bros version where the brothers both want one toy, then take turns and play together, is a universal toddler moment parents look for."
@@ -21836,10 +21865,6 @@
   {
    "title": "Crack, Crack, Who's Inside? (Hatching Egg Winter Song)",
    "why": "Hatching creature toys top the 2026 Christmas wish lists; each verse a giant snowy egg wobbles and a different friendly baby animal hatches and joins the dance, a surprise reveal plus counting song."
-  },
-  {
-   "title": "Stay Close in the Crowd (holiday market safety song)",
-   "why": "Safety songs are among the top hits of Cocobi (stranger danger 32.7M, elevator safety 23.6M) and Zoobees; a bouncy December song about holding hands and staying near a grown up at busy markets and parades is timely worldwide."
   }
  ],
  "trend_bank": [
