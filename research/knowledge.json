@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:41:54+05:30",
- "runs": 859,
+ "updated": "2026-11-19T05:42:53+05:30",
+ "runs": 860,
  "branches": [
   {
    "id": "platforms",
@@ -3450,6 +3450,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 857
+    },
+    {
+     "t": "A kids channel that stops uploading keeps earning from its back catalogue but loses roughly half its monthly views within a year (Lellobee Spanish: about 1.2M in Mar to about 0.5M in Oct 2026), so even a dubbed version needs at least weekly new uploads to stay in recommendations.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 860
     }
    ]
   },
@@ -6089,6 +6096,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 859
+    },
+    {
+     "t": "Lellobee en Español Latino (Mexico, 802K subscribers, 264M views, 1,022 videos) last uploaded on 13 Dec 2025 and gained zero subscribers in the 28 days to 2 Nov 2026, with views falling from about 0.9 to 1.2M a month early in 2026 to about 0.5M in Oct.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 860
+    },
+    {
+     "t": "Lellobee's best Spanish videos have only about 125K to 221K views each despite 1,000+ uploads, so a big dubbed catalogue alone does not create hits; the Spanish market rewards a few strong songs promoted well.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 860
     }
    ]
   },
@@ -12060,6 +12081,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 859
+    },
+    {
+     "t": "Lellobee runs at least two separate Spanish channels (Latin American, about 802K, and a second, about 244K) that split the same audience and both stalled, so for Bro Bros one Spanish channel or one multi language audio track is better than several thin dub channels.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 860
     }
    ]
   },
@@ -17953,11 +17981,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:37",
-   "note": "Run 782 (YouTube algorithm (Studio Clips to Shorts, related video links, November feature news)): New: since 12 Nov Studio's Clips tool cuts vertical Shorts from long videos by transcript or timestamps with AI picks in India and the US, but reportedly does not auto add the related video link on made for kids Shorts, so every Short's link to its full song must be checked by hand; AIR confirms no kids specific algorithm change since September. Total 2349."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:39",
@@ -18270,13 +18294,13 @@
   {
    "date": "2026-11-19 05:41",
    "note": "Run 859 (global markets (Colombia's kids song channels)): Colombia's kids channels were new to the tree. HypeAuditor's November 2026 ranking puts two kids song channels at #32 and #33 in Colombia (Cuentos y Canciones Infantiles 9.8M, Mundo Canticuentos 9.5M) while family humour channels hold the top spots. Mundo Canticuentos gets about 50M views a month from 1,153 videos; its hits are a vowels remix (589M), two versions of a Latin American Christmas donkey song (109M and 89M) and an 'I am a cup' object song (32M). Total 2551."
+  },
+  {
+   "date": "2026-11-19 05:42",
+   "note": "Run 860 (competitor deep dive (Lellobee's Spanish channels)): Lellobee was new to the tree. Its Latin American Spanish channel (Mexico, 802K subscribers, 264M views, 1,022 videos) has not uploaded since 13 Dec 2025 and now gains only about 0.5M views a month with zero new subscribers, down from about 0.9 to 1.2M early in 2026; a second Spanish Lellobee channel (244K) also shows no uploads. A dubbed side channel that stops getting new videos slowly fades, so our dubs need a steady upload rhythm. Total 2555."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:39",
-   "total": 2054
-  },
   {
    "date": "2026-11-16 16:40",
    "total": 2055
@@ -19472,6 +19496,10 @@
   {
    "date": "2026-11-19 05:41",
    "total": 2551
+  },
+  {
+   "date": "2026-11-19 05:42",
+   "total": 2555
   }
  ],
  "next_week_ideas": [
