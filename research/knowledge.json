@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:43:36+05:30",
- "runs": 1254,
+ "updated": "2026-11-19T18:44:23+05:30",
+ "runs": 1255,
  "branches": [
   {
    "id": "platforms",
@@ -15532,6 +15532,34 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1253
+    },
+    {
+     "t": "A tiny Arabic kids song channel (Anghamalatfal, about 18.7K subscribers, 37 videos) pulled about 38.4M views in the 28 days to 18 Nov 2026, almost all from two counting Shorts posted in late October (counting 1 to 10 with a bouncing ball, about 23.8M, and a 10 to 1 countdown, about 10.5M), while its median video has about 9K views.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1255
+    },
+    {
+     "t": "That same Arabic channel posts a mix of long songs and Shorts about every 4 days on numbers, letters, colours and vehicles, so a simple numbers Short with one moving object can take a brand new channel from almost nothing to millions in the Arab world; an Arabic counting Short is a cheap first test for our dubs.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1255
+    },
+    {
+     "t": "Chile's IBOPE cross media study (1,078 homes, May 2026) found video platforms' share of viewing by 4 to 12 year olds rises from 36% in the school year to 44% in the summer holidays, YouTube reaches more than 700K Chilean children a day against about 380K for TikTok, and the TV set still carries about 61% of their platform viewing in summer.",
+     "src": "cntv.cl, May 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1255
+    },
+    {
+     "t": "In the same Chilean data 97% of children's TikTok use is solo while YouTube is mostly watched on the shared TV, so for southern summer holidays (Dec to Feb) our long form songs and compilations are the family TV play and Shorts are the solo phone play.",
+     "src": "cntv.cl, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1255
     }
    ]
   },
@@ -22719,12 +22747,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:53",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 15:54",
-   "note": "Run 1176 (YouTube main and Kids movers (own results skipped, checked at 15:50; Sunny Kids Songs and Kids Funny Songs)): New: Australia's Sunny Kids Songs (2.89M subscribers, 2.17B views) fell from about 50M monthly views in July 2024 to about 7M in October 2026 and gained no subscribers in 28 days after uploads stopped in May 2026, a contrast to The Singing Walrus whose evergreen classroom songs held up; and Kids Funny Songs' tooth brushing routine song drew about 93K views in 36 hours on 16 Nov. Total 3136."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 15:54",
@@ -23037,16 +23061,16 @@
   {
    "date": "2026-11-19 18:43",
    "note": "Run 1254 (TRENDS (India and South Asia Reels)): Small: Japanese dance pages were empty; added India's Delhi Metro fake POV reel (huge but unsafe to copy), the teacher and tots 'join one by one' dance build and the Neeli Pari rhyme hook that crossed from Pakistan into Indian Reels. Total 3232."
+  },
+  {
+   "date": "2026-11-19 18:44",
+   "note": "Run 1255 (global markets (Arabic counting Shorts, Chile summer viewing)): New: a tiny Arabic kids channel got 38M views in 28 days from two counting Shorts, and Chile's IBOPE study shows kids' platform viewing jumps from 36% to 44% in summer holidays with YouTube reaching 700K kids a day, mostly on the TV set. Total 3236."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:48",
-   "total": 2799
   },
   {
    "date": "2026-11-19 09:49",
@@ -24239,6 +24263,10 @@
   {
    "date": "2026-11-19 18:43",
    "total": 3232
+  },
+  {
+   "date": "2026-11-19 18:44",
+   "total": 3236
   }
  ],
  "next_week_ideas": [
