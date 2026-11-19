@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:49:48+05:30",
- "runs": 913,
+ "updated": "2026-11-19T07:50:30+05:30",
+ "runs": 914,
  "branches": [
   {
    "id": "platforms",
@@ -3660,6 +3660,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 911
+    },
+    {
+     "t": "YouTube Hype gives each viewer three free hypes a week, lets a video be hyped only in its first seven days, gives smaller channels a hidden points multiplier and puts top videos on real time regional leaderboards that can feed Home and Browse; it needs the Partner Program and under 500K subscribers, and no source yet confirms whether made for kids videos can be hyped.",
+     "src": "OutlierKit, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 914
     }
    ]
   },
@@ -18880,10 +18887,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 03:41",
-   "note": "Run 835 (global markets (UK children's viewing, Ofcom Media Lives 2026)): Dubbing, MENA and Vania Mania market facts were already in the tree. New from Ofcom's Children's Media Lives 2026 (UK): a 10 year old says American creators are the 'only option' she finds, an older sibling chooses CoComelon for her little brothers, and one child thought she watched 10 minutes of Shorts at a time but averaged about six hours a day. Total 2462."
-  },
-  {
    "date": "2026-11-19 03:42",
    "note": "Run 836 (competitor deep dive (Baby Zoo, Kids Learning Songs)): Two US channels new to the tree. Baby Zoo (10.7M) built its biggest hits on tiny toddler problems ('I can't sleep', 'it's too hot', 'where is my mouth', 100M to 195M each) with emoji titles and '+ More' compilations, but monthly views fell from about 100M in Jan 2026 to 29M in Oct and its newest upload got 51K in 4 days. Kids Learning Songs (10.5M) is steady at 16M to 25M a month on colours and health routines (brush teeth, dentist). Total 2467."
   },
@@ -19194,6 +19197,10 @@
   {
    "date": "2026-11-19 07:49",
    "note": "Run 913 (TRENDS (Later and NewEngen 13 Nov roundups)): Later's and NewEngen's 13 Nov roundups mostly repeat formats already in the bank; the one new item is Thanksgiving 'turkey boards', snacks arranged into a turkey shape filmed top down one layer at a time, to post before Thanksgiving week. Added it to the trend bank as a fruit turkey build Short. Total 2683."
+  },
+  {
+   "date": "2026-11-19 07:50",
+   "note": "Run 914 (YouTube algorithm (Hype mechanics, made for kids end screens rechecked)): Mostly known ground. One new detail on Hype: each viewer gets three free hypes a week, a video can be hyped only in its first seven days, smaller channels get a points multiplier and regional leaderboards feed Home, so once we join the Partner Program each new song has one week to collect hypes. Whether Hype works on made for kids videos is still not documented. Total 2684."
   }
  ],
  "history": [
@@ -20184,6 +20191,10 @@
   {
    "date": "2026-11-19 07:49",
    "total": 2683
+  },
+  {
+   "date": "2026-11-19 07:50",
+   "total": 2684
   }
  ],
  "next_week_ideas": [
