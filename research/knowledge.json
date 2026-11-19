@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:10:55+05:30",
- "runs": 982,
+ "updated": "2026-11-19T10:36:23+05:30",
+ "runs": 983,
  "branches": [
   {
    "id": "platforms",
@@ -6964,6 +6964,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 980
+    },
+    {
+     "t": "Miliki Family (2.59M subscribers, 1.57B views, only 498 videos) is built on 'afraid of' songs: its top video, a child who cannot sleep because of the dark, has 381M views, and two more of its top five are about fear of a shot at the doctor (36M) and of the dentist (33M).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 983
+    },
+    {
+     "t": "Miliki Family roughly doubled its monthly views from about 20M in June 2026 to 46M in September and 40M in October while posting only about 14 videos a month, so a strong theme library can grow without a flood of uploads.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 983
+    },
+    {
+     "t": "Mike and Mia (1.66M subscribers, 755 videos since 2016) has gained no subscribers for six months and draws only about 1.8M views a month; its best videos are habit songs (haircut 9.9M, boo boo 6.9M), showing that an older catalog slowly fades without a new breakout theme.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 983
+    },
+    {
+     "t": "Even established kids channels start slowly: Miliki Family's newest fire truck song had 938 views and Mike and Mia's newest phonics song 570 views in their first 11 hours, so a Bro Bros upload with a few hundred views on day one is normal and should be judged after a week or more.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 983
     }
    ]
   },
@@ -11598,6 +11626,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 977
+    },
+    {
+     "t": "Songs that help a small child face a common fear (the dark at bedtime, a doctor's shot, the dentist) are among the most watched preschool themes, because parents search for them right before the real event.",
+     "src": "vidIQ Miliki Family, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 983
     }
    ]
   },
@@ -20039,11 +20074,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 903 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:41",
-   "note": "Run 904 (music craft (TRENDS skipped, nothing new last round; child rhythm studies)): A 2026 Early Childhood Education Journal study found 8 weekly music sessions doubled toddlers' rhythm copying scores and sharpened 4 year olds' attention and working memory, though not vocabulary, so clap back echo sections are worth building into songs; a Scientific Reports study shows children accept a wider spread of tempos than adults. Total 2655."
+   "note": "Earlier runs summarised: all rounds through Run 904 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:43",
@@ -20356,6 +20387,10 @@
   {
    "date": "2026-11-19 10:10",
    "note": "Run 982 (rules and safety (EU KIDS Act, US kids online bills rechecked)): Nothing new: the EU KIDS Act proposal (17 Sep 2026: autoplay and infinite scroll bans for minors, profiling off by default, no accounts under 13 except child video apps via a parent) and the stalled US bills were already in the tree. No leaves added. Total 2849."
+  },
+  {
+   "date": "2026-11-19 10:36",
+   "note": "Run 983 (YouTube main and Kids (Miliki Family, Mike and Mia; own data unchanged)): Metricool still has no YouTube data after 16 Nov and no new Reels since 18 Nov, so own results were skipped. Miliki Family (2.59M) grows on 'afraid of' songs: the dark (381M), a shot at the doctor (36M) and the dentist (33M), and doubled monthly views since June with only about 14 uploads a month, while Mike and Mia (1.66M) has gained no subscribers for six months. New uploads on both start under 1K views in their first 11 hours. Total 2854."
   }
  ],
  "history": [
@@ -20874,9 +20909,17 @@
   {
    "date": "2026-11-19 10:10",
    "total": 2849
+  },
+  {
+   "date": "2026-11-19 10:36",
+   "total": 2854
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Night Light, Shine Bright! (Not Scared of the Dark Bedtime Song)",
+   "why": "Miliki Family's fear of the dark song has 381M views; parents search for help with bedtime fears worldwide, and longer winter nights make it timely."
+  },
   {
    "title": "Run, Run, Gingerbread Bro! (Catch Me Chase Song)",
    "why": "The Gingerbread Man is a public domain December classroom favourite; a chase song with a happy ending (everyone shares cookies), a running in place dance and a repeated 'catch me if you can!' chant suits a December Short and a classroom movement break."
@@ -20928,10 +20971,6 @@
   {
    "title": "Brrr, It's Too Cold! (Mittens and Scarf Song)",
    "why": "Baby Zoo's 'No It's Too Hot' (101M) proves the tiny toddler problem song; a winter version where Little Bro is too cold and Big Bro helps with hat, scarf and mittens fits December worldwide and teaches dressing words."
-  },
-  {
-   "title": "Freeze, Bros, Freeze! (Winter Freeze Dance)",
-   "why": "A stop and go dance song with a steady beat and a repeated 'freeze' hook; 2026 research shows rhythm and self control gains for 4 year olds from exactly this kind of play, and freeze games travel to every language."
   }
  ],
  "trend_bank": [
