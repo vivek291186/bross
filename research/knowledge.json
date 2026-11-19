@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:03:57+05:30",
- "runs": 893,
+ "updated": "2026-11-19T07:04:34+05:30",
+ "runs": 894,
  "branches": [
   {
    "id": "platforms",
@@ -9428,6 +9428,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 882
+    },
+    {
+     "t": "Creative Bloq's 3D trends for 2026 list 'squishy' aesthetics (soft, rounded forms with smooth plastic or plush textures that look slightly inflated) and tactile 3D lettering among the rising styles, so Bro Bros can lean into soft, toy like materials (felt, plush, rubbery shine) on props and title cards, a look children find inviting and that matches the squishy toy craze.",
+     "src": "Creative Bloq, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 894
+    },
+    {
+     "t": "Mattel's January 2026 Thomas the Tank Engine redesign moved to a more 3D, more realistic look with bigger eyes and a brighter smile after testing with preschoolers and parents, yet a design critic called it 'a little too polished' and said it looked 'AI generated'; for an AI assisted channel like ours, a little hand made texture and imperfect, warm lighting helps parents trust that people made it.",
+     "src": "Creative Bloq, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 894
     }
    ]
   },
@@ -18506,11 +18520,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 814 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:40",
-   "note": "Run 815 (TRENDS (mid November dance and Reels lists)): Later (13 Nov), B&T (2 Nov) and Virlo (29 Oct) lists hold no new kid safe formats beyond what is in the tree and trend bank; added a skip note for the 'Babybooing' dance, whose clap section looks harmless but whose moves are suggestive. Trend bank unchanged. Total 2391."
+   "note": "Earlier runs summarised: all rounds through Run 815 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:40",
@@ -18823,6 +18833,10 @@
   {
    "date": "2026-11-19 07:03",
    "note": "Run 893 (music craft (Danny Go! game song formats)): Danny Go!, one of 2026's growing kids brands, titles its songs as movement games rather than songs: 'Kids vs Adults Freeze Dance', a 'would you rather' colour dance brain break, and a drum along patterns memory game. New for us: the would you rather choice song and the clap the pattern memory song, both easy to make with Suno and Meshy and both get kids moving off the sofa. Total 2630."
+  },
+  {
+   "date": "2026-11-19 07:04",
+   "note": "Run 894 (visual craft (3D style trends, preschool redesigns)): New: Creative Bloq's 2026 3D trends name 'squishy' soft, rounded, plush or inflated looking forms and tactile 3D lettering as rising styles, which suit our Blender characters and title cards; Thomas the Tank Engine's 2026 redesign (more 3D, bigger eyes, brighter smile, tested with preschoolers and parents) drew adult criticism as looking too polished, a warning that very glossy 3D can feel AI made to parents. Total 2632."
   }
  ],
  "history": [
@@ -19733,6 +19747,10 @@
   {
    "date": "2026-11-19 07:03",
    "total": 2630
+  },
+  {
+   "date": "2026-11-19 07:04",
+   "total": 2632
   }
  ],
  "next_week_ideas": [
