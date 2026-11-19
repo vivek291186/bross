@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:42:44+05:30",
- "runs": 1024,
+ "updated": "2026-11-19T11:43:46+05:30",
+ "runs": 1025,
  "branches": [
   {
    "id": "platforms",
@@ -10625,6 +10625,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 989
+    },
+    {
+     "t": "AIR's low budget animation guide (Dec 2025) says a reusable library of characters, sets, props, transitions and repeated actions can cut animation time per video by half or more, so Bro Bros should keep one Blender asset file of the brothers, friends, five or six stages and stock props reused across all 14 weekly songs.",
+     "src": "air.io, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1025
+    },
+    {
+     "t": "The same guide says viewers forgive simple backgrounds and reused moves but notice weak faces, voices and character design, so the effort in each Bro Bros song should go into expressive faces (eyes, eyebrows, smiles on the beat) and clear singing rather than detailed scenery.",
+     "src": "air.io, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1025
+    },
+    {
+     "t": "Video to motion tools such as Move.ai (free tier, paid from about 15 USD a month) turn a phone clip of a real person dancing into character motion, a backup to Meshy text prompts when a trend step is too specific to describe in words; the owner could film himself doing the step and convert it.",
+     "src": "air.io, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1025
     }
    ]
   },
@@ -20599,11 +20620,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 945 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:40",
-   "note": "Run 946 (rules and safety (YouTube Kids entry gate, COPPA as a safety tool)): New: YouTube Kids entry runs through a family friendly classification, automated checks of thumbnail, title and video, sampled human review and parent reports; new child profiles get no personal recommendations at first and see only curated rows (series, music, learning, discovery, games). Regulators now treat autoplay, comments and recommendations as possible harms, and the 2025 Disney 10M USD case was about wrongly labelled kids videos. Total 2760."
+   "note": "Earlier runs summarised: all rounds through Run 946 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:40",
@@ -20916,6 +20933,10 @@
   {
    "date": "2026-11-19 11:42",
    "note": "Run 1024 (music craft (2026 infant music studies)): eLife (Jul 2026, 79 infants): babies' brains respond more to real song structure than shuffled notes from 3 months, but only 12 month olds move more to music, with rocking, swaying and clapping, and none move on the beat yet. A Bucknell study (May 2026) found the song itself mattered more to 8 to 12 month olds than which singer sang it. Total 2929."
+  },
+  {
+   "date": "2026-11-19 11:43",
+   "note": "Run 1025 (visual craft (low budget animation workflow)): Thumbnail, colour and pacing sources were all already in the tree. New from AIR's low budget animation guide: a reusable library of characters, sets, props and transitions can halve animation time per video, and the money and time should go into character design, faces and voice, not backgrounds. Total 2932."
   }
  ],
  "history": [
@@ -21602,6 +21623,10 @@
   {
    "date": "2026-11-19 11:42",
    "total": 2929
+  },
+  {
+   "date": "2026-11-19 11:43",
+   "total": 2932
   }
  ],
  "next_week_ideas": [
