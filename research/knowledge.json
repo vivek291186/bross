@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:49:55+05:30",
- "runs": 1307,
+ "updated": "2026-11-19T19:50:30+05:30",
+ "runs": 1308,
  "branches": [
   {
    "id": "platforms",
@@ -23067,10 +23067,6 @@
   },
   {
    "date": "2026-11-19 16:53",
-   "note": "Run 1229 (music craft (calm background music and 24/7 streams)): New: Lofi Girl ran 22 themed 24/7 livestreams at once on 6 Nov 2026 (study, sleep, jazz, seasonal; 15.8M subscribers, 173M hours watched in 2025), a model for several parallel Bro Bros streams (dance party, calm play, bedtime); preschool teachers report soft lo fi background music helps focus and transitions, but only anecdotally. Total 3179."
-  },
-  {
-   "date": "2026-11-19 16:53",
    "note": "Run 1230 (visual craft (render and export settings for YouTube)): New: YouTube's official upload guidance says to keep the render's own frame rate (24, 25, 30, 48, 50 or 60) and suggests H.264 MP4 with Fast Start at about 8 Mbps for 1080p30 or 35 to 45 Mbps for 4K30, with AAC stereo audio at 48 kHz and 384 kbps, a ready Blender export preset for every Bro Bros video. Total 3181."
   },
   {
@@ -23380,13 +23376,13 @@
   {
    "date": "2026-11-19 19:49",
    "note": "Run 1307 (rules and monetisation (AI policy and ad rate recheck)): Nothing new: AIR's monetisation timeline still ends in August (Partner Program changes from 1 Feb 2027 were already in the tree), the July 2026 inauthentic content update and faceless channel reports were covered, and no new kids ad rate data for Q4 was found. No leaves added. Total 3281."
+  },
+  {
+   "date": "2026-11-19 19:50",
+   "note": "Run 1308 (YouTube main (most subscribed chart, own results skipped because checked in run 1296)): Nothing new: Tubefilter's most subscribed chart for 9 to 15 Nov (Brazilian and Mexican Shorts creators on top, COPITO and Chispita among the fastest growers, 36 of 50 mainly Shorts) was already in the tree. No leaves added. Total 3281."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:59",
-   "total": 2901
-  },
   {
    "date": "2026-11-19 11:00",
    "total": 2901
@@ -24581,6 +24577,10 @@
   },
   {
    "date": "2026-11-19 19:49",
+   "total": 3281
+  },
+  {
+   "date": "2026-11-19 19:50",
    "total": 3281
   }
  ],
