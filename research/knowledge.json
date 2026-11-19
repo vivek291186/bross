@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:06:59+05:30",
- "runs": 975,
+ "updated": "2026-11-19T10:07:39+05:30",
+ "runs": 976,
  "branches": [
   {
    "id": "platforms",
@@ -8714,6 +8714,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 964
+    },
+    {
+     "t": "A kids Christmas carols channel (251K subscribers) gains two to three times more views in December than in November every year (Dec 2023 +9.3M vs Nov +2.8M; Dec 2025 +4.1M vs Nov +1.7M), so Bro Bros Christmas songs keep paying through December and should be live by about 1 Dec.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 976
+    },
+    {
+     "t": "That channel's top kids Christmas videos are all Jingle Bells versions or a Christmas twist on Wheels on the Bus (2.7M to 11M views), so a public domain carol with our own Bro Bros twist plus one original Christmas song is the safest December mix.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 976
     }
    ]
   },
@@ -13460,6 +13474,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 974
+    },
+    {
+     "t": "In YouTube's music charts for 19 to 25 Dec 2025, Christmas songs filled 7 of the UK top 10 and 5 of the US top 10 but none of India's top 50, and Brazil and South Africa had very little, so our Christmas songs target the UK, US and Europe while Indian viewers get winter fun and New Year songs.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 976
     }
    ]
   },
@@ -19955,11 +19976,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 896 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:05",
-   "note": "Run 897 (competitor deep dive (BabyBus English and Bahasa Indonesia)): BabyBus English (44.2M) keeps adding about 100K subscribers a month but its monthly views slid from 257M in June to 218M in October; its Indonesian channel (28.9M) peaked at 864M views in March 2026, likely the Ramadan and school holiday season, then settled near 245M a month. Both channels' newest uploads are job and safety stories (a plumber song in Indonesian, cable car safety rules in English), and the Indonesian top videos are an ice cream machine and a snowman's nose, so treats, machines and snow travel even to tropical markets. Total 2636."
+   "note": "Earlier runs summarised: all rounds through Run 897 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:06",
@@ -20272,6 +20289,10 @@
   {
    "date": "2026-11-19 10:06",
    "note": "Run 975 (TRENDS (India Reels trends)): India's big Reels trends this autumn were mostly Bollywood audio and a risky 'phone stuck to a moving metro' stunt (137M views in three days), which we skip as unsafe to copy. Usable: Indian creators open with about 5 seconds in a regional language before switching to Hindi or English, a cheap hook test for our Indian audience. Total 2837."
+  },
+  {
+   "date": "2026-11-19 10:07",
+   "note": "Run 976 (music craft and seasons (kids Christmas channel monthly pattern, YouTube music charts last Christmas)): A small kids Christmas carols channel (251K) gains two to three times more views in December than November every year (Dec 2023 +9.3M vs Nov +2.8M; Dec 2025 +4.1M vs Nov +1.7M), and its top songs are Jingle Bells versions. In YouTube's music charts for 19 to 25 Dec 2025, the UK top 10 had 7 Christmas songs, the US 5, but India's top 50 had none, so Christmas songs should target the West while India gets winter and New Year songs. Total 2840."
   }
  ],
  "history": [
@@ -20762,6 +20783,10 @@
   {
    "date": "2026-11-19 10:06",
    "total": 2837
+  },
+  {
+   "date": "2026-11-19 10:07",
+   "total": 2840
   }
  ],
  "next_week_ideas": [
