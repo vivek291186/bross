@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:42:35+05:30",
- "runs": 1253,
+ "updated": "2026-11-19T18:43:36+05:30",
+ "runs": 1254,
  "branches": [
   {
    "id": "platforms",
@@ -22672,6 +22672,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1251
+    },
+    {
+     "t": "India's biggest Reel format of Sep 2026 was the fake 'phone stuck outside the Delhi Metro' POV (creators seem to run and dance beside a departing train; the first reel hit about 137M views in three days) and it spread to auto rickshaws and buses; because it imitates risk around moving vehicles, Bro Bros must not copy it, and at most use a fully animated toy train riding past the Bros in a playroom.",
+     "src": "theprint.in, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1254
+    },
+    {
+     "t": "A teacher led 'Thumak Thumak' clip (teacher starts dancing, then her little students join in one at a time, about 17.8M views) shows the 'grown up starts, kids join one by one' build still wins in India; for us, Big Bro starts a simple hip sway and each friend joins on the next bar until the whole gang dances.",
+     "src": "tribuneindia.com, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1254
+    },
+    {
+     "t": "'Neeli Pari Peeli Pari' (Dec 2025) began as a Pakistani boy's playful sing song rhyme, was remixed by an Indian producer and swept Indian Reels with fairy hand flutters plus a rhythmic bounce, even joined by cricketers, proof that a child like nursery rhyme hook can travel across South Asia into adult Reels.",
+     "src": "latestly.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1254
     }
    ]
   }
@@ -22700,10 +22721,6 @@
   {
    "date": "2026-11-19 15:53",
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
-   "date": "2026-11-19 15:53",
-   "note": "Run 1175 (rules (Suno rights, AI content and made for kids policy rechecked)): Nothing new: Suno's post Warner rights terms and download caps, YouTube's inauthentic and mass produced content rules and the 2026 kids and AI slop priorities were already in the tree. No leaves added. Total 3134."
   },
   {
    "date": "2026-11-19 15:54",
@@ -23016,16 +23033,16 @@
   {
    "date": "2026-11-19 18:42",
    "note": "Run 1253 (visual craft (pacing and buyer taste)): Small: pacing parent guides, Blender 5.3, thumbnail studies and Disney's kid testing were already in the tree; added C21's Sep 2026 notes: buyers want 'better not slower' craft next to fast CG, Mister Rogers gets 28% of views via YouTube Kids, and Bing runs 67 language channels. Total 3229."
+  },
+  {
+   "date": "2026-11-19 18:43",
+   "note": "Run 1254 (TRENDS (India and South Asia Reels)): Small: Japanese dance pages were empty; added India's Delhi Metro fake POV reel (huge but unsafe to copy), the teacher and tots 'join one by one' dance build and the Neeli Pari rhyme hook that crossed from Pakistan into Indian Reels. Total 3232."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:47",
-   "total": 2794
   },
   {
    "date": "2026-11-19 09:48",
@@ -24218,6 +24235,10 @@
   {
    "date": "2026-11-19 18:42",
    "total": 3229
+  },
+  {
+   "date": "2026-11-19 18:43",
+   "total": 3232
   }
  ],
  "next_week_ideas": [
