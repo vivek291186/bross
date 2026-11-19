@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:52:51+05:30",
- "runs": 962,
+ "updated": "2026-11-19T09:53:27+05:30",
+ "runs": 963,
  "branches": [
   {
    "id": "platforms",
@@ -19746,6 +19746,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 960
+    },
+    {
+     "t": "Every December, TikTok videos of grandkids surprising their grandparents with a holiday sleepover go viral again (one passed about 30M views), so a 'Surprise visit to Grandma' Short with our own cosy song fits the late December family mood.",
+     "src": "10News (Scripps), Jan 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 963
+    },
+    {
+     "t": "The Thanksgiving 'gratitude tablecloth' (everyone writes what they are thankful for on the cloth, small kids trace their hands) keeps resurfacing on TikTok and Instagram each November; a 'thank you hands' song where the Bros trace hands and add one thankful picture per verse fits the week of 26 Nov.",
+     "src": "The Bump, Nov 2023",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 963
     }
    ]
   }
@@ -19773,11 +19787,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 883 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:58",
-   "note": "Run 884 (global markets (Brazil Portuguese kids channels)): CoComelon's Brazilian Portuguese channel (4.45M) now gains only 10K to 20K subscribers a month against 50K to 110K in 2025, and its monthly views sit near 87M to 112M, down from 191M in Oct 2025; its all time top video is a Portuguese Wheels on the Bus (703M) and the second a football song (324M). Big dubbed channels are flattening in Brazil, and football songs are a Brazil specific winner. Indonesia's under 16 rule was already in the tree. Total 2618."
+   "note": "Earlier runs summarised: all rounds through Run 884 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:59",
@@ -20090,6 +20100,10 @@
   {
    "date": "2026-11-19 09:52",
    "note": "Run 962 (Shorts and Reels (Trial Reels evidence, sends per reach)): Thin round: most Reels ranking advice was already in the tree. New: Mosseri says Trial Reels almost always get less reach, small tests show trials topping out around 180 views, so trials suit testing hooks, not growth; and a send prompt aimed at a specific person works best for DM shares. Total 2811."
+  },
+  {
+   "date": "2026-11-19 09:53",
+   "note": "Run 963 (TRENDS (US Thanksgiving and holiday family traditions)): Thanksgiving week trends are mostly recipes and table boards already in the tree. New for the bank: the yearly grandkids' surprise holiday sleepover at Grandma's (one video about 30M views) as a warm 'Surprise visit to Grandma' Short, and the gratitude tablecloth (kids trace their hands) as a thankful song visual. Total 2813."
   }
  ],
  "history": [
@@ -21276,6 +21290,10 @@
   {
    "date": "2026-11-19 09:52",
    "total": 2811
+  },
+  {
+   "date": "2026-11-19 09:53",
+   "total": 2813
   }
  ],
  "next_week_ideas": [
@@ -21380,16 +21398,16 @@
    "use": "20 second Short with our own song: a carrot, a tomato and a broccoli on the kitchen counter pop up one per beat and each sings one friendly bossy line ('Wash me first!', 'Eat me crunchy!', 'Keep me cold!') while the Bros nod and copy the action. Original veggie faces only. Meshy prompt: a boy stands in place, points forward with one hand, nods twice, then gives a thumbs up."
   },
   {
-   "name": "Pet reacts to our song",
-   "where": "YouTube and Reels (Pixar Gatto cat reaction campaign, trailer trending 18 Nov 2026)",
-   "status": "rising",
-   "use": "On release day post a 10 second Short: the Bros' cartoon kitten sits in front of a tablet playing the new song, first stares, then bobs its head on the beat, then paws at the screen when Big Bro dances; caption 'Kitty approved?'. Always our own song and our own pet character. Meshy prompt for the Bros in the background: standing in place, small side to side sway, then one arm waves at the kitten."
-  },
-  {
    "name": "Draw it to the beat",
    "where": "YouTube Shorts US trending (24 Hour Drawings, House Drawing, 18 Nov 2026)",
    "status": "rising",
    "use": "A 20 second Short: a white page fills line by line on every beat of our own song (a snowman, a gift, Big Bro's face) while the Bros guess what it is; on the last beat the drawing comes alive in 3D and dances with them. Viewers can draw along at home. Meshy prompt for the Bros: standing in place, one hand on the chin thinking, then pointing at the page, then both arms up in a cheer and a small hop."
+  },
+  {
+   "name": "Surprise visit to Grandma",
+   "where": "TikTok and Reels (grandkids surprising grandparents with a holiday sleepover, returns every December; one video about 30M views)",
+   "status": "seasonal",
+   "use": "Warm story Short with our own cosy song: the Bros knock on Grandma's door holding a pizza box and pyjamas, she opens it, gasps and smiles, then everyone sways together on the sofa under one blanket. Meshy prompt: a boy stands in place, knocks twice in the air with one hand, then opens both arms wide for a hug and sways gently side to side."
   },
   {
    "name": "Winter clothes dress up",
