@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:52:26+05:30",
- "runs": 1172,
+ "updated": "2026-11-19T15:52:50+05:30",
+ "runs": 1173,
  "branches": [
   {
    "id": "platforms",
@@ -7741,6 +7741,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1161
+    },
+    {
+     "t": "Robocar POLI's English song channel (about 893K subscribers and 690M views) gets only about 8M views a month despite the brand's TV fame and about three uploads a week, and its newest Shorts start with a few thousand views, so a famous character does not by itself make songs grow on YouTube; its top videos are 10 minute compilations (summer song 20.8M, car and school bus safety songs 19.8M).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1173
+    },
+    {
+     "t": "Robocar POLI's 'It's Okay to Make Mistakes' good habits song has about 19M views (2022) and a later good habits compilation built around it about 12M, so a cheerful 'oops, that's okay, try again' song is a proven global theme worth a Bro Bros version, and it matches the 'resilience' word children chose in Oxford's survey.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1173
     }
    ]
   },
@@ -22012,12 +22026,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 13:56",
-   "note": "Earlier: older log entries summarised; runs up to Run 1093 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:56",
-   "note": "Run 1094 (YouTube algorithm (supervised accounts for preteens in the Middle East and Turkiye)): YouTube's supervised child accounts reached the UAE, Saudi Arabia, Egypt and nine more MENA countries from 2 Jul 2026: parents pick Explore (learning, crafts, dance), Explore More (adds gaming and live) or Most of YouTube, with autoplay off and a Shorts timer that can be set to zero. A dance and learning label keeps Bro Bros inside the strictest level. Added a 'Player Two' song idea from yesterday's games survey. Total 3049."
+   "date": "2026-11-19 13:57",
+   "note": "Earlier: older log entries summarised; runs up to Run 1094 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:57",
@@ -22330,13 +22340,13 @@
   {
    "date": "2026-11-19 15:52",
    "note": "Run 1172 (global markets (Israel gap)): Filled the Israel gap: Hebrew kids songs live on one big classic songs channel (Hop's 'Israeli Childhood', 820K subscribers, 1.37B views, about 9M views a month) whose top videos are a birthday song (12.8M) and a beloved gardener character's songs, plus a child presenter channel whose newest hits are lesson videos about bullying, apologising and healthy friendships. Total 3131."
+  },
+  {
+   "date": "2026-11-19 15:52",
+   "note": "Run 1173 (competitor deep dive (Robocar POLI's English song channel)): New: Robocar POLI's English nursery rhyme channel (893K subscribers, 690M views) earns only about 8M views a month despite a famous TV brand and 3 uploads a week, and its biggest hits are 10 minute compilations of a summer song, car and school bus safety songs and an 'It's okay to make mistakes' habit song (about 19M), so a mistakes are okay song is a proven theme and a TV brand alone does not guarantee YouTube song reach. Total 3133."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 06:43",
-   "total": 2593
-  },
   {
    "date": "2026-11-19 06:44",
    "total": 2596
@@ -23532,6 +23542,10 @@
   {
    "date": "2026-11-19 15:52",
    "total": 3131
+  },
+  {
+   "date": "2026-11-19 15:52",
+   "total": 3133
   }
  ],
  "next_week_ideas": [
