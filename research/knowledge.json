@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:42:50+05:30",
- "runs": 941,
+ "updated": "2026-11-19T09:36:57+05:30",
+ "runs": 942,
  "branches": [
   {
    "id": "platforms",
@@ -6642,6 +6642,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 936
+    },
+    {
+     "t": "In Tubefilter's most subscribed chart for 9 to 15 Nov 2026, 36 of the top 50 weekly gainers are mainly Shorts channels, so Shorts remain the main subscriber engine and every Bro Bros song should ship with at least one Short.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 942
+    },
+    {
+     "t": "Alan's Universe gained about 1M YouTube subscribers in one week and rose to fourth in Tubefilter's chart right after its Netflix debut, which suggests a show landing on a streamer feeds subscribers back to its YouTube channel.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 942
     }
    ]
   },
@@ -13005,6 +13019,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 932
+    },
+    {
+     "t": "Latin American Shorts channels dominate fast growth again: two Uruguayan channels (COPITO and Chispita) and three Brazilian ones sit among the week's fastest gainers for 9 to 15 Nov 2026, backing Spanish and Portuguese as early dub languages.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 942
     }
    ]
   },
@@ -19242,6 +19263,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 934
+    },
+    {
+     "t": "Playful homemade runway recreations (people copying a big fashion show walk at home, from polished to deliberately silly) are a TikTok trend in early November 2026; the kid safe version is a winter coat catwalk Short where each Bro walks to camera, turns and poses in a puffy coat.",
+     "src": "B&T, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 942
+    },
+    {
+     "t": "Mid to late November 2026 cultural moments on TikTok are Thanksgiving and Friendsgiving prep (21 to 25 Nov), Black Friday gift guides and a big video game launch on 19 Nov; only the food prep and table setting formats suit a kids channel, so a 'what are you bringing?' helping song fits this week.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 942
     }
    ]
   }
@@ -19269,11 +19304,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 862 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:45",
-   "note": "Run 863 (our own results (Metricool YouTube now to 16 Nov)): Metricool YouTube data now reaches 16 Nov: 858 views that day with no new subscribers, after 1,301 on 15 Nov; subscribers have sat at 2,150 since 14 Nov. Instagram (to 17 Nov) is unchanged: 1 follower and 25 to 130 Reel views a day. Too little new data to change anything. Total 2567."
+   "note": "Earlier runs summarised: all rounds through Run 863 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:46",
@@ -19586,6 +19617,10 @@
   {
    "date": "2026-11-19 08:42",
    "note": "Run 941 (visual craft (thumbnail faces and expressions)): Most thumbnail research (vidIQ breakout study, 3,200 song thumbnails, Common Sense attention capture) was already in the tree. New: friendly closed mouth smiles beat shock faces in a big creator's tests, and several faces beat one face in 1of10's viral video study, so Bro Bros thumbnails should show both brothers smiling. Total 2739."
+  },
+  {
+   "date": "2026-11-19 09:36",
+   "note": "Run 942 (TRENDS (SocialPilot TikTok and Reels 17 Nov, B&T 2 Nov, Tubefilter 9 to 15 Nov)): SocialPilot's 17 Nov lists were already covered (same spot years apart, camera shy, chores ballet, Christmas audio). New: a playful homemade catwalk format that fits a winter coat fashion show Short, and Tubefilter's 9 to 15 Nov chart where 36 of the 50 fastest growing channels are mainly Shorts. Total 2744."
   }
  ],
  "history": [
@@ -20688,6 +20723,10 @@
   {
    "date": "2026-11-19 08:42",
    "total": 2739
+  },
+  {
+   "date": "2026-11-19 09:36",
+   "total": 2744
   }
  ],
  "next_week_ideas": [
@@ -20786,6 +20825,12 @@
    "use": "A 30 second Short where snow starts falling and one Bro shivers; each beat of our own song names one item (hat, scarf, mittens, coat, boots) and it pops onto him with a sparkle, with the word big on screen, until he is warm and does a happy spin; end with 'What do YOU wear in the snow?'. Meshy prompt: standing in place, arms hugging the body and shivering, then arms out to the sides as each item appears, then a small hop and a slow turn on the spot."
   },
   {
+   "name": "Homemade catwalk",
+   "where": "TikTok (playful amateur runway recreations, early to mid Nov 2026, B&T)",
+   "status": "rising",
+   "use": "Winter coat fashion show Short with our own bouncy song: each Bro walks toward the camera wearing a different puffy coat, hat or scarf, stops, turns and poses, and the last pose is both Bros together laughing. Meshy prompt: a boy walks forward four steps, stops, turns around once in place, then puts both hands on his hips and smiles."
+  },
+  {
    "name": "Hear it, catch it colour game",
    "where": "YouTube Shorts (Arabic, Indian and US kids channels, mid Nov 2026)",
    "status": "rising",
@@ -20832,12 +20877,6 @@
    "where": "TikTok family groups (mid Nov 2026)",
    "status": "rising",
    "use": "A sped up, squeaky voiced chorus of our own Suno song; the Bros and friends do a fast group routine: two hops in place, one small forward kick each leg, one spin in place, then freeze with paws up like a chipmunk. Meshy prompt: standing, hop twice in place, kick right foot forward, kick left foot forward, spin once in place, hold both hands near the chest like little paws, no floor moves."
-  },
-  {
-   "name": "Slow motion entrance",
-   "where": "TikTok ('Pray For Me' slow mo, Nov 2026)",
-   "status": "rising",
-   "use": "Intro of a friendship song: the Bros and each friend walk toward the camera one by one in slow motion with big proud faces, hair and scarves floating, then the beat drops to normal speed and they all dance. Meshy prompt: walk forward slowly with a proud chest out, arms swinging wide, stop and strike a hands on hips pose."
   },
   {
    "name": "Season starts now reveal",
