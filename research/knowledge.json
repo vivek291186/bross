@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:46:47+05:30",
- "runs": 1028,
+ "updated": "2026-11-19T11:47:27+05:30",
+ "runs": 1029,
  "branches": [
   {
    "id": "platforms",
@@ -20649,6 +20649,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1026
+    },
+    {
+     "t": "UPROXX's managed holiday music channels (Nov 2025) see views start to climb in mid November and explode in December (one star's channel up about 912% in views and 1,870% in watch time), with about a quarter of seasonal views on TV screens, so Bro Bros Christmas songs should be live by the last week of November and work well on a big living room screen.",
+     "src": "UPROXX via Tubefilter, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1029
     }
    ]
   }
@@ -20676,11 +20683,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 949 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:43",
-   "note": "Run 950 (Shorts and Reels (Shorts retention benchmarks by length; Reels controls rechecked)): Instagram's interest controls and teen 13+ rules were already in the tree. New: Shorts retention benchmarks by length (above 60% viewed for under 15 seconds, above 50% for 15 to 30, above 40% for 30 to 60, overall average about 73%), a visual change every 1 to 2 seconds, and building our own baseline after about 20 Shorts. Total 2777."
+   "note": "Earlier runs summarised: all rounds through Run 950 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:44",
@@ -20993,6 +20996,10 @@
   {
    "date": "2026-11-19 11:46",
    "note": "Run 1028 (competitor deep dive (Little Angel, Hey Bear, Dave and Ava rechecked; Schoolies new)): Little Angel, Hey Bear and Dave and Ava data were already in the tree. New small benchmark: Schoolies (US, 1.21M subscribers, 738M views) fell from about 6M views a month in February to about 1.4M with flat subscribers, while its best videos remain a spooky chase song (77M) and two 'Oopsie Doopsie' funny dance songs. Total 2940."
+  },
+  {
+   "date": "2026-11-19 11:47",
+   "note": "Run 1029 (TRENDS (holiday music video timing)): Christmas chart data by country was already in the tree. New: UPROXX's holiday channel data says holiday music videos start surging in mid November and explode in December, with about a quarter of seasonal views on TV screens, so our Christmas songs should be live by the last week of November and look good on a big screen. Total 2941."
   }
  ],
  "history": [
@@ -21695,6 +21702,10 @@
   {
    "date": "2026-11-19 11:46",
    "total": 2940
+  },
+  {
+   "date": "2026-11-19 11:47",
+   "total": 2941
   }
  ],
  "next_week_ideas": [
