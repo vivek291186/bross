@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:38:58+05:30",
- "runs": 1215,
+ "updated": "2026-11-19T16:39:51+05:30",
+ "runs": 1216,
  "branches": [
   {
    "id": "platforms",
@@ -22231,6 +22231,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1212
+    },
+    {
+     "t": "December has a standing daily posting ritual on YouTube: Vlogmas (a video every day until Christmas, started in 2011) and Shortsmas, a 31 day Shorts challenge YouTube itself seeded with daily prompts, so a Bro Bros 'one advent door a day' Shorts series from 1 Dec fits a habit viewers already expect.",
+     "src": "Yahoo News UK, Dec 2022",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1216
+    },
+    {
+     "t": "Kids advent calendars expected to sell best in 2026 are squishy calendars (a parent editor calls 7 year olds 'squishy obsessed'), mini figure and collectible calendars, Minecraft and LEGO, so 'what is behind door number 5?' reveals of small soft toys are a strong December hook; Bro Bros should reveal our own invented squishy friends, never branded toys.",
+     "src": "HELLO! magazine, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1216
     }
    ]
   }
@@ -22258,11 +22272,7 @@
  "log": [
   {
    "date": "2026-11-19 15:01",
-   "note": "Earlier: older log entries summarised; runs up to Run 1136 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:01",
-   "note": "Run 1137 (competitor deep dive (Toys and Colors Shorts checked against Kidshire)): Toys and Colors Shorts jumped from about 3 to 6M to 10 to 19M daily views within a month in spring 2025 (about 357M in 28 days). Its vidIQ income estimate conflicts with the Kidshire one, so last round's Kidshire income leaf was lowered to low confidence and reworded. Total 3096."
+   "note": "Earlier: older log entries summarised; runs up to Run 1137 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:01",
@@ -22575,13 +22585,13 @@
   {
    "date": "2026-11-19 16:38",
    "note": "Run 1215 (Shorts and Reels algorithm (Meta Q3 2026 ranking statements)): New: Meta said in its Q3 2026 call that Instagram now ranks sets of Reels together instead of scoring each Reel alone, and that almost 45% of recommended Reels are under a day old (up 11 points from Q2), with most engagement on day one, so a fresh Reel every day and a clear, consistent kids music theme matter more than reposting old Reels. Total 3166."
+  },
+  {
+   "date": "2026-11-19 16:39",
+   "note": "Run 1216 (TRENDS (December countdown and advent formats)): New: daily December posting rituals (Vlogmas, YouTube's own 31 day Shortsmas challenge) make a one door a day advent series a natural seasonal format, and squishy and mini figure advent calendars lead kids' 2026 Christmas wishes. Added 'Advent door a day' to the trend bank and an advent counting song idea. Total 3168."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:52",
-   "total": 2688
-  },
   {
    "date": "2026-11-19 07:52",
    "total": 2690
@@ -23777,9 +23787,17 @@
   {
    "date": "2026-11-19 16:38",
    "total": 3166
+  },
+  {
+   "date": "2026-11-19 16:39",
+   "total": 3168
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Open the Door! (Count to Christmas Advent Song)",
+   "why": "A counting song for 1 to 24 where each verse opens one advent door and reveals a squishy friend and a dance move; it powers a one door a day December Shorts series (the Vlogmas and Shortsmas habit) and the full version becomes the Christmas Eve compilation."
+  },
   {
    "title": "Christmas Version! (Our Top Song Goes Jingle)",
    "why": "Artists are releasing Christmas versions of their own hits in mid November 2026 (one sat at No. 5 on the US music chart on 18 Nov); re-sing our best Bro Bros song with sleigh bells, a snowy set and Santa hats, keeping the same dance so kids recognise it."
@@ -23795,10 +23813,6 @@
   {
    "title": "Make a Wish, Shooting Star! (Winter Night Sky Song)",
    "why": "The Geminids peak on 13 to 14 Dec 2026 under a dark sky and the Christmas Eve full moon is a supermoon; a gentle counting song (count the shooting stars, make a wish, spot the big moon) gives a calm bedtime option that every hemisphere and culture can share."
-  },
-  {
-   "title": "From Cat to Dog! (Word Ladder Spelling Song)",
-   "why": "The 'Let's go from X to Y' word ladder game is trending on TikTok this week; a sing along where the brothers change one letter per beat (cat, cot, dot, dog) is learning parents value, works in any English speaking market and can become a weekly Shorts series."
   },
   {
    "title": "Hip Hip Hooray, It's Your Birthday! (Bro Bros Party Dance)",
@@ -23838,6 +23852,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Advent door a day",
+   "where": "YouTube Shorts and Reels daily December series (Vlogmas, Shortsmas), 1 to 24 Dec",
+   "status": "seasonal",
+   "use": "From 1 Dec post one 15 second Short a day: a big wooden advent calendar, the Bros count 'one, two, three, open!' and a door pops open to show a soft squishy toy we invent (a snow bunny, a jam donut bear) plus one new dance step from our own Christmas song. Steps for Meshy: standing, knock knock on the air twice with one fist, then pull an imaginary door open with both hands and jump in place with arms up. On 24 Dec post the full song with all 24 steps as one dance."
+  },
   {
    "name": "Tidy up waltz",
    "where": "Instagram Reels (rising, 17 to 25 Nov 2026)",
@@ -23951,12 +23971,6 @@
    "where": "TikTok (the 'camera shy' audio is the world's fastest growing sound on 18 Nov 2026, about +130K new videos a day, 656K total)",
    "status": "peak",
    "use": "Short: our shy penguin friend turns its back when the Bros start dancing, peeks over its shoulder twice on two beats, then spins round and joins the chorus step, with our own song. Meshy prompt: a character stands with back turned, looks over one shoulder, turns back, looks over the other shoulder, then turns to face forward and bounces with arms swinging, standing in place."
-  },
-  {
-   "name": "Hear it, catch it colour game",
-   "where": "YouTube Shorts worldwide (an Arabic colour catch game from 6 Jan 2026 is now the 3rd most viewed Short ever at 3.9B; Indian and US kids channels copying it, Nov 2026)",
-   "status": "peak",
-   "use": "A 20 second game Short: our voice sings a colour, five coloured balls fall and the viewer has one beat to shout or point at the right one before a Bro catches it; the tempo speeds up each round. Use our own catchy chant. Meshy prompt: standing in place, both hands reaching up to catch, then a small bounce and a point to the camera."
   }
  ],
  "posting_plan": {
