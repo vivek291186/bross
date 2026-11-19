@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:56:44+05:30",
- "runs": 967,
+ "updated": "2026-11-19T10:02:24+05:30",
+ "runs": 968,
  "branches": [
   {
    "id": "platforms",
@@ -6887,6 +6887,34 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 967
+    },
+    {
+     "t": "Bebefinn's Spanish channel (18.2M subscribers) earned about 453M views in the 28 days to 14 Nov 2026, more than its English main channel (37.3M subscribers, about 378M), so a Spanish version of a song brand can out earn the English original in views.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 968
+    },
+    {
+     "t": "Bebefinn Spanish has held a steady 444M to 494M views every month from May to October 2026 with about 200K new subscribers a month, showing how stable a well fed Spanish preschool catalogue is compared with fast swinging English Shorts channels.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 968
+    },
+    {
+     "t": "Bebefinn's newest songs are numbered episodes tied to a child's wish or a party ('I Want to Be a Ballerina!' EP222, 'The Pinata Song' EP200 in Spanish), and the English one reached about 247K views in 37 hours, so numbered episode branding plus a dream job or party theme keeps a song series feeling like a show.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 968
+    },
+    {
+     "t": "Bebefinn's all time top video is still its 2022 'Good Morning' wake up song (about 775M views), ahead of its Baby Shark crossover, so a morning routine song with a named character waking up is one of the most durable preschool song formats.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 968
     }
    ]
   },
@@ -19836,11 +19864,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 888 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:01",
-   "note": "Run 889 (TRENDS (Christmas dance and Thanksgiving Reels check)): Nothing new: this week's Christmas dance pages repeat the 2025 holiday dances (Charlie Brown style shuffle, Winter Vibes, remixed carols) and Thanksgiving Reel guides repeat family montage edits, all already in the tree or trend bank. No leaves added. Total 2626."
+   "note": "Earlier runs summarised: all rounds through Run 889 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:02",
@@ -20153,6 +20177,10 @@
   {
    "date": "2026-11-19 09:56",
    "note": "Run 967 (YouTube main and Kids (Tubefilter same week last year, 17 to 23 Nov 2025)): This week's Tubefilter chart is not out yet, so the round compared the same week last year (17 to 23 Nov 2025): most kids Shorts channels fell 14 to 25% that week while Cadel and Mia rose 12% to over 1B views and a baby Shorts channel (BabyBillion) held about 600M, so a pre Thanksgiving dip for generic kids Shorts is normal. Total 2820."
+  },
+  {
+   "date": "2026-11-19 10:02",
+   "note": "Run 968 (competitor deep dive (Bebefinn English and Spanish)): Bebefinn's Spanish channel (18.2M) now draws more monthly views than the English one (37.3M): about 453M against 378M in 28 days, and its views held near 450M to 490M a month all year. Both still ship numbered episode songs (EP222 ballet, EP200 pinata) and the newest English upload got about 247K views in 37 hours. Total 2824."
   }
  ],
  "history": [
@@ -20611,6 +20639,10 @@
   {
    "date": "2026-11-19 09:56",
    "total": 2820
+  },
+  {
+   "date": "2026-11-19 10:02",
+   "total": 2824
   }
  ],
  "next_week_ideas": [
