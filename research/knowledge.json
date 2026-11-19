@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:10:51+05:30",
- "runs": 1081,
+ "updated": "2026-11-19T13:35:59+05:30",
+ "runs": 1082,
  "branches": [
   {
    "id": "platforms",
@@ -4073,6 +4073,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1045
+    },
+    {
+     "t": "In the new Studio Insights the Content page draws long videos and Shorts as separate lines, and in one sample channel Shorts brought about 19,900 views but only 7 new subscribers while long videos brought 293, so we should judge Bro Bros Shorts by views and clicks to the full song and judge subscriber growth on the long songs.",
+     "src": "utubeo.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1082
+    },
+    {
+     "t": "Saved keywords are being removed from desktop YouTube Studio in the Insights redesign, so any keyword lists the team keeps there should be exported as a CSV now and kept in our own research files.",
+     "src": "utubeo.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1082
+    },
+    {
+     "t": "Custom prompt feeds on YouTube allow three saved feeds on a free account and eight with Premium (US English, signed in), and they replaced the old topic chips on Home, so parents with Premium can keep several kid song feeds side by side, rewarding plain descriptive titles such as 'dance song for kids'.",
+     "src": "gopurplefish.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1082
+    },
+    {
+     "t": "Studio now shows a co view rate metric next to the new TV co view counting (announced 16 Nov 2026), and Partner Program earnings and eligibility are not affected by co viewers, so a rise in our public views from family TV watching will not raise our revenue by itself.",
+     "src": "gopurplefish.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1082
     }
    ]
   },
@@ -21186,12 +21214,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:56",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 1002 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:57",
-   "note": "Run 1003 (global markets (Malaysia: Didi and Friends; Morocco Darija note)): Malaysia's own preschool brand Didi and Friends (7.62M subscribers, 8B views) still earns about 62M views a month from Malay songs; its biggest hits are a vehicle sounds song (25.8M), a 'do not open the door' safety song (23.3M), a shapes song and five little monkeys, so local language songs on universal themes win there. Darija learning channels show Moroccan viewers favour their spoken dialect, but no kids data yet. Total 2892."
+   "note": "Earlier: older log entries summarised; runs up to Run 1003 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:57",
@@ -21504,6 +21528,10 @@
   {
    "date": "2026-11-19 13:10",
    "note": "Run 1081 (TikTok and other platforms (kids audio and podcasts, Kwai gaps)): Kids podcasts are still small for young children (11% of US under 9s have ever heard one) while audio stories and music are big: 60% of UK under 6s hear audio stories at home and 52% of voice assistant using kids aged 3 to 12 play music daily versus 34% stories. Kwai in Brazil was under a federal inquiry over child safety in live streams, a reason to keep Bro Bros off Kwai lives. Total 3013."
+  },
+  {
+   "date": "2026-11-19 13:35",
+   "note": "Run 1082 (YouTube algorithm (November Studio and feed changes rechecked)): Mostly already known (co views, custom feeds, Research tab, Clips tool, Hype). New: Studio Insights now draws long videos and Shorts as separate lines with very different subscriber yields, saved keywords are leaving desktop Studio, and custom feeds allow 8 on Premium. Algorithm topic is close to saturated. Total 3017."
   }
  ],
  "history": [
@@ -22418,6 +22446,10 @@
   {
    "date": "2026-11-19 13:10",
    "total": 3013
+  },
+  {
+   "date": "2026-11-19 13:35",
+   "total": 3017
   }
  ],
  "next_week_ideas": [
