@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:41:21+05:30",
- "runs": 939,
+ "updated": "2026-11-19T08:42:13+05:30",
+ "runs": 940,
  "branches": [
   {
    "id": "platforms",
@@ -8364,6 +8364,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 929
+    },
+    {
+     "t": "An Australian randomised trial (Behavioral Sciences, 2026; 213 children in eight preschools in disadvantaged areas of Queensland) found that 16 to 20 short rhythm and movement sessions over eight weeks, run by ordinary kindergarten teachers, improved sharing and helping and reduced acting out and worry, with effects still there six months later in the first school year.",
+     "src": "Behavioral Sciences (MDPI), Jan 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 940
+    },
+    {
+     "t": "The same trial's program was built for self regulation (stop, go, slow, fast, wait for the beat), which backs songs where the Bros freeze, tiptoe, speed up and slow down on cue: parents and teachers can sell these as calming, focus building songs, not just fun.",
+     "src": "Behavioral Sciences (MDPI), Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 940
     }
    ]
   },
@@ -19241,11 +19255,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 860 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:43",
-   "note": "Run 861 (TRENDS (worldwide most viewed videos and Shorts, week to 17 Nov 2026)): Trendreport's week to 17 Nov: 14 of the 25 most viewed videos on YouTube were kids or family and 10 were Shorts; the top Short was Lalafun's food sharing manners Short (+83.6M) and the big seasonal riser was Kidshire's 'Winter Clothes for Kids' vocabulary Short (+54.6M in a week). Colour games (refill the truck with colours, mixing colours, an Arabic 'hear the colour and catch it' game) also ranked. Added 'Winter clothes dress up' and 'Hear it, catch it colour game' to the trend bank. Total 2560."
+   "note": "Earlier runs summarised: all rounds through Run 861 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:44",
@@ -19558,6 +19568,10 @@
   {
    "date": "2026-11-19 08:41",
    "note": "Run 939 (other platforms (Netflix kids top 10, Roblox Q3 and new games rechecked)): Nothing new: Netflix's kids titles (Gabby's Dollhouse S14, CrunchLabs), Roblox's Q3 drop to 138M daily players with growth in India and Japan, and the 2 Nov fastest growing games (egg and pet heists, cat sumo) were all already in the tree. No leaves added. Total 2735."
+  },
+  {
+   "date": "2026-11-19 08:42",
+   "note": "Run 940 (music craft (TRENDS skipped, thin this run; preschool rhythm and movement trial)): Baby movement (eLife, 79 babies) and the Verona 108 child rhythm study were already in the tree. New: an Australian trial with 213 preschoolers found eight weeks of rhythm and movement games improved prosocial behaviour and cut behaviour problems for at least six months, which backs our freeze, slow and fast cue songs as self regulation songs. Total 2737."
   }
  ],
  "history": [
@@ -20652,6 +20666,10 @@
   {
    "date": "2026-11-19 08:41",
    "total": 2735
+  },
+  {
+   "date": "2026-11-19 08:42",
+   "total": 2737
   }
  ],
  "next_week_ideas": [
