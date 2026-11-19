@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:48:18+05:30",
- "runs": 1221,
+ "updated": "2026-11-19T16:49:01+05:30",
+ "runs": 1222,
  "branches": [
   {
    "id": "platforms",
@@ -4318,6 +4318,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1215
+    },
+    {
+     "t": "UK viewing data shown at the Children's Media Conference 2025 found children's content creates the first viewing peak of the day at about 6 to 9 AM (breakfast and pre school, when adults barely watch), a second peak after school at about 5 to 7 PM, then a sharp drop after 8 PM at bedtime, with the same two peak shape on YouTube, Netflix, Disney+, Prime Video and live TV.",
+     "src": "Digital i, Oct 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1222
+    },
+    {
+     "t": "Because of that breakfast peak, an upload at 10:00 IST (04:30 UTC) goes live about 2 hours before 6 to 9 AM in the UK and about 3 to 4 hours before breakfast in Western Europe, so our existing morning queue time already fits the 'post 2 to 3 hours before the peak' rule for Europe, while 16:00 IST (10:30 UTC) misses Europe's after school peak by about 5 hours.",
+     "src": "Digital i, Oct 2025 (our calculation)",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1222
     }
    ]
   },
@@ -22299,12 +22313,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:37",
-   "note": "Earlier: older log entries summarised; runs up to Run 1142 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:37",
-   "note": "Run 1143 (Shorts and Reels (feed controls and new player features rechecked)): Nothing new: the Shorts heart button, removed dislike and 'Not interested' reasons (June 2026), Instagram's Your Algorithm topic controls and Shorts series were already in the tree. No leaves added. Total 3096."
+   "date": "2026-11-19 15:38",
+   "note": "Earlier: older log entries summarised; runs up to Run 1143 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:38",
@@ -22617,13 +22627,13 @@
   {
    "date": "2026-11-19 16:48",
    "note": "Run 1221 (competitor deep dive (Bounce Patrol and CoComelon news)): Nothing new: Bounce Patrol's latest uploads (Rainbow Disco 271K, Halloween Ants 518K, puppet collabs 8 to 11M, 34M subscribers, flat) and CoComelon's Headspace, Sanrio and Melon Patch spin offs were already in the tree. No leaves added. Total 3172."
+  },
+  {
+   "date": "2026-11-19 16:49",
+   "note": "Run 1222 (posting times (UK kids daypart peaks and Metricool recheck)): New: Digital i's UK data (Children's Media Conference 2025) shows kids content makes the day's first viewing peak at about 6 to 9 AM, a second after school at 5 to 7 PM and a sharp drop after 8 PM, on YouTube and every streamer alike; our 10:00 IST queue time lands about 2 hours before the UK breakfast peak. Metricool's 20 to 26 Nov model is unchanged (YouTube 16:00 IST, Instagram 10:00 IST), so no slot change. Total 3174."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:56",
-   "total": 2705
-  },
   {
    "date": "2026-11-19 07:57",
    "total": 2708
@@ -23819,6 +23829,10 @@
   {
    "date": "2026-11-19 16:48",
    "total": 3172
+  },
+  {
+   "date": "2026-11-19 16:49",
+   "total": 3174
   }
  ],
  "next_week_ideas": [
