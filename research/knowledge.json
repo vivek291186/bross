@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:44:13+05:30",
- "runs": 874,
+ "updated": "2026-11-19T06:45:23+05:30",
+ "runs": 875,
  "branches": [
   {
    "id": "platforms",
@@ -13950,6 +13950,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 874
+    },
+    {
+     "t": "A March 2026 investigation reported that about half of the Shorts recommended to young children were AI made, that one channel posted more than 10,000 AI clips (about 50 a day), and that some 'educational' AI videos showed children playing near traffic, riding without seatbelts or handling choking hazards; because this is exactly what critics and reviewers now look for, every Bro Bros frame must model safe behaviour (seatbelts on, holding hands at crossings, no small objects near mouths).",
+     "src": "Futurism via Pulse, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 875
+    },
+    {
+     "t": "Mass volume, low effort AI uploads are what child experts, 200+ advocacy groups and YouTube's own inauthentic content rules target in 2026, so our 14 songs a week must each show clear human creative choices (original story, named recurring characters, a lesson or game) to stay on the safe side of 'repetitive' and 'mass produced' content reviews.",
+     "src": "Futurism and Fortune, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 875
+    },
+    {
+     "t": "US children's online rules are moving to the states while Congress stalls: the amended COPPA Rule has been enforceable since 22 Apr 2026, and New Jersey's Kids Code Act (covered Oct 2026) is described as the broadest age appropriate design code so far, with Florida proposing more; for a channel on YouTube these mostly bind the platform, but they make kids data and design scrutiny stricter every year.",
+     "src": "Loeb and Loeb, Jun to Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 875
     }
    ]
   },
@@ -18268,11 +18289,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 796 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 00:55",
-   "note": "Run 797 (music craft (children's singing range, African kids listening, producer sound trends)): Children's singing ranges and Africa's Wrapped listening were already in the tree; new: Splice's 2026 producer data makes Afro house, speed garage and a K pop rebound the freshest production colours for a dance song. Total 2368."
+   "note": "Earlier runs summarised: all rounds through Run 797 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 00:55",
@@ -18585,6 +18602,10 @@
   {
    "date": "2026-11-19 06:44",
    "note": "Run 874 (TRENDS (Christmas wish list toys and family face trends)): Weekly Shorts and Reels lists had nothing new. New: The Entertainer's Christmas 2026 wish list leans on hatching prehistoric creatures, roaring electronic pets, bubble pop keyboard collectibles, tiny working retro music toys, singing dolls and slime, which gives toy themed song ideas without any brand. The 'split face' family resemblance edit (half one face, half the other) spread from parents to siblings in September; we can do it with our own two brothers only. (Split face kept as a leaf only; it is fading, so it stays out of the trend bank.) Total 2596."
+  },
+  {
+   "date": "2026-11-19 06:45",
+   "note": "Run 875 (rules, safety and monetisation (AI kids video scrutiny, US state kids codes)): Most rule and money facts were already in the tree. New: a March 2026 investigation found about half of the Shorts recommended to young children were AI made and some 'educational' AI clips modelled unsafe acts (playing near traffic, no seatbelts, choking hazards), so every Bro Bros safety song must show the correct behaviour on screen and be checked frame by frame. US states keep adding kids design codes (New Jersey's Kids Code Act, Oct 2026). Total 2599."
   }
  ],
  "history": [
@@ -19419,6 +19440,10 @@
   {
    "date": "2026-11-19 06:44",
    "total": 2596
+  },
+  {
+   "date": "2026-11-19 06:45",
+   "total": 2599
   }
  ],
  "next_week_ideas": [
