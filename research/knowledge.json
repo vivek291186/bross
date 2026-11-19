@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:58:25+05:30",
- "runs": 1006,
+ "updated": "2026-11-19T10:59:07+05:30",
+ "runs": 1007,
  "branches": [
   {
    "id": "platforms",
@@ -11822,6 +11822,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1003
+    },
+    {
+     "t": "Easy New Year actions kids can copy at home come from many countries: banging pots and pans after midnight (US), stepping into the year on the right foot, swapping tiny lucky charms such as ladybugs, four leaf clovers and piglets (Germany) and putting pine and bamboo decorations at the door to welcome good luck (Japan).",
+     "src": "KiwiCo blog, New Year traditions",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1007
+    },
+    {
+     "t": "A 'lucky charms of the world' New Year song can count kid safe symbols from several cultures (a ladybug, a clover, a little piglet, twelve grapes, round fruits, a polka dot shirt) so families in Europe, Latin America, Asia and the Philippines each spot their own custom without any religious or protected content.",
+     "src": "KiwiCo blog, New Year traditions",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1007
     }
    ]
   },
@@ -20361,11 +20375,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 927 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 08:01",
-   "note": "Run 928 (other platforms (TRENDS skipped; screen free audio players in New Zealand, Spotify kids accounts rechecked)): Screen free audio keeps booming: in New Zealand Tonies box sales doubled from 2024 to 2025 and are expected to double again in 2026, Yoto's local customer base roughly doubled in a year, families there listen about an hour a day, and recommendations spread at school pick up. Spotify's parent managed accounts were already in the tree. Total 2714."
+   "note": "Earlier runs summarised: all rounds through Run 928 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 08:02",
@@ -20678,6 +20688,10 @@
   {
    "date": "2026-11-19 10:58",
    "note": "Run 1006 (YouTube main (Tubefilter most subscribed, week of 15 Nov 2026)): Rules and own results skipped (nothing new). Tubefilter's 9 to 15 Nov subscriber chart is led by Latin American and Turkish creators: two Brazilian channels (+2M and +1M), Mexico's HotSpanish Vlogs (+1.5M) and Turkey's Sasha Show (+1.2M), plus a Singapore animated Shorts channel with original characters (+300K, up 50%). Total 2895."
+  },
+  {
+   "date": "2026-11-19 10:59",
+   "note": "Run 1007 (topics and seasons (New Year customs kids can act out)): December holiday dates and most New Year customs (grapes, polka dots, round fruits, first footing, seven waves) were already in the tree. New kid friendly actions to sing about: banging pots and pans after midnight in the US, Germany's small lucky charms (ladybugs, four leaf clovers, piglets) and Japan's pine and bamboo entrance decorations to welcome good luck. Total 2897."
   }
  ],
  "history": [
@@ -21292,9 +21306,17 @@
   {
    "date": "2026-11-19 10:58",
    "total": 2895
+  },
+  {
+   "date": "2026-11-19 10:59",
+   "total": 2897
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Pots and Pans, Happy New Year! (Lucky Things Around the World Song)",
+   "why": "New Year customs that kids can act out (banging pots and pans, stepping in on the right foot, lucky ladybugs, twelve grapes, round fruits) let one song greet many countries at once; standing moves only, with a gentle sound so it suits early 'fake midnight' countdowns."
+  },
   {
    "title": "Knock Knock, Who's There? (Ask a Grown-Up First Safety Song)",
    "why": "Door safety songs are top hits in several markets (Didi and Friends 23M); a playful, non scary call and response where the brothers always fetch a parent before opening fits parents worldwide."
@@ -21346,10 +21368,6 @@
   {
    "title": "Clip Clop Little Donkey (winter journey song)",
    "why": "Latin American kids channels get their biggest December views from a donkey travel song (109M and 89M on one Colombian channel); an original, secular clip clop journey song with the Bros riding along through snowy hills, in English with a Spanish version, fits that taste worldwide."
-  },
-  {
-   "title": "Wrap It Up! (Present Wrapping Race Song)",
-   "why": "A one line copyable December challenge (wrap it before the bell) with a big on screen timer; challenge formats lead short video medians and it gives a messy funny payoff kids love. Original song, Shorts cut at 20 to 25 s."
   }
  ],
  "trend_bank": [
