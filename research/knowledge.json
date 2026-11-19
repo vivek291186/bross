@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:37:53+05:30",
- "runs": 1249,
+ "updated": "2026-11-19T18:39:23+05:30",
+ "runs": 1250,
  "branches": [
   {
    "id": "platforms",
@@ -2337,6 +2337,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1239
+    },
+    {
+     "t": "Instagram's Edits app now lets creators attach a clickable link to the sound in a Reel (Oct 2026), so every Bro Bros Reel can link straight to our own original song audio page, making it easy for families and other creators to reuse our sound in their own dance clips.",
+     "src": "metricool.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1250
     }
    ]
   },
@@ -7972,6 +7979,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1245
+    },
+    {
+     "t": "In Tubefilter's top 50 for the week to 15 Nov 2026 the biggest percentage jumps were Shorts channels built on curiosity and games (a Roblox Shorts channel up about 4,200% and an Indian 'experiments' Shorts channel up about 4,600%), while the only clear family channel, Like Nastya, held a steady 1M a week at 134M subscribers.",
+     "src": "tubefilter.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1250
+    },
+    {
+     "t": "The same chart shows sensational Shorts spikes fading fast: Sasha Show fell 14% week on week and Leo Show about 50% after their October surges, while steady family brands kept flat gains, which supports building Bro Bros on consistent original songs rather than chasing shock style Shorts.",
+     "src": "tubefilter.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1250
     }
    ]
   },
@@ -22618,10 +22639,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 15:51",
-   "note": "Run 1171 (TRENDS (Virlo and Buffer weekly lists rechecked)): Nothing new: Virlo's list is still from 29 Oct (rock paper scissors food challenge, paparazzi bow, costume loading) and already recorded, and no newer Buffer list was found. No leaves added. Total 3129."
-  },
-  {
    "date": "2026-11-19 15:52",
    "note": "Run 1172 (global markets (Israel gap)): Filled the Israel gap: Hebrew kids songs live on one big classic songs channel (Hop's 'Israeli Childhood', 820K subscribers, 1.37B views, about 9M views a month) whose top videos are a birthday song (12.8M) and a beloved gardener character's songs, plus a child presenter channel whose newest hits are lesson videos about bullying, apologising and healthy friendships. Total 3131."
   },
@@ -22932,16 +22949,16 @@
   {
    "date": "2026-11-19 18:37",
    "note": "Run 1249 (YouTube algorithm (SEJ product news)): New: Beaupre says bigger desktop thumbnails with fewer choices raised long and short form engagement and YouTube runs hundreds of tests at once; the Shorts Get Feedback tool (hook, pacing, visuals) is US over 18 only; paid and bumper ad views now add to public counts. Total 3217."
+  },
+  {
+   "date": "2026-11-19 18:39",
+   "note": "Run 1250 (Shorts and Reels (platform news recheck)): Small: Instagram Features, Apple TV app, Reels series end, retention heatmaps and the AIR Shorts first kids case were already in the tree; added Edits clickable sound links for our own songs and Tubefilter's 15 Nov chart showing curiosity and Roblox Shorts spiking while shock Shorts channels fade. Total 3220."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:44",
-   "total": 2781
   },
   {
    "date": "2026-11-19 09:45",
@@ -24134,6 +24151,10 @@
   {
    "date": "2026-11-19 18:37",
    "total": 3217
+  },
+  {
+   "date": "2026-11-19 18:39",
+   "total": 3220
   }
  ],
  "next_week_ideas": [
