@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:36:28+05:30",
- "runs": 1357,
+ "updated": "2026-11-19T23:36:57+05:30",
+ "runs": 1358,
  "branches": [
   {
    "id": "platforms",
@@ -23643,12 +23643,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:05",
-   "note": "Earlier: older log entries summarised (runs up to 1278); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:10",
-   "note": "Run 1279 (competitor deep dive (Kids Funny Songs, Kids Channel Preschool recheck)): Nothing new: Kids Funny Songs' toothbrushing routine song (about 93K in 36 hours) and Kids Channel Preschool's one phonics hit with a slow Santa song were already in the tree; Super Simple and ChuChu pages could not be opened. No leaves added. Total 3266."
+   "note": "Earlier: older log entries summarised (runs up to 1279); details are in git history."
   },
   {
    "date": "2026-11-19 19:35",
@@ -23961,13 +23957,13 @@
   {
    "date": "2026-11-19 23:36",
    "note": "Run 1357 (YouTube algorithm recheck): Nothing new: Todd Beaupre's September Creator Insider points (subscribers click 10% or less, Suggested beats the Subs feed, no niche category, Subs tab in Home), the Shorts 30 day flattening and the originality push were all already in the tree. No leaves added. Chrome not available. Total 3364."
+  },
+  {
+   "date": "2026-11-19 23:36",
+   "note": "Run 1358 (Shorts and Reels recheck): Nothing new: the Shorts heart button and dislike removal, Shorts series, Instagram 90 minute 'Features' and Reels algorithm controls were already in the tree; no Reels algorithm change found for mid November. No leaves added. Chrome not available. Total 3364."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:45",
-   "total": 2987
-  },
   {
    "date": "2026-11-19 12:46",
    "total": 2987
@@ -25158,6 +25154,10 @@
   },
   {
    "date": "2026-11-19 23:35",
+   "total": 3364
+  },
+  {
+   "date": "2026-11-19 23:36",
    "total": 3364
   },
   {
