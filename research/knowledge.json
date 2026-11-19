@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:50:40+05:30",
- "runs": 1384,
+ "updated": "2026-11-20T00:36:10+05:30",
+ "runs": 1385,
  "branches": [
   {
    "id": "platforms",
@@ -8315,6 +8315,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1376
+    },
+    {
+     "t": "Ozzy Fox, the music led preschool short form series Animaj co produces with Disney Jr., passed 30M YouTube views in four months since its July 2026 launch, averages over 1.4M views per episode in the first 30 days, and arrives on Disney+ on 5 Dec 2026 with season 2 already greenlit, proof that a song per episode YouTube series can graduate to a streamer.",
+     "src": "laughingplace.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1385
     }
    ]
   },
@@ -10415,6 +10422,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1337
+    },
+    {
+     "t": "Walt Disney Records released an Ozzy Fox soundtrack album on 18 Sep 2026, two months after the YouTube launch, so collecting each month's best Bro Bros songs into an album on streaming services is a normal next step for a song led kids channel.",
+     "src": "laughingplace.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1385
     }
    ]
   },
@@ -12214,6 +12228,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1361
+    },
+    {
+     "t": "Ozzy Fox is animated with Animaj's Sketch to Motion tool, which turns artists' drawings and text instructions into 3D animation, and some YouTube viewers still labelled it 'AI slop' (The Next Web, Nov 2026); AI assisted motion like our Meshy dances is accepted by Disney, but the finished look needs visible handmade care (expressive faces, clean timing, warm lighting) to escape that label.",
+     "src": "thenextweb.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1385
     }
    ]
   },
@@ -13775,6 +13796,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1381
+    },
+    {
+     "t": "Ozzy Fox's most watched episode is 'The Floor Is Lava!' at over 7M views, ahead of its routine songs (brushing teeth, getting dressed, tidying), which again shows pretend danger movement games beat chores as hooks; a Bro Bros floor is lava jump dance with an original song is a safe bet.",
+     "src": "laughingplace.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1385
     }
    ]
   },
@@ -23854,11 +23882,7 @@
  "log": [
   {
    "date": "2026-11-19 19:49",
-   "note": "Earlier: older log entries summarised (runs up to 1305); details are in git history."
-  },
-  {
-   "date": "2026-11-19 19:49",
-   "note": "Run 1306 (TRENDS (Thanksgiving parade and GivingTuesday)): Nothing new: the 100th Thanksgiving Day Parade on 26 Nov with new character balloons and GivingTuesday on 1 Dec were already in the tree (our elephant parade song on 20 Nov already rides the parade theme). No leaves added. Total 3281."
+   "note": "Summary of 2 earlier rounds: Earlier: older log entries summarised (r; Run 1306 (TRENDS (Thanksgiving parade an"
   },
   {
    "date": "2026-11-19 19:49",
@@ -24171,6 +24195,10 @@
   {
    "date": "2026-11-19 23:50",
    "note": "Run 1384 (global markets (Poland)): Added Polish data: over 80% of 7 to 9 year olds watch YouTube, 66% own a smartphone and over 60% have met disturbing content, a case for Polish dubs and clear safety signals. Thailand pages were thin. Chrome not available. Total 3394."
+  },
+  {
+   "date": "2026-11-20 00:36",
+   "note": "Run 1385 (visual craft (Ozzy Fox moves from YouTube to Disney+)): Animaj and Disney Jr. bring the YouTube born Ozzy Fox to Disney+ on 5 Dec after 30M YouTube views in four months; its top episode is a floor is lava song, and it is made with sketch to motion AI tools yet called 'AI slop' by some viewers. Kidscreen shortlist pages could not be read. Chrome not available. Total 3398."
   }
  ],
  "history": [
@@ -24179,404 +24207,12 @@
    "total": 3027
   },
   {
-   "date": "2026-11-19 13:40",
-   "total": 3029
-  },
-  {
-   "date": "2026-11-19 13:41",
-   "total": 3029
-  },
-  {
-   "date": "2026-11-19 13:42",
-   "total": 3033
-  },
-  {
-   "date": "2026-11-19 13:48",
-   "total": 3037
-  },
-  {
-   "date": "2026-11-19 13:48",
-   "total": 3040
-  },
-  {
-   "date": "2026-11-19 13:50",
-   "total": 3043
-  },
-  {
-   "date": "2026-11-19 13:50",
-   "total": 3043
-  },
-  {
-   "date": "2026-11-19 13:51",
-   "total": 3046
-  },
-  {
-   "date": "2026-11-19 13:56",
-   "total": 3049
-  },
-  {
-   "date": "2026-11-19 13:57",
-   "total": 3051
-  },
-  {
-   "date": "2026-11-19 13:58",
-   "total": 3054
-  },
-  {
-   "date": "2026-11-19 13:59",
-   "total": 3056
-  },
-  {
-   "date": "2026-11-19 13:59",
-   "total": 3056
-  },
-  {
-   "date": "2026-11-19 13:59",
-   "total": 3056
-  },
-  {
    "date": "2026-11-19 14:00",
    "total": 3056
   },
   {
-   "date": "2026-11-19 14:00",
-   "total": 3057
-  },
-  {
-   "date": "2026-11-19 14:36",
-   "total": 3060
-  },
-  {
-   "date": "2026-11-19 14:42",
-   "total": 3064
-  },
-  {
-   "date": "2026-11-19 14:43",
-   "total": 3064
-  },
-  {
-   "date": "2026-11-19 14:44",
-   "total": 3065
-  },
-  {
-   "date": "2026-11-19 14:44",
-   "total": 3065
-  },
-  {
-   "date": "2026-11-19 14:46",
-   "total": 3070
-  },
-  {
-   "date": "2026-11-19 14:46",
-   "total": 3070
-  },
-  {
-   "date": "2026-11-19 14:47",
-   "total": 3070
-  },
-  {
-   "date": "2026-11-19 14:47",
-   "total": 3070
-  },
-  {
-   "date": "2026-11-19 14:48",
-   "total": 3074
-  },
-  {
-   "date": "2026-11-19 14:49",
-   "total": 3077
-  },
-  {
-   "date": "2026-11-19 14:50",
-   "total": 3081
-  },
-  {
-   "date": "2026-11-19 14:51",
-   "total": 3084
-  },
-  {
-   "date": "2026-11-19 14:51",
-   "total": 3084
-  },
-  {
-   "date": "2026-11-19 14:52",
-   "total": 3086
-  },
-  {
-   "date": "2026-11-19 14:53",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:53",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:54",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:54",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:55",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:55",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:55",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:56",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:56",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:57",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:57",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:57",
-   "total": 3087
-  },
-  {
-   "date": "2026-11-19 14:58",
-   "total": 3088
-  },
-  {
-   "date": "2026-11-19 14:58",
-   "total": 3090
-  },
-  {
-   "date": "2026-11-19 14:59",
-   "total": 3090
-  },
-  {
-   "date": "2026-11-19 14:59",
-   "total": 3090
-  },
-  {
-   "date": "2026-11-19 14:59",
-   "total": 3090
-  },
-  {
    "date": "2026-11-19 15:00",
    "total": 3092
-  },
-  {
-   "date": "2026-11-19 15:00",
-   "total": 3092
-  },
-  {
-   "date": "2026-11-19 15:00",
-   "total": 3095
-  },
-  {
-   "date": "2026-11-19 15:01",
-   "total": 3096
-  },
-  {
-   "date": "2026-11-19 15:01",
-   "total": 3096
-  },
-  {
-   "date": "2026-11-19 15:02",
-   "total": 3096
-  },
-  {
-   "date": "2026-11-19 15:35",
-   "total": 3096
-  },
-  {
-   "date": "2026-11-19 15:36",
-   "total": 3096
-  },
-  {
-   "date": "2026-11-19 15:36",
-   "total": 3096
-  },
-  {
-   "date": "2026-11-19 15:37",
-   "total": 3096
-  },
-  {
-   "date": "2026-11-19 15:38",
-   "total": 3096
-  },
-  {
-   "date": "2026-11-19 15:39",
-   "total": 3099
-  },
-  {
-   "date": "2026-11-19 15:40",
-   "total": 3102
-  },
-  {
-   "date": "2026-11-19 15:40",
-   "total": 3103
-  },
-  {
-   "date": "2026-11-19 15:41",
-   "total": 3106
-  },
-  {
-   "date": "2026-11-19 15:41",
-   "total": 3109
-  },
-  {
-   "date": "2026-11-19 15:42",
-   "total": 3111
-  },
-  {
-   "date": "2026-11-19 15:42",
-   "total": 3114
-  },
-  {
-   "date": "2026-11-19 15:43",
-   "total": 3116
-  },
-  {
-   "date": "2026-11-19 15:44",
-   "total": 3116
-  },
-  {
-   "date": "2026-11-19 15:44",
-   "total": 3117
-  },
-  {
-   "date": "2026-11-19 15:44",
-   "total": 3117
-  },
-  {
-   "date": "2026-11-19 15:45",
-   "total": 3117
-  },
-  {
-   "date": "2026-11-19 15:45",
-   "total": 3119
-  },
-  {
-   "date": "2026-11-19 15:46",
-   "total": 3121
-  },
-  {
-   "date": "2026-11-19 15:46",
-   "total": 3121
-  },
-  {
-   "date": "2026-11-19 15:47",
-   "total": 3123
-  },
-  {
-   "date": "2026-11-19 15:48",
-   "total": 3125
-  },
-  {
-   "date": "2026-11-19 15:48",
-   "total": 3125
-  },
-  {
-   "date": "2026-11-19 15:48",
-   "total": 3126
-  },
-  {
-   "date": "2026-11-19 15:49",
-   "total": 3126
-  },
-  {
-   "date": "2026-11-19 15:49",
-   "total": 3126
-  },
-  {
-   "date": "2026-11-19 15:49",
-   "total": 3127
-  },
-  {
-   "date": "2026-11-19 15:50",
-   "total": 3127
-  },
-  {
-   "date": "2026-11-19 15:50",
-   "total": 3127
-  },
-  {
-   "date": "2026-11-19 15:51",
-   "total": 3129
-  },
-  {
-   "date": "2026-11-19 15:51",
-   "total": 3129
-  },
-  {
-   "date": "2026-11-19 15:51",
-   "total": 3129
-  },
-  {
-   "date": "2026-11-19 15:52",
-   "total": 3131
-  },
-  {
-   "date": "2026-11-19 15:52",
-   "total": 3133
-  },
-  {
-   "date": "2026-11-19 15:53",
-   "total": 3134
-  },
-  {
-   "date": "2026-11-19 15:53",
-   "total": 3134
-  },
-  {
-   "date": "2026-11-19 15:54",
-   "total": 3136
-  },
-  {
-   "date": "2026-11-19 15:54",
-   "total": 3136
-  },
-  {
-   "date": "2026-11-19 15:54",
-   "total": 3136
-  },
-  {
-   "date": "2026-11-19 15:55",
-   "total": 3138
-  },
-  {
-   "date": "2026-11-19 15:55",
-   "total": 3138
-  },
-  {
-   "date": "2026-11-19 15:56",
-   "total": 3140
-  },
-  {
-   "date": "2026-11-19 15:56",
-   "total": 3142
-  },
-  {
-   "date": "2026-11-19 15:56",
-   "total": 3142
-  },
-  {
-   "date": "2026-11-19 15:57",
-   "total": 3143
-  },
-  {
-   "date": "2026-11-19 15:57",
-   "total": 3145
   },
   {
    "date": "2026-11-19 15:57",
@@ -25373,6 +25009,10 @@
   {
    "date": "2026-11-19 23:50",
    "total": 3394
+  },
+  {
+   "date": "2026-11-20 00:36",
+   "total": 3398
   }
  ],
  "next_week_ideas": [
