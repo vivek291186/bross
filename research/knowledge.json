@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:59:36+05:30",
- "runs": 1050,
+ "updated": "2026-11-19T12:35:58+05:30",
+ "runs": 1051,
  "branches": [
   {
    "id": "platforms",
@@ -14153,6 +14153,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1039
+    },
+    {
+     "t": "In Japan the biggest TikTok song of 2026 (M!LK's 'Suki Sugite Metsu', nine weeks at number one on TikTok's music chart, Trend Awards music winner) was carried by a simple dance anyone could copy, so a short, easy signature move is what travels in the Japanese market too.",
+     "src": "Japan Nakama, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1051
+    },
+    {
+     "t": "Nippon TV turned that viral dance into a one minute fitness version for its KARADA WEEK health campaign (31 Oct to 8 Nov 2026, slogan 'one minute a day'), showing that a hit dance can be relaunched as a one minute exercise routine; a 'one minute Bro Bros workout' cut of a hit song is a cheap second life for it.",
+     "src": "The First Times, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1051
+    },
+    {
+     "t": "Nigeria's Jeni and Keni (House of Ajebo) relaunched in 3D, is about 80% Afro fusion kids music for ages 1 to 6, and plans spin offs such as folktale segments and kids party DJ mixes, a sign that party mix compilations are seen as a growth format for African family audiences.",
+     "src": "BusinessDay Nigeria, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1051
     }
    ]
   },
@@ -20878,12 +20899,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 971 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
    "date": "2026-11-19 10:05",
-   "note": "Run 972 (global markets (Spanish and Portuguese holiday season rechecked; SBT Kids Brazil)): Three Kings traditions (54 related leaves) were already well covered. New: Brazilian broadcaster SBT's kids YouTube channel reached about 152M views and almost 2M subscribers, with a Monteiro Lobato based series carrying a third of its views and one episode hitting 5M in a month, showing Brazilian families reward local folklore characters with original songs. Total 2832."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 972 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:05",
@@ -21196,6 +21213,10 @@
   {
    "date": "2026-11-19 11:59",
    "note": "Run 1050 (TRENDS (SocialPilot TikTok list for 17 to 25 Nov)): Nothing new: SocialPilot's 17 to 25 Nov formats (soft launch reveal, same spot years apart, ignored lip sync, camera shy pet dance, a pass the dance hook K pop challenge) and the peak Christmas classic at about 16.4M videos were already in the tree and trend bank. No leaves added. Total 2969."
+  },
+  {
+   "date": "2026-11-19 12:35",
+   "note": "Run 1051 (global markets (Japan, Nigeria, auto dubbing recheck)): Japan: the year's top TikTok song (M!LK, nine weeks at number one) won on a dance anyone can copy, and Nippon TV then turned that dance into a one minute fitness routine for its KARADA WEEK health campaign (31 Oct to 8 Nov). Nigeria's Jeni and Keni plans kids party DJ segments. YouTube dubbing and Sanrio facts were already in the tree. Total 2972."
   }
  ],
  "history": [
@@ -21986,6 +22007,10 @@
   {
    "date": "2026-11-19 11:59",
    "total": 2969
+  },
+  {
+   "date": "2026-11-19 12:35",
+   "total": 2972
   }
  ],
  "next_week_ideas": [
