@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:50:37+05:30",
- "runs": 1168,
+ "updated": "2026-11-19T15:51:11+05:30",
+ "runs": 1169,
  "branches": [
   {
    "id": "platforms",
@@ -9687,6 +9687,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1157
+    },
+    {
+     "t": "In a home study of 83 children aged about 1 to 4 (Kragness et al., Developmental Psychology 2022), toddlers moved faster when the same music played at 150 rather than 90 or 120 BPM, for both favourite and unfamiliar songs, and their favourite song brought more smiling at every tempo and more dancing even at the slow speed, so a 'slow, faster, super fast' replay of a familiar Bro Bros chorus is a proven way to get toddlers moving.",
+     "src": "Developmental Psychology, 2022",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1169
+    },
+    {
+     "t": "PBS's early childhood guide (by teacher and researcher Shauna Tominey, who piloted the 'Red Light, Purple Light' self regulation programme) lists music games that build the 'stop, think, then act' skill: dance fast to fast music and slow to slow, freeze when it stops, follow a conductor who speeds up and slows down, and do the opposite move on a cue; each can be a whole Bro Bros song where Big Bro is the conductor and the music itself gives the cues.",
+     "src": "PBS KIDS for Parents, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1169
     }
    ]
   },
@@ -21984,12 +21998,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 13:48",
-   "note": "Earlier: older log entries summarised; runs up to Run 1089 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:48",
-   "note": "Run 1090 (posting times (Metricool YouTube best times for 20 to 26 Nov rechecked, PostFast local time detail; TRENDS skipped, nothing new in run 1087)): Metricool's YouTube model is unchanged (16:00 IST top on most days, 10:00 IST close on Thu and Fri), so both slots stay. New nuance from PostFast: in each channel's own local time 1 PM is the best Shorts hour (1.25x) with 10 AM and 9 PM next, and hour rankings only half repeat between random halves of the data, so hour effects are weak and our own Studio data must decide. Total 3040."
+   "date": "2026-11-19 13:50",
+   "note": "Earlier: older log entries summarised; runs up to Run 1090 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:50",
@@ -22302,13 +22312,13 @@
   {
    "date": "2026-11-19 15:50",
    "note": "Run 1168 (TRENDS (family film releases for the holiday weeks)): Nothing new: search returned only last year's Thanksgiving box office and spring 2026 releases; the holiday family film calendar was already covered. No leaves added. Total 3127."
+  },
+  {
+   "date": "2026-11-19 15:51",
+   "note": "Run 1169 (music craft (tempo play and stop and go song games)): New: toddlers aged 1 to 4 in a Developmental Psychology study danced faster to faster versions of the same song (90, 120, 150 BPM) and smiled more and kept dancing even at the slow tempo when the song was their favourite; PBS's self regulation games (fast then slow dancing, freeze, follow the conductor's speed, do the opposite) give us ready made song game structures. Total 3129."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 05:50",
-   "total": 2585
-  },
   {
    "date": "2026-11-19 05:51",
    "total": 2585
@@ -23504,6 +23514,10 @@
   {
    "date": "2026-11-19 15:50",
    "total": 3127
+  },
+  {
+   "date": "2026-11-19 15:51",
+   "total": 3129
   }
  ],
  "next_week_ideas": [
