@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:50:26+05:30",
- "runs": 1092,
+ "updated": "2026-11-19T13:51:14+05:30",
+ "runs": 1093,
  "branches": [
   {
    "id": "platforms",
@@ -12417,6 +12417,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1084
+    },
+    {
+     "t": "A YouGov survey for the US games industry (3,557 people, Oct 2026) found 71% of kids want their parents to play video games with them more often, up from 58% in 2025, rising to 81% among 5 to 8 year olds, and 60% of kids see family gaming as a holiday tradition, so a December Bro Bros song where a parent joins the Bros as 'player two' in a dance game hits a real wish.",
+     "src": "ESA and YouGov via PR Newswire, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1093
+    },
+    {
+     "t": "In the same survey 58% of US kids aged 5 to 17 plan to ask for a gaming gift this holiday (69% of boys, 46% of girls), led by accessories, in game currency and consoles, so game style visuals (level up banners, scoreboards, 'player 1, player 2') feel current in our December videos without naming any real game.",
+     "src": "ESA and YouGov via PR Newswire, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1093
+    },
+    {
+     "t": "A survey of 1,007 US parents (Jul 2026) found 29% say YouTube and TikTok creators drive their child's wish list and searches for bag charms jumped (Labubu charms +808%, Jellycat +790%, plush charms +349%), so a small, collectable Bro Bros charm or plush is the kind of merchandise kids now use to show what they love, for later.",
+     "src": "K12.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1093
     }
    ]
   },
@@ -21396,12 +21417,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 11:01",
-   "note": "Earlier: older log entries summarised; runs up to Run 1013 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 11:02",
-   "note": "Run 1014 (TRENDS (holiday 2026 songs and Thanksgiving formats rechecked)): Nothing usable: new holiday pop singles came from adult influencer duos and the viral 'Indian Christmas remix' trend relies on accent parody, which we skip; Thanksgiving clips were recipes and pranks. No leaves added. Total 2908."
+   "note": "Earlier: older log entries summarised; runs up to Run 1014 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:02",
@@ -21714,6 +21731,10 @@
   {
    "date": "2026-11-19 13:50",
    "note": "Run 1092 (our own results (Metricool) then YouTube Top 50 rechecked): Nothing new: Metricool's YouTube feed still stops at 16 Nov (2,150 subscribers, 858 views that day; already recorded today), and Tubefilter's charts for the weeks of 8 and 15 Nov were already in the tree. No leaves added. Total 3043."
+  },
+  {
+   "date": "2026-11-19 13:51",
+   "note": "Run 1093 (topics and seasons (TRENDS and YouTube movers skipped, nothing new in runs 1087 and 1092; holiday play with parents, kids identity charms)): ESA and YouGov's 16 Nov survey found 71% of US kids want parents to play games with them more (81% of 5 to 8 year olds), up from 58% last year, and 60% call family gaming a holiday tradition; a July parent survey found bag charms (Labubu, Jellycat, plush) and creators shaping kids' wish lists. Both back 'play with mum or dad' songs this December. Total 3046."
   }
  ],
  "history": [
@@ -22672,6 +22693,10 @@
   {
    "date": "2026-11-19 13:50",
    "total": 3043
+  },
+  {
+   "date": "2026-11-19 13:51",
+   "total": 3046
   }
  ],
  "next_week_ideas": [
