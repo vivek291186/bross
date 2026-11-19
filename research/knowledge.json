@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:44:57+05:30",
- "runs": 1373,
+ "updated": "2026-11-19T23:45:34+05:30",
+ "runs": 1374,
  "branches": [
   {
    "id": "platforms",
@@ -23749,11 +23749,7 @@
  "log": [
   {
    "date": "2026-11-19 19:44",
-   "note": "Earlier: older log entries summarised (runs up to 1294); details are in git history."
-  },
-  {
-   "date": "2026-11-19 19:44",
-   "note": "Run 1295 (rules and safety (UK Ofcom and COPPA recheck)): Small: Ofcom said on 24 Oct 2026 that children's exposure to harmful content had not fallen in the nine months after its child safety duties began, which keeps pressure on platforms' feeds for minors; the UK package due from spring 2027 also bans livestreaming by under 16s on every platform. The Disney COPPA penalty and the UK under 16 ban were already in the tree. Total 3277."
+   "note": "Earlier: older log entries summarised (runs up to 1295); details are in git history."
   },
   {
    "date": "2026-11-19 19:45",
@@ -24066,13 +24062,13 @@
   {
    "date": "2026-11-19 23:44",
    "note": "Run 1373 (visual craft recheck (Blender, thumbnail studies)): Nothing new: Blender 5.1 and 5.2 features, the 507,478 video thumbnail study, faces in thumbnails data and 1of10's 2026 thumbnail trends were already in the tree. No leaves added. Chrome not available. Total 3379."
+  },
+  {
+   "date": "2026-11-19 23:45",
+   "note": "Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)): Nothing new: 'turn into a cute little X', Let's Groove and the December holiday calendars were already in the tree; the other memes (squirrel in a tornado, nuggets, Cat in the Hat hoax) are tied to films, adult songs or scary hoaxes and are not for us. No leaves added. Chrome not available. Total 3379."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:00",
-   "total": 3001
-  },
   {
    "date": "2026-11-19 13:01",
    "total": 3004
@@ -25267,6 +25263,10 @@
   },
   {
    "date": "2026-11-19 23:44",
+   "total": 3379
+  },
+  {
+   "date": "2026-11-19 23:45",
    "total": 3379
   }
  ],
