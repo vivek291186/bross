@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:52:25+05:30",
- "runs": 1036,
+ "updated": "2026-11-19T11:53:00+05:30",
+ "runs": 1037,
  "branches": [
   {
    "id": "platforms",
@@ -10702,6 +10702,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1025
+    },
+    {
+     "t": "Kenya's free kids channel Akili TV runs a weekday 'Read Along Hour' (5 to 6 pm, 2026) that adds grade level same language subtitles to cartoons and shows an on screen panel with the number of words read and three tricky spellings, a model for Bro Bros lyric videos: big highlighted lyrics plus one 'word of the song' card at the end.",
+     "src": "The Star Kenya, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1037
+    },
+    {
+     "t": "Parents in markets with low reading levels value subtitles as reading practice (in Kenya about half of Grade 6 public school pupils cannot read a Grade 3 English passage), so sing along lyrics on screen are not only an accessibility extra but a selling point for parents in Africa and South Asia.",
+     "src": "The Star Kenya, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1037
+    },
+    {
+     "t": "The UK Nuffield Foundation funded a 2023 to 2025 study using eye tracking and a six week trial with 132 children to test whether same language subtitles on children's TV improve reading, a sign that on screen lyrics for kids are now a serious research topic; its final report came out in late November 2025.",
+     "src": "Nuffield Foundation, Nov 2025",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1037
     }
    ]
   },
@@ -20788,11 +20809,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 957 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:50",
-   "note": "Run 958 (rules and monetisation (AI disclosure for animation, Feb 2027 Partner rules, AIR 7.55M kids case rechecked)): Nothing new: the animation exemption from AI disclosure, the 1 Feb 2027 Partner Program changes (8,000 watch hours, 10M Shorts views for pool pay, activity rule) and AIR's 7.55M kids channel case were all already in the tree; no rule changes were dated October to December 2026. No leaves added. Total 2801."
+   "note": "Earlier runs summarised: all rounds through Run 958 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:50",
@@ -21105,6 +21122,10 @@
   {
    "date": "2026-11-19 11:52",
    "note": "Run 1036 (music craft (iTunes kids chart and Suno lyric editing)): The current iTunes kids top 25 is led by Danny Go! with five movement songs, including its new Christmas 'Candy Cane Crush!' and Thanksgiving pie and turkey wobble songs, while faith based kids songs released in 2026 also chart high. Suno's lyric editor lets a single line be rewritten in place to fit a four count bar. Total 2956."
+  },
+  {
+   "date": "2026-11-19 11:53",
+   "note": "Run 1037 (visual craft (same language subtitles and reading)): Kenya's free kids channel Akili TV runs a weekday 'Read Along Hour' with same language subtitles plus an on screen box of words read and tricky spellings, part of a fast growing push to use subtitles for reading. A UK Nuffield project (2023 to 2025, 132 children in a six week trial) tested whether subtitles on children's TV improve reading. Total 2959."
   }
  ],
  "history": [
@@ -21839,6 +21860,10 @@
   {
    "date": "2026-11-19 11:52",
    "total": 2956
+  },
+  {
+   "date": "2026-11-19 11:53",
+   "total": 2959
   }
  ],
  "next_week_ideas": [
