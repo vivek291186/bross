@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:00:56+05:30",
- "runs": 1193,
+ "updated": "2026-11-19T16:01:24+05:30",
+ "runs": 1194,
  "branches": [
   {
    "id": "platforms",
@@ -11444,6 +11444,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1182
+    },
+    {
+     "t": "In an eye tracking study of 33 children aged 4 to 5 (Journal of Eye Movement Research, Dec 2024), animated details unrelated to the story drew their eyes away from the key content and lowered comprehension, while animations of the things the story was about did no harm compared with still pictures, so in Bro Bros scenes only the objects the lyric names should move and background extras (birds, clouds, blinking lights) should stay still or very slow.",
+     "src": "Journal of Eye Movement Research, Dec 2024",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1194
     }
    ]
   },
@@ -22138,12 +22145,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 14:51",
-   "note": "Earlier: older log entries summarised; runs up to Run 1114 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:51",
-   "note": "Run 1115 (rules (EU Kids Act and Indonesia PP Tunas rechecked)): Nothing new: the 10 Nov EU Commission push for the Kids Act (no accounts under 13, one hour mini accounts at 13 and 14, consultation to 26 Nov) and Indonesia's under 16 YouTube account rule were already in the tree. No leaves added. Total 3084."
+   "date": "2026-11-19 14:52",
+   "note": "Earlier: older log entries summarised; runs up to Run 1115 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:52",
@@ -22456,13 +22459,13 @@
   {
    "date": "2026-11-19 16:00",
    "note": "Run 1193 (music craft (sound words in lyrics)): New: a Developmental Science study of caregiver and child talk from 14 to 54 months found sound words like moo, beep and splash are most common in early child directed speech and in children's first words, and children learn them more easily than ordinary words, so every Bro Bros chorus should hang its target word on a sound word (the car goes beep beep, the frog goes ribbit). Total 3149."
+  },
+  {
+   "date": "2026-11-19 16:01",
+   "note": "Run 1194 (visual craft (background animation that distracts)): New: an eye tracking study of 33 children aged 4 to 5 (Journal of Eye Movement Research, Dec 2024) found that animations unrelated to the story pulled their eyes away and lowered understanding, while animations tied to the story did no harm, so Bro Bros backgrounds should stay calm and only the things the lyric names should move. Total 3150."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:04",
-   "total": 2632
-  },
   {
    "date": "2026-11-19 07:05",
    "total": 2632
@@ -23658,6 +23661,10 @@
   {
    "date": "2026-11-19 16:00",
    "total": 3149
+  },
+  {
+   "date": "2026-11-19 16:01",
+   "total": 3150
   }
  ],
  "next_week_ideas": [
