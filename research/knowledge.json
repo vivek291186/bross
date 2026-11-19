@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:03:50+05:30",
- "runs": 970,
+ "updated": "2026-11-19T10:04:27+05:30",
+ "runs": 971,
  "branches": [
   {
    "id": "platforms",
@@ -2085,6 +2085,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 966
+    },
+    {
+     "t": "In AIR's PlayToys case the YouTube Kids review took about four weeks: the issue was flagged to YouTube on 20 May 2025, passed to the YouTube Kids team about a week later, and the channel was searchable in the app and shown as a suggestion by 18 June.",
+     "src": "AIR Media-Tech, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 971
     }
    ]
   },
@@ -15973,6 +15980,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 947
+    },
+    {
+     "t": "AIR Media-Tech's YouTube Kids access service accepts channels from 1,500 subscribers; Bro Bros has about 2,150, so we already qualify to have an official YouTube partner submit us for YouTube Kids review, which creators cannot do alone.",
+     "src": "AIR Media-Tech, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 971
     }
    ]
   },
@@ -19892,11 +19906,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 891 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:03",
-   "note": "Run 892 (TRENDS (pet reaction format behind this week's trending family trailer)): Pixar's 'Gatto' trailer is on this week's US trending list; its marketing used 'cats react to the trailer' videos in which real cats watch on a laptop and get distracted, and viewers copied it with their own pets. Reaction videos starring an animal are a kid safe format we can copy with our own animated puppy or kitten reacting to a new Bro Bros song. Trend bank: dropped Soft launch new friend (built on a couples audio that is past its peak). Total 2628."
+   "note": "Earlier runs summarised: all rounds through Run 892 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:03",
@@ -20209,6 +20219,10 @@
   {
    "date": "2026-11-19 10:03",
    "note": "Run 970 (visual craft (animation pacing research rechecked)): Thin: the Developmental Science meta analysis (pace matters less than impossible fantasy events) was already in the tree. New small support: a University of Vermont study of 41 children found a fast cut version of a 9.5 minute cartoon had no effect on typical children's attention and only a small non significant effect for children with ADHD. Total 2828."
+  },
+  {
+   "date": "2026-11-19 10:04",
+   "note": "Run 971 (YouTube Kids app access (own results skipped, Metricool still ends 16 Nov)): Metricool's YouTube feed still ends 16 Nov, so own results were skipped. New: AIR's YouTube Kids access service accepts channels from 1,500 subscribers, and Bro Bros already has about 2,150, so we qualify to ask an official partner to submit us; their PlayToys case went from flagging the issue (20 May) to being searchable in the app (18 Jun) in about four weeks. Total 2830."
   }
  ],
  "history": [
@@ -20679,6 +20693,10 @@
   {
    "date": "2026-11-19 10:03",
    "total": 2828
+  },
+  {
+   "date": "2026-11-19 10:04",
+   "total": 2830
   }
  ],
  "next_week_ideas": [
