@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:41:59+05:30",
- "runs": 1353,
+ "updated": "2026-11-19T22:42:25+05:30",
+ "runs": 1354,
  "branches": [
   {
    "id": "platforms",
@@ -4556,6 +4556,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1346
+    },
+    {
+     "t": "Metricool's Instagram best times for 20 to 26 Nov 2026 put Friday 10:00 IST highest of the week (about 6.7K), with Wednesday and Thursday 10:00 close behind and a second weekday rise at 18:00 IST; Saturday and Sunday run at about half, so the 10:00 Reel slot stays right and Friday morning is the best Reel of the week.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1354
     }
    ]
   },
@@ -23609,11 +23616,7 @@
  "log": [
   {
    "date": "2026-11-19 19:03",
-   "note": "Earlier: older log entries summarised (runs up to 1274); details are in git history."
-  },
-  {
-   "date": "2026-11-19 19:03",
-   "note": "Run 1275 (TRENDS (K pop challenges)): New: a Korean comeback challenge passed 100M views with a super fast switch section plus one cute repeated part, and a trot star's point move challenge crossed generations on Instagram audio; added a 'fast switch illusion' entry to the trend bank using Blender cuts. Total 3266."
+   "note": "Earlier: older log entries summarised (runs up to 1275); details are in git history."
   },
   {
    "date": "2026-11-19 19:04",
@@ -23926,13 +23929,13 @@
   {
    "date": "2026-11-19 22:41",
    "note": "Run 1353 (competitor deep dive (Pinkfong and ChuChu TV news)): Mostly covered; added Pinkfong's Japan December pop ups and that its Bebefinn sibling products lead its toy sales. ChuChu TV's Netflix deal and North American agent were already in the tree. Chrome not available. Total 3359."
+  },
+  {
+   "date": "2026-11-19 22:42",
+   "note": "Run 1354 (posting times recheck (TRENDS skipped as nothing new two rounds ago)): Metricool Instagram best times for 20 to 26 Nov peak at 10:00 IST with Friday strongest; the queue still runs 10:00 and 16:00 IST to 22 Nov 16:05 with nothing after. Big posting time studies (Buffer, PostFast, Bytecap) were already in the tree. Posting plan unchanged. Chrome not available. Total 3360."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:41",
-   "total": 2982
-  },
   {
    "date": "2026-11-19 12:42",
    "total": 2982
@@ -25128,6 +25131,10 @@
   {
    "date": "2026-11-19 22:41",
    "total": 3359
+  },
+  {
+   "date": "2026-11-19 22:42",
+   "total": 3360
   }
  ],
  "next_week_ideas": [
