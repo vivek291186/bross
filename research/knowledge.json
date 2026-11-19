@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:53:41+05:30",
- "runs": 1399,
+ "updated": "2026-11-20T02:41:36+05:30",
+ "runs": 1401,
  "branches": [
   {
    "id": "platforms",
@@ -24079,6 +24079,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1396
+    },
+    {
+     "t": "A new 'AI Christmas dance' trend started in mid November 2026 on TikTok and moved to Instagram: one photo of a person becomes a 5 second vertical clip of them dancing by a Christmas tree in a Santa hat and jumper, and at least 26 accounts posted how to tutorials within four days, mostly pointing to CapCut templates.",
+     "src": "felo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1401
+    },
+    {
+     "t": "The 'AI Christmas dance' clips all use the same tiny routine (gentle side to side sway, a clap above the head, a small turn) that reads like a real phone video, so a short, easy, repeatable move is what spreads, not a hard choreography.",
+     "src": "felo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1401
+    },
+    {
+     "t": "A 'lately on my SD card' Reel format is trending in mid November 2026: a fast dump of many recent one second clips from the camera roll over original audio, which suits a weekly 'best moments of this week's 14 songs' montage for Bro Bros.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1401
     }
    ]
   }
@@ -24106,15 +24127,7 @@
  "log": [
   {
    "date": "2026-11-19 20:46",
-   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
-  },
-  {
-   "date": "2026-11-19 20:47",
-   "note": "Run 1321 (TRENDS (teacher circle dances, baby dance events)): Small: Later's 13 Nov Reels list (five stages, locked camera outfit swap, appointment timestamps) was already in the tree; new were a Telangana teacher's circle folk dance with her pupils (about 5M views), proof that a grown up dancing in a ring with kids travels, and Paris's November kids dance festival with shows for babies from 3 months and a family dance ball. Total 3313."
-  },
-  {
-   "date": "2026-11-19 20:48",
-   "note": "Run 1322 (YouTube algorithm (originality and Shorts reuse)): Small: Beaupre's Sep 2026 interview points (subscribers click 10% or less of uploads, Home weighs Home performance only) were already in the tree; new is that Shorts revenue sharing counts only engaged views and excludes re uploads and compilations without anything new added, so a 'best of' Short stitched from our older Shorts may earn nothing. Total 3314."
+   "note": "Summary of earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 20:49",
@@ -24423,6 +24436,14 @@
   {
    "date": "2026-11-20 01:53",
    "note": "Run 1399 (TRENDS (Christmas toys and films)): The December family films (Cat in the Hat, Wildwood, a humpback whale film, Angry Birds) were already in the tree; added that the toys kids saw creators try last holiday were click, squish and blind capsule surprise toys, and how a brand free 'what's inside?' reveal song can use that. Chrome not available. Total 3430."
+  },
+  {
+   "date": "2026-11-20 02:41",
+   "note": "Run 1400 (competitor deep dive (Pancake Manor, Jack Hartmann, Cartoon Clubhouse recheck)): Nothing new: Pancake Manor's monthly uploads and long tail, Cartoon Clubhouse's flat subscribers and karaoke compilations were already in the tree; Social Blade and two vidIQ pages could not be read. No leaves added. Chrome not available. Total 3430."
+  },
+  {
+   "date": "2026-11-20 02:41",
+   "note": "Run 1401 (TRENDS (mid November Reels formats)): Added the new 'AI Christmas dance' photo to dance clip trend (sway, clap overhead, small spin by a tree) and the 'lately on my SD card' camera roll dump. Other weekly formats (it's time switch, add to cart, no no no yes, glow up switch, shoulder dance) were already in the tree. Added 'Christmas tree sway' to the trend bank and dropped the weaker circle dance. Chrome not available. Total 3433."
   }
  ],
  "history": [
@@ -25293,6 +25314,14 @@
   {
    "date": "2026-11-20 01:53",
    "total": 3430
+  },
+  {
+   "date": "2026-11-20 02:41",
+   "total": 3430
+  },
+  {
+   "date": "2026-11-20 02:41",
+   "total": 3433
   }
  ],
  "next_week_ideas": [
@@ -25361,6 +25390,12 @@
    "use": "A freeze dance Short with our own original song: the Bros dance, the music stops and a big number appears (1, 2 or 3), and both Bros snap into that pose: 1 = arms up in a star, 2 = hands on hips with a proud chin up, 3 = one hand waving and one hand on the heart. Repeat with numbers in a new order each chorus so kids shout the number and copy. Standing, in place, no floor moves."
   },
   {
+   "name": "Christmas tree sway",
+   "where": "TikTok and Instagram Reels (AI Christmas dance, mid Nov 2026)",
+   "status": "rising",
+   "use": "A 5 to 8 second vertical Short with our own jingly Christmas chorus: both Bros in Santa hats stand in front of our 3D Christmas tree and do the tiny routine three times: sway left and right for four beats, clap once above the head, then one small turn in place. Meshy prompt: standing in place, gentle side to side sway, one overhead clap, a slow 360 degree turn, no floor moves. End with the caption 'Your turn! Sway, clap, spin!' so families copy it."
+  },
+  {
    "name": "Helper stuck in the TV",
    "where": "YouTube on the TV screen and Shorts, 1 to 24 Dec (seasonal, returns every year)",
    "status": "seasonal",
@@ -25425,12 +25460,6 @@
    "where": "TikTok, Reels, YouTube Shorts (pet duet audio template)",
    "status": "rising",
    "use": "A 15 second Short with our own simple tune: the big brother sings one short line, the Bros' cartoon puppy answers with four quick barks exactly on the beat, the little brother joins and the puppy answers faster, then all three bounce together on the last note. Meshy prompt for the Bros: standing in place, sing pose with one hand on chest, then two small bounces and a point at the puppy. Caption 'Can your pet sing back?'."
-  },
-  {
-   "name": "Circle dance with the teacher",
-   "where": "Instagram Reels, YouTube Shorts (classroom and family clips)",
-   "status": "evergreen",
-   "use": "A 20 second Short with our own folk style clapping song: the Bros, two friends and a cheerful teacher character stand in a ring holding hands, step in to the middle on 'in', step back on 'out', let go and clap twice, then turn in place and hold hands again. Meshy prompt: standing in a circle, two steps forward, two steps back, two claps, turn around in place. Caption 'Teacher joins the dance!'."
   },
   {
    "name": "Perfect versus real Christmas",
