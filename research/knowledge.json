@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:49:57+05:30",
- "runs": 1064,
+ "updated": "2026-11-19T12:50:34+05:30",
+ "runs": 1065,
  "branches": [
   {
    "id": "platforms",
@@ -21027,6 +21027,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1062
+    },
+    {
+     "t": "A 'Let's go from X to Y' word ladder game is trending on TikTok in mid November 2026: change one letter at a time so every step is a real word until you reach the target, an easy spelling game that a Bro Bros song can turn into a sing along (cat, cot, dot, dog).",
+     "src": "HeyOrca, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1065
+    },
+    {
+     "t": "'POV: you're the villain but...' clips are also trending: a big dramatic villain reveal undercut by a harmless mishap such as a chair tipping over, a slapstick shape that suits a Bro Bros Short where the big brother poses as a scary snow monster and his own hat falls over his eyes.",
+     "src": "HeyOrca, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1065
     }
    ]
   }
@@ -21053,12 +21067,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:38",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 985 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:39",
-   "note": "Run 986 (Shorts and Reels algorithm (Instagram teen 13+ default, Reels share of time)): Instagram's 13+ default for under 18 accounts went global in April 2026 and filters strong language, risky stunts and harmful behaviour out of Reels, Explore and search for teens, and teens cannot follow accounts that keep posting such content. Reels take about half of all Instagram time and over 700,000 Reels are sent in DMs every minute. Total 2860."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 986 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:40",
@@ -21371,6 +21381,10 @@
   {
    "date": "2026-11-19 12:49",
    "note": "Run 1064 (competitor deep dive (CoComelon spin offs, BabyBus)): CoComelon's Sanrio crossover runs on its own YouTube channel with 3 minute 2D pastel episodes every Saturday since 24 Jan 2026, mixing five Japanese nursery rhymes and a J pop style remake, with the songs on streaming services a day before the episodes. The Disney+ move in 2027, the film and The Melon Patch were already in the tree. Total 2994."
+  },
+  {
+   "date": "2026-11-19 12:50",
+   "note": "Run 1065 (TRENDS (CapCut and TikTok templates, week of 18 Nov)): HeyOrca's 18 Nov list has a 'Let's go from X to Y' word ladder game (change one letter at a time, every step a real word), a perfect learning format for us, and a slapstick 'POV: you're the villain but...' reveal that ends in a harmless mishap. Added a word ladder song game to the trend bank. Total 2996."
   }
  ],
  "history": [
@@ -22217,6 +22231,10 @@
   {
    "date": "2026-11-19 12:49",
    "total": 2994
+  },
+  {
+   "date": "2026-11-19 12:50",
+   "total": 2996
   }
  ],
  "next_week_ideas": [
@@ -22278,6 +22296,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Word ladder to the beat",
+   "where": "TikTok, Reels, Shorts",
+   "status": "rising",
+   "use": "Our own spelling song game: the brothers start at CAT and must reach DOG, changing one letter per beat (CAT, COT, DOT, DOG); each new word pops up as big letters and both do a jump in place when the word is right. 20 to 30 seconds, a new ladder every week (SUN to FUN to RUN), original music only."
+  },
   {
    "name": "Deep sea diver dance",
    "where": "TikTok, Reels, Shorts",
@@ -22391,12 +22415,6 @@
    "where": "Instagram Reels (stomp or jump transition used for reveals through 2026, Nuelink); evergreen",
    "status": "evergreen",
    "use": "Reveal Short with our own song: Little Bro stomps once on the beat and the room switches from plain to decorated (or a grey snowman turns colourful); three stomps, three reveals, last stomp reveals Big Bro dancing. Meshy prompt: a boy stands in place, lifts one knee high and stomps the foot down firmly, then throws both arms up in a cheer."
-  },
-  {
-   "name": "Bossy talking veggies",
-   "where": "TikTok and Reels (AI voiced food that scolds viewers with cooking and storage tips, Know Your Meme, 2026, still circulating)",
-   "status": "rising",
-   "use": "20 second Short with our own song: a carrot, a tomato and a broccoli on the kitchen counter pop up one per beat and each sings one friendly bossy line ('Wash me first!', 'Eat me crunchy!', 'Keep me cold!') while the Bros nod and copy the action. Original veggie faces only. Meshy prompt: a boy stands in place, points forward with one hand, nods twice, then gives a thumbs up."
   }
  ],
  "posting_plan": {
