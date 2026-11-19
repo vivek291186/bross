@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:42:01+05:30",
- "runs": 1219,
+ "updated": "2026-11-19T16:42:35+05:30",
+ "runs": 1220,
  "branches": [
   {
    "id": "platforms",
@@ -15196,6 +15196,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1196
+    },
+    {
+     "t": "Google's Johannesburg briefing (Mar 2026) put YouTube adult mobile reach at about 35M in Nigeria, 25M in South Africa and 12M in Kenya, with watch time growing about 15%, 20% and 30% a year; these English speaking markets are among the fastest growing for YouTube and need no dubbing for Bro Bros.",
+     "src": "Webfluential, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1220
+    },
+    {
+     "t": "Connected TV YouTube reach is already about 8M in South Africa and 3 to 3.5M each in Nigeria and Kenya (Sep 2025), so in Africa most kids still watch on a parent's phone, which favours bright, simple, phone readable thumbnails and data light Shorts.",
+     "src": "Webfluential, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1220
+    },
+    {
+     "t": "In Kaspersky's measure of children's app time (Nov 2020 to Apr 2021), Kenyan children spent more than half of their popular app time on YouTube, the highest share of any country listed, an older but strong sign that East African kids are heavy YouTube users.",
+     "src": "Statista / Kaspersky, 2021",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1220
     }
    ]
   },
@@ -22279,11 +22300,7 @@
  "log": [
   {
    "date": "2026-11-19 15:36",
-   "note": "Earlier: older log entries summarised; runs up to Run 1140 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:36",
-   "note": "Run 1141 (TRENDS (Know Your Meme, Dexerto and classroom dance searches)): Nothing new for this week: results were older memes (Hound Dog remix, bedtime stacking, the Great Meme Reset) and older classroom dance clips (Zep, Magumba, veggie dance) already known or out of date. No leaves added. Total 3096."
+   "note": "Earlier: older log entries summarised; runs up to Run 1141 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:36",
@@ -22596,13 +22613,13 @@
   {
    "date": "2026-11-19 16:42",
    "note": "Run 1219 (TRENDS (dance challenges and Later's 13 Nov Reels list)): Nothing new: Later's 13 Nov formats (5 stages of being, locked camera outfit change, appointment timestamps), the Ramalama feet up reveal and the Amapiano family dances were already in the tree; the father and son Pantsula kitchen dance found is from Nov 2025. No leaves added. Total 3169."
+  },
+  {
+   "date": "2026-11-19 16:42",
+   "note": "Run 1220 (global markets (Sub-Saharan Africa YouTube growth)): New: Google's Mar 2026 Johannesburg figures show YouTube watch time growing 30% a year in Kenya, 20% in South Africa and 15% in Nigeria (adult mobile reach 35M Nigeria, 25M South Africa, 12M Kenya), and an older Kaspersky measure found Kenyan children spend more than half of their popular app time on YouTube, so English language Africa is a fast growing, English first market for Bro Bros. Total 3172."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:54",
-   "total": 2699
-  },
   {
    "date": "2026-11-19 07:55",
    "total": 2702
@@ -23798,6 +23815,10 @@
   {
    "date": "2026-11-19 16:42",
    "total": 3169
+  },
+  {
+   "date": "2026-11-19 16:42",
+   "total": 3172
   }
  ],
  "next_week_ideas": [
