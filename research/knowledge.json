@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:44:05+05:30",
- "runs": 1153,
+ "updated": "2026-11-19T15:44:37+05:30",
+ "runs": 1154,
  "branches": [
   {
    "id": "platforms",
@@ -4255,6 +4255,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1130
+    },
+    {
+     "t": "YouTube's Shorts feed limit, which parents can set to zero since April 2026, applies only to the phone and tablet apps; on TVs and computers the Shorts shelf still shows, so in homes that switch Shorts off on the phone our Shorts can still be found on the living room TV, where framing the action in the centre of the vertical frame keeps it readable.",
+     "src": "Digital Music News, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1154
     }
    ]
   },
@@ -21907,12 +21914,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 13:01",
-   "note": "Earlier: older log entries summarised; runs up to Run 1074 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:01",
-   "note": "Run 1075 (global markets (Central Asia and Ethiopia gaps)): Filled two market gaps: D Billions, a Kyrgyzstan rooted kids music band, built about 56M subscribers and 55B views in five years from 500+ original songs (4 past a billion) in 12 languages with an 80 person team, moving from live performers to 2D and 3D animation; in Ethiopia a 60 second AI made caterpillar song from a learning app went viral on TikTok (about 4.3M views, 53K dubs). Total 3004."
+   "date": "2026-11-19 13:02",
+   "note": "Earlier: older log entries summarised; runs up to Run 1075 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:02",
@@ -22225,13 +22228,13 @@
   {
    "date": "2026-11-19 15:44",
    "note": "Run 1153 (TRENDS (Daily Dot and parent trends)): Nothing new for this week: results were older parent tricks (the 'Jessica' name shout, from April 2026) and the 2025 'melting' face meme, which does not suit preschoolers. No leaves added. Total 3116."
+  },
+  {
+   "date": "2026-11-19 15:44",
+   "note": "Run 1154 (YouTube algorithm (Shorts limits on TV and Precisify kids viewing rechecked)): Mostly known (Precisify's TV and co viewing numbers, the Shorts timer at zero). One addition: the zero minute Shorts limit only works in the phone and tablet apps, so on TVs and computers kids in those homes still see Shorts, another reason to post our Shorts as TV friendly 16:9 safe compositions too. Total 3117."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:46",
-   "total": 2065
-  },
   {
    "date": "2026-11-16 17:00",
    "total": 2087
@@ -23427,6 +23430,10 @@
   {
    "date": "2026-11-19 15:44",
    "total": 3116
+  },
+  {
+   "date": "2026-11-19 15:44",
+   "total": 3117
   }
  ],
  "next_week_ideas": [
