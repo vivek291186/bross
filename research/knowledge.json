@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:50:09+05:30",
- "runs": 1395,
+ "updated": "2026-11-20T01:50:59+05:30",
+ "runs": 1396,
  "branches": [
   {
    "id": "platforms",
@@ -10492,6 +10492,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1385
+    },
+    {
+     "t": "A 2025 holiday mashup ('Pretty Wonderland') put the viral hook of TikTok's top global song of 2025 (a 1962 ballad used in over 28M videos and 68B views) under a classic winter melody and released it as the season began; reusing our own most loved hook inside a new Christmas song is the same move, with no borrowed music.",
+     "src": "uDiscover Music, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1396
     }
    ]
   },
@@ -24051,6 +24058,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1393
+    },
+    {
+     "t": "On 1 Nov 2026 the number one video on the US trending list was a Halloween songs playlist, and 6 of the top 20 trending videos had been uploaded in the previous 24 hours, so seasonal song playlists and fresh uploads are what surface around a holiday; a Bro Bros Christmas playlist video should be live before 1 Dec and refreshed with new songs through the month.",
+     "src": "mean.ceo (CreatorDB data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1396
     }
    ]
   }
@@ -24077,12 +24091,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 20:43",
-   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
-  },
-  {
    "date": "2026-11-19 20:44",
-   "note": "Run 1317 (competitor deep dive (Super Simple sub brands, a stalled nursery channel)): Super Simple's 'I'm a Baby Fish' with its new Finny Babies characters reached about 13M in four months, so even the leader is building new character sub brands; Little Baby Songs (1.02M subscribers) now gets only 5K to 9K views a month on remixes and live compilations, proof that subscribers mean nothing without fresh recommendable songs. Total 3306."
+   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 20:45",
@@ -24395,6 +24405,10 @@
   {
    "date": "2026-11-20 01:50",
    "note": "Run 1395 (Shorts and Reels algorithm (Instagram tools)): Most of Instagram's 2026 Reels guidance (length bands, auto captions, Features, Edits) was already in the tree; added the align tool for same spot transitions and the Reels trends destination with watch time insights. One design update page could not be read. Chrome not available. Total 3426."
+  },
+  {
+   "date": "2026-11-20 01:50",
+   "note": "Run 1396 (TRENDS (holiday songs and trending lists)): Added that a Halloween songs playlist led the US trending list on 1 Nov with a third of the top 20 uploaded in the past day, and that last year's top viral hook was successfully mashed into a winter classic at the start of the season. An article about an 80s Christmas hit returning could not be read. Chrome not available. Total 3428."
   }
  ],
  "history": [
@@ -25249,6 +25263,10 @@
   {
    "date": "2026-11-20 01:50",
    "total": 3426
+  },
+  {
+   "date": "2026-11-20 01:50",
+   "total": 3428
   }
  ],
  "next_week_ideas": [
