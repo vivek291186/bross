@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:35:57+05:30",
- "runs": 1345,
+ "updated": "2026-11-19T22:37:00+05:30",
+ "runs": 1346,
  "branches": [
   {
    "id": "platforms",
@@ -4535,6 +4535,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1342
+    },
+    {
+     "t": "YouTube says no single metric ranks a video and signal weights change by device and moment: time spent tends to count more on the TV app, while likes and dislikes count more on phones, so our long compilations should be built to hold the living room screen and our Shorts to earn quick reactions on phones.",
+     "src": "ppc.land on Creator Insider, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1346
+    },
+    {
+     "t": "YouTube once tested capping how many times one video is recommended to the same viewer at eight, after finding a single upload had been shown to one person 19 times without a click; repeated unclicked impressions are therefore wasted, which is another reason to refresh a weak thumbnail rather than wait.",
+     "src": "ppc.land on Creator Insider, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1346
+    },
+    {
+     "t": "YouTube's growth lead advises keeping one channel when the same viewers would enjoy both kinds of video and opening a second channel only when the promise to viewers truly differs, so Bro Bros dance songs, holiday songs and learning songs belong on one channel, while a future dubbed language would need its own audio track rather than a new channel.",
+     "src": "ppc.land on Creator Insider, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1346
     }
    ]
   },
@@ -23573,12 +23594,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:52",
-   "note": "Earlier: older log entries summarised (runs up to 1266); details are in git history."
-  },
-  {
    "date": "2026-11-19 18:53",
-   "note": "Run 1267 (other platforms (Netflix top 10, taken in place of markets because the run formula never reaches this focus)): Small: Doozie's Doghouse, Danny Go!, Sing and A Dog's Perfect Christmas were already in the tree; added the animated Grinch still charting in week 9 and the weak English Christmas film slate versus a strong Swedish one. Total 3259."
+   "note": "Earlier: older log entries summarised (runs up to 1267); details are in git history."
   },
   {
    "date": "2026-11-19 18:54",
@@ -23891,13 +23908,13 @@
   {
    "date": "2026-11-19 22:35",
    "note": "Run 1345 (TRENDS (November TikTok formats)): New formats this week are 'costume loading' (freeze, then cut to the costume on the beat), AI versus handmade shoulder bounce jokes, a planned versus real carousel, a call and response 'Toe Shock' foot tap chain (weak signal) and the sketch to real reveal; added two to the trend bank and dropped the fading Fast switch illusion and Slow rise squish. Chrome not available. Total 3354."
+  },
+  {
+   "date": "2026-11-19 22:37",
+   "note": "Run 1346 (YouTube algorithm (Creator Insider recheck)): Mostly covered already; added that signal weights differ by device (time on TV, likes on phones), a tested cap of eight recommendations per viewer per video, and the one channel versus two channels rule. Shorts 30 day freshness and in depth claims were old or unsourced. Chrome not available. Total 3357."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:57",
-   "total": 2969
-  },
   {
    "date": "2026-11-19 11:58",
    "total": 2969
@@ -25093,6 +25110,10 @@
   {
    "date": "2026-11-19 22:35",
    "total": 3354
+  },
+  {
+   "date": "2026-11-19 22:37",
+   "total": 3357
   }
  ],
  "next_week_ideas": [
