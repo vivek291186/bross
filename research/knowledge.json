@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:43:12+05:30",
- "runs": 1316,
+ "updated": "2026-11-19T20:44:32+05:30",
+ "runs": 1317,
  "branches": [
   {
    "id": "platforms",
@@ -8133,6 +8133,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1305
+    },
+    {
+     "t": "Super Simple Songs' 2026 breakout list includes 'I'm a Baby Fish', a sing along with its new Finny Babies characters (about 13M views in four months, 1.9x its median), so even the category leader keeps launching new baby character sub brands inside its main channel; a Bro Bros 'baby animal friends' mini cast could do the same.",
+     "src": "outlierkit.com, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1317
+    },
+    {
+     "t": "Little Baby Songs still shows 1.02M subscribers but gained only about 5K to 9K views a month through 2026 (about 230 a day), with its newest upload at 725 views after four months and its 'best' recent items being remixes and live compilations, a warning that a big subscriber count is worthless once a kids channel stops releasing fresh, recommendable originals.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1317
+    },
+    {
+     "t": "Super Simple Play with Caitie posted 'Let's visit a Winter Village!' on 17 Nov 2026 and it ran at about 2x the channel's usual pace in its first day and a half (about 28K views, 280 views an hour), a fresh sign that Christmas themed uploads already outperform in the third week of November.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1317
     }
    ]
   },
@@ -23216,12 +23237,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:02",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:03",
-   "note": "Run 1238 (algorithm and production tools (Test and Compare, Meshy updates)): Nothing new: YouTube Test and Compare rules, Meshy 7.1's Ultra 2K and 4K modes and the unchanged Meshy text to motion changelog were already in the tree. No leaves added. Total 3184."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:35",
@@ -23534,13 +23551,13 @@
   {
    "date": "2026-11-19 20:43",
    "note": "Run 1316 (global markets (dubbing use and Africa's child population)): Perso's 2026 dubbing data puts Spanish, Portuguese and French as the most used targets after English; SV2's dubbing case grew views 1.7x in 18 months and a video launched with nine audio tracks on day one passed 11M in 90 days; Africa has about 600M children under 15, with Nigeria (96M) far ahead. Total 3303."
+  },
+  {
+   "date": "2026-11-19 20:44",
+   "note": "Run 1317 (competitor deep dive (Super Simple sub brands, a stalled nursery channel)): Super Simple's 'I'm a Baby Fish' with its new Finny Babies characters reached about 13M in four months, so even the leader is building new character sub brands; Little Baby Songs (1.02M subscribers) now gets only 5K to 9K views a month on remixes and live compilations, proof that subscribers mean nothing without fresh recommendable songs. Total 3306."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:03",
-   "total": 2911
-  },
   {
    "date": "2026-11-19 11:03",
    "total": 2914
@@ -24736,6 +24753,10 @@
   {
    "date": "2026-11-19 20:43",
    "total": 3303
+  },
+  {
+   "date": "2026-11-19 20:44",
+   "total": 3306
   }
  ],
  "next_week_ideas": [
