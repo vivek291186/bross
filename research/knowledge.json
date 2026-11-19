@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:47:50+05:30",
- "runs": 955,
+ "updated": "2026-11-19T09:48:39+05:30",
+ "runs": 956,
  "branches": [
   {
    "id": "platforms",
@@ -6775,6 +6775,41 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 955
+    },
+    {
+     "t": "Lalafun's main channel (US, 15.2M subscribers, 11.65B views) gained about 500K subscribers and 592M views in the 28 days to 16 Nov 2026 from only 13 uploads, about three a week, so heavy reach comes from strong songs and Shorts, not from posting many long videos.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 956
+    },
+    {
+     "t": "Lalafun grew only 0 to 100K subscribers a month in early 2026 but 600K to 700K a month from May to October 2026, showing a kids channel can break out suddenly after months of slow growth once a few Shorts hit.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 956
+    },
+    {
+     "t": "ChuChu TV's main channel (98.2M subscribers, 61B views) gained zero subscribers in the 28 days to 18 Nov 2026 yet still earns about 223M views a month from its back catalogue, and its newest upload is a 24 minute story compilation ('Curiosity Corner'), so the old giants now lean on long compilations.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 956
+    },
+    {
+     "t": "ChuChu TV's top five videos of all time are 2021 to 2022 'Classics' with surprise egg animal and vehicle reveals (up to 194M views), so the 'what is inside?' reveal game is a lasting preschool hook that Bro Bros can use with our own original eggs, boxes or presents.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 956
+    },
+    {
+     "t": "ChuChu TV's learning channel Jumblikans (India, 5.42M) still draws about 39M views a month mostly from 2022 rhymes, but its newest video (4 Oct 2026, a healthy food rhyme) had only about 247K views after a month, another sign that new uploads on older kids channels grow slowly.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 956
     }
    ]
   },
@@ -19654,11 +19689,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 876 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:52",
-   "note": "Run 877 (TRENDS (India trending, meme roundups, December dates)): Christmas Jumper Day (10 Dec), Ugly Sweater Day (18 Dec), Wrapped (about 2 Dec) and this autumn's meme roundups were all already in the tree. New: India's YouTube trending list on 17 Nov had no kids videos at all; Hindi, Telugu and Malayalam devotional songs filled several spots during the Karthika month, so trending lists in India suit music and devotion, not kids songs. Total 2603."
+   "note": "Earlier runs summarised: all rounds through Run 877 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:53",
@@ -19971,6 +20002,10 @@
   {
    "date": "2026-11-19 09:47",
    "note": "Run 955 (global markets (YouTube India impact report, Indian kids Shorts channels)): From YouTube's India impact report (Sep 2026): over 15% of watch time on Indian channels comes from outside India, over 18,000 Indian channels pass 1M subscribers, a Telugu channel grew to 11.8B views by expanding into seven languages, and 74% of Indian parents on YouTube call it important for their children's discovery. Kids Channel India Shorts (3D rhymes) has 375K subscribers and 118M views. Total 2794."
+  },
+  {
+   "date": "2026-11-19 09:48",
+   "note": "Run 956 (competitor deep dive (Lalafun main channel, ChuChu TV and Jumblikans)): Lalafun's main channel (15.2M) gained about 500K subscribers and 592M views in 28 days from only 13 uploads, after near zero growth in early 2026. ChuChu TV (98.2M) gained no subscribers in 28 days yet still earns about 223M views a month, now posting 24 minute story compilations; its Jumblikans channel's newest video had only 247K views in six weeks. Total 2799."
   }
  ],
  "history": [
@@ -21129,6 +21164,10 @@
   {
    "date": "2026-11-19 09:47",
    "total": 2794
+  },
+  {
+   "date": "2026-11-19 09:48",
+   "total": 2799
   }
  ],
  "next_week_ideas": [
