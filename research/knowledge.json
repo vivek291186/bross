@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:52:12+05:30",
- "runs": 961,
+ "updated": "2026-11-19T09:52:51+05:30",
+ "runs": 962,
  "branches": [
   {
    "id": "platforms",
@@ -2050,6 +2050,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 950
+    },
+    {
+     "t": "Instagram's Adam Mosseri says Trial Reels (shown only to non followers) almost always get less reach, and small published tests saw trials top out near 180 views against 1,500 to 5,000 for regular Reels, so Bro Bros should use trials only to compare two hooks for the same song, judged after at least 24 hours.",
+     "src": "Planoly, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 962
+    },
+    {
+     "t": "Instagram may limit reach for reused clips in Trial Reels, so each trial should be a freshly cut version (new first second or new ending), not a repost of a Reel that already went out.",
+     "src": "Planoly, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 962
+    },
+    {
+     "t": "Guides on Instagram's sends per reach signal advise ending with a send prompt aimed at a specific person; for our Reels that means captions like 'Send this to a friend whose little one loves diggers' rather than a general 'share this'.",
+     "src": "Pulse citing sends per reach playbook, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 962
     }
    ]
   },
@@ -19752,11 +19773,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 882 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:57",
-   "note": "Run 883 (TRENDS (Roblox October report, kids' interests)): Bloxodes' October 2026 Roblox report: egg themed simulators lead (Steal an egg about 1.28M average players even after a 500K drop), survival games rose to 15% of play around Halloween, and weekends average about 14.5M players against 9.7M on weekdays, so kids' free play peaks on weekends. Egg hatching and egg collecting stay a strong kid theme, matching this week's hatching toy wish lists. Other kids interest pages repeated squishy toys, already in the tree. Total 2615."
+   "note": "Earlier runs summarised: all rounds through Run 883 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:58",
@@ -20069,6 +20086,10 @@
   {
    "date": "2026-11-19 09:52",
    "note": "Run 961 (YouTube algorithm (made for kids discovery: COPPA settlement study)): New: an economics study of 5,066 top US channels found that after made for kids personalisation was switched off in 2020, kids channel views fell about 20% and new subscriptions about 25%, but top quartile channels lost nothing while the smallest lost most, so made for kids discovery favours channels already big; AIR's kids growth tactics were already in the tree. Total 2808."
+  },
+  {
+   "date": "2026-11-19 09:52",
+   "note": "Run 962 (Shorts and Reels (Trial Reels evidence, sends per reach)): Thin round: most Reels ranking advice was already in the tree. New: Mosseri says Trial Reels almost always get less reach, small tests show trials topping out around 180 views, so trials suit testing hooks, not growth; and a send prompt aimed at a specific person works best for DM shares. Total 2811."
   }
  ],
  "history": [
@@ -21251,6 +21272,10 @@
   {
    "date": "2026-11-19 09:52",
    "total": 2808
+  },
+  {
+   "date": "2026-11-19 09:52",
+   "total": 2811
   }
  ],
  "next_week_ideas": [
