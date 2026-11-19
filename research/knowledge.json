@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:48:22+05:30",
- "runs": 1343,
+ "updated": "2026-11-19T21:48:52+05:30",
+ "runs": 1344,
  "branches": [
   {
    "id": "platforms",
@@ -18871,6 +18871,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1342
+    },
+    {
+     "t": "Metricool's YouTube feed for Bro Bros (checked 21:50 IST, 19 Nov 2026) shows about 10.9K views across 5 to 16 Nov (about 900 a day, best days 10 Nov 1,386 and 15 Nov 1,301, lowest 6 Nov 448) and subscribers rising from 2,130 to 2,150 with 20 gained and 2 lost; view data still stops at 16 Nov, so this week's songs cannot be judged yet.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1344
+    },
+    {
+     "t": "Our two 18 Nov 2026 Reels held viewers only about 4.2 to 4.5 seconds on average (veggie soup 127 views, 1 share; freeze dance 111 views), and Metricool had not yet synced any 19 Nov Reel by 21:50 IST, so the first 3 seconds remain our biggest Instagram problem.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1344
     }
    ]
   },
@@ -23524,12 +23538,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:50",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1264)."
-  },
-  {
    "date": "2026-11-19 18:51",
-   "note": "Run 1265 (posting times (taken out of order, because the formula never lands on this focus: European after school data and Metricool Instagram recheck)): New: UK broadband traffic jumps at 3:40 PM on school days (21:10 IST) with YouTube the top after school screen, and EU Kids Online 2026 puts European kids' screen peaks after school (80%) and before bed (67%). Metricool's Instagram model for 20 to 26 Nov is unchanged (10:00 IST peak, 18:00 IST second, weekends about half), so the posting plan stays as is. Total 3255."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1265)."
   },
   {
    "date": "2026-11-19 18:52",
@@ -23842,13 +23852,13 @@
   {
    "date": "2026-11-19 21:48",
    "note": "Run 1343 (rules and safety recheck): Nothing new: the Disney COPPA settlement, Australia's under 16 ban results and High Court hearing, the UK ban plan and YouTube's Dublin kids and teens summit were all already in the tree. No leaves added. Chrome not available. Total 3347."
+  },
+  {
+   "date": "2026-11-19 21:48",
+   "note": "Run 1344 (our own results (Metricool recheck)): YouTube views for 5 to 16 Nov total about 10.9K (about 900 a day) with 20 new subscribers and 2 lost; data still ends 16 Nov. The 18 Nov Reels held viewers about 4 to 4.5 seconds; no 19 Nov Reel data yet. Chrome not available. Total 3349."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:56",
-   "total": 2964
-  },
   {
    "date": "2026-11-19 11:56",
    "total": 2966
@@ -25044,6 +25054,10 @@
   {
    "date": "2026-11-19 21:48",
    "total": 3347
+  },
+  {
+   "date": "2026-11-19 21:48",
+   "total": 3349
   }
  ],
  "next_week_ideas": [
