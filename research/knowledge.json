@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:42:54+05:30",
- "runs": 1151,
+ "updated": "2026-11-19T15:43:25+05:30",
+ "runs": 1152,
  "branches": [
   {
    "id": "platforms",
@@ -7699,6 +7699,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1149
+    },
+    {
+     "t": "In ChannelCrawler's list of the fastest growing US education channels for May 2026, three of the top 10 were kids channels: CoComelon (+1M subscribers in 30 days), Twin Twin, where identical twin sisters pair short stories with simple life lessons (+650K, up about 19% in a month), and SparkleToon, which teaches crafts and good manners in long videos and Shorts (+400K, up about 11%).",
+     "src": "ChannelCrawler, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1152
+    },
+    {
+     "t": "Twin Twin's climb from a fast growing education channel in May 2026 to Tubefilter's worldwide most viewed top 50 by mid November (about 331M weekly views) took about six months, a recent case where a duo format with a lesson in every video scaled from hundreds of thousands to tens of millions of subscribers' worth of reach within half a year.",
+     "src": "ChannelCrawler May 2026; Tubefilter Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1152
     }
    ]
   },
@@ -21893,12 +21907,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 12:54",
-   "note": "Earlier: older log entries summarised; runs up to Run 1072 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:54",
-   "note": "Run 1073 (topics and seasons (December 2026 night sky events; visual craft skipped, nothing new in run 1061)): Two December sky events were missing from the tree: the Geminid meteor shower peaks on the night of 13 to 14 Dec 2026 with a dark sky (thin crescent moon sets about 9 pm), and the December full moon is a Christmas Eve supermoon (01:28 UTC on 24 Dec). Added a shooting star wish song idea. Total 2999."
+   "date": "2026-11-19 13:00",
+   "note": "Earlier: older log entries summarised; runs up to Run 1073 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:00",
@@ -22211,6 +22221,10 @@
   {
    "date": "2026-11-19 15:42",
    "note": "Run 1151 (rules and safety (flashing light rules for animation)): Filled a safety gap: broadcast flashing rules (Ofcom, also used in Japan) ban more than three flashes a second over a quarter of the screen, treat any jump to or from saturated red as risky and limit striped patterns; online video has no legal test, but our New Year fireworks, disco lights and sparkle effects should follow the same limits since broadcasters and YouTube Kids buyers check for them. Total 3114."
+  },
+  {
+   "date": "2026-11-19 15:43",
+   "note": "Run 1152 (YouTube main and Kids movers (own results skipped, checked at 15:40; US education growth list)): New: in ChannelCrawler's May 2026 list of fastest growing US education channels, three of the top 10 were for kids: CoComelon (+1M subscribers in 30 days), Twin Twin (twin sisters' story and life lesson videos, +650K, up 19%) and SparkleToon (crafts and manners, +400K, up 11%), more evidence that a fixed duo plus a small life lesson grows fastest. Total 3116."
   }
  ],
  "history": [
@@ -23405,6 +23419,10 @@
   {
    "date": "2026-11-19 15:42",
    "total": 3114
+  },
+  {
+   "date": "2026-11-19 15:43",
+   "total": 3116
   }
  ],
  "next_week_ideas": [
