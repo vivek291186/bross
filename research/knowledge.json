@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:00:26+05:30",
- "runs": 887,
+ "updated": "2026-11-19T07:00:56+05:30",
+ "runs": 888,
  "branches": [
   {
    "id": "platforms",
@@ -6271,6 +6271,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 885
+    },
+    {
+     "t": "The fastest growing channel in Tubefilter's week of 15 Nov 2026, Chispita (Uruguay, Spanish), added about 770K subscribers in seven days and about 117M views in 28 days from only 124 videos, using dramatic skit Shorts with shouty all caps titles (a bully, a teacher who poisoned the class, a kidnapped sister); such shock drama spreads fast in Spanish speaking feeds but would break kids quality rules, so we take only the lesson that strong one line story hooks win, told gently.",
+     "src": "vidIQ and Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 888
     }
    ]
   },
@@ -18471,11 +18478,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 808 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:07",
-   "note": "Run 809 (music craft (toddler tempo and slowing down)): Holiday instrument and tempo rules were mostly already in the tree; new: toddlers' natural beat is about 150 BPM and slowing to a 100 BPM beat only develops between 2 and 2.5 years, so fast and slow songs need a strong, clearly signalled contrast. Total 2378."
+   "note": "Earlier runs summarised: all rounds through Run 809 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:08",
@@ -18788,6 +18791,10 @@
   {
    "date": "2026-11-19 07:00",
    "note": "Run 887 (rules (global age limits for kids online)): New: Turkey's under 15 social media ban took effect on 1 Nov 2026 with mandatory age verification and a clause that no service likely to be addictive may be offered to children; which platforms count is not yet clear. The EU Kids Act proposal was already in the tree. Kids in Turkey will reach Bro Bros mainly through parents' devices, YouTube Kids and TV. Total 2625."
+  },
+  {
+   "date": "2026-11-19 07:00",
+   "note": "Run 888 (YouTube main (fastest subscriber gainers, week of 15 Nov; our own results skipped again as Metricool data is unchanged)): Tubefilter's fastest gainer Chispita, a Uruguayan Spanish Shorts channel, added about 770K subscribers in a week (2.83M total, about 117M views in 28 days on only 124 videos) with dramatic skit Shorts under shouty all caps titles about bullies and kidnapped sisters. That pattern grows fast but breaks kids quality rules, so it is not for us. Metricool still ends on 16 Nov. Total 2626."
   }
  ],
  "history": [
@@ -19674,6 +19681,10 @@
   {
    "date": "2026-11-19 07:00",
    "total": 2625
+  },
+  {
+   "date": "2026-11-19 07:00",
+   "total": 2626
   }
  ],
  "next_week_ideas": [
