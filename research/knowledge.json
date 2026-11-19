@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:06:14+05:30",
- "runs": 974,
+ "updated": "2026-11-19T10:06:59+05:30",
+ "runs": 975,
  "branches": [
   {
    "id": "platforms",
@@ -19914,6 +19914,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 969
+    },
+    {
+     "t": "A New Delhi 'phone stuck to a moving metro' Reel stunt passed about 137M views in three days in September 2026 and spread to buses and trains, but it is a risky stunt children might copy, so Bro Bros must not use it in any form.",
+     "src": "ThePrint, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 975
+    },
+    {
+     "t": "Indian Reels creators often open with about 5 seconds in Tamil, Telugu, Kannada or Marathi and then switch to Hindi or English; a Bro Bros test could open a Reel with a one line greeting in a regional language ('Vanakkam, friends!') before our English song.",
+     "src": "Vaizle, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 975
     }
    ]
   }
@@ -19941,11 +19955,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 895 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:05",
-   "note": "Run 896 (posting times (Metricool Instagram model for 20 to 26 Nov)): Metricool's Instagram model for 20 to 26 Nov repeats last week's: peak at 10:00 IST every day (Friday 20 Nov highest at about 6,700), a second rise at 18:00 IST, 16:00 IST at about two thirds of the peak, and Saturday and Sunday peaks at only about 51% and 38% of Friday's. No slot change; the Reels at 10:00 IST test idea stands. Total 2633."
+   "note": "Earlier runs summarised: all rounds through Run 896 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:05",
@@ -20258,6 +20268,10 @@
   {
    "date": "2026-11-19 10:06",
    "note": "Run 974 (competitor deep dive (CoComelon Portuguese and sister channels)): CoComelon's Portuguese channel (Brazil, 4.45M) took about 104M views in October 2026, but its 19 uploads of the last 28 days earned only about 2.4M of roughly 87M views, so about 97% came from older videos; its 7 new Shorts got only 189K views in total. Its top video is still a 2022 'Wheels on the Bus' at 703M. Total 2835."
+  },
+  {
+   "date": "2026-11-19 10:06",
+   "note": "Run 975 (TRENDS (India Reels trends)): India's big Reels trends this autumn were mostly Bollywood audio and a risky 'phone stuck to a moving metro' stunt (137M views in three days), which we skip as unsafe to copy. Usable: Indian creators open with about 5 seconds in a regional language before switching to Hindi or English, a cheap hook test for our Indian audience. Total 2837."
   }
  ],
  "history": [
@@ -20744,6 +20758,10 @@
   {
    "date": "2026-11-19 10:06",
    "total": 2835
+  },
+  {
+   "date": "2026-11-19 10:06",
+   "total": 2837
   }
  ],
  "next_week_ideas": [
