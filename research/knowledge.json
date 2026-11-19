@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:59:45+05:30",
- "runs": 886,
+ "updated": "2026-11-19T07:00:26+05:30",
+ "runs": 887,
  "branches": [
   {
    "id": "platforms",
@@ -14083,6 +14083,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 879
+    },
+    {
+     "t": "Turkey's ban on social media for under 15s took effect on 1 Nov 2026 (law passed in April, start date published on 10 Oct): providers must verify age and the law says no service likely to be addictive may be offered to children; coverage of YouTube is not spelled out, so in Turkey we should expect children to watch through parents' accounts, YouTube Kids and TVs, and avoid any 'keep watching forever' style packaging.",
+     "src": "Khaleej Times, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 887
+    },
+    {
+     "t": "Age limit laws now cover several of our target markets at once (Australia under 16 since Dec 2025, Indonesia's under 16 account rule in 2026, Turkey under 15 from Nov 2026, the EU Kids Act still proposed), so worldwide the child audience is moving to guardian accounts and kids apps, and parent trust signals (calm titles, clear learning value, no addictive hooks) matter more each year.",
+     "src": "Khaleej Times and Jakarta Post, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 887
     }
    ]
   },
@@ -18457,11 +18471,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 0 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:07",
-   "note": "Run 808 (TRENDS (holiday brand films, Christmas brain break songs)): Christmas brain break playlists (freeze, hokey pokey, shake) and Danny Go holiday specials were already in the tree; new: LEGO's 5 Nov holiday film uses a hand to hand pass along chain ending in sharing, supporting the 'Pass the Present!' idea. Also removed a duplicate piñata idea and posada leaf from Run 800. Total 2377."
+   "note": "Earlier runs summarised: all rounds through Run 808 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:07",
@@ -18774,6 +18784,10 @@
   {
    "date": "2026-11-19 06:59",
    "note": "Run 886 (TRENDS (Pinterest parenting report, year end recap season)): YouTube's year end Recap (expected early December) was already in the tree. New from Pinterest's 2026 parenting report: parents search for screen free and movement ideas (fun physical activities +340%, toddler movement +145%), sensory play (+1070%), family traditions (+200%), road trip setups (+530%) and 70s to 2000s throwback toys (+610% for 2000s toys), so our songs should invite kids to get up and copy moves, and family tradition, road trip and retro toy themes fit what parents want. Total 2623."
+  },
+  {
+   "date": "2026-11-19 07:00",
+   "note": "Run 887 (rules (global age limits for kids online)): New: Turkey's under 15 social media ban took effect on 1 Nov 2026 with mandatory age verification and a clause that no service likely to be addictive may be offered to children; which platforms count is not yet clear. The EU Kids Act proposal was already in the tree. Kids in Turkey will reach Bro Bros mainly through parents' devices, YouTube Kids and TV. Total 2625."
   }
  ],
  "history": [
@@ -19656,6 +19670,10 @@
   {
    "date": "2026-11-19 06:59",
    "total": 2623
+  },
+  {
+   "date": "2026-11-19 07:00",
+   "total": 2625
   }
  ],
  "next_week_ideas": [
