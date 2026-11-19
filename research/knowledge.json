@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:38:35+05:30",
- "runs": 944,
+ "updated": "2026-11-19T09:39:33+05:30",
+ "runs": 945,
  "branches": [
   {
    "id": "platforms",
@@ -19340,6 +19340,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 942
+    },
+    {
+     "t": "Pinterest's business trend report for the week of 13 Nov 2026 shows 'disguise a turkey' (a US school craft) up 500% and 'winter style' up 80%, so our turkey disguise and winter clothes dress up Shorts match what families are searching right now.",
+     "src": "Pinterest Business Community, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 945
+    },
+    {
+     "t": "The same Pinterest report lists holiday coffee shop drinks up 3,000% and Thanksgiving appetiser recipes up 200%; for kids the matching safe angle is a warm cocoa or snack making song, not the branded drinks.",
+     "src": "Pinterest Business Community, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 945
     }
    ]
   }
@@ -19367,11 +19381,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 865 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:48",
-   "note": "Run 866 (competitor deep dive (Cocobi English)): Cocobi's English channel was new to the tree: 3.36M subscribers and 2.96B views since Feb 2021, with monthly views roughly doubling in 2026 (54M in Jan to 116M in Oct, 131M in the 28 days to 18 Nov) on about 51 uploads a month. Its all time top videos are a baby is born story, a stranger danger safety song, an 'escape from the colour prison' adventure, a parasites science song and an elevator safety compilation, so safety songs and surprising science beat plain nursery rhymes there. Its newest Short is a 'baby turned into a giant' surprise. Total 2575."
+   "note": "Earlier runs summarised: all rounds through Run 866 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:49",
@@ -19684,6 +19694,10 @@
   {
    "date": "2026-11-19 09:38",
    "note": "Run 944 (competitor deep dive (The Kiboomers and Tiny Tunes)): The Kiboomers (Canada, 4.05M) still earn about 45M views in 28 days from only 5 new uploads, mostly from a family of seasonal freeze dance songs used by teachers; Tiny Tunes (UK) holds 1.2B views from only 112 videos, about 10M per video. Total 2753."
+  },
+  {
+   "date": "2026-11-19 09:39",
+   "note": "Run 945 (TRENDS (December calendars, Pinterest weekly 13 Nov, Later 13 Nov rechecked)): Thin: Later's and Publer's lists were already in the tree. New: Pinterest's 13 Nov weekly report shows 'disguise a turkey' searches up 500% and winter style up 80%, confirming the turkey and winter clothes Shorts for this week. Total 2755."
   }
  ],
  "history": [
@@ -20798,6 +20812,10 @@
   {
    "date": "2026-11-19 09:38",
    "total": 2753
+  },
+  {
+   "date": "2026-11-19 09:39",
+   "total": 2755
   }
  ],
  "next_week_ideas": [
