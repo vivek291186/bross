@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:42:31+05:30",
- "runs": 1315,
+ "updated": "2026-11-19T20:43:12+05:30",
+ "runs": 1316,
  "branches": [
   {
    "id": "platforms",
@@ -15819,6 +15819,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1313
+    },
+    {
+     "t": "Perso's dubbing platform data (Jan 2025 to Aug 2026, about 303K paid minutes) shows creators dub most into Spanish (11.8%), Portuguese (10.1%) and French (6.8%) after English, and its education category also leads with Portuguese and Spanish, so Spanish and Portuguese remain the safest first two dub languages for Bro Bros, with French third.",
+     "src": "perso.ai, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1316
+    },
+    {
+     "t": "UK creator SV2 added Spanish, Arabic, Portuguese, French and German audio tracks (later Vietnamese, Turkish, Russian and Indonesian) and his views rose about 1.7x (252M to 432M) over 18 months, and one video released with nine audio tracks from day one passed 11M views in under 90 days, so dubbed tracks work best when they are live at upload, not added weeks later.",
+     "src": "bemultilingual.ca, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1316
+    },
+    {
+     "t": "Africa had about 600M children aged 0 to 14 in 2025, and Nigeria alone had about 96M (one in six of them), ahead of Ethiopia and DR Congo (about 52M each), so English language Bro Bros songs already speak to Africa's largest child population, and French would open DR Congo, the biggest French speaking child market.",
+     "src": "intelpoint.co (World Bank, UN WPP), 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1316
     }
    ]
   },
@@ -23199,10 +23220,6 @@
    "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
-   "date": "2026-11-19 17:02",
-   "note": "Run 1237 (TRENDS (November winter and countdown formats)): Nothing new: teeny tiny message zooms, 'days until Christmas' countdown overlays and the AI snow edits were already in the tree; no new family dance this week. No leaves added. Total 3184."
-  },
-  {
    "date": "2026-11-19 17:03",
    "note": "Run 1238 (algorithm and production tools (Test and Compare, Meshy updates)): Nothing new: YouTube Test and Compare rules, Meshy 7.1's Ultra 2K and 4K modes and the unchanged Meshy text to motion changelog were already in the tree. No leaves added. Total 3184."
   },
@@ -23513,13 +23530,13 @@
   {
    "date": "2026-11-19 20:42",
    "note": "Run 1315 (TRENDS (Shorts audio reuse and December Santa letter window)): Small: the Brazilian phonk instrumental 'NO BATIDAO' held YouTube's global songs No. 1 for 21 weeks mainly because creators used it as Shorts audio, so a reusable instrumental hook can outgrow its own video; Royal Mail's Santa reply letters must be posted by Wed 9 Dec 2026, a natural date for a Dear Santa song. Total 3300."
+  },
+  {
+   "date": "2026-11-19 20:43",
+   "note": "Run 1316 (global markets (dubbing use and Africa's child population)): Perso's 2026 dubbing data puts Spanish, Portuguese and French as the most used targets after English; SV2's dubbing case grew views 1.7x in 18 months and a video launched with nine audio tracks on day one passed 11M in 90 days; Africa has about 600M children under 15, with Nigeria (96M) far ahead. Total 3303."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:02",
-   "total": 2911
-  },
   {
    "date": "2026-11-19 11:03",
    "total": 2911
@@ -24715,6 +24732,10 @@
   {
    "date": "2026-11-19 20:42",
    "total": 3300
+  },
+  {
+   "date": "2026-11-19 20:43",
+   "total": 3303
   }
  ],
  "next_week_ideas": [
