@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:40:39+05:30",
- "runs": 858,
+ "updated": "2026-11-19T05:41:54+05:30",
+ "runs": 859,
  "branches": [
   {
    "id": "platforms",
@@ -6061,6 +6061,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 854
+    },
+    {
+     "t": "Mundo Canticuentos (Colombia, since 2014) has 9.47M subscribers, 5.45B views and 1,153 videos and still gains about 40 to 55M views a month in 2026, although new subscribers slowed from 110K in Dec 2025 to 20K to 30K a month.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 859
+    },
+    {
+     "t": "Mundo Canticuentos' biggest video is a vowels remix (589M views), and its next two are versions of a popular Latin American Christmas donkey song (109M from Dec 2024 and 89M from Dec 2021), so a learning remix and a December song are its two strongest engines.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 859
+    },
+    {
+     "t": "Mundo Canticuentos' 'I am a cup' object song (Jun 2025, 32M views) shows that a song where kids become an everyday object with one pose per line (handle, spout, pour) travels well in Latin America.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 859
+    },
+    {
+     "t": "Mundo Canticuentos already posted its Christmas Short on 11 Nov 2026 (a Jingle Bells Short, about 7K views in 18 hours), a sign Latin American kids channels start their Christmas uploads by mid November.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 859
     }
    ]
   },
@@ -12018,6 +12046,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 847
+    },
+    {
+     "t": "In HypeAuditor's November 2026 Colombia ranking the top spots belong to family humour channels (Ami Rodriguez 32.5M, Amara Que Linda 17.8M, Kike y su familia 16.5M), while the biggest kids song channels sit at #32 and #33 (Cuentos y Canciones Infantiles 9.8M, Mundo Canticuentos 9.5M).",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 859
+    },
+    {
+     "t": "A Latin American Christmas hit on kids channels is about a little donkey trotting to Bethlehem, not Santa; for Spanish speaking families a cheerful original winter journey song with a friendly animal and clip clop rhythm fits the region's Christmas taste (we write our own song, never reuse that one).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 859
     }
    ]
   },
@@ -17911,11 +17953,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:36",
-   "note": "Run 781 (TRENDS (NewEngen 16 Nov TikTok list, Volume carousel data, Lightreel Instagram report)): New this week: Volume's carousel data shows posts pinned to one exact age reach about 12 times usual (best family case 52 times) and one photo reused across slides 43 times, so an age pinned Bro Bros carousel joins the trend bank; NewEngen adds numbered animated adventure parts; most other formats (chipmunk trio dance, fan wipe, slow motion entrances) were already in the tree. Total 2346."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:37",
@@ -18228,13 +18266,13 @@
   {
    "date": "2026-11-19 05:40",
    "note": "Run 858 (TRENDS (US Thanksgiving school crafts, December family film dates)): Most December film and Thanksgiving content was already in the tree. New: the US 'disguise a turkey' school project (children dress a paper turkey as something else so it is not eaten) fills Pinterest, Lemon8 and teacher blogs every November and is fully kid safe, so it went into the trend bank as a seasonal dress up reveal for 22 to 27 Nov. Also noted Avengers: Doomsday (18 Dec, 13+) will dominate mid December attention. Total 2545."
+  },
+  {
+   "date": "2026-11-19 05:41",
+   "note": "Run 859 (global markets (Colombia's kids song channels)): Colombia's kids channels were new to the tree. HypeAuditor's November 2026 ranking puts two kids song channels at #32 and #33 in Colombia (Cuentos y Canciones Infantiles 9.8M, Mundo Canticuentos 9.5M) while family humour channels hold the top spots. Mundo Canticuentos gets about 50M views a month from 1,153 videos; its hits are a vowels remix (589M), two versions of a Latin American Christmas donkey song (109M and 89M) and an 'I am a cup' object song (32M). Total 2551."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:39",
-   "total": 2051
-  },
   {
    "date": "2026-11-16 16:39",
    "total": 2054
@@ -19430,9 +19468,17 @@
   {
    "date": "2026-11-19 05:40",
    "total": 2545
+  },
+  {
+   "date": "2026-11-19 05:41",
+   "total": 2551
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Clip Clop Little Donkey (winter journey song)",
+   "why": "Latin American kids channels get their biggest December views from a donkey travel song (109M and 89M on one Colombian channel); an original, secular clip clop journey song with the Bros riding along through snowy hills, in English with a Spanish version, fits that taste worldwide."
+  },
   {
    "title": "Wrap It Up! (Present Wrapping Race Song)",
    "why": "A one line copyable December challenge (wrap it before the bell) with a big on screen timer; challenge formats lead short video medians and it gives a messy funny payoff kids love. Original song, Shorts cut at 20 to 25 s."
@@ -19484,10 +19530,6 @@
   {
    "title": "Whack the Piñata! (Party Turn Taking Song)",
    "why": "Piñata party songs are among the biggest Spanish kids videos (79M and 43M on one channel) and Mexico's posadas run 16 to 24 Dec; each verse a different friend takes a turn with eyes covered while everyone counts, then sweets rain down and are shared, teaching waiting your turn and sharing."
-  },
-  {
-   "title": "Jingle Dhol! (Bhangra Christmas Dance)",
-   "why": "Indian style Christmas remixes went viral worldwide on TikTok last December and our dhol Diwali songs were our best Reels, so an original bhangra Christmas song with sleigh bells over a dhol beat, shoulder shrugs and a 'hoy hoy' call can travel to Indian, diaspora and global families."
   }
  ],
  "trend_bank": [
