@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:51:25+05:30",
- "runs": 1310,
+ "updated": "2026-11-19T20:36:16+05:30",
+ "runs": 1311,
  "branches": [
   {
    "id": "platforms",
@@ -2379,6 +2379,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1286
+    },
+    {
+     "t": "Socialinsider's 2026 analysis (Jan 2025 to Aug 2026) found average Instagram reach per post fell about 14% year on year, with carousels reaching about 4.5% of followers, Reels about 4.1% and images about 4.0%, so on Instagram a parent facing carousel (lyrics, colouring page, song steps) can sit beside each Reel rather than Reels alone.",
+     "src": "socialinsider.io, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1311
     }
    ]
   },
@@ -4486,6 +4493,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1298
+    },
+    {
+     "t": "Since YouTube publishes no universal Shorts retention target, the sound way to judge a Bro Bros Short is against our own Shorts in the same length band (15 to 30 seconds versus 30 to 60 seconds) and topic, using 'chose to view' and engaged views rather than raw views.",
+     "src": "bytecap.io, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1311
     }
    ]
   },
@@ -11899,6 +11913,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1253
+    },
+    {
+     "t": "Instagram's Edits app places beat markers on the timeline automatically, so cuts, transitions and caption pops in a Bro Bros Reel can be snapped to the beats of our own Suno song in seconds instead of by ear.",
+     "src": "beebom.com, 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1311
     }
    ]
   },
@@ -23062,12 +23083,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 16:03",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 16:59",
-   "note": "Run 1232 (global markets (MENA and Bangladesh)): Small: YouTube's MENA 2025 review lists a Roblox gardening game, collectible plush charms and 'brainrot' memes among the region's top topics next to Ramadan and Eid, and family sketch creators (Om Saif 19.9M) among the top channels, so kid culture in the Arab world follows the same global game and toy waves. Arabic kids song channels and Bangla rhyme channels were already in the tree. Total 3183."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:00",
@@ -23380,13 +23397,13 @@
   {
    "date": "2026-11-19 19:51",
    "note": "Run 1310 (playbook and ideas update (evidence from this run)): No new leaves; applied this run's evidence: the thumbnail rule in the playbook now says to check Metricool for the 'Could not upload video thumbnail' warning after each upload, and 'Abracadabra, Tidy Up!' (magic word clean up song riding the late November magic film buzz) replaced the evergreen sharing song in next week's ideas. Total 3281."
+  },
+  {
+   "date": "2026-11-19 20:36",
+   "note": "Run 1311 (Shorts and Reels formats and Reels algorithm (reach recheck)): Small: Socialinsider's Jan 2025 to Aug 2026 data puts average Instagram reach rate down 14% year on year, with carousels (4.5%) slightly ahead of Reels (4.1%) and images (4.0%); Edits auto beat markers help cut Reels on our song beats; benchmark each Short against our own Shorts of the same length band. Total 3284."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:01",
-   "total": 2905
-  },
   {
    "date": "2026-11-19 11:01",
    "total": 2905
@@ -24582,6 +24599,10 @@
   {
    "date": "2026-11-19 19:51",
    "total": 3281
+  },
+  {
+   "date": "2026-11-19 20:36",
+   "total": 3284
   }
  ],
  "next_week_ideas": [
