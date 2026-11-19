@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:58:07+05:30",
- "runs": 1096,
+ "updated": "2026-11-19T13:59:00+05:30",
+ "runs": 1097,
  "branches": [
   {
    "id": "platforms",
@@ -9449,6 +9449,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1085
+    },
+    {
+     "t": "Sia's soft, simple 'Snowman' passed 1.3B Spotify plays and her Christmas album streams about 8M times a day in season, proof that a gentle, singable winter character song (not only a fast party track) can become a family standard, which supports one slow snow friend song in our December mix.",
+     "src": "Digital Music News, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1097
+    },
+    {
+     "t": "Chartmetric found the 33 tracks added to Spotify's Christmas Hits in 2024 were tagged happy, heartwarming or fun, while adult 'sad Christmas' playlists grew from about 5K to 29K followers (2021 to 2025), so for children the festive mainstream stays bright and warm and melancholy belongs to grown up listening.",
+     "src": "Chartmetric, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1097
     }
    ]
   },
@@ -21474,11 +21488,7 @@
  "log": [
   {
    "date": "2026-11-19 11:03",
-   "note": "Earlier: older log entries summarised; runs up to Run 1017 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:03",
-   "note": "Run 1018 (YouTube main (NuNu Tv deep look)): NuNu Tv Nursery Rhymes (US, 29.9M subscribers, 26.7B views from only 847 videos) still adds 480M to 720M views a month; its top videos mix colour learning twists on classic rhymes (finger family colours 325M, color sheep 272M) with behaviour songs such as 'I Want That, Share It Please' (270M), and its newest ABC song took about 204K views in its first 37 hours. Total 2914."
+   "note": "Earlier: older log entries summarised; runs up to Run 1018 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:04",
@@ -21791,6 +21801,10 @@
   {
    "date": "2026-11-19 13:58",
    "note": "Run 1096 (other platforms (Netflix top 10 for 9 to 15 Nov, Roblox concerts; TRENDS skipped)): Netflix's English TV top 10 for 9 to 15 Nov has two kids shows: the new Doozie's Doghouse at No. 4 (5M views) and Danny Go! season 2 at No. 10 (1.5M), and A Dog's Perfect Christmas held No. 2 among films. The Jonas Brothers played inside the Roblox egg game 'Steal An Egg' on 31 Oct, with over 8.5M players marking interest, confirming egg games as the live Roblox hangout. Total 3054."
+  },
+  {
+   "date": "2026-11-19 13:59",
+   "note": "Run 1097 (music craft (holiday song moods and tools rechecked)): Suno v6, Meshy Text to Motion limits and the holiday streaming calendar were already in the tree. Small additions: Sia's gentle 'Snowman' has over 1.3B Spotify plays and her Christmas album streams about 8M times a day, and in 2024 the 33 new tracks on Spotify's Christmas Hits were tagged happy, heartwarming or fun while sad holiday playlists grow among adults. Total 3056."
   }
  ],
  "history": [
@@ -22765,6 +22779,10 @@
   {
    "date": "2026-11-19 13:58",
    "total": 3054
+  },
+  {
+   "date": "2026-11-19 13:59",
+   "total": 3056
   }
  ],
  "next_week_ideas": [
