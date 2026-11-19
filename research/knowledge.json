@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:39:21+05:30",
- "runs": 902,
+ "updated": "2026-11-19T07:40:42+05:30",
+ "runs": 903,
  "branches": [
   {
    "id": "platforms",
@@ -1924,6 +1924,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 901
+    },
+    {
+     "t": "Netflix's English film top 10 for 26 Oct to 1 Nov 2026 held seven family or animated library titles, four of them films from one prehistoric ice age animal franchise (about 2.1M to 2.4M views each, some in their seventh week), so woolly mammoths, sabre tooth cats and sloths sliding on ice are a strong early winter theme for our own original prehistoric animal song.",
+     "src": "What's on Netflix, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 903
+    },
+    {
+     "t": "A toy car brand's dinosaur special was the joint top English film on Netflix (2.6M views in its second week, 26 Oct to 1 Nov 2026), so mixing two favourite kid themes, race cars and dinosaurs, in one story pulls families; an original 'race the dinosaur' song with Bro Bros in their own cars borrows the mix, not the brand.",
+     "src": "What's on Netflix, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 903
+    },
+    {
+     "t": "English language adult film viewing on Netflix was described as at all time lows in early November 2026, leaving older family films to fill most of the chart, a sign that family co viewing on the TV carries streaming in this season; our long compilations should be built for the TV screen.",
+     "src": "What's on Netflix, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 903
+    },
+    {
+     "t": "Pop artists' Roblox concerts in 2026 (for example a three song set in May) come wrapped in mini games, themed zones, scavenger hunts and limited avatar items rather than a plain show, so on Roblox music reaches kids as a game to play, not a video to watch; a Bro Bros Roblox space would need a dance game, not just our songs.",
+     "src": "Pulse, May 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 903
     }
    ]
   },
@@ -18636,10 +18664,6 @@
   },
   {
    "date": "2026-11-19 02:49",
-   "note": "Run 824 (competitor deep dive (The Wiggles)): The big competitors (CoComelon, Super Simple, BabyBus, Bebefinn, Pinkfong, Danny Go!) were already covered up to 16 Nov. New on The Wiggles: daily uploads of 1 to 3.5 minute songs with a 54K median, a farm animal Wheels on the Bus remake at 3.7M in under three weeks, genre flip remakes of its own hits, 20 albums in a year and a fast growing audience in Germany, Italy and France. Total 2421."
-  },
-  {
-   "date": "2026-11-19 02:49",
    "note": "Run 825 (TRENDS (SocialPilot TikTok 17 to 25 Nov, holiday dance revivals)): SocialPilot's TikTok list for 17 to 25 Nov adds a rising 'camera shy' format (a pet acts shy or grumpy, then gives in and dances) and Thanksgiving 'what I'm bringing' clips for 21 to 25 Nov; Daily Dot's archive shows a classic cartoon holiday dance revived last December. Added 'Shy then dance' to the trend bank and dropped 'Trio spin swap', which peaked in October. Total 2424."
   },
   {
@@ -18949,6 +18973,10 @@
   {
    "date": "2026-11-19 07:39",
    "note": "Run 902 (topics and seasons (Shorts and Reels algorithm checked first, nothing new; Christmas 2026 toy trends)): Shorts and Reels algorithm sources held nothing new, so the round moved to topics. Which? (17 Nov) names light up, sound making building bricks, soft collectible plush and deliberately odd 'ugly cute' plush as this Christmas's toy trends, and Australian lists lean on outdoor active toys since December is summer there. New song idea: blocks that sing their colours when stacked. Total 2648."
+  },
+  {
+   "date": "2026-11-19 07:40",
+   "note": "Run 903 (other platforms (Netflix English films top 10, Roblox concerts, Spotify)): Netflix's English film chart for 26 Oct to 1 Nov had 7 family or animated library titles, including four films from one prehistoric ice animal franchise (2.1M to 2.4M views each) and a race car versus dinosaur special (2.6M in week 2), so cold prehistoric animals and cars meeting dinosaurs are what families are streaming as winter starts. Spotify and Alexa checks held nothing new. Total 2652."
   }
  ],
  "history": [
@@ -19895,6 +19923,10 @@
   {
    "date": "2026-11-19 07:39",
    "total": 2648
+  },
+  {
+   "date": "2026-11-19 07:40",
+   "total": 2652
   }
  ],
  "next_week_ideas": [
