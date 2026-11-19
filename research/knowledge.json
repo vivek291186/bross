@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:37:12+05:30",
- "runs": 872,
+ "updated": "2026-11-19T06:43:14+05:30",
+ "runs": 873,
  "branches": [
   {
    "id": "platforms",
@@ -1882,6 +1882,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 865
+    },
+    {
+     "t": "HappyKids, described as the second most popular kids channel on Roku after PBS Kids, added sing along music videos in July 2026 that show a bouncing ball over the on screen lyrics; a bouncing ball or highlighted word in our lyric captions helps early readers sing along and suits TV viewing.",
+     "src": "Licensing Corner, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 873
     }
    ]
   },
@@ -6201,6 +6208,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 866
+    },
+    {
+     "t": "Hogi and Pinkfong (16.7M subscribers, 18 Nov 2026) slipped from about 365M monthly views in May 2026 to about 264M in October on roughly 21 uploads a month, and all five of its most viewed videos are colour learning songs built around one satisfying object (a colourful pop it 308M, a candy machine 138M, a Halloween monster candy shop 125M, a dino special 95M, a boo boo song 91M).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 873
+    },
+    {
+     "t": "Kids Diana Show's main channel (138M) drew about 454M views in October 2026, up from 387M in September, and its newest upload on 17 Nov is 'Adam and Oliver's Adventure Collection', a compilation led by the younger brothers rather than Diana, showing the brand passing its lead to the next sibling pair and leaning on compilations.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 873
     }
    ]
   },
@@ -9302,6 +9323,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 857
+    },
+    {
+     "t": "The strongest Hogi format is 'learn colours with' one tactile toy or machine (pop it bubbles, a candy dispenser) where each colour pops out in turn, so a Bro Bros colours song should centre on one satisfying object, for example a snow globe or gumball machine, that releases one colour per verse.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 873
     }
    ]
   },
@@ -18219,11 +18247,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 794 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 00:54",
-   "note": "Run 795 (Shorts and Reels (Trial Reels evidence, kids Shorts case studies, Tubefilter week of 8 Nov)): Trial Reels evidence, AIR kids Shorts cases and the 8 Nov Tubefilter kids movers (Cadel and Mia, Sierra and Rhia, Baccha Mat Bolna) were already in the tree; no new leaves. Total 2367."
+   "note": "Earlier runs summarised: all rounds through Run 795 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 00:54",
@@ -18536,6 +18560,10 @@
   {
    "date": "2026-11-19 06:37",
    "note": "Run 872 (global markets (kids YouTube networks and dubbing deals)): Kedoo Kids' YouTube network runs kids brands in 34 markets and 19 languages (Turkish and Arabic among them) for over a billion views a month, Banijay is folding preschool YouTube channels into its owned network and FAST, and India deals keep dubbing kids series into Hindi plus regional languages. Big brands now localise by market with themed compilations and live streams, which confirms our dub order and our compilation plan. Total 2589."
+  },
+  {
+   "date": "2026-11-19 06:43",
+   "note": "Run 873 (competitor deep dive (Hogi and Pinkfong, Kids Diana Show)): Hogi and Pinkfong (16.7M) fell from about 365M monthly views in May to 264M in October 2026 on about 21 uploads a month, and every one of its top five videos is a 'learn colours with a satisfying object' song (pop it, candy machine, monster candy shop). Kids Diana's main channel now leads with the younger brothers ('Adam and Oliver's Adventure Collection', 17 Nov). HappyKids, a top Roku kids channel, now carries sing along songs with a bouncing ball over the lyrics. Total 2593."
   }
  ],
  "history": [
@@ -19362,6 +19390,10 @@
   {
    "date": "2026-11-19 06:37",
    "total": 2589
+  },
+  {
+   "date": "2026-11-19 06:43",
+   "total": 2593
   }
  ],
  "next_week_ideas": [
