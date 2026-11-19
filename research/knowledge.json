@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:41:37+05:30",
- "runs": 948,
+ "updated": "2026-11-19T09:42:35+05:30",
+ "runs": 949,
  "branches": [
   {
    "id": "platforms",
@@ -3772,6 +3772,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 946
+    },
+    {
+     "t": "Since 22 Oct 2026 the US YouTube mobile app shows Subscriptions as a Subs tab at the top of Home instead of a bottom bar button (the bar is now Home, Shorts, Create and You), so subscribers see our uploads less directly and Home recommendations matter even more.",
+     "src": "OutlierKit, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 949
+    },
+    {
+     "t": "YouTube's Todd Beaupre said that when a new channel publishes, zero viewers have it in their watch history, but parts of the system do not depend on that history; in practice a new kids channel's first videos are matched by their topic, so titles must name the topic plainly (for example 'Vegetable Soup Song for Kids').",
+     "src": "OutlierKit citing YouTube, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 949
+    },
+    {
+     "t": "Neither AIR's nor OutlierKit's month by month YouTube change logs list any confirmed ranking change in November 2026 (both end on 29 Oct), so the latest real shifts for us remain the 1 Oct Shorts originality push and custom feeds.",
+     "src": "AIR Media-Tech and OutlierKit, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 949
     }
    ]
   },
@@ -19486,11 +19507,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 869 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:51",
-   "note": "Run 870 (TRENDS (family dance challenge check)): Nothing new: the only kid friendly dances on this week's lists (Pikki Pikki thumbs up cheer, Chipmunks jump kick spin, Dame Hombro shoulder bounce, Christmas snowman moves) were already in the tree and trend bank. No leaves added. Total 2585."
+   "note": "Earlier runs summarised: all rounds through Run 870 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:36",
@@ -19803,6 +19820,10 @@
   {
    "date": "2026-11-19 09:41",
    "note": "Run 948 (YouTube main and Kids (TRENDS skipped, thin last round; Tubefilter 2 to 8 Nov, GoBooBoo)): Tubefilter's 2 to 8 Nov chart shows family vlog style channels still own the top (Cadel and Mia 890M a week even after a 24% drop), while the Spanish preschool channel El Tren Nam Nam fell 52% in one week. GoBooBoo (US, 4.29M) has 2.27B views from 197 videos but its newest upload had only about 39K views after two days, so its catalogue does the work. Total 2770."
+  },
+  {
+   "date": "2026-11-19 09:42",
+   "note": "Run 949 (YouTube algorithm (October and November 2026 change logs rechecked)): No new November ranking changes were confirmed (AIR and OutlierKit logs end 29 Oct). New: the US mobile app moved Subscriptions into a Subs tab at the top of Home, and YouTube says a first time channel has zero viewers with it in their history, so the first videos are matched by topic, which makes clear titles and topic words essential. Total 2773."
   }
  ],
  "history": [
@@ -20933,6 +20954,10 @@
   {
    "date": "2026-11-19 09:41",
    "total": 2770
+  },
+  {
+   "date": "2026-11-19 09:42",
+   "total": 2773
   }
  ],
  "next_week_ideas": [
