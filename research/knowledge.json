@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:48:04+05:30",
- "runs": 1030,
+ "updated": "2026-11-19T11:48:59+05:30",
+ "runs": 1031,
  "branches": [
   {
    "id": "platforms",
@@ -7237,6 +7237,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1028
+    },
+    {
+     "t": "About 32 of the 100 biggest US registered YouTube channels (vidIQ, 18 Nov 2026) are kids and family channels, led by CoComelon (203M), Vlad and Niki (151M), Kids Diana Show (138M) and Like Nastya (134M), with nursery rhyme brands Pinkfong (85M), LooLoo Kids (63M), BabyBus (44M), Little Baby Bum (42M) and Bebefinn (37M) further down.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1031
+    },
+    {
+     "t": "Channel Crawler's May 2026 list of fastest growing US education channels put CoComelon second (+1M subscribers in 30 days) and included a children's crafts and manners channel, SparkleToon (+400K), that posted 137 videos in one month, and 9 of the 10 fastest growers relied mainly on Shorts.",
+     "src": "Channel Crawler, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1031
     }
    ]
   },
@@ -16680,6 +16694,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1013
+    },
+    {
+     "t": "Metricool's YouTube feed for Bro Bros still ended at 16 Nov when checked at 11:50 IST on 19 Nov (2,150 subscribers, about 850 to 1,300 views a day from 12 to 16 Nov), so the YouTube side of this week's songs cannot be judged yet.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1031
     }
    ]
   },
@@ -20704,11 +20725,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 951 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:45",
-   "note": "Run 952 (music craft (Suno v6 Advanced Mode, Verona rhythm study rechecked)): The Verona rhythm study and most Suno v6 news were already in the tree. New for our workflow: v6 Advanced Mode sliders (Weirdness and Style Influence default 50%, a new Variety slider, Max Mode for consistent long vocals), voice memo, photo or video prompts, and Workspaces for keeping each week's songs apart. Total 2785."
+   "note": "Earlier runs summarised: all rounds through Run 952 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:46",
@@ -21021,6 +21038,10 @@
   {
    "date": "2026-11-19 11:48",
    "note": "Run 1030 (rules and monetisation (AI cleanup cases)): Kids policy, COPPA and AI slop letter news were already in the tree. New: the Spanish language AI channels removed in January 2026 included Cuentos Fascinantes (5.9M subscribers, 1.2B views) built on a borrowed anime franchise, and creator reports say faceless channels without visible human craft are being demonetised channel wide. Total 2944."
+  },
+  {
+   "date": "2026-11-19 11:48",
+   "note": "Run 1031 (YouTube main (own results skipped: Metricool YouTube data still stops at 16 Nov; US top 100 and growth lists)): Metricool still has no YouTube views after 16 Nov (2,150 subscribers), so own results were skipped. vidIQ's US top 100 (18 Nov) holds about 32 kids and family channels, and Channel Crawler's May growth list shows a high volume kids crafts channel (SparkleToon, 137 videos in a month) gaining 400K subscribers, with 9 of the top 10 growers built on Shorts. Total 2947."
   }
  ],
  "history": [
@@ -21731,6 +21752,10 @@
   {
    "date": "2026-11-19 11:48",
    "total": 2944
+  },
+  {
+   "date": "2026-11-19 11:48",
+   "total": 2947
   }
  ],
  "next_week_ideas": [
