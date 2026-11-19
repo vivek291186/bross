@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:45:32+05:30",
- "runs": 1027,
+ "updated": "2026-11-19T11:46:47+05:30",
+ "runs": 1028,
  "branches": [
   {
    "id": "platforms",
@@ -7223,6 +7223,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1022
+    },
+    {
+     "t": "Schoolies (US 3D nursery rhyme channel, 1.21M subscribers, about 738M views, 822 videos) slid from about 6M views in February 2026 to about 1.4M a month since, with flat subscribers, and its newest costume rhyme (16 Nov) had about 1.5K views after a day and a half, another sign that remade classic rhymes alone no longer win new reach.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1028
+    },
+    {
+     "t": "Schoolies' best videos are original funny or playful songs rather than classics: a gentle spooky chase song for babies (77M), a Halloween teacher medley (21M) and two 'Oopsie Doopsie' silly dance songs (23M and 18M), which again shows that an original catchy nonsense word chorus with a funny dance outperforms a channel's remade rhymes.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1028
     }
    ]
   },
@@ -20662,11 +20676,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 948 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:42",
-   "note": "Run 949 (YouTube algorithm (October and November 2026 change logs rechecked)): No new November ranking changes were confirmed (AIR and OutlierKit logs end 29 Oct). New: the US mobile app moved Subscriptions into a Subs tab at the top of Home, and YouTube says a first time channel has zero viewers with it in their history, so the first videos are matched by topic, which makes clear titles and topic words essential. Total 2773."
+   "note": "Earlier runs summarised: all rounds through Run 949 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:43",
@@ -20979,6 +20989,10 @@
   {
    "date": "2026-11-19 11:45",
    "note": "Run 1027 (global markets (Arabic kids market: BabyBus Arabic)): Dubbing and market size sources were already in the tree. New: BabyBus Arabic (Saudi listed, 10.6M subscribers, 7.1B views) steadily gets 75M to 90M views a month from dubbed songs, and its biggest hits are dancing coloured cakes and rainbow candy counting songs, showing simple colour and food counting songs travel into Arabic well. Total 2938."
+  },
+  {
+   "date": "2026-11-19 11:46",
+   "note": "Run 1028 (competitor deep dive (Little Angel, Hey Bear, Dave and Ava rechecked; Schoolies new)): Little Angel, Hey Bear and Dave and Ava data were already in the tree. New small benchmark: Schoolies (US, 1.21M subscribers, 738M views) fell from about 6M views a month in February to about 1.4M with flat subscribers, while its best videos remain a spooky chase song (77M) and two 'Oopsie Doopsie' funny dance songs. Total 2940."
   }
  ],
  "history": [
@@ -21677,6 +21691,10 @@
   {
    "date": "2026-11-19 11:45",
    "total": 2938
+  },
+  {
+   "date": "2026-11-19 11:46",
+   "total": 2940
   }
  ],
  "next_week_ideas": [
