@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:07:39+05:30",
- "runs": 976,
+ "updated": "2026-11-19T10:08:15+05:30",
+ "runs": 977,
  "branches": [
   {
    "id": "platforms",
@@ -11556,6 +11556,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 965
+    },
+    {
+     "t": "The Gingerbread Man is a public domain folk tale (early versions are free on Project Gutenberg) and a December classroom staple, so a 'Run, run, catch me if you can!' chase song is safe to adapt; we keep the chase and give it a friendly ending, since some parents dislike the fox eating him.",
+     "src": "Project Gutenberg and FOX 5 Atlanta, 2020",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 977
+    },
+    {
+     "t": "NORAD's Santa tracking ran for the 70th year in 2025 alongside Google's Santa Tracker, making 24 Dec a worldwide 'where is Santa now?' family moment; a Bro Bros Short counting the countries Santa flies over (with flags and a hello in each language) fits that evening.",
+     "src": "Vintage Aviation News and MacRumors, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 977
     }
    ]
   },
@@ -19976,11 +19990,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 897 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:06",
-   "note": "Run 898 (TRENDS (December festivals in the next four weeks)): The December calendar (Hanukkah 4 Dec, St Lucia 13 Dec, Simbang Gabi 16 to 24 Dec, Las Posadas, Kwanzaa) was already in the tree. One new detail: in Swedish school Lucia processions some children walk as gingerbread people carrying lanterns, and the candle crowns now use battery lights for safety, so a 'gingerbread parade with lanterns' scene is a playful, safe winter visual that fits several cultures. Total 2637."
+   "note": "Earlier runs summarised: all rounds through Run 898 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:07",
@@ -20293,6 +20303,10 @@
   {
    "date": "2026-11-19 10:07",
    "note": "Run 976 (music craft and seasons (kids Christmas channel monthly pattern, YouTube music charts last Christmas)): A small kids Christmas carols channel (251K) gains two to three times more views in December than November every year (Dec 2023 +9.3M vs Nov +2.8M; Dec 2025 +4.1M vs Nov +1.7M), and its top songs are Jingle Bells versions. In YouTube's music charts for 19 to 25 Dec 2025, the UK top 10 had 7 Christmas songs, the US 5, but India's top 50 had none, so Christmas songs should target the West while India gets winter and New Year songs. Total 2840."
+  },
+  {
+   "date": "2026-11-19 10:08",
+   "note": "Run 977 (topics and seasons (Gingerbread Man tale, Santa tracking on 24 Dec)): The Gingerbread Man is a public domain folk tale (old versions are on Project Gutenberg) and December classrooms use it every year, but the fox ending upsets some families, so a chase song with a friendly ending fits. NORAD's Santa tracking (70th year in 2025) and Google's tracker make 24 Dec a global 'where is Santa now?' moment. Total 2842."
   }
  ],
  "history": [
@@ -20787,9 +20801,17 @@
   {
    "date": "2026-11-19 10:07",
    "total": 2840
+  },
+  {
+   "date": "2026-11-19 10:08",
+   "total": 2842
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Run, Run, Gingerbread Bro! (Catch Me Chase Song)",
+   "why": "The Gingerbread Man is a public domain December classroom favourite; a chase song with a happy ending (everyone shares cookies), a running in place dance and a repeated 'catch me if you can!' chant suits a December Short and a classroom movement break."
+  },
   {
    "title": "Shh! Bear Is Sleeping (Hibernation Tiptoe Song)",
    "why": "Hibernation is a top preschool winter theme (Highlights); a freeze and tiptoe game song where the Bros creep past a sleeping bear and freeze when it snores. Meshy moves: standing tiptoe steps in place, finger to lips, sudden freeze pose."
@@ -20841,10 +20863,6 @@
   {
    "title": "Freeze, Bros, Freeze! (Winter Freeze Dance)",
    "why": "A stop and go dance song with a steady beat and a repeated 'freeze' hook; 2026 research shows rhythm and self control gains for 4 year olds from exactly this kind of play, and freeze games travel to every language."
-  },
-  {
-   "title": "Little Sled Lost Its Bell! (Winter Vehicle Rescue Song)",
-   "why": "The 'lost wheel' vehicle story built a 143M view hit and two 26M sequels for a small US channel; our winter version has the Bros help a sled, a snowplough and a toy train find what they lost, one vehicle per verse, a series we can repeat all season."
   }
  ],
  "trend_bank": [
