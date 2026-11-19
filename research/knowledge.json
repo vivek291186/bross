@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:37:02+05:30",
- "runs": 1083,
+ "updated": "2026-11-19T13:38:36+05:30",
+ "runs": 1084,
  "branches": [
   {
    "id": "platforms",
@@ -12319,6 +12319,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1077
+    },
+    {
+     "t": "A Christmas Carol retelling ('Ebenezer') won the US box office on 13 to 15 Nov 2026 with about 19M USD and The Angry Birds Movie returned to select cinemas on 13 Nov for its 10th anniversary, so the giving and kindness story of Christmas and silly birds are both in family conversation this month (we use only our own characters).",
+     "src": "Hollywood Reporter and Yahoo family guide, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1084
     }
    ]
   },
@@ -16316,6 +16323,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1081
+    },
+    {
+     "t": "The same 12 Nov 2026 report reminds parents that YouTube admits not every YouTube Kids video is reviewed by a person, which keeps parent trust as the deciding factor; a channel description and pinned playlist that state plainly what each song teaches gives worried parents a reason to pick us.",
+     "src": "KTAL via Yahoo News, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1084
     }
    ]
   },
@@ -21209,6 +21223,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1080
+    },
+    {
+     "t": "A parent TikTok trend reported on 12 Nov 2026 shows children repeating phrases, sounds and habits they picked up from videos on tablets, half as a joke and half as a worry about what kids watch, so Bro Bros songs should give kids short lines worth repeating (please, thank you, my turn, let's share) that make parents proud rather than nervous.",
+     "src": "KTAL via Yahoo News, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1084
     }
    ]
   }
@@ -21235,12 +21256,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:57",
-   "note": "Earlier: older log entries summarised; runs up to Run 1004 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:58",
-   "note": "Run 1005 (TRENDS (winter dance and Christmas countdown formats rechecked)): Nothing new: the 'Winter Vibes' snow dance, the text countdown to Christmas format and the tiny hidden message zoom were already in the tree and trend bank; snow eating clips were skipped for safety. No leaves added. Total 2893."
+   "note": "Earlier: older log entries summarised; runs up to Run 1005 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:58",
@@ -21553,6 +21570,10 @@
   {
    "date": "2026-11-19 13:37",
    "note": "Run 1083 (Shorts and Reels (Instagram content protection details, November changes rechecked)): Instagram's new content protection (17 Nov 2026) offers block, label, monitor or release for copies, an allow list for our own second accounts, and an AI copy detector that matches reused audio, which suits our own Suno songs. Other November Reels and Edits changes and the Dame Hombro and friend group trends were already in the tree. Total 3020."
+  },
+  {
+   "date": "2026-11-19 13:38",
+   "note": "Run 1084 (TRENDS (mid November lists rechecked, parent 'my kid repeats the tablet' trend, family film calendar)): Most mid November dance and format trends (Chipmunks dance, Dame Hombro, fan transition, slow motion entrances) were already in the bank. New: a 12 Nov parent trend of filming kids repeating phrases they picked up from tablet videos, which makes polite, repeatable song lines a selling point; Ebenezer topped the 13 to 15 Nov US box office and Angry Birds got a 10th anniversary cinema re release. Total 3023."
   }
  ],
  "history": [
@@ -22475,6 +22496,10 @@
   {
    "date": "2026-11-19 13:37",
    "total": 3020
+  },
+  {
+   "date": "2026-11-19 13:38",
+   "total": 3023
   }
  ],
  "next_week_ideas": [
@@ -22536,6 +22561,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Say it like the Bros",
+   "where": "TikTok and Reels parent clips (mid Nov 2026)",
+   "status": "rising",
+   "use": "A 20 second Reel: the Bros sing one polite line from the new song ('my turn, your turn'), then an animated little friend at the dinner table repeats it word for word and the Bros cheer; caption asks parents which line their kids repeat. Animated characters only, never real children. Our own song."
+  },
   {
    "name": "Called step party dance",
    "where": "Shorts, Reels, YouTube long form",
@@ -22649,12 +22680,6 @@
    "where": "YouTube Shorts (toddler colour and fruit sorting game Short at 3.1B, all time top 10, still recommended Nov 2026)",
    "status": "evergreen",
    "use": "25 second Short with our own counting song: fruits drop one per beat and Little Bro puts each into the bowl of the same colour (red apple to red bowl, yellow banana to yellow bowl), pausing one beat so kids can shout the colour first. Meshy prompt: a boy stands in place, reaches to the right with one hand, then moves the hand to the left and places it down, then claps once."
-  },
-  {
-   "name": "Jingle basket reveal",
-   "where": "TikTok and Reels family accounts (seasonal, 27 Nov to 1 Dec)",
-   "status": "seasonal",
-   "use": "A basket appears with a jingle; the brothers pull out mittens, a scarf, a drum and a book one by one and the viewer counts them (1 to 5) to our own counting song. No brands or candy logos. Meshy step: standing, reach forward with both hands, lift arms up in surprise, clap twice."
   }
  ],
  "posting_plan": {
