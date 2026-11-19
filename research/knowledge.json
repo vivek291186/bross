@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:47:17+05:30",
- "runs": 910,
+ "updated": "2026-11-19T07:48:22+05:30",
+ "runs": 911,
  "branches": [
   {
    "id": "platforms",
@@ -3639,6 +3639,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 908
+    },
+    {
+     "t": "YouTube is testing a 'Research' tab in YouTube Studio (Aug 2026, small group only) that shows other creators' videos with an outlier multiplier (how many times a video beat its channel's normal views, from about 4x to 132x) and a 'watched by my viewers' filter, the official version of the outlier hunting we do with vidIQ; if it appears in our Studio, it is the fastest way to pick next week's song topics.",
+     "src": "Tubefilter, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 911
+    },
+    {
+     "t": "OutlierKit's Oct 2026 Home feed guide says YouTube weighs how a video does on Home itself (not views from embeds, links or ads), and that a video reaching a wider Home audience usually shows a lower click rate because reach grew, so in YouTube Studio we should compare songs by Browse features views, not by click rate alone.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 911
+    },
+    {
+     "t": "With no viewing history to go on, YouTube matches a new channel's videos to viewers by topic, and the new prompt based custom feeds match plain language requests, so each Bro Bros title and description should state the plain topic a parent would type ('winter animals song for toddlers', 'counting song with dancing') rather than only a clever name.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 911
     }
    ]
   },
@@ -18824,10 +18845,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 03:37",
-   "note": "Run 832 (music craft (rhythm and repetition research)): A Feb 2026 Annals of the NY Academy of Sciences review (Lense lab) argues a steady beat makes repeated words predictable and 'supercharges' song communication with babies; a 2026 Verona study found 8 weeks of music sessions lifted rhythm skills in 2 and 4 year olds and focus skills only in 4 year olds, with no vocabulary gain. Pinkfong's Santa Shark shows the holiday remake of a signature song. Total 2450."
-  },
-  {
    "date": "2026-11-19 03:38",
    "note": "Run 833 (visual craft (Disney Jr. 2026 preschool CG looks)): Thumbnail and calm style research was already deep in the tree. New from Disney Jr.'s 2026 shows: Sofia the First: Royal Magic swapped flat toon shading for dappled, sunlit cinematic lighting on one huge reusable set; Cars: Lightning Racers made heroes chunkier, stages them facing the camera like actors on a stage, and after testing built episodes around everyday life plus a repeated 'get ready' sequence. Total 2454."
   },
@@ -19138,6 +19155,10 @@
   {
    "date": "2026-11-19 07:47",
    "note": "Run 910 (TRENDS (Reels this week: Christmas switch over formats, cozy market reveals)): Reels for 9 to 15 Nov show the holiday wave settling in: 'Christmas music is allowed now' first festive moment clips, the 'it's time' switch over, and calm 'Christmas market' reveals of handmade gifts in slow shots; Instagram's top audio this week is US patriotic and a calm 'Vintage November' instrumental. Added 'Cozy market reveal' to the trend bank and moved the season starts reveal to peak. Total 2675."
+  },
+  {
+   "date": "2026-11-19 07:48",
+   "note": "Run 911 (YouTube algorithm (rules and own results skipped, nothing new; Studio Research tab, Home only views)): Rules and our own Metricool data had nothing new, so the round went to the algorithm. YouTube is testing a Studio 'Research' tab with outlier multipliers and a 'watched by my viewers' filter, and OutlierKit's October update stresses judging Home performance from Browse only views and expecting click rate to fall as Home reach grows. Total 2678."
   }
  ],
  "history": [
@@ -20116,6 +20137,10 @@
   {
    "date": "2026-11-19 07:47",
    "total": 2675
+  },
+  {
+   "date": "2026-11-19 07:48",
+   "total": 2678
   }
  ],
  "next_week_ideas": [
