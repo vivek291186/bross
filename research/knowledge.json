@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T04:37:07+05:30",
- "runs": 1428,
+ "updated": "2026-11-20T04:38:30+05:30",
+ "runs": 1429,
  "branches": [
   {
    "id": "platforms",
@@ -4605,6 +4605,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1405
+    },
+    {
+     "t": "Metricool's 2026 YouTube study (via eMarketer) found 61% of organic views now come from the Shorts feed, 11% from subscribers and 9% from search, and only 3% of viewers go to a creator's channel page directly, so YouTube works as a discovery feed far more than as a channel you visit.",
+     "src": "eMarketer citing Metricool, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1429
+    },
+    {
+     "t": "In the same study Shorts views rose about 127% year on year while brands posted over 20% more Shorts, but watch time per Short fell about 67% and interactions about 15%, so each Short now has to win in the first second against far more competition.",
+     "src": "eMarketer citing Metricool, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1429
+    },
+    {
+     "t": "YouTube's discovery lead says recommendations are ranked separately for each viewer in each session, so averages in Studio mix very different audiences (a toddler on a family TV, a parent on a phone); comparing a song's results by device and traffic source tells us more than its overall click rate.",
+     "src": "PPC Land (Creator Insider), Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1429
     }
    ]
   },
@@ -19508,6 +19529,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1427
+    },
+    {
+     "t": "Against Metricool's 2026 average (61% of organic views from the Shorts feed) Bro Bros got only about 0.3% of views from the Shorts feed in 2 to 16 Nov, so our Shorts are barely being shown at all; making Shorts as their own stand alone pieces is our largest untapped source of views.",
+     "src": "Metricool (our data) and eMarketer, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1429
     }
    ]
   },
@@ -24539,12 +24567,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 22:39",
-   "note": "Earlier runs summarised: 5 older log lines merged, steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-19 22:40",
-   "note": "Run 1350 (visual craft recheck (Meshy, Blender, thumbnails)): Nothing new: Meshy's changelog still stops at September with Text to Motion from July, Blender 5.1 and Test and Compare limits for kids videos were already covered. No leaves added. Chrome not available. Total 3358."
+   "note": "Earlier runs summarised: 6 older log lines merged, steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 22:41",
@@ -24857,6 +24881,10 @@
   {
    "date": "2026-11-20 04:37",
    "note": "Run 1428 (TRENDS (this week's group dance clips)): Most Reels and TikTok lists for this week were already in the tree. From a 16 Nov top 19 list, the biggest clips were walk and reveal formats rather than dances; the group dances that travel are turn taking and 'two freeze, one keeps going', both added to the trend bank (replacing 'This is your sign' and 'Call the pose number'). The 'kick a ball' fake out trend is not family friendly. Chrome not available. Total 3492."
+  },
+  {
+   "date": "2026-11-20 04:38",
+   "note": "Run 1429 (YouTube algorithm (where organic views come from)): Most algorithm news (originality push for Shorts, the 8 times recommendation cap, subscriber click rates, fewer long videos per Home row) was already in the tree. New: in Metricool's 2026 study 61% of organic YouTube views come from the Shorts feed against only 0.3% for us, so our Shorts are the biggest untapped door; Shorts watch time per view fell about two thirds while brands posted 20% more. Chrome not available. Total 3496."
   }
  ],
  "history": [
@@ -25843,6 +25871,10 @@
   {
    "date": "2026-11-20 04:37",
    "total": 3492
+  },
+  {
+   "date": "2026-11-20 04:38",
+   "total": 3496
   }
  ],
  "next_week_ideas": [
