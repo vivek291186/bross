@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:43:34+05:30",
- "runs": 1293,
+ "updated": "2026-11-19T19:44:16+05:30",
+ "runs": 1294,
  "branches": [
   {
    "id": "platforms",
@@ -22980,6 +22980,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1285
+    },
+    {
+     "t": "Snow day announcement music videos are a yearly winter tradition in some US school districts: a Michigan superintendent films a parody music video with students and staff and releases it with the closure news (Jan 2025, shot a year ahead), and principals in other states do the same, so a 'Snow day, no school!' Bro Bros song lands with families on the first big snow days of December and January.",
+     "src": "C&G News, Jan 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1294
+    },
+    {
+     "t": "Doorbell and home camera clips of a child's spontaneous happy dance at the first snow of the season go viral almost every year (a 7 year old in Colorado is the classic case), so a short 'first snow happy dance' moment is an evergreen hook for our winter Shorts.",
+     "src": "CBS Colorado, 2018",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1294
     }
    ]
   }
@@ -23008,10 +23022,6 @@
   {
    "date": "2026-11-19 16:03",
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
-   "date": "2026-11-19 16:38",
-   "note": "Run 1215 (Shorts and Reels algorithm (Meta Q3 2026 ranking statements)): New: Meta said in its Q3 2026 call that Instagram now ranks sets of Reels together instead of scoring each Reel alone, and that almost 45% of recommended Reels are under a day old (up 11 points from Q2), with most engagement on day one, so a fresh Reel every day and a clear, consistent kids music theme matter more than reposting old Reels. Total 3166."
   },
   {
    "date": "2026-11-19 16:39",
@@ -23324,13 +23334,13 @@
   {
    "date": "2026-11-19 19:43",
    "note": "Run 1293 (competitor deep dive (Hey Bear Sensory, Bounce Patrol, Blocks recheck)): Nothing new: Hey Bear's 95 video catalogue and extended dance mixes, Bounce Patrol's stall and puppet collabs, and the Blocks Universe Christmas single with a K pop group were already in the tree. No leaves added. Total 3273."
+  },
+  {
+   "date": "2026-11-19 19:44",
+   "note": "Run 1294 (TRENDS (winter snow day formats)): New (seasonal evergreen): US school districts announce snow days with music videos (a Michigan superintendent now releases one each winter with students), and doorbell clips of kids doing a happy dance at the first snow go viral each year; added a 'Snow day happy dance' entry to the trend bank with our own song. Total 3275."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:51",
-   "total": 2878
-  },
   {
    "date": "2026-11-19 10:52",
    "total": 2881
@@ -24526,6 +24536,10 @@
   {
    "date": "2026-11-19 19:43",
    "total": 3273
+  },
+  {
+   "date": "2026-11-19 19:44",
+   "total": 3275
   }
  ],
  "next_week_ideas": [
@@ -24587,6 +24601,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Snow day happy dance",
+   "where": "YouTube Shorts, Instagram Reels (first snow days, Dec to Jan)",
+   "status": "seasonal",
+   "use": "A 15 second Short with our own 'Snow day, no school!' hook: the little brother looks out of the window, sees snow, turns to camera with a huge smile, then both Bros do a happy dance: four quick jumps in place with fists pumping, two wiggles side to side, then arms flung up as snow falls. Meshy prompt: standing in place, excited jumps with fist pumps, hip wiggle left and right, both arms up. Caption 'When it snows for the first time'."
+  },
   {
    "name": "Magic word tidy up",
    "where": "Instagram Reels, YouTube Shorts (riding the late Nov magic film buzz)",
@@ -24676,12 +24696,6 @@
    "where": "Reels, Shorts, TikTok",
    "status": "seasonal",
    "use": "For Ugly Sweater Day (Fri 18 Dec): the brothers stand in plain jumpers, clap twice, and on the beat drop the camera tilts up from their shoes to reveal very silly Christmas sweaters (a dancing reindeer, flashing tree lights); they do a proud catwalk turn and a shoulder shimmy in place. 10 to 15 seconds with our own Christmas song."
-  },
-  {
-   "name": "Word ladder to the beat",
-   "where": "TikTok, Reels, Shorts",
-   "status": "rising",
-   "use": "Our own spelling song game: the brothers start at CAT and must reach DOG, changing one letter per beat (CAT, COT, DOT, DOG); each new word pops up as big letters and both do a jump in place when the word is right. 20 to 30 seconds, a new ladder every week (SUN to FUN to RUN), original music only."
   },
   {
    "name": "Little brother plays everyone",
