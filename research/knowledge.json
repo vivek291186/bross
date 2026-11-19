@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:39:45+05:30",
- "runs": 1424,
+ "updated": "2026-11-20T03:40:29+05:30",
+ "runs": 1425,
  "branches": [
   {
    "id": "platforms",
@@ -24422,6 +24422,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1422
+    },
+    {
+     "t": "YouTube's 2025 year end lists (2 Dec 2025) put a Roblox Shorts creator at No. 2 among top creators and the Australian kid duo Cadel and Mia at No. 5, with four songs from an animated K pop film in the top 10 songs; the 2026 lists, likely out in early December, will again spotlight kid heavy Shorts, game worlds and animated film music, worth matching with our own game world and pop style songs.",
+     "src": "Tubefilter, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1425
+    },
+    {
+     "t": "Tubefilter noted in Dec 2025 that MrBeast's Shorts viewership had passed his long form total, a sign that even the biggest long form channels now get most views from Shorts, so our Short cut of each song is not an extra but a main product.",
+     "src": "Tubefilter, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1425
     }
    ]
   }
@@ -24448,12 +24462,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 22:35",
-   "note": "Earlier runs summarised: 2 older log lines merged (2026-11-19 21:48 to 2026-11-19 22:35), steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-19 22:37",
-   "note": "Run 1346 (YouTube algorithm (Creator Insider recheck)): Mostly covered already; added that signal weights differ by device (time on TV, likes on phones), a tested cap of eight recommendations per viewer per video, and the one channel versus two channels rule. Shorts 30 day freshness and in depth claims were old or unsourced. Chrome not available. Total 3357."
+   "note": "Earlier runs summarised: 2 older log lines merged (2026-11-19 22:35 to 2026-11-19 22:37), steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 22:38",
@@ -24766,6 +24776,10 @@
   {
    "date": "2026-11-20 03:39",
    "note": "Run 1424 (competitor deep dive (Lalafun US feed, Moonbug recheck)): Moonbug's every platform strategy and Lalafun's Canada feed were already in the tree; added Lalafun's main US feed: views down from about 53M a month a year ago to about 17M now with flat subscribers, and its newest original song barely moving while old baby animal compilations carry the channel. Chrome not available. Total 3479."
+  },
+  {
+   "date": "2026-11-20 03:40",
+   "note": "Run 1425 (TRENDS (December outlook from last year's Shorts recap)): December 2025 Shorts trends (honest fails, year in 15 seconds recaps) were already in the tree; added YouTube's 2025 top creators list, where a Roblox Shorts creator was No. 2 and a kid family duo No. 5, as a guide to what this year's early December recap is likely to celebrate. Chrome not available. Total 3481."
   }
  ],
  "history": [
@@ -25736,6 +25750,10 @@
   {
    "date": "2026-11-20 03:39",
    "total": 3479
+  },
+  {
+   "date": "2026-11-20 03:40",
+   "total": 3481
   }
  ],
  "next_week_ideas": [
