@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:38:54+05:30",
- "runs": 1337,
+ "updated": "2026-11-19T21:39:50+05:30",
+ "runs": 1338,
  "branches": [
   {
    "id": "platforms",
@@ -12088,6 +12088,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1314
+    },
+    {
+     "t": "DreamWorks' new Netflix preschool show Doozie's Doghouse (rated 3+, Nov 2026) repeats the same ritual every episode: a special sound cue, a surprise box that sets the day's theme, puppy ears plus magic words to shrink into a bright animated world, and a closing song that sums up the adventure; Common Sense says preschoolers like this predictable formula, so each Bro Bros video can open and close with the same short signature ritual.",
+     "src": "commonsensemedia.org, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1338
     }
    ]
   },
@@ -13593,6 +13600,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1315
+    },
+    {
+     "t": "Doozie's Doghouse folds shapes, colours, music, emotions and vocabulary into crafts and treat making, and pauses to ask viewers direct questions (for example which yellow fruit a shape looks like), with 'be yourself' and 'keep trying' messages carried by songs, a lesson mix our own songs can match with a pause and answer moment.",
+     "src": "commonsensemedia.org, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1338
     }
    ]
   },
@@ -23454,12 +23468,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:46",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1258)."
-  },
-  {
    "date": "2026-11-19 18:47",
-   "note": "Run 1259 (our results (Metricool rechecked at 18:47 IST, read only)): Nothing new: YouTube data still ends at 16 Nov (2,150 subscribers) and the only Reels in Metricool are the two 18 Nov ones already logged (127 and 111 views, about 4 second average watch); 19 Nov posts not in yet. No leaves added. Total 3245."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1259)."
   },
   {
    "date": "2026-11-19 18:48",
@@ -23772,13 +23782,13 @@
   {
    "date": "2026-11-19 21:38",
    "note": "Run 1337 (music craft (holiday songs and classroom routines)): Holiday charts stay ruled by classics, with few new songs breaking in; KIDZ BOP sells its 3 hour Christmas album by family activity; a small preschool study ties clap along routine songs to longer focus. Chrome not available. Total 3337."
+  },
+  {
+   "date": "2026-11-19 21:39",
+   "note": "Run 1338 (visual craft (Doozie's Doghouse format; thumbnails and Blender 5.3 already covered)): Netflix's new top 10 preschool show repeats one signature ritual each episode (sound cue, surprise box, magic words, recap song) and pauses to ask viewers questions; Meshy still has no new motion features since July. Chrome not available. Total 3339."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:53",
-   "total": 2959
-  },
   {
    "date": "2026-11-19 11:54",
    "total": 2961
@@ -24974,6 +24984,10 @@
   {
    "date": "2026-11-19 21:38",
    "total": 3337
+  },
+  {
+   "date": "2026-11-19 21:39",
+   "total": 3339
   }
  ],
  "next_week_ideas": [
