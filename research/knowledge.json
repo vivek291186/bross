@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:45:34+05:30",
- "runs": 1297,
+ "updated": "2026-11-19T19:46:18+05:30",
+ "runs": 1298,
  "branches": [
   {
    "id": "platforms",
@@ -4479,6 +4479,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1280
+    },
+    {
+     "t": "YouTube demoed video cut testing on 25 Sep 2026: upload two or three edits of the same video (for example two different openings) and Studio shows each one's retention curve so the creator keeps the cut that holds attention; it is still 'coming soon', title testing took 84 days from stage debut to creators, so mid December is the earliest likely date, and access for made for kids channels is not confirmed.",
+     "src": "PPC Land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1298
     }
    ]
   },
@@ -23053,10 +23060,6 @@
   },
   {
    "date": "2026-11-19 16:42",
-   "note": "Run 1219 (TRENDS (dance challenges and Later's 13 Nov Reels list)): Nothing new: Later's 13 Nov formats (5 stages of being, locked camera outfit change, appointment timestamps), the Ramalama feet up reveal and the Amapiano family dances were already in the tree; the father and son Pantsula kitchen dance found is from Nov 2025. No leaves added. Total 3169."
-  },
-  {
-   "date": "2026-11-19 16:42",
    "note": "Run 1220 (global markets (Sub-Saharan Africa YouTube growth)): New: Google's Mar 2026 Johannesburg figures show YouTube watch time growing 30% a year in Kenya, 20% in South Africa and 15% in Nigeria (adult mobile reach 35M Nigeria, 25M South Africa, 12M Kenya), and an older Kaspersky measure found Kenyan children spend more than half of their popular app time on YouTube, so English language Africa is a fast growing, English first market for Bro Bros. Total 3172."
   },
   {
@@ -23366,13 +23369,13 @@
   {
    "date": "2026-11-19 19:45",
    "note": "Run 1297 (TRENDS (classroom dance clips and Reels formats)): Nothing new: teacher and student dance battles (veggie dance, Zep challenge, Thumak Thumak join in one by one) and this week's Reels template lists were already in the tree. No leaves added. Total 3279."
+  },
+  {
+   "date": "2026-11-19 19:46",
+   "note": "Run 1298 (YouTube algorithm (testing tools and kids channel cases)): Small: YouTube's video cut testing (two or three edits of one video, judged by retention curves) was demoed on 25 Sep 2026 as 'coming soon'; if it follows title testing's 84 day path it could reach Studio around mid December, but whether made for kids channels get it is not stated. The AIR 7.55M kids channel case was already in the tree. Total 3280."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:54",
-   "total": 2887
-  },
   {
    "date": "2026-11-19 10:55",
    "total": 2887
@@ -24568,6 +24571,10 @@
   {
    "date": "2026-11-19 19:45",
    "total": 3279
+  },
+  {
+   "date": "2026-11-19 19:46",
+   "total": 3280
   }
  ],
  "next_week_ideas": [
