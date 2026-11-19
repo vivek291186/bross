@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:44:51+05:30",
- "runs": 1106,
+ "updated": "2026-11-19T14:46:03+05:30",
+ "runs": 1107,
  "branches": [
   {
    "id": "platforms",
@@ -2260,6 +2260,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1096
+    },
+    {
+     "t": "In the 7 days to 18 Nov 2026 the single most viewed video on all of YouTube was a kids manners Short (a baby sharing food with farm animals, +80.2M views), ahead of every music video, so a short, wordless good manners story is the strongest Short shape for kids right now.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1107
+    },
+    {
+     "t": "Kids Shorts filled 6 of YouTube's 10 most viewed videos in the week to 18 Nov 2026 (manners, winter clothes, counting with a slide, a colour game, a colour truck refill and a cartoon story), and 36 of the week's top 100 videos were made for kids.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1107
+    },
+    {
+     "t": "A family challenge Short (a giant water balloon trying to knock down bowling pins) made the same weekly top 20 with +9.6M, showing that simple 'will it work?' physical game moments travel without words; Bro Bros can stage an animated version (a giant snowball rolling at toy pins) with our own song.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1107
     }
    ]
   },
@@ -7552,6 +7573,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1101
+    },
+    {
+     "t": "The kids long videos in the same weekly top 25 are all old evergreen classics (Wheels on the Bus +32.4M, Baby Shark Dance +22.9M, a baby first words video +13M, Baby Shark again +8.6M), so new long songs win slowly through search and Home while new Shorts can hit the weekly top 10 within days.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1107
+    },
+    {
+     "t": "Kidshire's 'Winter Clothes for Kids' picture word Short added another 51.5M views in the week to 18 Nov 2026 after about 54.6M the week before, so a simple winter vocabulary Short keeps climbing through November, a strong case for a Bro Bros winter clothes dance Short now.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1107
     }
    ]
   },
@@ -21551,11 +21586,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1027 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:46",
-   "note": "Run 1028 (competitor deep dive (Little Angel, Hey Bear, Dave and Ava rechecked; Schoolies new)): Little Angel, Hey Bear and Dave and Ava data were already in the tree. New small benchmark: Schoolies (US, 1.21M subscribers, 738M views) fell from about 6M views a month in February to about 1.4M with flat subscribers, while its best videos remain a spooky chase song (77M) and two 'Oopsie Doopsie' funny dance songs. Total 2940."
+   "note": "Earlier: older log entries summarised; runs up to Run 1028 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:47",
@@ -21868,6 +21899,10 @@
   {
    "date": "2026-11-19 14:44",
    "note": "Run 1106 (YouTube algorithm (AIR monthly tracker, Beaupre interview, YouTube Kids app rechecked)): Nothing new: AIR's tracker lists no November 2026 change after its 4 Nov update, and October's changes (original Shorts favoured, custom Home feeds, hacked channel pauses, 20 USD payout test, spam cleanup lock) plus the Sep 2026 Beaupre advice and the YouTube Kids app layout were all already in the tree. No leaves added. Total 3065."
+  },
+  {
+   "date": "2026-11-19 14:46",
+   "note": "Run 1107 (Shorts and Reels (Trendreport weekly top videos to 18 Nov; Reels controls rechecked)): New: in the 7 days to 18 Nov the most viewed video on all of YouTube was a manners Short (a baby sharing food with farm animals, +80.2M), kids Shorts held 6 of the top 10, and 36 of the top 100 weekly videos were made for kids. Instagram's Your Algorithm and ranking weights were already known. Total 3070."
   }
  ],
  "history": [
@@ -22882,9 +22917,17 @@
   {
    "date": "2026-11-19 14:44",
    "total": 3065
+  },
+  {
+   "date": "2026-11-19 14:46",
+   "total": 3070
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Bundle Up, Bros! (Winter Clothes Dance Song)",
+   "why": "Kidshire's winter clothes word Short added about 106M views in two weeks (to 18 Nov 2026); each verse puts on one item (hat, scarf, mittens, boots, coat) with a standing dance move (pull hat down, wrap scarf twice, clap mittens, stomp boots, zip coat), ending with a snowball cheer."
+  },
   {
    "title": "Player Two, Come Play! (Mum and Dad Join the Dance Game Song)",
    "why": "71% of US kids (81% of 5 to 8 year olds) want parents to play games with them more, up from 58% last year; a game style dance with level up banners where a parent becomes player two fits December family time without naming any real game."
@@ -22936,10 +22979,6 @@
   {
    "title": "Stack It Up, Make It Glow! (Singing Blocks Colour Song)",
    "why": "Light up, sound making bricks top this Christmas's toy trends (Which?, 17 Nov); each block the Bros stack glows a colour and sings its name, an original counting and colours song with a simple stack and reach up move for Meshy."
-  },
-  {
-   "title": "Would You Rather, Bros? (Winter Choice Dance Game)",
-   "why": "Game titled brain breaks are what growing brands like Danny Go! post; each verse offers two winter moves (skate like a penguin or roll like a snowball) shown side by side so kids pick and copy, easy to dub."
   }
  ],
  "trend_bank": [
