@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:55:30+05:30",
- "runs": 1421,
+ "updated": "2026-11-20T03:37:51+05:30",
+ "runs": 1422,
  "branches": [
   {
    "id": "platforms",
@@ -24338,6 +24338,41 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1419
+    },
+    {
+     "t": "Tokchart on 18 Nov 2026: the soft launch reveal sound (a Portuguese account's cut of an acoustic cover, first used 3 Nov) had 614.6K videos and was adding about 76K a day, down 12% on the day before (it was about 130K a day a day earlier), so this reveal format peaked about two weeks after it started; any Bro Bros reveal Short built on it should go out this week, not next.",
+     "src": "tokchart.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1422
+    },
+    {
+     "t": "That same soft launch sound was No. 1 in Portugal and Ireland but 38% of its uses came from the US (then UK 6%, Germany 6%, Brazil 5%), showing a sound posted from one country can be carried worldwide mostly by US creators.",
+     "src": "tokchart.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1422
+    },
+    {
+     "t": "Last December's biggest reaction dance meme (a TV actor dancing alone with eyes closed in a club to 'Turn the Lights Off') had its first post on 11 Oct 2025 but spiked in early to mid December, when the song hit No. 1 on Spotify's Viral 50; holiday season dance memes can sit quiet for two months and then explode in the two weeks before Christmas, so watch October to November seeds now.",
+     "src": "Know Your Meme, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1422
+    },
+    {
+     "t": "Many 2026 'dance trends' are built on film or TV audio with adult tone (a horror film dinner scene breakdown dance in July 2026, crime drama clips), so a trend name alone is not enough: check the source audio and top posts before a Bro Bros version, and always use our own music.",
+     "src": "Know Your Meme, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1422
+    },
+    {
+     "t": "A Chinese military arts group routine called 'We Are All Brothers' (a 2017 Bilibili clip) went viral again on Douyin and TikTok in Sep to Oct 2025 as cosplay copies; the line of 'brothers' moving in perfect unison suits Bro Bros, but its signature high kick split breaks our standing only rule, so copy the unison line idea, not the kick.",
+     "src": "Know Your Meme, Oct 2025",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1422
     }
    ]
   }
@@ -24364,12 +24399,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 20:46",
-   "note": "Summary of earlier runs: steady research across all focuses; see git history."
-  },
-  {
    "date": "2026-11-19 21:48",
-   "note": "Run 1343 (rules and safety recheck): Nothing new: the Disney COPPA settlement, Australia's under 16 ban results and High Court hearing, the UK ban plan and YouTube's Dublin kids and teens summit were all already in the tree. No leaves added. Chrome not available. Total 3347."
+   "note": "Earlier runs summarised: 2 older log lines merged (2026-11-19 20:46 to 2026-11-19 21:48), steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 21:48",
@@ -24682,6 +24713,10 @@
   {
    "date": "2026-11-20 02:55",
    "note": "Run 1421 (posting times recheck (visual craft skipped, covered in run 1417)): Nothing new: Metricool's YouTube model for 21 to 27 Nov again peaks at 16:00 IST every day (Wednesday about 12.0K, Thursday 12.0K, Tuesday 10.4K) with weekends about half; posting plan unchanged. No leaves added. Chrome not available. Total 3467."
+  },
+  {
+   "date": "2026-11-20 03:37",
+   "note": "Run 1422 (TRENDS (trend lifespans and caution list)): Most of this week's Reels and TikTok lists (Later 13 Nov, SocialPilot 17 Nov, NewEngen 16 Nov, B&T 2 Nov) were already in the tree. New: the soft launch reveal sound is already slowing (76K new videos a day on 18 Nov, down 12%), last December's biggest reaction dance started in October, and two dance trends to avoid. Swapped 'Expectation vs reality' (past peak) for 'Shy then dance' in the trend bank. Chrome not available. Total 3472."
   }
  ],
  "history": [
@@ -25640,6 +25675,10 @@
   {
    "date": "2026-11-20 02:55",
    "total": 3467
+  },
+  {
+   "date": "2026-11-20 03:37",
+   "total": 3472
   }
  ],
  "next_week_ideas": [
@@ -25702,6 +25741,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Shy then dance",
+   "where": "TikTok and Reels (camera shy pet sound, fastest growing worldwide 18 Nov 2026)",
+   "status": "peak",
+   "use": "A 10 second Short with our own bouncy song: Little Bro peeks from behind Big Bro and turns away shyly twice, Big Bro nudges him, then on the chorus drop Little Bro bursts out and both dance. Meshy prompt: standing in place, turn head away and cover face with both hands, then throw arms up, bounce knees and swing arms side to side, no floor moves."
+  },
+  {
    "name": "Shoulder bounce",
    "where": "TikTok and Reels worldwide (Dame Hombro shoulder dance, Oct to Nov 2026)",
    "status": "peak",
@@ -25742,12 +25787,6 @@
    "where": "TikTok, Reels, Shorts (copy the clip dances, from 7 Nov 2026, rising)",
    "status": "rising",
    "use": "Split screen Short: on the left a tiny 6 second Bro dance from our own song (step side right, step side left, two claps, wave both hands beside the face, small hop in place, freeze with a big smile); on the right the second Bro tries to copy it exactly and gets one move funny wrong, then both do it perfectly together. End card text: 'Can YOU copy it?'. Standing, in place, no floor moves."
-  },
-  {
-   "name": "Expectation vs reality",
-   "where": "TikTok formats, peaking 16 Nov",
-   "status": "peak",
-   "use": "Split Short: 'Expectation' a Bro calmly building a perfect snowman to our winter song; 'Reality' the snowman falls over and both Bros freeze, stare, then laugh and dance anyway. Kind, no one is mocked."
   },
   {
    "name": "This is your sign",
