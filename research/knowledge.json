@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:49:12+05:30",
- "runs": 1063,
+ "updated": "2026-11-19T12:49:57+05:30",
+ "runs": 1064,
  "branches": [
   {
    "id": "platforms",
@@ -7328,6 +7328,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1052
+    },
+    {
+     "t": "CoComelon Playdates with Sanrio Friends launched on a dedicated YouTube channel on 24 Jan 2026 with one 3 minute episode every Saturday, in a softer 2D pastel style than the main 3D show, mixing five Japanese nursery rhymes with a J pop flavoured remake, so even the biggest brand builds a separate channel, a fixed weekly slot and a regional music flavour for a new audience.",
+     "src": "Moonbug, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1064
+    },
+    {
+     "t": "Moonbug released four songs from that crossover on music streaming a day before the first episode, a simple release order Bro Bros can copy: song on Spotify and Apple Music first, video the next day, so early listeners become the first viewers.",
+     "src": "Moonbug, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1064
     }
    ]
   },
@@ -21039,12 +21053,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:37",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 984 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:38",
-   "note": "Run 985 (YouTube algorithm (Beaupre subscriber feed, 2027 Partner Program clauses rechecked)): Nothing new: Todd Beaupre's September points (subscribers click 10% or less of uploads, topic matching for new channels) and the 1 Feb 2027 Partner Program changes (8,000 watch hours or 20M Shorts views for new applicants, 10M rolling Shorts floor, activity test, accept terms by 31 Jan) were already in the tree. No leaves added. Total 2857."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 985 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:39",
@@ -21357,6 +21367,10 @@
   {
    "date": "2026-11-19 12:49",
    "note": "Run 1063 (global markets (Spanish speaking Latin America, India rechecked)): El Reino Infantil's single biggest market is Mexico (39.1M subscribers and 32.4B views on its Mexican audience as of Jul 2026) and its farm characters moved onto Roblox in 2026; Plim Plim's Christmas 2025 peak came from live shows and TV telethons as much as YouTube. Infobells and Canticuentos facts were already in the tree. Total 2992."
+  },
+  {
+   "date": "2026-11-19 12:49",
+   "note": "Run 1064 (competitor deep dive (CoComelon spin offs, BabyBus)): CoComelon's Sanrio crossover runs on its own YouTube channel with 3 minute 2D pastel episodes every Saturday since 24 Jan 2026, mixing five Japanese nursery rhymes and a J pop style remake, with the songs on streaming services a day before the episodes. The Disney+ move in 2027, the film and The Melon Patch were already in the tree. Total 2994."
   }
  ],
  "history": [
@@ -22199,6 +22213,10 @@
   {
    "date": "2026-11-19 12:49",
    "total": 2992
+  },
+  {
+   "date": "2026-11-19 12:49",
+   "total": 2994
   }
  ],
  "next_week_ideas": [
