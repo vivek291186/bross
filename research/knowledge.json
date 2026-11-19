@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:03:22+05:30",
- "runs": 969,
+ "updated": "2026-11-19T10:03:50+05:30",
+ "runs": 970,
  "branches": [
   {
    "id": "platforms",
@@ -10233,6 +10233,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 953
+    },
+    {
+     "t": "A University of Vermont study showed 41 children (24 typically developing, 17 with ADHD) the same 9.5 minute cartoon cut fast or slow and found no pace effect on attention or self control for typical children and only a small non significant one for the ADHD group, adding to evidence that brisk cutting in our dance videos is not harmful by itself.",
+     "src": "University of Vermont ScholarWorks",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 970
     }
    ]
   },
@@ -19885,11 +19892,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 890 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:02",
-   "note": "Run 891 (other platforms (Netflix kids charts, Spotify kids)): Nothing new: Netflix's 2026 animated leaders (Peppa Pig, The Creature Cases, Masha, CoComelon, Little Angel, Booba, Lottie Dottie Chicken, Bebefinn), Gabby's Dollhouse season 14 and the CoComelon move to Disney+ in 2027 were all already in the tree, and Spotify has no new kids chart this month. No leaves added. Total 2627."
+   "note": "Earlier runs summarised: all rounds through Run 891 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:03",
@@ -20202,6 +20205,10 @@
   {
    "date": "2026-11-19 10:03",
    "note": "Run 969 (TRENDS (Reels format archives: Nuelink 2026, Quso)): This week's lists were already covered, so the round mined 2026 Reels format archives for evergreen kid safe transitions: 'stomp to reveal' and a black and white to full colour switch, plus last December's calm snowfall and Christmas pyjama dance formats. Replaced the faded '5 stages of' in the trend bank with 'Stomp to reveal'. Total 2827."
+  },
+  {
+   "date": "2026-11-19 10:03",
+   "note": "Run 970 (visual craft (animation pacing research rechecked)): Thin: the Developmental Science meta analysis (pace matters less than impossible fantasy events) was already in the tree. New small support: a University of Vermont study of 41 children found a fast cut version of a 9.5 minute cartoon had no effect on typical children's attention and only a small non significant effect for children with ADHD. Total 2828."
   }
  ],
  "history": [
@@ -20668,6 +20675,10 @@
   {
    "date": "2026-11-19 10:03",
    "total": 2827
+  },
+  {
+   "date": "2026-11-19 10:03",
+   "total": 2828
   }
  ],
  "next_week_ideas": [
