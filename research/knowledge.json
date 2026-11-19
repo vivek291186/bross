@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:44:32+05:30",
- "runs": 1317,
+ "updated": "2026-11-19T20:45:17+05:30",
+ "runs": 1318,
  "branches": [
   {
    "id": "platforms",
@@ -23211,6 +23211,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1315
+    },
+    {
+     "t": "Netflix's family holiday special 'Gabby's Dollhouse: Makers and Bakers Holiday' (9 Dec 2026, US) is a contest where young pairs bake and craft together, another sign that holiday baking and making is the December family theme; a Bro Bros 'bake and make' cookie decorating song fits without using the brand.",
+     "src": "whats-on-netflix.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1318
+    },
+    {
+     "t": "French cinemas get several family films in December 2026: Warner's animated Dr Seuss adaptation and LAIKA's stop motion forest adventure Wildwood (both 9 Dec), 'Leo, the Song of the Oceans' about a young humpback whale searching for her voice (16 Dec) and the third Angry Birds film (23 Dec), so a whale and ocean song can ride European holiday cinema buzz.",
+     "src": "sortiraparis.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1318
+    },
+    {
+     "t": "Last December Instagram's 'Christmas palette' (beige trees, off white, champagne gold, muted red) spread across India, Europe and East Asia, and a counter trend of creators showing imperfect, lived in family Christmases pushed back, so a funny 'Instagram Christmas versus real Bros Christmas' split screen Reel speaks to parents while the kids' videos stay bright and colourful.",
+     "src": "madhyamam.com, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1318
     }
    ]
   }
@@ -23237,12 +23258,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:03",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:35",
-   "note": "Run 1239 (Shorts and Reels formats and algorithm (newest platform changes)): Small: Instagram is building 'Clips as Reels' (cut parts of a long Features video into Reels that link back) and 'Save to TV', added Amazon affiliate links in Reels and 15 minute Story edits (16 Nov), and Dash Social's H2 2025 benchmark puts media and entertainment Reels at about 545K average views. Most other Shorts news (co views, Insights, Research tab, Shorts series) was already in the tree. Total 3188."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:36",
@@ -23555,13 +23572,13 @@
   {
    "date": "2026-11-19 20:44",
    "note": "Run 1317 (competitor deep dive (Super Simple sub brands, a stalled nursery channel)): Super Simple's 'I'm a Baby Fish' with its new Finny Babies characters reached about 13M in four months, so even the leader is building new character sub brands; Little Baby Songs (1.02M subscribers) now gets only 5K to 9K views a month on remixes and live compilations, proof that subscribers mean nothing without fresh recommendable songs. Total 3306."
+  },
+  {
+   "date": "2026-11-19 20:45",
+   "note": "Run 1318 (TRENDS (December family releases and the beige Christmas look)): Netflix's kids baking and crafting contest special (9 Dec, US) and French December family films (a Dr Seuss adaptation and a stop motion forest adventure on 9 Dec, a whale finding her voice on 16 Dec) point to baking, crafts and ocean songs; last December's beige 'Instagram Christmas' look drew a pushback of real, messy family Christmases, a ready humour format. Total 3309."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:03",
-   "total": 2914
-  },
   {
    "date": "2026-11-19 11:04",
    "total": 2916
@@ -24757,6 +24774,10 @@
   {
    "date": "2026-11-19 20:44",
    "total": 3306
+  },
+  {
+   "date": "2026-11-19 20:45",
+   "total": 3309
   }
  ],
  "next_week_ideas": [
@@ -24818,6 +24839,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Perfect versus real Christmas",
+   "where": "Instagram Reels, TikTok (parents, December)",
+   "status": "seasonal",
+   "use": "A 12 second split screen Reel set to our own jingly holiday song: left side 'Instagram Christmas' shows a calm, neat beige tree; right side 'Bros Christmas' shows the brothers piling on every bright ornament, tinsel on their heads and the little brother tangled in lights, then both sides cut to the Bros doing a happy two step and a big arms up pose. Meshy prompt: standing in place, side step left and right with claps, then both arms up. Caption 'Which tree is yours?'."
+  },
   {
    "name": "Hook only sound Short",
    "where": "YouTube Shorts audio library, Reels sounds",
@@ -24931,12 +24958,6 @@
    "where": "Reels, Shorts, TikTok",
    "status": "seasonal",
    "use": "For Ugly Sweater Day (Fri 18 Dec): the brothers stand in plain jumpers, clap twice, and on the beat drop the camera tilts up from their shoes to reveal very silly Christmas sweaters (a dancing reindeer, flashing tree lights); they do a proud catwalk turn and a shoulder shimmy in place. 10 to 15 seconds with our own Christmas song."
-  },
-  {
-   "name": "Little brother plays everyone",
-   "where": "Meme format, mid Nov 2026",
-   "status": "rising",
-   "use": "A Reel of one of our songs where every role (bus driver, baker, snowman, reindeer) is the little brother in a quick hat swap on each beat, while the big brother looks more and more surprised; ends with both laughing. Simple swaps, no copied posters or real actors."
   }
  ],
  "posting_plan": {
