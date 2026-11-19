@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:54:54+05:30",
- "runs": 1073,
+ "updated": "2026-11-19T13:00:41+05:30",
+ "runs": 1074,
  "branches": [
   {
    "id": "platforms",
@@ -12214,6 +12214,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1073
+    },
+    {
+     "t": "Japanese children's traditional New Year games are kite flying, spinning tops (koma), the battledore game hanetsuki, card games and fukuwarai (putting a face together blindfolded), plus otoshidama money gifts from relatives, so a Bro Bros New Year song can show kites, tops and a blindfold funny face game as a gentle 'New Year around the world' verse.",
+     "src": "Kids Web Japan",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1074
     }
    ]
   },
@@ -21062,6 +21069,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1065
+    },
+    {
+     "t": "US National Ugly Christmas Sweater Day falls on Friday 18 Dec 2026 (third Friday of December), celebrated at school, work and in family photos with tags like #UglyChristmasSweaterDay, so a silly sweater reveal Reel posted on 17 or 18 Dec rides a dated, family friendly moment.",
+     "src": "National Today, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1074
     }
    ]
   }
@@ -21088,12 +21102,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:51",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 994 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:52",
-   "note": "Run 995 (posting times (Metricool best times 19 to 25 Nov rechecked, Common Sense 2026 tween census, regional upload windows)): Metricool's model for 19 to 25 Nov repeats what the tree had (YouTube 16:00 IST peak, Instagram 10:00 IST, weekends about half), so both slots stay as they are. New: Common Sense's 2026 census finds tweens (9 to 12) get about 7 h 45 min of entertainment screen time on weekend days against about 4 h 49 min on weekdays, and 58% watch short videos every day; a Top1Trend analysis of trending videos suggests uploading 2 to 4 hours before evening peaks (India 2 to 5 PM IST, Brazil 2 to 5 PM BRT). Total 2881."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 995 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:53",
@@ -21406,6 +21416,10 @@
   {
    "date": "2026-11-19 12:54",
    "note": "Run 1073 (topics and seasons (December 2026 night sky events; visual craft skipped, nothing new in run 1061)): Two December sky events were missing from the tree: the Geminid meteor shower peaks on the night of 13 to 14 Dec 2026 with a dark sky (thin crescent moon sets about 9 pm), and the December full moon is a Christmas Eve supermoon (01:28 UTC on 24 Dec). Added a shooting star wish song idea. Total 2999."
+  },
+  {
+   "date": "2026-11-19 13:00",
+   "note": "Run 1074 (TRENDS (seasonal gaps: Ugly Sweater Day, Japanese New Year)): Filled two seasonal gaps: US National Ugly Christmas Sweater Day falls on Friday 18 Dec 2026 (main tag #UglyChristmasSweaterDay, school and family photo days), and Japanese children's New Year games (kites, spinning tops, the blindfold face puzzle fukuwarai, otoshidama money gifts) give a fresh 'New Year around the world' angle. Added an ugly sweater reveal to the trend bank. Total 3001."
   }
  ],
  "history": [
@@ -22288,6 +22302,10 @@
   {
    "date": "2026-11-19 12:54",
    "total": 2999
+  },
+  {
+   "date": "2026-11-19 13:00",
+   "total": 3001
   }
  ],
  "next_week_ideas": [
@@ -22349,6 +22367,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Silly sweater reveal",
+   "where": "Reels, Shorts, TikTok",
+   "status": "seasonal",
+   "use": "For Ugly Sweater Day (Fri 18 Dec): the brothers stand in plain jumpers, clap twice, and on the beat drop the camera tilts up from their shoes to reveal very silly Christmas sweaters (a dancing reindeer, flashing tree lights); they do a proud catwalk turn and a shoulder shimmy in place. 10 to 15 seconds with our own Christmas song."
+  },
   {
    "name": "Word ladder to the beat",
    "where": "TikTok, Reels, Shorts",
@@ -22462,12 +22486,6 @@
    "where": "TikTok and Reels (dancing partners and family members in the kitchen, Oct to Nov 2026)",
    "status": "rising",
    "use": "Short: Big Bro is quietly pouring cereal, our own song starts on a radio, and he cannot help it: a small shoulder bounce grows into a full silly dance while Little Bro films and giggles, then joins in for the last four counts. Meshy prompt: a boy stands still, starts bouncing his shoulders to the beat, then sways his hips side to side and waves both arms above his head, staying in place."
-  },
-  {
-   "name": "Stomp to reveal",
-   "where": "Instagram Reels (stomp or jump transition used for reveals through 2026, Nuelink); evergreen",
-   "status": "evergreen",
-   "use": "Reveal Short with our own song: Little Bro stomps once on the beat and the room switches from plain to decorated (or a grey snowman turns colourful); three stomps, three reveals, last stomp reveals Big Bro dancing. Meshy prompt: a boy stands in place, lifts one knee high and stomps the foot down firmly, then throws both arms up in a cheer."
   }
  ],
  "posting_plan": {
