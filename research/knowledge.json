@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:41:36+05:30",
- "runs": 1401,
+ "updated": "2026-11-20T02:42:21+05:30",
+ "runs": 1402,
  "branches": [
   {
    "id": "platforms",
@@ -18458,6 +18458,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1391
+    },
+    {
+     "t": "Texas filed House Bill 212 in November 2026 for the January 2027 session: it would bar under 16s from social media accounts even with parental permission, require age checks before sign up and let parents ask for removal within 10 days; if passed it starts 1 Sep 2027 with the restrictions from 1 Jan 2028, and it names Instagram, TikTok, Facebook and X but not YouTube.",
+     "src": "Click2Houston, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1402
+    },
+    {
+     "t": "Because the US under 16 bills (like Texas HB 212) target account holders, Bro Bros should keep speaking to parents on Instagram (captions and Reels written for mums and dads) and keep YouTube as the main home for kids, which none of these bills names.",
+     "src": "Click2Houston, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1402
+    },
+    {
+     "t": "From 18 Nov 2026 Google's AI Ultra plans include YouTube Premium Family (ad free YouTube and YouTube Music for up to six people in a household), so more family TVs will play Bro Bros without ads, which makes total watch time, not only ad views, matter for earnings.",
+     "src": "Digital Trends, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1402
     }
    ]
   },
@@ -24130,10 +24151,6 @@
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
   },
   {
-   "date": "2026-11-19 20:49",
-   "note": "Run 1323 (other platforms (Netflix kids charts, Roblox music games; Shorts round skipped as just done)): Nothing new: Netflix's most watched animated series of 2026 (Peppa Pig, The Creature Cases, Masha, CoComelon, Little Angel, Bebefinn), Gabby's Dollhouse season 14's strong four episode debut and Roblox dance and musical chairs games were already in the tree. No leaves added. Total 3314."
-  },
-  {
    "date": "2026-11-19 20:50",
    "note": "Run 1324 (TRENDS (pet duets and dancing animal formats)): A Douyin clip of a man singing a folk song while his corgi barks on the beat became a 'singing dog duet' audio template in mid 2026, with cartoon edits of 1M to 3M views each; AI kittens in bows and tiaras dancing reached up to about 40M views; both point to a Bros plus pet duet format with our own dog character and song. Total 3317."
   },
@@ -24444,6 +24461,10 @@
   {
    "date": "2026-11-20 02:41",
    "note": "Run 1401 (TRENDS (mid November Reels formats)): Added the new 'AI Christmas dance' photo to dance clip trend (sway, clap overhead, small spin by a tree) and the 'lately on my SD card' camera roll dump. Other weekly formats (it's time switch, add to cart, no no no yes, glow up switch, shoulder dance) were already in the tree. Added 'Christmas tree sway' to the trend bank and dropped the weaker circle dance. Chrome not available. Total 3433."
+  },
+  {
+   "date": "2026-11-20 02:42",
+   "note": "Run 1402 (rules and monetisation (US state bills, Premium bundles)): Added Texas HB 212 (under 16 social media ban filed for the 2027 session, rules from 2028, Instagram named, YouTube not) and Google bundling YouTube Premium Family into its AI Ultra plans from 18 Nov 2026. The 16 Nov co view count change was already in the tree; a UK Commons Library briefing could not be read. Chrome not available. Total 3436."
   }
  ],
  "history": [
@@ -25322,6 +25343,10 @@
   {
    "date": "2026-11-20 02:41",
    "total": 3433
+  },
+  {
+   "date": "2026-11-20 02:42",
+   "total": 3436
   }
  ],
  "next_week_ideas": [
