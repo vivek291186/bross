@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:43:59+05:30",
- "runs": 1370,
+ "updated": "2026-11-19T23:44:16+05:30",
+ "runs": 1371,
  "branches": [
   {
    "id": "platforms",
@@ -23748,12 +23748,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:42",
-   "note": "Earlier: older log entries summarised (runs up to 1291); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:43",
-   "note": "Run 1292 (global markets (Chinese studio export plans, Indonesia recheck)): Small: China's Winsing Animation (GG Bond, GOGOBUS) said at MIPCOM 2026 it is cutting kids output volume but keeping premium shows, runs multilingual GOGOBUS nursery rhyme YouTube channels, dubs into Russian for Kazakhstan and Russia and bets on dialogue free slapstick to cross languages. Indonesia's under 16 account rule was already in the tree. Total 3273."
+   "note": "Earlier: older log entries summarised (runs up to 1292); details are in git history."
   },
   {
    "date": "2026-11-19 19:43",
@@ -24066,13 +24062,13 @@
   {
    "date": "2026-11-19 23:43",
    "note": "Run 1370 (Shorts and Reels recheck (Instagram news)): Nothing new: Instagram's Apple TV app, the end of linked Reels series on 28 Oct, Edits on Mac, 'Use as reference' and Trial Reels scheduling were all already in the tree. No leaves added. Chrome not available. Total 3379."
+  },
+  {
+   "date": "2026-11-19 23:44",
+   "note": "Run 1371 (TRENDS recheck (Tubefilter week of 15 Nov, viral toddler dances)): Nothing new: Tubefilter's 15 Nov charts (Chispita, Plim Plim), the mirror dance and toddler samba clips were already in the tree; toddler haka and hula clips are cultural dances we should not borrow. No leaves added. Chrome not available. Total 3379."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:53",
-   "total": 2996
-  },
   {
    "date": "2026-11-19 12:54",
    "total": 2996
@@ -25267,6 +25263,10 @@
   },
   {
    "date": "2026-11-19 23:43",
+   "total": 3379
+  },
+  {
+   "date": "2026-11-19 23:44",
    "total": 3379
   }
  ],
