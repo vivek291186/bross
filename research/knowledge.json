@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:03:03+05:30",
- "runs": 1238,
+ "updated": "2026-11-19T17:35:39+05:30",
+ "runs": 1239,
  "branches": [
   {
    "id": "platforms",
@@ -2316,6 +2316,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1225
+    },
+    {
+     "t": "Instagram is building 'Clips as Reels', which cuts parts of a long horizontal Features video into Reels that link back to the full video, plus 'Save to TV' to send a video to its TV app; neither had launched by mid November 2026, so a full Bro Bros compilation on Instagram could later feed itself with song clips.",
+     "src": "Finn Partners Boom Scroll, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1239
+    },
+    {
+     "t": "On 16 Nov 2026 Instagram let creators add Amazon affiliate links to Reels and feed posts and edit a Story for 15 minutes after posting; affiliate selling to a kids audience is a poor fit for us, but the Story edit window lets us fix a wrong song title or link without reposting.",
+     "src": "TechCrunch and ETV Bharat, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1239
+    },
+    {
+     "t": "Dash Social's benchmark of 3.3K brands (H2 2025) found an average Reel gets about 283K views and 182K reach, while media and entertainment Reels lead every industry at about 545K views, 2.8K shares and 0.5% engagement, so entertainment content like songs is the strongest Reels category to be in.",
+     "src": "Dash Social, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1239
     }
    ]
   },
@@ -4346,6 +4367,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1236
+    },
+    {
+     "t": "Bytecap's Jul 2026 review of YouTube's help pages notes YouTube publishes no universal 'good retention' number for Shorts and that 'viewed vs swiped away' is the first Shorts metric to check, since it measures only the opening; we should compare our own Shorts in length groups (15 to 30 s, 30 to 60 s, longer) instead of chasing outside targets.",
+     "src": "Bytecap research, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1239
     }
    ]
   },
@@ -22384,11 +22412,7 @@
  "log": [
   {
    "date": "2026-11-19 15:47",
-   "note": "Earlier: older log entries summarised; runs up to Run 1159 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:47",
-   "note": "Run 1160 (global markets (Morocco and Hungary gaps)): Filled two gaps: a small Moroccan Arabic learning channel (108K subscribers) drew about 23.7M views in 28 days almost entirely from Arabic alphabet song Shorts, one of which, using a famous cartoon character we must never copy, reached 115M; Hungary's long running OviTeve (206K subscribers, 295M views) lives on remixed preschool song Shorts at about 3M views a month, small but in a high paying language. Total 3123."
+   "note": "Earlier: older log entries summarised; runs up to Run 1160 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:48",
@@ -22701,13 +22725,13 @@
   {
    "date": "2026-11-19 17:03",
    "note": "Run 1238 (algorithm and production tools (Test and Compare, Meshy updates)): Nothing new: YouTube Test and Compare rules, Meshy 7.1's Ultra 2K and 4K modes and the unchanged Meshy text to motion changelog were already in the tree. No leaves added. Total 3184."
+  },
+  {
+   "date": "2026-11-19 17:35",
+   "note": "Run 1239 (Shorts and Reels formats and algorithm (newest platform changes)): Small: Instagram is building 'Clips as Reels' (cut parts of a long Features video into Reels that link back) and 'Save to TV', added Amazon affiliate links in Reels and 15 minute Story edits (16 Nov), and Dash Social's H2 2025 benchmark puts media and entertainment Reels at about 545K average views. Most other Shorts news (co views, Insights, Research tab, Shorts series) was already in the tree. Total 3188."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 08:41",
-   "total": 2735
-  },
   {
    "date": "2026-11-19 08:42",
    "total": 2737
@@ -23903,6 +23927,10 @@
   {
    "date": "2026-11-19 17:03",
    "total": 3184
+  },
+  {
+   "date": "2026-11-19 17:35",
+   "total": 3188
   }
  ],
  "next_week_ideas": [
