@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:00:41+05:30",
- "runs": 1074,
+ "updated": "2026-11-19T13:01:27+05:30",
+ "runs": 1075,
  "branches": [
   {
    "id": "platforms",
@@ -7342,6 +7342,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1064
+    },
+    {
+     "t": "D Billions, a kids music brand with roots in Kyrgyzstan, reached about 56M subscribers and 55B YouTube views in five years (by Jun 2024) from 500+ original songs, four of them past a billion views, in 12 languages with an 80+ person team, proof that a small country studio can win worldwide with original songs, dances and a set of colourful characters.",
+     "src": "D Billions about page, 2024",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1075
+    },
+    {
+     "t": "D Billions moved from live performers in costumes to 2D and 3D animated storytelling while keeping original music, dances and activities at the centre, the same building blocks Bro Bros uses, and it frames every song as helping kids learn English or their own language.",
+     "src": "D Billions about page, 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1075
     }
    ]
   },
@@ -14293,6 +14307,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1063
+    },
+    {
+     "t": "In Ethiopia a 60 second AI generated caterpillar song from the Aynu Kids learning app went viral on TikTok in late 2025 (about 4.3M views and 53K dubs), showing that a short, catchy kids song can travel through TikTok dubs even in smaller African markets.",
+     "src": "Shega, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1075
     }
    ]
   },
@@ -21102,12 +21123,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:52",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 995 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:53",
-   "note": "Run 996 (TRENDS (parent and kid trend explainers; safety check)): No new kid safe trend this round: the parent hacks and slang lists were already in the tree, and the rest were adult or risky (a serious parenting confession trend and the teen 'door kick' prank, which led to arrests in the US). Added one safety note so our doorbell and visit formats never look like that prank. Total 2882."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 996 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:54",
@@ -21420,6 +21437,10 @@
   {
    "date": "2026-11-19 13:00",
    "note": "Run 1074 (TRENDS (seasonal gaps: Ugly Sweater Day, Japanese New Year)): Filled two seasonal gaps: US National Ugly Christmas Sweater Day falls on Friday 18 Dec 2026 (main tag #UglyChristmasSweaterDay, school and family photo days), and Japanese children's New Year games (kites, spinning tops, the blindfold face puzzle fukuwarai, otoshidama money gifts) give a fresh 'New Year around the world' angle. Added an ugly sweater reveal to the trend bank. Total 3001."
+  },
+  {
+   "date": "2026-11-19 13:01",
+   "note": "Run 1075 (global markets (Central Asia and Ethiopia gaps)): Filled two market gaps: D Billions, a Kyrgyzstan rooted kids music band, built about 56M subscribers and 55B views in five years from 500+ original songs (4 past a billion) in 12 languages with an 80 person team, moving from live performers to 2D and 3D animation; in Ethiopia a 60 second AI made caterpillar song from a learning app went viral on TikTok (about 4.3M views, 53K dubs). Total 3004."
   }
  ],
  "history": [
@@ -22306,6 +22327,10 @@
   {
    "date": "2026-11-19 13:00",
    "total": 3001
+  },
+  {
+   "date": "2026-11-19 13:01",
+   "total": 3004
   }
  ],
  "next_week_ideas": [
