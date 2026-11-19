@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:02:56+05:30",
- "runs": 891,
+ "updated": "2026-11-19T07:03:26+05:30",
+ "runs": 892,
  "branches": [
   {
    "id": "platforms",
@@ -18458,6 +18458,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 886
+    },
+    {
+     "t": "Pixar's 'Gatto' (a 2027 film whose trailer was #24 on US YouTube trending on 18 Nov 2026) was marketed with reaction videos starring real cats who watch the trailer on a laptop and keep getting distracted, and viewers posted their own pets' reactions; a Bro Bros version is a 10 second Short where our own animated kitten or puppy 'reacts' to the new song, bopping, then chasing the screen, posted on release day.",
+     "src": "Creative Bloq, Jun 2026; Kabo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 892
     }
    ]
   }
@@ -18485,11 +18492,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 812 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:37",
-   "note": "Run 813 (competitor deep dive (Bebefinn Korean, Hey Bear, Kids Diana)): Most competitor facts were already in the tree. New: Bebefinn's Korean channel fell from about 467M views a month (Nov 2025) to about 69M (Oct 2026), and Hey Bear's newest hit is a 'Party Time Dance Off'. Total 2386."
+   "note": "Earlier runs summarised: all rounds through Run 813 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:55",
@@ -18802,6 +18805,10 @@
   {
    "date": "2026-11-19 07:02",
    "note": "Run 891 (other platforms (Netflix kids charts, Spotify kids)): Nothing new: Netflix's 2026 animated leaders (Peppa Pig, The Creature Cases, Masha, CoComelon, Little Angel, Booba, Lottie Dottie Chicken, Bebefinn), Gabby's Dollhouse season 14 and the CoComelon move to Disney+ in 2027 were all already in the tree, and Spotify has no new kids chart this month. No leaves added. Total 2627."
+  },
+  {
+   "date": "2026-11-19 07:03",
+   "note": "Run 892 (TRENDS (pet reaction format behind this week's trending family trailer)): Pixar's 'Gatto' trailer is on this week's US trending list; its marketing used 'cats react to the trailer' videos in which real cats watch on a laptop and get distracted, and viewers copied it with their own pets. Reaction videos starring an animal are a kid safe format we can copy with our own animated puppy or kitten reacting to a new Bro Bros song. Total 2628."
   }
  ],
  "history": [
@@ -19704,6 +19711,10 @@
   {
    "date": "2026-11-19 07:02",
    "total": 2627
+  },
+  {
+   "date": "2026-11-19 07:03",
+   "total": 2628
   }
  ],
  "next_week_ideas": [
@@ -19765,6 +19776,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Pet reacts to our song",
+   "where": "YouTube and Reels (Pixar Gatto cat reaction campaign, trailer trending 18 Nov 2026)",
+   "status": "rising",
+   "use": "On release day post a 10 second Short: the Bros' cartoon kitten sits in front of a tablet playing the new song, first stares, then bobs its head on the beat, then paws at the screen when Big Bro dances; caption 'Kitty approved?'. Always our own song and our own pet character. Meshy prompt for the Bros in the background: standing in place, small side to side sway, then one arm waves at the kitten."
+  },
   {
    "name": "Do not bother the botherer",
    "where": "TikTok and Reels (Buffer list, 18 Nov 2026)",
@@ -19872,12 +19889,6 @@
    "where": "TikTok and Reels (kitten parade meme, mid Nov 2026)",
    "status": "rising",
    "use": "Fixed camera at child eye height; each Bro Bros character or animal friend walks in from the left, faces the camera, does one move on one sung line of our own song, and walks out right, then the next one comes. Meshy prompt per character: walk forward three steps, stop, wave both arms side to side twice, walk off to the side. End with everyone together in a line waving."
-  },
-  {
-   "name": "Giant balloon parade",
-   "where": "US TV and social feeds on 26 Nov 2026 (100th Macy's Thanksgiving Day Parade, seasonal)",
-   "status": "seasonal",
-   "use": "Post on 25 to 26 Nov a Bro Bros parade song with our own giant balloons (a smiling sun, a rainbow whale, a drum) floating down a toy town street while the brothers and friends march and wave below; each verse a new balloon appears and kids shout its colour. Meshy motion: standing march in place with high knees, big two hand waves overhead, then pointing up at the sky."
   },
   {
    "name": "Twelve day countdown",
