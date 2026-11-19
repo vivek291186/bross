@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:57:33+05:30",
- "runs": 1095,
+ "updated": "2026-11-19T13:58:07+05:30",
+ "runs": 1096,
  "branches": [
   {
    "id": "platforms",
@@ -2239,6 +2239,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1095
+    },
+    {
+     "t": "In Netflix's English TV top 10 for 9 to 15 Nov 2026, the new preschool show Doozie's Doghouse debuted at No. 4 with about 5M views and Danny Go! season 2, a YouTube born movement show, held No. 10 with about 1.5M, so a puppy led show and a dance along show are the two kids hits on Netflix this month.",
+     "src": "Netflix Tudum, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1096
+    },
+    {
+     "t": "A Dog's Perfect Christmas stayed No. 2 among Netflix English films in its second week (about 7.2M views, 9 to 15 Nov 2026), so dog plus Christmas family stories keep pulling viewers for weeks, worth a Bro Bros puppy friend in a December song.",
+     "src": "Netflix Tudum, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1096
+    },
+    {
+     "t": "The Jonas Brothers performed a free one time show inside the Roblox egg game Steal An Egg on 31 Oct 2026, with over 8.5M players marking interest as they chased Bruno Mars' 12.9M concurrent record, so the egg and pet games kids play are now where pop acts launch music to children.",
+     "src": "Rosenberry Rooms and Guinness coverage, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1096
     }
    ]
   },
@@ -21452,12 +21473,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 11:02",
-   "note": "Earlier: older log entries summarised; runs up to Run 1016 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 11:03",
-   "note": "Run 1017 (TRENDS (Spanish and Brazilian November trend lists rechecked)): Nothing new: the Spanish November list (que.es, 30 Oct) and TikTok's 2026 trend forecast (curiosity, realism, emotional return) were already in the tree, and no newer Brazilian weekly list was found. No leaves added. Total 2911."
+   "note": "Earlier: older log entries summarised; runs up to Run 1017 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:03",
@@ -21770,6 +21787,10 @@
   {
    "date": "2026-11-19 13:57",
    "note": "Run 1095 (Shorts and Reels (length and completion data rechecked)): Adobe's creator survey and the main Reels length studies were already in the tree. New but small: one account's 68 Reels reached most people at 1 to 1.5 minutes and fewest at 3 to 4 minutes (though long ones had higher engagement), and practical completion floors by length (over 65% under 30 seconds, 50% at 30 to 60, 40% at 60 to 90). Total 3051."
+  },
+  {
+   "date": "2026-11-19 13:58",
+   "note": "Run 1096 (other platforms (Netflix top 10 for 9 to 15 Nov, Roblox concerts; TRENDS skipped)): Netflix's English TV top 10 for 9 to 15 Nov has two kids shows: the new Doozie's Doghouse at No. 4 (5M views) and Danny Go! season 2 at No. 10 (1.5M), and A Dog's Perfect Christmas held No. 2 among films. The Jonas Brothers played inside the Roblox egg game 'Steal An Egg' on 31 Oct, with over 8.5M players marking interest, confirming egg games as the live Roblox hangout. Total 3054."
   }
  ],
  "history": [
@@ -22740,6 +22761,10 @@
   {
    "date": "2026-11-19 13:57",
    "total": 3051
+  },
+  {
+   "date": "2026-11-19 13:58",
+   "total": 3054
   }
  ],
  "next_week_ideas": [
