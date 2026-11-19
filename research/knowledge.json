@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:59:02+05:30",
- "runs": 885,
+ "updated": "2026-11-19T06:59:45+05:30",
+ "runs": 886,
  "branches": [
   {
    "id": "platforms",
@@ -10569,6 +10569,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 867
+    },
+    {
+     "t": "Pinterest's 2026 parenting report shows parents want screens to lead to real play: 'screen free activities' +200%, 'fun physical activities' +340% and 'movement activities for toddlers' +145% year on year, so every Bro Bros dance song should clearly invite children to stand up and copy the moves, which helps parents feel good about choosing it.",
+     "src": "Pinterest Newsroom, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 886
+    },
+    {
+     "t": "The same report shows big rises for sensory play (+1070%), pretend play food (+370%), family traditions ideas (+200%), road trip car setups (+530%) and animated movies for family movie nights (+430%), so road trip songs, family tradition songs (making a holiday snack together, a family dance) and pretend cooking songs match what parents are searching for.",
+     "src": "Pinterest Newsroom, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 886
     }
    ]
   },
@@ -18409,6 +18423,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 883
+    },
+    {
+     "t": "A 'throwback kid' nostalgia trend is strong with parents in 2026: searches for 2000s kids toys rose about 610%, vintage 90s baby clothes about 660% and 1970s childhood toys about 280%, so an occasional retro look (a cassette player, a spinning top, a retro arcade) in a Bro Bros video speaks to parents while staying fun for kids.",
+     "src": "Pinterest Newsroom, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 886
     }
    ]
   }
@@ -18436,11 +18457,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 807 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:06",
-   "note": "Note: removed a duplicate piñata idea and a duplicate posada leaf added in Run 800; the existing 'Whack the Piñata!' idea already covers them."
+   "note": "Earlier runs summarised: all rounds through Run 0 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:07",
@@ -18753,6 +18770,10 @@
   {
    "date": "2026-11-19 06:59",
    "note": "Run 885 (competitor deep dive (Little Angel and Friends channel)): Little Angel's 7.3M 'and Friends' channel has gained almost no subscribers since January 2026 while monthly views swing wildly (14M in September, 125M in August, 26M in October), so one viral month does not hold. Its newest uploads are a job helper counting Short ('Can You Count with Firefighter Jill?', 2.1 times its usual views) and a dad themed ballet comedy, both short, character led and funny. Top videos were already in the tree. Total 2620."
+  },
+  {
+   "date": "2026-11-19 06:59",
+   "note": "Run 886 (TRENDS (Pinterest parenting report, year end recap season)): YouTube's year end Recap (expected early December) was already in the tree. New from Pinterest's 2026 parenting report: parents search for screen free and movement ideas (fun physical activities +340%, toddler movement +145%), sensory play (+1070%), family traditions (+200%), road trip setups (+530%) and 70s to 2000s throwback toys (+610% for 2000s toys), so our songs should invite kids to get up and copy moves, and family tradition, road trip and retro toy themes fit what parents want. Total 2623."
   }
  ],
  "history": [
@@ -19631,9 +19652,17 @@
   {
    "date": "2026-11-19 06:59",
    "total": 2620
+  },
+  {
+   "date": "2026-11-19 06:59",
+   "total": 2623
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Are We There Yet? (Family Road Trip Song)",
+   "why": "Road trip searches rose about 530% on Pinterest; the Bros spot things out of the car window (cows, bridges, a rainbow) in a call and response game that works in any language and on any holiday drive."
+  },
   {
    "title": "Count With Captain Bro! (Firefighter Counting Song)",
    "why": "Job hero plus counting Shorts are what Little Angel is pushing now; Big Bro as a friendly firefighter counts ladders, hoses and rescued kittens from 1 to 10, kid safe and easy to dub."
@@ -19685,10 +19714,6 @@
   {
    "title": "Twelve Winter Gifts (Counting Song)",
    "why": "The twelve day countdown is on kids TV this December (Apple TV's 12 Days of Snoopy special); our original cumulative counting song adds one gift and one dance move per verse, works as 12 daily Shorts from 13 to 24 Dec and as one long video, and counting songs travel across languages."
-  },
-  {
-   "title": "Shiny Boots, Stomp Stomp! (Boot Polish Night Song)",
-   "why": "On the evening of 5 December children in Germany, Austria, Switzerland and parts of the US polish their boots and set them by the door to find sweets and mandarins inside next morning; a bouncy song where the Bros scrub, shine, line up and stomp their boots gives Europe a seasonal hit for 1 to 5 Dec without naming any character, and Dutch producers note kids prefer bouncy jumping songs to the slow traditional ones."
   }
  ],
  "trend_bank": [
