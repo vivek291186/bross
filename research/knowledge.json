@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:37:31+05:30",
- "runs": 935,
+ "updated": "2026-11-19T08:38:41+05:30",
+ "runs": 936,
  "branches": [
   {
    "id": "platforms",
@@ -6607,6 +6607,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 923
+    },
+    {
+     "t": "RhymeMusicBox (US, 276K subscribers) has 178M views from only 44 videos and nothing new since October 2024, and one pairing video, 'Baby Shark + Ten in the Bed' (Mar 2024), alone holds about 128M views while it still pulls about 12,600 views a day, so a single two song pairing can carry a small channel for years.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 936
+    },
+    {
+     "t": "That same channel's other top videos are all two song pairings joined with a plus sign or 'and' ('Ten in the Bed and Johny Johny Yes Papa' 20.8M, 'Wheels on the Bus and Baa Baa Black Sheep' 5.5M, 'Wheels on the Bus + Vehicles Song' 2.1M), which supports titling Bro Bros mini compilations as 'Song A + Song B' using our two strongest originals.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 936
     }
    ]
   },
@@ -15420,6 +15434,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 863
+    },
+    {
+     "t": "Metricool's YouTube data still stops at 16 Nov 2026 on 19 Nov (subscribers 2,150; 12 to 16 Nov views 1,296, 1,055, 850, 1,301 and 858), so there is still nothing new to judge songs or slots by until the feed catches up.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 936
     }
    ]
   },
@@ -19199,11 +19220,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 856 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:39",
-   "note": "Run 857 (visual craft (thumbnail, Blender and Meshy checks) plus a vidIQ first week views study): Thumbnail studies (vidIQ, Eden, 1of10), Blender 5.3 and Meshy's October changes were all already in the tree, and Meshy's changelog still shows no November entry. New from vidIQ's September study of 38.2M long videos: the top 1% took 54% of all first week views, the median video got about 234 first week views, 70% got under 1,000 and only 8.5% reached 10,000. Total 2542."
+   "note": "Earlier runs summarised: all rounds through Run 857 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:40",
@@ -19516,6 +19533,10 @@
   {
    "date": "2026-11-19 08:37",
    "note": "Run 935 (rules and safety (AI slop crackdown recap, UK ban widening rechecked)): Rules news through 18 Nov (UK plan to widen the under 16 ban to YouTube Kids, Australia's High Court case, 30 day spam lock, COPPA) was already in the tree. Added a practical 'could anyone make this from the same prompt?' check and a weekly 20 to 30 upload audit for repeated structure. Total 2729."
+  },
+  {
+   "date": "2026-11-19 08:38",
+   "note": "Run 936 (YouTube main and Kids (own results skipped, Metricool YouTube still ends 16 Nov; RhymeMusicBox)): Metricool YouTube still ends 16 Nov, so our own results were skipped. From vidIQ: a small US remix channel (RhymeMusicBox) holds 178M views from 44 videos, 128M of them from one 'Baby Shark + Ten in the Bed' pairing, and all its top videos are two song pairings, so 'Song A + Song B' mini compilations of our best originals are worth testing. Total 2732."
   }
  ],
  "history": [
@@ -20594,6 +20615,10 @@
   {
    "date": "2026-11-19 08:37",
    "total": 2729
+  },
+  {
+   "date": "2026-11-19 08:38",
+   "total": 2732
   }
  ],
  "next_week_ideas": [
