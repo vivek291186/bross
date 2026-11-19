@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:57:44+05:30",
- "runs": 883,
+ "updated": "2026-11-19T06:58:24+05:30",
+ "runs": 884,
  "branches": [
   {
    "id": "platforms",
@@ -12298,6 +12298,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 872
+    },
+    {
+     "t": "CoComelon's Brazilian Portuguese channel (4.45M subscribers, 18 Nov 2026) now adds only about 10K to 20K subscribers a month against 50K to 110K in 2025, with monthly views around 87M to 112M in 2026 after a 191M peak in October 2025, so even the strongest dubbed brand is flattening in Brazil and a new Portuguese channel would compete on fresh, local feeling songs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 884
+    },
+    {
+     "t": "The two most viewed videos on CoComelon's Portuguese channel are a Wheels on the Bus song (703M) and a football song released at the 2022 World Cup (324M), so a football song is a proven Brazil winner; with the 2026 World Cup just behind us, an original Bro Bros kick and score dance in Portuguese is a natural first upload for Brazil.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 884
+    },
+    {
+     "t": "CoComelon Portugues posts about 19 videos every four weeks (12 long, 7 Shorts) including dubbed versions of the main channel's films and stories, showing that the big brands localise the full release slate, not just old hits, and pair each long release with a few Shorts in the same language.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 884
     }
    ]
   },
@@ -18401,11 +18422,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 805 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:05",
-   "note": "Run 806 (YouTube algorithm (Gemini search evidence signals, AI Overviews citations)): Ask YouTube's use of spoken words, captions and chapters as answer evidence and YouTube's share of AI Overview citations were already in the tree; no new leaves. Total 2377."
+   "note": "Earlier runs summarised: all rounds through Run 806 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:06",
@@ -18718,6 +18735,10 @@
   {
    "date": "2026-11-19 06:57",
    "note": "Run 883 (TRENDS (Roblox October report, kids' interests)): Bloxodes' October 2026 Roblox report: egg themed simulators lead (Steal an egg about 1.28M average players even after a 500K drop), survival games rose to 15% of play around Halloween, and weekends average about 14.5M players against 9.7M on weekdays, so kids' free play peaks on weekends. Egg hatching and egg collecting stay a strong kid theme, matching this week's hatching toy wish lists. Other kids interest pages repeated squishy toys, already in the tree. Total 2615."
+  },
+  {
+   "date": "2026-11-19 06:58",
+   "note": "Run 884 (global markets (Brazil Portuguese kids channels)): CoComelon's Brazilian Portuguese channel (4.45M) now gains only 10K to 20K subscribers a month against 50K to 110K in 2025, and its monthly views sit near 87M to 112M, down from 191M in Oct 2025; its all time top video is a Portuguese Wheels on the Bus (703M) and the second a football song (324M). Big dubbed channels are flattening in Brazil, and football songs are a Brazil specific winner. Indonesia's under 16 rule was already in the tree. Total 2618."
   }
  ],
  "history": [
@@ -19588,6 +19609,10 @@
   {
    "date": "2026-11-19 06:57",
    "total": 2615
+  },
+  {
+   "date": "2026-11-19 06:58",
+   "total": 2618
   }
  ],
  "next_week_ideas": [
