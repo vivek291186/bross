@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:56:01+05:30",
- "runs": 966,
+ "updated": "2026-11-19T09:56:44+05:30",
+ "runs": 967,
  "branches": [
   {
    "id": "platforms",
@@ -6873,6 +6873,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 956
+    },
+    {
+     "t": "In the same week last year (17 to 23 Nov 2025), most kids Shorts channels in Tubefilter's top 50 lost views (Toys and Colors minus 14%, Kidshire minus 20%, Kids Land minus 24%, Billy Blip Boss minus 25%) while family skit channel Cadel and Mia rose 12% to about 1.04B, so a late November dip in generic kids Shorts is seasonal, not a sign of failure.",
+     "src": "Tubefilter, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 967
+    },
+    {
+     "t": "A baby focused Shorts channel, BabyBillion, held steady at about 600M weekly views in the week before US Thanksgiving 2025 while other kids channels fell, suggesting baby and toddler content is less affected by holiday schedule changes than older kids content.",
+     "src": "Tubefilter, Nov 2025",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 967
     }
    ]
   },
@@ -19822,11 +19836,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 887 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:00",
-   "note": "Run 888 (YouTube main (fastest subscriber gainers, week of 15 Nov; our own results skipped again as Metricool data is unchanged)): Tubefilter's fastest gainer Chispita, a Uruguayan Spanish Shorts channel, added about 770K subscribers in a week (2.83M total, about 117M views in 28 days on only 124 videos) with dramatic skit Shorts under shouty all caps titles about bullies and kidnapped sisters. That pattern grows fast but breaks kids quality rules, so it is not for us. Metricool still ends on 16 Nov. Total 2626."
+   "note": "Earlier runs summarised: all rounds through Run 888 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:01",
@@ -20139,6 +20149,10 @@
   {
    "date": "2026-11-19 09:56",
    "note": "Run 966 (other platforms (TRENDS skipped, sources stale; Spotify kids genre popularity, Netflix animated 2026 rechecked)): Netflix's 2026 animated top 10 (Peppa, CoComelon, Little Angel, Bebefinn) was already in the tree. New: Spotify's kids genre popularity list is led by Halloween novelty songs, film songs and sleep audio (a 'Peaceful Sleep' lullaby, a baby sleep track with ocean sounds), with Baby Shark and Ms Rachel the only preschool originals in the top 20. Total 2818."
+  },
+  {
+   "date": "2026-11-19 09:56",
+   "note": "Run 967 (YouTube main and Kids (Tubefilter same week last year, 17 to 23 Nov 2025)): This week's Tubefilter chart is not out yet, so the round compared the same week last year (17 to 23 Nov 2025): most kids Shorts channels fell 14 to 25% that week while Cadel and Mia rose 12% to over 1B views and a baby Shorts channel (BabyBillion) held about 600M, so a pre Thanksgiving dip for generic kids Shorts is normal. Total 2820."
   }
  ],
  "history": [
@@ -20163,788 +20177,40 @@
    "total": 2209
   },
   {
-   "date": "2026-11-16 20:37",
-   "total": 2225
-  },
-  {
-   "date": "2026-11-16 20:39",
-   "total": 2225
-  },
-  {
-   "date": "2026-11-16 20:39",
-   "total": 2225
-  },
-  {
    "date": "2026-11-16 21:36",
    "total": 2228
-  },
-  {
-   "date": "2026-11-16 21:38",
-   "total": 2232
-  },
-  {
-   "date": "2026-11-16 21:39",
-   "total": 2237
-  },
-  {
-   "date": "2026-11-16 21:40",
-   "total": 2241
-  },
-  {
-   "date": "2026-11-16 21:41",
-   "total": 2244
-  },
-  {
-   "date": "2026-11-16 21:42",
-   "total": 2246
-  },
-  {
-   "date": "2026-11-16 21:48",
-   "total": 2250
-  },
-  {
-   "date": "2026-11-16 21:50",
-   "total": 2250
-  },
-  {
-   "date": "2026-11-16 21:51",
-   "total": 2253
-  },
-  {
-   "date": "2026-11-16 21:52",
-   "total": 2256
-  },
-  {
-   "date": "2026-11-16 21:53",
-   "total": 2258
-  },
-  {
-   "date": "2026-11-16 21:54",
-   "total": 2258
-  },
-  {
-   "date": "2026-11-16 21:54",
-   "total": 2259
-  },
-  {
-   "date": "2026-11-16 21:55",
-   "total": 2260
-  },
-  {
-   "date": "2026-11-16 21:56",
-   "total": 2261
-  },
-  {
-   "date": "2026-11-16 21:57",
-   "total": 2261
-  },
-  {
-   "date": "2026-11-16 21:57",
-   "total": 2261
-  },
-  {
-   "date": "2026-11-16 21:58",
-   "total": 2263
-  },
-  {
-   "date": "2026-11-16 21:58",
-   "total": 2266
-  },
-  {
-   "date": "2026-11-16 21:59",
-   "total": 2266
   },
   {
    "date": "2026-11-16 22:00",
    "total": 2268
   },
   {
-   "date": "2026-11-16 22:00",
-   "total": 2271
-  },
-  {
-   "date": "2026-11-16 22:01",
-   "total": 2273
-  },
-  {
-   "date": "2026-11-16 22:01",
-   "total": 2273
-  },
-  {
-   "date": "2026-11-16 22:02",
-   "total": 2273
-  },
-  {
-   "date": "2026-11-16 22:02",
-   "total": 2273
-  },
-  {
-   "date": "2026-11-16 22:03",
-   "total": 2274
-  },
-  {
-   "date": "2026-11-16 22:03",
-   "total": 2274
-  },
-  {
-   "date": "2026-11-16 22:04",
-   "total": 2275
-  },
-  {
-   "date": "2026-11-16 22:04",
-   "total": 2275
-  },
-  {
-   "date": "2026-11-16 22:05",
-   "total": 2278
-  },
-  {
-   "date": "2026-11-16 22:05",
-   "total": 2278
-  },
-  {
-   "date": "2026-11-16 22:06",
-   "total": 2279
-  },
-  {
-   "date": "2026-11-16 22:06",
-   "total": 2279
-  },
-  {
-   "date": "2026-11-16 22:07",
-   "total": 2279
-  },
-  {
-   "date": "2026-11-16 22:07",
-   "total": 2279
-  },
-  {
-   "date": "2026-11-16 22:08",
-   "total": 2279
-  },
-  {
-   "date": "2026-11-16 22:09",
-   "total": 2279
-  },
-  {
-   "date": "2026-11-16 22:09",
-   "total": 2279
-  },
-  {
-   "date": "2026-11-16 22:10",
-   "total": 2280
-  },
-  {
-   "date": "2026-11-16 22:36",
-   "total": 2280
-  },
-  {
-   "date": "2026-11-16 22:37",
-   "total": 2283
-  },
-  {
-   "date": "2026-11-16 22:37",
-   "total": 2286
-  },
-  {
-   "date": "2026-11-16 22:38",
-   "total": 2287
-  },
-  {
-   "date": "2026-11-16 22:39",
-   "total": 2289
-  },
-  {
-   "date": "2026-11-16 22:39",
-   "total": 2289
-  },
-  {
-   "date": "2026-11-16 22:40",
-   "total": 2292
-  },
-  {
-   "date": "2026-11-16 22:40",
-   "total": 2292
-  },
-  {
-   "date": "2026-11-16 22:41",
-   "total": 2293
-  },
-  {
-   "date": "2026-11-16 22:42",
-   "total": 2293
-  },
-  {
-   "date": "2026-11-16 22:42",
-   "total": 2295
-  },
-  {
-   "date": "2026-11-16 22:48",
-   "total": 2295
-  },
-  {
-   "date": "2026-11-16 22:48",
-   "total": 2297
-  },
-  {
-   "date": "2026-11-16 22:49",
-   "total": 2299
-  },
-  {
-   "date": "2026-11-16 22:50",
-   "total": 2301
-  },
-  {
-   "date": "2026-11-16 22:50",
-   "total": 2301
-  },
-  {
-   "date": "2026-11-16 22:51",
-   "total": 2303
-  },
-  {
-   "date": "2026-11-16 22:52",
-   "total": 2304
-  },
-  {
-   "date": "2026-11-16 22:52",
-   "total": 2304
-  },
-  {
-   "date": "2026-11-16 22:53",
-   "total": 2306
-  },
-  {
-   "date": "2026-11-16 22:53",
-   "total": 2306
-  },
-  {
-   "date": "2026-11-16 22:54",
-   "total": 2306
-  },
-  {
-   "date": "2026-11-16 22:54",
-   "total": 2307
-  },
-  {
-   "date": "2026-11-16 22:55",
-   "total": 2308
-  },
-  {
-   "date": "2026-11-16 22:55",
-   "total": 2309
-  },
-  {
-   "date": "2026-11-16 22:56",
-   "total": 2311
-  },
-  {
    "date": "2026-11-16 23:01",
    "total": 2311
-  },
-  {
-   "date": "2026-11-16 23:02",
-   "total": 2311
-  },
-  {
-   "date": "2026-11-16 23:02",
-   "total": 2311
-  },
-  {
-   "date": "2026-11-16 23:02",
-   "total": 2312
-  },
-  {
-   "date": "2026-11-16 23:03",
-   "total": 2312
-  },
-  {
-   "date": "2026-11-16 23:03",
-   "total": 2312
-  },
-  {
-   "date": "2026-11-16 23:04",
-   "total": 2312
-  },
-  {
-   "date": "2026-11-16 23:04",
-   "total": 2312
-  },
-  {
-   "date": "2026-11-16 23:05",
-   "total": 2315
-  },
-  {
-   "date": "2026-11-16 23:05",
-   "total": 2316
-  },
-  {
-   "date": "2026-11-16 23:06",
-   "total": 2316
-  },
-  {
-   "date": "2026-11-16 23:06",
-   "total": 2316
-  },
-  {
-   "date": "2026-11-16 23:07",
-   "total": 2316
-  },
-  {
-   "date": "2026-11-16 23:07",
-   "total": 2316
-  },
-  {
-   "date": "2026-11-16 23:08",
-   "total": 2318
-  },
-  {
-   "date": "2026-11-16 23:08",
-   "total": 2319
-  },
-  {
-   "date": "2026-11-16 23:36",
-   "total": 2319
-  },
-  {
-   "date": "2026-11-16 23:38",
-   "total": 2320
-  },
-  {
-   "date": "2026-11-16 23:39",
-   "total": 2323
-  },
-  {
-   "date": "2026-11-16 23:40",
-   "total": 2324
-  },
-  {
-   "date": "2026-11-16 23:46",
-   "total": 2324
-  },
-  {
-   "date": "2026-11-16 23:47",
-   "total": 2325
-  },
-  {
-   "date": "2026-11-16 23:48",
-   "total": 2325
-  },
-  {
-   "date": "2026-11-16 23:49",
-   "total": 2328
-  },
-  {
-   "date": "2026-11-16 23:50",
-   "total": 2331
-  },
-  {
-   "date": "2026-11-16 23:51",
-   "total": 2333
-  },
-  {
-   "date": "2026-11-16 23:52",
-   "total": 2334
-  },
-  {
-   "date": "2026-11-16 23:52",
-   "total": 2335
-  },
-  {
-   "date": "2026-11-16 23:53",
-   "total": 2337
-  },
-  {
-   "date": "2026-11-16 23:53",
-   "total": 2339
-  },
-  {
-   "date": "2026-11-16 23:54",
-   "total": 2339
-  },
-  {
-   "date": "2026-11-16 23:54",
-   "total": 2339
-  },
-  {
-   "date": "2026-11-16 23:55",
-   "total": 2340
-  },
-  {
-   "date": "2026-11-16 23:55",
-   "total": 2340
-  },
-  {
-   "date": "2026-11-16 23:56",
-   "total": 2340
-  },
-  {
-   "date": "2026-11-16 23:56",
-   "total": 2342
-  },
-  {
-   "date": "2026-11-16 23:57",
-   "total": 2342
-  },
-  {
-   "date": "2026-11-16 23:57",
-   "total": 2342
-  },
-  {
-   "date": "2026-11-16 23:58",
-   "total": 2342
-  },
-  {
-   "date": "2026-11-16 23:58",
-   "total": 2342
   },
   {
    "date": "2026-11-17 00:36",
    "total": 2346
   },
   {
-   "date": "2026-11-17 00:37",
-   "total": 2349
-  },
-  {
-   "date": "2026-11-17 00:39",
-   "total": 2350
-  },
-  {
-   "date": "2026-11-17 00:45",
-   "total": 2352
-  },
-  {
-   "date": "2026-11-17 00:46",
-   "total": 2353
-  },
-  {
-   "date": "2026-11-17 00:46",
-   "total": 2353
-  },
-  {
-   "date": "2026-11-17 00:48",
-   "total": 2355
-  },
-  {
-   "date": "2026-11-17 00:49",
-   "total": 2358
-  },
-  {
-   "date": "2026-11-17 00:50",
-   "total": 2361
-  },
-  {
-   "date": "2026-11-17 00:50",
-   "total": 2362
-  },
-  {
-   "date": "2026-11-17 00:51",
-   "total": 2362
-  },
-  {
-   "date": "2026-11-17 00:52",
-   "total": 2365
-  },
-  {
-   "date": "2026-11-17 00:53",
-   "total": 2366
-  },
-  {
-   "date": "2026-11-17 00:53",
-   "total": 2367
-  },
-  {
-   "date": "2026-11-17 00:54",
-   "total": 2367
-  },
-  {
-   "date": "2026-11-17 00:54",
-   "total": 2367
-  },
-  {
-   "date": "2026-11-17 00:55",
-   "total": 2368
-  },
-  {
-   "date": "2026-11-17 00:55",
-   "total": 2368
-  },
-  {
-   "date": "2026-11-17 00:56",
-   "total": 2370
-  },
-  {
-   "date": "2026-11-17 00:57",
-   "total": 2372
-  },
-  {
    "date": "2026-11-17 01:03",
    "total": 2372
-  },
-  {
-   "date": "2026-11-17 01:03",
-   "total": 2372
-  },
-  {
-   "date": "2026-11-17 01:04",
-   "total": 2374
-  },
-  {
-   "date": "2026-11-17 01:04",
-   "total": 2376
-  },
-  {
-   "date": "2026-11-17 01:05",
-   "total": 2377
-  },
-  {
-   "date": "2026-11-17 01:05",
-   "total": 2377
-  },
-  {
-   "date": "2026-11-17 01:06",
-   "total": 2377
-  },
-  {
-   "date": "2026-11-17 01:07",
-   "total": 2377
-  },
-  {
-   "date": "2026-11-17 01:07",
-   "total": 2378
-  },
-  {
-   "date": "2026-11-17 01:08",
-   "total": 2378
-  },
-  {
-   "date": "2026-11-17 01:08",
-   "total": 2380
-  },
-  {
-   "date": "2026-11-17 01:36",
-   "total": 2384
-  },
-  {
-   "date": "2026-11-17 01:37",
-   "total": 2386
-  },
-  {
-   "date": "2026-11-17 01:55",
-   "total": 2390
-  },
-  {
-   "date": "2026-11-17 01:40",
-   "total": 2391
-  },
-  {
-   "date": "2026-11-17 01:40",
-   "total": 2393
-  },
-  {
-   "date": "2026-11-17 01:41",
-   "total": 2393
-  },
-  {
-   "date": "2026-11-17 01:55",
-   "total": 2401
   },
   {
    "date": "2026-11-19 02:38",
    "total": 2406
   },
   {
-   "date": "2026-11-19 02:39",
-   "total": 2409
-  },
-  {
-   "date": "2026-11-19 02:40",
-   "total": 2412
-  },
-  {
-   "date": "2026-11-19 02:41",
-   "total": 2415
-  },
-  {
-   "date": "2026-11-19 02:48",
-   "total": 2418
-  },
-  {
-   "date": "2026-11-19 02:49",
-   "total": 2421
-  },
-  {
-   "date": "2026-11-19 02:49",
-   "total": 2424
-  },
-  {
-   "date": "2026-11-19 02:51",
-   "total": 2427
-  },
-  {
-   "date": "2026-11-19 02:51",
-   "total": 2430
-  },
-  {
-   "date": "2026-11-19 02:52",
-   "total": 2433
-  },
-  {
-   "date": "2026-11-19 02:53",
-   "total": 2436
-  },
-  {
-   "date": "2026-11-19 02:54",
-   "total": 2439
-  },
-  {
    "date": "2026-11-19 03:35",
    "total": 2446
-  },
-  {
-   "date": "2026-11-19 03:37",
-   "total": 2450
-  },
-  {
-   "date": "2026-11-19 03:38",
-   "total": 2454
-  },
-  {
-   "date": "2026-11-19 03:40",
-   "total": 2458
-  },
-  {
-   "date": "2026-11-19 03:41",
-   "total": 2462
-  },
-  {
-   "date": "2026-11-19 03:42",
-   "total": 2467
   },
   {
    "date": "2026-11-19 04:35",
    "total": 2473
   },
   {
-   "date": "2026-11-19 04:37",
-   "total": 2478
-  },
-  {
-   "date": "2026-11-19 04:38",
-   "total": 2482
-  },
-  {
-   "date": "2026-11-19 04:39",
-   "total": 2486
-  },
-  {
-   "date": "2026-11-19 04:41",
-   "total": 2489
-  },
-  {
-   "date": "2026-11-19 04:42",
-   "total": 2493
-  },
-  {
-   "date": "2026-11-19 04:43",
-   "total": 2495
-  },
-  {
-   "date": "2026-11-19 04:44",
-   "total": 2498
-  },
-  {
-   "date": "2026-11-19 04:45",
-   "total": 2501
-  },
-  {
-   "date": "2026-11-19 04:45",
-   "total": 2503
-  },
-  {
-   "date": "2026-11-19 04:47",
-   "total": 2506
-  },
-  {
-   "date": "2026-11-19 04:48",
-   "total": 2510
-  },
-  {
-   "date": "2026-11-19 04:48",
-   "total": 2514
-  },
-  {
-   "date": "2026-11-19 04:49",
-   "total": 2517
-  },
-  {
-   "date": "2026-11-19 04:51",
-   "total": 2521
-  },
-  {
-   "date": "2026-11-19 04:52",
-   "total": 2524
-  },
-  {
-   "date": "2026-11-19 04:53",
-   "total": 2526
-  },
-  {
    "date": "2026-11-19 05:35",
    "total": 2531
-  },
-  {
-   "date": "2026-11-19 05:37",
-   "total": 2534
-  },
-  {
-   "date": "2026-11-19 05:38",
-   "total": 2539
-  },
-  {
-   "date": "2026-11-19 05:39",
-   "total": 2542
-  },
-  {
-   "date": "2026-11-19 05:40",
-   "total": 2545
-  },
-  {
-   "date": "2026-11-19 05:41",
-   "total": 2551
-  },
-  {
-   "date": "2026-11-19 05:42",
-   "total": 2555
-  },
-  {
-   "date": "2026-11-19 05:43",
-   "total": 2560
-  },
-  {
-   "date": "2026-11-19 05:44",
-   "total": 2565
-  },
-  {
-   "date": "2026-11-19 05:45",
-   "total": 2567
-  },
-  {
-   "date": "2026-11-19 05:46",
-   "total": 2567
-  },
-  {
-   "date": "2026-11-19 05:47",
-   "total": 2571
-  },
-  {
-   "date": "2026-11-19 05:48",
-   "total": 2575
-  },
-  {
-   "date": "2026-11-19 05:49",
-   "total": 2579
   },
   {
    "date": "2026-11-19 05:49",
@@ -21341,6 +20607,10 @@
   {
    "date": "2026-11-19 09:56",
    "total": 2818
+  },
+  {
+   "date": "2026-11-19 09:56",
+   "total": 2820
   }
  ],
  "next_week_ideas": [
