@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:52:53+05:30",
- "runs": 1070,
+ "updated": "2026-11-19T12:53:33+05:30",
+ "runs": 1071,
  "branches": [
   {
    "id": "platforms",
@@ -21067,12 +21067,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:48",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 991 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:49",
-   "note": "Run 992 (competitor deep dive (Little Treehouse Toddler Fun Learning; Bounce Patrol rechecked)): Bounce Patrol's latest uploads were already in the tree. Little Treehouse Toddler Fun Learning (547K) shows the long tail of Christmas songs: its two biggest videos ever are Christmas songs posted on 16 and 27 Nov 2023 (36M and 28M views), and it posted this year's Christmas song on 16 Nov. Removed one duplicate Little Treehouse Thailand leaf added last round. Total 2875."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 992 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:50",
@@ -21385,6 +21381,10 @@
   {
    "date": "2026-11-19 12:52",
    "note": "Run 1070 (Shorts and Reels (Instagram child safety and teen content rules rechecked)): Nothing new: Meta's protections for adult run accounts featuring children, the 13+ default for teen accounts and the April 2026 penalty for repost aggregators were already in the tree. No leaves added. Total 2996."
+  },
+  {
+   "date": "2026-11-19 12:53",
+   "note": "Run 1071 (TRENDS (what kids are into now: collectibles, games, characters)): Nothing new: Bloomberg's Gen Alpha rooms feature (Labubu fading, Pokemon cards, Minecraft, Roblox, KPop Demon Hunters, Mark Rober) and the Sprunki spam in Shorts feeds repeat what the tree holds. No leaves added. Total 2996."
   }
  ],
  "history": [
@@ -22254,6 +22254,10 @@
   },
   {
    "date": "2026-11-19 12:52",
+   "total": 2996
+  },
+  {
+   "date": "2026-11-19 12:53",
    "total": 2996
   }
  ],
