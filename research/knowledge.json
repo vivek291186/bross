@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:49:44+05:30",
- "runs": 1323,
+ "updated": "2026-11-19T20:50:34+05:30",
+ "runs": 1324,
  "branches": [
   {
    "id": "platforms",
@@ -23267,6 +23267,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1321
+    },
+    {
+     "t": "A Douyin clip of a man singing a folk song while his corgi barks almost exactly on the beat spread worldwide in July and August 2026 as a 'duet' audio template; creators redrew it as cartoons where a character sings and a pet answers with fast barks, with single edits reaching about 1M to 3M views, so a Bros and puppy call and response song (Bro sings a line, puppy barks the rhythm back) is a proven funny format.",
+     "src": "meme.com, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1324
+    },
+    {
+     "t": "AI made videos of kittens in bows, skirts and tiaras dancing to pop songs drew up to about 40M views on one TikTok post in January 2026, showing how strongly cute dressed up animals dancing pull views, though the look is often uncanny; a hand animated Bro Bros pet dancing in a tiny hat gives the same appeal without the AI slop risk.",
+     "src": "knowyourmeme.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1324
+    },
+    {
+     "t": "A small dog tapping its feet every time it hears the word 'dinner', filmed at dog eye level, went viral in early 2026, a simple trigger word gag a kids song can borrow: the Bros' puppy does a happy paw tap dance every time the chorus says its magic word.",
+     "src": "aol.com (Parade Pets), Feb 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1324
     }
    ]
   }
@@ -23293,12 +23314,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:40",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:41",
-   "note": "Run 1245 (competitor deep dive (Radio Flyer's Max and Maple, Pinkfong)): New: Radio Flyer's Max and Maple season 2 (from 2 Nov 2026) releases one 7 minute episode every three weeks with original songs, plus spin off Shorts, music videos and a podcast on one channel; Pinkfong's walk through Baby Shark musical (2 Dec to 28 Mar) makes the audience's voices part of the songs and adds new younger triplet siblings. ChuChu TV and Little Angel facts were already in the tree. Total 3209."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:41",
@@ -23611,13 +23628,13 @@
   {
    "date": "2026-11-19 20:49",
    "note": "Run 1323 (other platforms (Netflix kids charts, Roblox music games; Shorts round skipped as just done)): Nothing new: Netflix's most watched animated series of 2026 (Peppa Pig, The Creature Cases, Masha, CoComelon, Little Angel, Bebefinn), Gabby's Dollhouse season 14's strong four episode debut and Roblox dance and musical chairs games were already in the tree. No leaves added. Total 3314."
+  },
+  {
+   "date": "2026-11-19 20:50",
+   "note": "Run 1324 (TRENDS (pet duets and dancing animal formats)): A Douyin clip of a man singing a folk song while his corgi barks on the beat became a 'singing dog duet' audio template in mid 2026, with cartoon edits of 1M to 3M views each; AI kittens in bows and tiaras dancing reached up to about 40M views; both point to a Bros plus pet duet format with our own dog character and song. Total 3317."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:42",
-   "total": 2929
-  },
   {
    "date": "2026-11-19 11:43",
    "total": 2932
@@ -24813,6 +24830,10 @@
   {
    "date": "2026-11-19 20:49",
    "total": 3314
+  },
+  {
+   "date": "2026-11-19 20:50",
+   "total": 3317
   }
  ],
  "next_week_ideas": [
@@ -24874,6 +24895,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Puppy duet bark back",
+   "where": "TikTok, Reels, YouTube Shorts (pet duet audio template)",
+   "status": "rising",
+   "use": "A 15 second Short with our own simple tune: the big brother sings one short line, the Bros' cartoon puppy answers with four quick barks exactly on the beat, the little brother joins and the puppy answers faster, then all three bounce together on the last note. Meshy prompt for the Bros: standing in place, sing pose with one hand on chest, then two small bounces and a point at the puppy. Caption 'Can your pet sing back?'."
+  },
   {
    "name": "Circle dance with the teacher",
    "where": "Instagram Reels, YouTube Shorts (classroom and family clips)",
@@ -24987,12 +25014,6 @@
    "where": "TikTok and Reels (winter, first snow weeks)",
    "status": "seasonal",
    "use": "A 10 second Short opening a winter song: the camera lies in the snow inside a heart shape looking up at a blue sky; the brothers lean in from both sides, then friends and a puppy pop in, everyone waves and blows a snowflake kiss on the beat, then a snowball lands softly and the camera whites out into the song. Standing and leaning only."
-  },
-  {
-   "name": "Pyjama train ride",
-   "where": "Reels, Shorts",
-   "status": "seasonal",
-   "use": "Original winter song: the brothers in pyjamas line up as a train, the big brother in a conductor hat punches the little brother's paper ticket on the beat, then both chug in place (arms rolling like wheels, little steps on the spot) and ring a bell on 'ding ding'. Post 14 to 18 Dec for last school days; never use the film's title, music or characters."
   }
  ],
  "posting_plan": {
