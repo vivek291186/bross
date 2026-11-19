@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:47:47+05:30",
- "runs": 865,
+ "updated": "2026-11-19T05:48:46+05:30",
+ "runs": 866,
  "branches": [
   {
    "id": "platforms",
@@ -6145,6 +6145,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 860
+    },
+    {
+     "t": "Cocobi's English channel (US, since Feb 2021) has 3.36M subscribers and 2.96B views from 2,362 videos, and its monthly views roughly doubled in 2026 (about 54M in Jan to 116M in Oct, then 131M in the 28 days to 18 Nov) while it posted about 51 videos in four weeks.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 866
+    },
+    {
+     "t": "Cocobi English's five most viewed long videos are a 'baby is born' story song (33M), a stranger danger safety song (32.7M), 'Escape from the colour prison' (29M), a 'what is a parasite' science song (28M) and an elevator safety compilation (23.6M), so safety and surprising science topics carry this Korean brand's biggest hits.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 866
+    },
+    {
+     "t": "Cocobi's newest upload on 17 Nov 2026 is a 'Baby turned into a giant!' Short (about 34K views in 9 hours), using the same sudden size change surprise that works in kids Shorts generally.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 866
     }
    ]
   },
@@ -10401,6 +10422,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 858
+    },
+    {
+     "t": "Safety songs keep showing up as top hits across brands (Cocobi's stranger danger and elevator safety songs, Zoobees' ambulance remix), so one cheerful everyday safety song a week (lifts, crossing roads, hot stoves, staying close in crowds) is a reliable slot for Bro Bros.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 866
     }
    ]
   },
@@ -18093,11 +18121,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:49",
-   "note": "Run 788 (global markets (Thailand, Indonesia, Arab world)): New: Thailand's November top kids channels are Thai language versions and Thai song channels (BabyBus Thai 5.5M), Indonesia's under 16 social media ban since Mar 2026 pushes kids there to family accounts and TV, and Arab preschool hits use local dialect rhymes; Saudi Kaspersky data was 2023 and global. Total 2358."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:50",
@@ -18410,13 +18434,13 @@
   {
    "date": "2026-11-19 05:47",
    "note": "Run 865 (other platforms (Netflix kids playlists and early November kids releases)): Netflix's kids top 10s were already in the tree. New: Netflix added two holiday kids 'playlist' series in early November 2026 (Holiday Magic Playlist and Merry Little Playlist, TV-Y7), its channel style format that plays several shows back to back for under 8s, first tested in 2024 with themes like Bedtime, Music, Truck and Dinosaur; it also added Masha and the Bear season 7 and a holiday scout elf series. Lean back, themed, continuous viewing is where kids streaming is going, which supports our themed playlists and long compilations. Total 2571."
+  },
+  {
+   "date": "2026-11-19 05:48",
+   "note": "Run 866 (competitor deep dive (Cocobi English)): Cocobi's English channel was new to the tree: 3.36M subscribers and 2.96B views since Feb 2021, with monthly views roughly doubling in 2026 (54M in Jan to 116M in Oct, 131M in the 28 days to 18 Nov) on about 51 uploads a month. Its all time top videos are a baby is born story, a stranger danger safety song, an 'escape from the colour prison' adventure, a parasites science song and an elevator safety compilation, so safety songs and surprising science beat plain nursery rhymes there. Its newest Short is a 'baby turned into a giant' surprise. Total 2575."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:43",
-   "total": 2059
-  },
   {
    "date": "2026-11-16 16:44",
    "total": 2059
@@ -19612,9 +19636,17 @@
   {
    "date": "2026-11-19 05:47",
    "total": 2571
+  },
+  {
+   "date": "2026-11-19 05:48",
+   "total": 2575
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Stay Close in the Crowd (holiday market safety song)",
+   "why": "Safety songs are among the top hits of Cocobi (stranger danger 32.7M, elevator safety 23.6M) and Zoobees; a bouncy December song about holding hands and staying near a grown up at busy markets and parades is timely worldwide."
+  },
   {
    "title": "Clip Clop Little Donkey (winter journey song)",
    "why": "Latin American kids channels get their biggest December views from a donkey travel song (109M and 89M on one Colombian channel); an original, secular clip clop journey song with the Bros riding along through snowy hills, in English with a Spanish version, fits that taste worldwide."
@@ -19666,10 +19698,6 @@
   {
    "title": "Behind Door Number One! (Ten Doors Adventure Song)",
    "why": "Kids Diana Show's biggest videos are door, maze and escape adventures (400M to 566M views); Big Bro and Little Bro knock and open ten colourful doors, each hiding an animal sound or a dance move, a counting and surprise loop that dubs into any language."
-  },
-  {
-   "title": "Whack the Piñata! (Party Turn Taking Song)",
-   "why": "Piñata party songs are among the biggest Spanish kids videos (79M and 43M on one channel) and Mexico's posadas run 16 to 24 Dec; each verse a different friend takes a turn with eyes covered while everyone counts, then sweets rain down and are shared, teaching waiting your turn and sharing."
   }
  ],
  "trend_bank": [
