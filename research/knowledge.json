@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:01:01+05:30",
- "runs": 1334,
+ "updated": "2026-11-19T21:36:18+05:30",
+ "runs": 1335,
  "branches": [
   {
    "id": "platforms",
@@ -2386,6 +2386,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1311
+    },
+    {
+     "t": "Instagram's 18 Nov 2026 app update for Apple's foldable iPhone Duo plays a Reel full size with its comments beside it when unfolded and goes back to the normal vertical layout when folded, so vertical 9:16 framing stays the right format for every Bro Bros Reel.",
+     "src": "wersm.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1335
+    },
+    {
+     "t": "Meta updated Instagram's recommendation system in November 2026 to keep more low quality and inappropriate material out of Explore, recommended Reels and suggested feed posts from accounts a viewer does not follow; this limits reach rather than deleting posts, so a clean, clearly original kids Reel is better placed to reach non followers.",
+     "src": "dainikjagranmpcg.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1335
     }
    ]
   },
@@ -4507,6 +4521,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1322
+    },
+    {
+     "t": "Creator analysts report (not confirmed by YouTube) that Shorts search now shows more recent Shorts from small channels, and the Shorts that rank there answer one specific search in plain words, so each Bro Bros Short title should name the exact need a parent types, such as 'brush your teeth song for toddlers'.",
+     "src": "tunepocket.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1335
     }
    ]
   },
@@ -8175,6 +8196,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1331
+    },
+    {
+     "t": "Tubefilter's chart for the week of 15 Nov 2026 says Argentina's preschool clown cartoon El Payaso Plim Plim has not had a single week under 250M views in the past six months, proof that one gentle, kid friendly character brand can hold a huge steady audience week after week.",
+     "src": "tubefilter.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1335
     }
    ]
   },
@@ -23377,12 +23405,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:44",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 18:45",
-   "note": "Run 1256 (competitor deep dive (GoNoodle, Koo Koo Kanga Roo)): New: GoNoodle reaches about 19.5M kids a year in classrooms but its YouTube barely grows except for a back to school dance workout (1.4M in a month); Koo Koo Kanga Roo's goofy one topic dance songs with on screen lyrics drew a parent review warning about toilet humour and a political song. Total 3239."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1256)."
   },
   {
    "date": "2026-11-19 18:45",
@@ -23695,13 +23719,13 @@
   {
    "date": "2026-11-19 21:01",
    "note": "Run 1334 (ideas update (evidence from this run)): No new leaves; applied this run's evidence: 'Dear Santa, Here's My List!' (letter writing song timed for the 9 Dec Royal Mail Santa deadline) replaced the off season paper flower Mother's song in next week's ideas, and the trend bank gained puppy duet bark back, dancer versus non dancer, hook only sound Shorts, sing the scale ball game, perfect versus real Christmas and circle dance with the teacher; the snow day happy dance moved to rising after the 12 to 14 Nov first snowstorm. Total 3326."
+  },
+  {
+   "date": "2026-11-19 21:36",
+   "note": "Run 1335 (Shorts and Reels (newest platform changes)): Analysts see Shorts search favouring fresh Shorts from small channels that answer one exact query; Instagram tightened low quality filtering in recommended Reels and Explore; Plim Plim has stayed above 250M views every week for six months. Chrome not available (cloud run). Total 3330."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:51",
-   "total": 2952
-  },
   {
    "date": "2026-11-19 11:52",
    "total": 2956
@@ -24897,6 +24921,10 @@
   {
    "date": "2026-11-19 21:01",
    "total": 3326
+  },
+  {
+   "date": "2026-11-19 21:36",
+   "total": 3330
   }
  ],
  "next_week_ideas": [
