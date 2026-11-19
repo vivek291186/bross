@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:42:35+05:30",
- "runs": 949,
+ "updated": "2026-11-19T09:43:13+05:30",
+ "runs": 950,
  "branches": [
   {
    "id": "platforms",
@@ -2029,6 +2029,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 938
+    },
+    {
+     "t": "Third party Shorts benchmarks put average percentage viewed at about 73% overall, with targets of above 60% for Shorts under 15 seconds, above 50% for 15 to 30 seconds and above 40% for 30 to 60 seconds, so a 30 to 45 second song Short is healthy if it keeps more than half its viewers.",
+     "src": "GoFaceless citing vidIQ and Retensis, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 950
+    },
+    {
+     "t": "Retention guides recommend judging Shorts against our own baseline after about 20 uploads, grouped by length, and changing only one thing per upload (hook, length or song), which gives Bro Bros a simple weekly Shorts test plan.",
+     "src": "GoFaceless, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 950
+    },
+    {
+     "t": "Shorts that end mid phrase and restart cleanly earn replays, which count as extra views and lift percentage viewed above 100%; ending a song Short on the first word of the chorus is an easy loop for us.",
+     "src": "GoFaceless, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 950
     }
    ]
   },
@@ -10002,6 +10023,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 941
+    },
+    {
+     "t": "Shorts retention guides advise changing something on screen about every 1 to 2 seconds (a new pose, a zoom, a prop or a colour change), which for our dance Shorts means a new move or camera angle on every bar of music.",
+     "src": "GoFaceless, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 950
     }
    ]
   },
@@ -19507,11 +19535,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 870 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:36",
-   "note": "Run 871 (TRENDS (weekly Reels audio and TikTok lists, 16 to 18 Nov)): SocialPilot's 17 to 25 Nov Reels list and NewEngen's 16 Nov TikTok list held nothing new for us. New: the 'Talk To Me Doja' trend (since 7 Nov) copies an anime character's nervous dance side by side with the original; it is about a date and uses a pop song, so we skip it, but the side by side 'copy me exactly' split screen is a format we can use with our own dance. Total 2586."
+   "note": "Earlier runs summarised: all rounds through Run 871 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:37",
@@ -19824,6 +19848,10 @@
   {
    "date": "2026-11-19 09:42",
    "note": "Run 949 (YouTube algorithm (October and November 2026 change logs rechecked)): No new November ranking changes were confirmed (AIR and OutlierKit logs end 29 Oct). New: the US mobile app moved Subscriptions into a Subs tab at the top of Home, and YouTube says a first time channel has zero viewers with it in their history, so the first videos are matched by topic, which makes clear titles and topic words essential. Total 2773."
+  },
+  {
+   "date": "2026-11-19 09:43",
+   "note": "Run 950 (Shorts and Reels (Shorts retention benchmarks by length; Reels controls rechecked)): Instagram's interest controls and teen 13+ rules were already in the tree. New: Shorts retention benchmarks by length (above 60% viewed for under 15 seconds, above 50% for 15 to 30, above 40% for 30 to 60, overall average about 73%), a visual change every 1 to 2 seconds, and building our own baseline after about 20 Shorts. Total 2777."
   }
  ],
  "history": [
@@ -20958,6 +20986,10 @@
   {
    "date": "2026-11-19 09:42",
    "total": 2773
+  },
+  {
+   "date": "2026-11-19 09:43",
+   "total": 2777
   }
  ],
  "next_week_ideas": [
