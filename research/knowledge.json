@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:40:29+05:30",
- "runs": 1425,
+ "updated": "2026-11-20T04:35:11+05:30",
+ "runs": 1426,
  "branches": [
   {
    "id": "platforms",
@@ -18654,6 +18654,27 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1414
+    },
+    {
+     "t": "YouTube's August 2026 update sends 60% of net Premium Lite subscription revenue into a creator pool split by how much members watch each channel, so as Lite spreads to every Premium country, minutes watched by ad free families also pay Bro Bros, not only ad views.",
+     "src": "TheDesk, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1426
+    },
+    {
+     "t": "The Feb 2027 Partner Program bar (8,000 watch hours or 20M Shorts views) applies only to new applicants, while the lower entry tier for fan funding and shopping stays the same; that lower tier gives little to Bro Bros because memberships, Super Chat and Super Thanks are switched off on made for kids videos, so full ad revenue sharing is the real goal.",
+     "src": "TheDesk, Aug 2026 with YouTube Help",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1426
+    },
+    {
+     "t": "YouTube reported more than 200 billion Shorts views a day in August 2026, so the 20M Shorts views in 90 days route into the Partner Program is a tiny slice of the feed; one breakout kids Short can carry a new channel past it faster than 8,000 watch hours of long songs.",
+     "src": "TheDesk, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1426
     }
    ]
   },
@@ -24462,12 +24483,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 22:37",
-   "note": "Earlier runs summarised: 2 older log lines merged (2026-11-19 22:35 to 2026-11-19 22:37), steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-19 22:38",
-   "note": "Run 1347 (Shorts and Reels recheck): Nothing new: Instagram Features and clips as Reels, Instagram for TV, the 3 minute Reels recommendation limit, Shorts Series, TV remote comments and microdrama TV growth were all already in the tree. No leaves added. Chrome not available. Total 3357."
+   "note": "Earlier runs summarised: 3 older log lines merged, steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 22:39",
@@ -24780,6 +24797,10 @@
   {
    "date": "2026-11-20 03:40",
    "note": "Run 1425 (TRENDS (December outlook from last year's Shorts recap)): December 2025 Shorts trends (honest fails, year in 15 seconds recaps) were already in the tree; added YouTube's 2025 top creators list, where a Roblox Shorts creator was No. 2 and a kid family duo No. 5, as a guide to what this year's early December recap is likely to celebrate. Chrome not available. Total 3481."
+  },
+  {
+   "date": "2026-11-20 04:35",
+   "note": "Run 1426 (rules and monetisation (Premium Lite pool, fan funding)): Most rules news (Feb 2027 Partner Program bar, Digital Fairness Act, UK and Australia under 16 rules, India DPDP stages) was already in the tree. New: Premium Lite now sends 60% of its net revenue to a creator pool paid by watch time, and the lower fan funding entry tier does not help made for kids channels because memberships and Super Thanks are switched off on kids videos. Chrome not available. Total 3484."
   }
  ],
  "history": [
@@ -25754,6 +25775,10 @@
   {
    "date": "2026-11-20 03:40",
    "total": 3481
+  },
+  {
+   "date": "2026-11-20 04:35",
+   "total": 3484
   }
  ],
  "next_week_ideas": [
