@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:47:36+05:30",
- "runs": 990,
+ "updated": "2026-11-19T10:48:47+05:30",
+ "runs": 991,
  "branches": [
   {
    "id": "platforms",
@@ -13628,6 +13628,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 988
+    },
+    {
+     "t": "In HypeAuditor's Thailand children and family YouTube list, localised versions of foreign kids brands sit among the top channels: Vlad and Niki THA (14.2M subscribers), Brianna's Secret Club TH (8.2M), Korea's With Kids Playground (6.9M) and BabyBus Thai (5.5M), so a separate Thai language channel is how global kids brands win Thailand.",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 991
+    },
+    {
+     "t": "Thai family channels such as J Jai Pan (13.5M subscribers, 14.8B views) and Beam Copphone (8.6M, 14B views) pull more total views than most dubbed foreign brands in Thailand, showing that local family humour still leads there; for Bro Bros, Thai is a later dubbing target after Spanish, Portuguese, Hindi and Indonesian.",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 991
+    },
+    {
+     "t": "Little Treehouse's Thai nursery rhymes channel had about 223K subscribers and 83M views from 458 videos (about 3.4M views a month in 2024), a sign that a dubbed preschool song catalogue in Thai earns a modest but steady audience.",
+     "src": "vidIQ (data Sep 2024)",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 991
     }
    ]
   },
@@ -20186,11 +20207,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 911 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:48",
-   "note": "Run 912 (YouTube main and Kids (own results skipped, Metricool unchanged; toddler learning channel Kids Learn and Grow)): Kids Learn and Grow (US, 882K) gains about 20K subscribers a month and earns a flat 17M to 24M views every month, with no Christmas spike, from long toddler learning videos (counting, shapes, colours, puzzles) under plain search style titles; its top video has 126M views. Steady learning content is the evergreen base under seasonal songs. Total 2681."
+   "note": "Earlier runs summarised: all rounds through Run 912 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:49",
@@ -20503,6 +20520,10 @@
   {
    "date": "2026-11-19 10:47",
    "note": "Run 990 (TRENDS (December family rituals: gentle elf alternatives, fake midnight timing)): Christmas decor and elf prank lists were thin or old. New details: parents like a no watching, no pranks elf alternative (one creator's 'tiny house elf' that only needs a marshmallow each night drew over 300K views), and family 'fake midnight' countdowns on 31 Dec happen around 7:30 to 8 PM for preschoolers and about 9 PM for early school kids. Total 2870."
+  },
+  {
+   "date": "2026-11-19 10:48",
+   "note": "Run 991 (global markets (Thailand children and family YouTube)): Thailand's biggest children and family YouTube channels mix Thai family vloggers with localised versions of global brands: Vlad and Niki's Thai channel (14.2M), Brianna's Thai channel (8.2M), a Korean kids playground channel (6.9M) and BabyBus Thai (5.5M), next to Thai originals such as J Jai Pan (13.5M, 14.8B views). Total 2873."
   }
  ],
  "history": [
@@ -21053,6 +21074,10 @@
   {
    "date": "2026-11-19 10:47",
    "total": 2870
+  },
+  {
+   "date": "2026-11-19 10:48",
+   "total": 2873
   }
  ],
  "next_week_ideas": [
