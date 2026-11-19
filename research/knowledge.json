@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:44:16+05:30",
- "runs": 1294,
+ "updated": "2026-11-19T19:44:55+05:30",
+ "runs": 1295,
  "branches": [
   {
    "id": "platforms",
@@ -17737,6 +17737,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1286
+    },
+    {
+     "t": "Ofcom reported on 24 Oct 2026 that the share of UK children aged 8 to 17 seeing harmful content had not changed in the nine months after its child safety duties began (July 2025) and said platforms must go 'much further and faster', so expect tighter recommendation rules for young viewers in 2027 that favour clearly gentle, made for kids content like ours.",
+     "src": "ITV News, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1295
+    },
+    {
+     "t": "The UK's spring 2027 package bans under 16s from livestreaming on every platform and blocks unknown adults from contacting children, while watching streams stays allowed, so a Bro Bros 24/7 music stream is unaffected as long as it never invites children to appear or chat.",
+     "src": "PPC Land, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1295
     }
    ]
   },
@@ -23024,10 +23038,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 16:39",
-   "note": "Run 1216 (TRENDS (December countdown and advent formats)): New: daily December posting rituals (Vlogmas, YouTube's own 31 day Shortsmas challenge) make a one door a day advent series a natural seasonal format, and squishy and mini figure advent calendars lead kids' 2026 Christmas wishes. Added 'Advent door a day' to the trend bank and an advent counting song idea. Total 3168."
-  },
-  {
    "date": "2026-11-19 16:40",
    "note": "Run 1217 (music craft (infant beat and movement studies)): Nothing new: the eLife 79 baby study and the newborn beat finding were already in the tree several times; three duplicate leaves added in this round were removed again. Total 3168."
   },
@@ -23338,13 +23348,13 @@
   {
    "date": "2026-11-19 19:44",
    "note": "Run 1294 (TRENDS (winter snow day formats)): New (seasonal evergreen): US school districts announce snow days with music videos (a Michigan superintendent now releases one each winter with students), and doorbell clips of kids doing a happy dance at the first snow go viral each year; added a 'Snow day happy dance' entry to the trend bank with our own song. Total 3275."
+  },
+  {
+   "date": "2026-11-19 19:44",
+   "note": "Run 1295 (rules and safety (UK Ofcom and COPPA recheck)): Small: Ofcom said on 24 Oct 2026 that children's exposure to harmful content had not fallen in the nine months after its child safety duties began, which keeps pressure on platforms' feeds for minors; the UK package due from spring 2027 also bans livestreaming by under 16s on every platform. The Disney COPPA penalty and the UK under 16 ban were already in the tree. Total 3277."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:52",
-   "total": 2881
-  },
   {
    "date": "2026-11-19 10:53",
    "total": 2882
@@ -24540,6 +24550,10 @@
   {
    "date": "2026-11-19 19:44",
    "total": 3275
+  },
+  {
+   "date": "2026-11-19 19:44",
+   "total": 3277
   }
  ],
  "next_week_ideas": [
