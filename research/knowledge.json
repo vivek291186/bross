@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:43:45+05:30",
- "runs": 861,
+ "updated": "2026-11-19T05:44:29+05:30",
+ "runs": 862,
  "branches": [
   {
    "id": "platforms",
@@ -3457,6 +3457,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 860
+    },
+    {
+     "t": "If recommendations are off by default for European under 13s, search and subscriptions would matter more there than the Home feed, so clear searchable titles (song topic plus 'song for kids') and playlists are the long term safeguard for European reach.",
+     "src": "webiano.digital, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 862
     }
    ]
   },
@@ -13754,6 +13761,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 854
+    },
+    {
+     "t": "On 4 Nov 2026 Meta, Google and TikTok filed separate lawsuits against California's attorney general to block AB 1709 (no personalised feeds or autoplay for under 16s from 1 Jan 2027), arguing free speech and Section 230, so whether US autoplay for kids changes in January depends on the court.",
+     "src": "idtechwire.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 862
+    },
+    {
+     "t": "Australia's High Court heard two days of challenges to the under 16 social media ban on 3 and 4 Nov 2026 and reserved its decision for months; over 5M accounts had already been removed by July.",
+     "src": "idtechwire.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 862
+    },
+    {
+     "t": "Kenya published its Online Safety Bill 2026 on 29 Oct, requiring age verification and parental consent for under 18s with fines up to 10% of global turnover; East Africa is joining the age check wave, so parents' accounts will be the main way Kenyan kids reach our videos.",
+     "src": "idtechwire.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 862
+    },
+    {
+     "t": "The EU Kids Act proposal would bar under 3s from social and video platforms entirely and let 3 to 12 year olds use only age specific video services through a guardian's account, with personalised recommendations off by default and a one hour daily cap; experts doubt it passes before 2028.",
+     "src": "webiano.digital, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 862
     }
    ]
   },
@@ -18016,11 +18051,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:45",
-   "note": "Run 784 (TRENDS (holiday season early signals, Virlo late October list, Know Your Meme roundups)): Holiday decor, gratitude tablecloth, retro multicolour Christmas, paparazzi bow and the Know Your Meme November roundups were already in the tree or not kid safe; new: the count of three 'pick your favourite thing' grab challenge and animated free dance loops spreading as GIF memes. Total 2352."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:46",
@@ -18333,13 +18364,13 @@
   {
    "date": "2026-11-19 05:43",
    "note": "Run 861 (TRENDS (worldwide most viewed videos and Shorts, week to 17 Nov 2026)): Trendreport's week to 17 Nov: 14 of the 25 most viewed videos on YouTube were kids or family and 10 were Shorts; the top Short was Lalafun's food sharing manners Short (+83.6M) and the big seasonal riser was Kidshire's 'Winter Clothes for Kids' vocabulary Short (+54.6M in a week). Colour games (refill the truck with colours, mixing colours, an Arabic 'hear the colour and catch it' game) also ranked. Added 'Winter clothes dress up' and 'Hear it, catch it colour game' to the trend bank. Total 2560."
+  },
+  {
+   "date": "2026-11-19 05:44",
+   "note": "Run 862 (rules and safety (new legal fights over kids' feeds)): Most kids law news was already in the tree. New: on 4 Nov 2026 Meta, Google and TikTok each sued California to block AB 1709 (no personalised feeds or autoplay for under 16s from 1 Jan), Australia's High Court heard challenges to the under 16 ban on 3 and 4 Nov with a ruling months away, and Kenya published an Online Safety Bill on 29 Oct requiring age checks and parental consent for under 18s. The EU Kids Act text would bar under 3s from video platforms entirely and give 3 to 12 year olds only age specific services with recommendations off by default. Total 2565."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:41",
-   "total": 2055
-  },
   {
    "date": "2026-11-16 16:41",
    "total": 2057
@@ -19535,6 +19566,10 @@
   {
    "date": "2026-11-19 05:43",
    "total": 2560
+  },
+  {
+   "date": "2026-11-19 05:44",
+   "total": 2565
   }
  ],
  "next_week_ideas": [
