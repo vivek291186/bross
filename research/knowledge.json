@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:09:37+05:30",
- "runs": 933,
+ "updated": "2026-11-19T08:36:26+05:30",
+ "runs": 934,
  "branches": [
   {
    "id": "platforms",
@@ -19137,6 +19137,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 931
+    },
+    {
+     "t": "A 'bedazzling' Reels trend (sometimes called whimsymaxxing) has creators gluing rhinestones and sparkles onto ordinary things like cups, bottles and phone cases; a kid safe version is a 'Sparkle it up!' Short where the Bros add stickers and glitter dots to a plain lunchbox one beat at a time.",
+     "src": "Anijam, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 934
+    },
+    {
+     "t": "An over the top 'alarm clock meltdown' skit (a person acts out huge distress while doing a silly task to turn off a morning alarm) is a current Reels format; for kids it maps onto a funny wake up song where Little Bro must do three dance moves before the alarm stops.",
+     "src": "Anijam, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 934
+    },
+    {
+     "t": "NewEngen's 16 Nov 2026 TikTok list is now mostly recycled: of its 12 trends, 10 (chipmunks dance, Dame Hombro, fan transition, Pray For Me slow mo, go go go, It's Time, turkey boards and others) were already in our tree, so the mid November trend cycle has slowed before Thanksgiving and the December holiday wave.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 934
     }
    ]
   }
@@ -19164,11 +19185,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:37",
-   "note": "Run 855 (TRENDS (NewEngen, SocialBee, Epidemic Sound and Tokchart mid November lists, Spotify Wrapped timing)): Nearly every format on this week's lists (Chipmunks jump kick spin, Dame Hombro, bicep heart, go go go, fan transition, Mariah 'It's time') was already in the tree. New: SocialBee's 12 Nov list adds 'boy, man, kebab' fight reaction stacks and a 'teaching him new habits' bowing prank, neither right for kids; Official Charts expects Spotify Wrapped on Wednesday 2 Dec 2026, so family year in review Reels should be ready by then. No trend bank change. Total 2534."
+   "note": "Earlier runs summarised: all rounds through Run 855 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:38",
@@ -19481,6 +19498,10 @@
   {
    "date": "2026-11-19 08:09",
    "note": "Run 933 (competitor deep dive (Little Angel rechecked)): Nothing new: Little Angel (7.3M) still shows near flat subscribers (+10K in 28 days), wildly swinging monthly views (14M to 125M) and a heavy Shorts rhythm (28 uploads in 28 days, newest a firefighter counting Short), all already in the tree. No leaves added. Total 2724."
+  },
+  {
+   "date": "2026-11-19 08:36",
+   "note": "Run 934 (TRENDS (Anijam 4 Nov Reels list, Epidemic Sound 13 Nov, NewEngen 16 Nov rechecked)): Trend lists from 4 to 16 Nov were almost fully covered already. New: a rhinestone 'bedazzling' Reels craze (a 'Sparkle it up!' lunchbox Short fits it) and an alarm clock meltdown skit that suits a wake up dance song; the mid November cycle has slowed before the December wave. Total 2727."
   }
  ],
  "history": [
@@ -20551,6 +20572,10 @@
   {
    "date": "2026-11-19 08:09",
    "total": 2724
+  },
+  {
+   "date": "2026-11-19 08:36",
+   "total": 2727
   }
  ],
  "next_week_ideas": [
