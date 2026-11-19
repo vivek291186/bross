@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:46:38+05:30",
- "runs": 989,
+ "updated": "2026-11-19T10:47:36+05:30",
+ "runs": 990,
  "branches": [
   {
    "id": "platforms",
@@ -3905,6 +3905,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 986
+    },
+    {
+     "t": "Family 'fake midnight' countdowns on 31 December usually start at about 7:30 to 8 PM local time for preschoolers and about 9 PM for early school kids, tested earlier in the day, so a Bro Bros New Year countdown song should be live by mid December and found by search, not by its publish hour.",
+     "src": "Big Heart Little Star / The Everymom, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 990
     }
    ]
   },
@@ -20145,6 +20152,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 987
+    },
+    {
+     "t": "Many parents now prefer a gentle, low effort elf tradition: a TikTok creator's elf who moves into a tiny house on 1 December, fills the advent calendar and only needs a marshmallow each night (no spying, no pranks) passed 300K views, with parents praising that he 'does not watch' the kids.",
+     "src": "Motherly, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 990
     }
    ]
   }
@@ -20172,11 +20186,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 910 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:48",
-   "note": "Run 911 (YouTube algorithm (rules and own results skipped, nothing new; Studio Research tab, Home only views)): Rules and our own Metricool data had nothing new, so the round went to the algorithm. YouTube is testing a Studio 'Research' tab with outlier multipliers and a 'watched by my viewers' filter, and OutlierKit's October update stresses judging Home performance from Browse only views and expecting click rate to fall as Home reach grows. Total 2678."
+   "note": "Earlier runs summarised: all rounds through Run 911 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:48",
@@ -20489,6 +20499,10 @@
   {
    "date": "2026-11-19 10:46",
    "note": "Run 989 (visual craft (Pocoyo design keys; thumbnail face studies rechecked)): Thumbnail face research (friendly smiles beat shock faces, several faces beat one) was already in the tree. New: Pocoyo's creator names minimalism, authenticity and directness as the show's three keys, and Animaj uses AI tools to speed production while keeping a very clean look, opening the old blank white world only a little (shadows, forests, giants). Total 2868."
+  },
+  {
+   "date": "2026-11-19 10:47",
+   "note": "Run 990 (TRENDS (December family rituals: gentle elf alternatives, fake midnight timing)): Christmas decor and elf prank lists were thin or old. New details: parents like a no watching, no pranks elf alternative (one creator's 'tiny house elf' that only needs a marshmallow each night drew over 300K views), and family 'fake midnight' countdowns on 31 Dec happen around 7:30 to 8 PM for preschoolers and about 9 PM for early school kids. Total 2870."
   }
  ],
  "history": [
@@ -21035,6 +21049,10 @@
   {
    "date": "2026-11-19 10:46",
    "total": 2868
+  },
+  {
+   "date": "2026-11-19 10:47",
+   "total": 2870
   }
  ],
  "next_week_ideas": [
@@ -21119,6 +21137,12 @@
    "where": "TikTok, Reels, Shorts (seasonal, mid Nov to Dec)",
    "status": "seasonal",
    "use": "Bro Bros' puppy and the brothers stand in a dark room, count 3, 2, 1 and the tree lights switch on; they freeze with wide eyes, then dance to our own lights song. Meshy step: standing in place, look up and point up with one arm, then sway side to side and jump with both arms up on the beat."
+  },
+  {
+   "name": "Gentle helper elf",
+   "where": "TikTok and Reels parent accounts (seasonal, 1 to 24 Dec)",
+   "status": "seasonal",
+   "use": "Our own original elf (new name, look and story, never the trademarked one) moves into a tiny house on 1 December; each night the brothers leave a marshmallow and in the morning the elf has left a kind task (share a toy, help tidy), sung in a short daily Short. No spying, no tricks, no scares. Meshy step: standing, tiptoe in place, then a happy wave and a small jump."
   },
   {
    "name": "Fruit turkey build",
@@ -21209,12 +21233,6 @@
    "where": "TikTok, Reels and Shorts (December challenge style, Revid Christmas 2026 guide)",
    "status": "seasonal",
    "use": "A 30 second Short with a big on screen timer: Big Bro and Little Bro race to wrap a present (a teddy, a ball, a giant box) to a fast verse of our own 'Wrap It Up!' song; the messy funny results are revealed on the last beat, then both do the chorus dance. Caption: 'Can you wrap it before the bell?'. Meshy prompt: standing in place, fast arm rolling in front of the chest, then two claps above the head and a hop with arms up."
-  },
-  {
-   "name": "Same spot, years apart",
-   "where": "TikTok and Instagram Reels, at peak for 17 to 25 Nov 2026 (Pink Floyd 'Time' clip, about 556K TikToks and 467K Reels)",
-   "status": "peak",
-   "use": "A split or cut Short: 'Baby Bros' (tiny toddler versions of the brothers) do a wobbly dance in the backyard, then a match cut to the big Bros doing the same move in the same spot, stronger and funnier, set to a soft clock tick and our own chorus. Meshy prompt: standing, slow wobbly sway side to side with arms out for balance, then the same sway done strongly with a clap on each side."
   }
  ],
  "posting_plan": {
