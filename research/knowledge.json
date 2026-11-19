@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:52:50+05:30",
- "runs": 995,
+ "updated": "2026-11-19T10:53:42+05:30",
+ "runs": 996,
  "branches": [
   {
    "id": "platforms",
@@ -3928,7 +3928,7 @@
      "run": 995
     },
     {
-     "t": "Top1Trend's study of 100,000+ trending videos (Mar 2026) advises uploading 2 to 4 hours before local evening peaks: about 12 to 3 PM Eastern for the US, 2 to 5 PM IST for India and 2 to 5 PM BRT for Brazil, which supports our 16:00 IST slot for India and our early morning IST slot landing before the US after school hours.",
+     "t": "Top1Trend's study of 100,000+ trending videos (Mar 2026) advises uploading 2 to 4 hours before local evening peaks: about 12 to 3 PM Eastern for the US (22:30 to 01:30 IST), 2 to 5 PM IST for India and 2 to 5 PM BRT for Brazil; this supports our 16:00 IST slot for India, while our 04:30 IST slot (6 PM New York) lands on the US peak itself rather than before it.",
      "src": "Top1Trend, Mar 2026",
      "conf": "low",
      "date": "2026-11-19",
@@ -15532,6 +15532,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 986
+    },
+    {
+     "t": "The teen 'door kick challenge' (kicking or banging on strangers' doors at night, filming and running away) spread across the US and UK and led to police reports and arrests, so Bro Bros visit and surprise formats must always show a friendly ring at a family member's door that is answered, never knocking at strangers' houses or running away.",
+     "src": "Bitdefender, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 996
     }
    ]
   },
@@ -20263,11 +20270,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 916 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:52",
-   "note": "Run 917 (music craft (Kidz Bop process, preschool TV music)): Most craft sources (DreamWorks TV music, infant singing studies) were already in the tree. New: Kidz Bop's Michael Anderson (Fast Company, Jun 2026) says the brand times each kid version to land as the original peaks and drops songs that cannot be made clean, and the brand has about 7.2B video views and 14B streams, proof that timing a release to a wave matters as much as the song. Total 2690."
+   "note": "Earlier runs summarised: all rounds through Run 917 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:53",
@@ -20580,6 +20583,10 @@
   {
    "date": "2026-11-19 10:52",
    "note": "Run 995 (posting times (Metricool best times 19 to 25 Nov rechecked, Common Sense 2026 tween census, regional upload windows)): Metricool's model for 19 to 25 Nov repeats what the tree had (YouTube 16:00 IST peak, Instagram 10:00 IST, weekends about half), so both slots stay as they are. New: Common Sense's 2026 census finds tweens (9 to 12) get about 7 h 45 min of entertainment screen time on weekend days against about 4 h 49 min on weekdays, and 58% watch short videos every day; a Top1Trend analysis of trending videos suggests uploading 2 to 4 hours before evening peaks (India 2 to 5 PM IST, Brazil 2 to 5 PM BRT). Total 2881."
+  },
+  {
+   "date": "2026-11-19 10:53",
+   "note": "Run 996 (TRENDS (parent and kid trend explainers; safety check)): No new kid safe trend this round: the parent hacks and slang lists were already in the tree, and the rest were adult or risky (a serious parenting confession trend and the teen 'door kick' prank, which led to arrests in the US). Added one safety note so our doorbell and visit formats never look like that prank. Total 2882."
   }
  ],
  "history": [
@@ -21150,6 +21157,10 @@
   {
    "date": "2026-11-19 10:52",
    "total": 2881
+  },
+  {
+   "date": "2026-11-19 10:53",
+   "total": 2882
   }
  ],
  "next_week_ideas": [
