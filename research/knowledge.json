@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:44:55+05:30",
- "runs": 1295,
+ "updated": "2026-11-19T19:45:18+05:30",
+ "runs": 1296,
  "branches": [
   {
    "id": "platforms",
@@ -18528,6 +18528,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1191
+    },
+    {
+     "t": "Metricool shows the 19 Nov 2026 16:00 IST long video 'Bubble Gum Pop' went live on YouTube with a warning, 'Could not upload video thumbnail', so it is running on an automatic frame instead of our designed thumbnail; the owner should set the thumbnail by hand in YouTube Studio and check every Metricool post for this warning, because a missing custom thumbnail can cut click rate on Home and Suggested.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1296
+    },
+    {
+     "t": "Everything else in this week's queue (farm band at 10:00, the 10:05 Shorts, the 10:00 and 16:00 Reels) published normally on 19 Nov, and the rest of the week (elephant parade, little car, kitty band, toothbrushing, peekaboo, rocket to the moon) is still queued at 10:00 and 16:00 IST with made for kids set.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1296
     }
    ]
   },
@@ -23038,10 +23052,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 16:40",
-   "note": "Run 1217 (music craft (infant beat and movement studies)): Nothing new: the eLife 79 baby study and the newborn beat finding were already in the tree several times; three duplicate leaves added in this round were removed again. Total 3168."
-  },
-  {
    "date": "2026-11-19 16:41",
    "note": "Run 1218 (visual craft (song thumbnails)): Small: a Sep 2026 compilation of 3,200 song video thumbnails and 127 A/B tests (secondary data, low confidence) favours a tight face crop, very high contrast and 0 to 3 words. Parents' dislike of frantic pacing and the infant pitch results were already in the tree. Total 3169."
   },
@@ -23352,13 +23362,13 @@
   {
    "date": "2026-11-19 19:44",
    "note": "Run 1295 (rules and safety (UK Ofcom and COPPA recheck)): Small: Ofcom said on 24 Oct 2026 that children's exposure to harmful content had not fallen in the nine months after its child safety duties began, which keeps pressure on platforms' feeds for minors; the UK package due from spring 2027 also bans livestreaming by under 16s on every platform. The Disney COPPA penalty and the UK under 16 ban were already in the tree. Total 3277."
+  },
+  {
+   "date": "2026-11-19 19:45",
+   "note": "Run 1296 (our own results (Metricool queue and publish status)): New: the 19 Nov 16:00 IST bubble gum song went live on YouTube but Metricool reports 'Could not upload video thumbnail', so it is running on an auto picked frame; the farm band song, its Short and Reel (10:00) and the bubble gum Short and Reel published normally. Analytics still stop at 16 Nov for YouTube and show no 19 Nov Reels yet. Total 3279."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:53",
-   "total": 2882
-  },
   {
    "date": "2026-11-19 10:54",
    "total": 2884
@@ -24554,6 +24564,10 @@
   {
    "date": "2026-11-19 19:44",
    "total": 3277
+  },
+  {
+   "date": "2026-11-19 19:45",
+   "total": 3279
   }
  ],
  "next_week_ideas": [
