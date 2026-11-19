@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:36:57+05:30",
- "runs": 1358,
+ "updated": "2026-11-19T23:37:46+05:30",
+ "runs": 1359,
  "branches": [
   {
    "id": "platforms",
@@ -23617,6 +23617,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1356
+    },
+    {
+     "t": "For the week of 17 to 25 Nov 2026 the classic Christmas songs on Instagram Reels are used to mark the start of the season with a lights switched on reveal: a dark room or street, then the decorations light up on the beat.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1359
+    },
+    {
+     "t": "A rising Reels format in late November 2026 is the 'small happy moments' montage, quick everyday clips (a warm drink, a snowflake, a hug) cut to a gentle song with a kind caption about doing more than you think.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1359
     }
    ]
   }
@@ -23643,12 +23657,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:10",
-   "note": "Earlier: older log entries summarised (runs up to 1279); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:35",
-   "note": "Run 1280 (posting times (Metricool 20 to 26 Nov, Nielsen and eMarketer audience data)): New: Metricool now has Friday 20 Nov 10:00 IST almost tied with 16:00, weekends about half; Nielsen Aug 2026 gave YouTube a record 15.8% of US TV with no back to school dip; eMarketer counts 30.7M US Gen Alpha YouTube viewers. Slots unchanged. Total 3269."
+   "note": "Earlier: older log entries summarised (runs up to 1280); details are in git history."
   },
   {
    "date": "2026-11-19 19:35",
@@ -23961,13 +23971,13 @@
   {
    "date": "2026-11-19 23:36",
    "note": "Run 1358 (Shorts and Reels recheck): Nothing new: the Shorts heart button and dislike removal, Shorts series, Instagram 90 minute 'Features' and Reels algorithm controls were already in the tree; no Reels algorithm change found for mid November. No leaves added. Chrome not available. Total 3364."
+  },
+  {
+   "date": "2026-11-19 23:37",
+   "note": "Run 1359 (TRENDS (SocialPilot Reels week of 17 Nov)): Most Reels audios this week (Pink Floyd then and now, Blue Danube chores ballet, Stop the Wedding, Christmas market tours) were already in the tree; added the lights switched on holiday reveal and the small happy moments montage, plus a 'Lights on reveal' trend bank entry using our own song. Chrome not available. Total 3366."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:46",
-   "total": 2987
-  },
   {
    "date": "2026-11-19 12:47",
    "total": 2989
@@ -25163,6 +25173,10 @@
   {
    "date": "2026-11-19 23:36",
    "total": 3364
+  },
+  {
+   "date": "2026-11-19 23:37",
+   "total": 3366
   }
  ],
  "next_week_ideas": [
@@ -25224,6 +25238,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Lights on reveal",
+   "where": "Instagram Reels (start of holiday season, week of 17 Nov 2026)",
+   "status": "seasonal",
+   "use": "Open on the Bros' dark living room at night, Little Bro holds the plug, count 3, 2, 1 on screen and on the drop of our own Christmas song the tree, window and garden lights switch on in a wave; both Bros then dance in front of the tree. Meshy prompt: standing in place, both arms shoot up in surprise, two hops on the spot, then sway side to side with hands waving above the head."
+  },
   {
    "name": "Cozy catwalk",
    "where": "TikTok (runway recreations, Nov 2026)",
@@ -25337,12 +25357,6 @@
    "where": "TikTok and Reels meme (Know Your Meme, 18 Nov 2026)",
    "status": "rising",
    "use": "A 15 second Short: a cosy room scene, a tiny Bro Bros toy hides somewhere odd (on a lamp, a shelf, a radiator); the Bros sing 'where is it, where is it?' from our own song, freeze, then a red circle pops round the toy on the beat and both cheer and point. Do 3 rooms in a row; ask kids to comment where they spotted it first. Standing, pointing and a happy jump in place."
-  },
-  {
-   "name": "Meet the snow animal",
-   "where": "YouTube Shorts breakout (11 to 18 Nov 2026)",
-   "status": "rising",
-   "use": "A 20 second Short: the little brother walks into a snowy forest, a friendly animated fox peeks out, he waves, the fox waves; on our chorus they mirror each other: paws up, hop in place, wiggle tail (hips), spin slowly in place, then a high five. Next episodes: an owl (flap arms), a reindeer (antler hands on head). Our own song, no real babies or animals."
   }
  ],
  "posting_plan": {
