@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:42:26+05:30",
- "runs": 1247,
+ "updated": "2026-11-19T18:36:34+05:30",
+ "runs": 1248,
  "branches": [
   {
    "id": "platforms",
@@ -22532,6 +22532,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1243
+    },
+    {
+     "t": "The 'how to kick a soccer ball' bait and switch (a fake tutorial that turns into a silly dance instead of the skill) ran on TikTok and Reels from late Nov 2025 into mid 2026 with top posts near 2.9M likes; the original dance is not kid safe, but the fake tutorial then surprise dance shape (Big Bro starts explaining, Little Bro bursts into a happy spin) is reusable with our own song.",
+     "src": "knowyourmeme.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1248
+    },
+    {
+     "t": "A Spanish November 2026 TikTok roundup lists a 'costume loading' clip: everyday clothes with a 'loading' label, freeze the frame, then cut to the full costume exactly on the beat; the freeze then snap cut is a camera only trick we can reuse for Christmas jumpers, snowsuits or pyjamas in Blender.",
+     "src": "que.es, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1248
+    },
+    {
+     "t": "Animator remake trends such as 'Let's Groove' (a cartoon dance scene redrawn with characters from other franchises, from late Aug 2026) spread fast among animators but depend on protected characters, so Bro Bros should only join animator trends where we can swap in our own Bros and an original song.",
+     "src": "knowyourmeme.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1248
     }
    ]
   }
@@ -22558,12 +22579,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:50",
-   "note": "Earlier: older log entries summarised; runs up to Run 1168 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 15:51",
-   "note": "Run 1169 (music craft (tempo play and stop and go song games)): New: toddlers aged 1 to 4 in a Developmental Psychology study danced faster to faster versions of the same song (90, 120, 150 BPM) and smiled more and kept dancing even at the slow tempo when the song was their favourite; PBS's self regulation games (fast then slow dancing, freeze, follow the conductor's speed, do the opposite) give us ready made song game structures. Total 3129."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 15:51",
@@ -22876,16 +22893,16 @@
   {
    "date": "2026-11-19 17:42",
    "note": "Run 1247 (rules (AI labels, COPPA, UK under 16 scope)): Nothing new: Fairplay's AI letter, YouTube's photorealistic only auto labels, the FTC age verification statement and the UK plan that could pull YouTube Kids into the under 16 rules (spring 2027) were already in the tree. No leaves added. Total 3209."
+  },
+  {
+   "date": "2026-11-19 18:36",
+   "note": "Run 1248 (TRENDS (weekly lists recheck, no Chrome)): Small: SocialPilot's 17 to 25 Nov TikTok list, Later's 13 Nov Reels roundup and B&T's November list were all already in the tree; added a fake tutorial then surprise dance shape, a freeze then snap cut 'loading' outfit reveal and a caution on animator remake trends. Total 3212."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:42",
-   "total": 2773
   },
   {
    "date": "2026-11-19 09:43",
@@ -24078,6 +24095,10 @@
   {
    "date": "2026-11-19 17:42",
    "total": 3209
+  },
+  {
+   "date": "2026-11-19 18:36",
+   "total": 3212
   }
  ],
  "next_week_ideas": [
