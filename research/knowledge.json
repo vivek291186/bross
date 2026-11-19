@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:38:03+05:30",
- "runs": 1241,
+ "updated": "2026-11-19T17:39:11+05:30",
+ "runs": 1242,
  "branches": [
   {
    "id": "platforms",
@@ -11633,6 +11633,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1241
+    },
+    {
+     "t": "A Journal of Graphics eye tracking study of 318 children aged 4 to 6 (Feb 2026) found humanlike robots drew faster and longer looks than a robot dog, while gestures and any voice (female slightly preferred) each raised liking and attention on their own, so a Bro Bros robot character should be moderately humanlike, big eyed, gesture constantly and talk or sing.",
+     "src": "Journal of Graphics (China), Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1242
+    },
+    {
+     "t": "A Research Square preprint with 345 Japanese preschoolers (Oct 2026) found boys strongly picked standard humanoid robots over dolls while girls mostly picked dolls, and a pink, decorated robot shifted girls' choice only slightly, so to reach girls and boys alike a character should get inclusive roles and actions (caring, building, pretend play) rather than just a recolour.",
+     "src": "Research Square preprint, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1242
+    },
+    {
+     "t": "The same robot study's review cites children's preference for round contours, smooth edges and compact bodies with moderate, not near human, realism, which matches our rounded 3D Bros style and argues against more realistic human skin and proportions.",
+     "src": "Journal of Graphics (China), Feb 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1242
     }
    ]
   },
@@ -22468,11 +22489,7 @@
  "log": [
   {
    "date": "2026-11-19 15:48",
-   "note": "Earlier: older log entries summarised; runs up to Run 1162 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:48",
-   "note": "Run 1163 (rules (Vietnam's draft child account rules; India DPDP rechecked)): New: Vietnam's Sept 2026 draft amendment to Decree 147 drops a full ban and instead makes parents register and supervise under 16 accounts, locks posting, comments and reactions for under 13s on large foreign platforms, and asks any channel with 1M+ followers to file contact details with the ministry. India's DPDP stages were already in the tree. Total 3126."
+   "note": "Earlier: older log entries summarised; runs up to Run 1163 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:49",
@@ -22785,13 +22802,13 @@
   {
    "date": "2026-11-19 17:38",
    "note": "Run 1241 (music craft (learning science for songs)): New: from a Sep 2026 research review, retrieval practice (asking kids to recall a word, not just repeating it) beats plain repetition for word learning in 4 to 6 year olds, extra on screen clutter lowers what 5 year olds learn, and singing together at home in childhood predicts singing ability later. Suno news (v5.5) was already in the tree. Total 3196."
+  },
+  {
+   "date": "2026-11-19 17:39",
+   "note": "Run 1242 (visual craft (character design studies)): Small: two new robot studies help our robot and character designs: Chinese 4 to 6 year olds (318) looked longer at humanlike robots and liked any robot more when it gestured and spoke, and a Japanese preprint (345 preschoolers) found recolouring a robot pink barely changed girls' interest, so roles and actions matter more than colour. Thumbnail, pacing and TV safe findings were already in the tree. Total 3199."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 09:36",
-   "total": 2744
-  },
   {
    "date": "2026-11-19 09:37",
    "total": 2749
@@ -23987,6 +24004,10 @@
   {
    "date": "2026-11-19 17:38",
    "total": 3196
+  },
+  {
+   "date": "2026-11-19 17:39",
+   "total": 3199
   }
  ],
  "next_week_ideas": [
