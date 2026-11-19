@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:49:04+05:30",
- "runs": 1381,
+ "updated": "2026-11-19T23:49:41+05:30",
+ "runs": 1382,
  "branches": [
   {
    "id": "platforms",
@@ -16183,6 +16183,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1363
+    },
+    {
+     "t": "Parrot Analytics' study of 5,469 animated titles in 16 Middle East and North Africa markets (Jan to Mar 2026) found kids titles are 40.6% of supply but only 30.2% of demand (crowded), while family titles are 20.6% of supply and 28.6% of demand (under served), so songs parents enjoy watching with their children stand out more there than toddler only content.",
+     "src": "parrotanalytics.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1382
+    },
+    {
+     "t": "In the same study US and Japanese titles take over 85% of animated demand in the region (46.5% and 38.9%), local Arabic animation is still early, and kids titles draw the widest age mix (23% Gen X and older), so imported English animation with Arabic dubbing and co viewing appeal fits the market.",
+     "src": "parrotanalytics.com, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1382
+    },
+    {
+     "t": "Recognised franchises with household co viewing lead kids demand in the Middle East and North Africa while generic kids volume faces heavy competition, so a new brand there needs one strong, repeated character identity rather than many look alike nursery videos.",
+     "src": "parrotanalytics.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1382
     }
    ]
   },
@@ -23804,12 +23825,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:47",
-   "note": "Earlier: older log entries summarised (runs up to 1302); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:48",
-   "note": "Run 1303 (TRENDS (holiday toy themes)): Nothing new: the holiday 2026 hot toy lists (blind boxes, squishies, interactive pets, outdoor play for Australia) were already in the tree. No leaves added. Total 3280."
+   "note": "Earlier: older log entries summarised (runs up to 1303); details are in git history."
   },
   {
    "date": "2026-11-19 19:48",
@@ -24122,13 +24139,13 @@
   {
    "date": "2026-11-19 23:49",
    "note": "Run 1381 (topics and seasons (giving week; TRENDS and Shorts rechecks found nothing new)): YouTube kids Shorts and vidIQ fastest growing pages had nothing new; added GivingTuesday (1 Dec) and Generosity Week (1 to 5 Dec) as a global kindness moment, plus a 'Helping Hands Week!' song idea. Chrome not available. Total 3387."
+  },
+  {
+   "date": "2026-11-19 23:49",
+   "note": "Run 1382 (global markets (Middle East and North Africa animation demand)): Added Parrot Analytics' Middle East and North Africa animation demand study: kids titles are oversupplied, family titles under served, US and Japanese imports take over 85% of demand, and recognisable characters with co viewing appeal win. Chrome not available. Total 3390."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:35",
-   "total": 3017
-  },
   {
    "date": "2026-11-19 13:37",
    "total": 3020
@@ -25324,6 +25341,10 @@
   {
    "date": "2026-11-19 23:49",
    "total": 3387
+  },
+  {
+   "date": "2026-11-19 23:49",
+   "total": 3390
   }
  ],
  "next_week_ideas": [
