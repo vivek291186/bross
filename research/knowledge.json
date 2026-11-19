@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:01:38+05:30",
- "runs": 1235,
+ "updated": "2026-11-19T17:02:05+05:30",
+ "runs": 1236,
  "branches": [
   {
    "id": "platforms",
@@ -4339,6 +4339,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1222
+    },
+    {
+     "t": "Keyword data for 'kids music' (Oct 2025 to Sep 2026) shows about 60,500 searches a month worldwide (55% from the US), rising about 22% to roughly 74,000 a month from December to February and dipping to about 49,500 in April, so families search for kids music most in the northern winter indoor season, a reason to load our strongest songs and compilations into December to February.",
+     "src": "RankHero keyword data, 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1236
     }
    ]
   },
@@ -22376,12 +22383,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:45",
-   "note": "Earlier: older log entries summarised; runs up to Run 1156 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:45",
-   "note": "Run 1157 (music craft (songs that include more children: signing and autistic viewers)): New: parents of autistic children (31 interviews, Journal of Autism and Developmental Disorders) say their children favour content made for younger ages, songs and characters they can imitate (some repeat the characters' words) and videos they can replay; UK nurseries already sign songs like 'Open, Shut Them' and the ABC song with Makaton, so a few simple hand signs on our chorus words make a song usable for many more children. Total 3119."
+   "date": "2026-11-19 15:46",
+   "note": "Earlier: older log entries summarised; runs up to Run 1157 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:46",
@@ -22694,13 +22697,13 @@
   {
    "date": "2026-11-19 17:01",
    "note": "Run 1235 (rules (EU Digital Fairness Act and national age limits)): Nothing new: the 11 Nov 2026 EU Digital Fairness Act proposal (no urging children to buy, ad labels, loot box ban) and the Danish, Spanish and other national age limits were already in the tree. Metricool Reels for 18 Nov (freeze dance 111 views, veggie soup 127) unchanged. No leaves added. Total 3183."
+  },
+  {
+   "date": "2026-11-19 17:02",
+   "note": "Run 1236 (algorithm and search (kids music search seasonality)): Small: keyword data for 'kids music' (about 60,500 searches a month worldwide, 55% from the US) shows a winter bump to about 74,000 from December to February and a low of about 49,500 in April, so kids music demand rises in the northern winter indoor months; Cocomelon remains the only kids term in YouTube's top searches (already known). Total 3184."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 08:38",
-   "total": 2732
-  },
   {
    "date": "2026-11-19 08:39",
    "total": 2733
@@ -23896,6 +23899,10 @@
   {
    "date": "2026-11-19 17:01",
    "total": 3183
+  },
+  {
+   "date": "2026-11-19 17:02",
+   "total": 3184
   }
  ],
  "next_week_ideas": [
