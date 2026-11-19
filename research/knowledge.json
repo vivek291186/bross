@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:44:31+05:30",
- "runs": 1026,
+ "updated": "2026-11-19T11:45:32+05:30",
+ "runs": 1027,
  "branches": [
   {
    "id": "platforms",
@@ -14006,6 +14006,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1016
+    },
+    {
+     "t": "BabyBus Arabic (listed in Saudi Arabia, 10.6M subscribers, about 7.1B views, 1,513 videos) steadily earns about 75M to 90M views a month in 2026 (peak about 132M in March, during Ramadan), proof that one dubbed Arabic channel from an existing song library can become a large, stable audience.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1027
+    },
+    {
+     "t": "BabyBus Arabic's biggest videos are colour and counting songs about food and treats ('Dancing Colorful Cakes' 63M, 'Five Rainbow Candies' 57M, 'Ten Dancing Cakes' 45M) plus vehicle songs (garbage truck 22M), so Bro Bros songs about counting colourful foods and big trucks are the safest picks to dub into Arabic first.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1027
+    },
+    {
+     "t": "BabyBus Arabic's subscriber count has stalled at 10.6M with zero net gain in several 2026 months while views hold steady, showing that dubbed kids channels in Arabic live on recommendations to returning families rather than subscriptions.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1027
+    },
+    {
+     "t": "Gulf kids studios mix several Arabic dialects (Emirati, Saudi, Iraqi, Egyptian and others) in one show to reach the whole Arab world, and Bidaya's Mansour channel drew most of its 2.5B views from outside its home country (Iraq, Egypt), so an Arabic Bro Bros dub should use simple, widely understood Arabic rather than one country's slang.",
+     "src": "Kidscreen, Sep 2023",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1027
     }
    ]
   },
@@ -20634,11 +20662,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 947 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:41",
-   "note": "Run 948 (YouTube main and Kids (TRENDS skipped, thin last round; Tubefilter 2 to 8 Nov, GoBooBoo)): Tubefilter's 2 to 8 Nov chart shows family vlog style channels still own the top (Cadel and Mia 890M a week even after a 24% drop), while the Spanish preschool channel El Tren Nam Nam fell 52% in one week. GoBooBoo (US, 4.29M) has 2.27B views from 197 videos but its newest upload had only about 39K views after two days, so its catalogue does the work. Total 2770."
+   "note": "Earlier runs summarised: all rounds through Run 948 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:42",
@@ -20951,6 +20975,10 @@
   {
    "date": "2026-11-19 11:44",
    "note": "Run 1026 (TRENDS (UK November list, Spanish and Indonesian kid dance searches)): Little new this week: Spanish and Indonesian kid dance searches returned older viral clips. New: a 'what I thought of this morning' format where creators pair putting on a winter coat with dreamy summer memories, which suits a cosy 'remember summer' winter song. Total 2934."
+  },
+  {
+   "date": "2026-11-19 11:45",
+   "note": "Run 1027 (global markets (Arabic kids market: BabyBus Arabic)): Dubbing and market size sources were already in the tree. New: BabyBus Arabic (Saudi listed, 10.6M subscribers, 7.1B views) steadily gets 75M to 90M views a month from dubbed songs, and its biggest hits are dancing coloured cakes and rainbow candy counting songs, showing simple colour and food counting songs travel into Arabic well. Total 2938."
   }
  ],
  "history": [
@@ -21645,6 +21673,10 @@
   {
    "date": "2026-11-19 11:44",
    "total": 2934
+  },
+  {
+   "date": "2026-11-19 11:45",
+   "total": 2938
   }
  ],
  "next_week_ideas": [
