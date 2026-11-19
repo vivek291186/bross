@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:42:13+05:30",
- "runs": 940,
+ "updated": "2026-11-19T08:42:50+05:30",
+ "runs": 941,
  "branches": [
   {
    "id": "platforms",
@@ -9883,6 +9883,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 930
+    },
+    {
+     "t": "A thumbnail guide updated Oct 2026 reports that in a large creator's thumbnail tests closed mouth, friendly smiles won more often than open mouthed 'shock' faces, which suits kids content: Bro Bros thumbnails should show the brothers with big happy smiles rather than screaming or shocked mouths.",
+     "src": "Upstream, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 941
+    },
+    {
+     "t": "1of10's study of 300K viral 2025 videos found faces made little overall difference, but thumbnails with several faces did better than those with one, which supports putting both brothers (or the whole friend group) on a thumbnail instead of a single character.",
+     "src": "Search Engine Journal, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 941
     }
    ]
   },
@@ -19255,11 +19269,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 861 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:44",
-   "note": "Run 862 (rules and safety (new legal fights over kids' feeds)): Most kids law news was already in the tree. New: on 4 Nov 2026 Meta, Google and TikTok each sued California to block AB 1709 (no personalised feeds or autoplay for under 16s from 1 Jan), Australia's High Court heard challenges to the under 16 ban on 3 and 4 Nov with a ruling months away, and Kenya published an Online Safety Bill on 29 Oct requiring age checks and parental consent for under 18s. The EU Kids Act text would bar under 3s from video platforms entirely and give 3 to 12 year olds only age specific services with recommendations off by default. Total 2565."
+   "note": "Earlier runs summarised: all rounds through Run 862 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:45",
@@ -19572,6 +19582,10 @@
   {
    "date": "2026-11-19 08:42",
    "note": "Run 940 (music craft (TRENDS skipped, thin this run; preschool rhythm and movement trial)): Baby movement (eLife, 79 babies) and the Verona 108 child rhythm study were already in the tree. New: an Australian trial with 213 preschoolers found eight weeks of rhythm and movement games improved prosocial behaviour and cut behaviour problems for at least six months, which backs our freeze, slow and fast cue songs as self regulation songs. Total 2737."
+  },
+  {
+   "date": "2026-11-19 08:42",
+   "note": "Run 941 (visual craft (thumbnail faces and expressions)): Most thumbnail research (vidIQ breakout study, 3,200 song thumbnails, Common Sense attention capture) was already in the tree. New: friendly closed mouth smiles beat shock faces in a big creator's tests, and several faces beat one face in 1of10's viral video study, so Bro Bros thumbnails should show both brothers smiling. Total 2739."
   }
  ],
  "history": [
@@ -20670,6 +20684,10 @@
   {
    "date": "2026-11-19 08:42",
    "total": 2737
+  },
+  {
+   "date": "2026-11-19 08:42",
+   "total": 2739
   }
  ],
  "next_week_ideas": [
