@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:57:09+05:30",
- "runs": 1003,
+ "updated": "2026-11-19T10:58:25+05:30",
+ "runs": 1006,
  "branches": [
   {
    "id": "platforms",
@@ -7097,6 +7097,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1002
+    },
+    {
+     "t": "Moonbug's compilation only side channel 'Kids Road Trip!' (875K subscribers, about 1,010 videos averaging 52 minutes, about 3 uploads a week) drew only about 1.3M views a month (around 1,300 views per video) in early 2025, so a separate compilation channel is a weak use of effort compared with posting compilations on the main channel.",
+     "src": "vidIQ (data Feb 2025)",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1004
+    },
+    {
+     "t": "Tubefilter's most subscribed chart for 9 to 15 Nov 2026 is led by Latin American and Turkish creators: two Brazilian channels (+2M and +1M a week), Mexico's HotSpanish Vlogs (+1.5M) and Turkey's Sasha Show (+1.2M), so Portuguese and Spanish speaking audiences are where weekly subscriber growth is fastest right now.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1006
+    },
+    {
+     "t": "A Singapore animation channel built on original cartoon characters in short battle stories (RABBITWARREN, 'Ninja Skunks vs. Oniball') made the same week's top 50 gainers with about 300K new subscribers (+50%), proof that original animated characters can grow fast on Shorts without any real people on screen.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1006
     }
    ]
   },
@@ -20340,19 +20361,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 924 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:59",
-   "note": "Run 925 (TRENDS (Christmas dance and Thanksgiving checks)): December dance formats have not been published yet (TikTok's own pages block reading); dance guides still list the yearly Christmas returners, a retro rock style Christmas group routine and a 'Snowman' song challenge, both on copyrighted songs, so we copy only the cosy group line dance idea. Thanksgiving checks found recipes and the gratitude tablecloth, already known. Total 2711."
-  },
-  {
-   "date": "2026-11-19 07:59",
-   "note": "Run 926 (YouTube algorithm (Studio Insights and Research launch, Shorts formula shift rechecked)): Nothing new to add: the 13 Nov 2026 Studio change (Analytics becomes Insights, Research replaces Trends with outlier scores, Ask Studio closed to made for kids channels) and the late 2025 shift to 'satisfied watch time per click' were already in the tree. Removed run 911's leaf that called the Research tab a small test, because it has since launched on desktop and an existing leaf already covers it. Total 2710."
-  },
-  {
-   "date": "2026-11-19 08:00",
-   "note": "Run 927 (Shorts and Reels (kids brands on Instagram: Ms Rachel's account, Dash Social benchmarks)): The biggest preschool creator's Instagram (6.07M followers) grew about 569K in 30 days to 8 Oct 2026 while posting about 21 times a week with 6.7% engagement against a 1.5% category median, and Dash Social's children and baby benchmark puts kids brand Reels at about 2.4% engagement and roughly 71K average views per video for accounts over 1K followers, a target far above our current 30 views. Total 2712."
+   "note": "Earlier runs summarised: all rounds through Run 927 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 08:01",
@@ -20657,6 +20666,18 @@
   {
    "date": "2026-11-19 10:57",
    "note": "Run 1003 (global markets (Malaysia: Didi and Friends; Morocco Darija note)): Malaysia's own preschool brand Didi and Friends (7.62M subscribers, 8B views) still earns about 62M views a month from Malay songs; its biggest hits are a vehicle sounds song (25.8M), a 'do not open the door' safety song (23.3M), a shapes song and five little monkeys, so local language songs on universal themes win there. Darija learning channels show Moroccan viewers favour their spoken dialect, but no kids data yet. Total 2892."
+  },
+  {
+   "date": "2026-11-19 10:57",
+   "note": "Run 1004 (competitor deep dive (Moonbug compilation sub channels)): Moonbug's 'Kids Road Trip!' compilation channel (875K subscribers, about 1,010 videos averaging 52 minutes, 3 uploads a week) grew only about 0.4% a month and drew about 1.3M views a month in early 2025, so long compilation only side channels add little; compilations work best on the main channel. Total 2893."
+  },
+  {
+   "date": "2026-11-19 10:58",
+   "note": "Run 1005 (TRENDS (winter dance and Christmas countdown formats rechecked)): Nothing new: the 'Winter Vibes' snow dance, the text countdown to Christmas format and the tiny hidden message zoom were already in the tree and trend bank; snow eating clips were skipped for safety. No leaves added. Total 2893."
+  },
+  {
+   "date": "2026-11-19 10:58",
+   "note": "Run 1006 (YouTube main (Tubefilter most subscribed, week of 15 Nov 2026)): Rules and own results skipped (nothing new). Tubefilter's 9 to 15 Nov subscriber chart is led by Latin American and Turkish creators: two Brazilian channels (+2M and +1M), Mexico's HotSpanish Vlogs (+1.5M) and Turkey's Sasha Show (+1.2M), plus a Singapore animated Shorts channel with original characters (+300K, up 50%). Total 2895."
   }
  ],
  "history": [
@@ -21259,6 +21280,18 @@
   {
    "date": "2026-11-19 10:57",
    "total": 2892
+  },
+  {
+   "date": "2026-11-19 10:57",
+   "total": 2893
+  },
+  {
+   "date": "2026-11-19 10:58",
+   "total": 2893
+  },
+  {
+   "date": "2026-11-19 10:58",
+   "total": 2895
   }
  ],
  "next_week_ideas": [
