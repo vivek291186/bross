@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:48:46+05:30",
- "runs": 866,
+ "updated": "2026-11-19T05:49:30+05:30",
+ "runs": 867,
  "branches": [
   {
    "id": "platforms",
@@ -10429,6 +10429,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 866
+    },
+    {
+     "t": "Pixar's next original film 'Gatto' released its trailer in mid November 2026 and reached the US trending top 25, so a cat character is about to be in front of families again; Bro Bros can add its own original cat friend, never Pixar's.",
+     "src": "kabo.sh, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 867
     }
    ]
   },
@@ -18094,6 +18101,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 861
+    },
+    {
+     "t": "On 18 Nov 2026 the US YouTube trending list is led by satisfying fix it Shorts (a man flooding his own basement before the river does, 26.9M; tires that will not crush you, 18.5M) and K pop videos, while the only family film trailer in the top 25 is Pixar's 'Gatto' (3.7M).",
+     "src": "kabo.sh, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 867
+    },
+    {
+     "t": "Two quick drawing Shorts were in the same US top 25 ('24 Hour Drawings' 4.4M and 'House Drawing' 3.9M), so a fast draw along Short where a picture of the Bros or a winter scene appears line by line to the beat is a current, kid safe format.",
+     "src": "kabo.sh, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 867
+    },
+    {
+     "t": "Challenge Shorts with a simple rule ('every step costs a dollar' 2.7M, 'combining blobs for a world record' 2.2M) and a 'monster under the bed' bedtime comedy Short (3.7M) also trended on 18 Nov, showing that one clear rule or one small fear played for laughs holds attention.",
+     "src": "kabo.sh, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 867
     }
    ]
   }
@@ -18121,11 +18149,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:50",
-   "note": "Run 789 (competitor deep dive (ChuChu TV and Little Angel main channels)): ChuChu TV's main channel fell from about 391M monthly views (Dec 2025) to 286M (Oct 2026) and now uploads 24 minute themed compilations; Little Angel's channel swings from 125M to 14M a month with no December lift in two years and keeps posting routine songs like bath time in mid November. Total 2361."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:50",
@@ -18438,13 +18462,13 @@
   {
    "date": "2026-11-19 05:48",
    "note": "Run 866 (competitor deep dive (Cocobi English)): Cocobi's English channel was new to the tree: 3.36M subscribers and 2.96B views since Feb 2021, with monthly views roughly doubling in 2026 (54M in Jan to 116M in Oct, 131M in the 28 days to 18 Nov) on about 51 uploads a month. Its all time top videos are a baby is born story, a stranger danger safety song, an 'escape from the colour prison' adventure, a parasites science song and an elevator safety compilation, so safety songs and surprising science beat plain nursery rhymes there. Its newest Short is a 'baby turned into a giant' surprise. Total 2575."
+  },
+  {
+   "date": "2026-11-19 05:49",
+   "note": "Run 867 (TRENDS (US YouTube trending snapshot 18 Nov 2026)): Kabo's US trending snapshot of 18 Nov is led by satisfying build and fix Shorts and K pop videos; for families the new items are Pixar's 'Gatto' trailer (#24), quick drawing Shorts ('24 Hour Drawings', 'House Drawing') and a 'Monster Under the Bed' comedy Short, plus challenge formats like 'every step costs a dollar'. Added a draw it fast trend bank entry. Total 2579."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:44",
-   "total": 2059
-  },
   {
    "date": "2026-11-16 16:44",
    "total": 2059
@@ -19640,6 +19664,10 @@
   {
    "date": "2026-11-19 05:48",
    "total": 2575
+  },
+  {
+   "date": "2026-11-19 05:49",
+   "total": 2579
   }
  ],
  "next_week_ideas": [
@@ -19701,6 +19729,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Draw it to the beat",
+   "where": "YouTube Shorts US trending (24 Hour Drawings, House Drawing, 18 Nov 2026)",
+   "status": "rising",
+   "use": "A 20 second Short: a white page fills line by line on every beat of our own song (a snowman, a gift, Big Bro's face) while the Bros guess what it is; on the last beat the drawing comes alive in 3D and dances with them. Viewers can draw along at home. Meshy prompt for the Bros: standing in place, one hand on the chin thinking, then pointing at the page, then both arms up in a cheer and a small hop."
+  },
   {
    "name": "Winter clothes dress up",
    "where": "YouTube Shorts worldwide (Kidshire's Winter Clothes Short +54.6M in the week to 17 Nov 2026)",
@@ -19814,12 +19848,6 @@
    "where": "Apple TV holiday special and family Reels and Shorts (December, seasonal)",
    "status": "seasonal",
    "use": "Run a 12 day Shorts and Reels series from 13 to 24 Dec: each day the brothers unwrap one new winter 'gift' (a snowflake, a drum, a sledge) and add one new dance move, building a counting chorus in our own melody (never the traditional tune's lyrics); day 12 shows all twelve moves in one wide shot. Meshy motion per day: standing, one simple added move such as clap, star jump arms only, march in place, spin with arms out."
-  },
-  {
-   "name": "Indoor snowball party",
-   "where": "Parent blogs, Reels and Shorts every winter (seasonal, Dec to Feb)",
-   "status": "seasonal",
-   "use": "Big snowy day outside, so the brothers and friends have a soft pom pom 'snowball' party in the living room to our own song: on each chorus 'one, two, three, throw!' everyone tosses soft snowballs into a basket, then freezes like snowmen until the music restarts. Meshy motion: standing, underarm throw with the right arm, then a stiff snowman freeze with arms out; no running, no floor moves."
   }
  ],
  "posting_plan": {
