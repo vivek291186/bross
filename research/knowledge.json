@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:48:58+05:30",
- "runs": 912,
+ "updated": "2026-11-19T07:49:48+05:30",
+ "runs": 913,
  "branches": [
   {
    "id": "platforms",
@@ -18836,6 +18836,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 910
+    },
+    {
+     "t": "'Turkey boards' are a Thanksgiving 2026 Reels format: food laid out into the shape of a turkey, filmed top down one layer at a time and then shown finished, posted before Thanksgiving week (26 Nov); a kid safe version is the Bros building a turkey from fruit pieces in time to our own song.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 913
+    },
+    {
+     "t": "Both Later's and NewEngen's Reels roundups updated on 13 Nov 2026 list almost only formats already running since late October (5 stages of, outfit swap in one spot, timestamps, it's time, add to cart, no no no yes), so the Reels trend wave is stable going into Thanksgiving and the next real change will be December holiday formats.",
+     "src": "Later and NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 913
     }
    ]
   }
@@ -18864,10 +18878,6 @@
   {
    "date": "2026-11-16 22:55",
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 03:40",
-   "note": "Run 834 (TRENDS (December repeats, holiday audio share, gentle elf tradition)): Most December formats (advent unboxing, grid harmony, say the word on beat) were already in the tree. New: on 18 Nov four of Revid's top 25 viral TikTok songs are classic Christmas recordings and K-pop girl group tracks (ILLIT, KATSEYE) are still there; a gentle 'Elfie' tradition (an elf who brings treats and never spies or reports) offers a kinder December story. Added 'Gentle helper elf' to the trend bank and merged 'Room glow up reveal' into 'Season starts now reveal'. Total 2458."
   },
   {
    "date": "2026-11-19 03:41",
@@ -19180,6 +19190,10 @@
   {
    "date": "2026-11-19 07:48",
    "note": "Run 912 (YouTube main and Kids (own results skipped, Metricool unchanged; toddler learning channel Kids Learn and Grow)): Kids Learn and Grow (US, 882K) gains about 20K subscribers a month and earns a flat 17M to 24M views every month, with no Christmas spike, from long toddler learning videos (counting, shapes, colours, puzzles) under plain search style titles; its top video has 126M views. Steady learning content is the evergreen base under seasonal songs. Total 2681."
+  },
+  {
+   "date": "2026-11-19 07:49",
+   "note": "Run 913 (TRENDS (Later and NewEngen 13 Nov roundups)): Later's and NewEngen's 13 Nov roundups mostly repeat formats already in the bank; the one new item is Thanksgiving 'turkey boards', snacks arranged into a turkey shape filmed top down one layer at a time, to post before Thanksgiving week. Added it to the trend bank as a fruit turkey build Short. Total 2683."
   }
  ],
  "history": [
@@ -20166,6 +20180,10 @@
   {
    "date": "2026-11-19 07:48",
    "total": 2681
+  },
+  {
+   "date": "2026-11-19 07:49",
+   "total": 2683
   }
  ],
  "next_week_ideas": [
@@ -20234,16 +20252,16 @@
    "use": "Calm Reel with our own soft winter song: four or five slow, steady shots of the Bros' toy workshop (a knitted hat, a wooden train, a jar of glowing lights, a gingerbread cookie) ending on Little Bro holding up one handmade gift and smiling. No fast cuts. Meshy prompt: a boy stands still, slowly lifts a small box up to chest height with both hands, smiles and gently sways side to side."
   },
   {
+   "name": "Fruit turkey build",
+   "where": "Instagram Reels (Thanksgiving turkey boards, week of 13 Nov 2026)",
+   "status": "seasonal",
+   "use": "Top down Short for Thanksgiving week: to our own counting song, the Bros' hands place apple slices, grapes and banana pieces one layer at a time until a turkey appears, then cut to the Bros waving next to it. Meshy prompt for the end shot: a boy stands, waves with one hand, then points down at a plate and gives a thumbs up."
+  },
+  {
    "name": "Pet reacts to our song",
    "where": "YouTube and Reels (Pixar Gatto cat reaction campaign, trailer trending 18 Nov 2026)",
    "status": "rising",
    "use": "On release day post a 10 second Short: the Bros' cartoon kitten sits in front of a tablet playing the new song, first stares, then bobs its head on the beat, then paws at the screen when Big Bro dances; caption 'Kitty approved?'. Always our own song and our own pet character. Meshy prompt for the Bros in the background: standing in place, small side to side sway, then one arm waves at the kitten."
-  },
-  {
-   "name": "Do not bother the botherer",
-   "where": "TikTok and Reels (Buffer list, 18 Nov 2026)",
-   "status": "rising",
-   "use": "A 15 second bedtime Short: slow camera push on Little Bro asleep in a blanket fort, a whisper voice says 'do not bother the botherer', Big Bro tiptoes past on giant slow steps holding a teddy, then tucks it under Little Bro's arm and gives a thumbs up to camera; our own soft lullaby underneath. Meshy prompt: standing, slow exaggerated tiptoe steps in place, lifting knees high, both arms held out for balance, then a quiet thumbs up."
   },
   {
    "name": "Draw it to the beat",
