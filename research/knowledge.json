@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:53:56+05:30",
- "runs": 1330,
+ "updated": "2026-11-19T20:54:38+05:30",
+ "runs": 1331,
  "branches": [
   {
    "id": "platforms",
@@ -8161,6 +8161,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1317
+    },
+    {
+     "t": "Nursery Rhyme Street (1.96M subscribers, about 35 uploads in the last 28 days, many of them remixes) had its strongest 2026 month in October with about 19M views, nearly double its usual 7M to 13M, and a 'spooky pizza party with skeletons' song uploaded in May 2026 already has about 14M views, so a friendly food plus skeleton mash up song can be a hit even outside Halloween.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1331
+    },
+    {
+     "t": "RhymeMusicBox, a 44 video remix channel tied to a bigger nursery brand, got almost all its 178M views from two medley videos (about 128M and 21M) and stopped growing after uploads ended in October 2024, showing that a medley of two famous songs can explode once, but without steady new uploads the channel flattens.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1331
     }
    ]
   },
@@ -23363,12 +23377,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:40",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 18:41",
-   "note": "Run 1252 (music craft (awards and classroom studies)): New: the 2026 Latin Grammy kids album went to Marta Gomez with a Medellin children's choir (small nature images, folk roots) and the other nominees were play, nature and dinosaur albums; a speed up challenge from the Chinese rhythm trial and a small focus study were added. Grammy 2027 nominees were already in the tree. Total 3226."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 18:42",
@@ -23681,13 +23691,13 @@
   {
    "date": "2026-11-19 20:53",
    "note": "Run 1330 (TRENDS (17 Nov dance list, K-pop video milestones)): GoDance's 17 Nov list names three TikTok dances: a sharp, fruity high energy routine linked to KATSEYE, a two person Jersey Club bounce often done as 'dancer versus non dancer', and an 'Addicted' freestyle challenge; BABYMONSTER's 'Choom' performance video passed 100M views in about six months. The dancer versus non dancer pairing is a perfect brother format. Total 3324."
+  },
+  {
+   "date": "2026-11-19 20:54",
+   "note": "Run 1331 (YouTube main (small nursery channel movers; rules and own results skipped as just done)): Nursery Rhyme Street (1.96M subscribers, about 35 uploads in 28 days) had its best 2026 month in October (about 19M views), and a 'spooky pizza party with skeletons' song from May 2026 already has about 14M views, more proof that friendly skeleton songs work all year; a LooLoo Kids linked remix channel with 44 videos has stalled since its last upload in Oct 2024. Total 3326."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:48",
-   "total": 2947
-  },
   {
    "date": "2026-11-19 11:49",
    "total": 2949
@@ -24883,6 +24893,10 @@
   {
    "date": "2026-11-19 20:53",
    "total": 3324
+  },
+  {
+   "date": "2026-11-19 20:54",
+   "total": 3326
   }
  ],
  "next_week_ideas": [
