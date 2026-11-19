@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:48:59+05:30",
- "runs": 1031,
+ "updated": "2026-11-19T11:49:30+05:30",
+ "runs": 1032,
  "branches": [
   {
    "id": "platforms",
@@ -20698,6 +20698,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1029
+    },
+    {
+     "t": "NewEngen's 13 Nov 2026 list has a rising 'zoom in' post: a carousel of detail shots or one busy collage that rewards people for zooming in; for kids it becomes an Instagram seek and find carousel where a busy Bro Bros winter scene hides five small things to spot, which also earns saves and shares.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1032
+    },
+    {
+     "t": "A 'lately on my SD card' Reel (a fast dump of recent clips after a camera card opener) is trending on Instagram in mid November 2026; Bro Bros can turn it into a Sunday 'this week with the Bros' Reel that flashes one second from each of the week's 14 songs to send viewers to the full videos.",
+     "src": "NewEngen, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1032
     }
    ]
   }
@@ -20725,11 +20739,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 952 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:46",
-   "note": "Run 953 (visual craft (Christmas thumbnails, Test and Compare limits)): Thin round: thumbnail guides repeated known rules. New: Christmas thumbnails work best with three or four big words at most and a cut out bright subject on a dark winter background; Test and Compare needs about 10,000 views during the test, so our videos (under 1,000 views each) are still too small to test thumbnails. Total 2787."
+   "note": "Earlier runs summarised: all rounds through Run 953 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:47",
@@ -21042,6 +21052,10 @@
   {
    "date": "2026-11-19 11:48",
    "note": "Run 1031 (YouTube main (own results skipped: Metricool YouTube data still stops at 16 Nov; US top 100 and growth lists)): Metricool still has no YouTube views after 16 Nov (2,150 subscribers), so own results were skipped. vidIQ's US top 100 (18 Nov) holds about 32 kids and family channels, and Channel Crawler's May growth list shows a high volume kids crafts channel (SparkleToon, 137 videos in a month) gaining 400K subscribers, with 9 of the top 10 growers built on Shorts. Total 2947."
+  },
+  {
+   "date": "2026-11-19 11:49",
+   "note": "Run 1032 (TRENDS (Later and NewEngen weekly lists, 13 Nov)): Most of the 13 Nov Later and NewEngen trends were already in the tree. New: a 'zoom in' carousel that rewards viewers for zooming into a busy picture, and a 'lately on my SD card' quick dump of recent clips; both suit a kids seek and find post and a weekly Bro Bros recap Reel. Total 2949."
   }
  ],
  "history": [
@@ -21756,6 +21770,10 @@
   {
    "date": "2026-11-19 11:48",
    "total": 2947
+  },
+  {
+   "date": "2026-11-19 11:49",
+   "total": 2949
   }
  ],
  "next_week_ideas": [
@@ -21817,6 +21835,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Zoom in and find it",
+   "where": "Instagram carousels (NewEngen, 13 Nov 2026)",
+   "status": "rising",
+   "use": "Instagram carousel or 15 second Short: a busy, colourful Bro Bros winter scene with five tiny hidden things (a penguin, a mitten, a star, a carrot, a bell); the next slides zoom in to reveal each one while our own chant counts them. Meshy prompt for the reveal clip: standing in place, lean forward with a hand shading the eyes, then point and jump once with a happy cheer."
+  },
   {
    "name": "Coat on, summer dream",
    "where": "TikTok and Instagram (Startups.co.uk November 2026 list)",
@@ -21930,12 +21954,6 @@
    "where": "TikTok (playful amateur runway recreations, early to mid Nov 2026, B&T)",
    "status": "rising",
    "use": "Winter coat fashion show Short with our own bouncy song: each Bro walks toward the camera wearing a different puffy coat, hat or scarf, stops, turns and poses, and the last pose is both Bros together laughing. Meshy prompt: a boy walks forward four steps, stops, turns around once in place, then puts both hands on his hips and smiles."
-  },
-  {
-   "name": "Disguise the turkey",
-   "where": "US schools, Pinterest, Lemon8 and TikTok every November (Thanksgiving 26 Nov 2026)",
-   "status": "seasonal",
-   "use": "A 20 second Short or Reel with our own original turkey character who does not want to be found: the camera stays still, the Bros count 'one, two, three, hide!', and on each clap the turkey pops into a new costume (snowman, astronaut, pirate, traffic cone) while the Bros pretend not to see it; end with 'Where is the turkey?' on screen so kids shout the answer. Meshy prompt for the Bros: standing in place, hands over eyes, then hands open beside the face in surprise, then a shrug with both palms up."
   }
  ],
  "posting_plan": {
