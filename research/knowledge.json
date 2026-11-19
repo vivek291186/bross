@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:44:36+05:30",
- "runs": 1405,
+ "updated": "2026-11-20T02:46:11+05:30",
+ "runs": 1407,
  "branches": [
   {
    "id": "platforms",
@@ -24135,6 +24135,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1404
+    },
+    {
+     "t": "The US National Ugly Christmas Sweater Day falls on the third Friday of December, Friday 18 Dec 2026, eight days after the UK's Christmas Jumper Day (Thursday 10 Dec 2026), and is shared under #UglyChristmasSweaterDay and #NationalUglySweaterDay.",
+     "src": "National Today and Save the Children UK, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1407
+    },
+    {
+     "t": "Because the UK jumper day (10 Dec) and the US sweater day (18 Dec) are a week apart, one Bro Bros silly sweater song published by about 6 Dec can be searched and replayed in both countries' school weeks, then resurface every December.",
+     "src": "National Today and Save the Children UK, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1407
+    },
+    {
+     "t": "Save the Children's Christmas Jumper Day says it has drawn more than 26M children and teachers since 2012 and raised 2.6M pounds in 2025, with schools running assemblies, jumper contests between teachers and paid song requests, so a sing along jumper song fits real classroom use.",
+     "src": "Save the Children UK, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1407
     }
    ]
   }
@@ -24163,14 +24184,6 @@
   {
    "date": "2026-11-19 20:46",
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
-  },
-  {
-   "date": "2026-11-19 20:52",
-   "note": "Run 1327 (TRENDS (first snow has arrived)): The season's first snowstorm reached interior New York, New England, the northern Mid Atlantic and Michigan's Upper Peninsula on 12 to 14 Nov 2026, earlier than the usual late November first snow, so the snow day happy dance moves from seasonal to rising and snow songs are timely now. Total 3320."
-  },
-  {
-   "date": "2026-11-19 20:52",
-   "note": "Run 1328 (global markets (Spanish and Portuguese kids channel momentum)): Kids First Espanol Latino (10.1M subscribers, Mexico, mostly licensed preschool cartoon episodes) doubled its monthly views from about 27M in June to 55M in October 2026 and about 70M in the 28 days to 19 Nov, a sign Latin American Spanish kids viewing climbs into the holidays; a Portugal based Portuguese songs channel stayed flat at 8M to 10M a month. Total 3322."
   },
   {
    "date": "2026-11-19 20:53",
@@ -24479,6 +24492,14 @@
   {
    "date": "2026-11-20 02:44",
    "note": "Run 1405 (YouTube algorithm recheck): Mostly known (the 1 Oct Shorts originality change, the 12 Nov Studio Clips tool, slow evergreen growth). New: on 27 Oct YouTube's discovery lead said thumbnail tests now split traffic evenly at random and a later version will steer each viewer group to the thumbnail that works best for it. Chrome not available. Total 3438."
+  },
+  {
+   "date": "2026-11-20 02:46",
+   "note": "Run 1406 (Shorts and Reels recheck (platform news)): Nothing new: Instagram's Apple TV app, the end of linked Reels series, Your Algorithm, teen 13+ settings, Shorts series and the Studio Clips tool were all already in the tree; the SocialBee YouTube updates page could not be read. No leaves added. Chrome not available. Total 3438."
+  },
+  {
+   "date": "2026-11-20 02:46",
+   "note": "Run 1407 (TRENDS (December sweater days)): Added that the US National Ugly Christmas Sweater Day is Friday 18 Dec 2026 (third Friday of December), eight days after the UK Christmas Jumper Day on 10 Dec, so one silly sweater song can ride both; added a 'Silly sweater switch' to the trend bank and dropped the weaker 'Dancing unprompted'. Chrome not available. Total 3441."
   }
  ],
  "history": [
@@ -25373,6 +25394,14 @@
   {
    "date": "2026-11-20 02:44",
    "total": 3438
+  },
+  {
+   "date": "2026-11-20 02:46",
+   "total": 3438
+  },
+  {
+   "date": "2026-11-20 02:46",
+   "total": 3441
   }
  ],
  "next_week_ideas": [
@@ -25453,6 +25482,12 @@
    "use": "A long, calm video for the family TV: TV static, then our own little helper elf (original design, not the trademarked one) waves from inside the screen, says it pressed the wrong button, and the Bros sing a short original 'Help Us Out' song while kids at home do the moves to free it (clap 3 times, stomp 3 times, spin once in place, push both hands forward). Loop it with snow and twinkle lights. Short version: 30 seconds of the same."
   },
   {
+   "name": "Silly sweater switch",
+   "where": "UK Christmas Jumper Day 10 Dec and US Ugly Sweater Day 18 Dec 2026, Reels and Shorts",
+   "status": "seasonal",
+   "use": "A 10 to 15 second one spot switch Short with our own 'Silly Sweater' chorus: the Bros stand still in plain shirts, clap once on the beat and are suddenly in over the top sweaters (a light up reindeer, a pom pom snowman); then a tiny proud dance: hands on hips, two shoulder shrugs, point at the sweater, one small hop in place. Meshy prompt: standing in place, hands on hips, shrug shoulders twice, point at own chest, small hop, no floor moves. Post 5 to 9 Dec and repost 16 to 18 Dec."
+  },
+  {
    "name": "Copy it exactly side by side",
    "where": "TikTok, Reels, Shorts (copy the clip dances, from 7 Nov 2026, rising)",
    "status": "rising",
@@ -25475,12 +25510,6 @@
    "where": "Instagram Reels (start of holiday season, week of 17 Nov 2026)",
    "status": "seasonal",
    "use": "Open on the Bros' dark living room at night, Little Bro holds the plug, count 3, 2, 1 on screen and on the drop of our own Christmas song the tree, window and garden lights switch on in a wave; both Bros then dance in front of the tree. Meshy prompt: standing in place, both arms shoot up in surprise, two hops on the spot, then sway side to side with hands waving above the head."
-  },
-  {
-   "name": "Dancing unprompted",
-   "where": "TikTok and Reels (Nov 2026, kitchen dance clips)",
-   "status": "rising",
-   "use": "A 10 second Reel: Big Bro is pouring cereal in our 3D kitchen, our own song starts on a radio, and he breaks into a dance without noticing Little Bro filming from the doorway; Little Bro then joins in. Meshy prompt: standing in place, shoulder shimmy, two side steps right and left, a spin on the spot, arms up pose. Caption 'When the song comes on'."
   },
   {
    "name": "Costume loading bar",
