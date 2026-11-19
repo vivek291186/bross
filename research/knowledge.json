@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:47:16+05:30",
- "runs": 1341,
+ "updated": "2026-11-19T21:47:45+05:30",
+ "runs": 1342,
  "branches": [
   {
    "id": "platforms",
@@ -4528,6 +4528,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1335
+    },
+    {
+     "t": "Metricool's YouTube model for our brand for Friday 20 Nov 2026 scores 10:00 IST (about 10.5K) almost level with 16:00 IST (about 10.7K), while Wednesday and Thursday clearly favour 16:00 (about 12.0K), so on Fridays either slot works for the week's strongest song.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1342
     }
    ]
   },
@@ -18857,6 +18864,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1296
+    },
+    {
+     "t": "At 21:47 IST on 19 Nov 2026 the Metricool queue held 18 posts for 20 to 22 Nov (elephant parade, little car, kitty band, toothbrushing, peekaboo, ride to the moon at 10:00 and 16:00 IST) and nothing after 22 Nov 16:05 IST, so next week's 14 songs still need to be queued before Monday 23 Nov.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1342
     }
    ]
   },
@@ -23510,12 +23524,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:49",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1262)."
-  },
-  {
    "date": "2026-11-19 18:50",
-   "note": "Run 1263 (TRENDS (Know Your Meme roundups)): Small: November's roundup (W chews, mascot hate, rage memes) was already in the tree; added January's educational 'talking food that scolds you' format as a kid safe song idea and a caution about AI dance templates used to mock real teachers. Total 3253."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1263)."
   },
   {
    "date": "2026-11-19 18:50",
@@ -23828,13 +23838,13 @@
   {
    "date": "2026-11-19 21:47",
    "note": "Run 1341 (competitor deep dive (Blippi's November uploads)): Blippi posts daily, mostly sub one minute Shorts, with build challenges, fidget toy counting and an emotions Short leading; no Christmas uploads yet by 17 Nov. Chrome not available; a second channel page could not be opened. Total 3345."
+  },
+  {
+   "date": "2026-11-19 21:47",
+   "note": "Run 1342 (posting times and own queue (Metricool recheck; trends skipped as just run)): YouTube best times for 20 to 26 Nov unchanged (16:00 IST peak, Friday 10:00 nearly equal); the Metricool queue ends 22 Nov 16:05 IST, so next week's songs still need scheduling. Posting plan unchanged. Chrome not available. Total 3347."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:55",
-   "total": 2963
-  },
   {
    "date": "2026-11-19 11:55",
    "total": 2963
@@ -25030,6 +25040,10 @@
   {
    "date": "2026-11-19 21:47",
    "total": 3345
+  },
+  {
+   "date": "2026-11-19 21:47",
+   "total": 3347
   }
  ],
  "next_week_ideas": [
