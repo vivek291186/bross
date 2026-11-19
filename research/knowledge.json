@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:43:14+05:30",
- "runs": 873,
+ "updated": "2026-11-19T06:44:13+05:30",
+ "runs": 874,
  "branches": [
   {
    "id": "platforms",
@@ -13943,6 +13943,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 869
+    },
+    {
+     "t": "Parenting media in 2026 keep criticising TikTok pranks that use scary filters to make toddlers cry for their parents, so Bro Bros should avoid any 'scare the little one' format, even animated, because fear reactions of small children read as mean to parents and can draw reports.",
+     "src": "CafeMom, 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 874
     }
    ]
   },
@@ -18220,6 +18227,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 871
+    },
+    {
+     "t": "The UK toy retailer The Entertainer's Christmas 2026 wish list (Sept 2026) is led by toy types rather than one hit: eggs that hatch prehistoric creatures, electronic pets that grow and roar, bubble pop keyboard mystery collectibles, tiny working retro music players, singing pop idol dolls, slime and building sets that appeal to adults too, so December songs about a hatching egg, a pet that learns to roar or a pop pop keyboard ride the wish list mood without naming any brand.",
+     "src": "Made for Mums, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 874
+    },
+    {
+     "t": "The 'split face' family resemblance edit (one half of a person's face joined to one half of a parent's or sibling's face, often in black and white, captioned 'you look just like your dad') spread on TikTok from mid August to September 2026 and widened to siblings; for us it only works with our own animated characters, joining half of Big Bro's face to half of Little Bro's, and never with real children's photos.",
+     "src": "Know Your Meme, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 874
     }
    ]
   }
@@ -18247,11 +18268,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 795 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 00:54",
-   "note": "Run 796 (TRENDS (advent calendar season, Tubefilter latest chart)): Advent calendar countdown formats and the latest available Tubefilter chart (week of 8 Nov) were already in the tree and the 15 Nov chart is not out yet; no new leaves. Total 2367."
+   "note": "Earlier runs summarised: all rounds through Run 796 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 00:55",
@@ -18564,6 +18581,10 @@
   {
    "date": "2026-11-19 06:43",
    "note": "Run 873 (competitor deep dive (Hogi and Pinkfong, Kids Diana Show)): Hogi and Pinkfong (16.7M) fell from about 365M monthly views in May to 264M in October 2026 on about 21 uploads a month, and every one of its top five videos is a 'learn colours with a satisfying object' song (pop it, candy machine, monster candy shop). Kids Diana's main channel now leads with the younger brothers ('Adam and Oliver's Adventure Collection', 17 Nov). HappyKids, a top Roku kids channel, now carries sing along songs with a bouncing ball over the lyrics. Total 2593."
+  },
+  {
+   "date": "2026-11-19 06:44",
+   "note": "Run 874 (TRENDS (Christmas wish list toys and family face trends)): Weekly Shorts and Reels lists had nothing new. New: The Entertainer's Christmas 2026 wish list leans on hatching prehistoric creatures, roaring electronic pets, bubble pop keyboard collectibles, tiny working retro music toys, singing dolls and slime, which gives toy themed song ideas without any brand. The 'split face' family resemblance edit (half one face, half the other) spread from parents to siblings in September; we can do it with our own two brothers only. Total 2596."
   }
  ],
  "history": [
@@ -19394,9 +19415,17 @@
   {
    "date": "2026-11-19 06:43",
    "total": 2593
+  },
+  {
+   "date": "2026-11-19 06:44",
+   "total": 2596
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Crack, Crack, Who's Inside? (Hatching Egg Winter Song)",
+   "why": "Hatching creature toys top the 2026 Christmas wish lists; each verse a giant snowy egg wobbles and a different friendly baby animal hatches and joins the dance, a surprise reveal plus counting song."
+  },
   {
    "title": "Stay Close in the Crowd (holiday market safety song)",
    "why": "Safety songs are among the top hits of Cocobi (stranger danger 32.7M, elevator safety 23.6M) and Zoobees; a bouncy December song about holding hands and staying near a grown up at busy markets and parades is timely worldwide."
@@ -19448,13 +19477,15 @@
   {
    "title": "Pass the Present! (Christmas Party Game Song)",
    "why": "Party game songs are evergreen (a hot potato game song is Patty Shukla's top video at 20M views); the brothers and friends pass a wrapped present around a circle while the music plays and whoever holds it when the music stops does a silly dance, so families can play it at December parties anywhere."
-  },
-  {
-   "title": "Behind Door Number One! (Ten Doors Adventure Song)",
-   "why": "Kids Diana Show's biggest videos are door, maze and escape adventures (400M to 566M views); Big Bro and Little Bro knock and open ten colourful doors, each hiding an animal sound or a dance move, a counting and surprise loop that dubs into any language."
   }
  ],
  "trend_bank": [
+  {
+   "name": "Half and half brothers",
+   "where": "TikTok and CapCut split face edit (Aug to Sep 2026, spreading to siblings)",
+   "status": "fading",
+   "use": "A 10 second Reel: Big Bro's face and Little Bro's face slide together into one half and half face with a soft 'whoosh', the caption asks 'who looks more like Grandpa Bro?', then the halves pop apart and both brothers do a matching shoulder shimmy to our own song. Meshy prompt: standing in place, shoulders bounce up and down four times, then both hands point at the camera with a big smile."
+  },
   {
    "name": "Draw it to the beat",
    "where": "YouTube Shorts US trending (24 Hour Drawings, House Drawing, 18 Nov 2026)",
@@ -19568,12 +19599,6 @@
    "where": "US TV and social feeds on 26 Nov 2026 (100th Macy's Thanksgiving Day Parade, seasonal)",
    "status": "seasonal",
    "use": "Post on 25 to 26 Nov a Bro Bros parade song with our own giant balloons (a smiling sun, a rainbow whale, a drum) floating down a toy town street while the brothers and friends march and wave below; each verse a new balloon appears and kids shout its colour. Meshy motion: standing march in place with high knees, big two hand waves overhead, then pointing up at the sky."
-  },
-  {
-   "name": "Twelve day countdown",
-   "where": "Apple TV holiday special and family Reels and Shorts (December, seasonal)",
-   "status": "seasonal",
-   "use": "Run a 12 day Shorts and Reels series from 13 to 24 Dec: each day the brothers unwrap one new winter 'gift' (a snowflake, a drum, a sledge) and add one new dance move, building a counting chorus in our own melody (never the traditional tune's lyrics); day 12 shows all twelve moves in one wide shot. Meshy motion per day: standing, one simple added move such as clap, star jump arms only, march in place, spin with arms out."
   }
  ],
  "posting_plan": {
