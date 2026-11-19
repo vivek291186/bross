@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:36:57+05:30",
- "runs": 942,
+ "updated": "2026-11-19T09:37:43+05:30",
+ "runs": 943,
  "branches": [
   {
    "id": "platforms",
@@ -13026,6 +13026,41 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 942
+    },
+    {
+     "t": "YouTube says auto dubbed versions keep on average about 75% of the original's view duration, and dubbed views can lower a channel's average CPM and RPM even while total revenue goes up, so judge dubbing by total earnings and new viewers, not by channel averages.",
+     "src": "PPC Land citing YouTube Creator Insider, May 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 943
+    },
+    {
+     "t": "YouTube's Expressive Speech dubbing (keeps tone and emotion) is live in eight languages: English, Spanish, Portuguese, French, German, Italian, Hindi and Indonesian, which makes these the cheapest first dubs for Bro Bros songs' spoken intros and outros.",
+     "src": "PPC Land citing YouTube, May 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 943
+    },
+    {
+     "t": "Across 5,469 animated titles in MENA streaming (Jan to Mar 2026), family animation drew 28.6% of demand from only 20.6% of supply while kids only titles were oversupplied (40.6% of supply, 30.2% of demand), so songs parents enjoy alongside kids have more room there.",
+     "src": "Parrot Analytics, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 943
+    },
+    {
+     "t": "US made animation still earns 46.5% of MENA animation demand and Japanese 38.9%, so English language original animation travels well into the Arab world without local production.",
+     "src": "Parrot Analytics, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 943
+    },
+    {
+     "t": "Ampere's November 2026 data shows only 5% of English language VOD content stays exclusive to its home country versus 60% of Japanese and 70% of Turkish titles, a reminder that English content is the most portable, which supports our English first plan with dubs added later.",
+     "src": "Senal News citing Ampere Analysis, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 943
     }
    ]
   },
@@ -19304,11 +19339,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 863 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:46",
-   "note": "Run 864 (TRENDS (holiday Reels guides, Roblox November growth list, meme roundups) plus a YouTube feed check): Nothing new this round: Planoly's December formats (12 days of, year in review, countdown to the New Year), GGRecon's November Roblox growth list (no update since 2 Nov), YouTube's prompt built custom feeds (8 Nov) and the 1 Oct original Shorts priority were all already in the tree, and this week's meme roundups are adult. No leaves added. Total 2567."
+   "note": "Earlier runs summarised: all rounds through Run 864 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:47",
@@ -19621,6 +19652,10 @@
   {
    "date": "2026-11-19 09:36",
    "note": "Run 942 (TRENDS (SocialPilot TikTok and Reels 17 Nov, B&T 2 Nov, Tubefilter 9 to 15 Nov)): SocialPilot's 17 Nov lists were already covered (same spot years apart, camera shy, chores ballet, Christmas audio). New: a playful homemade catwalk format that fits a winter coat fashion show Short, and Tubefilter's 9 to 15 Nov chart where 36 of the 50 fastest growing channels are mainly Shorts. Total 2744."
+  },
+  {
+   "date": "2026-11-19 09:37",
+   "note": "Run 943 (global markets (auto dubbing data, MENA animation demand, streamer licensing)): New: YouTube auto dubbed versions hold about 75% of the original's watch time and pull channel average CPM down while total revenue rises; Expressive Speech covers Hindi and Indonesian; in MENA, family animation is undersupplied (28.6% of demand on 20.6% of supply) while pure kids titles are oversupplied. Total 2749."
   }
  ],
  "history": [
@@ -20727,6 +20762,10 @@
   {
    "date": "2026-11-19 09:36",
    "total": 2744
+  },
+  {
+   "date": "2026-11-19 09:37",
+   "total": 2749
   }
  ],
  "next_week_ideas": [
