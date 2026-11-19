@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:03:15+05:30",
- "runs": 1017,
+ "updated": "2026-11-19T11:03:51+05:30",
+ "runs": 1018,
  "branches": [
   {
    "id": "platforms",
@@ -7174,6 +7174,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1016
+    },
+    {
+     "t": "NuNu Tv Nursery Rhymes (US, 29.9M subscribers) has 26.7B views from only 847 videos (about 31M views per video) and still adds about 480M to 720M views a month (peaking at 722M in August 2026), proof that fewer, carefully made rhyme videos can out earn mass uploading.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1018
+    },
+    {
+     "t": "NuNu Tv's top five mix colour twists on classic rhymes (Finger Family colours 325M, Baa Baa Color Sheep 272M), an animal version of Wheels on the Bus (303M) and two behaviour songs, 'I Want That, Share It Please' (270M) and a toddler activity song (232M), all posted 2024 to 2025, so sharing and turn taking songs can match the classics.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1018
     }
    ]
   },
@@ -11892,6 +11906,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1007
+    },
+    {
+     "t": "A sharing song built on a toddler's 'I want that!' moment reached 270M views on NuNu Tv within about 18 months, showing that everyday toddler conflicts (sharing, waiting, taking turns) are top song topics for parents, not only learning colours and numbers.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1018
     }
    ]
   },
@@ -20473,11 +20494,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 938 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 08:41",
-   "note": "Run 939 (other platforms (Netflix kids top 10, Roblox Q3 and new games rechecked)): Nothing new: Netflix's kids titles (Gabby's Dollhouse S14, CrunchLabs), Roblox's Q3 drop to 138M daily players with growth in India and Japan, and the 2 Nov fastest growing games (egg and pet heists, cat sumo) were all already in the tree. No leaves added. Total 2735."
+   "note": "Earlier runs summarised: all rounds through Run 939 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 08:42",
@@ -20790,6 +20807,10 @@
   {
    "date": "2026-11-19 11:03",
    "note": "Run 1017 (TRENDS (Spanish and Brazilian November trend lists rechecked)): Nothing new: the Spanish November list (que.es, 30 Oct) and TikTok's 2026 trend forecast (curiosity, realism, emotional return) were already in the tree, and no newer Brazilian weekly list was found. No leaves added. Total 2911."
+  },
+  {
+   "date": "2026-11-19 11:03",
+   "note": "Run 1018 (YouTube main (NuNu Tv deep look)): NuNu Tv Nursery Rhymes (US, 29.9M subscribers, 26.7B views from only 847 videos) still adds 480M to 720M views a month; its top videos mix colour learning twists on classic rhymes (finger family colours 325M, color sheep 272M) with behaviour songs such as 'I Want That, Share It Please' (270M), and its newest ABC song took about 204K views in its first 37 hours. Total 2914."
   }
  ],
  "history": [
@@ -21448,9 +21469,17 @@
   {
    "date": "2026-11-19 11:03",
    "total": 2911
+  },
+  {
+   "date": "2026-11-19 11:03",
+   "total": 2914
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "My Turn, Your Turn! (Sharing Toys Song)",
+   "why": "NuNu Tv's 'I Want That, Share It Please' has 270M views; a Bro Bros version where the brothers both want one toy, then take turns and play together, is a universal toddler moment parents look for."
+  },
   {
    "title": "Pots and Pans, Happy New Year! (Lucky Things Around the World Song)",
    "why": "New Year customs that kids can act out (banging pots and pans, stepping in on the right foot, lucky ladybugs, twelve grapes, round fruits) let one song greet many countries at once; standing moves only, with a gentle sound so it suits early 'fake midnight' countdowns."
@@ -21502,10 +21531,6 @@
   {
    "title": "Stay Close in the Crowd (holiday market safety song)",
    "why": "Safety songs are among the top hits of Cocobi (stranger danger 32.7M, elevator safety 23.6M) and Zoobees; a bouncy December song about holding hands and staying near a grown up at busy markets and parades is timely worldwide."
-  },
-  {
-   "title": "Clip Clop Little Donkey (winter journey song)",
-   "why": "Latin American kids channels get their biggest December views from a donkey travel song (109M and 89M on one Colombian channel); an original, secular clip clop journey song with the Bros riding along through snowy hills, in English with a Spanish version, fits that taste worldwide."
   }
  ],
  "trend_bank": [
