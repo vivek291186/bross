@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:54:12+05:30",
- "runs": 1231,
+ "updated": "2026-11-19T16:59:56+05:30",
+ "runs": 1232,
  "branches": [
   {
    "id": "platforms",
@@ -15287,6 +15287,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1220
+    },
+    {
+     "t": "YouTube's MENA review of 2025 (Dec 2025) named a Roblox gardening game, collectible plush charms and 'brainrot' memes among the region's top topics alongside Ramadan and Eid al Adha, and family sketch channels such as Om Saif (19.9M) among the top creators, so Arabic speaking kids follow the same global game and toy waves; Bro Bros Arabic versions can ride seasonal Ramadan and Eid songs plus global play themes.",
+     "src": "blog.google MENA, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1232
     }
    ]
   },
@@ -22370,11 +22377,7 @@
  "log": [
   {
    "date": "2026-11-19 15:44",
-   "note": "Earlier: older log entries summarised; runs up to Run 1152 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:44",
-   "note": "Run 1153 (TRENDS (Daily Dot and parent trends)): Nothing new for this week: results were older parent tricks (the 'Jessica' name shout, from April 2026) and the 2025 'melting' face meme, which does not suit preschoolers. No leaves added. Total 3116."
+   "note": "Earlier: older log entries summarised; runs up to Run 1153 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:44",
@@ -22687,13 +22690,13 @@
   {
    "date": "2026-11-19 16:54",
    "note": "Run 1231 (topics and seasons (Computer Science Education Week, 7 to 13 Dec)): New: Computer Science Education Week 2026 runs 7 to 13 Dec, when classrooms worldwide do Hour of Code style no prep activities; a 'robot follows the code' dance song (step, turn, jump as commands) fits that week and teaches sequencing. Added as a song idea. Total 3182."
+  },
+  {
+   "date": "2026-11-19 16:59",
+   "note": "Run 1232 (global markets (MENA and Bangladesh)): Small: YouTube's MENA 2025 review lists a Roblox gardening game, collectible plush charms and 'brainrot' memes among the region's top topics next to Ramadan and Eid, and family sketch creators (Om Saif 19.9M) among the top channels, so kid culture in the Arab world follows the same global game and toy waves. Arabic kids song channels and Bangla rhyme channels were already in the tree. Total 3183."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 08:09",
-   "total": 2724
-  },
   {
    "date": "2026-11-19 08:09",
    "total": 2724
@@ -23889,6 +23892,10 @@
   {
    "date": "2026-11-19 16:54",
    "total": 3182
+  },
+  {
+   "date": "2026-11-19 16:59",
+   "total": 3183
   }
  ],
  "next_week_ideas": [
