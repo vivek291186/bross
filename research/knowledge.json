@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:46:19+05:30",
- "runs": 953,
+ "updated": "2026-11-19T09:47:21+05:30",
+ "runs": 954,
  "branches": [
   {
    "id": "platforms",
@@ -19578,6 +19578,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 951
+    },
+    {
+     "t": "Short AI voiced clips where a piece of food bossily tells the viewer how to cook or store it are a lasting silly meme format on TikTok and Reels; for Bro Bros it becomes talking veggies who each sing one helpful line ('Wash me first!') in our own song.",
+     "src": "Know Your Meme, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 954
+    },
+    {
+     "t": "Gen Alpha slang 'W chew' (tasty food) and 'L nibble' (yucky food) spread in early November 2026 through silly AI videos; a kid safe 'W chew or L nibble?' taste test Short where the Bros rate broccoli, apples and cookies with thumbs up or a funny face fits it without copying anything.",
+     "src": "Know Your Meme, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 954
+    },
+    {
+     "t": "Know Your Meme's early November 2026 roundup was mostly adult, political or mean memes (mascot hate, rage memes, thirst trap poses), a reminder that most meme trends are not usable for a kids channel and our trend picks must stay with food, animal, dance and holiday formats.",
+     "src": "Know Your Meme, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 954
     }
    ]
   }
@@ -19605,11 +19626,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 874 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:45",
-   "note": "Run 875 (rules, safety and monetisation (AI kids video scrutiny, US state kids codes)): Most rule and money facts were already in the tree. New: a March 2026 investigation found about half of the Shorts recommended to young children were AI made and some 'educational' AI clips modelled unsafe acts (playing near traffic, no seatbelts, choking hazards), so every Bro Bros safety song must show the correct behaviour on screen and be checked frame by frame. US states keep adding kids design codes (New Jersey's Kids Code Act, Oct 2026). Total 2599."
+   "note": "Earlier runs summarised: all rounds through Run 875 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:51",
@@ -19922,6 +19939,10 @@
   {
    "date": "2026-11-19 09:46",
    "note": "Run 953 (visual craft (Christmas thumbnails, Test and Compare limits)): Thin round: thumbnail guides repeated known rules. New: Christmas thumbnails work best with three or four big words at most and a cut out bright subject on a dark winter background; Test and Compare needs about 10,000 views during the test, so our videos (under 1,000 views each) are still too small to test thumbnails. Total 2787."
+  },
+  {
+   "date": "2026-11-19 09:47",
+   "note": "Run 954 (TRENDS (Know Your Meme roundups, new dance search)): Most memes this month are adult or political. Kid safe finds: AI voiced food that bossily tells you how to store or cook it (a natural fit for a talking veggies Short) and Gen Alpha food slang ('W chew' for tasty, 'L nibble' for yucky) that suits a taste test song. Dropped the faded chipmunk hop from the trend bank. Total 2790."
   }
  ],
  "history": [
@@ -21072,6 +21093,10 @@
   {
    "date": "2026-11-19 09:46",
    "total": 2787
+  },
+  {
+   "date": "2026-11-19 09:47",
+   "total": 2790
   }
  ],
  "next_week_ideas": [
@@ -21164,6 +21189,12 @@
    "use": "Short: Big Bro is quietly pouring cereal, our own song starts on a radio, and he cannot help it: a small shoulder bounce grows into a full silly dance while Little Bro films and giggles, then joins in for the last four counts. Meshy prompt: a boy stands still, starts bouncing his shoulders to the beat, then sways his hips side to side and waves both arms above his head, staying in place."
   },
   {
+   "name": "Bossy talking veggies",
+   "where": "TikTok and Reels (AI voiced food that scolds viewers with cooking and storage tips, Know Your Meme, 2026, still circulating)",
+   "status": "rising",
+   "use": "20 second Short with our own song: a carrot, a tomato and a broccoli on the kitchen counter pop up one per beat and each sings one friendly bossy line ('Wash me first!', 'Eat me crunchy!', 'Keep me cold!') while the Bros nod and copy the action. Original veggie faces only. Meshy prompt: a boy stands in place, points forward with one hand, nods twice, then gives a thumbs up."
+  },
+  {
    "name": "Pet reacts to our song",
    "where": "YouTube and Reels (Pixar Gatto cat reaction campaign, trailer trending 18 Nov 2026)",
    "status": "rising",
@@ -21222,12 +21253,6 @@
    "where": "Instagram Reels (Later, 13 Nov 2026)",
    "status": "rising",
    "use": "Five 2 second clips with on screen numbers: '5 stages of waiting for snow' from Little Bro excited at the window, to checking every minute, to flopping his arms in a sigh, to grumpy, to snow finally falling and a happy dance on our own song's hook. Meshy prompt per stage: standing, a big excited bounce; a slow head turn; arms drop and shoulders slump; arms crossed; jump with both arms up."
-  },
-  {
-   "name": "Chipmunk hop dance",
-   "where": "TikTok family groups (mid Nov 2026)",
-   "status": "rising",
-   "use": "A sped up, squeaky voiced chorus of our own Suno song; the Bros and friends do a fast group routine: two hops in place, one small forward kick each leg, one spin in place, then freeze with paws up like a chipmunk. Meshy prompt: standing, hop twice in place, kick right foot forward, kick left foot forward, spin once in place, hold both hands near the chest like little paws, no floor moves."
   },
   {
    "name": "Season starts now reveal",
