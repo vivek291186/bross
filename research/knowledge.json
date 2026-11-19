@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:59:01+05:30",
- "runs": 925,
+ "updated": "2026-11-19T07:59:41+05:30",
+ "runs": 926,
  "branches": [
   {
    "id": "platforms",
@@ -3681,13 +3681,6 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 908
-    },
-    {
-     "t": "YouTube is testing a 'Research' tab in YouTube Studio (Aug 2026, small group only) that shows other creators' videos with an outlier multiplier (how many times a video beat its channel's normal views, from about 4x to 132x) and a 'watched by my viewers' filter, the official version of the outlier hunting we do with vidIQ; if it appears in our Studio, it is the fastest way to pick next week's song topics.",
-     "src": "Tubefilter, Aug 2026",
-     "conf": "medium",
-     "date": "2026-11-19",
-     "run": 911
     },
     {
      "t": "OutlierKit's Oct 2026 Home feed guide says YouTube weighs how a video does on Home itself (not views from embeds, links or ads), and that a video reaching a wider Home audience usually shows a lower click rate because reach grew, so in YouTube Studio we should compare songs by Browse features views, not by click rate alone.",
@@ -19076,10 +19069,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 04:47",
-   "note": "Run 847 (global markets (Bengali and Latin American kids channels already in the tree) plus fresh platform news): Kids Tv Bangla, Reino Infantil and Plim Plim facts were already in the tree. New platform news: from 16 Nov 2026 YouTube's public view counts, watch time and ad views include estimated TV co viewers (one TV play can count as several views), while engaged views, unique viewers and Partner Program thresholds do not; outside data puts YouTube TV co viewing at about 45%. Total 2506."
-  },
-  {
    "date": "2026-11-19 04:48",
    "note": "Run 848 (competitor deep dive (Kikoo Club India, Dave and Ava update)): Kikoo Club (India, since Jul 2023) is new to the tree: 808K subscribers and 969M views from only 330 videos, yet its best long video has only 493K views, so nearly all views came from Shorts; monthly views fell from about 14M in Feb to 2.7M in Oct, subscribers stayed flat and vidIQ models almost no ad income. Dave and Ava's newest 'Wheels on the Bus Part 2' got 17K views in its first day and a half. Total 2510."
   },
@@ -19390,6 +19379,10 @@
   {
    "date": "2026-11-19 07:59",
    "note": "Run 925 (TRENDS (Christmas dance and Thanksgiving checks)): December dance formats have not been published yet (TikTok's own pages block reading); dance guides still list the yearly Christmas returners, a retro rock style Christmas group routine and a 'Snowman' song challenge, both on copyrighted songs, so we copy only the cosy group line dance idea. Thanksgiving checks found recipes and the gratitude tablecloth, already known. Total 2711."
+  },
+  {
+   "date": "2026-11-19 07:59",
+   "note": "Run 926 (YouTube algorithm (Studio Insights and Research launch, Shorts formula shift rechecked)): Nothing new to add: the 13 Nov 2026 Studio change (Analytics becomes Insights, Research replaces Trends with outlier scores, Ask Studio closed to made for kids channels) and the late 2025 shift to 'satisfied watch time per click' were already in the tree. Removed run 911's leaf that called the Research tab a small test, because it has since launched on desktop and an existing leaf already covers it. Total 2710."
   }
  ],
  "history": [
@@ -20428,6 +20421,10 @@
   {
    "date": "2026-11-19 07:59",
    "total": 2711
+  },
+  {
+   "date": "2026-11-19 07:59",
+   "total": 2710
   }
  ],
  "next_week_ideas": [
