@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:38:24+05:30",
- "runs": 1347,
+ "updated": "2026-11-19T22:39:22+05:30",
+ "runs": 1348,
  "branches": [
   {
    "id": "platforms",
@@ -23568,6 +23568,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1345
+    },
+    {
+     "t": "Google's holiday report counts over 90M views from 1 Sep to 31 Dec 2025 on videos whose titles pair 'wishlist' with Christmas, holiday or Santa, so a Bro Bros 'my wishlist song' with that plain word in the title has a proven search lane before December.",
+     "src": "Google holiday trends report, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1348
     }
    ]
   }
@@ -23594,12 +23601,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:54",
-   "note": "Earlier: older log entries summarised (runs up to 1268); details are in git history."
-  },
-  {
    "date": "2026-11-19 18:55",
-   "note": "Run 1269 (TRENDS (Virlo tracker, Brazil and Indonesia dance sounds)): Nothing new: Virlo's rising formats (pick your favourite, shoe kick outfit change, paparazzi bow), Indonesia's November joget sounds and Brazil's CapCut dance templates were already in the tree or not kid safe. No leaves added. Total 3261."
+   "note": "Earlier: older log entries summarised (runs up to 1269); details are in git history."
   },
   {
    "date": "2026-11-19 18:55",
@@ -23912,13 +23915,13 @@
   {
    "date": "2026-11-19 22:38",
    "note": "Run 1347 (Shorts and Reels recheck): Nothing new: Instagram Features and clips as Reels, Instagram for TV, the 3 minute Reels recommendation limit, Shorts Series, TV remote comments and microdrama TV growth were all already in the tree. No leaves added. Chrome not available. Total 3357."
+  },
+  {
+   "date": "2026-11-19 22:39",
+   "note": "Run 1348 (TRENDS recheck (Shorts and SocialPilot week of 17 Nov)): Mostly covered already (soft launch reveal, same spot years apart, camera shy pet, pass the hook challenge, feet to head costume reveal); added that 'wishlist' Christmas titles drew over 90M views last season. Chrome not available. Total 3358."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:58",
-   "total": 2969
-  },
   {
    "date": "2026-11-19 11:59",
    "total": 2969
@@ -25114,6 +25117,10 @@
   {
    "date": "2026-11-19 22:38",
    "total": 3357
+  },
+  {
+   "date": "2026-11-19 22:39",
+   "total": 3358
   }
  ],
  "next_week_ideas": [
