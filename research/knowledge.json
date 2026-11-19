@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:39:02+05:30",
- "runs": 1312,
+ "updated": "2026-11-19T20:39:57+05:30",
+ "runs": 1313,
  "branches": [
   {
    "id": "platforms",
@@ -10177,6 +10177,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1252
+    },
+    {
+     "t": "A University of Pennsylvania study in Child Development (144 preschoolers from about age 3) found children matched short instrumental clips to emotions above chance, best for high energy feelings like happiness and in major keys, worst for calm and sad music, and tempo itself did not change accuracy, so a Bro Bros bedtime or calm song needs clear visual cues (yawns, slow sways, soft colours) because the music alone reads less clearly to toddlers.",
+     "src": "earth.com (Child Development), Aug 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1313
+    },
+    {
+     "t": "An eLife study (79 infants at 3, 6 and 12 months, Jul 2026) found babies' brains respond to real song structure from 3 months, but only at 12 months do they move more to real music than scrambled music, mostly rocking back and forth, swaying side to side, proto clapping and arm pedalling, and none moved in time with the beat in the first year.",
+     "src": "news-medical.net (eLife), Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1313
+    },
+    {
+     "t": "In the same eLife infant study a high pitched and a low pitched version of the same children's songs got the same brain and movement responses at every age, so there is no need to pitch Bro Bros vocals unnaturally high to win babies; song structure matters more than pitch.",
+     "src": "news-medical.net (eLife), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1313
     }
    ]
   },
@@ -11920,6 +11941,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1311
+    },
+    {
+     "t": "Because one year olds dance by rocking, side swaying and clumsy clapping rather than stepping on the beat, the Bros' moves in baby and toddler songs should model exactly those motions (big rocks, sways, claps) so the youngest viewers can copy them, and save stepping routines for ages 3 plus.",
+     "src": "news-medical.net (eLife), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1313
     }
    ]
   },
@@ -15742,6 +15770,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1292
+    },
+    {
+     "t": "Spotify Wrapped 2025 across Nigeria, Ghana, Kenya and South Africa was widely described as shaped by children, with CoComelon, Pinkfong, Super Simple Songs and nursery rhymes playing through home speakers and TVs at mornings, car rides and bedtime, so audio versions of Bro Bros songs on Spotify can reach African family homes too.",
+     "src": "newstrends.co.ke, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1313
     }
    ]
   },
@@ -23108,10 +23143,6 @@
    "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
-   "date": "2026-11-19 17:00",
-   "note": "Run 1234 (posting times (Instagram and YouTube timing studies)): Nothing new: IQFluence's 325 campaign timing study (midweek best, post 2 to 3 hours before the local peak) and Buffer's Instagram study were already in the tree; Metricool's model for 20 to 26 Nov is unchanged, so the two daily slots stay. No leaves added. Total 3183."
-  },
-  {
    "date": "2026-11-19 17:01",
    "note": "Run 1235 (rules (EU Digital Fairness Act and national age limits)): Nothing new: the 11 Nov 2026 EU Digital Fairness Act proposal (no urging children to buy, ad labels, loot box ban) and the Danish, Spanish and other national age limits were already in the tree. Metricool Reels for 18 Nov (freeze dance 111 views, veggie soup 127) unchanged. No leaves added. Total 3183."
   },
@@ -23422,13 +23453,13 @@
   {
    "date": "2026-11-19 20:39",
    "note": "Run 1312 (TRENDS (Korean hand gesture and singing challenges, 17 to 25 Nov sound list)): Small: the Korean 'Maru is a dog' challenge (hand made dog ears and nose, then a snap on the cue, from a kids cartoon theme sung by an idol) and the Do Re Mi voice filter game show that a simple hand gesture or a sing the scale game from a kids song can become a celebrity challenge; SocialPilot's 17 to 25 Nov list is mostly reveal formats, not dances. Total 3287."
+  },
+  {
+   "date": "2026-11-19 20:39",
+   "note": "Run 1313 (music craft (emotion and infant movement studies)): Preschoolers read happy, high energy, major key music best and calm or sad music worst (Penn, Child Development); babies only start moving more to real music than scrambled music near 12 months, with rocking, side sway and proto clapping and no beat matching yet (eLife, Jul 2026); kids shaped many African families' 2025 Spotify Wrapped. Total 3292."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:01",
-   "total": 2908
-  },
   {
    "date": "2026-11-19 11:02",
    "total": 2908
@@ -24624,6 +24655,10 @@
   {
    "date": "2026-11-19 20:39",
    "total": 3287
+  },
+  {
+   "date": "2026-11-19 20:39",
+   "total": 3292
   }
  ],
  "next_week_ideas": [
