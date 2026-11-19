@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:08:15+05:30",
- "runs": 977,
+ "updated": "2026-11-19T10:08:40+05:30",
+ "runs": 978,
  "branches": [
   {
    "id": "platforms",
@@ -19963,6 +19963,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 975
+    },
+    {
+     "t": "On 18 Nov 2026 the bouncy 'camera shy' audio (a pet or person acts shy, then gives in and dances) was the fastest growing TikTok sound worldwide, adding about 130K videos a day to reach about 656K, so our 'Shy then dance' Short (Little Bro hides behind Big Bro, then bursts into our own song's chorus dance) should go out this week while it peaks.",
+     "src": "TokChart, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 978
+    },
+    {
+     "t": "The 'same spot, years apart' then and now audio was still adding about 31K TikTok videos a day on 18 Nov 2026 (about 556K total), so the format remains strong for a 'Baby Bros, Big Bros' then and now Short this week.",
+     "src": "TokChart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 978
     }
    ]
   }
@@ -19990,11 +20004,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 898 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:07",
-   "note": "Run 899 (rules and monetisation (Partner Program 2027 changes, Grammy kids list check)): Nothing new: the Partner Program rules from 1 Feb 2027 (20M Shorts views in 90 days to join, 10M rolling Shorts views to keep Shorts pay) and this year's Grammy Best Children's Music Album nominees were already in the tree. No leaves added. Total 2637."
+   "note": "Earlier runs summarised: all rounds through Run 899 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:36",
@@ -20307,6 +20317,10 @@
   {
    "date": "2026-11-19 10:08",
    "note": "Run 977 (topics and seasons (Gingerbread Man tale, Santa tracking on 24 Dec)): The Gingerbread Man is a public domain folk tale (old versions are on Project Gutenberg) and December classrooms use it every year, but the fox ending upsets some families, so a chase song with a friendly ending fits. NORAD's Santa tracking (70th year in 2025) and Google's tracker make 24 Dec a global 'where is Santa now?' moment. Total 2842."
+  },
+  {
+   "date": "2026-11-19 10:08",
+   "note": "Run 978 (TRENDS (TokChart fastest growing sounds, 18 Nov 2026)): TokChart's 18 Nov worldwide chart puts the 'camera shy' pet audio at number one, adding about 130K videos a day (656K total), with a second upload of a soft launch song at about 86K a day and the 'Time' then and now clip still growing. Moved 'Shy then dance' to the top of the trend bank as peak. Total 2844."
   }
  ],
  "history": [
@@ -20805,6 +20819,10 @@
   {
    "date": "2026-11-19 10:08",
    "total": 2842
+  },
+  {
+   "date": "2026-11-19 10:08",
+   "total": 2844
   }
  ],
  "next_week_ideas": [
@@ -20866,6 +20884,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Shy then dance",
+   "where": "TikTok (the 'camera shy' audio is the world's fastest growing sound on 18 Nov 2026, about +130K new videos a day, 656K total)",
+   "status": "peak",
+   "use": "Short: our shy penguin friend turns its back when the Bros start dancing, peeks over its shoulder twice on two beats, then spins round and joins the chorus step, with our own song. Meshy prompt: a character stands with back turned, looks over one shoulder, turns back, looks over the other shoulder, then turns to face forward and bounces with arms swinging, standing in place."
+  },
   {
    "name": "Hear it, catch it colour game",
    "where": "YouTube Shorts worldwide (an Arabic colour catch game from 6 Jan 2026 is now the 3rd most viewed Short ever at 3.9B; Indian and US kids channels copying it, Nov 2026)",
@@ -20973,12 +20997,6 @@
    "where": "TikTok and Reels ('It's time' switch over and 'Christmas music is allowed now', mid Nov 2026)",
    "status": "peak",
    "use": "Short: a calendar flips to 1 December, Big Bro whispers 'it's time' in our own song's intro, claps once and the whole room bursts into lights and a snow globe swirl as the chorus lands. Our own music only. Meshy prompt: standing, look at the camera, one big clap overhead, then arms spread wide in a ta da pose and a small bounce."
-  },
-  {
-   "name": "Shy then dance",
-   "where": "TikTok (rising 'camera shy' pet sound, week of 17 Nov 2026)",
-   "status": "rising",
-   "use": "Short: our shy penguin friend turns its back when the Bros start dancing, peeks over its shoulder twice on two beats, then spins round and joins the chorus step, with our own song. Meshy prompt: a character stands with back turned, looks over one shoulder, turns back, looks over the other shoulder, then turns to face forward and bounces with arms swinging, standing in place."
   },
   {
    "name": "Chores ballet",
