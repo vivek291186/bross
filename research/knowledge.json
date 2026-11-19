@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:10:21+05:30",
- "runs": 981,
+ "updated": "2026-11-19T10:10:55+05:30",
+ "runs": 982,
  "branches": [
   {
    "id": "platforms",
@@ -20039,11 +20039,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 902 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:40",
-   "note": "Run 903 (other platforms (Netflix English films top 10, Roblox concerts, Spotify)): Netflix's English film chart for 26 Oct to 1 Nov had 7 family or animated library titles, including four films from one prehistoric ice animal franchise (2.1M to 2.4M views each) and a race car versus dinosaur special (2.6M in week 2), so cold prehistoric animals and cars meeting dinosaurs are what families are streaming as winter starts. Spotify and Alexa checks held nothing new. Total 2652."
+   "note": "Earlier runs summarised: all rounds through Run 903 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:41",
@@ -20356,6 +20352,10 @@
   {
    "date": "2026-11-19 10:10",
    "note": "Run 981 (TRENDS (Inmagic 16 Nov Reels list rechecked)): Nothing new: Inmagic's 16 Nov list (Christmas switch, one spot glow up, timestamps, slow festive makeover, Dame Hombro shoulders, zoom in hidden message, then and now) was already in the tree and trend bank. No leaves added. Total 2849."
+  },
+  {
+   "date": "2026-11-19 10:10",
+   "note": "Run 982 (rules and safety (EU KIDS Act, US kids online bills rechecked)): Nothing new: the EU KIDS Act proposal (17 Sep 2026: autoplay and infinite scroll bans for minors, profiling off by default, no accounts under 13 except child video apps via a parent) and the stalled US bills were already in the tree. No leaves added. Total 2849."
   }
  ],
  "history": [
@@ -20865,6 +20865,10 @@
   },
   {
    "date": "2026-11-19 10:09",
+   "total": 2849
+  },
+  {
+   "date": "2026-11-19 10:10",
    "total": 2849
   },
   {
