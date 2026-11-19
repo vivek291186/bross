@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:00:35+05:30",
- "runs": 1010,
+ "updated": "2026-11-19T11:01:35+05:30",
+ "runs": 1013,
  "branches": [
   {
    "id": "platforms",
@@ -16442,6 +16442,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 971
+    },
+    {
+     "t": "Our Metricool queue for 19 to 22 Nov 2026 still publishes at 10:00 and 16:00 IST (long video and Reel at the same minute, its Short 5 minutes later), not the plan's 16:00 plus 04:30 IST, so the US after school test has not started; nothing is queued yet from 23 Nov, the natural point to switch the 10:00 slot to 04:30 IST.",
+     "src": "Metricool scheduled posts, 19 Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1013
+    },
+    {
+     "t": "Every Bro Bros description promises 'New songs every day at 10 AM and 4 PM', so if the morning slot moves to 04:30 IST the description line should change to something time free such as 'New songs every day!' to avoid a broken promise for viewers outside India.",
+     "src": "Metricool scheduled posts, 19 Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1013
+    },
+    {
+     "t": "This week's queued songs (farm band, bubble gum pop, elephant parade, little car, kitty band, toothbrushing, peekaboo hide and seek, rocket to the moon) all have timestamps, a 'Kids learn' line and made for kids set, matching the playbook; none is a seasonal winter or Christmas song yet, though competitors posted theirs from 16 Nov.",
+     "src": "Metricool scheduled posts, 19 Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1013
     }
    ]
   },
@@ -20431,19 +20452,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 931 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 08:09",
-   "note": "Run 932 (global markets (Spain: CantaJuego)): Spain's CantaJuego (12.4M) earns a steady 70M to 107M views a month with 13 uploads in 28 days; its biggest video is a gorilla dance song (31M) and it posted its 2026 Spanish Christmas carol compilation on 17 Nov, so Spanish language holiday compilations go live in mid November. Total 2724."
-  },
-  {
-   "date": "2026-11-19 08:09",
-   "note": "Run 933 (competitor deep dive (Little Angel rechecked)): Nothing new: Little Angel (7.3M) still shows near flat subscribers (+10K in 28 days), wildly swinging monthly views (14M to 125M) and a heavy Shorts rhythm (28 uploads in 28 days, newest a firefighter counting Short), all already in the tree. No leaves added. Total 2724."
-  },
-  {
-   "date": "2026-11-19 08:36",
-   "note": "Run 934 (TRENDS (Anijam 4 Nov Reels list, Epidemic Sound 13 Nov, NewEngen 16 Nov rechecked)): Trend lists from 4 to 16 Nov were almost fully covered already. New: a rhinestone 'bedazzling' Reels craze (a 'Sparkle it up!' lunchbox Short fits it) and an alarm clock meltdown skit that suits a wake up dance song; the mid November cycle has slowed before the December wave. Total 2727."
+   "note": "Earlier runs summarised: all rounds through Run 934 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 08:37",
@@ -20748,6 +20757,18 @@
   {
    "date": "2026-11-19 11:00",
    "note": "Run 1010 (global markets (AIR multi language kids network case, Q4 2025)): An AIR case of one creator's kids channels in several languages (Q4 2025 vs Q3): portfolio views rose from about 24M to 299M, driven by the Brazilian Portuguese channel (13.5M to 278.6M views, 93% of all views) and a Shorts push (Shorts feed from 6.6% to 82% of traffic), while the English channel fell 7%; Spanish and Hindi grew revenue most (+1707% and +1231%). Total 2905."
+  },
+  {
+   "date": "2026-11-19 11:01",
+   "note": "Run 1011 (TRENDS (Inmagic 16 Nov and Nuelink lists rechecked)): Nothing new: Inmagic's 16 Nov list (Christmas switch, angel reveal, one spot glow up, timestamps, slow festive makeover, Housewife formats, Dame Hombro shoulders, zoom in message, then and now) and Nuelink's older August list were already covered. No leaves added. Total 2905."
+  },
+  {
+   "date": "2026-11-19 11:01",
+   "note": "Run 1012 (rules and safety (made for kids and Australia under 16 rules rechecked)): Nothing new: no made for kids policy change dated October or November 2026 was found, and Australia's under 16 account rules were already in the tree. No leaves added. Total 2905."
+  },
+  {
+   "date": "2026-11-19 11:01",
+   "note": "Run 1013 (our own schedule (Metricool queue 19 to 22 Nov checked, read only)): The Metricool queue (read only) runs to 22 Nov and still posts at 10:00 and 16:00 IST (long video and Reel together, Short 5 minutes later; farm band, bubble gum, elephant parade, little car, kitty band, toothbrushing, peekaboo, rocket to the moon), and every description promises 'new songs every day at 10 AM and 4 PM'. Nothing is queued yet from 23 Nov, so the next week can adopt the plan's 04:30 IST US slot. Total 2908."
   }
  ],
  "history": [
@@ -21378,6 +21399,18 @@
   {
    "date": "2026-11-19 11:00",
    "total": 2905
+  },
+  {
+   "date": "2026-11-19 11:01",
+   "total": 2905
+  },
+  {
+   "date": "2026-11-19 11:01",
+   "total": 2905
+  },
+  {
+   "date": "2026-11-19 11:01",
+   "total": 2908
   }
  ],
  "next_week_ideas": [
