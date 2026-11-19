@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:41:25+05:30",
- "runs": 1252,
+ "updated": "2026-11-19T18:42:35+05:30",
+ "runs": 1253,
  "branches": [
   {
    "id": "platforms",
@@ -7993,6 +7993,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1250
+    },
+    {
+     "t": "The official Mister Rogers' Neighborhood YouTube channel had 8.66M views from just 10 episodes by Sep 2026, and about 28% came through the YouTube Kids app, so for gentle preschool content the Kids app is a large, separate door worth designing for (clean thumbnails and titles that pass its filters).",
+     "src": "c21media.net, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1253
     }
    ]
   },
@@ -11766,6 +11773,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1242
+    },
+    {
+     "t": "Kids TV buyers in Sep 2026 said they like calm, craft led shows but struggle to schedule them next to fast, brightly coloured CG, and WildBrain argued parents want 'better' content rather than simply 'slower'; for Bro Bros this means keeping our dance energy but raising craft (clean shots, readable action, fewer random cuts) instead of slowing down for its own sake.",
+     "src": "c21media.net, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1253
     }
    ]
   },
@@ -15511,6 +15525,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1244
+    },
+    {
+     "t": "Acamar Films runs Bing on 67 YouTube channels in 35 languages and says this brings about 1.3M hours of viewing worldwide on a good day, a concrete benchmark for how far one character brand can scale by opening a separate channel per language.",
+     "src": "c21media.net, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1253
     }
    ]
   },
@@ -22677,12 +22698,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:52",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 15:53",
-   "note": "Run 1174 (TRENDS (hand gesture trends kids copy at school)): One addition: the 'clock it' finger tap (thumb tapping fingers like a tiny clap to say 'I noticed that') spread from TV and TikTok into elementary schools in 2026; a harmless version fits our 'spot it' games as a tap tap gesture when a hidden item is found. The 2022 'hand thing' spin is too old to use. Total 3134."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 15:53",
@@ -22995,16 +23012,16 @@
   {
    "date": "2026-11-19 18:41",
    "note": "Run 1252 (music craft (awards and classroom studies)): New: the 2026 Latin Grammy kids album went to Marta Gomez with a Medellin children's choir (small nature images, folk roots) and the other nominees were play, nature and dinosaur albums; a speed up challenge from the Chinese rhythm trial and a small focus study were added. Grammy 2027 nominees were already in the tree. Total 3226."
+  },
+  {
+   "date": "2026-11-19 18:42",
+   "note": "Run 1253 (visual craft (pacing and buyer taste)): Small: pacing parent guides, Blender 5.3, thumbnail studies and Disney's kid testing were already in the tree; added C21's Sep 2026 notes: buyers want 'better not slower' craft next to fast CG, Mister Rogers gets 28% of views via YouTube Kids, and Bing runs 67 language channels. Total 3229."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:47",
-   "total": 2790
   },
   {
    "date": "2026-11-19 09:47",
@@ -24197,6 +24214,10 @@
   {
    "date": "2026-11-19 18:41",
    "total": 3226
+  },
+  {
+   "date": "2026-11-19 18:42",
+   "total": 3229
   }
  ],
  "next_week_ideas": [
