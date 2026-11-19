@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:39:33+05:30",
- "runs": 1362,
+ "updated": "2026-11-19T23:40:11+05:30",
+ "runs": 1363,
  "branches": [
   {
    "id": "platforms",
@@ -16064,6 +16064,34 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1340
+    },
+    {
+     "t": "Circana (Aug 2026): in Latin America (Brazil, Chile, Peru, Mexico) December alone brings about 32% of a year's toy sales, even more in Chile and Peru, and LATAM toy spending is growing faster than Europe's, so Spanish and Portuguese Christmas songs and dubs pay off most in the next five weeks.",
+     "src": "circana.com, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1363
+    },
+    {
+     "t": "Circana: Europe spends about 240 US dollars a year on toys per child under 10, the second highest in the world, while Asia and Oceania are the fastest growing toy regions and Asia had the biggest rise in spend per child in 2025.",
+     "src": "circana.com, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1363
+    },
+    {
+     "t": "In China the infant, toddler and preschool toy category is still the largest but only fourth for growth because of the falling birth rate, with families paying more for fewer, higher quality educational products, so learning value matters more than volume there.",
+     "src": "circana.com, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1363
+    },
+    {
+     "t": "Football themed toy sales rose about 160% by value from January to April 2026 across the twelve markets Circana tracks, a World Cup year effect that shows kicking a ball is a theme children everywhere recognise.",
+     "src": "toyindustryjournal.com, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1363
     }
    ]
   },
@@ -23678,12 +23706,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:37",
-   "note": "Earlier: older log entries summarised (runs up to 1283); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:38",
-   "note": "Run 1284 (YouTube algorithm (recommendation changes recheck)): Nothing new: Beaupre's Sep 2026 Creator Insider points (subscribers click about 10% of uploads, pull based ranking, Suggested as the top source), the Oct 2026 originality push for Shorts and the satisfied watch time shift were already in the tree; no confirmed November ranking change found. No leaves added. Total 3271."
+   "note": "Earlier: older log entries summarised (runs up to 1284); details are in git history."
   },
   {
    "date": "2026-11-19 19:39",
@@ -23996,13 +24020,13 @@
   {
    "date": "2026-11-19 23:39",
    "note": "Run 1362 (TRENDS (holiday toy lists and seasonal)): Toy lists, the Oxford and Dictionary.com words of the year and December holiday calendars were mostly covered; added the 'making things' toy theme (bracelet loom, idea to sticker printer, slime, stop motion) and a new bracelet pattern song idea. Chrome not available. Total 3369."
+  },
+  {
+   "date": "2026-11-19 23:40",
+   "note": "Run 1363 (global markets recheck (Circana regional toy data)): Added Circana regional toy data: December is about a third of the year's toy sales in Latin America, Europe spends about 240 dollars per child, Asia and Oceania grow fastest, China's preschool category slows with the birth rate, and football toys jumped about 160% in the World Cup year. Chrome not available. Total 3373."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:49",
-   "total": 2992
-  },
   {
    "date": "2026-11-19 12:49",
    "total": 2994
@@ -25198,6 +25222,10 @@
   {
    "date": "2026-11-19 23:39",
    "total": 3369
+  },
+  {
+   "date": "2026-11-19 23:40",
+   "total": 3373
   }
  ],
  "next_week_ideas": [
