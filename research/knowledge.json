@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:48:39+05:30",
- "runs": 1304,
+ "updated": "2026-11-19T19:49:11+05:30",
+ "runs": 1305,
  "branches": [
   {
    "id": "platforms",
@@ -8112,6 +8112,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1268
+    },
+    {
+     "t": "Pinkfong's company wide totals in Nov 2026 are about 250B YouTube views and about 320M subscribers across its channels, from over 8,800 pieces of content in 25 languages, plus 200 app series downloaded over 530M times; scale came from re versioning one song library into many languages and formats, not from ever more new songs.",
+     "src": "Sports Kyunghyang, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1305
     }
    ]
   },
@@ -23059,10 +23066,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 16:51",
-   "note": "Run 1226 (topics and seasons (Indonesia's Mother's Day on 22 Dec)): New: Indonesia, one of our biggest kids markets, celebrates Hari Ibu (Mother's Day) on 22 December, three days before Christmas; kindergartens make cards and paper flowers and children sing for invited mums. Added a mum thank you song idea to post around 20 Dec with Indonesian subtitles. Krampus night was skipped as too scary for our audience. Total 3177."
-  },
-  {
    "date": "2026-11-19 16:52",
    "note": "Run 1227 (Shorts and Reels formats (new Shorts features, Facebook Reels)): Nothing new: Shorts series, custom Shorts thumbnails, AI likeness Shorts, engaged views and Facebook's Creator Fast Track (updated 13 Nov) were already in the tree. No leaves added. Total 3177."
   },
@@ -23373,13 +23376,13 @@
   {
    "date": "2026-11-19 19:48",
    "note": "Run 1304 (global markets (Philippines and Arabic kids channels)): Nothing new: searches on Tagalog rhyme channels and Arabic kids song brands (Moonbug Kids Arabic, Anghamalatfal) only returned items already in the tree or pages that would not load. No leaves added. Total 3280."
+  },
+  {
+   "date": "2026-11-19 19:49",
+   "note": "Run 1305 (competitor deep dive (Pinkfong scale, CoComelon recheck)): Small: Pinkfong's Nov 2026 company figures show about 250B YouTube views and 320M subscribers across its channels, built from over 8,800 pieces in 25 languages, the clearest proof that one song catalogue multiplied by many languages is the engine. CoComelon's move to Disney+ and its Feb 2027 film were already in the tree. Total 3281."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:58",
-   "total": 2893
-  },
   {
    "date": "2026-11-19 10:58",
    "total": 2895
@@ -24575,6 +24578,10 @@
   {
    "date": "2026-11-19 19:48",
    "total": 3280
+  },
+  {
+   "date": "2026-11-19 19:49",
+   "total": 3281
   }
  ],
  "next_week_ideas": [
