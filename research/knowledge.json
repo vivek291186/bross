@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:48:55+05:30",
- "runs": 1090,
+ "updated": "2026-11-19T13:50:02+05:30",
+ "runs": 1091,
  "branches": [
   {
    "id": "platforms",
@@ -16449,6 +16449,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1084
+    },
+    {
+     "t": "vidIQ's 2026 CPM guide shows US ad prices rising from about 1.8 USD in August to about 5.7 USD in December, spiking near 6.9 USD in Cyber Week (late November), then falling 30 to 50% by late February, so Bro Bros' best songs of the year should be live and monetisable before Thanksgiving week, not only before Christmas.",
+     "src": "vidIQ, Mar to Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1091
+    },
+    {
+     "t": "vidIQ puts made for kids CPMs at about 1 to 4 USD against 8 to 20 USD or more for similar adult content, and India at only 0.5 to 3 USD against 10 to 30 USD or more for the US, which is why our English songs aimed at US, UK, Canada and Australia carry most of the revenue potential.",
+     "src": "vidIQ, Mar to Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1091
+    },
+    {
+     "t": "The FTC's 2026 actions touching children and AI so far hit chatbots (a 6(b) inquiry), an AI 'active listening' ad service and a robot toy maker (500,000 USD), not animated video channels, so for Bro Bros the live US risk remains correct made for kids labels on every video rather than our AI assisted production.",
+     "src": "Privacy + Security Forum FTC update, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1091
     }
    ]
   },
@@ -21376,11 +21397,7 @@
  "log": [
   {
    "date": "2026-11-19 11:01",
-   "note": "Earlier: older log entries summarised; runs up to Run 1011 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:01",
-   "note": "Run 1012 (rules and safety (made for kids and Australia under 16 rules rechecked)): Nothing new: no made for kids policy change dated October or November 2026 was found, and Australia's under 16 account rules were already in the tree. No leaves added. Total 2905."
+   "note": "Earlier: older log entries summarised; runs up to Run 1012 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:01",
@@ -21693,6 +21710,10 @@
   {
    "date": "2026-11-19 13:48",
    "note": "Run 1090 (posting times (Metricool YouTube best times for 20 to 26 Nov rechecked, PostFast local time detail; TRENDS skipped, nothing new in run 1087)): Metricool's YouTube model is unchanged (16:00 IST top on most days, 10:00 IST close on Thu and Fri), so both slots stay. New nuance from PostFast: in each channel's own local time 1 PM is the best Shorts hour (1.25x) with 10 AM and 9 PM next, and hour rankings only half repeat between random halves of the data, so hour effects are weak and our own Studio data must decide. Total 3040."
+  },
+  {
+   "date": "2026-11-19 13:50",
+   "note": "Run 1091 (rules and monetisation (FTC 2026 enforcement list, Q4 CPM swing)): Most FTC items (Disney 10M, the 400M social media settlement, the age check policy statement, the April COPPA rule date) were already in the tree. New: vidIQ's figures that US CPMs climb from about 1.8 USD in August to about 5.7 USD in December with Cyber Week near 6.9 USD and fall 30 to 50% by late February, and that the FTC's 2026 AI and kids actions so far target chatbots and toys, not video makers. Total 3043."
   }
  ],
  "history": [
@@ -22643,6 +22664,10 @@
   {
    "date": "2026-11-19 13:48",
    "total": 3040
+  },
+  {
+   "date": "2026-11-19 13:50",
+   "total": 3043
   }
  ],
  "next_week_ideas": [
