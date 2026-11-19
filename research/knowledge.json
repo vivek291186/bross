@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:38:17+05:30",
- "runs": 1144,
+ "updated": "2026-11-19T15:39:24+05:30",
+ "runs": 1145,
  "branches": [
   {
    "id": "platforms",
@@ -9603,6 +9603,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1097
+    },
+    {
+     "t": "An English learning review site for young learners (reviewed Oct 2026) does not recommend CoComelon, Little Baby Bum, Pinkfong, BabyBus, Wolfoo or dubbed toy roleplay channels for learning English, because vocabulary loops in a narrow range and voices and accents change between episodes; it rates channels on one steady voice, a natural accent, purposeful repetition and vocabulary that grows from song to song, so Bro Bros should keep the same Suno voice for each brother in every song and plan each week's words as a ladder.",
+     "src": "learnenglishfeelgood.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1145
     }
    ]
   },
@@ -12648,6 +12655,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1093
+    },
+    {
+     "t": "Cambridge's Pre A1 Starters exam for 6 to 12 year olds, used by English schools in many non English countries, tests animals, body and face, clothes and colours, food and drink, school objects, family, sports and action verbs (kick, throw, jump), meals and times of day, place words (behind, next to, between, in front of, under) and question words, so songs built on exactly these word sets double as homework help for millions of learners and teachers.",
+     "src": "Cambridge English, Pre A1 Starters classroom activities",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1145
     }
    ]
   },
@@ -14804,6 +14818,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1134
+    },
+    {
+     "t": "Parents and teachers who use YouTube to teach English abroad look for channels with a visible, consistent presenter voice and structured teaching rather than the biggest brands, which leaves room for a smaller channel like Bro Bros to be listed as a learning resource if every song states its target words in the description and repeats them clearly.",
+     "src": "learnenglishfeelgood.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1145
     }
    ]
   },
@@ -21768,11 +21789,7 @@
  "log": [
   {
    "date": "2026-11-19 12:51",
-   "note": "Earlier: older log entries summarised; runs up to Run 1065 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:51",
-   "note": "Run 1066 (rules and safety (Australia under 16 rules review, UK children's code)): Nothing new: eSafety's early evaluation (account ownership down only from 52.4% to 42.1%, signed out YouTube viewing still allowed) and the plan to double penalties were already in the tree; the UK children's code amendments in force from 2 Nov add a crisis response protocol for platforms but nothing that changes how we publish. No leaves added. Total 2996."
+   "note": "Earlier: older log entries summarised; runs up to Run 1066 covered all focus areas."
   },
   {
    "date": "2026-11-19 12:51",
@@ -22085,6 +22102,10 @@
   {
    "date": "2026-11-19 15:38",
    "note": "Run 1144 (TRENDS (SocialPilot 17 to 25 Nov, Later 13 Nov, 2027 forecast reports)): Nothing new: every SocialPilot and Later item (My Moon My Man reveal, Same Spot Years Apart, camera shy pets, the ILLIT pass the dance hook, 5 stages of) was already recorded, and Pinterest Predicts 2027 and TikTok Next 2027 are not out yet. No leaves added. Total 3096."
+  },
+  {
+   "date": "2026-11-19 15:39",
+   "note": "Run 1145 (music craft (songs for young English learners worldwide)): New: an English learning review site (Oct 2026) refuses to recommend CoComelon, Pinkfong, BabyBus and dubbed toy channels to learners because vocabulary loops in a narrow range and voices change between episodes, and asks instead for one steady voice, a natural accent and vocabulary that grows step by step; Cambridge's Pre A1 Starters topics (animals, body and face, clothes and colours, food, school things, family, sports verbs, times of day, places words, question words) give us an exam aligned song list for learners in non English countries. Total 3099."
   }
  ],
  "history": [
@@ -23251,6 +23272,10 @@
   {
    "date": "2026-11-19 15:38",
    "total": 3096
+  },
+  {
+   "date": "2026-11-19 15:39",
+   "total": 3099
   }
  ],
  "next_week_ideas": [
