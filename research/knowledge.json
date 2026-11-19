@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:56:59+05:30",
- "runs": 1045,
+ "updated": "2026-11-19T11:57:36+05:30",
+ "runs": 1046,
  "branches": [
   {
    "id": "platforms",
@@ -2162,6 +2162,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1045
+    },
+    {
+     "t": "Gabby's Dollhouse Season 14 debuted on Netflix (14 to 20 Sep 2026) with about 4.3M views from only four episodes, its best first week since Season 8, showing that short, frequent seasons of a familiar kids brand keep audiences coming back.",
+     "src": "What's on Netflix, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1046
+    },
+    {
+     "t": "Fortnite licensed the same creator's dance for its own emote, showing that games pay for viral dances; an original Bro Bros signature move that kids copy widely could one day be licensed as a game emote.",
+     "src": "Tubefilter, Apr 2025",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1046
     }
    ]
   },
@@ -16008,6 +16022,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1030
+    },
+    {
+     "t": "A TikTok creator's viral 2024 dance was sold as a Roblox emote about 60,000 times (at least about 123K USD) before a licence was agreed and she sued in April 2025, citing past choreography copyright claims, so Bro Bros must invent its own dance moves and never copy a named creator's exact routine step for step.",
+     "src": "Tubefilter, Apr 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1046
     }
    ]
   },
@@ -20858,11 +20879,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 966 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:56",
-   "note": "Run 967 (YouTube main and Kids (Tubefilter same week last year, 17 to 23 Nov 2025)): This week's Tubefilter chart is not out yet, so the round compared the same week last year (17 to 23 Nov 2025): most kids Shorts channels fell 14 to 25% that week while Cadel and Mia rose 12% to over 1B views and a baby Shorts channel (BabyBillion) held about 600M, so a pre Thanksgiving dip for generic kids Shorts is normal. Total 2820."
+   "note": "Earlier runs summarised: all rounds through Run 967 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 10:02",
@@ -21175,6 +21192,10 @@
   {
    "date": "2026-11-19 11:56",
    "note": "Run 1045 (Shorts and Reels (Instagram ranking principles and Mosseri myth check)): Instagram's Mosseri says sharing a post to Stories does not boost its feed or Reels reach, and Instagram now tracks the share of daily impressions from posts under 24 hours old, which it says is rising, so fresh daily Reels get an edge. Parent Shorts off controls were already in the tree. Total 2966."
+  },
+  {
+   "date": "2026-11-19 11:57",
+   "note": "Run 1046 (TikTok and other platforms (Netflix kids top 10, Roblox dance emotes)): Netflix data found was already in the tree except a detail: Gabby's Dollhouse Season 14 debuted with 4.3M views from only four episodes, its best start since Season 8. New on Roblox: a TikTok creator's viral dance was sold as a Roblox emote about 60,000 times before any licence and is now in court, a warning that copying a creator's exact routine is risky, while original moves can become emotes. Total 2969."
   }
  ],
  "history": [
@@ -21945,6 +21966,10 @@
   {
    "date": "2026-11-19 11:56",
    "total": 2966
+  },
+  {
+   "date": "2026-11-19 11:57",
+   "total": 2969
   }
  ],
  "next_week_ideas": [
