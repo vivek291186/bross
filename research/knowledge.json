@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:40:11+05:30",
- "runs": 1363,
+ "updated": "2026-11-19T23:40:47+05:30",
+ "runs": 1364,
  "branches": [
   {
    "id": "platforms",
@@ -8259,6 +8259,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1353
+    },
+    {
+     "t": "Super Simple Songs turned 20 in 2026 (YouTube blog, Aug 2026): Skyship now has over 70M subscribers and about 90B views across its channels, and marked the date with a new celebration song, a studio tour led by its on screen host, a limited vinyl album and an in app kids experience, turning a channel milestone into several pieces of content.",
+     "src": "blog.youtube, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1364
+    },
+    {
+     "t": "Super Simple's chief executive says the company still works from its founding purpose, teachers writing simple songs to help children learn English, a reminder that a clear learning purpose is what made the brand last 20 years.",
+     "src": "blog.youtube, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1364
     }
    ]
   },
@@ -23706,12 +23720,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:38",
-   "note": "Earlier: older log entries summarised (runs up to 1284); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:39",
-   "note": "Run 1285 (TRENDS (this week's dance and audio trackers)): Small: the only usable new item is the dancing 3D rat format (a crude animated rat with goofy beat drop moves that people copy in a wide full body shot, helped by a filter that puts the rat beside them), more proof that a simple, slightly silly 3D character dance can become a copy me trend. Trackers otherwise repeated known items. Total leaves +1. Total 3272."
+   "note": "Earlier: older log entries summarised (runs up to 1285); details are in git history."
   },
   {
    "date": "2026-11-19 19:40",
@@ -24024,13 +24034,13 @@
   {
    "date": "2026-11-19 23:40",
    "note": "Run 1363 (global markets recheck (Circana regional toy data)): Added Circana regional toy data: December is about a third of the year's toy sales in Latin America, Europe spends about 240 dollars per child, Asia and Oceania grow fastest, China's preschool category slows with the birth rate, and football toys jumped about 160% in the World Cup year. Chrome not available. Total 3373."
+  },
+  {
+   "date": "2026-11-19 23:40",
+   "note": "Run 1364 (competitor deep dive (Super Simple Songs 20 years)): Super Simple's background, Moonbug news and BabyBus and Lalafun stats were mostly in the tree; added how Super Simple used its 20th anniversary (celebration song, studio tour, vinyl, app) and its founding learning purpose. Peppa Pig crossover page could not be opened. Chrome not available. Total 3375."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:49",
-   "total": 2994
-  },
   {
    "date": "2026-11-19 12:50",
    "total": 2996
@@ -25226,6 +25236,10 @@
   {
    "date": "2026-11-19 23:40",
    "total": 3373
+  },
+  {
+   "date": "2026-11-19 23:40",
+   "total": 3375
   }
  ],
  "next_week_ideas": [
