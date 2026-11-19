@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:38:45+05:30",
- "runs": 1423,
+ "updated": "2026-11-20T03:39:45+05:30",
+ "runs": 1424,
  "branches": [
   {
    "id": "platforms",
@@ -8399,6 +8399,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1412
+    },
+    {
+     "t": "Lalafun Kids Songs US (3.39M subscribers, 1.87B views, 3,456 videos since Mar 2022) drew about 17M views in the 28 days to 19 Nov 2026 from 11 new uploads, with zero net new subscribers; a year earlier it was getting about 53M views and 40K subscribers a month.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1424
+    },
+    {
+     "t": "That feed's biggest videos are long compilations led by a baby animals bus song (about 413M views, Apr 2024) and a colours ducks song (176M, Dec 2024), while its newest original song (18 Nov 2026, a 'what should I eat?' food choice song) had about 1.6K views after 17 hours, so for mass upload channels old compilations carry the views and new singles add little.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1424
+    },
+    {
+     "t": "Lalafun's high volume model (thousands of similar videos spread over several sister feeds) is losing reach in 2026: the US feed is down about two thirds year on year and the Canada feed even lost views in Oct 2026, which suggests volume alone no longer works and fits YouTube's push against repetitive, mass produced kids content.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1424
     }
    ]
   },
@@ -24427,12 +24448,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 21:48",
-   "note": "Earlier runs summarised: 2 older log lines merged (2026-11-19 21:48 to 2026-11-19 21:48), steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-19 22:35",
-   "note": "Run 1345 (TRENDS (November TikTok formats)): New formats this week are 'costume loading' (freeze, then cut to the costume on the beat), AI versus handmade shoulder bounce jokes, a planned versus real carousel, a call and response 'Toe Shock' foot tap chain (weak signal) and the sketch to real reveal; added two to the trend bank and dropped the fading Fast switch illusion and Slow rise squish. Chrome not available. Total 3354."
+   "note": "Earlier runs summarised: 2 older log lines merged (2026-11-19 21:48 to 2026-11-19 22:35), steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 22:37",
@@ -24745,6 +24762,10 @@
   {
    "date": "2026-11-20 03:38",
    "note": "Run 1423 (global markets (dubbing quality and wordless content)): New retention numbers on AI versus human dubbing (AI tracks held viewers 4 to 10 times shorter in a vendor's three case studies, including an Italian kids channel) and a Chinese studio's point that wordless slapstick shorts sell across territories fastest. Supports re-singing songs per language instead of relying on auto dubbing. Chrome not available. Total 3476."
+  },
+  {
+   "date": "2026-11-20 03:39",
+   "note": "Run 1424 (competitor deep dive (Lalafun US feed, Moonbug recheck)): Moonbug's every platform strategy and Lalafun's Canada feed were already in the tree; added Lalafun's main US feed: views down from about 53M a month a year ago to about 17M now with flat subscribers, and its newest original song barely moving while old baby animal compilations carry the channel. Chrome not available. Total 3479."
   }
  ],
  "history": [
@@ -25711,6 +25732,10 @@
   {
    "date": "2026-11-20 03:38",
    "total": 3476
+  },
+  {
+   "date": "2026-11-20 03:39",
+   "total": 3479
   }
  ],
  "next_week_ideas": [
