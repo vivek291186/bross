@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:36:46+05:30",
- "runs": 1240,
+ "updated": "2026-11-19T17:38:03+05:30",
+ "runs": 1241,
  "branches": [
   {
    "id": "platforms",
@@ -9904,6 +9904,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1229
+    },
+    {
+     "t": "Studies of 4 to 6 year olds (Child Development 2025, JSLHR) found spaced retrieval, where the child is asked to say the new word back after a gap, beats hearing it repeated; a teaching song should pause and ask 'What was the snowy animal called?' in the second half and let the child answer before the Bros sing it.",
+     "src": "Brain Building Beats research review, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1241
+    },
+    {
+     "t": "A twin study of 1,163 people found that singing with family in childhood predicted adult singing ability, with no hard cut off age, which supports songs simple enough for parents to sing along with their child at home.",
+     "src": "Twin Research and Human Genetics via Brain Building Beats, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1241
+    },
+    {
+     "t": "A 2026 Frontiers study of two classes aged 6 to 8 found singing skill rose over 18 months of specialist led singing, but a wellbeing gain could not be proven, so we should promise parents fun and singing practice, not health or wellbeing benefits, in titles and descriptions.",
+     "src": "Frontiers in Psychology via Brain Building Beats, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1241
     }
    ]
   },
@@ -11605,6 +11626,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1230
+    },
+    {
+     "t": "A study of 184 five year olds (2026 issue) found learning improved when extraneous material and cognitive load were reduced, so a learning song scene should show only the object being sung about plus the Bros, without busy background props competing for attention.",
+     "src": "Brain Building Beats research review, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1241
     }
    ]
   },
@@ -22440,11 +22468,7 @@
  "log": [
   {
    "date": "2026-11-19 15:48",
-   "note": "Earlier: older log entries summarised; runs up to Run 1161 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:48",
-   "note": "Run 1162 (TRENDS (YouTube trending music chart, 19 Nov)): Nothing new: on 19 Nov two 'Top Christmas songs of all time' playlists sit in YouTube's trending music top 10 next to rap, game and film trailers, the same early Christmas playlist rise already recorded on 18 Nov; no kids songs in the chart. No leaves added. Total 3125."
+   "note": "Earlier: older log entries summarised; runs up to Run 1162 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:48",
@@ -22757,13 +22781,13 @@
   {
    "date": "2026-11-19 17:36",
    "note": "Run 1240 (TRENDS (mid November roundups recheck)): Small: this week's Reels and TikTok lists (It's time switch, glow up switch, Dame Hombro, Chipmunks dance, slow festive makeover) were already in the tree; added three older repeatable formats not yet logged (the one item then whole stash reveal, the same answer repeated with growing drama, and escalating music over calm footage) and a new trend bank entry for the stash reveal. Total 3192."
+  },
+  {
+   "date": "2026-11-19 17:38",
+   "note": "Run 1241 (music craft (learning science for songs)): New: from a Sep 2026 research review, retrieval practice (asking kids to recall a word, not just repeating it) beats plain repetition for word learning in 4 to 6 year olds, extra on screen clutter lowers what 5 year olds learn, and singing together at home in childhood predicts singing ability later. Suno news (v5.5) was already in the tree. Total 3196."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 08:42",
-   "total": 2739
-  },
   {
    "date": "2026-11-19 09:36",
    "total": 2744
@@ -23959,6 +23983,10 @@
   {
    "date": "2026-11-19 17:36",
    "total": 3192
+  },
+  {
+   "date": "2026-11-19 17:38",
+   "total": 3196
   }
  ],
  "next_week_ideas": [
