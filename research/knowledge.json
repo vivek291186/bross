@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:57:03+05:30",
- "runs": 1272,
+ "updated": "2026-11-19T19:02:40+05:30",
+ "runs": 1273,
  "branches": [
   {
    "id": "platforms",
@@ -22943,12 +22943,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 16:00",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 16:01",
-   "note": "Run 1194 (visual craft (background animation that distracts)): New: an eye tracking study of 33 children aged 4 to 5 (Journal of Eye Movement Research, Dec 2024) found that animations unrelated to the story pulled their eyes away and lowered understanding, while animations tied to the story did no harm, so Bro Bros backgrounds should stay calm and only the things the lyric names should move. Total 3150."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 16:01",
@@ -23261,6 +23257,10 @@
   {
    "date": "2026-11-19 18:57",
    "note": "Run 1272 (TRENDS (first snow reactions and Reels templates)): Nothing new: first snow pet and baby reactions, snow delivery surprises and the standard Reels templates (before and after, countdown reveal, text on beat) were already in the tree. No leaves added. Total 3264."
+  },
+  {
+   "date": "2026-11-19 19:02",
+   "note": "Run 1273 (global markets (Bangladesh and Saudi kids channels; algorithm skipped because it was rechecked this run with nothing new)): Nothing new: Kids Tv Bangla, Sisimpur, Bangladesh's craft and drawing giants and the Arabic kids app were already in the tree; the vidIQ page for a Bengali rhyme channel only had 2025 data and the Arab News MENA recap page could not be opened. No leaves added. Total 3264."
   }
  ],
  "history": [
@@ -23271,10 +23271,6 @@
   {
    "date": "2026-11-19 10:02",
    "total": 2824
-  },
-  {
-   "date": "2026-11-19 10:06",
-   "total": 2837
   },
   {
    "date": "2026-11-19 10:07",
@@ -24462,6 +24458,10 @@
   },
   {
    "date": "2026-11-19 18:57",
+   "total": 3264
+  },
+  {
+   "date": "2026-11-19 19:02",
    "total": 3264
   }
  ],
