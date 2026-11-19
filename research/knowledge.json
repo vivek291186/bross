@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:40:46+05:30",
- "runs": 1287,
+ "updated": "2026-11-19T19:41:31+05:30",
+ "runs": 1288,
  "branches": [
   {
    "id": "platforms",
@@ -23004,10 +23004,6 @@
   },
   {
    "date": "2026-11-19 16:07",
-   "note": "Run 1209 (competitor deep dive (FunForKidsTV and Tickle Kids)): Mostly known: FunForKidsTV's 'Baby Shark got a boo boo' songs (142M) and boo boo song pattern were already in the tree. Small check: Tickle Kids (211K subscribers) has fallen to under 0.5M views a month with flat subscribers, while FunForKidsTV (3.12M) still gets about 37.6M, so channels without a hero character and steady uploads fade. No leaves added. Total 3157."
-  },
-  {
-   "date": "2026-11-19 16:07",
    "note": "Run 1210 (TRENDS (kids Shorts challenge searches)): Nothing new: the search returned older branded video charts and AIR case studies already in the tree, no new family challenge this week. No leaves added. Total 3157."
   },
   {
@@ -23317,13 +23313,13 @@
   {
    "date": "2026-11-19 19:40",
    "note": "Run 1287 (TikTok and other platforms (Netflix, Disney Junior, Roblox recheck)): Nothing new: Netflix's holiday kids slate, Disney's Mickey holiday special, November's fastest growing Roblox games (Musical Chairs, DONT SPLASH, egg and pet games) and Roblox's Q3 drop in daily players were already in the tree. Also merged a duplicate: the run 1282 leaf about Later's 13 Nov roundup repeated older leaves, so it was removed. No leaves added. Total 3272."
+  },
+  {
+   "date": "2026-11-19 19:41",
+   "note": "Run 1288 (TRENDS (Christmas and Thanksgiving formats, Pinterest)): Nothing new: Pinterest's 13 Nov weekly report (disguise a turkey, winter style), its 2026 parenting report (throwback kid), the 30 second Suno Thanksgiving family song on TikTok and the holiday shopping calendars were already in the tree; no December roundups are out yet. No leaves added. Total 3272."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:41",
-   "total": 2866
-  },
   {
    "date": "2026-11-19 10:46",
    "total": 2868
@@ -24518,6 +24514,10 @@
   },
   {
    "date": "2026-11-19 19:40",
+   "total": 3272
+  },
+  {
+   "date": "2026-11-19 19:41",
    "total": 3272
   }
  ],
