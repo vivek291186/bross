@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:48:28+05:30",
- "runs": 1162,
+ "updated": "2026-11-19T15:48:56+05:30",
+ "runs": 1163,
  "branches": [
   {
    "id": "platforms",
@@ -16953,6 +16953,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1151
+    },
+    {
+     "t": "Vietnam's draft amendment to Decree 147 (Sept 2026, not yet adopted) does not ban under 16s but makes a parent register and supervise every under 16 social account with the parent's own phone or ID, locks posting, commenting, sharing and reactions for under 13s on large foreign platforms, and requires any channel or page with 1M+ followers to file contact details with the ministry, so Vietnamese viewing of kids songs will run through parent accounts and a future Bro Bros at 1M followers would need to register there.",
+     "src": "TechNode Global, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1163
     }
    ]
   },
@@ -21970,12 +21977,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 13:38",
-   "note": "Earlier: older log entries summarised; runs up to Run 1083 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:38",
-   "note": "Run 1084 (TRENDS (mid November lists rechecked, parent 'my kid repeats the tablet' trend, family film calendar)): Most mid November dance and format trends (Chipmunks dance, Dame Hombro, fan transition, slow motion entrances) were already in the bank. New: a 12 Nov parent trend of filming kids repeating phrases they picked up from tablet videos, which makes polite, repeatable song lines a selling point; Ebenezer topped the 13 to 15 Nov US box office and Angry Birds got a 10th anniversary cinema re release. Total 3023."
+   "date": "2026-11-19 13:39",
+   "note": "Earlier: older log entries summarised; runs up to Run 1084 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:39",
@@ -22288,13 +22291,13 @@
   {
    "date": "2026-11-19 15:48",
    "note": "Run 1162 (TRENDS (YouTube trending music chart, 19 Nov)): Nothing new: on 19 Nov two 'Top Christmas songs of all time' playlists sit in YouTube's trending music top 10 next to rap, game and film trailers, the same early Christmas playlist rise already recorded on 18 Nov; no kids songs in the chart. No leaves added. Total 3125."
+  },
+  {
+   "date": "2026-11-19 15:48",
+   "note": "Run 1163 (rules (Vietnam's draft child account rules; India DPDP rechecked)): New: Vietnam's Sept 2026 draft amendment to Decree 147 drops a full ban and instead makes parents register and supervise under 16 accounts, locks posting, comments and reactions for under 13s on large foreign platforms, and asks any channel with 1M+ followers to file contact details with the ministry. India's DPDP stages were already in the tree. Total 3126."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-17 01:03",
-   "total": 2372
-  },
   {
    "date": "2026-11-19 02:38",
    "total": 2406
@@ -23490,6 +23493,10 @@
   {
    "date": "2026-11-19 15:48",
    "total": 3125
+  },
+  {
+   "date": "2026-11-19 15:48",
+   "total": 3126
   }
  ],
  "next_week_ideas": [
