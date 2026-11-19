@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:44:35+05:30",
- "runs": 907,
+ "updated": "2026-11-19T07:45:28+05:30",
+ "runs": 908,
  "branches": [
   {
    "id": "platforms",
@@ -3618,6 +3618,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 901
+    },
+    {
+     "t": "Schools in England, Wales and Scotland break up for Christmas on Friday 18 Dec 2026 and return on 4 Jan (England, Wales) or 6 Jan 2027 (Scotland), with Northern Ireland off 21 Dec to 1 Jan, so UK children are home on weekday mornings from Saturday 19 Dec, and our 16:00 IST slot (10:30 in London) lands right in their holiday morning.",
+     "src": "LBC, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 908
+    },
+    {
+     "t": "Nielsen's Gauge found YouTube viewing on US TV sets rose 7% from November to December 2024 to a then record 11.1% of all TV time, and four days in late Nov to late Dec topped 100 billion viewing minutes (two around Thanksgiving, two around Christmas), so holiday days are peak days and our strongest winter songs should be live before Thanksgiving (26 Nov) and Christmas week.",
+     "src": "Nielsen, Jan 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 908
+    },
+    {
+     "t": "Metricool's YouTube model for our brand for 20 to 26 Nov 2026 (rechecked) still shows 16:00 IST as the top hour on six of seven days, with 10:00 IST a close second on Thursday and Friday (about 10,700 to 10,500 against 12,000 and 10,700 at 16:00), so the first daily slot stays at 16:00 IST.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 908
     }
    ]
   },
@@ -18754,10 +18775,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 02:53",
-   "note": "Run 829 (YouTube algorithm (Shorts originality, subscriber versus new viewer signals)): Home feed and Shorts drop reports were already in the tree. New: since a 1 Oct 2026 TeamYouTube post, Shorts recommendations favour original clips and channels that mainly re upload others' videos get less reach, judged per channel with no notice; and YouTube's discovery director says the system learns separately from subscriber and non subscriber reactions, with the subscriber row in Browse as the cleanest read on content. Total 2436."
-  },
-  {
    "date": "2026-11-19 02:54",
    "note": "Run 830 (Shorts and Reels (Instagram signal weights, Story reshares, account type)): Reels ranking order and Trial Reels were already in the tree. New: an agency estimate that one DM share is worth about 15 likes and one save about 10, business accounts reaching 7 to 12% organically against 10 to 20% for personal ones, and public Stories now reshareable by anyone without a tag. Total 2439."
   },
@@ -19068,6 +19085,10 @@
   {
    "date": "2026-11-19 07:44",
    "note": "Run 907 (topics and seasons (TRENDS skipped, nothing new two rounds ago; Christmas 2026 home decor)): Christmas 2026 decor guides describe a swing to bright, maximalist rainbow lights and tinsel, bold red and green back after years of neutrals, giant bows, and families using the TV as decor with festive scenes and music, which supports colourful sets for our holiday songs and a calm 'Christmas TV' compilation. Total 2665."
+  },
+  {
+   "date": "2026-11-19 07:45",
+   "note": "Run 908 (posting times (Metricool YouTube model unchanged; UK Christmas school holidays, December TV viewing)): Metricool's YouTube model for 20 to 26 Nov still peaks at 16:00 IST (Wed and Thu about 12,000, Sat about 5,900), so no slot change. New: UK schools in England, Wales and Scotland break up on Friday 18 Dec 2026 and return 4 to 6 Jan, and Nielsen measured YouTube's US TV share rising 7% from November to December with Thanksgiving and Christmas days the biggest viewing days of the year. Total 2668."
   }
  ],
  "history": [
@@ -20034,6 +20055,10 @@
   {
    "date": "2026-11-19 07:44",
    "total": 2665
+  },
+  {
+   "date": "2026-11-19 07:45",
+   "total": 2668
   }
  ],
  "next_week_ideas": [
