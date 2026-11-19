@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:47:51+05:30",
- "runs": 1321,
+ "updated": "2026-11-19T20:48:55+05:30",
+ "runs": 1322,
  "branches": [
   {
    "id": "platforms",
@@ -4500,6 +4500,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1311
+    },
+    {
+     "t": "YouTube's 1 Oct 2026 Shorts update ranks original clips first, and Shorts revenue sharing counts only engaged views, which exclude re uploads and compilations with nothing new added (simple template edits or a voice over describing the clip do not count as new), so a Bro Bros 'best of' Short stitched from older Shorts should add a fresh intro, new scene or new verse rather than just re cut old clips, and the same Short should never be posted twice.",
+     "src": "ppc.land, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1322
     }
    ]
   },
@@ -23290,10 +23297,6 @@
    "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
-   "date": "2026-11-19 17:39",
-   "note": "Run 1243 (TRENDS (Christmas family dances)): New: a deadpan matching pyjamas Christmas dance (duos and trios, a 14 second routine on a Deck the Halls remix) took off on TikTok from 2 Nov 2026 with mums and daughters joining in; added it to the trend bank with simple standing moves on our own Deck the Halls arrangement. Also logged the 2016 nostalgia wave (Mannequin Challenge, bottle flips) as a parent hook. Total 3202."
-  },
-  {
    "date": "2026-11-19 17:40",
    "note": "Run 1244 (global markets (YouTube money by region)): Small: WARC puts YouTube's 2025 ad revenue at 40.4B USD with growth slowing to about 7% in 2026, TV sessions over 45 minutes with over 95% completion, and 3Vision splits Sub Saharan Africa's YouTube ad money (South Africa about 191M USD, Nigeria about 128M in 2026, both roughly doubling by 2031). Dubbing language and Africa channel facts were already in the tree. Total 3206."
   },
@@ -23604,13 +23607,13 @@
   {
    "date": "2026-11-19 20:47",
    "note": "Run 1321 (TRENDS (teacher circle dances, baby dance events)): Small: Later's 13 Nov Reels list (five stages, locked camera outfit swap, appointment timestamps) was already in the tree; new were a Telangana teacher's circle folk dance with her pupils (about 5M views), proof that a grown up dancing in a ring with kids travels, and Paris's November kids dance festival with shows for babies from 3 months and a family dance ball. Total 3313."
+  },
+  {
+   "date": "2026-11-19 20:48",
+   "note": "Run 1322 (YouTube algorithm (originality and Shorts reuse)): Small: Beaupre's Sep 2026 interview points (subscribers click 10% or less of uploads, Home weighs Home performance only) were already in the tree; new is that Shorts revenue sharing counts only engaged views and excludes re uploads and compilations without anything new added, so a 'best of' Short stitched from our older Shorts may earn nothing. Total 3314."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:35",
-   "total": 2921
-  },
   {
    "date": "2026-11-19 11:42",
    "total": 2925
@@ -24806,6 +24809,10 @@
   {
    "date": "2026-11-19 20:47",
    "total": 3313
+  },
+  {
+   "date": "2026-11-19 20:48",
+   "total": 3314
   }
  ],
  "next_week_ideas": [
