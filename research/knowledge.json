@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:41:50+05:30",
- "runs": 1366,
+ "updated": "2026-11-19T23:42:18+05:30",
+ "runs": 1367,
  "branches": [
   {
    "id": "platforms",
@@ -23727,12 +23727,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:40",
-   "note": "Earlier: older log entries summarised (runs up to 1287); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:41",
-   "note": "Run 1288 (TRENDS (Christmas and Thanksgiving formats, Pinterest)): Nothing new: Pinterest's 13 Nov weekly report (disguise a turkey, winter style), its 2026 parenting report (throwback kid), the 30 second Suno Thanksgiving family song on TikTok and the holiday shopping calendars were already in the tree; no December roundups are out yet. No leaves added. Total 3272."
+   "note": "Earlier: older log entries summarised (runs up to 1288); details are in git history."
   },
   {
    "date": "2026-11-19 19:41",
@@ -24045,13 +24041,13 @@
   {
    "date": "2026-11-19 23:41",
    "note": "Run 1366 (rules and safety recheck): Nothing new: COPPA enforcement, California's AB 1709 and its court challenge, age assurance laws and YouTube's AI label rules for animation were all already in the tree. No leaves added. Chrome not available. Total 3376."
+  },
+  {
+   "date": "2026-11-19 23:42",
+   "note": "Run 1367 (our own results recheck (Metricool)): Nothing new: at 23:42 IST the YouTube feed still ends 16 Nov (2,150 subscribers through 18 Nov) and no 19 Nov Reel has synced yet, both already recorded today. No leaves added. Chrome not available. Total 3376."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:51",
-   "total": 2996
-  },
   {
    "date": "2026-11-19 12:51",
    "total": 2996
@@ -25246,6 +25242,10 @@
   },
   {
    "date": "2026-11-19 23:41",
+   "total": 3376
+  },
+  {
+   "date": "2026-11-19 23:42",
    "total": 3376
   }
  ],
