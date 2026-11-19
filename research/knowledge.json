@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:56:30+05:30",
- "runs": 881,
+ "updated": "2026-11-19T06:57:04+05:30",
+ "runs": 882,
  "branches": [
   {
    "id": "platforms",
@@ -9372,6 +9372,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 873
+    },
+    {
+     "t": "AIR's April 2026 operations case for four Vania Mania kids channels reports a recurring YouTube bug that silently removed multi language audio tracks, so the team checks Studio's 'Views by audio track' report and country views for sudden drops and changes only one old title at a time while watching click through rate; once Bro Bros adds dubbed tracks, a weekly audio track check belongs in our routine.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 882
     }
    ]
   },
@@ -18373,11 +18380,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 803 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:04",
-   "note": "Run 804 (our own results (Metricool YouTube traffic sources 2 to 16 Nov)): YouTube traffic 2 to 16 Nov: Suggested 71%, search 17%, subscribers 6%, Shorts feed 0.3% and playlists 0.1%, so Suggested and search carry the channel while Shorts and playlists send almost nothing to the full songs. Total 2376."
+   "note": "Earlier runs summarised: all rounds through Run 804 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:05",
@@ -18690,6 +18693,10 @@
   {
    "date": "2026-11-19 06:56",
    "note": "Run 881 (music craft (how babies respond to songs, eLife 2026)): New: an eLife study (reported July 2026) of 79 babies found that from 3 months their brains respond more to real songs than scrambled ones, 12 month olds rock, sway and clap more to structured songs, a high pitched melody drives movement more than the bassline at every age, and no baby moved on the beat; they followed loudness changes. For our baby songs: bright high melody and clear loud and soft moments matter more than groove. Kids album news was already in the tree. Total 2611."
+  },
+  {
+   "date": "2026-11-19 06:57",
+   "note": "Run 882 (visual craft (thumbnails, pacing studies)): The pacing versus fantasy meta analysis and the Vania Mania thumbnail rules were already in the tree. New detail: AIR's April 2026 kids operations case warns that dubbed audio tracks can vanish from videos without notice, and checks 'Views by audio track' in YouTube Studio for sudden country drops; when we add dubs we should check that report weekly. Total 2612."
   }
  ],
  "history": [
@@ -19552,6 +19559,10 @@
   {
    "date": "2026-11-19 06:56",
    "total": 2611
+  },
+  {
+   "date": "2026-11-19 06:57",
+   "total": 2612
   }
  ],
  "next_week_ideas": [
