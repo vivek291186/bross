@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:59:30+05:30",
- "runs": 1190,
+ "updated": "2026-11-19T16:00:02+05:30",
+ "runs": 1191,
  "branches": [
   {
    "id": "platforms",
@@ -2302,6 +2302,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1179
+    },
+    {
+     "t": "Since early 2026 Instagram shows a second by second retention curve and a 3 second skip rate for each Reel with 100+ plays (Professional accounts, about 48 hours to fill); one creator's analysis of about 200 Reels rates a skip rate over 40% as poor, 25 to 35% as average and under 20% as strong, with 15 second Reels completing 40 to 55% on average, and advises a visual or sound change every 5 to 8 seconds to stop steady drop off.",
+     "src": "CreatorStack blog, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1191
     }
    ]
   },
@@ -17863,6 +17870,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1031
+    },
+    {
+     "t": "Against that benchmark our Reels from 17 and 18 Nov 2026 open poorly: the freeze dance (66% skip), veggie soup (75%) and boo boo bandage (77%) Reels lose about three in four viewers in the first 3 seconds and only the digger Reel (37%) is near average, so the first second of every Reel should start mid dance or mid action with the song's hook, not an intro shot.",
+     "src": "Metricool (Bro Bros Instagram), Nov 2026; CreatorStack benchmark",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1191
     }
    ]
   },
@@ -22117,12 +22131,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 14:49",
-   "note": "Earlier: older log entries summarised; runs up to Run 1111 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:49",
-   "note": "Run 1112 (global markets (Arabic and Bengali dubbed song channels)): New: Little Angel's Arabic channel (5.21M subscribers, 3.27B views) now earns only about 19M views and 10K subscribers a month, showing that a mature dubbed copy plateaus without fresh original songs; an India based Bengali rhymes channel (Tinku Tv Bangla, 828K) was gaining about 50K subscribers a month with long 25 minute compilations. Total 3077."
+   "date": "2026-11-19 14:50",
+   "note": "Earlier: older log entries summarised; runs up to Run 1112 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:50",
@@ -22435,13 +22445,13 @@
   {
    "date": "2026-11-19 15:59",
    "note": "Run 1190 (YouTube algorithm (November changes and signed out TV viewing rechecked)): Nothing new: the October and November AIR trackers, Shorts originality, custom feeds and the Shorts timer changes were already in the tree. No leaves added. Total 3146."
+  },
+  {
+   "date": "2026-11-19 16:00",
+   "note": "Run 1191 (Shorts and Reels (Instagram second by second retention charts and skip rate benchmarks)): New: Instagram's Reel insights now show a second by second retention curve and a 3 second skip rate (Reels with 100+ plays, Professional accounts); one creator's 200 Reel benchmark calls a skip rate over 40% poor, 25 to 35% average and under 20% strong. Our 17 and 18 Nov Reels skipped at 66 to 77% except the digger song (37%), so our openings need the most work. Total 3148."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:02",
-   "total": 2627
-  },
   {
    "date": "2026-11-19 07:03",
    "total": 2628
@@ -23637,6 +23647,10 @@
   {
    "date": "2026-11-19 15:59",
    "total": 3146
+  },
+  {
+   "date": "2026-11-19 16:00",
+   "total": 3148
   }
  ],
  "next_week_ideas": [
