@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:47:53+05:30",
- "runs": 1061,
+ "updated": "2026-11-19T12:48:33+05:30",
+ "runs": 1062,
  "branches": [
   {
    "id": "platforms",
@@ -20992,6 +20992,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1056
+    },
+    {
+     "t": "The Scuba dance, started in Oct 2025 by a rapper's original song, is still being used in Nov 2026 as the move that shows you are in touch with young people (a US politician posted it on 18 Nov), so a pretend underwater dance has lasted a full year and is worth echoing with our own diving moves rather than the creator's exact routine.",
+     "src": "Twitchy / Know Your Meme, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1062
     }
    ]
   }
@@ -21018,12 +21025,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:10",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 982 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:36",
-   "note": "Run 983 (YouTube main and Kids (Miliki Family, Mike and Mia; own data unchanged)): Metricool still has no YouTube data after 16 Nov and no new Reels since 18 Nov, so own results were skipped. Miliki Family (2.59M) grows on 'afraid of' songs: the dark (381M), a shot at the doctor (36M) and the dentist (33M), and doubled monthly views since June with only about 14 uploads a month, while Mike and Mia (1.66M) has gained no subscribers for six months. New uploads on both start under 1K views in their first 11 hours. Total 2854."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 983 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:37",
@@ -21336,6 +21339,10 @@
   {
    "date": "2026-11-19 12:47",
    "note": "Run 1061 (visual craft (pacing research, thumbnails, animation styles rechecked)): Nothing new: the meta analysis that fantastical content, not fast cutting, briefly tires kids' attention, Common Sense's attention analyser, custom Shorts thumbnails (since Jul 2026, safe area about 3:2) and 3D versus 2D style guides were already in the tree. No leaves added. Total 2989."
+  },
+  {
+   "date": "2026-11-19 12:48",
+   "note": "Run 1062 (TRENDS (dance challenges this week)): The Scuba dance (Oct 2025) is still the dance adults reach for to look current with kids: a US politician posted it on 18 Nov 2026, a year after it began, so 'pretend you are underwater' moves have staying power; added an original deep sea diver dance to the trend bank (our own moves, not the creator's routine). Total 2990."
   }
  ],
  "history": [
@@ -22170,6 +22177,10 @@
   {
    "date": "2026-11-19 12:47",
    "total": 2989
+  },
+  {
+   "date": "2026-11-19 12:48",
+   "total": 2990
   }
  ],
  "next_week_ideas": [
@@ -22231,6 +22242,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Deep sea diver dance",
+   "where": "TikTok, Reels, Shorts",
+   "status": "evergreen",
+   "use": "Our own underwater dance for an original ocean song: hold your nose with one hand and puff your cheeks, do slow swimming arms forward and back, wiggle like a fish on the spot, then pop pretend bubbles with one finger on 'pop pop pop'. Standing, in place, no floor moves; easy for a Meshy prompt. Do not copy the Scuba Juke routine or audio."
+  },
   {
    "name": "Stop the snowman!",
    "where": "Reels, Shorts",
@@ -22344,12 +22361,6 @@
    "where": "TikTok and Reels (AI voiced food that scolds viewers with cooking and storage tips, Know Your Meme, 2026, still circulating)",
    "status": "rising",
    "use": "20 second Short with our own song: a carrot, a tomato and a broccoli on the kitchen counter pop up one per beat and each sings one friendly bossy line ('Wash me first!', 'Eat me crunchy!', 'Keep me cold!') while the Bros nod and copy the action. Original veggie faces only. Meshy prompt: a boy stands in place, points forward with one hand, nods twice, then gives a thumbs up."
-  },
-  {
-   "name": "Draw it to the beat",
-   "where": "YouTube Shorts US trending (24 Hour Drawings, House Drawing, 18 Nov 2026)",
-   "status": "rising",
-   "use": "A 20 second Short: a white page fills line by line on every beat of our own song (a snowman, a gift, Big Bro's face) while the Bros guess what it is; on the last beat the drawing comes alive in 3D and dances with them. Viewers can draw along at home. Meshy prompt for the Bros: standing in place, one hand on the chin thinking, then pointing at the page, then both arms up in a cheer and a small hop."
   }
  ],
  "posting_plan": {
