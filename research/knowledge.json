@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:09:18+05:30",
- "runs": 979,
+ "updated": "2026-11-19T10:09:46+05:30",
+ "runs": 980,
  "branches": [
   {
    "id": "platforms",
@@ -6943,6 +6943,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 979
+    },
+    {
+     "t": "Kids Diana Show (138M subscribers) added no subscribers in any month of 2026 yet still earns about 380M to 545M views a month from 1,771 videos, and its only recent subscriber jump came in December 2025 (+1M), another sign that December is the strongest growth month for kids channels.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 980
+    },
+    {
+     "t": "Kids Diana Show's five biggest videos are a safety rules story (school bus rules, 566M) and challenge adventures (escape room 505M, 'open the 10 doors' 443M, a maze to help the baby brother 431M), so 'choose a door' and 'get through the maze to help Little Bro' song games are proven kid hooks we can make with our own songs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 980
+    },
+    {
+     "t": "Kids Diana Show's newest upload (17 Nov 2026) is a collection with a younger brother pair as leads ('Adam and Oliver's Adventure Collection') and drew about 40K views in 12 hours, so even the biggest kids brand now leans on compilations and brother characters.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 980
     }
    ]
   },
@@ -20018,11 +20039,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 900 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:37",
-   "note": "Run 901 (TRENDS (SocialPilot 17 Nov, Virlo) then algorithm and platform news): Trends: SocialPilot's 17 to 25 Nov list (soft launch reveal, same spot years apart, camera shy, ILLIT hand off hook) and Virlo's tracker held nothing the trend bank lacks, so the trend wave is unchanged. Algorithm and platform news: YouTube once tested capping a video at eight recommendations per viewer, teachers can lock school YouTube to assigned videos with no ads or suggestions, and Playables now has six educational games made only with partner creators. Total 2644."
+   "note": "Earlier runs summarised: all rounds through Run 901 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:39",
@@ -20335,6 +20352,10 @@
   {
    "date": "2026-11-19 10:09",
    "note": "Run 979 (YouTube main and Kids (Jason Vlogs language channels and Shorts cadence)): Most Jason Vlogs lessons were already in the tree. New details: its Hindi channel passed 9M subscribers, bigger than its Spanish one (over 7M), and its team advises starting at one Short a day and scaling to 5 to 10 a day, while noting Shorts bring reach but little revenue compared with long videos. Total 2846."
+  },
+  {
+   "date": "2026-11-19 10:09",
+   "note": "Run 980 (competitor deep dive (Kids Diana Show)): Kids Diana Show (138M) gained no subscribers all of 2026 but still pulls 380M to 545M views a month, with its only recent subscriber jump in December 2025 (+1M). Its biggest videos are rules and challenge stories: school bus rules (566M), an escape room (505M), a ten doors adventure (443M) and a maze to help a sibling (431M). Total 2849."
   }
  ],
  "history": [
@@ -20841,6 +20862,10 @@
   {
    "date": "2026-11-19 10:09",
    "total": 2846
+  },
+  {
+   "date": "2026-11-19 10:09",
+   "total": 2849
   }
  ],
  "next_week_ideas": [
