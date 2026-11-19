@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:56:45+05:30",
- "runs": 1183,
+ "updated": "2026-11-19T15:57:10+05:30",
+ "runs": 1184,
  "branches": [
   {
    "id": "platforms",
@@ -15077,6 +15077,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1172
+    },
+    {
+     "t": "Cambodia has about 10.8M internet users (61% penetration, DataReportal 2025) and YouTube is its main music platform, yet its Khmer kids channels are small: Kids Planet Khmer, a dubbed fairy tale and moral story channel with about 478K subscribers, drew under 1M views in 28 days (Oct 2026) and an estimated 135 USD a month after uploads paused in May, so a Khmer dub would not pay back and Cambodian families are best reached by our English songs.",
+     "src": "vidIQ, Oct 2026; Interspace Music, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1184
     }
    ]
   },
@@ -22090,11 +22097,7 @@
  "log": [
   {
    "date": "2026-11-19 14:44",
-   "note": "Earlier: older log entries summarised; runs up to Run 1104 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:44",
-   "note": "Run 1105 (TRENDS (Tokchart, Later and seasonal outlooks rechecked)): Mostly known: Later's 13 Nov Reels formats, the slow spin transition and Tokchart's original audio dominance were already in the tree. One addition: on 19 Nov the top growing sound (a soft acoustic cover used for soft launch reveals) adds about 130K videos a day, roughly four times the leaders of 15 Nov. Total 3065."
+   "note": "Earlier: older log entries summarised; runs up to Run 1105 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:44",
@@ -22407,13 +22410,13 @@
   {
    "date": "2026-11-19 15:56",
    "note": "Run 1183 (TRENDS (Kapwing monthly lists checked)): Nothing new: Kapwing has no November 2026 list yet and its December 2025 holiday trends are already in the tree as last year's pattern. No leaves added. Total 3142."
+  },
+  {
+   "date": "2026-11-19 15:57",
+   "note": "Run 1184 (global markets (Cambodia gap)): Filled the Cambodia gap: about 10.8M internet users and YouTube is the country's main music platform, but Khmer kids content is small (Kids Planet Khmer, a dubbed story channel with 478K subscribers, gets under 1M views a month and about 135 USD), so Cambodia is a market for later through English songs, not a priority dub. Total 3143."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 06:58",
-   "total": 2618
-  },
   {
    "date": "2026-11-19 06:59",
    "total": 2620
@@ -23609,6 +23612,10 @@
   {
    "date": "2026-11-19 15:56",
    "total": 3142
+  },
+  {
+   "date": "2026-11-19 15:57",
+   "total": 3143
   }
  ],
  "next_week_ideas": [
