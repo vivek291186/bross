@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:38:14+05:30",
- "runs": 1360,
+ "updated": "2026-11-19T23:38:46+05:30",
+ "runs": 1361,
  "branches": [
   {
    "id": "platforms",
@@ -12151,6 +12151,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1338
+    },
+    {
+     "t": "Meshy's August 2026 update added Semantic Segmentation, which splits a generated model into named parts such as head and limbs, and cut Smart Topology generation from about 15 seconds to about 2, so a new friend character or prop can be separated into parts before rigging or swapping a hat in Blender.",
+     "src": "docs.meshy.ai changelog, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1361
     }
    ]
   },
@@ -23657,12 +23664,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:35",
-   "note": "Earlier: older log entries summarised (runs up to 1281); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:36",
-   "note": "Run 1282 (TRENDS (Thanksgiving week films and this week's memes)): Small: Disney's original magic film opening 25 Nov is tracking about 50M to 70M USD over 5 days and pacing ahead of Encanto, so magic and spell play will be a hot kid theme into December; added a 'Magic word tidy up' trend bank entry (own song, no characters) and dropped the Halloween skeleton dance. This week's Know Your Meme and Later items were already in the tree. Total 3271."
+   "note": "Earlier: older log entries summarised (runs up to 1282); details are in git history."
   },
   {
    "date": "2026-11-19 19:37",
@@ -23975,13 +23978,13 @@
   {
    "date": "2026-11-19 23:38",
    "note": "Run 1360 (music craft recheck): Nothing new: the Scientific Reports rhythm preference study, newborn beat studies, Baby Shark's billion Spotify streams and Suno v6 tiers were already in the tree; the 'kidszn' Spotify artist turned out not to be kids music. No leaves added. Chrome not available. Total 3366."
+  },
+  {
+   "date": "2026-11-19 23:38",
+   "note": "Run 1361 (visual craft recheck (Meshy changelog, thumbnails)): Mostly covered: Meshy October models (T2.5, N1, Meshy Edit), thumbnail test studies and the UAL kids TV lab were already in the tree; added Meshy's Semantic Segmentation (head and limbs split) as a helper for new characters. Chrome not available. Total 3367."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:47",
-   "total": 2989
-  },
   {
    "date": "2026-11-19 12:48",
    "total": 2990
@@ -25177,6 +25180,10 @@
   {
    "date": "2026-11-19 23:38",
    "total": 3366
+  },
+  {
+   "date": "2026-11-19 23:38",
+   "total": 3367
   }
  ],
  "next_week_ideas": [
