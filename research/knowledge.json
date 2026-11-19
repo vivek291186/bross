@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:54:45+05:30",
- "runs": 879,
+ "updated": "2026-11-19T06:55:31+05:30",
+ "runs": 880,
  "branches": [
   {
    "id": "platforms",
@@ -18311,6 +18311,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 877
+    },
+    {
+     "t": "'Do Not Bother the Botherer' is on Buffer's 18 Nov 2026 TikTok list: slow close ups of a sleeping pet or a contentedly busy child with a deadpan, whispered voiceover; a Bro Bros version shows Little Bro asleep in a blanket fort while Big Bro tiptoes past in exaggerated slow steps, a calm bedtime Short with our own soft music.",
+     "src": "Buffer, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 880
+    },
+    {
+     "t": "The 'Actually...' photo carousel is trending in mid November 2026: each swipe reveals one more detail that changes the story (the snowman is actually Little Bro in a costume, the costume is actually made of pillows), which suits an Instagram carousel of still renders from our videos and invites swipes, a strong saves and sends signal.",
+     "src": "Buffer, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 880
+    },
+    {
+     "t": "None of the eleven TikTok sounds on Buffer's 18 Nov 2026 list is a dance; mid November trends are voiceover and on screen text jokes, so for dance content we keep relying on proven kid friendly moves (shoulder bounce, shy then dance, chipmunk hop) rather than waiting for a new viral dance before December.",
+     "src": "Buffer, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 880
     }
    ]
   }
@@ -18338,11 +18359,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 801 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:03",
-   "note": "Run 802 (algorithm experiments and data (trends skipped after an empty trends round; upload timing study, 24/7 stream cases)): AIR's 31,852 video timing study (Kids Friday 16:00 UTC, Wednesday worst) and the 24/7 stream and Q4 live RPM cases were already in the tree; no new leaves. Total 2372."
+   "note": "Earlier runs summarised: all rounds through Run 802 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:04",
@@ -18655,6 +18672,10 @@
   {
    "date": "2026-11-19 06:54",
    "note": "Run 879 (Shorts and Reels for kids (AIR kids channel cases)): Instagram news this week had nothing new for Reels ranking. New from two AIR kids channel cases: a Spanish kids song channel deleted long videos that skirted kids policies, raised Shorts from 8 to 31 a quarter and went from 27M to 1.46B views (Shorts 98% of views); another halved long uploads, doubled Shorts cut from its best long moments, moved to 4K with text kept off the edges for TV, and grew revenue about 34%. Total 2606."
+  },
+  {
+   "date": "2026-11-19 06:55",
+   "note": "Run 880 (TRENDS (Buffer and SocialPilot TikTok lists, 17 to 18 Nov)): Two gentle formats are new this week: 'Do Not Bother the Botherer' (close ups of a sleeping or happily busy pet or child with a deadpan voiceover) and the 'Actually...' carousel where every swipe reveals a detail that changes the story. Both fit Instagram with our own characters; the other sounds are adult or already in the tree. No new dances. Total 2609."
   }
  ],
  "history": [
@@ -19509,6 +19530,10 @@
   {
    "date": "2026-11-19 06:54",
    "total": 2606
+  },
+  {
+   "date": "2026-11-19 06:55",
+   "total": 2609
   }
  ],
  "next_week_ideas": [
@@ -19570,6 +19595,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Do not bother the botherer",
+   "where": "TikTok and Reels (Buffer list, 18 Nov 2026)",
+   "status": "rising",
+   "use": "A 15 second bedtime Short: slow camera push on Little Bro asleep in a blanket fort, a whisper voice says 'do not bother the botherer', Big Bro tiptoes past on giant slow steps holding a teddy, then tucks it under Little Bro's arm and gives a thumbs up to camera; our own soft lullaby underneath. Meshy prompt: standing, slow exaggerated tiptoe steps in place, lifting knees high, both arms held out for balance, then a quiet thumbs up."
+  },
   {
    "name": "Draw it to the beat",
    "where": "YouTube Shorts US trending (24 Hour Drawings, House Drawing, 18 Nov 2026)",
@@ -19683,12 +19714,6 @@
    "where": "US TV and social feeds on 26 Nov 2026 (100th Macy's Thanksgiving Day Parade, seasonal)",
    "status": "seasonal",
    "use": "Post on 25 to 26 Nov a Bro Bros parade song with our own giant balloons (a smiling sun, a rainbow whale, a drum) floating down a toy town street while the brothers and friends march and wave below; each verse a new balloon appears and kids shout its colour. Meshy motion: standing march in place with high knees, big two hand waves overhead, then pointing up at the sky."
-  },
-  {
-   "name": "Twelve day countdown",
-   "where": "Apple TV holiday special and family Reels and Shorts (December, seasonal)",
-   "status": "seasonal",
-   "use": "Run a 12 day Shorts and Reels series from 13 to 24 Dec: each day the brothers unwrap one new winter 'gift' (a snowflake, a drum, a sledge) and add one new dance move, building a counting chorus in our own melody (never the traditional tune's lyrics); day 12 shows all twelve moves in one wide shot. Meshy motion per day: standing, one simple added move such as clap, star jump arms only, march in place, spin with arms out."
   }
  ],
  "posting_plan": {
