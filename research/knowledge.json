@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:48:22+05:30",
- "runs": 911,
+ "updated": "2026-11-19T07:48:58+05:30",
+ "runs": 912,
  "branches": [
   {
    "id": "platforms",
@@ -6467,6 +6467,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 909
+    },
+    {
+     "t": "Kids Learn and Grow (US, 882K subscribers, 669M views since Dec 2022) earns a remarkably flat 17M to 24M views every month with no December spike and adds about 20K subscribers a month, so toddler learning videos (counting, shapes, colours) are evergreen demand that keeps paying all year while holiday songs come and go.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 912
+    },
+    {
+     "t": "That channel's top videos use plain search phrase titles that list every skill ('Toddler Learning Videos | Kids Learn to Count, Shapes & Colors', 126M views; 'Counting & Numbers Educational Videos for Toddlers', 28.9M), and it re made its best title in Dec 2025 (22M views), so remaking a proven learning video with the same search title is a valid strategy; our counting and colour songs should list the skills in the title.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 912
+    },
+    {
+     "t": "An Indian channel showing 2.38M subscribers has only about 2.1M lifetime views on 41 videos, another sign that bought or repurposed channels inflate subscriber charts, so when we benchmark competitors we use monthly views and views per video, never subscribers.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 912
     }
    ]
   },
@@ -18845,10 +18866,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 03:38",
-   "note": "Run 833 (visual craft (Disney Jr. 2026 preschool CG looks)): Thumbnail and calm style research was already deep in the tree. New from Disney Jr.'s 2026 shows: Sofia the First: Royal Magic swapped flat toon shading for dappled, sunlit cinematic lighting on one huge reusable set; Cars: Lightning Racers made heroes chunkier, stages them facing the camera like actors on a stage, and after testing built episodes around everyday life plus a repeated 'get ready' sequence. Total 2454."
-  },
-  {
    "date": "2026-11-19 03:40",
    "note": "Run 834 (TRENDS (December repeats, holiday audio share, gentle elf tradition)): Most December formats (advent unboxing, grid harmony, say the word on beat) were already in the tree. New: on 18 Nov four of Revid's top 25 viral TikTok songs are classic Christmas recordings and K-pop girl group tracks (ILLIT, KATSEYE) are still there; a gentle 'Elfie' tradition (an elf who brings treats and never spies or reports) offers a kinder December story. Added 'Gentle helper elf' to the trend bank and merged 'Room glow up reveal' into 'Season starts now reveal'. Total 2458."
   },
@@ -19159,6 +19176,10 @@
   {
    "date": "2026-11-19 07:48",
    "note": "Run 911 (YouTube algorithm (rules and own results skipped, nothing new; Studio Research tab, Home only views)): Rules and our own Metricool data had nothing new, so the round went to the algorithm. YouTube is testing a Studio 'Research' tab with outlier multipliers and a 'watched by my viewers' filter, and OutlierKit's October update stresses judging Home performance from Browse only views and expecting click rate to fall as Home reach grows. Total 2678."
+  },
+  {
+   "date": "2026-11-19 07:48",
+   "note": "Run 912 (YouTube main and Kids (own results skipped, Metricool unchanged; toddler learning channel Kids Learn and Grow)): Kids Learn and Grow (US, 882K) gains about 20K subscribers a month and earns a flat 17M to 24M views every month, with no Christmas spike, from long toddler learning videos (counting, shapes, colours, puzzles) under plain search style titles; its top video has 126M views. Steady learning content is the evergreen base under seasonal songs. Total 2681."
   }
  ],
  "history": [
@@ -20141,6 +20162,10 @@
   {
    "date": "2026-11-19 07:48",
    "total": 2678
+  },
+  {
+   "date": "2026-11-19 07:48",
+   "total": 2681
   }
  ],
  "next_week_ideas": [
