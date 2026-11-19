@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:53:10+05:30",
- "runs": 1267,
+ "updated": "2026-11-19T18:54:07+05:30",
+ "runs": 1268,
  "branches": [
   {
    "id": "platforms",
@@ -8077,6 +8077,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1262
+    },
+    {
+     "t": "Morphle TV kept sliding: about 8.7M views in the 28 days to 19 Nov 2026 (down from about 15M a month in October) despite 23 new uploads, and its 17 Nov 'Morphle vs. T-Rex time machine rescue' episode had only about 3K views after a day and a half, so posting almost daily cannot revive a tired 3D cartoon brand without a fresh hook.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1268
+    },
+    {
+     "t": "Morphle's newest titles still stack two kid magnets (a dinosaur plus a rescue or time machine) yet barely move, while its all time hits are emotion and transformation moments from 2022, a sign that title keywords alone stopped working for big legacy channels and new characters or formats are what audiences respond to now.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1268
     }
    ]
   },
@@ -22908,12 +22922,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:58",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 15:59",
-   "note": "Run 1189 (TRENDS (Japanese school kids' trends)): Nothing new: Shogakukan's 2025 school kids survey (AI hybrid animal memes, the ninja run dance, YouTuber dream jobs) was already in the tree, and no 2026 edition is out yet (last year's came on 26 Nov). No leaves added. Total 3146."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 15:59",
@@ -23226,6 +23236,10 @@
   {
    "date": "2026-11-19 18:53",
    "note": "Run 1267 (other platforms (Netflix top 10, taken in place of markets because the run formula never reaches this focus)): Small: Doozie's Doghouse, Danny Go!, Sing and A Dog's Perfect Christmas were already in the tree; added the animated Grinch still charting in week 9 and the weak English Christmas film slate versus a strong Swedish one. Total 3259."
+  },
+  {
+   "date": "2026-11-19 18:54",
+   "note": "Run 1268 (competitor deep dive (Bounce Patrol, Morphle, Jack Hartmann)): Small: Bounce Patrol and Moonbug linear facts were already in the tree and Jack Hartmann's stats pages were blocked; new: Morphle fell to about 8.7M views in 28 days despite 23 uploads, with a dinosaur rescue episode at 3K views, showing frequent posting cannot save a tired brand. Total 3261."
   }
  ],
  "history": [
@@ -23236,10 +23250,6 @@
   {
    "date": "2026-11-19 10:02",
    "total": 2824
-  },
-  {
-   "date": "2026-11-19 10:03",
-   "total": 2828
   },
   {
    "date": "2026-11-19 10:04",
@@ -24428,6 +24438,10 @@
   {
    "date": "2026-11-19 18:53",
    "total": 3259
+  },
+  {
+   "date": "2026-11-19 18:54",
+   "total": 3261
   }
  ],
  "next_week_ideas": [
