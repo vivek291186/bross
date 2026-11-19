@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:02:50+05:30",
- "runs": 930,
+ "updated": "2026-11-19T08:03:32+05:30",
+ "runs": 931,
  "branches": [
   {
    "id": "platforms",
@@ -19102,6 +19102,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 925
+    },
+    {
+     "t": "B&T's TikTok trends for early November 2026 include clips of a partner or family member breaking into an unprompted, slightly silly dance in the kitchen to a catchy sound, a warm family friendly format we can copy with a Bro who cannot resist dancing to our own song while doing a chore.",
+     "src": "B&T, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 931
+    },
+    {
+     "t": "A costume reveal format ran in late October 2026 where the camera starts on someone's feet and tilts up with each beat to reveal the full outfit; for December the same move works for a winter outfit or Christmas jumper reveal of a Bro, with the camera rising in four beats to his smiling face.",
+     "src": "B&T, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 931
+    },
+    {
+     "t": "Another early November 2026 TikTok format has creators asking their mum a deliberately silly question with a straight face and filming the confused or outraged reaction; a kid safe version is Little Bro asking Big Bro a silly winter question ('Do snowmen get cold?') and a funny reaction before the song starts.",
+     "src": "B&T, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 931
     }
    ]
   }
@@ -19130,10 +19151,6 @@
   {
    "date": "2026-11-16 22:55",
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 04:52",
-   "note": "Run 852 (TRENDS (Kapwing December 2025 recap for repeats, Virlo late Oct list)): Most of Virlo's late October list (costume loading, paparazzi bow, rock paper scissors) was already in the tree. From Kapwing's December 2025 recap, likely December repeats: a minimal hand groove dance ('Ace Up'), the 'Horses in the Stable' fake simple routine that turns into a gallop on the drop, the Brenda Lee Christmas audio for decorating and wrapping, and a 'lock in' goals push into the New Year. Added a hand groove entry to the trend bank and dropped 'Baby turns the pages'. Total 2524."
   },
   {
    "date": "2026-11-19 04:53",
@@ -19446,6 +19463,10 @@
   {
    "date": "2026-11-19 08:02",
    "note": "Run 930 (visual craft (thumbnail study rechecked; Kidscreen Awards 2026 winners)): The vidIQ thumbnail study was already in the tree. From the 2026 Kidscreen Awards: the best preschool YouTube channel went to a hit Australian dog family brand's channel, the best kids YouTube channel to a wildlife and conservation brand (Earth Rangers), and the preschool animation prizes to bold, graphic 2D style shows, while a stop motion studio's special won for Christmas carols, so craft and a clear look win the industry's top prizes. Total 2719."
+  },
+  {
+   "date": "2026-11-19 08:03",
+   "note": "Run 931 (TRENDS (B&T's November TikTok list, Feet to face reveal, kitchen dances)): B&T's 2 Nov TikTok list adds family friendly formats not in the bank: people filming a partner or family member breaking into an unprompted 'kitchen performance' dance, a straight faced question to mum that sparks a funny reaction, and a camera that starts at the feet and rises on the beat to reveal a costume. Added 'Unprompted kitchen dance' to the trend bank. Total 2722."
   }
  ],
  "history": [
@@ -20504,6 +20525,10 @@
   {
    "date": "2026-11-19 08:02",
    "total": 2719
+  },
+  {
+   "date": "2026-11-19 08:03",
+   "total": 2722
   }
  ],
  "next_week_ideas": [
@@ -20576,6 +20601,12 @@
    "where": "Instagram Reels (Thanksgiving turkey boards, week of 13 Nov 2026)",
    "status": "seasonal",
    "use": "Top down Short for Thanksgiving week: to our own counting song, the Bros' hands place apple slices, grapes and banana pieces one layer at a time until a turkey appears, then cut to the Bros waving next to it. Meshy prompt for the end shot: a boy stands, waves with one hand, then points down at a plate and gives a thumbs up."
+  },
+  {
+   "name": "Unprompted kitchen dance",
+   "where": "TikTok and Reels (dancing partners and family members in the kitchen, Oct to Nov 2026)",
+   "status": "rising",
+   "use": "Short: Big Bro is quietly pouring cereal, our own song starts on a radio, and he cannot help it: a small shoulder bounce grows into a full silly dance while Little Bro films and giggles, then joins in for the last four counts. Meshy prompt: a boy stands still, starts bouncing his shoulders to the beat, then sways his hips side to side and waves both arms above his head, staying in place."
   },
   {
    "name": "Pet reacts to our song",
@@ -20678,12 +20709,6 @@
    "where": "US TV and social feeds on 26 Nov 2026 (100th Macy's Thanksgiving Day Parade, seasonal)",
    "status": "seasonal",
    "use": "Post on 25 to 26 Nov a Bro Bros parade song with our own giant balloons (a smiling sun, a rainbow whale, a drum) floating down a toy town street while the brothers and friends march and wave below; each verse a new balloon appears and kids shout its colour. Meshy motion: standing march in place with high knees, big two hand waves overhead, then pointing up at the sky."
-  },
-  {
-   "name": "Twelve day countdown",
-   "where": "Apple TV holiday special and family Reels and Shorts (December, seasonal)",
-   "status": "seasonal",
-   "use": "Run a 12 day Shorts and Reels series from 13 to 24 Dec: each day the brothers unwrap one new winter 'gift' (a snowflake, a drum, a sledge) and add one new dance move, building a counting chorus in our own melody (never the traditional tune's lyrics); day 12 shows all twelve moves in one wide shot. Meshy motion per day: standing, one simple added move such as clap, star jump arms only, march in place, spin with arms out."
   }
  ],
  "posting_plan": {
