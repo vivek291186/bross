@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:51:59+05:30",
- "runs": 1397,
+ "updated": "2026-11-20T01:52:37+05:30",
+ "runs": 1398,
  "branches": [
   {
    "id": "platforms",
@@ -24091,12 +24091,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 20:45",
-   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
-  },
-  {
    "date": "2026-11-19 20:46",
-   "note": "Run 1319 (rules and monetisation (AI kids content scrutiny)): The New York Times found over 40% of Shorts recommended after a CoComelon or Wheels on the Bus video were AI made (warped faces, garbled text, all under 30 seconds); YouTube removed the five cited channels from the Partner Program and YouTube Kids. Other rules checks (Disney COPPA case, YouTube Kids filters, Digital Fairness Act) were already in the tree. Total 3311."
+   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 20:46",
@@ -24409,6 +24405,10 @@
   {
    "date": "2026-11-20 01:51",
    "note": "Run 1397 (music craft recheck): Nothing new: the 2026 Verona rhythm training study (rhythm and self control gains, no vocabulary gain) and the infant movement studies were already in the tree; two duplicate leaves added by mistake were merged back out. Chrome not available. Total 3428."
+  },
+  {
+   "date": "2026-11-20 01:52",
+   "note": "Run 1398 (posting times recheck (visual craft skipped, thumbnail and pacing sources already in the tree)): Nothing new: Metricool's model for 20 to 26 Nov still peaks YouTube at 16:00 IST (Wednesday about 12.0K, Thursday about 12.0K) and Instagram at 10:00 IST, with weekends about half of weekdays; posting plan unchanged. No leaves added. Chrome not available. Total 3428."
   }
  ],
  "history": [
@@ -25270,6 +25270,10 @@
   },
   {
    "date": "2026-11-20 01:51",
+   "total": 3428
+  },
+  {
+   "date": "2026-11-20 01:52",
    "total": 3428
   }
  ],
