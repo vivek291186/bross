@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:50:50+05:30",
- "runs": 1113,
+ "updated": "2026-11-19T14:51:28+05:30",
+ "runs": 1114,
  "branches": [
   {
    "id": "platforms",
@@ -4234,6 +4234,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1103
+    },
+    {
+     "t": "YouTube's overall US trending list on 18 Nov 2026 held only long videos and has shown no Shorts since mid October 2026, while family Shorts (a dad calming a crying toddler, a Christmas tree lighting clip) appeared only inside category charts, so trending lists are not a realistic discovery route for a kids Short.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1114
     }
    ]
   },
@@ -21636,6 +21643,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1111
+    },
+    {
+     "t": "On 18 Nov 2026 a long 'Top Christmas Songs of All Time' playlist video entered YouTube's US popular chart at No. 4, the only holiday entry among games, trailers and K-pop, confirming that families switched to Christmas listening in the third week of November; its title already says '2027' to look fresh all season.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1114
+    },
+    {
+     "t": "A pop star's new Christmas version of her own song was No. 5 on YouTube's US Music chart on 18 Nov 2026, another sign that artists release fresh holiday versions in mid November; Bro Bros can do the same with a 'Christmas version' of our best performing song (sleigh bells, a snow scene, same dance) instead of only brand new carols.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1114
     }
    ]
   }
@@ -21663,11 +21684,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1034 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:51",
-   "note": "Run 1035 (TRENDS (TikTok daily trend tracker and sound chart, 18 Nov)): Revid's 18 Nov TikTok sample shows Education as the only big category growing in share (+90%) while singing and dancing fell 71%, with Roblox and Minecraft hashtags rising and a Grinch Christmas clip passing 1.4M views in a day. Soundcharts' worldwide TikTok chart has the traditional Mexican birthday song in its top 11, a reminder that birthday songs are evergreen; added a Bro Bros birthday song idea. Total 2952."
+   "note": "Earlier: older log entries summarised; runs up to Run 1035 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:52",
@@ -21980,6 +21997,10 @@
   {
    "date": "2026-11-19 14:50",
    "note": "Run 1113 (competitor deep dive (small toddler learning channels: Mayta the Brown Bear, Boey Bear, a 3D rhymes channel)): Lalafun and Bounce Patrol rechecks added nothing. New: mid size toddler learning channels (about 200K subscribers) live on roughly 0.9M to 1.1M views a month and a few thousand new subscribers, and one had its biggest December day on Christmas Day; a 3D nursery rhyme channel that stopped uploading after 28 long videos sits flat at 460K. Total 3081."
+  },
+  {
+   "date": "2026-11-19 14:51",
+   "note": "Run 1114 (TRENDS (US daily trending and chart climbers, 18 Nov)): New: a long Christmas songs playlist titled with next year ('Best Christmas Music 2027') entered YouTube's US popular chart at No. 4 on 18 Nov, and the overall US trending list has carried no Shorts since mid October; the rest of the chart is games, trailers and K-pop. Total 3084."
   }
  ],
  "history": [
@@ -23022,9 +23043,17 @@
   {
    "date": "2026-11-19 14:50",
    "total": 3081
+  },
+  {
+   "date": "2026-11-19 14:51",
+   "total": 3084
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Christmas Version! (Our Top Song Goes Jingle)",
+   "why": "Artists are releasing Christmas versions of their own hits in mid November 2026 (one sat at No. 5 on the US music chart on 18 Nov); re-sing our best Bro Bros song with sleigh bells, a snowy set and Santa hats, keeping the same dance so kids recognise it."
+  },
   {
    "title": "Bundle Up, Bros! (Winter Clothes Dance Song)",
    "why": "Kidshire's winter clothes word Short added about 106M views in two weeks (to 18 Nov 2026); each verse puts on one item (hat, scarf, mittens, boots, coat) with a standing dance move (pull hat down, wrap scarf twice, clap mittens, stomp boots, zip coat), ending with a snowball cheer."
@@ -23076,10 +23105,6 @@
   {
    "title": "Ten, Nine, Happy New Year, Bros! (Early Countdown Song)",
    "why": "Parents search every 31 Dec for early 'fake midnight' countdowns young kids can watch before bedtime (already in the tree); a 2 to 3 minute song that counts down from ten with a balloon popping on each number, gentle confetti and a calm goodnight ending can be started at any time, in any time zone."
-  },
-  {
-   "title": "Stack It Up, Make It Glow! (Singing Blocks Colour Song)",
-   "why": "Light up, sound making bricks top this Christmas's toy trends (Which?, 17 Nov); each block the Bros stack glows a colour and sings its name, an original counting and colours song with a simple stack and reach up move for Meshy."
   }
  ],
  "trend_bank": [
