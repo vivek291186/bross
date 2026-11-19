@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:38:35+05:30",
- "runs": 1388,
+ "updated": "2026-11-20T01:39:32+05:30",
+ "runs": 1389,
  "branches": [
   {
    "id": "platforms",
@@ -8322,6 +8322,34 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1385
+    },
+    {
+     "t": "Dave and Ava's views are still growing even with flat subscribers: October 2026 brought about 46.9M views against 38.8M in October 2025 (about 21% more) while it uploads about five videos a week, so a big back catalogue plus steady uploads keeps a 3D nursery channel rising through search and suggested views.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1389
+    },
+    {
+     "t": "Dave and Ava's newest upload (16 Nov 2026) is a sequel title, 'The Wheels on the Bus Part 2', reusing its best known song with a new animal theme; it had about 17K views in its first day and a half, a sign that 'Part 2' versions of a proven song are a cheap way to reuse a winning search title.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1389
+    },
+    {
+     "t": "Mother Goose Club is shrinking while uploading only about 1.5 videos a week: October 2026 views were about 21M, roughly 38% below October 2025, and its 12 Nov Thanksgiving greeting had only about 20K views after five days; low upload frequency plus live action nursery content is losing ground to animated channels.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1389
+    },
+    {
+     "t": "As of 18 Nov 2026 neither Dave and Ava nor Mother Goose Club had a new Christmas video among their recent uploads, so in mid November the Christmas search space is still open for a fresh Bro Bros Christmas song uploaded now.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1389
     }
    ]
   },
@@ -23962,10 +23990,6 @@
    "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
-   "date": "2026-11-19 19:51",
-   "note": "Run 1310 (playbook and ideas update (evidence from this run)): No new leaves; applied this run's evidence: the thumbnail rule in the playbook now says to check Metricool for the 'Could not upload video thumbnail' warning after each upload, and 'Abracadabra, Tidy Up!' (magic word clean up song riding the late November magic film buzz) replaced the evergreen sharing song in next week's ideas. Total 3281."
-  },
-  {
    "date": "2026-11-19 20:36",
    "note": "Run 1311 (Shorts and Reels formats and Reels algorithm (reach recheck)): Small: Socialinsider's Jan 2025 to Aug 2026 data puts average Instagram reach rate down 14% year on year, with carousels (4.5%) slightly ahead of Reels (4.1%) and images (4.0%); Edits auto beat markers help cut Reels on our song beats; benchmark each Short against our own Shorts of the same length band. Total 3284."
   },
@@ -24276,6 +24300,10 @@
   {
    "date": "2026-11-20 01:38",
    "note": "Run 1388 (global markets (Argentina, Colombia, Saudi Arabia)): Argentine 6 to 9 year olds still watch most on the family TV, love a local educational hero next to Peppa and Bluey and follow Spanish speaking family creators; Colombia's regulator finds 63% of minors watch without an adult; Saudi children spend about 38% of Android app time on YouTube. Bangladesh study page could not be read. Chrome not available. Total 3409."
+  },
+  {
+   "date": "2026-11-20 01:39",
+   "note": "Run 1389 (competitor deep dive (Dave and Ava, Mother Goose Club)): Dave and Ava's views grew about 21% year on year with five uploads a week and a 'Part 2' sequel of its bus song, while Mother Goose Club, at 1.5 uploads a week, fell about 38%; neither had a Christmas upload by 18 Nov. Little Treehouse stats could not be read. Chrome not available. Total 3413."
   }
  ],
  "history": [
@@ -25102,6 +25130,10 @@
   {
    "date": "2026-11-20 01:38",
    "total": 3409
+  },
+  {
+   "date": "2026-11-20 01:39",
+   "total": 3413
   }
  ],
  "next_week_ideas": [
