@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:40:00+05:30",
- "runs": 1146,
+ "updated": "2026-11-19T15:40:34+05:30",
+ "runs": 1147,
  "branches": [
   {
    "id": "platforms",
@@ -21783,6 +21783,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1129
+    },
+    {
+     "t": "Short AI made story songs are a live TikTok format: a 30 second Suno song about a family member left to clean up after hosting Thanksgiving for 20 people reached about 225K views and 3,500 comments within two weeks (Daily Dot, 17 Nov 2026), so a 30 second Bros song about everyone helping clear the table after a big holiday meal fits what families are already sharing this month.",
+     "src": "Daily Dot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1147
     }
    ]
   }
@@ -21809,12 +21816,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 12:51",
-   "note": "Earlier: older log entries summarised; runs up to Run 1067 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:51",
-   "note": "Run 1068 (TRENDS (Thanksgiving and Black Friday toy lists)): Nothing new: the gratitude tablecloth, turkey songs in the iTunes kids chart, and the Amazon, Macy's and Toy Insider 2026 toy lists were already in the tree and trend bank. No leaves added. Total 2996."
+   "date": "2026-11-19 12:52",
+   "note": "Earlier: older log entries summarised; runs up to Run 1068 covered all focus areas."
   },
   {
    "date": "2026-11-19 12:52",
@@ -22127,6 +22130,10 @@
   {
    "date": "2026-11-19 15:40",
    "note": "Run 1146 (visual craft (automatic lip sync tools for Blender)): New: two Blender add ons make singing mouths automatic from the song audio: LipKit (Rhubarb engine, 9 mouth shapes A to H plus rest, one controller per character) and LipSync Studio (9.99 USD, Rhubarb, Whisper or Vosk engines, auto blink, tested on Blender 5.1 and 5.2, works with shape keys or a jaw bone). Neither promises sung vocals, so feed it the clean vocal track and check long notes by hand. Total 3102."
+  },
+  {
+   "date": "2026-11-19 15:40",
+   "note": "Run 1147 (TRENDS (holiday dance and Thanksgiving searches)): One small addition: 30 second Suno made 'song about my family's holiday' posts are a live TikTok format (one about helping clean up after the Thanksgiving meal had about 225K views, 17 Nov 2026), which supports short clean up and helping songs for the holiday weeks. No new holiday dance found (iChristmas and Charlie Brown dance pages were undated or already known). Total 3103."
   }
  ],
  "history": [
@@ -23301,6 +23308,10 @@
   {
    "date": "2026-11-19 15:40",
    "total": 3102
+  },
+  {
+   "date": "2026-11-19 15:40",
+   "total": 3103
   }
  ],
  "next_week_ideas": [
