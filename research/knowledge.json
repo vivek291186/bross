@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:53:31+05:30",
- "runs": 1230,
+ "updated": "2026-11-19T16:54:12+05:30",
+ "runs": 1231,
  "branches": [
   {
    "id": "platforms",
@@ -13033,6 +13033,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1226
+    },
+    {
+     "t": "Computer Science Education Week 2026 runs 7 to 13 December (kickoff 5 Dec), the week schools run Hour of Code and Hour of AI lessons with no prep activities for any teacher, so a Bro Bros song where one brother is a robot and the other 'codes' him with simple commands (step forward, turn, jump, wave) is a classroom ready sequencing game that week.",
+     "src": "csedweek.org, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1231
     }
    ]
   },
@@ -22362,12 +22369,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:43",
-   "note": "Earlier: older log entries summarised; runs up to Run 1151 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:43",
-   "note": "Run 1152 (YouTube main and Kids movers (own results skipped, checked at 15:40; US education growth list)): New: in ChannelCrawler's May 2026 list of fastest growing US education channels, three of the top 10 were for kids: CoComelon (+1M subscribers in 30 days), Twin Twin (twin sisters' story and life lesson videos, +650K, up 19%) and SparkleToon (crafts and manners, +400K, up 11%), more evidence that a fixed duo plus a small life lesson grows fastest. Total 3116."
+   "date": "2026-11-19 15:44",
+   "note": "Earlier: older log entries summarised; runs up to Run 1152 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:44",
@@ -22680,13 +22683,13 @@
   {
    "date": "2026-11-19 16:53",
    "note": "Run 1230 (visual craft (render and export settings for YouTube)): New: YouTube's official upload guidance says to keep the render's own frame rate (24, 25, 30, 48, 50 or 60) and suggests H.264 MP4 with Fast Start at about 8 Mbps for 1080p30 or 35 to 45 Mbps for 4K30, with AAC stereo audio at 48 kHz and 384 kbps, a ready Blender export preset for every Bro Bros video. Total 3181."
+  },
+  {
+   "date": "2026-11-19 16:54",
+   "note": "Run 1231 (topics and seasons (Computer Science Education Week, 7 to 13 Dec)): New: Computer Science Education Week 2026 runs 7 to 13 Dec, when classrooms worldwide do Hour of Code style no prep activities; a 'robot follows the code' dance song (step, turn, jump as commands) fits that week and teaches sequencing. Added as a song idea. Total 3182."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 08:03",
-   "total": 2722
-  },
   {
    "date": "2026-11-19 08:09",
    "total": 2724
@@ -23882,9 +23885,17 @@
   {
    "date": "2026-11-19 16:53",
    "total": 3181
+  },
+  {
+   "date": "2026-11-19 16:54",
+   "total": 3182
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Robot Bro, Follow the Code! (Sequencing Dance Game)",
+   "why": "One brother calls simple commands (step forward, turn around, arms up, jump) and Robot Bro does them in order, then kids join in; post it on 5 Dec ahead of Computer Science Education Week (7 to 13 Dec) when classrooms everywhere run coding activities. Standing, in place moves suit Meshy."
+  },
   {
    "title": "Thank You, Mum! (Paper Flower Song)",
    "why": "An original song where the Bros make a paper flower and a card for Mum, with heart hands and hug moves kids can perform; post it around 20 Dec for Indonesia's Hari Ibu (22 Dec, a top kids market) with Indonesian subtitles, then reuse it for Mother's Day in the Arab world (21 Mar), the UK (Mar) and the US and India (May)."
@@ -23916,10 +23927,6 @@
   {
    "title": "My Turn, Your Turn! (Sharing Toys Song)",
    "why": "NuNu Tv's 'I Want That, Share It Please' has 270M views; a Bro Bros version where the brothers both want one toy, then take turns and play together, is a universal toddler moment parents look for."
-  },
-  {
-   "title": "Slow, Fast, Super Fast! (Conductor Bro Tempo Game)",
-   "why": "Toddlers dance faster when the same song speeds up and smile most to a song they know (Developmental Psychology 2022), and PBS lists 'follow the conductor's speed' and 'fast then slow' as self regulation games; Big Bro waves a baton, the chorus plays slow, then faster, then super fast, then freeze, with simple standing moves (march, clap, hop, wiggle) that work in any language."
   },
   {
    "title": "Snowy Day Obstacle Course! (Jump, Stomp, Hop! Winter Action Song)",
