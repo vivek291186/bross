@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:37:00+05:30",
- "runs": 1346,
+ "updated": "2026-11-19T22:38:24+05:30",
+ "runs": 1347,
  "branches": [
   {
    "id": "platforms",
@@ -23594,12 +23594,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:53",
-   "note": "Earlier: older log entries summarised (runs up to 1267); details are in git history."
-  },
-  {
    "date": "2026-11-19 18:54",
-   "note": "Run 1268 (competitor deep dive (Bounce Patrol, Morphle, Jack Hartmann)): Small: Bounce Patrol and Moonbug linear facts were already in the tree and Jack Hartmann's stats pages were blocked; new: Morphle fell to about 8.7M views in 28 days despite 23 uploads, with a dinosaur rescue episode at 3K views, showing frequent posting cannot save a tired brand. Total 3261."
+   "note": "Earlier: older log entries summarised (runs up to 1268); details are in git history."
   },
   {
    "date": "2026-11-19 18:55",
@@ -23912,13 +23908,13 @@
   {
    "date": "2026-11-19 22:37",
    "note": "Run 1346 (YouTube algorithm (Creator Insider recheck)): Mostly covered already; added that signal weights differ by device (time on TV, likes on phones), a tested cap of eight recommendations per viewer per video, and the one channel versus two channels rule. Shorts 30 day freshness and in depth claims were old or unsourced. Chrome not available. Total 3357."
+  },
+  {
+   "date": "2026-11-19 22:38",
+   "note": "Run 1347 (Shorts and Reels recheck): Nothing new: Instagram Features and clips as Reels, Instagram for TV, the 3 minute Reels recommendation limit, Shorts Series, TV remote comments and microdrama TV growth were all already in the tree. No leaves added. Chrome not available. Total 3357."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:58",
-   "total": 2969
-  },
   {
    "date": "2026-11-19 11:58",
    "total": 2969
@@ -25113,6 +25109,10 @@
   },
   {
    "date": "2026-11-19 22:37",
+   "total": 3357
+  },
+  {
+   "date": "2026-11-19 22:38",
    "total": 3357
   }
  ],
