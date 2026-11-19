@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:42:19+05:30",
- "runs": 1150,
+ "updated": "2026-11-19T15:42:54+05:30",
+ "runs": 1151,
  "branches": [
   {
    "id": "platforms",
@@ -16855,6 +16855,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1136
+    },
+    {
+     "t": "UK broadcast rules (Ofcom flashing images guidance, followed in Japan too) fail any sequence with more than three flashes in one second covering over a quarter of the screen, treat any sudden change to or from saturated red as harmful whatever its brightness, and say flashing that lasts longer than 5 seconds can be risky even inside the limits, so Bro Bros fireworks, disco lights and star sparkles should pulse at most 3 times a second, stay small on screen and avoid full screen red flashes.",
+     "src": "Ofcom flashing images guidance",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1151
+    },
+    {
+     "t": "The same guidance treats regular striped patterns with more than five light and dark pairs as risky (still stripes over 40% of the screen, or moving, flickering stripes over 25%), while stripes that flow smoothly in one direction are fine, so striped backgrounds, zebra crossings and candy cane walls should be kept small or scroll smoothly rather than flicker.",
+     "src": "Ofcom flashing images guidance",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1151
+    },
+    {
+     "t": "Photosensitive epilepsy affects roughly 1 in 4,000 people and became a children's TV issue after a 1997 Japanese cartoon's bright red flashes sent hundreds of children to hospital; US broadcasters and online platforms do not pre test for it, so a kids channel has to check its own flashy scenes, which also keeps them ready for TV or streaming sales later.",
+     "src": "KitPlus (Cel-Soft), 2013",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1151
     }
    ]
   },
@@ -21873,11 +21894,7 @@
  "log": [
   {
    "date": "2026-11-19 12:54",
-   "note": "Earlier: older log entries summarised; runs up to Run 1071 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:54",
-   "note": "Run 1072 (music craft (iTunes kids songs and Billboard Kid Albums rechecked)): Nothing new: the iTunes kids chart is still led by gentle faith and comfort songs, Danny Go! movement songs (Candy Cane Crush, Burning Energy) and Thanksgiving novelty songs, all already in the tree. No leaves added. Total 2996."
+   "note": "Earlier: older log entries summarised; runs up to Run 1072 covered all focus areas."
   },
   {
    "date": "2026-11-19 12:54",
@@ -22190,6 +22207,10 @@
   {
    "date": "2026-11-19 15:42",
    "note": "Run 1150 (TRENDS (kid language and words of the year)): New: Oxford's Children's Word of the Year (Jan 2026, almost 5,000 UK children aged 6 to 14) was 'peace' (35%) ahead of 'AI' (33%) and 'resilience' (21%), with 'six seven' the top slang (47%), so gentle songs about peace, friendship and trying again speak to what children themselves name, while slang stays something kids own and we should not chase. Total 3111."
+  },
+  {
+   "date": "2026-11-19 15:42",
+   "note": "Run 1151 (rules and safety (flashing light rules for animation)): Filled a safety gap: broadcast flashing rules (Ofcom, also used in Japan) ban more than three flashes a second over a quarter of the screen, treat any jump to or from saturated red as risky and limit striped patterns; online video has no legal test, but our New Year fireworks, disco lights and sparkle effects should follow the same limits since broadcasters and YouTube Kids buyers check for them. Total 3114."
   }
  ],
  "history": [
@@ -23380,6 +23401,10 @@
   {
    "date": "2026-11-19 15:42",
    "total": 3111
+  },
+  {
+   "date": "2026-11-19 15:42",
+   "total": 3114
   }
  ],
  "next_week_ideas": [
