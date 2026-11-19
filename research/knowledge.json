@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:42:53+05:30",
- "runs": 860,
+ "updated": "2026-11-19T05:43:45+05:30",
+ "runs": 861,
  "branches": [
   {
    "id": "platforms",
@@ -17954,6 +17954,41 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 858
+    },
+    {
+     "t": "In the week to 17 Nov 2026, 14 of the 25 most viewed YouTube videos worldwide were kids or family videos and 10 of the 25 were Shorts, led by Lalafun's food sharing good manners Short (+83.6M views in the week, posted Jun 2025).",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 861
+    },
+    {
+     "t": "The strongest seasonal riser that week was Kidshire's 'Winter Clothes for Kids' Short (+54.6M views in seven days, posted Mar 2026), a simple picture vocabulary Short naming coats, hats and boots, so winter clothing words are what families are searching right now.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 861
+    },
+    {
+     "t": "Colour play Shorts filled the same weekly chart: KIDZOKI's 'Refill the Truck with Colors' (+26.6M), BiBiLo's 'What happens when colors mix together?' (+8.1M) and an Arabic 'hear the colour and catch it fast' reaction game (+22.9M), so a fast colour game Short is a proven winner across languages.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 861
+    },
+    {
+     "t": "Nine of the ten Shorts in that week's top 25 were posted months or even years earlier (Jun 2025 to Mar 2026), which shows kids Shorts keep finding new viewers long after upload; evergreen learning Shorts are worth more than trend chasing.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 861
+    },
+    {
+     "t": "Shortstrends' 7 day top Shorts list (mid Nov 2026) is led by an Arabic blueberry tasting challenge (64.7M) and Indian sibling and family comedy Shorts (52M, 26M), while MrBeast's 'Unboxing the world's largest toy' (22.7M) is the only toy video, so funny family moments and food challenges lead the non learning side.",
+     "src": "shortstrends.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 861
     }
    ]
   }
@@ -17981,11 +18016,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:39",
-   "note": "Run 783 (Shorts and Reels (length data, Instagram Features, Shorts charts)): Reels length data (45 to 60 s best), Instagram Features, the removal of linked Reels series and Metricool's YouTube study were already in the tree; new: Tubular shows 2 to 5 minute videos gaining view share in 2026 while sub 2 minute views fell, supporting 2 to 3 minute full songs. Total 2350."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:45",
@@ -18298,13 +18329,13 @@
   {
    "date": "2026-11-19 05:42",
    "note": "Run 860 (competitor deep dive (Lellobee's Spanish channels)): Lellobee was new to the tree. Its Latin American Spanish channel (Mexico, 802K subscribers, 264M views, 1,022 videos) has not uploaded since 13 Dec 2025 and now gains only about 0.5M views a month with zero new subscribers, down from about 0.9 to 1.2M early in 2026; a second Spanish Lellobee channel (244K) also shows no uploads. A dubbed side channel that stops getting new videos slowly fades, so our dubs need a steady upload rhythm. Total 2555."
+  },
+  {
+   "date": "2026-11-19 05:43",
+   "note": "Run 861 (TRENDS (worldwide most viewed videos and Shorts, week to 17 Nov 2026)): Trendreport's week to 17 Nov: 14 of the 25 most viewed videos on YouTube were kids or family and 10 were Shorts; the top Short was Lalafun's food sharing manners Short (+83.6M) and the big seasonal riser was Kidshire's 'Winter Clothes for Kids' vocabulary Short (+54.6M in a week). Colour games (refill the truck with colours, mixing colours, an Arabic 'hear the colour and catch it' game) also ranked. Added 'Winter clothes dress up' and 'Hear it, catch it colour game' to the trend bank. Total 2560."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:40",
-   "total": 2055
-  },
   {
    "date": "2026-11-16 16:41",
    "total": 2055
@@ -19500,6 +19531,10 @@
   {
    "date": "2026-11-19 05:42",
    "total": 2555
+  },
+  {
+   "date": "2026-11-19 05:43",
+   "total": 2560
   }
  ],
  "next_week_ideas": [
@@ -19561,6 +19596,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Winter clothes dress up",
+   "where": "YouTube Shorts worldwide (Kidshire's Winter Clothes Short +54.6M in the week to 17 Nov 2026)",
+   "status": "peak",
+   "use": "A 30 second Short where snow starts falling and one Bro shivers; each beat of our own song names one item (hat, scarf, mittens, coat, boots) and it pops onto him with a sparkle, with the word big on screen, until he is warm and does a happy spin; end with 'What do YOU wear in the snow?'. Meshy prompt: standing in place, arms hugging the body and shivering, then arms out to the sides as each item appears, then a small hop and a slow turn on the spot."
+  },
+  {
+   "name": "Hear it, catch it colour game",
+   "where": "YouTube Shorts (Arabic, Indian and US kids channels, mid Nov 2026)",
+   "status": "rising",
+   "use": "A 20 second game Short: our voice sings a colour, five coloured balls fall and the viewer has one beat to shout or point at the right one before a Bro catches it; the tempo speeds up each round. Use our own catchy chant. Meshy prompt: standing in place, both hands reaching up to catch, then a small bounce and a point to the camera."
+  },
   {
    "name": "Disguise the turkey",
    "where": "US schools, Pinterest, Lemon8 and TikTok every November (Thanksgiving 26 Nov 2026)",
@@ -19668,18 +19715,6 @@
    "where": "Parent blogs, Reels and Shorts every winter (seasonal, Dec to Feb)",
    "status": "seasonal",
    "use": "Big snowy day outside, so the brothers and friends have a soft pom pom 'snowball' party in the living room to our own song: on each chorus 'one, two, three, throw!' everyone tosses soft snowballs into a basket, then freezes like snowmen until the music restarts. Meshy motion: standing, underarm throw with the right arm, then a stiff snowman freeze with arms out; no running, no floor moves."
-  },
-  {
-   "name": "Dance with grandpa",
-   "where": "TikTok and Reels, Latin America and worldwide, peaks in family holidays",
-   "status": "evergreen",
-   "use": "A Bro Bros grandpa character visits for Christmas; the brothers teach him a simple dance to our own song, he copies slowly and a bit wrong, then nails the last move and everyone cheers. Meshy motion: standing, slow side sway with hands on hips, then one careful turn in place and a big arms up finish."
-  },
-  {
-   "name": "Four move family Christmas dance",
-   "where": "TikTok, Reels and Shorts every December",
-   "status": "seasonal",
-   "use": "An original Bro Bros Christmas song with exactly four looping moves the whole family can copy: step touch side to side with jingle hands, roll the arms forward, point up to the star, spin once in place with arms out. Meshy motion: standing, step right and left with hands shaking at shoulder height, then arm roll, then one arm points up, then a slow full turn in place."
   }
  ],
  "posting_plan": {
