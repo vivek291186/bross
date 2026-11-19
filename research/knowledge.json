@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:38:46+05:30",
- "runs": 1361,
+ "updated": "2026-11-19T23:39:33+05:30",
+ "runs": 1362,
  "branches": [
   {
    "id": "platforms",
@@ -13677,6 +13677,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1341
+    },
+    {
+     "t": "Friendship bracelet and bead making is back as a kids craft this Christmas through a new Rainbow Loom kit on the 2026 hot toy lists, a simple, global and brand free theme for a pattern and sharing song.",
+     "src": "today.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1362
     }
    ]
   },
@@ -23638,6 +23645,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1359
+    },
+    {
+     "t": "Making things is a big theme in the 2026 holiday toy lists from Amazon, Target, Walmart and The Toy Insider: a rubber band bracelet loom kit, a printer that turns a child's spoken idea into colouring stickers, scented slime kits and a stop motion movie kit all sit beside the licensed toys.",
+     "src": "today.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1362
     }
    ]
   }
@@ -23664,12 +23678,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:36",
-   "note": "Earlier: older log entries summarised (runs up to 1282); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:37",
-   "note": "Run 1283 (YouTube main and Kids (Top 50 week of 15 Nov, rules skipped because rechecked in run 1277)): Nothing new: Tubefilter's 9 to 15 Nov chart (Fitu K Kitu at No. 1, Twin Twin and Nabel Dan Mama new, 42 Shorts channels, 24 from India) and the Farmees, YUM YUM and Rhythm channel profiles were already in the tree; no new YouTube Kids app change found. No leaves added. Total 3271."
+   "note": "Earlier: older log entries summarised (runs up to 1283); details are in git history."
   },
   {
    "date": "2026-11-19 19:38",
@@ -23982,13 +23992,13 @@
   {
    "date": "2026-11-19 23:38",
    "note": "Run 1361 (visual craft recheck (Meshy changelog, thumbnails)): Mostly covered: Meshy October models (T2.5, N1, Meshy Edit), thumbnail test studies and the UAL kids TV lab were already in the tree; added Meshy's Semantic Segmentation (head and limbs split) as a helper for new characters. Chrome not available. Total 3367."
+  },
+  {
+   "date": "2026-11-19 23:39",
+   "note": "Run 1362 (TRENDS (holiday toy lists and seasonal)): Toy lists, the Oxford and Dictionary.com words of the year and December holiday calendars were mostly covered; added the 'making things' toy theme (bracelet loom, idea to sticker printer, slime, stop motion) and a new bracelet pattern song idea. Chrome not available. Total 3369."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:48",
-   "total": 2990
-  },
   {
    "date": "2026-11-19 12:49",
    "total": 2992
@@ -25184,9 +25194,17 @@
   {
    "date": "2026-11-19 23:38",
    "total": 3367
+  },
+  {
+   "date": "2026-11-19 23:39",
+   "total": 3369
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Beads in a Row! (Friendship Bracelet Pattern Song)",
+   "why": "Bracelet making is back on the 2026 holiday toy lists; the Bros thread red, blue, red, blue beads and kids shout the next colour, teaching patterns, then each Bro gives his bracelet to a friend. Hands and beads in close up, upper body moves only, so it is easy in Meshy and travels to every country with no words needing translation."
+  },
   {
    "title": "Robot Bro, Follow the Code! (Sequencing Dance Game)",
    "why": "One brother calls simple commands (step forward, turn around, arms up, jump) and Robot Bro does them in order, then kids join in; post it on 5 Dec ahead of Computer Science Education Week (7 to 13 Dec) when classrooms everywhere run coding activities. Standing, in place moves suit Meshy."
@@ -25238,10 +25256,6 @@
   {
    "title": "Ten, Nine, Happy New Year, Bros! (Early Countdown Song)",
    "why": "Parents search every 31 Dec for early 'fake midnight' countdowns young kids can watch before bedtime (already in the tree); a 2 to 3 minute song that counts down from ten with a balloon popping on each number, gentle confetti and a calm goodnight ending can be started at any time, in any time zone."
-  },
-  {
-   "title": "Abracadabra, Tidy Up! (Magic Word Clean Up Song)",
-   "why": "Disney's original magic film opens 25 Nov 2026 tracking 50M to 70M USD over Thanksgiving, so magic and spells will be a playground theme into December; our own invented magic word, finger sprinkle moves and a Blender hard cut where the toys tidy themselves turn a daily routine into a magic trick (no wands, spells or names from any film)."
   }
  ],
  "trend_bank": [
