@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:05:36+05:30",
- "runs": 973,
+ "updated": "2026-11-19T10:06:14+05:30",
+ "runs": 974,
  "branches": [
   {
    "id": "platforms",
@@ -6922,6 +6922,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 968
+    },
+    {
+     "t": "CoComelon's Portuguese channel (Brazil, 4.45M subscribers) earned about 87M views in the 28 days to 18 Nov 2026, but the 19 videos it published in that time brought only about 2.4M of them, so roughly 97% of a mature kids channel's views come from its back catalogue.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 974
+    },
+    {
+     "t": "CoComelon Portuguese's 7 new Shorts in late October to mid November 2026 earned only about 189K views combined, far below its long videos, while its best Short ever ('DIY 1-2-3', Jan 2025) holds 130M, so Shorts hits are rare spikes and most Shorts from big brands now land quietly.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 974
     }
    ]
   },
@@ -13439,6 +13453,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 972
+    },
+    {
+     "t": "In Portuguese, Bebefinn (about 296M views in 28 days to late October) now draws roughly three times CoComelon Portuguese (about 104M in October 2026), so in Brazil a brighter, faster sibling song brand has overtaken the original 3D nursery leader.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 974
     }
    ]
   },
@@ -19920,11 +19941,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 894 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:05",
-   "note": "Run 895 (TRENDS (Inmagic 16 Nov and Later 13 Nov Reels roundups)): Nothing new: every format on both roundups ('it's time' Christmas switch, zoom in hidden message, then and now, Dame Hombro shoulder bounce, 5 stages of, timestamp stories, outfit transition) was already in the tree and trend bank, so the Reels trend wave has not moved since mid November. No leaves added. Total 2632."
+   "note": "Earlier runs summarised: all rounds through Run 895 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:05",
@@ -20237,6 +20254,10 @@
   {
    "date": "2026-11-19 10:05",
    "note": "Run 973 (YouTube algorithm and playbook review (Shorts series rechecked)): Shorts series news was already in the tree (pages unreadable). Playbook updated with two evidence backed additions: lead Reels with a game cue (our 18 Nov data) and seek YouTube Kids app entry through an official partner (made for kids discovery favours big channels; we pass the 1,500 subscriber bar). Total 2832."
+  },
+  {
+   "date": "2026-11-19 10:06",
+   "note": "Run 974 (competitor deep dive (CoComelon Portuguese and sister channels)): CoComelon's Portuguese channel (Brazil, 4.45M) took about 104M views in October 2026, but its 19 uploads of the last 28 days earned only about 2.4M of roughly 87M views, so about 97% came from older videos; its 7 new Shorts got only 189K views in total. Its top video is still a 2022 'Wheels on the Bus' at 703M. Total 2835."
   }
  ],
  "history": [
@@ -20719,6 +20740,10 @@
   {
    "date": "2026-11-19 10:05",
    "total": 2832
+  },
+  {
+   "date": "2026-11-19 10:06",
+   "total": 2835
   }
  ],
  "next_week_ideas": [
