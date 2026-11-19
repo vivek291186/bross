@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:40:26+05:30",
- "runs": 1217,
+ "updated": "2026-11-19T16:41:24+05:30",
+ "runs": 1218,
  "branches": [
   {
    "id": "platforms",
@@ -11514,6 +11514,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1206
+    },
+    {
+     "t": "A Sep 2026 compilation of about 3,200 song video thumbnails and 127 A/B tests (secondary data, sources not broken down) reports tight chin to brow face crops at about 7.6% CTR against 4.3% for full body shots, very high contrast (7:1 or more) beating low contrast by about 38%, and 0 to 3 words working best for browse; for Bro Bros that means close crops of both brothers' big expressions on a plain bright background with at most three words.",
+     "src": "mer.vin, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1218
     }
    ]
   },
@@ -22271,12 +22278,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:02",
-   "note": "Earlier: older log entries summarised; runs up to Run 1138 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:02",
-   "note": "Run 1139 (rules and platform updates (YouTube 8 Nov announcements rechecked)): Nothing new: custom feeds in the top bar, Hype with Jewels expansion (6 Nov) and the brand partnership shelf were already in the tree. No leaves added. Total 3096."
+   "date": "2026-11-19 15:35",
+   "note": "Earlier: older log entries summarised; runs up to Run 1139 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:35",
@@ -22589,13 +22592,13 @@
   {
    "date": "2026-11-19 16:40",
    "note": "Run 1217 (music craft (infant beat and movement studies)): Nothing new: the eLife 79 baby study and the newborn beat finding were already in the tree several times; three duplicate leaves added in this round were removed again. Total 3168."
+  },
+  {
+   "date": "2026-11-19 16:41",
+   "note": "Run 1218 (visual craft (song thumbnails)): Small: a Sep 2026 compilation of 3,200 song video thumbnails and 127 A/B tests (secondary data, low confidence) favours a tight face crop, very high contrast and 0 to 3 words. Parents' dislike of frantic pacing and the infant pitch results were already in the tree. Total 3169."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:53",
-   "total": 2694
-  },
   {
    "date": "2026-11-19 07:54",
    "total": 2697
@@ -23791,6 +23794,10 @@
   {
    "date": "2026-11-19 16:40",
    "total": 3168
+  },
+  {
+   "date": "2026-11-19 16:41",
+   "total": 3169
   }
  ],
  "next_week_ideas": [
