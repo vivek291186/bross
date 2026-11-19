@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:57:10+05:30",
- "runs": 1184,
+ "updated": "2026-11-19T15:57:41+05:30",
+ "runs": 1185,
  "branches": [
   {
    "id": "platforms",
@@ -7783,6 +7783,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1176
+    },
+    {
+     "t": "Scratch Garden (Canada, about 2.34M subscribers, up from 984K in Nov 2023) gains about 30 to 40K subscribers and about 30M views a month with only about six uploads a month; its biggest videos are 'The Floor is Lava!' (35.6M) and numbered freeze dance songs (Dance Freeze Song 5, 31.5M; Dance Freeze Song 4, a clean up version, 30M), so numbered sequels of a movement game, even themed to chores, keep paying off.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1185
+    },
+    {
+     "t": "India's Kids TV (about 31M subscribers, 16.7B views) has had flat subscribers since about October 2025 but still draws 36M to 74M views a month, with its best month in January 2026 (about 74M) and its lowest in October 2026, another sign that toddler song viewing peaks in the winter holiday months and that view totals matter more than subscriber growth for a mature song library.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1185
     }
    ]
   },
@@ -22096,12 +22110,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 14:44",
-   "note": "Earlier: older log entries summarised; runs up to Run 1105 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:44",
-   "note": "Run 1106 (YouTube algorithm (AIR monthly tracker, Beaupre interview, YouTube Kids app rechecked)): Nothing new: AIR's tracker lists no November 2026 change after its 4 Nov update, and October's changes (original Shorts favoured, custom Home feeds, hacked channel pauses, 20 USD payout test, spam cleanup lock) plus the Sep 2026 Beaupre advice and the YouTube Kids app layout were all already in the tree. No leaves added. Total 3065."
+   "date": "2026-11-19 14:46",
+   "note": "Earlier: older log entries summarised; runs up to Run 1106 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:46",
@@ -22414,13 +22424,13 @@
   {
    "date": "2026-11-19 15:57",
    "note": "Run 1184 (global markets (Cambodia gap)): Filled the Cambodia gap: about 10.8M internet users and YouTube is the country's main music platform, but Khmer kids content is small (Kids Planet Khmer, a dubbed story channel with 478K subscribers, gets under 1M views a month and about 135 USD), so Cambodia is a market for later through English songs, not a priority dub. Total 3143."
+  },
+  {
+   "date": "2026-11-19 15:57",
+   "note": "Run 1185 (competitor deep dive (Scratch Garden, Kids TV India)): New: Scratch Garden (Canada, 2.34M subscribers) more than doubled since Nov 2023 and earns about 30M views a month from numbered freeze dance songs (Dance Freeze Song 4 and 5 about 30M each) and The Floor is Lava (35.6M), a third channel confirming that numbered movement game songs win; India's Kids TV (31M subscribers) has had flat subscribers for a year yet still 36M to 74M monthly views, peaking in January. Total 3145."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 06:59",
-   "total": 2620
-  },
   {
    "date": "2026-11-19 06:59",
    "total": 2623
@@ -23616,6 +23626,10 @@
   {
    "date": "2026-11-19 15:57",
    "total": 3143
+  },
+  {
+   "date": "2026-11-19 15:57",
+   "total": 3145
   }
  ],
  "next_week_ideas": [
