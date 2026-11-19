@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:36:32+05:30",
- "runs": 871,
+ "updated": "2026-11-19T06:37:12+05:30",
+ "runs": 872,
  "branches": [
   {
    "id": "platforms",
@@ -12193,6 +12193,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 860
+    },
+    {
+     "t": "Kedoo Kids, the YouTube network that took on Hasbro's preschool brands in July 2026, runs kids channels in 34 markets and 19 languages (including Spanish, Portuguese, French, German, Italian, Turkish and Arabic) for more than a billion views a month, using single episodes, themed compilations and live streams planned per market, so the biggest players treat each language as its own channel with its own compilations.",
+     "src": "Senal News, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 872
+    },
+    {
+     "t": "In October 2026 Banijay Kids and Family pulled more preschool YouTube channels (Olobob Top and TheSoul's DoodLand, Baby Zoo and Learn Toons) into its own YouTube network and also placed shows on a new free preschool channel, so independent kids song channels like ours now compete with large rights networks and should win on speed, trends and a clear character identity rather than library size.",
+     "src": "Senal News, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 872
+    },
+    {
+     "t": "Animation deals for India in 2026 (for example Animotion's series on ZEE5 KidZ and ZEE's YouTube channels, June 2026) dub kids shows into Hindi plus several regional languages because parents increasingly want local language learning content, which supports Hindi as our first dub and regional Indian languages as a later step.",
+     "src": "TTV News via Pulse, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 872
     }
    ]
   },
@@ -18198,11 +18219,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 793 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 00:53",
-   "note": "Run 794 (YouTube algorithm (recommendation outage lessons, YouTube Kids app, Home feed shifts)): Home feed row cuts, satisfaction ranking and the teen Shorts timers were already in the tree; new: the Feb 2026 two hour recommendation outage showed search ranked evergreen videos keep their views when Browse and Suggested fail. Total 2367."
+   "note": "Earlier runs summarised: all rounds through Run 794 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 00:54",
@@ -18515,6 +18532,10 @@
   {
    "date": "2026-11-19 06:36",
    "note": "Run 871 (TRENDS (weekly Reels audio and TikTok lists, 16 to 18 Nov)): SocialPilot's 17 to 25 Nov Reels list and NewEngen's 16 Nov TikTok list held nothing new for us. New: the 'Talk To Me Doja' trend (since 7 Nov) copies an anime character's nervous dance side by side with the original; it is about a date and uses a pop song, so we skip it, but the side by side 'copy me exactly' split screen is a format we can use with our own dance. Total 2586."
+  },
+  {
+   "date": "2026-11-19 06:37",
+   "note": "Run 872 (global markets (kids YouTube networks and dubbing deals)): Kedoo Kids' YouTube network runs kids brands in 34 markets and 19 languages (Turkish and Arabic among them) for over a billion views a month, Banijay is folding preschool YouTube channels into its owned network and FAST, and India deals keep dubbing kids series into Hindi plus regional languages. Big brands now localise by market with themed compilations and live streams, which confirms our dub order and our compilation plan. Total 2589."
   }
  ],
  "history": [
@@ -19337,6 +19358,10 @@
   {
    "date": "2026-11-19 06:36",
    "total": 2586
+  },
+  {
+   "date": "2026-11-19 06:37",
+   "total": 2589
   }
  ],
  "next_week_ideas": [
