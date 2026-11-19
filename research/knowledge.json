@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:44:29+05:30",
- "runs": 862,
+ "updated": "2026-11-19T05:45:07+05:30",
+ "runs": 863,
  "branches": [
   {
    "id": "platforms",
@@ -14468,6 +14468,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 827
+    },
+    {
+     "t": "Metricool's YouTube data now reaches 16 Nov 2026: 858 views that day with 0 new subscribers (after 1,301 views on 15 Nov), and subscribers have stayed at 2,150 from 14 to 18 Nov, so views hold near 1,000 a day while subscriber growth has stalled.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 863
+    },
+    {
+     "t": "From 13 to 16 Nov our YouTube views averaged about 1,016 a day (1,055, 850, 1,301, 858) against vidIQ's median of about 234 first week views per long video, so our new videos together already beat a typical single upload, but none has broken out yet.",
+     "src": "Metricool and vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 863
     }
    ]
   },
@@ -18051,11 +18065,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:46",
-   "note": "Run 785 (music craft (child music studies, Grammy nominees, Suno and streaming checks)): The 2027 Grammy children's nominees, Suno v6, Baby Shark's Spotify billion and infant movement studies were already in the tree; new: New Zealand's 12 year cohort shows parental singing fades as children age while solo listening rises, so songs for older kids need built in sing along cues. Total 2353."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:46",
@@ -18368,13 +18378,13 @@
   {
    "date": "2026-11-19 05:44",
    "note": "Run 862 (rules and safety (new legal fights over kids' feeds)): Most kids law news was already in the tree. New: on 4 Nov 2026 Meta, Google and TikTok each sued California to block AB 1709 (no personalised feeds or autoplay for under 16s from 1 Jan), Australia's High Court heard challenges to the under 16 ban on 3 and 4 Nov with a ruling months away, and Kenya published an Online Safety Bill on 29 Oct requiring age checks and parental consent for under 18s. The EU Kids Act text would bar under 3s from video platforms entirely and give 3 to 12 year olds only age specific services with recommendations off by default. Total 2565."
+  },
+  {
+   "date": "2026-11-19 05:45",
+   "note": "Run 863 (our own results (Metricool YouTube now to 16 Nov)): Metricool YouTube data now reaches 16 Nov: 858 views that day with no new subscribers, after 1,301 on 15 Nov; subscribers have sat at 2,150 since 14 Nov. Instagram (to 17 Nov) is unchanged: 1 follower and 25 to 130 Reel views a day. Too little new data to change anything. Total 2567."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:41",
-   "total": 2057
-  },
   {
    "date": "2026-11-16 16:42",
    "total": 2059
@@ -19570,6 +19580,10 @@
   {
    "date": "2026-11-19 05:44",
    "total": 2565
+  },
+  {
+   "date": "2026-11-19 05:45",
+   "total": 2567
   }
  ],
  "next_week_ideas": [
