@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:00:58+05:30",
- "runs": 1136,
+ "updated": "2026-11-19T15:01:35+05:30",
+ "runs": 1137,
  "branches": [
   {
    "id": "platforms",
@@ -7671,6 +7671,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1136
+    },
+    {
+     "t": "Toys and Colors' separate Shorts channel (4.7M subscribers, about 1,170 videos) went from about 3 to 6M daily views in late March 2025 to 10 to 19M a day in April (about 357M in 28 days) while posting only about once a week, showing that Shorts channels grow in sudden jumps when one clip catches, not in steady steps.",
+     "src": "vidiq.com, Apr 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1137
     }
    ]
   },
@@ -16752,9 +16759,9 @@
      "run": 1103
     },
     {
-     "t": "vidIQ models Kidshire's ad income at only about 13K USD for 28 days of about 545M views (roughly 0.02 to 0.03 USD per 1,000), so kids Shorts views earn very little; Bro Bros should use Shorts for discovery and subscribers and earn mainly from long videos and compilations.",
+     "t": "vidIQ's newer model puts Kidshire's ad income at only about 13K USD for 28 days of about 545M views (roughly 0.02 to 0.03 USD per 1,000), while its older page model gave a similar Shorts channel (Toys and Colors Shorts, about 357M views a month in Apr 2025) 0.65M to 2M USD a month, so vidIQ income estimates for kids Shorts disagree wildly; the safe lesson is that Shorts pay far less per view than long videos, so Bro Bros should use Shorts for discovery and earn mainly from long videos and compilations.",
      "src": "vidiq.com, Nov 2026",
-     "conf": "medium",
+     "conf": "low",
      "date": "2026-11-19",
      "run": 1136
     }
@@ -21761,11 +21768,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1057 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:45",
-   "note": "Run 1058 (TikTok and other platforms (Netflix kids, Spotify, Roblox rechecked)): Mostly known: Netflix creator shows (Ms Rachel 208M hours in H1, Sheriff Labrador up 784%), Spotify's kids music Wrapped switch and Roblox's egg games were already in the tree. One new point: Netflix's late November holiday slate includes a YouTube creator special built as a 12 games countdown, a format Bro Bros can echo with 12 days of dance games. Total 2987."
+   "note": "Earlier: older log entries summarised; runs up to Run 1058 covered all focus areas."
   },
   {
    "date": "2026-11-19 12:46",
@@ -22078,6 +22081,10 @@
   {
    "date": "2026-11-19 15:00",
    "note": "Run 1136 (competitor deep dive (Kidshire, run in the markets slot because markets ran last round)): New: Kidshire (UAE, started Nov 2024) reached 6.21M subscribers and 15.6B views with only 160 videos, about 545M views in 28 days, yet vidIQ models only about 13K USD of ad income for that month, a sharp reminder that kids Shorts views pay very little. Total 3095."
+  },
+  {
+   "date": "2026-11-19 15:01",
+   "note": "Run 1137 (competitor deep dive (Toys and Colors Shorts checked against Kidshire)): Toys and Colors Shorts jumped from about 3 to 6M to 10 to 19M daily views within a month in spring 2025 (about 357M in 28 days). Its vidIQ income estimate conflicts with the Kidshire one, so last round's Kidshire income leaf was lowered to low confidence and reworded. Total 3096."
   }
  ],
  "history": [
@@ -23212,6 +23219,10 @@
   {
    "date": "2026-11-19 15:00",
    "total": 3095
+  },
+  {
+   "date": "2026-11-19 15:01",
+   "total": 3096
   }
  ],
  "next_week_ideas": [
