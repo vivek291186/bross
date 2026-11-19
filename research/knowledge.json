@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:39:15+05:30",
- "runs": 986,
+ "updated": "2026-11-19T10:40:11+05:30",
+ "runs": 987,
  "branches": [
   {
    "id": "platforms",
@@ -13579,6 +13579,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 979
+    },
+    {
+     "t": "Group dances made of side steps and small hops cross language barriers easily (a Mexican party dance copied by classes in Japan and Korea), so a Bro Bros chorus built on a hop and step pattern that a whole class can copy has the best chance to travel worldwide.",
+     "src": "Tus Buenas Noticias, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 987
     }
    ]
   },
@@ -20089,6 +20096,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 984
+    },
+    {
+     "t": "The 'kangaroo step' line dance, born on Mexican TikTok to a cumbia party song, spread to school groups abroad: Japanese students at a school festival (Jan 2025) and Korean pupils whose class video reached millions of views (May 2026); it is just side steps and small coordinated hops together.",
+     "src": "Tus Buenas Noticias, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 987
+    },
+    {
+     "t": "Brazil's 'Passinho do Jamal' is a 2026 CapCut dance template wave with template uses around 75K to 133K each, showing that in Brazil many dance trends now spread as ready made CapCut templates rather than as raw sounds.",
+     "src": "CapCut Brazil explore page, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 987
     }
    ]
   }
@@ -20116,11 +20137,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 907 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:45",
-   "note": "Run 908 (posting times (Metricool YouTube model unchanged; UK Christmas school holidays, December TV viewing)): Metricool's YouTube model for 20 to 26 Nov still peaks at 16:00 IST (Wed and Thu about 12,000, Sat about 5,900), so no slot change. New: UK schools in England, Wales and Scotland break up on Friday 18 Dec 2026 and return 4 to 6 Jan, and Nielsen measured YouTube's US TV share rising 7% from November to December with Thanksgiving and Christmas days the biggest viewing days of the year. Total 2668."
+   "note": "Earlier runs summarised: all rounds through Run 908 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:46",
@@ -20433,6 +20450,10 @@
   {
    "date": "2026-11-19 10:39",
    "note": "Run 986 (Shorts and Reels algorithm (Instagram teen 13+ default, Reels share of time)): Instagram's 13+ default for under 18 accounts went global in April 2026 and filters strong language, risky stunts and harmful behaviour out of Reels, Explore and search for teens, and teens cannot follow accounts that keep posting such content. Reels take about half of all Instagram time and over 700,000 Reels are sent in DMs every minute. Total 2860."
+  },
+  {
+   "date": "2026-11-19 10:40",
+   "note": "Run 987 (TRENDS (Latin American and school group dances; weekly meme roundups rechecked)): English trend lists were already covered. New: the Mexican 'kangaroo step' group dance (side steps and small hops in time) keeps spreading to schools far away (Japanese students in Jan 2025, Korean pupils with millions of views in May 2026), a proof that a simple hop line dance travels across cultures. Added to the trend bank as evergreen. Total 2863."
   }
  ],
  "history": [
@@ -20967,6 +20988,10 @@
   {
    "date": "2026-11-19 10:39",
    "total": 2860
+  },
+  {
+   "date": "2026-11-19 10:40",
+   "total": 2863
   }
  ],
  "next_week_ideas": [
@@ -21059,6 +21084,12 @@
    "use": "Top down Short for Thanksgiving week: to our own counting song, the Bros' hands place apple slices, grapes and banana pieces one layer at a time until a turkey appears, then cut to the Bros waving next to it. Meshy prompt for the end shot: a boy stands, waves with one hand, then points down at a plate and gives a thumbs up."
   },
   {
+   "name": "Kangaroo hop line",
+   "where": "TikTok, Reels and Shorts school and family groups (Mexico, Japan, Korea)",
+   "status": "evergreen",
+   "use": "The brothers and friends stand in a line and do our own 'Hop Like a Kangaroo' chorus: two side steps right, two side steps left, then three small hops forward and back with hands up like paws. Meshy step: standing, step side to side, then small in place hops with bent arms held in front of the chest."
+  },
+  {
    "name": "Sort it to the beat",
    "where": "YouTube Shorts (toddler colour and fruit sorting game Short at 3.1B, all time top 10, still recommended Nov 2026)",
    "status": "evergreen",
@@ -21141,12 +21172,6 @@
    "where": "TikTok and Instagram Reels, at peak for 17 to 25 Nov 2026 (Pink Floyd 'Time' clip, about 556K TikToks and 467K Reels)",
    "status": "peak",
    "use": "A split or cut Short: 'Baby Bros' (tiny toddler versions of the brothers) do a wobbly dance in the backyard, then a match cut to the big Bros doing the same move in the same spot, stronger and funnier, set to a soft clock tick and our own chorus. Meshy prompt: standing, slow wobbly sway side to side with arms out for balance, then the same sway done strongly with a clap on each side."
-  },
-  {
-   "name": "Gentle helper elf",
-   "where": "TikTok family accounts (kind elf tradition, returns every December)",
-   "status": "seasonal",
-   "use": "A 1 to 24 December Shorts series: a tiny original Bro Bros elf friend moves into a little house on the shelf on 1 December, and every day the Bros wake up to one small kind surprise (a snow drawing, a jingle bell, a note saying 'help a friend today'), then sing a 10 second chorus of our own elf song. Never spying, never a naughty list. Meshy prompt: standing, tiptoe in place with hands together, peek left and right, then a happy jump with arms up."
   }
  ],
  "posting_plan": {
