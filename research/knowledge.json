@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:51:18+05:30",
- "runs": 1325,
+ "updated": "2026-11-19T20:51:51+05:30",
+ "runs": 1326,
  "branches": [
   {
    "id": "platforms",
@@ -23328,12 +23328,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:41",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:42",
-   "note": "Run 1247 (rules (AI labels, COPPA, UK under 16 scope)): Nothing new: Fairplay's AI letter, YouTube's photorealistic only auto labels, the FTC age verification statement and the UK plan that could pull YouTube Kids into the under 16 rules (spring 2027) were already in the tree. No leaves added. Total 3209."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 18:36",
@@ -23646,13 +23642,13 @@
   {
    "date": "2026-11-19 20:51",
    "note": "Run 1325 (music craft (vocabulary songs, Christmas album timing)): An Indonesian kindergarten study (25 children aged 5 to 7, four weeks of daily songs) found concrete nouns and action verbs stick far better than describing words, especially when each word has a gesture; Billboard's Kid Albums chart in early November 2025 already had the jazzy Charlie Brown Christmas album at No. 1. Total 3319."
+  },
+  {
+   "date": "2026-11-19 20:51",
+   "note": "Run 1326 (visual craft (titles, emoji, toon shading)): Nothing new: emoji in titles (vidIQ 128M video study), kids keyword lists, kids songs dominating YouTube's most viewed (Baby Shark about 16.4B) and Blender Studio's toon character workflow were already in the tree. No leaves added. Total 3319."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:44",
-   "total": 2934
-  },
   {
    "date": "2026-11-19 11:45",
    "total": 2938
@@ -24844,6 +24840,10 @@
   {
    "date": "2026-11-19 20:50",
    "total": 3317
+  },
+  {
+   "date": "2026-11-19 20:51",
+   "total": 3319
   },
   {
    "date": "2026-11-19 20:51",
