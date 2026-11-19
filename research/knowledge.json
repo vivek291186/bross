@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:02:11+05:30",
- "runs": 1196,
+ "updated": "2026-11-19T16:02:43+05:30",
+ "runs": 1197,
  "branches": [
   {
    "id": "platforms",
@@ -7811,6 +7811,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1196
+    },
+    {
+     "t": "HooplaKidz (US, about 11.6M subscribers, 6.9B views) gained no subscribers in September or October 2026 yet still added about 53M to 96M views a month from July to October; its top videos are finger family songs (533M and 264M), a 'Zooby zombie family sleeping in the bed' song (210M) and five dancing skeletons on the bus (188M), so gentle, silly monster versions of classic counting songs remain huge.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1197
+    },
+    {
+     "t": "HooplaKidz's separate Hoopla Halloween channel (about 1.9M subscribers, 1.08B views) gains roughly 10M to 18M views in every month of the year, with October 2026 (about 10M) not even its best month and April 2026 its strongest, and its biggest videos are cute skeleton colour and finger family songs (100M to 139M), so friendly skeleton and monster songs are an all year topic for toddlers, not only a Halloween one.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1197
     }
    ]
   },
@@ -22159,12 +22173,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 14:53",
-   "note": "Earlier: older log entries summarised; runs up to Run 1117 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:53",
-   "note": "Run 1118 (YouTube algorithm (made for kids feature limits rechecked)): Nothing new: the made for kids feature list (no end screens, cards, bell or miniplayer) and Hype rules were already in the tree. No leaves added. Total 3087."
+   "date": "2026-11-19 14:54",
+   "note": "Earlier: older log entries summarised; runs up to Run 1118 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:54",
@@ -22477,13 +22487,13 @@
   {
    "date": "2026-11-19 16:02",
    "note": "Run 1196 (global markets (Nigeria: a fast growing new kids channel and local language channels)): New: Nigeria's Moja Magic TV, a small English ABC, phonics and animal sounds channel posting about 50 videos in 28 days (close to our two a day), jumped by 21K subscribers to 38.6K and drew about 46.5M views in 28 days while its long videos have only thousands of views, so Shorts carried it; Nigerian parent guides also recommend Yoruba and Igbo teaching channels and Bino and Fino, a Nigerian brother and sister cartoon. Total 3152."
+  },
+  {
+   "date": "2026-11-19 16:02",
+   "note": "Run 1197 (competitor deep dive (HooplaKidz and its Hoopla Halloween channel)): New: HooplaKidz (11.6M subscribers) still earns about 21M to 60M views a month with flat subscribers, its hits being finger family, zombie family and dancing skeleton songs; its separate Hoopla Halloween channel (1.9M subscribers, about 1.08B views) earns 10M to 18M views every month of the year and its October is not even its best month, so cute, not scary, skeleton songs are watched all year round. Total 3154."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:05",
-   "total": 2636
-  },
   {
    "date": "2026-11-19 07:06",
    "total": 2637
@@ -23679,6 +23689,10 @@
   {
    "date": "2026-11-19 16:02",
    "total": 3152
+  },
+  {
+   "date": "2026-11-19 16:02",
+   "total": 3154
   }
  ],
  "next_week_ideas": [
