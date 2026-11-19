@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:51:14+05:30",
- "runs": 1093,
+ "updated": "2026-11-19T13:56:57+05:30",
+ "runs": 1094,
  "branches": [
   {
    "id": "platforms",
@@ -4143,6 +4143,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1090
+    },
+    {
+     "t": "YouTube's supervised child accounts rolled out from 2 Jul 2026 to the UAE, Saudi Arabia, Oman, Kuwait, Qatar, Bahrain, Jordan, Lebanon, Egypt, Tunisia, Algeria and Iraq (with Turkiye following), so Middle East parents can now hand children a supervised YouTube instead of YouTube Kids, widening the doors through which our songs reach Arabic speaking homes.",
+     "src": "Gulf News, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1094
+    },
+    {
+     "t": "On supervised accounts the strictest level, 'Explore', allows educational videos, tutorials, arts and crafts and dance, while 'Explore More' adds gaming and live streams; clear dance and learning wording in Bro Bros titles, descriptions and playlists keeps our songs inside even the strictest level parents choose.",
+     "src": "Gulf News, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1094
+    },
+    {
+     "t": "Supervised accounts under 18 start with autoplay off, Take a Break and Bedtime reminders on and a Shorts feed timer parents can set to zero (for example in exam season), so in those homes each Bro Bros video must be picked on purpose, which makes clear thumbnails, playlists and a recognisable series name more important than autoplay chains.",
+     "src": "Gulf News, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1094
     }
    ]
   },
@@ -21418,11 +21439,7 @@
  "log": [
   {
    "date": "2026-11-19 11:02",
-   "note": "Earlier: older log entries summarised; runs up to Run 1014 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:02",
-   "note": "Run 1015 (rules and monetisation (Q4 RPM and kids live streams rechecked)): Nothing new: Gyre's live RPM study (December about 2.4 times January, kids and teens live RPM about 3.4 times video, contextual ads only on made for kids) was already in the tree. No leaves added. Total 2908."
+   "note": "Earlier: older log entries summarised; runs up to Run 1015 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:02",
@@ -21735,6 +21752,10 @@
   {
    "date": "2026-11-19 13:51",
    "note": "Run 1093 (topics and seasons (TRENDS and YouTube movers skipped, nothing new in runs 1087 and 1092; holiday play with parents, kids identity charms)): ESA and YouGov's 16 Nov survey found 71% of US kids want parents to play games with them more (81% of 5 to 8 year olds), up from 58% last year, and 60% call family gaming a holiday tradition; a July parent survey found bag charms (Labubu, Jellycat, plush) and creators shaping kids' wish lists. Both back 'play with mum or dad' songs this December. Total 3046."
+  },
+  {
+   "date": "2026-11-19 13:56",
+   "note": "Run 1094 (YouTube algorithm (supervised accounts for preteens in the Middle East and Turkiye)): YouTube's supervised child accounts reached the UAE, Saudi Arabia, Egypt and nine more MENA countries from 2 Jul 2026: parents pick Explore (learning, crafts, dance), Explore More (adds gaming and live) or Most of YouTube, with autoplay off and a Shorts timer that can be set to zero. A dance and learning label keeps Bro Bros inside the strictest level. Added a 'Player Two' song idea from yesterday's games survey. Total 3049."
   }
  ],
  "history": [
@@ -22697,9 +22718,17 @@
   {
    "date": "2026-11-19 13:51",
    "total": 3046
+  },
+  {
+   "date": "2026-11-19 13:56",
+   "total": 3049
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Player Two, Come Play! (Mum and Dad Join the Dance Game Song)",
+   "why": "71% of US kids (81% of 5 to 8 year olds) want parents to play games with them more, up from 58% last year; a game style dance with level up banners where a parent becomes player two fits December family time without naming any real game."
+  },
   {
    "title": "Make a Wish, Shooting Star! (Winter Night Sky Song)",
    "why": "The Geminids peak on 13 to 14 Dec 2026 under a dark sky and the Christmas Eve full moon is a supermoon; a gentle counting song (count the shooting stars, make a wish, spot the big moon) gives a calm bedtime option that every hemisphere and culture can share."
@@ -22751,10 +22780,6 @@
   {
    "title": "Would You Rather, Bros? (Winter Choice Dance Game)",
    "why": "Game titled brain breaks are what growing brands like Danny Go! post; each verse offers two winter moves (skate like a penguin or roll like a snowball) shown side by side so kids pick and copy, easy to dub."
-  },
-  {
-   "title": "Are We There Yet? (Family Road Trip Song)",
-   "why": "Road trip searches rose about 530% on Pinterest; the Bros spot things out of the car window (cows, bridges, a rainbow) in a call and response game that works in any language and on any holiday drive."
   }
  ],
  "trend_bank": [
