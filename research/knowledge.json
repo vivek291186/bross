@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:02:24+05:30",
- "runs": 968,
+ "updated": "2026-11-19T10:03:22+05:30",
+ "runs": 969,
  "branches": [
   {
    "id": "platforms",
@@ -19837,6 +19837,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 963
+    },
+    {
+     "t": "'Stomp to reveal' (stomp or jump on the beat and the scene changes) was a 2026 Instagram Reels transition that still works as an evergreen reveal; Little Bro stomping to turn a plain room into a Christmas room is a ready kid version.",
+     "src": "Nuelink, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 969
+    },
+    {
+     "t": "A black and white to full colour switch ('can you add more colour into my life') was a mid 2026 Reels format; for kids it becomes a colour song Short where each beat paints one object (red apple, blue car, yellow sun) back into colour.",
+     "src": "Nuelink, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 969
+    },
+    {
+     "t": "Last December's family friendly Reels audio formats were calm snowfall and cosy evening scenes, holiday decor and wrapping reveals, and families baking, decorating and dancing in matching Christmas pyjamas, a preview of the formats likely to return from early December 2026.",
+     "src": "Quso, Mar 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 969
     }
    ]
   }
@@ -19864,11 +19885,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 889 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:02",
-   "note": "Run 890 (Shorts and Reels (Reel length evidence)): Socialinsider's 45 to 60 second Reels finding was already in the tree. New, smaller counter evidence: Influencer Marketing Hub's 315 Reel sample found the best engagement per view at 15 to 30 seconds (9.4%) and the worst at 30 to 60 seconds (4.5%), so the 20 to 30 second Short and 45 to 60 second Reel split stays, but our weekly test should compare a 20 second and a 50 second Reel of the same song. Total 2627."
+   "note": "Earlier runs summarised: all rounds through Run 890 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:02",
@@ -20181,6 +20198,10 @@
   {
    "date": "2026-11-19 10:02",
    "note": "Run 968 (competitor deep dive (Bebefinn English and Spanish)): Bebefinn's Spanish channel (18.2M) now draws more monthly views than the English one (37.3M): about 453M against 378M in 28 days, and its views held near 450M to 490M a month all year. Both still ship numbered episode songs (EP222 ballet, EP200 pinata) and the newest English upload got about 247K views in 37 hours. Total 2824."
+  },
+  {
+   "date": "2026-11-19 10:03",
+   "note": "Run 969 (TRENDS (Reels format archives: Nuelink 2026, Quso)): This week's lists were already covered, so the round mined 2026 Reels format archives for evergreen kid safe transitions: 'stomp to reveal' and a black and white to full colour switch, plus last December's calm snowfall and Christmas pyjama dance formats. Replaced the faded '5 stages of' in the trend bank with 'Stomp to reveal'. Total 2827."
   }
  ],
  "history": [
@@ -20643,6 +20664,10 @@
   {
    "date": "2026-11-19 10:02",
    "total": 2824
+  },
+  {
+   "date": "2026-11-19 10:03",
+   "total": 2827
   }
  ],
  "next_week_ideas": [
@@ -20741,6 +20766,12 @@
    "use": "Short: Big Bro is quietly pouring cereal, our own song starts on a radio, and he cannot help it: a small shoulder bounce grows into a full silly dance while Little Bro films and giggles, then joins in for the last four counts. Meshy prompt: a boy stands still, starts bouncing his shoulders to the beat, then sways his hips side to side and waves both arms above his head, staying in place."
   },
   {
+   "name": "Stomp to reveal",
+   "where": "Instagram Reels (stomp or jump transition used for reveals through 2026, Nuelink); evergreen",
+   "status": "evergreen",
+   "use": "Reveal Short with our own song: Little Bro stomps once on the beat and the room switches from plain to decorated (or a grey snowman turns colourful); three stomps, three reveals, last stomp reveals Big Bro dancing. Meshy prompt: a boy stands in place, lifts one knee high and stomps the foot down firmly, then throws both arms up in a cheer."
+  },
+  {
    "name": "Bossy talking veggies",
    "where": "TikTok and Reels (AI voiced food that scolds viewers with cooking and storage tips, Know Your Meme, 2026, still circulating)",
    "status": "rising",
@@ -20799,12 +20830,6 @@
    "where": "TikTok family accounts (kind elf tradition, returns every December)",
    "status": "seasonal",
    "use": "A 1 to 24 December Shorts series: a tiny original Bro Bros elf friend moves into a little house on the shelf on 1 December, and every day the Bros wake up to one small kind surprise (a snow drawing, a jingle bell, a note saying 'help a friend today'), then sing a 10 second chorus of our own elf song. Never spying, never a naughty list. Meshy prompt: standing, tiptoe in place with hands together, peek left and right, then a happy jump with arms up."
-  },
-  {
-   "name": "5 stages of",
-   "where": "Instagram Reels (Later, 13 Nov 2026)",
-   "status": "rising",
-   "use": "Five 2 second clips with on screen numbers: '5 stages of waiting for snow' from Little Bro excited at the window, to checking every minute, to flopping his arms in a sigh, to grumpy, to snow finally falling and a happy dance on our own song's hook. Meshy prompt per stage: standing, a big excited bounce; a slow head turn; arms drop and shoulders slump; arms crossed; jump with both arms up."
   },
   {
    "name": "Season starts now reveal",
