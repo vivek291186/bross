@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:00:24+05:30",
- "runs": 1192,
+ "updated": "2026-11-19T16:00:56+05:30",
+ "runs": 1193,
  "branches": [
   {
    "id": "platforms",
@@ -9778,6 +9778,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1181
+    },
+    {
+     "t": "A Developmental Science study (Motamedi et al., 2020) of English speaking caregivers and children aged 14 to 54 months found that sound words such as moo, beep and splash are most frequent in early child directed speech and among children's first words, and in experiments children learned these sound linked words more easily than arbitrary words, so pairing each new word in a Bro Bros chorus with its sound (the digger goes rumble, the tomato goes plop) makes it easier to learn and sing back.",
+     "src": "Developmental Science, 2020 (Oxford ORA)",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1193
     }
    ]
   },
@@ -22132,11 +22139,7 @@
  "log": [
   {
    "date": "2026-11-19 14:51",
-   "note": "Earlier: older log entries summarised; runs up to Run 1113 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:51",
-   "note": "Run 1114 (TRENDS (US daily trending and chart climbers, 18 Nov)): New: a long Christmas songs playlist titled with next year ('Best Christmas Music 2027') entered YouTube's US popular chart at No. 4 on 18 Nov, and the overall US trending list has carried no Shorts since mid October; the rest of the chart is games, trailers and K-pop. Total 3084."
+   "note": "Earlier: older log entries summarised; runs up to Run 1114 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:51",
@@ -22449,13 +22452,13 @@
   {
    "date": "2026-11-19 16:00",
    "note": "Run 1192 (TRENDS (holiday Reels format guides)): Nothing new: the 2026 holiday guides found (Meta's advertiser guide, NeoReach Reels ideas) are about ads and shopping, not new family formats; the holiday reveal and countdown formats are already in the trend bank. No leaves added. Total 3148."
+  },
+  {
+   "date": "2026-11-19 16:00",
+   "note": "Run 1193 (music craft (sound words in lyrics)): New: a Developmental Science study of caregiver and child talk from 14 to 54 months found sound words like moo, beep and splash are most common in early child directed speech and in children's first words, and children learn them more easily than ordinary words, so every Bro Bros chorus should hang its target word on a sound word (the car goes beep beep, the frog goes ribbit). Total 3149."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:03",
-   "total": 2630
-  },
   {
    "date": "2026-11-19 07:04",
    "total": 2632
@@ -23651,6 +23654,10 @@
   {
    "date": "2026-11-19 16:00",
    "total": 3148
+  },
+  {
+   "date": "2026-11-19 16:00",
+   "total": 3149
   }
  ],
  "next_week_ideas": [
