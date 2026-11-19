@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:02:40+05:30",
- "runs": 1273,
+ "updated": "2026-11-19T19:03:04+05:30",
+ "runs": 1274,
  "branches": [
   {
    "id": "platforms",
@@ -22947,10 +22947,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 16:01",
-   "note": "Run 1195 (TRENDS (speed up song challenges)): Nothing new: speed up results were generic sped up audio explainers and the old '67 speed' filter, already known. No leaves added. Total 3150."
-  },
-  {
    "date": "2026-11-19 16:02",
    "note": "Run 1196 (global markets (Nigeria: a fast growing new kids channel and local language channels)): New: Nigeria's Moja Magic TV, a small English ABC, phonics and animal sounds channel posting about 50 videos in 28 days (close to our two a day), jumped by 21K subscribers to 38.6K and drew about 46.5M views in 28 days while its long videos have only thousands of views, so Shorts carried it; Nigerian parent guides also recommend Yoruba and Igbo teaching channels and Bino and Fino, a Nigerian brother and sister cartoon. Total 3152."
   },
@@ -23261,6 +23257,10 @@
   {
    "date": "2026-11-19 19:02",
    "note": "Run 1273 (global markets (Bangladesh and Saudi kids channels; algorithm skipped because it was rechecked this run with nothing new)): Nothing new: Kids Tv Bangla, Sisimpur, Bangladesh's craft and drawing giants and the Arabic kids app were already in the tree; the vidIQ page for a Bengali rhyme channel only had 2025 data and the Arab News MENA recap page could not be opened. No leaves added. Total 3264."
+  },
+  {
+   "date": "2026-11-19 19:03",
+   "note": "Run 1274 (Shorts and Reels (Trial Reels and child account rules recheck)): Nothing new: Trial Reels reach limits and scheduling, Instagram's 13+ teen default and the rules for adult managed accounts featuring children were already in the tree. No leaves added. Total 3264."
   }
  ],
  "history": [
@@ -23271,10 +23271,6 @@
   {
    "date": "2026-11-19 10:02",
    "total": 2824
-  },
-  {
-   "date": "2026-11-19 10:07",
-   "total": 2840
   },
   {
    "date": "2026-11-19 10:08",
@@ -24462,6 +24458,10 @@
   },
   {
    "date": "2026-11-19 19:02",
+   "total": 3264
+  },
+  {
+   "date": "2026-11-19 19:03",
    "total": 3264
   }
  ],
