@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:40:20+05:30",
- "runs": 938,
+ "updated": "2026-11-19T08:41:21+05:30",
+ "runs": 939,
  "branches": [
   {
    "id": "platforms",
@@ -19241,11 +19241,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 859 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:42",
-   "note": "Run 860 (competitor deep dive (Lellobee's Spanish channels)): Lellobee was new to the tree. Its Latin American Spanish channel (Mexico, 802K subscribers, 264M views, 1,022 videos) has not uploaded since 13 Dec 2025 and now gains only about 0.5M views a month with zero new subscribers, down from about 0.9 to 1.2M early in 2026; a second Spanish Lellobee channel (244K) also shows no uploads. A dubbed side channel that stops getting new videos slowly fades, so our dubs need a steady upload rhythm. Total 2555."
+   "note": "Earlier runs summarised: all rounds through Run 860 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:43",
@@ -19558,6 +19554,10 @@
   {
    "date": "2026-11-19 08:40",
    "note": "Run 938 (Shorts and Reels (Instagram news to 14 Nov 2026)): Most Instagram news (Features long form test, Apple TV app, the end of linked Reels series, Your Algorithm controls) was already in the tree. New: Meta is reportedly paying some YouTube creators 50K to 500K USD to post long Features, and Edits now runs on Mac with an Effect Builder. Total 2735."
+  },
+  {
+   "date": "2026-11-19 08:41",
+   "note": "Run 939 (other platforms (Netflix kids top 10, Roblox Q3 and new games rechecked)): Nothing new: Netflix's kids titles (Gabby's Dollhouse S14, CrunchLabs), Roblox's Q3 drop to 138M daily players with growth in India and Japan, and the 2 Nov fastest growing games (egg and pet heists, cat sumo) were all already in the tree. No leaves added. Total 2735."
   }
  ],
  "history": [
@@ -20647,6 +20647,10 @@
   },
   {
    "date": "2026-11-19 08:40",
+   "total": 2735
+  },
+  {
+   "date": "2026-11-19 08:41",
    "total": 2735
   }
  ],
