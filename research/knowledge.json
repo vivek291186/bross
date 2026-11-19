@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:39:53+05:30",
- "runs": 1243,
+ "updated": "2026-11-19T17:40:32+05:30",
+ "runs": 1244,
  "branches": [
   {
    "id": "platforms",
@@ -4374,6 +4374,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1239
+    },
+    {
+     "t": "WARC also reports connected TVs at 45% of US YouTube watch time, with average TV sessions over 45 minutes and completion above 95%, which supports 30 to 60 minute Bro Bros compilations made for the living room screen.",
+     "src": "Senal News citing WARC, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1244
     }
    ]
   },
@@ -15378,6 +15385,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1232
+    },
+    {
+     "t": "WARC Media (Jul 2026) puts YouTube's 2025 ad revenue at 40.4B USD (+11.7%) but forecasts only about 7% growth in 2026, so ad rates will rise slowly and a kids channel's income growth must come from more views and more countries, not higher CPMs.",
+     "src": "Senal News citing WARC, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1244
+    },
+    {
+     "t": "WARC reports YouTube's largest user bases as India (about 500M), the US (254M), Indonesia (151M) and Brazil (150M), with average daily watch time up to 58 minutes in 2025 from 48, so Indonesian and Brazilian Portuguese audio tracks reach audiences as large as the US.",
+     "src": "Senal News citing WARC, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1244
+    },
+    {
+     "t": "3Vision forecasts YouTube ad revenue of about 191M USD in South Africa and 128M USD in Nigeria in 2026, rising to about 325M and 279M by 2031, so English language kids songs already earn in the two biggest African markets and the Nigerian one grows fastest.",
+     "src": "Senal News citing 3Vision, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1244
     }
    ]
   },
@@ -22510,11 +22538,7 @@
  "log": [
   {
    "date": "2026-11-19 15:49",
-   "note": "Earlier: older log entries summarised; runs up to Run 1164 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:49",
-   "note": "Run 1165 (TRENDS (first snow reactions and winter formats)): Nothing new: 'first time seeing snow' reactions, pets in the first snowfall and the Winter Vibes dance were already recorded; the snow ice cream food trend is skipped for safety. No leaves added. Total 3126."
+   "note": "Earlier: older log entries summarised; runs up to Run 1165 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:49",
@@ -22827,13 +22851,13 @@
   {
    "date": "2026-11-19 17:39",
    "note": "Run 1243 (TRENDS (Christmas family dances)): New: a deadpan matching pyjamas Christmas dance (duos and trios, a 14 second routine on a Deck the Halls remix) took off on TikTok from 2 Nov 2026 with mums and daughters joining in; added it to the trend bank with simple standing moves on our own Deck the Halls arrangement. Also logged the 2016 nostalgia wave (Mannequin Challenge, bottle flips) as a parent hook. Total 3202."
+  },
+  {
+   "date": "2026-11-19 17:40",
+   "note": "Run 1244 (global markets (YouTube money by region)): Small: WARC puts YouTube's 2025 ad revenue at 40.4B USD with growth slowing to about 7% in 2026, TV sessions over 45 minutes with over 95% completion, and 3Vision splits Sub Saharan Africa's YouTube ad money (South Africa about 191M USD, Nigeria about 128M in 2026, both roughly doubling by 2031). Dubbing language and Africa channel facts were already in the tree. Total 3206."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 09:38",
-   "total": 2753
-  },
   {
    "date": "2026-11-19 09:39",
    "total": 2755
@@ -24029,6 +24053,10 @@
   {
    "date": "2026-11-19 17:39",
    "total": 3202
+  },
+  {
+   "date": "2026-11-19 17:40",
+   "total": 3206
   }
  ],
  "next_week_ideas": [
