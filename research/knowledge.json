@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:45:28+05:30",
- "runs": 908,
+ "updated": "2026-11-19T07:46:12+05:30",
+ "runs": 909,
  "branches": [
   {
    "id": "platforms",
@@ -6425,6 +6425,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 905
+    },
+    {
+     "t": "FunForKidsTV (US, 3.12M subscribers, 2.37B views) gained 20K subscribers in the 28 days to 18 Nov 2026 from 9 uploads, but its monthly views swing wildly: about 25M to 50M in a normal month, 78M in August and 455M in February 2026, so one breakout month can bring as many views as a whole normal year for a mid sized nursery channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 909
+    },
+    {
+     "t": "FunForKidsTV's biggest videos are 'got a boo boo' care songs about a hurt baby animal being helped (142M and 43M) and a 'strongest dinosaur' song (33M), and its newest Short (14 Nov 2026, about 26K views in 3 days) asks 'Can you guess which shape is the best dancer?', a quiz plus dance hook we can copy with our own shape friends.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 909
+    },
+    {
+     "t": "Zoobees (US, 179K subscribers, about 1M views a month) posted a Christmas finger play song with Santa on 12 Nov 2026 that had only about 2K views after five days while its 2023 bus and finger family videos still carry the channel, so an early Christmas upload from a small channel will not pop on its own; it needs a strong hook song and time to be found in December.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 909
     }
    ]
   },
@@ -18775,10 +18796,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 02:54",
-   "note": "Run 830 (Shorts and Reels (Instagram signal weights, Story reshares, account type)): Reels ranking order and Trial Reels were already in the tree. New: an agency estimate that one DM share is worth about 15 likes and one save about 10, business accounts reaching 7 to 12% organically against 10 to 20% for personal ones, and public Stories now reshareable by anyone without a tag. Total 2439."
-  },
-  {
    "date": "2026-11-19 03:35",
    "note": "Run 831 (TRENDS (Later 13 Nov, NewEngen mid Nov TikTok roundup)): Later's 13 Nov Reels roundup adds '5 stages of being' and the fixed camera outfit transition; NewEngen's 16 Nov TikTok list has a goofy family 'Chipmunks dance' (jumps, kicks, spins to a sped up track), Mariah's 'It's Time' season start, a slow motion entrance and a fan blade wipe reveal. Added four to the trend bank. Dropped four older evergreen entries to keep the December seasonal ones. Total 2446."
   },
@@ -19089,6 +19106,10 @@
   {
    "date": "2026-11-19 07:45",
    "note": "Run 908 (posting times (Metricool YouTube model unchanged; UK Christmas school holidays, December TV viewing)): Metricool's YouTube model for 20 to 26 Nov still peaks at 16:00 IST (Wed and Thu about 12,000, Sat about 5,900), so no slot change. New: UK schools in England, Wales and Scotland break up on Friday 18 Dec 2026 and return 4 to 6 Jan, and Nielsen measured YouTube's US TV share rising 7% from November to December with Thanksgiving and Christmas days the biggest viewing days of the year. Total 2668."
+  },
+  {
+   "date": "2026-11-19 07:46",
+   "note": "Run 909 (competitor deep dive (FunForKidsTV and Zoobees, small US nursery channels)): FunForKidsTV (3.12M, US) grew 20K subscribers in 28 days on 9 uploads; its record month was February 2026 (+455M views, ten times a normal month) and its hits are 'got a boo boo' care songs, and its newest Short is a 'guess which shape is the best dancer' quiz. Zoobees (179K) shows a small channel's Christmas finger play song getting only about 2K views in five days. Total 2671."
   }
  ],
  "history": [
@@ -20059,6 +20080,10 @@
   {
    "date": "2026-11-19 07:45",
    "total": 2668
+  },
+  {
+   "date": "2026-11-19 07:46",
+   "total": 2671
   }
  ],
  "next_week_ideas": [
