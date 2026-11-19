@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:49:44+05:30",
- "runs": 1262,
+ "updated": "2026-11-19T18:50:23+05:30",
+ "runs": 1263,
  "branches": [
   {
    "id": "platforms",
@@ -22826,6 +22826,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1260
+    },
+    {
+     "t": "'Talking food that scolds you' (AI voiced foods and products that grumpily teach viewers how to store or cook them) was a Jan 2026 meme Know Your Meme called educational, a gentle kids version is a grumpy but funny banana or carrot singing 'please don't squash me, keep me cool' while the Bros dance and put it away properly, with our own characters and voices.",
+     "src": "knowyourmeme.com, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1263
+    },
+    {
+     "t": "Viggle style AI dance templates were also used early in 2026 to make real teachers 'dance' under mocking captions (the Crandall High School videos), a mean trend aimed at real people that Bro Bros must never copy; we only animate our own characters.",
+     "src": "knowyourmeme.com, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1263
     }
    ]
   }
@@ -22852,12 +22866,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:56",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 15:57",
-   "note": "Run 1184 (global markets (Cambodia gap)): Filled the Cambodia gap: about 10.8M internet users and YouTube is the country's main music platform, but Khmer kids content is small (Kids Planet Khmer, a dubbed story channel with 478K subscribers, gets under 1M views a month and about 135 USD), so Cambodia is a market for later through English songs, not a priority dub. Total 3143."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 15:57",
@@ -23170,16 +23180,16 @@
   {
    "date": "2026-11-19 18:49",
    "note": "Run 1262 (Shorts and Reels (length and parent marketing)): New: Shorts guides put the sweet spot at 25 to 35 seconds (one cut second lifted a creator's retention from 83% to 88%), Shorts under 30 seconds replay past 100%; CoComelon's first brand campaign sold its songs as help for potty, bedtime and mealtime with parent creators and age stage playlists. Total 3251."
+  },
+  {
+   "date": "2026-11-19 18:50",
+   "note": "Run 1263 (TRENDS (Know Your Meme roundups)): Small: November's roundup (W chews, mascot hate, rage memes) was already in the tree; added January's educational 'talking food that scolds you' format as a kid safe song idea and a caution about AI dance templates used to mock real teachers. Total 3253."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:54",
-   "total": 2815
   },
   {
    "date": "2026-11-19 09:54",
@@ -24372,6 +24382,10 @@
   {
    "date": "2026-11-19 18:49",
    "total": 3251
+  },
+  {
+   "date": "2026-11-19 18:50",
+   "total": 3253
   }
  ],
  "next_week_ideas": [
