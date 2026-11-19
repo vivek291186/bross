@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:35:31+05:30",
- "runs": 854,
+ "updated": "2026-11-19T05:37:37+05:30",
+ "runs": 855,
  "branches": [
   {
    "id": "platforms",
@@ -17786,6 +17786,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 852
+    },
+    {
+     "t": "Official Charts expects Spotify Wrapped 2026 on Wednesday 2 December (Spotify has not confirmed), which starts a week of 'my year in music' posts; a Bro Bros 'our top songs of 2026' Reel and Short should be ready for that day.",
+     "src": "officialcharts.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 855
+    },
+    {
+     "t": "SocialBee's 12 Nov 2026 TikTok list adds 'boy, man, kebab' (three stacked fight reaction clips ending with a spinning man) and a 'teaching him new habits' bowing prank between partners; both rest on fights or dating and are not for Bro Bros.",
+     "src": "socialbee.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 855
+    },
+    {
+     "t": "Of the mid November TikTok and Reels lists from NewEngen, SocialBee, Epidemic Sound and Later, almost every new format is a lip sync or a relationship joke; the only kid safe dances remain the Chipmunks three person jump, kick and spin, the Dame Hombro shoulder bounce and the bicep heart pose.",
+     "src": "newengen.com, socialbee.com, epidemicsound.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 855
     }
    ]
   }
@@ -17813,11 +17834,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:57",
-   "note": "Run 777 (competitor deep dive (Super Simple Songs, Kids Diana Show)): Super Simple Songs' remake and high contrast outliers were already in the tree and Kids Diana Show stats did not load; no new leaves. Total 2342."
+   "note": "Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:57",
@@ -18130,13 +18147,13 @@
   {
    "date": "2026-11-19 05:35",
    "note": "Run 854 (Shorts and Reels (Instagram content protection, YouTube Premieres slate)): Most Reels algorithm and Shorts feature news was already in the tree. New: from 17 Nov 2026 Instagram brings Facebook's content protection to Reels, alerting creators when copies of their original videos appear (with the copy's views) and letting them track, hide, add an attribution link or release; it is also testing detection of AI videos that reuse someone's voice over new visuals. YouTube's 17 Nov L.A. Premieres slate had no kids or family show. Total 2531."
+  },
+  {
+   "date": "2026-11-19 05:37",
+   "note": "Run 855 (TRENDS (NewEngen, SocialBee, Epidemic Sound and Tokchart mid November lists, Spotify Wrapped timing)): Nearly every format on this week's lists (Chipmunks jump kick spin, Dame Hombro, bicep heart, go go go, fan transition, Mariah 'It's time') was already in the tree. New: SocialBee's 12 Nov list adds 'boy, man, kebab' fight reaction stacks and a 'teaching him new habits' bowing prank, neither right for kids; Official Charts expects Spotify Wrapped on Wednesday 2 Dec 2026, so family year in review Reels should be ready by then. No trend bank change. Total 2534."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:36",
-   "total": 2040
-  },
   {
    "date": "2026-11-16 16:37",
    "total": 2043
@@ -19332,6 +19349,10 @@
   {
    "date": "2026-11-19 05:35",
    "total": 2531
+  },
+  {
+   "date": "2026-11-19 05:37",
+   "total": 2534
   }
  ],
  "next_week_ideas": [
