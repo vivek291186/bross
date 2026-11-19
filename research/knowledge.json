@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:39:33+05:30",
- "runs": 945,
+ "updated": "2026-11-19T09:40:14+05:30",
+ "runs": 946,
  "branches": [
   {
    "id": "platforms",
@@ -3765,6 +3765,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 937
+    },
+    {
+     "t": "In the YouTube Kids app, new child profiles get no personal recommendations until enough history builds up, so early sessions rely on editor curated homepage rows (series, music, learning, discovery and games); being picked for the music row is the main way a new channel reaches fresh profiles.",
+     "src": "PPC Land citing YouTube Kids FAQ, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 946
     }
    ]
   },
@@ -14874,6 +14881,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 935
+    },
+    {
+     "t": "Getting into the YouTube Kids app starts with a family friendly classification, then automated filters that check the thumbnail, the title and the video itself, so one scary thumbnail or a rude word in a title can block a whole song from the app.",
+     "src": "PPC Land citing YouTube Kids FAQ, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 946
+    },
+    {
+     "t": "YouTube Kids excludes videos built around product packaging or piling up and consuming lots of products, and any paid placement, so Bro Bros toy, gift or present songs should show play and kindness, not unboxing hauls.",
+     "src": "PPC Land citing YouTube Kids FAQ, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 946
+    },
+    {
+     "t": "Parent flagged videos in YouTube Kids are reviewed around the clock and removed for all users if found unsuitable, so a single upsetting scene (a scary monster, a fall or a fight) can cost a song its YouTube Kids reach everywhere.",
+     "src": "PPC Land citing YouTube Kids FAQ, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 946
+    },
+    {
+     "t": "US regulators now treat autoplay, recommendations, notifications and public comments as possible harms to children, and the FTC's 2025 10M USD Disney case was about kids videos labelled 'not made for kids', so every Bro Bros upload must be set to made for kids.",
+     "src": "ESRB Privacy Certified, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 946
     }
    ]
   },
@@ -19381,11 +19416,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 866 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:49",
-   "note": "Run 867 (TRENDS (US YouTube trending snapshot 18 Nov 2026)): Kabo's US trending snapshot of 18 Nov is led by satisfying build and fix Shorts and K pop videos; for families the new items are Pixar's 'Gatto' trailer (#24), quick drawing Shorts ('24 Hour Drawings', 'House Drawing') and a 'Monster Under the Bed' comedy Short, plus challenge formats like 'every step costs a dollar'. Added a draw it fast trend bank entry. Total 2579."
+   "note": "Earlier runs summarised: all rounds through Run 867 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:49",
@@ -19698,6 +19729,10 @@
   {
    "date": "2026-11-19 09:39",
    "note": "Run 945 (TRENDS (December calendars, Pinterest weekly 13 Nov, Later 13 Nov rechecked)): Thin: Later's and Publer's lists were already in the tree. New: Pinterest's 13 Nov weekly report shows 'disguise a turkey' searches up 500% and winter style up 80%, confirming the turkey and winter clothes Shorts for this week. Total 2755."
+  },
+  {
+   "date": "2026-11-19 09:40",
+   "note": "Run 946 (rules and safety (YouTube Kids entry gate, COPPA as a safety tool)): New: YouTube Kids entry runs through a family friendly classification, automated checks of thumbnail, title and video, sampled human review and parent reports; new child profiles get no personal recommendations at first and see only curated rows (series, music, learning, discovery, games). Regulators now treat autoplay, comments and recommendations as possible harms, and the 2025 Disney 10M USD case was about wrongly labelled kids videos. Total 2760."
   }
  ],
  "history": [
@@ -20816,6 +20851,10 @@
   {
    "date": "2026-11-19 09:39",
    "total": 2755
+  },
+  {
+   "date": "2026-11-19 09:40",
+   "total": 2760
   }
  ],
  "next_week_ideas": [
