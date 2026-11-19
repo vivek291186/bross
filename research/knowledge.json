@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:48:30+05:30",
- "runs": 1380,
+ "updated": "2026-11-19T23:49:04+05:30",
+ "runs": 1381,
  "branches": [
   {
    "id": "platforms",
@@ -13761,6 +13761,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1379
+    },
+    {
+     "t": "GivingTuesday falls on Tue 1 Dec 2026 and opens a global Generosity Week (1 to 5 Dec) whose suggested acts are simple and family friendly: share a skill, tidy up the neighbourhood, collect goods, check on a neighbour and share a meal, a ready made theme for a kindness song posted on 30 Nov or 1 Dec.",
+     "src": "givingtuesday.org, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1381
+    },
+    {
+     "t": "The volunteering network behind Generosity Week links people in more than 110 countries, and GivingTuesday runs national campaigns in places such as the UK and Canada, so a 'helping hands' song in that week travels without being tied to any one religion or holiday.",
+     "src": "givingtuesday.org and canadahelps.org, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1381
     }
    ]
   },
@@ -23791,11 +23805,7 @@
  "log": [
   {
    "date": "2026-11-19 19:47",
-   "note": "Earlier: older log entries summarised (runs up to 1301); details are in git history."
-  },
-  {
-   "date": "2026-11-19 19:47",
-   "note": "Run 1302 (visual craft (Meshy changelog and thumbnail study recheck)): Nothing new: Meshy's changelog still ends in September (no motion change since Text to Motion in July) and vidIQ's 500 breakout thumbnail study was already in the tree. No leaves added. Total 3280."
+   "note": "Earlier: older log entries summarised (runs up to 1302); details are in git history."
   },
   {
    "date": "2026-11-19 19:48",
@@ -24108,13 +24118,13 @@
   {
    "date": "2026-11-19 23:48",
    "note": "Run 1380 (other platforms recheck (TRENDS skipped; Netflix and Roblox)): Nothing new: Gabby's Dollhouse season 14 on Netflix, CrunchLabs and the fastest growing November Roblox games were already in the tree; no Netflix kids top 10 for November 2026 could be read. No leaves added. Chrome not available. Total 3385."
+  },
+  {
+   "date": "2026-11-19 23:49",
+   "note": "Run 1381 (topics and seasons (giving week; TRENDS and Shorts rechecks found nothing new)): YouTube kids Shorts and vidIQ fastest growing pages had nothing new; added GivingTuesday (1 Dec) and Generosity Week (1 to 5 Dec) as a global kindness moment, plus a 'Helping Hands Week!' song idea. Chrome not available. Total 3387."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:10",
-   "total": 3013
-  },
   {
    "date": "2026-11-19 13:35",
    "total": 3017
@@ -25310,9 +25320,17 @@
   {
    "date": "2026-11-19 23:48",
    "total": 3385
+  },
+  {
+   "date": "2026-11-19 23:49",
+   "total": 3387
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Helping Hands Week! (Kindness Countdown Song)",
+   "why": "GivingTuesday (1 Dec 2026) starts a five day Generosity Week; each verse is one easy act a child can do (help tidy, share a toy, carry the shopping, hug grandma, make a card), with a clap and point move for each. Post it on 30 Nov so it is live for 1 Dec; it fits every country and no religion. Standing moves only: clap twice, point out, wave, hug yourself, thumbs up."
+  },
   {
    "title": "Let's Make It Snow! (Pretend Snow Dance)",
    "why": "Most children in Europe, India, the Gulf, Africa and Southeast Asia will not see real snow this Christmas (Copernicus expects a mild European winter), so the Bros make pretend snow with paper snowflakes, pillow feathers and a fan, then a magic sparkle turns it into real snow for one chorus. Standing moves: wiggle fingers down like falling snow, spin on the spot, catch a flake, freeze."
@@ -25364,10 +25382,6 @@
   {
    "title": "Run, Run, Gingerbread Bro! (Catch Me Chase Song)",
    "why": "The Gingerbread Man is a public domain December classroom favourite; a chase song with a happy ending (everyone shares cookies), a running in place dance and a repeated 'catch me if you can!' chant suits a December Short and a classroom movement break."
-  },
-  {
-   "title": "Shh! Bear Is Sleeping (Hibernation Tiptoe Song)",
-   "why": "Hibernation is a top preschool winter theme (Highlights); a freeze and tiptoe game song where the Bros creep past a sleeping bear and freeze when it snores. Meshy moves: standing tiptoe steps in place, finger to lips, sudden freeze pose."
   }
  ],
  "trend_bank": [
