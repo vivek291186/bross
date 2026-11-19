@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:50:30+05:30",
- "runs": 914,
+ "updated": "2026-11-19T07:51:11+05:30",
+ "runs": 915,
  "branches": [
   {
    "id": "platforms",
@@ -1952,6 +1952,34 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 903
+    },
+    {
+     "t": "Revealing Reality's 2026 'Infinite Scroll' study tracked UK 14 to 16 year olds on TikTok: 359 to 1,021 videos a day, more than 10,000 a month each, and 50% to 62% of videos watched for 5 seconds or less, so short feeds are skimmed in seconds; parents who scroll Reels behave the same way, so our Reels must make sense in the first 2 seconds.",
+     "src": "Revealing Reality, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 915
+    },
+    {
+     "t": "In the same study ads were 4% to 20% of all TikTok videos shown to these teens and 20 of 21 used TikTok between 10 pm and 7 am, a reminder that kids on adult registered accounts see unprotected feeds, which is why regulators push age checks and why our content must stay clearly made for kids.",
+     "src": "Revealing Reality, 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 915
+    },
+    {
+     "t": "Themed compilations of a hit preschool series (episodes grouped by family games, outdoor adventures or feelings) were the most watched show on Disney+ in a July 2026 week, beating new adult animation, so even on premium streaming, families pick a themed bundle; our own long compilations should be grouped by a clear theme (winter, animals, bedtime) rather than random songs.",
+     "src": "Comic Basics, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 915
+    },
+    {
+     "t": "Disney+ also charted very short animated spin offs in 2026 (a school locker short series and a 'how not to draw' doodle series built from other shows' characters), so short form animation is moving onto TV streaming; our 1 to 2 minute songs can later be packaged as a short series for streaming partners.",
+     "src": "Comic Basics, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 915
     }
    ]
   },
@@ -18887,10 +18915,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 03:42",
-   "note": "Run 836 (competitor deep dive (Baby Zoo, Kids Learning Songs)): Two US channels new to the tree. Baby Zoo (10.7M) built its biggest hits on tiny toddler problems ('I can't sleep', 'it's too hot', 'where is my mouth', 100M to 195M each) with emoji titles and '+ More' compilations, but monthly views fell from about 100M in Jan 2026 to 29M in Oct and its newest upload got 51K in 4 days. Kids Learning Songs (10.5M) is steady at 16M to 25M a month on colours and health routines (brush teeth, dentist). Total 2467."
-  },
-  {
    "date": "2026-11-19 04:35",
    "note": "Run 837 (TRENDS (SocialPilot 17 Nov TikTok list, que.es November formats)): SocialPilot's 17 to 25 Nov list adds 'Same spot, years apart' (Pink Floyd 'Time' clip, about 556K videos), a soft launch reveal on Finneas' 'My Moon My Man' (about 547K) and ILLIT's 'You're Under Arrest' now played as a pass the hook duet; que.es adds the 'costume loading' freeze cut. This week's big cultural moments (GTA VI on 19 Nov, Hunger Games on 20 Nov) are teen or adult, so we skip them. Added three to the trend bank and dropped three older rising entries with no fresh evidence. Total 2473."
   },
@@ -19201,6 +19225,10 @@
   {
    "date": "2026-11-19 07:50",
    "note": "Run 914 (YouTube algorithm (Hype mechanics, made for kids end screens rechecked)): Mostly known ground. One new detail on Hype: each viewer gets three free hypes a week, a video can be hyped only in its first seven days, smaller channels get a points multiplier and regional leaderboards feed Home, so once we join the Partner Program each new song has one week to collect hypes. Whether Hype works on made for kids videos is still not documented. Total 2684."
+  },
+  {
+   "date": "2026-11-19 07:51",
+   "note": "Run 915 (other platforms (Shorts and Reels skipped, nothing new; TikTok scrolling study, Disney+ compilations)): Revealing Reality's 2026 TikTok study of UK 14 to 16 year olds logged 359 to 1,021 videos a day with half or more watched for 5 seconds or less; it is about teens, not our viewers, but it shows how fast short feeds are skimmed. On Disney+, themed compilations of a preschool dog family show were the most watched title in July 2026, and short form animated spin offs also charted. Total 2688."
   }
  ],
  "history": [
@@ -20195,6 +20223,10 @@
   {
    "date": "2026-11-19 07:50",
    "total": 2684
+  },
+  {
+   "date": "2026-11-19 07:51",
+   "total": 2688
   }
  ],
  "next_week_ideas": [
