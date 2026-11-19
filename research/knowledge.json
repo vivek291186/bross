@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:54:39+05:30",
- "runs": 1178,
+ "updated": "2026-11-19T15:55:15+05:30",
+ "runs": 1179,
  "branches": [
   {
    "id": "platforms",
@@ -2288,6 +2288,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1111
+    },
+    {
+     "t": "Socialinsider's study of about 25M organic Facebook posts (2025 data, updated through Q3 2026) found Reels average only about 10 views per post on pages with 1K to 5K followers and about 100 on 10K to 50K pages, fewer than photos or albums at every size, so cross posting our Reels to a new Facebook page would add very little reach for now.",
+     "src": "Socialinsider, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1179
+    },
+    {
+     "t": "Facebook's Creator Fast Track (launched Mar 2026, updated 13 Nov 2026) gives creators with an existing following on YouTube, Instagram or TikTok who are new to Facebook a reach boost on Reels plus three months of guaranteed pay (about 1,000 USD a month at 100K+ followers, 3,000 USD at 1M+), so once a Bro Bros channel passes 100K followers, opening a Facebook page through this programme is worth checking, after confirming its rules allow children's content.",
+     "src": "Meta Newsroom, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1179
     }
    ]
   },
@@ -22048,11 +22062,7 @@
  "log": [
   {
    "date": "2026-11-19 14:00",
-   "note": "Earlier: older log entries summarised; runs up to Run 1099 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:00",
-   "note": "Run 1100 (global markets (Netherlands, Peru and Chile gaps)): Nothing usable: Dutch kids channel lists were empty or tiny, and the Latin American ranking (Plim Plim top in Argentina, adult creators top in Peru and Chile) was already in the tree. No leaves added. Total 3056."
+   "note": "Earlier: older log entries summarised; runs up to Run 1100 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:00",
@@ -22365,13 +22375,13 @@
   {
    "date": "2026-11-19 15:54",
    "note": "Run 1178 (YouTube algorithm (made for kids Shorts reach and AIR kids case studies rechecked)): Nothing new: AIR's kids channel cases (1140% views through localisation, more revenue with fewer long videos, PlayToys getting into YouTube Kids via Shorts) and the Shorts disable feature analysis were already in the tree. No leaves added. Total 3136."
+  },
+  {
+   "date": "2026-11-19 15:55",
+   "note": "Run 1179 (Shorts and Reels (Facebook Reels as a third outlet)): New: Socialinsider's 25M post Facebook study shows Reels on small pages get only about 10 to 50 views each (fewer than photos and albums), so Facebook is not worth our effort yet; but Facebook's Creator Fast Track (updated 13 Nov 2026) pays creators with 100K+ followers elsewhere 1,000 USD a month for three months of Reels plus a reach boost, a future option once a Bro Bros platform passes 100K. Total 3138."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 06:54",
-   "total": 2606
-  },
   {
    "date": "2026-11-19 06:55",
    "total": 2609
@@ -23567,6 +23577,10 @@
   {
    "date": "2026-11-19 15:54",
    "total": 3136
+  },
+  {
+   "date": "2026-11-19 15:55",
+   "total": 3138
   }
  ],
  "next_week_ideas": [
