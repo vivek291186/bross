@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:51:11+05:30",
- "runs": 1169,
+ "updated": "2026-11-19T15:51:35+05:30",
+ "runs": 1170,
  "branches": [
   {
    "id": "platforms",
@@ -21999,11 +21999,7 @@
  "log": [
   {
    "date": "2026-11-19 13:50",
-   "note": "Earlier: older log entries summarised; runs up to Run 1090 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:50",
-   "note": "Run 1091 (rules and monetisation (FTC 2026 enforcement list, Q4 CPM swing)): Most FTC items (Disney 10M, the 400M social media settlement, the age check policy statement, the April COPPA rule date) were already in the tree. New: vidIQ's figures that US CPMs climb from about 1.8 USD in August to about 5.7 USD in December with Cyber Week near 6.9 USD and fall 30 to 50% by late February, and that the FTC's 2026 AI and kids actions so far target chatbots and toys, not video makers. Total 3043."
+   "note": "Earlier: older log entries summarised; runs up to Run 1091 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:50",
@@ -22316,13 +22312,13 @@
   {
    "date": "2026-11-19 15:51",
    "note": "Run 1169 (music craft (tempo play and stop and go song games)): New: toddlers aged 1 to 4 in a Developmental Psychology study danced faster to faster versions of the same song (90, 120, 150 BPM) and smiled more and kept dancing even at the slow tempo when the song was their favourite; PBS's self regulation games (fast then slow dancing, freeze, follow the conductor's speed, do the opposite) give us ready made song game structures. Total 3129."
+  },
+  {
+   "date": "2026-11-19 15:51",
+   "note": "Run 1170 (visual craft (Meshy updates rechecked) and song idea refresh): Nothing new on Meshy: the lowpoly retirement, meshy-7 ending for new models on 31 Dec and the unchanged Text to Motion were already in the tree. Swapped one song idea: 'Slow, Fast, Super Fast! (Conductor Bro Tempo Game)' replaces the second New Year song (pots and pans), since the 2022 toddler tempo study and PBS self regulation games back it and New Year is still covered by the early countdown song. Total 3129."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 05:51",
-   "total": 2585
-  },
   {
    "date": "2026-11-19 06:36",
    "total": 2586
@@ -23518,6 +23514,10 @@
   {
    "date": "2026-11-19 15:51",
    "total": 3129
+  },
+  {
+   "date": "2026-11-19 15:51",
+   "total": 3129
   }
  ],
  "next_week_ideas": [
@@ -23550,8 +23550,8 @@
    "why": "NuNu Tv's 'I Want That, Share It Please' has 270M views; a Bro Bros version where the brothers both want one toy, then take turns and play together, is a universal toddler moment parents look for."
   },
   {
-   "title": "Pots and Pans, Happy New Year! (Lucky Things Around the World Song)",
-   "why": "New Year customs that kids can act out (banging pots and pans, stepping in on the right foot, lucky ladybugs, twelve grapes, round fruits) let one song greet many countries at once; standing moves only, with a gentle sound so it suits early 'fake midnight' countdowns."
+   "title": "Slow, Fast, Super Fast! (Conductor Bro Tempo Game)",
+   "why": "Toddlers dance faster when the same song speeds up and smile most to a song they know (Developmental Psychology 2022), and PBS lists 'follow the conductor's speed' and 'fast then slow' as self regulation games; Big Bro waves a baton, the chorus plays slow, then faster, then super fast, then freeze, with simple standing moves (march, clap, hop, wiggle) that work in any language."
   },
   {
    "title": "Knock Knock, Who's There? (Ask a Grown-Up First Safety Song)",
