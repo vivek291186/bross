@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:51:08+05:30",
- "runs": 1413,
+ "updated": "2026-11-20T02:51:57+05:30",
+ "runs": 1414,
  "branches": [
   {
    "id": "platforms",
@@ -18542,6 +18542,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1412
+    },
+    {
+     "t": "As quoted in November 2026, YouTube's monetization page accepts a series that follows a set of characters with 'a distinct storyline, focus, or concept' and content showing a unique creative voice, but refuses videos showing 'the same situation over and over again with the same outcome' and AI content made from generic templates, so each Bro Bros song must have its own situation and its own ending, not just new lyrics on the same dance scene.",
+     "src": "GenCartoon (quoting YouTube Help), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1414
+    },
+    {
+     "t": "YouTube's child safety policy removes 'misleading family content', meaning kid styled videos (cartoon look, kids title or tags, made for kids setting) that carry mature themes such as violence, scary adult horror characters, medical procedures or self harm, with warnings and strikes and termination after three strikes in 90 days, so Bro Bros keeps doctor, monster or Halloween themes gentle and clearly playful.",
+     "src": "AwareXone (citing YouTube Help), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1414
+    },
+    {
+     "t": "YouTube's quality principles for kids content list 'strange use of children's characters' as a low quality sign that can limit ads, and a channel strongly focused on low quality made for kids videos can be suspended from the Partner Program, so odd or random mash ups of characters should never appear in Bro Bros videos.",
+     "src": "AwareXone (citing YouTube Help), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1414
     }
    ]
   },
@@ -24277,10 +24298,6 @@
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
   },
   {
-   "date": "2026-11-19 21:36",
-   "note": "Run 1335 (Shorts and Reels (newest platform changes)): Analysts see Shorts search favouring fresh Shorts from small channels that answer one exact query; Instagram tightened low quality filtering in recommended Reels and Explore; Plim Plim has stayed above 250M views every week for six months. Chrome not available (cloud run). Total 3330."
-  },
-  {
    "date": "2026-11-19 21:37",
    "note": "Run 1336 (TRENDS (Thanksgiving week and gentle elf ideas)): Added the Thankful line up trend (line up challenge plus gratitude, for 21 to 26 Nov) to the trend bank and dropped the faded 'One, then a mountain'; the no spying 'Elfie' helper idea and squishy toy demand support our December plans. Chrome not available. Total 3334."
   },
@@ -24591,6 +24608,10 @@
   {
    "date": "2026-11-20 02:51",
    "note": "Run 1413 (TRENDS (holiday Shorts share and New Year countdowns)): Early New Year countdowns for little ones were already in the tree; added Tubular's holiday data (Shorts took about 58% of US holiday video views in late Nov to early Dec 2024, 83% from individual creators) and that a small channel's 30 second kids countdown got about 28K views in nine days. Chrome not available. Total 3454."
+  },
+  {
+   "date": "2026-11-20 02:51",
+   "note": "Run 1414 (rules (AI and low quality kids content)): Added the wording of YouTube's monetization examples as quoted in Nov 2026 (a cast with a distinct storyline is fine, the same situation with the same outcome or generic AI templates is not) and the child safety rule on misleading family content. Disclosure and inauthentic content basics were already in the tree. Chrome not available. Total 3457."
   }
  ],
  "history": [
@@ -25517,6 +25538,10 @@
   {
    "date": "2026-11-20 02:51",
    "total": 3454
+  },
+  {
+   "date": "2026-11-20 02:51",
+   "total": 3457
   }
  ],
  "next_week_ideas": [
