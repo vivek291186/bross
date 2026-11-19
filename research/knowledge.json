@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:45:14+05:30",
- "runs": 1256,
+ "updated": "2026-11-19T18:45:51+05:30",
+ "runs": 1257,
  "branches": [
   {
    "id": "platforms",
@@ -22742,6 +22742,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1254
+    },
+    {
+     "t": "A second Roblox dance game, Aura Dance Battles (about 48M visits, roughly 1,300 players in a match in mid Nov 2026), now runs a weekly Saturday refresh that adds new phonk tracks and emotes, so kids' dance play on Roblox is organised around a fresh weekly drop; a weekly 'new move of the week' Short with one named Bro Bros move fits that habit.",
+     "src": "allthings.how, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1257
+    },
+    {
+     "t": "Fortnite keeps turning viral TikTok choreography into paid Icon Series emotes (the Heel Click Breakdown copies a New Zealand creator's Oct 2023 dance exactly), so a short, named, easily copied Bro Bros signature move is the kind of asset games license; we should give each new move a clear name in titles and captions.",
+     "src": "esports.gg, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1257
+    },
+    {
+     "t": "A Jan 2026 feature on Roblox trend culture says most Roblox trends are started by pre teens, a TikTok meme can become a Roblox game in about two hours and be remixed within a week, and a trend can feel 'vintage' after about two months, so kid trends we borrow should be used within days, not weeks.",
+     "src": "dataconomy.com, Jan 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1257
     }
    ]
   }
@@ -22770,10 +22791,6 @@
   {
    "date": "2026-11-19 15:54",
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
-   "date": "2026-11-19 15:54",
-   "note": "Run 1178 (YouTube algorithm (made for kids Shorts reach and AIR kids case studies rechecked)): Nothing new: AIR's kids channel cases (1140% views through localisation, more revenue with fewer long videos, PlayToys getting into YouTube Kids via Shorts) and the Shorts disable feature analysis were already in the tree. No leaves added. Total 3136."
   },
   {
    "date": "2026-11-19 15:55",
@@ -23086,16 +23103,16 @@
   {
    "date": "2026-11-19 18:45",
    "note": "Run 1256 (competitor deep dive (GoNoodle, Koo Koo Kanga Roo)): New: GoNoodle reaches about 19.5M kids a year in classrooms but its YouTube barely grows except for a back to school dance workout (1.4M in a month); Koo Koo Kanga Roo's goofy one topic dance songs with on screen lyrics drew a parent review warning about toilet humour and a political song. Total 3239."
+  },
+  {
+   "date": "2026-11-19 18:45",
+   "note": "Run 1257 (TRENDS (Roblox and Fortnite dance emotes)): Small: the Trending Emote Dance game and the emote licensing lawsuit were already in the tree; added Aura Dance Battles' weekly Saturday phonk and emote drop, Fortnite's habit of buying named viral dances as emotes, and how fast Roblox kid trends age. Total 3242."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:50",
-   "total": 2801
   },
   {
    "date": "2026-11-19 09:50",
@@ -24288,6 +24305,10 @@
   {
    "date": "2026-11-19 18:45",
    "total": 3239
+  },
+  {
+   "date": "2026-11-19 18:45",
+   "total": 3242
   }
  ],
  "next_week_ideas": [
