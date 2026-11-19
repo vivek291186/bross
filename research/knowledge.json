@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:43:44+05:30",
- "runs": 1404,
+ "updated": "2026-11-20T02:44:36+05:30",
+ "runs": 1405,
  "branches": [
   {
    "id": "platforms",
@@ -4598,6 +4598,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1369
+    },
+    {
+     "t": "YouTube's discovery lead Todd Beaupre said on 27 Oct 2026 that 'Test and compare' thumbnail tests currently split traffic evenly at random, and that a future version will send each viewer group (for example people who already watch the channel versus newcomers) the thumbnail that works best for them, so Bro Bros should keep testing two clearly different thumbnails (a close up face and a wide dance scene) rather than near copies.",
+     "src": "founderpresence (citing Creator Insider), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1405
     }
    ]
   },
@@ -24158,10 +24165,6 @@
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
   },
   {
-   "date": "2026-11-19 20:51",
-   "note": "Run 1326 (visual craft (titles, emoji, toon shading)): Nothing new: emoji in titles (vidIQ 128M video study), kids keyword lists, kids songs dominating YouTube's most viewed (Baby Shark about 16.4B) and Blender Studio's toon character workflow were already in the tree. No leaves added. Total 3319."
-  },
-  {
    "date": "2026-11-19 20:52",
    "note": "Run 1327 (TRENDS (first snow has arrived)): The season's first snowstorm reached interior New York, New England, the northern Mid Atlantic and Michigan's Upper Peninsula on 12 to 14 Nov 2026, earlier than the usual late November first snow, so the snow day happy dance moves from seasonal to rising and snow songs are timely now. Total 3320."
   },
@@ -24472,6 +24475,10 @@
   {
    "date": "2026-11-20 02:43",
    "note": "Run 1404 (TRENDS (Know Your Meme dance entries)): The meme dances found (an Obsession film dance, a club dance clip, a re-animated Disney dance) are older, adult toned or built on protected films, so none went into the trend bank; added only that 'face dancing' (big facial expressions on the beat) keeps spreading as a lip sync style, useful for our close ups. Chrome not available. Total 3437."
+  },
+  {
+   "date": "2026-11-20 02:44",
+   "note": "Run 1405 (YouTube algorithm recheck): Mostly known (the 1 Oct Shorts originality change, the 12 Nov Studio Clips tool, slow evergreen growth). New: on 27 Oct YouTube's discovery lead said thumbnail tests now split traffic evenly at random and a later version will steer each viewer group to the thumbnail that works best for it. Chrome not available. Total 3438."
   }
  ],
  "history": [
@@ -25362,6 +25369,10 @@
   {
    "date": "2026-11-20 02:43",
    "total": 3437
+  },
+  {
+   "date": "2026-11-20 02:44",
+   "total": 3438
   }
  ],
  "next_week_ideas": [
