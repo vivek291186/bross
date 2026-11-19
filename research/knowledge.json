@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:10:36+05:30",
- "runs": 1279,
+ "updated": "2026-11-19T19:35:09+05:30",
+ "runs": 1280,
  "branches": [
   {
    "id": "platforms",
@@ -2372,6 +2372,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1267
+    },
+    {
+     "t": "Nielsen's Gauge for August 2026 gave YouTube a record 15.8% of all US TV screen time (Netflix second at 7.7%), and unlike earlier years YouTube showed no back to school dip, so living room viewing of kids songs on the TV now holds up through the school term.",
+     "src": "Tubefilter, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1280
     }
    ]
   },
@@ -4465,6 +4472,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1265
+    },
+    {
+     "t": "Metricool's model for our brand for 20 to 26 Nov 2026 puts Friday 20 Nov at 10:00 IST (about 10.5K) almost level with 16:00 IST (10.7K), while Saturday and Sunday peak at 16:00 IST with only about half the weekday value, so our two existing slots stay right and Friday is the one day the morning slot is as strong as the afternoon.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1280
     }
    ]
   },
@@ -15679,6 +15693,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1255
+    },
+    {
+     "t": "eMarketer expects about 30.7M US Gen Alpha viewers on YouTube in 2026, roughly two thirds of the generation, and YPulse finds 73% of US tweens would rather watch shows on YouTube than on cable or streaming services.",
+     "src": "YPulse, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1280
     }
    ]
   },
@@ -22962,10 +22983,6 @@
   },
   {
    "date": "2026-11-19 16:04",
-   "note": "Run 1201 (TRENDS (Thanksgiving family dance searches)): Nothing new: the turkey dance results were a 2021 brand challenge and classroom turkey songs already known; Thanksgiving falls on 26 Nov and the gratitude and turkey formats are already in the tree. No leaves added. Total 3155."
-  },
-  {
-   "date": "2026-11-19 16:04",
    "note": "Run 1202 (YouTube algorithm (Shorts related video link rechecked)): Nothing new: the related video link rules for made for kids Shorts, Spotter's 10% first month lift and our own low Shorts to long video traffic were already in the tree. No leaves added. Total 3155."
   },
   {
@@ -23275,13 +23292,13 @@
   {
    "date": "2026-11-19 19:10",
    "note": "Run 1279 (competitor deep dive (Kids Funny Songs, Kids Channel Preschool recheck)): Nothing new: Kids Funny Songs' toothbrushing routine song (about 93K in 36 hours) and Kids Channel Preschool's one phonics hit with a slow Santa song were already in the tree; Super Simple and ChuChu pages could not be opened. No leaves added. Total 3266."
+  },
+  {
+   "date": "2026-11-19 19:35",
+   "note": "Run 1280 (posting times (Metricool 20 to 26 Nov, Nielsen and eMarketer audience data)): New: Metricool now has Friday 20 Nov 10:00 IST almost tied with 16:00, weekends about half; Nielsen Aug 2026 gave YouTube a record 15.8% of US TV with no back to school dip; eMarketer counts 30.7M US Gen Alpha YouTube viewers. Slots unchanged. Total 3269."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 09:41",
-   "total": 2770
-  },
   {
    "date": "2026-11-19 10:02",
    "total": 2824
@@ -24477,6 +24494,10 @@
   {
    "date": "2026-11-19 19:10",
    "total": 3266
+  },
+  {
+   "date": "2026-11-19 19:35",
+   "total": 3269
   }
  ],
  "next_week_ideas": [
