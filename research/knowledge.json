@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:49:26+05:30",
- "runs": 1394,
+ "updated": "2026-11-20T01:50:09+05:30",
+ "runs": 1395,
  "branches": [
   {
    "id": "platforms",
@@ -2400,6 +2400,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1335
+    },
+    {
+     "t": "Instagram's own 2026 Reels guide points creators to its align tool, which shows a see through ghost of the previous clip's last frame so the next clip can start in exactly the same spot; that is how clean 'same spot' outfit swaps and jump cut transitions are made, and Bro Bros can line up its rendered shots the same way for Reels transitions.",
+     "src": "iPhone in Canada (Instagram creator guide), Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1395
+    },
+    {
+     "t": "Instagram Reels has a dedicated trends destination listing the top trending audio, topics and hashtags, and Reels insights now show total and average watch time plus a note when new followers came from a Reel; checking it weekly tells us which formats are hot while we keep our own music.",
+     "src": "Siasat (IANS), undated",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1395
     }
    ]
   },
@@ -24063,12 +24077,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 20:42",
-   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
-  },
-  {
    "date": "2026-11-19 20:43",
-   "note": "Run 1316 (global markets (dubbing use and Africa's child population)): Perso's 2026 dubbing data puts Spanish, Portuguese and French as the most used targets after English; SV2's dubbing case grew views 1.7x in 18 months and a video launched with nine audio tracks on day one passed 11M in 90 days; Africa has about 600M children under 15, with Nigeria (96M) far ahead. Total 3303."
+   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 20:44",
@@ -24381,6 +24391,10 @@
   {
    "date": "2026-11-20 01:49",
    "note": "Run 1394 (YouTube algorithm recheck): Nothing new: the 1 Oct Shorts originality update, the reduced long form home feed rows, the Feb 2027 Partner Program bar, template sleep compilation suspensions and the reach re-evaluation after a switch to original work were all already in the tree; no November 2026 algorithm change was found. No leaves added. Chrome not available. Total 3424."
+  },
+  {
+   "date": "2026-11-20 01:50",
+   "note": "Run 1395 (Shorts and Reels algorithm (Instagram tools)): Most of Instagram's 2026 Reels guidance (length bands, auto captions, Features, Edits) was already in the tree; added the align tool for same spot transitions and the Reels trends destination with watch time insights. One design update page could not be read. Chrome not available. Total 3426."
   }
  ],
  "history": [
@@ -25231,6 +25245,10 @@
   {
    "date": "2026-11-20 01:49",
    "total": 3424
+  },
+  {
+   "date": "2026-11-20 01:50",
+   "total": 3426
   }
  ],
  "next_week_ideas": [
