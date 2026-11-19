@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:54:54+05:30",
- "runs": 920,
+ "updated": "2026-11-19T07:55:39+05:30",
+ "runs": 921,
  "branches": [
   {
    "id": "platforms",
@@ -3695,6 +3695,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 914
+    },
+    {
+     "t": "PostFast's study of about 5,900 Shorts (May to Sep 2026, each scored against its own channel's median) found 17:00 UTC (22:30 IST) the strongest posting hour at 1.29 times normal and 1 PM local time at 1.28 times, while 6 PM local was weak (0.80 times) and 22:00 to 23:00 UTC looked weak in small samples, so a bonus Short at 22:30 IST is worth testing against the Shorts that follow our 04:30 IST video.",
+     "src": "PostFast, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 921
+    },
+    {
+     "t": "In the same PostFast data Saturday (1.13 times) and Sunday (1.12 times) Shorts beat a channel's normal while Wednesday was weakest (0.89 times), and OpusClip data shows creators post fewest clips on Sunday and Monday, so weekend Shorts face less competition even though total weekend audiences are smaller in our Metricool model.",
+     "src": "PostFast and Bytecap (OpusClip), 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 921
+    },
+    {
+     "t": "YouTube's own position, repeated in Oct 2026 guides, is that publish time is not known to affect a video's long term performance and matters mainly for the first hours, so our slot choice is about a strong start with the right audience awake, while the song itself decides how far a video travels after day one.",
+     "src": "Bytecap, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 921
     }
    ]
   },
@@ -18992,10 +19013,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 04:42",
-   "note": "Run 842 (Shorts and Reels (length windows, speech amount, signal weights)): Instagram signal weights and Reels length limits were already in the tree. New: Virlo data says 67% of short video views go to clips under 30 seconds with drop off after 30 to 35 seconds and best windows of Reels 11 to 17 s, Shorts 15 to 35 s and TikTok 11 to 18 s; Revid's 6 Nov update found clips with almost no speech (under 40 characters) had a 123K median against 68K for talking throughout, 16 to 30 second clips had the best median and under 15 second clips the most shares per view. Total 2493."
-  },
-  {
    "date": "2026-11-19 04:43",
    "note": "Run 843 (other platforms (YouTube Music Christmas charts by country; Netflix and Roblox lists already in the tree)): A second TRENDS round in the same run was skipped. Netflix's 2026 animated top 10 and November's Roblox growers were already in the tree. New: in YouTube's last Christmas week chart (19 to 25 Dec 2025) Christmas classics filled five of the US top 10 and topped the UK, Germany and the Netherlands, but sat only at #53 in Brazil and nowhere in India's top 50, so Christmas songs should be timed for the US and Europe slot. Total 2495."
   },
@@ -19306,6 +19323,10 @@
   {
    "date": "2026-11-19 07:54",
    "note": "Run 920 (competitor deep dive (Super Simple Songs and Hey Bear Sensory)): Super Simple Songs (47.3M) is growing, not fading: monthly views climbed to a 12 month high of about 592M in October 2026 and it added 200K subscribers in 28 days while posting only 4 videos; its new hygiene song reached 1.54M views in 12 days. Hey Bear's catalogue was already in the tree. Total 2699."
+  },
+  {
+   "date": "2026-11-19 07:55",
+   "note": "Run 921 (posting times (PostFast Shorts timing data, OpusClip posting days)): PostFast's data on about 5,900 Shorts, each scored against its own channel's normal, found 17:00 UTC (22:30 IST) the strongest hour at 1.29x, 1 PM local time 1.28x, weekends about 12% above normal and Wednesday the weakest day, while late UTC hours were weak in small samples. No main slot change; added a one week bonus Short test at 22:30 IST to the posting plan. Total 2702."
   }
  ],
  "history": [
@@ -20324,6 +20345,10 @@
   {
    "date": "2026-11-19 07:54",
    "total": 2699
+  },
+  {
+   "date": "2026-11-19 07:55",
+   "total": 2702
   }
  ],
  "next_week_ideas": [
@@ -20524,6 +20549,6 @@
   ],
   "days": "Every day. Put the strongest song of the week and the weekly compilation on Friday; weekends get lighter, evergreen songs.",
   "shorts": "Short 5 minutes after each video; extra Shorts work best Thursday to Saturday evenings local time.",
-  "test": "Run this for 2 weeks, then compare in YouTube Studio (Audience: When your viewers are on YouTube) and move each slot to 2 to 3 hours before our real peaks."
+  "test": "Run this for 2 weeks, then compare in YouTube Studio (Audience: When your viewers are on YouTube) and move each slot to 2 to 3 hours before our real peaks. Extra test: post one bonus Short a day for a week at 22:30 IST (17:00 UTC, the strongest Shorts hour in PostFast's data) and compare its views with the Shorts that follow our two main videos."
  }
 }
