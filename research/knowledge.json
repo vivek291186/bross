@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:38:01+05:30",
- "runs": 1214,
+ "updated": "2026-11-19T16:38:58+05:30",
+ "runs": 1215,
  "branches": [
   {
    "id": "platforms",
@@ -4297,6 +4297,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1214
+    },
+    {
+     "t": "Meta's CFO said on the Q3 2026 call (21 Oct) that Instagram's upgraded Reels model ranks a whole sequence of Reels together rather than scoring each one alone, so a Bro Bros Reel is judged partly on how well it sits in a run of similar videos; keeping every Reel clearly in one lane (kids music and dance) helps it slot into family viewers' sequences.",
+     "src": "Social Media Today, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1215
+    },
+    {
+     "t": "Almost 45% of recommended Instagram Reels in Q3 2026 were less than one day old, up more than 11 points from Q2, and most Reels engagement now happens on the first day, so posting a new Reel every day matters far more than pushing old ones, and a Reel's first 24 hours decide most of its reach.",
+     "src": "Social Media Today, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1215
+    },
+    {
+     "t": "Meta also said doubling how much viewing history its Facebook Reels ranker can look at raised US Reels watch time by about 1%, a sign the ranker now leans more on a viewer's long term tastes, which rewards a channel whose every video fits one recognisable family niche.",
+     "src": "Social Media Today, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1215
     }
    ]
   },
@@ -22236,12 +22257,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:00",
-   "note": "Earlier: older log entries summarised; runs up to Run 1135 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:00",
-   "note": "Run 1136 (competitor deep dive (Kidshire, run in the markets slot because markets ran last round)): New: Kidshire (UAE, started Nov 2024) reached 6.21M subscribers and 15.6B views with only 160 videos, about 545M views in 28 days, yet vidIQ models only about 13K USD of ad income for that month, a sharp reminder that kids Shorts views pay very little. Total 3095."
+   "date": "2026-11-19 15:01",
+   "note": "Earlier: older log entries summarised; runs up to Run 1136 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:01",
@@ -22554,13 +22571,13 @@
   {
    "date": "2026-11-19 16:38",
    "note": "Run 1214 (YouTube algorithm (Hype and small channel discovery)): New: YouTube Hype, the boost for channels under 500K, is closed to made for kids videos, Shorts and videos with Content ID claims, so Bro Bros cannot use it and must grow through Suggested and Home matching instead. Everything else found (subscriber click rate about 10%, Suggested beating the Subs tab, Home slots for long videos) was already in the tree. Total 3163."
+  },
+  {
+   "date": "2026-11-19 16:38",
+   "note": "Run 1215 (Shorts and Reels algorithm (Meta Q3 2026 ranking statements)): New: Meta said in its Q3 2026 call that Instagram now ranks sets of Reels together instead of scoring each Reel alone, and that almost 45% of recommended Reels are under a day old (up 11 points from Q2), with most engagement on day one, so a fresh Reel every day and a clear, consistent kids music theme matter more than reposting old Reels. Total 3166."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:51",
-   "total": 2688
-  },
   {
    "date": "2026-11-19 07:52",
    "total": 2688
@@ -23756,6 +23773,10 @@
   {
    "date": "2026-11-19 16:38",
    "total": 3163
+  },
+  {
+   "date": "2026-11-19 16:38",
+   "total": 3166
   }
  ],
  "next_week_ideas": [
