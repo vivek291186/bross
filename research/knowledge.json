@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:50:11+05:30",
- "runs": 1383,
+ "updated": "2026-11-19T23:50:40+05:30",
+ "runs": 1384,
  "branches": [
   {
    "id": "platforms",
@@ -16218,6 +16218,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1383
+    },
+    {
+     "t": "A survey of 22,000 Polish children aged 7 to 9 by the Empowering Children Foundation found over 80% of first to third graders watch YouTube regularly, 66% own a smartphone and half already use social media despite the 13+ rule, so Poland's early school age audience is large and reachable through Polish dubs of our songs.",
+     "src": "polandinsight.com, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1384
+    },
+    {
+     "t": "In the same Polish survey more than 60% of 7 to 9 year olds had met disturbing content online, which is why parents there look for clearly safe, made for kids channels; strong safety signals (made for kids setting, calm thumbnails, no shock titles) help a new brand earn trust.",
+     "src": "polandinsight.com, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1384
     }
    ]
   },
@@ -23839,12 +23853,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:48",
-   "note": "Earlier: older log entries summarised (runs up to 1304); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:49",
-   "note": "Run 1305 (competitor deep dive (Pinkfong scale, CoComelon recheck)): Small: Pinkfong's Nov 2026 company figures show about 250B YouTube views and 320M subscribers across its channels, built from over 8,800 pieces in 25 languages, the clearest proof that one song catalogue multiplied by many languages is the engine. CoComelon's move to Disney+ and its Feb 2027 film were already in the tree. Total 3281."
+   "note": "Earlier: older log entries summarised (runs up to 1305); details are in git history."
   },
   {
    "date": "2026-11-19 19:49",
@@ -24157,13 +24167,13 @@
   {
    "date": "2026-11-19 23:50",
    "note": "Run 1383 (global markets (France)): Added French data: 86% of parents of 6 to 16 year olds say their children use YouTube to learn and like co viewing (OPEN 2026), and Arcom finds YouTube is the first TV app for a third of under 25s with long videos watched on the TV. Chrome not available. Total 3392."
+  },
+  {
+   "date": "2026-11-19 23:50",
+   "note": "Run 1384 (global markets (Poland)): Added Polish data: over 80% of 7 to 9 year olds watch YouTube, 66% own a smartphone and over 60% have met disturbing content, a case for Polish dubs and clear safety signals. Thailand pages were thin. Chrome not available. Total 3394."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:38",
-   "total": 3023
-  },
   {
    "date": "2026-11-19 13:39",
    "total": 3027
@@ -25359,6 +25369,10 @@
   {
    "date": "2026-11-19 23:50",
    "total": 3392
+  },
+  {
+   "date": "2026-11-19 23:50",
+   "total": 3394
   }
  ],
  "next_week_ideas": [
