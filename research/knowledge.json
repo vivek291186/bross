@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:37:37+05:30",
- "runs": 855,
+ "updated": "2026-11-19T05:38:30+05:30",
+ "runs": 856,
  "branches": [
   {
    "id": "platforms",
@@ -7650,6 +7650,41 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 844
+    },
+    {
+     "t": "A PLOS ONE study published 17 Nov 2026 (42 families, babies 6 to 12 months at the start) found that how often parents sang to their baby predicted the number of words the child said at 18 and 24 months (correlation about 0.45 and 0.62), more strongly than the overall home music level.",
+     "src": "PLOS ONE, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 856
+    },
+    {
+     "t": "Because the vocabulary link in that study comes from parents singing, not from recordings, Bro Bros songs work best as sing along prompts: on screen words, a slow repeated line and a pause that invites the parent to sing it back.",
+     "src": "PLOS ONE, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 856
+    },
+    {
+     "t": "An eLife preprint (Nguyen and others, 2026, 79 babies aged 3, 6 and 12 months, EEG plus video) found babies' brains respond more to real children's songs than scrambled ones from 3 months, and the response grows faster with age.",
+     "src": "news-medical.net, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 856
+    },
+    {
+     "t": "In the same study only the 12 month olds moved more to real songs than scrambled ones, mostly with their arms and upper body, and no baby moved on the beat, so dance moves for under twos should be arm waves and upper body bounces, not steps timed to the beat.",
+     "src": "news-medical.net, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 856
+    },
+    {
+     "t": "Six month olds in that study reacted more strongly to music with the melody raised an octave than to music with the bass lowered, which supports keeping lead vocals and hook melodies bright and high for the youngest viewers.",
+     "src": "news-medical.net, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 856
     }
    ]
   },
@@ -17834,11 +17869,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:57",
-   "note": "Run 778 (algorithm experiments and data (trends skipped after an empty trends round; AIR kids cases, playlists, YouTube born shows on Netflix)): AIR's kids channel cases (dubbing, Shorts mix, translated metadata) and the H1 2026 Netflix hours for YouTube born kids shows were already in the tree; no new leaves. Total 2342."
+   "note": "Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:58",
@@ -18151,13 +18182,13 @@
   {
    "date": "2026-11-19 05:37",
    "note": "Run 855 (TRENDS (NewEngen, SocialBee, Epidemic Sound and Tokchart mid November lists, Spotify Wrapped timing)): Nearly every format on this week's lists (Chipmunks jump kick spin, Dame Hombro, bicep heart, go go go, fan transition, Mariah 'It's time') was already in the tree. New: SocialBee's 12 Nov list adds 'boy, man, kebab' fight reaction stacks and a 'teaching him new habits' bowing prank, neither right for kids; Official Charts expects Spotify Wrapped on Wednesday 2 Dec 2026, so family year in review Reels should be ready by then. No trend bank change. Total 2534."
+  },
+  {
+   "date": "2026-11-19 05:38",
+   "note": "Run 856 (music craft (two new infant music studies)): Grammy kids nominees and newborn rhythm work were already in the tree. New: a PLOS ONE study (17 Nov 2026, 42 Nashville families) found parent singing at 6 to 12 months predicted more words at 18 and 24 months, more strongly than the general home music level; an eLife preprint (79 babies) found structured songs light up the brain from 3 months but babies only start moving more to real music at 12 months, mostly arms and upper body, and none moved on the beat. Total 2539."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:37",
-   "total": 2043
-  },
   {
    "date": "2026-11-16 16:37",
    "total": 2046
@@ -19353,6 +19384,10 @@
   {
    "date": "2026-11-19 05:37",
    "total": 2534
+  },
+  {
+   "date": "2026-11-19 05:38",
+   "total": 2539
   }
  ],
  "next_week_ideas": [
