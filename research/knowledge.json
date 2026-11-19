@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:48:39+05:30",
- "runs": 956,
+ "updated": "2026-11-19T09:49:16+05:30",
+ "runs": 957,
  "branches": [
   {
    "id": "platforms",
@@ -19662,6 +19662,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 954
+    },
+    {
+     "t": "Spotify Wrapped 2026 has no official date yet but is expected around Wednesday 2 Dec 2026, which starts the year end recap season on every platform; a 'Bro Bros 2026 in 60 seconds' recap Short of our top songs in early December fits that wave.",
+     "src": "Official Charts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 957
+    },
+    {
+     "t": "YouTube's 2026 Culture and Trends survey found 63% of viewers aged 14 to 44 watch more of what their friends watch and 46% see participation (sharing, remixing, commenting) as the clearest sign something has gone mainstream, so dance moves families can copy and share are what turn a song into a trend.",
+     "src": "AIR Media-Tech citing YouTube Culture and Trends, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 957
     }
    ]
   }
@@ -19689,11 +19703,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 877 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:53",
-   "note": "Run 878 (YouTube algorithm (mid November news check)): Nothing new: YouTube's 17 Nov Creator Premieres slate had no kids series, the Shorts consistency bonus pilot, the satisfied watch time shift, Ask YouTube and Nielsen's record 15.8% TV share were all already in the tree. No leaves added. Total 2603."
+   "note": "Earlier runs summarised: all rounds through Run 878 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:54",
@@ -20006,6 +20016,10 @@
   {
    "date": "2026-11-19 09:48",
    "note": "Run 956 (competitor deep dive (Lalafun main channel, ChuChu TV and Jumblikans)): Lalafun's main channel (15.2M) gained about 500K subscribers and 592M views in 28 days from only 13 uploads, after near zero growth in early 2026. ChuChu TV (98.2M) gained no subscribers in 28 days yet still earns about 223M views a month, now posting 24 minute story compilations; its Jumblikans channel's newest video had only 247K views in six weeks. Total 2799."
+  },
+  {
+   "date": "2026-11-19 09:49",
+   "note": "Run 957 (TRENDS (seasonal: year end recaps, YouTube Culture and Trends report)): Thin round. New: Spotify Wrapped 2026 is expected around Wednesday 2 Dec, opening the year end recap season (a 'Bro Bros 2026 in 60 seconds' recap Short fits it), and YouTube's 2026 Culture and Trends survey found 63% of young viewers watch more of what their friends watch, so songs kids share in class matter. Total 2801."
   }
  ],
  "history": [
@@ -21168,6 +21182,10 @@
   {
    "date": "2026-11-19 09:48",
    "total": 2799
+  },
+  {
+   "date": "2026-11-19 09:49",
+   "total": 2801
   }
  ],
  "next_week_ideas": [
