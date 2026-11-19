@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:55:39+05:30",
- "runs": 921,
+ "updated": "2026-11-19T07:56:42+05:30",
+ "runs": 922,
  "branches": [
   {
    "id": "platforms",
@@ -14587,6 +14587,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 887
+    },
+    {
+     "t": "The FTC's amended COPPA rule reached its full compliance date on 22 Apr 2026, civil penalties can reach about 53,000 USD per violation, and Disney paid 10M USD in Sep 2025 for relying on channel level labels, so every Bro Bros upload should be marked made for kids video by video, not only at channel level.",
+     "src": "PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 922
+    },
+    {
+     "t": "YouTube's machine learning can switch a video to 'made for kids' on its own, and once that label is set the creator cannot change it back without an appeal, so any non kids content we ever post (behind the scenes, adult tutorials) belongs on a separate channel.",
+     "src": "PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 922
+    },
+    {
+     "t": "The FTC decides whether content is child directed from its subject, visuals, animated characters, music, language, the ages of people shown and audience data, and a video does not count just because some children watch it, so our animated, song led videos are clearly made for kids and must carry that label on YouTube.",
+     "src": "PPC Land, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 922
     }
    ]
   },
@@ -19013,10 +19034,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 04:43",
-   "note": "Run 843 (other platforms (YouTube Music Christmas charts by country; Netflix and Roblox lists already in the tree)): A second TRENDS round in the same run was skipped. Netflix's 2026 animated top 10 and November's Roblox growers were already in the tree. New: in YouTube's last Christmas week chart (19 to 25 Dec 2025) Christmas classics filled five of the US top 10 and topped the UK, Germany and the Netherlands, but sat only at #53 in Brazil and nowhere in India's top 50, so Christmas songs should be timed for the US and Europe slot. Total 2495."
-  },
-  {
    "date": "2026-11-19 04:44",
    "note": "Run 844 (music craft (emotion cues for preschoolers, key changes, singing at home)): Suno v6 and the 2027 children's Grammy list were already in the tree. New: a Penn study of 144 preschoolers found they read emotion in 5 second clips best for high energy and major key music (36% against 25% chance), with calm and sad hardest; key changes fell from about a quarter of US No. 1 hits (1960s to 1990s) to one between 2010 and 2020; a 6,000 child New Zealand study shows parents sing less as children grow and children listen alone more. Total 2498."
   },
@@ -19327,6 +19344,10 @@
   {
    "date": "2026-11-19 07:55",
    "note": "Run 921 (posting times (PostFast Shorts timing data, OpusClip posting days)): PostFast's data on about 5,900 Shorts, each scored against its own channel's normal, found 17:00 UTC (22:30 IST) the strongest hour at 1.29x, 1 PM local time 1.28x, weekends about 12% above normal and Wednesday the weakest day, while late UTC hours were weak in small samples. No main slot change; added a one week bonus Short test at 22:30 IST to the posting plan. Total 2702."
+  },
+  {
+   "date": "2026-11-19 07:56",
+   "note": "Run 922 (rules and safety (TRENDS skipped, nothing new last round; COPPA amendments, AI enforcement rechecked)): AI enforcement news was already in the tree. New on COPPA: the FTC's amended rule took full effect on 22 Apr 2026, fines reach about 53,000 USD per violation, YouTube's systems can switch a video to 'made for kids' and the creator then cannot undo it without an appeal, and the FTC judges child direction from music, animated characters, visuals and language, all of which apply to us. Total 2705."
   }
  ],
  "history": [
@@ -20349,6 +20370,10 @@
   {
    "date": "2026-11-19 07:55",
    "total": 2702
+  },
+  {
+   "date": "2026-11-19 07:56",
+   "total": 2705
   }
  ],
  "next_week_ideas": [
