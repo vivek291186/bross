@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:39:57+05:30",
- "runs": 857,
+ "updated": "2026-11-19T05:40:39+05:30",
+ "runs": 858,
  "branches": [
   {
    "id": "platforms",
@@ -10310,6 +10310,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 851
+    },
+    {
+     "t": "Avengers: Doomsday opens on 18 Dec 2026 (rated for teens) and will dominate mid December entertainment chatter, while the only big under 10 cinema releases before Christmas are Disney's Hexed (25 Nov) and The Angry Birds Movie 3 (23 Dec), so our December songs compete less with kids films than with Christmas songs.",
+     "src": "parentingpatch.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 858
     }
    ]
   },
@@ -17863,6 +17870,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 855
+    },
+    {
+     "t": "Every November US kindergarten and first grade classes run a 'disguise a turkey' home project: children dress a paper turkey as something else (a firefighter, a snowman, a superhero of their own) so it will not be eaten, and parents share the results on Pinterest, Lemon8 and TikTok.",
+     "src": "teacher blogs and lemon8, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 858
+    },
+    {
+     "t": "The disguise a turkey idea is a ready made, kid safe reveal format for Thanksgiving week (26 Nov 2026): a silly character keeps changing costume to hide, which maps onto our locked camera outfit transition and a guessing game for the viewer.",
+     "src": "teacher blogs, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 858
     }
    ]
   }
@@ -17890,11 +17911,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:58",
-   "note": "Run 780 (our own results (Metricool YouTube videos 2 to 16 Nov)): Metricool's 2 to 16 Nov YouTube data (Giant Pumpkin 924 views top, long songs holding about 16 to 24 seconds, Shorts at 1 to 35 views) matched what the tree already records; no new leaves. Total 2342."
+   "note": "Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:36",
@@ -18207,13 +18224,13 @@
   {
    "date": "2026-11-19 05:39",
    "note": "Run 857 (visual craft (thumbnail, Blender and Meshy checks) plus a vidIQ first week views study): Thumbnail studies (vidIQ, Eden, 1of10), Blender 5.3 and Meshy's October changes were all already in the tree, and Meshy's changelog still shows no November entry. New from vidIQ's September study of 38.2M long videos: the top 1% took 54% of all first week views, the median video got about 234 first week views, 70% got under 1,000 and only 8.5% reached 10,000. Total 2542."
+  },
+  {
+   "date": "2026-11-19 05:40",
+   "note": "Run 858 (TRENDS (US Thanksgiving school crafts, December family film dates)): Most December film and Thanksgiving content was already in the tree. New: the US 'disguise a turkey' school project (children dress a paper turkey as something else so it is not eaten) fills Pinterest, Lemon8 and teacher blogs every November and is fully kid safe, so it went into the trend bank as a seasonal dress up reveal for 22 to 27 Nov. Also noted Avengers: Doomsday (18 Dec, 13+) will dominate mid December attention. Total 2545."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:38",
-   "total": 2048
-  },
   {
    "date": "2026-11-16 16:39",
    "total": 2051
@@ -19409,6 +19426,10 @@
   {
    "date": "2026-11-19 05:39",
    "total": 2542
+  },
+  {
+   "date": "2026-11-19 05:40",
+   "total": 2545
   }
  ],
  "next_week_ideas": [
@@ -19470,6 +19491,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Disguise the turkey",
+   "where": "US schools, Pinterest, Lemon8 and TikTok every November (Thanksgiving 26 Nov 2026)",
+   "status": "seasonal",
+   "use": "A 20 second Short or Reel with our own original turkey character who does not want to be found: the camera stays still, the Bros count 'one, two, three, hide!', and on each clap the turkey pops into a new costume (snowman, astronaut, pirate, traffic cone) while the Bros pretend not to see it; end with 'Where is the turkey?' on screen so kids shout the answer. Meshy prompt for the Bros: standing in place, hands over eyes, then hands open beside the face in surprise, then a shrug with both palms up."
+  },
   {
    "name": "Tiny hands groove",
    "where": "TikTok December dance style (minimal 'Ace Up' hand dance, Dec 2025, likely to return)",
@@ -19583,12 +19610,6 @@
    "where": "TikTok, Reels and Shorts every December",
    "status": "seasonal",
    "use": "An original Bro Bros Christmas song with exactly four looping moves the whole family can copy: step touch side to side with jingle hands, roll the arms forward, point up to the star, spin once in place with arms out. Meshy motion: standing, step right and left with hands shaking at shoulder height, then arm roll, then one arm points up, then a slow full turn in place."
-  },
-  {
-   "name": "Gnome army march",
-   "where": "TikTok and Reels every December (recurring seasonal meme)",
-   "status": "seasonal",
-   "use": "Big Bro and Little Bro in pointy felt hats lead a growing line of our own little gnome characters marching across the living room on our original marching song, one more gnome joining every bar until the whole army freezes and waves. Meshy steps, standing in place: high knee march on the spot, arms swinging; stop and salute; turn the head left and right peeking; a big two handed wave."
   }
  ],
  "posting_plan": {
