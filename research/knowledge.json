@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:03:04+05:30",
- "runs": 1274,
+ "updated": "2026-11-19T19:03:37+05:30",
+ "runs": 1275,
  "branches": [
   {
    "id": "platforms",
@@ -22917,6 +22917,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1266
+    },
+    {
+     "t": "A Korean comeback dance challenge launched on 26 Oct 2026 passed 100M cumulative views within days by pairing a super fast switch section (moves change so quickly it looks like an optical illusion) with one short cute repeated part, and about 25 idols, actors and creators joined; a fast switch plus a cute repeat is the current K pop challenge recipe.",
+     "src": "starnewskorea.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1275
+    },
+    {
+     "t": "Korean trot star Young Tak's 'Kkeokgeo' point move challenge (from Sep 2026, No. 7 on Instagram's popular audio chart) drew 24 idols, comedians and broadcasters and was also used for before and after transformation clips, showing that family friendly older style pop can launch a Reels challenge across generations in Korea.",
+     "src": "sports.khan.co.kr, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1275
     }
    ]
   }
@@ -22943,12 +22957,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 16:01",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 16:02",
-   "note": "Run 1196 (global markets (Nigeria: a fast growing new kids channel and local language channels)): New: Nigeria's Moja Magic TV, a small English ABC, phonics and animal sounds channel posting about 50 videos in 28 days (close to our two a day), jumped by 21K subscribers to 38.6K and drew about 46.5M views in 28 days while its long videos have only thousands of views, so Shorts carried it; Nigerian parent guides also recommend Yoruba and Igbo teaching channels and Bino and Fino, a Nigerian brother and sister cartoon. Total 3152."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 16:02",
@@ -23261,6 +23271,10 @@
   {
    "date": "2026-11-19 19:03",
    "note": "Run 1274 (Shorts and Reels (Trial Reels and child account rules recheck)): Nothing new: Trial Reels reach limits and scheduling, Instagram's 13+ teen default and the rules for adult managed accounts featuring children were already in the tree. No leaves added. Total 3264."
+  },
+  {
+   "date": "2026-11-19 19:03",
+   "note": "Run 1275 (TRENDS (K pop challenges)): New: a Korean comeback challenge passed 100M views with a super fast switch section plus one cute repeated part, and a trot star's point move challenge crossed generations on Instagram audio; added a 'fast switch illusion' entry to the trend bank using Blender cuts. Total 3266."
   }
  ],
  "history": [
@@ -23271,10 +23285,6 @@
   {
    "date": "2026-11-19 10:02",
    "total": 2824
-  },
-  {
-   "date": "2026-11-19 10:08",
-   "total": 2842
   },
   {
    "date": "2026-11-19 10:08",
@@ -24463,6 +24473,10 @@
   {
    "date": "2026-11-19 19:03",
    "total": 3264
+  },
+  {
+   "date": "2026-11-19 19:03",
+   "total": 3266
   }
  ],
  "next_week_ideas": [
@@ -24524,6 +24538,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Fast switch illusion",
+   "where": "K-pop challenges on TikTok, Shorts and Reels (Oct to Nov 2026, 100M+ views)",
+   "status": "rising",
+   "use": "In one 8 count of our own song the Bros swap places on every beat with a hard cut in Blender so they seem to teleport, then land side by side for a cute repeated part: both bounce twice, tap their cheeks with both pointer fingers, tilt heads left then right, then a small hop. Standing, in place, no floor moves. Loop the teleport section for a 10 second Short."
+  },
   {
    "name": "Slow rise squish",
    "where": "TikTok, Reels and Shorts toy and ASMR clips (squishy toys big in 2026)",
@@ -24637,12 +24657,6 @@
    "where": "TikTok, Reels, Shorts",
    "status": "seasonal",
    "use": "Day in the life montage in Blender: the brothers carry the tree in, string lights, hang one ornament per beat and switch on the lights on the last beat of our original song's chorus. 20 to 30 seconds, quick cuts on each beat, ends with both waving at the camera."
-  },
-  {
-   "name": "First decorations duo dance",
-   "where": "TikTok, Reels",
-   "status": "rising",
-   "use": "Both brothers stand side by side next to a half decorated tree and do a short bouncy 8 count routine to our own Christmas song: bounce on the spot twice, step right and clap, step left and clap, then both point at the star and jump once. Standing, in place, no floor moves. Film as a 15 second Reel and Short."
   }
  ],
  "posting_plan": {
