@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:51:54+05:30",
- "runs": 876,
+ "updated": "2026-11-19T06:52:48+05:30",
+ "runs": 877,
  "branches": [
   {
    "id": "platforms",
@@ -18283,6 +18283,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 876
+    },
+    {
+     "t": "India's YouTube trending list on 17 Nov 2026 showed no kids or cartoon videos at all, while Hindi, Malayalam and Telugu devotional songs (Hanuman, Sundarkand, Ayyappa, Karthika Monday songs) took several of the top 50 spots, so in India our kids songs grow through recommendations and kids searches, not the trending tab, and any devotional theme should be left to specialist channels.",
+     "src": "kworb.net, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 877
     }
    ]
   }
@@ -18310,11 +18317,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 798 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 00:56",
-   "note": "Run 799 (topics and seasons (trends skipped after an empty trends round; Amazon top toys, tween in and out lists)): Holiday dates and toy of the year lists were already in the tree; new: Amazon's 2026 top toys favour hatching, roaring and care for pet creatures, and a viral fifth grade 'in and out' poll says country music and being nice are in while brain rot slang is out. Total 2370."
+   "note": "Earlier runs summarised: all rounds through Run 799 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 00:57",
@@ -18627,6 +18630,10 @@
   {
    "date": "2026-11-19 06:51",
    "note": "Run 876 (YouTube main and Kids (Tubefilter Top 50 for 9 to 15 Nov; our Metricool data unchanged, so our own results were skipped)): In Tubefilter's most viewed chart for 9 to 15 Nov, 42 of the top 50 are mainly Shorts channels and India has 24 of them; a family Shorts channel, Fitu K Kitu, jumped 138% to 1.2B weekly views, nearly two thirds of its lifetime views in one week, and kids family brands like Koko and Golu (509M) and Keizo and Friends (444M) hold steady. Classic nursery song channels are absent from the top 50 views chart. Metricool still stops at 16 Nov, so no new data on our own channel. Total 2602."
+  },
+  {
+   "date": "2026-11-19 06:52",
+   "note": "Run 877 (TRENDS (India trending, meme roundups, December dates)): Christmas Jumper Day (10 Dec), Ugly Sweater Day (18 Dec), Wrapped (about 2 Dec) and this autumn's meme roundups were all already in the tree. New: India's YouTube trending list on 17 Nov had no kids videos at all; Hindi, Telugu and Malayalam devotional songs filled several spots during the Karthika month, so trending lists in India suit music and devotion, not kids songs. Total 2603."
   }
  ],
  "history": [
@@ -19469,6 +19476,10 @@
   {
    "date": "2026-11-19 06:51",
    "total": 2602
+  },
+  {
+   "date": "2026-11-19 06:52",
+   "total": 2603
   }
  ],
  "next_week_ideas": [
