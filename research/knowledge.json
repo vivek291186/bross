@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:59:56+05:30",
- "runs": 1232,
+ "updated": "2026-11-19T17:00:27+05:30",
+ "runs": 1233,
  "branches": [
   {
    "id": "platforms",
@@ -22377,11 +22377,7 @@
  "log": [
   {
    "date": "2026-11-19 15:44",
-   "note": "Earlier: older log entries summarised; runs up to Run 1153 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:44",
-   "note": "Run 1154 (YouTube algorithm (Shorts limits on TV and Precisify kids viewing rechecked)): Mostly known (Precisify's TV and co viewing numbers, the Shorts timer at zero). One addition: the zero minute Shorts limit only works in the phone and tablet apps, so on TVs and computers kids in those homes still see Shorts, another reason to post our Shorts as TV friendly 16:9 safe compositions too. Total 3117."
+   "note": "Earlier: older log entries summarised; runs up to Run 1154 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:44",
@@ -22694,13 +22690,13 @@
   {
    "date": "2026-11-19 16:59",
    "note": "Run 1232 (global markets (MENA and Bangladesh)): Small: YouTube's MENA 2025 review lists a Roblox gardening game, collectible plush charms and 'brainrot' memes among the region's top topics next to Ramadan and Eid, and family sketch creators (Om Saif 19.9M) among the top channels, so kid culture in the Arab world follows the same global game and toy waves. Arabic kids song channels and Bangla rhyme channels were already in the tree. Total 3183."
+  },
+  {
+   "date": "2026-11-19 17:00",
+   "note": "Run 1233 (competitor deep dive (Super Simple Songs and Mother Goose Club)): Nothing new: Super Simple's 20th anniversary facts (70M+ subscribers, 90B views, teacher roots), Caitie's Christmas party song and Mother Goose Club's flat subscribers and Halloween compilation were already in the tree. No leaves added. Total 3183."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 08:09",
-   "total": 2724
-  },
   {
    "date": "2026-11-19 08:36",
    "total": 2727
@@ -23895,6 +23891,10 @@
   },
   {
    "date": "2026-11-19 16:59",
+   "total": 3183
+  },
+  {
+   "date": "2026-11-19 17:00",
    "total": 3183
   }
  ],
