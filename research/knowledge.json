@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:50:30+05:30",
- "runs": 1308,
+ "updated": "2026-11-19T19:51:08+05:30",
+ "runs": 1309,
  "branches": [
   {
    "id": "platforms",
@@ -23066,10 +23066,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 16:53",
-   "note": "Run 1230 (visual craft (render and export settings for YouTube)): New: YouTube's official upload guidance says to keep the render's own frame rate (24, 25, 30, 48, 50 or 60) and suggests H.264 MP4 with Fast Start at about 8 Mbps for 1080p30 or 35 to 45 Mbps for 4K30, with AAC stereo audio at 48 kHz and 384 kbps, a ready Blender export preset for every Bro Bros video. Total 3181."
-  },
-  {
    "date": "2026-11-19 16:54",
    "note": "Run 1231 (topics and seasons (Computer Science Education Week, 7 to 13 Dec)): New: Computer Science Education Week 2026 runs 7 to 13 Dec, when classrooms worldwide do Hour of Code style no prep activities; a 'robot follows the code' dance song (step, turn, jump as commands) fits that week and teaches sequencing. Added as a song idea. Total 3182."
   },
@@ -23380,13 +23376,13 @@
   {
    "date": "2026-11-19 19:50",
    "note": "Run 1308 (YouTube main (most subscribed chart, own results skipped because checked in run 1296)): Nothing new: Tubefilter's most subscribed chart for 9 to 15 Nov (Brazilian and Mexican Shorts creators on top, COPITO and Chispita among the fastest growers, 36 of 50 mainly Shorts) was already in the tree. No leaves added. Total 3281."
+  },
+  {
+   "date": "2026-11-19 19:51",
+   "note": "Run 1309 (TRENDS (NewEngen 16 Nov list and parent trends)): Nothing new: NewEngen's 16 Nov TikTok list (chipmunks trio dance, Dame Hombro shoulder bounce, go go go, numbered adventure stories) and the 12 Nov parent trend about kids copying tablet videos were already in the tree. No leaves added. Total 3281."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:00",
-   "total": 2901
-  },
   {
    "date": "2026-11-19 11:00",
    "total": 2905
@@ -24581,6 +24577,10 @@
   },
   {
    "date": "2026-11-19 19:50",
+   "total": 3281
+  },
+  {
+   "date": "2026-11-19 19:51",
    "total": 3281
   }
  ],
