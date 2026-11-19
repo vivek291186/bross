@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:52:21+05:30",
- "runs": 1327,
+ "updated": "2026-11-19T20:52:53+05:30",
+ "runs": 1328,
  "branches": [
   {
    "id": "platforms",
@@ -15882,6 +15882,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1316
+    },
+    {
+     "t": "Kids First Espanol Latino (Mexico, 10.1M subscribers, mostly licensed Spanish dubbed preschool cartoon episodes, about 30 uploads a month) grew from about 27M views in June 2026 to 55M in October and about 70M in the 28 days to 19 Nov, so Latin American Spanish kids viewing rises strongly into the holiday season, a good moment for Spanish audio tracks on our songs.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1328
+    },
+    {
+     "t": "A Portugal based Portuguese nursery song channel (Kids Channel Portugues, 1.75M subscribers) held flat at about 8M to 10M views a month through 2026 with new uploads getting only about 6K views in five days, while its best videos are older Halloween and rhyme compilations, which suggests Brazilian Portuguese, not European Portuguese, is where the growth is.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1328
     }
    ]
   },
@@ -23335,12 +23349,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:36",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 18:37",
-   "note": "Run 1249 (YouTube algorithm (SEJ product news)): New: Beaupre says bigger desktop thumbnails with fewer choices raised long and short form engagement and YouTube runs hundreds of tests at once; the Shorts Get Feedback tool (hook, pacing, visuals) is US over 18 only; paid and bumper ad views now add to public counts. Total 3217."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 18:39",
@@ -23653,13 +23663,13 @@
   {
    "date": "2026-11-19 20:52",
    "note": "Run 1327 (TRENDS (first snow has arrived)): The season's first snowstorm reached interior New York, New England, the northern Mid Atlantic and Michigan's Upper Peninsula on 12 to 14 Nov 2026, earlier than the usual late November first snow, so the snow day happy dance moves from seasonal to rising and snow songs are timely now. Total 3320."
+  },
+  {
+   "date": "2026-11-19 20:52",
+   "note": "Run 1328 (global markets (Spanish and Portuguese kids channel momentum)): Kids First Espanol Latino (10.1M subscribers, Mexico, mostly licensed preschool cartoon episodes) doubled its monthly views from about 27M in June to 55M in October 2026 and about 70M in the 28 days to 19 Nov, a sign Latin American Spanish kids viewing climbs into the holidays; a Portugal based Portuguese songs channel stayed flat at 8M to 10M a month. Total 3322."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:46",
-   "total": 2940
-  },
   {
    "date": "2026-11-19 11:47",
    "total": 2941
@@ -24855,6 +24865,10 @@
   {
    "date": "2026-11-19 20:52",
    "total": 3320
+  },
+  {
+   "date": "2026-11-19 20:52",
+   "total": 3322
   }
  ],
  "next_week_ideas": [
