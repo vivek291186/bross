@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:37:50+05:30",
- "runs": 984,
+ "updated": "2026-11-19T10:39:15+05:30",
+ "runs": 986,
  "branches": [
   {
    "id": "platforms",
@@ -2092,6 +2092,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 971
+    },
+    {
+     "t": "Since April 2026 Instagram puts every under 18 account worldwide on a 13+ content default (parents must approve any change) that filters strong language, risky stunts and content encouraging harmful behaviour out of Reels, Explore, search and recommendations, so clean, gentle family Reels like ours are never limited by it.",
+     "src": "TechWyse, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 986
     }
    ]
   },
@@ -3884,6 +3891,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 961
+    },
+    {
+     "t": "Reels take about half of all time spent on Instagram (3 billion monthly users) and more than 700,000 Reels are sent in DMs every minute, which is why Mosseri ranks DMs, Reels and recommendations as Instagram's growth drivers and why shares to friends weigh so much in Reels reach.",
+     "src": "Lindsey Gamble, Sep 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 986
     }
    ]
   },
@@ -15385,6 +15399,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 961
+    },
+    {
+     "t": "Instagram teen accounts can no longer follow or see accounts that regularly post age inappropriate content, so a single risky stunt, rude word or scary clip on our Instagram could cut us off from older siblings and teen viewers; keep every Reel fully family safe.",
+     "src": "TechWyse, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 986
     }
    ]
   },
@@ -20095,15 +20116,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 905 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:43",
-   "note": "Run 906 (global markets (Brazil TIC Kids Online 2025, Precise US kids report)): Brazil's TIC Kids Online 2025 (2,370 children) shows 92% of 9 to 17 year olds online, 28% online by age 6, YouTube the leading platform at ages 9 to 12, and fewer 9 to 10 year olds owning phones (55%, down from 67%), so Brazilian kids watch on shared family screens; Precise's US kids survey puts YouTube at 78% reach of 2 to 12s and Shorts at 53%. Total 2662."
-  },
-  {
-   "date": "2026-11-19 07:44",
-   "note": "Run 907 (topics and seasons (TRENDS skipped, nothing new two rounds ago; Christmas 2026 home decor)): Christmas 2026 decor guides describe a swing to bright, maximalist rainbow lights and tinsel, bold red and green back after years of neutrals, giant bows, and families using the TV as decor with festive scenes and music, which supports colourful sets for our holiday songs and a calm 'Christmas TV' compilation. Total 2665."
+   "note": "Earlier runs summarised: all rounds through Run 907 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:45",
@@ -20412,6 +20425,14 @@
   {
    "date": "2026-11-19 10:37",
    "note": "Run 984 (TRENDS (holiday family formats: jingle baskets, first Christmas lights reactions)): This week's TikTok and Reels lists (SocialPilot 17 Nov, TokChart 18 Nov) were already in the tree. New seasonal family formats for the next weeks: the 'jingle basket' surprise (a winter treat basket given on 1 Dec or the first day off school) and 'first Christmas lights' reaction clips, which last year started around 16 Nov. Both added to the trend bank as seasonal. Total 2857."
+  },
+  {
+   "date": "2026-11-19 10:38",
+   "note": "Run 985 (YouTube algorithm (Beaupre subscriber feed, 2027 Partner Program clauses rechecked)): Nothing new: Todd Beaupre's September points (subscribers click 10% or less of uploads, topic matching for new channels) and the 1 Feb 2027 Partner Program changes (8,000 watch hours or 20M Shorts views for new applicants, 10M rolling Shorts floor, activity test, accept terms by 31 Jan) were already in the tree. No leaves added. Total 2857."
+  },
+  {
+   "date": "2026-11-19 10:39",
+   "note": "Run 986 (Shorts and Reels algorithm (Instagram teen 13+ default, Reels share of time)): Instagram's 13+ default for under 18 accounts went global in April 2026 and filters strong language, risky stunts and harmful behaviour out of Reels, Explore and search for teens, and teens cannot follow accounts that keep posting such content. Reels take about half of all Instagram time and over 700,000 Reels are sent in DMs every minute. Total 2860."
   }
  ],
  "history": [
@@ -20938,6 +20959,14 @@
   {
    "date": "2026-11-19 10:37",
    "total": 2857
+  },
+  {
+   "date": "2026-11-19 10:38",
+   "total": 2857
+  },
+  {
+   "date": "2026-11-19 10:39",
+   "total": 2860
   }
  ],
  "next_week_ideas": [
