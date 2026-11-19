@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:40:43+05:30",
- "runs": 1339,
+ "updated": "2026-11-19T21:41:40+05:30",
+ "runs": 1340,
  "branches": [
   {
    "id": "platforms",
@@ -15973,6 +15973,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1328
+    },
+    {
+     "t": "In Indonesia's weekly top 10 YouTube channels (7 Nov 2026) the only kids channels are two dubbed foreign brands: Tayo Bahasa Indonesia (27.5M subscribers, about 31.4M views in 30 days and about 1.01M views per upload, the best per upload in the top 10) and BabyBus Indonesian (28.9M, about 10.2M in 30 days), so a well dubbed vehicle or song brand can top a big local market.",
+     "src": "databoks.katadata.co.id, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1340
+    },
+    {
+     "t": "YouTube said (May 2026, Dec 2025 data) that over 6M viewers a day watch more than 10 minutes of auto dubbed videos and that dubbed versions keep about 75% of the original's average view duration; videos over 120 minutes are not dubbed, so dubbed spoken intros fit our normal songs but not 2 hour compilations.",
+     "src": "ppc.land, May 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1340
     }
    ]
   },
@@ -23475,12 +23489,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:48",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1260)."
-  },
-  {
    "date": "2026-11-19 18:49",
-   "note": "Run 1261 (YouTube algorithm (family settings and Hype recheck)): Nothing new: YouTube's Jan 2026 teens and families post (autoplay off for under 18s, Shorts timer, supervised content levels), Google TV kid profiles and Hype's made for kids exclusion were already in the tree. No leaves added. Total 3247."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1261)."
   },
   {
    "date": "2026-11-19 18:49",
@@ -23793,13 +23803,13 @@
   {
    "date": "2026-11-19 21:40",
    "note": "Run 1339 (TRENDS (16 Nov Reels list and December recap timing recheck)): Mostly nothing new: this week's Reels formats (it's time switch, one spot glow up, slow festive makeover, zoom in, then and now, shoulder shimmy) and the expected 2 Dec Spotify Wrapped were already in the tree; added a sibling 'can I move in with you' doorbell clip as a brothers story hook. Chrome not available. Total 3340."
+  },
+  {
+   "date": "2026-11-19 21:41",
+   "note": "Run 1340 (global markets (Indonesia chart and dubbing reach)): Dubbed Tayo and BabyBus are the only kids channels in Indonesia's 7 Nov top 10, with Tayo the best per upload of all ten; auto dubbed videos keep about 75% of the original watch time and skip videos over 2 hours. Nigeria growth figures were already in the tree. Chrome not available. Total 3342."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:54",
-   "total": 2961
-  },
   {
    "date": "2026-11-19 11:54",
    "total": 2963
@@ -24995,6 +25005,10 @@
   {
    "date": "2026-11-19 21:40",
    "total": 3340
+  },
+  {
+   "date": "2026-11-19 21:41",
+   "total": 3342
   }
  ],
  "next_week_ideas": [
