@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:36:08+05:30",
- "runs": 900,
+ "updated": "2026-11-19T07:37:49+05:30",
+ "runs": 901,
  "branches": [
   {
    "id": "platforms",
@@ -1910,6 +1910,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 890
+    },
+    {
+     "t": "School administrators can lock student YouTube to teacher assigned videos with no ads and no recommendations (Player for Education), and Securly data suggests most students spend only about five minutes a day on YouTube in school, so classroom plays of learning songs come from teachers choosing them, earn no ad money, and depend on clear educational titles teachers can find.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 901
+    },
+    {
+     "t": "YouTube added six educational games (physics, economics, music theory) to its Playables gaming hub in November 2026, built with partners such as Veritasium and Khan Academy; it is invitation based, not open to small channels, so it is something to watch rather than use for now.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 901
     }
    ]
   },
@@ -3569,6 +3583,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 896
+    },
+    {
+     "t": "YouTube's discovery lead Todd Beaupre said the system once tested a limit of about eight recommendations of the same video to one viewer and that clicks sometimes came only on later showings, so a song that is ignored the first few times it is shown can still be picked later; a fresh thumbnail can help it on those repeat showings.",
+     "src": "PPC Land (Creator Insider), Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 901
     }
    ]
   },
@@ -18586,10 +18607,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 02:41",
-   "note": "Run 822 (topics and seasons (Gen Alpha rooms, trending toy themes)): Skipped a second TRENDS round within minutes of the last. Season dates, toy lists and World Children's Day were already in the tree. New: Bloomberg's 2026 look at Gen Alpha rooms shows kids owning retro music gear (boomboxes, karaoke mics, drum machines) and loving disco, glitter, pandas and wizards; ABC News says squishy toys are having an especially big 2026. Added the song idea 'Boombox Beat Bros!'. Total 2415."
-  },
-  {
    "date": "2026-11-19 02:48",
    "note": "Run 823 (global markets (Saudi Arabia ranking, Plim Plim growth)): Dubbing and market size data were already deep in the tree. New: three of Saudi Arabia's 20 most subscribed channels are Arabic kids channels (two of them song channels, 24.3M and 22.1M), and Plim Plim reached 2B monthly views in May 2026, doubling in about two years with values based songs across languages. Total 2418."
   },
@@ -18900,6 +18917,10 @@
   {
    "date": "2026-11-19 07:36",
    "note": "Run 900 (YouTube main and Kids (vidIQ Christmas carol and small nursery channels; Metricool still ends 16 Nov, so own results skipped)): Metricool YouTube data still stops at 16 Nov, so the own results round was skipped. From vidIQ: the Christmas Songs and Carols channel (3.03M) was already pulling about 300K views a day from mid September to mid October and posted its 2026 playlist on 17 Oct, and its biggest videos are plain lyrics on screen carols, so our winter songs need lyric sing along versions out before December. Total 2641."
+  },
+  {
+   "date": "2026-11-19 07:37",
+   "note": "Run 901 (TRENDS (SocialPilot 17 Nov, Virlo) then algorithm and platform news): Trends: SocialPilot's 17 to 25 Nov list (soft launch reveal, same spot years apart, camera shy, ILLIT hand off hook) and Virlo's tracker held nothing the trend bank lacks, so the trend wave is unchanged. Algorithm and platform news: YouTube once tested capping a video at eight recommendations per viewer, teachers can lock school YouTube to assigned videos with no ads or suggestions, and Playables now has six educational games made only with partner creators. Total 2644."
   }
  ],
  "history": [
@@ -19838,6 +19859,10 @@
   {
    "date": "2026-11-19 07:36",
    "total": 2641
+  },
+  {
+   "date": "2026-11-19 07:37",
+   "total": 2644
   }
  ],
  "next_week_ideas": [
