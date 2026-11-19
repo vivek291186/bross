@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:49:30+05:30",
- "runs": 867,
+ "updated": "2026-11-19T05:49:51+05:30",
+ "runs": 868,
  "branches": [
   {
    "id": "platforms",
@@ -3492,6 +3492,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 865
+    },
+    {
+     "t": "Metricool's YouTube model for our channel for 20 to 26 Nov 2026 again peaks at 16:00 IST every day, highest on Wednesday (about 12,000) and Thursday (about 12,000), while Saturday (about 5,900) and Sunday (about 5,600) peaks are roughly half, so weekend uploads should be lighter evergreen songs as the plan says.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 868
+    },
+    {
+     "t": "On Friday 20 Nov the model scores 10:00 IST (10,537) and 16:00 IST (10,698) almost the same, so Friday's strongest song of the week can go out at 16:00 with an extra Short at 10:00 to catch the morning wave in India and the Gulf.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 868
+    },
+    {
+     "t": "Metricool rates 04:00 to 05:00 IST at only about 2,800 to 3,700 on weekdays (a quarter of the peak) because our current viewers are mostly outside the Americas; the 04:30 IST slot is a bet on building a US audience, so judge it by US views of those uploads after two weeks, not by Metricool's score.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 868
     }
    ]
   },
@@ -18149,11 +18170,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:50",
-   "note": "Run 790 (TRENDS (Later and SocialPilot Reels lists, year end trend reports)): Later's 13 Nov Reels list (5 stages, fixed camera outfit swap, appointment timestamps) and SocialPilot's audio list were already in the tree; new: Google's 2025 Year in Search put a mirror duo dance in the US top 10, so the early December 2026 year end lists are the next trend source to watch. Total 2362."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:51",
@@ -18466,13 +18483,13 @@
   {
    "date": "2026-11-19 05:49",
    "note": "Run 867 (TRENDS (US YouTube trending snapshot 18 Nov 2026)): Kabo's US trending snapshot of 18 Nov is led by satisfying build and fix Shorts and K pop videos; for families the new items are Pixar's 'Gatto' trailer (#24), quick drawing Shorts ('24 Hour Drawings', 'House Drawing') and a 'Monster Under the Bed' comedy Short, plus challenge formats like 'every step costs a dollar'. Added a draw it fast trend bank entry. Total 2579."
+  },
+  {
+   "date": "2026-11-19 05:49",
+   "note": "Run 868 (posting times (Metricool YouTube model for 20 to 26 Nov)): Metricool's YouTube model for 20 to 26 Nov keeps 16:00 IST as the daily peak (Wednesday and Thursday highest, about 12,000), with Friday 20 Nov almost tied between 10:00 and 16:00 and Saturday and Sunday peaks at only about half of Wednesday's. The 04:00 to 05:00 IST hour scores only about a quarter of the peak for our current audience, which is mostly not American yet, but the 04:30 slot stays for the US test. No slot change. Total 2582."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:44",
-   "total": 2059
-  },
   {
    "date": "2026-11-16 16:45",
    "total": 2061
@@ -19668,6 +19685,10 @@
   {
    "date": "2026-11-19 05:49",
    "total": 2579
+  },
+  {
+   "date": "2026-11-19 05:49",
+   "total": 2582
   }
  ],
  "next_week_ideas": [
