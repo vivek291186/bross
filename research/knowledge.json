@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T00:38:16+05:30",
- "runs": 1386,
+ "updated": "2026-11-20T01:37:07+05:30",
+ "runs": 1387,
  "branches": [
   {
    "id": "platforms",
@@ -12235,6 +12235,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1385
+    },
+    {
+     "t": "Pantone's 2027 home and interiors forecast ('Sense-Abilities') points to calm, comfort and joy, with seven palettes from bright 'Delight' and 'Elation' to cool blue green 'Lucid' and warm brown 'Honest'; for 2027 thumbnails and sets, calm cool backgrounds with one or two joyful bright accents (the Bros' outfits) match the coming colour mood.",
+     "src": "homepagenews.com (Pantone keynote), Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1387
     }
    ]
   },
@@ -23883,6 +23890,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1386
+    },
+    {
+     "t": "A new copy the clip dance trend ('Talk To Me Doja') started on TikTok on 7 Nov 2026 and spread through November: people recreate a short nervous dance from an anime pilot as exactly as they can and post it next to the original clip; the side by side 'can you copy it exactly?' shape is the part Bro Bros can borrow with our own dance and song.",
+     "src": "Know Your Meme, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1387
+    },
+    {
+     "t": "Trending sounds can double in under a week: one pop single's original clip on TikTok went from about 174K to 408K videos in six days in late October 2026, so a format riding a rising sound peaks fast and our version should ship within days, not weeks.",
+     "src": "que.es, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1387
+    },
+    {
+     "t": "As of 10 Nov 2026 tech news still only predicted Spotify Wrapped 2026 for Wednesday 2 December; Spotify had not confirmed it, so the Bro Bros year recap Short should be ready by 1 Dec but post on the day Wrapped actually lands.",
+     "src": "techloy.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1387
     }
    ]
   }
@@ -23909,12 +23937,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:49",
-   "note": "Summary of 2 earlier rounds: Summary of 2 earlier rounds: Earlier: ol; Run 1307 (rules and monetisation (AI pol"
-  },
-  {
    "date": "2026-11-19 19:50",
-   "note": "Run 1308 (YouTube main (most subscribed chart, own results skipped because checked in run 1296)): Nothing new: Tubefilter's most subscribed chart for 9 to 15 Nov (Brazilian and Mexican Shorts creators on top, COPITO and Chispita among the fastest growers, 36 of 50 mainly Shorts) was already in the tree. No leaves added. Total 3281."
+   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 19:51",
@@ -24227,6 +24251,10 @@
   {
    "date": "2026-11-20 00:38",
    "note": "Run 1386 (TRENDS (week of 16 to 22 Nov)): New this week: the 'This is your sign to' caption format is rising, 'expectation vs reality' face swaps are peaking, a deadpan long stare skit tag grew 69% in a week to 211.8M views, and a Christian Dior duo routine (back away, hand slap, kick, pose) ranks on the 13 Nov chart. Added three trend bank formats. Chrome not available. Total 3402."
+  },
+  {
+   "date": "2026-11-20 01:37",
+   "note": "Run 1387 (TRENDS (week of 16 to 22 Nov, recheck)): Most Reels and TikTok formats this week were already in the tree; new were the 'Talk To Me Doja' copy the clip dance (from 7 Nov), how fast rising sounds double, Pantone's calm and joyful 2027 colour forecast and that Wrapped 2026 is still unconfirmed. Added a side by side copy dance to the trend bank and dropped the fading hand slap duo. Chrome not available. Total 3406."
   }
  ],
  "history": [
@@ -25045,6 +25073,10 @@
   {
    "date": "2026-11-20 00:38",
    "total": 3402
+  },
+  {
+   "date": "2026-11-20 01:37",
+   "total": 3406
   }
  ],
  "next_week_ideas": [
@@ -25107,6 +25139,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Copy it exactly side by side",
+   "where": "TikTok, Reels, Shorts (copy the clip dances, from 7 Nov 2026, rising)",
+   "status": "rising",
+   "use": "Split screen Short: on the left a tiny 6 second Bro dance from our own song (step side right, step side left, two claps, wave both hands beside the face, small hop in place, freeze with a big smile); on the right the second Bro tries to copy it exactly and gets one move funny wrong, then both do it perfectly together. End card text: 'Can YOU copy it?'. Standing, in place, no floor moves."
+  },
+  {
    "name": "Expectation vs reality",
    "where": "TikTok formats, peaking 16 Nov",
    "status": "peak",
@@ -25117,12 +25155,6 @@
    "where": "TikTok formats, rising 16 Nov",
    "status": "rising",
    "use": "Caption 'This is your sign to dance before breakfast!' over a Bro mid yawn who suddenly bursts into the chorus of our wake up song; a kind nudge kids and parents can share."
-  },
-  {
-   "name": "Hand slap duo",
-   "where": "TikTok, 13 Nov chart",
-   "status": "fading",
-   "use": "Two Bros face each other in a Short to our own song: on four beats they step back, slap hands in the middle, each lifts one knee in a small kick, then both freeze in a big star pose. Meshy prompt: two people standing in place, step back, high five, small front kick, star pose."
   },
   {
    "name": "Lights on reveal",
