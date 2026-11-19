@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:54:21+05:30",
- "runs": 1072,
+ "updated": "2026-11-19T12:54:54+05:30",
+ "runs": 1073,
  "branches": [
   {
    "id": "platforms",
@@ -12193,6 +12193,27 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1023
+    },
+    {
+     "t": "The Geminid meteor shower peaks on the night of 13 to 14 Dec 2026 with a very dark sky (a thin crescent moon sets around 9 pm), giving about 75 to 150 shooting stars an hour in dark places, so a 'make a wish on a shooting star' song posted around 10 to 12 Dec matches what families will look up that week.",
+     "src": "Farmers' Almanac, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1073
+    },
+    {
+     "t": "December 2026's full moon is a supermoon on Christmas Eve (full at 01:28 UTC on 24 Dec, closest to Earth seven hours later, rising soon after sunset on the 24th), a ready made story hook for a Christmas Eve video: the brothers spot Santa's sleigh crossing the giant moon.",
+     "src": "BBC Sky at Night, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1073
+    },
+    {
+     "t": "Together with the 21 Dec solstice (longest night in the north), December 2026 offers three night sky moments in eleven days (Geminids 13 to 14 Dec, solstice 21 Dec, Christmas Eve supermoon), enough for a small 'winter sky' song family with one Short each.",
+     "src": "Farmers' Almanac / Sky at Night, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1073
     }
    ]
   },
@@ -21067,12 +21088,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:50",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 993 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:51",
-   "note": "Run 994 (topics and seasons (December classroom themes, cozy searches, classic Christmas taste)): Own results skipped again (no new Metricool data) and the Netflix and Roblox lists were already in the tree, so the round looked at December topics. Preschool teachers plan December around Christmas around the world, shorter colder days, gingerbread shapes, advent doors, gift wrapping, a snowy day obstacle course and New Year clocks; US 'cozy' searches peak every December; and in 46 of 50 US states the most searched Christmas song is from before 2010. Total 2878."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 994 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:52",
@@ -21385,6 +21402,10 @@
   {
    "date": "2026-11-19 12:54",
    "note": "Run 1072 (music craft (iTunes kids songs and Billboard Kid Albums rechecked)): Nothing new: the iTunes kids chart is still led by gentle faith and comfort songs, Danny Go! movement songs (Candy Cane Crush, Burning Energy) and Thanksgiving novelty songs, all already in the tree. No leaves added. Total 2996."
+  },
+  {
+   "date": "2026-11-19 12:54",
+   "note": "Run 1073 (topics and seasons (December 2026 night sky events; visual craft skipped, nothing new in run 1061)): Two December sky events were missing from the tree: the Geminid meteor shower peaks on the night of 13 to 14 Dec 2026 with a dark sky (thin crescent moon sets about 9 pm), and the December full moon is a Christmas Eve supermoon (01:28 UTC on 24 Dec). Added a shooting star wish song idea. Total 2999."
   }
  ],
  "history": [
@@ -22263,9 +22284,17 @@
   {
    "date": "2026-11-19 12:54",
    "total": 2996
+  },
+  {
+   "date": "2026-11-19 12:54",
+   "total": 2999
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Make a Wish, Shooting Star! (Winter Night Sky Song)",
+   "why": "The Geminids peak on 13 to 14 Dec 2026 under a dark sky and the Christmas Eve full moon is a supermoon; a gentle counting song (count the shooting stars, make a wish, spot the big moon) gives a calm bedtime option that every hemisphere and culture can share."
+  },
   {
    "title": "From Cat to Dog! (Word Ladder Spelling Song)",
    "why": "The 'Let's go from X to Y' word ladder game is trending on TikTok this week; a sing along where the brothers change one letter per beat (cat, cot, dot, dog) is learning parents value, works in any English speaking market and can become a weekly Shorts series."
@@ -22317,10 +22346,6 @@
   {
    "title": "Are We There Yet? (Family Road Trip Song)",
    "why": "Road trip searches rose about 530% on Pinterest; the Bros spot things out of the car window (cows, bridges, a rainbow) in a call and response game that works in any language and on any holiday drive."
-  },
-  {
-   "title": "Count With Captain Bro! (Firefighter Counting Song)",
-   "why": "Job hero plus counting Shorts are what Little Angel is pushing now; Big Bro as a friendly firefighter counts ladders, hoses and rescued kittens from 1 to 10, kid safe and easy to dub."
   }
  ],
  "trend_bank": [
