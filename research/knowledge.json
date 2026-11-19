@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:53:38+05:30",
- "runs": 1417,
+ "updated": "2026-11-20T02:54:25+05:30",
+ "runs": 1418,
  "branches": [
   {
    "id": "platforms",
@@ -13964,6 +13964,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1399
+    },
+    {
+     "t": "Across seven big 2026 holiday gift guides (count of 14 Nov 2026) a giggle toy and a dinosaur vehicle appear on six, a customisable slime kit and a reusable hatching shark egg on five, and singing dolls on four, which shows the play patterns kids want this December: giggles, dinosaurs, squishy sensory play, surprise reveals and singing.",
+     "src": "Playroom Chronicles, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1418
+    },
+    {
+     "t": "Gift guides note singing dolls 'having a moment' even with kids who do not follow the band behind them, because children sing along and stage their own concerts at home, a good hook for an original Bro Bros 'Living Room Concert' song where kids grab a hairbrush microphone and perform with the brothers.",
+     "src": "Playroom Chronicles, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1418
     }
    ]
   },
@@ -24347,10 +24361,6 @@
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
   },
   {
-   "date": "2026-11-19 21:40",
-   "note": "Run 1339 (TRENDS (16 Nov Reels list and December recap timing recheck)): Mostly nothing new: this week's Reels formats (it's time switch, one spot glow up, slow festive makeover, zoom in, then and now, shoulder shimmy) and the expected 2 Dec Spotify Wrapped were already in the tree; added a sibling 'can I move in with you' doorbell clip as a brothers story hook. Chrome not available. Total 3340."
-  },
-  {
    "date": "2026-11-19 21:41",
    "note": "Run 1340 (global markets (Indonesia chart and dubbing reach)): Dubbed Tayo and BabyBus are the only kids channels in Indonesia's 7 Nov top 10, with Tayo the best per upload of all ten; auto dubbed videos keep about 75% of the original watch time and skip videos over 2 hours. Nigeria growth figures were already in the tree. Chrome not available. Total 3342."
   },
@@ -24661,6 +24671,10 @@
   {
    "date": "2026-11-20 02:53",
    "note": "Run 1417 (visual craft (titles and thumbnails, YouTube's made for kids guide)): Added points from YouTube's own made for kids best practices guide (song name first, capitals and emoji only in the first 60 characters, logo on preschool thumbnails, running time on 10 minute plus thumbnails, on screen titles of related videos since end screens are off) and a vendor finding that 3 to 5 word thumbnail text helps in search but slightly hurts in browse. Chrome not available. Total 3464."
+  },
+  {
+   "date": "2026-11-20 02:54",
+   "note": "Run 1418 (topics and seasons (holiday toy play)): Holiday 2026 toy themes (nostalgia giggle toys, slime, blind boxes, hatching eggs, singing dolls) were mostly in the tree; added a 14 Nov count across seven gift guides showing which kinds of play repeat most, including singing dolls that kids use to stage their own living room concerts. Chrome not available. Total 3466."
   }
  ],
  "history": [
@@ -25603,6 +25617,10 @@
   {
    "date": "2026-11-20 02:53",
    "total": 3464
+  },
+  {
+   "date": "2026-11-20 02:54",
+   "total": 3466
   }
  ],
  "next_week_ideas": [
