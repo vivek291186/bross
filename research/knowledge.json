@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:40:34+05:30",
- "runs": 1147,
+ "updated": "2026-11-19T15:41:14+05:30",
+ "runs": 1148,
  "branches": [
   {
    "id": "platforms",
@@ -14846,6 +14846,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1145
+    },
+    {
+     "t": "Romania's biggest kids song channel, TraLaLa, has about 7.93M subscribers and 11B views, still earns about 149M views in 28 days (175M in October 2026) from nursery rhymes, animal and finger play songs, and posted traditional Romanian carols on 13 Nov 2026, so even a mid size European language supports a song channel at this scale and its December carol season starts in mid November.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1148
+    },
+    {
+     "t": "In Ukraine (Detector Media study, Aug 2025) about half of the top 20 kids YouTube channels are now voiced in Ukrainian, up from about one in the top 10 in 2023, and a Ukrainian language song channel made by Lviv authors is No. 2 with about 614M views behind Masha and the Bear; experts say parents now prefer native language channels that mix fun and learning, which supports dubbing our best songs into Ukrainian later.",
+     "src": "dev.ua (Detector Media), Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1148
+    },
+    {
+     "t": "English language kids channels still take two of Ukraine's top 10 kids channel slots (about 80M and 74M views), so our original English songs can reach Eastern European children directly before any dubbing.",
+     "src": "dev.ua (Detector Media), Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1148
     }
    ]
   },
@@ -21817,11 +21838,7 @@
  "log": [
   {
    "date": "2026-11-19 12:52",
-   "note": "Earlier: older log entries summarised; runs up to Run 1068 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:52",
-   "note": "Run 1069 (YouTube algorithm (Shorts freshness, view counting rechecked)): Nothing new: Shorts favouring fresh uploads, the September Shorts drops, views counted from the first frame and estimated TV co viewers in public counts were already in the tree. No leaves added. Total 2996."
+   "note": "Earlier: older log entries summarised; runs up to Run 1069 covered all focus areas."
   },
   {
    "date": "2026-11-19 12:52",
@@ -22134,6 +22151,10 @@
   {
    "date": "2026-11-19 15:40",
    "note": "Run 1147 (TRENDS (holiday dance and Thanksgiving searches)): One small addition: 30 second Suno made 'song about my family's holiday' posts are a live TikTok format (one about helping clean up after the Thanksgiving meal had about 225K views, 17 Nov 2026), which supports short clean up and helping songs for the holiday weeks. No new holiday dance found (iChristmas and Charlie Brown dance pages were undated or already known). Total 3103."
+  },
+  {
+   "date": "2026-11-19 15:41",
+   "note": "Run 1148 (global markets (Romania and Ukraine gaps)): Filled two market gaps: Romania's TraLaLa song channel has 7.93M subscribers, about 11B views and about 149M views in 28 days, and already posted Romanian Christmas carols on 13 Nov; in Ukraine (Detector Media, Aug 2025) half of the top 20 kids channels now speak Ukrainian and a Ukrainian song channel is No. 2, so local language song versions can win even where a giant brand leads. Total 3106."
   }
  ],
  "history": [
@@ -23312,6 +23333,10 @@
   {
    "date": "2026-11-19 15:40",
    "total": 3103
+  },
+  {
+   "date": "2026-11-19 15:41",
+   "total": 3106
   }
  ],
  "next_week_ideas": [
