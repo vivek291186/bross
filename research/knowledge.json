@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:54:59+05:30",
- "runs": 998,
+ "updated": "2026-11-19T10:56:33+05:30",
+ "runs": 1002,
  "branches": [
   {
    "id": "platforms",
@@ -7083,6 +7083,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 998
+    },
+    {
+     "t": "In Tubefilter's 9 to 15 Nov 2026 chart, family Shorts duos still hold the top: Sierra and Rhia English (#4, about 730M weekly views), Cadel and Mia (#6, 693M, down 22%) and Sierra and Rhia FAM (#7, 626M), so pairs of characters with simple everyday sibling or parent stories remain the strongest Shorts formula.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1002
+    },
+    {
+     "t": "New in the same week's top 50: Twin Twin (US, #40, about 331M weekly views) and Indonesia's Nabel Dan Mama (#49, about 302M), a mother and child duo, while Canada's Diary of 4 climbed nine places (+16%); twins and parent plus child pairs keep breaking in, which favours our two brothers as a fixed duo in every Short.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1002
     }
    ]
   },
@@ -20305,23 +20319,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 919 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:54",
-   "note": "Run 920 (competitor deep dive (Super Simple Songs and Hey Bear Sensory)): Super Simple Songs (47.3M) is growing, not fading: monthly views climbed to a 12 month high of about 592M in October 2026 and it added 200K subscribers in 28 days while posting only 4 videos; its new hygiene song reached 1.54M views in 12 days. Hey Bear's catalogue was already in the tree. Total 2699."
-  },
-  {
-   "date": "2026-11-19 07:55",
-   "note": "Run 921 (posting times (PostFast Shorts timing data, OpusClip posting days)): PostFast's data on about 5,900 Shorts, each scored against its own channel's normal, found 17:00 UTC (22:30 IST) the strongest hour at 1.29x, 1 PM local time 1.28x, weekends about 12% above normal and Wednesday the weakest day, while late UTC hours were weak in small samples. No main slot change; added a one week bonus Short test at 22:30 IST to the posting plan. Total 2702."
-  },
-  {
-   "date": "2026-11-19 07:56",
-   "note": "Run 922 (rules and safety (TRENDS skipped, nothing new last round; COPPA amendments, AI enforcement rechecked)): AI enforcement news was already in the tree. New on COPPA: the FTC's amended rule took full effect on 22 Apr 2026, fines reach about 53,000 USD per violation, YouTube's systems can switch a video to 'made for kids' and the creator then cannot undo it without an appeal, and the FTC judges child direction from music, animated characters, visuals and language, all of which apply to us. Total 2705."
-  },
-  {
-   "date": "2026-11-19 07:57",
-   "note": "Run 923 (YouTube main and Kids (own results skipped; HeyKids English and Kids Channel Preschool)): HeyKids English (4.78M) earns about 17M to 27M views a month and its biggest hits are a construction vehicle song (80M), a Halloween song (64M) and a train song (52M), with a Christmas version of a public domain action song at 27M. Kids Channel Preschool (826K) owes most of its 511M views to one phonics song (343M) and its new Santa song drew only 348 views in two days. Total 2708."
+   "note": "Earlier runs summarised: all rounds through Run 923 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:57",
@@ -20622,6 +20620,22 @@
   {
    "date": "2026-11-19 10:54",
    "note": "Run 998 (competitor and music (Super Simple Songs 2026 release rhythm)): Super Simple's 20 year story was already in the tree. New: its 2026 original songs come out on Thursdays, one every two weeks (19 between 8 Jan and 24 Sep: garbage truck, pets, eggs, ducks, family tree, vegetables, fruit, sports, shapes, trip, counting to 20, shoes, listening ears, hockey), with a studio of 40 plus staff and research ties to Oxford University Press in Spain. Total 2887."
+  },
+  {
+   "date": "2026-11-19 10:55",
+   "note": "Run 999 (TRENDS (Later's 13 Nov Reels roundup and Anijam November list rechecked)): Nothing new: Later's 13 Nov formats (5 stages of, locked camera outfit change, appointment timestamps) and the early Christmas countdown and cozy clips were already in the tree and trend bank; the duo choreography on a new pop song uses copyrighted audio we cannot use. No leaves added. Total 2887."
+  },
+  {
+   "date": "2026-11-19 10:55",
+   "note": "Run 1000 (music craft (children's singing range and pentatonic studies rechecked)): Nothing new: comfortable singing ranges by age (middle C to A for 3 to 5, strongest on F and G), tempo preference studies and the chorus hook rules were all already in the tree. No leaves added. Total 2887."
+  },
+  {
+   "date": "2026-11-19 10:55",
+   "note": "Run 1001 (visual craft (Meshy Text to Motion changelog rechecked)): Nothing new: Meshy's changelog still shows no animation change since Text to Motion launched in July 2026 (2 to 10 second clips, one simple action per prompt), all already in the tree. No leaves added. Total 2887."
+  },
+  {
+   "date": "2026-11-19 10:56",
+   "note": "Run 1002 (TRENDS (Tubefilter week of 15 Nov 2026: family Shorts duos)): Tubefilter's 9 to 15 Nov chart: family Shorts duos keep the top, with Sierra and Rhia English at #4 (730M weekly views), Cadel and Mia down 22% to #6, Canada's Diary of 4 up 16% to #16 and two new entries, Twin Twin (US, #40, 331M) and Indonesia's Nabel Dan Mama (#49, 302M), a mother and child duo. Total 2889."
   }
  ],
  "history": [
@@ -21204,6 +21218,22 @@
   {
    "date": "2026-11-19 10:54",
    "total": 2887
+  },
+  {
+   "date": "2026-11-19 10:55",
+   "total": 2887
+  },
+  {
+   "date": "2026-11-19 10:55",
+   "total": 2887
+  },
+  {
+   "date": "2026-11-19 10:55",
+   "total": 2887
+  },
+  {
+   "date": "2026-11-19 10:56",
+   "total": 2889
   }
  ],
  "next_week_ideas": [
