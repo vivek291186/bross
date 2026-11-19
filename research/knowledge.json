@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:39:32+05:30",
- "runs": 1389,
+ "updated": "2026-11-20T01:40:33+05:30",
+ "runs": 1390,
  "branches": [
   {
    "id": "platforms",
@@ -13838,6 +13838,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1385
+    },
+    {
+     "t": "In Japan, 31 December (Omisoka) is the one night children may stay up late: families clean the whole house before it, eat long 'year crossing' noodles for a long life, watch special TV and hear temple bells ring 108 times around midnight (about an hour), then visit a shrine in the first days of January; a Bro Bros New Year song for Japan can use the clean up, the long noodle stretch and a slow count of bell rings as its actions.",
+     "src": "Web Japan Kids, 2023",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1390
     }
    ]
   },
@@ -23960,6 +23967,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1387
+    },
+    {
+     "t": "Every December parents play 'helper elf stuck in the TV' videos (crackling static, a little elf asking for help after pressing the wrong button) on the family TV before children wake up; 10 hour YouTube versions exist, so an original Bro Bros 'Help, we're stuck in the TV!' December video, with our own elf and song, fits a habit families already search for on the TV screen.",
+     "src": "Romper, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1390
+    },
+    {
+     "t": "A gentle 'no watching, no reporting' elf tradition from TikTok (a resting elf who just gets one marshmallow a night, over 300K views) was praised by parents for avoiding the spying idea, so Bro Bros' own helper elf should be kind and playful, never a watcher who reports on children.",
+     "src": "Motherly, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1390
     }
    ]
   }
@@ -23986,12 +24007,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:51",
-   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
-  },
-  {
    "date": "2026-11-19 20:36",
-   "note": "Run 1311 (Shorts and Reels formats and Reels algorithm (reach recheck)): Small: Socialinsider's Jan 2025 to Aug 2026 data puts average Instagram reach rate down 14% year on year, with carousels (4.5%) slightly ahead of Reels (4.1%) and images (4.0%); Edits auto beat markers help cut Reels on our song beats; benchmark each Short against our own Shorts of the same length band. Total 3284."
+   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 20:39",
@@ -24304,6 +24321,10 @@
   {
    "date": "2026-11-20 01:39",
    "note": "Run 1389 (competitor deep dive (Dave and Ava, Mother Goose Club)): Dave and Ava's views grew about 21% year on year with five uploads a week and a 'Part 2' sequel of its bus song, while Mother Goose Club, at 1.5 uploads a week, fell about 38%; neither had a Christmas upload by 18 Nov. Little Treehouse stats could not be read. Chrome not available. Total 3413."
+  },
+  {
+   "date": "2026-11-20 01:40",
+   "note": "Run 1390 (TRENDS (seasonal, next 4 weeks)): Most December moments were already in the tree; new were Japan's Omisoka New Year customs (late night, long noodles, 108 bells), the yearly 'helper elf stuck in the TV' videos families play on the TV screen, and parents' liking for a kind elf that does not watch or report. Added 'Helper stuck in the TV' to the trend bank. Chrome not available. Total 3416."
   }
  ],
  "history": [
@@ -25134,6 +25155,10 @@
   {
    "date": "2026-11-20 01:39",
    "total": 3413
+  },
+  {
+   "date": "2026-11-20 01:40",
+   "total": 3416
   }
  ],
  "next_week_ideas": [
@@ -25196,6 +25221,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Helper stuck in the TV",
+   "where": "YouTube on the TV screen and Shorts, 1 to 24 Dec (seasonal, returns every year)",
+   "status": "seasonal",
+   "use": "A long, calm video for the family TV: TV static, then our own little helper elf (original design, not the trademarked one) waves from inside the screen, says it pressed the wrong button, and the Bros sing a short original 'Help Us Out' song while kids at home do the moves to free it (clap 3 times, stomp 3 times, spin once in place, push both hands forward). Loop it with snow and twinkle lights. Short version: 30 seconds of the same."
+  },
+  {
    "name": "Copy it exactly side by side",
    "where": "TikTok, Reels, Shorts (copy the clip dances, from 7 Nov 2026, rising)",
    "status": "rising",
@@ -25236,12 +25267,6 @@
    "where": "TikTok, Reels and Shorts (Nov 2026, into December costumes)",
    "status": "rising",
    "use": "Bros stand in pyjamas while a cartoon 'loading elf suit' bar fills on screen; freeze for half a beat, then snap cut to both Bros in our own original elf or snowman outfits exactly on the drop of our own song. Dance after the reveal: standing in place, hands on hips, two shoulder bounces, then a jump with both arms up."
-  },
-  {
-   "name": "Sketch to real reveal",
-   "where": "Instagram Reels (styling reveal format, 2026)",
-   "status": "evergreen",
-   "use": "Open on a white line art render of the Bros and their friends (Blender Freestyle lines on a plain background), hold one beat, then melt into the full colour 3D scene as our song's chorus starts. Works for every new song as a 6 second Reel opener."
   },
   {
    "name": "Dancer versus non dancer",
