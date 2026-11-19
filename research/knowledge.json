@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:48:52+05:30",
- "runs": 1344,
+ "updated": "2026-11-19T22:35:57+05:30",
+ "runs": 1345,
  "branches": [
   {
    "id": "platforms",
@@ -23512,6 +23512,41 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1339
+    },
+    {
+     "t": "A 'costume loading' TikTok format for November 2026 shows a person in everyday clothes under an on screen 'loading costume' bar, freezes the frame, then cuts to the full costume exactly on the beat drop; the reveal on the beat is the whole hook.",
+     "src": "que.es, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1345
+    },
+    {
+     "t": "An 'AI version versus handmade version' joke format is running on TikTok this November: first a glossy AI made version, then the wobbly real one, both done with the same playful shoulder bounce, so the humour comes from the contrast, not the dance.",
+     "src": "que.es, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1345
+    },
+    {
+     "t": "A photo carousel 'what I planned versus what I got' (four or five slides with the real, messier result last) is a November 2026 TikTok format; it fits our existing perfect versus real Christmas idea as a carousel post rather than a video.",
+     "src": "que.es, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1345
+    },
+    {
+     "t": "The 'Toe Shock' dance chain spreading on TikTok is built on simple syncopated foot taps with call and response timing, where one person calls a rhythm and the group answers; it is aimed at youth clubs and casual dancers and is easy to learn, but only one thin source describes it.",
+     "src": "thebrandindustry.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1345
+    },
+    {
+     "t": "The 'draw my outfit' Reel shows a rough white sketch of a look drawn over a frozen frame that then morphs into the real footage; for a 3D channel the same beat works as a line art or clay render that melts into the full colour render.",
+     "src": "picsart.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1345
     }
    ]
   }
@@ -23538,12 +23573,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:51",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1265)."
-  },
-  {
    "date": "2026-11-19 18:52",
-   "note": "Run 1266 (TRENDS (slang and December sounds)): Small: Christmas audio lists repeat last year's sounds already in the tree; new: 2026's most searched Gen Alpha slang shows 'bop' now reads as an insult, so we drop it from titles, and last December's knock on the screen reveal and swing beat making of Reels give two kid safe December shapes. Total 3257."
+   "note": "Earlier: older log entries summarised (runs up to 1266); details are in git history."
   },
   {
    "date": "2026-11-19 18:53",
@@ -23856,13 +23887,13 @@
   {
    "date": "2026-11-19 21:48",
    "note": "Run 1344 (our own results (Metricool recheck)): YouTube views for 5 to 16 Nov total about 10.9K (about 900 a day) with 20 new subscribers and 2 lost; data still ends 16 Nov. The 18 Nov Reels held viewers about 4 to 4.5 seconds; no 19 Nov Reel data yet. Chrome not available. Total 3349."
+  },
+  {
+   "date": "2026-11-19 22:35",
+   "note": "Run 1345 (TRENDS (November TikTok formats)): New formats this week are 'costume loading' (freeze, then cut to the costume on the beat), AI versus handmade shoulder bounce jokes, a planned versus real carousel, a call and response 'Toe Shock' foot tap chain (weak signal) and the sketch to real reveal; added two to the trend bank and dropped the fading Fast switch illusion and Slow rise squish. Chrome not available. Total 3354."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:56",
-   "total": 2966
-  },
   {
    "date": "2026-11-19 11:57",
    "total": 2969
@@ -25058,6 +25089,10 @@
   {
    "date": "2026-11-19 21:48",
    "total": 3349
+  },
+  {
+   "date": "2026-11-19 22:35",
+   "total": 3354
   }
  ],
  "next_week_ideas": [
@@ -25120,6 +25155,18 @@
  ],
  "trend_bank": [
   {
+   "name": "Costume loading bar",
+   "where": "TikTok, Reels and Shorts (Nov 2026, into December costumes)",
+   "status": "rising",
+   "use": "Bros stand in pyjamas while a cartoon 'loading elf suit' bar fills on screen; freeze for half a beat, then snap cut to both Bros in our own original elf or snowman outfits exactly on the drop of our own song. Dance after the reveal: standing in place, hands on hips, two shoulder bounces, then a jump with both arms up."
+  },
+  {
+   "name": "Sketch to real reveal",
+   "where": "Instagram Reels (styling reveal format, 2026)",
+   "status": "evergreen",
+   "use": "Open on a white line art render of the Bros and their friends (Blender Freestyle lines on a plain background), hold one beat, then melt into the full colour 3D scene as our song's chorus starts. Works for every new song as a 6 second Reel opener."
+  },
+  {
    "name": "Dancer versus non dancer",
    "where": "TikTok, Reels, YouTube Shorts (two person dance format, Nov 2026)",
    "status": "rising",
@@ -25178,18 +25225,6 @@
    "where": "Instagram Reels, YouTube Shorts (riding the late Nov magic film buzz)",
    "status": "rising",
    "use": "A 15 second Short with our own song: the big brother says our invented magic word, both Bros wiggle their fingers forward like sprinkling glitter, then point at a messy toy pile together; hard cut in Blender and every toy is back on the shelf, the Bros cheer with arms up. Meshy prompt: standing in place, wiggle fingers forward at chest height, then both arms point forward, then both arms up and a small hop. No wands or spells from any film, no character names."
-  },
-  {
-   "name": "Fast switch illusion",
-   "where": "K-pop challenges on TikTok, Shorts and Reels (Oct to Nov 2026, 100M+ views)",
-   "status": "rising",
-   "use": "In one 8 count of our own song the Bros swap places on every beat with a hard cut in Blender so they seem to teleport, then land side by side for a cute repeated part: both bounce twice, tap their cheeks with both pointer fingers, tilt heads left then right, then a small hop. Standing, in place, no floor moves. Loop the teleport section for a 10 second Short."
-  },
-  {
-   "name": "Slow rise squish",
-   "where": "TikTok, Reels and Shorts toy and ASMR clips (squishy toys big in 2026)",
-   "status": "rising",
-   "use": "Little Bro holds a giant soft snowball squishy, squeezes it on a long held 'squeeeeze' in our own winter song, then it slowly puffs back up as the music rises; both Bros do a slow rise move: standing with arms low and a soft knee bend, slowly lift both arms overhead and rise onto tiptoes, then one happy hop in place and a clap. Standing, in place, no floor moves. Loop the puff back moment for a 10 second Short."
   },
   {
    "name": "Matching pyjamas deadpan dance",
