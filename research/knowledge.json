@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:40:53+05:30",
- "runs": 947,
+ "updated": "2026-11-19T09:41:37+05:30",
+ "runs": 948,
  "branches": [
   {
    "id": "platforms",
@@ -6691,6 +6691,41 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 944
+    },
+    {
+     "t": "In Tubefilter's most viewed chart for 2 to 8 Nov 2026, about a dozen kids and family channels sit in the top 50, led by Cadel and Mia (890M weekly views even after a 24% drop) and two Sierra and Rhia channels (742M and 705M), so family skit Shorts still dominate global kids viewing.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 948
+    },
+    {
+     "t": "The Spanish language preschool channel El Tren Nam Nam fell 52% in one week (from 7th to 39th, about 360M weekly views) in early November 2026, a sign that huge Shorts driven kids channels can swing sharply week to week.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 948
+    },
+    {
+     "t": "GoBooBoo (US, 4.29M subscribers) has 2.27B views from only 197 videos; one finger family style video holds 930M, and its 'Boo Boo Song + Wheels on the Ambulance' pairing holds about 150M, showing that a familiar boo boo theme paired with a vehicle song is a proven combination.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 948
+    },
+    {
+     "t": "GoBooBoo's newest upload (a boo boo song, 12 Nov 2026) had only about 39K views after almost two days while the channel earns about 36M views in 28 days, so even big nursery channels live on their back catalogue and new songs build slowly.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 948
+    },
+    {
+     "t": "GoBooBoo's second biggest video is a gentle 'something in the dark' song (194M views), so a soft not scary 'who is in the dark?' song with a friendly reveal is a proven kids topic; our shy fluffy monster bedtime song fits it.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 948
     }
    ]
   },
@@ -19451,11 +19486,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 868 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:50",
-   "note": "Run 869 (YouTube algorithm and tools (Studio Insights and Research, 13 Nov 2026)): New: on 13 Nov 2026 YouTube announced that Studio's Analytics page becomes 'Insights' with plain language summaries, and a 'Research' tab replaces Trends, ranking outlier videos in our niche by how many times they beat their own channel's usual views, with a Videos versus Shorts filter; Ask Studio (the AI helper, now on mobile) is not available to made for kids channels. Playbook rule 9 now asks for an everyday safety song every other week, backed by Cocobi and Zoobees hits. Total 2585."
+   "note": "Earlier runs summarised: all rounds through Run 869 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:51",
@@ -19768,6 +19799,10 @@
   {
    "date": "2026-11-19 09:40",
    "note": "Run 947 (our own results (Metricool Reels to 18 Nov; YouTube still ends 16 Nov)): Instagram Reels recovered on 18 Nov: the veggie soup Reel (10:02 IST) reached 127 views and the freeze dance Reel (16:02 IST) 111, after a week of mostly 7 to 33 views; both captions open with a game cue. High 3 second view rate did not predict reach (digger 63% view rate, 31 views). YouTube data still ends 16 Nov. Total 2765."
+  },
+  {
+   "date": "2026-11-19 09:41",
+   "note": "Run 948 (YouTube main and Kids (TRENDS skipped, thin last round; Tubefilter 2 to 8 Nov, GoBooBoo)): Tubefilter's 2 to 8 Nov chart shows family vlog style channels still own the top (Cadel and Mia 890M a week even after a 24% drop), while the Spanish preschool channel El Tren Nam Nam fell 52% in one week. GoBooBoo (US, 4.29M) has 2.27B views from 197 videos but its newest upload had only about 39K views after two days, so its catalogue does the work. Total 2770."
   }
  ],
  "history": [
@@ -20894,6 +20929,10 @@
   {
    "date": "2026-11-19 09:40",
    "total": 2765
+  },
+  {
+   "date": "2026-11-19 09:41",
+   "total": 2770
   }
  ],
  "next_week_ideas": [
