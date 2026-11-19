@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:45:56+05:30",
- "runs": 1375,
+ "updated": "2026-11-19T23:46:41+05:30",
+ "runs": 1376,
  "branches": [
   {
    "id": "platforms",
@@ -8294,6 +8294,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1364
+    },
+    {
+     "t": "Pinkfong's Bebefinn Mother Goose music pad went straight to No. 1 on Amazon Japan in music toys and keyboard instruments in Nov 2026 and a Baby Shark alphabet bus leads English learning toys on Rakuten, so in Japan the songs sell as English learning tools.",
+     "src": "sports.khan.co.kr, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1376
+    },
+    {
+     "t": "Pinkfong is also opening Japan's first Baby Shark themed family hotel rooms at a hot spring resort near Tokyo and Bebefinn Christmas pop up shops in Tokyo (4 Dec) and Osaka (11 Dec) with about 50 new products, showing how a kids song brand grows into physical places once its characters are loved.",
+     "src": "sports.khan.co.kr, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1376
+    },
+    {
+     "t": "CoComelon: The Movie was first announced for 26 Feb 2027 (Nov 2025) and later given a 19 Feb 2027 date in Moonbug's first look (May 2026), so the 19 Feb date in the tree is the current one.",
+     "src": "tubefilter.com and moonbug.com, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1376
     }
    ]
   },
@@ -23749,11 +23770,7 @@
  "log": [
   {
    "date": "2026-11-19 19:45",
-   "note": "Earlier: older log entries summarised (runs up to 1296); details are in git history."
-  },
-  {
-   "date": "2026-11-19 19:45",
-   "note": "Run 1297 (TRENDS (classroom dance clips and Reels formats)): Nothing new: teacher and student dance battles (veggie dance, Zep challenge, Thumak Thumak join in one by one) and this week's Reels template lists were already in the tree. No leaves added. Total 3279."
+   "note": "Earlier: older log entries summarised (runs up to 1297); details are in git history."
   },
   {
    "date": "2026-11-19 19:46",
@@ -24066,13 +24083,13 @@
   {
    "date": "2026-11-19 23:45",
    "note": "Run 1375 (global markets recheck (Africa and Philippines)): Nothing new: YouTube reach and watch time growth in Nigeria, South Africa and Kenya, Ubongo's Akili and Me, Jeni and Keni and Philippine kids channel rankings were already in the tree. No leaves added. Chrome not available. Total 3379."
+  },
+  {
+   "date": "2026-11-19 23:46",
+   "note": "Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)): Added Pinkfong's Japan push (Bebefinn music pad No. 1 on Amazon Japan, Baby Shark alphabet bus top on Rakuten, Baby Shark hotel rooms and Christmas pop ups) and confirmed the CoComelon film's current 19 Feb 2027 date (it moved a week earlier from 26 Feb). Chrome not available. Total 3382."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:02",
-   "total": 3005
-  },
   {
    "date": "2026-11-19 13:02",
    "total": 3007
@@ -25268,6 +25285,10 @@
   {
    "date": "2026-11-19 23:45",
    "total": 3379
+  },
+  {
+   "date": "2026-11-19 23:46",
+   "total": 3382
   }
  ],
  "next_week_ideas": [
