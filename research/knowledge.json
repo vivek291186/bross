@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:45:37+05:30",
- "runs": 952,
+ "updated": "2026-11-19T09:46:19+05:30",
+ "runs": 953,
  "branches": [
   {
    "id": "platforms",
@@ -10058,6 +10058,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 950
+    },
+    {
+     "t": "For Christmas thumbnails, guides advise a bright cut out main subject on a dark winter background (deep green or night blue), small glows or a soft vignette for depth, and no more than three or four big bold words, or none if the picture tells the story.",
+     "src": "Kittl, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 953
+    },
+    {
+     "t": "YouTube's Test and Compare needs roughly 10,000 views during a two to four week test to pick a winner by watch time, and it is limited to Partner Program channels, so Bro Bros cannot run thumbnail tests yet and should instead compare similar songs posted on similar days.",
+     "src": "OutlierKit, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 953
     }
    ]
   },
@@ -19591,11 +19605,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 873 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:44",
-   "note": "Run 874 (TRENDS (Christmas wish list toys and family face trends)): Weekly Shorts and Reels lists had nothing new. New: The Entertainer's Christmas 2026 wish list leans on hatching prehistoric creatures, roaring electronic pets, bubble pop keyboard collectibles, tiny working retro music toys, singing dolls and slime, which gives toy themed song ideas without any brand. The 'split face' family resemblance edit (half one face, half the other) spread from parents to siblings in September; we can do it with our own two brothers only. (Split face kept as a leaf only; it is fading, so it stays out of the trend bank.) Total 2596."
+   "note": "Earlier runs summarised: all rounds through Run 874 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:45",
@@ -19908,6 +19918,10 @@
   {
    "date": "2026-11-19 09:45",
    "note": "Run 952 (music craft (Suno v6 Advanced Mode, Verona rhythm study rechecked)): The Verona rhythm study and most Suno v6 news were already in the tree. New for our workflow: v6 Advanced Mode sliders (Weirdness and Style Influence default 50%, a new Variety slider, Max Mode for consistent long vocals), voice memo, photo or video prompts, and Workspaces for keeping each week's songs apart. Total 2785."
+  },
+  {
+   "date": "2026-11-19 09:46",
+   "note": "Run 953 (visual craft (Christmas thumbnails, Test and Compare limits)): Thin round: thumbnail guides repeated known rules. New: Christmas thumbnails work best with three or four big words at most and a cut out bright subject on a dark winter background; Test and Compare needs about 10,000 views during the test, so our videos (under 1,000 views each) are still too small to test thumbnails. Total 2787."
   }
  ],
  "history": [
@@ -21054,6 +21068,10 @@
   {
    "date": "2026-11-19 09:45",
    "total": 2785
+  },
+  {
+   "date": "2026-11-19 09:46",
+   "total": 2787
   }
  ],
  "next_week_ideas": [
