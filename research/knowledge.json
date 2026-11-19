@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:36:08+05:30",
- "runs": 1102,
+ "updated": "2026-11-19T14:42:37+05:30",
+ "runs": 1103,
  "branches": [
   {
    "id": "platforms",
@@ -4199,6 +4199,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1094
+    },
+    {
+     "t": "Under Meta's proposed US settlement, notifications to minors are silenced on school days from 8 AM to 3 PM and overnight, so Reels alerts to teen siblings and young users land after school; our 23:00 UTC slot (6 PM New York, 3 PM Los Angeles) already sits after that window.",
+     "src": "npr.org, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1103
     }
    ]
   },
@@ -16568,6 +16575,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1091
+    },
+    {
+     "t": "Meta agreed in late Aug 2026 to a proposed settlement of up to about 17.1B USD with 50 US states, territories and DC: under 18 users get a default 2 hour daily limit only a parent can lift, an overnight block (reported as midnight or 10 PM to 6 AM), no notifications in school hours (8 AM to 3 PM) and hidden like counts, and Meta is pressing TikTok and YouTube to match.",
+     "src": "npr.org and wlrn.org, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1103
+    },
+    {
+     "t": "New York's law requiring a mental health warning label on platforms with addictive features (algorithmic feeds, autoplay, infinite scroll, like counts, push notifications) takes effect on 1 Jan 2027 unless blocked; NetChoice, whose members include YouTube, Instagram and TikTok, sued on 17 Nov 2026 on free speech grounds.",
+     "src": "petapixel.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1103
+    },
+    {
+     "t": "With California's AB 1709 (from 1 Jan 2027, fines up to 50K USD per child) and New York's labels both aimed at feeds and autoplay for minors, US discovery for under 16s may lean more on search, subscriptions and parent chosen playlists in 2027, so clear searchable titles and strong playlists are the safe bet for Bro Bros.",
+     "src": "stockanalysis.com and petapixel.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1103
     }
    ]
   },
@@ -21516,11 +21544,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1023 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:42",
-   "note": "Run 1024 (music craft (2026 infant music studies)): eLife (Jul 2026, 79 infants): babies' brains respond more to real song structure than shuffled notes from 3 months, but only 12 month olds move more to music, with rocking, swaying and clapping, and none move on the beat yet. A Bucknell study (May 2026) found the song itself mattered more to 8 to 12 month olds than which singer sang it. Total 2929."
+   "note": "Earlier: older log entries summarised; runs up to Run 1024 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:43",
@@ -21833,6 +21857,10 @@
   {
    "date": "2026-11-19 14:36",
    "note": "Run 1102 (TRENDS (Know Your Meme and SocialPilot, 17 to 19 Nov)): New: the 'toy on the thermostat' meme from a 2011 kids film clip (tiny figures placed somewhere odd and circled in red) and the 'cast as everyone' joke format; the rest of this week's list (soft launch, same spot years apart, ILLIT relay, Talk To Me Doja) was already in the tree. Total 3060."
+  },
+  {
+   "date": "2026-11-19 14:42",
+   "note": "Run 1103 (rules and safety (US teen limits and warning labels)): New: Meta's proposed settlement of up to about 17.1B USD with 50 US states and territories sets default 2 hour daily limits, overnight blocks and no notifications to minors in school hours (8 AM to 3 PM), and New York's social media warning label law (from 1 Jan 2027) was sued by NetChoice on 17 Nov 2026. YouTube's Shorts timer and the Disney COPPA case were already known. Total 3064."
   }
  ],
  "history": [
@@ -22831,6 +22859,10 @@
   {
    "date": "2026-11-19 14:36",
    "total": 3060
+  },
+  {
+   "date": "2026-11-19 14:42",
+   "total": 3064
   }
  ],
  "next_week_ideas": [
