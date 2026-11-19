@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:46:19+05:30",
- "runs": 1319,
+ "updated": "2026-11-19T20:46:47+05:30",
+ "runs": 1320,
  "branches": [
   {
    "id": "platforms",
@@ -23272,12 +23272,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:36",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:38",
-   "note": "Run 1241 (music craft (learning science for songs)): New: from a Sep 2026 research review, retrieval practice (asking kids to recall a word, not just repeating it) beats plain repetition for word learning in 4 to 6 year olds, extra on screen clutter lowers what 5 year olds learn, and singing together at home in childhood predicts singing ability later. Suno news (v5.5) was already in the tree. Total 3196."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:39",
@@ -23590,13 +23586,13 @@
   {
    "date": "2026-11-19 20:46",
    "note": "Run 1319 (rules and monetisation (AI kids content scrutiny)): The New York Times found over 40% of Shorts recommended after a CoComelon or Wheels on the Bus video were AI made (warped faces, garbled text, all under 30 seconds); YouTube removed the five cited channels from the Partner Program and YouTube Kids. Other rules checks (Disney COPPA case, YouTube Kids filters, Digital Fairness Act) were already in the tree. Total 3311."
+  },
+  {
+   "date": "2026-11-19 20:46",
+   "note": "Run 1320 (our own results (Metricool recheck)): Nothing new: at 20:47 IST Metricool's YouTube feed still ends at 16 Nov (2,150 subscribers) and Instagram Reels data covers only the 18 Nov Reels already analysed (freeze dance 111 views, 66% skip; veggie soup 127 views, 75% skip); the 19 Nov Reels have no data yet. No leaves added. Total 3311."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:04",
-   "total": 2916
-  },
   {
    "date": "2026-11-19 11:05",
    "total": 2917
@@ -24788,6 +24784,10 @@
   {
    "date": "2026-11-19 20:45",
    "total": 3309
+  },
+  {
+   "date": "2026-11-19 20:46",
+   "total": 3311
   },
   {
    "date": "2026-11-19 20:46",
