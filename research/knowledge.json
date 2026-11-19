@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:56:25+05:30",
- "runs": 1044,
+ "updated": "2026-11-19T11:56:59+05:30",
+ "runs": 1045,
  "branches": [
   {
    "id": "platforms",
@@ -2155,6 +2155,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1022
+    },
+    {
+     "t": "Adam Mosseri said (Apr 2026) that resharing a feed post or Reel to Stories does not boost its reach; feed posts and Reels are amplified through Explore and stay discoverable longer, so Bro Bros should spend effort on the Reel itself rather than on Story reshares.",
+     "src": "Pulse via Instagram, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1045
     }
    ]
   },
@@ -4010,6 +4017,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1019
+    },
+    {
+     "t": "Mosseri lists four Instagram ranking priorities for 2026: originality (the first maker beats reposters), recency (Instagram tracks the share of daily impressions from posts under 24 hours old and says it is rising), testing unknown public creators with non followers, and bigger ranking models, so a fresh original Reel every day at a steady time is exactly what the system is tuned to push.",
+     "src": "True Future Media, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1045
     }
    ]
   },
@@ -20844,11 +20858,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 965 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:56",
-   "note": "Run 966 (other platforms (TRENDS skipped, sources stale; Spotify kids genre popularity, Netflix animated 2026 rechecked)): Netflix's 2026 animated top 10 (Peppa, CoComelon, Little Angel, Bebefinn) was already in the tree. New: Spotify's kids genre popularity list is led by Halloween novelty songs, film songs and sleep audio (a 'Peaceful Sleep' lullaby, a baby sleep track with ocean sounds), with Baby Shark and Ms Rachel the only preschool originals in the top 20. Total 2818."
+   "note": "Earlier runs summarised: all rounds through Run 966 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:56",
@@ -21161,6 +21171,10 @@
   {
    "date": "2026-11-19 11:56",
    "note": "Run 1044 (TRENDS (Instagram Edits tools and CapCut templates)): Edits' in clip Reel links and Mac app were already in the tree. New detail: Instagram's web Effect Builder (9 Nov 2026) turns a text prompt and a style photo into a Stories effect, reviewed within about a day, listed in the Stories effects browser with a link back to the creator, a free way to give fans a branded Bro Bros effect. Total 2964."
+  },
+  {
+   "date": "2026-11-19 11:56",
+   "note": "Run 1045 (Shorts and Reels (Instagram ranking principles and Mosseri myth check)): Instagram's Mosseri says sharing a post to Stories does not boost its feed or Reels reach, and Instagram now tracks the share of daily impressions from posts under 24 hours old, which it says is rising, so fresh daily Reels get an edge. Parent Shorts off controls were already in the tree. Total 2966."
   }
  ],
  "history": [
@@ -21927,6 +21941,10 @@
   {
    "date": "2026-11-19 11:56",
    "total": 2964
+  },
+  {
+   "date": "2026-11-19 11:56",
+   "total": 2966
   }
  ],
  "next_week_ideas": [
