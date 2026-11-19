@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:52:10+05:30",
- "runs": 1266,
+ "updated": "2026-11-19T18:53:10+05:30",
+ "runs": 1267,
  "branches": [
   {
    "id": "platforms",
@@ -2358,6 +2358,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1262
+    },
+    {
+     "t": "The animated How the Grinch Stole Christmas was still No. 7 among Netflix English films in its ninth week (about 3.1M views, 9 to 15 Nov 2026) while new live action Christmas films opened weakly, so families lean on familiar animated holiday stories early in the season; an original 'grumpy turns kind' winter character song can ride that mood without borrowing the character.",
+     "src": "whats-on-netflix.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1267
+    },
+    {
+     "t": "What's on Netflix called this year's English Christmas film slate a weak start (A Dog's Perfect Christmas and The Gospel of Christmas both opened below past Wednesday holiday releases) while a Swedish Christmas film had one of the best Swedish openings ever, a hint that fresh local flavour beats generic holiday content this season.",
+     "src": "whats-on-netflix.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1267
     }
    ]
   },
@@ -22898,10 +22912,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 15:58",
-   "note": "Run 1188 (posting times (Metricool YouTube best times for 20 to 26 Nov rechecked, read only; own results skipped until the 16:00 post lands)): Nothing new: Metricool's YouTube model still peaks at 16:00 IST on every weekday (Friday 16:00 and 10:00 almost tied, weekends about half the weekday level), so the two posting slots stay unchanged. No leaves added. Total 3146."
-  },
-  {
    "date": "2026-11-19 15:59",
    "note": "Run 1189 (TRENDS (Japanese school kids' trends)): Nothing new: Shogakukan's 2025 school kids survey (AI hybrid animal memes, the ninja run dance, YouTuber dream jobs) was already in the tree, and no 2026 edition is out yet (last year's came on 26 Nov). No leaves added. Total 3146."
   },
@@ -23212,6 +23222,10 @@
   {
    "date": "2026-11-19 18:52",
    "note": "Run 1266 (TRENDS (slang and December sounds)): Small: Christmas audio lists repeat last year's sounds already in the tree; new: 2026's most searched Gen Alpha slang shows 'bop' now reads as an insult, so we drop it from titles, and last December's knock on the screen reveal and swing beat making of Reels give two kid safe December shapes. Total 3257."
+  },
+  {
+   "date": "2026-11-19 18:53",
+   "note": "Run 1267 (other platforms (Netflix top 10, taken in place of markets because the run formula never reaches this focus)): Small: Doozie's Doghouse, Danny Go!, Sing and A Dog's Perfect Christmas were already in the tree; added the animated Grinch still charting in week 9 and the weak English Christmas film slate versus a strong Swedish one. Total 3259."
   }
  ],
  "history": [
@@ -23222,10 +23236,6 @@
   {
    "date": "2026-11-19 10:02",
    "total": 2824
-  },
-  {
-   "date": "2026-11-19 10:03",
-   "total": 2827
   },
   {
    "date": "2026-11-19 10:03",
@@ -24414,6 +24424,10 @@
   {
    "date": "2026-11-19 18:52",
    "total": 3257
+  },
+  {
+   "date": "2026-11-19 18:53",
+   "total": 3259
   }
  ],
  "next_week_ideas": [
