@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:47:30+05:30",
- "runs": 1160,
+ "updated": "2026-11-19T15:48:05+05:30",
+ "runs": 1161,
  "branches": [
   {
    "id": "platforms",
@@ -7720,6 +7720,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1152
+    },
+    {
+     "t": "Malaysia's Upin and Ipin (Les' Copaque, about 26.5M subscribers and 17.4B views) still earned about 123M views in the 28 days to 19 Nov 2026 with no net subscriber growth, and its five most viewed uploads (100M to 139M each) are full episodes about everyday values and a festive song episode for Hari Raya, so a beloved twin pair plus long story episodes keeps a mature channel earning from its back catalogue.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1161
+    },
+    {
+     "t": "Little Buddy Kids (US, about 514K subscribers) drew about 96M views and 39K subscribers in the 28 days to 18 Nov 2026 with only 5 uploads, yet its most viewed long video has under 700K views, so nearly all of that reach comes from Shorts of classic songs and alphabet animals; a small song channel can reach 3M views a day through Shorts while its long videos stay small.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1161
     }
    ]
   },
@@ -21956,12 +21970,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 13:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1081 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:35",
-   "note": "Run 1082 (YouTube algorithm (November Studio and feed changes rechecked)): Mostly already known (co views, custom feeds, Research tab, Clips tool, Hype). New: Studio Insights now draws long videos and Shorts as separate lines with very different subscriber yields, saved keywords are leaving desktop Studio, and custom feeds allow 8 on Premium. Algorithm topic is close to saturated. Total 3017."
+   "date": "2026-11-19 13:37",
+   "note": "Earlier: older log entries summarised; runs up to Run 1082 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:37",
@@ -22274,13 +22284,13 @@
   {
    "date": "2026-11-19 15:47",
    "note": "Run 1160 (global markets (Morocco and Hungary gaps)): Filled two gaps: a small Moroccan Arabic learning channel (108K subscribers) drew about 23.7M views in 28 days almost entirely from Arabic alphabet song Shorts, one of which, using a famous cartoon character we must never copy, reached 115M; Hungary's long running OviTeve (206K subscribers, 295M views) lives on remixed preschool song Shorts at about 3M views a month, small but in a high paying language. Total 3123."
+  },
+  {
+   "date": "2026-11-19 15:48",
+   "note": "Run 1161 (competitor deep dive (Upin and Ipin, Little Buddy Kids)): New: Malaysia's Upin and Ipin (Les' Copaque, 26.5M subscribers, 17.4B views) still earns about 123M views in 28 days with zero net subscriber growth, its biggest videos being full 20 minute episodes on everyday values (wind, palm oil, charity, buy wisely) and a festive song episode; Little Buddy Kids (US, 514K subscribers) drew about 96M views in 28 days though no long video passes 1M, so its reach comes from Shorts. Total 3125."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 23:01",
-   "total": 2311
-  },
   {
    "date": "2026-11-17 00:36",
    "total": 2346
@@ -23476,6 +23486,10 @@
   {
    "date": "2026-11-19 15:47",
    "total": 3123
+  },
+  {
+   "date": "2026-11-19 15:48",
+   "total": 3125
   }
  ],
  "next_week_ideas": [
