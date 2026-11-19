@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:57:14+05:30",
- "runs": 923,
+ "updated": "2026-11-19T07:57:52+05:30",
+ "runs": 924,
  "branches": [
   {
    "id": "platforms",
@@ -1980,6 +1980,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 915
+    },
+    {
+     "t": "Metricool's 2026 Instagram study (24.4M posts, 375K accounts) found two thirds of a Reel's views and 61% of its interactions arrive in its first three days, so each Bro Bros Reel should be judged at day three, and a Reel that is flat by then is better re cut with a new opening than left to wait.",
+     "src": "Marketing4eCommerce (Metricool), 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 924
+    },
+    {
+     "t": "In the same study Reels volume rose 35% year on year while Reels reach rose only about 12% and views about 2%, and only 21% of accounts under 10,000 followers grew in 2026, so small accounts like ours are competing in a crowded Reels feed and need a clear repeated series format to stand out rather than more random posts.",
+     "src": "Marketing4eCommerce (Metricool), 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 924
     }
    ]
   },
@@ -19056,10 +19070,6 @@
   },
   {
    "date": "2026-11-19 04:45",
-   "note": "Run 845 (visual craft (Blender 5.3 animation and splat details; Meshy changelog has no new motion update)): Most Blender 5.3 and Meshy 7.1 changes were already in the tree, and Meshy's changelog shows no Text to Motion update since July. New: Blender 5.3 adds world space copy and paste of poses and Rigify B Bone fixes, compositor playback caching up to twice as fast, and native Gaussian splat import that renders in EEVEE and Cycles. Total 2501."
-  },
-  {
-   "date": "2026-11-19 04:45",
    "note": "Run 846 (posting times (Metricool best times for 19 to 25 Nov; topics round skipped, toy and film lists already in the tree)): Metricool's model for 19 to 25 Nov again puts YouTube's daily peak at 16:00 IST (Wednesday highest, Sunday about 47% of it) with 10:00 second, and Instagram's at 10:00 IST with a smaller 18:00 rise, so the two daily slots stay as they are; no slot change. Total 2503."
   },
   {
@@ -19369,6 +19379,10 @@
   {
    "date": "2026-11-19 07:57",
    "note": "Run 923 (YouTube main and Kids (own results skipped; HeyKids English and Kids Channel Preschool)): HeyKids English (4.78M) earns about 17M to 27M views a month and its biggest hits are a construction vehicle song (80M), a Halloween song (64M) and a train song (52M), with a Christmas version of a public domain action song at 27M. Kids Channel Preschool (826K) owes most of its 511M views to one phonics song (343M) and its new Santa song drew only 348 views in two days. Total 2708."
+  },
+  {
+   "date": "2026-11-19 07:57",
+   "note": "Run 924 (Shorts and Reels (Metricool 2026 Instagram study details)): Most of Metricool's 24M post Instagram study was already in the tree; new details are that two thirds of a Reel's views and 61% of its interactions come in its first three days, Reels reach rose about 12% year on year while Reels volume rose 35%, and only 21% of accounts under 10K followers grew in 2026, which matches our stalled 1 follower Instagram. Total 2710."
   }
  ],
  "history": [
@@ -20399,6 +20413,10 @@
   {
    "date": "2026-11-19 07:57",
    "total": 2708
+  },
+  {
+   "date": "2026-11-19 07:57",
+   "total": 2710
   }
  ],
  "next_week_ideas": [
