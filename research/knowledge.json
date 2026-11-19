@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:46:29+05:30",
- "runs": 864,
+ "updated": "2026-11-19T05:47:47+05:30",
+ "runs": 865,
  "branches": [
   {
    "id": "platforms",
@@ -1861,6 +1861,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 854
+    },
+    {
+     "t": "Netflix added two holiday 'playlist' series for kids in early November 2026 (Holiday Magic Playlist and Merry Little Playlist, rated TV-Y7), which play several kids shows back to back like a TV channel so families do not have to scroll.",
+     "src": "whats-on-netflix.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 865
+    },
+    {
+     "t": "Netflix first tested these kids playlists in Sep 2024 in the US, France, South Korea and Brazil with nine or ten themes (ABC, Animal, Bedtime, Birthday, Dinosaur, Math, Music, Science, Truck), each four to six titles, to cut scrolling and give a lean back FAST style experience; Disney+ offers a similar option.",
+     "src": "movieguide.org, Sep 2024",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 865
+    },
+    {
+     "t": "Netflix's early November 2026 kids additions also include Masha and the Bear season 7 (TV-Y) and a holiday scout elf squad series (TV-Y), showing that the preschool holiday shelf leans on returning brands rather than new ones.",
+     "src": "whats-on-netflix.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 865
     }
    ]
   },
@@ -3464,6 +3485,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 862
+    },
+    {
+     "t": "Because the big streamers now package kids viewing as themed, continuous playlists (bedtime, trucks, dinosaurs, music), Bro Bros should mirror those exact themes in its own YouTube playlists and 30 to 60 minute compilations, so a parent can press play once for a whole theme.",
+     "src": "movieguide.org and whats-on-netflix.com",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 865
     }
    ]
   },
@@ -18065,11 +18093,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:48",
-   "note": "Run 787 (TRENDS (December family films, classroom dance clips, B&T monthly lists)): December family films in Europe add forest and young whale nature stories, giving a new 'Little Whale Finds Her Song' idea; teacher led one by one classroom dance lines echo our dance parade format; B&T's latest lists were from 2025. Total 2355."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:49",
@@ -18382,13 +18406,13 @@
   {
    "date": "2026-11-19 05:46",
    "note": "Run 864 (TRENDS (holiday Reels guides, Roblox November growth list, meme roundups) plus a YouTube feed check): Nothing new this round: Planoly's December formats (12 days of, year in review, countdown to the New Year), GGRecon's November Roblox growth list (no update since 2 Nov), YouTube's prompt built custom feeds (8 Nov) and the 1 Oct original Shorts priority were all already in the tree, and this week's meme roundups are adult. No leaves added. Total 2567."
+  },
+  {
+   "date": "2026-11-19 05:47",
+   "note": "Run 865 (other platforms (Netflix kids playlists and early November kids releases)): Netflix's kids top 10s were already in the tree. New: Netflix added two holiday kids 'playlist' series in early November 2026 (Holiday Magic Playlist and Merry Little Playlist, TV-Y7), its channel style format that plays several shows back to back for under 8s, first tested in 2024 with themes like Bedtime, Music, Truck and Dinosaur; it also added Masha and the Bear season 7 and a holiday scout elf series. Lean back, themed, continuous viewing is where kids streaming is going, which supports our themed playlists and long compilations. Total 2571."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:43",
-   "total": 2059
-  },
   {
    "date": "2026-11-16 16:43",
    "total": 2059
@@ -19584,6 +19608,10 @@
   {
    "date": "2026-11-19 05:46",
    "total": 2567
+  },
+  {
+   "date": "2026-11-19 05:47",
+   "total": 2571
   }
  ],
  "next_week_ideas": [
