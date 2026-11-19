@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:53:49+05:30",
- "runs": 878,
+ "updated": "2026-11-19T06:54:45+05:30",
+ "runs": 879,
  "branches": [
   {
    "id": "platforms",
@@ -1889,6 +1889,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 873
+    },
+    {
+     "t": "In an AIR case published May 2026, the Spanish kids song channel WOA Song Spanish removed a large part of its long library that skirted kids content rules, audited every new video against kids quality rules before release and raised Shorts from 8 in Q3 to 31 in Q4 2025; views jumped from about 27M to 1.46B in a quarter (Shorts over 98% of them) and revenue rose about 345%, showing that a clean library plus steady Shorts can unlock huge reach.",
+     "src": "AIR Media-Tech, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 879
+    },
+    {
+     "t": "Another AIR kids case (Q3 to Q4 2025, published Apr 2026) cut long uploads from 21 to 11 and raised Shorts from 10 to 23 by clipping the funniest moments of existing long videos into vertical Shorts, moved to 4K as a minimum and kept on screen text away from the edges for TV viewing; views rose about 5.5% but revenue about 34%, so fewer, better long videos plus Shorts cut from them is a sound mix.",
+     "src": "AIR Media-Tech, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 879
     }
    ]
   },
@@ -13985,6 +13999,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 875
+    },
+    {
+     "t": "Deleting or privatising old videos that sit on the edge of kids quality rules (loud scare moments, risky stunts, misleading thumbnails) was the first step in AIR's biggest 2025 kids turnaround, so a quarterly clean up of weak or borderline Bro Bros uploads is worth doing as the library grows.",
+     "src": "AIR Media-Tech, May 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 879
     }
    ]
   },
@@ -18317,11 +18338,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 800 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:03",
-   "note": "Run 801 (competitor deep dive (Bebefinn, Lalafun and its Learning Time channel, BabyBus)): Bebefinn's ballet song and monthly views, Lalafun's May 2026 step up and its Learning Time side channel's verb plus baby helper titles were already in the tree, and BabyBus's vidIQ page had no 2026 data; no new leaves. Total 2372."
+   "note": "Earlier runs summarised: all rounds through Run 801 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:03",
@@ -18634,6 +18651,10 @@
   {
    "date": "2026-11-19 06:53",
    "note": "Run 878 (YouTube algorithm (mid November news check)): Nothing new: YouTube's 17 Nov Creator Premieres slate had no kids series, the Shorts consistency bonus pilot, the satisfied watch time shift, Ask YouTube and Nielsen's record 15.8% TV share were all already in the tree. No leaves added. Total 2603."
+  },
+  {
+   "date": "2026-11-19 06:54",
+   "note": "Run 879 (Shorts and Reels for kids (AIR kids channel cases)): Instagram news this week had nothing new for Reels ranking. New from two AIR kids channel cases: a Spanish kids song channel deleted long videos that skirted kids policies, raised Shorts from 8 to 31 a quarter and went from 27M to 1.46B views (Shorts 98% of views); another halved long uploads, doubled Shorts cut from its best long moments, moved to 4K with text kept off the edges for TV, and grew revenue about 34%. Total 2606."
   }
  ],
  "history": [
@@ -19484,6 +19505,10 @@
   {
    "date": "2026-11-19 06:53",
    "total": 2603
+  },
+  {
+   "date": "2026-11-19 06:54",
+   "total": 2606
   }
  ],
  "next_week_ideas": [
