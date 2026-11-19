@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:59:41+05:30",
- "runs": 1008,
+ "updated": "2026-11-19T11:00:35+05:30",
+ "runs": 1010,
  "branches": [
   {
    "id": "platforms",
@@ -2134,6 +2134,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1008
+    },
+    {
+     "t": "The network's quarter long jump came with a Shorts push: Shorts feed views went from 1.6M (6.6% of traffic) to 244.6M (82%), search fell to 6.5% of traffic, and daily views began climbing around day 47 of the push and held a higher floor through day 92, so a Shorts plan should be judged over about two to three months, not days.",
+     "src": "AIR Media-Tech case study, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1010
     }
    ]
   },
@@ -3975,6 +3982,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1008
+    },
+    {
+     "t": "AIR credits part of that Q4 growth to posting more in the weeks before New Year, giving YouTube more videos to test during the holiday viewing peak, which supports keeping our full two a day schedule through December rather than slowing down for the holidays.",
+     "src": "AIR Media-Tech case study, 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1010
     }
    ]
   },
@@ -13838,6 +13852,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1003
+    },
+    {
+     "t": "In an AIR case of one creator's kids channel network (Oct to Dec 2025 vs Jul to Sep), the Brazilian Portuguese channel jumped from 13.5M to 278.6M views (+1962%) and made 93% of the network's views, while the English channel fell 7%, the strongest sign yet that a Portuguese version can outgrow the English original.",
+     "src": "AIR Media-Tech case study, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1010
+    },
+    {
+     "t": "In the same network, Spanish grew revenue fastest (+1707% on +703% views) and Hindi next (+1231% revenue on +216% views), while Portuguese views brought less revenue per view (+762%), so Portuguese is the reach market and Spanish the money market among our dubbing targets.",
+     "src": "AIR Media-Tech case study, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1010
     }
    ]
   },
@@ -20403,15 +20431,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 929 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 08:02",
-   "note": "Run 930 (visual craft (thumbnail study rechecked; Kidscreen Awards 2026 winners)): The vidIQ thumbnail study was already in the tree. From the 2026 Kidscreen Awards: the best preschool YouTube channel went to a hit Australian dog family brand's channel, the best kids YouTube channel to a wildlife and conservation brand (Earth Rangers), and the preschool animation prizes to bold, graphic 2D style shows, while a stop motion studio's special won for Christmas carols, so craft and a clear look win the industry's top prizes. Total 2719."
-  },
-  {
-   "date": "2026-11-19 08:03",
-   "note": "Run 931 (TRENDS (B&T's November TikTok list, Feet to face reveal, kitchen dances)): B&T's 2 Nov TikTok list adds family friendly formats not in the bank: people filming a partner or family member breaking into an unprompted 'kitchen performance' dance, a straight faced question to mum that sparks a funny reaction, and a camera that starts at the feet and rises on the beat to reveal a costume. Added 'Unprompted kitchen dance' to the trend bank. Total 2722."
+   "note": "Earlier runs summarised: all rounds through Run 931 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 08:09",
@@ -20720,6 +20740,14 @@
   {
    "date": "2026-11-19 10:59",
    "note": "Run 1008 (TRENDS (platform trend reports: Metricool TikTok study, YouTube Culture and Trends 2026)): Metricool's study of 2.31M TikTok posts (Jan to Feb 2026 vs 2025) found posting volume up 72% while average views per post fell 31%, with 96% of reach coming within 10 days and 6 to 9 PM local the global peak; captions asking for likes got 60% fewer likes but questions got 26% more comments. YouTube's 2026 Culture and Trends report says 65% of 14 to 44 year olds feel something is more real when it is on YouTube. Total 2901."
+  },
+  {
+   "date": "2026-11-19 11:00",
+   "note": "Run 1009 (Shorts and Reels (Metricool 2026 YouTube and Instagram studies rechecked)): Nothing new: Metricool's 2026 YouTube study (799,718 videos: Shorts views up 127%, long form average view duration down to about 2.5 minutes, ad revenue down 55%, best at 2 to 4 long uploads a week) was already in the tree. No leaves added. Total 2901."
+  },
+  {
+   "date": "2026-11-19 11:00",
+   "note": "Run 1010 (global markets (AIR multi language kids network case, Q4 2025)): An AIR case of one creator's kids channels in several languages (Q4 2025 vs Q3): portfolio views rose from about 24M to 299M, driven by the Brazilian Portuguese channel (13.5M to 278.6M views, 93% of all views) and a Shorts push (Shorts feed from 6.6% to 82% of traffic), while the English channel fell 7%; Spanish and Hindi grew revenue most (+1707% and +1231%). Total 2905."
   }
  ],
  "history": [
@@ -21342,6 +21370,14 @@
   {
    "date": "2026-11-19 10:59",
    "total": 2901
+  },
+  {
+   "date": "2026-11-19 11:00",
+   "total": 2901
+  },
+  {
+   "date": "2026-11-19 11:00",
+   "total": 2905
   }
  ],
  "next_week_ideas": [
