@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:46:54+05:30",
- "runs": 1408,
+ "updated": "2026-11-20T02:48:51+05:30",
+ "runs": 1410,
  "branches": [
   {
    "id": "platforms",
@@ -24177,6 +24177,27 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1407
+    },
+    {
+     "t": "A mid November 2026 TikTok sound called the 'official soundtrack to impatience' (an original voiceover repeating 'go go go') is used with on screen thoughts while someone waits for something; it maps neatly onto children waiting for Christmas, a birthday or snow.",
+     "src": "Buffer, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1410
+    },
+    {
+     "t": "As of 18 Nov 2026 TikTok's Creative Center still showed no trending audio lists while it was 'undergoing some changes', so weekly sound tracking still depends on roundups like SocialPilot and Buffer rather than TikTok's own charts.",
+     "src": "Buffer, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1410
+    },
+    {
+     "t": "SocialPilot's 17 to 25 Nov 2026 TikTok outlook lists the cultural moments for that week as Starbucks Red Cup Day (17 Nov), the GTA VI launch (19 Nov, adult rated so not for us), a big film release on 20 Nov and Thanksgiving prep, with the Christmas classic sound already at about 16.4M videos, so family holiday content is in full swing a month before Christmas.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1410
     }
    ]
   }
@@ -24205,14 +24226,6 @@
   {
    "date": "2026-11-19 20:46",
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
-  },
-  {
-   "date": "2026-11-19 20:53",
-   "note": "Run 1330 (TRENDS (17 Nov dance list, K-pop video milestones)): GoDance's 17 Nov list names three TikTok dances: a sharp, fruity high energy routine linked to KATSEYE, a two person Jersey Club bounce often done as 'dancer versus non dancer', and an 'Addicted' freestyle challenge; BABYMONSTER's 'Choom' performance video passed 100M views in about six months. The dancer versus non dancer pairing is a perfect brother format. Total 3324."
-  },
-  {
-   "date": "2026-11-19 20:54",
-   "note": "Run 1331 (YouTube main (small nursery channel movers; rules and own results skipped as just done)): Nursery Rhyme Street (1.96M subscribers, about 35 uploads in 28 days) had its best 2026 month in October (about 19M views), and a 'spooky pizza party with skeletons' song from May 2026 already has about 14M views, more proof that friendly skeleton songs work all year; a LooLoo Kids linked remix channel with 44 videos has stalled since its last upload in Oct 2024. Total 3326."
   },
   {
    "date": "2026-11-19 20:55",
@@ -24521,6 +24534,14 @@
   {
    "date": "2026-11-20 02:46",
    "note": "Run 1408 (music craft (Suno tools)): New: Suno launched 'Visuals' on 17 Nov 2026, turning a song into lip synced video clips of up to 15 seconds with separate video credits; noted how Bro Bros can use it for quick lyric teasers and storyboards while keeping the Blender brothers as the real videos. Two new 2026 child music studies could not be read. Chrome not available. Total 3444."
+  },
+  {
+   "date": "2026-11-20 02:47",
+   "note": "Run 1409 (visual craft recheck (Meshy and Blender)): Nothing new: Meshy's changelog has no November entries and its October items (T2.5, N1 textures, Meshy Edit, Auto Split on textured models) were already in the tree; Text to Motion is still the July 2026 version, and Blender 5.1 and 5.3 were covered. No leaves added. Chrome not available. Total 3444."
+  },
+  {
+   "date": "2026-11-20 02:48",
+   "note": "Run 1410 (TRENDS (17 to 25 Nov TikTok and Reels roundups)): Most formats were already in the tree (Paid Me No Mind, camera shy pets, years apart, Under Arrest hook pass, 5 stages, timestamps). New: the 'soundtrack to impatience' go go go voiceover, a natural fit for kids waiting for Christmas, and that TikTok's Creative Center trend audio lists were still unavailable on 18 Nov. Added 'Waiting is hard, go go go' to the trend bank and dropped the older puppy duet. Chrome not available. Total 3447."
   }
  ],
  "history": [
@@ -25427,6 +25448,14 @@
   {
    "date": "2026-11-20 02:46",
    "total": 3444
+  },
+  {
+   "date": "2026-11-20 02:47",
+   "total": 3444
+  },
+  {
+   "date": "2026-11-20 02:48",
+   "total": 3447
   }
  ],
  "next_week_ideas": [
@@ -25501,6 +25530,12 @@
    "use": "A 5 to 8 second vertical Short with our own jingly Christmas chorus: both Bros in Santa hats stand in front of our 3D Christmas tree and do the tiny routine three times: sway left and right for four beats, clap once above the head, then one small turn in place. Meshy prompt: standing in place, gentle side to side sway, one overhead clap, a slow 360 degree turn, no floor moves. End with the caption 'Your turn! Sway, clap, spin!' so families copy it."
   },
   {
+   "name": "Waiting is hard, go go go",
+   "where": "TikTok 'soundtrack to impatience' voiceover, mid Nov 2026",
+   "status": "rising",
+   "use": "A 10 to 15 second Short with our own fast chant ('Go go go, is it Christmas yet?'): Little Bro stares at the advent calendar, on screen thought bubbles count the days, and both Bros do a quick impatient dance: fast running on the spot, two quick claps, arms pumping up and down, then freeze and look at the camera. Meshy prompt: standing, jog in place quickly, clap twice, pump both fists up and down, then freeze, no floor moves. Reuse for birthday, snow day and holiday countdown songs."
+  },
+  {
    "name": "Helper stuck in the TV",
    "where": "YouTube on the TV screen and Shorts, 1 to 24 Dec (seasonal, returns every year)",
    "status": "seasonal",
@@ -25559,12 +25594,6 @@
    "where": "YouTube Shorts, Instagram Reels (first snow already hit the US interior Northeast, Mid Atlantic and Michigan on 12 to 14 Nov 2026; more first snows through December)",
    "status": "rising",
    "use": "A 15 second Short with our own 'Snow day, no school!' hook: the little brother looks out of the window, sees snow, turns to camera with a huge smile, then both Bros do a happy dance: four quick jumps in place with fists pumping, two wiggles side to side, then arms flung up as snow falls. Meshy prompt: standing in place, excited jumps with fist pumps, hip wiggle left and right, both arms up. Caption 'When it snows for the first time'."
-  },
-  {
-   "name": "Puppy duet bark back",
-   "where": "TikTok, Reels, YouTube Shorts (pet duet audio template)",
-   "status": "rising",
-   "use": "A 15 second Short with our own simple tune: the big brother sings one short line, the Bros' cartoon puppy answers with four quick barks exactly on the beat, the little brother joins and the puppy answers faster, then all three bounce together on the last note. Meshy prompt for the Bros: standing in place, sing pose with one hand on chest, then two small bounces and a point at the puppy. Caption 'Can your pet sing back?'."
   },
   {
    "name": "Perfect versus real Christmas",
