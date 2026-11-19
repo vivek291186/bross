@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:41:51+05:30",
- "runs": 1149,
+ "updated": "2026-11-19T15:42:19+05:30",
+ "runs": 1150,
  "branches": [
   {
    "id": "platforms",
@@ -12704,6 +12704,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1145
+    },
+    {
+     "t": "Oxford's Children's Word of the Year (Jan 2026), voted by almost 5,000 UK children aged 6 to 14, was 'peace' (35%), ahead of 'AI' (33%) and 'resilience' (21%); one in ten who chose peace mentioned war, so a calm 'peace and friends everywhere' song and a 'try again, never give up' song match words children picked themselves.",
+     "src": "Oxford University Press, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1150
     }
    ]
   },
@@ -21832,6 +21839,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1147
+    },
+    {
+     "t": "In the same Oxford children's survey 'six seven' won slang of the year (47%, then 'aura' 24%), and children said they value slang because it is theirs, away from the grown up world, and links them to friends; a brand using kids' slang risks feeling forced, so Bro Bros should invent its own silly catchphrase rather than borrow theirs.",
+     "src": "Oxford University Press, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1150
     }
    ]
   }
@@ -21858,12 +21872,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 12:53",
-   "note": "Earlier: older log entries summarised; runs up to Run 1070 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:53",
-   "note": "Run 1071 (TRENDS (what kids are into now: collectibles, games, characters)): Nothing new: Bloomberg's Gen Alpha rooms feature (Labubu fading, Pokemon cards, Minecraft, Roblox, KPop Demon Hunters, Mark Rober) and the Sprunki spam in Shorts feeds repeat what the tree holds. No leaves added. Total 2996."
+   "date": "2026-11-19 12:54",
+   "note": "Earlier: older log entries summarised; runs up to Run 1071 covered all focus areas."
   },
   {
    "date": "2026-11-19 12:54",
@@ -22176,6 +22186,10 @@
   {
    "date": "2026-11-19 15:41",
    "note": "Run 1149 (competitor deep dive (English learning song channels: The Singing Walrus, Dream English Kids)): New: The Singing Walrus (Canada, 4.01M subscribers, 2.67B views) still earned about 26.5M views and 40K subscribers in 28 days with no upload since 3 Oct, its top songs being an ABC phonics song (26M), a feelings song (15M) and counting by 2s; Dream English Kids is a single named ESL teacher channel since 2008 that review sites recommend for its clear repeated target words. Total 3109."
+  },
+  {
+   "date": "2026-11-19 15:42",
+   "note": "Run 1150 (TRENDS (kid language and words of the year)): New: Oxford's Children's Word of the Year (Jan 2026, almost 5,000 UK children aged 6 to 14) was 'peace' (35%) ahead of 'AI' (33%) and 'resilience' (21%), with 'six seven' the top slang (47%), so gentle songs about peace, friendship and trying again speak to what children themselves name, while slang stays something kids own and we should not chase. Total 3111."
   }
  ],
  "history": [
@@ -23362,6 +23376,10 @@
   {
    "date": "2026-11-19 15:41",
    "total": 3109
+  },
+  {
+   "date": "2026-11-19 15:42",
+   "total": 3111
   }
  ],
  "next_week_ideas": [
