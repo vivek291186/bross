@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:36:51+05:30",
- "runs": 1142,
+ "updated": "2026-11-19T15:37:35+05:30",
+ "runs": 1143,
  "branches": [
   {
    "id": "platforms",
@@ -21767,12 +21767,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 12:49",
-   "note": "Earlier: older log entries summarised; runs up to Run 1063 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:49",
-   "note": "Run 1064 (competitor deep dive (CoComelon spin offs, BabyBus)): CoComelon's Sanrio crossover runs on its own YouTube channel with 3 minute 2D pastel episodes every Saturday since 24 Jan 2026, mixing five Japanese nursery rhymes and a J pop style remake, with the songs on streaming services a day before the episodes. The Disney+ move in 2027, the film and The Melon Patch were already in the tree. Total 2994."
+   "date": "2026-11-19 12:50",
+   "note": "Earlier: older log entries summarised; runs up to Run 1064 covered all focus areas."
   },
   {
    "date": "2026-11-19 12:50",
@@ -22085,6 +22081,10 @@
   {
    "date": "2026-11-19 15:36",
    "note": "Run 1142 (YouTube algorithm (YouTube Kids filtering FAQ and Beaupre subscriber feed interview rechecked)): Nothing new: the April 2026 YouTube Kids three layer filtering FAQ, the curated shelves for new profiles and Beaupre's point that the subscriber row usually gets 10% or less click rate were all already in the tree. No leaves added. Total 3096."
+  },
+  {
+   "date": "2026-11-19 15:37",
+   "note": "Run 1143 (Shorts and Reels (feed controls and new player features rechecked)): Nothing new: the Shorts heart button, removed dislike and 'Not interested' reasons (June 2026), Instagram's Your Algorithm topic controls and Shorts series were already in the tree. No leaves added. Total 3096."
   }
  ],
  "history": [
@@ -23242,6 +23242,10 @@
   },
   {
    "date": "2026-11-19 15:36",
+   "total": 3096
+  },
+  {
+   "date": "2026-11-19 15:37",
    "total": 3096
   }
  ],
