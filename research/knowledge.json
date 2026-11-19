@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:49:16+05:30",
- "runs": 957,
+ "updated": "2026-11-19T09:50:00+05:30",
+ "runs": 958,
  "branches": [
   {
    "id": "platforms",
@@ -19703,11 +19703,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 878 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:54",
-   "note": "Run 879 (Shorts and Reels for kids (AIR kids channel cases)): Instagram news this week had nothing new for Reels ranking. New from two AIR kids channel cases: a Spanish kids song channel deleted long videos that skirted kids policies, raised Shorts from 8 to 31 a quarter and went from 27M to 1.46B views (Shorts 98% of views); another halved long uploads, doubled Shorts cut from its best long moments, moved to 4K with text kept off the edges for TV, and grew revenue about 34%. Total 2606."
+   "note": "Earlier runs summarised: all rounds through Run 879 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:55",
@@ -20020,6 +20016,10 @@
   {
    "date": "2026-11-19 09:49",
    "note": "Run 957 (TRENDS (seasonal: year end recaps, YouTube Culture and Trends report)): Thin round. New: Spotify Wrapped 2026 is expected around Wednesday 2 Dec, opening the year end recap season (a 'Bro Bros 2026 in 60 seconds' recap Short fits it), and YouTube's 2026 Culture and Trends survey found 63% of young viewers watch more of what their friends watch, so songs kids share in class matter. Total 2801."
+  },
+  {
+   "date": "2026-11-19 09:50",
+   "note": "Run 958 (rules and monetisation (AI disclosure for animation, Feb 2027 Partner rules, AIR 7.55M kids case rechecked)): Nothing new: the animation exemption from AI disclosure, the 1 Feb 2027 Partner Program changes (8,000 watch hours, 10M Shorts views for pool pay, activity rule) and AIR's 7.55M kids channel case were all already in the tree; no rule changes were dated October to December 2026. No leaves added. Total 2801."
   }
  ],
  "history": [
@@ -21185,6 +21185,10 @@
   },
   {
    "date": "2026-11-19 09:49",
+   "total": 2801
+  },
+  {
+   "date": "2026-11-19 09:50",
    "total": 2801
   }
  ],
