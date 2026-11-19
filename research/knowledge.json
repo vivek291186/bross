@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:50:00+05:30",
- "runs": 958,
+ "updated": "2026-11-19T09:50:53+05:30",
+ "runs": 959,
  "branches": [
   {
    "id": "platforms",
@@ -3814,6 +3814,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 949
+    },
+    {
+     "t": "Across our 20 Instagram Reels from 9 to 18 Nov 2026, the 10:02 IST slot (mean 43.5, median 21 views) and the 16:02 IST slot (mean 41.6, median 23.5 views) performed almost the same, so the posting hour is not what holds our Reels back; the hook and the song matter more.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 959
+    },
+    {
+     "t": "Holiday music channels see about an 89% average view surge in Q4 and holiday playlists draw hundreds of millions of monthly views for several weeks, so Christmas songs posted from late November keep earning through December rather than peaking on one day.",
+     "src": "Tubefilter, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 959
     }
    ]
   },
@@ -19703,11 +19717,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 879 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:55",
-   "note": "Run 880 (TRENDS (Buffer and SocialPilot TikTok lists, 17 to 18 Nov)): Two gentle formats are new this week: 'Do Not Bother the Botherer' (close ups of a sleeping or happily busy pet or child with a deadpan voiceover) and the 'Actually...' carousel where every swipe reveals a detail that changes the story. Both fit Instagram with our own characters; the other sounds are adult or already in the tree. No new dances. Trend bank: dropped Costume loading (a Halloween season reveal that has faded) to keep Twelve day countdown for December. Total 2609."
+   "note": "Earlier runs summarised: all rounds through Run 880 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:56",
@@ -20020,6 +20030,10 @@
   {
    "date": "2026-11-19 09:50",
    "note": "Run 958 (rules and monetisation (AI disclosure for animation, Feb 2027 Partner rules, AIR 7.55M kids case rechecked)): Nothing new: the animation exemption from AI disclosure, the 1 Feb 2027 Partner Program changes (8,000 watch hours, 10M Shorts views for pool pay, activity rule) and AIR's 7.55M kids channel case were all already in the tree; no rule changes were dated October to December 2026. No leaves added. Total 2801."
+  },
+  {
+   "date": "2026-11-19 09:50",
+   "note": "Run 959 (POSTING TIMES (own skipped, just ran; Metricool best times 19 to 25 Nov, our Reel slots compared)): Metricool for 19 to 25 Nov again puts YouTube's peak at 16:00 IST and Instagram's at 10:00 IST, weekends about half. Our 20 Reels from 9 to 18 Nov did the same at 10:02 IST (mean 43.5, median 21 views) and 16:02 IST (mean 41.6, median 23.5), so the Reel time is not what limits reach; slots unchanged. Total 2803."
   }
  ],
  "history": [
@@ -21190,6 +21204,10 @@
   {
    "date": "2026-11-19 09:50",
    "total": 2801
+  },
+  {
+   "date": "2026-11-19 09:50",
+   "total": 2803
   }
  ],
  "next_week_ideas": [
