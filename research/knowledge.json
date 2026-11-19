@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:43:46+05:30",
- "runs": 1025,
+ "updated": "2026-11-19T11:44:31+05:30",
+ "runs": 1026,
  "branches": [
   {
    "id": "platforms",
@@ -20593,6 +20593,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1023
+    },
+    {
+     "t": "A November 2026 TikTok format captions sunny summer clips (beach, long lunches, sunsets) as 'what I thought of this morning' while putting on a winter coat; for kids it becomes a Short where the Bros zip up coats in the snow and daydream back to splashing in summer, then return smiling to build a snowman.",
+     "src": "Startups.co.uk, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1026
+    },
+    {
+     "t": "Searches in Spanish and Indonesian for new kid dance trends this week mostly surface old viral clips (a toddler samba, the kangaroo dance from May, CapCut 'dancing baby' AI templates), a sign that no new worldwide kids dance has broken out in mid November and our own simple winter moves can fill the gap.",
+     "src": "web search scan, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1026
     }
    ]
   }
@@ -20620,11 +20634,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 946 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:40",
-   "note": "Run 947 (our own results (Metricool Reels to 18 Nov; YouTube still ends 16 Nov)): Instagram Reels recovered on 18 Nov: the veggie soup Reel (10:02 IST) reached 127 views and the freeze dance Reel (16:02 IST) 111, after a week of mostly 7 to 33 views; both captions open with a game cue. High 3 second view rate did not predict reach (digger 63% view rate, 31 views). YouTube data still ends 16 Nov. Total 2765."
+   "note": "Earlier runs summarised: all rounds through Run 947 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:41",
@@ -20937,6 +20947,10 @@
   {
    "date": "2026-11-19 11:43",
    "note": "Run 1025 (visual craft (low budget animation workflow)): Thumbnail, colour and pacing sources were all already in the tree. New from AIR's low budget animation guide: a reusable library of characters, sets, props and transitions can halve animation time per video, and the money and time should go into character design, faces and voice, not backgrounds. Total 2932."
+  },
+  {
+   "date": "2026-11-19 11:44",
+   "note": "Run 1026 (TRENDS (UK November list, Spanish and Indonesian kid dance searches)): Little new this week: Spanish and Indonesian kid dance searches returned older viral clips. New: a 'what I thought of this morning' format where creators pair putting on a winter coat with dreamy summer memories, which suits a cosy 'remember summer' winter song. Total 2934."
   }
  ],
  "history": [
@@ -21627,6 +21641,10 @@
   {
    "date": "2026-11-19 11:43",
    "total": 2932
+  },
+  {
+   "date": "2026-11-19 11:44",
+   "total": 2934
   }
  ],
  "next_week_ideas": [
@@ -21688,6 +21706,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Coat on, summer dream",
+   "where": "TikTok and Instagram (Startups.co.uk November 2026 list)",
+   "status": "seasonal",
+   "use": "Short with our own gentle song: the Bros zip their winter coats, look up and the screen dissolves into a sunny beach memory (splashing, sandcastles) for one chorus, then dissolves back to snow and they build a snowman smiling. Meshy prompt: standing in place, zip up a coat with both hands, look up dreamily with a slow sway side to side, then clap and bounce."
+  },
   {
    "name": "Approve it on the beat",
    "where": "TikTok brand and creator format (Social Sound Report, Nov 2026)",
@@ -21801,12 +21825,6 @@
    "where": "US schools, Pinterest, Lemon8 and TikTok every November (Thanksgiving 26 Nov 2026)",
    "status": "seasonal",
    "use": "A 20 second Short or Reel with our own original turkey character who does not want to be found: the camera stays still, the Bros count 'one, two, three, hide!', and on each clap the turkey pops into a new costume (snowman, astronaut, pirate, traffic cone) while the Bros pretend not to see it; end with 'Where is the turkey?' on screen so kids shout the answer. Meshy prompt for the Bros: standing in place, hands over eyes, then hands open beside the face in surprise, then a shrug with both palms up."
-  },
-  {
-   "name": "Tiny hands groove",
-   "where": "TikTok December dance style (minimal 'Ace Up' hand dance, Dec 2025, likely to return)",
-   "status": "seasonal",
-   "use": "A 15 second Short where the Bros stand still and dance only with their hands to a twinkly verse of our own winter song: wiggle fingers like snow falling, make a star with both hands, roll the hands, then point at the camera on the last beat. Easy for toddlers on the sofa. Meshy prompt: standing still, arms in front of chest, small rhythmic hand rolls and finger wiggles, then both hands open wide beside the face, then a point forward."
   }
  ],
  "posting_plan": {
