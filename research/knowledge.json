@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:39:51+05:30",
- "runs": 1216,
+ "updated": "2026-11-19T16:40:26+05:30",
+ "runs": 1217,
  "branches": [
   {
    "id": "platforms",
@@ -9834,6 +9834,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1193
+    },
+    {
+     "t": "In an eLife study of 79 infants (Jul 2026), brain responses separated real children's songs from scrambled versions already at 3 months, but only 12 month olds moved differently to real music, mostly with the upper body, and not one baby at any age moved in time with the beat; so for babies a dance song should invite simple arm and upper body moves, and true on beat dancing only starts later in toddlerhood.",
+     "src": "Earth.com / eLife, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1217
+    },
+    {
+     "t": "The same study found higher pitched music drew a little more movement from babies at every age tested (and a stronger brain response at 6 months), a small but real reason to keep Bro Bros vocal lines and lead melodies bright and high rather than low.",
+     "src": "Earth.com / eLife, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1217
+    },
+    {
+     "t": "Researchers reported in Feb 2026 that newborns already anticipate musical beats, while melody is learned gradually, so a clear, steady beat is the part of a song even the youngest viewers lock onto first, and simple repeated melodies help them learn the rest.",
+     "src": "HealthDay, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1217
     }
    ]
   },
@@ -22271,12 +22292,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:01",
-   "note": "Earlier: older log entries summarised; runs up to Run 1137 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:01",
-   "note": "Run 1138 (TRENDS (vidIQ hourly trending, Nigeria film and animation)): Nothing new: Nigeria's film and animation trending slots on 19 Nov held only adult drama story videos, no kids or holiday content. No leaves added. Total 3096."
+   "date": "2026-11-19 15:02",
+   "note": "Earlier: older log entries summarised; runs up to Run 1138 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:02",
@@ -22589,13 +22606,13 @@
   {
    "date": "2026-11-19 16:39",
    "note": "Run 1216 (TRENDS (December countdown and advent formats)): New: daily December posting rituals (Vlogmas, YouTube's own 31 day Shortsmas challenge) make a one door a day advent series a natural seasonal format, and squishy and mini figure advent calendars lead kids' 2026 Christmas wishes. Added 'Advent door a day' to the trend bank and an advent counting song idea. Total 3168."
+  },
+  {
+   "date": "2026-11-19 16:40",
+   "note": "Run 1217 (music craft (infants, beat and movement studies 2026)): New: an eLife study of 79 babies (Jul 2026) found the brain tells real songs from scrambled ones by 3 months but only 12 month olds move more to real songs, mostly with the upper body, and none moved in time with the beat; higher pitched music nudged slightly more movement. A Feb 2026 report says newborns already anticipate beats while melody is learned slowly. Total 3171."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:52",
-   "total": 2690
-  },
   {
    "date": "2026-11-19 07:53",
    "total": 2694
@@ -23791,6 +23808,10 @@
   {
    "date": "2026-11-19 16:39",
    "total": 3168
+  },
+  {
+   "date": "2026-11-19 16:40",
+   "total": 3171
   }
  ],
  "next_week_ideas": [
