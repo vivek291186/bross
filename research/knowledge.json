@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:54:25+05:30",
- "runs": 1418,
+ "updated": "2026-11-20T02:55:06+05:30",
+ "runs": 1419,
  "branches": [
   {
    "id": "platforms",
@@ -24331,6 +24331,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1416
+    },
+    {
+     "t": "Spotify Wrapped has launched on a Wednesday every year since 2020 (2 Dec 2020, 1 Dec 2021, 30 Nov 2022, 29 Nov 2023, 4 Dec 2024, 3 Dec 2025) and was still unannounced on 18 Nov 2026, so Wednesday 2 Dec 2026 is the likely day for a Bro Bros 'our year in songs' Short and a refreshed top songs playlist.",
+     "src": "Jamwise, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1419
     }
    ]
   }
@@ -24359,10 +24366,6 @@
   {
    "date": "2026-11-19 20:46",
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
-  },
-  {
-   "date": "2026-11-19 21:41",
-   "note": "Run 1340 (global markets (Indonesia chart and dubbing reach)): Dubbed Tayo and BabyBus are the only kids channels in Indonesia's 7 Nov top 10, with Tayo the best per upload of all ten; auto dubbed videos keep about 75% of the original watch time and skip videos over 2 hours. Nigeria growth figures were already in the tree. Chrome not available. Total 3342."
   },
   {
    "date": "2026-11-19 21:47",
@@ -24675,6 +24678,10 @@
   {
    "date": "2026-11-20 02:54",
    "note": "Run 1418 (topics and seasons (holiday toy play)): Holiday 2026 toy themes (nostalgia giggle toys, slime, blind boxes, hatching eggs, singing dolls) were mostly in the tree; added a 14 Nov count across seven gift guides showing which kinds of play repeat most, including singing dolls that kids use to stage their own living room concerts. Chrome not available. Total 3466."
+  },
+  {
+   "date": "2026-11-20 02:55",
+   "note": "Run 1419 (TRENDS (year end recap season)): YouTube's Recap and Spotify's kids taste profile setting were already in the tree; added that Spotify Wrapped has launched on a Wednesday every year since 2020 (29 Nov to 4 Dec) and was still unannounced on 18 Nov, so 2 Dec 2026 remains the likely date. No official date yet for YouTube Music's 2026 Recap. Chrome not available. Total 3467."
   }
  ],
  "history": [
@@ -25621,6 +25628,10 @@
   {
    "date": "2026-11-20 02:54",
    "total": 3466
+  },
+  {
+   "date": "2026-11-20 02:55",
+   "total": 3467
   }
  ],
  "next_week_ideas": [
