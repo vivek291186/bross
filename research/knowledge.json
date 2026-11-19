@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:59:07+05:30",
- "runs": 1007,
+ "updated": "2026-11-19T10:59:41+05:30",
+ "runs": 1008,
  "branches": [
   {
    "id": "platforms",
@@ -2120,6 +2120,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 997
+    },
+    {
+     "t": "Metricool's study of 2.31M TikTok posts from 92,000 accounts found video posts up 72% year on year (Jan to Feb 2026) while average views per post fell 31% and reach 29%, so TikTok is getting more crowded; Instagram views rose 27% in the same period in a separate Metricool study.",
+     "src": "Net Influencer / Metricool, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1008
+    },
+    {
+     "t": "YouTube's 2026 Culture and Trends report says 65% of 14 to 44 year olds feel something is more real or legitimate when it is on YouTube and 67% watch channels nobody they know watches, so parents may trust a kids brand more once it has a proper YouTube home, even if discovery starts on Reels.",
+     "src": "Tubefilter, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1008
     }
    ]
   },
@@ -3947,6 +3961,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 997
+    },
+    {
+     "t": "In the same Metricool TikTok study 96% of a post's reach and about 98% of its interactions arrive within 10 days, and the global peak is 6 to 9 PM local time (8 PM busiest), so short video results can be judged fairly after 10 days.",
+     "src": "Net Influencer / Metricool, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1008
+    },
+    {
+     "t": "Captions that asked a question drew 26% more comments, while captions begging for likes got 60% fewer likes than average, and one or two specific hashtags beat broad ones like #fyp, so Bro Bros captions should ask a playful question ('Which animal was hiding?') and never ask for likes; on made for kids YouTube videos comments are off, so this applies to Reels and TikTok.",
+     "src": "Net Influencer / Metricool, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1008
     }
    ]
   },
@@ -20375,11 +20403,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 928 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 08:02",
-   "note": "Run 929 (music craft (children's singing ranges and phrase lengths)): A university music education text gives comfortable ranges of middle C to A for ages 3 to 5, C to the next C for ages 6 to 8, with children strongest around F and G; adult pitched songs usually sit too low, phrases of 4 to 8 beats are easiest, and a light head voice beats a heavy chest voice. This confirms playbook rule 2 and adds Suno prompt details. Total 2717."
+   "note": "Earlier runs summarised: all rounds through Run 929 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 08:02",
@@ -20692,6 +20716,10 @@
   {
    "date": "2026-11-19 10:59",
    "note": "Run 1007 (topics and seasons (New Year customs kids can act out)): December holiday dates and most New Year customs (grapes, polka dots, round fruits, first footing, seven waves) were already in the tree. New kid friendly actions to sing about: banging pots and pans after midnight in the US, Germany's small lucky charms (ladybugs, four leaf clovers, piglets) and Japan's pine and bamboo entrance decorations to welcome good luck. Total 2897."
+  },
+  {
+   "date": "2026-11-19 10:59",
+   "note": "Run 1008 (TRENDS (platform trend reports: Metricool TikTok study, YouTube Culture and Trends 2026)): Metricool's study of 2.31M TikTok posts (Jan to Feb 2026 vs 2025) found posting volume up 72% while average views per post fell 31%, with 96% of reach coming within 10 days and 6 to 9 PM local the global peak; captions asking for likes got 60% fewer likes but questions got 26% more comments. YouTube's 2026 Culture and Trends report says 65% of 14 to 44 year olds feel something is more real when it is on YouTube. Total 2901."
   }
  ],
  "history": [
@@ -21310,6 +21338,10 @@
   {
    "date": "2026-11-19 10:59",
    "total": 2897
+  },
+  {
+   "date": "2026-11-19 10:59",
+   "total": 2901
   }
  ],
  "next_week_ideas": [
