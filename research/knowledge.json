@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:46:18+05:30",
- "runs": 1298,
+ "updated": "2026-11-19T19:46:48+05:30",
+ "runs": 1299,
  "branches": [
   {
    "id": "platforms",
@@ -23059,10 +23059,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 16:42",
-   "note": "Run 1220 (global markets (Sub-Saharan Africa YouTube growth)): New: Google's Mar 2026 Johannesburg figures show YouTube watch time growing 30% a year in Kenya, 20% in South Africa and 15% in Nigeria (adult mobile reach 35M Nigeria, 25M South Africa, 12M Kenya), and an older Kaspersky measure found Kenyan children spend more than half of their popular app time on YouTube, so English language Africa is a fast growing, English first market for Bro Bros. Total 3172."
-  },
-  {
    "date": "2026-11-19 16:48",
    "note": "Run 1221 (competitor deep dive (Bounce Patrol and CoComelon news)): Nothing new: Bounce Patrol's latest uploads (Rainbow Disco 271K, Halloween Ants 518K, puppet collabs 8 to 11M, 34M subscribers, flat) and CoComelon's Headspace, Sanrio and Melon Patch spin offs were already in the tree. No leaves added. Total 3172."
   },
@@ -23373,13 +23369,13 @@
   {
    "date": "2026-11-19 19:46",
    "note": "Run 1298 (YouTube algorithm (testing tools and kids channel cases)): Small: YouTube's video cut testing (two or three edits of one video, judged by retention curves) was demoed on 25 Sep 2026 as 'coming soon'; if it follows title testing's 84 day path it could reach Studio around mid December, but whether made for kids channels get it is not stated. The AIR 7.55M kids channel case was already in the tree. Total 3280."
+  },
+  {
+   "date": "2026-11-19 19:46",
+   "note": "Run 1299 (Shorts and Reels (Instagram feature and guide recheck)): Nothing new: Instagram's Sep 2026 Reels length guide, Trial Reels scheduling and limits, the Edits desktop app and the originality rules were already in the tree; no Instagram feature change dated this week was found. No leaves added. Total 3280."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:55",
-   "total": 2887
-  },
   {
    "date": "2026-11-19 10:55",
    "total": 2887
@@ -24571,6 +24567,10 @@
   {
    "date": "2026-11-19 19:45",
    "total": 3279
+  },
+  {
+   "date": "2026-11-19 19:46",
+   "total": 3280
   },
   {
    "date": "2026-11-19 19:46",
