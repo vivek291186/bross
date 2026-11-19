@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:53:42+05:30",
- "runs": 996,
+ "updated": "2026-11-19T10:54:22+05:30",
+ "runs": 997,
  "branches": [
   {
    "id": "platforms",
@@ -2113,6 +2113,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 995
+    },
+    {
+     "t": "Since April 2026 Instagram lets creators schedule Trial Reels for a future time, so a week of trials can be queued at once; with the Manual setting the creator chooses which trials are later shared with followers instead of Instagram sharing them automatically.",
+     "src": "Pulse / Planoly, Apr to Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 997
     }
    ]
   },
@@ -3933,6 +3940,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 995
+    },
+    {
+     "t": "A fair Trial Reels test changes one thing only (for example the first second hook) while caption, length and audio stay the same, uses fresh footage, compares trials only with other trials by sends, likes and watch time, and is read after at least 24 hours, judging patterns over several weeks.",
+     "src": "Planoly, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 997
     }
    ]
   },
@@ -20270,11 +20284,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 917 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:53",
-   "note": "Run 918 (topics and seasons (visual craft skipped; preschool winter themes, aurora season)): Highlights' preschool guide lists the winter classroom themes teachers use (hibernation, snow, hot chocolate, winter sports, ice melting, arctic animals, gingerbread, mittens); hibernation, ice and hot chocolate were missing from our tree. Aurora experts expect the 2026 to 2027 winter to be a strong northern lights season. New song idea: a tiptoe hibernation game. Total 2694."
+   "note": "Earlier runs summarised: all rounds through Run 918 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:54",
@@ -20587,6 +20597,10 @@
   {
    "date": "2026-11-19 10:53",
    "note": "Run 996 (TRENDS (parent and kid trend explainers; safety check)): No new kid safe trend this round: the parent hacks and slang lists were already in the tree, and the rest were adult or risky (a serious parenting confession trend and the teen 'door kick' prank, which led to arrests in the US). Added one safety note so our doorbell and visit formats never look like that prank. Total 2882."
+  },
+  {
+   "date": "2026-11-19 10:54",
+   "note": "Run 997 (Shorts and Reels (Trial Reels scheduling and testing method)): Trial Reels results (Kapwing tests, Instagram's 80% claim) were already in the tree. New: since April 2026 Trial Reels can be scheduled ahead (a week of trials at once, with a Manual setting so we pick which winners go to followers), and testers advise changing only one thing per trial and judging after at least 24 hours. Total 2884."
   }
  ],
  "history": [
@@ -21161,6 +21175,10 @@
   {
    "date": "2026-11-19 10:53",
    "total": 2882
+  },
+  {
+   "date": "2026-11-19 10:54",
+   "total": 2884
   }
  ],
  "next_week_ideas": [
