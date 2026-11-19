@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:39:46+05:30",
- "runs": 937,
+ "updated": "2026-11-19T08:40:20+05:30",
+ "runs": 938,
  "branches": [
   {
    "id": "platforms",
@@ -2015,6 +2015,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 928
+    },
+    {
+     "t": "Instagram is reported (late Oct 2026) to be offering some YouTube creators about 50,000 to 500,000 USD to post long horizontal videos in its new Features format, so Meta is paying to pull long form creators over; for Bro Bros it means our full length songs may get extra reach if we also post them as Features once that format opens up.",
+     "src": "Metricool Instagram news, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 938
+    },
+    {
+     "t": "Instagram's Edits app now has a Mac version and an Effect Builder for making custom effects, so Reels can be finished on a computer next to the Blender renders instead of on a phone.",
+     "src": "Metricool Instagram news, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 938
     }
    ]
   },
@@ -19227,11 +19241,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 858 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:41",
-   "note": "Run 859 (global markets (Colombia's kids song channels)): Colombia's kids channels were new to the tree. HypeAuditor's November 2026 ranking puts two kids song channels at #32 and #33 in Colombia (Cuentos y Canciones Infantiles 9.8M, Mundo Canticuentos 9.5M) while family humour channels hold the top spots. Mundo Canticuentos gets about 50M views a month from 1,153 videos; its hits are a vowels remix (589M), two versions of a Latin American Christmas donkey song (109M and 89M) and an 'I am a cup' object song (32M). Total 2551."
+   "note": "Earlier runs summarised: all rounds through Run 859 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:42",
@@ -19544,6 +19554,10 @@
   {
    "date": "2026-11-19 08:39",
    "note": "Run 937 (YouTube algorithm (TRENDS skipped, thin an hour ago; Shorts timer at zero, Beaupre interview rechecked)): Algorithm news through mid November (Beaupre's 10% subscriber click rate, pull based Home, AIR's 7.55M kids channel case, the Feb 2027 monetisation bar) was already in the tree. New: a zero minute Shorts timer on supervised accounts removes Shorts from Home, so full length songs stay the only route to those families. Total 2733."
+  },
+  {
+   "date": "2026-11-19 08:40",
+   "note": "Run 938 (Shorts and Reels (Instagram news to 14 Nov 2026)): Most Instagram news (Features long form test, Apple TV app, the end of linked Reels series, Your Algorithm controls) was already in the tree. New: Meta is reportedly paying some YouTube creators 50K to 500K USD to post long Features, and Edits now runs on Mac with an Effect Builder. Total 2735."
   }
  ],
  "history": [
@@ -20630,6 +20644,10 @@
   {
    "date": "2026-11-19 08:39",
    "total": 2733
+  },
+  {
+   "date": "2026-11-19 08:40",
+   "total": 2735
   }
  ],
  "next_week_ideas": [
