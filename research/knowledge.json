@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:53:20+05:30",
- "runs": 1329,
+ "updated": "2026-11-19T20:53:56+05:30",
+ "runs": 1330,
  "branches": [
   {
    "id": "platforms",
@@ -23323,6 +23323,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1327
+    },
+    {
+     "t": "GoDance's 17 Nov 2026 list of November TikTok dances names a sharp, high energy 'Hootie Frutti' routine linked to KATSEYE, a two person Jersey Club bounce to a slowed track ('Why My Sweetie') usually filmed as 'dancer versus non dancer', and a freestyle 'Addicted' challenge; the songs are not for us, but the dancer versus non dancer pairing fits two brothers perfectly.",
+     "src": "godance.tv, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1330
+    },
+    {
+     "t": "BABYMONSTER's hip hop performance video for 'Choom' passed 100M YouTube views in about six months (announced 16 Nov 2026), the group's 20th video to do so, another sign that K-pop group choreography keeps drawing older kids, who copy group formations more than solo moves.",
+     "src": "koreaherald.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1330
     }
    ]
   }
@@ -23349,12 +23363,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:39",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 18:40",
-   "note": "Run 1251 (TRENDS (Christmas toys and sensory)): Small: DreamToys, Toy of the Year finalists, Which? and Amazon lists were already in the tree; new from ABC News's Nov 2026 list: slow rise squishy toys are this year's big sensory moment and no dance toy is trending, so added a 'slow rise squish' entry to the trend bank. Total 3222."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 18:41",
@@ -23667,13 +23677,13 @@
   {
    "date": "2026-11-19 20:53",
    "note": "Run 1329 (posting times (Metricool recheck for 20 to 26 Nov; competitor round skipped as just done)): Nothing new: Metricool's model for 20 to 26 Nov still peaks YouTube at 16:00 IST every day (Wednesday about 12.0K, Thursday 12.0K, weekend about half) and Instagram at 10:00 IST with an 18:00 rise, exactly as already recorded; holiday viewing records (Christmas Day 2025 streaming record) were in the tree. Posting plan unchanged. No leaves added. Total 3322."
+  },
+  {
+   "date": "2026-11-19 20:53",
+   "note": "Run 1330 (TRENDS (17 Nov dance list, K-pop video milestones)): GoDance's 17 Nov list names three TikTok dances: a sharp, fruity high energy routine linked to KATSEYE, a two person Jersey Club bounce often done as 'dancer versus non dancer', and an 'Addicted' freestyle challenge; BABYMONSTER's 'Choom' performance video passed 100M views in about six months. The dancer versus non dancer pairing is a perfect brother format. Total 3324."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:48",
-   "total": 2944
-  },
   {
    "date": "2026-11-19 11:48",
    "total": 2947
@@ -24869,6 +24879,10 @@
   {
    "date": "2026-11-19 20:53",
    "total": 3322
+  },
+  {
+   "date": "2026-11-19 20:53",
+   "total": 3324
   }
  ],
  "next_week_ideas": [
@@ -24930,6 +24944,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Dancer versus non dancer",
+   "where": "TikTok, Reels, YouTube Shorts (two person dance format, Nov 2026)",
+   "status": "rising",
+   "use": "A 15 second Short on our own bouncy beat: split screen or side by side, Big Bro labelled 'the dancer' does a clean bounce step (step right, step left, two knee bounces, arms swing), Little Bro labelled 'me' copies it one beat late, bumps into his brother, then nails the last pose and both high five. Meshy prompt: standing in place, step right, step left, two small knee bounces with arm swings, end with a high five pose. Caption 'Which one are you?'."
+  },
   {
    "name": "Snow day happy dance",
    "where": "YouTube Shorts, Instagram Reels (first snow already hit the US interior Northeast, Mid Atlantic and Michigan on 12 to 14 Nov 2026; more first snows through December)",
@@ -25043,12 +25063,6 @@
    "where": "Instagram Reels (17 to 25 Nov 2026)",
    "status": "peak",
    "use": "A 10 second Reel on our friendship song: the brothers stand side by side, step together twice, bump hips on the beat, both point at the camera, then high five; repeat once with a little friend joining. Standing, in place, no floor moves."
-  },
-  {
-   "name": "Snow heart look down",
-   "where": "TikTok and Reels (winter, first snow weeks)",
-   "status": "seasonal",
-   "use": "A 10 second Short opening a winter song: the camera lies in the snow inside a heart shape looking up at a blue sky; the brothers lean in from both sides, then friends and a puppy pop in, everyone waves and blows a snowflake kiss on the beat, then a snowball lands softly and the camera whites out into the song. Standing and leaning only."
   }
  ],
  "posting_plan": {
