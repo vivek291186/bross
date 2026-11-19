@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:40:47+05:30",
- "runs": 1364,
+ "updated": "2026-11-19T23:41:20+05:30",
+ "runs": 1365,
  "branches": [
   {
    "id": "platforms",
@@ -23694,6 +23694,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1362
+    },
+    {
+     "t": "A footbag (hacky sack) craze spread through US schools from mid April 2026, first private high schools, then girls, public schools and even teachers; students liked that it is social, phone free and fair for athletes and beginners alike, and posted circle videos on school Instagram accounts. A keep it in the air circle game with a soft bean bag is a phone free play idea older siblings already know.",
+     "src": "thebanner.com, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1365
     }
    ]
   }
@@ -23720,12 +23727,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:39",
-   "note": "Earlier: older log entries summarised (runs up to 1285); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:40",
-   "note": "Run 1286 (Shorts and Reels (TV side of Shorts, Made on YouTube recheck)): New: more than half of YouTube's top 100 creators now get most watching on TV, over 1B hours a day are watched on TVs, and Shorts Series will get a Show Feed on TV; the new voice comments by TV remote cannot help us because made for kids videos have comments off. Merged a duplicate: the Nielsen 15.8% leaf added in run 1280 was already in the tree, so it was removed. Total 3273."
+   "note": "Earlier: older log entries summarised (runs up to 1286); details are in git history."
   },
   {
    "date": "2026-11-19 19:40",
@@ -24038,13 +24041,13 @@
   {
    "date": "2026-11-19 23:40",
    "note": "Run 1364 (competitor deep dive (Super Simple Songs 20 years)): Super Simple's background, Moonbug news and BabyBus and Lalafun stats were mostly in the tree; added how Super Simple used its 20th anniversary (celebration song, studio tour, vinyl, app) and its founding learning purpose. Peppa Pig crossover page could not be opened. Chrome not available. Total 3375."
+  },
+  {
+   "date": "2026-11-19 23:41",
+   "note": "Run 1365 (TRENDS (school crazes and Thanksgiving)): Squishy collecting, 6 7, Gen Alpha slang lists and Thanksgiving dinner memes were already in the tree; added the 2026 school footbag craze as a phone free circle game idea. Thanksgiving trend pages were thin. Chrome not available. Total 3376."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:50",
-   "total": 2996
-  },
   {
    "date": "2026-11-19 12:51",
    "total": 2996
@@ -25240,6 +25243,10 @@
   {
    "date": "2026-11-19 23:40",
    "total": 3375
+  },
+  {
+   "date": "2026-11-19 23:41",
+   "total": 3376
   }
  ],
  "next_week_ideas": [
