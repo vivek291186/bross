@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:49:04+05:30",
- "runs": 1261,
+ "updated": "2026-11-19T18:49:44+05:30",
+ "runs": 1262,
  "branches": [
   {
    "id": "platforms",
@@ -2344,6 +2344,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1250
+    },
+    {
+     "t": "Short form guides in 2026 put the average YouTube Short at about 33 seconds and say nearly half of viral Shorts run 20 to 40 seconds; creator Jenny Hoyos reports her best Shorts average about 34 seconds and that cutting a single dead second raised one Short's retention from 83% to 88%, so each Bro Bros Short should be trimmed to the tightest 25 to 35 seconds around the hook.",
+     "src": "toptal.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1262
+    },
+    {
+     "t": "Shorts under 30 seconds often show retention above 100% because of replays, while Shorts of 60 seconds or more need about 80 to 90% retention to do well, and Shorts longer than 60 seconds cannot use licensed music clips, which is fine for us because all Bro Bros audio is our own.",
+     "src": "toptal.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1262
     }
    ]
   },
@@ -8021,6 +8035,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1256
+    },
+    {
+     "t": "CoComelon's first brand campaign ('CoComelon Can Help', Apr 2025) sold its songs as help for parents with three hard routines (potty training, bedtime and mealtime), backed by its routine hits (Bath Song about 7B views, Yes Yes Vegetables 3.3B, Yes Yes Bedtime 1.7B, Potty Training 420M+), and pushed playlists by age and stage on Pinterest, Babylist and music apps.",
+     "src": "moonbug.com, Apr 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1262
+    },
+    {
+     "t": "That campaign also used parent creators on TikTok for candid, funny parenting confessions rather than kid facing ads, so Bro Bros Reels aimed at parents (a 'this song got my toddler to brush' style caption) can sit beside the kid facing dance Reels.",
+     "src": "moonbug.com, Apr 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1262
     }
    ]
   },
@@ -22828,10 +22856,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 15:56",
-   "note": "Run 1183 (TRENDS (Kapwing monthly lists checked)): Nothing new: Kapwing has no November 2026 list yet and its December 2025 holiday trends are already in the tree as last year's pattern. No leaves added. Total 3142."
-  },
-  {
    "date": "2026-11-19 15:57",
    "note": "Run 1184 (global markets (Cambodia gap)): Filled the Cambodia gap: about 10.8M internet users and YouTube is the country's main music platform, but Khmer kids content is small (Kids Planet Khmer, a dubbed story channel with 478K subscribers, gets under 1M views a month and about 135 USD), so Cambodia is a market for later through English songs, not a priority dub. Total 3143."
   },
@@ -23142,16 +23166,16 @@
   {
    "date": "2026-11-19 18:49",
    "note": "Run 1261 (YouTube algorithm (family settings and Hype recheck)): Nothing new: YouTube's Jan 2026 teens and families post (autoplay off for under 18s, Shorts timer, supervised content levels), Google TV kid profiles and Hype's made for kids exclusion were already in the tree. No leaves added. Total 3247."
+  },
+  {
+   "date": "2026-11-19 18:49",
+   "note": "Run 1262 (Shorts and Reels (length and parent marketing)): New: Shorts guides put the sweet spot at 25 to 35 seconds (one cut second lifted a creator's retention from 83% to 88%), Shorts under 30 seconds replay past 100%; CoComelon's first brand campaign sold its songs as help for potty, bedtime and mealtime with parent creators and age stage playlists. Total 3251."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:53",
-   "total": 2813
   },
   {
    "date": "2026-11-19 09:54",
@@ -24344,6 +24368,10 @@
   {
    "date": "2026-11-19 18:49",
    "total": 3247
+  },
+  {
+   "date": "2026-11-19 18:49",
+   "total": 3251
   }
  ],
  "next_week_ideas": [
