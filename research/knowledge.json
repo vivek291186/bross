@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:50:53+05:30",
- "runs": 1264,
+ "updated": "2026-11-19T18:51:30+05:30",
+ "runs": 1265,
  "branches": [
   {
    "id": "platforms",
@@ -4437,6 +4437,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1249
+    },
+    {
+     "t": "UK broadband data from Virgin Media O2 shows home network traffic jumping at 3:40 PM every weekday as children get home and climbing until about 5 PM, with parents naming YouTube (61%) as the top after school screen; 3:40 PM in the UK is 21:10 IST, so a song posted by about 18:30 to 19:30 IST would be fresh for the UK after school wave.",
+     "src": "yorkshirepost.co.uk, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1265
+    },
+    {
+     "t": "EU Kids Online 2026 (29,169 children aged 9 to 16 in 19 European countries) found screen use peaks after school in the afternoon (about 80% use screens then) and again in the evening before bed (about 67%), while family dinner time is mostly screen free (about 15%), so European kids' two windows are after school and pre bedtime, not dinner.",
+     "src": "lisboncouncil.net, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1265
     }
    ]
   },
@@ -22870,10 +22884,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 15:57",
-   "note": "Run 1186 (TRENDS (new dance challenge searches)): Nothing new: results were older or adult dance moments (a celebrity dance show lift, a 2025 artist challenge, generic dance lists). No leaves added. Total 3145."
-  },
-  {
    "date": "2026-11-19 15:58",
    "note": "Run 1187 (rules (EU audiovisual media rules review and video creators)): New: the EU must publish its evaluation of the Audiovisual Media Services Directive by 19 Dec 2026, with options ranging from no change to bringing influencers and short video creators under media rules, with protection of young viewers named as a focus area; a change would not hit Bro Bros before 2027 or later, but EU media style rules on kids content and ads may follow. Total 3146."
   },
@@ -23184,16 +23194,16 @@
   {
    "date": "2026-11-19 18:50",
    "note": "Run 1264 (music craft (infant music and sung word learning recheck)): Nothing new: the 2026 infant movement study, the familiar tune preference study, sung versus spoken word learning and the iTunes kids chart were already in the tree. No leaves added. Total 3253."
+  },
+  {
+   "date": "2026-11-19 18:51",
+   "note": "Run 1265 (posting times (taken out of order, because the formula never lands on this focus: European after school data and Metricool Instagram recheck)): New: UK broadband traffic jumps at 3:40 PM on school days (21:10 IST) with YouTube the top after school screen, and EU Kids Online 2026 puts European kids' screen peaks after school (80%) and before bed (67%). Metricool's Instagram model for 20 to 26 Nov is unchanged (10:00 IST peak, 18:00 IST second, weekends about half), so the posting plan stays as is. Total 3255."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:56",
-   "total": 2818
   },
   {
    "date": "2026-11-19 09:56",
@@ -24386,6 +24396,10 @@
   {
    "date": "2026-11-19 18:50",
    "total": 3253
+  },
+  {
+   "date": "2026-11-19 18:51",
+   "total": 3255
   }
  ],
  "next_week_ideas": [
