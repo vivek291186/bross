@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:49:45+05:30",
- "runs": 992,
+ "updated": "2026-11-19T10:51:54+05:30",
+ "runs": 994,
  "branches": [
   {
    "id": "platforms",
@@ -8840,6 +8840,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 988
+    },
+    {
+     "t": "Families' Christmas taste is classic: in Nov 2025 Google Trends data the most searched holiday song in 46 of 50 US states came out before 2010 (38 before 2000), led by Rockin' Around the Christmas Tree and Last Christmas, so an original Bro Bros Christmas song should sound timeless (sleigh bells, swing rhythm, bright brass) rather than trendy.",
+     "src": "Wiingy research, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 994
     }
    ]
   },
@@ -11703,6 +11710,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 983
+    },
+    {
+     "t": "Preschool December plans repeat the same themes every year: Christmas around the world, why days get shorter and colder, gingerbread houses for learning shapes, a daily advent door, a gift wrapping station, a pretend snowy day obstacle course and New Year clocks and noisemakers, so songs on these exact themes get played in classrooms.",
+     "src": "Playground (tryplayground.com), Dec themes guide",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 994
+    },
+    {
+     "t": "US Google searches for 'cozy' have risen every year since 2004 and peak each December, and 'hygge' once peaked as early as mid November, so 'cozy' is a strong word for calm winter and bedtime song titles in December.",
+     "src": "Google Keyword blog, Dec 2022",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 994
     }
    ]
   },
@@ -20221,15 +20242,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 913 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:50",
-   "note": "Run 914 (YouTube algorithm (Hype mechanics, made for kids end screens rechecked)): Mostly known ground. One new detail on Hype: each viewer gets three free hypes a week, a video can be hyped only in its first seven days, smaller channels get a points multiplier and regional leaderboards feed Home, so once we join the Partner Program each new song has one week to collect hypes. Whether Hype works on made for kids videos is still not documented. Total 2684."
-  },
-  {
-   "date": "2026-11-19 07:51",
-   "note": "Run 915 (other platforms (Shorts and Reels skipped, nothing new; TikTok scrolling study, Disney+ compilations)): Revealing Reality's 2026 TikTok study of UK 14 to 16 year olds logged 359 to 1,021 videos a day with half or more watched for 5 seconds or less; it is about teens, not our viewers, but it shows how fast short feeds are skimmed. On Disney+, themed compilations of a preschool dog family show were the most watched title in July 2026, and short form animated spin offs also charted. Total 2688."
+   "note": "Earlier runs summarised: all rounds through Run 915 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:52",
@@ -20538,6 +20551,14 @@
   {
    "date": "2026-11-19 10:49",
    "note": "Run 992 (competitor deep dive (Little Treehouse Toddler Fun Learning; Bounce Patrol rechecked)): Bounce Patrol's latest uploads were already in the tree. Little Treehouse Toddler Fun Learning (547K) shows the long tail of Christmas songs: its two biggest videos ever are Christmas songs posted on 16 and 27 Nov 2023 (36M and 28M views), and it posted this year's Christmas song on 16 Nov. Removed one duplicate Little Treehouse Thailand leaf added last round. Total 2875."
+  },
+  {
+   "date": "2026-11-19 10:50",
+   "note": "Run 993 (TRENDS (Indonesia, Philippines and Spanish Reels audio lists rechecked)): Nothing new: Indonesia's November koplo and dangdut joget sounds, the Philippine dance challenges and Metricool's 2 Nov Reels songs list (all Halloween) were already covered or out of date. No leaves added. Total 2875."
+  },
+  {
+   "date": "2026-11-19 10:51",
+   "note": "Run 994 (topics and seasons (December classroom themes, cozy searches, classic Christmas taste)): Own results skipped again (no new Metricool data) and the Netflix and Roblox lists were already in the tree, so the round looked at December topics. Preschool teachers plan December around Christmas around the world, shorter colder days, gingerbread shapes, advent doors, gift wrapping, a snowy day obstacle course and New Year clocks; US 'cozy' searches peak every December; and in 46 of 50 US states the most searched Christmas song is from before 2010. Total 2878."
   }
  ],
  "history": [
@@ -21096,9 +21117,21 @@
   {
    "date": "2026-11-19 10:49",
    "total": 2875
+  },
+  {
+   "date": "2026-11-19 10:50",
+   "total": 2875
+  },
+  {
+   "date": "2026-11-19 10:51",
+   "total": 2878
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Snowy Day Obstacle Course! (Jump, Crawl... No, Hop! Winter Action Song)",
+   "why": "Preschool teachers run a pretend snowy day obstacle course every December; an action song of hops, steps and freezes (standing moves only) fits classroom screens worldwide, including places with no snow."
+  },
   {
    "title": "Night Light, Shine Bright! (Not Scared of the Dark Bedtime Song)",
    "why": "Miliki Family's fear of the dark song has 381M views; parents search for help with bedtime fears worldwide, and longer winter nights make it timely."
@@ -21150,10 +21183,6 @@
   {
    "title": "Baby Bros, Big Bros! (Then and Now Dance Song)",
    "why": "Rides the 'same spot, years apart' then and now format at peak on TikTok and Reels: tiny toddler Bros try a wobbly move, then big Bros nail it in the same spot; a growing up and practice makes progress message that travels across cultures."
-  },
-  {
-   "title": "Brrr, It's Too Cold! (Mittens and Scarf Song)",
-   "why": "Baby Zoo's 'No It's Too Hot' (101M) proves the tiny toddler problem song; a winter version where Little Bro is too cold and Big Bro helps with hat, scarf and mittens fits December worldwide and teaches dressing words."
   }
  ],
  "trend_bank": [
