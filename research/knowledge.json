@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:36:18+05:30",
- "runs": 1335,
+ "updated": "2026-11-19T21:37:46+05:30",
+ "runs": 1336,
  "branches": [
   {
    "id": "platforms",
@@ -23379,6 +23379,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1330
+    },
+    {
+     "t": "A low effort 'Elfie' helper idea keeps returning each December on TikTok: a small elf moves into a tiny house on 1 Dec, fills the advent calendar each night and carries notes to Santa but never spies or reports on the kids, and parents praise it as calmer than nightly elf pranks, a gentle model for our own original helper character.",
+     "src": "mother.ly, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1336
+    },
+    {
+     "t": "SocialPilot's 17 Nov 2026 TikTok roundup lists Thanksgiving and Friendsgiving prep (21 to 25 Nov, US) as the next cultural moment, with 'what I'm bringing' and table set up clips, so a kids 'what I bring to the table' song Short fits the week of 23 Nov.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1336
+    },
+    {
+     "t": "A South African mum turned TikTok's 'line up' challenge into a mealtime game: she dances with a tray while five family members join the line one by one, each adding their own move before getting a bite, and viewers called it a warm, loving home; the one by one line up structure suits a brothers and friends dance Short.",
+     "src": "briefly.co.za, 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1336
+    },
+    {
+     "t": "ABC News's 2026 holiday toy roundup (21 Oct) says social media has an outsized influence on small collectible and sensory toys, with slow rise squishies so popular that some toy shops cannot keep them in stock, which keeps the squish moment strong into Christmas.",
+     "src": "abcnews.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1336
     }
    ]
   }
@@ -23406,11 +23434,7 @@
  "log": [
   {
    "date": "2026-11-19 18:45",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1256)."
-  },
-  {
-   "date": "2026-11-19 18:45",
-   "note": "Run 1257 (TRENDS (Roblox and Fortnite dance emotes)): Small: the Trending Emote Dance game and the emote licensing lawsuit were already in the tree; added Aura Dance Battles' weekly Saturday phonk and emote drop, Fortnite's habit of buying named viral dances as emotes, and how fast Roblox kid trends age. Total 3242."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1257)."
   },
   {
    "date": "2026-11-19 18:46",
@@ -23723,13 +23747,13 @@
   {
    "date": "2026-11-19 21:36",
    "note": "Run 1335 (Shorts and Reels (newest platform changes)): Analysts see Shorts search favouring fresh Shorts from small channels that answer one exact query; Instagram tightened low quality filtering in recommended Reels and Explore; Plim Plim has stayed above 250M views every week for six months. Chrome not available (cloud run). Total 3330."
+  },
+  {
+   "date": "2026-11-19 21:37",
+   "note": "Run 1336 (TRENDS (Thanksgiving week and gentle elf ideas)): Added the Thankful line up trend (line up challenge plus gratitude, for 21 to 26 Nov) to the trend bank and dropped the faded 'One, then a mountain'; the no spying 'Elfie' helper idea and squishy toy demand support our December plans. Chrome not available. Total 3334."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:52",
-   "total": 2956
-  },
   {
    "date": "2026-11-19 11:53",
    "total": 2959
@@ -24925,6 +24949,10 @@
   {
    "date": "2026-11-19 21:36",
    "total": 3330
+  },
+  {
+   "date": "2026-11-19 21:37",
+   "total": 3334
   }
  ],
  "next_week_ideas": [
@@ -24993,6 +25021,12 @@
    "use": "A 15 second Short on our own bouncy beat: split screen or side by side, Big Bro labelled 'the dancer' does a clean bounce step (step right, step left, two knee bounces, arms swing), Little Bro labelled 'me' copies it one beat late, bumps into his brother, then nails the last pose and both high five. Meshy prompt: standing in place, step right, step left, two small knee bounces with arm swings, end with a high five pose. Caption 'Which one are you?'."
   },
   {
+   "name": "Thankful line up",
+   "where": "TikTok and Instagram family line up challenge plus the Thanksgiving gratitude tablecloth, 21 to 26 Nov",
+   "status": "seasonal",
+   "use": "A 15 second Short on our own warm clapping song: the Bros and two friends stand in a line off camera; one at a time each steps into frame, does one simple standing move (a double clap, a shoulder shimmy, a little hop in place, a wave with both hands), says one thing they are thankful for in three words, takes a slice of pie from Mum's tray and steps out; the last one is Little Bro, who hugs Big Bro. Meshy prompt per friend: standing in place, two quick claps at chest height, then a small shoulder shimmy for two beats."
+  },
+  {
    "name": "Snow day happy dance",
    "where": "YouTube Shorts, Instagram Reels (first snow already hit the US interior Northeast, Mid Atlantic and Michigan on 12 to 14 Nov 2026; more first snows through December)",
    "status": "rising",
@@ -25057,12 +25091,6 @@
    "where": "TikTok, Reels (from 2 Nov 2026, rising into December)",
    "status": "rising",
    "use": "Both Bros (plus a friend for a trio) in matching Christmas pyjamas, straight faces, side by side, on our own Deck the Halls arrangement: hands at collar then on hips with hip sways; rolling arms with small side steps; Big Bro points at Little Bro; both bump hips and hop; one slow spin in place; hand on chest then one finger up; fists up and a clap; then they walk to camera giggling. Standing, in place, no floor moves. 14 second Reel and Short, then the full song."
-  },
-  {
-   "name": "One, then a mountain",
-   "where": "TikTok and Reels (repeatable reveal format)",
-   "status": "evergreen",
-   "use": "Little Bro holds up one snowball with a straight face and the caption 'How could today get any better?'; on the chorus of our own winter song, cut to a huge pile of snowballs and both Bros do a happy arm pump in place (standing, both fists up and down twice, then a small hop). Works for toys, presents, cookies too."
   },
   {
    "name": "Advent door a day",
