@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:54:01+05:30",
- "runs": 1039,
+ "updated": "2026-11-19T11:54:27+05:30",
+ "runs": 1040,
  "branches": [
   {
    "id": "platforms",
@@ -20823,11 +20823,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 960 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:52",
-   "note": "Run 961 (YouTube algorithm (made for kids discovery: COPPA settlement study)): New: an economics study of 5,066 top US channels found that after made for kids personalisation was switched off in 2020, kids channel views fell about 20% and new subscriptions about 25%, but top quartile channels lost nothing while the smallest lost most, so made for kids discovery favours channels already big; AIR's kids growth tactics were already in the tree. Total 2808."
+   "note": "Earlier runs summarised: all rounds through Run 961 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:52",
@@ -21140,6 +21136,10 @@
   {
    "date": "2026-11-19 11:54",
    "note": "Run 1039 (global markets (Bangladesh and Pakistan kids channels)): Sisimpur, Bangladesh's Sesame Street (1.95M subscribers, 1.38B views), still draws about 37M to 48M views a month with gentle story episodes about family and kindness, while a small Pakistani English and Urdu ABC channel has collapsed to about 2K views a month after it stopped uploading kids content. Total 2961."
+  },
+  {
+   "date": "2026-11-19 11:54",
+   "note": "Run 1040 (competitor deep dive (ChuChu TV rechecked)): Nothing new: ChuChu TV's 18 Nov figures (98.2M subscribers, zero growth, about 223M to 330M views a month, latest 24 minute story compilation at about 50K views in 4.7 days) were already in the tree. No leaves added. Total 2961."
   }
  ],
  "history": [
@@ -21882,6 +21882,10 @@
   {
    "date": "2026-11-19 11:53",
    "total": 2959
+  },
+  {
+   "date": "2026-11-19 11:54",
+   "total": 2961
   },
   {
    "date": "2026-11-19 11:54",
