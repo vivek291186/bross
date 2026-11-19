@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:04:27+05:30",
- "runs": 971,
+ "updated": "2026-11-19T10:05:05+05:30",
+ "runs": 972,
  "branches": [
   {
    "id": "platforms",
@@ -13425,6 +13425,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 955
+    },
+    {
+     "t": "Brazilian broadcaster SBT's kids YouTube channel had about 152M views and almost 2M subscribers by July 2026, with 53M of those views from 'O Picapau Amarelo' (based on Monteiro Lobato's classic folklore stories, with original theme songs), so Brazilian kids respond strongly to local folklore characters.",
+     "src": "Senal News, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 972
+    },
+    {
+     "t": "For a Portuguese Bro Bros version, folk creatures and settings from public domain Brazilian stories (a farm, a jungle, a friendly forest spirit of our own design) are a safe way to feel local without copying protected characters such as those in the SBT series.",
+     "src": "Senal News, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 972
     }
    ]
   },
@@ -19906,11 +19920,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 892 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:03",
-   "note": "Run 893 (music craft (Danny Go! game song formats)): Danny Go!, one of 2026's growing kids brands, titles its songs as movement games rather than songs: 'Kids vs Adults Freeze Dance', a 'would you rather' colour dance brain break, and a drum along patterns memory game. New for us: the would you rather choice song and the clap the pattern memory song, both easy to make with Suno and Meshy and both get kids moving off the sofa. Total 2630."
+   "note": "Earlier runs summarised: all rounds through Run 893 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:04",
@@ -20223,6 +20233,10 @@
   {
    "date": "2026-11-19 10:04",
    "note": "Run 971 (YouTube Kids app access (own results skipped, Metricool still ends 16 Nov)): Metricool's YouTube feed still ends 16 Nov, so own results were skipped. New: AIR's YouTube Kids access service accepts channels from 1,500 subscribers, and Bro Bros already has about 2,150, so we qualify to ask an official partner to submit us; their PlayToys case went from flagging the issue (20 May) to being searchable in the app (18 Jun) in about four weeks. Total 2830."
+  },
+  {
+   "date": "2026-11-19 10:05",
+   "note": "Run 972 (global markets (Spanish and Portuguese holiday season rechecked; SBT Kids Brazil)): Three Kings traditions (54 related leaves) were already well covered. New: Brazilian broadcaster SBT's kids YouTube channel reached about 152M views and almost 2M subscribers, with a Monteiro Lobato based series carrying a third of its views and one episode hitting 5M in a month, showing Brazilian families reward local folklore characters with original songs. Total 2832."
   }
  ],
  "history": [
@@ -20697,6 +20711,10 @@
   {
    "date": "2026-11-19 10:04",
    "total": 2830
+  },
+  {
+   "date": "2026-11-19 10:05",
+   "total": 2832
   }
  ],
  "next_week_ideas": [
