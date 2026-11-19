@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:45:12+05:30",
- "runs": 1156,
+ "updated": "2026-11-19T15:45:42+05:30",
+ "runs": 1157,
  "branches": [
   {
    "id": "platforms",
@@ -9652,6 +9652,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1145
+    },
+    {
+     "t": "In interviews with 31 parents of autistic children (Journal of Autism and Developmental Disorders, 2020), children favoured content aimed at younger ages, content that invites imitation (some began saying words their favourite characters said) and videos they could replay at will, so short, clear, copyable lines sung the same way every time make a Bro Bros song useful well beyond typical preschoolers.",
+     "src": "Martins et al., J Autism Dev Disord, 2020",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1157
+    },
+    {
+     "t": "UK early years nurseries sing everyday songs such as 'Open, Shut Them' and the ABC song with Makaton signs (simple hand gestures used with speech), saying it helps vocalisation, confidence and social skills and that children teach the signs to their families, so showing one simple sign for each chorus word (more, please, thank you, friend) turns a Bro Bros song into a classroom friendly signing song.",
+     "src": "LEYF nurseries, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1157
     }
    ]
   },
@@ -21914,12 +21928,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 13:03",
-   "note": "Earlier: older log entries summarised; runs up to Run 1077 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:03",
-   "note": "Run 1078 (rules skipped (no gaps found) then Latin American growth numbers and music style gaps): Plim Plim passed 2B monthly views across its language channels in May 2026, double its level two years earlier, credited mainly to language expansion; El Reino Infantil reached 8.8B views in Jan to May 2026 and lists its pillars as movement, early literacy and family bonding. Searches for lo fi and reggaeton kids music found nothing solid. Total 3009."
+   "date": "2026-11-19 13:04",
+   "note": "Earlier: older log entries summarised; runs up to Run 1078 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:04",
@@ -22232,13 +22242,13 @@
   {
    "date": "2026-11-19 15:45",
    "note": "Run 1156 (TRENDS (Danny Go and holiday release checks)): Nothing new: Danny Go's colour dance 'would you rather' brain break and this year's pop Christmas singles were already recorded. No leaves added. Total 3117."
+  },
+  {
+   "date": "2026-11-19 15:45",
+   "note": "Run 1157 (music craft (songs that include more children: signing and autistic viewers)): New: parents of autistic children (31 interviews, Journal of Autism and Developmental Disorders) say their children favour content made for younger ages, songs and characters they can imitate (some repeat the characters' words) and videos they can replay; UK nurseries already sign songs like 'Open, Shut Them' and the ABC song with Makaton, so a few simple hand signs on our chorus words make a song usable for many more children. Total 3119."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 19:38",
-   "total": 2170
-  },
   {
    "date": "2026-11-16 20:00",
    "total": 2209
@@ -23434,6 +23444,10 @@
   {
    "date": "2026-11-19 15:45",
    "total": 3117
+  },
+  {
+   "date": "2026-11-19 15:45",
+   "total": 3119
   }
  ],
  "next_week_ideas": [
