@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:50:25+05:30",
- "runs": 1412,
+ "updated": "2026-11-20T02:51:08+05:30",
+ "runs": 1413,
  "branches": [
   {
    "id": "platforms",
@@ -24233,6 +24233,20 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1410
+    },
+    {
+     "t": "In the 28 Nov to 9 Dec 2024 window Shorts took about 58% of US holiday video views on YouTube, videos over 20 minutes about 19%, and more than 83% came from individual creators rather than brands (2.4B views across about 252K holiday uploads), so the Bro Bros holiday push should lead with Shorts while keeping one long compilation.",
+     "src": "The Measure (Tubular Labs), Dec 2024",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1413
+    },
+    {
+     "t": "A small channel's 30 second '2026 Kids New Year's Countdown' posted on 29 Dec 2025 reached about 28K views by 7 Jan 2026, showing a short, early bedtime countdown can find families even without a big audience if it is up a few days before 31 Dec.",
+     "src": "Accio blog, Jan 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1413
     }
    ]
   }
@@ -24261,10 +24275,6 @@
   {
    "date": "2026-11-19 20:46",
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
-  },
-  {
-   "date": "2026-11-19 21:01",
-   "note": "Run 1334 (ideas update (evidence from this run)): No new leaves; applied this run's evidence: 'Dear Santa, Here's My List!' (letter writing song timed for the 9 Dec Royal Mail Santa deadline) replaced the off season paper flower Mother's song in next week's ideas, and the trend bank gained puppy duet bark back, dancer versus non dancer, hook only sound Shorts, sing the scale ball game, perfect versus real Christmas and circle dance with the teacher; the snow day happy dance moved to rising after the 12 to 14 Nov first snowstorm. Total 3326."
   },
   {
    "date": "2026-11-19 21:36",
@@ -24577,6 +24587,10 @@
   {
    "date": "2026-11-20 02:50",
    "note": "Run 1412 (competitor deep dive (BabyBus Super JoJo case, ChuChu TV)): ChuChu TV's Netflix deal was already in the tree; added the Super JoJo case: BabyBus's 22M subscriber channel was removed in 2021 after repeated copyright claims and Moonbug later won 23.4M US dollars for copied CoComelon videos, a clear warning to keep our characters, scenes and lyrics fully original even on common topics like boo boos. Chrome not available. Total 3452."
+  },
+  {
+   "date": "2026-11-20 02:51",
+   "note": "Run 1413 (TRENDS (holiday Shorts share and New Year countdowns)): Early New Year countdowns for little ones were already in the tree; added Tubular's holiday data (Shorts took about 58% of US holiday video views in late Nov to early Dec 2024, 83% from individual creators) and that a small channel's 30 second kids countdown got about 28K views in nine days. Chrome not available. Total 3454."
   }
  ],
  "history": [
@@ -25499,6 +25513,10 @@
   {
    "date": "2026-11-20 02:50",
    "total": 3452
+  },
+  {
+   "date": "2026-11-20 02:51",
+   "total": 3454
   }
  ],
  "next_week_ideas": [
