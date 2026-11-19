@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:02:59+05:30",
- "runs": 1016,
+ "updated": "2026-11-19T11:03:15+05:30",
+ "runs": 1017,
  "branches": [
   {
    "id": "platforms",
@@ -20473,11 +20473,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 937 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 08:40",
-   "note": "Run 938 (Shorts and Reels (Instagram news to 14 Nov 2026)): Most Instagram news (Features long form test, Apple TV app, the end of linked Reels series, Your Algorithm controls) was already in the tree. New: Meta is reportedly paying some YouTube creators 50K to 500K USD to post long Features, and Edits now runs on Mac with an Effect Builder. Total 2735."
+   "note": "Earlier runs summarised: all rounds through Run 938 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 08:41",
@@ -20790,6 +20786,10 @@
   {
    "date": "2026-11-19 11:02",
    "note": "Run 1016 (competitor deep dive (Lalafun German and Indonesian channels)): Lalafun's local language channels perform very differently: the German one (2.76M subscribers, about 203M views in 28 days, 2,903 videos) is a major channel in its own right, while the Indonesian one (1.52M) gets only about 5M to 14M views a month. Their German hits are bedtime and baby versions of public domain rhymes (Ten in the Bed medley 254M). Total 2911."
+  },
+  {
+   "date": "2026-11-19 11:03",
+   "note": "Run 1017 (TRENDS (Spanish and Brazilian November trend lists rechecked)): Nothing new: the Spanish November list (que.es, 30 Oct) and TikTok's 2026 trend forecast (curiosity, realism, emotional return) were already in the tree, and no newer Brazilian weekly list was found. No leaves added. Total 2911."
   }
  ],
  "history": [
@@ -21443,6 +21443,10 @@
   },
   {
    "date": "2026-11-19 11:02",
+   "total": 2911
+  },
+  {
+   "date": "2026-11-19 11:03",
    "total": 2911
   }
  ],
