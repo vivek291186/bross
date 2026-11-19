@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:44:04+05:30",
- "runs": 951,
+ "updated": "2026-11-19T09:45:37+05:30",
+ "runs": 952,
  "branches": [
   {
    "id": "platforms",
@@ -8504,6 +8504,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 940
+    },
+    {
+     "t": "Suno v6 Advanced Mode has Weirdness and Style Influence sliders (both default 50%) and a new Variety slider; for kids songs keep Weirdness low and Style Influence high so the melody stays simple and the chosen genre tags (bright pop, ukulele, xylophone) are followed closely.",
+     "src": "We Rave You, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 952
+    },
+    {
+     "t": "Suno v6 Max Mode is aimed at consistency across longer songs and Covers and Voices, which suits keeping the same Bro Bros singing voice across 14 songs a week and across longer compilation songs.",
+     "src": "We Rave You, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 952
+    },
+    {
+     "t": "Suno v6 accepts a voice memo as a prompt, so the owner can hum or clap a hook idea into the phone and let Suno build the song around that exact rhythm, a fast way to get original catchy hooks.",
+     "src": "We Rave You, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 952
+    },
+    {
+     "t": "Suno v6 always makes two versions of each song and uses which one you keep as a taste signal, and it saves songs into Workspaces, so one Workspace per week of songs keeps the 14 weekly tracks and their keepers organised.",
+     "src": "We Rave You, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 952
     }
    ]
   },
@@ -19563,11 +19591,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 872 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:43",
-   "note": "Run 873 (competitor deep dive (Hogi and Pinkfong, Kids Diana Show)): Hogi and Pinkfong (16.7M) fell from about 365M monthly views in May to 264M in October 2026 on about 21 uploads a month, and every one of its top five videos is a 'learn colours with a satisfying object' song (pop it, candy machine, monster candy shop). Kids Diana's main channel now leads with the younger brothers ('Adam and Oliver's Adventure Collection', 17 Nov). HappyKids, a top Roku kids channel, now carries sing along songs with a bouncing ball over the lyrics. Total 2593."
+   "note": "Earlier runs summarised: all rounds through Run 873 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:44",
@@ -19880,6 +19904,10 @@
   {
    "date": "2026-11-19 09:44",
    "note": "Run 951 (TRENDS (all time most viewed Shorts list as of 17 Nov 2026)): 76 of the 100 most viewed Shorts ever are made for kids, and the Arabic 'hear the colour and catch it' game from January 2026 is already third at 3.9B; colour and fruit sorting games and sharing lessons fill the rest of the top 20. Added a 'Sort it to the beat' Short format. Total 2781."
+  },
+  {
+   "date": "2026-11-19 09:45",
+   "note": "Run 952 (music craft (Suno v6 Advanced Mode, Verona rhythm study rechecked)): The Verona rhythm study and most Suno v6 news were already in the tree. New for our workflow: v6 Advanced Mode sliders (Weirdness and Style Influence default 50%, a new Variety slider, Max Mode for consistent long vocals), voice memo, photo or video prompts, and Workspaces for keeping each week's songs apart. Total 2785."
   }
  ],
  "history": [
@@ -21022,6 +21050,10 @@
   {
    "date": "2026-11-19 09:44",
    "total": 2781
+  },
+  {
+   "date": "2026-11-19 09:45",
+   "total": 2785
   }
  ],
  "next_week_ideas": [
