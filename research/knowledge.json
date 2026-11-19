@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:54:10+05:30",
- "runs": 964,
+ "updated": "2026-11-19T09:54:48+05:30",
+ "runs": 965,
  "branches": [
   {
    "id": "platforms",
@@ -11451,6 +11451,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 918
+    },
+    {
+     "t": "Parents' most common worried searches in 2026 cluster around sleep ('why has my baby stopped sleeping?'), sudden anger and screen time ('is YouTube bad for kids?'), so Bro Bros bedtime songs and calm down songs answer real parent needs and help parents feel good about choosing our channel.",
+     "src": "Child Magazines, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 965
     }
    ]
   },
@@ -19801,11 +19808,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 885 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:59",
-   "note": "Run 886 (TRENDS (Pinterest parenting report, year end recap season)): YouTube's year end Recap (expected early December) was already in the tree. New from Pinterest's 2026 parenting report: parents search for screen free and movement ideas (fun physical activities +340%, toddler movement +145%), sensory play (+1070%), family traditions (+200%), road trip setups (+530%) and 70s to 2000s throwback toys (+610% for 2000s toys), so our songs should invite kids to get up and copy moves, and family tradition, road trip and retro toy themes fit what parents want. Total 2623."
+   "note": "Earlier runs summarised: all rounds through Run 886 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:00",
@@ -20118,6 +20121,10 @@
   {
    "date": "2026-11-19 09:54",
    "note": "Run 964 (music craft (newborn song brain study 2026, Grammy kids nominees and word learning rechecked)): The 2027 Grammy kids nominees and the sung word learning study were already in the tree. New: a 2026 Communications Psychology study with 40 newborns found song lights up the same language areas as speech, more than humming, so our baby songs should be sung with clear words, not hummed or wordless. Total 2815."
+  },
+  {
+   "date": "2026-11-19 09:54",
+   "note": "Run 965 (topics and seasons (visual craft skipped, thin last time; December 2026 classroom calendar, parent searches)): Mostly covered: the December 2026 classroom calendar (Hanukkah and Cookie Day 4 Dec, St Lucia 13 Dec, Las Posadas 16 Dec, Sweater Day 18 Dec, Cut Out Snowflakes Day 27 Dec) was already in the tree. New: parents' most common worried searches are about sleep, sudden anger and whether YouTube is bad for kids, which supports calm down and bedtime songs with a visibly gentle, ad free feel. Total 2816."
   }
  ],
  "history": [
@@ -21312,6 +21319,10 @@
   {
    "date": "2026-11-19 09:54",
    "total": 2815
+  },
+  {
+   "date": "2026-11-19 09:54",
+   "total": 2816
   }
  ],
  "next_week_ideas": [
