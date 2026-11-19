@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:48:57+05:30",
- "runs": 1111,
+ "updated": "2026-11-19T14:49:42+05:30",
+ "runs": 1112,
  "branches": [
   {
    "id": "platforms",
@@ -14685,6 +14685,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1088
+    },
+    {
+     "t": "Little Angel's Arabic dubbed channel (5.21M subscribers, 3.27B views, about 965 videos since Jan 2020) drew only about 19M views and 10K new subscribers in the 28 days to 21 Oct 2026, with new uploads getting a few thousand views, so a big dubbed copy channel plateaus once it stops getting fresh songs made for the market.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1112
+    },
+    {
+     "t": "Its most viewed Arabic videos are everyday learning songs from 2022 to 2023 (a school morning routine, healthy eating, face painting, being brave) at about 18M to 48M each, so routine and courage topics are what Arabic speaking parents keep replaying.",
+     "src": "vidiq.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1112
+    },
+    {
+     "t": "A Bengali nursery rhyme channel based in India (Tinku Tv Bangla, about 828K subscribers, 200M views, about 520 videos averaging 25 minutes) added roughly 50K subscribers and about 16M views a month in mid 2025, showing that long Bengali compilations still grow fast in an underserved language of about 45M Bangladeshi children plus West Bengal.",
+     "src": "vidiq.com, 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1112
     }
    ]
   },
@@ -21614,11 +21635,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1032 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:50",
-   "note": "Run 1033 (YouTube algorithm (Home ranking and satisfaction rechecked)): Nothing new: OutlierKit's October updates on Home ranking (each video ranked per viewer, align channels with audiences) and valued watch time (only 4 and 5 star survey ratings count) were already in the tree. No leaves added. Total 2949."
+   "note": "Earlier: older log entries summarised; runs up to Run 1033 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:50",
@@ -21931,6 +21948,10 @@
   {
    "date": "2026-11-19 14:48",
    "note": "Run 1111 (TRENDS (Trendreport breakout videos 11 to 18 Nov and all time Shorts)): New: 76 of the 100 most viewed Shorts ever are made for kids; this week's fastest kids breakouts are a colour tasting challenge (about 30M views a day), a baby meeting wild foxes and Indian school day comedy skits. Total 3074."
+  },
+  {
+   "date": "2026-11-19 14:49",
+   "note": "Run 1112 (global markets (Arabic and Bengali dubbed song channels)): New: Little Angel's Arabic channel (5.21M subscribers, 3.27B views) now earns only about 19M views and 10K subscribers a month, showing that a mature dubbed copy plateaus without fresh original songs; an India based Bengali rhymes channel (Tinku Tv Bangla, 828K) was gaining about 50K subscribers a month with long 25 minute compilations. Total 3077."
   }
  ],
  "history": [
@@ -22965,6 +22986,10 @@
   {
    "date": "2026-11-19 14:48",
    "total": 3074
+  },
+  {
+   "date": "2026-11-19 14:49",
+   "total": 3077
   }
  ],
  "next_week_ideas": [
