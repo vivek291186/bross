@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:05:35+05:30",
- "runs": 1205,
+ "updated": "2026-11-19T16:06:19+05:30",
+ "runs": 1206,
  "branches": [
   {
    "id": "platforms",
@@ -11472,6 +11472,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1194
+    },
+    {
+     "t": "In Disney Research's preschool TV experiments with 3 to 5 year olds, a character who asked a question and then waited for the child roughly doubled the share of children who answered (about 73% against 35% with a short fixed pause), 94% of answers came within 8 seconds and simply repeating an unanswered question drew an answer 82% of the time, so when a Bro asks the viewer something (which colour? how many?) the song should leave about 3 to 5 seconds of music, ask once more, then reveal.",
+     "src": "Disney Research (preschool interactive TV study)",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1206
+    },
+    {
+     "t": "Child media researcher Naomi Aguiar (Children and Screens, 2022) reports that toddlers and preschoolers feel comfort and trust with familiar characters and learn more from videos when a character they already know guides the lesson, so keeping the same Bros, voices and friends in every song, rather than new one off characters, builds the trust that makes our learning songs work.",
+     "src": "Children and Screens, 2022",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1206
     }
    ]
   },
@@ -22181,11 +22195,7 @@
  "log": [
   {
    "date": "2026-11-19 14:57",
-   "note": "Earlier: older log entries summarised; runs up to Run 1126 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:57",
-   "note": "Run 1127 (rules and monetisation (2026 CPM and RPM by country rechecked)): Nothing new: AIR's 300 channel RPM data and vidIQ's made for kids CPM ranges and Q4 curve were already in the tree. No leaves added. Total 3087."
+   "note": "Earlier: older log entries summarised; runs up to Run 1127 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:57",
@@ -22498,13 +22508,13 @@
   {
    "date": "2026-11-19 16:05",
    "note": "Run 1205 (music craft (instrumental sing along versions rechecked)): Nothing new: instrumental and karaoke versions of kids songs for teachers and families were already in the tree. No leaves added. Total 3155."
+  },
+  {
+   "date": "2026-11-19 16:06",
+   "note": "Run 1206 (visual craft (asking the viewer a question and waiting)): New: Disney Research's preschool TV experiments (3 to 5 year olds) found that a character who waits for an answer roughly doubled how often children answered (73% versus 35%), 94% of answers came within 8 seconds and repeating an unanswered question got an answer 82% of the time; and child media researchers say young children learn more from characters they already know and trust, which argues for a fixed cast in every song. Total 3157."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:43",
-   "total": 2662
-  },
   {
    "date": "2026-11-19 07:44",
    "total": 2665
@@ -23700,6 +23710,10 @@
   {
    "date": "2026-11-19 16:05",
    "total": 3155
+  },
+  {
+   "date": "2026-11-19 16:06",
+   "total": 3157
   }
  ],
  "next_week_ideas": [
