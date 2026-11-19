@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:01:35+05:30",
- "runs": 1013,
+ "updated": "2026-11-19T11:02:59+05:30",
+ "runs": 1016,
  "branches": [
   {
    "id": "platforms",
@@ -7160,6 +7160,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1006
+    },
+    {
+     "t": "Lalafun's German channel (2.76M subscribers, 2.35B views, 2,903 videos since May 2022) drew about 203M views in the 28 days to 18 Nov 2026 and gained 90K subscribers, so a dubbed German version of a 3D nursery rhyme brand can become a top channel on its own.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1016
+    },
+    {
+     "t": "Lalafun's German top videos are sleepy baby versions of public domain rhymes (a Ten in the Bed bedtime medley 254M, Itsy Bitsy Spider newborn version 156M) and in 2026 new bus songs (Picnic Bus 43.6M, Family Bus 42.6M), so bedtime and bus themes travel well into German.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1016
     }
    ]
   },
@@ -13866,6 +13880,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1010
+    },
+    {
+     "t": "The same brand's Indonesian channel (1.52M subscribers) earns only about 4M to 14M views a month with near zero subscriber growth and an estimated 2K USD a month, against about 200M views for its German channel, so German is a far stronger dubbing market for 3D nursery rhymes than Indonesian for this kind of brand.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1016
     }
    ]
   },
@@ -20452,19 +20473,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 934 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 08:37",
-   "note": "Run 935 (rules and safety (AI slop crackdown recap, UK ban widening rechecked)): Rules news through 18 Nov (UK plan to widen the under 16 ban to YouTube Kids, Australia's High Court case, 30 day spam lock, COPPA) was already in the tree. Added a practical 'could anyone make this from the same prompt?' check and a weekly 20 to 30 upload audit for repeated structure. Total 2729."
-  },
-  {
-   "date": "2026-11-19 08:38",
-   "note": "Run 936 (YouTube main and Kids (own results skipped, Metricool YouTube still ends 16 Nov; RhymeMusicBox)): Metricool YouTube still ends 16 Nov, so our own results were skipped. From vidIQ: a small US remix channel (RhymeMusicBox) holds 178M views from 44 videos, 128M of them from one 'Baby Shark + Ten in the Bed' pairing, and all its top videos are two song pairings, so 'Song A + Song B' mini compilations of our best originals are worth testing. Total 2732."
-  },
-  {
-   "date": "2026-11-19 08:39",
-   "note": "Run 937 (YouTube algorithm (TRENDS skipped, thin an hour ago; Shorts timer at zero, Beaupre interview rechecked)): Algorithm news through mid November (Beaupre's 10% subscriber click rate, pull based Home, AIR's 7.55M kids channel case, the Feb 2027 monetisation bar) was already in the tree. New: a zero minute Shorts timer on supervised accounts removes Shorts from Home, so full length songs stay the only route to those families. Total 2733."
+   "note": "Earlier runs summarised: all rounds through Run 937 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 08:40",
@@ -20769,6 +20778,18 @@
   {
    "date": "2026-11-19 11:01",
    "note": "Run 1013 (our own schedule (Metricool queue 19 to 22 Nov checked, read only)): The Metricool queue (read only) runs to 22 Nov and still posts at 10:00 and 16:00 IST (long video and Reel together, Short 5 minutes later; farm band, bubble gum, elephant parade, little car, kitty band, toothbrushing, peekaboo, rocket to the moon), and every description promises 'new songs every day at 10 AM and 4 PM'. Nothing is queued yet from 23 Nov, so the next week can adopt the plan's 04:30 IST US slot. Total 2908."
+  },
+  {
+   "date": "2026-11-19 11:02",
+   "note": "Run 1014 (TRENDS (holiday 2026 songs and Thanksgiving formats rechecked)): Nothing usable: new holiday pop singles came from adult influencer duos and the viral 'Indian Christmas remix' trend relies on accent parody, which we skip; Thanksgiving clips were recipes and pranks. No leaves added. Total 2908."
+  },
+  {
+   "date": "2026-11-19 11:02",
+   "note": "Run 1015 (rules and monetisation (Q4 RPM and kids live streams rechecked)): Nothing new: Gyre's live RPM study (December about 2.4 times January, kids and teens live RPM about 3.4 times video, contextual ads only on made for kids) was already in the tree. No leaves added. Total 2908."
+  },
+  {
+   "date": "2026-11-19 11:02",
+   "note": "Run 1016 (competitor deep dive (Lalafun German and Indonesian channels)): Lalafun's local language channels perform very differently: the German one (2.76M subscribers, about 203M views in 28 days, 2,903 videos) is a major channel in its own right, while the Indonesian one (1.52M) gets only about 5M to 14M views a month. Their German hits are bedtime and baby versions of public domain rhymes (Ten in the Bed medley 254M). Total 2911."
   }
  ],
  "history": [
@@ -21411,6 +21432,18 @@
   {
    "date": "2026-11-19 11:01",
    "total": 2908
+  },
+  {
+   "date": "2026-11-19 11:02",
+   "total": 2908
+  },
+  {
+   "date": "2026-11-19 11:02",
+   "total": 2908
+  },
+  {
+   "date": "2026-11-19 11:02",
+   "total": 2911
   }
  ],
  "next_week_ideas": [
