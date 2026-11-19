@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:53:02+05:30",
- "runs": 1229,
+ "updated": "2026-11-19T16:53:31+05:30",
+ "runs": 1230,
  "branches": [
   {
    "id": "platforms",
@@ -11556,6 +11556,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1218
+    },
+    {
+     "t": "YouTube's official upload guidance says to export at the same frame rate the animation was rendered at (24, 25, 30, 48, 50 or 60 fps) and suggests MP4 with H.264 High Profile, Fast Start (moov atom at the front), closed GOP of half the frame rate and variable bitrate, about 8 Mbps for 1080p at 24 to 30 fps (12 Mbps at 60) and 35 to 45 Mbps for 4K at 24 to 30 fps.",
+     "src": "YouTube Help, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1230
+    },
+    {
+     "t": "For sound the same page suggests AAC LC (or Opus) at 48 kHz, stereo at 384 kbps, so Bro Bros songs exported from Suno should be resampled to 48 kHz stereo before the Blender render is muxed, rather than uploaded at a low mp3 bitrate that loses the bright highs kids respond to.",
+     "src": "YouTube Help, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1230
     }
    ]
   },
@@ -22348,12 +22362,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:42",
-   "note": "Earlier: older log entries summarised; runs up to Run 1150 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:42",
-   "note": "Run 1151 (rules and safety (flashing light rules for animation)): Filled a safety gap: broadcast flashing rules (Ofcom, also used in Japan) ban more than three flashes a second over a quarter of the screen, treat any jump to or from saturated red as risky and limit striped patterns; online video has no legal test, but our New Year fireworks, disco lights and sparkle effects should follow the same limits since broadcasters and YouTube Kids buyers check for them. Total 3114."
+   "date": "2026-11-19 15:43",
+   "note": "Earlier: older log entries summarised; runs up to Run 1151 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:43",
@@ -22666,13 +22676,13 @@
   {
    "date": "2026-11-19 16:53",
    "note": "Run 1229 (music craft (calm background music and 24/7 streams)): New: Lofi Girl ran 22 themed 24/7 livestreams at once on 6 Nov 2026 (study, sleep, jazz, seasonal; 15.8M subscribers, 173M hours watched in 2025), a model for several parallel Bro Bros streams (dance party, calm play, bedtime); preschool teachers report soft lo fi background music helps focus and transitions, but only anecdotally. Total 3179."
+  },
+  {
+   "date": "2026-11-19 16:53",
+   "note": "Run 1230 (visual craft (render and export settings for YouTube)): New: YouTube's official upload guidance says to keep the render's own frame rate (24, 25, 30, 48, 50 or 60) and suggests H.264 MP4 with Fast Start at about 8 Mbps for 1080p30 or 35 to 45 Mbps for 4K30, with AAC stereo audio at 48 kHz and 384 kbps, a ready Blender export preset for every Bro Bros video. Total 3181."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 08:02",
-   "total": 2719
-  },
   {
    "date": "2026-11-19 08:03",
    "total": 2722
@@ -23868,6 +23878,10 @@
   {
    "date": "2026-11-19 16:53",
    "total": 3179
+  },
+  {
+   "date": "2026-11-19 16:53",
+   "total": 3181
   }
  ],
  "next_week_ideas": [
