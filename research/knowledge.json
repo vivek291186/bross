@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:46:47+05:30",
- "runs": 1320,
+ "updated": "2026-11-19T20:47:51+05:30",
+ "runs": 1321,
  "branches": [
   {
    "id": "platforms",
@@ -23246,6 +23246,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1318
+    },
+    {
+     "t": "A Telangana teacher's Instagram clip of herself dancing in a circle with her pupils to a Telugu folk song reached about 5M views, with viewers praising the shared energy, so a Bro Bros 'circle dance with the teacher' song (everyone holds hands, steps in, steps out, spins) taps the same warm classroom feeling across cultures.",
+     "src": "tribuneindia.com, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1321
+    },
+    {
+     "t": "Paris region's children's dance festival Playground (4 to 29 Nov 2026, fifth edition) runs shows for babies from 3 months to 3 years alongside a family dance ball and toddler dance workshops in theatres and schools, a sign that dancing together as a family with the very youngest is a mainstream idea in Europe, not only on social media.",
+     "src": "sortiraparis.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1321
     }
    ]
   }
@@ -23272,12 +23286,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:38",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:39",
-   "note": "Run 1242 (visual craft (character design studies)): Small: two new robot studies help our robot and character designs: Chinese 4 to 6 year olds (318) looked longer at humanlike robots and liked any robot more when it gestured and spoke, and a Japanese preprint (345 preschoolers) found recolouring a robot pink barely changed girls' interest, so roles and actions matter more than colour. Thumbnail, pacing and TV safe findings were already in the tree. Total 3199."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:39",
@@ -23590,13 +23600,13 @@
   {
    "date": "2026-11-19 20:46",
    "note": "Run 1320 (our own results (Metricool recheck)): Nothing new: at 20:47 IST Metricool's YouTube feed still ends at 16 Nov (2,150 subscribers) and Instagram Reels data covers only the 18 Nov Reels already analysed (freeze dance 111 views, 66% skip; veggie soup 127 views, 75% skip); the 19 Nov Reels have no data yet. No leaves added. Total 3311."
+  },
+  {
+   "date": "2026-11-19 20:47",
+   "note": "Run 1321 (TRENDS (teacher circle dances, baby dance events)): Small: Later's 13 Nov Reels list (five stages, locked camera outfit swap, appointment timestamps) was already in the tree; new were a Telangana teacher's circle folk dance with her pupils (about 5M views), proof that a grown up dancing in a ring with kids travels, and Paris's November kids dance festival with shows for babies from 3 months and a family dance ball. Total 3313."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:05",
-   "total": 2917
-  },
   {
    "date": "2026-11-19 11:35",
    "total": 2921
@@ -24792,6 +24802,10 @@
   {
    "date": "2026-11-19 20:46",
    "total": 3311
+  },
+  {
+   "date": "2026-11-19 20:47",
+   "total": 3313
   }
  ],
  "next_week_ideas": [
@@ -24853,6 +24867,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Circle dance with the teacher",
+   "where": "Instagram Reels, YouTube Shorts (classroom and family clips)",
+   "status": "evergreen",
+   "use": "A 20 second Short with our own folk style clapping song: the Bros, two friends and a cheerful teacher character stand in a ring holding hands, step in to the middle on 'in', step back on 'out', let go and clap twice, then turn in place and hold hands again. Meshy prompt: standing in a circle, two steps forward, two steps back, two claps, turn around in place. Caption 'Teacher joins the dance!'."
+  },
   {
    "name": "Perfect versus real Christmas",
    "where": "Instagram Reels, TikTok (parents, December)",
@@ -24966,12 +24986,6 @@
    "where": "Reels, Shorts",
    "status": "seasonal",
    "use": "Original winter song: the brothers in pyjamas line up as a train, the big brother in a conductor hat punches the little brother's paper ticket on the beat, then both chug in place (arms rolling like wheels, little steps on the spot) and ring a bell on 'ding ding'. Post 14 to 18 Dec for last school days; never use the film's title, music or characters."
-  },
-  {
-   "name": "Silly sweater reveal",
-   "where": "Reels, Shorts, TikTok",
-   "status": "seasonal",
-   "use": "For Ugly Sweater Day (Fri 18 Dec): the brothers stand in plain jumpers, clap twice, and on the beat drop the camera tilts up from their shoes to reveal very silly Christmas sweaters (a dancing reindeer, flashing tree lights); they do a proud catwalk turn and a shoulder shimmy in place. 10 to 15 seconds with our own Christmas song."
   }
  ],
  "posting_plan": {
