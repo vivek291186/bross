@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:43:40+05:30",
- "runs": 1056,
+ "updated": "2026-11-19T12:44:25+05:30",
+ "runs": 1057,
  "branches": [
   {
    "id": "platforms",
@@ -2176,6 +2176,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1046
+    },
+    {
+     "t": "Meta's Muse assistant can now turn a user's personal avatar into a dancing video that can be shared to Instagram, so avatar dance clips will get more common on Reels and parents may make their own; a Bro Bros 'dance along with the brothers' Reel with an easy signature move gives them something to copy.",
+     "src": "Metricool Instagram news, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1057
+    },
+    {
+     "t": "Instagram added Livestream Boost, which promotes a live broadcast as a paid ad straight from the live composer, and Instagram advises scheduling the live at least two hours ahead, useful if Bro Bros ever runs a parent facing live premiere of a Christmas song.",
+     "src": "Metricool Instagram news, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1057
     }
    ]
   },
@@ -20984,11 +20998,7 @@
  "log": [
   {
    "date": "2026-11-19 10:08",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 977 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 10:08",
-   "note": "Run 978 (TRENDS (TokChart fastest growing sounds, 18 Nov 2026)): TokChart's 18 Nov worldwide chart puts the 'camera shy' pet audio at number one, adding about 130K videos a day (656K total), with a second upload of a soft launch song at about 86K a day and the 'Time' then and now clip still growing. Moved 'Shy then dance' to the top of the trend bank as peak. Total 2844."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 978 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:09",
@@ -21301,6 +21311,10 @@
   {
    "date": "2026-11-19 12:43",
    "note": "Run 1056 (TRENDS (Later and SocialPilot Reels lists for mid November)): SocialPilot's 17 to 25 Nov Reels list adds a 'Stop the wedding, but...' fake drama hook that ends on something small and funny, and holiday reveals that go from one glowing bulb to a full display in a single cut. Later's 13 Nov list (5 stages, locked camera outfit change) and the waltz and back to back bump formats were already in the tree. Total 2984."
+  },
+  {
+   "date": "2026-11-19 12:44",
+   "note": "Run 1057 (Shorts and Reels (Instagram feature list rechecked, algorithm skipped as checked in run 1055)): Metricool's 13 Nov Instagram news page adds two small points: Meta's Muse assistant now turns a user's avatar into a shareable dancing video, and Instagram added Livestream Boost to promote a live broadcast as an ad, best set up at least two hours ahead. Features, the Apple TV app, series link removal and AI labels were already in the tree. Total 2986."
   }
  ],
  "history": [
@@ -22115,6 +22129,10 @@
   {
    "date": "2026-11-19 12:43",
    "total": 2984
+  },
+  {
+   "date": "2026-11-19 12:44",
+   "total": 2986
   }
  ],
  "next_week_ideas": [
