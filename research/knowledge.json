@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:47:04+05:30",
- "runs": 1377,
+ "updated": "2026-11-19T23:47:24+05:30",
+ "runs": 1378,
  "branches": [
   {
    "id": "platforms",
@@ -23770,11 +23770,7 @@
  "log": [
   {
    "date": "2026-11-19 19:46",
-   "note": "Earlier: older log entries summarised (runs up to 1298); details are in git history."
-  },
-  {
-   "date": "2026-11-19 19:46",
-   "note": "Run 1299 (Shorts and Reels (Instagram feature and guide recheck)): Nothing new: Instagram's Sep 2026 Reels length guide, Trial Reels scheduling and limits, the Edits desktop app and the originality rules were already in the tree; no Instagram feature change dated this week was found. No leaves added. Total 3280."
+   "note": "Earlier: older log entries summarised (runs up to 1299); details are in git history."
   },
   {
    "date": "2026-11-19 19:47",
@@ -24087,13 +24083,13 @@
   {
    "date": "2026-11-19 23:47",
    "note": "Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)): Nothing new: Metricool's YouTube model for 20 to 26 Nov still peaks at 16:00 IST every day (Wednesday about 12.0K, weekend about half) with 10:00 IST second, exactly as already recorded. Posting plan unchanged. No leaves added. Chrome not available. Total 3382."
+  },
+  {
+   "date": "2026-11-19 23:47",
+   "note": "Run 1378 (rules and monetisation recheck): Nothing new: the EU Digital Fairness Act proposal of 11 Nov (minors' ads, autoplay switches, 6% fines) and AIR's 2026 kids RPM and CPM tables were already in the tree. No leaves added. Chrome not available. Total 3382."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:03",
-   "total": 3009
-  },
   {
    "date": "2026-11-19 13:04",
    "total": 3009
@@ -25284,6 +25280,10 @@
   },
   {
    "date": "2026-11-19 23:46",
+   "total": 3382
+  },
+  {
+   "date": "2026-11-19 23:47",
    "total": 3382
   },
   {
