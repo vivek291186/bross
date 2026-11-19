@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:38:18+05:30",
- "runs": 1284,
+ "updated": "2026-11-19T19:39:26+05:30",
+ "runs": 1285,
  "branches": [
   {
    "id": "platforms",
@@ -22966,6 +22966,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1282
+    },
+    {
+     "t": "A long running TikTok format started from a crude low poly 3D rat in rain boots doing goofy arm and body moves on each beat drop; people film themselves copying it in a wide full body shot and a filter places the rat next to them, proof that a simple, slightly silly 3D character dance can itself become the thing families copy, so every Bro Bros chorus dance should be framed full body and easy to copy beside the screen.",
+     "src": "meme.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1285
     }
    ]
   }
@@ -22994,10 +23001,6 @@
   {
    "date": "2026-11-19 16:03",
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
-   "date": "2026-11-19 16:06",
-   "note": "Run 1206 (visual craft (asking the viewer a question and waiting)): New: Disney Research's preschool TV experiments (3 to 5 year olds) found that a character who waits for an answer roughly doubled how often children answered (73% versus 35%), 94% of answers came within 8 seconds and repeating an unanswered question got an answer 82% of the time; and child media researchers say young children learn more from characters they already know and trust, which argues for a fixed cast in every song. Total 3157."
   },
   {
    "date": "2026-11-19 16:06",
@@ -23310,13 +23313,13 @@
   {
    "date": "2026-11-19 19:38",
    "note": "Run 1284 (YouTube algorithm (recommendation changes recheck)): Nothing new: Beaupre's Sep 2026 Creator Insider points (subscribers click about 10% of uploads, pull based ranking, Suggested as the top source), the Oct 2026 originality push for Shorts and the satisfied watch time shift were already in the tree; no confirmed November ranking change found. No leaves added. Total 3271."
+  },
+  {
+   "date": "2026-11-19 19:39",
+   "note": "Run 1285 (TRENDS (this week's dance and audio trackers)): Small: the only usable new item is the dancing 3D rat format (a crude animated rat with goofy beat drop moves that people copy in a wide full body shot, helped by a filter that puts the rat beside them), more proof that a simple, slightly silly 3D character dance can become a copy me trend. Trackers otherwise repeated known items. Total leaves +1. Total 3272."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:38",
-   "total": 2857
-  },
   {
    "date": "2026-11-19 10:39",
    "total": 2860
@@ -24512,6 +24515,10 @@
   {
    "date": "2026-11-19 19:38",
    "total": 3271
+  },
+  {
+   "date": "2026-11-19 19:39",
+   "total": 3272
   }
  ],
  "next_week_ideas": [
