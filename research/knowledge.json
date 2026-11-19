@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:57:04+05:30",
- "runs": 882,
+ "updated": "2026-11-19T06:57:44+05:30",
+ "runs": 883,
  "branches": [
   {
    "id": "platforms",
@@ -3548,6 +3548,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 869
+    },
+    {
+     "t": "Roblox averaged about 14.5M concurrent players on October 2026 weekends against about 9.7M on weekdays (about 50% more), and peaks came on Saturdays, a reminder that children's free screen time swells at weekends, which supports keeping our most playful dance songs and compilations for Friday and Saturday releases.",
+     "src": "Bloxodes, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 883
     }
    ]
   },
@@ -18353,6 +18360,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 880
+    },
+    {
+     "t": "Bloxodes' October 2026 Roblox report shows egg themed simulators still on top (Steal an egg about 1.28M average players even after losing about 500K since September, plus new egg games entering the top 100), so eggs, hatching and collecting remain a strong kid theme this season for a surprise song or a 'which egg will hatch?' Short.",
+     "src": "Bloxodes, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 883
+    },
+    {
+     "t": "Survival games jumped to about 15% of Roblox play in October 2026 (from about 12.5%), peaking in the Halloween weeks, while dress up (Dress To Impress) and pet care (Adopt Me, up 75K players) stayed strong, so cosy pet care and dress up themes are the kid safe parts of what children play now.",
+     "src": "Bloxodes, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 883
     }
    ]
   }
@@ -18380,11 +18401,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 804 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:05",
-   "note": "Run 805 (TRENDS (new mid November dance memes, trend radars)): New this week: a gentle 'bashful sway' with hands folded under the chin, started 7 Nov and still spreading, joins the trend bank as a soft move for shy or sorry songs; trend radars and B&T lists had nothing newer for kids. Total 2377."
+   "note": "Earlier runs summarised: all rounds through Run 805 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:05",
@@ -18697,6 +18714,10 @@
   {
    "date": "2026-11-19 06:57",
    "note": "Run 882 (visual craft (thumbnails, pacing studies)): The pacing versus fantasy meta analysis and the Vania Mania thumbnail rules were already in the tree. New detail: AIR's April 2026 kids operations case warns that dubbed audio tracks can vanish from videos without notice, and checks 'Views by audio track' in YouTube Studio for sudden country drops; when we add dubs we should check that report weekly. Total 2612."
+  },
+  {
+   "date": "2026-11-19 06:57",
+   "note": "Run 883 (TRENDS (Roblox October report, kids' interests)): Bloxodes' October 2026 Roblox report: egg themed simulators lead (Steal an egg about 1.28M average players even after a 500K drop), survival games rose to 15% of play around Halloween, and weekends average about 14.5M players against 9.7M on weekdays, so kids' free play peaks on weekends. Egg hatching and egg collecting stay a strong kid theme, matching this week's hatching toy wish lists. Other kids interest pages repeated squishy toys, already in the tree. Total 2615."
   }
  ],
  "history": [
@@ -19563,6 +19584,10 @@
   {
    "date": "2026-11-19 06:57",
    "total": 2612
+  },
+  {
+   "date": "2026-11-19 06:57",
+   "total": 2615
   }
  ],
  "next_week_ideas": [
