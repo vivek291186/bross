@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:48:10+05:30",
- "runs": 1089,
+ "updated": "2026-11-19T13:48:55+05:30",
+ "runs": 1090,
  "branches": [
   {
    "id": "platforms",
@@ -4122,6 +4122,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1083
+    },
+    {
+     "t": "Measured in each channel's own local time, PostFast's 6,175 post data (mostly Shorts, to Sep 2026) puts 1 PM best (1.25 times normal), then 9 PM (1.19), 10 AM (1.18) and 8 PM (1.12), while 6 PM (0.80) and 3 PM (0.89) underperform, which fits a Bro Bros Short at 10:00 IST and casts doubt on early evening India posts for Shorts.",
+     "src": "PostFast, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1090
+    },
+    {
+     "t": "PostFast also found its hour rankings only partly repeat when the data is split in random halves (correlation about 0.55 to 0.59), so posting hour effects are small and noisy and a change of slot should follow our own YouTube Studio 'when your viewers are on YouTube' chart rather than any single public study.",
+     "src": "PostFast, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1090
+    },
+    {
+     "t": "Bytecap's Oct 2026 Shorts timing page admits its 5 to 8 PM UTC window and day shares (Wednesday 15.8% of clips, Sunday 12.1%) show when OpusClip users post, not when Shorts perform best, a reminder to ignore 'best time' lists built on posting volume.",
+     "src": "Bytecap, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1090
     }
    ]
   },
@@ -21354,12 +21375,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 11:00",
-   "note": "Earlier: older log entries summarised; runs up to Run 1010 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 11:01",
-   "note": "Run 1011 (TRENDS (Inmagic 16 Nov and Nuelink lists rechecked)): Nothing new: Inmagic's 16 Nov list (Christmas switch, angel reveal, one spot glow up, timestamps, slow festive makeover, Housewife formats, Dame Hombro shoulders, zoom in message, then and now) and Nuelink's older August list were already covered. No leaves added. Total 2905."
+   "note": "Earlier: older log entries summarised; runs up to Run 1011 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:01",
@@ -21672,6 +21689,10 @@
   {
    "date": "2026-11-19 13:48",
    "note": "Run 1089 (competitor deep dive (Booba, the wordless 3D brand that grew from YouTube)): Booba (about 22B views, 20M subscribers) started as 3 minute YouTube shorts and grew episodes step by step to 5 then 7 minutes, multiplies its hero into themed versions, and for season six added a female lead and a tiny version aimed at Asian markets. Lessons for Bro Bros: grow length slowly, reuse the cast in themed versions, add a girl friend lead. Total 3037."
+  },
+  {
+   "date": "2026-11-19 13:48",
+   "note": "Run 1090 (posting times (Metricool YouTube best times for 20 to 26 Nov rechecked, PostFast local time detail; TRENDS skipped, nothing new in run 1087)): Metricool's YouTube model is unchanged (16:00 IST top on most days, 10:00 IST close on Thu and Fri), so both slots stay. New nuance from PostFast: in each channel's own local time 1 PM is the best Shorts hour (1.25x) with 10 AM and 9 PM next, and hour rankings only half repeat between random halves of the data, so hour effects are weak and our own Studio data must decide. Total 3040."
   }
  ],
  "history": [
@@ -22618,6 +22639,10 @@
   {
    "date": "2026-11-19 13:48",
    "total": 3037
+  },
+  {
+   "date": "2026-11-19 13:48",
+   "total": 3040
   }
  ],
  "next_week_ideas": [
