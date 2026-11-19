@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:04:49+05:30",
- "runs": 1080,
+ "updated": "2026-11-19T13:10:51+05:30",
+ "runs": 1081,
  "branches": [
   {
    "id": "platforms",
@@ -2197,6 +2197,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1058
+    },
+    {
+     "t": "Among US children aged 3 to 12 who use voice assistants, 52% play music through them at least daily versus 34% who listen to stories, and US homes with a child under 9 owning a smart speaker rose from 41% (2020) to 49% (2024), so audio only versions of our songs with short, easy to say titles have a real daily audience.",
+     "src": "VoxBooster roundup (Common Sense, Edison), 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1081
+    },
+    {
+     "t": "Podcasts are still marginal for young children (11% of US children aged 0 to 8 have ever heard one, against 34% who hear audiobooks), while 60% of UK children aged 0 to 5 listen to audio stories at home (2026), so a Bro Bros audio channel should be songs and short sung stories, not a talk podcast.",
+     "src": "VoxBooster roundup (Common Sense, National Literacy Trust), 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1081
     }
    ]
   },
@@ -16246,6 +16260,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1054
+    },
+    {
+     "t": "Brazil's federal prosecutors opened an inquiry into Kwai in Jan 2024 after reporters found children being harassed in its live streams and weak moderation, so if Bro Bros ever posts on Kwai for Brazil it should use pre recorded videos only, never lives, and watch brand safety closely.",
+     "src": "Aos Fatos, Jan 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1081
     }
    ]
   },
@@ -21165,12 +21186,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:55",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 1001 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:56",
-   "note": "Run 1002 (TRENDS (Tubefilter week of 15 Nov 2026: family Shorts duos)): Tubefilter's 9 to 15 Nov chart: family Shorts duos keep the top, with Sierra and Rhia English at #4 (730M weekly views), Cadel and Mia down 22% to #6, Canada's Diary of 4 up 16% to #16 and two new entries, Twin Twin (US, #40, 331M) and Indonesia's Nabel Dan Mama (#49, 302M), a mother and child duo. Total 2889."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 1002 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:57",
@@ -21483,6 +21500,10 @@
   {
    "date": "2026-11-19 13:04",
    "note": "Run 1080 (TRENDS (party dances and winter dance challenges)): Family party playlists for 2026 still lean on songs whose lyrics call out every step (Hokey Pokey, Cha Cha Slide, Cupid Shuffle, freeze dances), so an original Bro Bros called step party dance for New Year's Eve fits the holiday party season; added it to the trend bank. A widely shared 'Winter Vibes' dance challenge article looked unreliable and was not used. Total 3010."
+  },
+  {
+   "date": "2026-11-19 13:10",
+   "note": "Run 1081 (TikTok and other platforms (kids audio and podcasts, Kwai gaps)): Kids podcasts are still small for young children (11% of US under 9s have ever heard one) while audio stories and music are big: 60% of UK under 6s hear audio stories at home and 52% of voice assistant using kids aged 3 to 12 play music daily versus 34% stories. Kwai in Brazil was under a federal inquiry over child safety in live streams, a reason to keep Bro Bros off Kwai lives. Total 3013."
   }
  ],
  "history": [
@@ -22393,6 +22414,10 @@
   {
    "date": "2026-11-19 13:04",
    "total": 3010
+  },
+  {
+   "date": "2026-11-19 13:10",
+   "total": 3013
   }
  ],
  "next_week_ideas": [
