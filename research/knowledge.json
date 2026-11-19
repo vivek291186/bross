@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:41:01+05:30",
- "runs": 988,
+ "updated": "2026-11-19T10:46:38+05:30",
+ "runs": 989,
  "branches": [
   {
    "id": "platforms",
@@ -10359,6 +10359,20 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 970
+    },
+    {
+     "t": "Pocoyo's creator David Canovas Garcia sums up the show's lasting appeal in three words, minimalism, authenticity and directness: very few objects on screen, one clear action at a time and characters that speak straight to the child, a guide for keeping Bro Bros scenes uncluttered.",
+     "src": "Cartoon Brew, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 989
+    },
+    {
+     "t": "Animaj says its AI tools let it release a new Pocoyo season every 18 months while keeping the crisp design; the new seasons add only a little to the famous plain white world (shadows, a forest, giants), showing that AI speed works best when the art style stays simple and consistent.",
+     "src": "Cartoon Brew, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 989
     }
    ]
   },
@@ -20158,11 +20172,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 909 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:47",
-   "note": "Run 910 (TRENDS (Reels this week: Christmas switch over formats, cozy market reveals)): Reels for 9 to 15 Nov show the holiday wave settling in: 'Christmas music is allowed now' first festive moment clips, the 'it's time' switch over, and calm 'Christmas market' reveals of handmade gifts in slow shots; Instagram's top audio this week is US patriotic and a calm 'Vintage November' instrumental. Added 'Cozy market reveal' to the trend bank and moved the season starts reveal to peak. Total 2675."
+   "note": "Earlier runs summarised: all rounds through Run 910 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:48",
@@ -20475,6 +20485,10 @@
   {
    "date": "2026-11-19 10:41",
    "note": "Run 988 (music craft (audio streaming of kids songs; infant music studies and Suno v6 rechecked)): The infant music studies and Suno v6 news were already in the tree. New: Baby Shark's English version passed 1 billion Spotify streams in May 2026, the first kids song to do it, still drawing about 400,000 streams a day (137M a year) with strong listening from the US and UK to Mexico, Brazil, the Philippines, Turkey and Indonesia. Total 2866."
+  },
+  {
+   "date": "2026-11-19 10:46",
+   "note": "Run 989 (visual craft (Pocoyo design keys; thumbnail face studies rechecked)): Thumbnail face research (friendly smiles beat shock faces, several faces beat one) was already in the tree. New: Pocoyo's creator names minimalism, authenticity and directness as the show's three keys, and Animaj uses AI tools to speed production while keeping a very clean look, opening the old blank white world only a little (shadows, forests, giants). Total 2868."
   }
  ],
  "history": [
@@ -21017,6 +21031,10 @@
   {
    "date": "2026-11-19 10:41",
    "total": 2866
+  },
+  {
+   "date": "2026-11-19 10:46",
+   "total": 2868
   }
  ],
  "next_week_ideas": [
