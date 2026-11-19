@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:50:59+05:30",
- "runs": 1396,
+ "updated": "2026-11-20T01:51:59+05:30",
+ "runs": 1397,
  "branches": [
   {
    "id": "platforms",
@@ -10499,6 +10499,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1396
+    },
+    {
+     "t": "An Italian study (University of Verona, Early Childhood Education Journal, 2026) gave 2 and 4 year olds eight weekly Orff style music sessions of clapping, moving and copying short rhythms; rhythm copying improved in both ages versus a waiting group, and 4 year olds also gained in self control and working memory, while vocabulary did not improve more than in the control group.",
+     "src": "Early Childhood Education Journal (Univ. of Verona), 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1397
+    },
+    {
+     "t": "In the same Verona study 4 year olds who copied rhythms better also knew more words and had faster self control and better working memory, so 'clap it back' call and response rhythm moments (Bro claps a short pattern, kids clap it back, then it gets a little harder) are the most useful learning moment a song can include; a song alone should not be sold as a vocabulary teacher.",
+     "src": "Early Childhood Education Journal (Univ. of Verona), 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1397
     }
    ]
   },
@@ -24091,12 +24105,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 20:44",
-   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
-  },
-  {
    "date": "2026-11-19 20:45",
-   "note": "Run 1318 (TRENDS (December family releases and the beige Christmas look)): Netflix's kids baking and crafting contest special (9 Dec, US) and French December family films (a Dr Seuss adaptation and a stop motion forest adventure on 9 Dec, a whale finding her voice on 16 Dec) point to baking, crafts and ocean songs; last December's beige 'Instagram Christmas' look drew a pushback of real, messy family Christmases, a ready humour format. Total 3309."
+   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 20:46",
@@ -24409,6 +24419,10 @@
   {
    "date": "2026-11-20 01:50",
    "note": "Run 1396 (TRENDS (holiday songs and trending lists)): Added that a Halloween songs playlist led the US trending list on 1 Nov with a third of the top 20 uploaded in the past day, and that last year's top viral hook was successfully mashed into a winter classic at the start of the season. An article about an 80s Christmas hit returning could not be read. Chrome not available. Total 3428."
+  },
+  {
+   "date": "2026-11-20 01:51",
+   "note": "Run 1397 (music craft (rhythm training study)): Infant rhythm and movement studies were already in the tree; added a 2026 Verona study where eight weeks of clap and copy rhythm play improved toddlers' and preschoolers' rhythm and preschoolers' self control and working memory, but not vocabulary, which supports clap it back moments in our songs. Chrome not available. Total 3430."
   }
  ],
  "history": [
@@ -25267,6 +25281,10 @@
   {
    "date": "2026-11-20 01:50",
    "total": 3428
+  },
+  {
+   "date": "2026-11-20 01:51",
+   "total": 3430
   }
  ],
  "next_week_ideas": [
