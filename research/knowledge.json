@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:42:10+05:30",
- "runs": 1023,
+ "updated": "2026-11-19T11:42:44+05:30",
+ "runs": 1024,
  "branches": [
   {
    "id": "platforms",
@@ -9036,6 +9036,34 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 998
+    },
+    {
+     "t": "An eLife study of 79 babies (Jul 2026) found brains at 3, 6 and 12 months respond more strongly to well structured children's song refrains than to the same notes shuffled, so a clear, repeating verse and chorus shape matters even for the youngest listeners.",
+     "src": "eLife via News Medical, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1024
+    },
+    {
+     "t": "In the same study only 12 month olds moved more to real music than to shuffled music, mostly with upper body moves (rocking forward and back, swaying side to side, early clapping, arm pumping), and no baby moved on the beat, so baby targeted Bro Bros songs should model rocking, swaying and clapping rather than footwork.",
+     "src": "eLife via News Medical, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1024
+    },
+    {
+     "t": "Raising or lowering the pitch of the songs did not change how babies responded in the eLife study, so a key change alone will not hold a baby's attention; structure and repetition do the work.",
+     "src": "eLife via News Medical, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1024
+    },
+    {
+     "t": "A Bucknell study (May 2026) of 23 babies aged 8 to 12 months found no difference between singers adults rated pleasant or unpleasant, but babies looked longer and moved more to the action song (the spider climbing rhyme) than to a gentle star lullaby, suggesting songs with built in hand actions win attention more than a perfect voice.",
+     "src": "Bucknell University, May 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1024
     }
    ]
   },
@@ -20571,11 +20599,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 944 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:39",
-   "note": "Run 945 (TRENDS (December calendars, Pinterest weekly 13 Nov, Later 13 Nov rechecked)): Thin: Later's and Publer's lists were already in the tree. New: Pinterest's 13 Nov weekly report shows 'disguise a turkey' searches up 500% and winter style up 80%, confirming the turkey and winter clothes Shorts for this week. Total 2755."
+   "note": "Earlier runs summarised: all rounds through Run 945 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:40",
@@ -20888,6 +20912,10 @@
   {
    "date": "2026-11-19 11:42",
    "note": "Run 1023 (TRENDS (weekly audio roundups and Christmas listening data)): Most trackers repeated October finds already in the tree. New: an 'approved, approved, approved' rating format on TikTok, a letter by letter spell out cut on Reels, and YouScan's Christmas listening data where DIY decorating (3.5M+ mentions) beat advent calendars (800K+) and Home Alone (220K+). Total 2925."
+  },
+  {
+   "date": "2026-11-19 11:42",
+   "note": "Run 1024 (music craft (2026 infant music studies)): eLife (Jul 2026, 79 infants): babies' brains respond more to real song structure than shuffled notes from 3 months, but only 12 month olds move more to music, with rocking, swaying and clapping, and none move on the beat yet. A Bucknell study (May 2026) found the song itself mattered more to 8 to 12 month olds than which singer sang it. Total 2929."
   }
  ],
  "history": [
@@ -21570,6 +21598,10 @@
   {
    "date": "2026-11-19 11:42",
    "total": 2925
+  },
+  {
+   "date": "2026-11-19 11:42",
+   "total": 2929
   }
  ],
  "next_week_ideas": [
