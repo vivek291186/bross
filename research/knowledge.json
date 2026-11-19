@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T21:37:46+05:30",
- "runs": 1336,
+ "updated": "2026-11-19T21:38:54+05:30",
+ "runs": 1337,
  "branches": [
   {
    "id": "platforms",
@@ -10282,6 +10282,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1325
+    },
+    {
+     "t": "A small Indonesian preschool study (15 children aged 3 to 5, published Feb 2026, no control group) found that adding songs, rhythmic clapping and soft background music to daily routines raised the share of children focusing 7 minutes or more from 7% to 53% and task completion from 33% to 87%, more support for clap along routine songs.",
+     "src": "proceedings.ums.ac.id, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1337
+    },
+    {
+     "t": "KIDZ BOP's Christmas 2025 album runs over 3 hours, mixes kid safe versions of classics with three brand new originals, and is sold to parents by moment (car rides, tree decorating, wrapping presents, baking cookies, cosy nights), a model for labelling our own holiday compilations by family activity.",
+     "src": "kidzbop.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1337
+    },
+    {
+     "t": "Billboard's Holiday 100 in December 2025 was still led by old classics (Mariah Carey, Brenda Lee, Wham!), with only a few newer songs holding on (Santa Tell Me, Like It's Christmas, Mistletoe, Snowman) and social media reviving older favourites, so a new holiday song needs a very simple, instantly singable hook to break through.",
+     "src": "komonews.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1337
     }
    ]
   },
@@ -23433,12 +23454,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 18:45",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1257)."
-  },
-  {
    "date": "2026-11-19 18:46",
-   "note": "Run 1258 (rules and money (US tax on YouTube earnings)): New: with an approved W-8BEN Google withholds only 15% of US viewer earnings for an Indian creator instead of up to 24% of everything, forms signed in 2026 last to end 2029 and the yearly review deadline is 10 Dec; ESRB notes states now regulate kids' feeds and notifications by design rules. Total 3245."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1258)."
   },
   {
    "date": "2026-11-19 18:47",
@@ -23751,13 +23768,13 @@
   {
    "date": "2026-11-19 21:37",
    "note": "Run 1336 (TRENDS (Thanksgiving week and gentle elf ideas)): Added the Thankful line up trend (line up challenge plus gratitude, for 21 to 26 Nov) to the trend bank and dropped the faded 'One, then a mountain'; the no spying 'Elfie' helper idea and squishy toy demand support our December plans. Chrome not available. Total 3334."
+  },
+  {
+   "date": "2026-11-19 21:38",
+   "note": "Run 1337 (music craft (holiday songs and classroom routines)): Holiday charts stay ruled by classics, with few new songs breaking in; KIDZ BOP sells its 3 hour Christmas album by family activity; a small preschool study ties clap along routine songs to longer focus. Chrome not available. Total 3337."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:53",
-   "total": 2959
-  },
   {
    "date": "2026-11-19 11:53",
    "total": 2959
@@ -24953,6 +24970,10 @@
   {
    "date": "2026-11-19 21:37",
    "total": 3334
+  },
+  {
+   "date": "2026-11-19 21:38",
+   "total": 3337
   }
  ],
  "next_week_ideas": [
