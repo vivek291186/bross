@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:04:57+05:30",
- "runs": 1203,
+ "updated": "2026-11-19T16:05:20+05:30",
+ "runs": 1204,
  "branches": [
   {
    "id": "platforms",
@@ -22180,12 +22180,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 14:56",
-   "note": "Earlier: older log entries summarised; runs up to Run 1124 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:56",
-   "note": "Run 1125 (competitor deep dive (Super Simple holiday releases, ChuChu TV rechecked)): Nothing new: the found Super Simple holiday album is from 2023 and ChuChu TV's Netflix deal and channel stats were already in the tree. No leaves added. Total 3087."
+   "date": "2026-11-19 14:57",
+   "note": "Earlier: older log entries summarised; runs up to Run 1125 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:57",
@@ -22498,13 +22494,13 @@
   {
    "date": "2026-11-19 16:04",
    "note": "Run 1203 (Shorts and Reels (Shorts length and Shorts versus long form data rechecked)): Nothing new: AIR's 18,000 channel study (small kids channels with almost no Shorts had about 63% more median subscribers, a 25 to 40% Shorts share for most niches), Adobe's length study and Tubular's 75% of views from Shorts were already in the tree. No leaves added. Total 3155."
+  },
+  {
+   "date": "2026-11-19 16:05",
+   "note": "Run 1204 (TRENDS (Netflix family titles for early November)): Nothing new: Netflix's 2 to 8 Nov list had only one family title (A Dog's Perfect Christmas, No. 1 English film with 8.6M views), and the 9 to 15 Nov kids shows were already recorded. No leaves added. Total 3155."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:41",
-   "total": 2655
-  },
   {
    "date": "2026-11-19 07:43",
    "total": 2659
@@ -23699,6 +23695,10 @@
   },
   {
    "date": "2026-11-19 16:04",
+   "total": 3155
+  },
+  {
+   "date": "2026-11-19 16:05",
    "total": 3155
   }
  ],
