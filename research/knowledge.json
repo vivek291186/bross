@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:36:16+05:30",
- "runs": 1311,
+ "updated": "2026-11-19T20:39:02+05:30",
+ "runs": 1312,
  "branches": [
   {
    "id": "platforms",
@@ -23057,6 +23057,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1294
+    },
+    {
+     "t": "Korea's 'Maru is a dog' challenge grew from a kids cartoon theme song sung by an idol: people shape a dog's ears and nose with their hands and make a quick snap on the song's cue, and other idols joined, proof that a kids song with one cute hand gesture can travel far beyond children.",
+     "src": "gogumafarm.kr, Oct 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1312
+    },
+    {
+     "t": "The 'Do Re Mi' voice filter challenge (sing each note of the scale to steer a ball through gates, with off key fail versions as the funny part) was joined by many K-pop singers, a model for a Bro Bros sing along Short where kids sing the scale with the Bros to help a ball reach the goal.",
+     "src": "gogumafarm.kr, Oct 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1312
+    },
+    {
+     "t": "SocialPilot's TikTok list for 17 to 25 Nov 2026 is dominated by reveal and lip sync formats (soft launch hand reveal, same spot years apart, shy then dance, a dramatic one line lip sync), with only one rising easy dance hook, so this week a Bro Bros reveal or 'shy then dance' Reel fits the feed better than a long routine.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1312
     }
    ]
   }
@@ -23083,12 +23104,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 16:59",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:00",
-   "note": "Run 1233 (competitor deep dive (Super Simple Songs and Mother Goose Club)): Nothing new: Super Simple's 20th anniversary facts (70M+ subscribers, 90B views, teacher roots), Caitie's Christmas party song and Mother Goose Club's flat subscribers and Halloween compilation were already in the tree. No leaves added. Total 3183."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:00",
@@ -23401,13 +23418,13 @@
   {
    "date": "2026-11-19 20:36",
    "note": "Run 1311 (Shorts and Reels formats and Reels algorithm (reach recheck)): Small: Socialinsider's Jan 2025 to Aug 2026 data puts average Instagram reach rate down 14% year on year, with carousels (4.5%) slightly ahead of Reels (4.1%) and images (4.0%); Edits auto beat markers help cut Reels on our song beats; benchmark each Short against our own Shorts of the same length band. Total 3284."
+  },
+  {
+   "date": "2026-11-19 20:39",
+   "note": "Run 1312 (TRENDS (Korean hand gesture and singing challenges, 17 to 25 Nov sound list)): Small: the Korean 'Maru is a dog' challenge (hand made dog ears and nose, then a snap on the cue, from a kids cartoon theme sung by an idol) and the Do Re Mi voice filter game show that a simple hand gesture or a sing the scale game from a kids song can become a celebrity challenge; SocialPilot's 17 to 25 Nov list is mostly reveal formats, not dances. Total 3287."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:01",
-   "total": 2905
-  },
   {
    "date": "2026-11-19 11:01",
    "total": 2908
@@ -24603,6 +24620,10 @@
   {
    "date": "2026-11-19 20:36",
    "total": 3284
+  },
+  {
+   "date": "2026-11-19 20:39",
+   "total": 3287
   }
  ],
  "next_week_ideas": [
@@ -24664,6 +24685,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Sing the scale ball game",
+   "where": "TikTok and Reels voice filter game, Shorts",
+   "status": "evergreen",
+   "use": "Animated game Short with our own melody: a ball sits at the bottom of a staircase of eight coloured gates; the big brother sings do, re, mi up the scale and the ball hops one gate per note; the little brother sings one silly wrong note and the ball bonks back down, then they sing it together and the ball reaches a star. End card asks kids to sing along. No dance needed, just bouncing in place on each note."
+  },
+  {
+   "name": "Puppy ears hand dance",
+   "where": "TikTok, Reels, YouTube Shorts (Korean kids song challenge, evergreen)",
+   "status": "evergreen",
+   "use": "A 15 second Short on our own 'Puppy Says Woof' chorus: both Bros stand facing camera, put both hands on top of their heads as floppy puppy ears, then one fist on the nose as a puppy nose, then a quick happy snap forward with both hands on the word 'woof', repeat twice and end with a tail wiggle. Meshy prompt: standing in place, hands on head like ears, hand to nose, quick clap forward, hip wiggle."
+  },
   {
    "name": "Snow day happy dance",
    "where": "YouTube Shorts, Instagram Reels (first snow days, Dec to Jan)",
@@ -24771,18 +24804,6 @@
    "where": "TikTok, Reels, Shorts",
    "status": "evergreen",
    "use": "Our own underwater dance for an original ocean song: hold your nose with one hand and puff your cheeks, do slow swimming arms forward and back, wiggle like a fish on the spot, then pop pretend bubbles with one finger on 'pop pop pop'. Standing, in place, no floor moves; easy for a Meshy prompt. Do not copy the Scuba Juke routine or audio."
-  },
-  {
-   "name": "Stop the snowman!",
-   "where": "Reels, Shorts",
-   "status": "rising",
-   "use": "Copy the 'Stop the wedding!' hook kid safe: the big brother is about to finish a snowman, the little brother runs in shouting 'Stop!' and holds up the missing carrot nose, both cheer and do a two beat victory jump in place, then our original winter song starts. 10 to 15 seconds, no copyrighted audio."
-  },
-  {
-   "name": "The tree goes up",
-   "where": "TikTok, Reels, Shorts",
-   "status": "seasonal",
-   "use": "Day in the life montage in Blender: the brothers carry the tree in, string lights, hang one ornament per beat and switch on the lights on the last beat of our original song's chorus. 20 to 30 seconds, quick cuts on each beat, ends with both waving at the camera."
   }
  ],
  "posting_plan": {
