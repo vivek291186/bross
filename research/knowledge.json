@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:48:51+05:30",
- "runs": 1410,
+ "updated": "2026-11-20T02:49:43+05:30",
+ "runs": 1411,
  "branches": [
   {
    "id": "platforms",
@@ -16407,6 +16407,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1388
+    },
+    {
+     "t": "AIR suggests testing translated titles and descriptions in just three languages first, tracking click rate, average view duration and RPM for each, and scaling a language only if its retention stays within about 10 to 15% of the main English market, otherwise moving that market to a full dubbed track.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1411
+    },
+    {
+     "t": "AIR claims YouTube rarely tests a video in a market whose language its title and description do not cover, and that translated metadata makes cross border recommendation tests start sooner; it reports +27% international views across 400+ channels using its tool, vendor data without a method.",
+     "src": "AIR Media-Tech, Mar 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1411
     }
    ]
   },
@@ -24228,10 +24242,6 @@
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
   },
   {
-   "date": "2026-11-19 20:55",
-   "note": "Run 1332 (topics and seasons (December calendar recheck)): Nothing new: December 2026 kid days (Cookie Day 4 Dec, St Nicholas 6 Dec, Dia de las Velitas 7 Dec, St Lucia 13 Dec, Ugly Christmas Sweater Day 18 Dec, Cut Out Snowflakes Day 27 Dec) and parents' top searches (sleep, behaviour, screen time) were already in the tree. No leaves added. Total 3326."
-  },
-  {
    "date": "2026-11-19 21:00",
    "note": "Run 1333 (TRENDS (parenting viral stories recheck)): Nothing new for us: the newest viral parenting stories (a mom's 'who is watching your kids' girls weekend clip, summer screen time rules) are adult debates, not formats Bro Bros can use kid safe. No leaves added. Total 3326."
   },
@@ -24542,6 +24552,10 @@
   {
    "date": "2026-11-20 02:48",
    "note": "Run 1410 (TRENDS (17 to 25 Nov TikTok and Reels roundups)): Most formats were already in the tree (Paid Me No Mind, camera shy pets, years apart, Under Arrest hook pass, 5 stages, timestamps). New: the 'soundtrack to impatience' go go go voiceover, a natural fit for kids waiting for Christmas, and that TikTok's Creative Center trend audio lists were still unavailable on 18 Nov. Added 'Waiting is hard, go go go' to the trend bank and dropped the older puppy duet. Chrome not available. Total 3447."
+  },
+  {
+   "date": "2026-11-20 02:49",
+   "note": "Run 1411 (global markets (metadata translation)): Language CPMs and the 27 language auto dubbing rollout were already in the tree; added AIR's three language metadata test (scale a language only if its retention stays within 10 to 15% of the main market, otherwise move to dubbing) and its claim that untranslated titles rarely get tested abroad. Chrome not available. Total 3449."
   }
  ],
  "history": [
@@ -25456,6 +25470,10 @@
   {
    "date": "2026-11-20 02:48",
    "total": 3447
+  },
+  {
+   "date": "2026-11-20 02:49",
+   "total": 3449
   }
  ],
  "next_week_ideas": [
