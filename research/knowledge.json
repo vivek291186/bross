@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:56:33+05:30",
- "runs": 1002,
+ "updated": "2026-11-19T10:57:09+05:30",
+ "runs": 1003,
  "branches": [
   {
    "id": "platforms",
@@ -11794,6 +11794,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 998
+    },
+    {
+     "t": "Stranger safety at the door is a proven preschool theme across cultures: Didi and Friends' 'do not open the door' song has 23M views in Malaysia, echoing the safety rules songs that top other channels, so a gentle Bro Bros 'ask a grown up first' song fits worldwide.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1003
     }
    ]
   },
@@ -13754,6 +13761,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 991
+    },
+    {
+     "t": "Malaysia's home grown preschool brand Didi and Friends (7.62M subscribers, 8B views, Malay songs) still draws about 62M views a month; its top videos are a vehicle sounds song (25.8M), a 'do not open the door to strangers' safety song (23.3M), a shapes song (19M) and five little monkeys (18.3M), the same universal themes that work in English.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1003
+    },
+    {
+     "t": "Moroccan YouTube growth in learning content is driven by Darija, the spoken dialect: educators note many people understand Modern Standard Arabic but do not speak it at home, so an Arabic dub for North Africa may need a friendly everyday style rather than formal Arabic, though no kids specific data was found.",
+     "src": "Morocco World News, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1003
     }
    ]
   },
@@ -20319,11 +20340,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 923 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:57",
-   "note": "Run 924 (Shorts and Reels (Metricool 2026 Instagram study details)): Most of Metricool's 24M post Instagram study was already in the tree; new details are that two thirds of a Reel's views and 61% of its interactions come in its first three days, Reels reach rose about 12% year on year while Reels volume rose 35%, and only 21% of accounts under 10K followers grew in 2026, which matches our stalled 1 follower Instagram. Total 2710."
+   "note": "Earlier runs summarised: all rounds through Run 924 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:59",
@@ -20636,6 +20653,10 @@
   {
    "date": "2026-11-19 10:56",
    "note": "Run 1002 (TRENDS (Tubefilter week of 15 Nov 2026: family Shorts duos)): Tubefilter's 9 to 15 Nov chart: family Shorts duos keep the top, with Sierra and Rhia English at #4 (730M weekly views), Cadel and Mia down 22% to #6, Canada's Diary of 4 up 16% to #16 and two new entries, Twin Twin (US, #40, 331M) and Indonesia's Nabel Dan Mama (#49, 302M), a mother and child duo. Total 2889."
+  },
+  {
+   "date": "2026-11-19 10:57",
+   "note": "Run 1003 (global markets (Malaysia: Didi and Friends; Morocco Darija note)): Malaysia's own preschool brand Didi and Friends (7.62M subscribers, 8B views) still earns about 62M views a month from Malay songs; its biggest hits are a vehicle sounds song (25.8M), a 'do not open the door' safety song (23.3M), a shapes song and five little monkeys, so local language songs on universal themes win there. Darija learning channels show Moroccan viewers favour their spoken dialect, but no kids data yet. Total 2892."
   }
  ],
  "history": [
@@ -21234,9 +21255,17 @@
   {
    "date": "2026-11-19 10:56",
    "total": 2889
+  },
+  {
+   "date": "2026-11-19 10:57",
+   "total": 2892
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Knock Knock, Who's There? (Ask a Grown-Up First Safety Song)",
+   "why": "Door safety songs are top hits in several markets (Didi and Friends 23M); a playful, non scary call and response where the brothers always fetch a parent before opening fits parents worldwide."
+  },
   {
    "title": "Snowy Day Obstacle Course! (Jump, Stomp, Hop! Winter Action Song)",
    "why": "Preschool teachers run a pretend snowy day obstacle course every December; an action song of hops, steps and freezes (standing moves only) fits classroom screens worldwide, including places with no snow."
@@ -21288,10 +21317,6 @@
   {
    "title": "Wrap It Up! (Present Wrapping Race Song)",
    "why": "A one line copyable December challenge (wrap it before the bell) with a big on screen timer; challenge formats lead short video medians and it gives a messy funny payoff kids love. Original song, Shorts cut at 20 to 25 s."
-  },
-  {
-   "title": "Baby Bros, Big Bros! (Then and Now Dance Song)",
-   "why": "Rides the 'same spot, years apart' then and now format at peak on TikTok and Reels: tiny toddler Bros try a wobbly move, then big Bros nail it in the same spot; a growing up and practice makes progress message that travels across cultures."
   }
  ],
  "trend_bank": [
