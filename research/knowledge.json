@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:49:43+05:30",
- "runs": 1411,
+ "updated": "2026-11-20T02:50:25+05:30",
+ "runs": 1412,
  "branches": [
   {
    "id": "platforms",
@@ -8392,6 +8392,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1392
+    },
+    {
+     "t": "Even the biggest rival can disappear overnight: a 22M subscriber kids channel that grew by imitating CoComelon lost everything to copyright strikes, which shows that in kids animation scale built on copying is fragile and original characters are the only durable asset.",
+     "src": "Cartoon Brew, Sep 2021",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1412
     }
    ]
   },
@@ -18521,6 +18528,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1402
+    },
+    {
+     "t": "YouTube removed BabyBus's 'Super JoJo' channel (about 22M subscribers, one of the 25 biggest animation channels) in August 2021 after multiple third party copyright claims, when Moonbug sued over copied CoComelon characters, settings, song titles, lyrics and images; in August 2023 a US court awarded Moonbug about 23.4M US dollars against BabyBus.",
+     "src": "Cartoon Brew Sep 2021 and Senal News Aug 2023",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1412
+    },
+    {
+     "t": "One of the copied videos cited against Super JoJo was a 'boo boo' song, so when Bro Bros covers a common preschool topic that a giant already owns (boo boos, bath time, yes yes vegetables) we must use our own title wording, our own melody and lyrics and our own scene ideas, never a lookalike of the leader's version.",
+     "src": "Cartoon Brew, Sep 2021",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1412
     }
    ]
   },
@@ -24242,10 +24263,6 @@
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
   },
   {
-   "date": "2026-11-19 21:00",
-   "note": "Run 1333 (TRENDS (parenting viral stories recheck)): Nothing new for us: the newest viral parenting stories (a mom's 'who is watching your kids' girls weekend clip, summer screen time rules) are adult debates, not formats Bro Bros can use kid safe. No leaves added. Total 3326."
-  },
-  {
    "date": "2026-11-19 21:01",
    "note": "Run 1334 (ideas update (evidence from this run)): No new leaves; applied this run's evidence: 'Dear Santa, Here's My List!' (letter writing song timed for the 9 Dec Royal Mail Santa deadline) replaced the off season paper flower Mother's song in next week's ideas, and the trend bank gained puppy duet bark back, dancer versus non dancer, hook only sound Shorts, sing the scale ball game, perfect versus real Christmas and circle dance with the teacher; the snow day happy dance moved to rising after the 12 to 14 Nov first snowstorm. Total 3326."
   },
@@ -24556,6 +24573,10 @@
   {
    "date": "2026-11-20 02:49",
    "note": "Run 1411 (global markets (metadata translation)): Language CPMs and the 27 language auto dubbing rollout were already in the tree; added AIR's three language metadata test (scale a language only if its retention stays within 10 to 15% of the main market, otherwise move to dubbing) and its claim that untranslated titles rarely get tested abroad. Chrome not available. Total 3449."
+  },
+  {
+   "date": "2026-11-20 02:50",
+   "note": "Run 1412 (competitor deep dive (BabyBus Super JoJo case, ChuChu TV)): ChuChu TV's Netflix deal was already in the tree; added the Super JoJo case: BabyBus's 22M subscriber channel was removed in 2021 after repeated copyright claims and Moonbug later won 23.4M US dollars for copied CoComelon videos, a clear warning to keep our characters, scenes and lyrics fully original even on common topics like boo boos. Chrome not available. Total 3452."
   }
  ],
  "history": [
@@ -25474,6 +25495,10 @@
   {
    "date": "2026-11-20 02:49",
    "total": 3449
+  },
+  {
+   "date": "2026-11-20 02:50",
+   "total": 3452
   }
  ],
  "next_week_ideas": [
