@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:01:28+05:30",
- "runs": 889,
+ "updated": "2026-11-19T07:02:04+05:30",
+ "runs": 890,
  "branches": [
   {
    "id": "platforms",
@@ -1903,6 +1903,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 879
+    },
+    {
+     "t": "Influencer Marketing Hub's small study of 315 Reels from 96 accounts measured engagement per view by length: 0 to 15 seconds 7.5%, 15 to 30 seconds 9.4%, 30 to 60 seconds 4.5% and over 60 seconds 7.8%, which disagrees with Socialinsider's large study favouring 45 to 60 seconds for views; with mixed evidence, Bro Bros should test a 20 second and a 50 second Reel of the same song each week and keep the winner.",
+     "src": "Klap citing Influencer Marketing Hub, 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 890
     }
    ]
   },
@@ -18478,11 +18485,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 810 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:08",
-   "note": "Run 811 (TRENDS (cross posting and caption hooks, family creative benchmarks)): New: across 150,000 cross posted videos, numbered list captions lift Reel breakouts (7.4% vs 4.9%), Reels collect most views in the first day and only 23% of TikTok breakouts repeat on Reels; family ad benchmarks favour medium pacing and text over footage over fast cuts. Total 2380."
+   "note": "Earlier runs summarised: all rounds through Run 811 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:36",
@@ -18795,6 +18798,10 @@
   {
    "date": "2026-11-19 07:01",
    "note": "Run 889 (TRENDS (Christmas dance and Thanksgiving Reels check)): Nothing new: this week's Christmas dance pages repeat the 2025 holiday dances (Charlie Brown style shuffle, Winter Vibes, remixed carols) and Thanksgiving Reel guides repeat family montage edits, all already in the tree or trend bank. No leaves added. Total 2626."
+  },
+  {
+   "date": "2026-11-19 07:02",
+   "note": "Run 890 (Shorts and Reels (Reel length evidence)): Socialinsider's 45 to 60 second Reels finding was already in the tree. New, smaller counter evidence: Influencer Marketing Hub's 315 Reel sample found the best engagement per view at 15 to 30 seconds (9.4%) and the worst at 30 to 60 seconds (4.5%), so the 20 to 30 second Short and 45 to 60 second Reel split stays, but our weekly test should compare a 20 second and a 50 second Reel of the same song. Total 2627."
   }
  ],
  "history": [
@@ -19689,6 +19696,10 @@
   {
    "date": "2026-11-19 07:01",
    "total": 2626
+  },
+  {
+   "date": "2026-11-19 07:02",
+   "total": 2627
   }
  ],
  "next_week_ideas": [
