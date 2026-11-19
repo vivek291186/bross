@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T04:53:03+05:30",
- "runs": 853,
+ "updated": "2026-11-19T05:35:31+05:30",
+ "runs": 854,
  "branches": [
   {
    "id": "platforms",
@@ -1847,6 +1847,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 847
+    },
+    {
+     "t": "From the week of 17 Nov 2026 Instagram offers Reels creators content protection: it finds copies of their original videos on Instagram and Facebook and shows each copy's views and the copier's follower count.",
+     "src": "techwyse.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 854
+    },
+    {
+     "t": "For each copy found, Instagram lets the creator track it (default), hide it so it gets less distribution, add a link back to the original, or release the claim; copies are never removed automatically.",
+     "src": "techwyse.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 854
     }
    ]
   },
@@ -3415,6 +3429,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 853
+    },
+    {
+     "t": "Because hidden copies lose distribution, re uploads of Bro Bros Reels by other accounts can be pushed down once we turn on content protection, which keeps the views on our original Reel.",
+     "src": "techwyse.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 854
     }
    ]
   },
@@ -6019,6 +6040,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 851
+    },
+    {
+     "t": "YouTube's Creator Premieres event in Los Angeles (17 Nov 2026) showed a slate of creator series aimed at advertisers and TV, but none of it was for kids or families, unlike last year's event that featured Ms Rachel.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 854
     }
    ]
   },
@@ -13586,6 +13614,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 850
+    },
+    {
+     "t": "Instagram is testing detection of AI made videos that reuse a creator's spoken words over new visuals and is exploring reach limits for accounts that keep copying others with AI, so Bro Bros must keep every Reel fully original (own song, own characters, own animation).",
+     "src": "techwyse.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 854
     }
    ]
   },
@@ -17778,11 +17813,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:56",
-   "note": "Run 776 (global markets (Philippines and Brazil kids music)): Soundcharts' Philippines kids chart shows 12 of the top 15 kids songs by Filipino linked acts are in English, led by an upbeat action worship singer, so English songs need no dubbing there; Brazil sources were already in the tree. Total 2342."
+   "note": "Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:57",
@@ -18095,13 +18126,13 @@
   {
    "date": "2026-11-19 04:53",
    "note": "Run 853 (YouTube algorithm (Shorts to long form links, TV viewing)): Metricool's views up, revenue down study and the Pew parents survey were already in the tree. New: Spotter's analysis of the related video link on Shorts found only about 2% of channels got noticeable long form traffic from it, but those that did saw new uploads gain about 10% more views in their first 30 days; Pew's survey implies about 7 in 10 videos a child watches are picked by recommendations. Total 2526."
+  },
+  {
+   "date": "2026-11-19 05:35",
+   "note": "Run 854 (Shorts and Reels (Instagram content protection, YouTube Premieres slate)): Most Reels algorithm and Shorts feature news was already in the tree. New: from 17 Nov 2026 Instagram brings Facebook's content protection to Reels, alerting creators when copies of their original videos appear (with the copy's views) and letting them track, hide, add an attribution link or release; it is also testing detection of AI videos that reuse someone's voice over new visuals. YouTube's 17 Nov L.A. Premieres slate had no kids or family show. Total 2531."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 15:48",
-   "total": 2008
-  },
   {
    "date": "2026-11-16 16:36",
    "total": 2040
@@ -19297,6 +19328,10 @@
   {
    "date": "2026-11-19 04:53",
    "total": 2526
+  },
+  {
+   "date": "2026-11-19 05:35",
+   "total": 2531
   }
  ],
  "next_week_ideas": [
