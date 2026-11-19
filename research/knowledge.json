@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:53:27+05:30",
- "runs": 963,
+ "updated": "2026-11-19T09:54:10+05:30",
+ "runs": 964,
  "branches": [
   {
    "id": "platforms",
@@ -8623,6 +8623,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 952
+    },
+    {
+     "t": "A 2026 Communications Psychology study (Padova and CNRS, 40 newborns, fNIRS) found newborn brains respond as strongly to song as to speech in right temporoparietal areas, and more than to humming, so for babies a sung word carries like speech while a hummed tune does not.",
+     "src": "Universita di Padova, Communications Psychology, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 964
+    },
+    {
+     "t": "Because newborns respond to sung words but less to humming, Bro Bros lullabies and baby songs should keep clear simple lyrics all the way through instead of long wordless 'mmm' or 'ooh' sections.",
+     "src": "Universita di Padova, Communications Psychology, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 964
     }
    ]
   },
@@ -19787,11 +19801,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 884 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:59",
-   "note": "Run 885 (competitor deep dive (Little Angel and Friends channel)): Little Angel's 7.3M 'and Friends' channel has gained almost no subscribers since January 2026 while monthly views swing wildly (14M in September, 125M in August, 26M in October), so one viral month does not hold. Its newest uploads are a job helper counting Short ('Can You Count with Firefighter Jill?', 2.1 times its usual views) and a dad themed ballet comedy, both short, character led and funny. Top videos were already in the tree. Total 2620."
+   "note": "Earlier runs summarised: all rounds through Run 885 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:59",
@@ -20104,6 +20114,10 @@
   {
    "date": "2026-11-19 09:53",
    "note": "Run 963 (TRENDS (US Thanksgiving and holiday family traditions)): Thanksgiving week trends are mostly recipes and table boards already in the tree. New for the bank: the yearly grandkids' surprise holiday sleepover at Grandma's (one video about 30M views) as a warm 'Surprise visit to Grandma' Short, and the gratitude tablecloth (kids trace their hands) as a thankful song visual. Total 2813."
+  },
+  {
+   "date": "2026-11-19 09:54",
+   "note": "Run 964 (music craft (newborn song brain study 2026, Grammy kids nominees and word learning rechecked)): The 2027 Grammy kids nominees and the sung word learning study were already in the tree. New: a 2026 Communications Psychology study with 40 newborns found song lights up the same language areas as speech, more than humming, so our baby songs should be sung with clear words, not hummed or wordless. Total 2815."
   }
  ],
  "history": [
@@ -21294,6 +21308,10 @@
   {
    "date": "2026-11-19 09:53",
    "total": 2813
+  },
+  {
+   "date": "2026-11-19 09:54",
+   "total": 2815
   }
  ],
  "next_week_ideas": [
