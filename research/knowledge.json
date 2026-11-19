@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:40:18+05:30",
- "runs": 1251,
+ "updated": "2026-11-19T18:41:25+05:30",
+ "runs": 1252,
  "branches": [
   {
    "id": "platforms",
@@ -10009,6 +10009,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1241
+    },
+    {
+     "t": "The 2026 Latin Grammy for Best Children's Album (12 Nov, Las Vegas) went to 'Mil Secretos' by Colombian songwriter Marta Gomez with Medellin's Cantoalegre children's choir: folk rooted songs built on tiny everyday images (a snail carrying its house) that invite kids to notice nature and time with wonder.",
+     "src": "elpais.com.co, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1252
+    },
+    {
+     "t": "The other 2026 Latin Grammy kids album nominees were a play songs album, a learning through play album, a seaside album and a rock album about a journey through dinosaur times, so play, nature and dinosaurs are the themes that Spanish language family music juries reward right now.",
+     "src": "grammy.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1252
+    },
+    {
+     "t": "In the Jan 2026 Chinese kindergarten rhythm game trial, teachers added a surprise speed up of the music as a challenge in later sessions, a classroom game shape we can build into songs as a final 'faster, faster' chorus where the Bros' moves speed up and then freeze.",
+     "src": "frontiersin.org, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1252
+    },
+    {
+     "t": "A small Indonesian classroom study (15 children aged 3 to 5, Feb 2026) saw the share of children focusing 7 minutes or more rise from 7% to 53% when lessons added songs, clapping and soft background music, from a baseline where most focused only 3 to 5 minutes, which supports keeping each Bro Bros song near 2 to 3 minutes.",
+     "src": "proceedings.ums.ac.id, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1252
     }
    ]
   },
@@ -22653,10 +22681,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 15:52",
-   "note": "Run 1173 (competitor deep dive (Robocar POLI's English song channel)): New: Robocar POLI's English nursery rhyme channel (893K subscribers, 690M views) earns only about 8M views a month despite a famous TV brand and 3 uploads a week, and its biggest hits are 10 minute compilations of a summer song, car and school bus safety songs and an 'It's okay to make mistakes' habit song (about 19M), so a mistakes are okay song is a proven theme and a TV brand alone does not guarantee YouTube song reach. Total 3133."
-  },
-  {
    "date": "2026-11-19 15:53",
    "note": "Run 1174 (TRENDS (hand gesture trends kids copy at school)): One addition: the 'clock it' finger tap (thumb tapping fingers like a tiny clap to say 'I noticed that') spread from TV and TikTok into elementary schools in 2026; a harmless version fits our 'spot it' games as a tap tap gesture when a hidden item is found. The 2022 'hand thing' spin is too old to use. Total 3134."
   },
@@ -22967,16 +22991,16 @@
   {
    "date": "2026-11-19 18:40",
    "note": "Run 1251 (TRENDS (Christmas toys and sensory)): Small: DreamToys, Toy of the Year finalists, Which? and Amazon lists were already in the tree; new from ABC News's Nov 2026 list: slow rise squishy toys are this year's big sensory moment and no dance toy is trending, so added a 'slow rise squish' entry to the trend bank. Total 3222."
+  },
+  {
+   "date": "2026-11-19 18:41",
+   "note": "Run 1252 (music craft (awards and classroom studies)): New: the 2026 Latin Grammy kids album went to Marta Gomez with a Medellin children's choir (small nature images, folk roots) and the other nominees were play, nature and dinosaur albums; a speed up challenge from the Chinese rhythm trial and a small focus study were added. Grammy 2027 nominees were already in the tree. Total 3226."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:46",
-   "total": 2787
   },
   {
    "date": "2026-11-19 09:47",
@@ -24169,6 +24193,10 @@
   {
    "date": "2026-11-19 18:40",
    "total": 3222
+  },
+  {
+   "date": "2026-11-19 18:41",
+   "total": 3226
   }
  ],
  "next_week_ideas": [
