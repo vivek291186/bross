@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:51:30+05:30",
- "runs": 960,
+ "updated": "2026-11-19T09:52:12+05:30",
+ "runs": 961,
  "branches": [
   {
    "id": "platforms",
@@ -3828,6 +3828,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 959
+    },
+    {
+     "t": "A study of 5,066 top US YouTube channels found that after YouTube switched off personalisation for made for kids videos in January 2020, kids channels' views fell about 20% and new subscriptions about 25%, so made for kids content is harder to match to new viewers than normal videos.",
+     "src": "Johnson, Lin, Cooper and Zhong, AEA 2025 conference paper",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 961
+    },
+    {
+     "t": "The same study found top quartile kids channels lost no views after the change while the smallest channels lost the most, so kids viewing concentrated on already big channels; for a small channel like Bro Bros, outside traffic (Instagram, search, YouTube Kids app, playlists) matters more than for normal channels.",
+     "src": "Johnson, Lin, Cooper and Zhong, AEA 2025 conference paper",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 961
     }
    ]
   },
@@ -15112,6 +15126,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 946
+    },
+    {
+     "t": "After the 2020 made for kids change, kids channels cut uploads about 18%, original content fell 11% and manual captions 27%, and viewer ratings fell 10%, so careful original songs with real captions now stand out among kids uploads.",
+     "src": "Johnson, Lin, Cooper and Zhong, AEA 2025 conference paper",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 961
     }
    ]
   },
@@ -19731,11 +19752,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 881 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:57",
-   "note": "Run 882 (visual craft (thumbnails, pacing studies)): The pacing versus fantasy meta analysis and the Vania Mania thumbnail rules were already in the tree. New detail: AIR's April 2026 kids operations case warns that dubbed audio tracks can vanish from videos without notice, and checks 'Views by audio track' in YouTube Studio for sudden country drops; when we add dubs we should check that report weekly. Total 2612."
+   "note": "Earlier runs summarised: all rounds through Run 882 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:57",
@@ -20048,6 +20065,10 @@
   {
    "date": "2026-11-19 09:51",
    "note": "Run 960 (TRENDS (Roblox and game emote dances)): A Roblox game where kids simply gather to perform trending dance emotes ('Trending Emote Dance') is up 140% in 30 days with about 19K players at once, peaking 25 Oct 2026; Roblox trends are made by preteens and die within days, so we copy the stable idea (copy along avatar moves), not a specific meme. Total 2805."
+  },
+  {
+   "date": "2026-11-19 09:52",
+   "note": "Run 961 (YouTube algorithm (made for kids discovery: COPPA settlement study)): New: an economics study of 5,066 top US channels found that after made for kids personalisation was switched off in 2020, kids channel views fell about 20% and new subscriptions about 25%, but top quartile channels lost nothing while the smallest lost most, so made for kids discovery favours channels already big; AIR's kids growth tactics were already in the tree. Total 2808."
   }
  ],
  "history": [
@@ -21226,6 +21247,10 @@
   {
    "date": "2026-11-19 09:51",
    "total": 2805
+  },
+  {
+   "date": "2026-11-19 09:52",
+   "total": 2808
   }
  ],
  "next_week_ideas": [
