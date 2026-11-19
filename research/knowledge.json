@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:04:02+05:30",
- "runs": 1079,
+ "updated": "2026-11-19T13:04:49+05:30",
+ "runs": 1080,
  "branches": [
   {
    "id": "platforms",
@@ -21132,6 +21132,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1074
+    },
+    {
+     "t": "A 2026 family party playlist guide still lists step calling songs (Hokey Pokey, Cha Cha Slide, Cupid Shuffle, Party Freeze Dance) as the action songs kids and adults do together, next to new pop hits like KPop Demon Hunters' Golden, so an original Bro Bros song whose lyrics call each move ('two steps left, clap, spin, freeze!') can become a holiday party staple.",
+     "src": "MKE with Kids, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1080
     }
    ]
   }
@@ -21159,11 +21166,7 @@
  "log": [
   {
    "date": "2026-11-19 10:55",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 1000 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 10:55",
-   "note": "Run 1001 (visual craft (Meshy Text to Motion changelog rechecked)): Nothing new: Meshy's changelog still shows no animation change since Text to Motion launched in July 2026 (2 to 10 second clips, one simple action per prompt), all already in the tree. No leaves added. Total 2887."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 1001 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:56",
@@ -21476,6 +21479,10 @@
   {
    "date": "2026-11-19 13:04",
    "note": "Run 1079 (posting times (Metricool Instagram best times for 20 to 26 Nov, read only)): Nothing new: Metricool again puts our Instagram peak at 10:00 IST every day (Friday highest, weekends about half) with a second rise at 18:00 IST, exactly as already recorded, so both daily slots stay unchanged. No leaves added. Total 3009."
+  },
+  {
+   "date": "2026-11-19 13:04",
+   "note": "Run 1080 (TRENDS (party dances and winter dance challenges)): Family party playlists for 2026 still lean on songs whose lyrics call out every step (Hokey Pokey, Cha Cha Slide, Cupid Shuffle, freeze dances), so an original Bro Bros called step party dance for New Year's Eve fits the holiday party season; added it to the trend bank. A widely shared 'Winter Vibes' dance challenge article looked unreliable and was not used. Total 3010."
   }
  ],
  "history": [
@@ -22382,6 +22389,10 @@
   {
    "date": "2026-11-19 13:04",
    "total": 3009
+  },
+  {
+   "date": "2026-11-19 13:04",
+   "total": 3010
   }
  ],
  "next_week_ideas": [
@@ -22443,6 +22454,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Called step party dance",
+   "where": "Shorts, Reels, YouTube long form",
+   "status": "seasonal",
+   "use": "For Christmas and New Year parties: an original song where the brothers sing each instruction and do it at once: 'step to the left' (one step left), 'step to the right', 'clap clap', 'turn around' (a slow turn in place), 'jingle hands' (shake hands high), 'freeze!' Standing, no floor moves. Post the full song by mid December and a 30 second Short of the chorus."
+  },
   {
    "name": "Pyjama train ride",
    "where": "Reels, Shorts",
@@ -22556,12 +22573,6 @@
    "where": "TikTok and Reels family accounts (seasonal, 27 Nov to 1 Dec)",
    "status": "seasonal",
    "use": "A basket appears with a jingle; the brothers pull out mittens, a scarf, a drum and a book one by one and the viewer counts them (1 to 5) to our own counting song. No brands or candy logos. Meshy step: standing, reach forward with both hands, lift arms up in surprise, clap twice."
-  },
-  {
-   "name": "Avatar emote dance circle",
-   "where": "Roblox ('Trending Emote Dance' game surging +140% in 30 days, about 19K players at once, Nov 2026) and TikTok",
-   "status": "rising",
-   "use": "Short with our own beat: the Bros and three friends stand in a circle like game avatars, and on each 'next!' a new simple emote plays all together (wave, robot arms, side step, star jump pose), ending with everyone pointing at the viewer: 'Your turn!'. Meshy prompt: a boy stands in place and does stiff robot arm moves up and down for four beats, then steps side to side for four beats."
   }
  ],
  "posting_plan": {
