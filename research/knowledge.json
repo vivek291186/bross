@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:59:07+05:30",
- "runs": 1049,
+ "updated": "2026-11-19T11:59:36+05:30",
+ "runs": 1050,
  "branches": [
   {
    "id": "platforms",
@@ -20879,11 +20879,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 970 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 10:04",
-   "note": "Run 971 (YouTube Kids app access (own results skipped, Metricool still ends 16 Nov)): Metricool's YouTube feed still ends 16 Nov, so own results were skipped. New: AIR's YouTube Kids access service accepts channels from 1,500 subscribers, and Bro Bros already has about 2,150, so we qualify to ask an official partner to submit us; their PlayToys case went from flagging the issue (20 May) to being searchable in the app (18 Jun) in about four weeks. Total 2830."
+   "note": "Earlier runs summarised: all rounds through Run 971 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 10:05",
@@ -21196,6 +21192,10 @@
   {
    "date": "2026-11-19 11:59",
    "note": "Run 1049 (visual craft (Meshy and Blender tool updates rechecked)): Nothing new: Meshy's changelog has no November entries and its October changes (T2.5 topology, N1 stylised textures, Meshy Edit, meshy-7 3D generation ending 31 Dec) and Blender 5 features were already in the tree; Text to Motion is unchanged since July. No leaves added. Total 2969."
+  },
+  {
+   "date": "2026-11-19 11:59",
+   "note": "Run 1050 (TRENDS (SocialPilot TikTok list for 17 to 25 Nov)): Nothing new: SocialPilot's 17 to 25 Nov formats (soft launch reveal, same spot years apart, ignored lip sync, camera shy pet dance, a pass the dance hook K pop challenge) and the peak Christmas classic at about 16.4M videos were already in the tree and trend bank. No leaves added. Total 2969."
   }
  ],
  "history": [
@@ -21977,6 +21977,10 @@
   },
   {
    "date": "2026-11-19 11:58",
+   "total": 2969
+  },
+  {
+   "date": "2026-11-19 11:59",
    "total": 2969
   },
   {
