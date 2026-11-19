@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T04:38:30+05:30",
- "runs": 1429,
+ "updated": "2026-11-20T04:39:33+05:30",
+ "runs": 1430,
  "branches": [
   {
    "id": "platforms",
@@ -2414,6 +2414,27 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1395
+    },
+    {
+     "t": "On Meta's 21 Oct 2026 earnings call the company said nearly 45% of the Reels it recommends are now less than one day old, up more than 11 points from the previous quarter, so a Bro Bros Reel gets most of its chance on its first day and posting fresh Reels daily beats relying on older ones.",
+     "src": "Keywords Everywhere (Meta Q3 2026 call), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1430
+    },
+    {
+     "t": "Meta also said Reels are now ranked as a sequence rather than one clip at a time, which lifted Reels time spent by over 4%; Reels that fit well after other kids and family clips (similar mood, length and pace) should travel further in that chain.",
+     "src": "Keywords Everywhere (Meta Q3 2026 call), Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1430
+    },
+    {
+     "t": "A tracker of Instagram ranking changes listed no confirmed algorithm change rolling out as of 18 Nov 2026, and Mosseri argued on 10 Sep 2026 that a purely chronological feed could cut engagement by up to half, so the known signals (watch time, sends and likes per reach) still apply to our Reels this month.",
+     "src": "Keywords Everywhere, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1430
     }
    ]
   },
@@ -24567,12 +24588,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 22:40",
-   "note": "Earlier runs summarised: 6 older log lines merged, steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-19 22:41",
-   "note": "Run 1351 (TRENDS recheck (NewEngen November list)): Nothing new: Chipmunks dance, Mariah 'it's time', fan wipe transition, slow motion group entrances, Dame Hombro shoulder bounce and the turkey board were all already in the tree or trend bank. No leaves added. Chrome not available. Total 3358."
+   "note": "Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 22:41",
@@ -24885,6 +24902,10 @@
   {
    "date": "2026-11-20 04:38",
    "note": "Run 1429 (YouTube algorithm (where organic views come from)): Most algorithm news (originality push for Shorts, the 8 times recommendation cap, subscriber click rates, fewer long videos per Home row) was already in the tree. New: in Metricool's 2026 study 61% of organic YouTube views come from the Shorts feed against only 0.3% for us, so our Shorts are the biggest untapped door; Shorts watch time per view fell about two thirds while brands posted 20% more. Chrome not available. Total 3496."
+  },
+  {
+   "date": "2026-11-20 04:39",
+   "note": "Run 1430 (Shorts and Reels algorithm (Meta Q3 freshness signal)): No confirmed Instagram ranking change in Sep to Nov 2026 (third party change log, 18 Nov). New from Meta's 21 Oct earnings call: Reels are now ranked a sequence at a time and nearly 45% of recommended Reels are under one day old, up 11 points in a quarter, so each new Reel's first day matters most. Chrome not available. Total 3499."
   }
  ],
  "history": [
@@ -25875,6 +25896,10 @@
   {
    "date": "2026-11-20 04:38",
    "total": 3496
+  },
+  {
+   "date": "2026-11-20 04:39",
+   "total": 3499
   }
  ],
  "next_week_ideas": [
