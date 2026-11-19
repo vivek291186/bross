@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:53:40+05:30",
- "runs": 1175,
+ "updated": "2026-11-19T15:54:08+05:30",
+ "runs": 1176,
  "branches": [
   {
    "id": "platforms",
@@ -7755,6 +7755,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1173
+    },
+    {
+     "t": "Sunny Kids Songs (Australia, 2.89M subscribers, 2.17B views, best video a dentist check up song at 121M) fell from about 50M views a month in July 2024 to about 7M in October 2026 and gained no subscribers in the 28 days to 12 Nov 2026, with no upload since May 2026, so a toddler song channel that stops publishing can lose most of its monthly views within about two years.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1176
+    },
+    {
+     "t": "Kids Funny Songs' 16 Nov 2026 upload, a 'this is the way we brush our teeth' morning routine song, drew about 93K views in its first 36 hours, faster than its bike riding (63K in 2.5 days) and egg reveal (55K in 1.5 days) songs that week, so daily routine songs remain the quickest starters on a big toddler channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1176
     }
    ]
   },
@@ -22034,11 +22048,7 @@
  "log": [
   {
    "date": "2026-11-19 13:59",
-   "note": "Earlier: older log entries summarised; runs up to Run 1096 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:59",
-   "note": "Run 1097 (music craft (holiday song moods and tools rechecked)): Suno v6, Meshy Text to Motion limits and the holiday streaming calendar were already in the tree. Small additions: Sia's gentle 'Snowman' has over 1.3B Spotify plays and her Christmas album streams about 8M times a day, and in 2024 the 33 new tracks on Spotify's Christmas Hits were tagged happy, heartwarming or fun while sad holiday playlists grow among adults. Total 3056."
+   "note": "Earlier: older log entries summarised; runs up to Run 1097 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:59",
@@ -22351,13 +22361,13 @@
   {
    "date": "2026-11-19 15:53",
    "note": "Run 1175 (rules (Suno rights, AI content and made for kids policy rechecked)): Nothing new: Suno's post Warner rights terms and download caps, YouTube's inauthentic and mass produced content rules and the 2026 kids and AI slop priorities were already in the tree. No leaves added. Total 3134."
+  },
+  {
+   "date": "2026-11-19 15:54",
+   "note": "Run 1176 (YouTube main and Kids movers (own results skipped, checked at 15:50; Sunny Kids Songs and Kids Funny Songs)): New: Australia's Sunny Kids Songs (2.89M subscribers, 2.17B views) fell from about 50M monthly views in July 2024 to about 7M in October 2026 and gained no subscribers in 28 days after uploads stopped in May 2026, a contrast to The Singing Walrus whose evergreen classroom songs held up; and Kids Funny Songs' tooth brushing routine song drew about 93K views in 36 hours on 16 Nov. Total 3136."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 06:51",
-   "total": 2602
-  },
   {
    "date": "2026-11-19 06:52",
    "total": 2603
@@ -23553,6 +23563,10 @@
   {
    "date": "2026-11-19 15:53",
    "total": 3134
+  },
+  {
+   "date": "2026-11-19 15:54",
+   "total": 3136
   }
  ],
  "next_week_ideas": [
