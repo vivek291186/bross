@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:04:42+05:30",
- "runs": 1277,
+ "updated": "2026-11-19T19:05:06+05:30",
+ "runs": 1278,
  "branches": [
   {
    "id": "platforms",
@@ -22962,10 +22962,6 @@
   },
   {
    "date": "2026-11-19 16:03",
-   "note": "Run 1199 (rules and monetisation (COPPA amendments and kids channel revenue cases rechecked)): Nothing new: the amended COPPA rule dates, AIR's kids revenue cases (Sandy the Sticker's 16 automated 24/7 streams, DONA English streams paying 1.45 USD per 1,000) were already in the tree. No leaves added. Total 3155."
-  },
-  {
-   "date": "2026-11-19 16:03",
    "note": "Run 1200 (our results (Metricool Reels rechecked at 16:03 IST)): Nothing new: no 19 Nov Reels have reached Metricool's analytics yet (the feed lags about a day), so today's songs will be judged in a later run. No leaves added. Total 3155."
   },
   {
@@ -23275,6 +23271,10 @@
   {
    "date": "2026-11-19 19:04",
    "note": "Run 1277 (rules (YouTube AI and inauthentic content recheck)): Nothing new: YouTube's three non monetisable categories (mass produced templates, distress bait, AI personas on sensitive topics), the Feb 2026 dinosaur and kaiju animator demonetisations and faceless channel reports were already in the tree. No leaves added. Total 3266."
+  },
+  {
+   "date": "2026-11-19 19:05",
+   "note": "Run 1278 (TRENDS (winter animal and sky moments)): Nothing new: the lone penguin meme, penguin waddle and countdown formats were already in the tree, and this week's aurora search only returned older storm coverage. No leaves added. Total 3266."
   }
  ],
  "history": [
@@ -23285,10 +23285,6 @@
   {
    "date": "2026-11-19 10:02",
    "total": 2824
-  },
-  {
-   "date": "2026-11-19 10:09",
-   "total": 2849
   },
   {
    "date": "2026-11-19 10:10",
@@ -24476,6 +24472,10 @@
   },
   {
    "date": "2026-11-19 19:04",
+   "total": 3266
+  },
+  {
+   "date": "2026-11-19 19:05",
    "total": 3266
   }
  ],
