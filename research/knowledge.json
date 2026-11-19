@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:47:21+05:30",
- "runs": 954,
+ "updated": "2026-11-19T09:47:50+05:30",
+ "runs": 955,
  "branches": [
   {
    "id": "platforms",
@@ -6768,6 +6768,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 948
+    },
+    {
+     "t": "Kids Channel India's separate Shorts channel (3D nursery rhymes) has about 375K subscribers and 118M views from 478 Shorts since 2021, roughly 250K views per Short, a realistic benchmark for an Indian 3D rhymes Shorts channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 955
     }
    ]
   },
@@ -13222,6 +13229,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 943
+    },
+    {
+     "t": "YouTube's India impact report says over 15% of watch time on Indian channels comes from viewers outside India, so an India based kids channel like Bro Bros can grow a global audience from home, especially with English songs.",
+     "src": "MediaNews4U citing YouTube India Impact Report, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 955
+    },
+    {
+     "t": "More than 18,000 Indian YouTube channels have over 1M subscribers, and a Telugu cooking channel reached 6.6M subscribers and 11.8B views by expanding into seven languages, a home grown proof that dubbing into more languages multiplies reach.",
+     "src": "MediaNews4U citing YouTube India Impact Report, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 955
+    },
+    {
+     "t": "74% of Indian parents who use YouTube say YouTube or YouTube Kids is important for their children's discovery of the world, so learning angles (animals, colours, festivals) in our songs fit what Indian parents value.",
+     "src": "MediaNews4U citing YouTube India Impact Report, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 955
     }
    ]
   },
@@ -19626,11 +19654,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 875 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:51",
-   "note": "Run 876 (YouTube main and Kids (Tubefilter Top 50 for 9 to 15 Nov; our Metricool data unchanged, so our own results were skipped)): In Tubefilter's most viewed chart for 9 to 15 Nov, 42 of the top 50 are mainly Shorts channels and India has 24 of them; a family Shorts channel, Fitu K Kitu, jumped 138% to 1.2B weekly views, nearly two thirds of its lifetime views in one week, and kids family brands like Koko and Golu (509M) and Keizo and Friends (444M) hold steady. Classic nursery song channels are absent from the top 50 views chart. Metricool still stops at 16 Nov, so no new data on our own channel. Total 2602."
+   "note": "Earlier runs summarised: all rounds through Run 876 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:52",
@@ -19943,6 +19967,10 @@
   {
    "date": "2026-11-19 09:47",
    "note": "Run 954 (TRENDS (Know Your Meme roundups, new dance search)): Most memes this month are adult or political. Kid safe finds: AI voiced food that bossily tells you how to store or cook it (a natural fit for a talking veggies Short) and Gen Alpha food slang ('W chew' for tasty, 'L nibble' for yucky) that suits a taste test song. Dropped the faded chipmunk hop from the trend bank. Total 2790."
+  },
+  {
+   "date": "2026-11-19 09:47",
+   "note": "Run 955 (global markets (YouTube India impact report, Indian kids Shorts channels)): From YouTube's India impact report (Sep 2026): over 15% of watch time on Indian channels comes from outside India, over 18,000 Indian channels pass 1M subscribers, a Telugu channel grew to 11.8B views by expanding into seven languages, and 74% of Indian parents on YouTube call it important for their children's discovery. Kids Channel India Shorts (3D rhymes) has 375K subscribers and 118M views. Total 2794."
   }
  ],
  "history": [
@@ -21097,6 +21125,10 @@
   {
    "date": "2026-11-19 09:47",
    "total": 2790
+  },
+  {
+   "date": "2026-11-19 09:47",
+   "total": 2794
   }
  ],
  "next_week_ideas": [
