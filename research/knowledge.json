@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:37:43+05:30",
- "runs": 943,
+ "updated": "2026-11-19T09:38:35+05:30",
+ "runs": 944,
  "branches": [
   {
    "id": "platforms",
@@ -6656,6 +6656,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 942
+    },
+    {
+     "t": "The Kiboomers (Canada, about 4.05M subscribers, 4.6B views, 1,486 videos) still pull about 45M views in 28 days while posting only about 5 new videos a month on a stated 'new video every Friday' schedule, so a deep back catalogue of movement songs keeps earning long after upload.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 944
+    },
+    {
+     "t": "The Kiboomers built a whole family of freeze dance songs (party, animal, spring and other seasonal versions) that teachers use as circle time and brain break songs; one proven game format re-made for every season is a cheap way for Bro Bros to grow a series.",
+     "src": "vidIQ and Kiboomers channel listings, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 944
+    },
+    {
+     "t": "The Kiboomers say they also have over 1 billion streams on Spotify, Apple Music and Amazon, so a small team of movement songs can earn on audio platforms too; uploading our Suno songs to streaming services is worth testing.",
+     "src": "vidIQ (channel's own claim), Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 944
+    },
+    {
+     "t": "Tiny Tunes (UK, about 872K subscribers) has about 1.2B views from only 112 videos, roughly 10M views per video, on phonics, times tables, alphabet and counting songs, proof that a few polished evergreen learning songs can beat volume.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 944
     }
    ]
   },
@@ -19339,11 +19367,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 864 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:47",
-   "note": "Run 865 (other platforms (Netflix kids playlists and early November kids releases)): Netflix's kids top 10s were already in the tree. New: Netflix added two holiday kids 'playlist' series in early November 2026 (Holiday Magic Playlist and Merry Little Playlist, TV-Y7), its channel style format that plays several shows back to back for under 8s, first tested in 2024 with themes like Bedtime, Music, Truck and Dinosaur; it also added Masha and the Bear season 7 and a holiday scout elf series. Lean back, themed, continuous viewing is where kids streaming is going, which supports our themed playlists and long compilations. Total 2571."
+   "note": "Earlier runs summarised: all rounds through Run 865 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:48",
@@ -19656,6 +19680,10 @@
   {
    "date": "2026-11-19 09:37",
    "note": "Run 943 (global markets (auto dubbing data, MENA animation demand, streamer licensing)): New: YouTube auto dubbed versions hold about 75% of the original's watch time and pull channel average CPM down while total revenue rises; Expressive Speech covers Hindi and Indonesian; in MENA, family animation is undersupplied (28.6% of demand on 20.6% of supply) while pure kids titles are oversupplied. Total 2749."
+  },
+  {
+   "date": "2026-11-19 09:38",
+   "note": "Run 944 (competitor deep dive (The Kiboomers and Tiny Tunes)): The Kiboomers (Canada, 4.05M) still earn about 45M views in 28 days from only 5 new uploads, mostly from a family of seasonal freeze dance songs used by teachers; Tiny Tunes (UK) holds 1.2B views from only 112 videos, about 10M per video. Total 2753."
   }
  ],
  "history": [
@@ -20766,6 +20794,10 @@
   {
    "date": "2026-11-19 09:37",
    "total": 2749
+  },
+  {
+   "date": "2026-11-19 09:38",
+   "total": 2753
   }
  ],
  "next_week_ideas": [
