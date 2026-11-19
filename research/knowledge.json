@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:56:00+05:30",
- "runs": 1181,
+ "updated": "2026-11-19T15:56:30+05:30",
+ "runs": 1182,
  "branches": [
   {
    "id": "platforms",
@@ -11402,6 +11402,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1158
+    },
+    {
+     "t": "About 1 in 12 boys (8%) and 1 in 200 girls are colour blind, most often confusing red, green and orange, so in any group of preschool viewers there is likely at least one child who cannot tell our red and green apart; colour songs and colour catch games should show the colour word on screen and tie each colour to a distinct object (red apple, green frog), not to colour alone.",
+     "src": "Colour Blind Awareness",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1182
+    },
+    {
+     "t": "Colour Blind Awareness advises teachers to never use colour as the only cue (traffic light red, amber, green marks, colour coded counters) and to add a label, symbol or shape, so Bro Bros 'stop and go' freeze games should pair the red and green lights with a hand up 'stop' pose and a running 'go' pose, and colour quizzes should use clearly different shapes as well as colours.",
+     "src": "Colour Blind Awareness",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1182
     }
    ]
   },
@@ -22075,12 +22089,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 14:42",
-   "note": "Earlier: older log entries summarised; runs up to Run 1102 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:42",
-   "note": "Run 1103 (rules and safety (US teen limits and warning labels)): New: Meta's proposed settlement of up to about 17.1B USD with 50 US states and territories sets default 2 hour daily limits, overnight blocks and no notifications to minors in school hours (8 AM to 3 PM), and New York's social media warning label law (from 1 Jan 2027) was sued by NetChoice on 17 Nov 2026. YouTube's Shorts timer and the Disney COPPA case were already known. Total 3064."
+   "date": "2026-11-19 14:43",
+   "note": "Earlier: older log entries summarised; runs up to Run 1103 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:43",
@@ -22393,13 +22403,13 @@
   {
    "date": "2026-11-19 15:56",
    "note": "Run 1181 (music craft (singing range for kids who sing along)): New: early childhood music texts put the comfortable singing range of 3 to 5 year olds at about middle C up to A (strongest around F and G), 6 to 8 year olds at C to the C above, and warn that adults pitch songs where they themselves are comfortable, usually too low and in chest voice; so Suno melodies for singalong choruses should sit mostly between F and C above middle C. Total 3140."
+  },
+  {
+   "date": "2026-11-19 15:56",
+   "note": "Run 1182 (visual craft (colour blind friendly colour songs)): Filled a visual gap: about 1 in 12 boys and 1 in 200 girls are colour blind, mostly mixing up red, green and orange, so with a boy leaning audience our colour songs and colour catch games should always show the colour name on screen and pair each colour with a distinct object or shape, never rely on red versus green alone. Total 3142."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 06:57",
-   "total": 2612
-  },
   {
    "date": "2026-11-19 06:57",
    "total": 2615
@@ -23595,6 +23605,10 @@
   {
    "date": "2026-11-19 15:56",
    "total": 3140
+  },
+  {
+   "date": "2026-11-19 15:56",
+   "total": 3142
   }
  ],
  "next_week_ideas": [
