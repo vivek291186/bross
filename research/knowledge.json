@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T00:36:10+05:30",
- "runs": 1385,
+ "updated": "2026-11-20T00:38:16+05:30",
+ "runs": 1386,
  "branches": [
   {
    "id": "platforms",
@@ -23855,6 +23855,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1365
+    },
+    {
+     "t": "Postdom's TikTok check of 16 Nov 2026 lists the 'this is your sign to...' caption format as rising and 'expectation vs reality' (calm smile, then the face changes as the real moment hits) as peaking; both work without any trending song, so a Bro Bros Short can use them with our own track.",
+     "src": "postdom.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1386
+    },
+    {
+     "t": "A deadpan reaction skit tag (#factattackadventures), where someone hears an odd fact and answers with a long silent stare, rose 69% week over week to about 212M US views in mid November 2026; the long stare beat is easy to animate and kids find a frozen face funny.",
+     "src": "howtogoviral.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1386
+    },
+    {
+     "t": "The 'Christian Dior' duo routine on TikTok's 13 Nov 2026 chart (about 5.4K new videos a day, past its peak) is a four beat partner move: step back from each other, slap hands in the middle, kick, then hit a pose; it is standing, in place and fits two brothers exactly.",
+     "src": "viralremix.org, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1386
+    },
+    {
+     "t": "Postdom's 16 to 22 Nov 2026 list still shows three Christmas formats first spotted on 10 Nov (a bouncy group dance to a Deck the Halls edit, fast cuts of the tree going up, and 'Christmas music is allowed now' lyric posts), so the season's start is already running on TikTok and Bro Bros Christmas Shorts can go out now rather than in December.",
+     "src": "postdom.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1386
     }
    ]
   }
@@ -23882,11 +23910,7 @@
  "log": [
   {
    "date": "2026-11-19 19:49",
-   "note": "Summary of 2 earlier rounds: Earlier: older log entries summarised (r; Run 1306 (TRENDS (Thanksgiving parade an"
-  },
-  {
-   "date": "2026-11-19 19:49",
-   "note": "Run 1307 (rules and monetisation (AI policy and ad rate recheck)): Nothing new: AIR's monetisation timeline still ends in August (Partner Program changes from 1 Feb 2027 were already in the tree), the July 2026 inauthentic content update and faceless channel reports were covered, and no new kids ad rate data for Q4 was found. No leaves added. Total 3281."
+   "note": "Summary of 2 earlier rounds: Summary of 2 earlier rounds: Earlier: ol; Run 1307 (rules and monetisation (AI pol"
   },
   {
    "date": "2026-11-19 19:50",
@@ -24199,6 +24223,10 @@
   {
    "date": "2026-11-20 00:36",
    "note": "Run 1385 (visual craft (Ozzy Fox moves from YouTube to Disney+)): Animaj and Disney Jr. bring the YouTube born Ozzy Fox to Disney+ on 5 Dec after 30M YouTube views in four months; its top episode is a floor is lava song, and it is made with sketch to motion AI tools yet called 'AI slop' by some viewers. Kidscreen shortlist pages could not be read. Chrome not available. Total 3398."
+  },
+  {
+   "date": "2026-11-20 00:38",
+   "note": "Run 1386 (TRENDS (week of 16 to 22 Nov)): New this week: the 'This is your sign to' caption format is rising, 'expectation vs reality' face swaps are peaking, a deadpan long stare skit tag grew 69% in a week to 211.8M views, and a Christian Dior duo routine (back away, hand slap, kick, pose) ranks on the 13 Nov chart. Added three trend bank formats. Chrome not available. Total 3402."
   }
  ],
  "history": [
@@ -25013,6 +25041,10 @@
   {
    "date": "2026-11-20 00:36",
    "total": 3398
+  },
+  {
+   "date": "2026-11-20 00:38",
+   "total": 3402
   }
  ],
  "next_week_ideas": [
@@ -25074,6 +25106,24 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Expectation vs reality",
+   "where": "TikTok formats, peaking 16 Nov",
+   "status": "peak",
+   "use": "Split Short: 'Expectation' a Bro calmly building a perfect snowman to our winter song; 'Reality' the snowman falls over and both Bros freeze, stare, then laugh and dance anyway. Kind, no one is mocked."
+  },
+  {
+   "name": "This is your sign",
+   "where": "TikTok formats, rising 16 Nov",
+   "status": "rising",
+   "use": "Caption 'This is your sign to dance before breakfast!' over a Bro mid yawn who suddenly bursts into the chorus of our wake up song; a kind nudge kids and parents can share."
+  },
+  {
+   "name": "Hand slap duo",
+   "where": "TikTok, 13 Nov chart",
+   "status": "fading",
+   "use": "Two Bros face each other in a Short to our own song: on four beats they step back, slap hands in the middle, each lifts one knee in a small kick, then both freeze in a big star pose. Meshy prompt: two people standing in place, step back, high five, small front kick, star pose."
+  },
   {
    "name": "Lights on reveal",
    "where": "Instagram Reels (start of holiday season, week of 17 Nov 2026)",
@@ -25175,24 +25225,6 @@
    "where": "YouTube Shorts and Reels daily December series (Vlogmas, Shortsmas), 1 to 24 Dec",
    "status": "seasonal",
    "use": "From 1 Dec post one 15 second Short a day: a big wooden advent calendar, the Bros count 'one, two, three, open!' and a door pops open to show a soft squishy toy we invent (a snow bunny, a jam donut bear) plus one new dance step from our own Christmas song. Steps for Meshy: standing, knock knock on the air twice with one fist, then pull an imaginary door open with both hands and jump in place with arms up. On 24 Dec post the full song with all 24 steps as one dance."
-  },
-  {
-   "name": "Tidy up waltz",
-   "where": "Instagram Reels (rising, 17 to 25 Nov 2026)",
-   "status": "rising",
-   "use": "A 20 second Reel: the Bros tidy their toy room as if on a grand stage, to our own Suno waltz in 3/4 time (one two three). Steps for Meshy: standing, sway side to side on the count of three, then a slow turn in place with arms raised in a circle, then a small bow. End with the room tidy and a sparkle. Our own music only, never a real recording of the old waltz."
-  },
-  {
-   "name": "Say it like the Bros",
-   "where": "TikTok and Reels parent clips (mid Nov 2026)",
-   "status": "rising",
-   "use": "A 20 second Reel: the Bros sing one polite line from the new song ('my turn, your turn'), then an animated little friend at the dinner table repeats it word for word and the Bros cheer; caption asks parents which line their kids repeat. Animated characters only, never real children. Our own song."
-  },
-  {
-   "name": "Spot the hidden toy",
-   "where": "TikTok and Reels meme (Know Your Meme, 18 Nov 2026)",
-   "status": "rising",
-   "use": "A 15 second Short: a cosy room scene, a tiny Bro Bros toy hides somewhere odd (on a lamp, a shelf, a radiator); the Bros sing 'where is it, where is it?' from our own song, freeze, then a red circle pops round the toy on the beat and both cheer and point. Do 3 rooms in a row; ask kids to comment where they spotted it first. Standing, pointing and a happy jump in place."
   }
  ],
  "posting_plan": {
