@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:54:48+05:30",
- "runs": 965,
+ "updated": "2026-11-19T09:56:01+05:30",
+ "runs": 966,
  "branches": [
   {
    "id": "platforms",
@@ -2071,6 +2071,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 962
+    },
+    {
+     "t": "On Spotify's kids genre popularity chart (mid November 2026), sleep audio ranks near the top: an instrumental 'Peaceful Sleep' lullaby (score 80), a Hush Little Baby lullaby (76) and a baby sleep track with ocean sounds (76), so a long calm Bro Bros lullaby loop is the most promising audio release.",
+     "src": "Soundcharts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 966
+    },
+    {
+     "t": "The same Spotify kids chart top 20 mixes film songs (Moana and Frozen 2), novelty Halloween songs and older pop, with only Baby Shark (79) and a Ms Rachel song (72) as preschool originals, so on audio platforms preschool songs compete with family pop and a catchy all ages Bro Bros song has more room than a pure nursery rhyme.",
+     "src": "Soundcharts, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 966
     }
    ]
   },
@@ -19808,11 +19822,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 886 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:00",
-   "note": "Run 887 (rules (global age limits for kids online)): New: Turkey's under 15 social media ban took effect on 1 Nov 2026 with mandatory age verification and a clause that no service likely to be addictive may be offered to children; which platforms count is not yet clear. The EU Kids Act proposal was already in the tree. Kids in Turkey will reach Bro Bros mainly through parents' devices, YouTube Kids and TV. Total 2625."
+   "note": "Earlier runs summarised: all rounds through Run 887 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:00",
@@ -20125,6 +20135,10 @@
   {
    "date": "2026-11-19 09:54",
    "note": "Run 965 (topics and seasons (visual craft skipped, thin last time; December 2026 classroom calendar, parent searches)): Mostly covered: the December 2026 classroom calendar (Hanukkah and Cookie Day 4 Dec, St Lucia 13 Dec, Las Posadas 16 Dec, Sweater Day 18 Dec, Cut Out Snowflakes Day 27 Dec) was already in the tree. New: parents' most common worried searches are about sleep, sudden anger and whether YouTube is bad for kids, which supports calm down and bedtime songs with a visibly gentle, ad free feel. Total 2816."
+  },
+  {
+   "date": "2026-11-19 09:56",
+   "note": "Run 966 (other platforms (TRENDS skipped, sources stale; Spotify kids genre popularity, Netflix animated 2026 rechecked)): Netflix's 2026 animated top 10 (Peppa, CoComelon, Little Angel, Bebefinn) was already in the tree. New: Spotify's kids genre popularity list is led by Halloween novelty songs, film songs and sleep audio (a 'Peaceful Sleep' lullaby, a baby sleep track with ocean sounds), with Baby Shark and Ms Rachel the only preschool originals in the top 20. Total 2818."
   }
  ],
  "history": [
@@ -21323,6 +21337,10 @@
   {
    "date": "2026-11-19 09:54",
    "total": 2816
+  },
+  {
+   "date": "2026-11-19 09:56",
+   "total": 2818
   }
  ],
  "next_week_ideas": [
