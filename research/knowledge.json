@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:45:23+05:30",
- "runs": 875,
+ "updated": "2026-11-19T06:51:54+05:30",
+ "runs": 876,
  "branches": [
   {
    "id": "platforms",
@@ -6222,6 +6222,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 873
+    },
+    {
+     "t": "Tubefilter's most viewed chart for 9 to 15 Nov 2026 has 42 of 50 channels mainly on Shorts and 24 of 50 from India (US 8, Canada 3); a family Shorts channel, Fitu K Kitu, went to #1 with about 1.2B weekly views (+138%), nearly two thirds of its lifetime traffic in a single week, so one breakout Shorts format can multiply a channel in days.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 876
+    },
+    {
+     "t": "In the same week no classic nursery song brand (CoComelon, Pinkfong, ChuChu, BabyBus, Super Simple) made the most viewed top 50, while kid friendly Shorts families and animation (Koko and Golu #17 at 509M, Keizo and Friends #22 at 444M) did, and the kids clown channel El Payaso Plim Plim has not dropped below 250M weekly views in six months; short, character led comedy now out views long nursery songs on reach.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 876
     }
    ]
   },
@@ -18262,6 +18276,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 874
+    },
+    {
+     "t": "A creator's eerie 'Backrooms' style clown series (part 9 released 11 Nov 2026, nearly 40M views) drove one of the week's biggest gains on YouTube; numbered episodic series are winning, but the creepy theme is not for us, so we keep the 'Part 1, Part 2' episode habit with cosy, friendly adventures instead.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 876
     }
    ]
   }
@@ -18289,11 +18310,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 797 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 00:55",
-   "note": "Run 798 (visual craft (pacing versus fantasy meta analysis, Moonbug brand look, CoComelon updates)): The Developmental Science pacing versus fantasy meta analysis, CoComelon's UCLA study, Sanrio crossover and film date were already in the tree and Moonbug's rebrand dates from 2023; no new leaves. Total 2368."
+   "note": "Earlier runs summarised: all rounds through Run 798 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 00:56",
@@ -18606,6 +18623,10 @@
   {
    "date": "2026-11-19 06:45",
    "note": "Run 875 (rules, safety and monetisation (AI kids video scrutiny, US state kids codes)): Most rule and money facts were already in the tree. New: a March 2026 investigation found about half of the Shorts recommended to young children were AI made and some 'educational' AI clips modelled unsafe acts (playing near traffic, no seatbelts, choking hazards), so every Bro Bros safety song must show the correct behaviour on screen and be checked frame by frame. US states keep adding kids design codes (New Jersey's Kids Code Act, Oct 2026). Total 2599."
+  },
+  {
+   "date": "2026-11-19 06:51",
+   "note": "Run 876 (YouTube main and Kids (Tubefilter Top 50 for 9 to 15 Nov; our Metricool data unchanged, so our own results were skipped)): In Tubefilter's most viewed chart for 9 to 15 Nov, 42 of the top 50 are mainly Shorts channels and India has 24 of them; a family Shorts channel, Fitu K Kitu, jumped 138% to 1.2B weekly views, nearly two thirds of its lifetime views in one week, and kids family brands like Koko and Golu (509M) and Keizo and Friends (444M) hold steady. Classic nursery song channels are absent from the top 50 views chart. Metricool still stops at 16 Nov, so no new data on our own channel. Total 2602."
   }
  ],
  "history": [
@@ -19444,6 +19465,10 @@
   {
    "date": "2026-11-19 06:45",
    "total": 2599
+  },
+  {
+   "date": "2026-11-19 06:51",
+   "total": 2602
   }
  ],
  "next_week_ideas": [
