@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:42:29+05:30",
- "runs": 1088,
+ "updated": "2026-11-19T13:48:10+05:30",
+ "runs": 1089,
  "branches": [
   {
    "id": "platforms",
@@ -7433,6 +7433,34 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1086
+    },
+    {
+     "t": "Booba began as a 3 minute wordless YouTube cartoon and its makers stretched episodes step by step to 5 and then 7 minutes while the audience kept growing, reaching about 22B views and 20M subscribers, a model for growing Bro Bros song videos in length only gradually and testing each step.",
+     "src": "Kedoo and European Animation Journal, Mar and Dec 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1089
+    },
+    {
+     "t": "Kedoo's rule for Booba is 'take what kids love and multiply it': themed versions of the same hero (a prehistoric one with a pet dinosaur, a bandit one on a hobby horse, a genie one) keep the familiar character in new worlds, so Bro Bros can run themed versions of the brothers (dino Bros, space Bros, chef Bros) without inventing new casts.",
+     "src": "Kedoo, Mar 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1089
+    },
+    {
+     "t": "For its sixth season (26 episodes of 7 minutes, Disney+ from early 2026) Booba added Loola, a female lead, for better gender balance and Tiny Booba, a smaller cuter version meant to appeal especially to Asian markets, which supports giving Bro Bros a girl friend who leads some songs and a baby sized sidekick.",
+     "src": "European Animation Journal, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1089
+    },
+    {
+     "t": "Kedoo says Booba stories are always told from the hero's point of view (what he wants and how he gets it), made by a small core team, and released so kids can watch whenever they like rather than on a timetable, which matches our plan of one clear wish per Bro Bros song.",
+     "src": "Kedoo, Mar 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1089
     }
    ]
   },
@@ -21327,11 +21355,7 @@
  "log": [
   {
    "date": "2026-11-19 11:00",
-   "note": "Earlier: older log entries summarised; runs up to Run 1009 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:00",
-   "note": "Run 1010 (global markets (AIR multi language kids network case, Q4 2025)): An AIR case of one creator's kids channels in several languages (Q4 2025 vs Q3): portfolio views rose from about 24M to 299M, driven by the Brazilian Portuguese channel (13.5M to 278.6M views, 93% of all views) and a Shorts push (Shorts feed from 6.6% to 82% of traffic), while the English channel fell 7%; Spanish and Hindi grew revenue most (+1707% and +1231%). Total 2905."
+   "note": "Earlier: older log entries summarised; runs up to Run 1010 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:01",
@@ -21644,6 +21668,10 @@
   {
    "date": "2026-11-19 13:42",
    "note": "Run 1088 (global markets (Nepal, Sri Lanka and Swahili gaps)): Filled three market gaps: Nepal's biggest channel is two brothers making wordless, mostly recycled Shorts (13.4M subscribers) that now gains no subscribers; Ubongo's Kiswahili channel is smaller than its English one; Sri Lanka's trending lists are almost all Sinhala with only one kids song. Total 3033."
+  },
+  {
+   "date": "2026-11-19 13:48",
+   "note": "Run 1089 (competitor deep dive (Booba, the wordless 3D brand that grew from YouTube)): Booba (about 22B views, 20M subscribers) started as 3 minute YouTube shorts and grew episodes step by step to 5 then 7 minutes, multiplies its hero into themed versions, and for season six added a female lead and a tiny version aimed at Asian markets. Lessons for Bro Bros: grow length slowly, reuse the cast in themed versions, add a girl friend lead. Total 3037."
   }
  ],
  "history": [
@@ -22586,6 +22614,10 @@
   {
    "date": "2026-11-19 13:42",
    "total": 3033
+  },
+  {
+   "date": "2026-11-19 13:48",
+   "total": 3037
   }
  ],
  "next_week_ideas": [
