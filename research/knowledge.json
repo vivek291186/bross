@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:49:29+05:30",
- "runs": 1165,
+ "updated": "2026-11-19T15:49:57+05:30",
+ "runs": 1166,
  "branches": [
   {
    "id": "platforms",
@@ -4262,6 +4262,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1154
+    },
+    {
+     "t": "In Semrush's global YouTube search ranking for May 2026 (asmr first at about 22M), the only kids search in the top 100 is 'cocomelon' (No. 61, about 2.8M), while 'nursery rhymes', 'kids songs' and 'baby shark' do not make the top 100, so kids viewers mostly arrive through brand names and recommendations; a new channel should aim titles at specific long phrases (for example 'freeze dance song for kids') and let Suggested and Shorts do the heavy lifting.",
+     "src": "Backlinko (Semrush data), May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1166
     }
    ]
   },
@@ -21977,12 +21984,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 13:41",
-   "note": "Earlier: older log entries summarised; runs up to Run 1086 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 13:41",
-   "note": "Run 1087 (TRENDS (SocialPilot sounds for 17 to 25 Nov, school dance challenges, December seasonal gaps rechecked)): Nothing new: every sound on SocialPilot's 17 Nov list (then vs now, Blue Danube ballet, silly little life, stop the wedding, back to back dance, Christmas classics) and every December festival checked was already in the tree; school dance challenge results were old (2019 foot shake, Feb 2026 classroom clip). No leaves added. Total 3029."
+   "date": "2026-11-19 13:42",
+   "note": "Earlier: older log entries summarised; runs up to Run 1087 covered all focus areas."
   },
   {
    "date": "2026-11-19 13:42",
@@ -22295,13 +22298,13 @@
   {
    "date": "2026-11-19 15:49",
    "note": "Run 1165 (TRENDS (first snow reactions and winter formats)): Nothing new: 'first time seeing snow' reactions, pets in the first snowfall and the Winter Vibes dance were already recorded; the snow ice cream food trend is skipped for safety. No leaves added. Total 3126."
+  },
+  {
+   "date": "2026-11-19 15:49",
+   "note": "Run 1166 (YouTube algorithm (what people type into YouTube search)): New: in Semrush's global YouTube search list for May 2026 the only kids term in the top 100 is 'cocomelon' (No. 61, about 2.8M searches) while 'nursery rhymes', 'songs for kids' and 'baby shark' miss the top 100, so generic kids song searches are spread across many long phrases and brand names; search alone will not carry a new kids channel. Total 3127."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 04:35",
-   "total": 2473
-  },
   {
    "date": "2026-11-19 05:35",
    "total": 2531
@@ -23497,6 +23500,10 @@
   {
    "date": "2026-11-19 15:49",
    "total": 3126
+  },
+  {
+   "date": "2026-11-19 15:49",
+   "total": 3127
   }
  ],
  "next_week_ideas": [
