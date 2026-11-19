@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:39:23+05:30",
- "runs": 1250,
+ "updated": "2026-11-19T18:40:18+05:30",
+ "runs": 1251,
  "branches": [
   {
    "id": "platforms",
@@ -22609,6 +22609,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1248
+    },
+    {
+     "t": "ABC News's Nov 2026 trending toys list says slow rise squishy toys are having an especially big moment this year, with some shops struggling to keep them in stock, so a satisfying 'squeeze and slowly puff back' moment (a giant soft snowball or star in the Bros' hands on a long held note) is a timely, kid safe sensory hook for Shorts.",
+     "src": "abcnews.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1251
+    },
+    {
+     "t": "The same list says social media pushes kids' Christmas wishes mostly toward small collectible, sensory and screen free toys, while the only musical toy is a toddler record player and no dance toy appears, so dancing to a song is still free space for Bro Bros rather than a crowded toy trend.",
+     "src": "abcnews.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1251
     }
    ]
   }
@@ -22635,12 +22649,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:51",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 15:52",
-   "note": "Run 1172 (global markets (Israel gap)): Filled the Israel gap: Hebrew kids songs live on one big classic songs channel (Hop's 'Israeli Childhood', 820K subscribers, 1.37B views, about 9M views a month) whose top videos are a birthday song (12.8M) and a beloved gardener character's songs, plus a child presenter channel whose newest hits are lesson videos about bullying, apologising and healthy friendships. Total 3131."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 15:52",
@@ -22953,16 +22963,16 @@
   {
    "date": "2026-11-19 18:39",
    "note": "Run 1250 (Shorts and Reels (platform news recheck)): Small: Instagram Features, Apple TV app, Reels series end, retention heatmaps and the AIR Shorts first kids case were already in the tree; added Edits clickable sound links for our own songs and Tubefilter's 15 Nov chart showing curiosity and Roblox Shorts spiking while shock Shorts channels fade. Total 3220."
+  },
+  {
+   "date": "2026-11-19 18:40",
+   "note": "Run 1251 (TRENDS (Christmas toys and sensory)): Small: DreamToys, Toy of the Year finalists, Which? and Amazon lists were already in the tree; new from ABC News's Nov 2026 list: slow rise squishy toys are this year's big sensory moment and no dance toy is trending, so added a 'slow rise squish' entry to the trend bank. Total 3222."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:45",
-   "total": 2785
   },
   {
    "date": "2026-11-19 09:46",
@@ -24155,6 +24165,10 @@
   {
    "date": "2026-11-19 18:39",
    "total": 3220
+  },
+  {
+   "date": "2026-11-19 18:40",
+   "total": 3222
   }
  ],
  "next_week_ideas": [
@@ -24216,6 +24230,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Slow rise squish",
+   "where": "TikTok, Reels and Shorts toy and ASMR clips (squishy toys big in 2026)",
+   "status": "rising",
+   "use": "Little Bro holds a giant soft snowball squishy, squeezes it on a long held 'squeeeeze' in our own winter song, then it slowly puffs back up as the music rises; both Bros do a slow rise move: standing with arms low and a soft knee bend, slowly lift both arms overhead and rise onto tiptoes, then one happy hop in place and a clap. Standing, in place, no floor moves. Loop the puff back moment for a 10 second Short."
+  },
   {
    "name": "Matching pyjamas deadpan dance",
    "where": "TikTok, Reels (from 2 Nov 2026, rising into December)",
@@ -24329,12 +24349,6 @@
    "where": "TikTok, Reels",
    "status": "rising",
    "use": "Both brothers stand side by side next to a half decorated tree and do a short bouncy 8 count routine to our own Christmas song: bounce on the spot twice, step right and clap, step left and clap, then both point at the star and jump once. Standing, in place, no floor moves. Film as a 15 second Reel and Short."
-  },
-  {
-   "name": "Zoom in and find it",
-   "where": "Instagram carousels (NewEngen, 13 Nov 2026)",
-   "status": "rising",
-   "use": "Instagram carousel or 15 second Short: a busy, colourful Bro Bros winter scene with five tiny hidden things (a penguin, a mitten, a star, a carrot, a bell); the next slides zoom in to reveal each one while our own chant counts them. Meshy prompt for the reveal clip: standing in place, lean forward with a hand shading the eyes, then point and jump once with a happy cheer."
   }
  ],
  "posting_plan": {
