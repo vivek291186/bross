@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:50:34+05:30",
- "runs": 1324,
+ "updated": "2026-11-19T20:51:18+05:30",
+ "runs": 1325,
  "branches": [
   {
    "id": "platforms",
@@ -10226,6 +10226,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1313
+    },
+    {
+     "t": "A 2025 kindergarten study in Indonesia (25 children aged 5 to 7, four weeks of daily circle time songs such as a vegetable song, a fruit song and an action rhyme) found children learned English concrete nouns (foods, drinks) and action verbs far more easily than describing words, especially when each word was paired with a body action, so each Bro Bros learning song should centre on 6 to 10 nouns or verbs with one gesture each.",
+     "src": "digilib.uinsgd.ac.id (EPIGRAM journal), 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1325
+    },
+    {
+     "t": "On Billboard's Kid Albums chart for the week of 8 Nov 2025 the gentle jazz 'A Charlie Brown Christmas' soundtrack was already No. 1 (in its 392nd chart week), above CoComelon and Baby Shark collections, so family Christmas listening starts in early November and soft, jazzy piano holiday tracks can sit beside our bouncy pop songs.",
+     "src": "billboard.com, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1325
     }
    ]
   },
@@ -23318,10 +23332,6 @@
    "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
-   "date": "2026-11-19 17:41",
-   "note": "Run 1246 (TRENDS (Shorts formats and Thanksgiving recheck)): Nothing new: November Shorts lists (friend group glue POV, Dame Hombro) and Thanksgiving gratitude tablecloth and thankful pumpkin formats were already in the tree. No leaves added. Total 3209."
-  },
-  {
    "date": "2026-11-19 17:42",
    "note": "Run 1247 (rules (AI labels, COPPA, UK under 16 scope)): Nothing new: Fairplay's AI letter, YouTube's photorealistic only auto labels, the FTC age verification statement and the UK plan that could pull YouTube Kids into the under 16 rules (spring 2027) were already in the tree. No leaves added. Total 3209."
   },
@@ -23632,13 +23642,13 @@
   {
    "date": "2026-11-19 20:50",
    "note": "Run 1324 (TRENDS (pet duets and dancing animal formats)): A Douyin clip of a man singing a folk song while his corgi barks on the beat became a 'singing dog duet' audio template in mid 2026, with cartoon edits of 1M to 3M views each; AI kittens in bows and tiaras dancing reached up to about 40M views; both point to a Bros plus pet duet format with our own dog character and song. Total 3317."
+  },
+  {
+   "date": "2026-11-19 20:51",
+   "note": "Run 1325 (music craft (vocabulary songs, Christmas album timing)): An Indonesian kindergarten study (25 children aged 5 to 7, four weeks of daily songs) found concrete nouns and action verbs stick far better than describing words, especially when each word has a gesture; Billboard's Kid Albums chart in early November 2025 already had the jazzy Charlie Brown Christmas album at No. 1. Total 3319."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:43",
-   "total": 2932
-  },
   {
    "date": "2026-11-19 11:44",
    "total": 2934
@@ -24834,6 +24844,10 @@
   {
    "date": "2026-11-19 20:50",
    "total": 3317
+  },
+  {
+   "date": "2026-11-19 20:51",
+   "total": 3319
   }
  ],
  "next_week_ideas": [
