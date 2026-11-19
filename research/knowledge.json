@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:47:24+05:30",
- "runs": 1378,
+ "updated": "2026-11-19T23:48:00+05:30",
+ "runs": 1379,
  "branches": [
   {
    "id": "platforms",
@@ -13740,6 +13740,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1362
+    },
+    {
+     "t": "Copernicus' seasonal forecast (Oct 2026) makes a milder than normal winter more likely across much of Europe, with Scandinavia the exception, and Spain's weather office expects above average temperatures from November to January, so most European children will again not see snow at Christmas.",
+     "src": "rustourismnews.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1379
+    },
+    {
+     "t": "Real Christmas snow in Europe is reliable only in Finnish and Swedish Lapland, inland northern Norway and high Alpine resorts; in the UK widespread snow on Christmas morning has happened only four times since 1960, so snow in our songs works as a magical wish for most viewers rather than their reality.",
+     "src": "rustourismnews.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1379
+    },
+    {
+     "t": "Kaspersky's 2026 kids report says children's interest in cartoons rose to about 53.5% of searches in that area, with searches most often leading to an animated story channel, an indie animated series and CoComelon's nursery rhymes, while video streaming searches overall fell from 18% to 8.7% as AI tools and learning rose.",
+     "src": "kaspersky.com, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1379
     }
    ]
   },
@@ -23769,12 +23790,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:46",
-   "note": "Earlier: older log entries summarised (runs up to 1299); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:47",
-   "note": "Run 1300 (TRENDS (Spanish and Portuguese kid dance searches)): Nothing new: Spanish and Portuguese searches for new kid dances only surfaced older clips (the kangaroo dance from May, grandparent dance challenges, school ceremony routines) already in the tree. No leaves added. Total 3280."
+   "note": "Earlier: older log entries summarised (runs up to 1300); details are in git history."
   },
   {
    "date": "2026-11-19 19:47",
@@ -24087,13 +24104,13 @@
   {
    "date": "2026-11-19 23:47",
    "note": "Run 1378 (rules and monetisation recheck): Nothing new: the EU Digital Fairness Act proposal of 11 Nov (minors' ads, autoplay switches, 6% fines) and AIR's 2026 kids RPM and CPM tables were already in the tree. No leaves added. Chrome not available. Total 3382."
+  },
+  {
+   "date": "2026-11-19 23:48",
+   "note": "Run 1379 (topics and seasons (TRENDS skipped; own results unchanged since run 1367)): Added the winter outlook (mild Europe outside Scandinavia, UK white Christmases rare) as a reason to make snow a magical wish, Kaspersky's cartoon search numbers, and a new 'Let's Make It Snow!' pretend snow song idea. Chrome not available. Total 3385."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:04",
-   "total": 3009
-  },
   {
    "date": "2026-11-19 13:04",
    "total": 3010
@@ -25289,9 +25306,17 @@
   {
    "date": "2026-11-19 23:47",
    "total": 3382
+  },
+  {
+   "date": "2026-11-19 23:48",
+   "total": 3385
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Let's Make It Snow! (Pretend Snow Dance)",
+   "why": "Most children in Europe, India, the Gulf, Africa and Southeast Asia will not see real snow this Christmas (Copernicus expects a mild European winter), so the Bros make pretend snow with paper snowflakes, pillow feathers and a fan, then a magic sparkle turns it into real snow for one chorus. Standing moves: wiggle fingers down like falling snow, spin on the spot, catch a flake, freeze."
+  },
   {
    "title": "Beads in a Row! (Friendship Bracelet Pattern Song)",
    "why": "Bracelet making is back on the 2026 holiday toy lists; the Bros thread red, blue, red, blue beads and kids shout the next colour, teaching patterns, then each Bro gives his bracelet to a friend. Hands and beads in close up, upper body moves only, so it is easy in Meshy and travels to every country with no words needing translation."
@@ -25343,10 +25368,6 @@
   {
    "title": "Shh! Bear Is Sleeping (Hibernation Tiptoe Song)",
    "why": "Hibernation is a top preschool winter theme (Highlights); a freeze and tiptoe game song where the Bros creep past a sleeping bear and freeze when it snores. Meshy moves: standing tiptoe steps in place, finger to lips, sudden freeze pose."
-  },
-  {
-   "title": "Ten, Nine, Happy New Year, Bros! (Early Countdown Song)",
-   "why": "Parents search every 31 Dec for early 'fake midnight' countdowns young kids can watch before bedtime (already in the tree); a 2 to 3 minute song that counts down from ten with a balloon popping on each number, gentle confetti and a calm goodnight ending can be started at any time, in any time zone."
   }
  ],
  "trend_bank": [
