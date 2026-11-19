@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:40:14+05:30",
- "runs": 946,
+ "updated": "2026-11-19T09:40:53+05:30",
+ "runs": 947,
  "branches": [
   {
    "id": "platforms",
@@ -15609,6 +15609,41 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 936
+    },
+    {
+     "t": "On 18 Nov 2026 both Bro Bros Reels passed 100 views again (veggie soup song 127 at 10:02 IST, freeze dance 111 at 16:02 IST) after 10 to 17 Nov when most Reels got only 7 to 33 views, so the Instagram dip was temporary rather than a lasting penalty.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 947
+    },
+    {
+     "t": "Both of our 18 Nov Reels that recovered open with a playful game cue in the caption and the clip ('Uh oh, the tomato rolled... catch it!' and 'Dance dance dance... FREEZE!'), while calmer story Reels (sandcastle 18 views, kitten rescue 7, boo boo bandage 13) stayed low, so game and action hooks suit Reels better than story songs.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 947
+    },
+    {
+     "t": "A high 3 second view rate did not bring reach on its own: the digger Reel on 17 Nov had our best view rate (63%, skip rate 37%) yet only 31 views, while the 18 Nov Reels with 66 to 75% skip rates reached over 100, so Instagram's push depends on more than the first seconds (shares, watch time and timing also count).",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 947
+    },
+    {
+     "t": "Our longest average Reel watch times since 5 Nov were the Diwali rock song (20.3 seconds, 115 views), the space bus song (13.9 s) and the Hindi rain cloud story (11.7 s), while most Reels hold only 2 to 5 seconds, so loud festival energy and strong music keep Instagram viewers far longer than our usual clips.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 947
+    },
+    {
+     "t": "Metricool's YouTube feed still stops at 16 Nov 2026 when checked on 19 Nov at 09:40 IST (subscribers 2,150, 858 views on 16 Nov), so YouTube song and slot comparisons for 17 and 18 Nov must wait.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 947
     }
    ]
   },
@@ -19416,11 +19451,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 867 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:49",
-   "note": "Run 868 (posting times (Metricool YouTube model for 20 to 26 Nov)): Metricool's YouTube model for 20 to 26 Nov keeps 16:00 IST as the daily peak (Wednesday and Thursday highest, about 12,000), with Friday 20 Nov almost tied between 10:00 and 16:00 and Saturday and Sunday peaks at only about half of Wednesday's. The 04:00 to 05:00 IST hour scores only about a quarter of the peak for our current audience, which is mostly not American yet, but the 04:30 slot stays for the US test. No slot change. Total 2582."
+   "note": "Earlier runs summarised: all rounds through Run 868 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:50",
@@ -19733,6 +19764,10 @@
   {
    "date": "2026-11-19 09:40",
    "note": "Run 946 (rules and safety (YouTube Kids entry gate, COPPA as a safety tool)): New: YouTube Kids entry runs through a family friendly classification, automated checks of thumbnail, title and video, sampled human review and parent reports; new child profiles get no personal recommendations at first and see only curated rows (series, music, learning, discovery, games). Regulators now treat autoplay, comments and recommendations as possible harms, and the 2025 Disney 10M USD case was about wrongly labelled kids videos. Total 2760."
+  },
+  {
+   "date": "2026-11-19 09:40",
+   "note": "Run 947 (our own results (Metricool Reels to 18 Nov; YouTube still ends 16 Nov)): Instagram Reels recovered on 18 Nov: the veggie soup Reel (10:02 IST) reached 127 views and the freeze dance Reel (16:02 IST) 111, after a week of mostly 7 to 33 views; both captions open with a game cue. High 3 second view rate did not predict reach (digger 63% view rate, 31 views). YouTube data still ends 16 Nov. Total 2765."
   }
  ],
  "history": [
@@ -20855,6 +20890,10 @@
   {
    "date": "2026-11-19 09:40",
    "total": 2760
+  },
+  {
+   "date": "2026-11-19 09:40",
+   "total": 2765
   }
  ],
  "next_week_ideas": [
