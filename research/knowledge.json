@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:50:53+05:30",
- "runs": 959,
+ "updated": "2026-11-19T09:51:30+05:30",
+ "runs": 960,
  "branches": [
   {
    "id": "platforms",
@@ -19690,6 +19690,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 957
+    },
+    {
+     "t": "A Roblox game built only for performing trending dance emotes together ('Trending Emote Dance') is surging: about 19K players at once in mid November 2026, a 30 day average up about 140% and an all time peak of 21K on 25 Oct, showing kids love doing synchronized avatar dances with friends.",
+     "src": "RoWatcher, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 960
+    },
+    {
+     "t": "Roblox trends are mostly started by preteens, often by turning a TikTok meme into a game within hours, and they mutate or fade within days, so Bro Bros should borrow the lasting pattern (stiff avatar style copy along moves) rather than chase a specific Roblox meme.",
+     "src": "Dataconomy, Jan 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 960
     }
    ]
   }
@@ -19717,11 +19731,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 880 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:56",
-   "note": "Run 881 (music craft (how babies respond to songs, eLife 2026)): New: an eLife study (reported July 2026) of 79 babies found that from 3 months their brains respond more to real songs than scrambled ones, 12 month olds rock, sway and clap more to structured songs, a high pitched melody drives movement more than the bassline at every age, and no baby moved on the beat; they followed loudness changes. For our baby songs: bright high melody and clear loud and soft moments matter more than groove. Kids album news was already in the tree. Total 2611."
+   "note": "Earlier runs summarised: all rounds through Run 881 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:57",
@@ -20034,6 +20044,10 @@
   {
    "date": "2026-11-19 09:50",
    "note": "Run 959 (POSTING TIMES (own skipped, just ran; Metricool best times 19 to 25 Nov, our Reel slots compared)): Metricool for 19 to 25 Nov again puts YouTube's peak at 16:00 IST and Instagram's at 10:00 IST, weekends about half. Our 20 Reels from 9 to 18 Nov did the same at 10:02 IST (mean 43.5, median 21 views) and 16:02 IST (mean 41.6, median 23.5), so the Reel time is not what limits reach; slots unchanged. Total 2803."
+  },
+  {
+   "date": "2026-11-19 09:51",
+   "note": "Run 960 (TRENDS (Roblox and game emote dances)): A Roblox game where kids simply gather to perform trending dance emotes ('Trending Emote Dance') is up 140% in 30 days with about 19K players at once, peaking 25 Oct 2026; Roblox trends are made by preteens and die within days, so we copy the stable idea (copy along avatar moves), not a specific meme. Total 2805."
   }
  ],
  "history": [
@@ -21208,6 +21222,10 @@
   {
    "date": "2026-11-19 09:50",
    "total": 2803
+  },
+  {
+   "date": "2026-11-19 09:51",
+   "total": 2805
   }
  ],
  "next_week_ideas": [
@@ -21292,6 +21310,12 @@
    "where": "YouTube Shorts (toddler colour and fruit sorting game Short at 3.1B, all time top 10, still recommended Nov 2026)",
    "status": "evergreen",
    "use": "25 second Short with our own counting song: fruits drop one per beat and Little Bro puts each into the bowl of the same colour (red apple to red bowl, yellow banana to yellow bowl), pausing one beat so kids can shout the colour first. Meshy prompt: a boy stands in place, reaches to the right with one hand, then moves the hand to the left and places it down, then claps once."
+  },
+  {
+   "name": "Avatar emote dance circle",
+   "where": "Roblox ('Trending Emote Dance' game surging +140% in 30 days, about 19K players at once, Nov 2026) and TikTok",
+   "status": "rising",
+   "use": "Short with our own beat: the Bros and three friends stand in a circle like game avatars, and on each 'next!' a new simple emote plays all together (wave, robot arms, side step, star jump pose), ending with everyone pointing at the viewer: 'Your turn!'. Meshy prompt: a boy stands in place and does stiff robot arm moves up and down for four beats, then steps side to side for four beats."
   },
   {
    "name": "Unprompted kitchen dance",
@@ -21382,12 +21406,6 @@
    "where": "Instagram Reels (Blue Danube waltz sound, week of 17 Nov 2026)",
    "status": "rising",
    "use": "Our own Suno waltz arrangement of the public domain Blue Danube melody (never someone else's recording). The Bros tidy the playroom like ballet dancers: standing, rise on tiptoes, arms in a round circle overhead, slow turn in place, gentle bow while placing a toy in the box. Meshy prompt: a boy stands, rises onto tiptoes with arms curved overhead, turns slowly in place, then bows gracefully, no floor moves."
-  },
-  {
-   "name": "One by one dance parade",
-   "where": "TikTok and Reels (kitten parade meme, mid Nov 2026)",
-   "status": "rising",
-   "use": "Fixed camera at child eye height; each Bro Bros character or animal friend walks in from the left, faces the camera, does one move on one sung line of our own song, and walks out right, then the next one comes. Meshy prompt per character: walk forward three steps, stop, wave both arms side to side twice, walk off to the side. End with everyone together in a line waving."
   }
  ],
  "posting_plan": {
