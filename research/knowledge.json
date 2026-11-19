@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:54:27+05:30",
- "runs": 1040,
+ "updated": "2026-11-19T11:54:56+05:30",
+ "runs": 1041,
  "branches": [
   {
    "id": "platforms",
@@ -20796,6 +20796,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1035
+    },
+    {
+     "t": "Spielwarenmesse's ToyTrends for 2027 (fair 2 to 6 Feb 2027) says licensed toys made up about 37% of global toy sales last year and that memes and short viral clips now become toy lines within a few months, so original characters that win on Shorts and Reels are the new route into toys, as Bluey, Baby Shark and Ms Rachel showed.",
+     "src": "Spielwarenmesse via Webull, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1041
+    },
+    {
+     "t": "The second 2027 toy trend, 'Beyond Limits', is play that includes children of every ability and fights loneliness through shared experiences, which fits Bro Bros songs where every friend can join the dance in their own way (seated, clapping only, big or small moves).",
+     "src": "Spielwarenmesse via Webull, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1041
     }
    ]
   }
@@ -20823,11 +20837,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 961 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:52",
-   "note": "Run 962 (Shorts and Reels (Trial Reels evidence, sends per reach)): Thin round: most Reels ranking advice was already in the tree. New: Mosseri says Trial Reels almost always get less reach, small tests show trials topping out around 180 views, so trials suit testing hooks, not growth; and a send prompt aimed at a specific person works best for DM shares. Total 2811."
+   "note": "Earlier runs summarised: all rounds through Run 962 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:53",
@@ -21140,6 +21150,10 @@
   {
    "date": "2026-11-19 11:54",
    "note": "Run 1040 (competitor deep dive (ChuChu TV rechecked)): Nothing new: ChuChu TV's 18 Nov figures (98.2M subscribers, zero growth, about 223M to 330M views a month, latest 24 minute story compilation at about 50K views in 4.7 days) were already in the tree. No leaves added. Total 2961."
+  },
+  {
+   "date": "2026-11-19 11:54",
+   "note": "Run 1041 (TRENDS (2027 toy and play forecasts)): Spielwarenmesse named its two toy trends for 2027: 'License to Play' (licensed toys are about 37% of global toy sales and viral short clips and memes now become toy lines within months) and 'Beyond Limits' (toys for shared play, inclusion and different abilities). Both point to a long term path where an original Bro Bros world with its own characters can later license products. Total 2963."
   }
  ],
  "history": [
@@ -21890,6 +21904,10 @@
   {
    "date": "2026-11-19 11:54",
    "total": 2961
+  },
+  {
+   "date": "2026-11-19 11:54",
+   "total": 2963
   }
  ],
  "next_week_ideas": [
