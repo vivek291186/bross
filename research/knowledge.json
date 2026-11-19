@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:36:44+05:30",
- "runs": 1213,
+ "updated": "2026-11-19T16:38:01+05:30",
+ "runs": 1214,
  "branches": [
   {
    "id": "platforms",
@@ -4290,6 +4290,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1166
+    },
+    {
+     "t": "YouTube Hype, the fan boost that lifts videos from channels with 500 to 500,000 subscribers, only works on long videos under 7 days old that are not made for kids, not Shorts and have no Content ID claim, so Bro Bros (made for kids) cannot use Hype and should not plan on it; growth has to come from Suggested and Home topic matching.",
+     "src": "Creator Essentials glossary, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1214
     }
    ]
   },
@@ -22230,11 +22237,7 @@
  "log": [
   {
    "date": "2026-11-19 15:00",
-   "note": "Earlier: older log entries summarised; runs up to Run 1134 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 15:00",
-   "note": "Run 1135 (TRENDS (Portuguese and Spanish kid dance searches)): Nothing new for this week: results were older clips (kangaroo dance from May, Calm Down kid dance, slick back) already recorded. No leaves added. Total 3092."
+   "note": "Earlier: older log entries summarised; runs up to Run 1135 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:00",
@@ -22547,13 +22550,13 @@
   {
    "date": "2026-11-19 16:36",
    "note": "Run 1213 (our results (Metricool YouTube rechecked at 16:37 IST)): Nothing new: Metricool's YouTube feed still ends at 16 Nov (2,150 subscribers, 858 views); 17 to 19 Nov results not in yet. No leaves added. (Run 1212 took the trends slot out of order; this round covers the skipped 'our results' slot.) Total 3162."
+  },
+  {
+   "date": "2026-11-19 16:38",
+   "note": "Run 1214 (YouTube algorithm (Hype and small channel discovery)): New: YouTube Hype, the boost for channels under 500K, is closed to made for kids videos, Shorts and videos with Content ID claims, so Bro Bros cannot use it and must grow through Suggested and Home matching instead. Everything else found (subscriber click rate about 10%, Suggested beating the Subs tab, Home slots for long videos) was already in the tree. Total 3163."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:50",
-   "total": 2684
-  },
   {
    "date": "2026-11-19 07:51",
    "total": 2688
@@ -23749,6 +23752,10 @@
   {
    "date": "2026-11-19 16:36",
    "total": 3162
+  },
+  {
+   "date": "2026-11-19 16:38",
+   "total": 3163
   }
  ],
  "next_week_ideas": [
