@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:38:30+05:30",
- "runs": 856,
+ "updated": "2026-11-19T05:39:57+05:30",
+ "runs": 857,
  "branches": [
   {
    "id": "platforms",
@@ -3436,6 +3436,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 854
+    },
+    {
+     "t": "vidIQ's study of 38.2M long videos published 15 Aug to 5 Sep 2026 found the top 1% earned 54% of all first week views and the bottom half only 0.5%, so a few breakout songs will carry the channel and each week's best one deserves extra Shorts, Reels and a compilation slot.",
+     "src": "vidIQ Research, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 857
+    },
+    {
+     "t": "In the same vidIQ data the median long video got about 234 views in its first week, 70% got under 1,000 and only 8.5% reached 10,000, which gives Bro Bros a realistic first week benchmark: over 1,000 is above most of YouTube and 10,000 is top tenth.",
+     "src": "vidIQ Research, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 857
     }
    ]
   },
@@ -9141,6 +9155,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 845
+    },
+    {
+     "t": "Meshy's web changelog still has no November 2026 entry, so the text to motion and animation library we use is unchanged since July and our dance prompt rules stay valid.",
+     "src": "docs.meshy.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 857
     }
    ]
   },
@@ -17869,11 +17890,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-16 23:58",
-   "note": "Run 779 (rules and safety (India DPDP timeline, Ofcom children's codes)): India's DPDP child consent rules and staged deadlines and Ofcom's pressure on YouTube recommender feeds were already in the tree; Ofcom's October bulletin did not load; no new leaves. Total 2342."
+   "note": "Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-16 23:58",
@@ -18186,13 +18203,13 @@
   {
    "date": "2026-11-19 05:38",
    "note": "Run 856 (music craft (two new infant music studies)): Grammy kids nominees and newborn rhythm work were already in the tree. New: a PLOS ONE study (17 Nov 2026, 42 Nashville families) found parent singing at 6 to 12 months predicted more words at 18 and 24 months, more strongly than the general home music level; an eLife preprint (79 babies) found structured songs light up the brain from 3 months but babies only start moving more to real music at 12 months, mostly arms and upper body, and none moved on the beat. Total 2539."
+  },
+  {
+   "date": "2026-11-19 05:39",
+   "note": "Run 857 (visual craft (thumbnail, Blender and Meshy checks) plus a vidIQ first week views study): Thumbnail studies (vidIQ, Eden, 1of10), Blender 5.3 and Meshy's October changes were all already in the tree, and Meshy's changelog still shows no November entry. New from vidIQ's September study of 38.2M long videos: the top 1% took 54% of all first week views, the median video got about 234 first week views, 70% got under 1,000 and only 8.5% reached 10,000. Total 2542."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:37",
-   "total": 2046
-  },
   {
    "date": "2026-11-16 16:38",
    "total": 2048
@@ -19388,6 +19405,10 @@
   {
    "date": "2026-11-19 05:38",
    "total": 2539
+  },
+  {
+   "date": "2026-11-19 05:39",
+   "total": 2542
   }
  ],
  "next_week_ideas": [
