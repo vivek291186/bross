@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:42:35+05:30",
- "runs": 1392,
+ "updated": "2026-11-20T01:48:23+05:30",
+ "runs": 1393,
  "branches": [
   {
    "id": "platforms",
@@ -24023,6 +24023,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1390
+    },
+    {
+     "t": "Children copy numbered poses from Roblox's runway game 'Dress to Impress' in real life and call them by number ('pose 28' is a lean back with hands clasped behind), a habit that went viral with streamers and a TikTok sound mashup; some of the game's poses are seen as unsuitable for school, so Bro Bros should invent its own numbered pose set rather than copy the game's.",
+     "src": "TODAY via AOL, Nov 2024",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1393
+    },
+    {
+     "t": "Partner foot tap challenges, where a simple tap pattern gets a little harder each round, spread through UK primary classrooms after teachers performed them in assemblies and pupils practised at break time, so a 'copy my feet, now faster' partner song travels well into schools.",
+     "src": "Tes, Nov 2019",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1393
     }
    ]
   }
@@ -24049,12 +24063,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 20:39",
-   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
-  },
-  {
    "date": "2026-11-19 20:41",
-   "note": "Run 1314 (visual craft (preschool series design choices)): Xilam's Piggy Builders (52 by 11 minute preschool CG series) was made mainly in Blender from modelling to compositing, with sturdy stop motion style builds and a clumsy, funny wolf instead of a scary villain; Jelly, Ben and Pogo uses gradient colour voids to spotlight reactions, a pastel plus earth tone palette and rigs built for fast outfit swaps. Total 3297."
+   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 20:42",
@@ -24367,6 +24377,10 @@
   {
    "date": "2026-11-20 01:42",
    "note": "Run 1392 (YouTube main (small nursery channels; own results skipped, no new Metricool data)): Metricool still has no 19 Nov Reels and the YouTube feed ends 16 Nov. FunForKidsTV grows with only 9 uploads a month thanks to 'problem in the title' remixes, and tests a 'which shape is the best dancer?' guessing Short; its views fell from August to October without Christmas content. Chrome not available. Total 3422."
+  },
+  {
+   "date": "2026-11-20 01:48",
+   "note": "Run 1393 (TRENDS (kid playground and game dances)): Fortnite and Roblox emotes this month were already in the tree; new were children calling out numbered Roblox runway poses in real life and partner foot tap challenges that spread through classrooms, both older but evergreen. Added a 'Call the pose number' freeze dance to the trend bank and dropped the fading cozy catwalk. A South African teacher dance page could not be read. Chrome not available. Total 3424."
   }
  ],
  "history": [
@@ -25209,6 +25223,10 @@
   {
    "date": "2026-11-20 01:42",
    "total": 3422
+  },
+  {
+   "date": "2026-11-20 01:48",
+   "total": 3424
   }
  ],
  "next_week_ideas": [
@@ -25271,6 +25289,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Call the pose number",
+   "where": "Roblox runway game culture, TikTok and school playgrounds (evergreen with Roblox players)",
+   "status": "evergreen",
+   "use": "A freeze dance Short with our own original song: the Bros dance, the music stops and a big number appears (1, 2 or 3), and both Bros snap into that pose: 1 = arms up in a star, 2 = hands on hips with a proud chin up, 3 = one hand waving and one hand on the heart. Repeat with numbers in a new order each chorus so kids shout the number and copy. Standing, in place, no floor moves."
+  },
+  {
    "name": "Helper stuck in the TV",
    "where": "YouTube on the TV screen and Shorts, 1 to 24 Dec (seasonal, returns every year)",
    "status": "seasonal",
@@ -25299,12 +25323,6 @@
    "where": "Instagram Reels (start of holiday season, week of 17 Nov 2026)",
    "status": "seasonal",
    "use": "Open on the Bros' dark living room at night, Little Bro holds the plug, count 3, 2, 1 on screen and on the drop of our own Christmas song the tree, window and garden lights switch on in a wave; both Bros then dance in front of the tree. Meshy prompt: standing in place, both arms shoot up in surprise, two hops on the spot, then sway side to side with hands waving above the head."
-  },
-  {
-   "name": "Cozy catwalk",
-   "where": "TikTok (runway recreations, Nov 2026)",
-   "status": "rising",
-   "use": "The Bros and friends walk a living room catwalk in their own winter jumpers to our original song: walk forward four steps, stop, hands on hips, a quarter turn, a cheeky wave, walk back. Fits a Christmas jumper Short in early December."
   },
   {
    "name": "Dancing unprompted",
