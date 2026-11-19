@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T16:07:34+05:30",
- "runs": 1210,
+ "updated": "2026-11-19T16:08:01+05:30",
+ "runs": 1211,
  "branches": [
   {
    "id": "platforms",
@@ -17156,6 +17156,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1187
+    },
+    {
+     "t": "California's Digital Age Assurance Act (AB 1043) takes effect on 1 Jan 2027: device makers must ask a user's age when a device account is set up (a parent enters it for under 18s) and send apps an age bracket signal (under 13, 13 to 15, 16 to 17, 18+), and apps must request that signal and treat it as actual knowledge of age, so from 2027 apps like YouTube and Instagram will know far more reliably which Californian viewers are children, pushing them into child settings where personalised ads and comments are off.",
+     "src": "TrueVault, Oct 2025 (updated 2026)",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1211
     }
    ]
   },
@@ -22195,11 +22202,7 @@
  "log": [
   {
    "date": "2026-11-19 14:59",
-   "note": "Earlier: older log entries summarised; runs up to Run 1131 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:59",
-   "note": "Run 1132 (TRENDS (Pinterest weekly and film musical dance searches)): Nothing new for this week: no Pinterest report after 13 Nov yet and film musical dance results were from 2024 and 2025. No leaves added. Total 3090."
+   "note": "Earlier: older log entries summarised; runs up to Run 1132 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:59",
@@ -22512,13 +22515,13 @@
   {
    "date": "2026-11-19 16:07",
    "note": "Run 1210 (TRENDS (kids Shorts challenge searches)): Nothing new: the search returned older branded video charts and AIR case studies already in the tree, no new family challenge this week. No leaves added. Total 3157."
+  },
+  {
+   "date": "2026-11-19 16:08",
+   "note": "Run 1211 (rules (California's device age signal law from 2027)): New: California's Digital Age Assurance Act starts on 1 Jan 2027: phones and computers will pass an age bracket (under 13, 13 to 15, 16 to 17, adult) to every app, and apps like YouTube and Instagram must then treat the user's age as known, so more Californian children will be routed into kid settings, and made for kids rules will apply more often to who actually watches us. Total 3158."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 07:48",
-   "total": 2678
-  },
   {
    "date": "2026-11-19 07:48",
    "total": 2681
@@ -23714,6 +23717,10 @@
   {
    "date": "2026-11-19 16:07",
    "total": 3157
+  },
+  {
+   "date": "2026-11-19 16:08",
+   "total": 3158
   }
  ],
  "next_week_ideas": [
