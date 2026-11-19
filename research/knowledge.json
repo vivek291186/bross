@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T22:42:46+05:30",
- "runs": 1355,
+ "updated": "2026-11-19T23:35:42+05:30",
+ "runs": 1356,
  "branches": [
   {
    "id": "platforms",
@@ -23589,6 +23589,34 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1348
+    },
+    {
+     "t": "A family friendly TikTok format in early November 2026 has people calling their mum and asking, completely deadpan, whether she was in the room when they were born, then filming her confused laugh; the payoff is the reaction to an obviously silly question.",
+     "src": "bandt.com.au, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1356
+    },
+    {
+     "t": "Clips of partners breaking into dance unprompted, usually in the kitchen, were a top TikTok trend in early November 2026; the appeal is a surprise dance in an ordinary moment.",
+     "src": "bandt.com.au, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1356
+    },
+    {
+     "t": "A 'featuring' cameo format spread in November 2026: several people lip sync a line in turn and the final cut reveals the special guest the song is named after, which works as a surprise ending.",
+     "src": "bandt.com.au, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1356
+    },
+    {
+     "t": "Runway walk recreations (poses, a turn and a stop at the end of a catwalk) ran on TikTok in November 2026, often played for laughs; it is an easy, standing format with no floor moves.",
+     "src": "bandt.com.au, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1356
     }
    ]
   }
@@ -23616,11 +23644,7 @@
  "log": [
   {
    "date": "2026-11-19 19:04",
-   "note": "Earlier: older log entries summarised (runs up to 1276); details are in git history."
-  },
-  {
-   "date": "2026-11-19 19:04",
-   "note": "Run 1277 (rules (YouTube AI and inauthentic content recheck)): Nothing new: YouTube's three non monetisable categories (mass produced templates, distress bait, AI personas on sensitive topics), the Feb 2026 dinosaur and kaiju animator demonetisations and faceless channel reports were already in the tree. No leaves added. Total 3266."
+   "note": "Earlier: older log entries summarised (runs up to 1277); details are in git history."
   },
   {
    "date": "2026-11-19 19:05",
@@ -23933,13 +23957,13 @@
   {
    "date": "2026-11-19 22:42",
    "note": "Run 1355 (rules and safety recheck): Nothing new for us: KOSA, Kazakhstan's planned limits and the Australian ban were already in the tree; a Senate Roblox safety hearing page could not be opened. Metricool YouTube data still ends 16 Nov (2,150 subscribers), so the own results round was skipped. No leaves added. Chrome not available. Total 3360."
+  },
+  {
+   "date": "2026-11-19 23:35",
+   "note": "Run 1356 (TRENDS (B&T November list)): Most items were already covered (soft launch, same spot, camera shy, ILLIT pass the hook, loading reveal, Great Meme Reset is not for kids). Added the deadpan 'were you in the room' call, unprompted kitchen dancing, the 'featuring' cameo reveal and runway walks; two trend bank entries. Chrome not available. Total 3364."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:43",
-   "total": 2984
-  },
   {
    "date": "2026-11-19 12:44",
    "total": 2986
@@ -25135,6 +25159,10 @@
   {
    "date": "2026-11-19 22:42",
    "total": 3360
+  },
+  {
+   "date": "2026-11-19 23:35",
+   "total": 3364
   }
  ],
  "next_week_ideas": [
@@ -25196,6 +25224,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Cozy catwalk",
+   "where": "TikTok (runway recreations, Nov 2026)",
+   "status": "rising",
+   "use": "The Bros and friends walk a living room catwalk in their own winter jumpers to our original song: walk forward four steps, stop, hands on hips, a quarter turn, a cheeky wave, walk back. Fits a Christmas jumper Short in early December."
+  },
+  {
+   "name": "Dancing unprompted",
+   "where": "TikTok and Reels (Nov 2026, kitchen dance clips)",
+   "status": "rising",
+   "use": "A 10 second Reel: Big Bro is pouring cereal in our 3D kitchen, our own song starts on a radio, and he breaks into a dance without noticing Little Bro filming from the doorway; Little Bro then joins in. Meshy prompt: standing in place, shoulder shimmy, two side steps right and left, a spin on the spot, arms up pose. Caption 'When the song comes on'."
+  },
   {
    "name": "Costume loading bar",
    "where": "TikTok, Reels and Shorts (Nov 2026, into December costumes)",
@@ -25303,18 +25343,6 @@
    "where": "YouTube Shorts breakout (11 to 18 Nov 2026)",
    "status": "rising",
    "use": "A 20 second Short: the little brother walks into a snowy forest, a friendly animated fox peeks out, he waves, the fox waves; on our chorus they mirror each other: paws up, hop in place, wiggle tail (hips), spin slowly in place, then a high five. Next episodes: an owl (flap arms), a reindeer (antler hands on head). Our own song, no real babies or animals."
-  },
-  {
-   "name": "Called step party dance",
-   "where": "Shorts, Reels, YouTube long form",
-   "status": "seasonal",
-   "use": "For Christmas and New Year parties: an original song where the brothers sing each instruction and do it at once: 'step to the left' (one step left), 'step to the right', 'clap clap', 'turn around' (a slow turn in place), 'jingle hands' (shake hands high), 'freeze!' Standing, no floor moves. Post the full song by mid December and a 30 second Short of the chorus."
-  },
-  {
-   "name": "Brother dance bump",
-   "where": "Instagram Reels (17 to 25 Nov 2026)",
-   "status": "peak",
-   "use": "A 10 second Reel on our friendship song: the brothers stand side by side, step together twice, bump hips on the beat, both point at the camera, then high five; repeat once with a little friend joining. Standing, in place, no floor moves."
   }
  ],
  "posting_plan": {
