@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:43:28+05:30",
- "runs": 1369,
+ "updated": "2026-11-19T23:43:59+05:30",
+ "runs": 1370,
  "branches": [
   {
    "id": "platforms",
@@ -23749,11 +23749,7 @@
  "log": [
   {
    "date": "2026-11-19 19:42",
-   "note": "Earlier: older log entries summarised (runs up to 1290); details are in git history."
-  },
-  {
-   "date": "2026-11-19 19:42",
-   "note": "Run 1291 (TRENDS (TikTok sounds and Shorts charts, 19 Nov)): Nothing new: Tokchart's 19 Nov fastest growing list (a soft acoustic cover at about 130K new videos a day, then creators' original audios and a Brazilian montagem) and this week's Shorts charts were already in the tree. No leaves added. Total 3272."
+   "note": "Earlier: older log entries summarised (runs up to 1291); details are in git history."
   },
   {
    "date": "2026-11-19 19:43",
@@ -24066,13 +24062,13 @@
   {
    "date": "2026-11-19 23:43",
    "note": "Run 1369 (YouTube algorithm and Studio tools (13 Nov Studio update)): Added YouTube Studio's 13 Nov update: Analytics is now Insights with written summaries, Trends became Research with outlier scores and a 'Watched by my viewers' filter, and the AI card skips made for kids channels. YouTube Kids Shorts timer news was already in the tree. Chrome not available. Total 3379."
+  },
+  {
+   "date": "2026-11-19 23:43",
+   "note": "Run 1370 (Shorts and Reels recheck (Instagram news)): Nothing new: Instagram's Apple TV app, the end of linked Reels series on 28 Oct, Edits on Mac, 'Use as reference' and Trial Reels scheduling were all already in the tree. No leaves added. Chrome not available. Total 3379."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:52",
-   "total": 2996
-  },
   {
    "date": "2026-11-19 12:53",
    "total": 2996
@@ -25264,6 +25260,10 @@
   {
    "date": "2026-11-19 23:42",
    "total": 3376
+  },
+  {
+   "date": "2026-11-19 23:43",
+   "total": 3379
   },
   {
    "date": "2026-11-19 23:43",
