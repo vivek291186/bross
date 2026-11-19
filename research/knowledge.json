@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:43:05+05:30",
- "runs": 905,
+ "updated": "2026-11-19T07:43:52+05:30",
+ "runs": 906,
  "branches": [
   {
    "id": "platforms",
@@ -12578,6 +12578,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 897
+    },
+    {
+     "t": "Brazil's TIC Kids Online 2025 survey (2,370 children aged 9 to 17) found 92% online (about 24 million), 28% online by age 6, and YouTube the standout platform for 9 to 12 year olds while WhatsApp, Instagram and TikTok take over from 13, so Brazil's YouTube audience for songs like ours is mostly under 12 and a Portuguese dub targets it well.",
+     "src": "NIC.br TIC Kids Online, May 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 906
+    },
+    {
+     "t": "In the same Brazil survey phone ownership among 9 to 10 year olds fell to 55% from 67% a year earlier and internet access at school fell to 37% from 51%, while 60% use the internet on a TV daily, so Brazilian children increasingly watch on the family TV and shared devices, which favours long compilations over phone only Shorts.",
+     "src": "NIC.br TIC Kids Online, May 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 906
+    },
+    {
+     "t": "Precise TV's Sep 2025 US kids survey (about 2,000 children aged 2 to 12) put YouTube reach at 78% (74% of 2 to 5s, 82% of 6 to 9s) against 53% for YouTube Shorts, with 62% of 2 to 5 year olds watching YouTube on a TV and 49% of children watching with a parent, so in the US our long videos on the TV reach more small children than Shorts do.",
+     "src": "Net Influencer (Precise TV), Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 906
     }
    ]
   },
@@ -18712,10 +18733,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 02:51",
-   "note": "Run 827 (our own results (Metricool YouTube and Instagram to 17 Nov)): Metricool now has YouTube to 15 Nov and Instagram to 17 Nov. YouTube averaged about 1,080 views a day in 11 to 15 Nov against about 730 in 4 to 10 Nov (+49%), with 15 Nov at 1,301 views from only 2 uploads, but subscribers only moved from 2,130 to 2,150. Instagram Reels fell from about 80 views each (4 to 8 Nov) to about 30 (10 to 17 Nov) and the account still shows 1 follower. Total 2430."
-  },
-  {
    "date": "2026-11-19 02:52",
    "note": "Run 828 (YouTube main and YouTube Kids (mid size song channels on vidIQ)): Tubefilter's 15 Nov chart is still not out and no new YouTube Kids app change turned up. New from vidIQ: YUM YUM Kids Songs (US) built 590M views on one repeatable 'lost wheel' vehicle concept and had its best 2026 month in October (35.8M) with no uploads since 30 Sep; Farmees (9.87M) has stalled with new uploads at only 4K to 28K views. Total 2433."
   },
@@ -19026,6 +19043,10 @@
   {
    "date": "2026-11-19 07:43",
    "note": "Run 905 (competitor deep dive (visual craft skipped, nothing new; Dave and Ava and Mother Goose Club)): Visual craft sources held nothing new, so the round went to competitors. Dave and Ava (15.9M, 3D) still pulls about 1.7M views a day, peaks in May and August, posts about 20 videos a month and just released a 'Part 2' animal version of a classic bus song; Mother Goose Club (9.89M, live action) fell about 30% in monthly views in a year while posting only 6 videos a month. Total 2659."
+  },
+  {
+   "date": "2026-11-19 07:43",
+   "note": "Run 906 (global markets (Brazil TIC Kids Online 2025, Precise US kids report)): Brazil's TIC Kids Online 2025 (2,370 children) shows 92% of 9 to 17 year olds online, 28% online by age 6, YouTube the leading platform at ages 9 to 12, and fewer 9 to 10 year olds owning phones (55%, down from 67%), so Brazilian kids watch on shared family screens; Precise's US kids survey puts YouTube at 78% reach of 2 to 12s and Shorts at 53%. Total 2662."
   }
  ],
  "history": [
@@ -19984,6 +20005,10 @@
   {
    "date": "2026-11-19 07:43",
    "total": 2659
+  },
+  {
+   "date": "2026-11-19 07:43",
+   "total": 2662
   }
  ],
  "next_week_ideas": [
