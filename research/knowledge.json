@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:36:34+05:30",
- "runs": 1248,
+ "updated": "2026-11-19T18:37:53+05:30",
+ "runs": 1249,
  "branches": [
   {
    "id": "platforms",
@@ -4381,6 +4381,41 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1244
+    },
+    {
+     "t": "YouTube's Todd Beaupre (Creator Insider, Sep 2026) said the desktop homepage with bigger thumbnails and fewer videos per row raised engagement for both long form and Shorts, because too many choices make viewers pick nothing ('often less is more'); our thumbnails are shown large on desktop and TV, so one clear scene and two big faces read better than busy collages.",
+     "src": "searchenginejournal.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1249
+    },
+    {
+     "t": "Beaupre also said YouTube runs hundreds of recommendation experiments at any moment, so a sudden one day drop or spike on a Bro Bros upload is often an experiment, not a penalty; we should judge songs on 28 day results, not single days.",
+     "src": "searchenginejournal.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1249
+    },
+    {
+     "t": "YouTube's 'Get Feedback' button for Shorts (expanding from 9 Sep 2026) checks a draft's hook strength, pacing and visuals in the upload screen and suggests fixes without editing; it is only for US creators over 18 on the phone app, so from India we cannot rely on it and must keep our own hook checklist.",
+     "src": "searchenginejournal.com, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1249
+    },
+    {
+     "t": "Since 24 Aug 2026 paid ad views, including bumper and non skippable ads, also add to a video's public view count, so if we ever promote a Bro Bros song with ads its public count will rise without matching engaged views; engaged views and watch hours are what YouTube pays on.",
+     "src": "newscaststudio.com, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1249
+    },
+    {
+     "t": "A YouTube Labs experiment called VibeCheck acts as an AI coach for a Short's pacing, hook and lighting; it is separate from Get Feedback and only open to test users, a sign YouTube now grades hooks and pacing automatically, which supports our rule of a clear hook in the first second.",
+     "src": "searchenginejournal.com, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1249
     }
    ]
   },
@@ -22584,10 +22619,6 @@
   },
   {
    "date": "2026-11-19 15:51",
-   "note": "Run 1170 (visual craft (Meshy updates rechecked) and song idea refresh): Nothing new on Meshy: the lowpoly retirement, meshy-7 ending for new models on 31 Dec and the unchanged Text to Motion were already in the tree. Swapped one song idea: 'Slow, Fast, Super Fast! (Conductor Bro Tempo Game)' replaces the second New Year song (pots and pans), since the 2022 toddler tempo study and PBS self regulation games back it and New Year is still covered by the early countdown song. Total 3129."
-  },
-  {
-   "date": "2026-11-19 15:51",
    "note": "Run 1171 (TRENDS (Virlo and Buffer weekly lists rechecked)): Nothing new: Virlo's list is still from 29 Oct (rock paper scissors food challenge, paparazzi bow, costume loading) and already recorded, and no newer Buffer list was found. No leaves added. Total 3129."
   },
   {
@@ -22897,16 +22928,16 @@
   {
    "date": "2026-11-19 18:36",
    "note": "Run 1248 (TRENDS (weekly lists recheck, no Chrome)): Small: SocialPilot's 17 to 25 Nov TikTok list, Later's 13 Nov Reels roundup and B&T's November list were all already in the tree; added a fake tutorial then surprise dance shape, a freeze then snap cut 'loading' outfit reveal and a caution on animator remake trends. Total 3212."
+  },
+  {
+   "date": "2026-11-19 18:37",
+   "note": "Run 1249 (YouTube algorithm (SEJ product news)): New: Beaupre says bigger desktop thumbnails with fewer choices raised long and short form engagement and YouTube runs hundreds of tests at once; the Shorts Get Feedback tool (hook, pacing, visuals) is US over 18 only; paid and bumper ad views now add to public counts. Total 3217."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:43",
-   "total": 2777
   },
   {
    "date": "2026-11-19 09:44",
@@ -24099,6 +24130,10 @@
   {
    "date": "2026-11-19 18:36",
    "total": 3212
+  },
+  {
+   "date": "2026-11-19 18:37",
+   "total": 3217
   }
  ],
  "next_week_ideas": [
