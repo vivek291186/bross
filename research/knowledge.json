@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:36:23+05:30",
- "runs": 983,
+ "updated": "2026-11-19T10:37:50+05:30",
+ "runs": 984,
  "branches": [
   {
    "id": "platforms",
@@ -20047,6 +20047,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 978
+    },
+    {
+     "t": "'Jingle baskets' are a mum led family tradition that grew out of Halloween 'boo baskets': a red and green basket of winter socks, crafts, games and treats handed to kids on the day after US Thanksgiving, on 1 December or on the first day off school, and filmed as a surprise reveal.",
+     "src": "Scary Mommy, Nov 2023 (still a yearly trend)",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 984
+    },
+    {
+     "t": "Pet reactions to Christmas lights return every year from mid November (last year's viral clips were posted on 16 and 19 Nov 2025): wide eyes, a pause, then happy excitement when the lights switch on, a simple wonder format that suits kids.",
+     "src": "Upworthy, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 984
+    },
+    {
+     "t": "On vidIQ's hourly US Film and Animation trending list (17 Nov 2026) the only entry was a film trailer, so kids songs almost never reach trending charts; their discovery comes from Home, Suggested and the YouTube Kids app instead.",
+     "src": "vidIQ YouTube trends, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 984
     }
    ]
   }
@@ -20074,11 +20095,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 904 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:43",
-   "note": "Run 905 (competitor deep dive (visual craft skipped, nothing new; Dave and Ava and Mother Goose Club)): Visual craft sources held nothing new, so the round went to competitors. Dave and Ava (15.9M, 3D) still pulls about 1.7M views a day, peaks in May and August, posts about 20 videos a month and just released a 'Part 2' animal version of a classic bus song; Mother Goose Club (9.89M, live action) fell about 30% in monthly views in a year while posting only 6 videos a month. Total 2659."
+   "note": "Earlier runs summarised: all rounds through Run 905 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:43",
@@ -20391,6 +20408,10 @@
   {
    "date": "2026-11-19 10:36",
    "note": "Run 983 (YouTube main and Kids (Miliki Family, Mike and Mia; own data unchanged)): Metricool still has no YouTube data after 16 Nov and no new Reels since 18 Nov, so own results were skipped. Miliki Family (2.59M) grows on 'afraid of' songs: the dark (381M), a shot at the doctor (36M) and the dentist (33M), and doubled monthly views since June with only about 14 uploads a month, while Mike and Mia (1.66M) has gained no subscribers for six months. New uploads on both start under 1K views in their first 11 hours. Total 2854."
+  },
+  {
+   "date": "2026-11-19 10:37",
+   "note": "Run 984 (TRENDS (holiday family formats: jingle baskets, first Christmas lights reactions)): This week's TikTok and Reels lists (SocialPilot 17 Nov, TokChart 18 Nov) were already in the tree. New seasonal family formats for the next weeks: the 'jingle basket' surprise (a winter treat basket given on 1 Dec or the first day off school) and 'first Christmas lights' reaction clips, which last year started around 16 Nov. Both added to the trend bank as seasonal. Total 2857."
   }
  ],
  "history": [
@@ -20913,6 +20934,10 @@
   {
    "date": "2026-11-19 10:36",
    "total": 2854
+  },
+  {
+   "date": "2026-11-19 10:37",
+   "total": 2857
   }
  ],
  "next_week_ideas": [
@@ -20993,6 +21018,12 @@
    "use": "Calm Reel with our own soft winter song: four or five slow, steady shots of the Bros' toy workshop (a knitted hat, a wooden train, a jar of glowing lights, a gingerbread cookie) ending on Little Bro holding up one handmade gift and smiling. No fast cuts. Meshy prompt: a boy stands still, slowly lifts a small box up to chest height with both hands, smiles and gently sways side to side."
   },
   {
+   "name": "First lights wonder",
+   "where": "TikTok, Reels, Shorts (seasonal, mid Nov to Dec)",
+   "status": "seasonal",
+   "use": "Bro Bros' puppy and the brothers stand in a dark room, count 3, 2, 1 and the tree lights switch on; they freeze with wide eyes, then dance to our own lights song. Meshy step: standing in place, look up and point up with one arm, then sway side to side and jump with both arms up on the beat."
+  },
+  {
    "name": "Fruit turkey build",
    "where": "Instagram Reels (Thanksgiving turkey boards, week of 13 Nov 2026)",
    "status": "seasonal",
@@ -21003,6 +21034,12 @@
    "where": "YouTube Shorts (toddler colour and fruit sorting game Short at 3.1B, all time top 10, still recommended Nov 2026)",
    "status": "evergreen",
    "use": "25 second Short with our own counting song: fruits drop one per beat and Little Bro puts each into the bowl of the same colour (red apple to red bowl, yellow banana to yellow bowl), pausing one beat so kids can shout the colour first. Meshy prompt: a boy stands in place, reaches to the right with one hand, then moves the hand to the left and places it down, then claps once."
+  },
+  {
+   "name": "Jingle basket reveal",
+   "where": "TikTok and Reels family accounts (seasonal, 27 Nov to 1 Dec)",
+   "status": "seasonal",
+   "use": "A basket appears with a jingle; the brothers pull out mittens, a scarf, a drum and a book one by one and the viewer counts them (1 to 5) to our own counting song. No brands or candy logos. Meshy step: standing, reach forward with both hands, lift arms up in surprise, clap twice."
   },
   {
    "name": "Avatar emote dance circle",
@@ -21081,18 +21118,6 @@
    "where": "TikTok family accounts (kind elf tradition, returns every December)",
    "status": "seasonal",
    "use": "A 1 to 24 December Shorts series: a tiny original Bro Bros elf friend moves into a little house on the shelf on 1 December, and every day the Bros wake up to one small kind surprise (a snow drawing, a jingle bell, a note saying 'help a friend today'), then sing a 10 second chorus of our own elf song. Never spying, never a naughty list. Meshy prompt: standing, tiptoe in place with hands together, peek left and right, then a happy jump with arms up."
-  },
-  {
-   "name": "Season starts now reveal",
-   "where": "TikTok and Reels ('It's time' switch over and 'Christmas music is allowed now', mid Nov 2026)",
-   "status": "peak",
-   "use": "Short: a calendar flips to 1 December, Big Bro whispers 'it's time' in our own song's intro, claps once and the whole room bursts into lights and a snow globe swirl as the chorus lands. Our own music only. Meshy prompt: standing, look at the camera, one big clap overhead, then arms spread wide in a ta da pose and a small bounce."
-  },
-  {
-   "name": "Chores ballet",
-   "where": "Instagram Reels (Blue Danube waltz sound, week of 17 Nov 2026)",
-   "status": "rising",
-   "use": "Our own Suno waltz arrangement of the public domain Blue Danube melody (never someone else's recording). The Bros tidy the playroom like ballet dancers: standing, rise on tiptoes, arms in a round circle overhead, slow turn in place, gentle bow while placing a toy in the box. Meshy prompt: a boy stands, rises onto tiptoes with arms curved overhead, turns slowly in place, then bows gracefully, no floor moves."
   }
  ],
  "posting_plan": {
