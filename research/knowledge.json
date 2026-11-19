@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:56:57+05:30",
- "runs": 1094,
+ "updated": "2026-11-19T13:57:33+05:30",
+ "runs": 1095,
  "branches": [
   {
    "id": "platforms",
@@ -2225,6 +2225,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1083
+    },
+    {
+     "t": "One UK agency's 68 Reels (Dec 2024 to Jun 2026) reached the most viewers at 1 to 1.5 minutes (about 463 views against a 263 average) and the fewest at 3 to 4 minutes (about 125 to 142), with a moderate negative link between length and views, while engagement was highest on the few over 4 minutes, so full length Bro Bros songs on Reels should be cut to about a minute for reach.",
+     "src": "The SEO Works, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1095
+    },
+    {
+     "t": "Practical completion rate floors used by clip editors in Nov 2026 are above 65% for clips under 30 seconds, above 50% for 30 to 60 seconds and above 40% for 60 to 90 seconds; a Bro Bros Short or Reel falling below its band's floor should be recut shorter rather than reposted unchanged.",
+     "src": "AutoClip, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1095
     }
    ]
   },
@@ -21439,11 +21453,7 @@
  "log": [
   {
    "date": "2026-11-19 11:02",
-   "note": "Earlier: older log entries summarised; runs up to Run 1015 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:02",
-   "note": "Run 1016 (competitor deep dive (Lalafun German and Indonesian channels)): Lalafun's local language channels perform very differently: the German one (2.76M subscribers, about 203M views in 28 days, 2,903 videos) is a major channel in its own right, while the Indonesian one (1.52M) gets only about 5M to 14M views a month. Their German hits are bedtime and baby versions of public domain rhymes (Ten in the Bed medley 254M). Total 2911."
+   "note": "Earlier: older log entries summarised; runs up to Run 1016 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:03",
@@ -21756,6 +21766,10 @@
   {
    "date": "2026-11-19 13:56",
    "note": "Run 1094 (YouTube algorithm (supervised accounts for preteens in the Middle East and Turkiye)): YouTube's supervised child accounts reached the UAE, Saudi Arabia, Egypt and nine more MENA countries from 2 Jul 2026: parents pick Explore (learning, crafts, dance), Explore More (adds gaming and live) or Most of YouTube, with autoplay off and a Shorts timer that can be set to zero. A dance and learning label keeps Bro Bros inside the strictest level. Added a 'Player Two' song idea from yesterday's games survey. Total 3049."
+  },
+  {
+   "date": "2026-11-19 13:57",
+   "note": "Run 1095 (Shorts and Reels (length and completion data rechecked)): Adobe's creator survey and the main Reels length studies were already in the tree. New but small: one account's 68 Reels reached most people at 1 to 1.5 minutes and fewest at 3 to 4 minutes (though long ones had higher engagement), and practical completion floors by length (over 65% under 30 seconds, 50% at 30 to 60, 40% at 60 to 90). Total 3051."
   }
  ],
  "history": [
@@ -22722,6 +22736,10 @@
   {
    "date": "2026-11-19 13:56",
    "total": 3049
+  },
+  {
+   "date": "2026-11-19 13:57",
+   "total": 3051
   }
  ],
  "next_week_ideas": [
