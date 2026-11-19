@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:37:07+05:30",
- "runs": 1387,
+ "updated": "2026-11-20T01:38:35+05:30",
+ "runs": 1388,
  "branches": [
   {
    "id": "platforms",
@@ -16267,6 +16267,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1384
+    },
+    {
+     "t": "In Argentina (Labi survey of 250 parents of 6 to 9 year olds, late 2024) the TV is still the main screen (72%) ahead of phones (46%); 65% of these children use YouTube and 24% TikTok, and their favourite characters are a local public TV educational hero (Zamba) next to Peppa Pig, Bluey and Sonic, with Spanish speaking family creators (Alejo Igoa, Diki Duki Dariel, Fede Vigevani) beside MrBeast.",
+     "src": "La Capital (Labi survey), Nov 2024",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1388
+    },
+    {
+     "t": "Colombia's communications regulator (CRC) found YouTube recalled by 76% of children and teens and 63% of minors watching without an adult present; phones are in 83% of homes and personally used by 61% of children, and about 3 in 10 children aged 6 to 9 already use TikTok, Instagram or Facebook, so Colombian kids often meet Bro Bros alone on a phone and the content must be safe without a parent filter.",
+     "src": "Xataka Colombia (CRC study), Feb 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1388
+    },
+    {
+     "t": "Kaspersky Safe Kids data for Saudi Arabia put YouTube at about 38% of children's Android app time, ahead of Roblox (14%) and TikTok (11%), the highest YouTube share in its regional cuts, with Baby Shark the most searched song; the Gulf is a YouTube first market for an Arabic dub.",
+     "src": "Eye of Riyadh (Kaspersky), 2023 data",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1388
     }
    ]
   },
@@ -23937,12 +23958,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:50",
-   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
-  },
-  {
    "date": "2026-11-19 19:51",
-   "note": "Run 1309 (TRENDS (NewEngen 16 Nov list and parent trends)): Nothing new: NewEngen's 16 Nov TikTok list (chipmunks trio dance, Dame Hombro shoulder bounce, go go go, numbered adventure stories) and the 12 Nov parent trend about kids copying tablet videos were already in the tree. No leaves added. Total 3281."
+   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 19:51",
@@ -24255,6 +24272,10 @@
   {
    "date": "2026-11-20 01:37",
    "note": "Run 1387 (TRENDS (week of 16 to 22 Nov, recheck)): Most Reels and TikTok formats this week were already in the tree; new were the 'Talk To Me Doja' copy the clip dance (from 7 Nov), how fast rising sounds double, Pantone's calm and joyful 2027 colour forecast and that Wrapped 2026 is still unconfirmed. Added a side by side copy dance to the trend bank and dropped the fading hand slap duo. Chrome not available. Total 3406."
+  },
+  {
+   "date": "2026-11-20 01:38",
+   "note": "Run 1388 (global markets (Argentina, Colombia, Saudi Arabia)): Argentine 6 to 9 year olds still watch most on the family TV, love a local educational hero next to Peppa and Bluey and follow Spanish speaking family creators; Colombia's regulator finds 63% of minors watch without an adult; Saudi children spend about 38% of Android app time on YouTube. Bangladesh study page could not be read. Chrome not available. Total 3409."
   }
  ],
  "history": [
@@ -25077,6 +25098,10 @@
   {
    "date": "2026-11-20 01:37",
    "total": 3406
+  },
+  {
+   "date": "2026-11-20 01:38",
+   "total": 3409
   }
  ],
  "next_week_ideas": [
