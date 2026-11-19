@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:51:56+05:30",
- "runs": 1115,
+ "updated": "2026-11-19T14:52:36+05:30",
+ "runs": 1116,
  "branches": [
   {
    "id": "platforms",
@@ -7629,6 +7629,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1113
+    },
+    {
+     "t": "On vidIQ's all time most viewed list (17 Nov 2026) about 13 of the top 40 channels are kids or family channels: CoComelon is second overall (about 230B views), followed by Kids Diana Show (126.8B), Vlad and Niki (124.3B), Like Nastya (123.8B) and Toys and Colors (123.4B), so kids content is roughly a third of YouTube's all time giants.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1116
+    },
+    {
+     "t": "Only three pure song brands are in that all time top 40 (CoComelon, El Reino Infantil 76.3B and Super Simple Songs 65.1B, plus Plim Plim 62.4B as a song and show hybrid), while newer family Shorts channels (an Indian child Shorts channel at 124.9B, Sierra and Rhia 108.8B, Cadel and Mia 83.8B, J House jr. 63.4B) climbed past most of them in a few years on Shorts volume.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1116
     }
    ]
   },
@@ -21684,11 +21698,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1036 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:53",
-   "note": "Run 1037 (visual craft (same language subtitles and reading)): Kenya's free kids channel Akili TV runs a weekday 'Read Along Hour' with same language subtitles plus an on screen box of words read and tricky spellings, part of a fast growing push to use subtitles for reading. A UK Nuffield project (2023 to 2025, 132 children in a six week trial) tested whether subtitles on children's TV improve reading. Total 2959."
+   "note": "Earlier: older log entries summarised; runs up to Run 1037 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:53",
@@ -22001,6 +22011,10 @@
   {
    "date": "2026-11-19 14:51",
    "note": "Run 1115 (rules (EU Kids Act and Indonesia PP Tunas rechecked)): Nothing new: the 10 Nov EU Commission push for the Kids Act (no accounts under 13, one hour mini accounts at 13 and 14, consultation to 26 Nov) and Indonesia's under 16 YouTube account rule were already in the tree. No leaves added. Total 3084."
+  },
+  {
+   "date": "2026-11-19 14:52",
+   "note": "Run 1116 (YouTube main and Kids (vidIQ all time most viewed channels, 17 Nov)): New: kids and family channels hold about 13 of the 40 most viewed channels of all time (CoComelon second at about 230B), and family Shorts channels from India and the US (Anaya Kandhal 124.9B, Sierra and Rhia 108.8B, J House jr. 63.4B) now sit beside the old song brands; the 15 Nov Tubefilter week was already in the tree. Total 3086."
   }
  ],
  "history": [
@@ -23051,6 +23065,10 @@
   {
    "date": "2026-11-19 14:51",
    "total": 3084
+  },
+  {
+   "date": "2026-11-19 14:52",
+   "total": 3086
   }
  ],
  "next_week_ideas": [
