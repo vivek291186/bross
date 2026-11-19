@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:47:51+05:30",
- "runs": 1110,
+ "updated": "2026-11-19T14:48:57+05:30",
+ "runs": 1111,
  "branches": [
   {
    "id": "platforms",
@@ -2281,6 +2281,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1107
+    },
+    {
+     "t": "76 of the 100 most viewed YouTube Shorts of all time carry the made for kids flag (checked 18 Nov 2026), and four of the top ten are simple learning or manners clips (counting, a colour game, colour and fruit sorting, sharing food), so the Shorts shelf is the biggest kids stage on YouTube.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1111
     }
    ]
   },
@@ -21559,6 +21566,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1105
+    },
+    {
+     "t": "Among YouTube's fastest breakout videos of 11 to 18 Nov 2026, a kids colour tasting challenge Short gained about 30M views a day (67M in total), the second fastest video on the whole platform that week, so colour guessing games remain the hottest kids Short format.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1111
+    },
+    {
+     "t": "A 'baby meets wild animals' Short (a baby's first meeting with foxes) gained about 11M views a day in the week to 18 Nov 2026; Bro Bros can do a gentle animated version where the little brother meets a fox, an owl or a reindeer in the snow and they copy each other's moves to our song.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1111
+    },
+    {
+     "t": "School day comedy Shorts from India (a school lunch skit at 16M views a day, students on the bus at 14M a day) broke out in the week to 18 Nov 2026, so short, relatable school moments travel fast; a Bro Bros 'lunch box surprise' or 'bus seat dance' Short fits that shape.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1111
     }
    ]
   }
@@ -21586,11 +21614,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1031 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 11:49",
-   "note": "Run 1032 (TRENDS (Later and NewEngen weekly lists, 13 Nov)): Most of the 13 Nov Later and NewEngen trends were already in the tree. New: a 'zoom in' carousel that rewards viewers for zooming into a busy picture, and a 'lately on my SD card' quick dump of recent clips; both suit a kids seek and find post and a weekly Bro Bros recap Reel. Total 2949."
+   "note": "Earlier: older log entries summarised; runs up to Run 1032 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:50",
@@ -21903,6 +21927,10 @@
   {
    "date": "2026-11-19 14:47",
    "note": "Run 1110 (visual craft (thumbnail studies and small team 3D pipelines rechecked)): Nothing new: vidIQ's 500 breakout thumbnail study and the Unreal small team kids animation examples were already in the tree. No leaves added. Total 3070."
+  },
+  {
+   "date": "2026-11-19 14:48",
+   "note": "Run 1111 (TRENDS (Trendreport breakout videos 11 to 18 Nov and all time Shorts)): New: 76 of the 100 most viewed Shorts ever are made for kids; this week's fastest kids breakouts are a colour tasting challenge (about 30M views a day), a baby meeting wild foxes and Indian school day comedy skits. Total 3074."
   }
  ],
  "history": [
@@ -22933,6 +22961,10 @@
   {
    "date": "2026-11-19 14:47",
    "total": 3070
+  },
+  {
+   "date": "2026-11-19 14:48",
+   "total": 3074
   }
  ],
  "next_week_ideas": [
@@ -23005,6 +23037,12 @@
    "where": "TikTok and Reels meme (Know Your Meme, 18 Nov 2026)",
    "status": "rising",
    "use": "A 15 second Short: a cosy room scene, a tiny Bro Bros toy hides somewhere odd (on a lamp, a shelf, a radiator); the Bros sing 'where is it, where is it?' from our own song, freeze, then a red circle pops round the toy on the beat and both cheer and point. Do 3 rooms in a row; ask kids to comment where they spotted it first. Standing, pointing and a happy jump in place."
+  },
+  {
+   "name": "Meet the snow animal",
+   "where": "YouTube Shorts breakout (11 to 18 Nov 2026)",
+   "status": "rising",
+   "use": "A 20 second Short: the little brother walks into a snowy forest, a friendly animated fox peeks out, he waves, the fox waves; on our chorus they mirror each other: paws up, hop in place, wiggle tail (hips), spin slowly in place, then a high five. Next episodes: an owl (flap arms), a reindeer (antler hands on head). Our own song, no real babies or animals."
   },
   {
    "name": "Called step party dance",
@@ -23107,12 +23145,6 @@
    "where": "TikTok and Reels parent accounts (seasonal, 1 to 24 Dec)",
    "status": "seasonal",
    "use": "Our own original elf (new name, look and story, never the trademarked one) moves into a tiny house on 1 December; each night the brothers leave a marshmallow and in the morning the elf has left a kind task (share a toy, help tidy), sung in a short daily Short. No spying, no tricks, no scares. Meshy step: standing, tiptoe in place, then a happy wave and a small jump."
-  },
-  {
-   "name": "Fruit turkey build",
-   "where": "Instagram Reels (Thanksgiving turkey boards, week of 13 Nov 2026)",
-   "status": "seasonal",
-   "use": "Top down Short for Thanksgiving week: to our own counting song, the Bros' hands place apple slices, grapes and banana pieces one layer at a time until a turkey appears, then cut to the Bros waving next to it. Meshy prompt for the end shot: a boy stands, waves with one hand, then points down at a plate and gives a thumbs up."
   }
  ],
  "posting_plan": {
