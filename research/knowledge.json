@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:40:33+05:30",
- "runs": 1390,
+ "updated": "2026-11-20T01:41:16+05:30",
+ "runs": 1391,
  "branches": [
   {
    "id": "platforms",
@@ -18381,6 +18381,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1319
+    },
+    {
+     "t": "YouTube's answer to the 200 plus groups asking it to ban AI kids videos is that AI made content on YouTube Kids is limited to a smaller set of vetted channels, AI use must be disclosed, and mass produced spammy uploads are penalised; to stay eligible for YouTube Kids, Bro Bros should disclose AI music and motion honestly and show clear human creative direction in every video.",
+     "src": "Android Authority (Bloomberg), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1391
+    },
+    {
+     "t": "In January 2026 YouTube terminated 16 channels with about 35M subscribers and 4.7B views under its renamed 'inauthentic content' policy, and review looks at a channel's pattern across recent uploads, so one templated, look alike stretch of videos can demonetise the whole channel, not just those videos; vary songs, scenes and formats week to week.",
+     "src": "The Next Web, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1391
+    },
+    {
+     "t": "YouTube says AI labelled videos are not penalised in recommendations or monetisation as long as there is real human creative input; the crackdown hits faceless channels pumping out the same template, even ones not using AI, so original songs, named recurring characters and visible behind the scenes human work protect Bro Bros.",
+     "src": "The Next Web, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1391
     }
    ]
   },
@@ -24007,12 +24028,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 20:36",
-   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
-  },
-  {
    "date": "2026-11-19 20:39",
-   "note": "Run 1312 (TRENDS (Korean hand gesture and singing challenges, 17 to 25 Nov sound list)): Small: the Korean 'Maru is a dog' challenge (hand made dog ears and nose, then a snap on the cue, from a kids cartoon theme sung by an idol) and the Do Re Mi voice filter game show that a simple hand gesture or a sing the scale game from a kids song can become a celebrity challenge; SocialPilot's 17 to 25 Nov list is mostly reveal formats, not dances. Total 3287."
+   "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
    "date": "2026-11-19 20:39",
@@ -24325,6 +24342,10 @@
   {
    "date": "2026-11-20 01:40",
    "note": "Run 1390 (TRENDS (seasonal, next 4 weeks)): Most December moments were already in the tree; new were Japan's Omisoka New Year customs (late night, long noodles, 108 bells), the yearly 'helper elf stuck in the TV' videos families play on the TV screen, and parents' liking for a kind elf that does not watch or report. Added 'Helper stuck in the TV' to the trend bank. Chrome not available. Total 3416."
+  },
+  {
+   "date": "2026-11-20 01:41",
+   "note": "Run 1391 (rules and monetisation (AI kids content scrutiny)): YouTube answered the 200 plus groups by saying AI content on YouTube Kids is limited to vetted channels with disclosure; it terminated 16 big inauthentic channels in January and judges a channel's whole recent pattern, while AI labelled videos with real human input are not penalised. Chrome not available. Total 3419."
   }
  ],
  "history": [
@@ -25159,6 +25180,10 @@
   {
    "date": "2026-11-20 01:40",
    "total": 3416
+  },
+  {
+   "date": "2026-11-20 01:41",
+   "total": 3419
   }
  ],
  "next_week_ideas": [
