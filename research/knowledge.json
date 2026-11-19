@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:55:28+05:30",
- "runs": 1180,
+ "updated": "2026-11-19T15:56:00+05:30",
+ "runs": 1181,
  "branches": [
   {
    "id": "platforms",
@@ -9743,6 +9743,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1169
+    },
+    {
+     "t": "Children's comfortable singing range is about middle C to A for ages 3 to 5 (strongest around F and G), middle C to the C above for ages 6 to 8, and B flat to the E above for ages 9 to 11, and the guide warns that adults pitch songs where they are comfortable, usually too low and in a chest voice, so our singalong choruses should keep most notes between F and the C above middle C, with only a few lower notes.",
+     "src": "Music and the Child (Sarrazin), LibreTexts",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1181
+    },
+    {
+     "t": "What matters for singing along is the tessitura (where most of the notes sit), not the full range: a song can dip briefly to a low note if most of it stays in the children's easy zone (for example 'Here We Go Round the Mulberry Bush' sits mainly between F and high C), so when a Suno take comes out low and growly, regenerate it in a higher key or with a brighter, head voice style prompt rather than keep it.",
+     "src": "Music and the Child (Sarrazin), LibreTexts",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1181
     }
    ]
   },
@@ -22061,12 +22075,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 14:36",
-   "note": "Earlier: older log entries summarised; runs up to Run 1101 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 14:36",
-   "note": "Run 1102 (TRENDS (Know Your Meme and SocialPilot, 17 to 19 Nov)): New: the 'toy on the thermostat' meme from a 2011 kids film clip (tiny figures placed somewhere odd and circled in red) and the 'cast as everyone' joke format; the rest of this week's list (soft launch, same spot years apart, ILLIT relay, Talk To Me Doja) was already in the tree. Total 3060."
+   "date": "2026-11-19 14:42",
+   "note": "Earlier: older log entries summarised; runs up to Run 1102 covered all focus areas."
   },
   {
    "date": "2026-11-19 14:42",
@@ -22379,13 +22389,13 @@
   {
    "date": "2026-11-19 15:55",
    "note": "Run 1180 (TRENDS (Pinterest weekly report checked)): Nothing new: Pinterest's latest weekly trend report is still 13 Nov, already recorded. No leaves added. Total 3138."
+  },
+  {
+   "date": "2026-11-19 15:56",
+   "note": "Run 1181 (music craft (singing range for kids who sing along)): New: early childhood music texts put the comfortable singing range of 3 to 5 year olds at about middle C up to A (strongest around F and G), 6 to 8 year olds at C to the C above, and warn that adults pitch songs where they themselves are comfortable, usually too low and in chest voice; so Suno melodies for singalong choruses should sit mostly between F and C above middle C. Total 3140."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 06:56",
-   "total": 2611
-  },
   {
    "date": "2026-11-19 06:57",
    "total": 2612
@@ -23581,6 +23591,10 @@
   {
    "date": "2026-11-19 15:55",
    "total": 3138
+  },
+  {
+   "date": "2026-11-19 15:56",
+   "total": 3140
   }
  ],
  "next_week_ideas": [
