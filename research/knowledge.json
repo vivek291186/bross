@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:49:41+05:30",
- "runs": 1382,
+ "updated": "2026-11-19T23:50:11+05:30",
+ "runs": 1383,
  "branches": [
   {
    "id": "platforms",
@@ -16204,6 +16204,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1382
+    },
+    {
+     "t": "A Harris Interactive survey for France's parenting observatory OPEN (1,000 parents of 6 to 16 year olds, Jan 2026) found 86% say their children use YouTube for educational content and parents find watching together reassuring, while 89% back a legal social network ban under 13, so French parents accept YouTube when it teaches and is shared.",
+     "src": "open-asso.org, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1383
+    },
+    {
+     "t": "France's regulator Arcom (Apr 2026) reports YouTube is the first thing one in three under 25s open when they switch on the TV, the TV is a growing YouTube screen and many viewers watch videos over 30 minutes there, which supports French dubbed long compilations for the family TV.",
+     "src": "csimagazine.com, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1383
     }
    ]
   },
@@ -23826,11 +23840,7 @@
  "log": [
   {
    "date": "2026-11-19 19:48",
-   "note": "Earlier: older log entries summarised (runs up to 1303); details are in git history."
-  },
-  {
-   "date": "2026-11-19 19:48",
-   "note": "Run 1304 (global markets (Philippines and Arabic kids channels)): Nothing new: searches on Tagalog rhyme channels and Arabic kids song brands (Moonbug Kids Arabic, Anghamalatfal) only returned items already in the tree or pages that would not load. No leaves added. Total 3280."
+   "note": "Earlier: older log entries summarised (runs up to 1304); details are in git history."
   },
   {
    "date": "2026-11-19 19:49",
@@ -24143,13 +24153,13 @@
   {
    "date": "2026-11-19 23:49",
    "note": "Run 1382 (global markets (Middle East and North Africa animation demand)): Added Parrot Analytics' Middle East and North Africa animation demand study: kids titles are oversupplied, family titles under served, US and Japanese imports take over 85% of demand, and recognisable characters with co viewing appeal win. Chrome not available. Total 3390."
+  },
+  {
+   "date": "2026-11-19 23:50",
+   "note": "Run 1383 (global markets (France)): Added French data: 86% of parents of 6 to 16 year olds say their children use YouTube to learn and like co viewing (OPEN 2026), and Arcom finds YouTube is the first TV app for a third of under 25s with long videos watched on the TV. Chrome not available. Total 3392."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:37",
-   "total": 3020
-  },
   {
    "date": "2026-11-19 13:38",
    "total": 3023
@@ -25345,6 +25355,10 @@
   {
    "date": "2026-11-19 23:49",
    "total": 3390
+  },
+  {
+   "date": "2026-11-19 23:50",
+   "total": 3392
   }
  ],
  "next_week_ideas": [
