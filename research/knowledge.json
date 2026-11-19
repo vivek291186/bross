@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T15:00:31+05:30",
- "runs": 1135,
+ "updated": "2026-11-19T15:00:58+05:30",
+ "runs": 1136,
  "branches": [
   {
    "id": "platforms",
@@ -7657,6 +7657,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1116
+    },
+    {
+     "t": "Kidshire (channel country UAE, started 7 Nov 2024) reached about 6.21M subscribers and 15.6B views from only about 160 videos by 17 Nov 2026, drawing about 545M views in 28 days on roughly two uploads a week, almost all from simple picture word Shorts, the clearest proof that a handful of very strong kids Shorts can carry a new channel.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1136
+    },
+    {
+     "t": "Kidshire's subscriber growth peaked at about 760K in November 2025 (its first winter, when the winter clothes Short took off) and was still about 190K in October 2026, so one seasonal hit Short can lift a channel for a whole year.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1136
     }
    ]
   },
@@ -16736,6 +16750,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1103
+    },
+    {
+     "t": "vidIQ models Kidshire's ad income at only about 13K USD for 28 days of about 545M views (roughly 0.02 to 0.03 USD per 1,000), so kids Shorts views earn very little; Bro Bros should use Shorts for discovery and subscribers and earn mainly from long videos and compilations.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1136
     }
    ]
   },
@@ -21740,11 +21761,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1056 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:44",
-   "note": "Run 1057 (Shorts and Reels (Instagram feature list rechecked, algorithm skipped as checked in run 1055)): Metricool's 13 Nov Instagram news page adds two small points: Meta's Muse assistant now turns a user's avatar into a shareable dancing video, and Instagram added Livestream Boost to promote a live broadcast as an ad, best set up at least two hours ahead. Features, the Apple TV app, series link removal and AI labels were already in the tree. Total 2986."
+   "note": "Earlier: older log entries summarised; runs up to Run 1057 covered all focus areas."
   },
   {
    "date": "2026-11-19 12:45",
@@ -22057,6 +22074,10 @@
   {
    "date": "2026-11-19 15:00",
    "note": "Run 1135 (TRENDS (Portuguese and Spanish kid dance searches)): Nothing new for this week: results were older clips (kangaroo dance from May, Calm Down kid dance, slick back) already recorded. No leaves added. Total 3092."
+  },
+  {
+   "date": "2026-11-19 15:00",
+   "note": "Run 1136 (competitor deep dive (Kidshire, run in the markets slot because markets ran last round)): New: Kidshire (UAE, started Nov 2024) reached 6.21M subscribers and 15.6B views with only 160 videos, about 545M views in 28 days, yet vidIQ models only about 13K USD of ad income for that month, a sharp reminder that kids Shorts views pay very little. Total 3095."
   }
  ],
  "history": [
@@ -23187,6 +23208,10 @@
   {
    "date": "2026-11-19 15:00",
    "total": 3092
+  },
+  {
+   "date": "2026-11-19 15:00",
+   "total": 3095
   }
  ],
  "next_week_ideas": [
