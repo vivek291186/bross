@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:02:04+05:30",
- "runs": 1076,
+ "updated": "2026-11-19T13:02:43+05:30",
+ "runs": 1077,
  "branches": [
   {
    "id": "platforms",
@@ -12242,6 +12242,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1074
+    },
+    {
+     "t": "GivingTuesday falls on 1 Dec 2026 and opens a Generosity Week (1 to 5 Dec) that ends on International Volunteer Day (5 Dec), with community ideas like kindness flash mobs, sharing meals and helping neighbours, so a Bro Bros kindness or helping song fits best in the first days of December.",
+     "src": "GivingTuesday playbook, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1077
+    },
+    {
+     "t": "Many US kindergartens and lower schools run a pyjama 'train day' on the last school day before winter break: paper ticket necklaces, a conductor punching tickets, hot cocoa, cookie decorating and a small bell as a gift, so an original pyjama train song (no film names or characters) matches a real classroom ritual teachers search for in mid December.",
+     "src": "Carolyn's Creative Classroom / school news",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1077
     }
    ]
   },
@@ -21131,11 +21145,7 @@
  "log": [
   {
    "date": "2026-11-19 10:54",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 997 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 10:54",
-   "note": "Run 998 (competitor and music (Super Simple Songs 2026 release rhythm)): Super Simple's 20 year story was already in the tree. New: its 2026 original songs come out on Thursdays, one every two weeks (19 between 8 Jan and 24 Sep: garbage truck, pets, eggs, ducks, family tree, vegetables, fruit, sports, shapes, trip, counting to 20, shoes, listening ears, hockey), with a studio of 40 plus staff and research ties to Oxford University Press in Spain. Total 2887."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 998 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:55",
@@ -21448,6 +21458,10 @@
   {
    "date": "2026-11-19 13:02",
    "note": "Run 1076 (competitor deep dive (classroom movement channels: Jack Hartmann; Super JoJo search unreadable)): Jack Hartmann, a former kindergarten substitute whose songs are played in US classrooms, says his views 'exploded' once he added animation and that YouTube gave him a partner consultant at 100K subscribers; his growth was slow at first (about 400 USD after the first year). Super JoJo stats pages could not be read. Total 3005."
+  },
+  {
+   "date": "2026-11-19 13:02",
+   "note": "Run 1077 (TRENDS (seasonal gaps: GivingTuesday week, school pyjama train days)): GivingTuesday is 1 Dec 2026 and opens a Generosity Week (1 to 5 Dec) ending on International Volunteer Day (5 Dec), good timing for a kindness song; many US kindergartens hold a pyjama 'train day' on the last school day before winter break (tickets, conductor hats, hot cocoa, a bell gift). Added an original pyjama train Reel to the trend bank, without the film's name or characters. Total 3007."
   }
  ],
  "history": [
@@ -22342,6 +22356,10 @@
   {
    "date": "2026-11-19 13:02",
    "total": 3005
+  },
+  {
+   "date": "2026-11-19 13:02",
+   "total": 3007
   }
  ],
  "next_week_ideas": [
@@ -22403,6 +22421,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Pyjama train ride",
+   "where": "Reels, Shorts",
+   "status": "seasonal",
+   "use": "Original winter song: the brothers in pyjamas line up as a train, the big brother in a conductor hat punches the little brother's paper ticket on the beat, then both chug in place (arms rolling like wheels, little steps on the spot) and ring a bell on 'ding ding'. Post 14 to 18 Dec for last school days; never use the film's title, music or characters."
+  },
   {
    "name": "Silly sweater reveal",
    "where": "Reels, Shorts, TikTok",
@@ -22516,12 +22540,6 @@
    "where": "Roblox ('Trending Emote Dance' game surging +140% in 30 days, about 19K players at once, Nov 2026) and TikTok",
    "status": "rising",
    "use": "Short with our own beat: the Bros and three friends stand in a circle like game avatars, and on each 'next!' a new simple emote plays all together (wave, robot arms, side step, star jump pose), ending with everyone pointing at the viewer: 'Your turn!'. Meshy prompt: a boy stands in place and does stiff robot arm moves up and down for four beats, then steps side to side for four beats."
-  },
-  {
-   "name": "Unprompted kitchen dance",
-   "where": "TikTok and Reels (dancing partners and family members in the kitchen, Oct to Nov 2026)",
-   "status": "rising",
-   "use": "Short: Big Bro is quietly pouring cereal, our own song starts on a radio, and he cannot help it: a small shoulder bounce grows into a full silly dance while Little Bro films and giggles, then joins in for the last four counts. Meshy prompt: a boy stands still, starts bouncing his shoulders to the beat, then sways his hips side to side and waves both arms above his head, staying in place."
   }
  ],
  "posting_plan": {
