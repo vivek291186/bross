@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T14:58:06+05:30",
- "runs": 1129,
+ "updated": "2026-11-19T14:58:38+05:30",
+ "runs": 1130,
  "branches": [
   {
    "id": "platforms",
@@ -4241,6 +4241,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1114
+    },
+    {
+     "t": "Christmas Day 2025 set a US single day streaming record of 55.1B minutes (54% of all TV use, 8% above 2024), and YouTube led the whole of December 2025 with 12.7% of TV time, so the holiday week is a peak for TV screen viewing and Bro Bros Christmas songs and long compilations should be live and in playlists before 24 Dec.",
+     "src": "Nielsen via thewrap.com, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1130
+    },
+    {
+     "t": "US streaming first passed 50% of daily TV use on Saturday 13 Dec 2025, so mid December weekends are already holiday level viewing days; a strong Christmas upload on Friday 11 Dec 2026 would be fresh for that weekend.",
+     "src": "Nielsen via thewrap.com, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1130
     }
    ]
   },
@@ -21712,11 +21726,7 @@
  "log": [
   {
    "date": "2026-11-19 11:35",
-   "note": "Earlier: older log entries summarised; runs up to Run 1050 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 12:35",
-   "note": "Run 1051 (global markets (Japan, Nigeria, auto dubbing recheck)): Japan: the year's top TikTok song (M!LK, nine weeks at number one) won on a dance anyone can copy, and Nippon TV then turned that dance into a one minute fitness routine for its KARADA WEEK health campaign (31 Oct to 8 Nov). Nigeria's Jeni and Keni plans kids party DJ segments. YouTube dubbing and Sanrio facts were already in the tree. Total 2972."
+   "note": "Earlier: older log entries summarised; runs up to Run 1051 covered all focus areas."
   },
   {
    "date": "2026-11-19 12:39",
@@ -22029,6 +22039,10 @@
   {
    "date": "2026-11-19 14:58",
    "note": "Run 1129 (TRENDS (winter formats for the coming snow season)): New: the 'snow heart' shot from last winter (a phone laid face up inside a heart dug in the snow while the family and pets lean in over it) is a ready made seasonal format for the first snow weeks; Elf on the Shelf and ski baby ideas were already recorded. Total 3088."
+  },
+  {
+   "date": "2026-11-19 14:58",
+   "note": "Run 1130 (algorithm and timing (holiday TV viewing records)): New: Christmas Day 2025 set a US streaming record (55.1B minutes, 54% of all TV use) and YouTube led December 2025 with 12.7% of TV time, which supports having Christmas songs and long compilations live well before 25 Dec and posting the holiday week as usual. Total 3090."
   }
  ],
  "history": [
@@ -23135,6 +23149,10 @@
   {
    "date": "2026-11-19 14:58",
    "total": 3088
+  },
+  {
+   "date": "2026-11-19 14:58",
+   "total": 3090
   }
  ],
  "next_week_ideas": [
