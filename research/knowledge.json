@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:51:30+05:30",
- "runs": 1265,
+ "updated": "2026-11-19T18:52:10+05:30",
+ "runs": 1266,
  "branches": [
   {
    "id": "platforms",
@@ -13313,6 +13313,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1231
+    },
+    {
+     "t": "A study of Google searches from Jan to Aug 2026 ranks the most looked up Gen Alpha slang as 6 7, chud, rizz, cap and no cap, mog, bop, larping, aura, sigma and crash out; only 6 7, no cap, aura and crash out are harmless, while 'bop' has turned from 'a catchy song' into a sexual insult online, so Bro Bros titles and captions should stop calling our songs 'a bop'.",
+     "src": "euronews.com, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1266
     }
    ]
   },
@@ -22854,6 +22861,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1263
+    },
+    {
+     "t": "Last December's 'knock knock reveal' (a creator taps on the screen as if knocking, then cuts to a surprise) and 'jingle bell swing' making of Reels (hands making decorations or treats to a swing beat) are both easy kid safe shapes: Little Bro knocks on the screen and the door opens on a snowy dance party, or the Bros build a gingerbread house in quick cuts to our own swing tune.",
+     "src": "websitebuilderexpert.com, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1266
     }
    ]
   }
@@ -22880,12 +22894,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:57",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 15:58",
-   "note": "Run 1187 (rules (EU audiovisual media rules review and video creators)): New: the EU must publish its evaluation of the Audiovisual Media Services Directive by 19 Dec 2026, with options ranging from no change to bringing influencers and short video creators under media rules, with protection of young viewers named as a focus area; a change would not hit Bro Bros before 2027 or later, but EU media style rules on kids content and ads may follow. Total 3146."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 15:58",
@@ -23198,16 +23208,16 @@
   {
    "date": "2026-11-19 18:51",
    "note": "Run 1265 (posting times (taken out of order, because the formula never lands on this focus: European after school data and Metricool Instagram recheck)): New: UK broadband traffic jumps at 3:40 PM on school days (21:10 IST) with YouTube the top after school screen, and EU Kids Online 2026 puts European kids' screen peaks after school (80%) and before bed (67%). Metricool's Instagram model for 20 to 26 Nov is unchanged (10:00 IST peak, 18:00 IST second, weekends about half), so the posting plan stays as is. Total 3255."
+  },
+  {
+   "date": "2026-11-19 18:52",
+   "note": "Run 1266 (TRENDS (slang and December sounds)): Small: Christmas audio lists repeat last year's sounds already in the tree; new: 2026's most searched Gen Alpha slang shows 'bop' now reads as an insult, so we drop it from titles, and last December's knock on the screen reveal and swing beat making of Reels give two kid safe December shapes. Total 3257."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:56",
-   "total": 2820
   },
   {
    "date": "2026-11-19 10:02",
@@ -24400,6 +24410,10 @@
   {
    "date": "2026-11-19 18:51",
    "total": 3255
+  },
+  {
+   "date": "2026-11-19 18:52",
+   "total": 3257
   }
  ],
  "next_week_ideas": [
