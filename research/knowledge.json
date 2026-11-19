@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:51:51+05:30",
- "runs": 1326,
+ "updated": "2026-11-19T20:52:21+05:30",
+ "runs": 1327,
  "branches": [
   {
    "id": "platforms",
@@ -23302,6 +23302,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1324
+    },
+    {
+     "t": "The 2026 to 2027 season's first snowstorm arrived early: a nor'easter brought snow to interior New York, Vermont, New Hampshire and Maine, a few inches to the northern and western Mid Atlantic and about 3 to 6 inches to Michigan's Upper Peninsula on 12 to 14 Nov 2026, while big coastal cities got rain, so American families in snowy states are already in 'first snow' mode and a Bro Bros snow song posted now is on time.",
+     "src": "opensnow.com and weatheronthisday.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1327
     }
    ]
   }
@@ -23328,12 +23335,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:42",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 18:36",
-   "note": "Run 1248 (TRENDS (weekly lists recheck, no Chrome)): Small: SocialPilot's 17 to 25 Nov TikTok list, Later's 13 Nov Reels roundup and B&T's November list were all already in the tree; added a fake tutorial then surprise dance shape, a freeze then snap cut 'loading' outfit reveal and a caution on animator remake trends. Total 3212."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 18:37",
@@ -23646,13 +23649,13 @@
   {
    "date": "2026-11-19 20:51",
    "note": "Run 1326 (visual craft (titles, emoji, toon shading)): Nothing new: emoji in titles (vidIQ 128M video study), kids keyword lists, kids songs dominating YouTube's most viewed (Baby Shark about 16.4B) and Blender Studio's toon character workflow were already in the tree. No leaves added. Total 3319."
+  },
+  {
+   "date": "2026-11-19 20:52",
+   "note": "Run 1327 (TRENDS (first snow has arrived)): The season's first snowstorm reached interior New York, New England, the northern Mid Atlantic and Michigan's Upper Peninsula on 12 to 14 Nov 2026, earlier than the usual late November first snow, so the snow day happy dance moves from seasonal to rising and snow songs are timely now. Total 3320."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:45",
-   "total": 2938
-  },
   {
    "date": "2026-11-19 11:46",
    "total": 2940
@@ -24848,6 +24851,10 @@
   {
    "date": "2026-11-19 20:51",
    "total": 3319
+  },
+  {
+   "date": "2026-11-19 20:52",
+   "total": 3320
   }
  ],
  "next_week_ideas": [
@@ -24910,6 +24917,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Snow day happy dance",
+   "where": "YouTube Shorts, Instagram Reels (first snow already hit the US interior Northeast, Mid Atlantic and Michigan on 12 to 14 Nov 2026; more first snows through December)",
+   "status": "rising",
+   "use": "A 15 second Short with our own 'Snow day, no school!' hook: the little brother looks out of the window, sees snow, turns to camera with a huge smile, then both Bros do a happy dance: four quick jumps in place with fists pumping, two wiggles side to side, then arms flung up as snow falls. Meshy prompt: standing in place, excited jumps with fist pumps, hip wiggle left and right, both arms up. Caption 'When it snows for the first time'."
+  },
+  {
    "name": "Puppy duet bark back",
    "where": "TikTok, Reels, YouTube Shorts (pet duet audio template)",
    "status": "rising",
@@ -24944,12 +24957,6 @@
    "where": "TikTok, Reels, YouTube Shorts (Korean kids song challenge, evergreen)",
    "status": "evergreen",
    "use": "A 15 second Short on our own 'Puppy Says Woof' chorus: both Bros stand facing camera, put both hands on top of their heads as floppy puppy ears, then one fist on the nose as a puppy nose, then a quick happy snap forward with both hands on the word 'woof', repeat twice and end with a tail wiggle. Meshy prompt: standing in place, hands on head like ears, hand to nose, quick clap forward, hip wiggle."
-  },
-  {
-   "name": "Snow day happy dance",
-   "where": "YouTube Shorts, Instagram Reels (first snow days, Dec to Jan)",
-   "status": "seasonal",
-   "use": "A 15 second Short with our own 'Snow day, no school!' hook: the little brother looks out of the window, sees snow, turns to camera with a huge smile, then both Bros do a happy dance: four quick jumps in place with fists pumping, two wiggles side to side, then arms flung up as snow falls. Meshy prompt: standing in place, excited jumps with fist pumps, hip wiggle left and right, both arms up. Caption 'When it snows for the first time'."
   },
   {
    "name": "Magic word tidy up",
