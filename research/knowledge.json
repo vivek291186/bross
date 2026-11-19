@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:05:17+05:30",
- "runs": 896,
+ "updated": "2026-11-19T07:05:51+05:30",
+ "runs": 897,
  "branches": [
   {
    "id": "platforms",
@@ -6292,6 +6292,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 888
+    },
+    {
+     "t": "BabyBus's English channel (44.2M, 18 Nov 2026) still adds about 100K subscribers a month on about 22 uploads per four weeks, but monthly views slid from about 257M in June to 218M in October 2026; its newest upload is a car safety rules story ('The Missing Cable Car', Sheriff Labrador), confirming that safety stories with a hero character are the brand's current push.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 897
     }
    ]
   },
@@ -10632,6 +10639,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 886
+    },
+    {
+     "t": "The most viewed videos on BabyBus's Indonesian channel are a magic ice cream vending machine story (85M and 70M in two versions), two lost kittens, a sweet cold smoothie food song and a snowman's nose story, so treats, magical machines and even snow themes work in tropical markets, which supports winter songs for a worldwide audience.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 897
     }
    ]
   },
@@ -12396,6 +12410,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 884
+    },
+    {
+     "t": "BabyBus's Bahasa Indonesia channel (28.9M) jumped to about 864M monthly views in March 2026 and 535M in April before settling at about 245M a month, so Indonesian kids viewing spikes hugely in the Ramadan and Eid holiday window (Ramadan 2027 starts around mid February), which is when Indonesian dubs and Shorts should be ready.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 897
     }
    ]
   },
@@ -18527,11 +18548,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 817 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:55",
-   "note": "Run 818 (music craft and global markets, manual round): tempo and key defaults for kids songs, dubbing languages (Spanish, Arabic, Indonesian, Portuguese) via multi-audio tracks, December compilation demand. Total 2401."
+   "note": "Earlier runs summarised: all rounds through Run 818 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 02:38",
@@ -18844,6 +18861,10 @@
   {
    "date": "2026-11-19 07:05",
    "note": "Run 896 (posting times (Metricool Instagram model for 20 to 26 Nov)): Metricool's Instagram model for 20 to 26 Nov repeats last week's: peak at 10:00 IST every day (Friday 20 Nov highest at about 6,700), a second rise at 18:00 IST, 16:00 IST at about two thirds of the peak, and Saturday and Sunday peaks at only about 51% and 38% of Friday's. No slot change; the Reels at 10:00 IST test idea stands. Total 2633."
+  },
+  {
+   "date": "2026-11-19 07:05",
+   "note": "Run 897 (competitor deep dive (BabyBus English and Bahasa Indonesia)): BabyBus English (44.2M) keeps adding about 100K subscribers a month but its monthly views slid from 257M in June to 218M in October; its Indonesian channel (28.9M) peaked at 864M views in March 2026, likely the Ramadan and school holiday season, then settled near 245M a month. Both channels' newest uploads are job and safety stories (a plumber song in Indonesian, cable car safety rules in English), and the Indonesian top videos are an ice cream machine and a snowman's nose, so treats, machines and snow travel even to tropical markets. Total 2636."
   }
  ],
  "history": [
@@ -19766,6 +19787,10 @@
   {
    "date": "2026-11-19 07:05",
    "total": 2633
+  },
+  {
+   "date": "2026-11-19 07:05",
+   "total": 2636
   }
  ],
  "next_week_ideas": [
