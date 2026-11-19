@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:54:07+05:30",
- "runs": 1268,
+ "updated": "2026-11-19T18:55:08+05:30",
+ "runs": 1269,
  "branches": [
   {
    "id": "platforms",
@@ -22926,10 +22926,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 15:59",
-   "note": "Run 1190 (YouTube algorithm (November changes and signed out TV viewing rechecked)): Nothing new: the October and November AIR trackers, Shorts originality, custom feeds and the Shorts timer changes were already in the tree. No leaves added. Total 3146."
-  },
-  {
    "date": "2026-11-19 16:00",
    "note": "Run 1191 (Shorts and Reels (Instagram second by second retention charts and skip rate benchmarks)): New: Instagram's Reel insights now show a second by second retention curve and a 3 second skip rate (Reels with 100+ plays, Professional accounts); one creator's 200 Reel benchmark calls a skip rate over 40% poor, 25 to 35% average and under 20% strong. Our 17 and 18 Nov Reels skipped at 66 to 77% except the digger song (37%), so our openings need the most work. Total 3148."
   },
@@ -23240,6 +23236,10 @@
   {
    "date": "2026-11-19 18:54",
    "note": "Run 1268 (competitor deep dive (Bounce Patrol, Morphle, Jack Hartmann)): Small: Bounce Patrol and Moonbug linear facts were already in the tree and Jack Hartmann's stats pages were blocked; new: Morphle fell to about 8.7M views in 28 days despite 23 uploads, with a dinosaur rescue episode at 3K views, showing frequent posting cannot save a tired brand. Total 3261."
+  },
+  {
+   "date": "2026-11-19 18:55",
+   "note": "Run 1269 (TRENDS (Virlo tracker, Brazil and Indonesia dance sounds)): Nothing new: Virlo's rising formats (pick your favourite, shoe kick outfit change, paparazzi bow), Indonesia's November joget sounds and Brazil's CapCut dance templates were already in the tree or not kid safe. No leaves added. Total 3261."
   }
  ],
  "history": [
@@ -23250,10 +23250,6 @@
   {
    "date": "2026-11-19 10:02",
    "total": 2824
-  },
-  {
-   "date": "2026-11-19 10:04",
-   "total": 2830
   },
   {
    "date": "2026-11-19 10:05",
@@ -24441,6 +24437,10 @@
   },
   {
    "date": "2026-11-19 18:54",
+   "total": 3261
+  },
+  {
+   "date": "2026-11-19 18:55",
    "total": 3261
   }
  ],
