@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:03:26+05:30",
- "runs": 892,
+ "updated": "2026-11-19T07:03:57+05:30",
+ "runs": 893,
  "branches": [
   {
    "id": "platforms",
@@ -7937,6 +7937,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 881
+    },
+    {
+     "t": "Danny Go!'s recent titles frame songs as games with a challenge in the title ('Kids vs Adults Freeze Dance Game', 'The Color Dance Game! Would You Rather Brain Break', 'Color Beat Drum Along Dance, Patterns Memory Game'), so a Bro Bros song does better when its title promises a game the child plays, not just a song to hear.",
+     "src": "Danny Go! video titles via search, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 893
+    },
+    {
+     "t": "A 'would you rather' dance song (the singer offers two choices, 'jump like a frog or fly like a bird?', and each side of the screen shows a different move) and a 'copy the beat' pattern song (the Bros clap or stomp a short pattern, then pause for the child to repeat it, getting longer each round) are two simple, proven brain break structures that also work across languages because the moves carry the meaning.",
+     "src": "Danny Go! video titles via search, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 893
     }
    ]
   },
@@ -18492,11 +18506,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 813 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:55",
-   "note": "Run 814 (posting times for 2 daily uploads): our Metricool peaks (16:00 and 10:00 IST) plus global kids timing studies; new posting plan 16:00 IST and 04:30 IST. Total 2390."
+   "note": "Earlier runs summarised: all rounds through Run 814 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:40",
@@ -18809,6 +18819,10 @@
   {
    "date": "2026-11-19 07:03",
    "note": "Run 892 (TRENDS (pet reaction format behind this week's trending family trailer)): Pixar's 'Gatto' trailer is on this week's US trending list; its marketing used 'cats react to the trailer' videos in which real cats watch on a laptop and get distracted, and viewers copied it with their own pets. Reaction videos starring an animal are a kid safe format we can copy with our own animated puppy or kitten reacting to a new Bro Bros song. Trend bank: dropped Soft launch new friend (built on a couples audio that is past its peak). Total 2628."
+  },
+  {
+   "date": "2026-11-19 07:03",
+   "note": "Run 893 (music craft (Danny Go! game song formats)): Danny Go!, one of 2026's growing kids brands, titles its songs as movement games rather than songs: 'Kids vs Adults Freeze Dance', a 'would you rather' colour dance brain break, and a drum along patterns memory game. New for us: the would you rather choice song and the clap the pattern memory song, both easy to make with Suno and Meshy and both get kids moving off the sofa. Total 2630."
   }
  ],
  "history": [
@@ -19715,9 +19729,17 @@
   {
    "date": "2026-11-19 07:03",
    "total": 2628
+  },
+  {
+   "date": "2026-11-19 07:03",
+   "total": 2630
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Would You Rather, Bros? (Winter Choice Dance Game)",
+   "why": "Game titled brain breaks are what growing brands like Danny Go! post; each verse offers two winter moves (skate like a penguin or roll like a snowball) shown side by side so kids pick and copy, easy to dub."
+  },
   {
    "title": "Are We There Yet? (Family Road Trip Song)",
    "why": "Road trip searches rose about 530% on Pinterest; the Bros spot things out of the car window (cows, bridges, a rainbow) in a call and response game that works in any language and on any holiday drive."
@@ -19769,10 +19791,6 @@
   {
    "title": "The Big Balloon Parade",
    "why": "The 100th Thanksgiving parade on 26 Nov 2026 will fill US family feeds with giant balloons; our own parade song (a new invented balloon each verse, kids shout its colour, march and wave in place) is timely that week and works year round anywhere as a colours and marching song."
-  },
-  {
-   "title": "Twelve Winter Gifts (Counting Song)",
-   "why": "The twelve day countdown is on kids TV this December (Apple TV's 12 Days of Snoopy special); our original cumulative counting song adds one gift and one dance move per verse, works as 12 daily Shorts from 13 to 24 Dec and as one long video, and counting songs travel across languages."
   }
  ],
  "trend_bank": [
