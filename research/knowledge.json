@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T10:51:54+05:30",
- "runs": 994,
+ "updated": "2026-11-19T10:52:50+05:30",
+ "runs": 995,
  "branches": [
   {
    "id": "platforms",
@@ -2106,6 +2106,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 988
+    },
+    {
+     "t": "In the 2026 Common Sense census 87% of tweens watch short videos and 58% do so every day (median about 1 h 19 min), 91% watch longer videos, and 68% name YouTube as their most used site, far ahead of TikTok (32% of social media users), so YouTube Shorts plus long songs is the right mix for older siblings too.",
+     "src": "Common Sense Media census, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 995
     }
    ]
   },
@@ -3912,6 +3919,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 990
+    },
+    {
+     "t": "Common Sense Media's 2026 census finds tweens aged 9 to 12 spend about 7 h 45 min a day on entertainment screens at weekends against about 4 h 49 min on weekdays, so weekend viewing time is about 60% higher for older kids even though our own Metricool model shows lower weekend activity for our current audience.",
+     "src": "Common Sense Media census, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 995
+    },
+    {
+     "t": "Top1Trend's study of 100,000+ trending videos (Mar 2026) advises uploading 2 to 4 hours before local evening peaks: about 12 to 3 PM Eastern for the US, 2 to 5 PM IST for India and 2 to 5 PM BRT for Brazil, which supports our 16:00 IST slot for India and our early morning IST slot landing before the US after school hours.",
+     "src": "Top1Trend, Mar 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 995
     }
    ]
   },
@@ -20242,11 +20263,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 915 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 07:52",
-   "note": "Run 916 (TRENDS (Know Your Meme 6 Nov roundup, TikTok hashtags, December formats)): Nothing new: the latest meme roundup's only kid usable item (good food versus bad food slang) and the early New Year's Eve countdown habit were already in the tree, and no new December formats have been published yet. Added a New Year 'fake midnight' countdown song to next week's ideas, since the tree had the habit but no song for it. No leaves added. Total 2688."
+   "note": "Earlier runs summarised: all rounds through Run 916 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 07:52",
@@ -20559,6 +20576,10 @@
   {
    "date": "2026-11-19 10:51",
    "note": "Run 994 (topics and seasons (December classroom themes, cozy searches, classic Christmas taste)): Own results skipped again (no new Metricool data) and the Netflix and Roblox lists were already in the tree, so the round looked at December topics. Preschool teachers plan December around Christmas around the world, shorter colder days, gingerbread shapes, advent doors, gift wrapping, a snowy day obstacle course and New Year clocks; US 'cozy' searches peak every December; and in 46 of 50 US states the most searched Christmas song is from before 2010. Total 2878."
+  },
+  {
+   "date": "2026-11-19 10:52",
+   "note": "Run 995 (posting times (Metricool best times 19 to 25 Nov rechecked, Common Sense 2026 tween census, regional upload windows)): Metricool's model for 19 to 25 Nov repeats what the tree had (YouTube 16:00 IST peak, Instagram 10:00 IST, weekends about half), so both slots stay as they are. New: Common Sense's 2026 census finds tweens (9 to 12) get about 7 h 45 min of entertainment screen time on weekend days against about 4 h 49 min on weekdays, and 58% watch short videos every day; a Top1Trend analysis of trending videos suggests uploading 2 to 4 hours before evening peaks (India 2 to 5 PM IST, Brazil 2 to 5 PM BRT). Total 2881."
   }
  ],
  "history": [
@@ -21125,11 +21146,15 @@
   {
    "date": "2026-11-19 10:51",
    "total": 2878
+  },
+  {
+   "date": "2026-11-19 10:52",
+   "total": 2881
   }
  ],
  "next_week_ideas": [
   {
-   "title": "Snowy Day Obstacle Course! (Jump, Crawl... No, Hop! Winter Action Song)",
+   "title": "Snowy Day Obstacle Course! (Jump, Stomp, Hop! Winter Action Song)",
    "why": "Preschool teachers run a pretend snowy day obstacle course every December; an action song of hops, steps and freezes (standing moves only) fits classroom screens worldwide, including places with no snow."
   },
   {
