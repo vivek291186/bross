@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T12:44:25+05:30",
- "runs": 1057,
+ "updated": "2026-11-19T12:45:27+05:30",
+ "runs": 1058,
  "branches": [
   {
    "id": "platforms",
@@ -2190,6 +2190,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1057
+    },
+    {
+     "t": "Netflix's late November 2026 holiday slate includes 'Salish's 12 Games of Christmas', a YouTube creator special built as a countdown of twelve holiday games, showing that streamers now buy creator style game countdowns for the holidays; a Bro Bros '12 days of dance games' Shorts series (one freeze, copy or guess game a day) fits that same appetite.",
+     "src": "What's on Netflix / AmericanTV, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1058
     }
    ]
   },
@@ -20997,12 +21004,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:08",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 978 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:09",
-   "note": "Run 979 (YouTube main and Kids (Jason Vlogs language channels and Shorts cadence)): Most Jason Vlogs lessons were already in the tree. New details: its Hindi channel passed 9M subscribers, bigger than its Spanish one (over 7M), and its team advises starting at one Short a day and scaling to 5 to 10 a day, while noting Shorts bring reach but little revenue compared with long videos. Total 2846."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 979 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:09",
@@ -21315,6 +21318,10 @@
   {
    "date": "2026-11-19 12:44",
    "note": "Run 1057 (Shorts and Reels (Instagram feature list rechecked, algorithm skipped as checked in run 1055)): Metricool's 13 Nov Instagram news page adds two small points: Meta's Muse assistant now turns a user's avatar into a shareable dancing video, and Instagram added Livestream Boost to promote a live broadcast as an ad, best set up at least two hours ahead. Features, the Apple TV app, series link removal and AI labels were already in the tree. Total 2986."
+  },
+  {
+   "date": "2026-11-19 12:45",
+   "note": "Run 1058 (TikTok and other platforms (Netflix kids, Spotify, Roblox rechecked)): Mostly known: Netflix creator shows (Ms Rachel 208M hours in H1, Sheriff Labrador up 784%), Spotify's kids music Wrapped switch and Roblox's egg games were already in the tree. One new point: Netflix's late November holiday slate includes a YouTube creator special built as a 12 games countdown, a format Bro Bros can echo with 12 days of dance games. Total 2987."
   }
  ],
  "history": [
@@ -22133,6 +22140,10 @@
   {
    "date": "2026-11-19 12:44",
    "total": 2986
+  },
+  {
+   "date": "2026-11-19 12:45",
+   "total": 2987
   }
  ],
  "next_week_ideas": [
