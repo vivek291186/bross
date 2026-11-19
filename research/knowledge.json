@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:55:08+05:30",
- "runs": 1269,
+ "updated": "2026-11-19T18:55:54+05:30",
+ "runs": 1270,
  "branches": [
   {
    "id": "platforms",
@@ -13348,6 +13348,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1266
+    },
+    {
+     "t": "Japan's New Year's Eve TV ritual is NHK's Kohaku song contest, a red team against a white team taking turns to sing, a friendly sing off shape we can borrow for a year end Bro Bros special (Big Bro's team in red, Little Bro's in white, each singing a verse, everyone wins at the end), without using any real show branding.",
+     "src": "nippon.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1270
+    },
+    {
+     "t": "On 31 Dec Japanese temples ring their bell 108 times and some let visitors ring it, while families eat long soba noodles for a long life near midnight, so a gentle 'ring the bell, slurp the noodles' New Year counting song fits Japanese families and teaches big number counting without any religious lesson.",
+     "src": "nippon.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1270
+    },
+    {
+     "t": "In 2027 Bhogi and Lohri fall on Thu 14 Jan and Makar Sankranti and Thai Pongal on Fri 15 Jan in India, but on Thu 14 Jan (Lohri the evening of 13 Jan) for families in the US, Canada and the UK; Lohri has children going door to door singing for treats, so an Indian festival kite and bonfire song should be live by 10 Jan for both India and the diaspora.",
+     "src": "hindutone.com, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1270
     }
    ]
   },
@@ -22922,12 +22943,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:59",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 16:00",
-   "note": "Run 1191 (Shorts and Reels (Instagram second by second retention charts and skip rate benchmarks)): New: Instagram's Reel insights now show a second by second retention curve and a 3 second skip rate (Reels with 100+ plays, Professional accounts); one creator's 200 Reel benchmark calls a skip rate over 40% poor, 25 to 35% average and under 20% strong. Our 17 and 18 Nov Reels skipped at 66 to 77% except the digger song (37%), so our openings need the most work. Total 3148."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 16:00",
@@ -23240,6 +23257,10 @@
   {
    "date": "2026-11-19 18:55",
    "note": "Run 1269 (TRENDS (Virlo tracker, Brazil and Indonesia dance sounds)): Nothing new: Virlo's rising formats (pick your favourite, shoe kick outfit change, paparazzi bow), Indonesia's November joget sounds and Brazil's CapCut dance templates were already in the tree or not kid safe. No leaves added. Total 3261."
+  },
+  {
+   "date": "2026-11-19 18:55",
+   "note": "Run 1270 (topics and seasons (taken in place of rules because the run formula never reaches this focus): Japan's New Year's Eve and India's January harvest festivals): New: Japan's red versus white New Year's Eve song contest as a sing off format, the 108 bell rings and long life noodles for a counting song, and 2027 dates for Lohri, Sankranti and Pongal in India versus the diaspora (one day earlier abroad). Total 3264."
   }
  ],
  "history": [
@@ -23250,10 +23271,6 @@
   {
    "date": "2026-11-19 10:02",
    "total": 2824
-  },
-  {
-   "date": "2026-11-19 10:05",
-   "total": 2832
   },
   {
    "date": "2026-11-19 10:05",
@@ -24442,6 +24459,10 @@
   {
    "date": "2026-11-19 18:55",
    "total": 3261
+  },
+  {
+   "date": "2026-11-19 18:55",
+   "total": 3264
   }
  ],
  "next_week_ideas": [
