@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T17:35:39+05:30",
- "runs": 1239,
+ "updated": "2026-11-19T17:36:46+05:30",
+ "runs": 1240,
  "branches": [
   {
    "id": "platforms",
@@ -22385,6 +22385,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1216
+    },
+    {
+     "t": "A 'How could this day get any better' format (Sep 2026) shows one object with a deadpan face, then cuts to a whole pile of the same thing; for kids this works as one snowball, then a mountain of snowballs, landing the reveal on the chorus of our own song.",
+     "src": "Anijam TikTok trends, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1240
+    },
+    {
+     "t": "The 'Bob' format (Aug 2026) answers every question with the same single word while the delivery grows sillier each time; repetition with rising silliness is exactly what preschoolers love, so a Bro Bros Short where the little brother answers every question with 'Dance!' fits it with our own audio.",
+     "src": "Anijam TikTok trends, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1240
+    },
+    {
+     "t": "'Saxophones are getting louder' (Aug 2026) lays steadily rising instrumental music under calm everyday footage with on screen text that builds to a silly slow motion disaster; an original kids version can build music under a tower of blocks until it gently topples.",
+     "src": "Anijam TikTok trends, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1240
+    },
+    {
+     "t": "Anijam's trend guide notes that cartoon accounts suit absurd and repetition based formats best, while talking head and list formats suit realistic styles, so Bro Bros should pick repetition and reveal trends over talking or opinion trends.",
+     "src": "Anijam, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1240
     }
    ]
   }
@@ -22411,12 +22439,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:47",
-   "note": "Earlier: older log entries summarised; runs up to Run 1160 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 15:48",
-   "note": "Run 1161 (competitor deep dive (Upin and Ipin, Little Buddy Kids)): New: Malaysia's Upin and Ipin (Les' Copaque, 26.5M subscribers, 17.4B views) still earns about 123M views in 28 days with zero net subscriber growth, its biggest videos being full 20 minute episodes on everyday values (wind, palm oil, charity, buy wisely) and a festive song episode; Little Buddy Kids (US, 514K subscribers) drew about 96M views in 28 days though no long video passes 1M, so its reach comes from Shorts. Total 3125."
+   "note": "Earlier: older log entries summarised; runs up to Run 1161 covered all focus areas."
   },
   {
    "date": "2026-11-19 15:48",
@@ -22729,13 +22753,13 @@
   {
    "date": "2026-11-19 17:35",
    "note": "Run 1239 (Shorts and Reels formats and algorithm (newest platform changes)): Small: Instagram is building 'Clips as Reels' (cut parts of a long Features video into Reels that link back) and 'Save to TV', added Amazon affiliate links in Reels and 15 minute Story edits (16 Nov), and Dash Social's H2 2025 benchmark puts media and entertainment Reels at about 545K average views. Most other Shorts news (co views, Insights, Research tab, Shorts series) was already in the tree. Total 3188."
+  },
+  {
+   "date": "2026-11-19 17:36",
+   "note": "Run 1240 (TRENDS (mid November roundups recheck)): Small: this week's Reels and TikTok lists (It's time switch, glow up switch, Dame Hombro, Chipmunks dance, slow festive makeover) were already in the tree; added three older repeatable formats not yet logged (the one item then whole stash reveal, the same answer repeated with growing drama, and escalating music over calm footage) and a new trend bank entry for the stash reveal. Total 3192."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 08:42",
-   "total": 2737
-  },
   {
    "date": "2026-11-19 08:42",
    "total": 2739
@@ -23931,6 +23955,10 @@
   {
    "date": "2026-11-19 17:35",
    "total": 3188
+  },
+  {
+   "date": "2026-11-19 17:36",
+   "total": 3192
   }
  ],
  "next_week_ideas": [
@@ -23992,6 +24020,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "One, then a mountain",
+   "where": "TikTok and Reels (repeatable reveal format)",
+   "status": "evergreen",
+   "use": "Little Bro holds up one snowball with a straight face and the caption 'How could today get any better?'; on the chorus of our own winter song, cut to a huge pile of snowballs and both Bros do a happy arm pump in place (standing, both fists up and down twice, then a small hop). Works for toys, presents, cookies too."
+  },
   {
    "name": "Advent door a day",
    "where": "YouTube Shorts and Reels daily December series (Vlogmas, Shortsmas), 1 to 24 Dec",
@@ -24105,12 +24139,6 @@
    "where": "TikTok and Instagram (Startups.co.uk November 2026 list)",
    "status": "seasonal",
    "use": "Short with our own gentle song: the Bros zip their winter coats, look up and the screen dissolves into a sunny beach memory (splashing, sandcastles) for one chorus, then dissolves back to snow and they build a snowman smiling. Meshy prompt: standing in place, zip up a coat with both hands, look up dreamily with a slow sway side to side, then clap and bounce."
-  },
-  {
-   "name": "Shy then dance",
-   "where": "TikTok (the 'camera shy' audio is the world's fastest growing sound on 18 Nov 2026, about +130K new videos a day, 656K total)",
-   "status": "peak",
-   "use": "Short: our shy penguin friend turns its back when the Bros start dancing, peeks over its shoulder twice on two beats, then spins round and joins the chorus step, with our own song. Meshy prompt: a character stands with back turned, looks over one shoulder, turns back, looks over the other shoulder, then turns to face forward and bounces with arms swinging, standing in place."
   }
  ],
  "posting_plan": {
