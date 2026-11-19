@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T05:49:51+05:30",
- "runs": 868,
+ "updated": "2026-11-19T05:50:48+05:30",
+ "runs": 869,
  "branches": [
   {
    "id": "platforms",
@@ -3513,6 +3513,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 868
+    },
+    {
+     "t": "On 13 Nov 2026 YouTube announced that Studio's Analytics page on desktop becomes 'Insights', adding plain language summaries and grouped metric cards while keeping advanced analytics and real time data, so our weekly check of what worked gets quicker.",
+     "src": "ppc.land, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 869
+    },
+    {
+     "t": "Studio's new 'Research' tab (desktop, announced 13 Nov 2026) replaces Trends and ranks outlier videos, where 5x means five times a channel's usual views in the same format, with a Videos versus Shorts filter, which is a free way to spot breakout kids songs in our niche each week.",
+     "src": "ppc.land, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 869
     }
    ]
   },
@@ -13873,6 +13887,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 862
+    },
+    {
+     "t": "Ask Studio, YouTube's AI helper that can now diagnose retention and summarise comments on mobile, is not available to channels set as made for kids, so Bro Bros must read retention graphs and outliers by hand in Insights and Research.",
+     "src": "ppc.land, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 869
     }
    ]
   },
@@ -18157,7 +18178,7 @@
   "Subjects: family, animals, dogs, dinosaurs, vehicles, helpers, pretend play jobs and daily routines; each week make 2 songs as fresh Bro Bros twists on public domain rhymes (Wheels on the Bus, Old MacDonald, Five Little Ducks) with an animal or job twist, a mission in the title ('Catch the...!', 'Help the...!', 'Cure the boo boo!') and a learning tag.",
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele); reach the chorus by about 0:15, because our long songs hold viewers only about 20 seconds on average.",
   "Camera and motion: calm cuts every 3 to 6 s, lead Bro centred and big, gentle constant background motion (drifting clouds, bubbles, stars) that matches the song, bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
-  "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; every week make at least one healthy habit song led by a friendly helper mascot (brush teeth for two minutes, wash hands) and one sharing or taking turns song, the topics behind this autumn's biggest kids breakouts. Sing the learning word itself on the chorus melody, never only speak it, because 1 to 2 year olds learn new words only when they are sung (QJEP 2024).",
+  "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; every week make at least one healthy habit song led by a friendly helper mascot (brush teeth for two minutes, wash hands) and one sharing or taking turns song, the topics behind this autumn's biggest kids breakouts. Sing the learning word itself on the chorus melody, never only speak it, because 1 to 2 year olds learn new words only when they are sung (QJEP 2024). Every other week also make one cheerful everyday safety song (lifts, crossing the road, staying close in crowds), a top hit topic for Cocobi (stranger danger 32.7M, elevator safety 23.6M) and Zoobees.",
   "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak, a spoken action call by a Bro (speech in the first 3 s lifted 10 s retention by about 25% in brand Reels) or a tiny mystery question ('Who took the cookie?'), with motion or text in the first half second; make each Short a new cut with its own hook that loops back to the start; keep music Shorts about 30 to 40 s and set each Short's related video link to its full song.",
   "Thumbnails: one or two happy faces cropped big (both Bros, or a Bro with an animal friend; several face layouts beat single faces) (about 40% of the frame height), one clear action, one recognisable object, high contrast with a warm accent on a plain bright background (red and white or blue and orange), max 3 outlined words kept out of the bottom right corner; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos.",
   "Weekly long form: one 25 to 45 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday, because videos over 40 minutes break out far more often and kids compilations lift RPM; add a timestamp chapter per song named in the plain words parents search ('Brush Teeth Song', 'Dinosaur Stomp'); make the 25 Dec and 1 Jan Fridays holiday mega mixes, and have the main Christmas songs live by the first days of December because December ad rates run about 40 to 60% above January's and Christmas Reels are already peaking in late November; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
@@ -18170,11 +18191,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
-  },
-  {
-   "date": "2026-11-17 00:51",
-   "note": "Run 791 (rules and safety (FTC COPPA orders, AI labels on kids content, EU Digital Fairness Act)): The Disney COPPA order lessons, the May 2026 AI label rules (not shown on YouTube Kids, softer for animation) and the 11 Nov EU Digital Fairness Act proposal were already in the tree; no new leaves. Total 2362."
+   "note": "Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Summary: Earlier runs summarised: all rounds through Run 758 covered trends, algorithm, channels, music, visuals, topics, markets, rules and our own data."
   },
   {
    "date": "2026-11-17 00:52",
@@ -18487,13 +18504,13 @@
   {
    "date": "2026-11-19 05:49",
    "note": "Run 868 (posting times (Metricool YouTube model for 20 to 26 Nov)): Metricool's YouTube model for 20 to 26 Nov keeps 16:00 IST as the daily peak (Wednesday and Thursday highest, about 12,000), with Friday 20 Nov almost tied between 10:00 and 16:00 and Saturday and Sunday peaks at only about half of Wednesday's. The 04:00 to 05:00 IST hour scores only about a quarter of the peak for our current audience, which is mostly not American yet, but the 04:30 slot stays for the US test. No slot change. Total 2582."
+  },
+  {
+   "date": "2026-11-19 05:50",
+   "note": "Run 869 (YouTube algorithm and tools (Studio Insights and Research, 13 Nov 2026)): New: on 13 Nov 2026 YouTube announced that Studio's Analytics page becomes 'Insights' with plain language summaries, and a 'Research' tab replaces Trends, ranking outlier videos in our niche by how many times they beat their own channel's usual views, with a Videos versus Shorts filter; Ask Studio (the AI helper, now on mobile) is not available to made for kids channels. Playbook rule 9 now asks for an everyday safety song every other week, backed by Cocobi and Zoobees hits. Total 2585."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-16 16:45",
-   "total": 2061
-  },
   {
    "date": "2026-11-16 16:46",
    "total": 2062
@@ -19689,6 +19706,10 @@
   {
    "date": "2026-11-19 05:49",
    "total": 2582
+  },
+  {
+   "date": "2026-11-19 05:50",
+   "total": 2585
   }
  ],
  "next_week_ideas": [
