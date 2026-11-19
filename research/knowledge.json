@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:37:46+05:30",
- "runs": 1283,
+ "updated": "2026-11-19T19:38:18+05:30",
+ "runs": 1284,
  "branches": [
   {
    "id": "platforms",
@@ -22996,10 +22996,6 @@
    "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
-   "date": "2026-11-19 16:05",
-   "note": "Run 1205 (music craft (instrumental sing along versions rechecked)): Nothing new: instrumental and karaoke versions of kids songs for teachers and families were already in the tree. No leaves added. Total 3155."
-  },
-  {
    "date": "2026-11-19 16:06",
    "note": "Run 1206 (visual craft (asking the viewer a question and waiting)): New: Disney Research's preschool TV experiments (3 to 5 year olds) found that a character who waits for an answer roughly doubled how often children answered (73% versus 35%), 94% of answers came within 8 seconds and repeating an unanswered question got an answer 82% of the time; and child media researchers say young children learn more from characters they already know and trust, which argues for a fixed cast in every song. Total 3157."
   },
@@ -23310,13 +23306,13 @@
   {
    "date": "2026-11-19 19:37",
    "note": "Run 1283 (YouTube main and Kids (Top 50 week of 15 Nov, rules skipped because rechecked in run 1277)): Nothing new: Tubefilter's 9 to 15 Nov chart (Fitu K Kitu at No. 1, Twin Twin and Nabel Dan Mama new, 42 Shorts channels, 24 from India) and the Farmees, YUM YUM and Rhythm channel profiles were already in the tree; no new YouTube Kids app change found. No leaves added. Total 3271."
+  },
+  {
+   "date": "2026-11-19 19:38",
+   "note": "Run 1284 (YouTube algorithm (recommendation changes recheck)): Nothing new: Beaupre's Sep 2026 Creator Insider points (subscribers click about 10% of uploads, pull based ranking, Suggested as the top source), the Oct 2026 originality push for Shorts and the satisfied watch time shift were already in the tree; no confirmed November ranking change found. No leaves added. Total 3271."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:37",
-   "total": 2857
-  },
   {
    "date": "2026-11-19 10:38",
    "total": 2857
@@ -24511,6 +24507,10 @@
   },
   {
    "date": "2026-11-19 19:37",
+   "total": 3271
+  },
+  {
+   "date": "2026-11-19 19:38",
    "total": 3271
   }
  ],
