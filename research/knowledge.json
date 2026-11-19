@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:01:27+05:30",
- "runs": 1075,
+ "updated": "2026-11-19T13:02:04+05:30",
+ "runs": 1076,
  "branches": [
   {
    "id": "platforms",
@@ -7356,6 +7356,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1075
+    },
+    {
+     "t": "Jack Hartmann, whose catchy, goofy learning songs are played in US classrooms, said his YouTube views 'exploded' after he moved from filmed performances to animation, his first year earned only about 400 USD, and YouTube assigned him a partner consultant at 100K subscribers, a reminder that teachers are a second audience for learning songs and that growth starts slowly.",
+     "src": "East Idaho News, 2019",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1076
     }
    ]
   },
@@ -21123,12 +21130,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:53",
-   "note": "Earlier: 2 older log entries summarised; runs up to Run 996 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 10:54",
-   "note": "Run 997 (Shorts and Reels (Trial Reels scheduling and testing method)): Trial Reels results (Kapwing tests, Instagram's 80% claim) were already in the tree. New: since April 2026 Trial Reels can be scheduled ahead (a week of trials at once, with a Manual setting so we pick which winners go to followers), and testers advise changing only one thing per trial and judging after at least 24 hours. Total 2884."
+   "note": "Earlier: 2 older log entries summarised; runs up to Run 997 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:54",
@@ -21441,6 +21444,10 @@
   {
    "date": "2026-11-19 13:01",
    "note": "Run 1075 (global markets (Central Asia and Ethiopia gaps)): Filled two market gaps: D Billions, a Kyrgyzstan rooted kids music band, built about 56M subscribers and 55B views in five years from 500+ original songs (4 past a billion) in 12 languages with an 80 person team, moving from live performers to 2D and 3D animation; in Ethiopia a 60 second AI made caterpillar song from a learning app went viral on TikTok (about 4.3M views, 53K dubs). Total 3004."
+  },
+  {
+   "date": "2026-11-19 13:02",
+   "note": "Run 1076 (competitor deep dive (classroom movement channels: Jack Hartmann; Super JoJo search unreadable)): Jack Hartmann, a former kindergarten substitute whose songs are played in US classrooms, says his views 'exploded' once he added animation and that YouTube gave him a partner consultant at 100K subscribers; his growth was slow at first (about 400 USD after the first year). Super JoJo stats pages could not be read. Total 3005."
   }
  ],
  "history": [
@@ -22331,6 +22338,10 @@
   {
    "date": "2026-11-19 13:01",
    "total": 3004
+  },
+  {
+   "date": "2026-11-19 13:02",
+   "total": 3005
   }
  ],
  "next_week_ideas": [
