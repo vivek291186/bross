@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:35:59+05:30",
- "runs": 1082,
+ "updated": "2026-11-19T13:37:02+05:30",
+ "runs": 1083,
  "branches": [
   {
    "id": "platforms",
@@ -2211,6 +2211,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1081
+    },
+    {
+     "t": "For each copy that Instagram's content protection finds, the creator can block it on Instagram and Facebook, add an 'original by' label linking back to our Reel, keep monitoring its views, or release the claim, and approved accounts (a second Bro Bros account or a partner brand) can go on an allow list so they are never flagged.",
+     "src": "TechCrunch, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1083
+    },
+    {
+     "t": "Instagram's AI copy detection, starting with a small group of creators in the coming weeks, looks for videos that reuse a creator's original audio even when the picture has been changed by AI, so posting every Bro Bros song with our own original Suno track as the Reel audio makes AI made knock offs of our dances easier to catch.",
+     "src": "TechCrunch, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1083
     }
    ]
   },
@@ -4101,6 +4115,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1082
+    },
+    {
+     "t": "Instagram says it is exploring ways to cut the reach of accounts that repeatedly use AI tools to repost other people's videos, which adds to the originality push in ranking and favours a channel like ours that makes its own songs and animation.",
+     "src": "TechCrunch, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1083
     }
    ]
   },
@@ -21215,11 +21236,7 @@
  "log": [
   {
    "date": "2026-11-19 10:57",
-   "note": "Earlier: older log entries summarised; runs up to Run 1003 covered all focus areas."
-  },
-  {
-   "date": "2026-11-19 10:57",
-   "note": "Run 1004 (competitor deep dive (Moonbug compilation sub channels)): Moonbug's 'Kids Road Trip!' compilation channel (875K subscribers, about 1,010 videos averaging 52 minutes, 3 uploads a week) grew only about 0.4% a month and drew about 1.3M views a month in early 2025, so long compilation only side channels add little; compilations work best on the main channel. Total 2893."
+   "note": "Earlier: older log entries summarised; runs up to Run 1004 covered all focus areas."
   },
   {
    "date": "2026-11-19 10:58",
@@ -21532,6 +21549,10 @@
   {
    "date": "2026-11-19 13:35",
    "note": "Run 1082 (YouTube algorithm (November Studio and feed changes rechecked)): Mostly already known (co views, custom feeds, Research tab, Clips tool, Hype). New: Studio Insights now draws long videos and Shorts as separate lines with very different subscriber yields, saved keywords are leaving desktop Studio, and custom feeds allow 8 on Premium. Algorithm topic is close to saturated. Total 3017."
+  },
+  {
+   "date": "2026-11-19 13:37",
+   "note": "Run 1083 (Shorts and Reels (Instagram content protection details, November changes rechecked)): Instagram's new content protection (17 Nov 2026) offers block, label, monitor or release for copies, an allow list for our own second accounts, and an AI copy detector that matches reused audio, which suits our own Suno songs. Other November Reels and Edits changes and the Dame Hombro and friend group trends were already in the tree. Total 3020."
   }
  ],
  "history": [
@@ -22450,6 +22471,10 @@
   {
    "date": "2026-11-19 13:35",
    "total": 3017
+  },
+  {
+   "date": "2026-11-19 13:37",
+   "total": 3020
   }
  ],
  "next_week_ideas": [
