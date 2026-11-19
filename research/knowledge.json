@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:35:25+05:30",
- "runs": 1022,
+ "updated": "2026-11-19T11:42:10+05:30",
+ "runs": 1023,
  "branches": [
   {
    "id": "platforms",
@@ -11948,6 +11948,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1018
+    },
+    {
+     "t": "YouScan's English social listening from 11 Nov to 19 Dec 2025 found homemade decorating (ornaments, paper decorations, wreaths, baking) was the biggest Christmas theme at over 3.5M mentions, far above advent calendars (800K+) and gift ideas (642K+), so a 'make a paper snowflake' or 'decorate the tree together' song has a large, safe audience.",
+     "src": "YouScan, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1023
+    },
+    {
+     "t": "In the same YouScan data old family holiday films still drew huge chatter (Home Alone over 220K mentions) and families watching together was a strong theme, so cosy 'watch together on the sofa' songs and winter routines fit what parents are already doing in December.",
+     "src": "YouScan, Jan 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 1023
     }
    ]
   },
@@ -20516,6 +20530,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 990
+    },
+    {
+     "t": "A TikTok brand format this month gives each item on screen its own 'approved!' moment on the beat, one after another, then saves a big final cheer for the favourite; kids can do the same by stamping 'yes!' on each winter thing (mittens, scarf, cocoa) and crowning one best of all.",
+     "src": "Social Sound Report, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1023
+    },
+    {
+     "t": "A Reels travel format spells a word one letter per beat (each letter a quick clip) and then lets longer clips play; a Bro Bros spelling Short can spell W I N T E R or S N O W with one letter shape and one jump per beat, then burst into the chorus.",
+     "src": "Social Sound Report, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1023
     }
    ]
   }
@@ -20543,11 +20571,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 943 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 09:38",
-   "note": "Run 944 (competitor deep dive (The Kiboomers and Tiny Tunes)): The Kiboomers (Canada, 4.05M) still earn about 45M views in 28 days from only 5 new uploads, mostly from a family of seasonal freeze dance songs used by teachers; Tiny Tunes (UK) holds 1.2B views from only 112 videos, about 10M per video. Total 2753."
+   "note": "Earlier runs summarised: all rounds through Run 944 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 09:39",
@@ -20860,6 +20884,10 @@
   {
    "date": "2026-11-19 11:35",
    "note": "Run 1022 (Shorts and Reels (AIR Spanish kids Shorts reset case, Kids smile TV check)): AIR's WOA Song Spanish case: after deleting risky long videos and applying 34 kids quality rules, Shorts uploads rose from 8 to 31 a quarter and views jumped from about 27M to 1.46B (Q4 2025), with Shorts bringing over 98% of views. A 16.4M subscriber channel leaning on borrowed characters now gets only about 20K views per Short. Total 2921."
+  },
+  {
+   "date": "2026-11-19 11:42",
+   "note": "Run 1023 (TRENDS (weekly audio roundups and Christmas listening data)): Most trackers repeated October finds already in the tree. New: an 'approved, approved, approved' rating format on TikTok, a letter by letter spell out cut on Reels, and YouScan's Christmas listening data where DIY decorating (3.5M+ mentions) beat advent calendars (800K+) and Home Alone (220K+). Total 2925."
   }
  ],
  "history": [
@@ -21538,6 +21566,10 @@
   {
    "date": "2026-11-19 11:35",
    "total": 2921
+  },
+  {
+   "date": "2026-11-19 11:42",
+   "total": 2925
   }
  ],
  "next_week_ideas": [
@@ -21599,6 +21631,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Approve it on the beat",
+   "where": "TikTok brand and creator format (Social Sound Report, Nov 2026)",
+   "status": "rising",
+   "use": "Short with our own song: a Bro holds up a winter item on each beat (mittens, scarf, hot cocoa, sledge) and the other Bro gives it a big stamp and a thumbs up, then the last item gets a giant gold star and both cheer. Meshy prompt: standing in place, one arm stamps down in front of the body, then a thumbs up, then both arms up in a cheer with a small bounce."
+  },
   {
    "name": "Shy then dance",
    "where": "TikTok (the 'camera shy' audio is the world's fastest growing sound on 18 Nov 2026, about +130K new videos a day, 656K total)",
@@ -21712,12 +21750,6 @@
    "where": "TikTok December dance style (minimal 'Ace Up' hand dance, Dec 2025, likely to return)",
    "status": "seasonal",
    "use": "A 15 second Short where the Bros stand still and dance only with their hands to a twinkly verse of our own winter song: wiggle fingers like snow falling, make a star with both hands, roll the hands, then point at the camera on the last beat. Easy for toddlers on the sofa. Meshy prompt: standing still, arms in front of chest, small rhythmic hand rolls and finger wiggles, then both hands open wide beside the face, then a point forward."
-  },
-  {
-   "name": "Wrap it in 30 seconds",
-   "where": "TikTok, Reels and Shorts (December challenge style, Revid Christmas 2026 guide)",
-   "status": "seasonal",
-   "use": "A 30 second Short with a big on screen timer: Big Bro and Little Bro race to wrap a present (a teddy, a ball, a giant box) to a fast verse of our own 'Wrap It Up!' song; the messy funny results are revealed on the last beat, then both do the chorus dance. Caption: 'Can you wrap it before the bell?'. Meshy prompt: standing in place, fast arm rolling in front of the chest, then two claps above the head and a hop with arms up."
   }
  ],
  "posting_plan": {
