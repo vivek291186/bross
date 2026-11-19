@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:36:26+05:30",
- "runs": 934,
+ "updated": "2026-11-19T08:37:31+05:30",
+ "runs": 935,
  "branches": [
   {
    "id": "platforms",
@@ -14713,6 +14713,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 922
+    },
+    {
+     "t": "A simple self check from 2026 AI crackdown guides: if anyone else could produce the same video from the same prompt, the video is at risk under YouTube's inauthentic content rule, so each Bro Bros song needs its own human made choices (a story, a joke, a named dance, a scene) that a prompt alone would not give.",
+     "src": "OutlierKit, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 935
+    },
+    {
+     "t": "The channels removed in YouTube's 2026 AI cleanup had no human editorial step at all (AI wrote, voiced, animated and uploaded), and guides now advise auditing the last 20 to 30 uploads for repeated structure; for Bro Bros that means checking every week that titles, scenes and dance moves are not copies of last week's with a new name.",
+     "src": "OutlierKit, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 935
     }
    ]
   },
@@ -19185,11 +19199,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 855 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 05:38",
-   "note": "Run 856 (music craft (two new infant music studies)): Grammy kids nominees and newborn rhythm work were already in the tree. New: a PLOS ONE study (17 Nov 2026, 42 Nashville families) found parent singing at 6 to 12 months predicted more words at 18 and 24 months, more strongly than the general home music level; an eLife preprint (79 babies) found structured songs light up the brain from 3 months but babies only start moving more to real music at 12 months, mostly arms and upper body, and none moved on the beat. Total 2539."
+   "note": "Earlier runs summarised: all rounds through Run 856 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 05:39",
@@ -19502,6 +19512,10 @@
   {
    "date": "2026-11-19 08:36",
    "note": "Run 934 (TRENDS (Anijam 4 Nov Reels list, Epidemic Sound 13 Nov, NewEngen 16 Nov rechecked)): Trend lists from 4 to 16 Nov were almost fully covered already. New: a rhinestone 'bedazzling' Reels craze (a 'Sparkle it up!' lunchbox Short fits it) and an alarm clock meltdown skit that suits a wake up dance song; the mid November cycle has slowed before the December wave. Total 2727."
+  },
+  {
+   "date": "2026-11-19 08:37",
+   "note": "Run 935 (rules and safety (AI slop crackdown recap, UK ban widening rechecked)): Rules news through 18 Nov (UK plan to widen the under 16 ban to YouTube Kids, Australia's High Court case, 30 day spam lock, COPPA) was already in the tree. Added a practical 'could anyone make this from the same prompt?' check and a weekly 20 to 30 upload audit for repeated structure. Total 2729."
   }
  ],
  "history": [
@@ -20576,6 +20590,10 @@
   {
    "date": "2026-11-19 08:36",
    "total": 2727
+  },
+  {
+   "date": "2026-11-19 08:37",
+   "total": 2729
   }
  ],
  "next_week_ideas": [
