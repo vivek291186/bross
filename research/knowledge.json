@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:07:09+05:30",
- "runs": 899,
+ "updated": "2026-11-19T07:36:08+05:30",
+ "runs": 900,
  "branches": [
   {
    "id": "platforms",
@@ -6299,6 +6299,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 897
+    },
+    {
+     "t": "The Christmas Songs and Carols (Love to Sing) channel, 3.03M subscribers and 1.79B views, gained about 9.4M views from 19 Sep to 18 Oct 2026 (roughly 300K a day) and uploaded its 2026 Christmas playlist on 17 Oct, so holiday song demand starts building from mid October and our own winter songs should be live by late November to ride December.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 900
+    },
+    {
+     "t": "That carol channel's top videos are simple lyrics on screen versions (Feliz Navidad with lyrics 18.8M, Jingle Bells with lyrics 10.4M, Deck the Halls 9.5M) and a 'Top 90 Christmas Songs' compilation (14.6M), so a lyrics on screen sing along cut of each original Bro Bros winter song is a cheap extra upload that families search for at parties.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 900
+    },
+    {
+     "t": "RhymeMusicBox (276K subscribers, 178M views from only 44 videos) owes 128M views to one Baby Shark plus Ten in the Bed medley, posted nothing new after Oct 2024, and showed net monthly view losses in Aug (minus 4.0M) and Oct 2026 (minus 2.5M), likely view count corrections, so a channel that leans on one public domain medley stalls without fresh uploads.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 900
+    },
+    {
+     "t": "Kids Song Family shows 7.77M subscribers but only about 8.6K total views on 12 videos and now posts toddler songs that name famous characters in titles, a sign of a repurposed old channel, so subscriber counts alone are a poor guide to which kids competitors really matter; views per video and recent monthly views are the better yardstick.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-19",
+     "run": 900
     }
    ]
   },
@@ -18558,10 +18586,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 02:40",
-   "note": "Run 821 (visual craft (Blender 5.3 EEVEE notes)): Thumbnail, title and Meshy tool studies were already in the tree. New from the Blender 5.3 EEVEE notes: the sky texture sun disc now lights the scene (a breaking change for old files), six new material lighting nodes allow true toon shading, and Vulkan is faster in some scenes and slower in others. Total 2412."
-  },
-  {
    "date": "2026-11-19 02:41",
    "note": "Run 822 (topics and seasons (Gen Alpha rooms, trending toy themes)): Skipped a second TRENDS round within minutes of the last. Season dates, toy lists and World Children's Day were already in the tree. New: Bloomberg's 2026 look at Gen Alpha rooms shows kids owning retro music gear (boomboxes, karaoke mics, drum machines) and loving disco, glitter, pandas and wizards; ABC News says squishy toys are having an especially big 2026. Added the song idea 'Boombox Beat Bros!'. Total 2415."
   },
@@ -18872,6 +18896,10 @@
   {
    "date": "2026-11-19 07:07",
    "note": "Run 899 (rules and monetisation (Partner Program 2027 changes, Grammy kids list check)): Nothing new: the Partner Program rules from 1 Feb 2027 (20M Shorts views in 90 days to join, 10M rolling Shorts views to keep Shorts pay) and this year's Grammy Best Children's Music Album nominees were already in the tree. No leaves added. Total 2637."
+  },
+  {
+   "date": "2026-11-19 07:36",
+   "note": "Run 900 (YouTube main and Kids (vidIQ Christmas carol and small nursery channels; Metricool still ends 16 Nov, so own results skipped)): Metricool YouTube data still stops at 16 Nov, so the own results round was skipped. From vidIQ: the Christmas Songs and Carols channel (3.03M) was already pulling about 300K views a day from mid September to mid October and posted its 2026 playlist on 17 Oct, and its biggest videos are plain lyrics on screen carols, so our winter songs need lyric sing along versions out before December. Total 2641."
   }
  ],
  "history": [
@@ -19806,6 +19834,10 @@
   {
    "date": "2026-11-19 07:07",
    "total": 2637
+  },
+  {
+   "date": "2026-11-19 07:36",
+   "total": 2641
   }
  ],
  "next_week_ideas": [
