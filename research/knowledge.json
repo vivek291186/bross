@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:56:42+05:30",
- "runs": 922,
+ "updated": "2026-11-19T07:57:14+05:30",
+ "runs": 923,
  "branches": [
   {
    "id": "platforms",
@@ -6558,6 +6558,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 920
+    },
+    {
+     "t": "HeyKids English (4.78M subscribers, 2.83B views) earns about 17M to 27M views a month, with a March 2026 high of 44M, and its top videos are a construction vehicles song (79.7M), a Halloween song (64.5M) and a train song (51.6M), so vehicles plus one seasonal anthem a year are the backbone of a mid sized 3D nursery channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 923
+    },
+    {
+     "t": "HeyKids turned one public domain action song into a family of versions (a Christmas edition, 27.4M views, and a birthday edition, 26.8M), showing that a single simple chant re dressed for each occasion keeps earning; we can do the same with one original Bro Bros action chant reused for Christmas, birthdays and New Year.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 923
+    },
+    {
+     "t": "Kids Channel Preschool (US, 826K) gets about 343M of its 511M lifetime views from one 2022 phonics song, and its views rise in May and June (about 9M a month) and fall to about 4M to 5M in winter, while its new Santa song had only 348 views in two days, so a small channel's Christmas song without search demand or a hook rarely moves, and evergreen learning songs carry the year.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 923
     }
    ]
   },
@@ -19034,10 +19055,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 04:44",
-   "note": "Run 844 (music craft (emotion cues for preschoolers, key changes, singing at home)): Suno v6 and the 2027 children's Grammy list were already in the tree. New: a Penn study of 144 preschoolers found they read emotion in 5 second clips best for high energy and major key music (36% against 25% chance), with calm and sad hardest; key changes fell from about a quarter of US No. 1 hits (1960s to 1990s) to one between 2010 and 2020; a 6,000 child New Zealand study shows parents sing less as children grow and children listen alone more. Total 2498."
-  },
-  {
    "date": "2026-11-19 04:45",
    "note": "Run 845 (visual craft (Blender 5.3 animation and splat details; Meshy changelog has no new motion update)): Most Blender 5.3 and Meshy 7.1 changes were already in the tree, and Meshy's changelog shows no Text to Motion update since July. New: Blender 5.3 adds world space copy and paste of poses and Rigify B Bone fixes, compositor playback caching up to twice as fast, and native Gaussian splat import that renders in EEVEE and Cycles. Total 2501."
   },
@@ -19348,6 +19365,10 @@
   {
    "date": "2026-11-19 07:56",
    "note": "Run 922 (rules and safety (TRENDS skipped, nothing new last round; COPPA amendments, AI enforcement rechecked)): AI enforcement news was already in the tree. New on COPPA: the FTC's amended rule took full effect on 22 Apr 2026, fines reach about 53,000 USD per violation, YouTube's systems can switch a video to 'made for kids' and the creator then cannot undo it without an appeal, and the FTC judges child direction from music, animated characters, visuals and language, all of which apply to us. Total 2705."
+  },
+  {
+   "date": "2026-11-19 07:57",
+   "note": "Run 923 (YouTube main and Kids (own results skipped; HeyKids English and Kids Channel Preschool)): HeyKids English (4.78M) earns about 17M to 27M views a month and its biggest hits are a construction vehicle song (80M), a Halloween song (64M) and a train song (52M), with a Christmas version of a public domain action song at 27M. Kids Channel Preschool (826K) owes most of its 511M views to one phonics song (343M) and its new Santa song drew only 348 views in two days. Total 2708."
   }
  ],
  "history": [
@@ -20374,6 +20395,10 @@
   {
    "date": "2026-11-19 07:56",
    "total": 2705
+  },
+  {
+   "date": "2026-11-19 07:57",
+   "total": 2708
   }
  ],
  "next_week_ideas": [
