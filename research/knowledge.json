@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:45:34+05:30",
- "runs": 1374,
+ "updated": "2026-11-19T23:45:56+05:30",
+ "runs": 1375,
  "branches": [
   {
    "id": "platforms",
@@ -23748,12 +23748,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:44",
-   "note": "Earlier: older log entries summarised (runs up to 1295); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:45",
-   "note": "Run 1296 (our own results (Metricool queue and publish status)): New: the 19 Nov 16:00 IST bubble gum song went live on YouTube but Metricool reports 'Could not upload video thumbnail', so it is running on an auto picked frame; the farm band song, its Short and Reel (10:00) and the bubble gum Short and Reel published normally. Analytics still stop at 16 Nov for YouTube and show no 19 Nov Reels yet. Total 3279."
+   "note": "Earlier: older log entries summarised (runs up to 1296); details are in git history."
   },
   {
    "date": "2026-11-19 19:45",
@@ -24066,13 +24062,13 @@
   {
    "date": "2026-11-19 23:45",
    "note": "Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)): Nothing new: 'turn into a cute little X', Let's Groove and the December holiday calendars were already in the tree; the other memes (squirrel in a tornado, nuggets, Cat in the Hat hoax) are tied to films, adult songs or scary hoaxes and are not for us. No leaves added. Chrome not available. Total 3379."
+  },
+  {
+   "date": "2026-11-19 23:45",
+   "note": "Run 1375 (global markets recheck (Africa and Philippines)): Nothing new: YouTube reach and watch time growth in Nigeria, South Africa and Kenya, Ubongo's Akili and Me, Jeni and Keni and Philippine kids channel rankings were already in the tree. No leaves added. Chrome not available. Total 3379."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:01",
-   "total": 3004
-  },
   {
    "date": "2026-11-19 13:02",
    "total": 3005
@@ -25263,6 +25259,10 @@
   },
   {
    "date": "2026-11-19 23:44",
+   "total": 3379
+  },
+  {
+   "date": "2026-11-19 23:45",
    "total": 3379
   },
   {
