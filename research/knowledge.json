@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T18:45:51+05:30",
- "runs": 1257,
+ "updated": "2026-11-19T18:46:55+05:30",
+ "runs": 1258,
  "branches": [
   {
    "id": "platforms",
@@ -17583,6 +17583,27 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1211
+    },
+    {
+     "t": "Google withholds US tax only from YouTube earnings made from US viewers if the creator files Form W-8BEN in AdSense (India's treaty rate is 15%, entered with the PAN and the 'other copyright royalties' line), but can withhold up to 24% of all worldwide YouTube earnings if no form is filed, so the Bro Bros AdSense account needs an approved W-8BEN before the first payout.",
+     "src": "air.io, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1258
+    },
+    {
+     "t": "A W-8BEN signed in 2026 stays valid until 31 Dec 2029, Google asks creators to review tax info by 10 December each year, and wrongly withheld tax can only be refunded within the same calendar year (corrected form by 31 Dec), so checking the Bro Bros tax form in early December matters this year.",
+     "src": "air.io, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1258
+    },
+    {
+     "t": "An Oct 2026 ESRB Privacy Certified analysis notes that US states now attack kids' harms mainly through design rules (recommendation feeds, push notifications, time limits) while COPPA covers data, and repeats that the FTC's Disney case punished child directed YouTube videos marked 'not made for kids'; marking every Bro Bros upload made for kids stays the safest choice.",
+     "src": "esrb.org, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1258
     }
    ]
   },
@@ -22789,12 +22810,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 15:54",
-   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
-  },
-  {
    "date": "2026-11-19 15:55",
-   "note": "Run 1179 (Shorts and Reels (Facebook Reels as a third outlet)): New: Socialinsider's 25M post Facebook study shows Reels on small pages get only about 10 to 50 views each (fewer than photos and albums), so Facebook is not worth our effort yet; but Facebook's Creator Fast Track (updated 13 Nov 2026) pays creators with 100K+ followers elsewhere 1,000 USD a month for three months of Reels plus a reach boost, a future option once a Bro Bros platform passes 100K. Total 3138."
+   "note": "Earlier: older log entries summarised; earlier runs covered all focus areas (see git history for details)."
   },
   {
    "date": "2026-11-19 15:55",
@@ -23107,16 +23124,16 @@
   {
    "date": "2026-11-19 18:45",
    "note": "Run 1257 (TRENDS (Roblox and Fortnite dance emotes)): Small: the Trending Emote Dance game and the emote licensing lawsuit were already in the tree; added Aura Dance Battles' weekly Saturday phonk and emote drop, Fortnite's habit of buying named viral dances as emotes, and how fast Roblox kid trends age. Total 3242."
+  },
+  {
+   "date": "2026-11-19 18:46",
+   "note": "Run 1258 (rules and money (US tax on YouTube earnings)): New: with an approved W-8BEN Google withholds only 15% of US viewer earnings for an Indian creator instead of up to 24% of everything, forms signed in 2026 last to end 2029 and the yearly review deadline is 10 Dec; ESRB notes states now regulate kids' feeds and notifications by design rules. Total 3245."
   }
  ],
  "history": [
   {
    "date": "2026-11-19 09:41",
    "total": 2770
-  },
-  {
-   "date": "2026-11-19 09:50",
-   "total": 2803
   },
   {
    "date": "2026-11-19 09:51",
@@ -24309,6 +24326,10 @@
   {
    "date": "2026-11-19 18:45",
    "total": 3242
+  },
+  {
+   "date": "2026-11-19 18:46",
+   "total": 3245
   }
  ],
  "next_week_ideas": [
