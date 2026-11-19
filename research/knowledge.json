@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T03:37:51+05:30",
- "runs": 1422,
+ "updated": "2026-11-20T03:38:45+05:30",
+ "runs": 1423,
  "branches": [
   {
    "id": "platforms",
@@ -16470,6 +16470,34 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1411
+    },
+    {
+     "t": "A dubbing vendor's three YouTube case studies (Sep 2026) found English AI auto dub tracks held viewers 4 to 10 times shorter than professionally voiced tracks; on an Italian kids channel the human dubs averaged 5 to 6 minutes watched versus 54 seconds for the AI track.",
+     "src": "air.io, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1423
+    },
+    {
+     "t": "In the same study the professional dubs of one nature channel ranked Spanish (5:19 average view) and Portuguese (5:01) close to the original, ahead of Italian (4:23), Bulgarian (3:51) and French (3:40), more evidence that Spanish and Portuguese are the first languages worth a full Bro Bros version.",
+     "src": "air.io, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1423
+    },
+    {
+     "t": "The vendor says children leave fast when a dubbed voice sounds flat or too adult, so for songs a flat auto dub is risky: re-generate each song in Suno with a child friendly sung vocal in the target language rather than relying on YouTube's spoken auto dub.",
+     "src": "air.io, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1423
+    },
+    {
+     "t": "China's Winsing Animation said in Nov 2026 that its new wordless slapstick shorts about pets and owners already won several territory deals because they need no translation; our dance only Shorts and instrumental chorus loops can travel to every market the same way.",
+     "src": "Senal News, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1423
     }
    ]
   },
@@ -24400,11 +24428,7 @@
  "log": [
   {
    "date": "2026-11-19 21:48",
-   "note": "Earlier runs summarised: 2 older log lines merged (2026-11-19 20:46 to 2026-11-19 21:48), steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-19 21:48",
-   "note": "Run 1344 (our own results (Metricool recheck)): YouTube views for 5 to 16 Nov total about 10.9K (about 900 a day) with 20 new subscribers and 2 lost; data still ends 16 Nov. The 18 Nov Reels held viewers about 4 to 4.5 seconds; no 19 Nov Reel data yet. Chrome not available. Total 3349."
+   "note": "Earlier runs summarised: 2 older log lines merged (2026-11-19 21:48 to 2026-11-19 21:48), steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 22:35",
@@ -24717,6 +24741,10 @@
   {
    "date": "2026-11-20 03:37",
    "note": "Run 1422 (TRENDS (trend lifespans and caution list)): Most of this week's Reels and TikTok lists (Later 13 Nov, SocialPilot 17 Nov, NewEngen 16 Nov, B&T 2 Nov) were already in the tree. New: the soft launch reveal sound is already slowing (76K new videos a day on 18 Nov, down 12%), last December's biggest reaction dance started in October, and two dance trends to avoid. Swapped 'Expectation vs reality' (past peak) for 'Shy then dance' in the trend bank. Chrome not available. Total 3472."
+  },
+  {
+   "date": "2026-11-20 03:38",
+   "note": "Run 1423 (global markets (dubbing quality and wordless content)): New retention numbers on AI versus human dubbing (AI tracks held viewers 4 to 10 times shorter in a vendor's three case studies, including an Italian kids channel) and a Chinese studio's point that wordless slapstick shorts sell across territories fastest. Supports re-singing songs per language instead of relying on auto dubbing. Chrome not available. Total 3476."
   }
  ],
  "history": [
@@ -25679,6 +25707,10 @@
   {
    "date": "2026-11-20 03:37",
    "total": 3472
+  },
+  {
+   "date": "2026-11-20 03:38",
+   "total": 3476
   }
  ],
  "next_week_ideas": [
