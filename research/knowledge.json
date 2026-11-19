@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T08:01:17+05:30",
- "runs": 928,
+ "updated": "2026-11-19T08:02:00+05:30",
+ "runs": 929,
  "branches": [
   {
    "id": "platforms",
@@ -8308,6 +8308,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 917
+    },
+    {
+     "t": "Music and the Child (SUNY open textbook) puts the comfortable singing range at middle C to A for ages 3 to 5 and C to the C above for ages 6 to 8, with children strongest around F and G, and notes that the tessitura (where most notes sit) matters more than the single highest note, so our melodies should keep most notes between F and C above middle C.",
+     "src": "Music and the Child (SUNY), 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 929
+    },
+    {
+     "t": "The same text warns that adults naturally pitch songs too low for children, which stops kids reaching notes and knocks their confidence, and recommends a light head voice; for Suno that means asking for a bright, light, higher pitched lead vocal and checking that our male sounding 'big brother' voice is not singing below middle C.",
+     "src": "Music and the Child (SUNY), 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 929
+    },
+    {
+     "t": "Children learn songs fastest when phrases run four to eight beats, lines repeat the same melody (three of four lines alike is common in classic rhymes) and the song starts without a tricky pickup note, so each Bro Bros verse should be built from short, repeated four to eight beat phrases with a counted in start.",
+     "src": "Music and the Child (SUNY), 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 929
     }
    ]
   },
@@ -19097,10 +19118,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 04:49",
-   "note": "Run 850 (rules and monetisation (AIR Shorts versus long RPM, Q4 ad season)): Most of AIR's 274 channel RPM study was already in the tree. New: December CPMs run about 40 to 60% above January, kids channels' long form RPM was 26% lower in months heavy on Shorts (21+), and a Shorts to long video ratio of about 0.28 to 0.40 went with the best mix of subscribers and revenue; with 14 Shorts a week we sit far above that, so the extra Shorts must keep pointing to full songs. Total 2517."
-  },
-  {
    "date": "2026-11-19 04:51",
    "note": "Run 851 (competitor deep dive (ChuChu TV upload pattern, Jul to Oct 2026) and December dates): ChuChu TV's monthly view slide was already in the tree. New from its 15 newest uploads (25 Jul to 8 Oct 2026): 9 of 15 went out on a Friday, the long ones carry the runtime in the title (19 to 57 minutes), a 'Learn Numbers 1 to 10 with Surprise Eggs' hour got the most views (about 858K) and dinosaur songs about 620K, while 'Bestie and Friends' story skits and How to Draw hours trail and no Christmas upload had appeared by mid November. Also: Thailand marks Father's Day on Saturday 5 Dec. Total 2521."
   },
@@ -19411,6 +19428,10 @@
   {
    "date": "2026-11-19 08:01",
    "note": "Run 928 (other platforms (TRENDS skipped; screen free audio players in New Zealand, Spotify kids accounts rechecked)): Screen free audio keeps booming: in New Zealand Tonies box sales doubled from 2024 to 2025 and are expected to double again in 2026, Yoto's local customer base roughly doubled in a year, families there listen about an hour a day, and recommendations spread at school pick up. Spotify's parent managed accounts were already in the tree. Total 2714."
+  },
+  {
+   "date": "2026-11-19 08:02",
+   "note": "Run 929 (music craft (children's singing ranges and phrase lengths)): A university music education text gives comfortable ranges of middle C to A for ages 3 to 5, C to the next C for ages 6 to 8, with children strongest around F and G; adult pitched songs usually sit too low, phrases of 4 to 8 beats are easiest, and a light head voice beats a heavy chest voice. This confirms playbook rule 2 and adds Suno prompt details. Total 2717."
   }
  ],
  "history": [
@@ -20461,6 +20482,10 @@
   {
    "date": "2026-11-19 08:01",
    "total": 2714
+  },
+  {
+   "date": "2026-11-19 08:02",
+   "total": 2717
   }
  ],
  "next_week_ideas": [
