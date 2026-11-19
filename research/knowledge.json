@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T07:40:42+05:30",
- "runs": 903,
+ "updated": "2026-11-19T07:41:52+05:30",
+ "runs": 904,
  "branches": [
   {
    "id": "platforms",
@@ -8042,6 +8042,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 893
+    },
+    {
+     "t": "In a 2026 Italian study (Early Childhood Education Journal, about 100 children aged 2 and 4) eight weekly music sessions of rhythm copying, body percussion and guided movement more than doubled toddlers' rhythm imitation scores (1.65 to 3.92) and raised 4 year olds' scores (4.33 to 7.04), so 'I clap, you clap' echo breaks in our songs match what young children can learn quickly.",
+     "src": "Early Childhood Education Journal, 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 904
+    },
+    {
+     "t": "The same study found music training improved 4 year olds' attention speed and working memory but did not grow vocabulary in either age group, so our learning songs can honestly promise listening, copying and focus play, while new words still need repetition and pictures rather than music alone.",
+     "src": "Early Childhood Education Journal, 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 904
+    },
+    {
+     "t": "Rioux and Grondin (Scientific Reports, 2025) found that children aged 5 to 12 accept a wider range of tempos than young adults, whose preferred tempo narrows to one steady default, so kids songs can safely play with fast and slow sections (a 'super slow, now super fast' dance) without losing them.",
+     "src": "Scientific Reports, 2025",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 904
     }
    ]
   },
@@ -18663,10 +18684,6 @@
    "note": "Earlier runs summarised: all rounds through Run 820 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
-   "date": "2026-11-19 02:49",
-   "note": "Run 825 (TRENDS (SocialPilot TikTok 17 to 25 Nov, holiday dance revivals)): SocialPilot's TikTok list for 17 to 25 Nov adds a rising 'camera shy' format (a pet acts shy or grumpy, then gives in and dances) and Thanksgiving 'what I'm bringing' clips for 21 to 25 Nov; Daily Dot's archive shows a classic cartoon holiday dance revived last December. Added 'Shy then dance' to the trend bank and dropped 'Trio spin swap', which peaked in October. Total 2424."
-  },
-  {
    "date": "2026-11-19 02:51",
    "note": "Run 826 (rules, safety and monetisation (EU Kids Act status, channel descriptions)): YouTube monetisation, AI and COPPA changes for 2026 were already in the tree. New: on 10 Nov 2026 the EU urged quick adoption of the Kids Act (no accounts under 13, parent opened one hour accounts at 13 to 14, consultation open to 26 Nov), and since May 2026 channel descriptions are directly enforceable under YouTube's Community Guidelines. Total 2427."
   },
@@ -18977,6 +18994,10 @@
   {
    "date": "2026-11-19 07:40",
    "note": "Run 903 (other platforms (Netflix English films top 10, Roblox concerts, Spotify)): Netflix's English film chart for 26 Oct to 1 Nov had 7 family or animated library titles, including four films from one prehistoric ice animal franchise (2.1M to 2.4M views each) and a race car versus dinosaur special (2.6M in week 2), so cold prehistoric animals and cars meeting dinosaurs are what families are streaming as winter starts. Spotify and Alexa checks held nothing new. Total 2652."
+  },
+  {
+   "date": "2026-11-19 07:41",
+   "note": "Run 904 (music craft (TRENDS skipped, nothing new last round; child rhythm studies)): A 2026 Early Childhood Education Journal study found 8 weekly music sessions doubled toddlers' rhythm copying scores and sharpened 4 year olds' attention and working memory, though not vocabulary, so clap back echo sections are worth building into songs; a Scientific Reports study shows children accept a wider spread of tempos than adults. Total 2655."
   }
  ],
  "history": [
@@ -19927,6 +19948,10 @@
   {
    "date": "2026-11-19 07:40",
    "total": 2652
+  },
+  {
+   "date": "2026-11-19 07:41",
+   "total": 2655
   }
  ],
  "next_week_ideas": [
