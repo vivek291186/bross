@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T11:03:51+05:30",
- "runs": 1018,
+ "updated": "2026-11-19T11:04:22+05:30",
+ "runs": 1019,
  "branches": [
   {
    "id": "platforms",
@@ -3989,6 +3989,13 @@
      "conf": "low",
      "date": "2026-11-19",
      "run": 1010
+    },
+    {
+     "t": "A brand new YouTube Kids profile gets no personalised recommendations until it has enough viewing history, so new users first see the curated category rows (series, music, learning, discovery, games) and popular picks; clear category signals (music, learning) in our titles and descriptions help us get placed there.",
+     "src": "PPC Land / YouTube Help FAQ, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1019
     }
    ]
   },
@@ -15742,6 +15749,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 996
+    },
+    {
+     "t": "YouTube Kids relies on automated checks of thumbnail, title and video plus spot human review (it cannot review every video), and parent reports are checked around the clock; a video judged unsuitable is removed for all users, so one scary or rude frame can take a Bro Bros song out of the app entirely.",
+     "src": "PPC Land / YouTube Help FAQ, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1019
     }
    ]
   },
@@ -20494,11 +20508,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 939 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 08:42",
-   "note": "Run 940 (music craft (TRENDS skipped, thin this run; preschool rhythm and movement trial)): Baby movement (eLife, 79 babies) and the Verona 108 child rhythm study were already in the tree. New: an Australian trial with 213 preschoolers found eight weeks of rhythm and movement games improved prosocial behaviour and cut behaviour problems for at least six months, which backs our freeze, slow and fast cue songs as self regulation songs. Total 2737."
+   "note": "Earlier runs summarised: all rounds through Run 940 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 08:42",
@@ -20811,6 +20821,10 @@
   {
    "date": "2026-11-19 11:03",
    "note": "Run 1018 (YouTube main (NuNu Tv deep look)): NuNu Tv Nursery Rhymes (US, 29.9M subscribers, 26.7B views from only 847 videos) still adds 480M to 720M views a month; its top videos mix colour learning twists on classic rhymes (finger family colours 325M, color sheep 272M) with behaviour songs such as 'I Want That, Share It Please' (270M), and its newest ABC song took about 204K views in its first 37 hours. Total 2914."
+  },
+  {
+   "date": "2026-11-19 11:04",
+   "note": "Run 1019 (YouTube Kids app discovery (Help Center FAQ via PPC Land)): Most YouTube Kids gate rules were already in the tree (automated checks of thumbnail, title and content; no packaging or buying focus; five home categories). New: a new YouTube Kids profile gets no personalised recommendations until it builds viewing history, so the app first shows category and popular picks, and parent reports are reviewed around the clock with removal for all users. Total 2916."
   }
  ],
  "history": [
@@ -21473,6 +21487,10 @@
   {
    "date": "2026-11-19 11:03",
    "total": 2914
+  },
+  {
+   "date": "2026-11-19 11:04",
+   "total": 2916
   }
  ],
  "next_week_ideas": [
