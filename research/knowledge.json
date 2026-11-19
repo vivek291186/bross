@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:48:55+05:30",
- "runs": 1322,
+ "updated": "2026-11-19T20:49:44+05:30",
+ "runs": 1323,
  "branches": [
   {
    "id": "platforms",
@@ -23293,12 +23293,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:39",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:40",
-   "note": "Run 1244 (global markets (YouTube money by region)): Small: WARC puts YouTube's 2025 ad revenue at 40.4B USD with growth slowing to about 7% in 2026, TV sessions over 45 minutes with over 95% completion, and 3Vision splits Sub Saharan Africa's YouTube ad money (South Africa about 191M USD, Nigeria about 128M in 2026, both roughly doubling by 2031). Dubbing language and Africa channel facts were already in the tree. Total 3206."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:41",
@@ -23611,13 +23607,13 @@
   {
    "date": "2026-11-19 20:48",
    "note": "Run 1322 (YouTube algorithm (originality and Shorts reuse)): Small: Beaupre's Sep 2026 interview points (subscribers click 10% or less of uploads, Home weighs Home performance only) were already in the tree; new is that Shorts revenue sharing counts only engaged views and excludes re uploads and compilations without anything new added, so a 'best of' Short stitched from our older Shorts may earn nothing. Total 3314."
+  },
+  {
+   "date": "2026-11-19 20:49",
+   "note": "Run 1323 (other platforms (Netflix kids charts, Roblox music games; Shorts round skipped as just done)): Nothing new: Netflix's most watched animated series of 2026 (Peppa Pig, The Creature Cases, Masha, CoComelon, Little Angel, Bebefinn), Gabby's Dollhouse season 14's strong four episode debut and Roblox dance and musical chairs games were already in the tree. No leaves added. Total 3314."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:42",
-   "total": 2925
-  },
   {
    "date": "2026-11-19 11:42",
    "total": 2929
@@ -24812,6 +24808,10 @@
   },
   {
    "date": "2026-11-19 20:48",
+   "total": 3314
+  },
+  {
+   "date": "2026-11-19 20:49",
    "total": 3314
   }
  ],
