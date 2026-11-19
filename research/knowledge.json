@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T09:43:13+05:30",
- "runs": 950,
+ "updated": "2026-11-19T09:44:04+05:30",
+ "runs": 951,
  "branches": [
   {
    "id": "platforms",
@@ -19508,6 +19508,34 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 945
+    },
+    {
+     "t": "76 of the 100 most viewed YouTube Shorts ever carry the made for kids flag, so kids Shorts are the single biggest Shorts category on the platform.",
+     "src": "TrendReport, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 951
+    },
+    {
+     "t": "An Arabic 'hear the colour and catch it fast' game Short uploaded on 6 Jan 2026 is already the third most viewed Short of all time at about 3.9B views in ten months, proving that a simple call and catch colour game travels across languages.",
+     "src": "TrendReport, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 951
+    },
+    {
+     "t": "A toddler 'colour and fruit sorting' game Short (about 3.1B) sits in the all time Shorts top 10, so sort the fruit into the matching colour bowl to the beat is a proven evergreen format for our counting and colour songs.",
+     "src": "TrendReport, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 951
+    },
+    {
+     "t": "Sharing and manners lessons fill much of the all time Shorts top 20 (a baby sharing food with farm animals at 2.8B, gumball and playroom sharing lessons at 2.3 to 2.7B), so a 15 second 'share it with a friend' moment is one of the strongest kid Short story beats.",
+     "src": "TrendReport, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 951
     }
    ]
   }
@@ -19535,11 +19563,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 871 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-19 06:37",
-   "note": "Run 872 (global markets (kids YouTube networks and dubbing deals)): Kedoo Kids' YouTube network runs kids brands in 34 markets and 19 languages (Turkish and Arabic among them) for over a billion views a month, Banijay is folding preschool YouTube channels into its owned network and FAST, and India deals keep dubbing kids series into Hindi plus regional languages. Big brands now localise by market with themed compilations and live streams, which confirms our dub order and our compilation plan. Total 2589."
+   "note": "Earlier runs summarised: all rounds through Run 872 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-19 06:43",
@@ -19852,6 +19876,10 @@
   {
    "date": "2026-11-19 09:43",
    "note": "Run 950 (Shorts and Reels (Shorts retention benchmarks by length; Reels controls rechecked)): Instagram's interest controls and teen 13+ rules were already in the tree. New: Shorts retention benchmarks by length (above 60% viewed for under 15 seconds, above 50% for 15 to 30, above 40% for 30 to 60, overall average about 73%), a visual change every 1 to 2 seconds, and building our own baseline after about 20 Shorts. Total 2777."
+  },
+  {
+   "date": "2026-11-19 09:44",
+   "note": "Run 951 (TRENDS (all time most viewed Shorts list as of 17 Nov 2026)): 76 of the 100 most viewed Shorts ever are made for kids, and the Arabic 'hear the colour and catch it' game from January 2026 is already third at 3.9B; colour and fruit sorting games and sharing lessons fill the rest of the top 20. Added a 'Sort it to the beat' Short format. Total 2781."
   }
  ],
  "history": [
@@ -20990,6 +21018,10 @@
   {
    "date": "2026-11-19 09:43",
    "total": 2777
+  },
+  {
+   "date": "2026-11-19 09:44",
+   "total": 2781
   }
  ],
  "next_week_ideas": [
@@ -21052,6 +21084,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Hear it, catch it colour game",
+   "where": "YouTube Shorts worldwide (an Arabic colour catch game from 6 Jan 2026 is now the 3rd most viewed Short ever at 3.9B; Indian and US kids channels copying it, Nov 2026)",
+   "status": "peak",
+   "use": "A 20 second game Short: our voice sings a colour, five coloured balls fall and the viewer has one beat to shout or point at the right one before a Bro catches it; the tempo speeds up each round. Use our own catchy chant. Meshy prompt: standing in place, both hands reaching up to catch, then a small bounce and a point to the camera."
+  },
+  {
    "name": "Cozy market reveal",
    "where": "Instagram Reels (Christmas market cozy reveals, week of 9 to 15 Nov 2026)",
    "status": "rising",
@@ -21062,6 +21100,12 @@
    "where": "Instagram Reels (Thanksgiving turkey boards, week of 13 Nov 2026)",
    "status": "seasonal",
    "use": "Top down Short for Thanksgiving week: to our own counting song, the Bros' hands place apple slices, grapes and banana pieces one layer at a time until a turkey appears, then cut to the Bros waving next to it. Meshy prompt for the end shot: a boy stands, waves with one hand, then points down at a plate and gives a thumbs up."
+  },
+  {
+   "name": "Sort it to the beat",
+   "where": "YouTube Shorts (toddler colour and fruit sorting game Short at 3.1B, all time top 10, still recommended Nov 2026)",
+   "status": "evergreen",
+   "use": "25 second Short with our own counting song: fruits drop one per beat and Little Bro puts each into the bowl of the same colour (red apple to red bowl, yellow banana to yellow bowl), pausing one beat so kids can shout the colour first. Meshy prompt: a boy stands in place, reaches to the right with one hand, then moves the hand to the left and places it down, then claps once."
   },
   {
    "name": "Unprompted kitchen dance",
@@ -21092,12 +21136,6 @@
    "where": "TikTok (playful amateur runway recreations, early to mid Nov 2026, B&T)",
    "status": "rising",
    "use": "Winter coat fashion show Short with our own bouncy song: each Bro walks toward the camera wearing a different puffy coat, hat or scarf, stops, turns and poses, and the last pose is both Bros together laughing. Meshy prompt: a boy walks forward four steps, stops, turns around once in place, then puts both hands on his hips and smiles."
-  },
-  {
-   "name": "Hear it, catch it colour game",
-   "where": "YouTube Shorts (Arabic, Indian and US kids channels, mid Nov 2026)",
-   "status": "rising",
-   "use": "A 20 second game Short: our voice sings a colour, five coloured balls fall and the viewer has one beat to shout or point at the right one before a Bro catches it; the tempo speeds up each round. Use our own catchy chant. Meshy prompt: standing in place, both hands reaching up to catch, then a small bounce and a point to the camera."
   },
   {
    "name": "Disguise the turkey",
@@ -21164,12 +21202,6 @@
    "where": "TikTok and Reels (kitten parade meme, mid Nov 2026)",
    "status": "rising",
    "use": "Fixed camera at child eye height; each Bro Bros character or animal friend walks in from the left, faces the camera, does one move on one sung line of our own song, and walks out right, then the next one comes. Meshy prompt per character: walk forward three steps, stop, wave both arms side to side twice, walk off to the side. End with everyone together in a line waving."
-  },
-  {
-   "name": "Giant balloon parade",
-   "where": "US TV and social feeds on 26 Nov 2026 (100th Macy's Thanksgiving Day Parade, seasonal)",
-   "status": "seasonal",
-   "use": "Post on 25 to 26 Nov a Bro Bros parade song with our own giant balloons (a smiling sun, a rainbow whale, a drum) floating down a toy town street while the brothers and friends march and wave below; each verse a new balloon appears and kids shout its colour. Meshy motion: standing march in place with high knees, big two hand waves overhead, then pointing up at the sky."
   }
  ],
  "posting_plan": {
