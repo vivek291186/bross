@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T02:52:50+05:30",
- "runs": 1416,
+ "updated": "2026-11-20T02:53:38+05:30",
+ "runs": 1417,
  "branches": [
   {
    "id": "platforms",
@@ -12347,6 +12347,34 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1408
+    },
+    {
+     "t": "YouTube's made for kids best practices guide says song videos should put the song name first and the channel name after, and keep capitals and emoji to the first ~60 characters, used only to stress the emotion or the key element.",
+     "src": "YouTube made for kids best practices (NZ On Air copy)",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1417
+    },
+    {
+     "t": "The same YouTube guide reports that preschool thumbnails carrying the show's logo did better than those without, and suggests showing the running time on thumbnails of videos over 10 minutes, so Bro Bros compilations should carry a small logo and a '30 MIN' badge.",
+     "src": "YouTube made for kids best practices (NZ On Air copy)",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1417
+    },
+    {
+     "t": "Because end screens are switched off on made for kids videos, YouTube's guide recommends ending on a playlist call to action and showing the titles of related videos on screen; ChuChu TV reportedly saw steady search growth after doing this.",
+     "src": "YouTube made for kids best practices (NZ On Air copy)",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1417
+    },
+    {
+     "t": "A 2026 vendor study of thumbnails with 10K+ impressions found a single clear emotional face lifted click rate about 18 to 32% and bright saturated backgrounds about 8 to 14%, while 3 to 5 words of big text helped in search (+11 to 22%) but slightly hurt in browse (about -4%), so our Home and Suggested thumbnails should lean on faces and colour, not words.",
+     "src": "TubeAnalytics, 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1417
     }
    ]
   },
@@ -24319,10 +24347,6 @@
    "note": "Summary of earlier runs: steady research across all focuses; see git history."
   },
   {
-   "date": "2026-11-19 21:39",
-   "note": "Run 1338 (visual craft (Doozie's Doghouse format; thumbnails and Blender 5.3 already covered)): Netflix's new top 10 preschool show repeats one signature ritual each episode (sound cue, surprise box, magic words, recap song) and pauses to ask viewers questions; Meshy still has no new motion features since July. Chrome not available. Total 3339."
-  },
-  {
    "date": "2026-11-19 21:40",
    "note": "Run 1339 (TRENDS (16 Nov Reels list and December recap timing recheck)): Mostly nothing new: this week's Reels formats (it's time switch, one spot glow up, slow festive makeover, zoom in, then and now, shoulder shimmy) and the expected 2 Dec Spotify Wrapped were already in the tree; added a sibling 'can I move in with you' doorbell clip as a brothers story hook. Chrome not available. Total 3340."
   },
@@ -24633,6 +24657,10 @@
   {
    "date": "2026-11-20 02:52",
    "note": "Run 1416 (TRENDS (Spanish and global dance trends)): Dame Hombro has grown into a global shoulder dance (over 2M TikTok creations, Billboard Hot Latin No. 11, Miss Universe contestants, Ugandan kids dance groups); added it to the trend bank as 'Shoulder bounce' with our own song, plus two family friendly Spanish trends (a flamenco clap group routine and a pairs hand dance). Dropped the scale ball game from the bank. Chrome not available. Total 3460."
+  },
+  {
+   "date": "2026-11-20 02:53",
+   "note": "Run 1417 (visual craft (titles and thumbnails, YouTube's made for kids guide)): Added points from YouTube's own made for kids best practices guide (song name first, capitals and emoji only in the first 60 characters, logo on preschool thumbnails, running time on 10 minute plus thumbnails, on screen titles of related videos since end screens are off) and a vendor finding that 3 to 5 word thumbnail text helps in search but slightly hurts in browse. Chrome not available. Total 3464."
   }
  ],
  "history": [
@@ -25571,6 +25599,10 @@
   {
    "date": "2026-11-20 02:52",
    "total": 3460
+  },
+  {
+   "date": "2026-11-20 02:53",
+   "total": 3464
   }
  ],
  "next_week_ideas": [
