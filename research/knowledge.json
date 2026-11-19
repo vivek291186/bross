@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T23:42:50+05:30",
- "runs": 1368,
+ "updated": "2026-11-19T23:43:28+05:30",
+ "runs": 1369,
  "branches": [
   {
    "id": "platforms",
@@ -4563,6 +4563,27 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1354
+    },
+    {
+     "t": "On 13 Nov 2026 YouTube renamed desktop Studio Analytics to 'Insights', with written summaries of why numbers moved, and turned the Trends tab into 'Research', which ranks outlier videos against each channel's usual views (a 5x score means five times that channel's normal for the format).",
+     "src": "ppc.land, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-19",
+     "run": 1369
+    },
+    {
+     "t": "The new Research tab in YouTube Studio adds a 'Watched by my viewers' filter that shows what our own audience watched on other channels in the last month, a free, made for kids safe way to see which competitor songs and topics our viewers also choose.",
+     "src": "ppc.land, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1369
+    },
+    {
+     "t": "The AI summary card in the new Insights view only shows for creators eligible for Ask Studio, which excludes made for kids channels, so Bro Bros should rely on the standard desktop reports and the Research outlier list, which YouTube says remain available.",
+     "src": "ppc.land, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1369
     }
    ]
   },
@@ -23727,12 +23748,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 19:41",
-   "note": "Earlier: older log entries summarised (runs up to 1289); details are in git history."
-  },
-  {
    "date": "2026-11-19 19:42",
-   "note": "Run 1290 (visual craft (Blender 5.3 recheck)): Nothing new: Blender 5.3's Vulkan default and benchmarks, DLSS denoising, Gaussian splats, new EEVEE light nodes, world space animation paste and the project system were all already in the tree. No leaves added. Total 3272."
+   "note": "Earlier: older log entries summarised (runs up to 1290); details are in git history."
   },
   {
    "date": "2026-11-19 19:42",
@@ -24045,13 +24062,13 @@
   {
    "date": "2026-11-19 23:42",
    "note": "Run 1368 (TRENDS recheck (Later and inMagic weekly Reels lists)): Nothing new: five stages of, the fixed camera outfit switch, timestamps, the switch to Christmas, Dame Hombro shoulder bounce, zoom in hidden message and then and now were all already in the tree or trend bank. No leaves added. Chrome not available. Total 3376."
+  },
+  {
+   "date": "2026-11-19 23:43",
+   "note": "Run 1369 (YouTube algorithm and Studio tools (13 Nov Studio update)): Added YouTube Studio's 13 Nov update: Analytics is now Insights with written summaries, Trends became Research with outlier scores and a 'Watched by my viewers' filter, and the AI card skips made for kids channels. YouTube Kids Shorts timer news was already in the tree. Chrome not available. Total 3379."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 12:52",
-   "total": 2996
-  },
   {
    "date": "2026-11-19 12:52",
    "total": 2996
@@ -25247,6 +25264,10 @@
   {
    "date": "2026-11-19 23:42",
    "total": 3376
+  },
+  {
+   "date": "2026-11-19 23:43",
+   "total": 3379
   }
  ],
  "next_week_ideas": [
