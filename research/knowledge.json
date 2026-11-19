@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T01:41:16+05:30",
- "runs": 1391,
+ "updated": "2026-11-20T01:42:35+05:30",
+ "runs": 1392,
  "branches": [
   {
    "id": "platforms",
@@ -8350,6 +8350,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1389
+    },
+    {
+     "t": "FunForKidsTV (3.12M subscribers, 2.37B views from only 352 videos) still gains about 20K subscribers and 37.6M views a month with just 9 uploads in 28 days; its all time top videos are 2023 story remixes of a famous song with a small problem in the title (a 'got a boo boo' version reached about 142M views).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1392
+    },
+    {
+     "t": "FunForKidsTV's newest Short (14 Nov 2026) is a guessing game, 'Can You Guess Which Shape Is the Best Dancer?', with about 26K views in four days; a 'guess which one dances best' question in the title turns a dance Short into a game children answer out loud, a shape Bro Bros can use with our own characters.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1392
+    },
+    {
+     "t": "FunForKidsTV's monthly views peaked at about 78M in August 2026 and fell to about 34M by October, while it had no Christmas video by 18 Nov; mid size nursery channels that skip the seasonal wave drift down in autumn, so seasonal songs are part of keeping views up through Q4.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1392
     }
    ]
   },
@@ -24032,10 +24053,6 @@
    "note": "Summary of 2 earlier runs: steady research across all focuses; see git history."
   },
   {
-   "date": "2026-11-19 20:39",
-   "note": "Run 1313 (music craft (emotion and infant movement studies)): Preschoolers read happy, high energy, major key music best and calm or sad music worst (Penn, Child Development); babies only start moving more to real music than scrambled music near 12 months, with rocking, side sway and proto clapping and no beat matching yet (eLife, Jul 2026); kids shaped many African families' 2025 Spotify Wrapped. Total 3292."
-  },
-  {
    "date": "2026-11-19 20:41",
    "note": "Run 1314 (visual craft (preschool series design choices)): Xilam's Piggy Builders (52 by 11 minute preschool CG series) was made mainly in Blender from modelling to compositing, with sturdy stop motion style builds and a clumsy, funny wolf instead of a scary villain; Jelly, Ben and Pogo uses gradient colour voids to spotlight reactions, a pastel plus earth tone palette and rigs built for fast outfit swaps. Total 3297."
   },
@@ -24346,6 +24363,10 @@
   {
    "date": "2026-11-20 01:41",
    "note": "Run 1391 (rules and monetisation (AI kids content scrutiny)): YouTube answered the 200 plus groups by saying AI content on YouTube Kids is limited to vetted channels with disclosure; it terminated 16 big inauthentic channels in January and judges a channel's whole recent pattern, while AI labelled videos with real human input are not penalised. Chrome not available. Total 3419."
+  },
+  {
+   "date": "2026-11-20 01:42",
+   "note": "Run 1392 (YouTube main (small nursery channels; own results skipped, no new Metricool data)): Metricool still has no 19 Nov Reels and the YouTube feed ends 16 Nov. FunForKidsTV grows with only 9 uploads a month thanks to 'problem in the title' remixes, and tests a 'which shape is the best dancer?' guessing Short; its views fell from August to October without Christmas content. Chrome not available. Total 3422."
   }
  ],
  "history": [
@@ -25184,6 +25205,10 @@
   {
    "date": "2026-11-20 01:41",
    "total": 3419
+  },
+  {
+   "date": "2026-11-20 01:42",
+   "total": 3422
   }
  ],
  "next_week_ideas": [
