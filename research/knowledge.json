@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T13:41:21+05:30",
- "runs": 1087,
+ "updated": "2026-11-19T13:42:29+05:30",
+ "runs": 1088,
  "branches": [
   {
    "id": "platforms",
@@ -14461,6 +14461,34 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1078
+    },
+    {
+     "t": "Nepal's most subscribed channel is two brothers, Aayush and Abhay (13.4M subscribers, 11.3B views), whose wordless Shorts travel without language and once grew from about 860K to 12M subscribers in a year, but many were remixes of Douyin clips and the channel gained no net subscribers from 22 Oct to 18 Nov 2026, which shows that a brothers format crosses borders while recycled clips stop growing.",
+     "src": "vidIQ and 5Mins Nepal, Nov 2026 and Sep 2024",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1088
+    },
+    {
+     "t": "Among Nepal's top 100 channels the only clearly kids or cartoon brand is The Cartoonz Crew (about 3.7M subscribers, 1.3B views from only 219 videos), so Nepali families mostly watch Indian and global kids content, which our English songs and a later Hindi track can reach.",
+     "src": "vidIQ Nepal ranking, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1088
+    },
+    {
+     "t": "Ubongo's Kiswahili 'Akili and Me' channel has about 734K subscribers and 4.8M views a month (Oct 2026), against about 1.24M subscribers for its English channel, and its ad revenue is tiny (about 576 USD a month), so a Swahili dub would bring reach in East Africa but little money.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1088
+    },
+    {
+     "t": "Sri Lanka's YouTube trending lists on 18 Nov 2026 were almost all Sinhala, with Tamil second, and held only one kids video (a Sinhala song about animals around us), so Sri Lanka is a small, language bound market best reached later through a Sinhala or Tamil audio track rather than English uploads.",
+     "src": "kworb.net, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1088
     }
    ]
   },
@@ -21298,12 +21326,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 10:59",
-   "note": "Earlier: older log entries summarised; runs up to Run 1008 covered all focus areas."
-  },
-  {
    "date": "2026-11-19 11:00",
-   "note": "Run 1009 (Shorts and Reels (Metricool 2026 YouTube and Instagram studies rechecked)): Nothing new: Metricool's 2026 YouTube study (799,718 videos: Shorts views up 127%, long form average view duration down to about 2.5 minutes, ad revenue down 55%, best at 2 to 4 long uploads a week) was already in the tree. No leaves added. Total 2901."
+   "note": "Earlier: older log entries summarised; runs up to Run 1009 covered all focus areas."
   },
   {
    "date": "2026-11-19 11:00",
@@ -21616,6 +21640,10 @@
   {
    "date": "2026-11-19 13:41",
    "note": "Run 1087 (TRENDS (SocialPilot sounds for 17 to 25 Nov, school dance challenges, December seasonal gaps rechecked)): Nothing new: every sound on SocialPilot's 17 Nov list (then vs now, Blue Danube ballet, silly little life, stop the wedding, back to back dance, Christmas classics) and every December festival checked was already in the tree; school dance challenge results were old (2019 foot shake, Feb 2026 classroom clip). No leaves added. Total 3029."
+  },
+  {
+   "date": "2026-11-19 13:42",
+   "note": "Run 1088 (global markets (Nepal, Sri Lanka and Swahili gaps)): Filled three market gaps: Nepal's biggest channel is two brothers making wordless, mostly recycled Shorts (13.4M subscribers) that now gains no subscribers; Ubongo's Kiswahili channel is smaller than its English one; Sri Lanka's trending lists are almost all Sinhala with only one kids song. Total 3033."
   }
  ],
  "history": [
@@ -22554,6 +22582,10 @@
   {
    "date": "2026-11-19 13:41",
    "total": 3029
+  },
+  {
+   "date": "2026-11-19 13:42",
+   "total": 3033
   }
  ],
  "next_week_ideas": [
