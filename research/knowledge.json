@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T20:41:04+05:30",
- "runs": 1314,
+ "updated": "2026-11-19T20:42:31+05:30",
+ "runs": 1315,
  "branches": [
   {
    "id": "platforms",
@@ -13481,6 +13481,13 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 1270
+    },
+    {
+     "t": "Royal Mail asks UK children to post letters to Santa by Wednesday 9 Dec 2026 to get a reply, and Canada Post runs its own reply programme each December, so a 'Dear Santa' letter writing song should go out in the last week of November or first days of December while families are writing their letters.",
+     "src": "hotukdeals.com and canadapost.ca, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1315
     }
    ]
   },
@@ -23148,6 +23155,20 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1312
+    },
+    {
+     "t": "The instrumental Brazilian phonk track 'NO BATIDAO' by two little known producers held YouTube's global songs No. 1 for 21 weeks and the Shorts chart No. 1 for 20 weeks in early 2026 mainly because creators used it as the audio under their own Shorts, not because people watched its video, so a short, catchy, lyric free hook version of a Bro Bros song posted as its own Short gives families and creators a sound to reuse.",
+     "src": "ppc.land, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1315
+    },
+    {
+     "t": "Shakira and Burna Boy's World Cup anthem 'Dai Dai' replaced it at global No. 1 on 28 May 2026 and stayed 13 weeks, leading 9 of 15 country charts while Shakira's 2010 'Waka Waka' re-entered the top 10, showing that a global event plus a simple shout along chorus is the strongest cross country music formula.",
+     "src": "ppc.land, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1315
     }
    ]
   }
@@ -23174,12 +23195,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-19 17:01",
-   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
-  },
-  {
    "date": "2026-11-19 17:02",
-   "note": "Run 1236 (algorithm and search (kids music search seasonality)): Small: keyword data for 'kids music' (about 60,500 searches a month worldwide, 55% from the US) shows a winter bump to about 74,000 from December to February and a low of about 49,500 in April, so kids music demand rises in the northern winter indoor months; Cocomelon remains the only kids term in YouTube's top searches (already known). Total 3184."
+   "note": "Earlier runs summarised: 2 older log lines merged; see git history for detail."
   },
   {
    "date": "2026-11-19 17:02",
@@ -23492,13 +23509,13 @@
   {
    "date": "2026-11-19 20:41",
    "note": "Run 1314 (visual craft (preschool series design choices)): Xilam's Piggy Builders (52 by 11 minute preschool CG series) was made mainly in Blender from modelling to compositing, with sturdy stop motion style builds and a clumsy, funny wolf instead of a scary villain; Jelly, Ben and Pogo uses gradient colour voids to spotlight reactions, a pastel plus earth tone palette and rigs built for fast outfit swaps. Total 3297."
+  },
+  {
+   "date": "2026-11-19 20:42",
+   "note": "Run 1315 (TRENDS (Shorts audio reuse and December Santa letter window)): Small: the Brazilian phonk instrumental 'NO BATIDAO' held YouTube's global songs No. 1 for 21 weeks mainly because creators used it as Shorts audio, so a reusable instrumental hook can outgrow its own video; Royal Mail's Santa reply letters must be posted by Wed 9 Dec 2026, a natural date for a Dear Santa song. Total 3300."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 11:02",
-   "total": 2908
-  },
   {
    "date": "2026-11-19 11:02",
    "total": 2911
@@ -24694,6 +24711,10 @@
   {
    "date": "2026-11-19 20:41",
    "total": 3297
+  },
+  {
+   "date": "2026-11-19 20:42",
+   "total": 3300
   }
  ],
  "next_week_ideas": [
@@ -24755,6 +24776,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Hook only sound Short",
+   "where": "YouTube Shorts audio library, Reels sounds",
+   "status": "rising",
+   "use": "For each week's strongest song, post a separate 10 to 15 second Short of just the chorus hook with a bouncy beat and no long lyrics, showing the Bros doing the one signature move on a plain bright background and the caption 'Use this sound for your dance'. Meshy prompt: standing in place, the song's single signature move repeated four times. Families can then pick our sound for their own Shorts, the way creators reused NO BATIDAO."
+  },
   {
    "name": "Sing the scale ball game",
    "where": "TikTok and Reels voice filter game, Shorts",
@@ -24868,12 +24895,6 @@
    "where": "Meme format, mid Nov 2026",
    "status": "rising",
    "use": "A Reel of one of our songs where every role (bus driver, baker, snowman, reindeer) is the little brother in a quick hat swap on each beat, while the big brother looks more and more surprised; ends with both laughing. Simple swaps, no copied posters or real actors."
-  },
-  {
-   "name": "Deep sea diver dance",
-   "where": "TikTok, Reels, Shorts",
-   "status": "evergreen",
-   "use": "Our own underwater dance for an original ocean song: hold your nose with one hand and puff your cheeks, do slow swimming arms forward and back, wiggle like a fish on the spot, then pop pretend bubbles with one finger on 'pop pop pop'. Standing, in place, no floor moves; easy for a Meshy prompt. Do not copy the Scuba Juke routine or audio."
   }
  ],
  "posting_plan": {
