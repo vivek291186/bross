@@ -10499,20 +10499,6 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1396
-    },
-    {
-     "t": "An Italian study (University of Verona, Early Childhood Education Journal, 2026) gave 2 and 4 year olds eight weekly Orff style music sessions of clapping, moving and copying short rhythms; rhythm copying improved in both ages versus a waiting group, and 4 year olds also gained in self control and working memory, while vocabulary did not improve more than in the control group.",
-     "src": "Early Childhood Education Journal (Univ. of Verona), 2026",
-     "conf": "medium",
-     "date": "2026-11-20",
-     "run": 1397
-    },
-    {
-     "t": "In the same Verona study 4 year olds who copied rhythms better also knew more words and had faster self control and better working memory, so 'clap it back' call and response rhythm moments (Bro claps a short pattern, kids clap it back, then it gets a little harder) are the most useful learning moment a song can include; a song alone should not be sold as a vocabulary teacher.",
-     "src": "Early Childhood Education Journal (Univ. of Verona), 2026",
-     "conf": "medium",
-     "date": "2026-11-20",
-     "run": 1397
     }
    ]
   },
@@ -24422,7 +24408,7 @@
   },
   {
    "date": "2026-11-20 01:51",
-   "note": "Run 1397 (music craft (rhythm training study)): Infant rhythm and movement studies were already in the tree; added a 2026 Verona study where eight weeks of clap and copy rhythm play improved toddlers' and preschoolers' rhythm and preschoolers' self control and working memory, but not vocabulary, which supports clap it back moments in our songs. Chrome not available. Total 3430."
+   "note": "Run 1397 (music craft recheck): Nothing new: the 2026 Verona rhythm training study (rhythm and self control gains, no vocabulary gain) and the infant movement studies were already in the tree; two duplicate leaves added by mistake were merged back out. Chrome not available. Total 3428."
   }
  ],
  "history": [
@@ -25284,7 +25270,7 @@
   },
   {
    "date": "2026-11-20 01:51",
-   "total": 3430
+   "total": 3428
   }
  ],
  "next_week_ideas": [
