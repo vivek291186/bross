@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T19:39:26+05:30",
- "runs": 1285,
+ "updated": "2026-11-19T19:40:16+05:30",
+ "runs": 1286,
  "branches": [
   {
    "id": "platforms",
@@ -2374,11 +2374,11 @@
      "run": 1267
     },
     {
-     "t": "Nielsen's Gauge for August 2026 gave YouTube a record 15.8% of all US TV screen time (Netflix second at 7.7%), and unlike earlier years YouTube showed no back to school dip, so living room viewing of kids songs on the TV now holds up through the school term.",
-     "src": "Tubefilter, Oct 2026",
+     "t": "At Made on YouTube (Sep 2026) YouTube said over 1B hours a day are watched on TV screens worldwide, more than half of its top 100 creators now have the TV as their most watched screen, and Shorts Series will be browsable on TVs through a new Show Feed, so grouping our Shorts into a named series should help them reach living room viewing.",
+     "src": "TheWrap, Sep 2026",
      "conf": "high",
      "date": "2026-11-19",
-     "run": 1280
+     "run": 1286
     }
    ]
   },
@@ -17723,6 +17723,13 @@
      "conf": "medium",
      "date": "2026-11-19",
      "run": 1258
+    },
+    {
+     "t": "YouTube's coming voice comments by TV remote (only when the same account is signed in on TV and phone) do nothing for Bro Bros, because comments are switched off on made for kids videos; our TV engagement signals stay watch time, rewatches and session length.",
+     "src": "TheWrap, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 1286
     }
    ]
   },
@@ -23004,10 +23011,6 @@
   },
   {
    "date": "2026-11-19 16:06",
-   "note": "Run 1207 (TRENDS (matching Christmas pyjama videos)): Nothing new: matching family pyjama videos are an established December ritual already covered by the 'Pyjama train ride' and silly sweater entries in the trend bank. No leaves added. Total 3157."
-  },
-  {
-   "date": "2026-11-19 16:06",
    "note": "Run 1208 (global markets (Peru and Spanish speaking song channels)): Nothing new: El Reino Infantil's Mexico numbers and farm characters, its 5.6B Spanish views in 2026, Plim Plim's reach and CantaJuego were already in the tree; no Peru specific kids song channel of size turned up. No leaves added. Total 3157."
   },
   {
@@ -23317,13 +23320,13 @@
   {
    "date": "2026-11-19 19:39",
    "note": "Run 1285 (TRENDS (this week's dance and audio trackers)): Small: the only usable new item is the dancing 3D rat format (a crude animated rat with goofy beat drop moves that people copy in a wide full body shot, helped by a filter that puts the rat beside them), more proof that a simple, slightly silly 3D character dance can become a copy me trend. Trackers otherwise repeated known items. Total leaves +1. Total 3272."
+  },
+  {
+   "date": "2026-11-19 19:40",
+   "note": "Run 1286 (Shorts and Reels (TV side of Shorts, Made on YouTube recheck)): New: more than half of YouTube's top 100 creators now get most watching on TV, over 1B hours a day are watched on TVs, and Shorts Series will get a Show Feed on TV; the new voice comments by TV remote cannot help us because made for kids videos have comments off. Merged a duplicate: the Nielsen 15.8% leaf added in run 1280 was already in the tree, so it was removed. Total 3273."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 10:39",
-   "total": 2860
-  },
   {
    "date": "2026-11-19 10:40",
    "total": 2863
@@ -24519,6 +24522,10 @@
   {
    "date": "2026-11-19 19:39",
    "total": 3272
+  },
+  {
+   "date": "2026-11-19 19:40",
+   "total": 3273
   }
  ],
  "next_week_ideas": [
