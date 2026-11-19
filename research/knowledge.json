@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19T06:58:24+05:30",
- "runs": 884,
+ "updated": "2026-11-19T06:59:02+05:30",
+ "runs": 885,
  "branches": [
   {
    "id": "platforms",
@@ -6257,6 +6257,20 @@
      "conf": "high",
      "date": "2026-11-19",
      "run": 876
+    },
+    {
+     "t": "Little Angel's 7.3M 'Nursery Rhymes and Kids Songs' channel gained almost no subscribers in 2026 (0 to 10K a month against 100K to 120K in mid 2025) while monthly views swung from 14M (Sep) to 125M (Aug) and 26M (Oct), showing that a single viral month does not carry over and that steady weekly hits matter more than one spike.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 885
+    },
+    {
+     "t": "Little Angel's newest uploads (15 to 17 Nov 2026) are about one a day: a counting Short led by a helper job character ('Can You Count with Firefighter Jill?', about 2.1 times its usual early views) and a funny dad themed ballet story ('My Daddy Is the Best!'), so the old giants now lean on Shorts that mix a job hero or a family member with a simple learning task.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-19",
+     "run": 885
     }
    ]
   },
@@ -18422,11 +18436,7 @@
  "log": [
   {
    "date": "2026-11-16 22:55",
-   "note": "Earlier runs summarised: all rounds through Run 806 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
-  },
-  {
-   "date": "2026-11-17 01:06",
-   "note": "Run 807 (Shorts and Reels (kids accounts on Instagram, Facebook Reels for parents)): Instagram growth studies, Facebook Reels retention data and Creator Fast Track were already in the tree; no new leaves. Total 2377."
+   "note": "Earlier runs summarised: all rounds through Run 807 covered trends, algorithm, channels, music, visuals, topics, markets, rules, posting times and our own data."
   },
   {
    "date": "2026-11-17 01:06",
@@ -18739,6 +18749,10 @@
   {
    "date": "2026-11-19 06:58",
    "note": "Run 884 (global markets (Brazil Portuguese kids channels)): CoComelon's Brazilian Portuguese channel (4.45M) now gains only 10K to 20K subscribers a month against 50K to 110K in 2025, and its monthly views sit near 87M to 112M, down from 191M in Oct 2025; its all time top video is a Portuguese Wheels on the Bus (703M) and the second a football song (324M). Big dubbed channels are flattening in Brazil, and football songs are a Brazil specific winner. Indonesia's under 16 rule was already in the tree. Total 2618."
+  },
+  {
+   "date": "2026-11-19 06:59",
+   "note": "Run 885 (competitor deep dive (Little Angel and Friends channel)): Little Angel's 7.3M 'and Friends' channel has gained almost no subscribers since January 2026 while monthly views swing wildly (14M in September, 125M in August, 26M in October), so one viral month does not hold. Its newest uploads are a job helper counting Short ('Can You Count with Firefighter Jill?', 2.1 times its usual views) and a dad themed ballet comedy, both short, character led and funny. Top videos were already in the tree. Total 2620."
   }
  ],
  "history": [
@@ -19613,9 +19627,17 @@
   {
    "date": "2026-11-19 06:58",
    "total": 2618
+  },
+  {
+   "date": "2026-11-19 06:59",
+   "total": 2620
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Count With Captain Bro! (Firefighter Counting Song)",
+   "why": "Job hero plus counting Shorts are what Little Angel is pushing now; Big Bro as a friendly firefighter counts ladders, hoses and rescued kittens from 1 to 10, kid safe and easy to dub."
+  },
   {
    "title": "Crack, Crack, Who's Inside? (Hatching Egg Winter Song)",
    "why": "Hatching creature toys top the 2026 Christmas wish lists; each verse a giant snowy egg wobbles and a different friendly baby animal hatches and joins the dance, a surprise reveal plus counting song."
@@ -19667,10 +19689,6 @@
   {
    "title": "Shiny Boots, Stomp Stomp! (Boot Polish Night Song)",
    "why": "On the evening of 5 December children in Germany, Austria, Switzerland and parts of the US polish their boots and set them by the door to find sweets and mandarins inside next morning; a bouncy song where the Bros scrub, shine, line up and stomp their boots gives Europe a seasonal hit for 1 to 5 Dec without naming any character, and Dutch producers note kids prefer bouncy jumping songs to the slow traditional ones."
-  },
-  {
-   "title": "Pass the Present! (Christmas Party Game Song)",
-   "why": "Party game songs are evergreen (a hot potato game song is Patty Shukla's top video at 20M views); the brothers and friends pass a wrapped present around a circle while the music plays and whoever holds it when the music stops does a silly dance, so families can play it at December parties anywhere."
   }
  ],
  "trend_bank": [
