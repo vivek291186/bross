@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T19:41:37+05:30",
- "runs": 1638,
+ "updated": "2026-11-20T19:44:27+05:30",
+ "runs": 1639,
  "branches": [
   {
    "id": "platforms",
@@ -26921,6 +26921,27 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1633
+    },
+    {
+     "t": "SocialPilot's Reels sound list for 17 to 25 Nov 2026 already has classic Christmas pop songs at peak (one used in about 1.8M Reels, another in about 944K) for decor, light and baking reveals, so the holiday wave on Reels has started before December and our own Christmas songs and tree and lights reveals should go out from this weekend, not wait for 1 Dec.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1639
+    },
+    {
+     "t": "Know Your Meme's October 2026 meme of the month field was led by AI made clips (an AI fairy tale character tiptoeing, AI 'merged' video games) next to one cute pet clip (a black cat that seems to clap with human hands), showing AI character memes are now a main meme engine; most are uncanny or adult, so Bro Bros should stay clearly original and warm rather than chase them.",
+     "src": "Know Your Meme, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1639
+    },
+    {
+     "t": "A wholesome autumn TikTok and Reels format, 'today I'm going to turn into a cute little ...', has people shrink lower and lower to a squeaky sound and then cut to a pet or object; a standing kid safe version is the camera pulling high and far so the Bros look tiny, then a cut to a small toy Bro, but it is a September trend and now fading.",
+     "src": "Know Your Meme, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1639
     }
    ]
   }
@@ -26948,11 +26969,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1559 (our own results (Metricool at 14 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 14:37",
-   "note": "Run 1560 (TRENDS (Christmas dance trackers, 20 Nov)): New from Virlo: a three move Christmas dance (side step with arm swing, leg lift, bounce; 54.8M views) and a pyjama pair winter dance (6.9M) both started in October and are fading by 20 Nov. Weekly trend lists (NewEngen, SocialBee, Buffer, SocialPilot, B&T, Anijam) were already filed. Trend bank unchanged. Chrome not available. Total 3722."
+   "note": "Summary of older entries: runs up to Run 1560 (TRENDS (Christmas dance trackers, 20 Nov)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 14:38",
@@ -27265,6 +27282,10 @@
   {
    "date": "2026-11-20 19:41",
    "note": "Run 1638 (visual craft (new preschool CG series, thumbnails and tool updates recheck)): Small find: the French and Taiwanese preschool series Mogu and Perol is moving from stop motion to 3DCG with 39 gentle seven minute episodes, a timid big friend paired with a tiny energetic one. Thumbnail testing, Blender 5.1 to 5.3 and Meshy changelog items were already filed; three AWN pages could not be read. Chrome not available. Total 3836."
+  },
+  {
+   "date": "2026-11-20 19:44",
+   "note": "Run 1639 (TRENDS (Later 13 Nov, SocialPilot 17 to 25 Nov, B&T November, Know Your Meme)): Small find: SocialPilot's 17 to 25 Nov list shows big Christmas songs already at peak on Reels (about 1.8M and 944K Reels each), so the holiday wave has started a week before December; Know Your Meme's autumn field is dominated by AI made character clips, many uncanny or adult. Later's and B&T's November formats (five stages, appointment timestamps, always dancing, deadpan question to mum) were already filed. Trend bank unchanged. Chrome not available. Total 3839."
   }
  ],
  "history": [
@@ -28447,6 +28468,10 @@
   {
    "date": "2026-11-20 19:41",
    "total": 3836
+  },
+  {
+   "date": "2026-11-20 19:44",
+   "total": 3839
   }
  ],
  "next_week_ideas": [
