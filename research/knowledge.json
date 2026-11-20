@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:07:07+05:30",
- "runs": 1675,
+ "updated": "2026-11-21T03:13:07+05:30",
+ "runs": 1676,
  "branches": [
   {
    "id": "platforms",
@@ -9344,6 +9344,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1664
+    },
+    {
+     "t": "Bebefinn's English main channel drew about 664M views and 500K new subscribers in December 2025, against about 399M views and 300K subscribers in the 28 days to 18 Nov 2026, so even a mature 3D song brand gets roughly a 60% December lift; our Christmas and winter songs should be live by the first days of December to ride it.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1676
+    },
+    {
+     "t": "Bebefinn's Traditional Chinese channel (1.83M subscribers, about 19 uploads in four weeks) got its best recent views from a 'bath time pirates' Short (about 368K) and colour play songs (about 194K to 214K), while its hour long Halloween compilation drew about 47K, so in Taiwan and Hong Kong short pretend play routine clips beat long seasonal compilations.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1676
     }
    ]
   },
@@ -27553,10 +27567,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:45",
-   "note": "Run 1597 (YouTube algorithm (custom feeds in the top bar, Hype with Jewels, Shorts originality)): Nothing new: the 8 Nov custom feed move to the top bar, Hype with Jewels in nine markets, the Shorts reupload penalty and Ask YouTube were all already filed; the Ask YouTube mobile page could not be read. No leaves added. Chrome not available. Total 3782."
-  },
-  {
    "date": "2026-11-20 17:46",
    "note": "Run 1598 (Shorts and Reels (post Reel ads, Instagram Features on TV)): New: Instagram's post Reel ads run only after organic Reels longer than 60 seconds, and its 90 minute horizontal Features are becoming a core part of Instagram for TV, reachable from Reels and Explore; Shorts and Reels length and hook studies were already filed. Chrome not available. Total 3785."
   },
@@ -27867,13 +27877,13 @@
   {
    "date": "2026-11-21 03:07",
    "note": "Run 1675 (global markets (Mexico and Germany kids rankings, El Reino Infantil 15 years, Plim Plim Latin America penetration)): Nothing new: El Reino Infantil's Mexico numbers and Roblox farm, Plim Plim's per person reach and the German Kinderlieder channels were all already filed. No leaves added. Chrome not available. Total 3922."
+  },
+  {
+   "date": "2026-11-21 03:13",
+   "note": "Run 1676 (competitor deep dive (Bebefinn English main and Traditional Chinese channels via vidIQ)): Bebefinn's 18 Nov feelings song was already filed. New: Bebefinn's main channel had its biggest month in December 2025 (about 664M views and 500K new subscribers against about 399M now), and its Traditional Chinese dub (1.83M subscribers) gets its best recent views from a bath time pirates Short and colour songs, with no Christmas content yet. Chrome not available. Total 3924."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:46",
-   "total": 3382
-  },
   {
    "date": "2026-11-19 23:47",
    "total": 3382
@@ -29069,6 +29079,10 @@
   {
    "date": "2026-11-21 03:07",
    "total": 3922
+  },
+  {
+   "date": "2026-11-21 03:13",
+   "total": 3924
   }
  ],
  "next_week_ideas": [
