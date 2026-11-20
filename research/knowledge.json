@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:38:30+05:30",
- "runs": 1630,
+ "updated": "2026-11-20T18:39:56+05:30",
+ "runs": 1631,
  "branches": [
   {
    "id": "platforms",
@@ -11409,6 +11409,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1624
+    },
+    {
+     "t": "A PLOS ONE study published 17 Nov 2026 (42 US infants followed from 6 to 12 months to age 2) found that a richer home music environment, and parent singing most of all, predicted larger spoken vocabularies at 18 and 24 months, so Bro Bros baby songs should invite parents to sing along (simple repeated words, a clear 'sing with me' line) rather than just play in the background.",
+     "src": "PLOS ONE, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1631
     }
    ]
   },
@@ -13397,6 +13404,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1625
+    },
+    {
+     "t": "A Polish study of 80 children aged 3 to 5 (Ophthalmology Journal, Sep 2026, EEG, fNIRS and eye tracking) found that a calmer, low motion six minute animation produced longer fixations (about 2.3 vs 1.9 seconds), fewer eye jumps (12 vs 18) and better story recall (81% vs 72%) than a busier version, so our calm songs and story sections should keep camera and background motion low.",
+     "src": "journals.viamedica.pl, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1631
     }
    ]
   },
@@ -20236,6 +20250,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1613
+    },
+    {
+     "t": "A Frontiers in Psychology mini review (Mar 2026, 10 studies of 3 to 5 year olds) found screen time linked to weaker attention mostly when viewing was passive, while active use (joining in, answering, moving) was linked to better orienting attention, which supports building every Bro Bros song around actions kids copy and questions they answer.",
+     "src": "Frontiers in Psychology, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1631
     }
    ]
   },
@@ -26856,12 +26877,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 13:39",
-   "note": "Summary of older entries: runs up to Run 1551 (Shorts and Reels (this week's most viewed Shorts, all time top 100)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 13:40",
-   "note": "Run 1552 (TRENDS (Instagram audio chart 19 Nov, parent trends)): Instagram's 19 Nov top 50 Reels audio has no Christmas or kids song yet: GTA VI music holds five of the top 15 and Indian film songs (Dilruba Dilnasheen, Tu Mil Jaaye) rank high, so Christmas audio is running later on Reels than on TikTok. Also a parent trend of filming toddlers repeating phrases learned from tablet videos. Trend bank unchanged. Chrome not available. Total 3706."
+   "note": "Summary of older entries: runs up to Run 1552 (TRENDS (Instagram audio chart 19 Nov, parent trends)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 13:41",
@@ -27174,6 +27191,10 @@
   {
    "date": "2026-11-20 18:38",
    "note": "Run 1630 (TRENDS (Social Expert 17 to 19 Nov formats)): New: two reveal formats added 18 to 19 Nov on Social Expert (walk up, stop on the beat and side step; a lyric cue reveal of a loved person or pet, about 840M views) plus the still pose 'How I'm doing' check in; Bicep Heart, Almost Almost and the Later and Epidemic lists were already filed. Trend bank: two added, the squish and wolf grandma entries dropped as fading. Chrome not available. Total 3823."
+  },
+  {
+   "date": "2026-11-20 18:39",
+   "note": "Run 1631 (music and visual craft (new child studies, Sep to Nov 2026)): New: a PLOS ONE study out 17 Nov 2026 links more parent singing at 6 to 12 months to bigger vocabularies at 18 and 24 months; a Polish EEG, fNIRS and eye tracking study found a calmer, low motion animation gave longer looks and better story recall in 3 to 5 year olds; a Frontiers review finds passive screen use tied to weaker attention more often than active use. The Thai short video study was already filed. Chrome not available. Total 3826."
   }
  ],
  "history": [
@@ -28324,6 +28345,10 @@
   {
    "date": "2026-11-20 18:38",
    "total": 3823
+  },
+  {
+   "date": "2026-11-20 18:39",
+   "total": 3826
   }
  ],
  "next_week_ideas": [
