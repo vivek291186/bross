@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:50:08+05:30",
- "runs": 1711,
+ "updated": "2026-11-21T04:55:59+05:30",
+ "runs": 1712,
  "branches": [
   {
    "id": "platforms",
@@ -9491,6 +9491,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1711
+    },
+    {
+     "t": "In the 28 days to 19 Nov 2026 Super Simple Songs (47.3M subscribers) uploaded only 3 videos but drew about 494M views and 200K new subscribers, while Bebefinn (37.4M) uploaded 20 and drew about 399M views and 300K subscribers, so a deep evergreen catalogue carries views while a frequent new episode rhythm wins more new subscribers.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1712
+    },
+    {
+     "t": "Super Simple Songs' made up word hygiene song (a wash your hands and face song posted 5 Nov 2026) grew from about 915K views on day 9 to about 1.86M on day 13, so strong kids songs often accelerate in their second week as YouTube widens recommendations, and we should judge a new song after about two weeks, not two days.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1712
     }
    ]
   },
@@ -28043,10 +28057,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 18:43",
-   "note": "Run 1633 (TRENDS (Virlo, Postdom, HowToGoViral, SocialPilot 20 Nov)): Small find: fake award edits for a friend or pet (serious opening that turns funny) are rising with the Stream Awards, and an AI scrapbook 'welcome to my page' intro template is fresh on TikTok; the moon couple montages and partying caption are adult framed, and the Pink Floyd then and now, Christmas market and Deck the Halls dance were already filed. Trend bank: 'Silly award show' added, 'Waiting is hard' dropped as it overlaps the countdown entries. Chrome not available. Total 3828."
-  },
-  {
    "date": "2026-11-20 18:49",
    "note": "Run 1634 (global markets (auto dubbing and Africa recheck)): Nothing new: auto dubbing in 27 languages with expressive speech and lip sync, Kids TV Africa, Akili read along captions and the African Spotify Wrapped kids pattern were all already filed. No leaves added. Chrome not available. Total 3828."
   },
@@ -28357,13 +28367,13 @@
   {
    "date": "2026-11-21 04:50",
    "note": "Run 1711 (global markets (Arabic and Indonesian kids song channels via vidIQ: LiaChaCha Arabic, Lalafun Indonesia, Little Angel Indonesia)): New: LiaChaCha's Arabic channel (5.59M subscribers) gained about 232M views in October and 110K subscribers in four weeks from one sound effect song made in three versions (original, fruits, animals: 228M, 149M, 82M), so Arabic is the growing dub market while Little Angel Indonesia and Lalafun Indonesia are flat. Chrome not available. Total 3992."
+  },
+  {
+   "date": "2026-11-21 04:55",
+   "note": "Run 1712 (competitor deep dive (Super Simple Songs and Bebefinn via vidIQ, 19 Nov)): New: in the same 28 days Super Simple Songs posted only 3 videos yet drew about 494M views and 200K subscribers, while Bebefinn posted 20 and drew about 399M and 300K, so catalogue strength drives views but frequent new episodes drive subscriber growth; the hand washing nonsense word song doubled from about 915K to 1.86M views between day 9 and day 13. Chrome not available. Total 3994."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 02:50",
-   "total": 3452
-  },
   {
    "date": "2026-11-20 02:51",
    "total": 3454
@@ -29559,6 +29569,10 @@
   {
    "date": "2026-11-21 04:50",
    "total": 3992
+  },
+  {
+   "date": "2026-11-21 04:55",
+   "total": 3994
   }
  ],
  "next_week_ideas": [
