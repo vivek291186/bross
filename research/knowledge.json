@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:39:44+05:30",
- "runs": 1588,
+ "updated": "2026-11-20T16:40:04+05:30",
+ "runs": 1589,
  "branches": [
   {
    "id": "platforms",
@@ -26422,12 +26422,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 10:38",
-   "note": "Summary of older entries: runs up to Run 1509 (TRENDS (Postdom 16 to 22 Nov, NewEngen, KYM, B&T)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 10:39",
-   "note": "Run 1510 (rules and safety (new under 16 social media bans)): Made for kids, COPPA and ad rate searches turned up only items already in the tree. New: New Zealand (bill from Aug 2026, still pushed in Nov) and Kazakhstan (draft law, may include YouTube and TikTok) are next in line to copy Australia's under 16 rule, adding to Australia, Indonesia and the UK. Chrome not available. Total 3633."
+   "note": "Summary of older entries: runs up to Run 1510 (rules and safety (new under 16 social media bans)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 10:40",
@@ -26740,6 +26736,10 @@
   {
    "date": "2026-11-20 16:39",
    "note": "Run 1588 (competitor deep dive (Peppa Pig crossovers)): New: Peppa Pig and Sesame Street's first crossover was a 1.5 minute Muddy Puddles dance remix (2 Sep 2026); Hasbro also made a Peppa special for parents (11 Aug) and runs an orchestra tour that blends Peppa songs with public domain classics. Chrome not available. Total 3761."
+  },
+  {
+   "date": "2026-11-20 16:40",
+   "note": "Run 1589 (visual craft (attention capture scores, thumbnail testing)): Nothing new: Common Sense's attention capture levels, vidIQ's thumbnail study and YouTube's title and thumbnail A/B test were already filed. No leaves added. Chrome not available. Total 3761."
   }
  ],
  "history": [
@@ -27721,6 +27721,10 @@
   },
   {
    "date": "2026-11-20 16:39",
+   "total": 3761
+  },
+  {
+   "date": "2026-11-20 16:40",
    "total": 3761
   }
  ],
