@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T08:51:53+05:30",
- "runs": 1498,
+ "updated": "2026-11-20T08:52:12+05:30",
+ "runs": 1499,
  "branches": [
   {
    "id": "platforms",
@@ -4801,6 +4801,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1478
+    },
+    {
+     "t": "Metricool's Instagram best time model for 21 to 27 Nov 2026 (US Thanksgiving week) shows no holiday shift: 10:00 IST is still the top hour every day (Friday about 6.7K, Wednesday about 6.5K, Saturday 3.4K, Sunday 2.6K), so the morning Reel slot needs no change for Thanksgiving week.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1499
     }
    ]
   },
@@ -25429,11 +25436,7 @@
  "log": [
   {
    "date": "2026-11-20 02:55",
-   "note": "Summary of 2 older entries: runs up to Run 1419 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 02:55",
-   "note": "Run 1420 (music craft recheck (2027 Grammy kids nominees)): Nothing new: the 2027 Best Children's Music Album nominees (announced 16 Nov) and last year's concept album pattern were already in the tree. No leaves added. Chrome not available. Total 3467."
+   "note": "Summary of 2 older entries: runs up to Run 1420 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 02:55",
@@ -25746,13 +25749,13 @@
   {
    "date": "2026-11-20 08:51",
    "note": "Run 1498 (other platforms (Billboard kids albums, Nielsen kids streaming, kids music charts)): Nothing new: Bluey's US streaming lead, Danny Go's Netflix move and the iTunes kids chart were already in the tree, and the Billboard kids albums page and a Nielsen weekly list found were old (2025 and 2023). No leaves added. Chrome not available. Total 3619."
+  },
+  {
+   "date": "2026-11-20 08:52",
+   "note": "Run 1499 (posting times (Metricool Instagram 21 to 27 Nov)): Metricool's Instagram model for 21 to 27 Nov again peaks at 10:00 IST every day (Friday about 6.7K, Wednesday 6.5K, weekends about half) with a second rise at 18:00 IST, the same pattern already in the tree, so the posting plan is unchanged. Chrome not available. Total 3620."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 16:03",
-   "total": 3155
-  },
   {
    "date": "2026-11-19 16:03",
    "total": 3155
@@ -26948,6 +26951,10 @@
   {
    "date": "2026-11-20 08:51",
    "total": 3619
+  },
+  {
+   "date": "2026-11-20 08:52",
+   "total": 3620
   }
  ],
  "next_week_ideas": [
