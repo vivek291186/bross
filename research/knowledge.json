@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:42:31+05:30",
- "runs": 1632,
+ "updated": "2026-11-20T18:43:36+05:30",
+ "runs": 1633,
  "branches": [
   {
    "id": "platforms",
@@ -26851,6 +26851,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1630
+    },
+    {
+     "t": "Fake award edits are rising on TikTok in the Stream Awards week of November 2026 (top example about 2.8M views): a serious, ceremonial opening announces an award for a friend or pet and builds to a funny clip, a kid safe 'Bro Bros Awards' Short format we can repeat weekly with silly categories.",
+     "src": "howtogoviral.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1633
+    },
+    {
+     "t": "A fresh TikTok template in the week to 20 Nov 2026 turns one photo into a 'welcome to my page' digital scrapbook intro (cutout of the person on a striped background, about 200 creators in a week), an easy idea for a short channel intro card showing the Bros as paper cutouts.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1633
     }
    ]
   }
@@ -26877,12 +26891,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 13:41",
-   "note": "Summary of older entries: runs up to Run 1553 (music craft (rhythm and reading review)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 13:42",
-   "note": "Run 1554 (visual craft (pacing and sensory load evidence)): New: a 2025 meta analysis (19 studies, 1,431 children) found fast pacing alone did not measurably hurt attention while very fantastical content had a small negative effect; a parent site's sensory scores put Bluey at about 3.8 cuts a minute and 141 words a minute against CoComelon's 8.7 and 153; a Thai study of 214 preschoolers tied more short form viewing to more inattention. Chrome not available. Total 3714."
+   "note": "Summary of older entries: runs up to Run 1554 (visual craft (pacing and sensory load evidence)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 13:43",
@@ -27195,6 +27205,10 @@
   {
    "date": "2026-11-20 18:42",
    "note": "Run 1632 (YouTube algorithm (November change logs recheck)): Nothing new: a 17 Nov agency roundup lists Insights and the Research tab, TV co views, Shorts originality, Ask YouTube, custom feeds with the Subs tab and the hacked channel pause, all already filed. No leaves added. Chrome not available. Total 3826."
+  },
+  {
+   "date": "2026-11-20 18:43",
+   "note": "Run 1633 (TRENDS (Virlo, Postdom, HowToGoViral, SocialPilot 20 Nov)): Small find: fake award edits for a friend or pet (serious opening that turns funny) are rising with the Stream Awards, and an AI scrapbook 'welcome to my page' intro template is fresh on TikTok; the moon couple montages and partying caption are adult framed, and the Pink Floyd then and now, Christmas market and Deck the Halls dance were already filed. Trend bank: 'Silly award show' added, 'Waiting is hard' dropped as it overlaps the countdown entries. Chrome not available. Total 3828."
   }
  ],
  "history": [
@@ -28353,6 +28367,10 @@
   {
    "date": "2026-11-20 18:42",
    "total": 3826
+  },
+  {
+   "date": "2026-11-20 18:43",
+   "total": 3828
   }
  ],
  "next_week_ideas": [
@@ -28433,6 +28451,12 @@
    "use": "A 10 second Short on our own gentle lullaby line: Big Bro alone in frame smiling, then on the word 'you' the camera pans to reveal Little Bro (or the family puppy) and both hug and wave; caption 'my favourite person'. Meshy prompt: standing, sway side to side, then open arms and hug, wave; no floor moves."
   },
   {
+   "name": "Silly award show",
+   "where": "TikTok fake award edits (Stream Awards week, about 2.8M views top example, Nov 2026)",
+   "status": "rising",
+   "use": "A 15 second Short on our own fanfare jingle: Big Bro holds a toy microphone and announces 'And the award for Best Sock Finder goes to...', drum roll, Little Bro (or the puppy) steps up, gets a paper gold star and does a proud happy dance. Meshy prompt: standing, step forward, raise both arms in victory, bow, small happy bounce in place; no floor moves. Repeat weekly with a new silly category."
+  },
+  {
    "name": "How Little Bro sees Big Bro",
    "where": "TikTok slideshow, flipped for Reels and Shorts",
    "status": "rising",
@@ -28503,12 +28527,6 @@
    "where": "TikTok ('Office Dance' group clip, about 16M views, week of 16 Nov 2026), adapted",
    "status": "rising",
    "use": "Three Bros dance together, the music cuts, two freeze like statues with funny faces while Little Bro has not noticed and keeps dancing, then he sees them, gasps and freezes too; ends on our freeze dance hook. Kid safe version: nobody drops to the floor. Meshy prompt: standing, sway hips and wave both arms overhead, then stop suddenly and hold a pose with one arm up, no floor moves."
-  },
-  {
-   "name": "Waiting is hard, go go go",
-   "where": "TikTok 'soundtrack to impatience' voiceover, mid Nov 2026",
-   "status": "rising",
-   "use": "A 10 to 15 second Short with our own fast chant ('Go go go, is it Christmas yet?'): Little Bro stares at the advent calendar, on screen thought bubbles count the days, and both Bros do a quick impatient dance: fast running on the spot, two quick claps, arms pumping up and down, then freeze and look at the camera. Meshy prompt: standing, jog in place quickly, clap twice, pump both fists up and down, then freeze, no floor moves. Reuse for birthday, snow day and holiday countdown songs."
   },
   {
    "name": "Helper stuck in the TV",
