@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:56:36+05:30",
- "runs": 1713,
+ "updated": "2026-11-21T04:57:24+05:30",
+ "runs": 1714,
  "branches": [
   {
    "id": "platforms",
@@ -9505,6 +9505,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1712
+    },
+    {
+     "t": "In Tubefilter's most viewed chart for 9 to 15 Nov 2026 most big family Shorts channels cooled (Cadel and Mia 693M weekly views, down 22%; Sierra and Rhia FAM 626M, down 11%; Keizo and Friends 444M, down 11%; Koko and Golu 509M, down 4%) while Diary of 4 rose 16% to 521M, showing that even top kids Shorts channels swing 10 to 25% from one week to the next.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1714
     }
    ]
   },
@@ -28065,10 +28072,6 @@
   },
   {
    "date": "2026-11-20 18:49",
-   "note": "Run 1635 (competitor deep dive (Kids Diana Show)): Nothing new: the Kids Diana Show stats page could not be read this round (the fetch was blocked). No leaves added. Chrome not available. Total 3828."
-  },
-  {
-   "date": "2026-11-20 18:49",
    "note": "Run 1636 (topics and seasons (Google Holiday 100 recheck; TRENDS skipped as already rechecked twice this run)): Nothing new: Google Holiday 100 toy searches (classic train sets, roller skates) and the retro song revival were already filed. No leaves added. Chrome not available. Total 3828."
   },
   {
@@ -28378,13 +28381,13 @@
   {
    "date": "2026-11-21 04:56",
    "note": "Run 1713 (TRENDS (TokChart, vidIQ and Virlo trending sound charts, 20 Nov)): Mostly known: classic carols, the Chopin nocturne and game theme songs were already filed. New: a dance remix of a classic rock and roll Christmas carol is now among TikTok's fastest growing sounds (about 34K new videos a day), so carol remixes have started taking over the sound charts one month before Christmas. Chrome not available. Total 3995."
+  },
+  {
+   "date": "2026-11-21 04:57",
+   "note": "Run 1714 (YouTube main (Tubefilter most viewed week of 15 Nov rechecked; rules and own results skipped as rechecked this run)): The new number one family Shorts channel and the 42 of 50 Shorts share were already filed. New: most big family Shorts channels cooled that week (Cadel and Mia down 22%, Sierra and Rhia FAM down 11%, Keizo and Friends down 11%) while Diary of 4 rose 16%, so even the leaders swing 10 to 25% week to week. Chrome not available. Total 3996."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 02:51",
-   "total": 3457
-  },
   {
    "date": "2026-11-20 02:52",
    "total": 3457
@@ -29580,6 +29583,10 @@
   {
    "date": "2026-11-21 04:56",
    "total": 3995
+  },
+  {
+   "date": "2026-11-21 04:57",
+   "total": 3996
   }
  ],
  "next_week_ideas": [
