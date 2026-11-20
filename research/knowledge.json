@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:58:41+05:30",
- "runs": 1716,
+ "updated": "2026-11-21T04:59:30+05:30",
+ "runs": 1717,
  "branches": [
   {
    "id": "platforms",
@@ -9512,6 +9512,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1714
+    },
+    {
+     "t": "LiaChaCha runs separate native Spanish (6.64M) and Arabic (5.59M) channels that both grow strongly in late 2026, while older single language dubbed channels such as LooLoo Kids Portuguese (7.9M, about 44M views a month, newest lullaby video about 2K views) and ChiquitinesTV Spanish (2.9M, about 10.6M views a month) are flat, so launch timing and steady native uploads matter more than old subscriber totals.",
+     "src": "vidIQ and Nexlev, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1717
     }
    ]
   },
@@ -18619,6 +18626,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1711
+    },
+    {
+     "t": "LiaChaCha's Spanish channel (Mexico based, started Dec 2023) already has 6.64M subscribers and 6.1B views, gained about 90K subscribers and 155M views in the 28 days to 16 Nov 2026 from about 20 uploads, and its top video (a Spanish public domain chick song, Jan 2025) has about 382M views, so a young brand can still win Latin America fast with native Spanish versions of public domain songs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1717
+    },
+    {
+     "t": "Mexico's NuNu Tv (started May 2023, 1.2M subscribers) still drew about 58M views in 28 days with only 7 uploads, mostly from colour learning songs (its top video is a colours song at about 8.2M), showing that Spanish colour and learning songs have deep, steady demand even for small new channels.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1717
     }
    ]
   },
@@ -28071,10 +28092,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 19:41",
-   "note": "Run 1638 (visual craft (new preschool CG series, thumbnails and tool updates recheck)): Small find: the French and Taiwanese preschool series Mogu and Perol is moving from stop motion to 3DCG with 39 gentle seven minute episodes, a timid big friend paired with a tiny energetic one. Thumbnail testing, Blender 5.1 to 5.3 and Meshy changelog items were already filed; three AWN pages could not be read. Chrome not available. Total 3836."
-  },
-  {
    "date": "2026-11-20 19:44",
    "note": "Run 1639 (TRENDS (Later 13 Nov, SocialPilot 17 to 25 Nov, B&T November, Know Your Meme)): Small find: SocialPilot's 17 to 25 Nov list shows big Christmas songs already at peak on Reels (about 1.8M and 944K Reels each), so the holiday wave has started a week before December; Know Your Meme's autumn field is dominated by AI made character clips, many uncanny or adult. Later's and B&T's November formats (five stages, appointment timestamps, always dancing, deadpan question to mum) were already filed. Trend bank unchanged. Chrome not available. Total 3839."
   },
@@ -28385,13 +28402,13 @@
   {
    "date": "2026-11-21 04:58",
    "note": "Run 1716 (TRENDS (SocialBee Instagram songs 19 Nov, Google 2026 holiday YouTube report, Shorts Christmas formats)): Nothing new: the spell a word with your body stop motion format is already in the trend bank, and advent calendar video growth (about 280M views in November, 850M for the season), wishlist videos and the 26 Dec switch to what I got videos were already filed. No leaves added. Chrome not available. Total 3996."
+  },
+  {
+   "date": "2026-11-21 04:59",
+   "note": "Run 1717 (global markets (Spanish and Portuguese kids song channels: LiaChaCha Spanish, NuNu Tv, ChiquitinesTV, LooLoo Portuguese)): New: LiaChaCha's Spanish channel, only about three years old, reached 6.64M subscribers and about 155M views in 28 days (+90K subscribers) with about 5 uploads a week and a classic chick song at about 382M views; together with its Arabic channel it shows a newer brand winning by launching native Spanish and Arabic channels early. Older Spanish and Portuguese channels (ChiquitinesTV, LooLoo Portuguese) are flat. Chrome not available. Total 3999."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 02:53",
-   "total": 3464
-  },
   {
    "date": "2026-11-20 02:54",
    "total": 3466
@@ -29587,6 +29604,10 @@
   {
    "date": "2026-11-21 04:58",
    "total": 3996
+  },
+  {
+   "date": "2026-11-21 04:59",
+   "total": 3999
   }
  ],
  "next_week_ideas": [
