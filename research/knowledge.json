@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:37:10+05:30",
- "runs": 1549,
+ "updated": "2026-11-20T13:39:41+05:30",
+ "runs": 1551,
  "branches": [
   {
    "id": "platforms",
@@ -2547,6 +2547,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1539
+    },
+    {
+     "t": "In TubeStats' weekly ranking (around 20 Nov 2026) 7 of the 30 most viewed YouTube videos worldwide are kids Shorts: an Indonesian Tayo bus clip (about 182M in a week), KIDZOKI and Kids Land cartoon stories, Kidshire's winter clothes words (about 142M), a BubbleBoo colours Short (88M), a morning tooth brushing song (86M) and a vacuum cleaner song (81M).",
+     "src": "TubeStats, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1551
+    },
+    {
+     "t": "Only 12 of the 100 most viewed Shorts of all time are strictly kids content (NuNu Tv, KIDZOKI, Kids Diana, Cocomelon's belly button dance, Bebefinn Portuguese, LooLoo), yet they include the top spot; about 21 more are family vlogs with children on camera, a format Bro Bros does not use.",
+     "src": "Viralteca, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1551
     }
    ]
   },
@@ -4871,13 +4885,6 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1538
-    },
-    {
-     "t": "From 16 Nov 2026 YouTube adds estimated TV co viewers (a privacy safe statistical model based on demographic patterns and viewing times, no microphones or cameras) to public view counts on long videos, Shorts and live, for new views only; earnings, Partner Program eligibility and ad revenue are not affected.",
-     "src": "Mediaweek and Press Publish, Nov 2026",
-     "conf": "high",
-     "date": "2026-11-20",
-     "run": 1547
     }
    ]
   },
@@ -8889,6 +8896,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1547
+    },
+    {
+     "t": "NuNu Tv Nursery Rhymes holds the most viewed YouTube Short of all time on Viralteca's weekly re ranked list (a 'One Two Three' number song, about 5.7B views) and three more of its Shorts entered the top 100 this week ('Rabbit Went Over the Mountain' 2.2B, 'Ten Little Buses' 1.7B, 'Ten Little Airplanes' 868M), so 'ten little' counting songs with vehicles keep scaling.",
+     "src": "Viralteca, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1551
     }
    ]
   },
@@ -11066,6 +11080,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1492
+    },
+    {
+     "t": "Two of this week's top 30 videos worldwide are plain routine and household machine songs for toddlers (brushing teeth in the morning, a vacuum cleaner song), so everyday objects a toddler hears at home are as strong a song hook as animals and vehicles.",
+     "src": "TubeStats, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1551
     }
    ]
   },
@@ -19578,6 +19599,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1547
+    },
+    {
+     "t": "Rest of World (31 Aug 2026) reports that besides Australia, Brazil and Indonesia at least 22 more countries are designing or proposing under 16 social media bans (citing an OECD blog), and that Meta paid parent influencers to promote Teen Accounts as the alternative, so more markets will push young viewers toward parent devices and kids apps.",
+     "src": "Rest of World, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1551
     }
    ]
   },
@@ -20490,7 +20518,7 @@
      "run": 1535
     },
     {
-     "t": "Because TV co views now inflate public view counts from 16 Nov 2026 (on top of every Short start counting as a view), compare Bro Bros songs week to week with watch time, engaged views and RPM in YouTube Studio, not the public counter, and mark 16 Nov as a break in our view history.",
+     "t": "Because TV co views now inflate public view counts and watch time from 16 Nov 2026 (on top of every Short start counting as a view), compare Bro Bros songs week to week on engaged views, unique viewers, the co view rate and RPM in YouTube Studio, not the public counter, and mark 16 Nov as a break in our view history.",
      "src": "Mediaweek, Nov 2026",
      "conf": "medium",
      "date": "2026-11-20",
@@ -25988,16 +26016,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 06:51",
-   "note": "Summary of older entries: runs up to Run 1470 (TRENDS (Social Expert 1 to 18 Nov list, 19 Nov trend report)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 06:52",
-   "note": "Run 1471 (YouTube main and YouTube Kids (our own results skipped, checked in run 1439)): Nothing new: the 15 Nov Tubefilter charts are still the newest and kids channel rankings found were already in the tree. No leaves added. Chrome not available. Total 3585."
-  },
-  {
    "date": "2026-11-20 07:35",
-   "note": "Run 1472 (competitor deep dive (Lalafun and Bebefinn newest uploads)): Bebefinn's newest is a feelings song ('Why are you crying? Use your words', 18 Nov, about 196K views in 13 hours) while Lalafun's newest animal version of an old rhyme started slowly (about 44K in 39 hours); neither had a Christmas upload by 19 Nov. Added a feelings words song idea. Chrome not available. Total 3589."
+   "note": "Summary of older entries: runs up to Run 1472 (competitor deep dive (Lalafun and Bebefinn newest uploads)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 07:37",
@@ -26306,6 +26326,14 @@
   {
    "date": "2026-11-20 13:37",
    "note": "Run 1549 (TRENDS (Virlo and HowToGoViral formats, 19 to 20 Nov)): New: the 0 to 100 percent loading transformation (counter on screen, build in steps, reveal at 100) and the reach out then cut to a pet gag are fresh this week and kid usable, both added to the trend bank (dropped the fading nervous dance and villain but memes). Gaming tags (Marvel Rivals) lead this week's hashtag growth, nothing for kids. Chrome not available. Total 3699."
+  },
+  {
+   "date": "2026-11-20 13:38",
+   "note": "Run 1550 (YouTube algorithm (Insights, custom feeds, Hype recheck)): Nothing new: the 13 Nov Insights and Research change, Ask Studio's made for kids exclusion, Hype with Jewels (6 Nov) and Beaupre's September recommendation talk were all already in the tree. No leaves added; removed run 1547's co view leaf in algorithm as a duplicate of the 19 Nov one and corrected the ours leaf (watch time is also inflated, so use engaged views and unique viewers). Chrome not available. Total 3698."
+  },
+  {
+   "date": "2026-11-20 13:39",
+   "note": "Run 1551 (Shorts and Reels (this week's most viewed Shorts, all time top 100)): New: 7 of this week's top 30 YouTube videos worldwide are kids Shorts, including a morning tooth brushing song (about 86M) and a vacuum cleaner song (about 81M), and NuNu Tv now holds the all time most viewed Short (a counting song, 5.7B) with three counting rhyme Shorts newly in the top 100. Added the Vroom Vroom Vacuum song idea (dropped the faded ninja tiptoe idea). Chrome not available. Total 3703."
   }
  ],
  "history": [
@@ -27132,6 +27160,14 @@
   {
    "date": "2026-11-20 13:37",
    "total": 3699
+  },
+  {
+   "date": "2026-11-20 13:38",
+   "total": 3698
+  },
+  {
+   "date": "2026-11-20 13:39",
+   "total": 3703
   }
  ],
  "next_week_ideas": [
@@ -27142,6 +27178,10 @@
   {
    "title": "Use Your Words! (Little Bro's Big Feelings Song)",
    "why": "Bebefinn's 18 Nov feelings song (cry, then say what is wrong) is its fastest starting upload this month; ours: Little Bro gets upset, Big Bro helps him say 'I feel sad, I need help', with a stomp, breathe and hug dance."
+  },
+  {
+   "title": "Vroom Vroom Vacuum! (Clean Up Helper Song)",
+   "why": "A kids 'vacuum cleaner song' Short and a morning tooth brushing song both sit in this week's worldwide top 30 YouTube videos (about 81M and 86M views in a week, TubeStats 20 Nov 2026): household machines and routines are huge for toddlers. The Bros push a friendly vacuum that hums a tune, sucks up toy blocks in rhythm and 'burps' them into the toy box; a stop and go freeze when it switches off."
   },
   {
    "title": "I Can Be Brave (Jump In the Pool Song)",
@@ -27158,10 +27198,6 @@
   {
    "title": "Toot Toot, Happy New Year! (Party Horn Countdown Song)",
    "why": "Pinkfong's Hogi is already seeding party horn sounds (60K views in 11 hours, 17 Nov); a countdown from 10 with a toot, a pop and a cheer for an early 'kids midnight' fits every country. Post 27 Dec. Standing moves: blow a pretend horn, jump on 'pop', wave both arms, spin in place slowly."
-  },
-  {
-   "title": "Shh! Ninja Bros! (Quiet Tiptoe Freeze Song)",
-   "why": "International Ninja Day is 5 Dec; a freeze game song (loud dance, then 'shh!' and freeze like a ninja) teaches loud and quiet and works in every language; post on 3 Dec. Standing moves: tiptoe in place, freeze on one leg, slow air chop, bow."
   },
   {
    "title": "That's Not Grandma! (Silly Wolf Fairy Tale Song)",
