@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:39:54+05:30",
- "runs": 1504,
+ "updated": "2026-11-20T09:41:11+05:30",
+ "runs": 1505,
  "branches": [
   {
    "id": "platforms",
@@ -14482,6 +14482,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1481
+    },
+    {
+     "t": "December 2026 has no big animated franchise opening in cinemas: Shrek 5 moved to June 2027 and the sixth Ice Age film (Ice Age: Boiling Point) now opens about 28 Jan to 4 Feb 2027, even though some box office calendars still show the old December dates; Jumanji 3 (11 Dec, live action) is the main family film of the month.",
+     "src": "Variety, Cartoon Brew, HOYTS, Box Office Mojo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1505
+    },
+    {
+     "t": "Because the Ice Age sequel arrives around late January 2027, kids' interest in prehistoric ice animals (woolly mammoths, sabre tooth cats, sloths) should climb through January, so an original Bro Bros woolly mammoth stomp song is best released in mid January rather than during Christmas week.",
+     "src": "HOYTS, Nov 2026 (our inference from the release date)",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1505
     }
    ]
   },
@@ -25443,11 +25457,7 @@
  "log": [
   {
    "date": "2026-11-20 02:55",
-   "note": "Summary of older entries: runs up to Run 1425 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 04:35",
-   "note": "Run 1426 (rules and monetisation (Premium Lite pool, fan funding)): Most rules news (Feb 2027 Partner Program bar, Digital Fairness Act, UK and Australia under 16 rules, India DPDP stages) was already in the tree. New: Premium Lite now sends 60% of its net revenue to a creator pool paid by watch time, and the lower fan funding entry tier does not help made for kids channels because memberships and Super Thanks are switched off on kids videos. Chrome not available. Total 3484."
+   "note": "Summary of older entries: runs up to Run 1426 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 04:35",
@@ -25760,6 +25770,10 @@
   {
    "date": "2026-11-20 09:39",
    "note": "Run 1504 (our own results (Metricool recheck at 09:40 IST)): Nothing new: Instagram still has no Reel after the 19 Nov pair (farm band 4 views, Bubble Gum Pop 9) and YouTube data still stops at 17 Nov with 2,150 subscribers, all already in the tree. No leaves added. Chrome not available. Total 3621."
+  },
+  {
+   "date": "2026-11-20 09:41",
+   "note": "Run 1505 (visuals then topics and seasons (December 2026 family films)): Visual craft searches (thumbnail studies, slow media pacing) found nothing new. New on topics: no big animated franchise opens in cinemas this December (Shrek 5 moved to June 2027, Ice Age: Boiling Point to late Jan or early Feb 2027), so a woolly mammoth or ice age animal song fits mid January better than Christmas week. Chrome not available. Total 3623."
   }
  ],
  "history": [
@@ -26406,6 +26420,10 @@
   {
    "date": "2026-11-20 09:39",
    "total": 3621
+  },
+  {
+   "date": "2026-11-20 09:41",
+   "total": 3623
   }
  ],
  "next_week_ideas": [
