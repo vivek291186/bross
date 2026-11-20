@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:40:47+05:30",
- "runs": 1523,
+ "updated": "2026-11-20T12:42:24+05:30",
+ "runs": 1524,
  "branches": [
   {
    "id": "platforms",
@@ -8784,6 +8784,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1515
+    },
+    {
+     "t": "vidIQ's fastest growing list (updated 19 Nov 2026) has only one pure kids song channel in its top 50, VocaVoca at No. 48 with about 1.1M new subscribers in 30 days (11.1M total, about 16.2B lifetime views), next to the brand channel Pokémon Kids TV at No. 20 (about 1.7M gained).",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1524
+    },
+    {
+     "t": "Jugnu Kids, a Hindi nursery rhyme channel with 17.6M subscribers and over 5,300 videos, still drew about 34M views in 28 days to 19 Nov 2026 from 22 uploads but gained zero subscribers, and its newest classic rhyme cartoon had under 9K views after 13 hours, showing how old catalogues keep views while new uploads stop growing the channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1524
+    },
+    {
+     "t": "A US channel named BabyFun Kids Songs shows about 452K subscribers but only about 640K lifetime views, 18 videos and about 1.8K views in 28 days, so a kids channel's subscriber count alone says nothing; Bro Bros should judge rivals and itself by recent views per upload.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1524
     }
    ]
   },
@@ -25631,12 +25652,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 05:53",
-   "note": "Summary of older entries: runs up to Run 1443 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 05:54",
-   "note": "Run 1445 (visual craft (toon shading recipes from Pixar and Blender Studio)): Toy Story 5's pastel look, rim lights and sound off viewing were already in the tree. New: Pixar's SIGGRAPH 2026 paper says its stylised characters used just an ambient light plus one rim light with a controlled shadow line, and Blender Studio's free cartoon shading paints most lighting into the colour and uses a soft 'blob' normal so the 3D mesh stops looking like CG, both cheap recipes for our renders. Chrome not available. Total 3539."
+   "note": "Summary of older entries: runs up to Run 1444 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 05:55",
@@ -25949,6 +25966,10 @@
   {
    "date": "2026-11-20 12:40",
    "note": "Run 1523 (rules, safety and monetisation (Nov 2026 policy check)): Most policy news (Digital Fairness Act, DPDP stages, COPPA dates, AI slop crackdown, 2027 YPP bars, CPM season) was already in the tree. New: Instagram's parent chosen Limited Content setting removes comments for teens entirely, and its 13+ filter also hides posts from accounts teens already follow, so Reels should earn saves and shares rather than comment prompts. Chrome not available. Total 3648."
+  },
+  {
+   "date": "2026-11-20 12:42",
+   "note": "Run 1524 (YouTube main and YouTube Kids movers (vidIQ 19 Nov, Tubefilter 15 Nov)): Tubefilter's 9 to 15 Nov chart and CreatorDB's content farm census were already filed. New from vidIQ's 19 Nov fastest growing list: VocaVoca is the only pure kids song channel in the top 50 (about 1.1M new subscribers in 30 days, 11.1M total), and the Hindi rhyme giant Jugnu Kids sits at zero subscriber growth despite 22 uploads a month. Chrome not available. Total 3651."
   }
  ],
  "history": [
@@ -26671,6 +26692,10 @@
   {
    "date": "2026-11-20 12:40",
    "total": 3648
+  },
+  {
+   "date": "2026-11-20 12:42",
+   "total": 3651
   }
  ],
  "next_week_ideas": [
