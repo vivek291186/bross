@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:51:16+05:30",
- "runs": 1441,
+ "updated": "2026-11-20T05:52:02+05:30",
+ "runs": 1442,
  "branches": [
   {
    "id": "platforms",
@@ -2442,6 +2442,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1438
+    },
+    {
+     "t": "In an Inflow Network sample of 5,400 Shorts (2023 data, before the three minute limit) average views rose steadily with length, from about 77K for under 10 seconds to about 1.7M for 50 to 60 seconds, so very short clips are not automatically favoured; a full 45 to 60 second chorus Short is a safer default than a 10 second snippet.",
+     "src": "Piktochart citing Inflow Network, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1442
+    },
+    {
+     "t": "Kapwing posted the same two Reels both as trial Reels and as normal Reels: the trend based one reached about 2,258 views as a trial against 949 normally, while the product style one did no better as a trial (802 against 836) and lost all likes and comments, so trial Reels help trend formats reach non followers but not plain promotional clips.",
+     "src": "Kapwing, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1442
     }
    ]
   },
@@ -4654,6 +4668,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1429
+    },
+    {
+     "t": "In Adobe's 2026 survey of 507 Shorts creators, Saturday (25%) and Friday (23%) were named the best days and 6 to 8 pm local time the peak hours, which supports putting our strongest Shorts on Friday and Saturday evenings in the target market's time zone (creator opinion, not measured data).",
+     "src": "ChannelX citing Adobe Express, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1442
     }
    ]
   },
@@ -24792,11 +24813,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 old"
-  },
-  {
-   "date": "2026-11-19 23:40",
-   "note": "Run 1363 (global markets recheck (Circana regional toy data)): Added Circana regional toy data: December is about a third of the year's toy sales in Latin America, Europe spends about 240 dollars per child, Asia and Oceania grow fastest, China's preschool category slows with the birth rate, and football toys jumped about 160% in the World Cup year. Chrome not available. Total 3373."
+   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Ear"
   },
   {
    "date": "2026-11-19 23:40",
@@ -25109,6 +25126,10 @@
   {
    "date": "2026-11-20 05:51",
    "note": "Run 1441 (YouTube algorithm (recheck of Sep to Nov 2026 changes)): Nothing new: YouTube's growth director's Sep 2026 talk (subscriber click rates of 10% or less, suggested above the subscriptions feed), the 'satisfied watch time per click' Shorts shift, the 1 Oct originality update, custom Home feeds and the payout threshold test were all already in the tree, and AIR's month by month guide lists no November 2026 change yet. No leaves added. Chrome not available. Total 3528."
+  },
+  {
+   "date": "2026-11-20 05:52",
+   "note": "Run 1442 (Shorts and Reels (length data, trial Reels test)): Adobe's 507 creator survey and trial Reels basics were already in the tree. New: an older 5,400 Shorts sample where 50 to 60 second Shorts drew about 22 times the views of under 10 second ones, the same survey's creator view that Saturday then Friday and 6 to 8 pm are peak Shorts times, and Kapwing's paired test where a trend based trial Reel reached about 2.4 times the views of the same Reel posted normally while a product Reel gained nothing. Chrome not available. Total 3531."
   }
  ],
  "history": [
@@ -26147,6 +26168,10 @@
   {
    "date": "2026-11-20 05:51",
    "total": 3528
+  },
+  {
+   "date": "2026-11-20 05:52",
+   "total": 3531
   }
  ],
  "next_week_ideas": [
