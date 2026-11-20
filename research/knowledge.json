@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:52:02+05:30",
- "runs": 1442,
+ "updated": "2026-11-20T05:52:46+05:30",
+ "runs": 1443,
  "branches": [
   {
    "id": "platforms",
@@ -24786,6 +24786,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1440
+    },
+    {
+     "t": "Google's 2026 holiday report found game style videos with a time limit, a budget or a Secret Santa draw gain views sharply just before Black Friday and hold through mid December, with Secret Santa clips praised for showing family teamwork; a kid safe version is a 'wrap the present before the song ends' race between the Bros, posted from 25 Nov.",
+     "src": "Google Culture and Trends holiday report, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1443
+    },
+    {
+     "t": "A TikTok of a baby seriously 'talking' gibberish to her first snow passed 2.5M views, one of many first snow reaction clips that resurface every winter, so a Bro Bros moment where Little Bro chats with a snowflake that answers in a tinkly voice is an evergreen first snow hook.",
+     "src": "Legit.ng, Jan 2024",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1443
     }
    ]
   }
@@ -24813,11 +24827,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Ear"
-  },
-  {
-   "date": "2026-11-19 23:40",
-   "note": "Run 1364 (competitor deep dive (Super Simple Songs 20 years)): Super Simple's background, Moonbug news and BabyBus and Lalafun stats were mostly in the tree; added how Super Simple used its 20th anniversary (celebration song, studio tour, vinyl, app) and its founding learning purpose. Peppa Pig crossover page could not be opened. Chrome not available. Total 3375."
+   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Sum"
   },
   {
    "date": "2026-11-19 23:41",
@@ -25130,6 +25140,10 @@
   {
    "date": "2026-11-20 05:52",
    "note": "Run 1442 (Shorts and Reels (length data, trial Reels test)): Adobe's 507 creator survey and trial Reels basics were already in the tree. New: an older 5,400 Shorts sample where 50 to 60 second Shorts drew about 22 times the views of under 10 second ones, the same survey's creator view that Saturday then Friday and 6 to 8 pm are peak Shorts times, and Kapwing's paired test where a trend based trial Reel reached about 2.4 times the views of the same Reel posted normally while a product Reel gained nothing. Chrome not available. Total 3531."
+  },
+  {
+   "date": "2026-11-20 05:52",
+   "note": "Run 1443 (TRENDS (holiday game formats, first snow reactions)): Google's advent calendar and wishlist view curves and first snow clips were already in the tree. New: Google's holiday report shows game style videos (time limits, budget challenges, Secret Santa) jump just before Black Friday (27 Nov 2026) and hold to mid December, which suits a kid safe 'beat the song timer' Short, and baby 'talking to the snow' clips keep earning millions of views. Chrome not available. Total 3533."
   }
  ],
  "history": [
@@ -26172,6 +26186,10 @@
   {
    "date": "2026-11-20 05:52",
    "total": 3531
+  },
+  {
+   "date": "2026-11-20 05:52",
+   "total": 3533
   }
  ],
  "next_week_ideas": [
@@ -26233,6 +26251,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Beat the song timer",
+   "where": "YouTube and Reels game videos (time limits, Secret Santa), late Nov to mid Dec",
+   "status": "seasonal",
+   "use": "A 30 second Short: a big on screen clock starts with our own countdown song and the Bros race to wrap a present, put on hats and scarves and stand by the tree before the last note, then cheer. Meshy prompt: standing in place, fast arm wrapping motion in front of chest, then put on a hat with both hands, then jump once and raise both arms, no running across the floor."
+  },
   {
    "name": "Ninja tiptoe freeze",
    "where": "International Ninja Day posts (5 Dec), Reels and Shorts",
@@ -26334,12 +26358,6 @@
    "where": "TikTok, Reels, YouTube Shorts (Korean kids song challenge, evergreen)",
    "status": "evergreen",
    "use": "A 15 second Short on our own 'Puppy Says Woof' chorus: both Bros stand facing camera, put both hands on top of their heads as floppy puppy ears, then one fist on the nose as a puppy nose, then a quick happy snap forward with both hands on the word 'woof', repeat twice and end with a tail wiggle. Meshy prompt: standing in place, hands on head like ears, hand to nose, quick clap forward, hip wiggle."
-  },
-  {
-   "name": "Magic word tidy up",
-   "where": "Instagram Reels, YouTube Shorts (riding the late Nov magic film buzz)",
-   "status": "rising",
-   "use": "A 15 second Short with our own song: the big brother says our invented magic word, both Bros wiggle their fingers forward like sprinkling glitter, then point at a messy toy pile together; hard cut in Blender and every toy is back on the shelf, the Bros cheer with arms up. Meshy prompt: standing in place, wiggle fingers forward at chest height, then both arms point forward, then both arms up and a small hop. No wands or spells from any film, no character names."
   },
   {
    "name": "Matching pyjamas deadpan dance",
