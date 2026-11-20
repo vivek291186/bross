@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:40:01+05:30",
- "runs": 1456,
+ "updated": "2026-11-20T06:40:54+05:30",
+ "runs": 1457,
  "branches": [
   {
    "id": "platforms",
@@ -25037,11 +25037,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)): earlier rounds summarised; details live in the leaves."
-  },
-  {
-   "date": "2026-11-19 23:47",
-   "note": "Run 1378 (rules and monetisation recheck): Nothing new: the EU Digital Fairness Act proposal of 11 Nov (minors' ads, autoplay switches, 6% fines) and AIR's 2026 kids RPM and CPM tables were already in the tree. No leaves added. Chrome not available. Total 3382."
+   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)) and Run 1378 (rules and monetisation recheck): earlier rounds summarised; details live in the leaves."
   },
   {
    "date": "2026-11-19 23:48",
@@ -25354,6 +25350,10 @@
   {
    "date": "2026-11-20 06:40",
    "note": "Run 1456 (music craft (infant movement study, Suno v6, kids streaming)): Nothing new: the 2026 eLife infant movement study, Suno v6 and v5.5 features and Baby Shark's billion Spotify streams were already in the tree; no fresh November study on kids music found. No leaves added. Chrome not available. Total 3563."
+  },
+  {
+   "date": "2026-11-20 06:40",
+   "note": "Run 1457 (visual craft (thumbnail faces data, Meshy and Blender updates)): Nothing new: 1of10's faces study, closed mouth smile tests, Meshy's Sep and Oct changelog (Meshy Edit, T2.5, N1 textures, Auto Split) and Blender 5.1 were already in the tree; Meshy has no November changelog entry yet. No leaves added. Chrome not available. Total 3563."
   }
  ],
  "history": [
@@ -26447,6 +26447,10 @@
   },
   {
    "date": "2026-11-20 06:39",
+   "total": 3563
+  },
+  {
+   "date": "2026-11-20 06:40",
    "total": 3563
   },
   {
