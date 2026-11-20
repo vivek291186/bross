@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:35:35+05:30",
- "runs": 1453,
+ "updated": "2026-11-20T06:36:44+05:30",
+ "runs": 1454,
  "branches": [
   {
    "id": "platforms",
@@ -2456,6 +2456,34 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1442
+    },
+    {
+     "t": "Emplifi's Mar 2026 brand Reels data shows a human voice starting within the first 3 seconds raised 10 second retention by about 25% versus music only openings (but cut replays about 11%), and 62% of brand Reels have no speech, so a Bro Bros Reel could open with one brother calling out a short line before the beat drops.",
+     "src": "Emplifi, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1454
+    },
+    {
+     "t": "In the same Emplifi data slower overall pacing and a slower start each raised 30 second retention by about 8%, while pacing in the first 3 seconds barely mattered, so our Reels do not need frantic cuts as long as the opening hook is clear.",
+     "src": "Emplifi, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1454
+    },
+    {
+     "t": "Emplifi found on screen text helps music led Reels (30 second retention up about 10%) but slightly hurts speech led Reels (10 second retention down about 6%), so lyric captions belong on our song Reels and should be dropped on any talking clip.",
+     "src": "Emplifi, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1454
+    },
+    {
+     "t": "Since 15 Oct 2026 Meta's Edits app lets Reels creators add tappable audio links so viewers can jump to the song, and Edits shows trending topic insights only to accounts above 10,000 followers, so cutting our Reels in Edits and linking our own original track can send listeners to the full Bro Bros song.",
+     "src": "Social Media Today, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1454
     }
    ]
   },
@@ -24988,11 +25016,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)): earlier rounds summarised; details live in the leaves."
-  },
-  {
-   "date": "2026-11-19 23:45",
-   "note": "Run 1375 (global markets recheck (Africa and Philippines)): Nothing new: YouTube reach and watch time growth in Nigeria, South Africa and Kenya, Ubongo's Akili and Me, Jeni and Keni and Philippine kids channel rankings were already in the tree. No leaves added. Chrome not available. Total 3379."
+   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)): earlier rounds summarised; details live in the leaves."
   },
   {
    "date": "2026-11-19 23:46",
@@ -25305,6 +25329,10 @@
   {
    "date": "2026-11-20 06:35",
    "note": "Run 1453 (YouTube algorithm (YPP 2027 rules, Oct creator news)): New: from 1 Feb 2027 YouTube needs 8,000 watch hours a year or 20M Shorts views in 90 days to join the Partner Program, and keeps Shorts ad money only for channels above 10M qualified Shorts views per rolling 90 days, while long form share stays 55% versus 45% for Shorts; also a channel wide upload freeze of about 24 hours when YouTube flags unusual activity. Chrome not available. Total 3556."
+  },
+  {
+   "date": "2026-11-20 06:36",
+   "note": "Run 1454 (Shorts and Reels (Edits audio links, Emplifi voice and pacing data)): Most Reels news (reference tool, end of linked Reels) was already in the tree. New: Emplifi found a voice speaking in the first 3 seconds lifts 10 second retention by about 25% over music only openings, slower overall pacing lifts 30 second holds about 8%, text on screen helps music Reels but slightly hurts speech Reels, and Edits now lets Reels carry tappable audio links. Chrome not available. Total 3560."
   }
  ],
  "history": [
@@ -26391,6 +26419,10 @@
   {
    "date": "2026-11-20 06:35",
    "total": 3556
+  },
+  {
+   "date": "2026-11-20 06:36",
+   "total": 3560
   }
  ],
  "next_week_ideas": [
