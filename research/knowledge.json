@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:43:04+05:30",
- "runs": 1681,
+ "updated": "2026-11-21T03:44:29+05:30",
+ "runs": 1682,
  "branches": [
   {
    "id": "platforms",
@@ -5186,6 +5186,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1678
+    },
+    {
+     "t": "On Alphabet's 29 Oct 2025 earnings call Sundar Pichai said that in the US Shorts now earn more revenue per watch hour than regular in stream video, which explains why YouTube keeps handing Home feed rows to Shorts; for Bro Bros every long song should have a Short that leads viewers into it.",
+     "src": "PPC Land, Dec 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1682
+    },
+    {
+     "t": "YouTube says (Jan 2026) its recommendation safeguards for young viewers automatically break repeated viewing loops in sensitive categories such as body comparison, so a kids channel's reach depends on staying in plainly positive themes (friendship, learning, helping) that the system never needs to cap.",
+     "src": "YouTube blog, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1682
+    },
+    {
+     "t": "YouTube describes supervised accounts for children with three levels (Explore, Explore More, Most of YouTube) next to the YouTube Kids app for ages 0 to 12, so the same Bro Bros video can reach a child through four different surfaces, and only clearly made for kids, high quality videos are eligible for the youngest one.",
+     "src": "YouTube blog, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1682
     }
    ]
   },
@@ -27693,10 +27714,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:49",
-   "note": "Run 1603 (global markets (Japan kids song chart)): New: Soundcharts' Japan kids list is topped by a simple toothbrushing song (about 110M YouTube views), far ahead of a hotcake song from NHK's preschool show (38M), proof that a daily routine song can be a country's biggest kids hit; the rest (anime themes, Japanese Disney versions) was already filed. Chrome not available. Total 3791."
-  },
-  {
    "date": "2026-11-20 17:50",
    "note": "Run 1604 (competitor deep dive (BabyBus and Sheriff Labrador, November uploads)): New: BabyBus's best November uploads are small everyday problems turned into a song ('My Zipper's Stuck!' 1.36M in two weeks, a race car wheels and shapes song 1.12M), it posts about one long video a day with no Shorts and no Christmas title yet; its Sheriff Labrador spin off still adds about 100K subscribers a month with safety cartoons. Chrome not available. Total 3795."
   },
@@ -28007,13 +28024,13 @@
   {
    "date": "2026-11-21 03:43",
    "note": "Run 1681 (TRENDS (Thanksgiving week TikTok, Spotify Wrapped timing, Daily Dot 17 Nov)): Wrapped's predicted 2 Dec date and most Thanksgiving formats were already filed. New: a 30 second Suno made family song about Thanksgiving chores drew about 225K TikTok views, showing short personal AI songs travel in family group chats; a Wrapped style 'our year in songs' recap went into the trend bank in place of the couple based moon reveal. Chrome not available. Total 3942."
+  },
+  {
+   "date": "2026-11-21 03:44",
+   "note": "Run 1682 (YouTube algorithm (home feed long form squeeze, Insights and Research, YouTube Kids filtering FAQ, YouTube family safeguards)): Joos's two long videos per Home row, Ask Studio's made for kids exclusion and the YouTube Kids filter layers were already filed. New: Google's CEO said US Shorts now earn more per watch hour than regular in stream video, which explains why YouTube keeps giving Shorts more Home slots, and YouTube's family safeguards automatically break repeated loops in sensitive categories. Chrome not available. Total 3945."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:49",
-   "total": 3390
-  },
   {
    "date": "2026-11-19 23:50",
    "total": 3392
@@ -29209,6 +29226,10 @@
   {
    "date": "2026-11-21 03:43",
    "total": 3942
+  },
+  {
+   "date": "2026-11-21 03:44",
+   "total": 3945
   }
  ],
  "next_week_ideas": [
