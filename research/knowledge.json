@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:42:24+05:30",
- "runs": 1524,
+ "updated": "2026-11-20T12:43:50+05:30",
+ "runs": 1525,
  "branches": [
   {
    "id": "platforms",
@@ -4822,6 +4822,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1501
+    },
+    {
+     "t": "Metricool's 2026 data (cited 1 Nov 2026) says Reels collect about 65% of their views and 61% of their interactions in the first three days, so each Bro Bros Reel should be judged at 72 hours and go out at a time when our audience is awake, not left to grow slowly.",
+     "src": "blog.mean.ceo citing Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1525
     }
    ]
   },
@@ -25626,6 +25633,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1519
+    },
+    {
+     "t": "November 2026 Reels format lists put ranking Reels and numbered list Reels ('3 things...') near the top; a kid safe version is the Bros ranking three winter things (snowman, hot cocoa, mittens) from 3 to 1 with one dance pose per pick, set to a short original counting jingle.",
+     "src": "blog.mean.ceo, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1525
+    },
+    {
+     "t": "The 'last uppy' TikTok trend (from late 2025, hundreds of thousands of posts by Feb 2026) shows parents lifting a tween or teen for one last carry, funny or tearful; for Bro Bros it suggests a warm original song where Big Bro gives Little Bro 'one more uppy', aimed at parents who watch with their kids.",
+     "src": "Today's Parent, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1525
+    },
+    {
+     "t": "The 'Great Meme Reset of 2026' was a late 2025 call by teens to drop old memes and start fresh in the new year; it is a teen joke, not a kids format, so it gives nothing to copy beyond the reminder that a New Year 'fresh start' theme lands across ages.",
+     "src": "Know Your Meme and Daily Dot search listings, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1525
     }
    ]
   }
@@ -25652,12 +25680,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 05:54",
-   "note": "Summary of older entries: runs up to Run 1444 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 05:55",
-   "note": "Run 1446 (TRENDS (why kids songs go viral with parents)): No new kid song broke out this week in the sources found; added evergreen lessons from past viral kids songs: a toddler can request Baby Shark with just its 'do do do' sound, a boundaries song spread when parents and a big preschool creator shared it, and a teacher's dumpling making song (with a toy dumpling) charmed adults across cultures. Chrome not available. Total 3542."
+   "note": "Summary of older entries: runs up to Run 1445 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 05:55",
@@ -25970,6 +25994,10 @@
   {
    "date": "2026-11-20 12:42",
    "note": "Run 1524 (YouTube main and YouTube Kids movers (vidIQ 19 Nov, Tubefilter 15 Nov)): Tubefilter's 9 to 15 Nov chart and CreatorDB's content farm census were already filed. New from vidIQ's 19 Nov fastest growing list: VocaVoca is the only pure kids song channel in the top 50 (about 1.1M new subscribers in 30 days, 11.1M total), and the Hindi rhyme giant Jugnu Kids sits at zero subscriber growth despite 22 uploads a month. Chrome not available. Total 3651."
+  },
+  {
+   "date": "2026-11-20 12:43",
+   "note": "Run 1525 (TRENDS (Reels formats and family trends, 20 Nov)): Weekly trend lists and Thanksgiving news repeated what the tree holds; Know Your Meme pages were blocked. New: Reels get about 65% of their views in the first 3 days (Metricool data cited 1 Nov), ranking and list Reels lead November's format lists, and the tender 'last uppy' parent and child lift trend (late 2025 to Feb 2026) is a ready emotional song angle. Trend bank unchanged. Chrome not available. Total 3655."
   }
  ],
  "history": [
@@ -26696,6 +26724,10 @@
   {
    "date": "2026-11-20 12:42",
    "total": 3651
+  },
+  {
+   "date": "2026-11-20 12:43",
+   "total": 3655
   }
  ],
  "next_week_ideas": [
