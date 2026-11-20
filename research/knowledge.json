@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T02:55:38+05:30",
- "runs": 1663,
+ "updated": "2026-11-21T02:56:27+05:30",
+ "runs": 1664,
  "branches": [
   {
    "id": "platforms",
@@ -9288,6 +9288,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1657
+    },
+    {
+     "t": "ChuChuTV Hindi (16.8M subscribers) lost about 100K subscribers in the 28 days to 11 Nov 2026 on about 29M views, and its newest upload, a Diwali song collection in 4K (1 Nov), had only about 55K views after nine days, so even a festival song from the biggest Indian rhyme brand barely moves when it is a repackaged collection rather than one new song.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1664
+    },
+    {
+     "t": "ChuChu TV's Surprise Eggs learning channel (9.33M subscribers) posted nothing between 3 Oct and 9 Nov 2026 yet still gained about 10K subscribers on about 25M views in 28 days, and its last upload (a banana song with surprise eggs) passed 500K views in five weeks, so a toy reveal plus song format keeps earning from the back catalogue long after uploads stop.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1664
     }
    ]
   },
@@ -27421,10 +27435,6 @@
   },
   {
    "date": "2026-11-20 16:38",
-   "note": "Run 1585 (YouTube algorithm (Beaupre interview, Home feed long form squeeze, 8 Nov custom feeds)): Nothing new: the pulled per viewer ranking, the eight impression cap test, Joos's Home row data, custom feeds in the top bar and Hype with Jewels were all already filed. No leaves added. Chrome not available. Total 3758."
-  },
-  {
-   "date": "2026-11-20 16:38",
    "note": "Run 1586 (Shorts and Reels (Instagram long video test, Your Algorithm controls, Shorts clean mode and series)): Nothing new: Instagram's 90 minute widescreen video test, the Your Algorithm Reels controls, and YouTube's Shorts clear screen, series and freshness changes were all already filed. No leaves added. Chrome not available. Total 3758."
   },
   {
@@ -27734,13 +27744,13 @@
   {
    "date": "2026-11-21 02:55",
    "note": "Run 1663 (global markets (Perso dubbing demand by category, Sub Saharan Africa streaming forecast, East African kids channels)): The 3Vision Africa forecast and Akili and Me were already filed. New: in Perso's July 2026 figures Portuguese leads dubbing demand at 12.7% ahead of Spanish 9.0% and is the top target in animation (12.9%), and a Kenyan parent guide lists a 3D animated Swahili nursery rhyme channel with African characters among the top picks. Chrome not available. Total 3903."
+  },
+  {
+   "date": "2026-11-21 02:56",
+   "note": "Run 1664 (competitor deep dive (ChuChu TV main, Hindi and Surprise Eggs channels via vidIQ)): ChuChu TV main (flat subscribers, 223M views a month, 24 minute story compilation newest) was already filed. New: ChuChuTV Hindi lost about 100K subscribers in 28 days and its Diwali song collection drew only about 55K views in nine days, while the Surprise Eggs side channel posted nothing for over a month yet still gained subscribers on about 25M monthly views. Chrome not available. Total 3905."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:40",
-   "total": 3375
-  },
   {
    "date": "2026-11-19 23:41",
    "total": 3376
@@ -28936,6 +28946,10 @@
   {
    "date": "2026-11-21 02:55",
    "total": 3903
+  },
+  {
+   "date": "2026-11-21 02:56",
+   "total": 3905
   }
  ],
  "next_week_ideas": [
