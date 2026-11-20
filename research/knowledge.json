@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:58:17+05:30",
- "runs": 1537,
+ "updated": "2026-11-20T12:59:09+05:30",
+ "runs": 1538,
  "branches": [
   {
    "id": "platforms",
@@ -4850,6 +4850,20 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1526
+    },
+    {
+     "t": "YouTube Kids' curated home is split into five sections (series, music, learning, discovery and games), so each Bro Bros upload should clearly belong to one of them: a song in 'music' or a counting or habit song that also reads as 'learning' in its title and description.",
+     "src": "PPC Land citing YouTube Kids FAQ, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1538
+    },
+    {
+     "t": "YouTube Kids gives brand new child profiles no personalised recommendations until they have watch history, and its filters are updated quickly when a mainstream trend is judged unsuitable for kids, so trend based Shorts that look edgy can vanish from the Kids app overnight even if the main app keeps them.",
+     "src": "PPC Land citing YouTube Kids FAQ, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1538
     }
    ]
   },
@@ -8847,6 +8861,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1533
+    },
+    {
+     "t": "In Metricool's 2026 YouTube study only 11% of accounts under 10,000 subscribers moved up a size tier between Feb 2025 and Feb 2026, so growing past 10K is rare and Bro Bros should judge progress by views per upload and returning viewers, not by expecting quick subscriber jumps.",
+     "src": "Metricool press release, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1538
     }
    ]
   },
@@ -25855,12 +25876,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 06:41",
-   "note": "Summary of older entries: runs up to Run 1457 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 06:42",
-   "note": "Run 1459 (global markets (Latin America viewing time)): Auto dubbing (27 languages) and Latin America YouTube reach were already in the tree. New: Omdia's 17 Nov data shows Netflix viewers in Mexico, Brazil, Colombia and Argentina watch 111 to 133 minutes a day against 78 to 99 for YouTube viewers, the reverse of the US. Chrome not available. Total 3567."
+   "note": "Summary of older entries: runs up to Run 1458 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 06:43",
@@ -26173,6 +26190,10 @@
   {
    "date": "2026-11-20 12:58",
    "note": "Run 1537 (TRENDS (year recap formats, 20 Nov)): Kid and parent trend searches mostly returned items already filed. New and rising: the 'I feel like I have not done anything this year' montage (one labelled clip per month revealing a full year), explained by a parenting site on 20 Nov; added to the top of the trend bank with a Bro Bros version built from our own 2026 songs (dropped the generic song timer format). Chrome not available. Total 3680."
+  },
+  {
+   "date": "2026-11-20 12:59",
+   "note": "Run 1538 (YouTube algorithm (YouTube Kids gate, new channel benchmarks)): vidIQ's first 10 videos study and Metricool's 2026 study were already filed. New from YouTube's April 2026 Kids FAQ: the app's curated home has five sections (series, music, learning, discovery, games), new kid profiles get no personal recommendations until they build history, and filters are tightened quickly when a mainstream trend is judged unsuitable; plus Metricool's figure that only 11% of channels under 10K subscribers moved up a size tier in a year. Chrome not available. Total 3683."
   }
  ],
  "history": [
@@ -26951,6 +26972,10 @@
   {
    "date": "2026-11-20 12:58",
    "total": 3680
+  },
+  {
+   "date": "2026-11-20 12:59",
+   "total": 3683
   }
  ],
  "next_week_ideas": [
