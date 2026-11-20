@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:36:16+05:30",
- "runs": 1500,
+ "updated": "2026-11-20T09:37:36+05:30",
+ "runs": 1501,
  "branches": [
   {
    "id": "platforms",
@@ -4808,6 +4808,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1499
+    },
+    {
+     "t": "An unconfirmed creator analysis (Mario Joos, backed by Tim Chesney) suggests that since mid Sept 2025 Shorts older than about 28 to 30 days get far fewer feed impressions, so Shorts reach comes mostly in the first month and a steady stream of new Shorts matters more than hoping old ones revive; YouTube has not confirmed it.",
+     "src": "Search Engine Journal, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1501
     }
    ]
   },
@@ -25436,11 +25443,7 @@
  "log": [
   {
    "date": "2026-11-20 02:55",
-   "note": "Summary of older entries: runs up to Run 1421 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 03:37",
-   "note": "Run 1422 (TRENDS (trend lifespans and caution list)): Most of this week's Reels and TikTok lists (Later 13 Nov, SocialPilot 17 Nov, NewEngen 16 Nov, B&T 2 Nov) were already in the tree. New: the soft launch reveal sound is already slowing (76K new videos a day on 18 Nov, down 12%), last December's biggest reaction dance started in October, and two dance trends to avoid. Swapped 'Expectation vs reality' (past peak) for 'Shy then dance' in the trend bank. Chrome not available. Total 3472."
+   "note": "Summary of older entries: runs up to Run 1422 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 03:38",
@@ -25753,6 +25756,10 @@
   {
    "date": "2026-11-20 09:36",
    "note": "Run 1500 (TRENDS (SocialPilot TikTok and Reels lists 17 to 25 Nov, Metricool songs)): Nothing new: the camera shy dance, Pink Floyd then and now, the ILLIT relay hook, Christmas market walk and Blue Danube chore ballet were all already in the tree, and Metricool's Instagram song list is stuck on its 2 Nov Halloween edition. No leaves added. Chrome not available. Total 3620."
+  },
+  {
+   "date": "2026-11-20 09:37",
+   "note": "Run 1501 (YouTube algorithm (Shorts freshness and Home feed recheck)): One new leaf: an unconfirmed creator theory that Shorts older than about a month get fewer feed impressions since mid Sept 2025, so a steady stream of fresh Shorts matters more than reposting old ones. Home feed and Oct 2026 originality changes were already in the tree; AIR lists no November 2026 changes. Chrome not available. Total 3621."
   }
  ],
  "history": [
@@ -26383,6 +26390,10 @@
   {
    "date": "2026-11-20 09:36",
    "total": 3620
+  },
+  {
+   "date": "2026-11-20 09:37",
+   "total": 3621
   }
  ],
  "next_week_ideas": [
