@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T11:37:29+05:30",
- "runs": 1516,
+ "updated": "2026-11-20T11:38:34+05:30",
+ "runs": 1517,
  "branches": [
   {
    "id": "platforms",
@@ -12865,6 +12865,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1469
+    },
+    {
+     "t": "Epic's April 2026 kids animation spotlight says small YouTube studios swapped hand animated effects for automatic particle systems (one micro series did this from episode 3), the same move as reusing Blender geometry node snow, sparkle and confetti setups across all 14 weekly Bro Bros songs.",
+     "src": "Unreal Engine, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1517
     }
    ]
   },
@@ -19347,6 +19354,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1516
+    },
+    {
+     "t": "A Finnish study following 260 children for eight years (Pediatric Exercise Science, reported 17 Nov 2026) linked more childhood screen time to better cognitive processing at about 16 and less unsupervised time to better results, so parents' worry is shifting from minutes to what is watched and with whom, which favours calm co viewable songs.",
+     "src": "ScienceDaily, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1517
     }
    ]
   },
@@ -25576,11 +25590,7 @@
  "log": [
   {
    "date": "2026-11-20 05:40",
-   "note": "Summary of older entries: runs up to Run 1437 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 05:43",
-   "note": "Run 1438 (rules and safety (under 13 detection, Family Center profiles)): COPPA dates, the Disney label case, COPPA 2.0 and YouTube's teen Shorts limits were already in the tree. New: an Aug 2026 multistate settlement made Meta detect and remove under 13 users with an age model, and YouTube's Family Center is moving to Netflix style profiles for several children, which makes per child kids viewing easier for parents. Chrome not available. Total 3526."
+   "note": "Summary of older entries: runs up to Run 1438 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 05:43",
@@ -25893,6 +25903,10 @@
   {
    "date": "2026-11-20 11:37",
    "note": "Run 1516 (TRENDS (December prep, 19 Nov news)): Weekly lists (Later, SocialPilot, NewEngen 16 Nov, SocialBee 19 Nov) repeat formats already in the tree. New: the nightly 'scout elf' setups from 1 Dec give a daily morning surprise format we can copy without the branded elf, parents fold the six seven slang into elf scenes, and South Dakota sued TikTok over harm to minors on 19 Nov. Trend bank unchanged. Chrome not available. Total 3640."
+  },
+  {
+   "date": "2026-11-20 11:38",
+   "note": "Run 1517 (visual craft and child research (music craft skipped, nothing new last time)): Animation style and thumbnail searches found only items already in the tree (Silly Crocodile, BellyFant, low stimulation, vidIQ thumbnail study). New: a Finnish 8 year study (17 Nov) linking childhood screen time to better teen cognitive processing, with supervision mattering more than minutes, and Epic's note that tiny YouTube teams lean on reusable automatic effects. Chrome not available. Total 3642."
   }
  ],
  "history": [
@@ -26587,6 +26601,10 @@
   {
    "date": "2026-11-20 11:37",
    "total": 3640
+  },
+  {
+   "date": "2026-11-20 11:38",
+   "total": 3642
   }
  ],
  "next_week_ideas": [
