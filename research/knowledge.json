@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:53:43+05:30",
- "runs": 1607,
+ "updated": "2026-11-20T17:54:38+05:30",
+ "runs": 1608,
  "branches": [
   {
    "id": "platforms",
@@ -20103,6 +20103,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1594
+    },
+    {
+     "t": "Parents worry that December social videos showing grown ups moving the elf spoil the magic for young viewers, so Bro Bros Christmas videos should keep helpers, elves and Santa magical and never show or hint at who really moves them.",
+     "src": "Distractify, Dec 2023",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1608
     }
    ]
   },
@@ -26648,6 +26655,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1596
+    },
+    {
+     "t": "The official Elf on the Shelf site (updated Oct 2026) builds December activities around the kids' '6 7' joke: six chocolate chips and seven marshmallows on cookies, counting sixes and sevens in the lights, 6 to 7 good deeds in a day, a 6 item hunt in 7 minutes, so a Bro Bros counting song that lands a big '6, 7!' shout is a brand safe way to use the joke this Christmas.",
+     "src": "elfontheshelf.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1608
+    },
+    {
+     "t": "A popular low effort alternative to the mischievous elf is a sleepy helper who moves in on 1 December, fills the advent calendar and only needs a marshmallow each night, showing parents want calm, easy daily December rituals; a gentle 'Sleepy Helper' bedtime song for each December night fits that mood.",
+     "src": "Motherly, Dec 2024",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1608
     }
    ]
   }
@@ -26675,11 +26696,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1528 (TRENDS (Christmas slang and dance rights)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 12:47",
-   "note": "Run 1529 (music craft (studies, Suno, kids charts)): Nothing new: the 2026 infant rhythm and newborn song studies, the Italian toddler music study, Suno v6 and Billboard's Kid Albums chart (the public page still shows the week of 8 Nov 2025) were all already in the tree. No leaves added. Chrome not available. Total 3662."
+   "note": "Summary of older entries: runs up to Run 1529 (music craft (studies, Suno, kids charts)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 12:48",
@@ -26992,6 +27009,10 @@
   {
    "date": "2026-11-20 17:53",
    "note": "Run 1607 (YouTube top channels (fastest growing week of 13 to 20 Nov; our results skipped, no new data yet)): New: in the week to 20 Nov 2026 only two pure kids song channels made the global top 100 by subscriber growth, LooLoo Kids (+100K, about 168M views) and Super Simple Songs (+100K, about 119M), while Like Nastya added 1M and CoComelon led kids views (about 344M in seven days); English nursery songs keep compounding even without a viral hit. Chrome not available. Total 3797."
+  },
+  {
+   "date": "2026-11-20 17:54",
+   "note": "Run 1608 (TRENDS (Christmas helper elf season, the 6 7 joke at Christmas)): New: the official Elf on the Shelf brand now leans on the kids' '6 7' joke with counting activities (six chips and seven marshmallows, count sixes and sevens in the lights, 6 to 7 good deeds), which backs our six seven carol idea as kid safe; a low effort 'resting elf' that just gets a marshmallow each night shows parents want easy December rituals; Christmas content must never reveal that grown ups move the helper or who Santa is. Trend bank unchanged. Chrome not available. Total 3800."
   }
  ],
  "history": [
@@ -28050,6 +28071,10 @@
   {
    "date": "2026-11-20 17:53",
    "total": 3797
+  },
+  {
+   "date": "2026-11-20 17:54",
+   "total": 3800
   }
  ],
  "next_week_ideas": [
