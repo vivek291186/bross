@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T10:35:53+05:30",
- "runs": 1507,
+ "updated": "2026-11-20T10:37:00+05:30",
+ "runs": 1508,
  "branches": [
   {
    "id": "platforms",
@@ -8756,6 +8756,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1496
+    },
+    {
+     "t": "Bebefinn's newest episode (18 Nov 2026), 'Why Are You Crying, Finn? Don't Cry, Use Your Words!', drew about 196K views in its first 13 hours, faster than its ballet song the week before (about 247K in a day and a half), so a feelings song where a little one learns to say what is wrong instead of crying is a proven fast starter; our 'Use Your Words!' idea should be made next week.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1508
+    },
+    {
+     "t": "Little Angel's newest dubbed uploads (17 and 18 Nov 2026) open with fewer than 10K views in their first day or two even on 5M to 17M subscriber channels (a dinosaur animal dance party in Indonesian 9.7K, a wheels on the train song in Arabic 4.3K, a Bingo 'who was in our house?' mess mystery in Portuguese 9K), showing that subscriber count no longer pushes new videos and each upload must earn its own clicks.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1508
     }
    ]
   },
@@ -17058,6 +17072,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1459
+    },
+    {
+     "t": "Little Angel's dubbed channels have stalled: Indonesian (14.8M subscribers) gained about 20M views and zero net subscribers in the 28 days to 20 Nov 2026, Arabic (5.2M) about 11M views and zero, and Portuguese (17.3M) about 66M views and zero, while Bebefinn Spanish takes about 450M a month, so dubbing an old catalogue is not enough; a dub grows only with fresh, regular local uploads and a lively brand.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1508
     }
    ]
   },
@@ -25491,12 +25512,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 04:37",
-   "note": "Summary of older entries: runs up to Run 1428 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 04:38",
-   "note": "Run 1429 (YouTube algorithm (where organic views come from)): Most algorithm news (originality push for Shorts, the 8 times recommendation cap, subscriber click rates, fewer long videos per Home row) was already in the tree. New: in Metricool's 2026 study 61% of organic YouTube views come from the Shorts feed against only 0.3% for us, so our Shorts are the biggest untapped door; Shorts watch time per view fell about two thirds while brands posted 20% more. Chrome not available. Total 3496."
+   "note": "Summary of older entries: runs up to Run 1429 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 04:39",
@@ -25809,6 +25826,10 @@
   {
    "date": "2026-11-20 10:35",
    "note": "Run 1507 (our own results (Metricool at 10:50 IST, 20 Nov)): YouTube data now reaches 18 Nov: Roly Poly Red Tomato started strongest of the week (494 views), Hindi Didi stories hold a steady 456 to 466 views each, and Hindi and Diwali Shorts beat English Shorts. Today's 10:00 Elephant Stomp Parade lost its custom thumbnail again, the second in three long videos. Chrome not available. Total 3628."
+  },
+  {
+   "date": "2026-11-20 10:37",
+   "note": "Run 1508 (competitor deep dive (Bebefinn, Little Angel dubbed channels)): Bebefinn's 18 Nov feelings episode (Why Are You Crying, Finn? Use your words) hit about 196K views in 13 hours, faster than its ballet song, backing our Use Your Words idea. Little Angel's Indonesian, Arabic and Portuguese dubs gained zero subscribers in 28 days and new uploads draw under 10K views a day, so dubbing an old catalogue alone does not grow. Chrome not available. Total 3631."
   }
  ],
  "history": [
@@ -26467,6 +26488,10 @@
   {
    "date": "2026-11-20 10:35",
    "total": 3628
+  },
+  {
+   "date": "2026-11-20 10:37",
+   "total": 3631
   }
  ],
  "next_week_ideas": [
