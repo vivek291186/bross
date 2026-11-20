@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:49:51+05:30",
- "runs": 1532,
+ "updated": "2026-11-20T12:55:34+05:30",
+ "runs": 1533,
  "branches": [
   {
    "id": "platforms",
@@ -8840,6 +8840,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1532
+    },
+    {
+     "t": "Lalafun drew about 555M views in the 28 days to 19 Nov 2026 against about 702M in October, while still adding about 500K subscribers in 28 days (200K in the last week) from 13 uploads, so even top kids song channels see a November dip between the Halloween peak and the Christmas lift.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1533
     }
    ]
   },
@@ -25792,12 +25799,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 06:35",
-   "note": "Summary of older entries: runs up to Run 1452 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 06:36",
-   "note": "Run 1454 (Shorts and Reels (Edits audio links, Emplifi voice and pacing data)): Most Reels news (reference tool, end of linked Reels) was already in the tree. New: Emplifi found a voice speaking in the first 3 seconds lifts 10 second retention by about 25% over music only openings, slower overall pacing lifts 30 second holds about 8%, text on screen helps music Reels but slightly hurts speech Reels, and Edits now lets Reels carry tappable audio links. Chrome not available. Total 3560."
+   "note": "Summary of older entries: runs up to Run 1453 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 06:39",
@@ -26110,6 +26113,10 @@
   {
    "date": "2026-11-20 12:49",
    "note": "Run 1532 (global markets (Mexico and Latin America)): Indonesia's PP Tunas rule, Nigeria's kids channels and El Reino Infantil's network and country order were already filed. New: a Kids Corp survey across six American countries shows 80% of Mexican preschoolers name YouTube as their main digital activity and that funny bloopers (53%) and musicals (49%) are Mexican kids' top YouTube genres; a Mexican Spanish song channel's new Christmas song started slowly. Chrome not available. Total 3671."
+  },
+  {
+   "date": "2026-11-20 12:55",
+   "note": "Run 1533 (competitor deep dive (Lalafun; ChuChu TV page blocked)): Lalafun's newest Animal Version upload and title style were already filed. New: its 28 day views to 19 Nov (about 555M) are well below October's 702M even though subscribers keep rising about 500K a month, so post Halloween November is a softer month for kids song views before the Christmas lift. Chrome not available. Total 3672."
   }
  ],
  "history": [
@@ -26868,6 +26875,10 @@
   {
    "date": "2026-11-20 12:49",
    "total": 3671
+  },
+  {
+   "date": "2026-11-20 12:55",
+   "total": 3672
   }
  ],
  "next_week_ideas": [
