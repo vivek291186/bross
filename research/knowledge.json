@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:43:01+05:30",
- "runs": 1593,
+ "updated": "2026-11-20T17:43:51+05:30",
+ "runs": 1594,
  "branches": [
   {
    "id": "platforms",
@@ -19977,6 +19977,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1582
+    },
+    {
+     "t": "YouTube told Fortune (Apr 2026) that it already limits AI made content on the YouTube Kids app to a small set of high quality channels, so a new AI assisted channel like Bro Bros should expect to earn its YouTube Kids place through consistent original characters and songs rather than assume it.",
+     "src": "Fortune, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1594
+    },
+    {
+     "t": "YouTube also said it is building dedicated AI labels for YouTube Kids (no date given), so honest AI disclosure in our upload settings now will keep us on the right side when those labels arrive.",
+     "src": "Fortune, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1594
+    },
+    {
+     "t": "Fairplay estimates the top AI slop channels aimed at children earn over 4.25 million US dollars a year and that adults spot AI video only about half the time, which is why regulators and advocates keep pushing YouTube to tighten made for kids AI rules; quality and visible human craft are our long term protection.",
+     "src": "Fortune citing Fairplay, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1594
     }
    ]
   },
@@ -26528,11 +26549,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1514 (music craft and tools (Suno v6, Meshy 7.1)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 11:36",
-   "note": "Run 1515 (Shorts and Reels kids trends (2026 most viewed Shorts)): AIFreeForever's chart of 2026's most viewed Shorts (checked 19 Nov) shows about 10 of the top 15 are kids or family clips, mostly Indian sibling skits, plus Cocobi's chocolate and cavities song (926M), a balloon toy craft (1.45B) and an opposite words lesson (965M); no Sep to Nov upload is in the top 15 yet. Instagram and Shorts feature news this week held nothing new. Chrome not available. Total 3637."
+   "note": "Summary of older entries: runs up to Run 1515 (Shorts and Reels kids trends (2026 most viewed Shorts)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 11:37",
@@ -26845,6 +26862,10 @@
   {
    "date": "2026-11-20 17:43",
    "note": "Run 1593 (TRENDS (Virlo TikTok list for November 2026, week of 20 Nov)): New: the Thank You Baby gratitude dance (315M views, archived 20 Nov) becomes our Thanksgiving week 'Thank you happy dance' Short; Virlo shows early Christmas dances like Last Christmas x Phat burned out within six weeks (70 creators to 6) and the rising Piggyback flip is skipped as unsafe for kids. Trend bank: added the thank you dance, dropped Turn at the front. Chrome not available. Total 3776."
+  },
+  {
+   "date": "2026-11-20 17:43",
+   "note": "Run 1594 (rules and monetisation (AI kids content pressure)): New details from Fortune on the Fairplay letter: top AI slop kids channels earned over 4.25 million US dollars a year, YouTube says only a small set of high quality channels may carry AI content on YouTube Kids and that dedicated YouTube Kids AI labels are coming; the July monetisation clarification and kids ad rates were already filed. Chrome not available. Total 3779."
   }
  ],
  "history": [
@@ -27847,6 +27868,10 @@
   {
    "date": "2026-11-20 17:43",
    "total": 3776
+  },
+  {
+   "date": "2026-11-20 17:43",
+   "total": 3779
   }
  ],
  "next_week_ideas": [
