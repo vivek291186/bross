@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:38:47+05:30",
- "runs": 1502,
+ "updated": "2026-11-20T09:39:54+05:30",
+ "runs": 1504,
  "branches": [
   {
    "id": "platforms",
@@ -25443,15 +25443,7 @@
  "log": [
   {
    "date": "2026-11-20 02:55",
-   "note": "Summary of older entries: runs up to Run 1423 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 03:39",
-   "note": "Run 1424 (competitor deep dive (Lalafun US feed, Moonbug recheck)): Moonbug's every platform strategy and Lalafun's Canada feed were already in the tree; added Lalafun's main US feed: views down from about 53M a month a year ago to about 17M now with flat subscribers, and its newest original song barely moving while old baby animal compilations carry the channel. Chrome not available. Total 3479."
-  },
-  {
-   "date": "2026-11-20 03:40",
-   "note": "Run 1425 (TRENDS (December outlook from last year's Shorts recap)): December 2025 Shorts trends (honest fails, year in 15 seconds recaps) were already in the tree; added YouTube's 2025 top creators list, where a Roblox Shorts creator was No. 2 and a kid family duo No. 5, as a guide to what this year's early December recap is likely to celebrate. Chrome not available. Total 3481."
+   "note": "Summary of older entries: runs up to Run 1425 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 04:35",
@@ -25760,6 +25752,14 @@
   {
    "date": "2026-11-20 09:38",
    "note": "Run 1502 (Shorts and Reels algorithm (Instagram change logs to 18 Nov)): Nothing new: content protection (17 Nov), Amazon affiliate links (16 Nov), the end of linked Reels series (28 Oct), Features long video and Meta's 45% of Reels under one day old were all already in the tree. No leaves added. Chrome not available. Total 3621."
+  },
+  {
+   "date": "2026-11-20 09:39",
+   "note": "Run 1503 (music craft (2026 infant music study, Kidz Bop producer interview)): Nothing new: the eLife infant study (babies follow loudness changes, not the beat, and only 12 month olds move more to real songs) and the Kidz Bop producer numbers were already in the tree. TRENDS and other platforms were skipped because both found nothing new in the last 6 rounds. No leaves added. Chrome not available. Total 3621."
+  },
+  {
+   "date": "2026-11-20 09:39",
+   "note": "Run 1504 (our own results (Metricool recheck at 09:40 IST)): Nothing new: Instagram still has no Reel after the 19 Nov pair (farm band 4 views, Bubble Gum Pop 9) and YouTube data still stops at 17 Nov with 2,150 subscribers, all already in the tree. No leaves added. Chrome not available. Total 3621."
   }
  ],
  "history": [
@@ -26397,6 +26397,14 @@
   },
   {
    "date": "2026-11-20 09:38",
+   "total": 3621
+  },
+  {
+   "date": "2026-11-20 09:39",
+   "total": 3621
+  },
+  {
+   "date": "2026-11-20 09:39",
    "total": 3621
   }
  ],
