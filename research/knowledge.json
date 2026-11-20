@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:44:54+05:30",
- "runs": 1526,
+ "updated": "2026-11-20T12:45:41+05:30",
+ "runs": 1527,
  "branches": [
   {
    "id": "platforms",
@@ -2533,6 +2533,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1515
+    },
+    {
+     "t": "In the seven days to 19 Nov 2026, 36 of YouTube's 100 most viewed videos worldwide carried the made for kids flag and 23 of the 100 were Shorts, with Lalafun's toddler manners Short at No. 1 again (+80M) and CoComelon's 2018 bus song still No. 3 among long videos (+33M).",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1527
     }
    ]
   },
@@ -25668,6 +25675,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1525
+    },
+    {
+     "t": "Week on week to 19 Nov 2026 Kidshire's winter clothes learning Short held near the top (+54.6M then +50.2M) while KIDZOKI's colour refill truck Short fell from about +26.6M to +11.6M, a sign that a seasonal learning topic keeps its push longer than a novelty colour game.",
+     "src": "trendreport.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1527
     }
    ]
   }
@@ -25694,12 +25708,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 05:55",
-   "note": "Summary of older entries: runs up to Run 1446 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 06:01",
-   "note": "Run 1448 (competitor deep dive (Super Supremes Christmas Short)): Super Simple Songs and ChuChu TV stats pages could not be read. New from Super Supremes: its first Christmas Short (17 Nov) with a title stuffed with '#viral #trending #popular' drew under 1K views in 36 hours, and its two biggest videos ever are Halloween songs, the same seasonal pattern as Dave and Ava. Chrome not available. Total 3547."
+   "note": "Summary of older entries: runs up to Run 1447 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 06:02",
@@ -26012,6 +26022,10 @@
   {
    "date": "2026-11-20 12:44",
    "note": "Run 1526 (YouTube algorithm (official statements and Studio changes)): Beaupre's Creator Insider points, Joos's Home feed data and the Research tab were already filed. New detail from YouTube's 13 Nov Studio change: the Research tab's outlier score compares a video with the channel's own earlier videos of the same format, so even a tiny channel can spot its own breakouts. Chrome not available. Total 3657."
+  },
+  {
+   "date": "2026-11-20 12:45",
+   "note": "Run 1527 (Shorts and Reels kids trends and the Reels algorithm): Instagram and Shorts feature news (Features long form, Your Algorithm, Shorts series) was already filed. New from the weekly chart to 19 Nov: 36 of YouTube's 100 most viewed videos that week carry the made for kids flag, and week on week the seasonal winter clothes Short held (about 50M) while the colour truck Short more than halved, so seasonal learning Shorts last longer than novelty colour play. Chrome not available. Total 3659."
   }
  ],
  "history": [
@@ -26746,6 +26760,10 @@
   {
    "date": "2026-11-20 12:44",
    "total": 3657
+  },
+  {
+   "date": "2026-11-20 12:45",
+   "total": 3659
   }
  ],
  "next_week_ideas": [
