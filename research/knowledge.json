@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:42:56+05:30",
- "runs": 1644,
+ "updated": "2026-11-20T20:45:11+05:30",
+ "runs": 1645,
  "branches": [
   {
    "id": "platforms",
@@ -13488,6 +13488,48 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1638
+    },
+    {
+     "t": "Meta's Reels guidance (repeated by two safe zone guides updated in Nov 2026) keeps the top 14% (about 270 px of a 1080x1920 frame), the bottom 35% (about 670 px) and 6% on each side (about 65 px) free of key content, because the account name sits on top and the caption, username and audio name sit at the bottom.",
+     "src": "adsap.ai and supercarousels.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1645
+    },
+    {
+     "t": "Google's vertical Shorts template leaves the right edge wider than the left (about 190 px right, 48 px left, 288 px top, 672 px bottom on 1080x1920) because the like, comment and share buttons run down the right side, so in Shorts the dancing Bros should sit just left of centre, not hard right.",
+     "src": "supercarousels.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1645
+    },
+    {
+     "t": "TikTok's in feed template keeps 120 px clear on both sides, 240 px on top and about 660 px at the bottom, plus a 300 px icon column on the right from about mid height down, and the safe area shrinks as captions get longer, so short captions keep more of our dance visible.",
+     "src": "supercarousels.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1645
+    },
+    {
+     "t": "Combining the three platforms gives one shared safe box on a 1080x1920 frame of roughly x 120 to 890 and y 290 to 1250, so a single Blender vertical render with the Bros' faces, raised hands and any on screen words inside that box can be posted unchanged as Reel, Short and TikTok.",
+     "src": "derived from adsap.ai and supercarousels.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1645
+    },
+    {
+     "t": "Tall 19.5:9 to 20:9 phones can crop about 108 px from each side of a 9:16 video in some views, so wide arm moves in our dances should stay within the centre ~820 px of the frame.",
+     "src": "socialmediasafezones.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1645
+    },
+    {
+     "t": "Because Instagram's caption, username and audio line fill the bottom third of a Reel, burned in singalong lyrics in our vertical cuts should sit just above that band (around 55 to 65% of the frame height), not at the very bottom where they would be hidden.",
+     "src": "adsap.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1645
     }
    ]
   },
@@ -27048,7 +27090,7 @@
   "Half step key lift for the final chorus; start each song with a 2 bar clap or drum pattern (rhythm hooks babies first) and colour the arrangement with bright high register sounds (bells, xylophone, ukulele); reach the chorus by about 0:15, because our long songs hold viewers only about 20 seconds on average.",
   "Camera and motion: calm cuts every 3 to 6 s, lead Bro centred and big, gentle constant background motion (drifting clouds, bubbles, stars) that matches the song, bright rounded visuals, big friendly eyes; no flashing, no sudden loud sounds.",
   "Hide one learning point (counting, colours, routine, feelings, safety) and name it in the description; every week make at least one healthy habit song led by a friendly helper mascot (brush teeth for two minutes, wash hands) and one sharing or taking turns song, the topics behind this autumn's biggest kids breakouts. Sing the learning word itself on the chorus melody, never only speak it, because 1 to 2 year olds learn new words only when they are sung (QJEP 2024). Every other week also make one cheerful everyday safety song (lifts, crossing the road, staying close in crowds), a top hit topic for Cocobi (stranger danger 32.7M, elevator safety 23.6M) and Zoobees.",
-  "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak, a spoken action call by a Bro (speech in the first 3 s lifted 10 s retention by about 25% in brand Reels) or a tiny mystery question ('Who took the cookie?'), with motion or text in the first half second; make each Short a new cut with its own hook that loops back to the start; keep music Shorts about 30 to 40 s and set each Short's related video link to its full song. Lead Reels with a game cue ('Uh oh... catch it!', 'FREEZE!'): on 18 Nov our two game hook Reels passed 100 views while calm story Reels stayed under 20. On Reels use three to five specific hashtags (Instagram caps posts at five).",
+  "Shorts and Reels: our skip rate in the first 3 s is 58 to 90%, so open on full body dancing at the chorus peak, a spoken action call by a Bro (speech in the first 3 s lifted 10 s retention by about 25% in brand Reels) or a tiny mystery question ('Who took the cookie?'), with motion or text in the first half second; make each Short a new cut with its own hook that loops back to the start; keep music Shorts about 30 to 40 s and set each Short's related video link to its full song. Lead Reels with a game cue ('Uh oh... catch it!', 'FREEZE!'): on 18 Nov our two game hook Reels passed 100 views while calm story Reels stayed under 20. On Reels use three to five specific hashtags (Instagram caps posts at five). Frame every vertical cut for the shared safe box (on 1080x1920: faces, hands and on screen words between about 290 px from the top and 670 px from the bottom, 120 px from the left and 190 px from the right), so captions, usernames and the button column on Reels, Shorts and TikTok never cover the Bros.",
   "Thumbnails: one or two happy faces cropped big (both Bros, or a Bro with an animal friend; several face layouts beat single faces) (about 40% of the frame height), one clear action, one recognisable object, high contrast with a warm accent on a plain bright background (red and white or blue and orange), max 3 outlined words kept out of the bottom right corner; never scared, crying or shocked faces; test changes by hand because Test and Compare is off for kids videos. After each upload, check Metricool for a \"Could not upload video thumbnail\" warning and set the thumbnail by hand in YouTube Studio if it appears.",
   "Weekly long form: one 25 to 45 minute themed compilation (one topic, best performer first, a bonus blooper dance at the end) every Friday, because videos over 40 minutes break out far more often and kids compilations lift RPM; add a timestamp chapter per song named in the plain words parents search ('Brush Teeth Song', 'Dinosaur Stomp'); make the 25 Dec and 1 Jan Fridays holiday mega mixes, and have the main Christmas songs live by the first days of December because December ad rates run about 40 to 60% above January's and Christmas Reels are already peaking in late November; keep a 24/7 live stream of all songs running once we pass about 50 songs.",
   "Originality and compliance: write our own lyrics, vary story situations and endings week to week (no template clones), vary Suno style prompts, instruments and tempo song to song so our audio does not cluster, build compilations from distinct full songs (never loops), run YouTube's copyright check on every track, tick the AI music disclosure on every upload, set made for kids per video, and make every Suno song on the paid plan; publish only songs generated fresh on a paid Suno plan and downloaded through the plan (Remix outputs stay personal use on every plan since Sep 2026); rescue and doctor songs show gentle problems and quick happy fixes, never a suffering or scared animal, and stay a small share of each week. Pass the parents' 'AI slop' check (ZERO TO THREE, May 2026): a clear named creator, a stated purpose for every song, accurate facts and no loud surprises used only to hold attention. Every voice, cheer and sound effect must be our own (Suno, our recordings or a licensed library with the licence kept); never lift even one clip of audio from another show, because that alone cost Wolfoo its whole catalogue in July 2026.",
@@ -27060,11 +27102,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1565 (visual craft (flat 3D over painted backdrops)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 15:35",
-   "note": "Run 1566 (TRENDS (How Kids See Us, surf celebration, Elf magic)): New: the TikTok 'How Kids See Us' slideshow (teens posting scary portraits labelled as how first graders see them, since 19 Sep 2026, top post about 3.5M views) can be flipped into a sweet 'how Little Bro sees Big Bro' Reel; Cunha's World Cup surf celebration that kids copied in schools is a ready standing move. Trend bank: one new entry. Chrome not available. Total 3735."
+   "note": "Summary of older entries: runs up to Run 1566 (TRENDS (How Kids See Us, surf celebration, Elf magic)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 15:36",
@@ -27377,6 +27415,10 @@
   {
    "date": "2026-11-20 20:42",
    "note": "Run 1644 (TRENDS (Virlo November hub, Know Your Meme October poll, December films, colour of the year)): Small find: no new kid safe dance began this week on Virlo (top rising items are adult or unsafe); the Thank You Baby Dance is archived so it is marked fading after Thanksgiving; Pantone's 2027 colour reveal is due about 3 Dec (an aqua leak is unconfirmed); December film dates were already filed. Chrome not available. Total 3852."
+  },
+  {
+   "date": "2026-11-20 20:45",
+   "note": "Run 1645 (Shorts and Reels formats (safe zones); YouTube channel movers checked first, nothing new): New: on screen safe zones for Reels, Shorts and TikTok on a 1080x1920 frame, combined into one shared box (about x 120 to 890, y 290 to 1250) so one vertical render fits all three; playbook rule 10 updated. Channel movers (FunForKidsTV, Kids Channel Preschool, Tubefilter week of 15 Nov) and the Shorts freshness claim were already filed. Chrome not available. Total 3858."
   }
  ],
  "history": [
@@ -27403,10 +27445,6 @@
   {
    "date": "2026-11-19 21:00",
    "total": 3326
-  },
-  {
-   "date": "2026-11-19 22:41",
-   "total": 3358
   },
   {
    "date": "2026-11-19 22:41",
@@ -28579,6 +28617,10 @@
   {
    "date": "2026-11-20 20:42",
    "total": 3852
+  },
+  {
+   "date": "2026-11-20 20:45",
+   "total": 3858
   }
  ],
  "next_week_ideas": [
