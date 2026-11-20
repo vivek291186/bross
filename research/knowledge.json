@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:43:50+05:30",
- "runs": 1439,
+ "updated": "2026-11-20T05:49:52+05:30",
+ "runs": 1440,
  "branches": [
   {
    "id": "platforms",
@@ -24751,6 +24751,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1437
+    },
+    {
+     "t": "In Oct 2026 Indian Reels were reviving decades old film songs (from 1973, 1996 and 2006) through a single repeatable use, a 15 second dance, a saree or outfit transition or a lip sync, after which viewers tap the audio and find thousands of copies; for us the lesson is that our own Hindi songs written in a retro film style, with one signature 15 second move, can ride the same parent nostalgia.",
+     "src": "Brut India, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1440
+    },
+    {
+     "t": "India's Reels song lists in 2026 are led by local hip hop and new film songs rather than global pop, so for Indian families our Hindi Reels should borrow the energy of desi hip hop and dhol beats (all in our own Suno songs) rather than western trending audio.",
+     "src": "Flickonclick, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1440
     }
    ]
   }
@@ -24778,11 +24792,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all"
-  },
-  {
-   "date": "2026-11-19 23:38",
-   "note": "Run 1361 (visual craft recheck (Meshy changelog, thumbnails)): Mostly covered: Meshy October models (T2.5, N1, Meshy Edit), thumbnail test studies and the UAL kids TV lab were already in the tree; added Meshy's Semantic Segmentation (head and limbs split) as a helper for new characters. Chrome not available. Total 3367."
+   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady"
   },
   {
    "date": "2026-11-19 23:39",
@@ -25095,6 +25105,10 @@
   {
    "date": "2026-11-20 05:43",
    "note": "Run 1439 (our own results (Metricool recheck), then Tubefilter recheck): Nothing new: at about 05:45 IST on 20 Nov Metricool still had no Reel after 18 Nov and YouTube views only to 16 Nov (2,150 subscribers), already recorded today; Tubefilter's week of 15 Nov chart (Chispita, Plim Plim) was already in the tree. No leaves added. Chrome not available. Total 3526."
+  },
+  {
+   "date": "2026-11-20 05:49",
+   "note": "Run 1440 (TRENDS (regional: India and Brazil Reels, Japan)): Brazil and Spanish lists were already in the tree and the Japanese dance chart could not be read. New from India: Reels keep reviving 1970s to 2000s film songs through one short dance, saree transition or lip sync that viewers follow via the audio page, a nostalgia route our Hindi Reels can use with original retro style tunes. Chrome not available. Total 3528."
   }
  ],
  "history": [
@@ -26125,6 +26139,10 @@
   {
    "date": "2026-11-20 05:43",
    "total": 3526
+  },
+  {
+   "date": "2026-11-20 05:49",
+   "total": 3528
   }
  ],
  "next_week_ideas": [
