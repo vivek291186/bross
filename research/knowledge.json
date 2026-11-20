@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:57:41+05:30",
- "runs": 1536,
+ "updated": "2026-11-20T12:58:17+05:30",
+ "runs": 1537,
  "branches": [
   {
    "id": "platforms",
@@ -25815,6 +25815,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1534
+    },
+    {
+     "t": "The 'I feel like I haven't done anything this year' trend, rising on TikTok in mid November 2026 among parents, opens on that line as on screen text and then cuts one photo or clip per month (each labelled January to December) to reveal trips, birthdays and first days of school; parenting sites suggest it as a Thanksgiving or New Year family ritual.",
+     "src": "Señora Era, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1537
+    },
+    {
+     "t": "Two year recap formats appeared in the same week (16 to 20 Nov 2026), so December recaps will be crowded; a Bro Bros recap Short should be built only from our own 2026 song clips, one per month, giving parents a quick reminder of every song we made this year.",
+     "src": "trendhaus.ai and Señora Era, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1537
     }
    ]
   }
@@ -25841,12 +25855,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 06:40",
-   "note": "Summary of older entries: runs up to Run 1456 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 06:41",
-   "note": "Run 1458 (TRENDS (Gen Alpha catchphrase 'satisfying', Christmas dance search)): No new Christmas dance trend has broken out yet (TikTok search pages only). New: Yahoo Life (6 and 10 Nov) reports 'satisfying' and 'it's ASMR' are now everyday Gen Alpha catchphrases for squishy, slime and crack sounds, and NeeDoh's maker sold its whole planned 2026 stock in nine weeks; added a 'So satisfying squish' trend and song idea. Dropped the evergreen puppy ears dance from the trend bank to make room. Chrome not available. Total 3566."
+   "note": "Summary of older entries: runs up to Run 1457 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 06:42",
@@ -26159,6 +26169,10 @@
   {
    "date": "2026-11-20 12:57",
    "note": "Run 1536 (other platforms (Netflix, Spotify, Disney Jr.)): Nothing new: Netflix's 2026 animated top 10 (Peppa Pig, Creature Cases, CoComelon, Little Angel, Bebefinn), Spotify's kids music toggle, Gracie's Corner on Disney Jr. and Wrapped timing were all already filed; the Nielsen page found was from 2023. No leaves added. Chrome not available. Total 3678."
+  },
+  {
+   "date": "2026-11-20 12:58",
+   "note": "Run 1537 (TRENDS (year recap formats, 20 Nov)): Kid and parent trend searches mostly returned items already filed. New and rising: the 'I feel like I have not done anything this year' montage (one labelled clip per month revealing a full year), explained by a parenting site on 20 Nov; added to the top of the trend bank with a Bro Bros version built from our own 2026 songs (dropped the generic song timer format). Chrome not available. Total 3680."
   }
  ],
  "history": [
@@ -26933,6 +26947,10 @@
   {
    "date": "2026-11-20 12:57",
    "total": 3678
+  },
+  {
+   "date": "2026-11-20 12:58",
+   "total": 3680
   }
  ],
  "next_week_ideas": [
@@ -26995,6 +27013,12 @@
  ],
  "trend_bank": [
   {
+   "name": "I haven't done anything this year",
+   "where": "TikTok and Instagram Reels (rising mid Nov 2026, parent creators)",
+   "status": "rising",
+   "use": "A 15 second Reel or Short: Little Bro flops on the sofa and sighs, on screen text 'We did not do anything this year...', then twelve one second clips from our own 2026 songs labelled January to December (snow dance, rocket ride, tomato soup, freeze dance and so on), ending on both Bros jumping with arms up to our own 'What a year!' chorus. Uses only our own footage and music; post in the first half of December and again on 31 Dec."
+  },
+  {
    "name": "Spell it with your body",
    "where": "Instagram Reels (stop motion, listed 19 Nov 2026)",
    "status": "rising",
@@ -27029,12 +27053,6 @@
    "where": "Kids' everyday catchphrase on TikTok, Reels and Shorts (squishies, slime, crack sounds), Nov 2026",
    "status": "rising",
    "use": "A 15 second Short on our own beat: Little Bro squeezes a giant colourful generic squishy toy, it squishes in slow motion with a soft pop sound, both Bros say 'so satisfying!' and do a slow squeeze dance. Meshy prompt: standing in place, both hands squeeze in front of chest slowly three times, then shoulders wiggle, then open arms wide and smile, no floor moves."
-  },
-  {
-   "name": "Beat the song timer",
-   "where": "YouTube and Reels game videos (time limits, Secret Santa), late Nov to mid Dec",
-   "status": "seasonal",
-   "use": "A 30 second Short: a big on screen clock starts with our own countdown song and the Bros race to wrap a present, put on hats and scarves and stand by the tree before the last note, then cheer. Meshy prompt: standing in place, fast arm wrapping motion in front of chest, then put on a hat with both hands, then jump once and raise both arms, no running across the floor."
   },
   {
    "name": "Six seven carol call and response",
