@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T02:52:00+05:30",
- "runs": 1660,
+ "updated": "2026-11-21T02:53:14+05:30",
+ "runs": 1661,
  "branches": [
   {
    "id": "platforms",
@@ -13726,6 +13726,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1657
+    },
+    {
+     "t": "In the ISB randomised test on made for kids educational videos, adding medium background motion raised view rates about 1.6% and high motion about 2.0% over a still background, a small gain, and the authors advise using motion in short bursts at moments when attention tends to drift rather than nonstop, so Bro Bros should add drifting snow or sparkles at the verse to chorus change and keep the background calm while a key word is taught.",
+     "src": "ISB via PTI (DD News, DT Next), Oct and Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1661
     }
    ]
   },
@@ -27400,10 +27407,6 @@
   },
   {
    "date": "2026-11-20 16:35",
-   "note": "Run 1582 (rules and safety (ClockwiseTV, Ofcom feeds)): New: Hank Green's ClockwiseTV (17 Nov) is a paid curated ad free app for ages 8 to 12 that licenses creator videos, a possible later income route; Ofcom keeps pressing YouTube on kids feeds. COPPA and AI slop items were already filed. Chrome not available. Total 3757."
-  },
-  {
-   "date": "2026-11-20 16:35",
    "note": "Run 1583 (our own results (Metricool at 16:45 IST, 20 Nov)): The 16:00 car song, Short and Reel published cleanly with its thumbnail, so only Bubble Gum Pop and Elephant Stomp Parade need a manual thumbnail. Reel analytics unchanged since the 15:45 check (20 Nov Reels not synced yet). Chrome not available. Total 3758."
   },
   {
@@ -27713,13 +27716,13 @@
   {
    "date": "2026-11-21 02:52",
    "note": "Run 1660 (music craft (NAEYC Summer 2026 singing guide, Luxembourg multilingual singing study; tempo and Suno rechecked)): The slow tempo attention study and Suno Visuals were already filed. New: in toddler studies songs taught fewer new words than stories and children busy with actions sang less accurately, so key words need a still, clear moment before the dance; NAEYC recommends name songs and the same song in bigger, smaller, faster and slower versions. Chrome not available. Total 3900."
+  },
+  {
+   "date": "2026-11-21 02:53",
+   "note": "Run 1661 (visual craft (ISB motion study press details, Blender 5.3, Kidscreen preschool slates rechecked)): Blender 5.3, Blue Ant's short episode slate and the ISB motion study were already filed. New detail from the ISB press coverage: medium background motion lifted view rates 1.6% and high motion 2.0% in the randomised test, and the authors advise motion in short bursts where attention drifts, not nonstop. Chrome not available. Total 3901."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:38",
-   "total": 3367
-  },
   {
    "date": "2026-11-19 23:39",
    "total": 3369
@@ -28915,6 +28918,10 @@
   {
    "date": "2026-11-21 02:52",
    "total": 3900
+  },
+  {
+   "date": "2026-11-21 02:53",
+   "total": 3901
   }
  ],
  "next_week_ideas": [
