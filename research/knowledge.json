@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:00:19+05:30",
- "runs": 1615,
+ "updated": "2026-11-20T18:01:01+05:30",
+ "runs": 1616,
  "branches": [
   {
    "id": "platforms",
@@ -9113,6 +9113,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1607
+    },
+    {
+     "t": "CoComelon posted about 12 to 14 long videos and 16 to 24 Shorts every month of 2026 (about 153 long and 218 Shorts in 12 months) and gained about 1.06B views in 28 days to 20 Nov, so even the biggest kids channel runs on a steady weekly rhythm of roughly three long videos and four Shorts.",
+     "src": "aifreeforever, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1616
+    },
+    {
+     "t": "CoComelon's strongest November 2026 long videos are everyday family songs: 'Cooking Dinner Song, Making a Mess with JJ' reached about 1.96M views in three days and an indoor playground peekaboo song about 1.67M, ahead of its winter ski race (1.32M) and a grandparents train song (429K in a day), so messy, playful home routines remain the safest lead songs even in holiday season.",
+     "src": "aifreeforever, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1616
+    },
+    {
+     "t": "In mid November CoComelon puts winter mostly into Shorts (build a snowman while counting blocks, count the arctic animals, a festive Santa craft) and saves long form for core songs, a cheap way to test seasonal themes before committing a full Christmas song.",
+     "src": "aifreeforever, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1616
     }
    ]
   },
@@ -26773,11 +26794,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1536 (other platforms (Netflix, Spotify, Disney Jr.)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 12:58",
-   "note": "Run 1537 (TRENDS (year recap formats, 20 Nov)): Kid and parent trend searches mostly returned items already filed. New and rising: the 'I feel like I have not done anything this year' montage (one labelled clip per month revealing a full year), explained by a parenting site on 20 Nov; added to the top of the trend bank with a Bro Bros version built from our own 2026 songs (dropped the generic song timer format). Chrome not available. Total 3680."
+   "note": "Summary of older entries: runs up to Run 1537 (TRENDS (year recap formats, 20 Nov)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 12:59",
@@ -27090,6 +27107,10 @@
   {
    "date": "2026-11-20 18:00",
    "note": "Run 1615 (global markets (Indonesia parents' channel picks, small dub channel stall)): New: an Indonesian parenting site's April 2026 list of recommended YouTube cartoons is led by local originals (Nussa's sibling series with Islamic values, Riko and his robot, BaLiTa songs, Uwa's endangered animals, science explainer Kok Bisa?) beside Bing and Pinkfong dubs; a small Indonesian nursery compilation channel, Loco Nuts, has stalled at 287K subscribers with two uploads a month. Chrome not available. Total 3811."
+  },
+  {
+   "date": "2026-11-20 18:01",
+   "note": "Run 1616 (competitor deep dive (CoComelon November uploads and 2026 rhythm)): New: CoComelon kept a steady 2026 rhythm of about 13 long videos and 17 to 24 Shorts a month; its best November long videos are everyday family songs (a messy cooking dinner song about 1.96M in three days, an indoor playground peekaboo song 1.67M) while winter shows up mostly in Shorts (snowman blocks, arctic animal counting) and only one Santa Short so far. Chrome not available. Total 3814."
   }
  ],
  "history": [
@@ -28180,6 +28201,10 @@
   {
    "date": "2026-11-20 18:00",
    "total": 3811
+  },
+  {
+   "date": "2026-11-20 18:01",
+   "total": 3814
   }
  ],
  "next_week_ideas": [
