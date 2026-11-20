@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:12:49+05:30",
- "runs": 1628,
+ "updated": "2026-11-20T18:37:12+05:30",
+ "runs": 1629,
  "branches": [
   {
    "id": "platforms",
@@ -2617,6 +2617,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1610
+    },
+    {
+     "t": "Netflix's original animated family comedy Swapped opened at No. 1 among English films with about 38.7M views in one week in May 2026, reported as the biggest single week ever for a Netflix animated film, so original (non franchise) animated family stories can still win huge global audiences.",
+     "src": "filmibeat.com, May 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1629
     }
    ]
   },
@@ -26795,6 +26802,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1620
+    },
+    {
+     "t": "Bike Universe, a Roblox game about collecting and riding dirt, electric and pedal bikes, was among the ten fastest growing new Roblox games in early November 2026 (about 1.7M visits a day), joining the egg and pet collecting games, so a 'collect them all' vehicles counting song (one new bike or scooter per verse) fits what kids are playing now.",
+     "src": "ggrecon.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1629
     }
    ]
   }
@@ -26821,12 +26835,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1549 (TRENDS (Virlo and HowToGoViral formats, 19 to 20 Nov)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 13:38",
-   "note": "Run 1550 (YouTube algorithm (Insights, custom feeds, Hype recheck)): Nothing new: the 13 Nov Insights and Research change, Ask Studio's made for kids exclusion, Hype with Jewels (6 Nov) and Beaupre's September recommendation talk were all already in the tree. No leaves added; removed run 1547's co view leaf in algorithm as a duplicate of the 19 Nov one and corrected the ours leaf (watch time is also inflated, so use engaged views and unique viewers). Chrome not available. Total 3698."
+   "note": "Summary of older entries: runs up to Run 1550 (YouTube algorithm (Insights, custom feeds, Hype recheck)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 13:39",
@@ -27139,6 +27149,10 @@
   {
    "date": "2026-11-20 18:12",
    "note": "Run 1628 (competitor deep dive (Super Simple Songs channel chart)): Nothing new: the Super Simple Songs channel stats page could not be read this round (its release rhythm and weekly growth were filed earlier today). No leaves added. Chrome not available. Total 3818."
+  },
+  {
+   "date": "2026-11-20 18:37",
+   "note": "Run 1629 (other platforms (Netflix, Disney, Roblox recheck)): Small find: Netflix's animated family comedy Swapped set the biggest single week for a Netflix animated film in May 2026 (38.7M views), and a vehicle collect and ride Roblox game sits in November's fastest growing list; Disney holiday pages found were 2025 copies and the rest was already filed. Chrome not available. Total 3820."
   }
  ],
  "history": [
@@ -28281,6 +28295,10 @@
   {
    "date": "2026-11-20 18:12",
    "total": 3818
+  },
+  {
+   "date": "2026-11-20 18:37",
+   "total": 3820
   }
  ],
  "next_week_ideas": [
