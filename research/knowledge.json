@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T10:35:03+05:30",
- "runs": 1506,
+ "updated": "2026-11-20T10:35:53+05:30",
+ "runs": 1507,
  "branches": [
   {
    "id": "platforms",
@@ -20152,6 +20152,34 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1475
+    },
+    {
+     "t": "Today's 20 Nov 10:00 IST long video, Elephant Stomp Parade, also went live with Metricool's 'Could not upload video thumbnail' warning, the second of our last three long videos (after Bubble Gum Pop) running on an automatic frame, so the owner should set both thumbnails by hand in YouTube Studio and upload thumbnails directly there until Metricool's thumbnail step is fixed.",
+     "src": "Metricool planner, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1507
+    },
+    {
+     "t": "With YouTube data now reaching 18 Nov 2026, Roly Poly Red Tomato (18 Nov 10:00 IST) already had 494 views, far ahead of the same week's Wiggle Bus (251), Boo Boo Bandage (177) and Dig Dig Digger (60), so a playful food and cooking game song is our strongest English start of the week and deserves a follow up (a fruit salad or pizza making song).",
+     "src": "Metricool YouTube, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1507
+    },
+    {
+     "t": "Our Hindi Didi story long videos are remarkably steady: four of the five from 10 to 15 Nov 2026 sit at 456 to 466 views each (magic pencil, sulky cloud, elephant sneeze), close to our best English songs, so one Hindi story a day is a reliable base audience worth keeping alongside the English songs.",
+     "src": "Metricool YouTube, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1507
+    },
+    {
+     "t": "Among our YouTube Shorts of 6 to 17 Nov 2026 the only ones above 15 views are Hindi (elephant sneeze Short 20, Diwali dhol and rock Shorts 20 each), while English song Shorts stay at 1 to 12 views, so Hindi Shorts find a feed audience more easily and are a cheap test for more Shorts reach.",
+     "src": "Metricool YouTube, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1507
     }
    ]
   },
@@ -25463,12 +25491,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 04:35",
-   "note": "Summary of older entries: runs up to Run 1427 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 04:37",
-   "note": "Run 1428 (TRENDS (this week's group dance clips)): Most Reels and TikTok lists for this week were already in the tree. From a 16 Nov top 19 list, the biggest clips were walk and reveal formats rather than dances; the group dances that travel are turn taking and 'two freeze, one keeps going', both added to the trend bank (replacing 'This is your sign' and 'Call the pose number'). The 'kick a ball' fake out trend is not family friendly. Chrome not available. Total 3492."
+   "note": "Summary of older entries: runs up to Run 1428 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 04:38",
@@ -25781,6 +25805,10 @@
   {
    "date": "2026-11-20 10:35",
    "note": "Run 1506 (topics and seasons (Three Kings, toy lists, snow days)): Toy lists, World Children's Day, southern summer holidays and the Where is Jessica trick were all already in the tree. One new leaf: Spanish speaking kids leave shoes out and grass or water for the Three Kings' camels on the night of 5 Jan, a ready made playful song theme for the first week of January. Chrome not available. Total 3624."
+  },
+  {
+   "date": "2026-11-20 10:35",
+   "note": "Run 1507 (our own results (Metricool at 10:50 IST, 20 Nov)): YouTube data now reaches 18 Nov: Roly Poly Red Tomato started strongest of the week (494 views), Hindi Didi stories hold a steady 456 to 466 views each, and Hindi and Diwali Shorts beat English Shorts. Today's 10:00 Elephant Stomp Parade lost its custom thumbnail again, the second in three long videos. Chrome not available. Total 3628."
   }
  ],
  "history": [
@@ -26435,6 +26463,10 @@
   {
    "date": "2026-11-20 10:35",
    "total": 3624
+  },
+  {
+   "date": "2026-11-20 10:35",
+   "total": 3628
   }
  ],
  "next_week_ideas": [
