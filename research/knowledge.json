@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:40:06+05:30",
- "runs": 1477,
+ "updated": "2026-11-20T07:41:03+05:30",
+ "runs": 1478,
  "branches": [
   {
    "id": "platforms",
@@ -2484,6 +2484,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1454
+    },
+    {
+     "t": "Instagram's Meta AI translation for Reels (opt in, 2026) re voices a Reel in another language with matching lip sync and supports English, Spanish, Portuguese, Hindi, Bengali, Tamil, Telugu, Marathi and Kannada, so we can test Spanish, Portuguese and Hindi versions of our best Reels without new recordings, checking that sung lyrics come out right.",
+     "src": "Fanpage Karma, May to Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1478
+    },
+    {
+     "t": "Instagram's 'Your Algorithm' Reels controls, which let viewers type topics they want more or less of, expanded from the US to all English language users in Jan 2026 and are planned for Explore, so clear topic words in our captions (dance, kids songs, animals) help us land in the topics families pick.",
+     "src": "Canaltech, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1478
     }
    ]
   },
@@ -4752,6 +4766,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1477
+    },
+    {
+     "t": "Fanpage Karma's 2026 summary of Instagram ranking says negative signals (hide, not interested, unfollow and quick Reel skips) now weigh more heavily and shares, especially shares with a comment, weigh more than likes, so our 75 to 89% early skip rates actively hurt each next Reel's reach.",
+     "src": "Fanpage Karma, May to Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1478
     }
    ]
   },
@@ -25288,12 +25309,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 01:52",
-   "note": "Summary of older runs (up to Run 1398 (posting times recheck (visual craft skipped, thumbnail and pacing sources already in the tree))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
-  },
-  {
    "date": "2026-11-20 01:53",
-   "note": "Run 1399 (TRENDS (Christmas toys and films)): The December family films (Cat in the Hat, Wildwood, a humpback whale film, Angry Birds) were already in the tree; added that the toys kids saw creators try last holiday were click, squish and blind capsule surprise toys, and how a brand free 'what's inside?' reveal song can use that. Chrome not available. Total 3430."
+   "note": "Summary of older runs (up to Run 1399 (TRENDS (Christmas toys and films))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
   },
   {
    "date": "2026-11-20 02:41",
@@ -25606,6 +25623,10 @@
   {
    "date": "2026-11-20 07:40",
    "note": "Run 1477 (YouTube algorithm (Home feed and Shorts ranking recheck)): Mostly known (Joos's two long videos per Home row and satisfied watch time per click). One weakly sourced June 2026 claim added at low confidence: quick back button exits from recommendations are discounted for about a week and keeping the viewer watching after the video counts more, which supports ending every song on the next song or playlist. Chrome not available. Total 3599."
+  },
+  {
+   "date": "2026-11-20 07:41",
+   "note": "Run 1478 (Shorts and Reels algorithm (Instagram 2026 changes recheck)): New to the tree: Meta AI voice translation with lip sync for Reels is opt in and covers English, Spanish, Portuguese, Hindi, Bengali, Tamil, Telugu, Marathi and Kannada, a free way to test dubbed Bro Bros Reels in our target languages. No Instagram ranking change dated Sep to Nov 2026 was found beyond what the tree has. Chrome not available. Total 3602."
   }
  ],
  "history": [
@@ -26788,6 +26809,10 @@
   {
    "date": "2026-11-20 07:40",
    "total": 3599
+  },
+  {
+   "date": "2026-11-20 07:41",
+   "total": 3602
   }
  ],
  "next_week_ideas": [
