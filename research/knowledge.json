@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:52:01+05:30",
- "runs": 1687,
+ "updated": "2026-11-21T03:53:00+05:30",
+ "runs": 1688,
  "branches": [
   {
    "id": "platforms",
@@ -18451,6 +18451,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1679
+    },
+    {
+     "t": "AIR's survey of about 3,000 YouTube channels (cited Apr 2026) found only 13% had invested in professional dubbing and 36% had tried auto or AI dubbing, while channels with multi language audio tracks saw about 45% more views on average, so dubbing our songs is still an early mover advantage.",
+     "src": "Kapwing citing AIR, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1688
+    },
+    {
+     "t": "3Play Media data compiled in 2026 shows 61% of creators who localise use only subtitles and just 12% dub, while subtitles alone lift views by about 7%, far less than dubbing; since young children cannot read, sung dubs are the localisation that actually reaches our audience.",
+     "src": "Kapwing citing 3Play Media, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1688
     }
    ]
   },
@@ -27833,10 +27847,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:55",
-   "note": "Run 1609 (YouTube algorithm (YouTube Kids filtering, TV viewing)): Nothing new: YouTube Kids' three layer filtering (automated checks, human spot checks, parent reports), its five homepage categories, no personal picks for new profiles, the Shorts timer down to zero and YouTube's lead on US TV screens were all already filed. No leaves added. Chrome not available. Total 3800."
-  },
-  {
    "date": "2026-11-20 17:56",
    "note": "Run 1610 (Shorts and Reels (most viewed Shorts of 2026, Instagram teen settings)): New: of 2026's top 30 most viewed Shorts, four are Portuguese or Indonesian kids concept songs (a colour slides song 840M, an animal sounds song 767M, a loud or soft opposites song 760M, a dragon saves the apple cartoon 818M), so short concept songs in Portuguese and Bahasa can reach the very top of Shorts; Instagram teen accounts default to PG-13 style limits with 80% of US parents likely to choose stricter settings. Chrome not available. Total 3803."
   },
@@ -28147,13 +28157,13 @@
   {
    "date": "2026-11-21 03:52",
    "note": "Run 1687 (TRENDS (Roblox new games and October 2026 player report, December calendar recheck: Christmas Jumper Day, Hanukkah)): Christmas Jumper Day (10 Dec), Hanukkah (4 to 12 Dec) and the egg stealing and cat sumo Roblox games were already filed. New: Roblox weekends average about 14.5M players online against 9.7M on weekdays, so kids' free play peaks on weekends, and a cosy chip shop game that turns spooky at night shows day to night switch formats are rising. Chrome not available. Total 3962."
+  },
+  {
+   "date": "2026-11-21 03:53",
+   "note": "Run 1688 (global markets (dubbing and localisation statistics, India dubbed viewing, separate language channel test rechecked)): The 77% of Indian Gen Z watching translated creators, the 32 against 3,897 Spanish channel test and the dubbing versus subtitle country split were already filed. New: across about 3,000 channels only 13% have paid for professional dubbing and 36% have tried AI dubbing, while multi language audio adds about 45% views on average, so the dubbed kids song lane is still far from crowded. Chrome not available. Total 3964."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 01:38",
-   "total": 3409
-  },
   {
    "date": "2026-11-20 01:39",
    "total": 3413
@@ -29349,6 +29359,10 @@
   {
    "date": "2026-11-21 03:52",
    "total": 3962
+  },
+  {
+   "date": "2026-11-21 03:53",
+   "total": 3964
   }
  ],
  "next_week_ideas": [
