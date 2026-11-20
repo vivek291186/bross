@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T08:49:50+05:30",
- "runs": 1495,
+ "updated": "2026-11-20T08:50:22+05:30",
+ "runs": 1496,
  "branches": [
   {
    "id": "platforms",
@@ -8728,6 +8728,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1484
+    },
+    {
+     "t": "Super Simple Songs posted only 3 videos in the 28 days to 19 Nov 2026 yet gained about 200K subscribers (100K in the last week) and drew about 17.6M views a day, while Little Angel posted 28 videos and gained only about 10K, so for big brands a few carefully made, trusted songs beat daily volume.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1496
+    },
+    {
+     "t": "Super Simple's silly worded hand and face washing song (5 Nov 2026) kept climbing to about 1.86M views in two weeks, about 3 times the channel's usual pace and its best recent upload, so a playful nonsense word hook on an everyday care routine is this autumn's strongest preschool song pattern.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1496
     }
    ]
   },
@@ -25414,12 +25428,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 02:52",
-   "note": "Summary of 2 older entries: runs up to Run 1416 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 02:53",
-   "note": "Run 1417 (visual craft (titles and thumbnails, YouTube's made for kids guide)): Added points from YouTube's own made for kids best practices guide (song name first, capitals and emoji only in the first 60 characters, logo on preschool thumbnails, running time on 10 minute plus thumbnails, on screen titles of related videos since end screens are off) and a vendor finding that 3 to 5 word thumbnail text helps in search but slightly hurts in browse. Chrome not available. Total 3464."
+   "note": "Summary of 2 older entries: runs up to Run 1417 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 02:54",
@@ -25732,13 +25742,13 @@
   {
    "date": "2026-11-20 08:49",
    "note": "Run 1495 (global markets (Spanish and Portuguese dubbing, Southeast Asia channels)): Nothing new: El Reino Infantil's 15 years, the Fixies Spanish channel, AIR's dubbing cases (Vania Mania, 125M views, 1140% growth) and the weekly Tubefilter charts were already in the tree. No leaves added. Chrome not available. Total 3617."
+  },
+  {
+   "date": "2026-11-20 08:50",
+   "note": "Run 1496 (competitor deep dive (Super Simple Songs pace versus Little Angel)): New: Super Simple Songs posted only 3 videos in the 28 days to 19 Nov yet gained about 200K subscribers and about 17.6M views a day, and its 5 Nov washing song reached about 1.86M views (about 3x its usual). Few, carefully made songs on a trusted brand beat volume; for a new channel like ours steady volume still matters to be found. Chrome not available. Total 3619."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 16:02",
-   "total": 3152
-  },
   {
    "date": "2026-11-19 16:02",
    "total": 3154
@@ -26934,6 +26944,10 @@
   {
    "date": "2026-11-20 08:49",
    "total": 3617
+  },
+  {
+   "date": "2026-11-20 08:50",
+   "total": 3619
   }
  ],
  "next_week_ideas": [
