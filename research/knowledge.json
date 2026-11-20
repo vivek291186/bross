@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:40:54+05:30",
- "runs": 1457,
+ "updated": "2026-11-20T06:41:47+05:30",
+ "runs": 1458,
  "branches": [
   {
    "id": "platforms",
@@ -25010,6 +25010,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1455
+    },
+    {
+     "t": "Yahoo Life (6 and 10 Nov 2026) reports that kids around 8 to 12 now say 'satisfying' or 'it's ASMR' about anything that looks, feels or sounds good (a squishy cracking, slime stretching), a phrase linguists trace to years of 'oddly satisfying' videos, so a soft squish or pop sound with the word 'satisfying' in a Bro Bros chorus speaks kids' own language.",
+     "src": "Yahoo Life, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1458
+    },
+    {
+     "t": "NeeDoh's maker Schylling told Business Insider it sold its planned annual 2026 stock within the first nine weeks of the year and NeeDoh was among the most searched Halloween costumes, so squeezy stress ball style toys (shown as our own generic squishies, never the brand) remain a top visual hook into Christmas.",
+     "src": "Yahoo Life citing Business Insider, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1458
+    },
+    {
+     "t": "An ASMR researcher quoted in Nov 2026 says studies have not shown that children get the calming benefits adults report from ASMR and warns some 'ASMR toy' marketing is misleading, so Bro Bros can use satisfying sounds for fun but should not claim they calm or help kids sleep.",
+     "src": "Yahoo Life, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1458
     }
    ]
   }
@@ -25037,11 +25058,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)) and Run 1378 (rules and monetisation recheck): earlier rounds summarised; details live in the leaves."
-  },
-  {
-   "date": "2026-11-19 23:48",
-   "note": "Run 1379 (topics and seasons (TRENDS skipped; own results unchanged since run 1367)): Added the winter outlook (mild Europe outside Scandinavia, UK white Christmases rare) as a reason to make snow a magical wish, Kaspersky's cartoon search numbers, and a new 'Let's Make It Snow!' pretend snow song idea. Chrome not available. Total 3385."
+   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)) and Run 1378 (rules and monetisation recheck) and Run 1379 (topics and seasons (TRENDS skipped; own results unchanged since run 1367)): earlier rounds summarised; details live in the leaves."
   },
   {
    "date": "2026-11-19 23:48",
@@ -25354,6 +25371,10 @@
   {
    "date": "2026-11-20 06:40",
    "note": "Run 1457 (visual craft (thumbnail faces data, Meshy and Blender updates)): Nothing new: 1of10's faces study, closed mouth smile tests, Meshy's Sep and Oct changelog (Meshy Edit, T2.5, N1 textures, Auto Split) and Blender 5.1 were already in the tree; Meshy has no November changelog entry yet. No leaves added. Chrome not available. Total 3563."
+  },
+  {
+   "date": "2026-11-20 06:41",
+   "note": "Run 1458 (TRENDS (Gen Alpha catchphrase 'satisfying', Christmas dance search)): No new Christmas dance trend has broken out yet (TikTok search pages only). New: Yahoo Life (6 and 10 Nov) reports 'satisfying' and 'it's ASMR' are now everyday Gen Alpha catchphrases for squishy, slime and crack sounds, and NeeDoh's maker sold its whole planned 2026 stock in nine weeks; added a 'So satisfying squish' trend and song idea. Chrome not available. Total 3566."
   }
  ],
  "history": [
@@ -26456,9 +26477,17 @@
   {
    "date": "2026-11-20 06:40",
    "total": 3563
+  },
+  {
+   "date": "2026-11-20 06:41",
+   "total": 3566
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "So Satisfying! (Squish, Pop and Stretch Song)",
+   "why": "'Satisfying' is Gen Alpha's own word this autumn and squishy toys sold out worldwide; each verse squeezes, pops or stretches one colourful generic toy with a matching sound, and the chorus is the kids' catchphrase. Standing moves: squeeze hands, pop jump, stretch arms wide, wiggle."
+  },
   {
    "title": "Ask First! (Hugs, High Fives or Waves Song)",
    "why": "Boundaries songs spread because parents share them; each verse offers a choice (hug, high five, wave, fist bump) and the friend picks, teaching kind asking in every culture. Standing moves: open arms for hug, high five in the air, big wave, fist bump, thumbs up."
@@ -26510,13 +26539,15 @@
   {
    "title": "Night Light, Shine Bright! (Not Scared of the Dark Bedtime Song)",
    "why": "Miliki Family's fear of the dark song has 381M views; parents search for help with bedtime fears worldwide, and longer winter nights make it timely."
-  },
-  {
-   "title": "Run, Run, Gingerbread Bro! (Catch Me Chase Song)",
-   "why": "The Gingerbread Man is a public domain December classroom favourite; a chase song with a happy ending (everyone shares cookies), a running in place dance and a repeated 'catch me if you can!' chant suits a December Short and a classroom movement break."
   }
  ],
  "trend_bank": [
+  {
+   "name": "So satisfying squish",
+   "where": "Kids' everyday catchphrase on TikTok, Reels and Shorts (squishies, slime, crack sounds), Nov 2026",
+   "status": "rising",
+   "use": "A 15 second Short on our own beat: Little Bro squeezes a giant colourful generic squishy toy, it squishes in slow motion with a soft pop sound, both Bros say 'so satisfying!' and do a slow squeeze dance. Meshy prompt: standing in place, both hands squeeze in front of chest slowly three times, then shoulders wiggle, then open arms wide and smile, no floor moves."
+  },
   {
    "name": "Beat the song timer",
    "where": "YouTube and Reels game videos (time limits, Secret Santa), late Nov to mid Dec",
@@ -26630,12 +26661,6 @@
    "where": "TikTok, Reels (from 2 Nov 2026, rising into December)",
    "status": "rising",
    "use": "Both Bros (plus a friend for a trio) in matching Christmas pyjamas, straight faces, side by side, on our own Deck the Halls arrangement: hands at collar then on hips with hip sways; rolling arms with small side steps; Big Bro points at Little Bro; both bump hips and hop; one slow spin in place; hand on chest then one finger up; fists up and a clap; then they walk to camera giggling. Standing, in place, no floor moves. 14 second Reel and Short, then the full song."
-  },
-  {
-   "name": "Advent door a day",
-   "where": "YouTube Shorts and Reels daily December series (Vlogmas, Shortsmas), 1 to 24 Dec",
-   "status": "seasonal",
-   "use": "From 1 Dec post one 15 second Short a day: a big wooden advent calendar, the Bros count 'one, two, three, open!' and a door pops open to show a soft squishy toy we invent (a snow bunny, a jam donut bear) plus one new dance step from our own Christmas song. Steps for Meshy: standing, knock knock on the air twice with one fist, then pull an imaginary door open with both hands and jump in place with arms up. On 24 Dec post the full song with all 24 steps as one dance."
   }
  ],
  "posting_plan": {
