@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:37:41+05:30",
- "runs": 1678,
+ "updated": "2026-11-21T03:39:01+05:30",
+ "runs": 1679,
  "branches": [
   {
    "id": "platforms",
@@ -18325,6 +18325,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1672
+    },
+    {
+     "t": "Marketing analysts expect brands to lose direct algorithmic reach to UK under 16s from spring 2027 and to shift toward family campaigns and parents, which supports making Bro Bros titles, thumbnails and Instagram captions speak to parents as much as to children.",
+     "src": "eMarketer, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1679
     }
    ]
   },
@@ -20803,6 +20810,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1666
+    },
+    {
+     "t": "Australia's government said on 19 Nov 2026 it will amend its Digital Duty of Care bill so individuals can sue online platforms for breaches, aiming to pass it before Christmas; platforms like YouTube and Instagram will likely tighten what they recommend to children there, so our videos must stay clearly gentle and age appropriate.",
+     "src": "Mediaweek, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1679
+    },
+    {
+     "t": "UK lawyers note the under 16 ban's in scope test is a service built for social interaction, user posts and algorithms, with exemptions planned for education and music streaming but no final list, so it is still unknown whether kids song viewing on YouTube without an account will be touched in 2027.",
+     "src": "CMS, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1679
+    },
+    {
+     "t": "The UK's 'Growing up in the online world' consultation drew over 116,000 responses and about 9 in 10 parents backed an under 16 social media ban, so parent trust signals (no comments, no data asks, calm content) will matter more for kids channels in the UK.",
+     "src": "eMarketer, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1679
     }
    ]
   },
@@ -27623,10 +27651,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:47",
-   "note": "Run 1600 (music craft (Kid Albums chart, preschool tempo studies)): Nothing new: Billboard's Kid Albums page still serves the 8 Nov 2025 chart already filed (Charlie Brown Christmas at No. 1, CoComelon, Baby Shark and Super Simple the only YouTube born brands), and the preschool music preference studies found were already in the tree. No leaves added. Chrome not available. Total 3785."
-  },
-  {
    "date": "2026-11-20 17:48",
    "note": "Run 1601 (visual craft (YouTube Animation's New Wave report)): New: YouTube's animation report sorts online animation into memes (an original character singing or dancing to a set audio), animatics and full episodes; meme characters like France's Le Poisson Steve (95M views in eight months) and Japan's Lemon Melon Cookie (14K fan uploads of its audio) show a simple original character plus a catchy sound travels worldwide, and half of 14 to 49 fans watch animation in other languages. Thumbnail and style guides found were already filed. Chrome not available. Total 3789."
   },
@@ -27937,13 +27961,13 @@
   {
    "date": "2026-11-21 03:37",
    "note": "Run 1678 (POSTING TIMES (Metricool best times 21 to 27 Nov rechecked, Google holiday YouTube report, Sendible Reels timing)): Metricool still puts YouTube at 16:00 IST and Instagram at 10:00 IST every day, so the two slots stay unchanged. New: on weekends the YouTube peak flattens into a 16:00 to 18:00 IST plateau with a second rise at 10:00 IST on Saturday; Google says views on gift content flip on 26 December to unboxing and what I got content; Sendible's Reels timing summary contradicts itself, so we keep our own data. Chrome not available. Total 3932."
+  },
+  {
+   "date": "2026-11-21 03:39",
+   "note": "Run 1679 (rules and safety (Australia duty of care, UK under 16 ban analyses, YouTube AI and kids policies rechecked)): Brazil ECA Digital, California AB 1709, the UK spring 2027 ban and YouTube's July inauthentic content rule were already filed. New: Australia plans to let individuals sue platforms under a Digital Duty of Care before Christmas 2026, and UK analysts tell brands that lose algorithmic reach to under 16s to aim at parents and family campaigns instead. Chrome not available. Total 3936."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:48",
-   "total": 3385
-  },
   {
    "date": "2026-11-19 23:48",
    "total": 3385
@@ -29139,6 +29163,10 @@
   {
    "date": "2026-11-21 03:37",
    "total": 3932
+  },
+  {
+   "date": "2026-11-21 03:39",
+   "total": 3936
   }
  ],
  "next_week_ideas": [
