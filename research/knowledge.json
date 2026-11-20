@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:35:53+05:30",
- "runs": 1591,
+ "updated": "2026-11-20T17:36:37+05:30",
+ "runs": 1592,
  "branches": [
   {
    "id": "platforms",
@@ -9022,6 +9022,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1591
+    },
+    {
+     "t": "Super Simple Songs released its 2026 original songs on a strict every other Thursday rhythm (19 songs from 8 Jan to 24 Sep, every one on a Thursday), so even a top channel builds its catalogue with a steady fixed day rather than a flood of uploads.",
+     "src": "TheTVDB community listing, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1592
+    },
+    {
+     "t": "Those 2026 Super Simple originals run only 2 to 4 minutes and use plain titles that name one loved thing or one skill ('I Love My Pet', 'Put on your Shoes', 'Our Listening Ears', 'Counting up to 20'), with just one compilation (a lullaby medley) in nine months.",
+     "src": "TheTVDB community listing, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1592
     }
    ]
   },
@@ -26479,11 +26493,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1512 (posting times (Metricool YouTube 21 to 27 Nov)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 10:46",
-   "note": "Run 1513 (YouTube algorithm (November 2026 changes)): Nothing new: custom prompt feeds, the Shorts originality push, the heart button and 2x speed in Shorts were all already in the tree; no confirmed ranking change in November found. Little Angel and ChuChu TV rechecks on vidIQ matched leaves already filed. No leaves added. Chrome not available. Total 3633."
+   "note": "Summary of older entries: runs up to Run 1513 (YouTube algorithm (November 2026 changes)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 10:46",
@@ -26796,6 +26806,10 @@
   {
    "date": "2026-11-20 17:35",
    "note": "Run 1591 (global markets (Ampere kids report, World Screen 2026 trend watch, Africa earners)): New: Ampere for Telefilm (Jun 2026) found animation travels beyond English and French markets far better than live action and that kids content is shifting to existing characters; World Screen's 2026 outlook calls YouTube the clear discovery winner, with Cleo and Cuquin's YouTube exclusives winning an HBO Max season; Uganda's Masaka Kids Afrikana dance channel is among Africa's top YouTube earners. Chrome not available. Total 3769."
+  },
+  {
+   "date": "2026-11-20 17:36",
+   "note": "Run 1592 (competitor deep dive (Super Simple Songs 2026 release rhythm)): New: TVDB's community log of Super Simple Songs' 2026 originals shows one new song every second Thursday from January to late September, each 2 to 4 minutes with plain 'I love my X' or concept titles and no holiday songs; Bebefinn and Cocomelon searches found nothing new. Chrome not available. Total 3771."
   }
  ],
  "history": [
@@ -27790,6 +27804,10 @@
   {
    "date": "2026-11-20 17:35",
    "total": 3769
+  },
+  {
+   "date": "2026-11-20 17:36",
+   "total": 3771
   }
  ],
  "next_week_ideas": [
