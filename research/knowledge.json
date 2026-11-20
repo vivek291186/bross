@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T02:54:37+05:30",
- "runs": 1662,
+ "updated": "2026-11-21T02:55:38+05:30",
+ "runs": 1663,
  "branches": [
   {
    "id": "platforms",
@@ -18185,6 +18185,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1660
+    },
+    {
+     "t": "Perso's July 2026 breakdown of its AI dubbing demand puts Portuguese first at 12.7% ahead of Spanish at 9.0%, and Portuguese leads within animation projects too (12.9%), so for animated kids songs a Brazilian Portuguese audio track is the best second language to test, with Spanish next.",
+     "src": "Perso AI, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1663
+    },
+    {
+     "t": "Kenyan parent guides (Business Today, Aug 2025) recommend Babusa TV, a 3D animated Swahili nursery rhyme channel with African characters teaching counting, shapes and self introduction songs, beside Akili and Me and CoComelon, so East African parents actively look for 3D song characters who look like their children, a gap a diverse Bro Bros friend group can fill even in English.",
+     "src": "Business Today Kenya, Aug 2025",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1663
     }
    ]
   },
@@ -27406,10 +27420,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 16:37",
-   "note": "Run 1584 (TRENDS (SocialPilot TikTok and Reels lists for 17 to 25 Nov, B&T November)): Nothing new for us: camera shy pets, the passed on dance hook, same spot years apart, silly little life cuts, deadpan ballet chores and the Christmas audio wave were all already in the tree and trend bank; the other moments that week (GTA VI launch, a Hunger Games premiere) are not for kids. Trend bank unchanged. No leaves added. Chrome not available. Total 3758."
-  },
-  {
    "date": "2026-11-20 16:38",
    "note": "Run 1585 (YouTube algorithm (Beaupre interview, Home feed long form squeeze, 8 Nov custom feeds)): Nothing new: the pulled per viewer ranking, the eight impression cap test, Joos's Home row data, custom feeds in the top bar and Hype with Jewels were all already filed. No leaves added. Chrome not available. Total 3758."
   },
@@ -27720,13 +27730,13 @@
   {
    "date": "2026-11-21 02:54",
    "note": "Run 1662 (TRENDS (India and Spanish Reels and TikTok lists, school dance challenges, winter filters, Mean CEO YouTube November)): Nothing new: the Spanish and Indian lists, the veggie dance and Thumak Thumak school clips and the Halloween playlist trending fact were already filed; the AI snow photo filter and the foot shake challenge turned out to be from 2025 and 2019. No leaves added. Chrome not available. Total 3901."
+  },
+  {
+   "date": "2026-11-21 02:55",
+   "note": "Run 1663 (global markets (Perso dubbing demand by category, Sub Saharan Africa streaming forecast, East African kids channels)): The 3Vision Africa forecast and Akili and Me were already filed. New: in Perso's July 2026 figures Portuguese leads dubbing demand at 12.7% ahead of Spanish 9.0% and is the top target in animation (12.9%), and a Kenyan parent guide lists a 3D animated Swahili nursery rhyme channel with African characters among the top picks. Chrome not available. Total 3903."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:40",
-   "total": 3373
-  },
   {
    "date": "2026-11-19 23:40",
    "total": 3375
@@ -28922,6 +28932,10 @@
   {
    "date": "2026-11-21 02:54",
    "total": 3901
+  },
+  {
+   "date": "2026-11-21 02:55",
+   "total": 3903
   }
  ],
  "next_week_ideas": [
