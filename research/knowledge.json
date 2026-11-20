@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:45:36+05:30",
- "runs": 1597,
+ "updated": "2026-11-20T17:46:15+05:30",
+ "runs": 1598,
  "branches": [
   {
    "id": "platforms",
@@ -2582,6 +2582,27 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1582
+    },
+    {
+     "t": "Instagram's post Reel ads (global since Jun 2026) appear only after organic Reels longer than 60 seconds, with a 5 second countdown and a skip button; Meta has not said creators share in this money, so there is no earnings reason yet to stretch our Reels past 60 seconds.",
+     "src": "exchange4media, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1598
+    },
+    {
+     "t": "Sensor Tower data cited in June 2026 shows 53% of Instagram ads ran on Reels in Q4 2025 while Reels took 46% of time spent on the app, which is why Meta keeps pushing Reels reach.",
+     "src": "exchange4media citing Sensor Tower, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1598
+    },
+    {
+     "t": "Instagram says its new horizontal Features (up to 90 minutes, limited rollout from Oct 2026) will be a core part of Instagram for TV and can be found from linked Reels and Explore, so once we get access a weekly Bro Bros compilation posted as a Feature could reach families on the living room screen.",
+     "src": "Fast Company, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1598
     }
    ]
   },
@@ -26570,11 +26591,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1518 (topics and seasons (Christmas toys and films)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 11:39",
-   "note": "Run 1519 (TRENDS (Christmas formats, Know Your Meme)): New: the photo booth strip trend came back on 7 Nov 2026 (one pose per lyric line, a top take at 3.3M views, hashtag near 729M views), added to the trend bank with our own song and kid poses; dropped the faded Ninja tiptoe freeze. Kick a ball fake tutorial and the military kick were skipped as not kid fit or old. Chrome not available. Total 3645."
+   "note": "Summary of older entries: runs up to Run 1519 (TRENDS (Christmas formats, Know Your Meme)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 11:40",
@@ -26887,6 +26904,10 @@
   {
    "date": "2026-11-20 17:45",
    "note": "Run 1597 (YouTube algorithm (custom feeds in the top bar, Hype with Jewels, Shorts originality)): Nothing new: the 8 Nov custom feed move to the top bar, Hype with Jewels in nine markets, the Shorts reupload penalty and Ask YouTube were all already filed; the Ask YouTube mobile page could not be read. No leaves added. Chrome not available. Total 3782."
+  },
+  {
+   "date": "2026-11-20 17:46",
+   "note": "Run 1598 (Shorts and Reels (post Reel ads, Instagram Features on TV)): New: Instagram's post Reel ads run only after organic Reels longer than 60 seconds, and its 90 minute horizontal Features are becoming a core part of Instagram for TV, reachable from Reels and Explore; Shorts and Reels length and hook studies were already filed. Chrome not available. Total 3785."
   }
  ],
  "history": [
@@ -27905,6 +27926,10 @@
   {
    "date": "2026-11-20 17:45",
    "total": 3782
+  },
+  {
+   "date": "2026-11-20 17:46",
+   "total": 3785
   }
  ],
  "next_week_ideas": [
