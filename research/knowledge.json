@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:42:50+05:30",
- "runs": 1554,
+ "updated": "2026-11-20T13:43:41+05:30",
+ "runs": 1556,
  "branches": [
   {
    "id": "platforms",
@@ -17331,6 +17331,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1552
+    },
+    {
+     "t": "In Kapwing's test (Apr 2026) a 162K subscriber Portuguese creator published one video dubbed into Spanish two ways on the same day: as an extra audio track with a translated title on the main channel it drew 32 views in 90 days, while a new zero subscriber Spanish channel with fresh thumbnail and title drew 3,897 views and 51 subscribers.",
+     "src": "Kapwing, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1556
+    },
+    {
+     "t": "That dub test is one software tutorial, one language pair and a vendor's own blog, and the new channel also had new packaging, so for Bro Bros it only says an audio track alone does not create foreign reach; kids channel cases still favour audio tracks first and a separate language channel only once one language clearly proves itself.",
+     "src": "Kapwing, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1556
     }
    ]
   },
@@ -26093,16 +26107,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 07:38",
-   "note": "Summary of older entries: runs up to Run 1475 (our own results (Metricool, 19 Nov Reels synced)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 07:39",
-   "note": "Run 1476 (TRENDS (December outlook, K-pop challenges, Shorts charts)): Nothing new: December 2025 holiday trend recaps, Google's 2026 holiday report, this week's K-pop challenge lists (Pikki Pikki, ILLIT relay) and the 15 Nov Tubefilter charts were already in the tree. No leaves added. Chrome not available. Total 3598."
-  },
-  {
    "date": "2026-11-20 07:40",
-   "note": "Run 1477 (YouTube algorithm (Home feed and Shorts ranking recheck)): Mostly known (Joos's two long videos per Home row and satisfied watch time per click). One weakly sourced June 2026 claim added at low confidence: quick back button exits from recommendations are discounted for about a week and keeping the viewer watching after the video counts more, which supports ending every song on the next song or playlist. Chrome not available. Total 3599."
+   "note": "Summary of older entries: runs up to Run 1477 (YouTube algorithm (Home feed and Shorts ranking recheck)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 07:41",
@@ -26411,6 +26417,14 @@
   {
    "date": "2026-11-20 13:42",
    "note": "Run 1554 (visual craft (pacing and sensory load evidence)): New: a 2025 meta analysis (19 studies, 1,431 children) found fast pacing alone did not measurably hurt attention while very fantastical content had a small negative effect; a parent site's sensory scores put Bluey at about 3.8 cuts a minute and 141 words a minute against CoComelon's 8.7 and 153; a Thai study of 214 preschoolers tied more short form viewing to more inattention. Chrome not available. Total 3714."
+  },
+  {
+   "date": "2026-11-20 13:43",
+   "note": "Run 1555 (TRENDS (Thanksgiving and December family rituals)): Nothing new: Thanksgiving family trends, the trademarked shelf elf rule and Christmas countdown formats were all already in the tree. Trend bank unchanged. No leaves added. Chrome not available. Total 3714."
+  },
+  {
+   "date": "2026-11-20 13:43",
+   "note": "Run 1556 (global markets (dub track versus separate channel test)): New counter evidence on dubbing: Kapwing's April 2026 single video test found a Spanish dub on a new dedicated channel got about 122 times the views of the same dub added as an audio track on the main Portuguese channel (3,897 against 32 in 90 days), but it is one tutorial video with new packaging and from a dubbing tool vendor, so it does not overturn the kids channel evidence for audio tracks. Chrome not available. Total 3716."
   }
  ],
  "history": [
@@ -27257,6 +27271,14 @@
   {
    "date": "2026-11-20 13:42",
    "total": 3714
+  },
+  {
+   "date": "2026-11-20 13:43",
+   "total": 3714
+  },
+  {
+   "date": "2026-11-20 13:43",
+   "total": 3716
   }
  ],
  "next_week_ideas": [
