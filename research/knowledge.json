@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:08:05+05:30",
- "runs": 1546,
+ "updated": "2026-11-20T13:35:25+05:30",
+ "runs": 1547,
  "branches": [
   {
    "id": "platforms",
@@ -4871,6 +4871,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1538
+    },
+    {
+     "t": "From 16 Nov 2026 YouTube adds estimated TV co viewers (a privacy safe statistical model based on demographic patterns and viewing times, no microphones or cameras) to public view counts on long videos, Shorts and live, for new views only; earnings, Partner Program eligibility and ad revenue are not affected.",
+     "src": "Mediaweek and Press Publish, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1547
     }
    ]
   },
@@ -8875,6 +8882,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1538
+    },
+    {
+     "t": "Christian kids streamer Minno (1.7M YouTube subscribers, over 200M views in a year) signed Bible song animation channel Listener Kids on 19 Nov 2026 to a worldwide multi year deal: 66 new episodes premiere on Minno first and reach YouTube later, and Minno says more YouTube Kids creator deals are coming before the end of 2026.",
+     "src": "PR Newswire, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1547
     }
    ]
   },
@@ -17233,6 +17247,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1544
+    },
+    {
+     "t": "Kids streamers are now buying 'premiere first' windows from YouTube kids song creators, so a Bro Bros back catalogue with consistent original characters and owned music could later be licensed to a streaming app while still feeding YouTube.",
+     "src": "PR Newswire, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1547
     }
    ]
   },
@@ -19543,6 +19564,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1539
+    },
+    {
+     "t": "YouTube began testing (Tubefilter, 3 Nov 2026) a 30 day locked period for some channels flagged under its spam policy instead of instant termination: the channel is hidden, uploads and comments are blocked, and the owner can fix or remove the flagged videos and resubmit, appeal, or delete all videos to reopen at once while keeping subscribers, handle and Partner Program status.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1547
+    },
+    {
+     "t": "The spam policy's automated or synthetic mass production clause is being read as covering channels that reuse the same backing track and repeated AI imagery across many uploads, so each Bro Bros song needs its own arrangement, setting and choreography rather than one template recoloured.",
+     "src": "Tubefilter, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1547
     }
    ]
   },
@@ -20453,6 +20488,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1535
+    },
+    {
+     "t": "Because TV co views now inflate public view counts from 16 Nov 2026 (on top of every Short start counting as a view), compare Bro Bros songs week to week with watch time, engaged views and RPM in YouTube Studio, not the public counter, and mark 16 Nov as a break in our view history.",
+     "src": "Mediaweek, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1547
     }
    ]
   },
@@ -25911,12 +25953,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 06:48",
-   "note": "Summary of older entries: runs up to Run 1466 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 06:49",
-   "note": "Run 1468 (music craft (new kids Christmas releases, 2027 Grammy kids list)): Nothing new: this season's kids Christmas releases found were 2025 items already in the tree (party albums, a K-pop group's kids Christmas single, a throat singing Jingle Bells), and the 2027 Grammy kids nominees were covered in run 1444. No leaves added. Chrome not available. Total 3579."
+   "note": "Summary of older entries: runs up to Run 1468 (music craft (new kids Christmas releases, 2027 Grammy kids list)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 06:50",
@@ -26229,6 +26267,10 @@
   {
    "date": "2026-11-20 13:08",
    "note": "Run 1546 (TRENDS (December outlook)): Nothing new: December trend previews found were last year's NewEngen, Kapwing and startups.co.uk lists and TikTok Next 2026, all already in the tree. Trend bank unchanged. Chrome not available. Total 3688."
+  },
+  {
+   "date": "2026-11-20 13:35",
+   "note": "Run 1547 (rules and safety (spam lock, co views, premiere windows)): New: YouTube is testing a 30 day locked period instead of instant termination for some channels flagged as spam, and since 16 Nov 2026 public view counts include estimated TV co viewers, which do not change pay. Also Minno signed Bible song channel Listener Kids to a premiere first streaming deal. Chrome not available. Total 3694."
   }
  ],
  "history": [
@@ -27043,6 +27085,10 @@
   {
    "date": "2026-11-20 13:08",
    "total": 3688
+  },
+  {
+   "date": "2026-11-20 13:35",
+   "total": 3694
   }
  ],
  "next_week_ideas": [
