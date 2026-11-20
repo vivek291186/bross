@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T02:59:38+05:30",
- "runs": 1667,
+ "updated": "2026-11-21T03:00:38+05:30",
+ "runs": 1668,
  "branches": [
   {
    "id": "platforms",
@@ -18227,6 +18227,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1663
+    },
+    {
+     "t": "Taiwan's main kids TV brand on YouTube, YOYOTV (1.75M subscribers, about 18,000 videos since 2009), posted 48 uploads in the 28 days to 20 Nov 2026, mostly 21 to 24 minute TV episodes, yet its newest uploads drew only about 200 to 2,400 views and its kids song compilation about 1,000, while licensed anime episodes led at 13K to 19K; in Mandarin markets a flood of full TV episodes does not win on YouTube, so a short, original, song first channel still has room there.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1668
     }
    ]
   },
@@ -27463,10 +27470,6 @@
   },
   {
    "date": "2026-11-20 16:40",
-   "note": "Run 1589 (visual craft (attention capture scores, thumbnail testing)): Nothing new: Common Sense's attention capture levels, vidIQ's thumbnail study and YouTube's title and thumbnail A/B test were already filed. No leaves added. Chrome not available. Total 3761."
-  },
-  {
-   "date": "2026-11-20 16:40",
    "note": "Run 1590 (topics and seasons (Christmas 2026 toy lists)): New: heal the pet plush with a doctor kit and pretend kitchen and food play are on both retail and editor toy lists for 2026, backing a pretend vet song and more cooking songs; squishy, slime and audio player trends were already filed. Chrome not available. Total 3763."
   },
   {
@@ -27776,13 +27779,13 @@
   {
    "date": "2026-11-21 02:59",
    "note": "Run 1667 (our own results (Metricool YouTube 14 to 21 Nov)): No new data: YouTube daily views still end at 17 Nov (850 to 1,301 a day from 14 to 17 Nov, already filed) and subscribers hold at 2,150 with zero lost; 18 to 21 Nov values are not in Metricool yet. No leaves added; recheck after 22 Nov. Chrome not available. Total 3909."
+  },
+  {
+   "date": "2026-11-21 03:00",
+   "note": "Run 1668 (YouTube kids channels (Taiwan's YOYOTV via vidIQ; Fitu K Kitu and Keizo rechecked); TRENDS skipped as the last trends round found nothing new): Keizo and Friends was already filed and Fitu K Kitu could not be found; one suggested channel turned out to be adult content and was skipped. New: Taiwan's kids TV broadcaster YOYOTV (1.75M subscribers, 18,000 videos) posts about 12 full episodes a week, but new uploads get only about 200 to 2,400 views, with licensed anime episodes its best recent uploads. Chrome not available. Total 3910."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:42",
-   "total": 3376
-  },
   {
    "date": "2026-11-19 23:43",
    "total": 3379
@@ -28978,6 +28981,10 @@
   {
    "date": "2026-11-21 02:59",
    "total": 3909
+  },
+  {
+   "date": "2026-11-21 03:00",
+   "total": 3910
   }
  ],
  "next_week_ideas": [
