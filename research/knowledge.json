@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T14:36:15+05:30",
- "runs": 1559,
+ "updated": "2026-11-20T14:37:22+05:30",
+ "runs": 1560,
  "branches": [
   {
    "id": "platforms",
@@ -26102,6 +26102,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1552
+    },
+    {
+     "t": "A TikTok trend called 'how Christmas dances will look this year' (first seen 19 Oct 2026, about 54.8M views over 102 videos) is a fixed three move routine: a side to side step with arm swings, one leg lift, then a bouncing beat; people only change the outfit and the festive background. For Bro Bros: both brothers do side step and swing, knee lift, bounce in place, in front of a different Christmas set each chorus, to our own song.",
+     "src": "Virlo trend tracker, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1560
+    },
+    {
+     "t": "A 'Last Christmas' remix winter dance (first seen 8 Oct 2026, about 6.9M views over 98 videos) is mostly young pairs in Christmas pyjamas by a tree or in snow doing side steps, hand moves near the face and swaying in sync; we copy only the pyjama pair sync idea with our own music, never the remix audio.",
+     "src": "Virlo trend tracker, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1560
+    },
+    {
+     "t": "Both Christmas dance trends that started in October 2026 were already fading by 20 Nov (weekly creators down from 58 to 9 and from 70 to 6), so the first wave of Christmas dances runs out before December and a Bro Bros Christmas dance should launch with its own simple three move routine rather than chase these.",
+     "src": "Virlo trend tracker, Nov 2026 (our reading)",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1560
     }
    ]
   }
@@ -26129,11 +26150,7 @@
  "log": [
   {
    "date": "2026-11-20 07:42",
-   "note": "Summary of older entries: runs up to Run 1480 (music craft (infant music studies, new kids albums)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 07:42",
-   "note": "Run 1481 (topics and seasons (December search patterns)): From Google Trends' December search review (2021, still a yearly pattern): 'how to draw a snowman' and 'how to make a snowman' plus snowman, scarf and beanie are searched worldwide every December, and cookie baking (sugar and gingerbread first) is a top December search, which backs a snowman build song and a cookie baking song in the next weeks. Added a snowman draw along song idea. Chrome not available. Total 3605."
+   "note": "Summary of older entries: runs up to Run 1481 (topics and seasons (December search patterns)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 07:43",
@@ -26446,6 +26463,10 @@
   {
    "date": "2026-11-20 14:36",
    "note": "Run 1559 (our own results (Metricool at 14:40 IST, 20 Nov)): Nothing new: the 20 Nov 10:00 elephant parade Reel and Short published (the long video again with the thumbnail warning), Reel analytics still stop at the 19 Nov pair (9 and 4 views), and the queue still ends on 22 Nov at 16:05 IST. No leaves added. Chrome not available. Total 3719."
+  },
+  {
+   "date": "2026-11-20 14:37",
+   "note": "Run 1560 (TRENDS (Christmas dance trackers, 20 Nov)): New from Virlo: a three move Christmas dance (side step with arm swing, leg lift, bounce; 54.8M views) and a pyjama pair winter dance (6.9M) both started in October and are fading by 20 Nov. Weekly trend lists (NewEngen, SocialBee, Buffer, SocialPilot, B&T, Anijam) were already filed. Trend bank unchanged. Chrome not available. Total 3722."
   }
  ],
  "history": [
@@ -27312,6 +27333,10 @@
   {
    "date": "2026-11-20 14:36",
    "total": 3719
+  },
+  {
+   "date": "2026-11-20 14:37",
+   "total": 3722
   }
  ],
  "next_week_ideas": [
