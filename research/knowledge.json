@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:00:38+05:30",
- "runs": 1668,
+ "updated": "2026-11-21T03:01:33+05:30",
+ "runs": 1669,
  "branches": [
   {
    "id": "platforms",
@@ -5137,6 +5137,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1665
+    },
+    {
+     "t": "AIR reports (May 2026) a localised Spanish kids channel that YouTube's recommendation system had wrongly flagged: within 30 days of the flag being lifted its recommendations rose from about 550 to 28,222, watch hours from 1,388 to 43,178 and views 3.6 times, so if Bro Bros' Suggested traffic ever collapses overnight with no policy notice, we should check Studio for limits and ask YouTube creator support rather than keep posting into the void.",
+     "src": "AIR Media-Tech, May 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1669
     }
    ]
   },
@@ -27469,10 +27476,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 16:40",
-   "note": "Run 1590 (topics and seasons (Christmas 2026 toy lists)): New: heal the pet plush with a doctor kit and pretend kitchen and food play are on both retail and editor toy lists for 2026, backing a pretend vet song and more cooking songs; squishy, slime and audio player trends were already filed. Chrome not available. Total 3763."
-  },
-  {
    "date": "2026-11-20 17:35",
    "note": "Run 1591 (global markets (Ampere kids report, World Screen 2026 trend watch, Africa earners)): New: Ampere for Telefilm (Jun 2026) found animation travels beyond English and French markets far better than live action and that kids content is shifting to existing characters; World Screen's 2026 outlook calls YouTube the clear discovery winner, with Cleo and Cuquin's YouTube exclusives winning an HBO Max season; Uganda's Masaka Kids Afrikana dance channel is among Africa's top YouTube earners. Chrome not available. Total 3769."
   },
@@ -27783,13 +27786,13 @@
   {
    "date": "2026-11-21 03:00",
    "note": "Run 1668 (YouTube kids channels (Taiwan's YOYOTV via vidIQ; Fitu K Kitu and Keizo rechecked); TRENDS skipped as the last trends round found nothing new): Keizo and Friends was already filed and Fitu K Kitu could not be found; one suggested channel turned out to be adult content and was skipped. New: Taiwan's kids TV broadcaster YOYOTV (1.75M subscribers, 18,000 videos) posts about 12 full episodes a week, but new uploads get only about 200 to 2,400 views, with licensed anime episodes its best recent uploads. Chrome not available. Total 3910."
+  },
+  {
+   "date": "2026-11-21 03:01",
+   "note": "Run 1669 (YouTube algorithm (made for kids Shorts reach, Studio Research tab, AIR traffic recovery guide)): The Research tab, the 21 to 11 long video case and the Arabic thumbnail recovery were already filed. New: in AIR's guide a localised Spanish kids channel wrongly flagged by the recommendation system went from 550 to about 28,000 recommendations within 30 days of the flag being lifted, so a sudden total drop in Suggested traffic should be escalated, not waited out. Chrome not available. Total 3911."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:43",
-   "total": 3379
-  },
   {
    "date": "2026-11-19 23:43",
    "total": 3379
@@ -28985,6 +28988,10 @@
   {
    "date": "2026-11-21 03:00",
    "total": 3910
+  },
+  {
+   "date": "2026-11-21 03:01",
+   "total": 3911
   }
  ],
  "next_week_ideas": [
