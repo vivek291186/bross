@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T02:57:50+05:30",
- "runs": 1665,
+ "updated": "2026-11-21T02:59:16+05:30",
+ "runs": 1666,
  "branches": [
   {
    "id": "platforms",
@@ -20691,6 +20691,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1652
+    },
+    {
+     "t": "The UAE's Federal Decree Law No. 26 of 2025 on Child Digital Safety applies to foreign platforms that target UAE users (social media, gaming, streaming), requires age checks, the strictest privacy and filtering settings on child accounts and new limits on ads aimed at young children, and bans collecting or publishing under 13 data except under set conditions, with platforms given until 31 Dec 2026 to comply, so Gulf viewing of Bro Bros will come more through supervised accounts and parent devices in 2027.",
+     "src": "Pinsent Masons, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1666
+    },
+    {
+     "t": "California's SB 1247 on child influencers (signed 30 Sep 2026, in force 1 Jan 2027) and AB 2246, a new Children's Design Code that replaces the old Age Appropriate Design Code, add to the wave of 2027 US state rules; because Bro Bros uses only animated characters and never films real children, the child performer rules do not touch us, which is a quiet advantage worth keeping.",
+     "src": "Digital Policy Alert and Sheppard Mullin, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1666
     }
    ]
   },
@@ -27449,10 +27463,6 @@
   },
   {
    "date": "2026-11-20 16:39",
-   "note": "Run 1587 (other platforms (Netflix top 10, kids Christmas albums)): Nothing new: A Dog's Perfect Christmas as Netflix's top family film and Super Simple's 20th anniversary vinyl were already filed; the Peppa Pig and Super Simple Songs mash up page could not be read, so it waits for a later round. No leaves added. Chrome not available. Total 3758."
-  },
-  {
-   "date": "2026-11-20 16:39",
    "note": "Run 1588 (competitor deep dive (Peppa Pig crossovers)): New: Peppa Pig and Sesame Street's first crossover was a 1.5 minute Muddy Puddles dance remix (2 Sep 2026); Hasbro also made a Peppa special for parents (11 Aug) and runs an orchestra tour that blends Peppa songs with public domain classics. Chrome not available. Total 3761."
   },
   {
@@ -27762,13 +27772,13 @@
   {
    "date": "2026-11-21 02:57",
    "note": "Run 1665 (posting times (Metricool best times 21 to 27 Nov for YouTube and Instagram, AIR niche timing study, UniSA holiday screen time); TRENDS skipped as the last trends round found nothing new): Metricool still peaks YouTube at 16:00 IST every day and Instagram at 10:00 IST (already filed), and the AIR kids timing data was already filed, so the two posting slots stay unchanged. New: AIR's upload crowding numbers (12:00 UTC gets under 4% of uploads but about 1.4 times normal views) and a UniSA study showing 9 to 10 year olds use screens 39% more in school holidays. Chrome not available. Total 3907."
+  },
+  {
+   "date": "2026-11-21 02:59",
+   "note": "Run 1666 (rules and safety (UAE Child Digital Safety law, California child influencer and design code laws; COPPA and made for kids rechecked)): COPPA, New York SAFE for Kids and AB 1709 were already filed. New: the UAE's Child Digital Safety decree law covers foreign platforms, bans collecting under 13 data without set conditions and tightens ads aimed at young children, with platforms given until 31 Dec 2026 to comply; California's child influencer law and a new Children's Design Code take effect from 1 Jan 2027. Chrome not available. Total 3909."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:41",
-   "total": 3376
-  },
   {
    "date": "2026-11-19 23:42",
    "total": 3376
@@ -28964,6 +28974,10 @@
   {
    "date": "2026-11-21 02:57",
    "total": 3907
+  },
+  {
+   "date": "2026-11-21 02:59",
+   "total": 3909
   }
  ],
  "next_week_ideas": [
