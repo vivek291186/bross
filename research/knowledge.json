@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:37:52+05:30",
- "runs": 1699,
+ "updated": "2026-11-21T04:38:35+05:30",
+ "runs": 1700,
  "branches": [
   {
    "id": "platforms",
@@ -9463,6 +9463,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1697
+    },
+    {
+     "t": "BabyBus's Thai language channel (5.48M subscribers, 3.25B views, 1,444 videos since Dec 2019) gets a steady 17M to 19M views a month from about 7 uploads a week averaging 24 minutes, but each new upload averages only about 90K to 106K views and its last 10 uploads fell about 22% against the 10 before, so a localised channel lives on its back catalogue more than on new releases.",
+     "src": "Nexlev, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1700
+    },
+    {
+     "t": "BabyBus Thai's November 2026 uploads are everyday life and safety stories (visiting the doctor, needing to pee, a hairstyle game, an ambulance, helping a baby crocodile get home, a small mistake causing a big problem), and the best of the batch was the playful hairstyle designer episode at about 104K views, so play pretend jobs beat lesson style episodes even for a safety focused brand.",
+     "src": "Nexlev, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1700
     }
    ]
   },
@@ -18542,6 +18556,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1699
+    },
+    {
+     "t": "A localised BabyBus channel for Thailand alone sustains about 17M views a month, which shows that one mid sized Southeast Asian language market can support a dedicated kids channel once a back catalogue of dubbed episodes exists.",
+     "src": "Nexlev, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1700
     }
    ]
   },
@@ -27967,10 +27988,6 @@
   },
   {
    "date": "2026-11-20 18:04",
-   "note": "Run 1621 (YouTube algorithm (Studio Insights and Research launch 13 Nov)): Nothing new: Studio's Analytics renamed Insights, the outlier based Research tab replacing Trends, Ask Studio on mobile (not for made for kids channels) and the co view metric were all already filed. No leaves added. Chrome not available. Total 3815."
-  },
-  {
-   "date": "2026-11-20 18:04",
    "note": "Run 1622 (Shorts and Reels (Reels ranking factors recheck)): Nothing new: watch time, sends per reach and likes per reach as Mosseri's three Reels signals, the 3 minute recommendation limit, originality and watermark penalties were all already filed; no Reels ranking change dated October or November 2026 found. No leaves added. Chrome not available. Total 3815."
   },
   {
@@ -28280,13 +28297,13 @@
   {
    "date": "2026-11-21 04:37",
    "note": "Run 1699 (global markets (Hausa language YouTube in Northern Nigeria, auto dubbing languages, YouTube users by country)): Auto dubbing in 27 languages and country user rankings were already filed. New: Hausa language film channels in Northern Nigeria now pull 1.4M to 2.2M subscribers and 200M to 290M views each with English subtitles for partial speakers, showing large non English African language audiences already live on YouTube with no Hausa kids songs serving them. Chrome not available. Total 3981."
+  },
+  {
+   "date": "2026-11-21 04:38",
+   "note": "Run 1700 (competitor deep dive (BabyBus Thai via Nexlev; ChuChu TV vidIQ page unreadable)): New: BabyBus's Thai channel (5.48M subscribers, 3.25B views) uploads about 7 times a week with 24 minute episodes yet averages only about 90K to 106K views per new video and about 17M views a month, with everyday life and safety stories (going to the doctor, needing the toilet, helping a lost baby animal) as its standard topics. ChuChu TV stats could not be read. Chrome not available. Total 3984."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 02:41",
-   "total": 3430
-  },
   {
    "date": "2026-11-20 02:41",
    "total": 3433
@@ -29482,6 +29499,10 @@
   {
    "date": "2026-11-21 04:37",
    "total": 3981
+  },
+  {
+   "date": "2026-11-21 04:38",
+   "total": 3984
   }
  ],
  "next_week_ideas": [
