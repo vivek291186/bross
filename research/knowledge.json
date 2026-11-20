@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:49:50+05:30",
- "runs": 1650,
+ "updated": "2026-11-20T21:35:59+05:30",
+ "runs": 1651,
  "branches": [
   {
    "id": "platforms",
@@ -5081,6 +5081,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1640
+    },
+    {
+     "t": "Nielsen counted Christmas Day 2025 as the biggest US streaming day ever, 55.1B minutes and over 54% of all TV time, with YouTube the top streaming platform for December (12.7%), so Bro Bros should have its Christmas songs and a long Christmas compilation live well before 25 Dec and keep both daily slots running on Christmas Day itself.",
+     "src": "AOL citing Nielsen, Jan 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1651
+    },
+    {
+     "t": "Streaming already passed half of US TV time on 13 Dec 2025 (a Saturday), so the December weekends before Christmas are strong family TV days; our weekend uploads in December should be the bigger holiday songs, not the lighter evergreen ones the plan uses the rest of the year.",
+     "src": "AOL citing Nielsen, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1651
+    },
+    {
+     "t": "A RouteNote post (Dec 2025) claims Boxing Day brings a wave of new phones and tablets being set up, but gives no numbers; treat it only as a reason to have a pinned 'start here' playlist of our best songs ready by 26 Dec, not as proven timing data.",
+     "src": "RouteNote, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1651
     }
    ]
   },
@@ -18045,6 +18066,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1615
+    },
+    {
+     "t": "Roy Morgan's survey of Australian 6 to 13 year olds (Apr to Dec 2025, 1,129 kids) found 89% watch YouTube; girls choose music videos far more than boys (41% versus 27%), and 6 to 9 year olds favour animation (40%), animals (35%) and challenges (32%), so an animated animal challenge song is the strongest mix for that age.",
+     "src": "Roy Morgan, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1651
+    },
+    {
+     "t": "In Australia YouTube Kids is outside the under 16 social media ban that began in mid December 2025, while under 16s can no longer sign in to main YouTube, so in Australia our videos reach children mostly through YouTube Kids and parents' accounts.",
+     "src": "Roy Morgan, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1651
+    },
+    {
+     "t": "New Zealand's 2025 Where Are The Audiences kids study puts YouTube and YouTube Kids as the top daily reach medium for children at about 69%, well ahead of Netflix (about 36%), Disney+ (16%) and TikTok (13%).",
+     "src": "NZ On Air, 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1651
     }
    ]
   },
@@ -27200,11 +27242,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1571 (our own results (Metricool at 15:45 IST, 20 Nov)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 15:45",
-   "note": "Run 1572 (TRENDS (India, Spanish and Portuguese recheck)): Thin round: Indian, Spanish and Brazilian trend pages found were old (2025) or blocked, and the Christmas, Thanksgiving and Reels lists were already filed. New: the popular AI 'dance from one photo' tools that ride the Christmas dance trend sit next to twerking, kissing and body changing effects, so we never point kids or parents to them. Trend bank unchanged. Chrome not available. Total 3746."
+   "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 15:46",
@@ -27517,13 +27555,13 @@
   {
    "date": "2026-11-20 20:49",
    "note": "Run 1650 (our own results (Metricool Reels 17 to 20 Nov, YouTube 14 to 20 Nov recheck); topics, markets and competitor skipped as rechecked with nothing new this afternoon): Nothing new: YouTube data still stops at 18 Nov (Roly Poly Red Tomato 494 views leads, paired English Shorts 3 to 9 views) and the Reels numbers of 17 to 19 Nov are unchanged; no 20 Nov Reels data yet. No leaves added. Chrome not available. Total 3872."
+  },
+  {
+   "date": "2026-11-20 21:35",
+   "note": "Run 1651 (posting times and holiday timing (Nielsen Christmas 2025, Roy Morgan, NZ On Air)): New: Christmas Day 2025 was the biggest US streaming day ever (55.1B minutes, over 54% of TV time) with YouTube the top streamer for December, so Christmas Day itself is a real viewing peak to schedule for; Roy Morgan shows girls 6 to 13 pick music far more than boys and ages 6 to 9 favour animation, animals and challenges; NZ kids reach YouTube daily at 69%. Posting slots unchanged (no kids specific hourly data found). Chrome not available. Total 3878."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 16:03",
-   "total": 3155
-  },
   {
    "date": "2026-11-19 17:00",
    "total": 3183
@@ -28719,6 +28757,10 @@
   {
    "date": "2026-11-20 20:49",
    "total": 3872
+  },
+  {
+   "date": "2026-11-20 21:35",
+   "total": 3878
   }
  ],
  "next_week_ideas": [
