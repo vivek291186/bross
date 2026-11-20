@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:50:07+05:30",
- "runs": 1685,
+ "updated": "2026-11-21T03:50:53+05:30",
+ "runs": 1686,
  "branches": [
   {
    "id": "platforms",
@@ -13929,6 +13929,34 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1680
+    },
+    {
+     "t": "1of10's analysis of over 300,000 viral 2025 YouTube videos found thumbnails with and without faces perform about the same overall, but thumbnails with several faces beat single face ones, which supports always showing both Bros (and a friend) together on Bro Bros thumbnails rather than one character alone.",
+     "src": "Search Engine Journal, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1686
+    },
+    {
+     "t": "Blender Studio's stylised lighting recipe uses a warm sun key from the front side (never from the camera), a cool purple blue fill to colour the shadows, a warm rim behind the head and a tiny dim light near the jaw to soften the face, so the Bros' faces stay the brightest, highest contrast area of every frame.",
+     "src": "Blender Studio, 2021",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1686
+    },
+    {
+     "t": "For speed Blender Studio fakes light shafts with an emissive noise textured cube instead of true volumetrics, casts leaf like shadows with holey 'blocker' planes that do not bounce light, and swaps the visible sky to a plain colour with a Light Path camera ray mix, cheap tricks that give our 3D sets depth without long render times.",
+     "src": "Blender Studio, 2021",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1686
+    },
+    {
+     "t": "Blender Studio's Cycles settings for a stylised family film (3 max bounces, indirect clamp 10, caustics off, 200 samples with OpenImageDenoise, Filmic) are a tested starting point for Bro Bros renders that keeps noise low while holding render time down for 14 songs a week.",
+     "src": "Blender Studio, 2021",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1686
     }
    ]
   },
@@ -27784,10 +27812,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:53",
-   "note": "Run 1607 (YouTube top channels (fastest growing week of 13 to 20 Nov; our results skipped, no new data yet)): New: in the week to 20 Nov 2026 only two pure kids song channels made the global top 100 by subscriber growth, LooLoo Kids (+100K, about 168M views) and Super Simple Songs (+100K, about 119M), while Like Nastya added 1M and CoComelon led kids views (about 344M in seven days); English nursery songs keep compounding even without a viral hit. Chrome not available. Total 3797."
-  },
-  {
    "date": "2026-11-20 17:54",
    "note": "Run 1608 (TRENDS (Christmas helper elf season, the 6 7 joke at Christmas)): New: the official Elf on the Shelf brand now leans on the kids' '6 7' joke with counting activities (six chips and seven marshmallows, count sixes and sevens in the lights, 6 to 7 good deeds), which backs our six seven carol idea as kid safe; a low effort 'resting elf' that just gets a marshmallow each night shows parents want easy December rituals; Christmas content must never reveal that grown ups move the helper or who Santa is. Trend bank unchanged. Chrome not available. Total 3800."
   },
@@ -28098,13 +28122,13 @@
   {
    "date": "2026-11-21 03:50",
    "note": "Run 1685 (music craft (eLife infant movement study, iTunes kids and Billboard kids albums rechecked, Suno prompting guides for kids songs)): The eLife infant study, the iTunes faith and novelty songs and Billboard's holiday albums were already filed. New Suno craft: words in parentheses in the lyrics make Suno add backing vocals, an [End] tag on the last line stops overruns in most generations, adult vocal styles beat AI child voices, and a v5.5 drift workaround is to generate on v5 and Cover on v5.5. Chrome not available. Total 3955."
+  },
+  {
+   "date": "2026-11-21 03:50",
+   "note": "Run 1686 (visual craft (faces in thumbnails data, Blender Studio stylised lighting master class)): vidIQ's July 2026 thumbnail study and closed mouth expressions were already filed. New: 1of10's 300,000 video analysis found thumbnails with two or more faces beat single faces while a face alone gives no overall lift, and Blender Studio's lighting recipe gives us cheap tricks (a dim jaw light, leaf shadow blocker planes, a camera only background colour, clamped bounces) for warm, fast 3D renders. Chrome not available. Total 3959."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 00:38",
-   "total": 3402
-  },
   {
    "date": "2026-11-20 01:37",
    "total": 3406
@@ -29300,6 +29324,10 @@
   {
    "date": "2026-11-21 03:50",
    "total": 3955
+  },
+  {
+   "date": "2026-11-21 03:50",
+   "total": 3959
   }
  ],
  "next_week_ideas": [
