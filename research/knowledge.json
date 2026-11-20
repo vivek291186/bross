@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T08:45:11+05:30",
- "runs": 1489,
+ "updated": "2026-11-20T08:46:20+05:30",
+ "runs": 1490,
  "branches": [
   {
    "id": "platforms",
@@ -2498,6 +2498,34 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1478
+    },
+    {
+     "t": "In YouTube's weekly music charts for 6 to 12 Nov 2026, Christmas songs already took about 15% of UK chart views (13 songs) and 7% of US views (6 songs), and Mariah Carey's yearly hit rose 41% to about 14.5M weekly views worldwide, so the Christmas listening wave starts in the second week of November, earlier than December.",
+     "src": "PPC Land, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1490
+    },
+    {
+     "t": "YouTube's global No. 1 song for 6 to 12 Nov 2026 (a Punjabi song, about 42.6M weekly views) reached the top by climbing slowly for about eight weeks, and only about half its chart views came from the official video while the rest came from fan, lyric and reuse uploads, so songs grow when other people can easily reuse them.",
+     "src": "PPC Land, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1490
+    },
+    {
+     "t": "PPC Land notes that heavily promoted debut songs on YouTube's charts lost 45% to 88% of their views in their second week in autumn 2026, while slow builders kept rising, so one big launch day matters less than weeks of steady reuse in Shorts, compilations and playlists.",
+     "src": "PPC Land, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1490
+    },
+    {
+     "t": "YouTube's Shorts songs chart for the week to 12 Nov 2026 was led by a festival song (a Diwali track) and slowed remixes of Brazilian phonk tracks, so festival songs and slowed versions dominate Shorts audio; a slowed calm version of a Bro Bros song is a cheap extra Shorts asset.",
+     "src": "PPC Land, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1490
     }
    ]
   },
@@ -25365,12 +25393,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 02:48",
-   "note": "Summary of 2 older entries: runs up to Run 1410 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 02:49",
-   "note": "Run 1411 (global markets (metadata translation)): Language CPMs and the 27 language auto dubbing rollout were already in the tree; added AIR's three language metadata test (scale a language only if its retention stays within 10 to 15% of the main market, otherwise move to dubbing) and its claim that untranslated titles rarely get tested abroad. Chrome not available. Total 3449."
+   "note": "Summary of 2 older entries: runs up to Run 1411 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 02:50",
@@ -25683,13 +25707,13 @@
   {
    "date": "2026-11-20 08:45",
    "note": "Run 1489 (YouTube algorithm (November updates roundups)): Nothing new: Purple Fish's 17 Nov roundup (Insights and Research tabs, TV co views, Subs at the top of Home, custom feeds, Shorts originality) was all already in the tree, and a June claim of a 'session completion' ranking change had no YouTube source, so it was not added. No leaves added. Chrome not available. Total 3610."
+  },
+  {
+   "date": "2026-11-20 08:46",
+   "note": "Run 1490 (Shorts and Reels (YouTube weekly music charts 6 to 12 Nov, Instagram updates)): New from YouTube's 6 to 12 Nov charts: Christmas songs already take about 15% of UK and 7% of US chart views two weeks before December, the global No. 1 climbed slowly over eight weeks with about half its views from fan and lyric uploads, and paid debut hits fell 45 to 88% in week two. Instagram's 90 minute video test was already in the tree. Chrome not available. Total 3614."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 15:59",
-   "total": 3146
-  },
   {
    "date": "2026-11-19 16:00",
    "total": 3148
@@ -26885,6 +26909,10 @@
   {
    "date": "2026-11-20 08:45",
    "total": 3610
+  },
+  {
+   "date": "2026-11-20 08:46",
+   "total": 3614
   }
  ],
  "next_week_ideas": [
