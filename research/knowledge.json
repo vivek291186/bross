@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:42:19+05:30",
- "runs": 1437,
+ "updated": "2026-11-20T05:43:08+05:30",
+ "runs": 1438,
  "branches": [
   {
    "id": "platforms",
@@ -2435,6 +2435,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1430
+    },
+    {
+     "t": "YouTube's Family Center is being reworked so parents can set up and switch between several children's accounts like Netflix or Disney profiles, with 77% of European parents already using YouTube's controls, which means more kids will watch inside supervised profiles where made for kids songs are the safe default.",
+     "src": "heise online, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1438
     }
    ]
   },
@@ -18801,6 +18808,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1435
+    },
+    {
+     "t": "An August 2026 settlement between a group of US states and Meta requires Meta to detect and remove users under 13 with an age prediction model, so kids reaching our Instagram Reels directly will shrink further; our Reels should speak to parents (the account is run by an adult for families) while the songs themselves stay for children.",
+     "src": "ESRB Privacy Certified, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1438
+    },
+    {
+     "t": "State attorneys general in the US increasingly pursue kids' harms under their own consumer protection and privacy laws rather than COPPA, because 'directed to children' is hard to prove, so a clearly kids directed channel like ours is safest by labelling every video made for kids and leaving comments and personalised ads off as YouTube already enforces.",
+     "src": "ESRB Privacy Certified, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1438
     }
    ]
   },
@@ -24757,11 +24778,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-19 23:37",
-   "note": "Run 1359 (TRENDS (SocialPilot Reels week of 17 Nov)): Most Reels audios this week (Pink Floyd then and now, Blue Danube chores ballet, Stop the Wedding, Christmas market tours) were already in the tree; added the lights switched on holiday reveal and the small happy moments montage, plus a 'Lights on reveal' trend bank entry using our own song. Chrome not available. Total 3366."
+   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 23:38",
@@ -25074,6 +25091,10 @@
   {
    "date": "2026-11-20 05:42",
    "note": "Run 1437 (TRENDS (dance studio clips, lifts to avoid, year end recaps)): Thin week for new formats: Instagram and YouTube feature news (First Draft, Shorts series, custom feeds) was already in the tree. Added: youth dance studio group routines to retro disco songs keep earning millions of likes, the ballroom 'air walk' lift copy trend is one to avoid (people even hold babies flat in the air), and Spotify Wrapped 2026 is reported for Wednesday 2 Dec but still unconfirmed. Chrome not available. Total 3523."
+  },
+  {
+   "date": "2026-11-20 05:43",
+   "note": "Run 1438 (rules and safety (under 13 detection, Family Center profiles)): COPPA dates, the Disney label case, COPPA 2.0 and YouTube's teen Shorts limits were already in the tree. New: an Aug 2026 multistate settlement made Meta detect and remove under 13 users with an age model, and YouTube's Family Center is moving to Netflix style profiles for several children, which makes per child kids viewing easier for parents. Chrome not available. Total 3526."
   }
  ],
  "history": [
@@ -26096,6 +26117,10 @@
   {
    "date": "2026-11-20 05:42",
    "total": 3523
+  },
+  {
+   "date": "2026-11-20 05:43",
+   "total": 3526
   }
  ],
  "next_week_ideas": [
