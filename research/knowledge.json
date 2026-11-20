@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T05:00:23+05:30",
- "runs": 1720,
+ "updated": "2026-11-21T05:01:11+05:30",
+ "runs": 1721,
  "branches": [
   {
    "id": "platforms",
@@ -9519,6 +9519,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1717
+    },
+    {
+     "t": "CoComelon's 'Healthy Habits and Routines' spin off channel (started Jun 2023) has 1.04M subscribers and 734M views, gained about 40K subscribers and 47M views in the 28 days to 20 Nov 2026 from about 24 uploads (many are Shorts such as a healthy snacks clip), so a single theme channel built only on routines can grow steadily inside a big brand.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1721
+    },
+    {
+     "t": "The top video on CoComelon's routines spin off is a classic egg nursery rhyme turned into an egg drop science experiment (about 58M views), showing that adding a hands on 'let's find out' twist to a familiar rhyme beats a plain retelling.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1721
+    },
+    {
+     "t": "CoComelon also runs a 'Nursery Loops' channel of 30 minute karaoke style loops of single songs (for example a rocketship song), which reached about 974K subscribers and about 290M views within its first two years (vidIQ snapshot from Aug 2025), so long single song loops with on screen lyrics are a proven extra format for a song catalogue.",
+     "src": "vidIQ, Nov 2026 (data from Aug 2025)",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1721
     }
    ]
   },
@@ -28093,10 +28114,6 @@
   },
   {
    "date": "2026-11-20 19:47",
-   "note": "Run 1642 (TRENDS (Virlo 18 Nov, SocialPilot TikTok 17 to 25 Nov recheck)): Nothing new: Virlo's 18 Nov topics are adult news, games and film (a big game launch, a teen film release), and SocialPilot's TikTok formats (camera shy, You're Under Arrest arm move, same spot years apart, moon reveal) and the Christmas audio wave were already filed. No leaves added. Chrome not available. Total 3845."
-  },
-  {
-   "date": "2026-11-20 19:47",
    "note": "Run 1643 (our own results (Metricool YouTube and Reels, 14 to 20 Nov)): Metricool YouTube data still stops at 18 Nov; our long videos of 14 to 18 Nov hold viewers only about 11 to 20 seconds on average, longest on the story songs (picnic ants, elephant sneeze, sandcastle, 20 s) and shortest on the digger song (11 s); the 19 Nov Reels stayed at 4 and 9 views more than a day later, no late pickup. No 20 Nov data yet. Chrome not available. Total 3847."
   },
   {
@@ -28406,13 +28423,13 @@
   {
    "date": "2026-11-21 05:00",
    "note": "Run 1720 (POSTING TIMES (Metricool best times 21 to 27 Nov rechecked for YouTube and Instagram)): No change: Metricool still puts YouTube at 16:00 IST every day (Wednesday 16:00 strongest at about 12.0K, Friday 10:00 and 16:00 nearly tied, weekend plateau 16:00 to 18:00) and Instagram at 10:00 IST, all already filed, so both daily slots stay as they are. No leaves added. Chrome not available. Total 3999."
+  },
+  {
+   "date": "2026-11-21 05:01",
+   "note": "Run 1721 (competitor deep dive (CoComelon spin off channels: Healthy Habits and Routines, Nursery Loops)): New: CoComelon's healthy habits and routines spin off (started Jun 2023) has 1.04M subscribers and about 47M views a month from about 6 uploads a week, many of them Shorts, and its top video is a science experiment twist on a classic egg rhyme (58M); a 30 minute karaoke loop spin off reached about 974K subscribers within two years, so theme channels (routines, loops) are how a big brand keeps growing. Chrome not available. Total 4002."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 02:55",
-   "total": 3467
-  },
   {
    "date": "2026-11-20 03:37",
    "total": 3472
@@ -29608,6 +29625,10 @@
   {
    "date": "2026-11-21 05:00",
    "total": 3999
+  },
+  {
+   "date": "2026-11-21 05:01",
+   "total": 4002
   }
  ],
  "next_week_ideas": [
