@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:40:48+05:30",
- "runs": 1590,
+ "updated": "2026-11-20T17:35:53+05:30",
+ "runs": 1591,
  "branches": [
   {
    "id": "platforms",
@@ -9015,6 +9015,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1588
+    },
+    {
+     "t": "Spain's Cleo and Cuquin was relaunched with YouTube exclusive content and that digital comeback led HBO Max to commission a second Cuquin season, more proof that a strong YouTube kids brand can later be sold to streamers.",
+     "src": "World Screen TV Kids, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1591
     }
    ]
   },
@@ -17534,6 +17541,41 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1567
+    },
+    {
+     "t": "Ampere's June 2026 kids report for Telefilm Canada says animated kids shows sell far beyond English and French speaking markets while live action rarely does, which supports keeping Bro Bros fully animated so dubs can travel.",
+     "src": "Ampere Analysis via Telefilm, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1591
+    },
+    {
+     "t": "The same Ampere report shows global linear TV spending on kids and family content fell from about 5.4 billion US dollars in 2020 to 3.7 billion in 2025 and animation commissions fell about 7% a year, so broadcasters now prefer existing characters and buy from proven YouTube brands instead of new shows.",
+     "src": "Ampere Analysis via Telefilm, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1591
+    },
+    {
+     "t": "Canadian kids content reached 22 foreign markets in 2025, with the US, Australia and the UK as the main English buyers and France and Belgium for French, a sign that English first then French and Spanish is a sensible dub order for Western markets.",
+     "src": "Ampere Analysis via Telefilm, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1591
+    },
+    {
+     "t": "Industry leaders in World Screen's 2026 trend watch agree YouTube is the clear winner for kids discoverability but pays little at launch; Kedoo says its revenue only builds over time, so a new channel should plan for a slow first year and judge itself on catalogue growth.",
+     "src": "World Screen TV Kids, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1591
+    },
+    {
+     "t": "Uganda's Masaka Kids Afrikana, a channel of choreographed African dance routines, is estimated at about 1.34 million US dollars in lifetime YouTube ad revenue, among Africa's top earners, showing that joyful group dance videos travel worldwide even without English lyrics.",
+     "src": "Legit.ng citing CashNetUSA and Social Blade, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1591
     }
    ]
   },
@@ -26437,11 +26479,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1511 (YouTube top channels (Tubefilter most viewed, week of 15 Nov)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 10:40",
-   "note": "Run 1512 (posting times (Metricool YouTube 21 to 27 Nov)): Metricool's YouTube model for 21 to 27 Nov again peaks at 16:00 IST (Wednesday about 12.0K, Thursday 12.0K, weekends about half) with 10:00 IST second, the same pattern already in the tree, so the posting plan is unchanged. No leaves added. Chrome not available. Total 3633."
+   "note": "Summary of older entries: runs up to Run 1512 (posting times (Metricool YouTube 21 to 27 Nov)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 10:46",
@@ -26754,6 +26792,10 @@
   {
    "date": "2026-11-20 16:40",
    "note": "Run 1590 (topics and seasons (Christmas 2026 toy lists)): New: heal the pet plush with a doctor kit and pretend kitchen and food play are on both retail and editor toy lists for 2026, backing a pretend vet song and more cooking songs; squishy, slime and audio player trends were already filed. Chrome not available. Total 3763."
+  },
+  {
+   "date": "2026-11-20 17:35",
+   "note": "Run 1591 (global markets (Ampere kids report, World Screen 2026 trend watch, Africa earners)): New: Ampere for Telefilm (Jun 2026) found animation travels beyond English and French markets far better than live action and that kids content is shifting to existing characters; World Screen's 2026 outlook calls YouTube the clear discovery winner, with Cleo and Cuquin's YouTube exclusives winning an HBO Max season; Uganda's Masaka Kids Afrikana dance channel is among Africa's top YouTube earners. Chrome not available. Total 3769."
   }
  ],
  "history": [
@@ -27744,6 +27786,10 @@
   {
    "date": "2026-11-20 16:40",
    "total": 3763
+  },
+  {
+   "date": "2026-11-20 17:35",
+   "total": 3769
   }
  ],
  "next_week_ideas": [
