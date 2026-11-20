@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T19:47:31+05:30",
- "runs": 1643,
+ "updated": "2026-11-20T20:42:56+05:30",
+ "runs": 1644,
  "branches": [
   {
    "id": "platforms",
@@ -26998,6 +26998,41 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1639
+    },
+    {
+     "t": "Pantone's 2027 Colour of the Year has not been named yet (as of 18 Nov 2026); it is expected in the first week of December, with one home site citing a reveal event in Miami on 3 Dec, so a 'guess the colour' or 'paint the world one colour' Short posted the same day can ride a yearly global news moment.",
+     "src": "colorcombinations.org and homenish.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1644
+    },
+    {
+     "t": "An unconfirmed leak on X names Pantone's 2027 colour as a light aqua ('Aqua Splash'); until Pantone confirms it in early December, treat it as a rumour and do not build a song around it.",
+     "src": "X (leak post), Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1644
+    },
+    {
+     "t": "The 2027 colours of the year already named by paint brands (about 18 picks from Aug to Nov 2026) are mostly muted earthy greens, soft blues, clay pinks and browns; for kids videos these work only as calm backgrounds, with the Bros' bright saturated outfits kept on top for contrast.",
+     "src": "colorcombinations.org, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1644
+    },
+    {
+     "t": "Virlo's November 2026 TikTok hub tracks 76 trends but only 24 are new, rising or peaking on 20 Nov, and its top ten are a risky acrobatic lift, couple montages, makeup transitions and pranks; no new kid safe dance started between 13 and 20 Nov, so this week's best bets stay the formats already in our trend bank.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1644
+    },
+    {
+     "t": "The Thank You Baby Dance has moved to Virlo's archived stage (only 3 new creators a week) after about 315M views, so its 'kind thing, then happy dance' pattern is best used once more for US Thanksgiving week (26 Nov) and then retired.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1644
     }
    ]
   }
@@ -27025,11 +27060,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1564 (music craft (speech versus song word learning)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 14:42",
-   "note": "Run 1565 (visual craft (flat 3D over painted backdrops)): New: Ada's pipeline of flat rendered 3D characters over painted 2D backgrounds with one restricted palette per episode, a cheap way to make each song look distinct. Toy Story 5's pastel lighting and Test and Compare data were already filed. Chrome not available. Total 3731."
+   "note": "Summary of older entries: runs up to Run 1565 (visual craft (flat 3D over painted backdrops)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 15:35",
@@ -27342,6 +27373,10 @@
   {
    "date": "2026-11-20 19:47",
    "note": "Run 1643 (our own results (Metricool YouTube and Reels, 14 to 20 Nov)): Metricool YouTube data still stops at 18 Nov; our long videos of 14 to 18 Nov hold viewers only about 11 to 20 seconds on average, longest on the story songs (picnic ants, elephant sneeze, sandcastle, 20 s) and shortest on the digger song (11 s); the 19 Nov Reels stayed at 4 and 9 views more than a day later, no late pickup. No 20 Nov data yet. Chrome not available. Total 3847."
+  },
+  {
+   "date": "2026-11-20 20:42",
+   "note": "Run 1644 (TRENDS (Virlo November hub, Know Your Meme October poll, December films, colour of the year)): Small find: no new kid safe dance began this week on Virlo (top rising items are adult or unsafe); the Thank You Baby Dance is archived so it is marked fading after Thanksgiving; Pantone's 2027 colour reveal is due about 3 Dec (an aqua leak is unconfirmed); December film dates were already filed. Chrome not available. Total 3852."
   }
  ],
  "history": [
@@ -27368,10 +27403,6 @@
   {
    "date": "2026-11-19 21:00",
    "total": 3326
-  },
-  {
-   "date": "2026-11-19 22:35",
-   "total": 3354
   },
   {
    "date": "2026-11-19 22:41",
@@ -28544,6 +28575,10 @@
   {
    "date": "2026-11-20 19:47",
    "total": 3847
+  },
+  {
+   "date": "2026-11-20 20:42",
+   "total": 3852
   }
  ],
  "next_week_ideas": [
@@ -28638,7 +28673,7 @@
   {
    "name": "Thank you happy dance",
    "where": "TikTok (Thank You Baby Dance, 315M views from about 1,200 videos since 26 Sep 2026, now archived) and a natural fit for US Thanksgiving on 26 Nov",
-   "status": "seasonal",
+   "status": "fading",
    "use": "A 15 second Short and Reel for Thanksgiving week: an on screen line names a small kindness ('Big Bro shared his last cookie'), then Little Bro does a grateful happy dance to our own 'Thank You' chorus, and they swap roles in the second half. Meshy prompt: standing in place, hands on heart, then bounce knees and wave both hands beside the face, then a small hop and a thumbs up, no floor moves."
   },
   {
