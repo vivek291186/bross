@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:43:41+05:30",
- "runs": 1556,
+ "updated": "2026-11-20T13:44:36+05:30",
+ "runs": 1557,
  "branches": [
   {
    "id": "platforms",
@@ -26107,12 +26107,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 07:40",
-   "note": "Summary of older entries: runs up to Run 1477 (YouTube algorithm (Home feed and Shorts ranking recheck)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 07:41",
-   "note": "Run 1478 (Shorts and Reels algorithm (Instagram 2026 changes recheck)): New to the tree: Meta AI voice translation with lip sync for Reels is opt in and covers English, Spanish, Portuguese, Hindi, Bengali, Tamil, Telugu, Marathi and Kannada, a free way to test dubbed Bro Bros Reels in our target languages. No Instagram ranking change dated Sep to Nov 2026 was found beyond what the tree has. Chrome not available. Total 3602."
+   "note": "Summary of older entries: runs up to Run 1478 (Shorts and Reels algorithm (Instagram 2026 changes recheck)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 07:41",
@@ -26425,6 +26421,10 @@
   {
    "date": "2026-11-20 13:43",
    "note": "Run 1556 (global markets (dub track versus separate channel test)): New counter evidence on dubbing: Kapwing's April 2026 single video test found a Spanish dub on a new dedicated channel got about 122 times the views of the same dub added as an audio track on the main Portuguese channel (3,897 against 32 in 90 days), but it is one tutorial video with new packaging and from a dubbing tool vendor, so it does not overturn the kids channel evidence for audio tracks. Chrome not available. Total 3716."
+  },
+  {
+   "date": "2026-11-20 13:44",
+   "note": "Run 1557 (competitor deep dive (ChuChu TV, Moonbug holiday specials)): Nothing new: ChuChu TV's flat subscribers, falling monthly views, Curiosity Corner compilation and Friday long uploads, and Moonbug's holiday special pattern were all already in the tree. No leaves added. Chrome not available. Total 3716."
   }
  ],
  "history": [
@@ -27278,6 +27278,10 @@
   },
   {
    "date": "2026-11-20 13:43",
+   "total": 3716
+  },
+  {
+   "date": "2026-11-20 13:44",
    "total": 3716
   }
  ],
