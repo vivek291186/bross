@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:38:41+05:30",
- "runs": 1475,
+ "updated": "2026-11-20T07:40:06+05:30",
+ "runs": 1477,
  "branches": [
   {
    "id": "platforms",
@@ -4745,6 +4745,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1465
+    },
+    {
+     "t": "A June 2026 creator blog (weak, unnamed sources) claims YouTube now gives more weight to whether a viewer keeps watching after a video and discounts videos that people quickly back out of from recommendations over about seven days, with mid sized channels reporting 20 to 30% fewer impressions; if true, every Bro Bros song should end by leading straight into the next song or a playlist.",
+     "src": "remio.ai, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1477
     }
    ]
   },
@@ -25281,16 +25288,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 01:50",
-   "note": "Summary of older runs (up to Run 1396 (TRENDS (holiday songs and trending lists))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
-  },
-  {
-   "date": "2026-11-20 01:51",
-   "note": "Run 1397 (music craft recheck): Nothing new: the 2026 Verona rhythm training study (rhythm and self control gains, no vocabulary gain) and the infant movement studies were already in the tree; two duplicate leaves added by mistake were merged back out. Chrome not available. Total 3428."
-  },
-  {
    "date": "2026-11-20 01:52",
-   "note": "Run 1398 (posting times recheck (visual craft skipped, thumbnail and pacing sources already in the tree)): Nothing new: Metricool's model for 20 to 26 Nov still peaks YouTube at 16:00 IST (Wednesday about 12.0K, Thursday about 12.0K) and Instagram at 10:00 IST, with weekends about half of weekdays; posting plan unchanged. No leaves added. Chrome not available. Total 3428."
+   "note": "Summary of older runs (up to Run 1398 (posting times recheck (visual craft skipped, thumbnail and pacing sources already in the tree))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
   },
   {
    "date": "2026-11-20 01:53",
@@ -25599,6 +25598,14 @@
   {
    "date": "2026-11-20 07:38",
    "note": "Run 1475 (our own results (Metricool, 19 Nov Reels synced)): The 19 Nov Reels finally synced and are our weakest yet in their first day: farm band (10:00 IST) 4 views with 75% skip and Bubble Gum Pop (16:00 IST) 9 views with 89% skip. YouTube data now reaches 17 Nov (1,036 views that day); subscribers flat at 2,150 with only 6 gained from 14 to 17 Nov. Chrome not available. Total 3598."
+  },
+  {
+   "date": "2026-11-20 07:39",
+   "note": "Run 1476 (TRENDS (December outlook, K-pop challenges, Shorts charts)): Nothing new: December 2025 holiday trend recaps, Google's 2026 holiday report, this week's K-pop challenge lists (Pikki Pikki, ILLIT relay) and the 15 Nov Tubefilter charts were already in the tree. No leaves added. Chrome not available. Total 3598."
+  },
+  {
+   "date": "2026-11-20 07:40",
+   "note": "Run 1477 (YouTube algorithm (Home feed and Shorts ranking recheck)): Mostly known (Joos's two long videos per Home row and satisfied watch time per click). One weakly sourced June 2026 claim added at low confidence: quick back button exits from recommendations are discounted for about a week and keeping the viewer watching after the video counts more, which supports ending every song on the next song or playlist. Chrome not available. Total 3599."
   }
  ],
  "history": [
@@ -26773,6 +26780,14 @@
   {
    "date": "2026-11-20 07:38",
    "total": 3598
+  },
+  {
+   "date": "2026-11-20 07:39",
+   "total": 3598
+  },
+  {
+   "date": "2026-11-20 07:40",
+   "total": 3599
   }
  ],
  "next_week_ideas": [
