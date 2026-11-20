@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:37:22+05:30",
- "runs": 1698,
+ "updated": "2026-11-21T04:37:52+05:30",
+ "runs": 1699,
  "branches": [
   {
    "id": "platforms",
@@ -18528,6 +18528,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1689
+    },
+    {
+     "t": "Hausa language film channels from Northern Nigeria's Kannywood industry have grown into big YouTube audiences (one with about 2.2M subscribers and 288M views, another with about 1.45M and 215M, single episodes at 1.4M to 2.7M views) because YouTube replaced scarce cinemas and TV, which shows a large West African Hausa audience watching on YouTube.",
+     "src": "AllAfrica/Leadership, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1699
+    },
+    {
+     "t": "Some Hausa YouTube productions add English subtitles for viewers who only partly understand Hausa and to reach the diaspora, a reminder that subtitled or dual language versions of our songs can widen reach in multilingual African markets where Hausa, Yoruba and English mix.",
+     "src": "AllAfrica/Leadership, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1699
     }
    ]
   },
@@ -27952,10 +27966,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 18:03",
-   "note": "Run 1620 (TRENDS (weekly social roundups, Shorts holiday trends)): Small find: social calendars list Let's Hug Day (3 Dec) and National Slime Day (7 Dec) among early December observances, two kid friendly hooks that fit our 'So satisfying squish' and 'Ask first' ideas; the #ShortsIRL trends and TikTok's AI slider were older or already filed. Trend bank unchanged. Chrome not available. Total 3815."
-  },
-  {
    "date": "2026-11-20 18:04",
    "note": "Run 1621 (YouTube algorithm (Studio Insights and Research launch 13 Nov)): Nothing new: Studio's Analytics renamed Insights, the outlier based Research tab replacing Trends, Ask Studio on mobile (not for made for kids channels) and the co view metric were all already filed. No leaves added. Chrome not available. Total 3815."
   },
@@ -28266,13 +28276,13 @@
   {
    "date": "2026-11-21 04:37",
    "note": "Run 1698 (TRENDS (Know Your Meme October meme of the month field, Daily Dot gen alpha tag, YouTube Shorts November formats)): Nothing new: the clapping black cat reaction, the AI tiptoe fairy tale clip and the 6 7 chant were already filed, and Daily Dot has no gen alpha pieces newer than January. No leaves added. Chrome not available. Total 3979."
+  },
+  {
+   "date": "2026-11-21 04:37",
+   "note": "Run 1699 (global markets (Hausa language YouTube in Northern Nigeria, auto dubbing languages, YouTube users by country)): Auto dubbing in 27 languages and country user rankings were already filed. New: Hausa language film channels in Northern Nigeria now pull 1.4M to 2.2M subscribers and 200M to 290M views each with English subtitles for partial speakers, showing large non English African language audiences already live on YouTube with no Hausa kids songs serving them. Chrome not available. Total 3981."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 01:53",
-   "total": 3430
-  },
   {
    "date": "2026-11-20 02:41",
    "total": 3430
@@ -29468,6 +29478,10 @@
   {
    "date": "2026-11-21 04:37",
    "total": 3979
+  },
+  {
+   "date": "2026-11-21 04:37",
+   "total": 3981
   }
  ],
  "next_week_ideas": [
