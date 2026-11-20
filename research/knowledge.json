@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:58:10+05:30",
- "runs": 1612,
+ "updated": "2026-11-20T17:59:07+05:30",
+ "runs": 1613,
  "branches": [
   {
    "id": "platforms",
@@ -13341,6 +13341,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1601
+    },
+    {
+     "t": "In the same audit, challenge formats showed only a small, not significant view premium (about +21%) and product placement none, so a challenge label alone does not lift a kids video; the payoff inside the video matters more.",
+     "src": "arXiv 2606.03173, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1613
     }
    ]
   },
@@ -20152,6 +20159,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1608
+    },
+    {
+     "t": "An arXiv audit (Jun 2026) of 4,208 videos from 56 kid centric family channels classed about 26.5% as exploitative and found those videos drew more views within the same channel (emotional bait about +66%, staged conflict about +40%), an association that explains why regulators and YouTube now target upsetting kids packaging; Bro Bros wins attention with surprise and fun, never fake tears or fights.",
+     "src": "arXiv 2606.03173, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1613
     }
    ]
   },
@@ -26738,11 +26752,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1533 (competitor deep dive (Lalafun; ChuChu TV page blocked)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 12:56",
-   "note": "Run 1534 (TRENDS (new this week lists, 16 to 18 Nov)): Most new memes this week are game and film screenshot jokes or teen audio, not kid fit. New: a brand safe 'this year is flying by' month by month recap format started 16 Nov, and the jutsu hand flick transition (each clip ends and starts on the same hand flick toward the camera) is a simple kid safe edit. Trend bank unchanged. Chrome not available. Total 3675."
+   "note": "Summary of older entries: runs up to Run 1534 (TRENDS (new this week lists, 16 to 18 Nov)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 12:57",
@@ -27055,6 +27065,10 @@
   {
    "date": "2026-11-20 17:58",
    "note": "Run 1612 (music craft (Suno's kids music guide, Spotify kids settings)): New: Suno's own kids music page frames a kids song as a game carrier: play party folk sounds (fiddle, banjo picking, hand drum), a refrain that returns fast, a thinned bar for spoken directions and a clean stop for freezes, with example tracks from 30 seconds to 3 minutes; Spotify's kids taste toggle and Wrapped timing were already filed. Chrome not available. Total 3806."
+  },
+  {
+   "date": "2026-11-20 17:59",
+   "note": "Run 1613 (visual craft (titles and kidfluencer engagement audit)): New: a June 2026 audit of 4,208 videos from 56 kid centric family channels found emotional bait and conflict packaging linked to much higher views (emotional bait about +66% within channel), which is exactly the pattern advocates and YouTube's off putting content rules target, so Bro Bros keeps joyful, honest titles; vidIQ's 4M video title study was already filed. Chrome not available. Total 3808."
   }
  ],
  "history": [
@@ -28133,6 +28147,10 @@
   {
    "date": "2026-11-20 17:58",
    "total": 3806
+  },
+  {
+   "date": "2026-11-20 17:59",
+   "total": 3808
   }
  ],
  "next_week_ideas": [
