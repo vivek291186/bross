@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:35:34+05:30",
- "runs": 1472,
+ "updated": "2026-11-20T07:37:14+05:30",
+ "runs": 1473,
  "branches": [
   {
    "id": "platforms",
@@ -25192,6 +25192,27 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1470
+    },
+    {
+     "t": "A 'Talk to me Doja' dance meme started on TikTok on 7 Nov 2026 and spread through the month: people copy a shy anime girl's nervous, jittery little dance from a 2015 anime episode over a pop song, which shows that a cute 'nervous dance' is itself a shareable format.",
+     "src": "Know Your Meme via Yahoo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1473
+    },
+    {
+     "t": "The pop song under the 'Talk to me Doja' meme may have explicit lyrics and the moves come from a licensed anime, so Bro Bros should only borrow the idea of a funny nervous wiggle dance with our own music and our own moves.",
+     "src": "Know Your Meme via Yahoo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1473
+    },
+    {
+     "t": "The 'Remember November 2026 is coming' AI polar bear edits (revived Aug 2026, often eerie) were built on waiting for this month and will fade as November ends, so they are not worth adapting.",
+     "src": "Know Your Meme, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1473
     }
    ]
   }
@@ -25218,12 +25239,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 01:48",
-   "note": "Summary of older runs (up to Run 1393 (TRENDS (kid playground and game dances))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
-  },
-  {
    "date": "2026-11-20 01:49",
-   "note": "Run 1394 (YouTube algorithm recheck): Nothing new: the 1 Oct Shorts originality update, the reduced long form home feed rows, the Feb 2027 Partner Program bar, template sleep compilation suspensions and the reach re-evaluation after a switch to original work were all already in the tree; no November 2026 algorithm change was found. No leaves added. Chrome not available. Total 3424."
+   "note": "Summary of older runs (up to Run 1394 (YouTube algorithm recheck)): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
   },
   {
    "date": "2026-11-20 01:50",
@@ -25536,6 +25553,10 @@
   {
    "date": "2026-11-20 07:35",
    "note": "Run 1472 (competitor deep dive (Lalafun and Bebefinn newest uploads)): Bebefinn's newest is a feelings song ('Why are you crying? Use your words', 18 Nov, about 196K views in 13 hours) while Lalafun's newest animal version of an old rhyme started slowly (about 44K in 39 hours); neither had a Christmas upload by 19 Nov. Added a feelings words song idea. Chrome not available. Total 3589."
+  },
+  {
+   "date": "2026-11-20 07:37",
+   "note": "Run 1473 (TRENDS (anime nervous dance, SocialPilot 17 to 25 Nov recheck)): New: a 'Talk to me Doja' nervous dance meme (started 7 Nov 2026, copies a shy anime character's jittery little dance) spread through November; we keep the nervous wiggle idea with our own song, never the pop track or the anime moves. SocialPilot's 17 to 25 Nov lists held nothing beyond what the tree already has. Dropped the fading clapping pet applause item. 'Remember November 2026' polar bear edits are ending with the month and are eerie, so skipped. Chrome not available. Total 3592."
   }
  ],
  "history": [
@@ -26698,6 +26719,10 @@
   {
    "date": "2026-11-20 07:35",
    "total": 3589
+  },
+  {
+   "date": "2026-11-20 07:37",
+   "total": 3592
   }
  ],
  "next_week_ideas": [
@@ -26760,6 +26785,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Nervous little dance",
+   "where": "TikTok, Reels",
+   "status": "rising",
+   "use": "Little Bro is about to sing on stage and gets nervous: standing in place he taps his fingertips together, bounces on his toes, wiggles his shoulders fast and glances side to side; Big Bro gives a thumbs up and the nervous wiggle turns into the full chorus dance. Meshy prompt: standing, in place, quick small shoulder shimmy and toe bounces with fingertips tapping in front of the chest, head glancing left and right. Our own original song only."
+  },
+  {
    "name": "Cover the lens reveal",
    "where": "TikTok and Reels transition ('cover then come back'), Nov 2026",
    "status": "rising",
@@ -26794,12 +26825,6 @@
    "where": "YouTube Shorts and Reels daily December series (Vlogmas, Shortsmas), 1 to 24 Dec",
    "status": "seasonal",
    "use": "From 1 Dec post one 15 second Short a day: a big wooden advent calendar, the Bros count 'one, two, three, open!' and a door pops open to show a soft squishy toy we invent (a snow bunny, a jam donut bear) plus one new dance step from our own Christmas song. Steps for Meshy: standing, knock knock on the air twice with one fist, then pull an imaginary door open with both hands and jump in place with arms up. On 24 Dec post the full song with all 24 steps as one dance."
-  },
-  {
-   "name": "Clapping pet applause",
-   "where": "Reels and TikTok green screen format (AI black cat clapping, Oct to Nov 2026)",
-   "status": "rising",
-   "use": "End a Short with a 2 second cut in of our own cartoon pet (never the viral cat) standing up and clapping happily at the Bros' dance, with a caption like 'Even Biscuit says bravo!'. Meshy prompt for the Bros' bow before it: standing in place, small bow, then clap hands above head four times."
   },
   {
    "name": "That is not Grandma!",
