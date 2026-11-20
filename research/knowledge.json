@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T19:47:02+05:30",
- "runs": 1642,
+ "updated": "2026-11-20T19:47:31+05:30",
+ "runs": 1643,
  "branches": [
   {
    "id": "platforms",
@@ -21279,6 +21279,20 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1583
+    },
+    {
+     "t": "Across our nine long videos of 14 to 18 Nov 2026 the average view lasted only about 11 to 20 seconds; story songs held longest (picnic ant parade, Hindi elephant sneeze, sandcastle vs the wave, about 20 s each) and the digger construction song shortest (about 11 s), so the first 20 seconds of every song need a story hook (a problem to solve) rather than a long intro.",
+     "src": "Metricool brand data, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1643
+    },
+    {
+     "t": "More than a day after posting, our 19 Nov 2026 Reels were still at 9 views (Bubble Gum Beach, 89% skipped in the first 3 seconds) and 4 views (farm animal band, 75% skipped), confirming that a Reel which opens slowly gets no late pickup; the two 18 Nov Reels that opened on an instant action passed 110 views each.",
+     "src": "Metricool brand data, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1643
     }
    ]
   },
@@ -27011,11 +27025,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1563 (TRENDS (Gen Alpha slang safety, Roblox recheck)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 14:41",
-   "note": "Run 1564 (music craft (speech versus song word learning)): New counter evidence: four year olds learned new words a little better from clear speech than from song, so teaching songs should speak each new word once before singing it. Baby Shark's Spotify milestone and the infant singing studies were already filed. Chrome not available. Total 3730."
+   "note": "Summary of older entries: runs up to Run 1564 (music craft (speech versus song word learning)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 14:42",
@@ -27328,6 +27338,10 @@
   {
    "date": "2026-11-20 19:47",
    "note": "Run 1642 (TRENDS (Virlo 18 Nov, SocialPilot TikTok 17 to 25 Nov recheck)): Nothing new: Virlo's 18 Nov topics are adult news, games and film (a big game launch, a teen film release), and SocialPilot's TikTok formats (camera shy, You're Under Arrest arm move, same spot years apart, moon reveal) and the Christmas audio wave were already filed. No leaves added. Chrome not available. Total 3845."
+  },
+  {
+   "date": "2026-11-20 19:47",
+   "note": "Run 1643 (our own results (Metricool YouTube and Reels, 14 to 20 Nov)): Metricool YouTube data still stops at 18 Nov; our long videos of 14 to 18 Nov hold viewers only about 11 to 20 seconds on average, longest on the story songs (picnic ants, elephant sneeze, sandcastle, 20 s) and shortest on the digger song (11 s); the 19 Nov Reels stayed at 4 and 9 views more than a day later, no late pickup. No 20 Nov data yet. Chrome not available. Total 3847."
   }
  ],
  "history": [
@@ -28526,6 +28540,10 @@
   {
    "date": "2026-11-20 19:47",
    "total": 3845
+  },
+  {
+   "date": "2026-11-20 19:47",
+   "total": 3847
   }
  ],
  "next_week_ideas": [
