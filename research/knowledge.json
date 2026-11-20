@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:38:06+05:30",
- "runs": 1474,
+ "updated": "2026-11-20T07:38:41+05:30",
+ "runs": 1475,
  "branches": [
   {
    "id": "platforms",
@@ -19970,6 +19970,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1429
+    },
+    {
+     "t": "Our 19 Nov 2026 Reels synced to Metricool by 07:40 IST on 20 Nov and are the weakest start so far: the farm animal band Reel (10:00 IST) had 4 views from 4 people with 75% skipping in the first 3 seconds, and Bubble Gum Pop (16:00 IST) 9 views with 89% skipping and about 2.3 seconds watched.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1475
+    },
+    {
+     "t": "Our 16:00 IST Reels are stalling: the 17 Nov boo boo bandage Reel has only 13 views after three days and Bubble Gum Pop 9 after a day, while the 10:00 IST Reels of 17 and 18 Nov reached 31 and 127, so the morning Reel slot keeps winning on Instagram.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1475
+    },
+    {
+     "t": "Metricool's YouTube data now runs to 17 Nov 2026: about 1,036 views that day, and subscribers sat at 2,150 all week with only 6 gained and none lost from 14 to 17 Nov, so our long videos hold steady daily views but are not yet converting viewers into subscribers.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1475
     }
    ]
   },
@@ -25261,11 +25282,7 @@
  "log": [
   {
    "date": "2026-11-20 01:50",
-   "note": "Summary of older runs (up to Run 1395 (Shorts and Reels algorithm (Instagram tools))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
-  },
-  {
-   "date": "2026-11-20 01:50",
-   "note": "Run 1396 (TRENDS (holiday songs and trending lists)): Added that a Halloween songs playlist led the US trending list on 1 Nov with a third of the top 20 uploaded in the past day, and that last year's top viral hook was successfully mashed into a winter classic at the start of the season. An article about an 80s Christmas hit returning could not be read. Chrome not available. Total 3428."
+   "note": "Summary of older runs (up to Run 1396 (TRENDS (holiday songs and trending lists))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
   },
   {
    "date": "2026-11-20 01:51",
@@ -25578,6 +25595,10 @@
   {
    "date": "2026-11-20 07:38",
    "note": "Run 1474 (rules, safety and monetisation (Animaj AI deal details, Denmark under 15 law)): Two details new to the tree: Animaj's infant channel network (led by Hey Kids, 4M plus subscribers) pulled more than 22B views in 2025 and the Google AI fund deal gives it exclusive early access to Google's video AI tools; Denmark's under 15 ban plans a state age check app with parent approval possible from 13. Other rules news found was already in the tree. Chrome not available. Total 3595."
+  },
+  {
+   "date": "2026-11-20 07:38",
+   "note": "Run 1475 (our own results (Metricool, 19 Nov Reels synced)): The 19 Nov Reels finally synced and are our weakest yet in their first day: farm band (10:00 IST) 4 views with 75% skip and Bubble Gum Pop (16:00 IST) 9 views with 89% skip. YouTube data now reaches 17 Nov (1,036 views that day); subscribers flat at 2,150 with only 6 gained from 14 to 17 Nov. Chrome not available. Total 3598."
   }
  ],
  "history": [
@@ -26748,6 +26769,10 @@
   {
    "date": "2026-11-20 07:38",
    "total": 3595
+  },
+  {
+   "date": "2026-11-20 07:38",
+   "total": 3598
   }
  ],
  "next_week_ideas": [
