@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:49:00+05:30",
- "runs": 1602,
+ "updated": "2026-11-20T17:49:43+05:30",
+ "runs": 1603,
  "branches": [
   {
    "id": "platforms",
@@ -17639,6 +17639,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1601
+    },
+    {
+     "t": "The most viewed kids song by a Japanese artist on YouTube is a plain toothbrushing song (about 110M views), almost three times the next one, a hotcake cooking song from NHK's preschool show (38M), so daily routine songs (brushing teeth, cooking) are the strongest original kids songs in Japan, which backs our toothbrushing and kitchen songs for a Japanese dub.",
+     "src": "Soundcharts, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1603
+    },
+    {
+     "t": "Apart from routine songs, Japan's kids top 40 on YouTube is dominated by franchise music (about ten Pokémon tracks, Japanese versions of Frozen songs, Sofia the First, Doraemon, Anpanman) and a rock paper scissors hand game song, so a hand game or finger play song is the most natural original Bro Bros format to test in Japan.",
+     "src": "Soundcharts, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1603
     }
    ]
   },
@@ -26619,11 +26633,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1523 (rules, safety and monetisation (Nov 2026 policy check)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 12:42",
-   "note": "Run 1524 (YouTube main and YouTube Kids movers (vidIQ 19 Nov, Tubefilter 15 Nov)): Tubefilter's 9 to 15 Nov chart and CreatorDB's content farm census were already filed. New from vidIQ's 19 Nov fastest growing list: VocaVoca is the only pure kids song channel in the top 50 (about 1.1M new subscribers in 30 days, 11.1M total), and the Hindi rhyme giant Jugnu Kids sits at zero subscriber growth despite 22 uploads a month. Chrome not available. Total 3651."
+   "note": "Summary of older entries: runs up to Run 1524 (YouTube main and YouTube Kids movers (vidIQ 19 Nov, Tubefilter 15 Nov)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 12:43",
@@ -26936,6 +26946,10 @@
   {
    "date": "2026-11-20 17:49",
    "note": "Run 1602 (topics and seasons (Pinterest parenting report, Google holiday toy searches; TRENDS skipped as already rechecked)): Nothing new: Pinterest's 2026 parenting report (sensory play, routine charts, pretend food, movement activities), the 194% rise in UK wooden toy searches and Google's Holiday 100 were all already filed. No leaves added. Chrome not available. Total 3789."
+  },
+  {
+   "date": "2026-11-20 17:49",
+   "note": "Run 1603 (global markets (Japan kids song chart)): New: Soundcharts' Japan kids list is topped by a simple toothbrushing song (about 110M YouTube views), far ahead of a hotcake song from NHK's preschool show (38M), proof that a daily routine song can be a country's biggest kids hit; the rest (anime themes, Japanese Disney versions) was already filed. Chrome not available. Total 3791."
   }
  ],
  "history": [
@@ -27974,6 +27988,10 @@
   {
    "date": "2026-11-20 17:49",
    "total": 3789
+  },
+  {
+   "date": "2026-11-20 17:49",
+   "total": 3791
   }
  ],
  "next_week_ideas": [
