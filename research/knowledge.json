@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:37:33+05:30",
- "runs": 1568,
+ "updated": "2026-11-20T15:43:41+05:30",
+ "runs": 1569,
  "branches": [
   {
    "id": "platforms",
@@ -26256,6 +26256,27 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1566
+    },
+    {
+     "t": "TikTok's own 2024 holiday trend report named tree decorating time lapses, gift wrapping tutorials and techno or dance remixes of classic carols (a techno 'Rockin' Around the Christmas Tree' was the breakout sound) as the season's top formats, a pattern that returns each December.",
+     "src": "Mediaweek, Dec 2024",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1569
+    },
+    {
+     "t": "A fast 'decorate the tree in 15 seconds' time lapse is a proven December format we can animate cheaply: one fixed camera, the Bros add ornaments in quick cuts and the tree lights up on the final beat of our own song.",
+     "src": "Our idea from Mediaweek, Dec 2024",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1569
+    },
+    {
+     "t": "A Daily Dot report (Jul 2025) says many Gen Alpha kids treat fart and toilet jokes as normal body stuff rather than funny, so a gag built only on a fart sound is a weaker laugh for older kids than surprise, slapstick or silly voices.",
+     "src": "Daily Dot, Jul 2025",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1569
     }
    ]
   }
@@ -26283,11 +26304,7 @@
  "log": [
   {
    "date": "2026-11-20 08:43",
-   "note": "Summary of older entries: runs up to Run 1489 (YouTube algorithm (November updates roundups)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 08:46",
-   "note": "Run 1490 (Shorts and Reels (YouTube weekly music charts 6 to 12 Nov, Instagram updates)): New from YouTube's 6 to 12 Nov charts: Christmas songs already take about 15% of UK and 7% of US chart views two weeks before December, the global No. 1 climbed slowly over eight weeks with about half its views from fan and lyric uploads, and paid debut hits fell 45 to 88% in week two. Instagram's 90 minute video test was already in the tree. Chrome not available. Total 3614."
+   "note": "Summary of older entries: runs up to Run 1490 (Shorts and Reels (YouTube weekly music charts 6 to 12 Nov, Instagram updates)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 08:47",
@@ -26600,6 +26617,10 @@
   {
    "date": "2026-11-20 15:37",
    "note": "Run 1568 (competitor deep dive (CoComelon spin off channels)): New: CoComelon's animal spin off channel Stay Paw-sitive (2.91M subscribers) posts about 19 videos a month for about 22M to 32M monthly views, and its 17 Nov upload is a vacuum rescue song, backing our Vroom Vroom Vacuum idea; CoComelon also runs a loops channel of 30 minute and 1 hour single song loops. Other vidIQ pages for BabyBus and Dance Party were stale (2025) and not used. Chrome not available. Total 3741."
+  },
+  {
+   "date": "2026-11-20 15:43",
+   "note": "Run 1569 (TRENDS (holiday formats from past seasons, Gen Alpha humour)): Thin round: TikTok discover pages refuse automated reading and the newest trend pages were already filed. New: tree decorating time lapses and techno remixes of classic carols were the breakout holiday TikTok formats of the 2024 season, and a Daily Dot piece says Gen Alpha shrugs at fart jokes, so toilet humour is a weaker laugh than we assume. Trend bank: one seasonal entry. Chrome not available. Total 3744."
   }
  ],
  "history": [
@@ -27502,6 +27523,10 @@
   {
    "date": "2026-11-20 15:37",
    "total": 3741
+  },
+  {
+   "date": "2026-11-20 15:43",
+   "total": 3744
   }
  ],
  "next_week_ideas": [
@@ -27563,6 +27588,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Tree decorating time lapse",
+   "where": "TikTok, Reels and Shorts every December",
+   "status": "seasonal",
+   "use": "Fixed camera on a bare tree; in quick cuts the Bros hang one ornament per beat of our own upbeat Christmas song, then both jump back and the tree lights up on the last beat. Dance at the end: standing in place, clap twice above the head, then sway side to side with arms up like a tree."
+  },
   {
    "name": "How Little Bro sees Big Bro",
    "where": "TikTok slideshow, flipped for Reels and Shorts",
@@ -27676,12 +27707,6 @@
    "where": "YouTube Shorts, Instagram Reels (first snow already hit the US interior Northeast, Mid Atlantic and Michigan on 12 to 14 Nov 2026; more first snows through December)",
    "status": "rising",
    "use": "A 15 second Short with our own 'Snow day, no school!' hook: the little brother looks out of the window, sees snow, turns to camera with a huge smile, then both Bros do a happy dance: four quick jumps in place with fists pumping, two wiggles side to side, then arms flung up as snow falls. Meshy prompt: standing in place, excited jumps with fist pumps, hip wiggle left and right, both arms up. Caption 'When it snows for the first time'."
-  },
-  {
-   "name": "Perfect versus real Christmas",
-   "where": "Instagram Reels, TikTok (parents, December)",
-   "status": "seasonal",
-   "use": "A 12 second split screen Reel set to our own jingly holiday song: left side 'Instagram Christmas' shows a calm, neat beige tree; right side 'Bros Christmas' shows the brothers piling on every bright ornament, tinsel on their heads and the little brother tangled in lights, then both sides cut to the Bros doing a happy two step and a big arms up pose. Meshy prompt: standing in place, side step left and right with claps, then both arms up. Caption 'Which tree is yours?'."
   }
  ],
  "posting_plan": {
