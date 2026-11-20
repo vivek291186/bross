@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T04:39:33+05:30",
- "runs": 1430,
+ "updated": "2026-11-20T05:36:14+05:30",
+ "runs": 1431,
  "branches": [
   {
    "id": "platforms",
@@ -24562,6 +24562,48 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1428
+    },
+    {
+     "t": "By 13 Nov 2026 the bouncy 'Deck the Halls' remix dance had turned into an AI trend where people upload a dance clip plus photos of two real people (often celebrities) to Kling or a CapCut template to make them do the routine in Christmas pyjamas; we keep the routine idea with our own Bros only and never animate real people's faces.",
+     "src": "The Tab, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1431
+    },
+    {
+     "t": "'Black Cat Clapping', an AI clip of a cat applauding and trying to shake hands after being fed, reached millions of Reels and TikTok views in Oct 2026 and became a green screen reaction format dropped into funny situations; a short cut in of our own cartoon pet clapping at the end of a song is a kid safe way to borrow the applause reaction.",
+     "src": "Know Your Meme, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1431
+    },
+    {
+     "t": "The 'you're blatantly just not me nan' skit audio (a wolf caught pretending to be a grandma) keeps powering memes with dogs dressed as people and Little Red Riding Hood scenes into autumn 2026, so the public domain fairy tale 'that is not Grandma!' reveal is a joke kids and parents already recognise.",
+     "src": "Know Your Meme, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1431
+    },
+    {
+     "t": "A 30 second Suno made song telling a sister's complaint that Thanksgiving guests never help clean up (posted 5 Nov 2026) drew about 225K views and 3,500 comments in 12 days, showing short sung family stories about a holiday chore spark parent conversation; our kid version is a cheerful 'everybody helps clean up' song after the big dinner.",
+     "src": "Daily Dot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1431
+    },
+    {
+     "t": "Tokchart's worldwide top 10 fastest growing TikTok sounds on 19 Nov 2026 were all original audios, covers and Brazilian funk montages (the leader adding about 130K videos a day), with no kids, cartoon or Christmas sound yet, so the December carol wave on TikTok had not started by 19 Nov.",
+     "src": "Tokchart, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1431
+    },
+    {
+     "t": "A January 2026 'winter vibes' challenge was described as a 15 second five move routine (side sway with fluttering hands, snowflake fingers falling from overhead with knee dips, arms crossed cosy twist, a spin, a heart and point freeze), a template for a standing snow dance; the page's view numbers are unverified.",
+     "src": "AcademicJobs blog, Jan 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1431
     }
    ]
   }
@@ -24589,11 +24631,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-19 22:41",
-   "note": "Run 1352 (global markets recheck): Nothing new: auto dubbing in 27 languages, the Vania Mania four channel network case and YouTube users by country were already in the tree. No leaves added. Chrome not available. Total 3358."
+   "note": "Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 22:41",
@@ -24906,6 +24944,10 @@
   {
    "date": "2026-11-20 04:39",
    "note": "Run 1430 (Shorts and Reels algorithm (Meta Q3 freshness signal)): No confirmed Instagram ranking change in Sep to Nov 2026 (third party change log, 18 Nov). New from Meta's 21 Oct earnings call: Reels are now ranked a sequence at a time and nearly 45% of recommended Reels are under one day old, up 11 points in a quarter, so each new Reel's first day matters most. Chrome not available. Total 3499."
+  },
+  {
+   "date": "2026-11-20 05:36",
+   "note": "Run 1431 (TRENDS (AI carol dances, clapping pet, fairy tale imposter memes)): This week's lists were mostly already in the tree. New: the Deck the Halls remix dance has moved to AI videos of real celebrities in pyjamas (a likeness risk we avoid), an AI 'clapping black cat' became a green screen reaction format, the 'not me nan' wolf in the bed audio keeps Little Red Riding Hood jokes alive, and a 30 second Suno family story song about Thanksgiving clean up passed 225K views. Tokchart's 19 Nov top 10 has no kid sounds. Chrome not available. Total 3505."
   }
  ],
  "history": [
@@ -25900,9 +25942,17 @@
   {
    "date": "2026-11-20 04:39",
    "total": 3499
+  },
+  {
+   "date": "2026-11-20 05:36",
+   "total": 3505
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "That's Not Grandma! (Silly Wolf Fairy Tale Song)",
+   "why": "The public domain Little Red Riding Hood reveal is a live meme joke (not me nan audio, autumn 2026); a call and response song (big ears? big eyes? big tail!) with a friendly, never scary wolf who just wants to dance travels in every country. Standing moves: hands as big ears, circle eyes, wiggle tail, point and jump back."
+  },
   {
    "title": "Helping Hands Week! (Kindness Countdown Song)",
    "why": "GivingTuesday (1 Dec 2026) starts a five day Generosity Week; each verse is one easy act a child can do (help tidy, share a toy, carry the shopping, hug grandma, make a card), with a clap and point move for each. Post it on 30 Nov so it is live for 1 Dec; it fits every country and no religion. Standing moves only: clap twice, point out, wave, hug yourself, thumbs up."
@@ -25940,10 +25990,6 @@
    "why": "71% of US kids (81% of 5 to 8 year olds) want parents to play games with them more, up from 58% last year; a game style dance with level up banners where a parent becomes player two fits December family time without naming any real game."
   },
   {
-   "title": "Make a Wish, Shooting Star! (Winter Night Sky Song)",
-   "why": "The Geminids peak on 13 to 14 Dec 2026 under a dark sky and the Christmas Eve full moon is a supermoon; a gentle counting song (count the shooting stars, make a wish, spot the big moon) gives a calm bedtime option that every hemisphere and culture can share."
-  },
-  {
    "title": "Hip Hip Hooray, It's Your Birthday! (Bro Bros Party Dance)",
    "why": "Birthday songs are reused by families every day (the Mexican birthday song is in TikTok's worldwide top 11 this week, and HeyKids' birthday edition passed 26M views); a pause for the child's name and a simple clap, jump and spin dance makes it a year round Reel sound and a long video that never goes out of season."
   },
@@ -25961,6 +26007,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Clapping pet applause",
+   "where": "Reels and TikTok green screen format (AI black cat clapping, Oct to Nov 2026)",
+   "status": "rising",
+   "use": "End a Short with a 2 second cut in of our own cartoon pet (never the viral cat) standing up and clapping happily at the Bros' dance, with a caption like 'Even Biscuit says bravo!'. Meshy prompt for the Bros' bow before it: standing in place, small bow, then clap hands above head four times."
+  },
+  {
+   "name": "That is not Grandma!",
+   "where": "TikTok and Reels ('not me nan' wolf in the bed audio, Little Red Riding Hood memes, autumn 2026)",
+   "status": "rising",
+   "use": "A funny Short on our own song: Little Bro knocks, a 'grandma' in a big nightcap answers, Big Bro peeks and both point and shout 'That's not Grandma!' when a fluffy tail pops out, then the silly wolf joins the dance. Meshy prompt: standing in place, lean forward and peek with hand over eyes, then jump back and point with both arms, then shake hips side to side."
+  },
   {
    "name": "Turn at the front",
    "where": "TikTok and Reels ('Party Funk' style group clips, about 2.7M views, week of 16 Nov 2026)",
@@ -26020,18 +26078,6 @@
    "where": "Instagram Reels (start of holiday season, week of 17 Nov 2026)",
    "status": "seasonal",
    "use": "Open on the Bros' dark living room at night, Little Bro holds the plug, count 3, 2, 1 on screen and on the drop of our own Christmas song the tree, window and garden lights switch on in a wave; both Bros then dance in front of the tree. Meshy prompt: standing in place, both arms shoot up in surprise, two hops on the spot, then sway side to side with hands waving above the head."
-  },
-  {
-   "name": "Costume loading bar",
-   "where": "TikTok, Reels and Shorts (Nov 2026, into December costumes)",
-   "status": "rising",
-   "use": "Bros stand in pyjamas while a cartoon 'loading elf suit' bar fills on screen; freeze for half a beat, then snap cut to both Bros in our own original elf or snowman outfits exactly on the drop of our own song. Dance after the reveal: standing in place, hands on hips, two shoulder bounces, then a jump with both arms up."
-  },
-  {
-   "name": "Dancer versus non dancer",
-   "where": "TikTok, Reels, YouTube Shorts (two person dance format, Nov 2026)",
-   "status": "rising",
-   "use": "A 15 second Short on our own bouncy beat: split screen or side by side, Big Bro labelled 'the dancer' does a clean bounce step (step right, step left, two knee bounces, arms swing), Little Bro labelled 'me' copies it one beat late, bumps into his brother, then nails the last pose and both high five. Meshy prompt: standing in place, step right, step left, two small knee bounces with arm swings, end with a high five pose. Caption 'Which one are you?'."
   },
   {
    "name": "Thankful line up",
