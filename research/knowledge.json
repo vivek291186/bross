@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:55:00+05:30",
- "runs": 1446,
+ "updated": "2026-11-20T05:55:42+05:30",
+ "runs": 1447,
  "branches": [
   {
    "id": "platforms",
@@ -16729,6 +16729,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1435
+    },
+    {
+     "t": "Indonesia's 'Papa dan Cherryo' (2.09M subscribers, about 700M views, 19 Nov 2026) got its biggest hits from beloved local children's songs, a train song compilation (about 180M) and a remix of a five balloons song (about 159M), so Indonesian families respond most to familiar local songs in Bahasa; our Indonesian versions should add local style call and response and check rights before covering any local classic.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1447
+    },
+    {
+     "t": "The same Indonesian channel posted only one video in the 28 days to 19 Nov 2026 (4.9K views in nine days) and has gained zero subscribers since July, with 28 day views down to about 4.5M, a reminder that a mid size kids channel in a big market fades quickly without a steady upload rhythm.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1447
     }
    ]
   },
@@ -18906,6 +18920,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1438
+    },
+    {
+     "t": "Several Indonesian kids song channels put a famous protected train character's name in titles of their own train songs to catch search (one such compilation has about 180M views), a shortcut that risks claims and misleading metadata strikes; Bro Bros train songs should use only our own vehicle names.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1447
     }
    ]
   },
@@ -24893,10 +24914,6 @@
    "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Sum"
   },
   {
-   "date": "2026-11-19 23:42",
-   "note": "Run 1368 (TRENDS recheck (Later and inMagic weekly Reels lists)): Nothing new: five stages of, the fixed camera outfit switch, timestamps, the switch to Christmas, Dame Hombro shoulder bounce, zoom in hidden message and then and now were all already in the tree or trend bank. No leaves added. Chrome not available. Total 3376."
-  },
-  {
    "date": "2026-11-19 23:43",
    "note": "Run 1369 (YouTube algorithm and Studio tools (13 Nov Studio update)): Added YouTube Studio's 13 Nov update: Analytics is now Insights with written summaries, Trends became Research with outlier scores and a 'Watched by my viewers' filter, and the AI card skips made for kids channels. YouTube Kids Shorts timer news was already in the tree. Chrome not available. Total 3379."
   },
@@ -25207,6 +25224,10 @@
   {
    "date": "2026-11-20 05:55",
    "note": "Run 1446 (TRENDS (why kids songs go viral with parents)): No new kid song broke out this week in the sources found; added evergreen lessons from past viral kids songs: a toddler can request Baby Shark with just its 'do do do' sound, a boundaries song spread when parents and a big preschool creator shared it, and a teacher's dumpling making song (with a toy dumpling) charmed adults across cultures. Chrome not available. Total 3542."
+  },
+  {
+   "date": "2026-11-20 05:55",
+   "note": "Run 1447 (global markets (Indonesian kids song channel)): Arabic kids channel pages could not be read. New from Indonesia: a 2.1M subscriber Indonesian kids song channel built its 700M views on local classic songs (a train song compilation 180M, a five balloons remix 159M) but stalled at zero subscriber growth once uploads fell to about one a month, and it leans on a protected train character in titles, which we avoid. Chrome not available. Total 3545."
   }
  ],
  "history": [
@@ -26265,6 +26286,10 @@
   {
    "date": "2026-11-20 05:55",
    "total": 3542
+  },
+  {
+   "date": "2026-11-20 05:55",
+   "total": 3545
   }
  ],
  "next_week_ideas": [
