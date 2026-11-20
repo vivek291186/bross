@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:39:06+05:30",
- "runs": 1587,
+ "updated": "2026-11-20T16:39:44+05:30",
+ "runs": 1588,
  "branches": [
   {
    "id": "platforms",
@@ -9001,6 +9001,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1568
+    },
+    {
+     "t": "Peppa Pig and Sesame Street released their first crossover on 2 Sep 2026, a 1.5 minute 'Muddy Puddles' dance remix that mashes each brand's own puddle jumping song, posted on both YouTube channels, so big kids brands now grow by remixing a shared everyday theme into an upbeat dance track.",
+     "src": "Bleeding Cool, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1588
+    },
+    {
+     "t": "Hasbro made Peppa Pig's first special aimed at parents (premiered 11 Aug 2026 on a podcast's YouTube channel, about parenthood and self care), showing kids brands now court the parent who picks the video as well as the child.",
+     "src": "Hasbro newsroom, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1588
     }
    ]
   },
@@ -11227,6 +11241,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1564
+    },
+    {
+     "t": "Peppa Pig's 'My First Concert' orchestra tour for children from 18 months mixes the show's songs with short famous classical pieces (Nutcracker Russian Dance, Hall of the Mountain King), and sold out across Europe; an original Bro Bros song that quotes a public domain classical melody inside a kids beat is a safe way to borrow that appeal.",
+     "src": "Hasbro newsroom, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1588
     }
    ]
   },
@@ -26401,12 +26422,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 10:37",
-   "note": "Summary of older entries: runs up to Run 1508 (competitor deep dive (Bebefinn, Little Angel dubbed channels)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 10:38",
-   "note": "Run 1509 (TRENDS (Postdom 16 to 22 Nov, NewEngen, KYM, B&T)): Almost everything (Deck the Halls dance, tree goes up, No No No Yes, runway walk, Nicole Kidman handoff, black cat clapping) was already in the tree. One small new leaf: Postdom's earlier scan lists a 'Zany emote in real life' format (acting out a game victory dance for real), which the Bros can copy with their own invented victory move. Bow Bow Bow and 8th Avenue are adult and skipped; trend bank unchanged. Chrome not available. Total 3632."
+   "note": "Summary of older entries: runs up to Run 1509 (TRENDS (Postdom 16 to 22 Nov, NewEngen, KYM, B&T)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 10:39",
@@ -26719,6 +26736,10 @@
   {
    "date": "2026-11-20 16:39",
    "note": "Run 1587 (other platforms (Netflix top 10, kids Christmas albums)): Nothing new: A Dog's Perfect Christmas as Netflix's top family film and Super Simple's 20th anniversary vinyl were already filed; the Peppa Pig and Super Simple Songs mash up page could not be read, so it waits for a later round. No leaves added. Chrome not available. Total 3758."
+  },
+  {
+   "date": "2026-11-20 16:39",
+   "note": "Run 1588 (competitor deep dive (Peppa Pig crossovers)): New: Peppa Pig and Sesame Street's first crossover was a 1.5 minute Muddy Puddles dance remix (2 Sep 2026); Hasbro also made a Peppa special for parents (11 Aug) and runs an orchestra tour that blends Peppa songs with public domain classics. Chrome not available. Total 3761."
   }
  ],
  "history": [
@@ -27697,6 +27718,10 @@
   {
    "date": "2026-11-20 16:39",
    "total": 3758
+  },
+  {
+   "date": "2026-11-20 16:39",
+   "total": 3761
   }
  ],
  "next_week_ideas": [
