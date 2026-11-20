@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:59:09+05:30",
- "runs": 1538,
+ "updated": "2026-11-20T12:59:44+05:30",
+ "runs": 1539,
  "branches": [
   {
    "id": "platforms",
@@ -2540,6 +2540,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1527
+    },
+    {
+     "t": "Shortimize's late 2025 review of about 35B Shorts views found two length peaks, near 13 seconds and at 60 seconds, with 30 to 45 second Shorts underperforming, so Bro Bros Shorts should be either a tight 10 to 15 second chorus loop or a full one minute mini song, not a 35 second cut.",
+     "src": "Shortimize, Dec 2025",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1539
     }
    ]
   },
@@ -19515,6 +19522,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1530
+    },
+    {
+     "t": "Shorts longer than one minute are checked more strictly for music claims (Content ID can block them), which is no risk for our own Suno songs but another reason never to put any outside music, even a few seconds, in a longer Short.",
+     "src": "Shortimize citing YouTube Help, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1539
     }
    ]
   },
@@ -25876,12 +25890,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 06:42",
-   "note": "Summary of older entries: runs up to Run 1458 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 06:43",
-   "note": "Run 1460 (competitor deep dive (Plim Plim English channel, Little Baby Songs)): New: Plim Plim's English channel (2.04M subs) posts 4 to 5 times a week, mixing 1 to 2 hour themed compilations with emoji Shorts, and its 2 minute 'Kindness is My Superpower' song passed 1.1M views in 15 days around World Kindness Day while a 'scared to jump in the water' Short hit 3.1M; a 1M sub nursery channel that slowed to about one upload a month now earns almost nothing. Chrome not available. Total 3571."
+   "note": "Summary of older entries: runs up to Run 1459 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 06:44",
@@ -26194,6 +26204,10 @@
   {
    "date": "2026-11-20 12:59",
    "note": "Run 1538 (YouTube algorithm (YouTube Kids gate, new channel benchmarks)): vidIQ's first 10 videos study and Metricool's 2026 study were already filed. New from YouTube's April 2026 Kids FAQ: the app's curated home has five sections (series, music, learning, discovery, games), new kid profiles get no personal recommendations until they build history, and filters are tightened quickly when a mainstream trend is judged unsuitable; plus Metricool's figure that only 11% of channels under 10K subscribers moved up a size tier in a year. Chrome not available. Total 3683."
+  },
+  {
+   "date": "2026-11-20 12:59",
+   "note": "Run 1539 (Shorts and Reels craft (lengths and Trial Reels)): Trial Reels, loop and hook studies were already filed. New from Shortimize's late 2025 length review: Shorts views peak around 13 seconds and again at 60 seconds while 30 to 45 seconds underperforms, and Shorts over a minute face stricter music claim checks. Chrome not available. Total 3685."
   }
  ],
  "history": [
@@ -26976,6 +26990,10 @@
   {
    "date": "2026-11-20 12:59",
    "total": 3683
+  },
+  {
+   "date": "2026-11-20 12:59",
+   "total": 3685
   }
  ],
  "next_week_ideas": [
