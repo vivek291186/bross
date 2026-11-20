@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:01:37+05:30",
- "runs": 1543,
+ "updated": "2026-11-20T13:02:23+05:30",
+ "runs": 1544,
  "branches": [
   {
    "id": "platforms",
@@ -17219,6 +17219,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1532
+    },
+    {
+     "t": "Moonbug Kids Brasil, a separate Portuguese dub channel, had only about 862K subscribers and about 5.4M views in the 28 days to 19 Nov 2026 from 22 uploads (its newest Short under 1K views in 13 hours), while all its top videos are dubbed Little Angel episodes from 2022 to 2023, more evidence that a separate dub channel grows slowly compared with adding Portuguese audio to the main videos.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1544
+    },
+    {
+     "t": "MBC The Voice Kids (Saudi Arabia, 10.5M subscribers) drew about 49M views in the 28 days to 19 Nov 2026 without a single upload since July, led by one sung performance from May 2026 near 98M views, so Arabic speaking families replay strong sung performances for months; a clear, emotional Arabic sung version of our best song could keep earning long after release.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1544
     }
    ]
   },
@@ -25897,12 +25911,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 06:46",
-   "note": "Summary of older entries: runs up to Run 1463 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 06:47",
-   "note": "Run 1465 (algorithm and posting times (vidIQ 40M video timing study, Metricool recheck)): Metricool's 21 to 27 Nov model again peaks YouTube at 16:00 IST every day (Wednesday about 12,000), so both slots stay. New: vidIQ's study of 40M US long videos finds day of week moves 30 day views only a few percent (Sunday +3.5% best, Wednesday about -2% worst) and hour barely matters by day 30, while picking a channel's strong windows adds 14 to 32% in some categories. Chrome not available. Total 3577."
+   "note": "Summary of older entries: runs up to Run 1464 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 06:48",
@@ -26215,6 +26225,10 @@
   {
    "date": "2026-11-20 13:01",
    "note": "Run 1543 (TRENDS (SocialPilot Reels sounds, 17 to 25 Nov)): Nothing new: all eleven Reels sounds of the week (Christmas classics at peak, Christmas Market instrumental, Blue Danube chores, back to back bump, silly little life, then vs now) were already filed. Trend bank unchanged. Chrome not available. Total 3686."
+  },
+  {
+   "date": "2026-11-20 13:02",
+   "note": "Run 1544 (global markets (Brazil and Arabic)): New: Moonbug's Portuguese channel, a separate Brazilian dub, earns only about 5.4M views a month from 22 uploads, more evidence that separate dub channels lag behind extra audio tracks; and the Arabic singing show channel MBC The Voice Kids still draws about 49M views a month with no upload since July, showing how strongly Arab families replay sung performances. Chrome not available. Total 3688."
   }
  ],
  "history": [
@@ -27017,6 +27031,10 @@
   {
    "date": "2026-11-20 13:01",
    "total": 3686
+  },
+  {
+   "date": "2026-11-20 13:02",
+   "total": 3688
   }
  ],
  "next_week_ideas": [
