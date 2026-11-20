@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T19:45:14+05:30",
- "runs": 1640,
+ "updated": "2026-11-20T19:46:22+05:30",
+ "runs": 1641,
  "branches": [
   {
    "id": "platforms",
@@ -20334,6 +20334,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1631
+    },
+    {
+     "t": "eSafety's three month evaluation of Australia's under 16 social media rules (more than 4,000 children aged 10 to 15 with a parent, follow up Mar to Apr 2026) found own account ownership on restricted platforms fell from about 52% to 42%, with significant drops on YouTube, Snapchat and TikTok, but more than 81% still used at least one of them, so much Australian kid viewing has moved to logged out or shared family screens where subscriptions and history do not follow the child.",
+     "src": "eSafety, 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1641
+    },
+    {
+     "t": "In the same evaluation parents who did not know about their child's social media use rose from about 1 in 4 to about 1 in 3, most among parents of 10 to 12 year olds, while about two in three parents still back the rules; Bro Bros should keep every title, thumbnail and Short obviously preschool and parent approved so it is welcome on the family TV and in YouTube Kids.",
+     "src": "eSafety, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1641
+    },
+    {
+     "t": "Children in that study thought about 13.6 years is the right age for a social media account while parents said about 15.2, and messaging and gaming use rose after the rules, signs that parents, not children, increasingly choose what young kids watch, so our descriptions and channel page should speak to parents (what the song teaches, calm or active, length).",
+     "src": "eSafety, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1641
     }
    ]
   },
@@ -26990,11 +27011,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1561 (YouTube algorithm (custom feeds in the top bar, Shorts limit for all)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 14:39",
-   "note": "Run 1562 (Shorts and Reels algorithm (Reels freshness)): New: Meta says nearly 45% of recommended Reels are under a day old, so daily fresh Reels beat reposts. Sequence ranking, Content Protection, Amazon Reels links, the repost rule and Shorts hook guides were already filed. Chrome not available. Total 3726."
+   "note": "Summary of older entries: runs up to Run 1562 (Shorts and Reels algorithm (Reels freshness)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 14:40",
@@ -27307,6 +27324,10 @@
   {
    "date": "2026-11-20 19:45",
    "note": "Run 1640 (posting times (Metricool best times 21 to 27 Nov, YouTube holiday playbook)): Metricool's grid for 21 to 27 Nov again puts YouTube's best hour at 16:00 IST on all seven days, with Wednesday and Thursday strongest and the weekend about half as strong; Instagram's best hour stays 10:00 IST with a smaller 18:00 IST bump. YouTube's 2026 holiday playbook gives no peak dates or hours, only a plan, shop, then experience phase order. Posting plan unchanged. Chrome not available. Total 3842."
+  },
+  {
+   "date": "2026-11-20 19:46",
+   "note": "Run 1641 (rules and safety (Australia under 16 rules, three month evaluation)): New: eSafety's three month evaluation (more than 4,000 children aged 10 to 15) found account ownership on restricted platforms fell from about 52% to 42%, with YouTube among the significant drops, yet more than 81% still used at least one restricted platform, mostly without an account; parents became less aware of what younger children watch. The November update PDF and UK briefing could not be read. Chrome not available. Total 3845."
   }
  ],
  "history": [
@@ -28497,6 +28518,10 @@
   {
    "date": "2026-11-20 19:45",
    "total": 3842
+  },
+  {
+   "date": "2026-11-20 19:46",
+   "total": 3845
   }
  ],
  "next_week_ideas": [
