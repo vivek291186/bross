@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:52:46+05:30",
- "runs": 1443,
+ "updated": "2026-11-20T05:53:31+05:30",
+ "runs": 1444,
  "branches": [
   {
    "id": "platforms",
@@ -10646,6 +10646,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1432
+    },
+    {
+     "t": "Suno's own kids showcase (2026) has 18 example songs mostly 1 to 2.5 minutes long (shortest 32 seconds, longest about 3 minutes) on routines like brushing teeth and bath time, a hint that a 1.5 to 2.5 minute song is the natural unit for a kids track before compilations.",
+     "src": "Suno music library, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1444
+    },
+    {
+     "t": "Suno advises kids prompts that name the listener's age, the movement moment, the energy and the sounds, for example 'cheerful toddler song, bouncy beat, round bass, simple melody, quick hook, cheerful vocals', with 'soft groove, space between phrases' to calm a song down; we should add the age and the dance moment to every Bro Bros style prompt.",
+     "src": "Suno music library, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1444
+    },
+    {
+     "t": "Suno's guidance splits ages: toddlers need simple repeating patterns, while children around seven can follow a longer story with clear turns, which supports keeping our under 4 songs to one repeated action chorus and saving story songs with a twist for the 5 to 8 group.",
+     "src": "Suno music library, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1444
     }
    ]
   },
@@ -24831,10 +24852,6 @@
   },
   {
    "date": "2026-11-19 23:41",
-   "note": "Run 1365 (TRENDS (school crazes and Thanksgiving)): Squishy collecting, 6 7, Gen Alpha slang lists and Thanksgiving dinner memes were already in the tree; added the 2026 school footbag craze as a phone free circle game idea. Thanksgiving trend pages were thin. Chrome not available. Total 3376."
-  },
-  {
-   "date": "2026-11-19 23:41",
    "note": "Run 1366 (rules and safety recheck): Nothing new: COPPA enforcement, California's AB 1709 and its court challenge, age assurance laws and YouTube's AI label rules for animation were all already in the tree. No leaves added. Chrome not available. Total 3376."
   },
   {
@@ -25144,6 +25161,10 @@
   {
    "date": "2026-11-20 05:52",
    "note": "Run 1443 (TRENDS (holiday game formats, first snow reactions)): Google's advent calendar and wishlist view curves and first snow clips were already in the tree. New: Google's holiday report shows game style videos (time limits, budget challenges, Secret Santa) jump just before Black Friday (27 Nov 2026) and hold to mid December, which suits a kid safe 'beat the song timer' Short, and baby 'talking to the snow' clips keep earning millions of views. Chrome not available. Total 3533."
+  },
+  {
+   "date": "2026-11-20 05:53",
+   "note": "Run 1444 (music craft (Suno's own kids prompt advice)): The 2027 Grammy kids nominees and Atlabs' workflow were already in the tree. New from Suno's kids showcase: most of its 18 example kids songs run 1 to 2.5 minutes, and its prompt advice is to name the listener's age, the movement moment, the energy and the sounds (bouncy beat, round bass, quick hook), simple repetition for toddlers and a longer story only around age seven. Chrome not available. Total 3536."
   }
  ],
  "history": [
@@ -26190,6 +26211,10 @@
   {
    "date": "2026-11-20 05:52",
    "total": 3533
+  },
+  {
+   "date": "2026-11-20 05:53",
+   "total": 3536
   }
  ],
  "next_week_ideas": [
