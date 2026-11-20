@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:35:59+05:30",
- "runs": 1696,
+ "updated": "2026-11-21T04:36:40+05:30",
+ "runs": 1697,
  "branches": [
   {
    "id": "platforms",
@@ -9456,6 +9456,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1689
+    },
+    {
+     "t": "Two sister channels of generic 2D and 3D nursery rhymes (a Johny and family cast) reached about 460K and 611K subscribers from only 28 and 76 videos (average lengths 31 and 115 minutes), but once uploads stopped they drifted down to roughly 1K and 5K views a day (vidIQ data last refreshed mid 2025), so big subscriber counts mean little for kids channels without a steady upload rhythm.",
+     "src": "vidIQ, Nov 2026 (data from 2025)",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1697
     }
    ]
   },
@@ -13978,6 +13985,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1686
+    },
+    {
+     "t": "Generic 3D nursery rhyme channels that reuse the same stock family characters look almost identical to one another and lose audiences quickly once uploads stop, which supports keeping the Bro Bros brothers visually distinctive (own colours, outfits and faces) instead of the default rhyme channel look.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1697
     }
    ]
   },
@@ -27939,10 +27953,6 @@
   },
   {
    "date": "2026-11-20 18:02",
-   "note": "Run 1618 (rules (YouTube AI disclosure help page, AI labels)): Nothing new: YouTube's GenAI disclosure rules (AI music as the main focus must be disclosed, animated visuals exempt with a description label, the 'AI use' attribute in Studio, auto detection, Partner Program risk for repeated non disclosure) were all already filed; Netflix's 2026 animated chart was also already in the tree. No leaves added. Chrome not available. Total 3814."
-  },
-  {
-   "date": "2026-11-20 18:02",
    "note": "Run 1619 (our own results (Metricool at 18:03 IST, 20 Nov)): Nothing new: Metricool has still not synced any 19 or 20 Nov YouTube video or 20 Nov Reel analytics, so the 14 to 18 Nov numbers already filed stand. No leaves added. Chrome not available. Total 3814."
   },
   {
@@ -28252,13 +28262,13 @@
   {
    "date": "2026-11-21 04:35",
    "note": "Run 1696 (music craft (infant music eLife study, tempo preference studies, 2027 Grammy kids album nominees)): Nothing new: the eLife study (only 12 month olds move more to real songs, high pitch drives movement, no beat syncing) and all five 2027 Grammy kids album nominees were already filed. No leaves added. Chrome not available. Total 3977."
+  },
+  {
+   "date": "2026-11-21 04:36",
+   "note": "Run 1697 (visual craft (thumbnail Test and Compare, preschool pacing studies, generic 3D nursery rhyme channels)): Thumbnail testing and the fantastical content pacing study were already filed. New: two sister generic 3D nursery rhyme channels with about 460K and 611K subscribers fell to roughly 1K and 5K views a day once they stopped uploading (28 and 76 videos, very long compilations), showing that subscribers alone do not keep a kids channel alive without steady uploads and a distinctive look. Chrome not available. Total 3979."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 01:51",
-   "total": 3428
-  },
   {
    "date": "2026-11-20 01:52",
    "total": 3428
@@ -29454,6 +29464,10 @@
   {
    "date": "2026-11-21 04:35",
    "total": 3977
+  },
+  {
+   "date": "2026-11-21 04:36",
+   "total": 3979
   }
  ],
  "next_week_ideas": [
