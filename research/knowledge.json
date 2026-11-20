@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:57:14+05:30",
- "runs": 1581,
+ "updated": "2026-11-20T16:35:22+05:30",
+ "runs": 1582,
  "branches": [
   {
    "id": "platforms",
@@ -2575,6 +2575,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1574
+    },
+    {
+     "t": "Hank Green's ClockwiseTV launched on 17 Nov 2026 as a paid, ad free kids app for ages 8 to 12 (6.99 USD a month): parents set a session length, kids pick from about a dozen human vetted creator videos grouped by interest, there is no autoplay, and creators are paid licence fees.",
+     "src": "Fast Company, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1582
     }
    ]
   },
@@ -19865,6 +19872,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1570
+    },
+    {
+     "t": "ClockwiseTV's CEO told Fast Company that marking videos made for kids on YouTube usually lowers AdSense income, and pitches licensing to curated ad free apps as a second income for kids creators; for Bro Bros (preschool songs) this kind of licensing deal is a later option, since ClockwiseTV itself targets ages 8 to 12 and lists no application route yet.",
+     "src": "Fast Company, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1582
+    },
+    {
+     "t": "Ofcom says personalised feeds are the main way children meet harmful content and that YouTube and TikTok made no significant feed changes; it is investigating both, so UK rules on what kids feeds recommend may tighten, which favours calm, clearly child safe content like ours over shock thumbnails.",
+     "src": "ARY News citing Ofcom, May 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1582
     }
    ]
   },
@@ -26373,12 +26394,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 08:43",
-   "note": "Summary of older entries: runs up to Run 1502 (Shorts and Reels algorithm (Instagram change logs to 18 Nov)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 09:39",
-   "note": "Run 1503 (music craft (2026 infant music study, Kidz Bop producer interview)): Nothing new: the eLife infant study (babies follow loudness changes, not the beat, and only 12 month olds move more to real songs) and the Kidz Bop producer numbers were already in the tree. TRENDS and other platforms were skipped because both found nothing new in the last 6 rounds. No leaves added. Chrome not available. Total 3621."
+   "note": "Summary of older entries: runs up to Run 1503 (music craft (2026 infant music study, Kidz Bop producer interview)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 09:39",
@@ -26691,6 +26708,10 @@
   {
    "date": "2026-11-20 15:57",
    "note": "Run 1581 (posting times (Metricool best time for 21 to 27 Nov, 16:00 IST)): Nothing new: Metricool still peaks YouTube at 16:00 IST every day (Wednesday and Thursday highest, weekends lowest, 10:00 IST a second high) and Instagram at 10:00 IST with a second rise at 18:00, as already filed. Posting plan unchanged. No leaves added. Chrome not available. Total 3754."
+  },
+  {
+   "date": "2026-11-20 16:35",
+   "note": "Run 1582 (rules and safety (ClockwiseTV, Ofcom feeds)): New: Hank Green's ClockwiseTV (17 Nov) is a paid curated ad free app for ages 8 to 12 that licenses creator videos, a possible later income route; Ofcom keeps pressing YouTube on kids feeds. COPPA and AI slop items were already filed. Chrome not available. Total 3757."
   }
  ],
  "history": [
@@ -27645,6 +27666,10 @@
   {
    "date": "2026-11-20 15:57",
    "total": 3754
+  },
+  {
+   "date": "2026-11-20 16:35",
+   "total": 3757
   }
  ],
  "next_week_ideas": [
