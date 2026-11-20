@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:49:09+05:30",
- "runs": 1635,
+ "updated": "2026-11-20T18:49:25+05:30",
+ "runs": 1636,
  "branches": [
   {
    "id": "platforms",
@@ -26891,12 +26891,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 13:43",
-   "note": "Summary of older entries: runs up to Run 1556 (global markets (dub track versus separate channel test)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 13:44",
-   "note": "Run 1557 (competitor deep dive (ChuChu TV, Moonbug holiday specials)): Nothing new: ChuChu TV's flat subscribers, falling monthly views, Curiosity Corner compilation and Friday long uploads, and Moonbug's holiday special pattern were all already in the tree. No leaves added. Chrome not available. Total 3716."
+   "note": "Summary of older entries: runs up to Run 1557 (competitor deep dive (ChuChu TV, Moonbug holiday specials)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 14:35",
@@ -27209,6 +27205,10 @@
   {
    "date": "2026-11-20 18:49",
    "note": "Run 1635 (competitor deep dive (Kids Diana Show)): Nothing new: the Kids Diana Show stats page could not be read this round (the fetch was blocked). No leaves added. Chrome not available. Total 3828."
+  },
+  {
+   "date": "2026-11-20 18:49",
+   "note": "Run 1636 (topics and seasons (Google Holiday 100 recheck; TRENDS skipped as already rechecked twice this run)): Nothing new: Google Holiday 100 toy searches (classic train sets, roller skates) and the retro song revival were already filed. No leaves added. Chrome not available. Total 3828."
   }
  ],
  "history": [
@@ -28370,6 +28370,10 @@
   },
   {
    "date": "2026-11-20 18:43",
+   "total": 3828
+  },
+  {
+   "date": "2026-11-20 18:49",
    "total": 3828
   },
   {
