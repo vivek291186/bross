@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:44:36+05:30",
- "runs": 1557,
+ "updated": "2026-11-20T14:35:36+05:30",
+ "runs": 1558,
  "branches": [
   {
    "id": "platforms",
@@ -19690,6 +19690,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1554
+    },
+    {
+     "t": "AIR's dated 2026 policy timeline says Partner Program applications sent before 23:59 UTC on 31 Jan 2027 are still judged on today's bar (1,000 subscribers plus 4,000 watch hours in a year, or 10M Shorts views in 90 days), so Bro Bros (about 2,150 subscribers) should push long form watch hours now and apply before that cut off rather than face the doubled 8,000 hours or 20M Shorts bar.",
+     "src": "AIR Media-Tech, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1558
+    },
+    {
+     "t": "From 1 Feb 2027 missing the deadline to accept the new Partner Program terms pauses payouts from the affected modules but does not remove a channel from the programme, so accepting the updated terms in Studio before 31 Jan 2027 is a simple must do once Bro Bros is a partner.",
+     "src": "AIR Media-Tech, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1558
+    },
+    {
+     "t": "The 2027 programme adds a targeted Shorts ad option that pays the creator a direct 45% when an advertiser picks five channels or fewer; because made for kids ads are bought on context, not on the viewer, a clearly themed, consistent kids music channel is the kind of short list a toy or family brand could pick.",
+     "src": "AIR Media-Tech, Aug 2026 (our reading)",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1558
     }
    ]
   },
@@ -26108,11 +26129,7 @@
  "log": [
   {
    "date": "2026-11-20 07:41",
-   "note": "Summary of older entries: runs up to Run 1478 (Shorts and Reels algorithm (Instagram 2026 changes recheck)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 07:41",
-   "note": "Run 1479 (other platforms (Netflix kids top 10, Spotify kids toggle, Roblox new games; TRENDS skipped, nothing new in run 1476)): Nothing new: the latest Netflix weekly kids lists found were 2025, Spotify's kids and family taste toggle and GGRecon's November 2026 fastest growing Roblox games were already in the tree, and a Nielsen kids chart found was from 2023. No leaves added. Chrome not available. Total 3602."
+   "note": "Summary of older entries: runs up to Run 1479 (other platforms (Netflix kids top 10, Spotify kids toggle, Roblox new games; TRENDS skipped, nothing new in run 1476)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 07:42",
@@ -26425,6 +26442,10 @@
   {
    "date": "2026-11-20 13:44",
    "note": "Run 1557 (competitor deep dive (ChuChu TV, Moonbug holiday specials)): Nothing new: ChuChu TV's flat subscribers, falling monthly views, Curiosity Corner compilation and Friday long uploads, and Moonbug's holiday special pattern were all already in the tree. No leaves added. Chrome not available. Total 3716."
+  },
+  {
+   "date": "2026-11-20 14:35",
+   "note": "Run 1558 (rules and monetisation (2027 Partner Program cut off)): New from AIR's dated timeline: applications sent by 31 Jan 2027 are judged on today's lower bar, missing the new terms pauses payouts without removing the channel, and a five channel targeted Shorts ad pays 45% direct. UK, EU and FTC kids rules were already filed. Chrome not available. Total 3719."
   }
  ],
  "history": [
@@ -27283,6 +27304,10 @@
   {
    "date": "2026-11-20 13:44",
    "total": 3716
+  },
+  {
+   "date": "2026-11-20 14:35",
+   "total": 3719
   }
  ],
  "next_week_ideas": [
