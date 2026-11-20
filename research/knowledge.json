@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:35:32+05:30",
- "runs": 1566,
+ "updated": "2026-11-20T15:36:43+05:30",
+ "runs": 1567,
  "branches": [
   {
    "id": "platforms",
@@ -17394,6 +17394,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1556
+    },
+    {
+     "t": "In vidIQ's Italy top 100 (14 Nov 2026) the only kids channels in the top 50 are TV brands (Masha and the Bear 12th with 7.28M subscribers, WB Kids Italiano 23rd, Disney Junior Italia 44th); the first nursery song channel, HeyKids Canzoni Per Bimbi, sits 55th with 3.36M, so Italy rewards known characters more than song channels.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1567
+    },
+    {
+     "t": "Bangladesh's vidIQ top 100 (19 Nov 2026) has no nursery rhyme channel in the top 50, but an art and craft channel ranks 3rd (19.6M subscribers) and a drawing academy 7th (15.6M), so wordless drawing and making videos are a bigger kid adjacent door into Bangladesh than Bangla rhymes.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1567
+    },
+    {
+     "t": "The leading Bangla kids channel in that list is a TV network's kids arm, Maasranga Kids, at 72nd with about 5.3M subscribers and roughly 9,000 uploads, showing local broadcasters, not independent animators, own the Bangla kids space so far.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1567
     }
    ]
   },
@@ -26241,11 +26262,7 @@
  "log": [
   {
    "date": "2026-11-20 08:43",
-   "note": "Summary of older entries: runs up to Run 1487 (our own results (Metricool recheck at 08 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 08:44",
-   "note": "Run 1488 (TRENDS (Daily Dot explainers, Christmas dance searches)): Nothing new: Daily Dot's newest trend explainers found were from 2025 and Feb 2026 (face melting, bathtub alligator), its Gen Alpha tag stops in January, and Christmas dance searches only returned the AI Christmas dance already in the tree. No leaves added. Chrome not available. Total 3610."
+   "note": "Summary of older entries: runs up to Run 1488 (TRENDS (Daily Dot explainers, Christmas dance searches)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 08:45",
@@ -26558,6 +26575,10 @@
   {
    "date": "2026-11-20 15:35",
    "note": "Run 1566 (TRENDS (How Kids See Us, surf celebration, Elf magic)): New: the TikTok 'How Kids See Us' slideshow (teens posting scary portraits labelled as how first graders see them, since 19 Sep 2026, top post about 3.5M views) can be flipped into a sweet 'how Little Bro sees Big Bro' Reel; Cunha's World Cup surf celebration that kids copied in schools is a ready standing move. Trend bank: one new entry. Chrome not available. Total 3735."
+  },
+  {
+   "date": "2026-11-20 15:36",
+   "note": "Run 1567 (global markets (Italy and Bangladesh country charts)): New: Italy's top 50 YouTube channels (14 Nov 2026) hold only TV brands for kids (Masha and the Bear 12th, WB Kids 23rd, Disney Junior 44th) with the first song channel HeyKids at 55th; Bangladesh's top 50 (19 Nov) has no nursery channel but two huge drawing and craft channels, which travel without language. HeyKids Polish was already filed. Chrome not available. Total 3738."
   }
  ],
  "history": [
@@ -27452,6 +27473,10 @@
   {
    "date": "2026-11-20 15:35",
    "total": 3735
+  },
+  {
+   "date": "2026-11-20 15:36",
+   "total": 3738
   }
  ],
  "next_week_ideas": [
