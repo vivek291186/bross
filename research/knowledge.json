@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:39:52+05:30",
- "runs": 1703,
+ "updated": "2026-11-21T04:45:33+05:30",
+ "runs": 1704,
  "branches": [
   {
    "id": "platforms",
@@ -2736,6 +2736,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1683
+    },
+    {
+     "t": "Instagram added 'Use as reference' for Reels under 90 seconds (iOS first, Oct 2026): the original Reel plays in a small movable window over the camera with a countdown so a creator can copy its timing, which makes dance along and reaction Reels much easier for families to film against our dance Reels.",
+     "src": "Social Media Today, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1704
     }
    ]
   },
@@ -27957,6 +27964,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1695
+    },
+    {
+     "t": "Because Instagram now lets anyone film against a Reel with 'Use as reference', a short Bro Bros 'copy our dance' Reel (8 to 15 seconds, one clear move per beat, mirrored front view) is the easiest kind of Reel for parents and kids to answer with their own version, which spreads the move without needing trending audio.",
+     "src": "Social Media Today, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1704
     }
    ]
   }
@@ -27985,10 +27999,6 @@
   {
    "date": "2026-11-20 13:44",
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 18:06",
-   "note": "Run 1625 (visual craft (pacing and slow media)): Small find: the UK Department for Education's March 2026 advice tells parents of under 5s to pick 'slow paced, age appropriate' content (without defining it), and Guardian based coverage stresses giving a beat after each emotional moment before cutting; the Slow Media Project's checks and SRI's pace data were already filed. Chrome not available. Total 3818."
   },
   {
    "date": "2026-11-20 18:07",
@@ -28301,13 +28311,13 @@
   {
    "date": "2026-11-21 04:39",
    "note": "Run 1703 (our own results (Metricool YouTube 14 to 21 Nov rechecked)): No new data: Metricool YouTube daily views still stop at 17 Nov (850 to 1,301 a day) and subscribers stay at 2,150; 18 to 21 Nov are not in yet. No leaves added. Chrome not available. Total 3984."
+  },
+  {
+   "date": "2026-11-21 04:45",
+   "note": "Run 1704 (TRENDS (Later and SocialBee Reels roundups, Instagram Edits updates, family film dance trends; two AOL pages unreadable)): New: Instagram's 'Use as reference' option (iOS, Oct 2026) floats any Reel under 90 seconds over the camera with a countdown so creators can copy its timing, which is the native way to make reaction and dance along Reels; it suits a Bro Bros dance tutorial Reel that families copy. Chrome not available. Total 3986."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 02:43",
-   "total": 3437
-  },
   {
    "date": "2026-11-20 02:44",
    "total": 3438
@@ -29503,6 +29513,10 @@
   {
    "date": "2026-11-21 04:39",
    "total": 3984
+  },
+  {
+   "date": "2026-11-21 04:45",
+   "total": 3986
   }
  ],
  "next_week_ideas": [
