@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:47:29+05:30",
- "runs": 1647,
+ "updated": "2026-11-20T20:48:31+05:30",
+ "runs": 1648,
  "branches": [
   {
    "id": "platforms",
@@ -9218,6 +9218,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1616
+    },
+    {
+     "t": "Danny Go!, started in 2019 by a husband, wife and two childhood friends, had over 4.5M subscribers, nearly 5B lifetime views and 65 sold out live shows by spring 2026, then added a Netflix series (from April) and a picture book (31 Mar 2026), showing the path from a small team movement channel to TV, stage and books once songs become a recognisable brand.",
+     "src": "Netflix Tudum, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1648
     }
    ]
   },
@@ -11535,6 +11542,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1637
+    },
+    {
+     "t": "Parents say toddlers ask smart speakers by name for a Danny Go! pirate themed clean up song at tidy up time, so a utility song with a short, unique, easy to say title (one we own, like 'Swab It Up, Bros!') gets replayed on voice assistants as well as YouTube.",
+     "src": "neworleansmom.com, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1648
+    },
+    {
+     "t": "Toddler favourites from the same movement channel follow narrow passions (garbage trucks, diggers, bugs, trains, robots, gorillas drumming), each song naming several real things and their sounds, so a Bro Bros 'name five bugs' or 'name five diggers' list song with sound effects suits 2 to 4 year olds.",
+     "src": "neworleansmom.com, Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1648
     }
    ]
   },
@@ -27158,11 +27179,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1568 (competitor deep dive (CoComelon spin off channels)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 15:43",
-   "note": "Run 1569 (TRENDS (holiday formats from past seasons, Gen Alpha humour)): Thin round: TikTok discover pages refuse automated reading and the newest trend pages were already filed. New: tree decorating time lapses and techno remixes of classic carols were the breakout holiday TikTok formats of the 2024 season, and a Daily Dot piece says Gen Alpha shrugs at fart jokes, so toilet humour is a weaker laugh than we assume. Trend bank: one seasonal entry. Chrome not available. Total 3744."
+   "note": "Summary of older entries: runs up to Run 1569 (TRENDS (holiday formats from past seasons, Gen Alpha humour)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 15:44",
@@ -27475,6 +27492,10 @@
   {
    "date": "2026-11-20 20:47",
    "note": "Run 1647 (Shorts and Reels lengths (Buffer 2.7M Reels study)): New: Buffer found Reels of 90 to 179 s get slightly more reach (about 4 to 7%) while Reels of 3 minutes or more lose about half their reach because they go mostly to followers, and length matters little below 90 s; so full song Reels should stay under about 2:45. Shorts length tips (OpusClip) were unsourced and already covered. Chrome not available. Total 3866."
+  },
+  {
+   "date": "2026-11-20 20:48",
+   "note": "Run 1648 (music craft (Danny Go! brand path, toddler favourites); TRENDS skipped as rechecked at the start of this run): New: Danny Go! grew from a 2019 family and friends channel to 4.5M subscribers, nearly 5B views, 65 sold out shows, a Netflix series and a picture book; toddlers ask smart speakers for its clean up song by name, so short unique titles for utility songs matter. The Queensland rhythm trial and Suno v6 were already filed. Chrome not available. Total 3869."
   }
  ],
  "history": [
@@ -27501,10 +27522,6 @@
   {
    "date": "2026-11-19 21:00",
    "total": 3326
-  },
-  {
-   "date": "2026-11-19 22:42",
-   "total": 3360
   },
   {
    "date": "2026-11-19 22:42",
@@ -28677,6 +28694,10 @@
   {
    "date": "2026-11-20 20:47",
    "total": 3866
+  },
+  {
+   "date": "2026-11-20 20:48",
+   "total": 3869
   }
  ],
  "next_week_ideas": [
