@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T16:35:22+05:30",
- "runs": 1582,
+ "updated": "2026-11-20T16:35:53+05:30",
+ "runs": 1583,
  "branches": [
   {
    "id": "platforms",
@@ -20803,6 +20803,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1547
+    },
+    {
+     "t": "The 20 Nov 2026 16:00 IST long video 'Beep Beep Little Car' and its Short and Reel all published cleanly with the designed thumbnail (no warning), so the thumbnail failure hit two of the last four long videos (Bubble Gum Pop, Elephant Stomp Parade) rather than every upload; a manual thumbnail upload in YouTube Studio fixes those two.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1583
     }
    ]
   },
@@ -26395,11 +26402,7 @@
  "log": [
   {
    "date": "2026-11-20 09:39",
-   "note": "Summary of older entries: runs up to Run 1503 (music craft (2026 infant music study, Kidz Bop producer interview)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 09:39",
-   "note": "Run 1504 (our own results (Metricool recheck at 09:40 IST)): Nothing new: Instagram still has no Reel after the 19 Nov pair (farm band 4 views, Bubble Gum Pop 9) and YouTube data still stops at 17 Nov with 2,150 subscribers, all already in the tree. No leaves added. Chrome not available. Total 3621."
+   "note": "Summary of older entries: runs up to Run 1504 (our own results (Metricool recheck at 09 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 09:41",
@@ -26712,6 +26715,10 @@
   {
    "date": "2026-11-20 16:35",
    "note": "Run 1582 (rules and safety (ClockwiseTV, Ofcom feeds)): New: Hank Green's ClockwiseTV (17 Nov) is a paid curated ad free app for ages 8 to 12 that licenses creator videos, a possible later income route; Ofcom keeps pressing YouTube on kids feeds. COPPA and AI slop items were already filed. Chrome not available. Total 3757."
+  },
+  {
+   "date": "2026-11-20 16:35",
+   "note": "Run 1583 (our own results (Metricool at 16:45 IST, 20 Nov)): The 16:00 car song, Short and Reel published cleanly with its thumbnail, so only Bubble Gum Pop and Elephant Stomp Parade need a manual thumbnail. Reel analytics unchanged since the 15:45 check (20 Nov Reels not synced yet). Chrome not available. Total 3758."
   }
  ],
  "history": [
@@ -27670,6 +27677,10 @@
   {
    "date": "2026-11-20 16:35",
    "total": 3757
+  },
+  {
+   "date": "2026-11-20 16:35",
+   "total": 3758
   }
  ],
  "next_week_ideas": [
