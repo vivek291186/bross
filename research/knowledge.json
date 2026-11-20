@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:41:29+05:30",
- "runs": 1553,
+ "updated": "2026-11-20T13:42:50+05:30",
+ "runs": 1554,
  "branches": [
   {
    "id": "platforms",
@@ -11108,6 +11108,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1553
+    },
+    {
+     "t": "Sung words per minute now feature in parent sensory ratings (classic Sesame Street about 111, Bluey 141, CoComelon 153), so slower, fewer word lyrics with space for actions make a Bro Bros song score calmer as well as easier for toddlers to sing.",
+     "src": "Kids Show Guide, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1554
     }
    ]
   },
@@ -13019,6 +13026,27 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1517
+    },
+    {
+     "t": "A Developmental Science meta analysis (Hinten, Scarf and Imuta, Sep 2025; 19 studies, 1,431 children aged about 18 months to 10 years) found faster pacing did not significantly lower attention or executive function, while highly fantastical, rule breaking content had a small but real negative effect, so Bro Bros worlds should keep consistent physics and character rules even when the editing is lively.",
+     "src": "Research Today, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1554
+    },
+    {
+     "t": "Kids Show Guide's sensory load scores (64 shows, ffmpeg cut detection and loudness, updated Apr 2026) put Bluey at about 3.8 cuts a minute, sound intensity 2.5 of 10 and 141 words a minute against CoComelon's about 8.7 cuts, 5.1 and 153, with Mister Rogers calmest; parents use such scores, so a Bro Bros song near 4 to 6 cuts a minute with quiet beats between phrases reads as a calm pick.",
+     "src": "Kids Show Guide, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1554
+    },
+    {
+     "t": "A University of Oslo mini review (Frontiers in Psychology, Mar 2026; 10 empirical studies of 3 to 5 year olds) found mixed results (4 negative, 2 positive, 2 mixed, 2 null) and pointed to content quality and interactivity rather than minutes, so call and response and 'pause and do it' moments are the best defence of our videos with parents.",
+     "src": "Frontiers in Psychology, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1554
     }
    ]
   },
@@ -19641,6 +19669,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1552
+    },
+    {
+     "t": "A Thai cross sectional study of 214 children aged 3 to 5 (BMC Public Health, Aug 2026) found they averaged 3.0 hours of screens a day including 1.6 hours of short form video, and more short form viewing went with more inattention and hyperactive symptoms, which adds pressure on endless Shorts feeds for preschoolers and favours full songs with a clear ending.",
+     "src": "Research Today, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1554
     }
    ]
   },
@@ -26059,11 +26094,7 @@
  "log": [
   {
    "date": "2026-11-20 07:38",
-   "note": "Summary of older entries: runs up to Run 1474 (rules, safety and monetisation (Animaj AI deal details, Denmark under 15 law)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 07:38",
-   "note": "Run 1475 (our own results (Metricool, 19 Nov Reels synced)): The 19 Nov Reels finally synced and are our weakest yet in their first day: farm band (10:00 IST) 4 views with 75% skip and Bubble Gum Pop (16:00 IST) 9 views with 89% skip. YouTube data now reaches 17 Nov (1,036 views that day); subscribers flat at 2,150 with only 6 gained from 14 to 17 Nov. Chrome not available. Total 3598."
+   "note": "Summary of older entries: runs up to Run 1475 (our own results (Metricool, 19 Nov Reels synced)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 07:39",
@@ -26376,6 +26407,10 @@
   {
    "date": "2026-11-20 13:41",
    "note": "Run 1553 (music craft (rhythm and reading review)): New: a 2026 systematic review of 21 studies (children 5 to 12) found rhythm training (clapping, drumming, singing, dancing to a beat) helped at least one language skill in 20 of them, and even about 17 seconds of a regular beat before a task helped grammar judgements; supports steady beats, clap the syllables sections and a beat only intro. Spotify Africa piece adds only known staples. Chrome not available. Total 3709."
+  },
+  {
+   "date": "2026-11-20 13:42",
+   "note": "Run 1554 (visual craft (pacing and sensory load evidence)): New: a 2025 meta analysis (19 studies, 1,431 children) found fast pacing alone did not measurably hurt attention while very fantastical content had a small negative effect; a parent site's sensory scores put Bluey at about 3.8 cuts a minute and 141 words a minute against CoComelon's 8.7 and 153; a Thai study of 214 preschoolers tied more short form viewing to more inattention. Chrome not available. Total 3714."
   }
  ],
  "history": [
@@ -27218,6 +27253,10 @@
   {
    "date": "2026-11-20 13:41",
    "total": 3709
+  },
+  {
+   "date": "2026-11-20 13:42",
+   "total": 3714
   }
  ],
  "next_week_ideas": [
