@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:48:31+05:30",
- "runs": 1648,
+ "updated": "2026-11-20T20:49:16+05:30",
+ "runs": 1649,
  "branches": [
   {
    "id": "platforms",
@@ -13607,6 +13607,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1645
+    },
+    {
+     "t": "Kids distributors at a TV Kids Festival preschool panel said taste differs by market: China tends to prefer CG shows with very cute characters while the UK prefers quirkier ones, so Bro Bros dubs aimed at China and East Asia should lean on the cutest close ups and soft round designs.",
+     "src": "worldscreen.com (TV Kids Festival), 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1649
+    },
+    {
+     "t": "A CAKE development executive said toddlers now pick shows themselves by tapping thumbnails on touch screens in a 'wall of content', so a distinctive, instantly recognisable look (our two Bros' fixed outfit colours and silhouettes in every thumbnail) matters more than ever, and demand for 3D preschool content is rising.",
+     "src": "worldscreen.com (TV Kids Festival), 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1649
+    },
+    {
+     "t": "Producers on the same panel advised building learning into a show's core with small 'breadcrumbs' that let kids work out the answer themselves, and planning game and platform extensions from the start (one preschool brand timed a Roblox game to its TV launch), which supports our riddle pauses and a future Bro Bros game tie in.",
+     "src": "worldscreen.com (TV Kids Festival), 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1649
     }
    ]
   },
@@ -27179,11 +27200,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1569 (TRENDS (holiday formats from past seasons, Gen Alpha humour)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 15:44",
-   "note": "Run 1570 (rules, safety and monetisation (EU, India, RPM recheck)): Mostly repeats: the EU Kids Act and Digital Fairness Act, India's DPDP stages, AIR's kids RPM, Q4 lift and live stream figures were all already in the tree. New: AIR says Kids and Teens grew faster than every other niche in September 2026. Chrome not available. Total 3745."
+   "note": "Summary of older entries: runs up to Run 1570 (rules, safety and monetisation (EU, India, RPM recheck)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 15:44",
@@ -27496,6 +27513,10 @@
   {
    "date": "2026-11-20 20:48",
    "note": "Run 1648 (music craft (Danny Go! brand path, toddler favourites); TRENDS skipped as rechecked at the start of this run): New: Danny Go! grew from a 2019 family and friends channel to 4.5M subscribers, nearly 5B views, 65 sold out shows, a Netflix series and a picture book; toddlers ask smart speakers for its clean up song by name, so short unique titles for utility songs matter. The Queensland rhythm trial and Suno v6 were already filed. Chrome not available. Total 3869."
+  },
+  {
+   "date": "2026-11-20 20:49",
+   "note": "Run 1649 (visual craft (TV Kids Festival preschool panel, A/B testing recheck)): Small find: buyers say China prefers very cute CG and the UK quirkier shows, toddlers choose by tapping thumbnails so a distinctive look matters, and demand for 3D preschool is rising; YouTube's title and thumbnail testing still excludes made for kids videos (already filed). Two AWN pages could not be read. Chrome not available. Total 3872."
   }
  ],
  "history": [
@@ -27526,10 +27547,6 @@
   {
    "date": "2026-11-19 22:42",
    "total": 3360
-  },
-  {
-   "date": "2026-11-19 23:35",
-   "total": 3364
   },
   {
    "date": "2026-11-19 23:36",
@@ -28698,6 +28715,10 @@
   {
    "date": "2026-11-20 20:48",
    "total": 3869
+  },
+  {
+   "date": "2026-11-20 20:49",
+   "total": 3872
   }
  ],
  "next_week_ideas": [
