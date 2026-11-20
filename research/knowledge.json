@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:54:17+05:30",
- "runs": 1445,
+ "updated": "2026-11-20T05:55:00+05:30",
+ "runs": 1446,
  "branches": [
   {
    "id": "platforms",
@@ -10667,6 +10667,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1444
+    },
+    {
+     "t": "A widely shared clip shows an 18 month old asking for Baby Shark only by singing 'do do do' and pointing at the TV, which shows the strongest kids hooks are a sound a toddler can say before they can say words; every Bro Bros chorus should carry a two or three syllable sound tag a toddler can use to ask for it.",
+     "src": "In The Know via Yahoo, undated",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1446
     }
    ]
   },
@@ -14174,6 +14181,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1436
+    },
+    {
+     "t": "Hopscotch's 'Boundaries Song' (asking before hugs, tickles and teasing) spread through parents' TikToks and a share by a big preschool creator, showing social and emotional skill songs travel because parents actively pass them on; a cheerful 'ask first' song suits every culture.",
+     "src": "Tinybeans, Aug 2023",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1446
+    },
+    {
+     "t": "A teacher's song about making dumplings, sung with her class and a toy dumpling showing the fillings, went viral because adults loved its warmth and every culture has its own dumpling; a 'let's cook together' song built around one shared world food (dumplings, flatbread, noodles) travels across countries.",
+     "src": "Upworthy, May 2022 (updated Feb 2026)",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1446
     }
    ]
   },
@@ -24873,10 +24894,6 @@
   },
   {
    "date": "2026-11-19 23:42",
-   "note": "Run 1367 (our own results recheck (Metricool)): Nothing new: at 23:42 IST the YouTube feed still ends 16 Nov (2,150 subscribers through 18 Nov) and no 19 Nov Reel has synced yet, both already recorded today. No leaves added. Chrome not available. Total 3376."
-  },
-  {
-   "date": "2026-11-19 23:42",
    "note": "Run 1368 (TRENDS recheck (Later and inMagic weekly Reels lists)): Nothing new: five stages of, the fixed camera outfit switch, timestamps, the switch to Christmas, Dame Hombro shoulder bounce, zoom in hidden message and then and now were all already in the tree or trend bank. No leaves added. Chrome not available. Total 3376."
   },
   {
@@ -25186,6 +25203,10 @@
   {
    "date": "2026-11-20 05:54",
    "note": "Run 1445 (visual craft (toon shading recipes from Pixar and Blender Studio)): Toy Story 5's pastel look, rim lights and sound off viewing were already in the tree. New: Pixar's SIGGRAPH 2026 paper says its stylised characters used just an ambient light plus one rim light with a controlled shadow line, and Blender Studio's free cartoon shading paints most lighting into the colour and uses a soft 'blob' normal so the 3D mesh stops looking like CG, both cheap recipes for our renders. Chrome not available. Total 3539."
+  },
+  {
+   "date": "2026-11-20 05:55",
+   "note": "Run 1446 (TRENDS (why kids songs go viral with parents)): No new kid song broke out this week in the sources found; added evergreen lessons from past viral kids songs: a toddler can request Baby Shark with just its 'do do do' sound, a boundaries song spread when parents and a big preschool creator shared it, and a teacher's dumpling making song (with a toy dumpling) charmed adults across cultures. Chrome not available. Total 3542."
   }
  ],
  "history": [
@@ -26240,9 +26261,17 @@
   {
    "date": "2026-11-20 05:54",
    "total": 3539
+  },
+  {
+   "date": "2026-11-20 05:55",
+   "total": 3542
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Ask First! (Hugs, High Fives or Waves Song)",
+   "why": "Boundaries songs spread because parents share them; each verse offers a choice (hug, high five, wave, fist bump) and the friend picks, teaching kind asking in every culture. Standing moves: open arms for hug, high five in the air, big wave, fist bump, thumbs up."
+  },
   {
    "title": "Toot Toot, Happy New Year! (Party Horn Countdown Song)",
    "why": "Pinkfong's Hogi is already seeding party horn sounds (60K views in 11 hours, 17 Nov); a countdown from 10 with a toot, a pop and a cheer for an early 'kids midnight' fits every country. Post 27 Dec. Standing moves: blow a pretend horn, jump on 'pop', wave both arms, spin in place slowly."
@@ -26262,10 +26291,6 @@
   {
    "title": "Let's Make It Snow! (Pretend Snow Dance)",
    "why": "Most children in Europe, India, the Gulf, Africa and Southeast Asia will not see real snow this Christmas (Copernicus expects a mild European winter), so the Bros make pretend snow with paper snowflakes, pillow feathers and a fan, then a magic sparkle turns it into real snow for one chorus. Standing moves: wiggle fingers down like falling snow, spin on the spot, catch a flake, freeze."
-  },
-  {
-   "title": "Robot Bro, Follow the Code! (Sequencing Dance Game)",
-   "why": "One brother calls simple commands (step forward, turn around, arms up, jump) and Robot Bro does them in order, then kids join in; post it on 5 Dec ahead of Computer Science Education Week (7 to 13 Dec) when classrooms everywhere run coding activities. Standing, in place moves suit Meshy."
   },
   {
    "title": "Dear Santa, Here's My List! (Letter Writing Song)",
