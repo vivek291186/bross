@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:36:14+05:30",
- "runs": 1431,
+ "updated": "2026-11-20T05:37:05+05:30",
+ "runs": 1432,
  "branches": [
   {
    "id": "platforms",
@@ -10576,6 +10576,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1396
+    },
+    {
+     "t": "Viberate's kids list (Nov 2025) put The Little Sunshine Kids' plain action versions of 'If You're Happy and You Know It' (over 21M streams), 'Five Little Monkeys' (15.6M), 'Bingo' (12M) and 'Wheels on the Bus' (11M) at the top, with Bluey's 'Dance Mode' (13M) the only original; the winning traits are a body action in every line, a countdown or spelling game, and a chorus a child can shout back.",
+     "src": "Viberate, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1432
+    },
+    {
+     "t": "Spotify's 2026 Songs of Summer (3 Sep 2026) were led by a Latin and Afrobeats football anthem that was No. 1 in 17 countries and peaked the day after the final, and a party track whose daily streams rose over 200% on the back of a viral dance, showing that a big shared world moment plus an easy dance is what makes a song travel across countries.",
+     "src": "Spotify Newsroom, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1432
+    },
+    {
+     "t": "Spotify's 2025 local kids data (reported for Iowa) showed the most played kids songs were 'Baby Shark' and old classics parents grew up with ('Twinkle Twinkle', 'You Are My Sunshine'), plus a 60 year old lullaby revived by TikTok, so a parent nostalgia feel in melody and harmony keeps a kids song on family replay.",
+     "src": "Axios, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1432
     }
    ]
   },
@@ -24631,11 +24652,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-19 22:41",
-   "note": "Run 1353 (competitor deep dive (Pinkfong and ChuChu TV news)): Mostly covered; added Pinkfong's Japan December pop ups and that its Bebefinn sibling products lead its toy sales. ChuChu TV's Netflix deal and North American agent were already in the tree. Chrome not available. Total 3359."
+   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 22:42",
@@ -24948,6 +24965,10 @@
   {
    "date": "2026-11-20 05:36",
    "note": "Run 1431 (TRENDS (AI carol dances, clapping pet, fairy tale imposter memes)): This week's lists were mostly already in the tree. New: the Deck the Halls remix dance has moved to AI videos of real celebrities in pyjamas (a likeness risk we avoid), an AI 'clapping black cat' became a green screen reaction format, the 'not me nan' wolf in the bed audio keeps Little Red Riding Hood jokes alive, and a 30 second Suno family story song about Thanksgiving clean up passed 225K views. Tokchart's 19 Nov top 10 has no kid sounds. Chrome not available. Total 3505."
+  },
+  {
+   "date": "2026-11-20 05:37",
+   "note": "Run 1432 (music craft (what kids stream and why)): Most craft rules were already in the tree. New: a small label's action song versions (clap and stomp, countdown, spelling game) top kids streaming lists with 11M to 21M streams each; Spotify's 2026 summer list shows a Latin plus Afrobeats football anthem hit No. 1 in 17 countries and a dance led hook tripled its streams; local Spotify data shows kids' top songs are mostly classics parents grew up with. Chrome not available. Total 3508."
   }
  ],
  "history": [
@@ -25946,6 +25967,10 @@
   {
    "date": "2026-11-20 05:36",
    "total": 3505
+  },
+  {
+   "date": "2026-11-20 05:37",
+   "total": 3508
   }
  ],
  "next_week_ideas": [
