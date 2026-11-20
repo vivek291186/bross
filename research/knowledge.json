@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T14:38:17+05:30",
- "runs": 1561,
+ "updated": "2026-11-20T14:39:32+05:30",
+ "runs": 1562,
  "branches": [
   {
    "id": "platforms",
@@ -2561,6 +2561,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1551
+    },
+    {
+     "t": "Meta said on its Q3 2026 call that nearly 45% of the Reels it recommends are less than a day old, so Instagram strongly favours fresh posts; a daily Bro Bros Reel matters more than reposting older ones, and a Reel's first 24 hours decide most of its reach.",
+     "src": "Meta Q3 2026 earnings call via Keywords Everywhere, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1562
     }
    ]
   },
@@ -26171,11 +26178,7 @@
  "log": [
   {
    "date": "2026-11-20 07:43",
-   "note": "Summary of older entries: runs up to Run 1482 (global markets (African kids channels, dubbing tests; TRENDS skipped, nothing new in run 1476)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 07:43",
-   "note": "Run 1483 (visual craft (thumbnail studies, 2026 animation styles)): Nothing new: vidIQ's 500 breakout thumbnail study, YouTube's native thumbnail and title testing, calm low stimulation styles and Unreal based kids pipelines were already in the tree. No leaves added. Chrome not available. Total 3605."
+   "note": "Summary of older entries: runs up to Run 1483 (visual craft (thumbnail studies, 2026 animation styles)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 08:40",
@@ -26488,6 +26491,10 @@
   {
    "date": "2026-11-20 14:38",
    "note": "Run 1561 (YouTube algorithm (custom feeds in the top bar, Shorts limit for all)): New: custom AI feeds replaced the topic chips at the top of US Home in Nov 2026, the zero minute Shorts limit is now open to every phone user, and a desktop Home test puts long videos above Shorts. The Shorts player redesign, UK broadcaster prominence consultation and Hype expansion were already filed. Chrome not available. Total 3725."
+  },
+  {
+   "date": "2026-11-20 14:39",
+   "note": "Run 1562 (Shorts and Reels algorithm (Reels freshness)): New: Meta says nearly 45% of recommended Reels are under a day old, so daily fresh Reels beat reposts. Sequence ranking, Content Protection, Amazon Reels links, the repost rule and Shorts hook guides were already filed. Chrome not available. Total 3726."
   }
  ],
  "history": [
@@ -27362,6 +27369,10 @@
   {
    "date": "2026-11-20 14:38",
    "total": 3725
+  },
+  {
+   "date": "2026-11-20 14:39",
+   "total": 3726
   }
  ],
  "next_week_ideas": [
