@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:36:37+05:30",
- "runs": 1677,
+ "updated": "2026-11-21T03:37:41+05:30",
+ "runs": 1678,
  "branches": [
   {
    "id": "platforms",
@@ -5165,6 +5165,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1669
+    },
+    {
+     "t": "Metricool's YouTube grid for our brand for 21 to 27 Nov 2026 shows weekends flatten into a plateau from 16:00 to 18:00 IST (Sunday 17:00 about 5,400 against 16:00 about 5,600) with a second bump at 10:00 IST on Saturday, so on weekends a video posted anywhere between 15:30 and 16:30 IST loses little.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1678
+    },
+    {
+     "t": "Google's 2026 holiday report on YouTube says gamified gift formats gain views sharply just before Black Friday and stay high until mid December, then on 26 December interest switches to unboxing and 'what I got' videos (over 30M views for such titles in Dec 2025 to Jan 2026), so Bro Bros should schedule a 'what we got' thank you song to go live on 25 or 26 December.",
+     "src": "Google, 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1678
+    },
+    {
+     "t": "Sendible's April 2026 Reels timing guide gives conflicting answers (5 AM, then 9 AM to noon, then 8 AM to noon on Wednesday and Thursday) and states no time zone, a reminder that generic best time articles disagree and our own Metricool grid (Reels peak 10:00 IST) is the better guide.",
+     "src": "Sendible, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1678
     }
    ]
   },
@@ -15511,6 +15532,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1590
+    },
+    {
+     "t": "Advent calendar videos on YouTube grew from about 14M views in September 2025 to 75M in October and 280M in November, over 850M for the season, so an advent countdown series must already be live by late November rather than starting on 1 December.",
+     "src": "Google, 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1678
     }
    ]
   },
@@ -27595,10 +27623,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:46",
-   "note": "Run 1599 (TRENDS (December dance challenges, New Year, family TikTok dances)): Nothing new: the Charlie Brown dance revival, the Christmas 'say the word on the beat' game, Noon Year's Eve and the copycat chain dance were already filed; the family dance lists found were from 2023. Trend bank unchanged. No leaves added. Chrome not available. Total 3785."
-  },
-  {
    "date": "2026-11-20 17:47",
    "note": "Run 1600 (music craft (Kid Albums chart, preschool tempo studies)): Nothing new: Billboard's Kid Albums page still serves the 8 Nov 2025 chart already filed (Charlie Brown Christmas at No. 1, CoComelon, Baby Shark and Super Simple the only YouTube born brands), and the preschool music preference studies found were already in the tree. No leaves added. Chrome not available. Total 3785."
   },
@@ -27909,13 +27933,13 @@
   {
    "date": "2026-11-21 03:36",
    "note": "Run 1677 (TRENDS (SocialPilot Reels 17 to 25 Nov, Virlo November list, Know Your Meme 18 Nov, Later 13 Nov)): Most formats (Stop the wedding, silly little life, Blue Danube, Deck the Halls AI, 5 stages) were already filed. New: 8 of 11 trending Reels sounds this week are major label tracks, Virlo's newest top 10 November trend is from 12 Nov so fresh trend churn has slowed into the holiday season, and an AI country song uploaded in March 2025 broke out only in Nov 2026 through remixes (mature, we skip it). Chrome not available. Total 3928."
+  },
+  {
+   "date": "2026-11-21 03:37",
+   "note": "Run 1678 (POSTING TIMES (Metricool best times 21 to 27 Nov rechecked, Google holiday YouTube report, Sendible Reels timing)): Metricool still puts YouTube at 16:00 IST and Instagram at 10:00 IST every day, so the two slots stay unchanged. New: on weekends the YouTube peak flattens into a 16:00 to 18:00 IST plateau with a second rise at 10:00 IST on Saturday; Google says views on gift content flip on 26 December to unboxing and what I got content; Sendible's Reels timing summary contradicts itself, so we keep our own data. Chrome not available. Total 3932."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:47",
-   "total": 3382
-  },
   {
    "date": "2026-11-19 23:48",
    "total": 3385
@@ -29111,6 +29135,10 @@
   {
    "date": "2026-11-21 03:36",
    "total": 3928
+  },
+  {
+   "date": "2026-11-21 03:37",
+   "total": 3932
   }
  ],
  "next_week_ideas": [
