@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:41:47+05:30",
- "runs": 1458,
+ "updated": "2026-11-20T06:42:35+05:30",
+ "runs": 1459,
  "branches": [
   {
    "id": "platforms",
@@ -16799,6 +16799,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1447
+    },
+    {
+     "t": "Omdia's 17 Nov 2026 analysis (Jan to Jun 2026, TV, mobile and PC) found Netflix viewers out watch YouTube viewers daily in Mexico (127 vs 95 minutes), Brazil (111 vs 87), Colombia (133 vs 78) and Argentina (126 vs 99), the reverse of the US (YouTube 112 vs Netflix 87), so in Latin America our long YouTube compilations compete with Netflix kids shows for the family TV and need a strong first minute.",
+     "src": "Omdia, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1459
     }
    ]
   },
@@ -25058,11 +25065,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)) and Run 1378 (rules and monetisation recheck) and Run 1379 (topics and seasons (TRENDS skipped; own results unchanged since run 1367)): earlier rounds summarised; details live in the leaves."
-  },
-  {
-   "date": "2026-11-19 23:48",
-   "note": "Run 1380 (other platforms recheck (TRENDS skipped; Netflix and Roblox)): Nothing new: Gabby's Dollhouse season 14 on Netflix, CrunchLabs and the fastest growing November Roblox games were already in the tree; no Netflix kids top 10 for November 2026 could be read. No leaves added. Chrome not available. Total 3385."
+   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)) and Run 1378 (rules and monetisation recheck) and Run 1379 (topics and seasons (TRENDS skipped; own results unchanged since run 1367)) and Run 1380 (other platforms recheck (TRENDS skipped; Netflix and Roblox)): earlier rounds summarised; details live in the leaves."
   },
   {
    "date": "2026-11-19 23:49",
@@ -25375,6 +25378,10 @@
   {
    "date": "2026-11-20 06:41",
    "note": "Run 1458 (TRENDS (Gen Alpha catchphrase 'satisfying', Christmas dance search)): No new Christmas dance trend has broken out yet (TikTok search pages only). New: Yahoo Life (6 and 10 Nov) reports 'satisfying' and 'it's ASMR' are now everyday Gen Alpha catchphrases for squishy, slime and crack sounds, and NeeDoh's maker sold its whole planned 2026 stock in nine weeks; added a 'So satisfying squish' trend and song idea. Dropped the evergreen puppy ears dance from the trend bank to make room. Chrome not available. Total 3566."
+  },
+  {
+   "date": "2026-11-20 06:42",
+   "note": "Run 1459 (global markets (Latin America viewing time)): Auto dubbing (27 languages) and Latin America YouTube reach were already in the tree. New: Omdia's 17 Nov data shows Netflix viewers in Mexico, Brazil, Colombia and Argentina watch 111 to 133 minutes a day against 78 to 99 for YouTube viewers, the reverse of the US. Chrome not available. Total 3567."
   }
  ],
  "history": [
@@ -26481,6 +26488,10 @@
   {
    "date": "2026-11-20 06:41",
    "total": 3566
+  },
+  {
+   "date": "2026-11-20 06:42",
+   "total": 3567
   }
  ],
  "next_week_ideas": [
