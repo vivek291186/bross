@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:46:29+05:30",
- "runs": 1464,
+ "updated": "2026-11-20T06:47:18+05:30",
+ "runs": 1465,
  "branches": [
   {
    "id": "platforms",
@@ -4717,6 +4717,34 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1453
+    },
+    {
+     "t": "vidIQ's study of about 40 million US long form uploads (updated Jun 2026), comparing each video's 30 day views with its own channel's average, found Sunday uploads do best (about +3.5%) and Wednesday worst (about -2%), and the hour of upload evens out within a few percent by day 30, so for Bro Bros consistency matters far more than the exact minute.",
+     "src": "vidIQ, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1465
+    },
+    {
+     "t": "In the same vidIQ data, posting in a channel's own strong windows rather than weak ones lifted 30 day views by about 14 to 32% depending on category (entertainment and animation about +24%), which supports moving our slots to match our own Studio 'when your viewers are on YouTube' heatmap once we have two weeks of data.",
+     "src": "vidIQ, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1465
+    },
+    {
+     "t": "vidIQ also advises clustering one long video with 2 or 3 Shorts across the week and not posting a long video and a Short within the same four hours, but shows no data for it, which conflicts with our plan of a Short 5 minutes after each song; worth testing for one week rather than changing now.",
+     "src": "vidIQ, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1465
+    },
+    {
+     "t": "Metricool's best time model for our brand for 21 to 27 Nov 2026 again peaks YouTube at 16:00 IST on every day, highest on Wednesday (about 12,000) and Thursday (about 12,000) and lowest on Saturday and Sunday (about 5,600 to 5,900), matching the current 16:00 IST slot.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1465
     }
    ]
   },
@@ -25107,11 +25135,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)) and Run 1378 (rules and monetisation recheck) and Run 1379 (topics and seasons (TRENDS skipped; own results unchanged since run 1367)) and Run 1380 (other platforms recheck (TRENDS skipped; Netflix and Roblox)) and Run 1381 (topics and seasons (giving week; TRENDS and Shorts rechecks found nothing new)) and Run 1382 (global markets (Middle East and North Africa animation demand)) and Run 1383 (global markets (France)) and Run 1384 (global markets (Poland)) and Run 1385 (visual craft (Ozzy Fox moves from YouTube to Disney+)): earlier rounds summarised; details live in the leaves."
-  },
-  {
-   "date": "2026-11-20 00:38",
-   "note": "Run 1386 (TRENDS (week of 16 to 22 Nov)): New this week: the 'This is your sign to' caption format is rising, 'expectation vs reality' face swaps are peaking, a deadpan long stare skit tag grew 69% in a week to 211.8M views, and a Christian Dior duo routine (back away, hand slap, kick, pose) ranks on the 13 Nov chart. Added three trend bank formats. Chrome not available. Total 3402."
+   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)) and Run 1378 (rules and monetisation recheck) and Run 1379 (topics and seasons (TRENDS skipped; own results unchanged since run 1367)) and Run 1380 (other platforms recheck (TRENDS skipped; Netflix and Roblox)) and Run 1381 (topics and seasons (giving week; TRENDS and Shorts rechecks found nothing new)) and Run 1382 (global markets (Middle East and North Africa animation demand)) and Run 1383 (global markets (France)) and Run 1384 (global markets (Poland)) and Run 1385 (visual craft (Ozzy Fox moves from YouTube to Disney+)) and Run 1386 (TRENDS (week of 16 to 22 Nov)): earlier rounds summarised; details live in the leaves."
   },
   {
    "date": "2026-11-20 01:37",
@@ -25423,7 +25447,11 @@
   },
   {
    "date": "2026-11-20 06:46",
-   "note": "Run 1464 (TRENDS (meme dance pages, YouTube holiday formats report)): Nothing new: YouTube's holiday report numbers (advent calendar videos 850M views, Secret Santa and 'what I got' surges) were already in the tree, and the only dance meme found (a cartoon penguin character's 2025 dance) is a protected character and has no dated 2026 activity, so it was not added. No leaves added. Chrome not available. Total 3573."
+   "note": "Run 1464 (TRENDS (meme dance pages, YouTube holiday formats report)): Nothing new: YouTube's holiday report numbers (advent calendar videos 850M views, Secret Santa and 'what I got' surges) were already in the tree, and the only dance meme found (a 2025 dance built on a protected preschool cartoon character) is a protected character and has no dated 2026 activity, so it was not added. No leaves added. Chrome not available. Total 3573."
+  },
+  {
+   "date": "2026-11-20 06:47",
+   "note": "Run 1465 (algorithm and posting times (vidIQ 40M video timing study, Metricool recheck)): Metricool's 21 to 27 Nov model again peaks YouTube at 16:00 IST every day (Wednesday about 12,000), so both slots stay. New: vidIQ's study of 40M US long videos finds day of week moves 30 day views only a few percent (Sunday +3.5% best, Wednesday about -2% worst) and hour barely matters by day 30, while picking a channel's strong windows adds 14 to 32% in some categories. Chrome not available. Total 3577."
   }
  ],
  "history": [
@@ -26554,6 +26582,10 @@
   {
    "date": "2026-11-20 06:46",
    "total": 3573
+  },
+  {
+   "date": "2026-11-20 06:47",
+   "total": 3577
   }
  ],
  "next_week_ideas": [
@@ -26754,6 +26786,6 @@
   ],
   "days": "Every day. Put the strongest song of the week and the weekly compilation on Friday; weekends get lighter, evergreen songs.",
   "shorts": "Short 5 minutes after each video; extra Shorts work best Thursday to Saturday evenings local time.",
-  "test": "Run this for 2 weeks, then compare in YouTube Studio (Audience: When your viewers are on YouTube) and move each slot to 2 to 3 hours before our real peaks. Extra test: post one bonus Short a day for a week at 22:30 IST (17:00 UTC, the strongest Shorts hour in PostFast's data) and compare its views with the Shorts that follow our two main videos."
+  "test": "Run this for 2 weeks, then compare in YouTube Studio (Audience: When your viewers are on YouTube) and move each slot to 2 to 3 hours before our real peaks. Extra test: post one bonus Short a day for a week at 22:30 IST (17:00 UTC, the strongest Shorts hour in PostFast's data) and compare its views with the Shorts that follow our two main videos. Third test: for one week post each Short 4 hours after its long video instead of 5 minutes later (vidIQ's suggestion, no data shown) and compare."
  }
 }
