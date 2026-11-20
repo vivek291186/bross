@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T14:42:16+05:30",
- "runs": 1565,
+ "updated": "2026-11-20T15:35:32+05:30",
+ "runs": 1566,
  "branches": [
   {
    "id": "platforms",
@@ -26186,6 +26186,34 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1563
+    },
+    {
+     "t": "A TikTok slideshow format called 'How Kids See Us' started on 19 Sep 2026 and was still active in late October: older students post scary black and white portraits with the caption 'how first graders see us', top post about 3.5M views; it is teen made, uses real people's photos and leans mocking, so we never copy it directly.",
+     "src": "Know Your Meme and meme.com, Oct to Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1566
+    },
+    {
+     "t": "A kid safe flip of 'How Kids See Us' fits Bro Bros: Little Bro's view of Big Bro as a giant superhero, then a cut to the real goofy Big Bro dancing, both drawn by us with our own song.",
+     "src": "Our idea from Know Your Meme, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1566
+    },
+    {
+     "t": "Matheus Cunha's World Cup 2026 surf celebration (arms spread wide, body swaying as if riding a wave) was copied by team mates and, per Albanian press, by children on school pitches worldwide; it is a simple standing move that still reads to football fans.",
+     "src": "Telegrafi, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1566
+    },
+    {
+     "t": "Parent press warns that behind the scenes Elf on the Shelf and Santa prep clips on TikTok can spoil holiday magic for kids who scroll, so our December videos should always keep the magic intact and never show the trick from the grown up side.",
+     "src": "Distractify, Dec 2025 (headline level)",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1566
     }
    ]
   }
@@ -26213,11 +26241,7 @@
  "log": [
   {
    "date": "2026-11-20 08:43",
-   "note": "Summary of older entries: runs up to Run 1486 (rules, safety and monetisation (AI slop enforcement, new child safety laws, Q4 RPM)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 08:43",
-   "note": "Run 1487 (our own results (Metricool recheck at 08:45 IST)): Nothing new since run 1475: the 19 Nov Reels are still at 4 and 9 views, no Reel after 19 Nov has synced, and YouTube data still stops at 17 Nov (2,150 subscribers). No leaves added. Chrome not available. Total 3610."
+   "note": "Summary of older entries: runs up to Run 1487 (our own results (Metricool recheck at 08 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 08:44",
@@ -26530,6 +26554,10 @@
   {
    "date": "2026-11-20 14:42",
    "note": "Run 1565 (visual craft (flat 3D over painted backdrops)): New: Ada's pipeline of flat rendered 3D characters over painted 2D backgrounds with one restricted palette per episode, a cheap way to make each song look distinct. Toy Story 5's pastel lighting and Test and Compare data were already filed. Chrome not available. Total 3731."
+  },
+  {
+   "date": "2026-11-20 15:35",
+   "note": "Run 1566 (TRENDS (How Kids See Us, surf celebration, Elf magic)): New: the TikTok 'How Kids See Us' slideshow (teens posting scary portraits labelled as how first graders see them, since 19 Sep 2026, top post about 3.5M views) can be flipped into a sweet 'how Little Bro sees Big Bro' Reel; Cunha's World Cup surf celebration that kids copied in schools is a ready standing move. Trend bank: one new entry. Chrome not available. Total 3735."
   }
  ],
  "history": [
@@ -27420,6 +27448,10 @@
   {
    "date": "2026-11-20 14:42",
    "total": 3731
+  },
+  {
+   "date": "2026-11-20 15:35",
+   "total": 3735
   }
  ],
  "next_week_ideas": [
@@ -27481,6 +27513,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "How Little Bro sees Big Bro",
+   "where": "TikTok slideshow, flipped for Reels and Shorts",
+   "status": "rising",
+   "use": "Kind flip of the teen 'How Kids See Us' slideshow: first card shows Big Bro as a giant cape wearing hero from Little Bro's low camera, caption 'how Little Bro sees me'; cut to the real Big Bro doing a goofy wiggle dance (standing, in place, shoulders bounce, arms wiggle side to side) to our own song. Never use real photos or scary portraits."
+  },
   {
    "name": "I haven't done anything this year",
    "where": "TikTok and Instagram Reels (rising mid Nov 2026, parent creators)",
@@ -27594,12 +27632,6 @@
    "where": "Instagram Reels, TikTok (parents, December)",
    "status": "seasonal",
    "use": "A 12 second split screen Reel set to our own jingly holiday song: left side 'Instagram Christmas' shows a calm, neat beige tree; right side 'Bros Christmas' shows the brothers piling on every bright ornament, tinsel on their heads and the little brother tangled in lights, then both sides cut to the Bros doing a happy two step and a big arms up pose. Meshy prompt: standing in place, side step left and right with claps, then both arms up. Caption 'Which tree is yours?'."
-  },
-  {
-   "name": "Matching pyjamas deadpan dance",
-   "where": "TikTok, Reels (from 2 Nov 2026, rising into December)",
-   "status": "rising",
-   "use": "Both Bros (plus a friend for a trio) in matching Christmas pyjamas, straight faces, side by side, on our own Deck the Halls arrangement: hands at collar then on hips with hip sways; rolling arms with small side steps; Big Bro points at Little Bro; both bump hips and hop; one slow spin in place; hand on chest then one finger up; fists up and a clap; then they walk to camera giggling. Standing, in place, no floor moves. 14 second Reel and Short, then the full song."
   }
  ],
  "posting_plan": {
