@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:57:28+05:30",
- "runs": 1611,
+ "updated": "2026-11-20T17:58:10+05:30",
+ "runs": 1612,
  "branches": [
   {
    "id": "platforms",
@@ -11346,6 +11346,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1588
+    },
+    {
+     "t": "Suno's kids music page says a kids song should carry a game without drowning its instructions: a refrain that comes back quickly, a bar where the backing thins out so a spoken direction ('now freeze!') is heard, a clean stop or held note for the freeze and a short tag to start the next round, which is a ready template for our freeze and action songs.",
+     "src": "Suno, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1612
+    },
+    {
+     "t": "For movement songs the same Suno guide suggests matching the pulse to the action (an even bouncy beat for skipping, more space between accents for swaying) and a play party folk sound with fiddle style melody, banjo picking or a hand drum under a lead and group call and response, a warm alternative to our usual pop beds for variety.",
+     "src": "Suno, 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1612
+    },
+    {
+     "t": "Suno's own featured kids tracks run from about 30 seconds to 3 minutes and cover fruits, colours, brushing teeth, bath time, animal sounds and community helpers, the same evergreen routine and learning themes that lead kids charts.",
+     "src": "Suno, 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1612
     }
    ]
   },
@@ -26717,11 +26738,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1532 (global markets (Mexico and Latin America)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 12:55",
-   "note": "Run 1533 (competitor deep dive (Lalafun; ChuChu TV page blocked)): Lalafun's newest Animal Version upload and title style were already filed. New: its 28 day views to 19 Nov (about 555M) are well below October's 702M even though subscribers keep rising about 500K a month, so post Halloween November is a softer month for kids song views before the Christmas lift. Chrome not available. Total 3672."
+   "note": "Summary of older entries: runs up to Run 1533 (competitor deep dive (Lalafun; ChuChu TV page blocked)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 12:56",
@@ -27034,6 +27051,10 @@
   {
    "date": "2026-11-20 17:57",
    "note": "Run 1611 (TRENDS (classroom and playground dances, KPop Demon Hunters after a year)): Nothing new: the teacher and student veggie dance battle, Thumak classroom clips and the KPop Demon Hunters wave were already filed; the foot shake partner challenge page is from 2019 and the South African classroom kick dance had no steps or numbers. Trend bank unchanged. No leaves added. Chrome not available. Total 3803."
+  },
+  {
+   "date": "2026-11-20 17:58",
+   "note": "Run 1612 (music craft (Suno's kids music guide, Spotify kids settings)): New: Suno's own kids music page frames a kids song as a game carrier: play party folk sounds (fiddle, banjo picking, hand drum), a refrain that returns fast, a thinned bar for spoken directions and a clean stop for freezes, with example tracks from 30 seconds to 3 minutes; Spotify's kids taste toggle and Wrapped timing were already filed. Chrome not available. Total 3806."
   }
  ],
  "history": [
@@ -28108,6 +28129,10 @@
   {
    "date": "2026-11-20 17:57",
    "total": 3803
+  },
+  {
+   "date": "2026-11-20 17:58",
+   "total": 3806
   }
  ],
  "next_week_ideas": [
