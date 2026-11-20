@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:49:25+05:30",
- "runs": 1636,
+ "updated": "2026-11-20T19:40:53+05:30",
+ "runs": 1637,
  "branches": [
   {
    "id": "platforms",
@@ -11416,6 +11416,48 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1631
+    },
+    {
+     "t": "A Chongqing kindergarten study (BMC Psychology, Apr 2026; 67 children aged 4 to 5) found 8 weeks of twice weekly music play, either drums and maracas or rhythm games with singing and movement, raised teacher rated self control, persistence and waiting for a reward compared with no music, so play along percussion songs ('tap your drum, now wait, now go!') add real value for preschoolers.",
+     "src": "BMC Psychology via Springer, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1637
+    },
+    {
+     "t": "In the same study the drum only group and the mixed singing and movement group did equally well, so a Bro Bros song does not need real instruments at home: pretend drumming on knees or a pot, with clear stop and wait moments, carries the same game.",
+     "src": "BMC Psychology via Springer, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1637
+    },
+    {
+     "t": "A 2026 infant study (79 babies tested at 3, 6 and 12 months) found their movement to music grows more organised by 12 months but none of the groups truly moved in time with the beat, more support for baby songs that change energy (soft, then big, then stop) rather than relying on babies following a steady groove.",
+     "src": "Brain Building Beats research review, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1637
+    },
+    {
+     "t": "Two 2025 and 2026 studies of 4 to 6 year olds found that recalling an answer (retrieval practice) helps learning more than simply hearing it again, so learning songs should leave a short gap for kids to shout the answer before the Bros sing it (what colour is this? ... BLUE!) instead of only repeating the word.",
+     "src": "Brain Building Beats research review, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1637
+    },
+    {
+     "t": "A large twin study (1,163 twins) found that singing together in the family during childhood predicted adult singing ability, one more reason to write simple sing along parts that parents and children can sing together, not just watch.",
+     "src": "Brain Building Beats research review, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1637
+    },
+    {
+     "t": "Lingokids' spoken rhythm 'ABC Chant', a beat with words chanted rather than sung, passed 60M YouTube views, so a chant style track (clapped beat, short spoken lines, kids echo) is a cheap Suno format worth testing next to normal sung songs.",
+     "src": "Lingokids blog, 2020 (page updated Oct 2026)",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1637
     }
    ]
   },
@@ -26892,11 +26934,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1557 (competitor deep dive (ChuChu TV, Moonbug holiday specials)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 14:35",
-   "note": "Run 1558 (rules and monetisation (2027 Partner Program cut off)): New from AIR's dated timeline: applications sent by 31 Jan 2027 are judged on today's lower bar, missing the new terms pauses payouts without removing the channel, and a five channel targeted Shorts ad pays 45% direct. UK, EU and FTC kids rules were already filed. Chrome not available. Total 3719."
+   "note": "Summary of older entries: runs up to Run 1558 (rules and monetisation (2027 Partner Program cut off)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 14:36",
@@ -27209,6 +27247,10 @@
   {
    "date": "2026-11-20 18:49",
    "note": "Run 1636 (topics and seasons (Google Holiday 100 recheck; TRENDS skipped as already rechecked twice this run)): Nothing new: Google Holiday 100 toy searches (classic train sets, roller skates) and the retro song revival were already filed. No leaves added. Chrome not available. Total 3828."
+  },
+  {
+   "date": "2026-11-20 19:40",
+   "note": "Run 1637 (music craft (new child music studies and chant formats)): New: a Chongqing study found 8 weeks of twice weekly drum, maraca and rhythm game sessions raised 4 to 5 year olds' self control and patience; a 2026 infant study found babies up to 12 months move more in a structured way but do not lock to the beat; retrieval practice beats rewatching for 4 to 6 year olds; Lingokids' spoken 'ABC Chant' reached 60M views. Chrome not available. Total 3834."
   }
  ],
  "history": [
@@ -28383,6 +28425,10 @@
   {
    "date": "2026-11-20 18:49",
    "total": 3828
+  },
+  {
+   "date": "2026-11-20 19:40",
+   "total": 3834
   }
  ],
  "next_week_ideas": [
