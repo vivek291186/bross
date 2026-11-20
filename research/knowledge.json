@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:37:05+05:30",
- "runs": 1432,
+ "updated": "2026-11-20T05:38:09+05:30",
+ "runs": 1433,
  "branches": [
   {
    "id": "platforms",
@@ -8462,6 +8462,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1424
+    },
+    {
+     "t": "Mediawan's kids and family president (Jan 2026) expects digital first animation, a strong return of action adventure and targeted live action to lead in 2026, notes a Miraculous chibi series launched on Roblox before YouTube, and warns AI will bring 'a tsunami' of user made kids content that makes a clear brand and characters the main way to stand out.",
+     "src": "C21Media, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1433
     }
    ]
   },
@@ -12459,6 +12466,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1417
+    },
+    {
+     "t": "Common Sense's attention capture guide rates low and medium visual pace as fine for every age, high pace as 'not recommended' for 0 to 2 and 'limited, watch together' for 3 to 5, and very high pace as 'avoid' under 2, so keeping our cuts, flashes and camera moves at medium keeps Bro Bros acceptable for the whole 2 to 8 family audience.",
+     "src": "Common Sense Media video analyser, 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1433
+    },
+    {
+     "t": "The attention capture score is built only from pictures (scene changes, contrast jumps, sudden motion, busy frames) and ignores sound, so a loud energetic song can still rate calm if the camera holds shots, colours change gently and backgrounds stay simple.",
+     "src": "Common Sense Media video analyser, 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1433
     }
    ]
   },
@@ -24652,11 +24673,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-19 22:42",
-   "note": "Run 1354 (posting times recheck (TRENDS skipped as nothing new two rounds ago)): Metricool Instagram best times for 20 to 26 Nov peak at 10:00 IST with Friday strongest; the queue still runs 10:00 and 16:00 IST to 22 Nov 16:05 with nothing after. Big posting time studies (Buffer, PostFast, Bytecap) were already in the tree. Posting plan unchanged. Chrome not available. Total 3360."
+   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 22:42",
@@ -24969,6 +24986,10 @@
   {
    "date": "2026-11-20 05:37",
    "note": "Run 1432 (music craft (what kids stream and why)): Most craft rules were already in the tree. New: a small label's action song versions (clap and stomp, countdown, spelling game) top kids streaming lists with 11M to 21M streams each; Spotify's 2026 summer list shows a Latin plus Afrobeats football anthem hit No. 1 in 17 countries and a dance led hook tripled its streams; local Spotify data shows kids' top songs are mostly classics parents grew up with. Chrome not available. Total 3508."
+  },
+  {
+   "date": "2026-11-20 05:38",
+   "note": "Run 1433 (visual craft (pacing ratings by age, studio outlook)): Thumbnail and title testing, squishy 3D looks and Common Sense's flicker score were already in the tree. New: that score's age table (high pace is 'not recommended' under 2 and 'limited, watch together' for 3 to 5), and Mediawan's kids chief expecting action adventure, digital first shows and Roblox style interaction to lead in 2026. Chrome not available. Total 3511."
   }
  ],
  "history": [
@@ -25971,6 +25992,10 @@
   {
    "date": "2026-11-20 05:37",
    "total": 3508
+  },
+  {
+   "date": "2026-11-20 05:38",
+   "total": 3511
   }
  ],
  "next_week_ideas": [
