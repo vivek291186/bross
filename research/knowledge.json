@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:45:25+05:30",
- "runs": 1572,
+ "updated": "2026-11-20T15:46:27+05:30",
+ "runs": 1573,
  "branches": [
   {
    "id": "platforms",
@@ -4913,6 +4913,27 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1561
+    },
+    {
+     "t": "YouTube's blog recap of 16 Nov 2026 (Rene Ritchie) says the coming video A/B test runs two or three cuts of one video, starting with Shorts, names a predicted winner from retention curves rather than click rate, and gives the creator seven days to choose which edit stays live; no release date or eligibility is set yet.",
+     "src": "ppc.land citing YouTube blog, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1573
+    },
+    {
+     "t": "YouTube's creator liaison said in October 2026 that adding a voice over, small technical edits or a different template does not make a reused clip original for the Shorts feed, so our Shorts should always be freshly cut from our own songs with a new hook rather than the same clip reposted with a new caption.",
+     "src": "ppc.land citing Creator Insider, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1573
+    },
+    {
+     "t": "Under the spam policy that YouTube ties to its Shorts originality push, a warning can be cleared by optional training after 90 days, but three strikes within 90 days can end a channel, so any reused or mass produced looking upload risks more than just lower reach.",
+     "src": "ppc.land, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1573
     }
    ]
   },
@@ -26318,11 +26339,7 @@
  "log": [
   {
    "date": "2026-11-20 08:43",
-   "note": "Summary of older entries: runs up to Run 1493 (visual craft (thumbnail face studies, pacing and overstimulation research)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 08:49",
-   "note": "Run 1494 (TRENDS (Later and Sprout Social Reels pages)): Nothing new: Later's weekly Reels list is still the 13 Nov update (5 stages of, outfit transition, timestamps, runway text, pyjama waltz switch), all already in the tree, and Sprout Social's list is an evergreen September page. No leaves added. Chrome not available. Total 3617."
+   "note": "Summary of older entries: runs up to Run 1494 (TRENDS (Later and Sprout Social Reels pages)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 08:49",
@@ -26635,6 +26652,10 @@
   {
    "date": "2026-11-20 15:45",
    "note": "Run 1572 (TRENDS (India, Spanish and Portuguese recheck)): Thin round: Indian, Spanish and Brazilian trend pages found were old (2025) or blocked, and the Christmas, Thanksgiving and Reels lists were already filed. New: the popular AI 'dance from one photo' tools that ride the Christmas dance trend sit next to twerking, kissing and body changing effects, so we never point kids or parents to them. Trend bank unchanged. Chrome not available. Total 3746."
+  },
+  {
+   "date": "2026-11-20 15:46",
+   "note": "Run 1573 (YouTube algorithm (video A/B tests recap, originality in Shorts)): Most items (Shorts thumbnails, dynamic thumbnails, the 1 Oct originality post) were already filed. New: YouTube's 16 Nov 2026 blog recap says video A/B tests judge winners on retention, not click rate, with seven days to choose a cut, and that voice over or small template edits do not make a reused clip original. Chrome not available. Total 3749."
   }
  ],
  "history": [
@@ -27553,6 +27574,10 @@
   {
    "date": "2026-11-20 15:45",
    "total": 3746
+  },
+  {
+   "date": "2026-11-20 15:46",
+   "total": 3749
   }
  ],
  "next_week_ideas": [
