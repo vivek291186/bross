@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T14:40:27+05:30",
- "runs": 1563,
+ "updated": "2026-11-20T14:41:22+05:30",
+ "runs": 1564,
  "branches": [
   {
    "id": "platforms",
@@ -11143,6 +11143,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1554
+    },
+    {
+     "t": "A Journal of Child Language study ('Spoken or sung?', 2025 online, 2026 issue; 32 four year olds) found children learned four new words from both speech and a sung melody, but learned them better from plain speech (about 69% versus 63% looking at the right object), so a Bro Bros teaching song should also say each new word clearly in a spoken line, for example Big Bro naming it before the chorus sings it.",
+     "src": "Journal of Child Language (Cambridge), 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1564
+    },
+    {
+     "t": "The same study tested immediately and only with a new melody, so songs may still win for long term memory and repetition; the practical rule is speak it, show it, then sing it, rather than trusting the song alone to teach a new word.",
+     "src": "Journal of Child Language (Cambridge), 2026 (our reading)",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1564
     }
    ]
   },
@@ -26191,12 +26205,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 08:40",
-   "note": "Summary of older entries: runs up to Run 1484 (competitor deep dive (Little Angel and ChuChu TV upload pace)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 08:42",
-   "note": "Run 1485 (TRENDS (SocialBee 19 Nov Reels audio list, B&T November TikTok column)): New: SocialBee's 19 Nov list adds a stop motion trend where people spell a word letter by letter with their bodies, quick cut per pose; turned into a 'Bro Bros spell it with your body' Short. Nothing else new (back to back bump, runway walks, Ramalama reveal already in the tree) and still no winter dance trend. Chrome not available. Total 3610."
+   "note": "Summary of older entries: runs up to Run 1485 (TRENDS (SocialBee 19 Nov Reels audio list, B&T November TikTok column)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 08:43",
@@ -26509,6 +26519,10 @@
   {
    "date": "2026-11-20 14:40",
    "note": "Run 1563 (TRENDS (Gen Alpha slang safety, Roblox recheck)): New: a list of popular kid slang that hides swears, innuendo or looks based insults to keep out of our lyrics, plus the few harmless words safe for older kid Shorts. Roblox November hits and six seven were already filed. Trend bank unchanged. Chrome not available. Total 3728."
+  },
+  {
+   "date": "2026-11-20 14:41",
+   "note": "Run 1564 (music craft (speech versus song word learning)): New counter evidence: four year olds learned new words a little better from clear speech than from song, so teaching songs should speak each new word once before singing it. Baby Shark's Spotify milestone and the infant singing studies were already filed. Chrome not available. Total 3730."
   }
  ],
  "history": [
@@ -27391,6 +27405,10 @@
   {
    "date": "2026-11-20 14:40",
    "total": 3728
+  },
+  {
+   "date": "2026-11-20 14:41",
+   "total": 3730
   }
  ],
  "next_week_ideas": [
