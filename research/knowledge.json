@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:01:24+05:30",
- "runs": 1617,
+ "updated": "2026-11-20T18:02:25+05:30",
+ "runs": 1618,
  "branches": [
   {
    "id": "platforms",
@@ -26794,11 +26794,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1538 (YouTube algorithm (YouTube Kids gate, new channel benchmarks)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 12:59",
-   "note": "Run 1539 (Shorts and Reels craft (lengths and Trial Reels)): Trial Reels, loop and hook studies were already filed. New from Shortimize's late 2025 length review: Shorts views peak around 13 seconds and again at 60 seconds while 30 to 45 seconds underperforms, and Shorts over a minute face stricter music claim checks. Chrome not available. Total 3685."
+   "note": "Summary of older entries: runs up to Run 1539 (Shorts and Reels craft (lengths and Trial Reels)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 13:00",
@@ -27111,6 +27107,10 @@
   {
    "date": "2026-11-20 18:01",
    "note": "Run 1617 (posting times (Metricool YouTube 22 to 28 Nov; TRENDS skipped as already rechecked)): Nothing new: Metricool's YouTube model for 22 to 28 Nov again peaks at 16:00 IST every day (Wednesday about 12.0K, Thursday 12.0K, weekends about half) with 10:00 IST second, the pattern already in the tree, so the posting plan is unchanged. No leaves added. Chrome not available. Total 3814."
+  },
+  {
+   "date": "2026-11-20 18:02",
+   "note": "Run 1618 (rules (YouTube AI disclosure help page, AI labels)): Nothing new: YouTube's GenAI disclosure rules (AI music as the main focus must be disclosed, animated visuals exempt with a description label, the 'AI use' attribute in Studio, auto detection, Partner Program risk for repeated non disclosure) were all already filed; Netflix's 2026 animated chart was also already in the tree. No leaves added. Chrome not available. Total 3814."
   }
  ],
  "history": [
@@ -28208,6 +28208,10 @@
   },
   {
    "date": "2026-11-20 18:01",
+   "total": 3814
+  },
+  {
+   "date": "2026-11-20 18:02",
    "total": 3814
   }
  ],
