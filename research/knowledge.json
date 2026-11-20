@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T11:46:40+05:30",
- "runs": 1522,
+ "updated": "2026-11-20T12:40:47+05:30",
+ "runs": 1523,
  "branches": [
   {
    "id": "platforms",
@@ -19368,6 +19368,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1517
+    },
+    {
+     "t": "Instagram's stricter 'Limited Content' setting, which parents can switch on for a teen, stops that teen from seeing, leaving or receiving comments at all, so Bro Bros Reels aimed at older siblings should ask for a save or a share ('send this to your little brother') rather than a comment.",
+     "src": "about.fb.com, Apr 2026 (updated May 2026)",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1523
+    },
+    {
+     "t": "Instagram's 13+ teen filter hides non compliant posts in Explore, Reels, Feed, Stories and even comments from accounts a teen already follows, and teen search now blocks a wider list of mature words, so one risky stunt or rough word in a caption can hide that Reel from every teen follower even though they follow us.",
+     "src": "about.fb.com, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1523
+    },
+    {
+     "t": "Meta's 2026 teen rules restrict who sees and who can contact teens but change nothing about what adult run creator accounts may post, so for Bro Bros the risk is lost reach to teen viewers, not strikes, as long as Reels stay G rated.",
+     "src": "about.fb.com, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1523
     }
    ]
   },
@@ -25610,12 +25631,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 05:40",
-   "note": "Summary of older entries: runs up to Run 1443 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 05:53",
-   "note": "Run 1444 (music craft (Suno's own kids prompt advice)): The 2027 Grammy kids nominees and Atlabs' workflow were already in the tree. New from Suno's kids showcase: most of its 18 example kids songs run 1 to 2.5 minutes, and its prompt advice is to name the listener's age, the movement moment, the energy and the sounds (bouncy beat, round bass, quick hook), simple repetition for toddlers and a longer story only around age seven. Chrome not available. Total 3536."
+   "note": "Summary of older entries: runs up to Run 1443 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 05:54",
@@ -25928,6 +25945,10 @@
   {
    "date": "2026-11-20 11:46",
    "note": "Run 1522 (our own results (Metricool at 11:50 IST, 20 Nov)): Nothing new: YouTube analytics still stop at 18 Nov, Instagram's 19 Nov Reels sit at 4 and 9 views, and today's 10:00 IST Elephant Stomp Parade went live with the thumbnail warning already filed; Little Car (16:00 today) is queued. No leaves added. Chrome not available. Total 3645."
+  },
+  {
+   "date": "2026-11-20 12:40",
+   "note": "Run 1523 (rules, safety and monetisation (Nov 2026 policy check)): Most policy news (Digital Fairness Act, DPDP stages, COPPA dates, AI slop crackdown, 2027 YPP bars, CPM season) was already in the tree. New: Instagram's parent chosen Limited Content setting removes comments for teens entirely, and its 13+ filter also hides posts from accounts teens already follow, so Reels should earn saves and shares rather than comment prompts. Chrome not available. Total 3648."
   }
  ],
  "history": [
@@ -26646,6 +26667,10 @@
   {
    "date": "2026-11-20 11:46",
    "total": 3645
+  },
+  {
+   "date": "2026-11-20 12:40",
+   "total": 3648
   }
  ],
  "next_week_ideas": [
