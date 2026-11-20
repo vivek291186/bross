@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T13:40:40+05:30",
- "runs": 1552,
+ "updated": "2026-11-20T13:41:29+05:30",
+ "runs": 1553,
  "branches": [
   {
    "id": "platforms",
@@ -11087,6 +11087,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1551
+    },
+    {
+     "t": "A 2026 systematic review in BMC Psychology (21 studies, 2009 to 2024, children aged 5 to 12 including dyslexia and language disorder) found that 20 reported gains in at least one language skill (phonological awareness, reading speed or grammar) after rhythm training through clapping, drumming, singing or dancing in sync, though most lacked follow up and no meta analysis was possible.",
+     "src": "Your Therapy Source on BMC Psychology, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1553
+    },
+    {
+     "t": "In the same review 'rhythmic priming', just listening to a regular beat (some sequences only about 17 seconds) before a language task, improved children's grammar judgements compared with irregular rhythms, so a short, steady beat only intro with claps before the first sung line suits learning songs as well as dance songs.",
+     "src": "Your Therapy Source on BMC Psychology, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1553
+    },
+    {
+     "t": "Practical rhythm and reading tips drawn from that review: keep the beat steady and predictable, start slow before any speed up, clap word syllables in short 2 to 3 beat patterns before longer ones, and pause just before a rhyming word so children can predict it, all easy to build into a Bro Bros 'clap the word' verse.",
+     "src": "Your Therapy Source, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1553
     }
    ]
   },
@@ -26037,12 +26058,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 07:37",
-   "note": "Summary of older entries: runs up to Run 1473 (TRENDS (anime nervous dance, SocialPilot 17 to 25 Nov recheck)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 07:38",
-   "note": "Run 1474 (rules, safety and monetisation (Animaj AI deal details, Denmark under 15 law)): Two details new to the tree: Animaj's infant channel network (led by Hey Kids, 4M plus subscribers) pulled more than 22B views in 2025 and the Google AI fund deal gives it exclusive early access to Google's video AI tools; Denmark's under 15 ban plans a state age check app with parent approval possible from 13. Other rules news found was already in the tree. Chrome not available. Total 3595."
+   "note": "Summary of older entries: runs up to Run 1474 (rules, safety and monetisation (Animaj AI deal details, Denmark under 15 law)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 07:38",
@@ -26355,6 +26372,10 @@
   {
    "date": "2026-11-20 13:40",
    "note": "Run 1552 (TRENDS (Instagram audio chart 19 Nov, parent trends)): Instagram's 19 Nov top 50 Reels audio has no Christmas or kids song yet: GTA VI music holds five of the top 15 and Indian film songs (Dilruba Dilnasheen, Tu Mil Jaaye) rank high, so Christmas audio is running later on Reels than on TikTok. Also a parent trend of filming toddlers repeating phrases learned from tablet videos. Trend bank unchanged. Chrome not available. Total 3706."
+  },
+  {
+   "date": "2026-11-20 13:41",
+   "note": "Run 1553 (music craft (rhythm and reading review)): New: a 2026 systematic review of 21 studies (children 5 to 12) found rhythm training (clapping, drumming, singing, dancing to a beat) helped at least one language skill in 20 of them, and even about 17 seconds of a regular beat before a task helped grammar judgements; supports steady beats, clap the syllables sections and a beat only intro. Spotify Africa piece adds only known staples. Chrome not available. Total 3709."
   }
  ],
  "history": [
@@ -27193,6 +27214,10 @@
   {
    "date": "2026-11-20 13:40",
    "total": 3706
+  },
+  {
+   "date": "2026-11-20 13:41",
+   "total": 3709
   }
  ],
  "next_week_ideas": [
