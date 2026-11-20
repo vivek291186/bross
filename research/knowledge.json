@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:47:37+05:30",
- "runs": 1600,
+ "updated": "2026-11-20T17:48:14+05:30",
+ "runs": 1601,
  "branches": [
   {
    "id": "platforms",
@@ -13243,6 +13243,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1577
+    },
+    {
+     "t": "YouTube's animation report (data to Oct 2025, published Apr 2026) splits online animation into three formats: memes (a short clip of an original character singing or dancing to a set audio), animatics (rough storyboard versions) and full episodes; the meme format is exactly what a Bro Bros Short of one brother dancing to our own hook is.",
+     "src": "YouTube Culture and Trends report, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1601
+    },
+    {
+     "t": "Original meme characters spread worldwide through one sound: France's Le Poisson Steve drew over 95M views of titled videos in eight months of 2025 and Japan's Lemon Melon Cookie audio was reused in over 14,000 uploads, so a simple, instantly recognisable Bro Bros pose plus a short signature sound can be copied by fans across countries.",
+     "src": "YouTube Culture and Trends report, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1601
+    },
+    {
+     "t": "The same report says 63% of 14 to 24 fans watch YouTube made animated series weekly and 61% rate independent series as good as or better than studio ones, so viewers no longer expect studio polish; a consistent original world and characters matter more than budget.",
+     "src": "YouTube Culture and Trends report, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1601
     }
    ]
   },
@@ -17611,6 +17632,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1591
+    },
+    {
+     "t": "YouTube's survey found 50% of online 14 to 49 year old animation fans watch animated series in languages other than their own, and Korea's Alien Stage took over 90% of its 330M 2025 views from outside Korea, more evidence that animation crosses borders easily when the visuals carry the story.",
+     "src": "YouTube Culture and Trends report, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1601
     }
    ]
   },
@@ -26591,11 +26619,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1521 (competitor deep dive (Kids Diana Show)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 11:46",
-   "note": "Run 1522 (our own results (Metricool at 11:50 IST, 20 Nov)): Nothing new: YouTube analytics still stop at 18 Nov, Instagram's 19 Nov Reels sit at 4 and 9 views, and today's 10:00 IST Elephant Stomp Parade went live with the thumbnail warning already filed; Little Car (16:00 today) is queued. No leaves added. Chrome not available. Total 3645."
+   "note": "Summary of older entries: runs up to Run 1522 (our own results (Metricool at 11 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 12:40",
@@ -26908,6 +26932,10 @@
   {
    "date": "2026-11-20 17:47",
    "note": "Run 1600 (music craft (Kid Albums chart, preschool tempo studies)): Nothing new: Billboard's Kid Albums page still serves the 8 Nov 2025 chart already filed (Charlie Brown Christmas at No. 1, CoComelon, Baby Shark and Super Simple the only YouTube born brands), and the preschool music preference studies found were already in the tree. No leaves added. Chrome not available. Total 3785."
+  },
+  {
+   "date": "2026-11-20 17:48",
+   "note": "Run 1601 (visual craft (YouTube Animation's New Wave report)): New: YouTube's animation report sorts online animation into memes (an original character singing or dancing to a set audio), animatics and full episodes; meme characters like France's Le Poisson Steve (95M views in eight months) and Japan's Lemon Melon Cookie (14K fan uploads of its audio) show a simple original character plus a catchy sound travels worldwide, and half of 14 to 49 fans watch animation in other languages. Thumbnail and style guides found were already filed. Chrome not available. Total 3789."
   }
  ],
  "history": [
@@ -27938,6 +27966,10 @@
   {
    "date": "2026-11-20 17:47",
    "total": 3785
+  },
+  {
+   "date": "2026-11-20 17:48",
+   "total": 3789
   }
  ],
  "next_week_ideas": [
