@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:04:58+05:30",
- "runs": 1623,
+ "updated": "2026-11-20T18:06:07+05:30",
+ "runs": 1624,
  "branches": [
   {
    "id": "platforms",
@@ -11388,6 +11388,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1612
+    },
+    {
+     "t": "In the speech to song illusion study (Princeton, Music Perception 2024, 134 adults) a spoken phrase sounded more and more like singing with each repeat, and back to back repeats worked about twice as fast as spread out ones (about one point more song like on a 10 point scale by the eighth repeat), so repeating a short spoken catchphrase ('Bro Bros, let's go!') several times in a row naturally turns it into a sing along hook.",
+     "src": "Music Perception (Kubit et al.), 2024",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1624
+    },
+    {
+     "t": "The same study found phrases heard a week earlier started out sounding more song like than new ones, so reusing one signature spoken line across all our videos builds a recognisable musical tag over time.",
+     "src": "Music Perception (Kubit et al.), 2024",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1624
     }
    ]
   },
@@ -26801,11 +26815,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1544 (global markets (Brazil and Arabic)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 13:07",
-   "note": "Run 1545 (competitor deep dive (Super Simple Songs and Bebefinn)): Both vidIQ channel pages were blocked for this run, and Lalafun was already covered earlier today. No leaves added. Chrome not available. Total 3688."
+   "note": "Summary of older entries: runs up to Run 1545 (competitor deep dive (Super Simple Songs and Bebefinn)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 13:08",
@@ -27118,6 +27128,10 @@
   {
    "date": "2026-11-20 18:04",
    "note": "Run 1623 (TRENDS (Know Your Meme and Daily Dot wholesome memes)): Nothing new: the 1000 little things trend, 'today I'm gonna turn into a cute little' and Let's Groove were already filed. Trend bank unchanged. No leaves added. Chrome not available. Total 3815."
+  },
+  {
+   "date": "2026-11-20 18:06",
+   "note": "Run 1624 (music craft (song and speech learning studies)): New: a Princeton study (Music Perception, 2024) shows a repeated spoken phrase starts to sound like song, faster when repeats come back to back (about +1 point on a 10 point scale by the 8th repeat), which supports opening songs with a short spoken catchphrase repeated until it turns into the hook; the toddler sung word learning study was already filed. Chrome not available. Total 3817."
   }
  ],
  "history": [
@@ -28240,6 +28254,10 @@
   {
    "date": "2026-11-20 18:04",
    "total": 3815
+  },
+  {
+   "date": "2026-11-20 18:06",
+   "total": 3817
   }
  ],
  "next_week_ideas": [
