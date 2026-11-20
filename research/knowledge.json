@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:46:26+05:30",
- "runs": 1646,
+ "updated": "2026-11-20T20:47:29+05:30",
+ "runs": 1647,
  "branches": [
   {
    "id": "platforms",
@@ -2652,6 +2652,34 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1646
+    },
+    {
+     "t": "Buffer's study of about 2.7M Reels (Jan to mid Aug 2026, each account against its own average) found Reels of 90 to 179 seconds got about 7% more reach (about 4% for a typical account), 30 to 59 s about 3% more and under 30 s about 1% less, but below 90 s the gaps were under 3%, so for Reels hook and topic matter far more than length.",
+     "src": "Buffer via tutkit.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1647
+    },
+    {
+     "t": "In the same Buffer data Reels of 3 minutes or longer lost about half their reach (minus 49%) but had the highest engagement, because Instagram mainly shows 3 minute plus Reels to followers; a full Bro Bros song posted as a Reel should stay under 3 minutes (about 2:45) if we want it shown to new families.",
+     "src": "Buffer via tutkit.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1647
+    },
+    {
+     "t": "Unsourced 2026 Reels stat roundups put average watch time at about 8.5 seconds and completion near 70 to 80% for 15 to 30 s Reels but under 25% beyond 90 s, which together with Buffer's reach data suggests a two cut Reel plan: a 20 to 30 s hook cut for completion and a full song cut under 2:45 for reach.",
+     "src": "upgrow.com, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1647
+    },
+    {
+     "t": "Meta says Reels are played more than 200 billion times a day across Instagram and Facebook in 2026, and about 55% of Reel views come from non followers, so for a new channel with few followers Reels are mostly a discovery tool.",
+     "src": "upgrow.com (citing Meta), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1647
     }
    ]
   },
@@ -27130,11 +27158,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1567 (global markets (Italy and Bangladesh country charts)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 15:37",
-   "note": "Run 1568 (competitor deep dive (CoComelon spin off channels)): New: CoComelon's animal spin off channel Stay Paw-sitive (2.91M subscribers) posts about 19 videos a month for about 22M to 32M monthly views, and its 17 Nov upload is a vacuum rescue song, backing our Vroom Vroom Vacuum idea; CoComelon also runs a loops channel of 30 minute and 1 hour single song loops. Other vidIQ pages for BabyBus and Dance Party were stale (2025) and not used. Chrome not available. Total 3741."
+   "note": "Summary of older entries: runs up to Run 1568 (competitor deep dive (CoComelon spin off channels)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 15:43",
@@ -27447,6 +27471,10 @@
   {
    "date": "2026-11-20 20:46",
    "note": "Run 1646 (other platforms (iTunes kids chart 20 Nov, Billboard Kid Albums); YouTube algorithm skipped as rechecked recently): New: Danny Go! holds five of the iTunes kids top 25, Thanksgiving songs (four) still outrank any Christmas song six days before Thanksgiving, and a Roblox born game theme song charted on release day; Billboard's Kid Albums page is a year out of date. Netflix and Roblox lists were already filed. Chrome not available. Total 3862."
+  },
+  {
+   "date": "2026-11-20 20:47",
+   "note": "Run 1647 (Shorts and Reels lengths (Buffer 2.7M Reels study)): New: Buffer found Reels of 90 to 179 s get slightly more reach (about 4 to 7%) while Reels of 3 minutes or more lose about half their reach because they go mostly to followers, and length matters little below 90 s; so full song Reels should stay under about 2:45. Shorts length tips (OpusClip) were unsourced and already covered. Chrome not available. Total 3866."
   }
  ],
  "history": [
@@ -27473,10 +27501,6 @@
   {
    "date": "2026-11-19 21:00",
    "total": 3326
-  },
-  {
-   "date": "2026-11-19 22:41",
-   "total": 3359
   },
   {
    "date": "2026-11-19 22:42",
@@ -28649,6 +28673,10 @@
   {
    "date": "2026-11-20 20:46",
    "total": 3862
+  },
+  {
+   "date": "2026-11-20 20:47",
+   "total": 3866
   }
  ],
  "next_week_ideas": [
