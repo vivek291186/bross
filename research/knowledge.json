@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:44:29+05:30",
- "runs": 1682,
+ "updated": "2026-11-21T03:46:48+05:30",
+ "runs": 1683,
  "branches": [
   {
    "id": "platforms",
@@ -2715,6 +2715,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1670
+    },
+    {
+     "t": "Clutch's survey of 483 consumers (Dec 2025) found 55% stop scrolling for a compelling hook and 55% for humour, against 43% for striking visuals and 40% for curiosity, so every Bro Bros Short should open on a funny moment or a sung hook line, not just a pretty shot.",
+     "src": "Clutch, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1683
+    },
+    {
+     "t": "A TikTok estimate reported by NPR puts typical viewing at about 260 videos in under 35 minutes, roughly 8 seconds per video, so a Bro Bros Short has about 8 seconds to make a child or parent stay, and the chorus should arrive by then.",
+     "src": "Clutch citing NPR, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1683
+    },
+    {
+     "t": "Instagram started rolling out Content Protection to eligible creators on 17 Nov 2026 (copies of an original video can be tracked, hidden or given an 'original by' credit) and is testing matches on spoken or sung words even when AI swaps the visuals, which helps an original song channel like Bro Bros keep credit when Reels are re uploaded.",
+     "src": "Keywords Everywhere, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1683
     }
    ]
   },
@@ -27714,10 +27735,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:50",
-   "note": "Run 1604 (competitor deep dive (BabyBus and Sheriff Labrador, November uploads)): New: BabyBus's best November uploads are small everyday problems turned into a song ('My Zipper's Stuck!' 1.36M in two weeks, a race car wheels and shapes song 1.12M), it posts about one long video a day with no Shorts and no Christmas title yet; its Sheriff Labrador spin off still adds about 100K subscribers a month with safety cartoons. Chrome not available. Total 3795."
-  },
-  {
    "date": "2026-11-20 17:51",
    "note": "Run 1605 (posting times (Metricool Instagram 21 to 27 Nov, Buffer timing study; TRENDS skipped as already rechecked)): Nothing new: Metricool's Instagram model for 21 to 27 Nov again peaks at 10:00 IST every day with an 18:00 IST weekday rise and weekends at about half, and Buffer's 1.8M video timing study was already filed, so the posting plan is unchanged. No leaves added. Chrome not available. Total 3795."
   },
@@ -28028,13 +28045,13 @@
   {
    "date": "2026-11-21 03:44",
    "note": "Run 1682 (YouTube algorithm (home feed long form squeeze, Insights and Research, YouTube Kids filtering FAQ, YouTube family safeguards)): Joos's two long videos per Home row, Ask Studio's made for kids exclusion and the YouTube Kids filter layers were already filed. New: Google's CEO said US Shorts now earn more per watch hour than regular in stream video, which explains why YouTube keeps giving Shorts more Home slots, and YouTube's family safeguards automatically break repeated loops in sensitive categories. Chrome not available. Total 3945."
+  },
+  {
+   "date": "2026-11-21 03:46",
+   "note": "Run 1683 (Shorts and Reels (Instagram Oct to Nov updates, AIR kids Shorts cases, Clutch scroll stopping survey)): Reels sequence ranking, the end of Reels series links, Instagram for TV and the AIR kids Shorts cases were all already filed. New: Clutch's survey of 483 people says a strong hook and humour (55% each) beat striking visuals (43%) and curiosity (40%) as reasons to stop scrolling, and TikTok users see about 260 videos in 35 minutes, about 8 seconds each. Chrome not available. Total 3948."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:50",
-   "total": 3392
-  },
   {
    "date": "2026-11-19 23:50",
    "total": 3394
@@ -29230,6 +29247,10 @@
   {
    "date": "2026-11-21 03:44",
    "total": 3945
+  },
+  {
+   "date": "2026-11-21 03:46",
+   "total": 3948
   }
  ],
  "next_week_ideas": [
