@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T09:37:36+05:30",
- "runs": 1501,
+ "updated": "2026-11-20T09:38:47+05:30",
+ "runs": 1502,
  "branches": [
   {
    "id": "platforms",
@@ -25443,11 +25443,7 @@
  "log": [
   {
    "date": "2026-11-20 02:55",
-   "note": "Summary of older entries: runs up to Run 1422 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 03:38",
-   "note": "Run 1423 (global markets (dubbing quality and wordless content)): New retention numbers on AI versus human dubbing (AI tracks held viewers 4 to 10 times shorter in a vendor's three case studies, including an Italian kids channel) and a Chinese studio's point that wordless slapstick shorts sell across territories fastest. Supports re-singing songs per language instead of relying on auto dubbing. Chrome not available. Total 3476."
+   "note": "Summary of older entries: runs up to Run 1423 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 03:39",
@@ -25760,6 +25756,10 @@
   {
    "date": "2026-11-20 09:37",
    "note": "Run 1501 (YouTube algorithm (Shorts freshness and Home feed recheck)): One new leaf: an unconfirmed creator theory that Shorts older than about a month get fewer feed impressions since mid Sept 2025, so a steady stream of fresh Shorts matters more than reposting old ones. Home feed and Oct 2026 originality changes were already in the tree; AIR lists no November 2026 changes. Chrome not available. Total 3621."
+  },
+  {
+   "date": "2026-11-20 09:38",
+   "note": "Run 1502 (Shorts and Reels algorithm (Instagram change logs to 18 Nov)): Nothing new: content protection (17 Nov), Amazon affiliate links (16 Nov), the end of linked Reels series (28 Oct), Features long video and Meta's 45% of Reels under one day old were all already in the tree. No leaves added. Chrome not available. Total 3621."
   }
  ],
  "history": [
@@ -26393,6 +26393,10 @@
   },
   {
    "date": "2026-11-20 09:37",
+   "total": 3621
+  },
+  {
+   "date": "2026-11-20 09:38",
    "total": 3621
   }
  ],
