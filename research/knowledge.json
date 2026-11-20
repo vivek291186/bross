@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:49:46+05:30",
- "runs": 1576,
+ "updated": "2026-11-20T15:50:31+05:30",
+ "runs": 1577,
  "branches": [
   {
    "id": "platforms",
@@ -13159,6 +13159,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1565
+    },
+    {
+     "t": "At Annecy 2026 WildBrain presented a CG kids series of 26 episodes, each about three minutes, for ages 4 to 8 that premieres first on the brand's own YouTube channel, so even big studios now build short YouTube first episode lengths close to our song length.",
+     "src": "License Global, Jun 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1577
+    },
+    {
+     "t": "WildBrain's other Annecy 2026 kids title is a 12 episode CG and live action hybrid with five minute episodes, a sign that mixing CG characters into real or real looking settings is a live preschool format.",
+     "src": "License Global, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1577
+    },
+    {
+     "t": "License Global's reading of Annecy and MIFA 2026 was that buyers favour a distinctive handmade looking style enhanced by technology over content that looks AI generated, and MIFA's tech talks moved to AI for speed and asset work rather than automated creation, so our Blender look should keep hand set touches (custom props, lighting, camera moves) that read as crafted.",
+     "src": "License Global, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1577
     }
    ]
   },
@@ -26360,11 +26381,7 @@
  "log": [
   {
    "date": "2026-11-20 08:43",
-   "note": "Summary of older entries: runs up to Run 1497 (TRENDS (winter dance and Thanksgiving week searches)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 08:51",
-   "note": "Run 1498 (other platforms (Billboard kids albums, Nielsen kids streaming, kids music charts)): Nothing new: Bluey's US streaming lead, Danny Go's Netflix move and the iTunes kids chart were already in the tree, and the Billboard kids albums page and a Nielsen weekly list found were old (2025 and 2023). No leaves added. Chrome not available. Total 3619."
+   "note": "Summary of older entries: runs up to Run 1498 (other platforms (Billboard kids albums, Nielsen kids streaming, kids music charts)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 08:52",
@@ -26677,6 +26694,10 @@
   {
    "date": "2026-11-20 15:49",
    "note": "Run 1576 (music craft (infant movement and NZ singing studies)): Nothing new: the Vienna eLife infant movement study (higher pitch draws more movement) and the Growing Up in New Zealand singing data were already filed, some more than once; the newest Springer music study page could not be read. No leaves added. Chrome not available. Total 3752."
+  },
+  {
+   "date": "2026-11-20 15:50",
+   "note": "Run 1577 (visual craft (Annecy 2026 kids formats)): New from Annecy 2026 coverage: WildBrain is making a YouTube first CG series of 26 three minute episodes for ages 4 to 8 and a CG plus live action hybrid with five minute episodes, and the market prefers a distinctive handmade look helped by technology over plain AI output. The eye tracking paper was blocked. Chrome not available. Total 3755."
   }
  ],
  "history": [
@@ -27611,6 +27632,10 @@
   {
    "date": "2026-11-20 15:49",
    "total": 3752
+  },
+  {
+   "date": "2026-11-20 15:50",
+   "total": 3755
   }
  ],
  "next_week_ideas": [
