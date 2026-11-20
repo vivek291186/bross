@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T18:06:07+05:30",
- "runs": 1624,
+ "updated": "2026-11-20T18:06:52+05:30",
+ "runs": 1625,
  "branches": [
   {
    "id": "platforms",
@@ -13383,6 +13383,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1613
+    },
+    {
+     "t": "The UK Department for Education's March 2026 guidance tells parents of children under five to choose 'slow paced, age appropriate' content, and commentators add that a kind moment (a hug, a sorry) needs a short pause on screen before the next cut so a child can take it in; Bro Bros should hold one to two seconds on every feelings beat.",
+     "src": "bdnews24 citing The Guardian, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1625
     }
    ]
   },
@@ -26815,11 +26822,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1545 (competitor deep dive (Super Simple Songs and Bebefinn)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 13:08",
-   "note": "Run 1546 (TRENDS (December outlook)): Nothing new: December trend previews found were last year's NewEngen, Kapwing and startups.co.uk lists and TikTok Next 2026, all already in the tree. Trend bank unchanged. Chrome not available. Total 3688."
+   "note": "Summary of older entries: runs up to Run 1546 (TRENDS (December outlook)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 13:35",
@@ -27132,6 +27135,10 @@
   {
    "date": "2026-11-20 18:06",
    "note": "Run 1624 (music craft (song and speech learning studies)): New: a Princeton study (Music Perception, 2024) shows a repeated spoken phrase starts to sound like song, faster when repeats come back to back (about +1 point on a 10 point scale by the 8th repeat), which supports opening songs with a short spoken catchphrase repeated until it turns into the hook; the toddler sung word learning study was already filed. Chrome not available. Total 3817."
+  },
+  {
+   "date": "2026-11-20 18:06",
+   "note": "Run 1625 (visual craft (pacing and slow media)): Small find: the UK Department for Education's March 2026 advice tells parents of under 5s to pick 'slow paced, age appropriate' content (without defining it), and Guardian based coverage stresses giving a beat after each emotional moment before cutting; the Slow Media Project's checks and SRI's pace data were already filed. Chrome not available. Total 3818."
   }
  ],
  "history": [
@@ -28258,6 +28265,10 @@
   {
    "date": "2026-11-20 18:06",
    "total": 3817
+  },
+  {
+   "date": "2026-11-20 18:06",
+   "total": 3818
   }
  ],
  "next_week_ideas": [
