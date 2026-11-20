@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:42:43+05:30",
- "runs": 1481,
+ "updated": "2026-11-20T07:43:43+05:30",
+ "runs": 1483,
  "branches": [
   {
    "id": "platforms",
@@ -25330,16 +25330,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 02:42",
-   "note": "Summary of older runs (up to Run 1402 (rules and monetisation (US state bills, Premium bundles))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
-  },
-  {
    "date": "2026-11-20 02:43",
-   "note": "Run 1403 (our own results (Metricool recheck)): No new data: at about 02:45 IST on 20 Nov Metricool still showed only the 17 and 18 Nov Reels (skip rates 37 to 77%, about 2 to 5 seconds watched) and YouTube views ending 16 Nov at 2,150 subscribers; the 19 Nov Reels and the Bubble Gum Pop long video are not synced yet. No leaves added. Chrome not available. Total 3436."
-  },
-  {
-   "date": "2026-11-20 02:43",
-   "note": "Run 1404 (TRENDS (Know Your Meme dance entries)): The meme dances found (an Obsession film dance, a club dance clip, a re-animated Disney dance) are older, adult toned or built on protected films, so none went into the trend bank; added only that 'face dancing' (big facial expressions on the beat) keeps spreading as a lip sync style, useful for our close ups. Chrome not available. Total 3437."
+   "note": "Summary of older runs (up to Run 1404 (TRENDS (Know Your Meme dance entries))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
   },
   {
    "date": "2026-11-20 02:44",
@@ -25648,13 +25640,17 @@
   {
    "date": "2026-11-20 07:42",
    "note": "Run 1481 (topics and seasons (December search patterns)): From Google Trends' December search review (2021, still a yearly pattern): 'how to draw a snowman' and 'how to make a snowman' plus snowman, scarf and beanie are searched worldwide every December, and cookie baking (sugar and gingerbread first) is a top December search, which backs a snowman build song and a cookie baking song in the next weeks. Added a snowman draw along song idea. Chrome not available. Total 3605."
+  },
+  {
+   "date": "2026-11-20 07:43",
+   "note": "Run 1482 (global markets (African kids channels, dubbing tests; TRENDS skipped, nothing new in run 1476)): Nothing new: the Swahili Kids TV Africa stats (about 712K subscribers, almost no growth, no uploads in 28 days) and Kapwing's audio track versus dedicated Spanish channel test were already in the tree. No leaves added. Chrome not available. Total 3605."
+  },
+  {
+   "date": "2026-11-20 07:43",
+   "note": "Run 1483 (visual craft (thumbnail studies, 2026 animation styles)): Nothing new: vidIQ's 500 breakout thumbnail study, YouTube's native thumbnail and title testing, calm low stimulation styles and Unreal based kids pipelines were already in the tree. No leaves added. Chrome not available. Total 3605."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 13:39",
-   "total": 3027
-  },
   {
    "date": "2026-11-19 14:00",
    "total": 3056
@@ -26845,6 +26841,14 @@
   },
   {
    "date": "2026-11-20 07:42",
+   "total": 3605
+  },
+  {
+   "date": "2026-11-20 07:43",
+   "total": 3605
+  },
+  {
+   "date": "2026-11-20 07:43",
    "total": 3605
   }
  ],
