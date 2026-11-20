@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:48:09+05:30",
- "runs": 1684,
+ "updated": "2026-11-21T03:50:07+05:30",
+ "runs": 1685,
  "branches": [
   {
    "id": "platforms",
@@ -11801,6 +11801,34 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1672
+    },
+    {
+     "t": "Suno guides (2026) say any words placed in parentheses in the lyrics box tend to become backing vocals, and an [End] tag on its own last line stops most songs running on (about 85 to 90% of the time), so Bro Bros lyric sheets should avoid brackets around echo words unless we want a second voice.",
+     "src": "Jack Righteous and suno field guide, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1685
+    },
+    {
+     "t": "To stop unwanted choirs in Suno, state 'one clear lead singer, centered' first in the style box, lift the chorus with instruments, put choir, crowd and backing vocals in the Exclude field (keep it to two or three items) and avoid words like anthemic, singalong or stadium.",
+     "src": "Jack Righteous, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1685
+    },
+    {
+     "t": "A 2026 Suno kids song guide advises warm adult lead vocals instead of 'children's choir' or 'kids singing' prompts, which tend to give unsettling AI child voices, with about 110 to 130 BPM for upbeat songs and 60 to 75 BPM for lullabies and a four line chorus a child can learn after two listens.",
+     "src": "idea-to-music, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1685
+    },
+    {
+     "t": "Suno users report v5.5 can drift into generic pop or lose quality mid track; a workaround is to generate the song on v5 (or v4.5), then run Cover on v5.5 for the cleaner sound, and fix single sections with Replace Section rather than regenerating the whole song.",
+     "src": "suno field guide, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1685
     }
    ]
   },
@@ -27756,10 +27784,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:52",
-   "note": "Run 1606 (rules (Australia under 16 rules, India DPDP children's data)): Nothing new: Australia's signed out viewing for under 16s (YouTube Kids unaffected), the eSafety account drop, the UK and New Zealand plans and India's DPDP parental consent timeline were all already filed; the exchange4media DPDP kids economy page could not be read. No leaves added. Chrome not available. Total 3795."
-  },
-  {
    "date": "2026-11-20 17:53",
    "note": "Run 1607 (YouTube top channels (fastest growing week of 13 to 20 Nov; our results skipped, no new data yet)): New: in the week to 20 Nov 2026 only two pure kids song channels made the global top 100 by subscriber growth, LooLoo Kids (+100K, about 168M views) and Super Simple Songs (+100K, about 119M), while Like Nastya added 1M and CoComelon led kids views (about 344M in seven days); English nursery songs keep compounding even without a viral hit. Chrome not available. Total 3797."
   },
@@ -28070,13 +28094,13 @@
   {
    "date": "2026-11-21 03:48",
    "note": "Run 1684 (TRENDS (Tokchart worldwide 20 Nov, K pop cover dance, holiday Reels idea lists, kids dance challenge search)): Holiday list pages were removed or redirected and K pop items had no kid steps; the moon cover sound, the Jingle Bell Rock remix and Montagem da Chupeta were already filed. New: Tokchart's 20 Nov top 10 is led by Portuguese language original audios, with a Brazilian 'por um proposito' sound adding about 71,600 videos a day, and none of the ten is a children's sound. Chrome not available. Total 3951."
+  },
+  {
+   "date": "2026-11-21 03:50",
+   "note": "Run 1685 (music craft (eLife infant movement study, iTunes kids and Billboard kids albums rechecked, Suno prompting guides for kids songs)): The eLife infant study, the iTunes faith and novelty songs and Billboard's holiday albums were already filed. New Suno craft: words in parentheses in the lyrics make Suno add backing vocals, an [End] tag on the last line stops overruns in most generations, adult vocal styles beat AI child voices, and a v5.5 drift workaround is to generate on v5 and Cover on v5.5. Chrome not available. Total 3955."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 00:36",
-   "total": 3398
-  },
   {
    "date": "2026-11-20 00:38",
    "total": 3402
@@ -29272,6 +29296,10 @@
   {
    "date": "2026-11-21 03:48",
    "total": 3951
+  },
+  {
+   "date": "2026-11-21 03:50",
+   "total": 3955
   }
  ],
  "next_week_ideas": [
