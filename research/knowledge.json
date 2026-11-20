@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:43:32+05:30",
- "runs": 1460,
+ "updated": "2026-11-20T06:44:08+05:30",
+ "runs": 1461,
  "branches": [
   {
    "id": "platforms",
@@ -25066,6 +25066,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1458
+    },
+    {
+     "t": "A 30 second Suno made song, framed as a sister's group chat message announcing she is done hosting Thanksgiving, drew about 225K views and 3,500 comments on TikTok in under two weeks (Daily Dot, 17 Nov 2026), and commenters argued about the family situation rather than the AI music, so short Suno story songs about relatable family moments can spread when the topic invites people to share their own story.",
+     "src": "Daily Dot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1461
+    },
+    {
+     "t": "Tech press (Techloy, 10 Nov 2026) expects Spotify Wrapped 2026 on Wednesday 2 Dec, matching the Wednesday pattern already noted, though Spotify has not confirmed it, so a 'Bro Bros year in songs' recap Short should be ready to post that day.",
+     "src": "Techloy, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1461
     }
    ]
   }
@@ -25093,11 +25107,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)) and Run 1378 (rules and monetisation recheck) and Run 1379 (topics and seasons (TRENDS skipped; own results unchanged since run 1367)) and Run 1380 (other platforms recheck (TRENDS skipped; Netflix and Roblox)) and Run 1381 (topics and seasons (giving week; TRENDS and Shorts rechecks found nothing new)): earlier rounds summarised; details live in the leaves."
-  },
-  {
-   "date": "2026-11-19 23:49",
-   "note": "Run 1382 (global markets (Middle East and North Africa animation demand)): Added Parrot Analytics' Middle East and North Africa animation demand study: kids titles are oversupplied, family titles under served, US and Japanese imports take over 85% of demand, and recognisable characters with co viewing appeal win. Chrome not available. Total 3390."
+   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)) and Run 1377 (posting times recheck (TRENDS skipped after three empty trends rounds)) and Run 1378 (rules and monetisation recheck) and Run 1379 (topics and seasons (TRENDS skipped; own results unchanged since run 1367)) and Run 1380 (other platforms recheck (TRENDS skipped; Netflix and Roblox)) and Run 1381 (topics and seasons (giving week; TRENDS and Shorts rechecks found nothing new)) and Run 1382 (global markets (Middle East and North Africa animation demand)): earlier rounds summarised; details live in the leaves."
   },
   {
    "date": "2026-11-19 23:50",
@@ -25410,6 +25420,10 @@
   {
    "date": "2026-11-20 06:43",
    "note": "Run 1460 (competitor deep dive (Plim Plim English channel, Little Baby Songs)): New: Plim Plim's English channel (2.04M subs) posts 4 to 5 times a week, mixing 1 to 2 hour themed compilations with emoji Shorts, and its 2 minute 'Kindness is My Superpower' song passed 1.1M views in 15 days around World Kindness Day while a 'scared to jump in the water' Short hit 3.1M; a 1M sub nursery channel that slowed to about one upload a month now earns almost nothing. Chrome not available. Total 3571."
+  },
+  {
+   "date": "2026-11-20 06:44",
+   "note": "Run 1461 (TRENDS (Thanksgiving week formats, Wrapped date)): Thanksgiving tips, gratitude tablecloths and the Wrapped pattern were already in the tree. New: a 30 second Suno made 'family group chat' song about Thanksgiving hosting got 225K views and 3,500 comments on TikTok (Daily Dot, 17 Nov), showing short Suno story songs about everyday family moments travel, and press now predicts Wrapped on Wed 2 Dec. Chrome not available. Total 3573."
   }
  ],
  "history": [
@@ -26524,6 +26538,10 @@
   {
    "date": "2026-11-20 06:43",
    "total": 3571
+  },
+  {
+   "date": "2026-11-20 06:44",
+   "total": 3573
   }
  ],
  "next_week_ideas": [
