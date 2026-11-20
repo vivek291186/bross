@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T15:56:54+05:30",
- "runs": 1580,
+ "updated": "2026-11-20T15:57:14+05:30",
+ "runs": 1581,
  "branches": [
   {
    "id": "platforms",
@@ -26374,11 +26374,7 @@
  "log": [
   {
    "date": "2026-11-20 08:43",
-   "note": "Summary of older entries: runs up to Run 1501 (YouTube algorithm (Shorts freshness and Home feed recheck)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 09:38",
-   "note": "Run 1502 (Shorts and Reels algorithm (Instagram change logs to 18 Nov)): Nothing new: content protection (17 Nov), Amazon affiliate links (16 Nov), the end of linked Reels series (28 Oct), Features long video and Meta's 45% of Reels under one day old were all already in the tree. No leaves added. Chrome not available. Total 3621."
+   "note": "Summary of older entries: runs up to Run 1502 (Shorts and Reels algorithm (Instagram change logs to 18 Nov)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 09:39",
@@ -26691,6 +26687,10 @@
   {
    "date": "2026-11-20 15:56",
    "note": "Run 1580 (competitor deep dive (Pinkfong, Bebefinn)): Nothing new: the vidIQ channel pages could not be read this round, so Pinkfong's and Bebefinn's latest uploads stay as filed this morning. No leaves added. Chrome not available. Total 3754."
+  },
+  {
+   "date": "2026-11-20 15:57",
+   "note": "Run 1581 (posting times (Metricool best time for 21 to 27 Nov, 16:00 IST)): Nothing new: Metricool still peaks YouTube at 16:00 IST every day (Wednesday and Thursday highest, weekends lowest, 10:00 IST a second high) and Instagram at 10:00 IST with a second rise at 18:00, as already filed. Posting plan unchanged. No leaves added. Chrome not available. Total 3754."
   }
  ],
  "history": [
@@ -27640,6 +27640,10 @@
   },
   {
    "date": "2026-11-20 15:56",
+   "total": 3754
+  },
+  {
+   "date": "2026-11-20 15:57",
    "total": 3754
   }
  ],
