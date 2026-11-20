@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:43:43+05:30",
- "runs": 1483,
+ "updated": "2026-11-20T08:40:27+05:30",
+ "runs": 1484,
  "branches": [
   {
    "id": "platforms",
@@ -8679,6 +8679,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1472
+    },
+    {
+     "t": "In the 28 days to 16 Nov 2026 Little Angel's main channel posted 28 videos, about one a day, and its views rose 21% against the previous two weeks (about 1.1M a day), so a steady daily rhythm with Shorts mixed in is lifting an old nursery brand.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1484
+    },
+    {
+     "t": "In the 28 days to 18 Nov 2026 ChuChu TV posted only 9 uploads, all long story or learning compilations, and its views fell 22% against the prior two weeks (about 8M a day from the back catalogue), so slow long only uploading is not reviving a giant channel.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1484
+    },
+    {
+     "t": "Little Angel's 'Can You Count with Firefighter Jill?' Short (15 Nov 2026) scored about 2.1 times the channel's usual views with only 0.8% engagement, showing that a helper job character plus a 'can you' question works even when few viewers like or comment, typical of made for kids audiences.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1484
     }
    ]
   },
@@ -25330,12 +25351,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 02:43",
-   "note": "Summary of older runs (up to Run 1404 (TRENDS (Know Your Meme dance entries))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
-  },
-  {
    "date": "2026-11-20 02:44",
-   "note": "Run 1405 (YouTube algorithm recheck): Mostly known (the 1 Oct Shorts originality change, the 12 Nov Studio Clips tool, slow evergreen growth). New: on 27 Oct YouTube's discovery lead said thumbnail tests now split traffic evenly at random and a later version will steer each viewer group to the thumbnail that works best for it. Chrome not available. Total 3438."
+   "note": "Summary of 2 older entries: runs up to Run 1405 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 02:46",
@@ -25648,13 +25665,13 @@
   {
    "date": "2026-11-20 07:43",
    "note": "Run 1483 (visual craft (thumbnail studies, 2026 animation styles)): Nothing new: vidIQ's 500 breakout thumbnail study, YouTube's native thumbnail and title testing, calm low stimulation styles and Unreal based kids pipelines were already in the tree. No leaves added. Chrome not available. Total 3605."
+  },
+  {
+   "date": "2026-11-20 08:40",
+   "note": "Run 1484 (competitor deep dive (Little Angel and ChuChu TV upload pace)): New: in the 28 days to mid November Little Angel posted 28 videos (about one a day, many counting Shorts) and its views rose 21% against the prior two weeks, while ChuChu TV posted only 9 long compilations and its views fell 22%; daily short helper songs are outpacing slow long uploads right now. Chrome not available. Total 3608."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 14:00",
-   "total": 3056
-  },
   {
    "date": "2026-11-19 15:00",
    "total": 3092
@@ -26850,6 +26867,10 @@
   {
    "date": "2026-11-20 07:43",
    "total": 3605
+  },
+  {
+   "date": "2026-11-20 08:40",
+   "total": 3608
   }
  ],
  "next_week_ideas": [
