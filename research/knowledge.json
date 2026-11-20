@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T04:49:12+05:30",
- "runs": 1710,
+ "updated": "2026-11-21T04:50:08+05:30",
+ "runs": 1711,
  "branches": [
   {
    "id": "platforms",
@@ -9484,6 +9484,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1700
+    },
+    {
+     "t": "Little Angel's Indonesian channel (14.8M subscribers) still pulls about 705K views a day (about 19.7M in 28 days) with zero subscriber growth while posting about 6 videos a week, and its top videos (zoo animals, hot or cold, favourite vegetables at about 40M to 41M each) are simple everyday topic songs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1711
     }
    ]
   },
@@ -11878,6 +11885,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1685
+    },
+    {
+     "t": "LiaChaCha Arabic's three biggest hits are one repeated sound word song and two remakes of it (an original at about 228M views, a fruit version at 149M and an animal version at 82M), proving that one catchy onomatopoeia hook can be reused in themed versions that each become hits.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1711
     }
    ]
   },
@@ -18570,6 +18584,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1700
+    },
+    {
+     "t": "LiaChaCha's Arabic kids song channel (5.59M subscribers, about 3.5B views, 486 videos) gained about 232M views in October 2026 and about 110K subscribers in four weeks, far ahead of the flat Little Angel Arabic channel, so Arabic kids songs are still a growth market when the songs are made natively rather than only dubbed.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1711
+    },
+    {
+     "t": "Lalafun's Indonesian channel (1.52M subscribers, 288M views) uploads about 3 times a week but its newest song had only about 800 views after almost two days, and its top video is still a dubbed wheels on the bus song at 94M, so late dubbed channels in Indonesia live off a few old public domain rhymes.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1711
     }
    ]
   },
@@ -28015,10 +28043,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 18:42",
-   "note": "Run 1632 (YouTube algorithm (November change logs recheck)): Nothing new: a 17 Nov agency roundup lists Insights and the Research tab, TV co views, Shorts originality, Ask YouTube, custom feeds with the Subs tab and the hacked channel pause, all already filed. No leaves added. Chrome not available. Total 3826."
-  },
-  {
    "date": "2026-11-20 18:43",
    "note": "Run 1633 (TRENDS (Virlo, Postdom, HowToGoViral, SocialPilot 20 Nov)): Small find: fake award edits for a friend or pet (serious opening that turns funny) are rising with the Stream Awards, and an AI scrapbook 'welcome to my page' intro template is fresh on TikTok; the moon couple montages and partying caption are adult framed, and the Pink Floyd then and now, Christmas market and Deck the Halls dance were already filed. Trend bank: 'Silly award show' added, 'Waiting is hard' dropped as it overlaps the countdown entries. Chrome not available. Total 3828."
   },
@@ -28329,13 +28353,13 @@
   {
    "date": "2026-11-21 04:49",
    "note": "Run 1710 (TRENDS (Postdom 16 to 22 Nov list, TikTok family Christmas dance page blocked, 6 7 song background)): This week's seven named trends were already filed. New: Postdom's format tracker shows POV clips and 'Day 1 vs later' before and after cuts are the formats peaking right now, while 'Me when...' and 'Day in the life' formats have faded, so our December Reels should lean on then and now cuts and point of view framing. Chrome not available. Total 3988."
+  },
+  {
+   "date": "2026-11-21 04:50",
+   "note": "Run 1711 (global markets (Arabic and Indonesian kids song channels via vidIQ: LiaChaCha Arabic, Lalafun Indonesia, Little Angel Indonesia)): New: LiaChaCha's Arabic channel (5.59M subscribers) gained about 232M views in October and 110K subscribers in four weeks from one sound effect song made in three versions (original, fruits, animals: 228M, 149M, 82M), so Arabic is the growing dub market while Little Angel Indonesia and Lalafun Indonesia are flat. Chrome not available. Total 3992."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 02:49",
-   "total": 3449
-  },
   {
    "date": "2026-11-20 02:50",
    "total": 3452
@@ -29531,6 +29555,10 @@
   {
    "date": "2026-11-21 04:49",
    "total": 3988
+  },
+  {
+   "date": "2026-11-21 04:50",
+   "total": 3992
   }
  ],
  "next_week_ideas": [
