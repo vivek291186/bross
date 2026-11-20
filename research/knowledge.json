@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T02:56:27+05:30",
- "runs": 1664,
+ "updated": "2026-11-21T02:57:50+05:30",
+ "runs": 1665,
  "branches": [
   {
    "id": "platforms",
@@ -5123,6 +5123,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1652
+    },
+    {
+     "t": "In AIR's 31,852 video timing study, 04:00 UTC takes about 12% of all uploads and returns only average views, while 12:00 UTC (17:30 IST) gets under 4% of uploads but runs about 1.4 times normal views with good retention, so an uncrowded upload hour can beat a popular one; our planned bonus Short test should include a 17:30 IST slot.",
+     "src": "AIR Media-Tech, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1665
+    },
+    {
+     "t": "A University of South Australia study of 358 children aged 9 to 10 (Pediatric Obesity) found they spend about 39% more time on screens in school holidays than in term, over an hour more a day, so from mid December (Northern Hemisphere winter break, Southern summer) daytime hours become prime viewing and our 16:00 IST slot (late morning in Europe) gains value.",
+     "src": "UniSA via Zee News",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1665
     }
    ]
   },
@@ -27434,10 +27448,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 16:38",
-   "note": "Run 1586 (Shorts and Reels (Instagram long video test, Your Algorithm controls, Shorts clean mode and series)): Nothing new: Instagram's 90 minute widescreen video test, the Your Algorithm Reels controls, and YouTube's Shorts clear screen, series and freshness changes were all already filed. No leaves added. Chrome not available. Total 3758."
-  },
-  {
    "date": "2026-11-20 16:39",
    "note": "Run 1587 (other platforms (Netflix top 10, kids Christmas albums)): Nothing new: A Dog's Perfect Christmas as Netflix's top family film and Super Simple's 20th anniversary vinyl were already filed; the Peppa Pig and Super Simple Songs mash up page could not be read, so it waits for a later round. No leaves added. Chrome not available. Total 3758."
   },
@@ -27748,13 +27758,13 @@
   {
    "date": "2026-11-21 02:56",
    "note": "Run 1664 (competitor deep dive (ChuChu TV main, Hindi and Surprise Eggs channels via vidIQ)): ChuChu TV main (flat subscribers, 223M views a month, 24 minute story compilation newest) was already filed. New: ChuChuTV Hindi lost about 100K subscribers in 28 days and its Diwali song collection drew only about 55K views in nine days, while the Surprise Eggs side channel posted nothing for over a month yet still gained subscribers on about 25M monthly views. Chrome not available. Total 3905."
+  },
+  {
+   "date": "2026-11-21 02:57",
+   "note": "Run 1665 (posting times (Metricool best times 21 to 27 Nov for YouTube and Instagram, AIR niche timing study, UniSA holiday screen time); TRENDS skipped as the last trends round found nothing new): Metricool still peaks YouTube at 16:00 IST every day and Instagram at 10:00 IST (already filed), and the AIR kids timing data was already filed, so the two posting slots stay unchanged. New: AIR's upload crowding numbers (12:00 UTC gets under 4% of uploads but about 1.4 times normal views) and a UniSA study showing 9 to 10 year olds use screens 39% more in school holidays. Chrome not available. Total 3907."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:41",
-   "total": 3376
-  },
   {
    "date": "2026-11-19 23:41",
    "total": 3376
@@ -28950,6 +28960,10 @@
   {
    "date": "2026-11-21 02:56",
    "total": 3905
+  },
+  {
+   "date": "2026-11-21 02:57",
+   "total": 3907
   }
  ],
  "next_week_ideas": [
