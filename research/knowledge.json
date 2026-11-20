@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:53:31+05:30",
- "runs": 1444,
+ "updated": "2026-11-20T05:54:17+05:30",
+ "runs": 1445,
  "branches": [
   {
    "id": "platforms",
@@ -12543,6 +12543,27 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1433
+    },
+    {
+     "t": "Pixar's SIGGRAPH 2026 talk on Toy Story 5's pastel sequences lit characters with only an ambient light plus one directional rim light, kept them as clean flat colour blocks by bending the normals, gave the lighter direct control of the shadow line, and found simple direct tricks beat heavy tooling; an ambient plus rim rig in Blender is a cheap way to give the Bros a soft storybook look.",
+     "src": "Pixar Research (SIGGRAPH Talks), Jul 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1445
+    },
+    {
+     "t": "Blender Studio's cartoon shading for its short Wing It paints most of the lighting into the colour, shades from a smoothed 'blob' version of the silhouette instead of the real mesh normals, adds fake rim light, inside outlines and a paper texture, which hides the CG look; the author warns it only holds for one camera and needs frame fixes, so for 14 songs a week we should borrow only the blob normal and rim ideas.",
+     "src": "Blender Studio, Nov 2023",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1445
+    },
+    {
+     "t": "A 2026 creator analysis of 120 to 847 of its own short videos (unpublished, unsourced) claims first 3 second retention tracks overall performance closely (correlation about 0.84) and that adding on screen text and a distinctive first frame helped hooks that failed with sound off by about 2 times; treat as a weak signal that our first frame must read without sound.",
+     "src": "dev.to (bulkdl), Jun to Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1445
     }
    ]
   },
@@ -24851,10 +24872,6 @@
    "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Sum"
   },
   {
-   "date": "2026-11-19 23:41",
-   "note": "Run 1366 (rules and safety recheck): Nothing new: COPPA enforcement, California's AB 1709 and its court challenge, age assurance laws and YouTube's AI label rules for animation were all already in the tree. No leaves added. Chrome not available. Total 3376."
-  },
-  {
    "date": "2026-11-19 23:42",
    "note": "Run 1367 (our own results recheck (Metricool)): Nothing new: at 23:42 IST the YouTube feed still ends 16 Nov (2,150 subscribers through 18 Nov) and no 19 Nov Reel has synced yet, both already recorded today. No leaves added. Chrome not available. Total 3376."
   },
@@ -25165,6 +25182,10 @@
   {
    "date": "2026-11-20 05:53",
    "note": "Run 1444 (music craft (Suno's own kids prompt advice)): The 2027 Grammy kids nominees and Atlabs' workflow were already in the tree. New from Suno's kids showcase: most of its 18 example kids songs run 1 to 2.5 minutes, and its prompt advice is to name the listener's age, the movement moment, the energy and the sounds (bouncy beat, round bass, quick hook), simple repetition for toddlers and a longer story only around age seven. Chrome not available. Total 3536."
+  },
+  {
+   "date": "2026-11-20 05:54",
+   "note": "Run 1445 (visual craft (toon shading recipes from Pixar and Blender Studio)): Toy Story 5's pastel look, rim lights and sound off viewing were already in the tree. New: Pixar's SIGGRAPH 2026 paper says its stylised characters used just an ambient light plus one rim light with a controlled shadow line, and Blender Studio's free cartoon shading paints most lighting into the colour and uses a soft 'blob' normal so the 3D mesh stops looking like CG, both cheap recipes for our renders. Chrome not available. Total 3539."
   }
  ],
  "history": [
@@ -26215,6 +26236,10 @@
   {
    "date": "2026-11-20 05:53",
    "total": 3536
+  },
+  {
+   "date": "2026-11-20 05:54",
+   "total": 3539
   }
  ],
  "next_week_ideas": [
