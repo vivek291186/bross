@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T14:39:32+05:30",
- "runs": 1562,
+ "updated": "2026-11-20T14:40:27+05:30",
+ "runs": 1563,
  "branches": [
   {
    "id": "platforms",
@@ -26151,6 +26151,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1560
+    },
+    {
+     "t": "PureWow's parent guide to Gen Alpha slang (updated Jul 2026) flags several popular kid words that are hidden swears or innuendo ('faaah' as a swear stand in, 'no Diddy', the Japanese insult 'baka') or looks based put downs ('chopped', 'mogging', 'mewing', 'hunter eyes'), so Bro Bros lyrics and captions should never use them even when they trend.",
+     "src": "PureWow, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1563
+    },
+    {
+     "t": "The harmless Gen Alpha words in the same guide ('bet' for yes, 'cooking' for doing great, 'goated' for the best, 'six seven' as a filler) are the only slang worth a light touch in a Bro Bros Short for older kids, used as a playful catchphrase by Big Bro and never in songs for toddlers.",
+     "src": "PureWow, Jul 2026 (our reading)",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1563
     }
    ]
   }
@@ -26177,12 +26191,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 07:43",
-   "note": "Summary of older entries: runs up to Run 1483 (visual craft (thumbnail studies, 2026 animation styles)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 08:40",
-   "note": "Run 1484 (competitor deep dive (Little Angel and ChuChu TV upload pace)): New: in the 28 days to mid November Little Angel posted 28 videos (about one a day, many counting Shorts) and its views rose 21% against the prior two weeks, while ChuChu TV posted only 9 long compilations and its views fell 22%; daily short helper songs are outpacing slow long uploads right now. Chrome not available. Total 3608."
+   "note": "Summary of older entries: runs up to Run 1484 (competitor deep dive (Little Angel and ChuChu TV upload pace)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 08:42",
@@ -26495,6 +26505,10 @@
   {
    "date": "2026-11-20 14:39",
    "note": "Run 1562 (Shorts and Reels algorithm (Reels freshness)): New: Meta says nearly 45% of recommended Reels are under a day old, so daily fresh Reels beat reposts. Sequence ranking, Content Protection, Amazon Reels links, the repost rule and Shorts hook guides were already filed. Chrome not available. Total 3726."
+  },
+  {
+   "date": "2026-11-20 14:40",
+   "note": "Run 1563 (TRENDS (Gen Alpha slang safety, Roblox recheck)): New: a list of popular kid slang that hides swears, innuendo or looks based insults to keep out of our lyrics, plus the few harmless words safe for older kid Shorts. Roblox November hits and six seven were already filed. Trend bank unchanged. Chrome not available. Total 3728."
   }
  ],
  "history": [
@@ -27373,6 +27387,10 @@
   {
    "date": "2026-11-20 14:39",
    "total": 3726
+  },
+  {
+   "date": "2026-11-20 14:40",
+   "total": 3728
   }
  ],
  "next_week_ideas": [
