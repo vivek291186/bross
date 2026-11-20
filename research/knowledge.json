@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:59:29+05:30",
- "runs": 1614,
+ "updated": "2026-11-20T18:00:19+05:30",
+ "runs": 1615,
  "branches": [
   {
    "id": "platforms",
@@ -17744,6 +17744,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1610
+    },
+    {
+     "t": "HaiBunda, a major Indonesian parenting site, recommended seven YouTube cartoons in April 2026 and five are local originals (Nussa's brother and sister series with Islamic values, Riko and his robot friend, BaLiTa letter and number songs, Uwa's endangered Indonesian animals, the science explainer Kok Bisa?), so Indonesian parents favour shows that reflect their own values and wildlife.",
+     "src": "HaiBunda, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1615
+    },
+    {
+     "t": "A Bro Bros dub for Indonesia would fit best with themes parents there already praise: sibling kindness and respect for parents (like Nussa), simple letters and numbers songs and friendly local animals such as the orangutan, tiger and rhino.",
+     "src": "HaiBunda, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1615
+    },
+    {
+     "t": "The Indonesian nursery compilation channel Loco Nuts (287K subscribers, 118M lifetime views) has gained no subscribers since February 2026 and made only about 386K views in 28 days from two uploads, its biggest hit still a 2023 boo boo song compilation (14.7M), another sign that a language channel without steady new uploads fades.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1615
     }
    ]
   },
@@ -26752,11 +26773,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1535 (our own results (Metricool at 13 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 12:57",
-   "note": "Run 1536 (other platforms (Netflix, Spotify, Disney Jr.)): Nothing new: Netflix's 2026 animated top 10 (Peppa Pig, Creature Cases, CoComelon, Little Angel, Bebefinn), Spotify's kids music toggle, Gracie's Corner on Disney Jr. and Wrapped timing were all already filed; the Nielsen page found was from 2023. No leaves added. Chrome not available. Total 3678."
+   "note": "Summary of older entries: runs up to Run 1536 (other platforms (Netflix, Spotify, Disney Jr.)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 12:58",
@@ -27069,6 +27086,10 @@
   {
    "date": "2026-11-20 17:59",
    "note": "Run 1614 (topics and seasons (December world holiday calendar; TRENDS skipped as already rechecked)): Nothing new: Hanukkah from 4 Dec, St Nicholas 5 and 6 Dec, Colombia's little candles 7 Dec, St Lucia 13 Dec, Las Posadas, the 21 Dec solstice, Dongzhi on 22 Dec and the lights theme across them were all already filed. No leaves added. Chrome not available. Total 3808."
+  },
+  {
+   "date": "2026-11-20 18:00",
+   "note": "Run 1615 (global markets (Indonesia parents' channel picks, small dub channel stall)): New: an Indonesian parenting site's April 2026 list of recommended YouTube cartoons is led by local originals (Nussa's sibling series with Islamic values, Riko and his robot, BaLiTa songs, Uwa's endangered animals, science explainer Kok Bisa?) beside Bing and Pinkfong dubs; a small Indonesian nursery compilation channel, Loco Nuts, has stalled at 287K subscribers with two uploads a month. Chrome not available. Total 3811."
   }
  ],
  "history": [
@@ -28155,6 +28176,10 @@
   {
    "date": "2026-11-20 17:59",
    "total": 3808
+  },
+  {
+   "date": "2026-11-20 18:00",
+   "total": 3811
   }
  ],
  "next_week_ideas": [
