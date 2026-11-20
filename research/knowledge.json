@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:43:50+05:30",
- "runs": 1525,
+ "updated": "2026-11-20T12:44:54+05:30",
+ "runs": 1526,
  "branches": [
   {
    "id": "platforms",
@@ -4829,6 +4829,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1525
+    },
+    {
+     "t": "In the Research tab YouTube launched on 13 Nov 2026 (Trends renamed), a video's outlier score compares it with the same channel's earlier videos of the same format, so '5x' means five times that channel's usual views; Bro Bros can use it to find which of our own songs broke out, not only big rivals.",
+     "src": "PPC Land, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1526
+    },
+    {
+     "t": "YouTube says the 13 Nov 2026 move from Analytics to Insights only rewrites the desktop view into plain language summaries; advanced analytics and real time data stay the same, so the 48 hour and 7 day checks of our uploads keep working as before.",
+     "src": "PPC Land citing TeamYouTube, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1526
     }
    ]
   },
@@ -25681,11 +25695,7 @@
  "log": [
   {
    "date": "2026-11-20 05:55",
-   "note": "Summary of older entries: runs up to Run 1445 covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 05:55",
-   "note": "Run 1447 (global markets (Indonesian kids song channel)): Arabic kids channel pages could not be read. New from Indonesia: a 2.1M subscriber Indonesian kids song channel built its 700M views on local classic songs (a train song compilation 180M, a five balloons remix 159M) but stalled at zero subscriber growth once uploads fell to about one a month, and it leans on a protected train character in titles, which we avoid. Chrome not available. Total 3545."
+   "note": "Summary of older entries: runs up to Run 1446 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 06:01",
@@ -25998,6 +26008,10 @@
   {
    "date": "2026-11-20 12:43",
    "note": "Run 1525 (TRENDS (Reels formats and family trends, 20 Nov)): Weekly trend lists and Thanksgiving news repeated what the tree holds; Know Your Meme pages were blocked. New: Reels get about 65% of their views in the first 3 days (Metricool data cited 1 Nov), ranking and list Reels lead November's format lists, and the tender 'last uppy' parent and child lift trend (late 2025 to Feb 2026) is a ready emotional song angle. Trend bank unchanged. Chrome not available. Total 3655."
+  },
+  {
+   "date": "2026-11-20 12:44",
+   "note": "Run 1526 (YouTube algorithm (official statements and Studio changes)): Beaupre's Creator Insider points, Joos's Home feed data and the Research tab were already filed. New detail from YouTube's 13 Nov Studio change: the Research tab's outlier score compares a video with the channel's own earlier videos of the same format, so even a tiny channel can spot its own breakouts. Chrome not available. Total 3657."
   }
  ],
  "history": [
@@ -26728,6 +26742,10 @@
   {
    "date": "2026-11-20 12:43",
    "total": 3655
+  },
+  {
+   "date": "2026-11-20 12:44",
+   "total": 3657
   }
  ],
  "next_week_ideas": [
