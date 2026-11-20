@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T19:40:53+05:30",
- "runs": 1637,
+ "updated": "2026-11-20T19:41:37+05:30",
+ "runs": 1638,
  "branches": [
   {
    "id": "platforms",
@@ -13453,6 +13453,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1631
+    },
+    {
+     "t": "Mogu and Perol, a new preschool series from Zephyr Animation (France) with Taiwanese partners, turns a stop motion short into 39 seven minute 3DCG episodes set on a bright island, with gentle pacing rather than fast action; producers chose 3DCG to grow the world and reach more countries, the same route Bro Bros takes with Blender.",
+     "src": "Animost industry news, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1638
+    },
+    {
+     "t": "Its lead pair is a calm, slightly shy big character with a tiny, energetic, cuddly sidekick, a size and energy contrast that reads instantly to toddlers and suits Big Bro and Little Bro: keep Big Bro steady and kind, Little Bro bouncy and curious, in posture and movement as well as in the song.",
+     "src": "Animost industry news, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1638
     }
    ]
   },
@@ -26934,11 +26948,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1558 (rules and monetisation (2027 Partner Program cut off)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 14:36",
-   "note": "Run 1559 (our own results (Metricool at 14:40 IST, 20 Nov)): Nothing new: the 20 Nov 10:00 elephant parade Reel and Short published (the long video again with the thumbnail warning), Reel analytics still stop at the 19 Nov pair (9 and 4 views), and the queue still ends on 22 Nov at 16:05 IST. No leaves added. Chrome not available. Total 3719."
+   "note": "Summary of older entries: runs up to Run 1559 (our own results (Metricool at 14 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 14:37",
@@ -27251,6 +27261,10 @@
   {
    "date": "2026-11-20 19:40",
    "note": "Run 1637 (music craft (new child music studies and chant formats)): New: a Chongqing study found 8 weeks of twice weekly drum, maraca and rhythm game sessions raised 4 to 5 year olds' self control and patience; a 2026 infant study found babies up to 12 months move more in a structured way but do not lock to the beat; retrieval practice beats rewatching for 4 to 6 year olds; Lingokids' spoken 'ABC Chant' reached 60M views. Chrome not available. Total 3834."
+  },
+  {
+   "date": "2026-11-20 19:41",
+   "note": "Run 1638 (visual craft (new preschool CG series, thumbnails and tool updates recheck)): Small find: the French and Taiwanese preschool series Mogu and Perol is moving from stop motion to 3DCG with 39 gentle seven minute episodes, a timid big friend paired with a tiny energetic one. Thumbnail testing, Blender 5.1 to 5.3 and Meshy changelog items were already filed; three AWN pages could not be read. Chrome not available. Total 3836."
   }
  ],
  "history": [
@@ -28429,6 +28443,10 @@
   {
    "date": "2026-11-20 19:40",
    "total": 3834
+  },
+  {
+   "date": "2026-11-20 19:41",
+   "total": 3836
   }
  ],
  "next_week_ideas": [
