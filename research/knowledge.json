@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:04:14+05:30",
- "runs": 1452,
+ "updated": "2026-11-20T06:35:35+05:30",
+ "runs": 1453,
  "branches": [
   {
    "id": "platforms",
@@ -4675,6 +4675,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1442
+    },
+    {
+     "t": "Since 21 Oct 2026, when YouTube's systems flag unusual activity on a channel, uploads, live streams, playlist edits, custom thumbnails and visibility changes are frozen for everyone on the channel for a review that usually takes about 24 hours; existing videos and money are untouched, so if a Metricool scheduled upload fails we should check Studio for this notice before retrying.",
+     "src": "TubeBuddy, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1453
+    },
+    {
+     "t": "YouTube's 2 Oct 2026 Help Community note says recommendations now favour original content and cut reach for Shorts that re upload another channel's video without adding original work, which protects channels like ours that animate every song from scratch.",
+     "src": "TubeBuddy, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1453
     }
    ]
   },
@@ -18941,6 +18955,34 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1447
+    },
+    {
+     "t": "From 1 Feb 2027 new channels can join the YouTube Partner Program only with 8,000 qualified watch hours in the last 365 days or 20 million qualified Shorts views in the last 90 days (double today's bars); channels already in the programme are not affected, so Bro Bros should aim to qualify before February under the current, lower bar.",
+     "src": "blog.youtube, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1453
+    },
+    {
+     "t": "Also from 1 Feb 2027 a channel keeps earning from Shorts ads only while it has 10 million qualified Shorts views in the last rolling 90 days; below that it still earns on long videos and Shorts money returns automatically once it crosses 10M again, so for a young kids channel the long songs are the dependable income and Shorts are mainly for discovery.",
+     "src": "blog.youtube and Cartoon Brew, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1453
+    },
+    {
+     "t": "YouTube's 2027 revenue split stays 55% to the creator for long form ads and 45% for Shorts, and Premium Lite (with a 60% creator pool) expands to every Premium country, so watch time on long songs and compilations is worth more per view than Shorts views.",
+     "src": "blog.youtube, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1453
+    },
+    {
+     "t": "Cartoon Brew says the new rolling 10M Shorts bar favours channels that can turn out lots of Shorts quickly and pushes slower hand animators toward long form; one creator estimated 9M qualified Shorts views earned only about 2,600 US dollars, so Shorts income alone would not fund our 14 songs a week.",
+     "src": "Cartoon Brew, Aug 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1453
     }
    ]
   },
@@ -24946,11 +24988,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Sum"
-  },
-  {
-   "date": "2026-11-19 23:45",
-   "note": "Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)): Nothing new: 'turn into a cute little X', Let's Groove and the December holiday calendars were already in the tree; the other memes (squirrel in a tornado, nuggets, Cat in the Hat hoax) are tied to films, adult songs or scary hoaxes and are not for us. No leaves added. Chrome not available. Total 3379."
+   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)): earlier rounds summarised; details live in the leaves."
   },
   {
    "date": "2026-11-19 23:45",
@@ -25263,6 +25301,10 @@
   {
    "date": "2026-11-20 06:04",
    "note": "Run 1452 (TRENDS (meme roundups recheck)): Nothing new: the Know Your Meme roundups found were from Nov 2024 and Apr 2026 with no dance or kid usable format (one built on a slur lyric, avoid), and this week's family trend lists were already in the tree. No leaves added. Chrome not available. Total 3550."
+  },
+  {
+   "date": "2026-11-20 06:35",
+   "note": "Run 1453 (YouTube algorithm (YPP 2027 rules, Oct creator news)): New: from 1 Feb 2027 YouTube needs 8,000 watch hours a year or 20M Shorts views in 90 days to join the Partner Program, and keeps Shorts ad money only for channels above 10M qualified Shorts views per rolling 90 days, while long form share stays 55% versus 45% for Shorts; also a channel wide upload freeze of about 24 hours when YouTube flags unusual activity. Chrome not available. Total 3556."
   }
  ],
  "history": [
@@ -26345,6 +26387,10 @@
   {
    "date": "2026-11-20 06:04",
    "total": 3550
+  },
+  {
+   "date": "2026-11-20 06:35",
+   "total": 3556
   }
  ],
  "next_week_ideas": [
