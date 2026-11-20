@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:39:19+05:30",
- "runs": 1434,
+ "updated": "2026-11-20T05:40:06+05:30",
+ "runs": 1435,
  "branches": [
   {
    "id": "platforms",
@@ -16603,6 +16603,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1423
+    },
+    {
+     "t": "Hausa language drama channels from northern Nigeria (one with about 2.2M subscribers and 288M views, another 1.45M and 215M by 13 Nov 2026) get 1.4M to 2.7M views per episode and add English subtitles to reach part Hausa viewers, showing West Africa's YouTube audience rewards local language video plus subtitles.",
+     "src": "Leadership via AllAfrica, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1435
+    },
+    {
+     "t": "YouTube's own multi language audio cases started each English channel with Spanish and Portuguese first (Jamie Oliver then added Hindi and saw about three times more views on dubbed videos; Fremantle's talent shows passed 6M plays on dubbed tracks), matching our plan of Spanish and Portuguese as the first two re sung languages, then Hindi.",
+     "src": "YouTube Blog, Jul 2024",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1435
     }
    ]
   },
@@ -18759,6 +18773,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1426
+    },
+    {
+     "t": "YouTube Kids only shows pre approved ads and bans food and drink, beauty, dating and political ads, with non skippable ads of 15 to 20 seconds, which is one reason kids video ad rates stay below general audience rates.",
+     "src": "Broadcast Media Africa (YouTube Kids at 10), Sep 2025",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1435
     }
    ]
   },
@@ -24694,11 +24715,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-19 23:35",
-   "note": "Run 1356 (TRENDS (B&T November list)): Most items were already covered (soft launch, same spot, camera shy, ILLIT pass the hook, loading reveal, Great Meme Reset is not for kids). Added the deadpan 'were you in the room' call, unprompted kitchen dancing, the 'featuring' cameo reveal and runway walks; two trend bank entries. Chrome not available. Total 3364."
+   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 23:36",
@@ -25011,6 +25028,10 @@
   {
    "date": "2026-11-20 05:39",
    "note": "Run 1434 (TRENDS (December fun days, Later's 13 Nov Reels)): Later's 13 Nov Reels picks (five stages, fixed camera outfit swap, timestamps) and the Hanukkah dates were already in the tree. New: two kid friendly December fun days not yet in our calendar, International Ninja Day (5 Dec) and Pretend to Be a Time Traveler Day (8 Dec), plus a reminder that 4 Dec Cookie Day sits on the same weekend as Hanukkah's first night. Chrome not available. Total 3514."
+  },
+  {
+   "date": "2026-11-20 05:40",
+   "note": "Run 1435 (global markets (Hausa YouTube, multi language audio cases)): Country rankings, auto dubbing languages and the 125M view kids dubbing case were already in the tree. New: Hausa language drama channels in Nigeria reach 1.5M to 2.2M subscribers and add English subtitles for wider reach (a sign West Africa rewards local language video), Fremantle's dubbed tracks passed 6M plays starting with Spanish and Portuguese, and YouTube Kids bans food, beauty and political ads. Chrome not available. Total 3517."
   }
  ],
  "history": [
@@ -26021,6 +26042,10 @@
   {
    "date": "2026-11-20 05:39",
    "total": 3514
+  },
+  {
+   "date": "2026-11-20 05:40",
+   "total": 3517
   }
  ],
  "next_week_ideas": [
