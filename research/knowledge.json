@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T17:36:37+05:30",
- "runs": 1592,
+ "updated": "2026-11-20T17:43:01+05:30",
+ "runs": 1593,
  "branches": [
   {
    "id": "platforms",
@@ -26466,6 +26466,41 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1572
+    },
+    {
+     "t": "Virlo's TikTok tracker counted 73 live trends and about 24,000 videos in November 2026; most are adult relationship, glow up and makeup formats, so only a small share (dances, pets, plush toys, Christmas transitions) can be adapted for a kids channel.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1593
+    },
+    {
+     "t": "The Thank You Baby Dance (first seen 26 Sep 2026) reached about 315M views from roughly 1,200 TikTok videos with a simple pattern: on screen text names a kind thing someone did, then a short grateful happy dance; it was archived by 20 Nov, but the gratitude reveal format fits a Thanksgiving week Short.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1593
+    },
+    {
+     "t": "The Last Christmas x Phat winter dance (side steps, hands near the face, a sway, often in Christmas pyjamas) started 8 Oct 2026 and already faded by 20 Nov (70 creators the week before, 6 this week), showing that early Christmas dances burn out within about six weeks, so our Christmas dance should go out in December, not October.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1593
+    },
+    {
+     "t": "The fastest rising TikTok format in mid November 2026 is the Piggyback flip (about 1,300 videos), an acrobatic lift that is unsafe for children to copy, so Bro Bros skips it entirely.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1593
+    },
+    {
+     "t": "A 'best IKEA plushie' debate is among November 2026's TikTok trends, a sign that ranking favourite soft toys is a live, kid friendly format we can echo with our own invented plush characters (never the brand's toys).",
+     "src": "Virlo, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1593
     }
    ]
   }
@@ -26493,11 +26528,7 @@
  "log": [
   {
    "date": "2026-11-20 10:40",
-   "note": "Summary of older entries: runs up to Run 1513 (YouTube algorithm (November 2026 changes)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 10:46",
-   "note": "Run 1514 (music craft and tools (Suno v6, Meshy 7.1)): Nothing new: Suno v6 (licensed Warner and BMG models, song editing) and Meshy 7.1 were already in the tree. No leaves added. Chrome not available. Total 3633."
+   "note": "Summary of older entries: runs up to Run 1514 (music craft and tools (Suno v6, Meshy 7.1)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 11:36",
@@ -26810,6 +26841,10 @@
   {
    "date": "2026-11-20 17:36",
    "note": "Run 1592 (competitor deep dive (Super Simple Songs 2026 release rhythm)): New: TVDB's community log of Super Simple Songs' 2026 originals shows one new song every second Thursday from January to late September, each 2 to 4 minutes with plain 'I love my X' or concept titles and no holiday songs; Bebefinn and Cocomelon searches found nothing new. Chrome not available. Total 3771."
+  },
+  {
+   "date": "2026-11-20 17:43",
+   "note": "Run 1593 (TRENDS (Virlo TikTok list for November 2026, week of 20 Nov)): New: the Thank You Baby gratitude dance (315M views, archived 20 Nov) becomes our Thanksgiving week 'Thank you happy dance' Short; Virlo shows early Christmas dances like Last Christmas x Phat burned out within six weeks (70 creators to 6) and the rising Piggyback flip is skipped as unsafe for kids. Trend bank: added the thank you dance, dropped Turn at the front. Chrome not available. Total 3776."
   }
  ],
  "history": [
@@ -27808,6 +27843,10 @@
   {
    "date": "2026-11-20 17:36",
    "total": 3771
+  },
+  {
+   "date": "2026-11-20 17:43",
+   "total": 3776
   }
  ],
  "next_week_ideas": [
@@ -27882,6 +27921,12 @@
    "use": "Kind flip of the teen 'How Kids See Us' slideshow: first card shows Big Bro as a giant cape wearing hero from Little Bro's low camera, caption 'how Little Bro sees me'; cut to the real Big Bro doing a goofy wiggle dance (standing, in place, shoulders bounce, arms wiggle side to side) to our own song. Never use real photos or scary portraits."
   },
   {
+   "name": "Thank you happy dance",
+   "where": "TikTok (Thank You Baby Dance, 315M views from about 1,200 videos since 26 Sep 2026, now archived) and a natural fit for US Thanksgiving on 26 Nov",
+   "status": "seasonal",
+   "use": "A 15 second Short and Reel for Thanksgiving week: an on screen line names a small kindness ('Big Bro shared his last cookie'), then Little Bro does a grateful happy dance to our own 'Thank You' chorus, and they swap roles in the second half. Meshy prompt: standing in place, hands on heart, then bounce knees and wave both hands beside the face, then a small hop and a thumbs up, no floor moves."
+  },
+  {
    "name": "I haven't done anything this year",
    "where": "TikTok and Instagram Reels (rising mid Nov 2026, parent creators)",
    "status": "rising",
@@ -27940,12 +27985,6 @@
    "where": "TikTok and Reels ('not me nan' wolf in the bed audio, Little Red Riding Hood memes, autumn 2026)",
    "status": "rising",
    "use": "A funny Short on our own song: Little Bro knocks, a 'grandma' in a big nightcap answers, Big Bro peeks and both point and shout 'That's not Grandma!' when a fluffy tail pops out, then the silly wolf joins the dance. Meshy prompt: standing in place, lean forward and peek with hand over eyes, then jump back and point with both arms, then shake hips side to side."
-  },
-  {
-   "name": "Turn at the front",
-   "where": "TikTok and Reels ('Party Funk' style group clips, about 2.7M views, week of 16 Nov 2026)",
-   "status": "rising",
-   "use": "A 15 second Short on our own funky chorus: Big Bro, Little Bro and a friend stand in a line, and on each 4 beat bar a different one steps forward to do his signature move while the other two bounce behind, then all three finish together. Meshy prompt: standing in place, step forward, bounce knees and roll both arms in front of chest, then step back and clap, no floor moves."
   },
   {
    "name": "Christmas tree sway",
