@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T07:37:14+05:30",
- "runs": 1473,
+ "updated": "2026-11-20T07:38:06+05:30",
+ "runs": 1474,
  "branches": [
   {
    "id": "platforms",
@@ -19109,6 +19109,27 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1453
+    },
+    {
+     "t": "Bloomberg reported that channels linked to Animaj, the AI kids studio Google backed in March 2026 (about 1M USD from its AI Futures Fund), including the infant channel Hey Kids with over 4M subscribers, gained more than 22 billion views in 2025, so AI assisted kids studios already compete at the very top of baby and toddler YouTube.",
+     "src": "Mashable via AOL, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1474
+    },
+    {
+     "t": "The same deal gives Animaj exclusive early access to Google's generative video tools, which means AI made preschool videos will get cheaper and more common, so Bro Bros must stand out on original songs, recurring characters and real story variety rather than on volume.",
+     "src": "Mashable via AOL, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1474
+    },
+    {
+     "t": "Denmark's planned under 15 social media ban comes with an official age verification app, and parents could let children from 13 join after an assessment, so in Denmark (as in Australia) young viewers will reach our videos mainly through logged out, parent or YouTube Kids viewing.",
+     "src": "Mashable via AOL, 2025 to 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1474
     }
    ]
   },
@@ -25239,12 +25260,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 01:49",
-   "note": "Summary of older runs (up to Run 1394 (YouTube algorithm recheck)): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
-  },
-  {
    "date": "2026-11-20 01:50",
-   "note": "Run 1395 (Shorts and Reels algorithm (Instagram tools)): Most of Instagram's 2026 Reels guidance (length bands, auto captions, Features, Edits) was already in the tree; added the align tool for same spot transitions and the Reels trends destination with watch time insights. One design update page could not be read. Chrome not available. Total 3426."
+   "note": "Summary of older runs (up to Run 1395 (Shorts and Reels algorithm (Instagram tools))): competitor, trends, algorithm, music, visuals, markets and rules rounds; see history and leaves for details."
   },
   {
    "date": "2026-11-20 01:50",
@@ -25557,6 +25574,10 @@
   {
    "date": "2026-11-20 07:37",
    "note": "Run 1473 (TRENDS (anime nervous dance, SocialPilot 17 to 25 Nov recheck)): New: a 'Talk to me Doja' nervous dance meme (started 7 Nov 2026, copies a shy anime character's jittery little dance) spread through November; we keep the nervous wiggle idea with our own song, never the pop track or the anime moves. SocialPilot's 17 to 25 Nov lists held nothing beyond what the tree already has. Dropped the fading clapping pet applause item. 'Remember November 2026' polar bear edits are ending with the month and are eerie, so skipped. Chrome not available. Total 3592."
+  },
+  {
+   "date": "2026-11-20 07:38",
+   "note": "Run 1474 (rules, safety and monetisation (Animaj AI deal details, Denmark under 15 law)): Two details new to the tree: Animaj's infant channel network (led by Hey Kids, 4M plus subscribers) pulled more than 22B views in 2025 and the Google AI fund deal gives it exclusive early access to Google's video AI tools; Denmark's under 15 ban plans a state age check app with parent approval possible from 13. Other rules news found was already in the tree. Chrome not available. Total 3595."
   }
  ],
  "history": [
@@ -26723,6 +26744,10 @@
   {
    "date": "2026-11-20 07:37",
    "total": 3592
+  },
+  {
+   "date": "2026-11-20 07:38",
+   "total": 3595
   }
  ],
  "next_week_ideas": [
