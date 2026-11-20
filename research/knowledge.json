@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T05:38:09+05:30",
- "runs": 1433,
+ "updated": "2026-11-20T05:39:19+05:30",
+ "runs": 1434,
  "branches": [
   {
    "id": "platforms",
@@ -24646,6 +24646,27 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1431
+    },
+    {
+     "t": "International Ninja Day falls on 5 Dec (a fun day started by a restaurant brand but now widely posted by kids brands), which suits a quiet 'ninja tiptoe' song where the Bros sneak, freeze and pose; it is a playful character theme with no protected ninja characters needed.",
+     "src": "Brandwatch, Nov 2025 (dates recur yearly)",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1434
+    },
+    {
+     "t": "'Pretend to Be a Time Traveler Day' on 8 Dec is a light social media day that fits a Bro Bros adventure song where a magic clock sends the Bros to the dinosaurs, the pyramids and space, with one dance move per stop.",
+     "src": "Brandwatch, Nov 2025 (dates recur yearly)",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1434
+    },
+    {
+     "t": "National Cookie Day (4 Dec 2026) lands on the Friday that Hanukkah starts at sundown, so a 'bake and decorate cookies' song posted 2 to 3 Dec covers a fun day and the start of the December baking season in many countries without tying it to one festival.",
+     "src": "Brandwatch, Nov 2025; Hebcal dates already in tree",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1434
     }
    ]
   }
@@ -24673,11 +24694,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-19 22:42",
-   "note": "Run 1355 (rules and safety recheck): Nothing new for us: KOSA, Kazakhstan's planned limits and the Australian ban were already in the tree; a Senate Roblox safety hearing page could not be opened. Metricool YouTube data still ends 16 Nov (2,150 subscribers), so the own results round was skipped. No leaves added. Chrome not available. Total 3360."
+   "note": "Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Summary of 2 earlier runs: Earlier runs summarised: 7 older log lines merged, steady research rounds across all focuses."
   },
   {
    "date": "2026-11-19 23:35",
@@ -24990,6 +25007,10 @@
   {
    "date": "2026-11-20 05:38",
    "note": "Run 1433 (visual craft (pacing ratings by age, studio outlook)): Thumbnail and title testing, squishy 3D looks and Common Sense's flicker score were already in the tree. New: that score's age table (high pace is 'not recommended' under 2 and 'limited, watch together' for 3 to 5), and Mediawan's kids chief expecting action adventure, digital first shows and Roblox style interaction to lead in 2026. Chrome not available. Total 3511."
+  },
+  {
+   "date": "2026-11-20 05:39",
+   "note": "Run 1434 (TRENDS (December fun days, Later's 13 Nov Reels)): Later's 13 Nov Reels picks (five stages, fixed camera outfit swap, timestamps) and the Hanukkah dates were already in the tree. New: two kid friendly December fun days not yet in our calendar, International Ninja Day (5 Dec) and Pretend to Be a Time Traveler Day (8 Dec), plus a reminder that 4 Dec Cookie Day sits on the same weekend as Hanukkah's first night. Chrome not available. Total 3514."
   }
  ],
  "history": [
@@ -25996,9 +26017,17 @@
   {
    "date": "2026-11-20 05:38",
    "total": 3511
+  },
+  {
+   "date": "2026-11-20 05:39",
+   "total": 3514
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Shh! Ninja Bros! (Quiet Tiptoe Freeze Song)",
+   "why": "International Ninja Day is 5 Dec; a freeze game song (loud dance, then 'shh!' and freeze like a ninja) teaches loud and quiet and works in every language; post on 3 Dec. Standing moves: tiptoe in place, freeze on one leg, slow air chop, bow."
+  },
   {
    "title": "That's Not Grandma! (Silly Wolf Fairy Tale Song)",
    "why": "The public domain Little Red Riding Hood reveal is a live meme joke (not me nan audio, autumn 2026); a call and response song (big ears? big eyes? big tail!) with a friendly, never scary wolf who just wants to dance travels in every country. Standing moves: hands as big ears, circle eyes, wiggle tail, point and jump back."
@@ -26010,10 +26039,6 @@
   {
    "title": "Let's Make It Snow! (Pretend Snow Dance)",
    "why": "Most children in Europe, India, the Gulf, Africa and Southeast Asia will not see real snow this Christmas (Copernicus expects a mild European winter), so the Bros make pretend snow with paper snowflakes, pillow feathers and a fan, then a magic sparkle turns it into real snow for one chorus. Standing moves: wiggle fingers down like falling snow, spin on the spot, catch a flake, freeze."
-  },
-  {
-   "title": "Beads in a Row! (Friendship Bracelet Pattern Song)",
-   "why": "Bracelet making is back on the 2026 holiday toy lists; the Bros thread red, blue, red, blue beads and kids shout the next colour, teaching patterns, then each Bro gives his bracelet to a friend. Hands and beads in close up, upper body moves only, so it is easy in Meshy and travels to every country with no words needing translation."
   },
   {
    "title": "Robot Bro, Follow the Code! (Sequencing Dance Game)",
@@ -26057,6 +26082,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Ninja tiptoe freeze",
+   "where": "International Ninja Day posts (5 Dec), Reels and Shorts",
+   "status": "seasonal",
+   "use": "A 20 second Short on our own 'shh, ninja' beat: the Bros in headbands tiptoe in place, freeze in a pose on every 'shh!', then do a slow karate chop in the air and a big bow. Meshy prompt: standing in place, tiptoe in place with knees soft, freeze with one knee raised and hands in front, then slow chop with right arm, then bow, no kicks, no floor moves."
+  },
   {
    "name": "Clapping pet applause",
    "where": "Reels and TikTok green screen format (AI black cat clapping, Oct to Nov 2026)",
@@ -26128,12 +26159,6 @@
    "where": "Instagram Reels (start of holiday season, week of 17 Nov 2026)",
    "status": "seasonal",
    "use": "Open on the Bros' dark living room at night, Little Bro holds the plug, count 3, 2, 1 on screen and on the drop of our own Christmas song the tree, window and garden lights switch on in a wave; both Bros then dance in front of the tree. Meshy prompt: standing in place, both arms shoot up in surprise, two hops on the spot, then sway side to side with hands waving above the head."
-  },
-  {
-   "name": "Thankful line up",
-   "where": "TikTok and Instagram family line up challenge plus the Thanksgiving gratitude tablecloth, 21 to 26 Nov",
-   "status": "seasonal",
-   "use": "A 15 second Short on our own warm clapping song: the Bros and two friends stand in a line off camera; one at a time each steps into frame, does one simple standing move (a double clap, a shoulder shimmy, a little hop in place, a wave with both hands), says one thing they are thankful for in three words, takes a slice of pie from Mum's tray and steps out; the last one is Little Bro, who hugs Big Bro. Meshy prompt per friend: standing in place, two quick claps at chest height, then a small shoulder shimmy for two beats."
   },
   {
    "name": "Snow day happy dance",
