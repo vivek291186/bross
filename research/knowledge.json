@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:01:33+05:30",
- "runs": 1669,
+ "updated": "2026-11-21T03:02:36+05:30",
+ "runs": 1670,
  "branches": [
   {
    "id": "platforms",
@@ -2694,6 +2694,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1658
+    },
+    {
+     "t": "Dash Social's children and baby benchmark (brand accounts with 1K+ followers, Jul to Dec 2025) puts average views per post at about 77.6K on Instagram, 120.6K on TikTok and 58.9K on YouTube, all about half the all industry average, so kids content reaches fewer people per post than other niches and small numbers on our Reels are normal at the start.",
+     "src": "Dash Social, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1670
+    },
+    {
+     "t": "In the same Dash Social report children and baby brands lifted YouTube views 455% in six months while doubling uploads from 2 to 4 a week across Shorts and long videos, but engagement rates fell about 20% on Instagram (2.0% to 1.6%) and 18% on TikTok, so in this niche more volume on YouTube buys views while likes and comments thin out; judge our posts on views and watch time, not likes.",
+     "src": "Dash Social, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1670
+    },
+    {
+     "t": "Dash Social says the average Instagram Reel is watched for only about four seconds and tells brands to hook in the first four seconds; for a Bro Bros Reel that means the chorus move or a funny face has to be on screen in the first beat, not after an intro.",
+     "src": "Dash Social, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1670
     }
    ]
   },
@@ -27476,10 +27497,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:35",
-   "note": "Run 1591 (global markets (Ampere kids report, World Screen 2026 trend watch, Africa earners)): New: Ampere for Telefilm (Jun 2026) found animation travels beyond English and French markets far better than live action and that kids content is shifting to existing characters; World Screen's 2026 outlook calls YouTube the clear discovery winner, with Cleo and Cuquin's YouTube exclusives winning an HBO Max season; Uganda's Masaka Kids Afrikana dance channel is among Africa's top YouTube earners. Chrome not available. Total 3769."
-  },
-  {
    "date": "2026-11-20 17:36",
    "note": "Run 1592 (competitor deep dive (Super Simple Songs 2026 release rhythm)): New: TVDB's community log of Super Simple Songs' 2026 originals shows one new song every second Thursday from January to late September, each 2 to 4 minutes with plain 'I love my X' or concept titles and no holiday songs; Bebefinn and Cocomelon searches found nothing new. Chrome not available. Total 3771."
   },
@@ -27790,13 +27807,13 @@
   {
    "date": "2026-11-21 03:01",
    "note": "Run 1669 (YouTube algorithm (made for kids Shorts reach, Studio Research tab, AIR traffic recovery guide)): The Research tab, the 21 to 11 long video case and the Arabic thumbnail recovery were already filed. New: in AIR's guide a localised Spanish kids channel wrongly flagged by the recommendation system went from 550 to about 28,000 recommendations within 30 days of the flag being lifted, so a sudden total drop in Suggested traffic should be escalated, not waited out. Chrome not available. Total 3911."
+  },
+  {
+   "date": "2026-11-21 03:02",
+   "note": "Run 1670 (Shorts and Reels kids benchmarks (Dash Social children and baby report, Jul to Dec 2025 data)): New benchmark: children and baby brand accounts average about 77.6K views per Instagram post, 120.6K per TikTok and 58.9K per YouTube video, with YouTube views up 455% as posting doubled to 4 a week, while engagement rates fell about 20% on Instagram and TikTok. Chrome not available. Total 3914."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:43",
-   "total": 3379
-  },
   {
    "date": "2026-11-19 23:44",
    "total": 3379
@@ -28992,6 +29009,10 @@
   {
    "date": "2026-11-21 03:01",
    "total": 3911
+  },
+  {
+   "date": "2026-11-21 03:02",
+   "total": 3914
   }
  ],
  "next_week_ideas": [
