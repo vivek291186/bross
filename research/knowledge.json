@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T06:36:44+05:30",
- "runs": 1454,
+ "updated": "2026-11-20T06:39:15+05:30",
+ "runs": 1455,
  "branches": [
   {
    "id": "platforms",
@@ -24989,6 +24989,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1449
+    },
+    {
+     "t": "A parent TikTok conversation covered by US local news on 12 Nov 2026 has parents filming their kids repeating odd phrases and sounds picked up from tablet videos, with experts telling parents to check watch history and turn off autoplay; Bro Bros lyrics should be lines a parent is glad to hear repeated at the dinner table (please, thank you, counting, colours).",
+     "src": "KTAL via Yahoo News, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1455
+    },
+    {
+     "t": "A ghost filter prank, where a parent leaves a toddler at a bathroom mirror and a scary filtered figure appears behind them, spread on TikTok in October 2026 and drew wide criticism as cruel, so Bro Bros never uses jump scares or fright reactions even in Halloween or 'spooky' songs; surprises should be silly reveals, not scares.",
+     "src": "CafeMom, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1455
+    },
+    {
+     "t": "Most sounds on SocialPilot's 17 to 25 Nov 2026 Reels list are big label Christmas hits and pop songs we cannot use, but the formats under them (holiday light reveals, decorations going up from bare to full, ordinary chores filmed like a grand ballet) all work with our own original tracks.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1455
     }
    ]
   }
@@ -25016,11 +25037,7 @@
  "log": [
   {
    "date": "2026-11-19 22:41",
-   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)): earlier rounds summarised; details live in the leaves."
-  },
-  {
-   "date": "2026-11-19 23:46",
-   "note": "Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)): Added Pinkfong's Japan push (Bebefinn music pad No. 1 on Amazon Japan, Baby Shark alphabet bus top on Rakuten, Baby Shark hotel rooms and Christmas pop ups) and confirmed the CoComelon film's current 19 Feb 2027 date (it moved a week earlier from 26 Feb). Chrome not available. Total 3382."
+   "note": "Summary of 2 earlier runs and Run 1374 (TRENDS recheck (Know Your Meme roundups, December calendars)) and Run 1375 (global markets recheck (Africa and Philippines)) and Run 1376 (competitor deep dive (Pinkfong Japan, CoComelon film date)): earlier rounds summarised; details live in the leaves."
   },
   {
    "date": "2026-11-19 23:47",
@@ -25333,6 +25350,10 @@
   {
    "date": "2026-11-20 06:36",
    "note": "Run 1454 (Shorts and Reels (Edits audio links, Emplifi voice and pacing data)): Most Reels news (reference tool, end of linked Reels) was already in the tree. New: Emplifi found a voice speaking in the first 3 seconds lifts 10 second retention by about 25% over music only openings, slower overall pacing lifts 30 second holds about 8%, text on screen helps music Reels but slightly hurts speech Reels, and Edits now lets Reels carry tappable audio links. Chrome not available. Total 3560."
+  },
+  {
+   "date": "2026-11-20 06:39",
+   "note": "Run 1455 (TRENDS (this week's Reels audio list, parent TikTok threads)): SocialPilot's 17 to 25 Nov list, Later's 13 Nov roundup and B&T's November TikTok trends were already in the tree. New: a mid November parent TikTok thread of kids repeating odd phrases picked up from tablet videos is drawing news coverage, and an October ghost filter scare prank on toddlers drew strong backlash, both warnings about what parents now watch for. Chrome not available. Total 3563."
   }
  ],
  "history": [
@@ -26423,6 +26444,10 @@
   {
    "date": "2026-11-20 06:36",
    "total": 3560
+  },
+  {
+   "date": "2026-11-20 06:39",
+   "total": 3563
   }
  ],
  "next_week_ideas": [
