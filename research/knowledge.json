@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:04:46+05:30",
- "runs": 1672,
+ "updated": "2026-11-21T03:05:34+05:30",
+ "runs": 1673,
  "branches": [
   {
    "id": "platforms",
@@ -13796,6 +13796,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1661
+    },
+    {
+     "t": "Small studio guidance on turning YouTube characters into toys (Whizzy Studios, Jun 2026) says a character must show its personality in one still image with no sound and look the same in 3D, plush, print and books, and that proportions and palette chosen now decide later licensing; Bro Bros should write a one page style guide (fixed outfits, colours, silhouettes, signature pose for each Bro) before the catalogue grows.",
+     "src": "Whizzy Studios, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1673
     }
    ]
   },
@@ -27525,10 +27532,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 17:43",
-   "note": "Run 1594 (rules and monetisation (AI kids content pressure)): New details from Fortune on the Fairplay letter: top AI slop kids channels earned over 4.25 million US dollars a year, YouTube says only a small set of high quality channels may carry AI content on YouTube Kids and that dedicated YouTube Kids AI labels are coming; the July monetisation clarification and kids ad rates were already filed. Chrome not available. Total 3779."
-  },
-  {
    "date": "2026-11-20 17:44",
    "note": "Run 1595 (our own results (Metricool at 17:45 IST, 20 Nov)): Nothing new: Reels and YouTube numbers for 14 to 19 Nov are unchanged since the 16:45 check (tomato 494 views, Hindi elephant story 466, 20 Nov Reels not synced yet). No leaves added. Chrome not available. Total 3779."
   },
@@ -27839,13 +27842,13 @@
   {
    "date": "2026-11-21 03:04",
    "note": "Run 1672 (music craft and market (Luminate 2026 midyear report; new kids holiday albums rechecked)): Bluey's Christmas EP, Yo Gabba Gabba's holiday album and Mongolian Jingle Bells were already filed. New from Luminate's H1 2026 report: English fell to a record low 87.1% of US music listening with Spanish at 9.4%, streaming outside the US grows more than twice as fast (11.8% against 4.8%), and an AI assisted Afro soul remake drew about 211M streams in 24 weeks. Chrome not available. Total 3918."
+  },
+  {
+   "date": "2026-11-21 03:05",
+   "note": "Run 1673 (visual craft (3D kids studio guides on character design and IP, Moonbug distribution interview)): Moonbug's year themes, Emmie spin off and the CoComelon movie date were already filed. New: studio guidance that a licensable kids character must read from one silent image and stay identical across 3D, plush and print, so a written Bro Bros style guide now saves redesigns later. Chrome not available. Total 3919."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:44",
-   "total": 3379
-  },
   {
    "date": "2026-11-19 23:45",
    "total": 3379
@@ -29041,6 +29044,10 @@
   {
    "date": "2026-11-21 03:04",
    "total": 3918
+  },
+  {
+   "date": "2026-11-21 03:05",
+   "total": 3919
   }
  ],
  "next_week_ideas": [
