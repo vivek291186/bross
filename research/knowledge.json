@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T02:43:24+05:30",
- "runs": 1655,
+ "updated": "2026-11-21T02:45:33+05:30",
+ "runs": 1656,
  "branches": [
   {
    "id": "platforms",
@@ -27278,6 +27278,20 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1653
+    },
+    {
+     "t": "Virlo's 'My Moon My Man' couple montage drew 235 new creators on 15 Nov 2026 but none on 20 Nov, while SocialPilot still counts the sound at peak with about 75K new TikTok videos a day, so a format can die days before its sound does; a Bro Bros version of a fast format has to ship within about a week of the trend appearing.",
+     "src": "Virlo and SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1656
+    },
+    {
+     "t": "SocialPilot's 17 Nov 2026 list puts Mariah Carey's Christmas classic back on top of TikTok at about 16.4M videos, roughly three times the 5.8M Reels counted on Instagram a week earlier, so the Christmas wave is biggest on TikTok and Reels creators still have room; our own Christmas song Reels should launch now with the 'it's time, season starts' reveal format, never the original audio.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1656
     }
    ]
   }
@@ -27306,10 +27320,6 @@
   {
    "date": "2026-11-20 13:44",
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 15:50",
-   "note": "Run 1577 (visual craft (Annecy 2026 kids formats)): New from Annecy 2026 coverage: WildBrain is making a YouTube first CG series of 26 three minute episodes for ages 4 to 8 and a CG plus live action hybrid with five minute episodes, and the market prefers a distinctive handmade look helped by technology over plain AI output. The eye tracking paper was blocked. Chrome not available. Total 3754 (one duplicate WildBrain leaf merged)."
   },
   {
    "date": "2026-11-20 15:51",
@@ -27622,13 +27632,13 @@
   {
    "date": "2026-11-21 02:43",
    "note": "Run 1655 (algorithm news recheck (AIR monthly log, ppc.land Home feed and Shorts reports, Instagram Features and Your Algorithm)): No new confirmed YouTube ranking change: AIR's log is still dated 4 Nov with no November rows, and the ppc.land pieces were from late 2025 and already filed; Instagram Features and Your Algorithm were already filed. One new number: Emplifi's Q3 2026 benchmark shows shares per reach on Instagram up 52% in a year. Chrome not available. Total 3887."
+  },
+  {
+   "date": "2026-11-21 02:45",
+   "note": "Run 1656 (TRENDS (Virlo 20 Nov, SocialPilot 17 to 25 Nov, Later 13 Nov, Know Your Meme 17 to 19 Nov)): Almost everything was already filed (Talk To Me Doja, thermostat toy meme, Friendsgiving prep, Blue Danube chores, outfit transition). New: the My Moon couple montage lost all new creators between 15 and 20 Nov while the sound still peaks, so the moon reveal moved to peak in the trend bank with a post this week or drop note; Mariah Carey's Christmas sound is back at No. 1 on TikTok at about 16.4M videos. Chrome not available. Total 3889."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 21:00",
-   "total": 3326
-  },
   {
    "date": "2026-11-19 22:42",
    "total": 3360
@@ -28824,6 +28834,10 @@
   {
    "date": "2026-11-21 02:43",
    "total": 3887
+  },
+  {
+   "date": "2026-11-21 02:45",
+   "total": 3889
   }
  ],
  "next_week_ideas": [
@@ -28905,9 +28919,9 @@
   },
   {
    "name": "Who is my moon reveal",
-   "where": "TikTok ('My Moon' reveal, added 18 Nov 2026, about 840M views on the sound)",
-   "status": "rising",
-   "use": "A 10 second Short on our own gentle lullaby line: Big Bro alone in frame smiling, then on the word 'you' the camera pans to reveal Little Bro (or the family puppy) and both hug and wave; caption 'my favourite person'. Meshy prompt: standing, sway side to side, then open arms and hug, wave; no floor moves."
+   "where": "TikTok ('My Moon' reveal; sound at peak about 547K videos on 17 Nov, montage variant creators falling to zero by 20 Nov)",
+   "status": "peak",
+   "use": "A 10 second Short on our own gentle lullaby line: Big Bro alone in frame smiling, then on the word 'you' the camera pans to reveal Little Bro (or the family puppy) and both hug and wave; caption 'my favourite person'. Meshy prompt: standing, sway side to side, then open arms and hug, wave; no floor moves. Post it this week or drop it: the format is already cooling."
   },
   {
    "name": "Silly award show",
