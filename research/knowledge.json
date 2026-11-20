@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T08:40:27+05:30",
- "runs": 1484,
+ "updated": "2026-11-20T08:42:28+05:30",
+ "runs": 1485,
  "branches": [
   {
    "id": "platforms",
@@ -25325,6 +25325,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1473
+    },
+    {
+     "t": "A stop motion Reels trend listed on 19 Nov 2026 has people spell a short word with their bodies, arms or legs (one letter per pose, a quick cut between poses, sometimes with pets), an easy kid copy along format for spelling simple words.",
+     "src": "SocialBee, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1485
+    },
+    {
+     "t": "SocialBee's 19 Nov 2026 Reels audio list added only two new sounds (a body letter stop motion and an outfit check lip sync) and no winter or Christmas dance, so by 20 Nov no family Christmas dance challenge has broken out yet and our own original Christmas move can still be early.",
+     "src": "SocialBee, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1485
     }
    ]
   }
@@ -25351,12 +25365,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 02:44",
-   "note": "Summary of 2 older entries: runs up to Run 1405 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 02:46",
-   "note": "Run 1406 (Shorts and Reels recheck (platform news)): Nothing new: Instagram's Apple TV app, the end of linked Reels series, Your Algorithm, teen 13+ settings, Shorts series and the Studio Clips tool were all already in the tree; the SocialBee YouTube updates page could not be read. No leaves added. Chrome not available. Total 3438."
+   "note": "Summary of 2 older entries: runs up to Run 1406 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 02:46",
@@ -25669,13 +25679,13 @@
   {
    "date": "2026-11-20 08:40",
    "note": "Run 1484 (competitor deep dive (Little Angel and ChuChu TV upload pace)): New: in the 28 days to mid November Little Angel posted 28 videos (about one a day, many counting Shorts) and its views rose 21% against the prior two weeks, while ChuChu TV posted only 9 long compilations and its views fell 22%; daily short helper songs are outpacing slow long uploads right now. Chrome not available. Total 3608."
+  },
+  {
+   "date": "2026-11-20 08:42",
+   "note": "Run 1485 (TRENDS (SocialBee 19 Nov Reels audio list, B&T November TikTok column)): New: SocialBee's 19 Nov list adds a stop motion trend where people spell a word letter by letter with their bodies, quick cut per pose; turned into a 'Bro Bros spell it with your body' Short. Nothing else new (back to back bump, runway walks, Ramalama reveal already in the tree) and still no winter dance trend. Chrome not available. Total 3610."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 15:00",
-   "total": 3092
-  },
   {
    "date": "2026-11-19 15:57",
    "total": 3145
@@ -26871,6 +26881,10 @@
   {
    "date": "2026-11-20 08:40",
    "total": 3608
+  },
+  {
+   "date": "2026-11-20 08:42",
+   "total": 3610
   }
  ],
  "next_week_ideas": [
@@ -26932,6 +26946,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Spell it with your body",
+   "where": "Instagram Reels (stop motion, listed 19 Nov 2026)",
+   "status": "rising",
+   "use": "Short with our own original spelling jingle: the brothers spell a 3 or 4 letter word (SNOW, STAR, BROS) one pose per beat with a quick cut between poses, then shout the word together and invite kids to copy. Meshy prompts, standing in place: arms straight up for I, arms up in a V for V or Y, one arm up and one out to the side for L, hands on head in a round shape for O, arms out wide for T."
+  },
   {
    "name": "Nervous little dance",
    "where": "TikTok, Reels",
@@ -27045,12 +27065,6 @@
    "where": "TikTok, Reels (from 2 Nov 2026, rising into December)",
    "status": "rising",
    "use": "Both Bros (plus a friend for a trio) in matching Christmas pyjamas, straight faces, side by side, on our own Deck the Halls arrangement: hands at collar then on hips with hip sways; rolling arms with small side steps; Big Bro points at Little Bro; both bump hips and hop; one slow spin in place; hand on chest then one finger up; fists up and a clap; then they walk to camera giggling. Standing, in place, no floor moves. 14 second Reel and Short, then the full song."
-  },
-  {
-   "name": "Day N of learning the dance",
-   "where": "TikTok and Instagram daily progress series (evergreen, revived by a viral 'learning the Dougie' run, 2026)",
-   "status": "evergreen",
-   "use": "A numbered Shorts series: 'Day 1 of Little Bro learning Big Bro's snow dance', each day he gets one more move right (and one funny wobble), and on Day 7 they do the whole routine together to our own song. Meshy prompt for the hook move: standing in place, lean one shoulder forward then the other in time, sway hips side to side, then both hands wave over head, no floor moves."
   }
  ],
  "posting_plan": {
