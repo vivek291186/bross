@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T19:44:27+05:30",
- "runs": 1639,
+ "updated": "2026-11-20T19:45:14+05:30",
+ "runs": 1640,
  "branches": [
   {
    "id": "platforms",
@@ -5004,6 +5004,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1574
+    },
+    {
+     "t": "Metricool's best time grid for our brand for 21 to 27 Nov 2026 puts the YouTube peak at 16:00 IST on every day of the week, strongest on Wednesday (about 12,000) and Thursday (about 12,000) and weakest on Saturday and Sunday (about 5,600 to 5,900), so the 16:00 IST slot stays and the week's strongest new song fits Wednesday or Thursday rather than the weekend.",
+     "src": "Metricool brand data, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1640
+    },
+    {
+     "t": "For the same week Metricool's Instagram grid peaks at 10:00 IST every day (highest Friday and Wednesday at about 6,500 to 6,700) with a second smaller rise around 18:00 IST and very little between 00:00 and 05:00 IST, so Reels posted with the 04:30 IST video should be held to 10:00 IST rather than going out at the same minute.",
+     "src": "Metricool brand data, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1640
+    },
+    {
+     "t": "YouTube's 2026 holiday playbook gives no peak days or hours, only a season order: planning content in October, shopping content around Black Friday, then 'what I got' and nostalgia content after Christmas; for Bro Bros that means Christmas songs now, and a cosy 'after Christmas, playing with new toys' song ready for 26 to 31 Dec.",
+     "src": "YouTube Holiday Playbook 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1640
     }
    ]
   },
@@ -26969,11 +26990,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1560 (TRENDS (Christmas dance trackers, 20 Nov)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 14:38",
-   "note": "Run 1561 (YouTube algorithm (custom feeds in the top bar, Shorts limit for all)): New: custom AI feeds replaced the topic chips at the top of US Home in Nov 2026, the zero minute Shorts limit is now open to every phone user, and a desktop Home test puts long videos above Shorts. The Shorts player redesign, UK broadcaster prominence consultation and Hype expansion were already filed. Chrome not available. Total 3725."
+   "note": "Summary of older entries: runs up to Run 1561 (YouTube algorithm (custom feeds in the top bar, Shorts limit for all)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 14:39",
@@ -27286,6 +27303,10 @@
   {
    "date": "2026-11-20 19:44",
    "note": "Run 1639 (TRENDS (Later 13 Nov, SocialPilot 17 to 25 Nov, B&T November, Know Your Meme)): Small find: SocialPilot's 17 to 25 Nov list shows big Christmas songs already at peak on Reels (about 1.8M and 944K Reels each), so the holiday wave has started a week before December; Know Your Meme's autumn field is dominated by AI made character clips, many uncanny or adult. Later's and B&T's November formats (five stages, appointment timestamps, always dancing, deadpan question to mum) were already filed. Trend bank unchanged. Chrome not available. Total 3839."
+  },
+  {
+   "date": "2026-11-20 19:45",
+   "note": "Run 1640 (posting times (Metricool best times 21 to 27 Nov, YouTube holiday playbook)): Metricool's grid for 21 to 27 Nov again puts YouTube's best hour at 16:00 IST on all seven days, with Wednesday and Thursday strongest and the weekend about half as strong; Instagram's best hour stays 10:00 IST with a smaller 18:00 IST bump. YouTube's 2026 holiday playbook gives no peak dates or hours, only a plan, shop, then experience phase order. Posting plan unchanged. Chrome not available. Total 3842."
   }
  ],
  "history": [
@@ -28472,6 +28493,10 @@
   {
    "date": "2026-11-20 19:44",
    "total": 3839
+  },
+  {
+   "date": "2026-11-20 19:45",
+   "total": 3842
   }
  ],
  "next_week_ideas": [
