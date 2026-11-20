@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T20:45:11+05:30",
- "runs": 1645,
+ "updated": "2026-11-20T20:46:26+05:30",
+ "runs": 1646,
  "branches": [
   {
    "id": "platforms",
@@ -2624,6 +2624,34 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1629
+    },
+    {
+     "t": "On the US iTunes kids songs chart of 20 Nov 2026 a single movement artist, Danny Go!, holds five of the top 25 places (a garbage truck song, a wiggle dance, a bouncing song, a pumpkin pie song and an energy burning song), showing that one consistent full body dance along brand can own a chart.",
+     "src": "popvortex.com (iTunes), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1646
+    },
+    {
+     "t": "Six days before US Thanksgiving the iTunes kids top 25 (20 Nov 2026) still has no Christmas song but four Thanksgiving songs (a turkey wobble dance at 5, a shoo turkey song at 17, a pumpkin pie song at 21, a Thanksgiving song at 24), so holiday buying on kids charts follows the calendar one holiday at a time.",
+     "src": "popvortex.com (iTunes), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1646
+    },
+    {
+     "t": "A theme song for a Roblox born game with cute cartoon characters entered the iTunes kids top 20 on its release day (19 Nov 2026), so characters born inside kids' games now reach kids music charts; Bro Bros can borrow the idea of a cheerful 'welcome to our world' theme song for our own characters, never the game's characters.",
+     "src": "popvortex.com (iTunes), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1646
+    },
+    {
+     "t": "Billboard's public Kid Albums page still shows the chart for the week of 8 Nov 2025, so it cannot be used for current data; iTunes daily charts and Spotify playlists are the reliable live kids music signals.",
+     "src": "billboard.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1646
     }
    ]
   },
@@ -27102,11 +27130,7 @@
  "log": [
   {
    "date": "2026-11-20 13:44",
-   "note": "Summary of older entries: runs up to Run 1566 (TRENDS (How Kids See Us, surf celebration, Elf magic)) covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-20 15:36",
-   "note": "Run 1567 (global markets (Italy and Bangladesh country charts)): New: Italy's top 50 YouTube channels (14 Nov 2026) hold only TV brands for kids (Masha and the Bear 12th, WB Kids 23rd, Disney Junior 44th) with the first song channel HeyKids at 55th; Bangladesh's top 50 (19 Nov) has no nursery channel but two huge drawing and craft channels, which travel without language. HeyKids Polish was already filed. Chrome not available. Total 3738."
+   "note": "Summary of older entries: runs up to Run 1567 (global markets (Italy and Bangladesh country charts)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 15:37",
@@ -27419,6 +27443,10 @@
   {
    "date": "2026-11-20 20:45",
    "note": "Run 1645 (Shorts and Reels formats (safe zones); YouTube channel movers checked first, nothing new): New: on screen safe zones for Reels, Shorts and TikTok on a 1080x1920 frame, combined into one shared box (about x 120 to 890, y 290 to 1250) so one vertical render fits all three; playbook rule 10 updated. Channel movers (FunForKidsTV, Kids Channel Preschool, Tubefilter week of 15 Nov) and the Shorts freshness claim were already filed. Chrome not available. Total 3858."
+  },
+  {
+   "date": "2026-11-20 20:46",
+   "note": "Run 1646 (other platforms (iTunes kids chart 20 Nov, Billboard Kid Albums); YouTube algorithm skipped as rechecked recently): New: Danny Go! holds five of the iTunes kids top 25, Thanksgiving songs (four) still outrank any Christmas song six days before Thanksgiving, and a Roblox born game theme song charted on release day; Billboard's Kid Albums page is a year out of date. Netflix and Roblox lists were already filed. Chrome not available. Total 3862."
   }
  ],
  "history": [
@@ -27445,10 +27473,6 @@
   {
    "date": "2026-11-19 21:00",
    "total": 3326
-  },
-  {
-   "date": "2026-11-19 22:41",
-   "total": 3358
   },
   {
    "date": "2026-11-19 22:41",
@@ -28621,6 +28645,10 @@
   {
    "date": "2026-11-20 20:45",
    "total": 3858
+  },
+  {
+   "date": "2026-11-20 20:46",
+   "total": 3862
   }
  ],
  "next_week_ideas": [
