@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T12:49:05+05:30",
- "runs": 1531,
+ "updated": "2026-11-20T12:49:51+05:30",
+ "runs": 1532,
  "branches": [
   {
    "id": "platforms",
@@ -8833,6 +8833,13 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1524
+    },
+    {
+     "t": "Kids TV Español Latino (Mexico, about 6.3M subscribers, 2.57B lifetime views) drew about 19M views and 10K new subscribers in the 28 days to 20 Nov 2026 from 14 uploads, and its new Christmas bells song (17 Nov) had only about 1.3K views after three days, showing that a big Spanish catalogue does not lift a brand new seasonal upload by itself.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-20",
+     "run": 1532
     }
    ]
   },
@@ -17163,6 +17170,20 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1508
+    },
+    {
+     "t": "Kids Corp's survey of 13,267 young people in six American countries (Nov 2024) found 71% of Mexican under 18s, and 80% of preschoolers, name watching YouTube as their main digital activity, and only 26% use YouTube Kids against 65% for main YouTube, so Mexican families mostly find kids songs in the main app.",
+     "src": "Marketing4eCommerce citing Kids Corp, Nov 2024",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1532
+    },
+    {
+     "t": "In the same survey the content Mexican kids watch most on YouTube is funny clips and bloopers (53%) and music (49%), ahead of unboxing (44%) and tutorials (39%), so a Spanish Bro Bros track paired with a blooper Short (missed dance moves, silly falls into snow) fits Mexican taste.",
+     "src": "Marketing4eCommerce citing Kids Corp, Nov 2024",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1532
     }
    ]
   },
@@ -25771,12 +25792,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 06:04",
-   "note": "Summary of older entries: runs up to Run 1451 covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 06:35",
-   "note": "Run 1453 (YouTube algorithm (YPP 2027 rules, Oct creator news)): New: from 1 Feb 2027 YouTube needs 8,000 watch hours a year or 20M Shorts views in 90 days to join the Partner Program, and keeps Shorts ad money only for channels above 10M qualified Shorts views per rolling 90 days, while long form share stays 55% versus 45% for Shorts; also a channel wide upload freeze of about 24 hours when YouTube flags unusual activity. Chrome not available. Total 3556."
+   "note": "Summary of older entries: runs up to Run 1452 covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 06:36",
@@ -26089,6 +26106,10 @@
   {
    "date": "2026-11-20 12:49",
    "note": "Run 1531 (TRENDS (TikTok sounds and December dates, 20 Nov)): December calendar and parent trend pages repeated filed dates or failed to load. New from Tokchart's 20 Nov chart: the first Christmas sound of the season reached the worldwide top 10 fastest growing (a Brazilian DJ's Jingle Bell Rock remix, about 34K new videos a day), and a GTA VI score song entered one day after launch. Trend bank unchanged. Chrome not available. Total 3668."
+  },
+  {
+   "date": "2026-11-20 12:49",
+   "note": "Run 1532 (global markets (Mexico and Latin America)): Indonesia's PP Tunas rule, Nigeria's kids channels and El Reino Infantil's network and country order were already filed. New: a Kids Corp survey across six American countries shows 80% of Mexican preschoolers name YouTube as their main digital activity and that funny bloopers (53%) and musicals (49%) are Mexican kids' top YouTube genres; a Mexican Spanish song channel's new Christmas song started slowly. Chrome not available. Total 3671."
   }
  ],
  "history": [
@@ -26843,6 +26864,10 @@
   {
    "date": "2026-11-20 12:49",
    "total": 3668
+  },
+  {
+   "date": "2026-11-20 12:49",
+   "total": 3671
   }
  ],
  "next_week_ideas": [
