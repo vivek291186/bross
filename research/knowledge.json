@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T03:03:46+05:30",
- "runs": 1671,
+ "updated": "2026-11-21T03:04:46+05:30",
+ "runs": 1672,
  "branches": [
   {
    "id": "platforms",
@@ -11703,6 +11703,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1660
+    },
+    {
+     "t": "The most streamed AI assisted song of H1 2026 (an Afro soul remake, about 211M global streams in 24 weeks, Luminate) shows listeners accept AI assisted music when the result is warm and well made, which supports our Suno based songs as long as each one has a clear human idea and careful edits, and we disclose AI use where platforms ask.",
+     "src": "Luminate, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1672
     }
    ]
   },
@@ -18262,6 +18269,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1668
+    },
+    {
+     "t": "Luminate's 2026 midyear report shows English language music at a record low 87.1% of US listening, with Spanish at about 9.4%, and on demand streams outside the US growing 11.8% against 4.8% inside, so the fastest growing music audiences are non US and bilingual; a Spanish version of our strongest songs reaches both Latin America and US Latino homes.",
+     "src": "Luminate, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1672
     }
    ]
   },
@@ -27512,10 +27526,6 @@
   },
   {
    "date": "2026-11-20 17:43",
-   "note": "Run 1593 (TRENDS (Virlo TikTok list for November 2026, week of 20 Nov)): New: the Thank You Baby gratitude dance (315M views, archived 20 Nov) becomes our Thanksgiving week 'Thank you happy dance' Short; Virlo shows early Christmas dances like Last Christmas x Phat burned out within six weeks (70 creators to 6) and the rising Piggyback flip is skipped as unsafe for kids. Trend bank: added the thank you dance, dropped Turn at the front. Chrome not available. Total 3776."
-  },
-  {
-   "date": "2026-11-20 17:43",
    "note": "Run 1594 (rules and monetisation (AI kids content pressure)): New details from Fortune on the Fairplay letter: top AI slop kids channels earned over 4.25 million US dollars a year, YouTube says only a small set of high quality channels may carry AI content on YouTube Kids and that dedicated YouTube Kids AI labels are coming; the July monetisation clarification and kids ad rates were already filed. Chrome not available. Total 3779."
   },
   {
@@ -27825,13 +27835,13 @@
   {
    "date": "2026-11-21 03:03",
    "note": "Run 1671 (TRENDS (Tokchart 20 Nov, vidIQ TikTok sounds 14 day window, NewEngen 20 Nov)): NewEngen's 20 Nov list repeats already filed trends (Chipmunks trio dance, Dame Hombro, turkey snack boards, random day recap) and Tokchart's Jingle Bell Rock remix was filed earlier today. New: vidIQ shows a Chopin nocturne piano clip as the second most watched TikTok sound and Brenda Lee's Christmas classic up about 890% in views per hour, so the holiday sound wave is speeding up a month before Christmas. Chrome not available. Total 3916."
+  },
+  {
+   "date": "2026-11-21 03:04",
+   "note": "Run 1672 (music craft and market (Luminate 2026 midyear report; new kids holiday albums rechecked)): Bluey's Christmas EP, Yo Gabba Gabba's holiday album and Mongolian Jingle Bells were already filed. New from Luminate's H1 2026 report: English fell to a record low 87.1% of US music listening with Spanish at 9.4%, streaming outside the US grows more than twice as fast (11.8% against 4.8%), and an AI assisted Afro soul remake drew about 211M streams in 24 weeks. Chrome not available. Total 3918."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 23:44",
-   "total": 3379
-  },
   {
    "date": "2026-11-19 23:44",
    "total": 3379
@@ -29027,6 +29037,10 @@
   {
    "date": "2026-11-21 03:03",
    "total": 3916
+  },
+  {
+   "date": "2026-11-21 03:04",
+   "total": 3918
   }
  ],
  "next_week_ideas": [
