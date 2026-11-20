@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T21:35:59+05:30",
- "runs": 1651,
+ "updated": "2026-11-20T21:37:19+05:30",
+ "runs": 1652,
  "branches": [
   {
    "id": "platforms",
@@ -5102,6 +5102,13 @@
      "conf": "low",
      "date": "2026-11-20",
      "run": 1651
+    },
+    {
+     "t": "On 8 Nov 2026 YouTube merged Ask Studio and the YouTube Help chat into one assistant inside Studio, so questions about our own channel data (best hours, top songs, returning viewers) can be asked there in plain words each week.",
+     "src": "Social Media Today, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1652
     }
    ]
   },
@@ -20537,6 +20544,20 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1641
+    },
+    {
+     "t": "YouTube began expanding Hype with Jewels (viewer gifts during live streams) on 6 Nov 2026 to the US, Canada, the UK, Ireland, Germany, Italy, Spain, Poland and Turkey for partner channels of 500 to 500,000 subscribers, but made for kids streams have live chat and viewer gifts switched off, so our 24/7 song streams must earn from ads and watch time only.",
+     "src": "Social Media Today, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1652
+    },
+    {
+     "t": "YouTube is testing a personalised product shelf in Studio that suggests affiliate products with estimated commission (Nov 2026), but shopping features are not available on made for kids videos, so Bro Bros income plans should not count on YouTube Shopping; merchandise would need its own channel to parents.",
+     "src": "Social Media Today, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1652
     }
    ]
   },
@@ -27245,10 +27266,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 15:46",
-   "note": "Run 1573 (YouTube algorithm (video A/B tests recap, originality in Shorts)): Most items (Shorts thumbnails, dynamic thumbnails, the 1 Oct originality post) were already filed. New: YouTube's 16 Nov 2026 blog recap says video A/B tests judge winners on retention, not click rate, with seven days to choose a cut, and that voice over or small template edits do not make a reused clip original. Chrome not available. Total 3749."
-  },
-  {
    "date": "2026-11-20 15:47",
    "note": "Run 1574 (Shorts and Reels algorithm (Instagram hashtag cap, Reels insights)): Most Reels items (sequence ranking, 45% fresh Reels, Features test, originality, AI profile labels, trends destination, Amazon links, Content Protection) were already filed. New: Instagram has capped hashtags at five per post and Reel since Dec 2025, while our Reels captions carry seven; playbook rule 10 now says use three to five hashtags. Chrome not available. Total 3752."
   },
@@ -27559,13 +27576,13 @@
   {
    "date": "2026-11-20 21:35",
    "note": "Run 1651 (posting times and holiday timing (Nielsen Christmas 2025, Roy Morgan, NZ On Air)): New: Christmas Day 2025 was the biggest US streaming day ever (55.1B minutes, over 54% of TV time) with YouTube the top streamer for December, so Christmas Day itself is a real viewing peak to schedule for; Roy Morgan shows girls 6 to 13 pick music far more than boys and ages 6 to 9 favour animation, animals and challenges; NZ kids reach YouTube daily at 69%. Posting slots unchanged (no kids specific hourly data found). Chrome not available. Total 3878."
+  },
+  {
+   "date": "2026-11-20 21:37",
+   "note": "Run 1652 (rules, monetisation and latest platform news (COPPA, EU Kids Act, Shorts RPM, YouTube 8 Nov update)): Mostly rechecks: COPPA, EU Kids Act, AIR Shorts RPM and December CPM, Ask YouTube and Instagram Your Algorithm were all already filed. Small new finds: YouTube's 8 Nov update merged Ask Studio and Help chat and is testing a brand product shelf for affiliate creators, and Hype with Jewels live donations spread to 9 countries from 6 Nov, none of which a made for kids channel can use for income. Chrome not available. Total 3881."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-19 17:00",
-   "total": 3183
-  },
   {
    "date": "2026-11-19 18:36",
    "total": 3212
@@ -28761,6 +28778,10 @@
   {
    "date": "2026-11-20 21:35",
    "total": 3878
+  },
+  {
+   "date": "2026-11-20 21:37",
+   "total": 3881
   }
  ],
  "next_week_ideas": [
