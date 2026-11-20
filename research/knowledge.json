@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20T14:37:22+05:30",
- "runs": 1560,
+ "updated": "2026-11-20T14:38:17+05:30",
+ "runs": 1561,
  "branches": [
   {
    "id": "platforms",
@@ -4885,6 +4885,27 @@
      "conf": "medium",
      "date": "2026-11-20",
      "run": 1538
+    },
+    {
+     "t": "Since early November 2026 US viewers see YouTube's AI custom feeds in the top bar of Home where the old topic chips used to be, so a parent typing a plain request like 'calm songs for my toddler' gets a feed built from video meaning; plain, descriptive titles and descriptions ('a counting song for preschoolers about...') help Bro Bros show up there.",
+     "src": "Social Media Today, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1561
+    },
+    {
+     "t": "YouTube's zero minute daily Shorts limit, first a parental setting, is now offered to every phone and tablet user (June 2026) and removes the Shorts tab and Shorts shelf for that person, so a growing slice of family phones will only ever meet Bro Bros through long videos, which is another reason the long song plus thumbnail, not the Short, carries the channel.",
+     "src": "EURweb, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-20",
+     "run": 1561
+    },
+    {
+     "t": "YouTube tested a desktop Home layout in June 2026 that puts long horizontal videos at the top and pushes Shorts lower, while mobile still opens with one big video then a row of Shorts; on computers and TVs our long songs compete mostly with other long videos, so strong thumbnails matter most there.",
+     "src": "EURweb, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-20",
+     "run": 1561
     }
    ]
   },
@@ -26149,12 +26170,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-20 07:42",
-   "note": "Summary of older entries: runs up to Run 1481 (topics and seasons (December search patterns)) covered every focus repeatedly."
-  },
-  {
    "date": "2026-11-20 07:43",
-   "note": "Run 1482 (global markets (African kids channels, dubbing tests; TRENDS skipped, nothing new in run 1476)): Nothing new: the Swahili Kids TV Africa stats (about 712K subscribers, almost no growth, no uploads in 28 days) and Kapwing's audio track versus dedicated Spanish channel test were already in the tree. No leaves added. Chrome not available. Total 3605."
+   "note": "Summary of older entries: runs up to Run 1482 (global markets (African kids channels, dubbing tests; TRENDS skipped, nothing new in run 1476)) covered every focus repeatedly."
   },
   {
    "date": "2026-11-20 07:43",
@@ -26467,6 +26484,10 @@
   {
    "date": "2026-11-20 14:37",
    "note": "Run 1560 (TRENDS (Christmas dance trackers, 20 Nov)): New from Virlo: a three move Christmas dance (side step with arm swing, leg lift, bounce; 54.8M views) and a pyjama pair winter dance (6.9M) both started in October and are fading by 20 Nov. Weekly trend lists (NewEngen, SocialBee, Buffer, SocialPilot, B&T, Anijam) were already filed. Trend bank unchanged. Chrome not available. Total 3722."
+  },
+  {
+   "date": "2026-11-20 14:38",
+   "note": "Run 1561 (YouTube algorithm (custom feeds in the top bar, Shorts limit for all)): New: custom AI feeds replaced the topic chips at the top of US Home in Nov 2026, the zero minute Shorts limit is now open to every phone user, and a desktop Home test puts long videos above Shorts. The Shorts player redesign, UK broadcaster prominence consultation and Hype expansion were already filed. Chrome not available. Total 3725."
   }
  ],
  "history": [
@@ -27337,6 +27358,10 @@
   {
    "date": "2026-11-20 14:37",
    "total": 3722
+  },
+  {
+   "date": "2026-11-20 14:38",
+   "total": 3725
   }
  ],
  "next_week_ideas": [
