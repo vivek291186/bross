@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:40:29+05:30",
- "runs": 1875,
+ "updated": "2026-11-21T11:41:40+05:30",
+ "runs": 1876,
  "branches": [
   {
    "id": "platforms",
@@ -12333,6 +12333,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1865
+    },
+    {
+     "t": "On Billboard's US Kid Albums chart for the week of 8 Nov 2025 a Christmas cartoon soundtrack was already number 1 and three YouTube born brands (Cocomelon nursery rhymes at 4, Pinkfong's Baby Shark best of at 9, Super Simple Songs at 12) charted beside long running Disney soundtracks, so family Christmas listening starts in early November and YouTube kids songs also earn on audio streaming when released as albums.",
+     "src": "Billboard, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1876
     }
    ]
   },
@@ -29194,12 +29201,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:00",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1795); see git history."
-  },
-  {
    "date": "2026-11-21 08:01",
-   "note": "Run 1797 (POSTING TIMES (Metricool YouTube best times 23 to 29 Nov)): No change: Metricool's YouTube map for 23 to 29 Nov again peaks at 16:00 IST every day (Wednesday 16:00 strongest at about 12.0K, Friday nearly flat from 10:00 to 16:00) with weekends about half; both daily slots stay as they are. Competitor focus skipped as it found nothing in the last 6 rounds. No leaves added. Chrome not available. Total 4085."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1796); see git history."
   },
   {
    "date": "2026-11-21 08:01",
@@ -29512,6 +29515,10 @@
   {
    "date": "2026-11-21 11:40",
    "note": "Run 1875 (TRENDS (Know Your Meme roundups, YouTube holiday trends report)): Most memes and holiday timing were already filed; new: YouTube counts Christmas wishlist videos at over 90M views and Secret Santa family challenges as a holiday format, and the clapping black cat reaction format is family friendly; added a Secret Santa swap reveal to the trend bank. 2 leaves. Chrome not available. Total 4157."
+  },
+  {
+   "date": "2026-11-21 11:41",
+   "note": "Run 1876 (music craft (kids album charts, music studies)): The music studies and Suno v6 were already filed; Billboard's Kid Albums page still shows a November 2025 chart, where a Christmas cartoon soundtrack was number 1 by early November and Cocomelon, Pinkfong and Super Simple Songs sat among Disney soundtracks, so streaming audio of our songs is a real second shelf. 1 leaves. Chrome not available. Total 4158."
   }
  ],
  "history": [
@@ -30566,6 +30573,10 @@
   {
    "date": "2026-11-21 11:40",
    "total": 4157
+  },
+  {
+   "date": "2026-11-21 11:41",
+   "total": 4158
   }
  ],
  "next_week_ideas": [
