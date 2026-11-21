@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:41:40+05:30",
- "runs": 1876,
+ "updated": "2026-11-21T11:42:33+05:30",
+ "runs": 1877,
  "branches": [
   {
    "id": "platforms",
@@ -14503,6 +14503,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1806
+    },
+    {
+     "t": "YouTube's animation report names three formats that grow indie animated worlds: short meme clips cut from the show (watched weekly by 66% of young fans), rough animatics (57%) and full episodes (63%), so cutting tiny funny moments from each Bro Bros song into Shorts is the same ladder that grew the big indie series.",
+     "src": "YouTube Culture and Trends, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1877
+    },
+    {
+     "t": "A kids animation studio's May 2026 post claims calm, low stimulation animation is the fastest growing kids niche but cites no numbers, so we keep calm bedtime songs as one weekly slot rather than switching the whole channel to a slow style.",
+     "src": "Whizzy Studios, May 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1877
     }
    ]
   },
@@ -19256,6 +19270,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1867
+    },
+    {
+     "t": "YouTube's 2026 animation report found 50% of US animation fans aged 14 to 49 watch animated series in a language other than their own, and its biggest indie hit offers subtitles in 18 languages and alternate audio tracks in 21, so multi language audio tracks on one upload are standard for animation that travels.",
+     "src": "YouTube Culture and Trends, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1877
     }
    ]
   },
@@ -29202,11 +29223,7 @@
  "log": [
   {
    "date": "2026-11-21 08:01",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1796); see git history."
-  },
-  {
-   "date": "2026-11-21 08:01",
-   "note": "Run 1798 (TRENDS (Thanksgiving dance challenges, Eurovision Asia winner's song)): Nothing new: Thanksgiving dance results were old brand challenges (a 2020 turkey dance campaign) and classroom resources, and no dance challenge has formed yet around the Eurovision Asia winning song. No leaves added; trend bank unchanged. Chrome not available. Total 4085."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1797); see git history."
   },
   {
    "date": "2026-11-21 08:01",
@@ -29519,6 +29536,10 @@
   {
    "date": "2026-11-21 11:41",
    "note": "Run 1876 (music craft (kids album charts, music studies)): The music studies and Suno v6 were already filed; Billboard's Kid Albums page still shows a November 2025 chart, where a Christmas cartoon soundtrack was number 1 by early November and Cocomelon, Pinkfong and Super Simple Songs sat among Disney soundtracks, so streaming audio of our songs is a real second shelf. 1 leaves. Chrome not available. Total 4158."
+  },
+  {
+   "date": "2026-11-21 11:42",
+   "note": "Run 1877 (visual craft (YouTube animation report, calm animation claims)): YouTube's animation report says half of animation fans watch series in other languages and hit indie series carry subtitles in about 18 languages and dubbed audio in about 21; the studio blog claiming calm animation is the fastest growing kids niche gives no data, so it stays unproven. 3 leaves. Chrome not available. Total 4161."
   }
  ],
  "history": [
@@ -30577,6 +30598,10 @@
   {
    "date": "2026-11-21 11:41",
    "total": 4158
+  },
+  {
+   "date": "2026-11-21 11:42",
+   "total": 4161
   }
  ],
  "next_week_ideas": [
