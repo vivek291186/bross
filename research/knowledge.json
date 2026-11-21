@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:40:13+05:30",
- "runs": 2060,
+ "updated": "2026-11-21T17:51:25+05:30",
+ "runs": 2077,
  "branches": [
   {
    "id": "platforms",
@@ -5613,6 +5613,62 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2004
+    },
+    {
+     "t": "Todd Beaupre, YouTube's head of growth and discovery, said on Creator Insider (1 Sep 2026) that even strong videos typically get about a 10% or lower click rate from subscribers in Browse features, so roughly 9 in 10 subscribers do not pick any given upload and a tiny channel like ours cannot rely on subscribers; Suggested and Home matches with non subscribers carry the growth.",
+     "src": "ppc.land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2065
+    },
+    {
+     "t": "In the same interview Beaupre explained that recommendations are pulled for each viewer at the moment they open YouTube rather than pushed to an audience, with no single deciding metric, and that a new video's early performance is learned separately for subscribers and for non subscribers, so a slow first day with subscribers does not doom a video that non subscribers later enjoy.",
+     "src": "ppc.land, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2065
+    },
+    {
+     "t": "Beaupre advised creators to check the subscribers row of the Browse features traffic report per upload and not to judge each new video against the channel's best ever hit, a practical weekly check for us in YouTube Studio once our channel has more subscribers.",
+     "src": "ppc.land, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2065
+    },
+    {
+     "t": "An Instagram algorithm tracker that only counts changes Meta has put on record (Keywords Everywhere, checked 20 Nov 2026) says no confirmed ranking change is rolling out now and that popular claims such as sends being worth 3 to 5 times a like, a July 2026 skip rate signal or originals getting 40 to 60% more reach have no official source, so we should judge our Reels by our own Insights, not by these rules of thumb.",
+     "src": "keywordseverywhere.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2066
+    },
+    {
+     "t": "The same tracker confirms that from 31 Aug 2026 Instagram profiles posting AI generated content without the AI label lose eligibility for recommendations until they add the label or appeal, so the Bro Bros Instagram account should keep the AI made label on, since our music is made with Suno.",
+     "src": "keywordseverywhere.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2066
+    },
+    {
+     "t": "Adam Mosseri said on 10 Sep 2026, as Australia drafted a feed opt out law, that chronological feeds cut engagement by up to half, and a 26 Aug 2026 US states settlement requires Meta to offer teens a chronological following feed, so ranked Reels recommendations, not followers, will stay the main way new families find us.",
+     "src": "keywordseverywhere.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2066
+    },
+    {
+     "t": "Ads shown in the YouTube Kids app are pre approved and exclude whole categories such as food and drink, beauty and fitness, dating and politics (ppc.land on YouTube's FAQ, Apr 2026), so the advertiser pool there is small and kids song channels earn most of their ad income from made for kids views in the main YouTube app.",
+     "src": "ppc.land, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2077
+    },
+    {
+     "t": "YouTube Kids filters are updated quickly when an unsuitable trend appears on main YouTube (ppc.land, Apr 2026), so a trend inspired Short that borrows anything edgy from the original (pranks, scares, villain jokes) risks being kept out of the Kids app even if it is fine on main YouTube; our trend versions should stay gentle.",
+     "src": "ppc.land, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2077
     }
    ]
   },
@@ -10226,6 +10282,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2060
+    },
+    {
+     "t": "CoComelon Brasil (4.44M subscribers, vidIQ 17 Nov 2026) keeps a fixed weekly rhythm: new long songs on Tuesday, Thursday and Saturday (median about 5 min 20 s) and Shorts on Monday and Friday (median about 22 s), one upload roughly every day, a simple pattern that lets viewers and the algorithm expect something new on set days.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2072
+    },
+    {
+     "t": "On the same channel a fresh recording of a classic action song ('If you're happy', 2:44, 31 Oct 2026) reached about 1.49M views in 17 days, about 11 times its median upload, while its 31 minute Halloween compilation drew only about 50K, showing that on dubbed channels a short new single song beats a long seasonal mix.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2072
+    },
+    {
+     "t": "CoComelon Brasil's 0:11 to 0:25 Shorts in Nov 2026 use quick seek and find or choice hooks ('Where is JJ?', 'Where is the teddy bear?', 'Which fruit is your favourite?') and the 11 second haircut Short reached about 51K views, more than most of its long songs in the same weeks, so very short find it or pick one Shorts are worth testing for Bro Bros.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2072
     }
    ]
   },
@@ -12830,6 +12907,27 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2056
+    },
+    {
+     "t": "Children aged 7 to 11 recognised melodies sung by a voice (on 'la') better than the same melodies on piano, banjo or marimba (Weiss, Schellenberg and Trehub, Developmental Psychology 2015, 128 children), even though they preferred the instrumental versions, so the main hook of every Bro Bros song should be sung by the brothers, with instrumental breaks kept short.",
+     "src": "Developmental Psychology via utoronto.ca, 2015",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2068
+    },
+    {
+     "t": "In the same study 5 to 6 year olds remembered melodies less precisely and tended to say any sung tune felt familiar, which suggests preschoolers need the chorus repeated several times inside one song before it truly sticks.",
+     "src": "Developmental Psychology via utoronto.ca, 2015",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2068
+    },
+    {
+     "t": "An earworm study (Quarterly Journal of Experimental Psychology 2023, 44 adults) found that hearing a new chorus up to four times raised familiarity and the urge to sing along the next day while enjoyment did not grow, so replays of the same Bro Bros chorus across a song, its Short and its Reel build sing along pull even if they do not make the song more liked.",
+     "src": "QJEP via pmc.ncbi.nlm.nih.gov, 2023",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2068
     }
    ]
   },
@@ -15084,6 +15182,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2057
+    },
+    {
+     "t": "In a lab study of 36 toddlers aged 18 months (Essex and colleagues, Developmental Science 2025) short cartoon clips with impossible events (characters breaking physics) stopped the children improving on a following attention task, while matched clips without such events did not, even with cut rate and flicker held equal, so for under 2s our baby songs should keep characters and objects behaving realistically.",
+     "src": "Developmental Science via uea.ac.uk, 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2069
+    },
+    {
+     "t": "A University of Oslo mini review of 13 studies on 3 to 5 year olds (Frontiers in Psychology, Mar 2026) concludes faster paced TV captures more visual attention while slower pacing supports sustained attention, especially in the youngest children, so a quick, lively first 10 seconds followed by steadier pacing in the song body balances discovery with good viewing.",
+     "src": "frontiersin.org, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2069
+    },
+    {
+     "t": "The same review found educational content gave the most favourable attention results of all screen content studied, which supports giving each Bro Bros song a clear learning goal (counting, colours, routines) alongside the dance.",
+     "src": "frontiersin.org, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2069
     }
    ]
   },
@@ -22756,6 +22875,27 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1967
+    },
+    {
+     "t": "The FTC's COPPA policy statement of 25 Feb 2026 (after a 28 Jan age verification workshop) says it will not take action over data collected only to check a user's age, without parental consent, if it is used for nothing else, kept briefly, deleted by vendors and secured, which matters only if Bro Bros ever runs its own website, app or game with an age gate.",
+     "src": "gtlaw.com, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2062
+    },
+    {
+     "t": "COPPA 2.0, which would extend US online privacy protection to under 17s, passed the Senate unanimously on 5 Mar 2026 but was stalled in the House as of mid 2026 (Loeb and Loeb), so the binding US rule for our videos is still the original COPPA with its 2025 amendments, enforced through YouTube's made for kids setting.",
+     "src": "loeb.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2062
+    },
+    {
+     "t": "Loeb and Loeb (Jun 2026) report the FTC now asks three questions of any service aimed at children: does its design harm them, what causes the harm, and can the FTC act on that cause, so design choices such as endless autoplay hooks or pressure to buy are now in scope, not only data collection.",
+     "src": "loeb.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2062
     }
    ]
   },
@@ -30456,6 +30596,27 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2058
+    },
+    {
+     "t": "In August 2026 Indian Reels creators set a classic patriotic film song to short, minimalist footwork lifted from a Brazilian TikTok dance (ThePrint, 15 Aug 2026), and the same Brazil step later carried the Jingle Bell Brazil Christmas dance, so one easy footwork loop can be reused for every festival (Diwali, Christmas, New Year) with our own song swapped in.",
+     "src": "theprint.in, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2064
+    },
+    {
+     "t": "Whamageddon returns every 1 to 24 December: players try to reach Christmas without hearing one famous 1980s Christmas pop song (covers do not count), and the hashtag passed 12M TikTok uses by 2023 (CBS News); the song is off limits for us, but the 'can you last until Christmas' game shape fits a Bro Bros daily December game with our own jingle.",
+     "src": "cbsnews.com, Dec 2023",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2076
+    },
+    {
+     "t": "The 'Christmas explosion' clip (TIME, Nov 2019, revived each season) has four beats: enter a plain undecorated room, toss an ornament like a pop, step back, return to a fully decorated room, a before and after reveal that is simple to render in Blender with two versions of one set.",
+     "src": "time.com, Nov 2019",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2076
     }
    ]
   }
@@ -30482,76 +30643,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:56",
-   "note": "Summary of 2 older runs up to Run 1981 (TRENDS (matching Christmas pyj...: see git history for details."
-  },
-  {
-   "date": "2026-11-21 13:56",
-   "note": "Run 1982 (YouTube algorithm (title tests and title formulas)): Nothing new: YouTube's Test and Compare for titles and vidIQ's 4M video title formula study (transformation and caught on camera frames above average, question endings below) were already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
-  },
-  {
-   "date": "2026-11-21 13:58",
-   "note": "Run 1983 (Shorts (most viewed Shorts of 2026, checked 21 Nov)): Mostly filed. New: two more Brazilian Portuguese kids songs sit in the 30 most viewed Shorts of 2026, a bird, puppy, frog and kitten animal song (about 767M) and a 'strong or weak?' opposites song (about 762M), so Portuguese now has three kids Shorts in the top 30, more than English. 1 leaves. Chrome not available. Total 4250."
-  },
-  {
-   "date": "2026-11-21 13:58",
-   "note": "Run 1984 (TRENDS (new dance songs, November 2026)): Nothing new: no fresh kid safe dance trend surfaced; the results were older viral songs (a 2022 bubblegum pop revival and a January 2026 adult hip hop couples dance) and the Motion Party note already filed. No leaves added. 0 leaves. Chrome not available. Total 4250."
-  },
-  {
-   "date": "2026-11-21 13:59",
-   "note": "Run 1985 (music craft (Spotify kids and family streaming)): Nothing new: Spotify's September 2026 toggle that keeps kids and family music out of parents' taste profiles and its kids chart mix of film songs and a few preschool originals were already filed. No leaves added. 0 leaves. Chrome not available. Total 4250."
-  },
-  {
-   "date": "2026-11-21 13:59",
-   "note": "Run 1986 (visual craft (character design for different ages)): Nothing new: Disney Research's character proportion study (younger shows use bigger heads and rounder eyes, yet children 4 to 10 picked normal heads and showed no age preference) was already filed. No leaves added. 0 leaves. Chrome not available. Total 4250."
-  },
-  {
-   "date": "2026-11-21 14:00",
-   "note": "Run 1987 (topics and seasons (winter school breaks)): New: UAE schools (Ministry, Dubai KHDA and Sharjah, September start calendars) break from Monday 14 Dec 2026 to Sunday 3 Jan 2027, a week before the US; Indian states usually close only about 25 to 31 Dec (longer in the north), so the Gulf and then the US are home all day earlier than India. 2 leaves. Chrome not available. Total 4252."
-  },
-  {
-   "date": "2026-11-21 14:01",
-   "note": "Run 1988 (global markets (Indonesia year end school holiday)): New: in Indonesia, our likely first Asian dub market, most provinces' year end school holiday last season ran about 22 Dec to 3 Jan (West Java, the most populous, 29 Dec to 10 Jan), so Indonesian kids are home through New Year rather than all of December. 1 leaves. Chrome not available. Total 4253."
-  },
-  {
-   "date": "2026-11-21 14:01",
-   "note": "Run 1989 (competitor deep dive (Super Simple Songs, Lalafun, Little Angel)): Nothing new: Super Simple's Thursday rhythm, 20th anniversary and hygiene song climb, Lalafun's feeds and Little Angel's dubbed channels were all already filed; the Peppa Pig and Super Simple collaboration page could not be read. No leaves added. 0 leaves. Chrome not available. Total 4253."
-  },
-  {
-   "date": "2026-11-21 14:02",
-   "note": "Run 1990 (TRENDS (Inmagic weekly Reels list, 16 Nov)): Nothing new: every format on Inmagic's 16 Nov top 10 (It's time Christmas switch, one spot glow up switch, timestamped day, slow festive makeover, Dame Hombro, zoom in message, then and now) was already filed. No leaves added. 0 leaves. Chrome not available. Total 4253."
-  },
-  {
-   "date": "2026-11-21 14:02",
-   "note": "Run 1991 (rules and safety (kids quality principles)): Nothing new: YouTube's 2021 quality principles post (low quality kids videos reduced and removed from YouTube Kids, Partner Program suspension for mostly low quality channels), the best practices page and the Dublin summit takeaways were already filed. No leaves added. 0 leaves. Chrome not available. Total 4253."
-  },
-  {
-   "date": "2026-11-21 14:03",
-   "note": "Run 1992 (topics and seasons (most searched Christmas songs; our results skipped, no new Metricool data)): Nothing new: the classic pre 2010 Christmas songs leading US state searches, Feliz Navidad's late December jump and Google's local December food spikes were already filed. No leaves added. 0 leaves. Chrome not available. Total 4253."
-  },
-  {
-   "date": "2026-11-21 14:08",
-   "note": "Run 1993 (TRENDS (Know Your Meme roundup, 6 Nov)): Nothing new: W Chews and L Nibbles and the bicep heart trend were already filed; the other memes in the 6 Nov roundup (Frutiger Aero yams, Liberty Biberty, angry Anakin) are not for kids. No leaves added. 0 leaves. Chrome not available. Total 4253."
-  },
-  {
-   "date": "2026-11-21 14:09",
-   "note": "Run 1994 (YouTube algorithm (November Studio and feed updates)): Nothing new: custom AI feeds in the US top bar, Hype with Jewels expanding from 6 Nov, Ask Studio (not available to made for kids channels), video A/B tests and audience specific thumbnails were already filed. End of run: 43 rounds (runs 1952 to 1994), 17 new leaves, 1 trend bank entry added (Villain chair, oops!), no song ideas added, posting slots unchanged (Metricool still peaks YouTube at 16:00 IST every day). Page not published (artifact tools not available this run). Chrome not used. No leaves added. 0 leaves. Chrome not available. Total 4253."
-  },
-  {
-   "date": "2026-11-21 14:36",
-   "note": "Run 1995 (TRENDS (Postdom weekly TikTok list, 16 to 22 Nov)): New: the wordless 8 second 'the urge to' format (caption names an impulse, pause, one glance, give in; top example about 5.1M views) and the deadpan 'we listen and we don't judge' harmless confession format (top about 720K) are peaking; the 'entiende' old photo to glow up flip is rising with Spanish speaking creators; the Bow Bow Bow dance is tied to an adult rap song, so we skip it. 1 trend bank entry added. 4 leaves. Chrome not available. Total 4257."
-  },
-  {
-   "date": "2026-11-21 14:37",
-   "note": "Run 1996 (music craft (infant movement study, kids hits)): Nothing new: the eLife study of 79 babies (only 12 month olds move differently to real music, movement follows loudness not the beat, higher melodies trigger more movement) and Oodles of Music's clean pop list were already filed; kids chart searches surfaced no new hit. No leaves added. 0 leaves. Chrome not available. Total 4257."
-  },
-  {
    "date": "2026-11-21 14:38",
-   "note": "Run 1997 (visual craft (thumbnails, kids studio news)): Nothing new: Vania Mania's warm one focal point thumbnails, vidIQ and 1of10 thumbnail studies, the fantastical content versus editing speed study, Pinkfong's KikiPuppup, LEGO Bluey shorts and CoComelon's Melon Patch were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4257."
-  },
-  {
-   "date": "2026-11-21 14:38",
-   "note": "Run 1998 (TRENDS (Thanksgiving, Know Your Meme, Christmas dances)): Nothing new: the Deck the Halls Christmas dance and its AI copies, the AI Thanksgiving song debate and the turkey trot prank were already filed; Know Your Meme's latest dance roundups found (Obsession dance, Let's Groove) are from summer and not kid suitable. No leaves added. 0 leaves. Chrome not available. Total 4257."
+   "note": "Summary of 2 older runs up to Run 1998 (TRENDS (Thanksgiving, Know You...: see git history for details."
   },
   {
    "date": "2026-11-21 14:39",
@@ -30800,6 +30893,74 @@
   {
    "date": "2026-11-21 17:40",
    "note": "Run 2060 (competitor deep dive (Kids Diana Show, BabyBus)): New: Kids Diana Show still pulls about 11.4M views a day (about 320M in the 28 days to 19 Nov 2026) from 20 uploads in 28 days while its subscriber count has not moved since July, and its all time top five are all rule or puzzle adventures (school bus rules, escape room, 10 doors, maze, cube challenge, 420M to 570M views each). BabyBus figures (43.9M, 36.1B) were already filed. 3 leaves. Chrome not available. Total 4341."
+  },
+  {
+   "date": "2026-11-21 17:40",
+   "note": "Run 2061 (TRENDS (Christmas dances, Wrapped date, Shorts formats)): Nothing new: the Last Christmas winter dance, the Peanuts dance, Spotify Wrapped expected Wednesday 2 Dec and the general 2026 Shorts format lists (pets, before and after, beat synced montages) were already filed; the Daily Dot kids pages read had no November items. 0 leaves. Chrome not available. Total 4341."
+  },
+  {
+   "date": "2026-11-21 17:41",
+   "note": "Run 2062 (rules and safety (FTC age check policy, US kids privacy bills)): New: the FTC's 25 Feb 2026 COPPA policy statement says it will not pursue data collected only to check a user's age if strict limits are met, and COPPA 2.0 passed the Senate unanimously on 5 Mar 2026 but is stuck in the House (Loeb, Jun 2026). The amended COPPA rule (enforceable 22 Apr 2026) and the KIDS Act were already filed. Neither changes what we do on YouTube and Instagram: we collect no data, keep videos made for kids and keep any future website or app free of sign ups for children. 3 leaves. Chrome not available. Total 4344."
+  },
+  {
+   "date": "2026-11-21 17:42",
+   "note": "Run 2063 (our results (Metricool 14 to 21 Nov)): Nothing new: Metricool still shows no YouTube uploads after the 19 Nov 04:30 farm band video (63 views); the tomato song (972 views) remains our best of the week and our Shorts still get 3 to 20 views each, all already filed. Data recorded once today already, moving on. 0 leaves. Chrome not available. Total 4344."
+  },
+  {
+   "date": "2026-11-21 17:42",
+   "note": "Run 2064 (TRENDS (Spanish, Indonesian and Indian Reels searches)): Little new: ThePrint (15 Aug 2026) shows Indian Gen Z Independence Day Reels pairing a classic patriotic film song with short minimalist footwork borrowed from a Brazilian TikTok dance, the same Brazil step that later became the Jingle Bell Brazil Christmas dance, so one simple footwork pattern can be reused across festivals. Spanish and Indonesian November searches only returned lists already filed; one Indian Reels page could not be read. 1 leaves. Chrome not available. Total 4345."
+  },
+  {
+   "date": "2026-11-21 17:43",
+   "note": "Run 2065 (YouTube algorithm (Beaupre subscriber feed comments)): New: YouTube's discovery lead Todd Beaupre said (Creator Insider, 1 Sep 2026) that recommendations are pulled per viewer at the moment they open the app, that early results are judged separately for subscribers and non subscribers, and that even good videos get about a 10% or lower click rate from subscribers' Home feeds, so most subscribers skip most uploads. The Joos Home feed change was already filed. 3 leaves. Chrome not available. Total 4348."
+  },
+  {
+   "date": "2026-11-21 17:44",
+   "note": "Run 2066 (Reels algorithm (confirmed changes and debunked myths)): New: Keywords Everywhere's tracker (checked 20 Nov 2026) says no confirmed Instagram ranking change is rolling out now and lists popular claims with no official source (sends worth 3 to 5 times a like, a skip rate signal added in July, originals getting 40 to 60% more reach), while confirming that unlabelled AI profiles lost recommendation eligibility on 31 Aug 2026. Most dated changes (AB 1709, 45% of Reels under a day old, five hashtag cap) were already filed. 3 leaves. Chrome not available. Total 4351."
+  },
+  {
+   "date": "2026-11-21 17:44",
+   "note": "Run 2067 (TRENDS (Know Your Meme weekly roundups, B&T monthly)): Nothing new: the latest Know Your Meme weekly roundups (squirrel in a tornado, Let's groove, bedtime stacking, doorbell memes) and B&T's monthly TikTok lists were already filed; this week's trend sources are exhausted until the next weekly updates. 0 leaves. Chrome not available. Total 4351."
+  },
+  {
+   "date": "2026-11-21 17:45",
+   "note": "Run 2068 (music craft (sung versus instrumental melodies, repeated listening)): New: a Toronto study (Developmental Psychology 2015) found children aged 7 to 11 remember melodies sung by a voice better than the same tunes on piano or other instruments, even though they liked the instrumental versions more, so our hooks should always be sung, not played; an earworm study (QJEP 2023) found familiarity and the urge to sing along rise after hearing a new chorus 2 to 4 times while enjoyment stays flat. 3 leaves. Chrome not available. Total 4354."
+  },
+  {
+   "date": "2026-11-21 17:46",
+   "note": "Run 2069 (visual craft (toddler fantastical cartoon study, Oslo pacing review)): New detail: the Essex et al. lab study (Developmental Science 2025, 36 toddlers aged 18 months) shows even toddlers lose some self control right after cartoons with impossible events, with cut rate and flicker held equal, and an Oslo mini review (Frontiers, Mar 2026, 13 studies of 3 to 5 year olds) says faster pacing grabs more attention while slower pacing supports sustained attention in the youngest. The general fantastical versus pace finding was already filed. 3 leaves. Chrome not available. Total 4357."
+  },
+  {
+   "date": "2026-11-21 17:47",
+   "note": "Run 2070 (topics and seasons (holiday calendar, December films)): Nothing new: Hanukkah (4 to 12 Dec), Kwanzaa, Lunar New Year 2027 (6 Feb, Year of the Goat), Pinterest winter and screen free activity trends and the December film calendar (Shrek 5 moved to June 2027, the Ice Age sequel late Jan 2027, Jumanji 3 on 11 Dec) were already filed; box office calendars still show stale December dates for two of them. 0 leaves. Chrome not available. Total 4357."
+  },
+  {
+   "date": "2026-11-21 17:47",
+   "note": "Run 2071 (global markets (Pakistan and Philippines)): Nothing new: the Philippines kids chart (English songs by local acts lead, Jana Alayra at 25M and 22M views) was already filed, and the Pakistan YouTube growth article could not be read. 0 leaves. Chrome not available. Total 4357."
+  },
+  {
+   "date": "2026-11-21 17:48",
+   "note": "Run 2072 (competitor deep dive (CoComelon Brasil upload rhythm)): New: CoComelon Brasil (4.44M subscribers) runs a fixed weekly rhythm in its last 48 uploads: long songs on Tuesday, Thursday and Saturday (median about 5 min 20 s) and Shorts on Monday and Friday (median about 22 s), and its newly sung 'If you're happy' (2:44, 31 Oct) hit about 1.49M views, about 11 times the channel median of 88K, while a 31 minute Halloween mix drew only about 50K. Its lack of Christmas videos was already filed. 3 leaves. Chrome not available. Total 4360."
+  },
+  {
+   "date": "2026-11-21 17:49",
+   "note": "Run 2073 (posting times (Metricool 22 to 28 Nov)): Nothing new: Metricool's 22 to 28 Nov model again peaks YouTube at 16:00 IST every day (Wednesday about 12.0K, Thursday 12.0K, Saturday and Sunday about half) and Instagram at 10:00 IST with a second rise at 18:00, exactly as already filed. Posting slots unchanged (16:00 IST and 04:30 IST). 0 leaves. Chrome not available. Total 4360."
+  },
+  {
+   "date": "2026-11-21 17:49",
+   "note": "Run 2074 (rules and monetisation (ad rates, 2027 Partner Program)): Nothing new: RPM by country tables and the Feb 2027 Partner Program changes (8,000 watch hours or 20M Shorts views for new applicants, the rolling 10M Shorts view test, activity rules) were already filed. 0 leaves. Chrome not available. Total 4360."
+  },
+  {
+   "date": "2026-11-21 17:50",
+   "note": "Run 2075 (YouTube kids channels (fastest growing lists)): Nothing new: CreatorDB's September census of 417 fast growers (subscribers gained per upload fall from about 98,800 for channels posting under 8 times a month to about 1,900 for 60 plus) and Tubefilter's week of 15 Nov charts were already filed; the next weekly charts arrive on 23 Nov. 0 leaves. Chrome not available. Total 4360."
+  },
+  {
+   "date": "2026-11-21 17:50",
+   "note": "Run 2076 (TRENDS (returning December games: Whamageddon, Christmas explosion)): New seasonal returners: Whamageddon (1 to 24 Dec, avoid hearing one famous Christmas pop song, over 12M TikTok tag uses by 2023) and the 'Christmas explosion' reveal (walk into a bare room, pop an ornament, step out, come back to a fully decorated room). The song game cannot be used, but its 'avoid it until Christmas' game shape and the pop and reveal transition can, with our own music; added a 'Magic bauble pop' entry to the trend bank. 2 leaves. Chrome not available. Total 4362."
+  },
+  {
+   "date": "2026-11-21 17:51",
+   "note": "Run 2077 (YouTube Kids app (how videos pass the filter)): Mostly filed (automated filters on thumbnails, titles and video, human spot checks, removal for everyone after a report, no personal recommendations for new profiles). New: ads inside YouTube Kids are pre approved and exclude whole categories such as food and drink, beauty and fitness, so the advertiser pool inside YouTube Kids is small and most of our ad income will come from made for kids views in the main YouTube app. 2 leaves. Chrome not available. Total 4364."
   }
  ],
  "history": [
@@ -31654,6 +31815,74 @@
   {
    "date": "2026-11-21 17:40",
    "total": 4341
+  },
+  {
+   "date": "2026-11-21 17:40",
+   "total": 4341
+  },
+  {
+   "date": "2026-11-21 17:41",
+   "total": 4344
+  },
+  {
+   "date": "2026-11-21 17:42",
+   "total": 4344
+  },
+  {
+   "date": "2026-11-21 17:42",
+   "total": 4345
+  },
+  {
+   "date": "2026-11-21 17:43",
+   "total": 4348
+  },
+  {
+   "date": "2026-11-21 17:44",
+   "total": 4351
+  },
+  {
+   "date": "2026-11-21 17:44",
+   "total": 4351
+  },
+  {
+   "date": "2026-11-21 17:45",
+   "total": 4354
+  },
+  {
+   "date": "2026-11-21 17:46",
+   "total": 4357
+  },
+  {
+   "date": "2026-11-21 17:47",
+   "total": 4357
+  },
+  {
+   "date": "2026-11-21 17:47",
+   "total": 4357
+  },
+  {
+   "date": "2026-11-21 17:48",
+   "total": 4360
+  },
+  {
+   "date": "2026-11-21 17:49",
+   "total": 4360
+  },
+  {
+   "date": "2026-11-21 17:49",
+   "total": 4360
+  },
+  {
+   "date": "2026-11-21 17:50",
+   "total": 4360
+  },
+  {
+   "date": "2026-11-21 17:50",
+   "total": 4362
+  },
+  {
+   "date": "2026-11-21 17:51",
+   "total": 4364
   }
  ],
  "next_week_ideas": [
@@ -31715,6 +31944,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Magic bauble pop, room reveal",
+   "where": "TikTok and Reels, returns every December (Christmas explosion format)",
+   "status": "seasonal",
+   "use": "A 10 to 15 second Short with our own jingle: the Bros stand in a plain grey room, one tosses a sparkly bauble on the beat, a soft 'pop' of glitter fills the frame, and when it clears the room is fully decorated with a tree, lights and snow outside; the Bros cheer. Motion: standing in place, underarm toss with one hand, cover eyes with both hands, then both arms up and a small hop. No grenade or explosion wording, just a magic sparkle pop."
+  },
   {
    "name": "Comment what you got (pick an option, then the payoff)",
    "where": "TikTok, Reels and Shorts, rising mid Nov 2026 (about 282M views)",
@@ -31798,12 +32033,6 @@
    "where": "TikTok and Reels (UK, rising mid Nov 2026), YouTube Shorts",
    "status": "rising",
    "use": "Big Bro and Little Bro in matching Christmas pyjamas side by side in front of the tree do a mirrored 16 count routine to our own bouncy arrangement of the public domain carol Deck the Halls (fa la la chorus): step touch right and left with claps, two arm rolls, point up on 'fa la la', hip bump on the last beat, then repeat; end with a big cheesy pose. Meshy steps: standing in place, step touch side to side with claps, forearm roll in front of the chest, point one finger up, small side bump toward the other brother."
-  },
-  {
-   "name": "Hmph! Grumpy, then giggle",
-   "where": "TikTok and Reels (rising Nov 2026), YouTube Shorts",
-   "status": "rising",
-   "use": "An 8 second Short: Little Bro is 'grumpy' because Big Bro ate the last cookie. On our own drum beat he stands stiff, spins away with arms crossed, snaps back with hands on hips, puffs his cheeks and turns his nose up 'hmph!'; then Big Bro offers half a cookie and Little Bro melts into a giggle and a happy wiggle. Meshy step: standing in place, arms crossed, quarter turn left, hands on hips, small chin up, then a loose happy side to side wiggle; no floor moves."
   },
   {
    "name": "Dear Santa, I'm this tall",
