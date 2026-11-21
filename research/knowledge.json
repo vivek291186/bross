@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:45:00+05:30",
- "runs": 2187,
+ "updated": "2026-11-21T22:45:35+05:30",
+ "runs": 2188,
  "branches": [
   {
    "id": "platforms",
@@ -13222,6 +13222,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2164
+    },
+    {
+     "t": "The 2027 Grammy nominees for Best Children's Music Album (announced 16 Nov 2026, ceremony 7 Feb 2027) are 'All in Good Time' (Snooknuk), 'Hasta La Vista... Baby' (Lucky Diaz and the Family Jam Band), 'Little Birdie's Big Symphony' (Scott and Mark Hoying), 'Magnificent' (Lachi) and 'Starchild, Vol. 1' (Divinity Roxx and Divi Roxx Kids); none is a YouTube nursery rhyme brand, so awards still reward artist led family albums with a clear theme.",
+     "src": "NBC New York and Deseret News, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2188
+    },
+    {
+     "t": "Three of the five 2027 children's album nominees are group or family acts (a duo sharing one family name, a bilingual Spanish English family band, an artist singing with a crew of kids), continuing last year's win by a father and daughter, so songs where two brothers and their friends sing as a team match what the family music world values.",
+     "src": "NBC New York, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2188
     }
    ]
   },
@@ -31413,12 +31427,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 19:02",
-   "note": "Summary of 2 older log entries (2026-11-21 18:56 to 2026-11-21 19:02): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 19:03",
-   "note": "Run 2109 (TRENDS (Christmas dance check)): Nothing new: the Deck the Halls dance and its AI celebrity copy trend, the Charlie Brown style party dance revival and the fading early Christmas routines were already filed; NewEngen's newest page was not out yet. 0 leaves. Chrome not available. Total 4410."
+   "note": "Summary of 2 older log entries (2026-11-21 19:02 to 2026-11-21 19:03): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:04",
@@ -31731,6 +31741,10 @@
   {
    "date": "2026-11-21 22:45",
    "note": "Run 2187 (competitor deep dive (Indian made English rhymes, Arabic channels)): New: Kidsberry, an India based English rhymes channel, still draws about 11.7M views a month with no upload since March 2026, and a colour finger family song from Jul 2025 already has 47M views; Arabic channel pages had no fresh data. 1 leaves. Chrome not available. Total 4474."
+  },
+  {
+   "date": "2026-11-21 22:45",
+   "note": "Run 2188 (music craft (2027 Grammy children's nominees)): New: the 2027 Best Children's Music Album nominees (announced 16 Nov 2026) are five independent family acts, including a two person family duo with a bird symphony album, a bilingual family band and an artist singing with a kids crew; the ceremony is 7 Feb 2027. 2 leaves. Chrome not available. Total 4476."
   }
  ],
  "history": [
@@ -32385,6 +32399,10 @@
   {
    "date": "2026-11-21 22:45",
    "total": 4474
+  },
+  {
+   "date": "2026-11-21 22:45",
+   "total": 4476
   }
  ],
  "next_week_ideas": [
