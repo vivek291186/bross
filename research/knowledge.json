@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:03:28+05:30",
- "runs": 2109,
+ "updated": "2026-11-21T19:04:05+05:30",
+ "runs": 2110,
  "branches": [
   {
    "id": "platforms",
@@ -23127,6 +23127,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2105
+    },
+    {
+     "t": "A 2026 YouTube CPM guide (1of10, updated 6 Oct 2026, creator reported data) says made for kids videos usually earn about 1 to 4 USD per 1,000 ad views whatever the topic, that CPMs peak in Q4 and drop about 20 to 40% into January, and that India, Pakistan and the Philippines pay roughly 5 to 15% of US rates, so December is the month to push US and UK friendly Christmas compilations hardest.",
+     "src": "1of10.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2110
     }
    ]
   },
@@ -30966,11 +30973,7 @@
  "log": [
   {
    "date": "2026-11-21 16:46",
-   "note": "Summary of 2 older log entries (2026-11-21 16:45 to 2026-11-21 16:46): steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-21 16:46",
-   "note": "Run 2031 (Shorts and Reels (skip rate and reach benchmarks)): Mostly filed (Socialinsider's length study, Metricool's 8.5 second average watch). New: Socialinsider's Jan to Jun 2026 Reels data puts the average skip rate at about 65% for 1K to 5K follower accounts and 60% for big ones, with reach rate falling from about 9.8% of followers for small accounts to 5% for large, a benchmark for our own 37% to 100% Reels skip rates. 2 leaves. Chrome not available. Total 4292."
+   "note": "Summary of 2 older log entries (2026-11-21 16:46 to 2026-11-21 16:46): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:47",
@@ -31283,6 +31286,10 @@
   {
    "date": "2026-11-21 19:03",
    "note": "Run 2109 (TRENDS (Christmas dance check)): Nothing new: the Deck the Halls dance and its AI celebrity copy trend, the Charlie Brown style party dance revival and the fading early Christmas routines were already filed; NewEngen's newest page was not out yet. 0 leaves. Chrome not available. Total 4410."
+  },
+  {
+   "date": "2026-11-21 19:04",
+   "note": "Run 2110 (rules and monetisation (Q4 ad rates)): New: a 2026 CPM table (1of10, updated 6 Oct 2026) says made for kids videos typically earn about 1 to 4 USD CPM whatever the topic, CPMs peak in Q4 and fall 20 to 40% into January, and India, Pakistan and the Philippines pay about 5 to 15% of US rates. 1 leaves. Chrome not available. Total 4411."
   }
  ],
  "history": [
@@ -32333,6 +32340,10 @@
   {
    "date": "2026-11-21 19:03",
    "total": 4410
+  },
+  {
+   "date": "2026-11-21 19:04",
+   "total": 4411
   }
  ],
  "next_week_ideas": [
