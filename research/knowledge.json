@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:03:00+05:30",
- "runs": 2089,
+ "updated": "2026-11-21T18:35:10+05:30",
+ "runs": 2090,
  "branches": [
   {
    "id": "platforms",
@@ -2953,6 +2953,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2078
+    },
+    {
+     "t": "Mosseri said (reported 3 Nov 2026) that a carousel with music added can appear inside the Reels viewer, and a carousel someone scrolled past can be shown to them again opening on its second slide, so a Bro Bros lyric or 'spot the difference' carousel with our own song gets two chances, and slide 2 should work as a hook on its own.",
+     "src": "uppbeat.io, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2090
     }
    ]
   },
@@ -5676,6 +5683,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2077
+    },
+    {
+     "t": "Mosseri told creators (reported 3 Nov 2026) that Instagram relies on watch time less than its competitors do and that sends per reach is probably the most important number a new creator can follow; Edits already shows it and Insights is due to get it, so we judge each Reel first by sends per reach in Edits.",
+     "src": "uppbeat.io, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2090
     }
    ]
   },
@@ -22973,6 +22987,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2086
+    },
+    {
+     "t": "Mosseri said accounts built around AI generated characters must label themselves as such, so the Bro Bros Instagram bio and posts should openly say the brothers are animated characters made with AI tools, on top of the per post AI label.",
+     "src": "uppbeat.io, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2090
     }
    ]
   },
@@ -30720,12 +30741,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 15:41",
-   "note": "Summary of 2 older runs up to Run 2010 (visual craft (Meshy and Blende...: see git history for details."
-  },
-  {
    "date": "2026-11-21 15:42",
-   "note": "Run 2011 (TRENDS (Later 20 Nov Reels list, most viewed Shorts of 2026)): Mostly filed already. New: Later's 20 Nov list adds 'Get up, diva', an original audio setback then pep talk comeback format, which becomes a kid safe 'wobble, shake it off, try again' resilience Short; the 2026 most viewed Shorts list is unchanged. 1 leaves. Chrome not available. Total 4271."
+   "note": "Summary of 2 older log entries (2026-11-21 15:41 to 2026-11-21 15:42): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 15:43",
@@ -31038,6 +31055,10 @@
   {
    "date": "2026-11-21 18:03",
    "note": "Run 2089 (visual craft (title formulas)): Nothing new: emoji and title length studies were already filed and vidIQ's July 2026 title formula study returned no readable text. End of run: 35 rounds (runs 2055 to 2089), 54 new leaves, 3 trend bank entries added (Build a themed tree, Comment what you got, Magic bauble pop) and 3 faded ones dropped, no song idea or posting slot changes. Page not published (artifact tools not available this run). 0 leaves. Chrome not available. Total 4375."
+  },
+  {
+   "date": "2026-11-21 18:35",
+   "note": "Run 2090 (Shorts and Reels (Mosseri on sends and carousels)): New: Mosseri (Colin and Samir interview, reported 3 Nov 2026) said a carousel with music can show in the Reels viewer and can come back later opening on its second slide, that Instagram leans on watch time less than rival apps, that sends per reach is the key metric for new creators and is coming to Insights, and that accounts built on AI characters must label themselves. 3 leaves. Chrome not available. Total 4378."
   }
  ],
  "history": [
@@ -32008,6 +32029,10 @@
   {
    "date": "2026-11-21 18:03",
    "total": 4375
+  },
+  {
+   "date": "2026-11-21 18:35",
+   "total": 4378
   }
  ],
  "next_week_ideas": [
