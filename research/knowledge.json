@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:38:05+05:30",
- "runs": 2176,
+ "updated": "2026-11-21T22:38:40+05:30",
+ "runs": 2177,
  "branches": [
   {
    "id": "platforms",
@@ -31294,12 +31294,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 18:47",
-   "note": "Summary of 2 older log entries (2026-11-21 18:46 to 2026-11-21 18:47): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 18:48",
-   "note": "Run 2098 (rules (AI slop enforcement on kids channels)): New detail: after the Feb 2026 New York Times check YouTube cut five cited AI kids channels from the Partner Program, which also removed them from YouTube Kids, and pulled hyperrealistic clips from the app; The Next Web (Jun 2026) reports faceless channels, even non AI ones, being demonetised under channel level reviews of recent uploads, with niche educational channels holding up best. The 16 channel ban, 4.7B views and the 40% figure were already filed. 2 leaves. Chrome not available. Total 4396."
+   "note": "Summary of 2 older log entries (2026-11-21 18:47 to 2026-11-21 18:48): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:49",
@@ -31612,6 +31608,10 @@
   {
    "date": "2026-11-21 22:38",
    "note": "Run 2176 (music craft (new studies recheck)): Nothing new: the eLife baby movement study, the Queensland preschool rhythm trial and the Yale and Auckland singing trial were all filed several times already. 0 leaves. Chrome not available. Total 4457."
+  },
+  {
+   "date": "2026-11-21 22:38",
+   "note": "Run 2177 (visual craft (thumbnail case studies recheck)): Nothing new: AIR's Vania Mania four channel case (calm one focal point thumbnails, hook plus keyword titles, audio track checks) and vidIQ's July thumbnail study were already filed. 0 leaves. Chrome not available. Total 4457."
   }
  ],
  "history": [
@@ -32217,6 +32217,10 @@
   },
   {
    "date": "2026-11-21 22:37",
+   "total": 4457
+  },
+  {
+   "date": "2026-11-21 22:38",
    "total": 4457
   },
   {
