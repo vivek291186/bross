@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:51:45+05:30",
- "runs": 2268,
+ "updated": "2026-11-22T01:53:31+05:30",
+ "runs": 2270,
  "branches": [
   {
    "id": "platforms",
@@ -31861,16 +31861,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:48",
-   "note": "Summary of 2 older runs (2026-11-21 22:47 to 2026-11-21 22:48): see git history for details."
-  },
-  {
    "date": "2026-11-21 22:49",
-   "note": "Run 2193 (TRENDS (Virlo week to 19 Nov list)): Nothing new: all ten trends on Virlo's 19 Nov list (stranger cat reach, shoulder carry selfie, door slam prank, couple montage and others) were already filed and none is a dance. Trend bank unchanged. 0 leaves. Chrome not available. Total 4483."
-  },
-  {
-   "date": "2026-11-21 22:49",
-   "note": "Run 2194 (rules and safety (AI slop rules recheck)): Nothing new: YouTube's July 2026 inauthentic content rule, the January slop channel bans, the 200 plus advocacy groups' letter and the faceless creator collateral reports were already filed. 0 leaves. Chrome not available. Total 4483."
+   "note": "Summary of 2 older runs (2026-11-21 22:49 to 2026-11-21 22:49): see git history for details."
   },
   {
    "date": "2026-11-21 22:50",
@@ -32179,6 +32171,14 @@
   {
    "date": "2026-11-22 01:51",
    "note": "Run 2268 (Shorts and long form attention (Warwick Brainrot paper, 13 Nov 2026)): New: a Warwick economics paper (13 Nov 2026) using YouTube's per video skip heatmaps for about 56,000 long news videos finds skipping inside long videos rose about 40% after Shorts launched, most in videos over an hour; it studies adults, not children, so it only supports front loading the hook and clear chapters in our compilations. 1 leaves. Chrome not available. Total 4538."
+  },
+  {
+   "date": "2026-11-22 01:52",
+   "note": "Run 2269 (other platforms (Roblox top games churn, Alexa kids requests; TRENDS skipped after empty rounds)): Nothing new: GGRecon's 19 Nov Roblox chart (30 of 99 top games made since October, ragdoll physics and Throw Food For Animals) and Alexa year lists were already filed. 0 leaves. Chrome not available. Total 4538."
+  },
+  {
+   "date": "2026-11-22 01:53",
+   "note": "Run 2270 (rules and monetisation (Partner Program 2027 bar, Creator Premieres, shopping in 35 markets)): Nothing new: the 1 Feb 2027 Partner Program bar (8,000 watch hours or 20M Shorts views, 10M rolling Shorts views for Shorts pay), the kids free Creator Premieres slate and Brazil's ECA Digital were all already filed. 0 leaves. Chrome not available. Total 4538."
   }
  ],
  "history": [
@@ -33156,6 +33156,14 @@
   },
   {
    "date": "2026-11-22 01:51",
+   "total": 4538
+  },
+  {
+   "date": "2026-11-22 01:52",
+   "total": 4538
+  },
+  {
+   "date": "2026-11-22 01:53",
    "total": 4538
   }
  ],
