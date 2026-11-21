@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:46:23+05:30",
- "runs": 2259,
+ "updated": "2026-11-22T01:47:08+05:30",
+ "runs": 2260,
  "branches": [
   {
    "id": "platforms",
@@ -13390,6 +13390,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2213
+    },
+    {
+     "t": "India's Hindi rhymes channel Aayu Rhymes (789K subscribers, 369M views, about 10 uploads a month) drew about 14.6M views in the 30 days to 21 Nov 2026, and its best recent upload is a nonsense syllable dance song ('Dudi Dudi Dam Dam Dance', 21 Oct 2026, about 4.7M views) while new classic poems (a fish rhyme, a cat balgeet) sit at 6K to 8K views in their first days, so a catchy made up syllable hook with a dance beats another classic rhyme, which supports our own 'Dooby Dooby Boom Boom' style songs.",
+     "src": "Nexlev, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2260
     }
    ]
   },
@@ -31826,12 +31833,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:42",
-   "note": "Summary of 2 older runs (2026-11-21 22:41 to 2026-11-21 22:42): see git history for details."
-  },
-  {
    "date": "2026-11-21 22:43",
-   "note": "Run 2184 (TRENDS (Virlo November board stages)): New: by 21 Nov the Thank You Baby Dance and the Last Christmas winter remix dance are archived (the winter dance fell from 77 creators to 2 in a week), while the loading percentage and upside down transitions are still peaking, which backs the two transition formats already in our trend bank. Trend bank unchanged. 2 leaves. Chrome not available. Total 4471."
+   "note": "Summary of 2 older runs (2026-11-21 22:42 to 2026-11-21 22:43): see git history for details."
   },
   {
    "date": "2026-11-21 22:43",
@@ -32144,6 +32147,10 @@
   {
    "date": "2026-11-22 01:46",
    "note": "Run 2259 (TRENDS (India Reels and Shorts this week)): Nothing new: India's recent Reels waves (Neeli Pari Peeli Pari, old Bollywood revivals) and Tubefilter's 9 to 15 Nov India Shorts channels were already filed; no newer weekly India Reels roundup than early October was found. Trend bank unchanged. 0 leaves. Chrome not available. Total 4533."
+  },
+  {
+   "date": "2026-11-22 01:47",
+   "note": "Run 2260 (music craft (India nonsense syllable dance songs, Aayu Rhymes)): Small addition: India's Aayu Rhymes (789K subscribers, about 14.6M views a month) got its best recent upload from a nonsense syllable dance song ('Dudi Dudi Dam Dam', about 4.7M views in a month) while new classic poems get only thousands; India's trending list still has no kids video, as already filed. 1 leaves. Chrome not available. Total 4534."
   }
  ],
  "history": [
@@ -33086,6 +33093,10 @@
   {
    "date": "2026-11-22 01:46",
    "total": 4533
+  },
+  {
+   "date": "2026-11-22 01:47",
+   "total": 4534
   }
  ],
  "next_week_ideas": [
