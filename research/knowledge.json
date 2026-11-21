@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:43:30+05:30",
- "runs": 1763,
+ "updated": "2026-11-21T06:44:18+05:30",
+ "runs": 1764,
  "branches": [
   {
    "id": "platforms",
@@ -28391,6 +28391,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1761
+    },
+    {
+     "t": "The 'pick your favourite thing' table game (two people grab their favourite item on a count of three) went from rising in late October to archived by 20 Nov 2026 with 117 videos and about 73.8M views and no new creators in the last two weeks, so a simple game format lives about four to six weeks and a Bros version must be out within the first two weeks of a trend to ride it.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1764
     }
    ]
   }
@@ -28419,10 +28426,6 @@
   {
    "date": "2026-11-20 13:44",
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-21 03:50",
-   "note": "Run 1685 (music craft (eLife infant movement study, iTunes kids and Billboard kids albums rechecked, Suno prompting guides for kids songs)): The eLife infant study, the iTunes faith and novelty songs and Billboard's holiday albums were already filed. New Suno craft: words in parentheses in the lyrics make Suno add backing vocals, an [End] tag on the last line stops overruns in most generations, adult vocal styles beat AI child voices, and a v5.5 drift workaround is to generate on v5 and Cover on v5.5. Chrome not available. Total 3955."
   },
   {
    "date": "2026-11-21 03:50",
@@ -28735,13 +28738,13 @@
   {
    "date": "2026-11-21 06:43",
    "note": "Run 1763 (our own results (Metricool Reels of 20 Nov, queue check)): New: the 20 Nov Reels synced; the 16:00 IST little car Reel reached 55 views (79.5% skipped in 3 seconds) while the 10:00 IST elephant parade Reel got 16 views with our worst skip rate yet (86.7%), so the morning Reel lead is not firm. Metricool still has nothing queued after 22 Nov 16:05 IST. YouTube numbers unchanged since the last run. Chrome not available. Total 4046."
+  },
+  {
+   "date": "2026-11-21 06:44",
+   "note": "Run 1764 (TRENDS (Virlo Christmas dance and game formats, Daily Dot, Thanksgiving)): Mostly known. New: the 'pick your favourite thing' table game that was rising in late October was archived by 20 Nov (117 videos, about 73.8M views, zero new creators for two weeks), so simple game formats live about four to six weeks. The Christmas dance routines stay fading. Trend bank unchanged. Chrome not available. Total 4047."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 06:46",
-   "total": 3573
-  },
   {
    "date": "2026-11-20 06:47",
    "total": 3577
@@ -29937,6 +29940,10 @@
   {
    "date": "2026-11-21 06:43",
    "total": 4046
+  },
+  {
+   "date": "2026-11-21 06:44",
+   "total": 4047
   }
  ],
  "next_week_ideas": [
