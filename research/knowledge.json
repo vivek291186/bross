@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:43:30+05:30",
- "runs": 2217,
+ "updated": "2026-11-21T23:44:41+05:30",
+ "runs": 2218,
  "branches": [
   {
    "id": "platforms",
@@ -23687,6 +23687,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2212
+    },
+    {
+     "t": "YouTube's policy log for Nov 2026 says artists and labels must now disclose use of generative AI for content in the YouTube Music app, which shows updated altered or synthetic labels, so when Bro Bros releases Suno made songs as audio tracks through a distributor we must tick the AI disclosure honestly rather than risk the asset being pulled.",
+     "src": "YouTube Help (policy updates), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2218
     }
    ]
   },
@@ -31680,11 +31687,7 @@
  "log": [
   {
    "date": "2026-11-21 20:51",
-   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:57): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 20:58",
-   "note": "Run 2142 (TRENDS (advent calendars, Thanksgiving story songs)): New: US advent calendar use rose to 28% of adults in 2025 (from 22%) with unboxing posts starting earlier each year; UK kids picks for 2026 are squishy, Minecraft, Lego City and mini craft calendars; a 30 second Suno story song about a relatable Thanksgiving chore drew about 225K TikTok views and 3,500 comments. Trend bank unchanged (Advent door a day already in it). 3 leaves. Chrome not available. Total 4430."
+   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:58): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 20:59",
@@ -31997,6 +32000,10 @@
   {
    "date": "2026-11-21 23:43",
    "note": "Run 2217 (competitor deep dive (Lucas and Friends, 123kidstv)): New: Lucas and Friends, an app maker's learning channel, gets about 88M views in 28 days and 50K new subscribers from only 199 videos and no upload since 17 Oct, carried by flashcard style ABC, colours, numbers and feelings videos near 100M each; a 28 video counting channel that stopped uploading now gets about 400K views a month. 3 leaves. Chrome not available. Total 4512."
+  },
+  {
+   "date": "2026-11-21 23:44",
+   "note": "Run 2218 (rules and monetisation (YouTube policy log; trends and posting skipped as just rechecked)): New: YouTube's policy log adds a Nov 2026 rule that artists and labels must disclose AI use on YouTube Music, with new AI labels in the Music app, which touches our Suno made songs once released as audio tracks; nothing new on made for kids rules or COPPA. 1 leaves. Chrome not available. Total 4513."
   }
  ],
  "history": [
@@ -32771,6 +32778,10 @@
   {
    "date": "2026-11-21 23:43",
    "total": 4512
+  },
+  {
+   "date": "2026-11-21 23:44",
+   "total": 4513
   }
  ],
  "next_week_ideas": [
