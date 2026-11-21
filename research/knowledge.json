@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:51:17+05:30",
- "runs": 1888,
+ "updated": "2026-11-21T11:51:56+05:30",
+ "runs": 1889,
  "branches": [
   {
    "id": "platforms",
@@ -14545,6 +14545,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1877
+    },
+    {
+     "t": "Meshy's animate guide lets us stack several dance moves on one rigged Bro in an 'Added' list and export them all together ('All Added') as one FBX with a Mixamo style skeleton for Blender, which saves a re export for every move in a song.",
+     "src": "Meshy docs, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1889
+    },
+    {
+     "t": "Meshy's preset library and Text to Motion work only on humanoid characters, while four legged characters get just an automatic walk cycle, so animal friends that must dance (cats in the kitty band, farm animals) should be designed standing upright on two legs or hand animated in Blender.",
+     "src": "Meshy docs, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1889
     }
    ]
   },
@@ -29306,12 +29320,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:41",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1808); see git history."
-  },
-  {
    "date": "2026-11-21 08:42",
-   "note": "Run 1810 (TRENDS (Tokchart 20 Nov growing sounds, vidIQ 14 day TikTok sounds)): New: vidIQ's 14 day TikTok board shows Brenda Lee's Rockin' Around the Christmas Tree up about 893% to roughly 3M estimated views an hour, a sign the classic Christmas audio wave has started this week; the rest (Chopin nocturne, Jingle Bell Rock remix, Flower In A Hurricane, chupeta funk) was filed. Trend bank unchanged. Chrome not available. Total 4089."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1809); see git history."
   },
   {
    "date": "2026-11-21 08:42",
@@ -29624,6 +29634,10 @@
   {
    "date": "2026-11-21 11:51",
    "note": "Run 1888 (music craft (Suno Voices, auto dubbing for songs)): New: Suno Voices (web and apps since Jun 2026) sings tracks in a recorded reference voice, best from at least a minute of clean, quiet recording matched to the genre, which could give Big Bro and Little Bro one steady singing voice each; YouTube auto dubbing skipping music only videos was already filed. 2 leaves. Chrome not available. Total 4173."
+  },
+  {
+   "date": "2026-11-21 11:51",
+   "note": "Run 1889 (visual craft (Meshy animate guide, Blender and Meshy updates)): Meshy's November changelog is still empty and its October items (Edit, T2.5) were filed; new practical notes: Meshy can export every added motion at once ('All Added') as one FBX for Blender, Text to Motion and the preset library work only on humanoid rigs, and four legged animals get only an automatic walk. 2 leaves. Chrome not available. Total 4175."
   }
  ],
  "history": [
@@ -30730,6 +30744,10 @@
   {
    "date": "2026-11-21 11:51",
    "total": 4173
+  },
+  {
+   "date": "2026-11-21 11:51",
+   "total": 4175
   }
  ],
  "next_week_ideas": [
