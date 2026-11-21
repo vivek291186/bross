@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:48:54+05:30",
- "runs": 2021,
+ "updated": "2026-11-21T15:49:18+05:30",
+ "runs": 2022,
  "branches": [
   {
    "id": "platforms",
@@ -30060,10 +30060,6 @@
   },
   {
    "date": "2026-11-21 13:04",
-   "note": "Run 1943 (rules (UK Ofcom underage use and age checks)): New: Ofcom says 72% of UK children aged 8 to 12 use apps with a minimum age of 13 and has pushed YouTube, TikTok, Instagram and others to enforce age limits, with under 16 restrictions expected from 2027; for us that means more young viewers will move into supervised accounts and YouTube Kids, where only clearly made for kids, gentle content travels. 1 leaves. Chrome not available. Total 4229."
-  },
-  {
-   "date": "2026-11-21 13:04",
    "note": "Run 1944 (our results (Instagram Reels 20 to 21 Nov)): Nothing new: Metricool has only the two 20 Nov Reels so far (car and traffic light 55 views and 25 shares at 16:00 IST, circus parade 16 views at 10:00 IST), already filed; no 21 Nov Reels data yet. No leaves added. 0 leaves. Chrome not available. Total 4229."
   },
   {
@@ -30373,6 +30369,10 @@
   {
    "date": "2026-11-21 15:48",
    "note": "Run 2021 (music craft (children's singing studies)): Mostly filed (singing ranges, tessitura, tempo preferences). New: a small University of Maryland study of 29 preschoolers found no clear difference between learning new songs with words or on a neutral 'la la' syllable, with hints that a wordless start helps children use their singing voice, so a short 'la la' or 'doo doo' hook before the words is a safe choice. 1 leaves. Chrome not available. Total 4280."
+  },
+  {
+   "date": "2026-11-21 15:49",
+   "note": "Run 2022 (visual craft (titles, emoji, pacing studies)): Nothing new: vidIQ's emoji and title formula studies, AIR's 11 niche title study, YouTube's made for kids title guide, the ISB background motion test, SRI's fast pace model and Common Sense's attention capture scores were all already filed. 0 leaves. Chrome not available. Total 4280."
   }
  ],
  "history": [
@@ -31070,6 +31070,10 @@
   },
   {
    "date": "2026-11-21 15:48",
+   "total": 4280
+  },
+  {
+   "date": "2026-11-21 15:49",
    "total": 4280
   }
  ],
