@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:03:27+05:30",
- "runs": 1848,
+ "updated": "2026-11-21T10:35:52+05:30",
+ "runs": 1849,
  "branches": [
   {
    "id": "platforms",
@@ -28839,6 +28839,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1842
+    },
+    {
+     "t": "SocialPilot's 17 Nov 2026 Reels board lists the 'silly little life' fast cut sound (a big pop star's Coming Up Roses) as rising to about 116K Reels from about 49K under three weeks earlier, so a quick cut montage of tiny happy moments is still climbing; Bro Bros can copy the format with a 10 second montage of small joys cut to our own upbeat song.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1849
+    },
+    {
+     "t": "Virlo's week to 19 Nov 2026 shows a 'not just anyone's babies' format (family clips with proud on screen text) jumping from 5 to 88 creators and about 96M views, so proud family moments with captions are rising; a Bro Bros Reel can show Big Bro proudly listing what Little Bro learned this year over our own song.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1849
+    },
+    {
+     "t": "Later's holiday creator guide says holiday views taper off in January and that a seasonal video judged weak at 30 days can be the best performer at six months, so our Christmas songs should be evergreen enough (snow, gifts, kindness) to keep earning next year and be compared year over year, not dropped after December.",
+     "src": "later.com, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1849
     }
    ]
   }
@@ -28866,11 +28887,7 @@
  "log": [
   {
    "date": "2026-11-21 06:47",
-   "note": "Summary of 2 older log entries (runs up to 1769): steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-21 06:47",
-   "note": "Run 1770 (TRENDS (Tokchart fastest growing sounds 20 Nov, Know Your Meme dance entries)): Mostly known: the Tokchart top 10 (Finneas cover, Brazilian Jingle Bell Rock remix, GTA VI score) was already filed. New: Know Your Meme's 'The Last Dance' paired dance meme (a 2014 Vocaloid track, spreading since Aug 2026 through fandom animations) is teen fandom content with goodbye and dying themes, so Bro Bros skips it. Trend bank unchanged. Chrome not available. Total 4049."
+   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
   },
   {
    "date": "2026-11-21 06:49",
@@ -29183,6 +29200,10 @@
   {
    "date": "2026-11-21 10:03",
    "note": "Run 1848 (TRENDS (Later's 20 Nov Reels roundup)): Nothing new: all three formats (month by month year recap, Dear Santa wish list, get up comeback pep talk) are already in the leaves and the trend bank. No leaves added. End of run: 29 rounds (runs 1820 to 1848), 18 new leaves, 2 duplicate leaves merged (from runs 1820 and 1821), 1 trend bank entry added (confetti pop on the beat), 1 dropped, 1 marked fading, 2 song ideas added. Chrome not available. Total 4110."
+  },
+  {
+   "date": "2026-11-21 10:35",
+   "note": "Run 1849 (TRENDS (SocialPilot 17 Nov boards, Virlo 19 Nov stages)): Harry Styles' Coming Up Roses 'silly little life' fast cut sound more than doubled to about 116K Reels in under three weeks; Virlo's 19 Nov board shows a family 'not just anyone's babies' text clip format rising from 5 to 88 creators; Later says holiday Shorts should be judged at six months, not 30 days. 3 leaves. Chrome not available. Total 4113."
   }
  ],
  "history": [
@@ -30129,6 +30150,10 @@
   {
    "date": "2026-11-21 10:03",
    "total": 4110
+  },
+  {
+   "date": "2026-11-21 10:35",
+   "total": 4113
   }
  ],
  "next_week_ideas": [
