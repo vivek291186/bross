@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T05:51:10+05:30",
- "runs": 1746,
+ "updated": "2026-11-21T05:52:02+05:30",
+ "runs": 1747,
  "branches": [
   {
    "id": "platforms",
@@ -18801,6 +18801,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1717
+    },
+    {
+     "t": "In Sweden a local live action band channel (Barnplaneten, 328K subscribers) draws about 7M to 8M views a month, while a dubbed animated nursery rhyme feed with more subscribers (Kids TV Svenska, 517K) gets only about 0.7M to 1.5M and its new uploads reach about 2K views, so small Nordic markets favour home grown performers over generic dubs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1747
+    },
+    {
+     "t": "One of Barnplaneten's three most viewed videos (about 6.9M) is 'Bro bro breja', a traditional Swedish bridge singing game where children walk under raised arms, so 'Bro Bro' already sounds familiar and friendly to Swedish families; a Swedish dub of an original Bro Bros bridge game song could lean on that echo.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1747
+    },
+    {
+     "t": "BabyTV's Dutch channel (274K subscribers) grew from about 3.5M views in July to about 5.5M in October 2026, and its top videos are 'best kids songs' and 3 hour compilations, so in the Netherlands long Dutch language song mixes are what keep a dubbed baby brand growing.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1747
     }
    ]
   },
@@ -28288,10 +28309,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-21 03:00",
-   "note": "Run 1668 (YouTube kids channels (Taiwan's YOYOTV via vidIQ; Fitu K Kitu and Keizo rechecked); TRENDS skipped as the last trends round found nothing new): Keizo and Friends was already filed and Fitu K Kitu could not be found; one suggested channel turned out to be adult content and was skipped. New: Taiwan's kids TV broadcaster YOYOTV (1.75M subscribers, 18,000 videos) posts about 12 full episodes a week, but new uploads get only about 200 to 2,400 views, with licensed anime episodes its best recent uploads. Chrome not available. Total 3910."
-  },
-  {
    "date": "2026-11-21 03:01",
    "note": "Run 1669 (YouTube algorithm (made for kids Shorts reach, Studio Research tab, AIR traffic recovery guide)): The Research tab, the 21 to 11 long video case and the Arabic thumbnail recovery were already filed. New: in AIR's guide a localised Spanish kids channel wrongly flagged by the recommendation system went from 550 to about 28,000 recommendations within 30 days of the flag being lifted, so a sudden total drop in Suggested traffic should be escalated, not waited out. Chrome not available. Total 3911."
   },
@@ -28602,13 +28619,13 @@
   {
    "date": "2026-11-21 05:51",
    "note": "Run 1746 (TRENDS (Virlo trend pages, parent and kid dance formats)): Nothing new: Virlo's piggyback, shoulder carry and habits trends and the parent silly dance formats were already filed. No leaves added; trend bank unchanged. Chrome not available. Total 4027."
+  },
+  {
+   "date": "2026-11-21 05:52",
+   "note": "Run 1747 (global markets (Sweden and the Netherlands kids song channels)): New: Sweden's local band led channel Barnplaneten (328K subscribers, about 7M to 8M views a month) beats a dubbed nursery rhyme feed with 517K subscribers that gets under 1.5M; its third biggest video is the old Swedish singing game 'Bro bro breja', a happy name echo for Bro Bros; BabyTV's Dutch channel grows on long compilations. Chrome not available. Total 4030."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 05:55",
-   "total": 3545
-  },
   {
    "date": "2026-11-20 06:01",
    "total": 3547
@@ -29804,6 +29821,10 @@
   {
    "date": "2026-11-21 05:51",
    "total": 4027
+  },
+  {
+   "date": "2026-11-21 05:52",
+   "total": 4030
   }
  ],
  "next_week_ideas": [
