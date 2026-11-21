@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:56:47+05:30",
- "runs": 2198,
+ "updated": "2026-11-21T22:57:35+05:30",
+ "runs": 2199,
  "branches": [
   {
    "id": "platforms",
@@ -20803,6 +20803,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2195
+    },
+    {
+     "t": "The French dub of a big British nursery rhyme brand (1.24M subscribers, 1,562 videos) drew only about 1.8M views in the 28 days to 21 Nov 2026 with zero subscriber growth despite 14 new uploads, and its best videos are bus, whale, ducks and monkeys songs at 2 to 6M, so like Germany, France rewards local feeling songs and a straight dub of a global catalogue grows slowly.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2199
+    },
+    {
+     "t": "A French learning channel of read aloud picture books and stories (Tinyschool Français, 541K subscribers) has no long video above about 140K views and drew about 0.45M views in 28 days, its best being a Christmas dance to a public domain carol, so in French the music and dance videos travel while narrated picture books do not.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2199
     }
    ]
   },
@@ -31484,11 +31498,7 @@
  "log": [
   {
    "date": "2026-11-21 19:41",
-   "note": "Summary of 2 older log entries (2026-11-21 19:40 to 2026-11-21 19:41): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 19:41",
-   "note": "Run 2121 (competitor deep dive (Hey Bear, Morphle)): Nothing new: Hey Bear's slowing upload rhythm and long dance party hits, and Morphle's falling monthly views, were already filed this week. 0 leaves. Chrome not available. Total 4418."
+   "note": "Summary of 2 older log entries (2026-11-21 19:41 to 2026-11-21 19:41): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:42",
@@ -31801,6 +31811,10 @@
   {
    "date": "2026-11-21 22:56",
    "note": "Run 2198 (Shorts and Reels (kids animation Reels pages)): Nothing new: searches for kids cartoon Reels growth cases returned only template sellers and generic Reels statistics already filed. 0 leaves. Chrome not available. Total 4484."
+  },
+  {
+   "date": "2026-11-21 22:57",
+   "note": "Run 2199 (global markets (French dubs check, skipping dry trend and platform foci)): New: the French dub of a big British nursery rhyme brand drew only about 1.8M views in 28 days with zero subscriber growth despite 14 new uploads, the same weak pattern as the German dub of another giant, so French needs native feeling songs rather than a straight dub; a French story and picture book channel earns almost nothing on long videos. 2 leaves. Chrome not available. Total 4486."
   }
  ],
  "history": [
@@ -32499,6 +32513,10 @@
   {
    "date": "2026-11-21 22:56",
    "total": 4484
+  },
+  {
+   "date": "2026-11-21 22:57",
+   "total": 4486
   }
  ],
  "next_week_ideas": [
