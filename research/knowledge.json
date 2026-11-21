@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:49:56+05:30",
- "runs": 1858,
+ "updated": "2026-11-21T10:51:10+05:30",
+ "runs": 1860,
  "branches": [
   {
    "id": "platforms",
@@ -21699,6 +21699,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1822
+    },
+    {
+     "t": "YouTube's five published Youth Principles say children get free access to high quality, age appropriate content, that recommendations for kids are tuned by quality principles written with child development and digital wellbeing experts, and that YouTube never shows personalised ads to children, so the safest growth path is to make every song visibly 'high quality' by those principles (a clear lesson, kindness, active movement) rather than chasing clicks.",
+     "src": "youtube.com How YouTube Works, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1859
     }
    ]
   },
@@ -22728,6 +22735,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1835
+    },
+    {
+     "t": "In Metricool's YouTube data for uploads of 14 to 19 Nov 2026, our Hindi Didi story about an elephant's sneeze and saying sorry (15 Nov, 16:00 IST) is our second best long video at about 510 views and 20 seconds per view, behind only the tomato soup song (972), and its Short got 20 views, our best Short of the week (others 2 to 9), so Hindi story songs deserve a regular weekly place.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1860
+    },
+    {
+     "t": "Our four story songs with a small problem and a happy fix (ant parade sharing 477 views, kitten rescue 373, sandcastle rebuilt after a wave 209, elephant sneeze sorry 510) averaged about 390 views each from 14 to 15 Nov, while the plain action songs of 16 to 17 Nov (clap stomp 297, bus 277, bandage 288, digger 73) averaged about 230, so a mini story with a problem and solution beats a plain action list on our channel.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1860
+    },
+    {
+     "t": "Reels skip rates from 14 to 20 Nov 2026 ran from 37% (digger) to 100% (sandcastle), and the Reels with the most views (veggie soup 127, ant parade 114, freeze dance 113) had average watch times above 3.3 seconds while the weakest (sandcastle 18 views) held only 1.2 seconds, so the first three seconds decide Instagram reach for us; open every Reel on the funniest action, not a title.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1860
     }
    ]
   },
@@ -29005,16 +29033,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 07:37",
-   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
-   "date": "2026-11-21 07:43",
-   "note": "Run 1780 (TRENDS (December holiday formats: early Christmas baking, wrapping paper burst)): New: the December 2025 TikTok format of pets bursting through a sheet of wrapping paper taped across a doorway is a simple seasonal reveal we can do with the Bros; early Christmas baking (43M views since 18 Oct) was already filed. Added 'Burst through the gift paper' to the trend bank. Chrome not available. Total 4058."
-  },
-  {
    "date": "2026-11-21 07:44",
-   "note": "Run 1781 (music craft (children and music studies: Northeastern Sep 2026, eLife infants, NZ cohort)): New: a Northeastern study of 76 children aged 7 to 9 found weekly instrument players scored higher across vocabulary, maths and working memory tests, but it is correlational, so we should never title a video 'makes your kid smarter'. The eLife infant and New Zealand cohort studies were already filed. Chrome not available. Total 4060."
+   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
   },
   {
    "date": "2026-11-21 07:44",
@@ -29323,6 +29343,14 @@
   {
    "date": "2026-11-21 10:49",
    "note": "Run 1858 (posting times (Metricool best times 22 to 28 Nov)): Metricool's best times for 22 to 28 Nov again put YouTube's peak at 16:00 IST every day (Wednesday strongest) and Instagram's at 10:00 IST every day, with a second Instagram bump at 18:00; weekend scores are about half of weekday ones. Posting plan unchanged. 3 leaves. Chrome not available. Total 4130."
+  },
+  {
+   "date": "2026-11-21 10:50",
+   "note": "Run 1859 (rules and safety (YouTube Youth Principles, KIDS Act vs KOSA)): YouTube's five Youth Principles say its recommendations for children are tuned by quality principles written with child development experts and that it never shows personalised ads to children; the House KIDS Act and Senate KOSA remain split with no final law. 1 leaf. Chrome not available. Total 4131."
+  },
+  {
+   "date": "2026-11-21 10:51",
+   "note": "Run 1860 (our own results (14 to 21 Nov YouTube and Reels)): Metricool's YouTube data to 19 Nov ranks our long videos tomato soup 972, Hindi elephant sneeze story 510, ant parade 477, kitten rescue 373; the Hindi story's Short (20 views) is our best Short, and the car safety Reel still leads shares (25). 3 leaves. Chrome not available. Total 4134."
   }
  ],
  "history": [
@@ -30309,6 +30337,14 @@
   {
    "date": "2026-11-21 10:49",
    "total": 4130
+  },
+  {
+   "date": "2026-11-21 10:50",
+   "total": 4131
+  },
+  {
+   "date": "2026-11-21 10:51",
+   "total": 4134
   }
  ],
  "next_week_ideas": [
