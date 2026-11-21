@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:44:17+05:30",
- "runs": 2186,
+ "updated": "2026-11-21T22:45:00+05:30",
+ "runs": 2187,
  "branches": [
   {
    "id": "platforms",
@@ -10541,6 +10541,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2183
+    },
+    {
+     "t": "Kidsberry, an India based English nursery rhyme channel (2.64M subscribers, 1.54B views), still drew about 11.7M views in the 28 days to 21 Nov 2026 with no upload since March, and its second biggest video, a colour finger family song from Jul 2025, reached about 47M in 16 months behind a farm song compilation (65M), so a colours plus family members song is one of the fastest proven formats for an Indian studio making English songs for the world.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2187
     }
    ]
   },
@@ -31406,12 +31413,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 18:56",
-   "note": "Summary of 2 older log entries (2026-11-21 18:55 to 2026-11-21 18:56): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 19:02",
-   "note": "Run 2108 (competitor deep dive (Super Simple Songs, Little Angel)): Nothing new: the Super Simple Songs and Little Angel upload pages could not be read this run, the Peppa Pig mash up page failed, and Super Simple's 20th anniversary facts were already filed. Song ideas: added 'S N O W! Spell It With Our Bodies' from this run's body letters trend, dropped 'Uh Oh, My Zipper's Stuck!' (weakest seasonal fit). 0 leaves. Chrome not available. Total 4410."
+   "note": "Summary of 2 older log entries (2026-11-21 18:56 to 2026-11-21 19:02): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:03",
@@ -31724,6 +31727,10 @@
   {
    "date": "2026-11-21 22:44",
    "note": "Run 2186 (Shorts and Reels (fast growing kids Shorts channels)): Nothing new: Tubefilter's week of 15 Nov charts (Chispita, Plim Plim, VocaVoca cooling) and AIR's localized kids channel cases were already filed. 0 leaves. Chrome not available. Total 4473."
+  },
+  {
+   "date": "2026-11-21 22:45",
+   "note": "Run 2187 (competitor deep dive (Indian made English rhymes, Arabic channels)): New: Kidsberry, an India based English rhymes channel, still draws about 11.7M views a month with no upload since March 2026, and a colour finger family song from Jul 2025 already has 47M views; Arabic channel pages had no fresh data. 1 leaves. Chrome not available. Total 4474."
   }
  ],
  "history": [
@@ -32374,6 +32381,10 @@
   {
    "date": "2026-11-21 22:44",
    "total": 4473
+  },
+  {
+   "date": "2026-11-21 22:45",
+   "total": 4474
   }
  ],
  "next_week_ideas": [
