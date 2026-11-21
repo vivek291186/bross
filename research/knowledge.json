@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:04:39+05:30",
- "runs": 1906,
+ "updated": "2026-11-21T12:05:16+05:30",
+ "runs": 1907,
  "branches": [
   {
    "id": "platforms",
@@ -14636,6 +14636,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1895
+    },
+    {
+     "t": "A 2026 Reels layout guide says that on a 1080 by 1920 Reel the top 150 px (header), the bottom 420 px (about 22%, caption, handle and audio line) and the right 100 px (like, comment, share buttons) get covered, so when we crop our 16:9 songs to vertical, the Bros' faces, the lyric line and the punchline must sit in the centre band, not at the bottom where our long video lyrics usually go.",
+     "src": "TryMyPost, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1907
     }
    ]
   },
@@ -29468,11 +29475,7 @@
  "log": [
   {
    "date": "2026-11-21 09:47",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1826); see git history."
-  },
-  {
-   "date": "2026-11-21 09:47",
-   "note": "Run 1828 (music craft (Suno updates, preschool rhythm studies)): Nothing new: Suno Visuals (17 Nov), Suno v6 and the Queensland rhythm and movement trial were already filed; a new 2026 early childhood music paper could not be opened. No leaves added. Chrome not available. Total 4105."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1827); see git history."
   },
   {
    "date": "2026-11-21 09:48",
@@ -29785,6 +29788,10 @@
   {
    "date": "2026-11-21 12:04",
    "note": "Run 1906 (global markets (Korea: Pinkfong in Japan, KimPro)): New: Pinkfong's Bebefinn music toy launched at No. 1 in Amazon Japan's music toys and its Tokyo Toy Show stock sold out, with Christmas pop ups in Tokyo (4 Dec) and Osaka (11 Dec); Korea's KimPro, a mostly wordless meme and challenge Shorts channel, led the world with about 77.5B views in 2025. 2 leaves. Chrome not available. Total 4196."
+  },
+  {
+   "date": "2026-11-21 12:05",
+   "note": "Run 1907 (visual craft (vertical video safe zones for Reels and Shorts)): New: for a 1080 by 1920 Reel keep faces, lyrics and jokes out of the top 150 px, the bottom 420 px (about 22%, captions and audio) and the right 100 px (buttons), which matters because our Reels and Shorts are cut from 16:9 songs; Google's universal safe zone PDF gives no readable numbers. 1 leaves. Chrome not available. Total 4197."
   }
  ],
  "history": [
@@ -30963,6 +30970,10 @@
   {
    "date": "2026-11-21 12:04",
    "total": 4196
+  },
+  {
+   "date": "2026-11-21 12:05",
+   "total": 4197
   }
  ],
  "next_week_ideas": [
