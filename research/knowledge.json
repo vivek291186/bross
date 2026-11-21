@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:54:55+05:30",
- "runs": 2137,
+ "updated": "2026-11-21T20:55:25+05:30",
+ "runs": 2138,
  "branches": [
   {
    "id": "platforms",
@@ -31077,12 +31077,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 17:38",
-   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 17:39",
-   "note": "Run 2059 (global markets (localisation statistics)): New: Kapwing's April 2026 roundup says subtitles alone lifted views about 7% in one network test, subtitle demand in smaller languages such as Amharic, Yoruba, Uzbek and Sinhala grew about 31%, and young children need dubbing rather than subtitles because they cannot read fast enough. Other dubbing figures (AIR +45%, the separate Spanish channel test) were already filed; the Indonesian child account news page could not be read. 3 leaves. Chrome not available. Total 4338."
+   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:40",
@@ -31395,6 +31391,10 @@
   {
    "date": "2026-11-21 20:54",
    "note": "Run 2137 (YouTube algorithm (Beaupre interview, Shorts freshness, Home rows)): Nothing new: Todd Beaupre's Creator Insider points (pulled recommendations, about 10% subscriber click rate, the eight impression cap), the Shorts 30 day flattening and the two long videos per Home row data were all already filed. 0 leaves. Chrome not available. Total 4426."
+  },
+  {
+   "date": "2026-11-21 20:55",
+   "note": "Run 2138 (Shorts and Reels (vidIQ hourly trends check)): Nothing new: vidIQ's US trending music chart (20 Nov) held no kids, holiday or dance video and the rising searches are all GTA 6, the adult game launch already filed as one to avoid. 0 leaves. Chrome not available. Total 4426."
   }
  ],
  "history": [
@@ -32556,6 +32556,10 @@
   },
   {
    "date": "2026-11-21 20:54",
+   "total": 4426
+  },
+  {
+   "date": "2026-11-21 20:55",
    "total": 4426
   }
  ],
