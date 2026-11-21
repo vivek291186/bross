@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:00:11+05:30",
- "runs": 1900,
+ "updated": "2026-11-21T12:00:56+05:30",
+ "runs": 1901,
  "branches": [
   {
    "id": "platforms",
@@ -16386,6 +16386,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1855
+    },
+    {
+     "t": "Parent guides each December recommend short New Year's Eve countdown videos for kids (10 seconds to 10 minutes, from PBS Kids, Sesame Street, Netflix and simple YouTube channels) that families play at bedtime as a pretend midnight, and they favour ones with music, a cheerful non scary 'bang' ending and no year in the title so they can be replayed every year, so our New Year countdown song should leave the year out of the video and title.",
+     "src": "The Everymom and Cool Mom Tech, Dec 2023",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1901
     }
    ]
   },
@@ -29432,12 +29439,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 09:41",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1820); see git history."
-  },
-  {
    "date": "2026-11-21 09:42",
-   "note": "Run 1822 (rules and safety (Ofcom code updates, AI kids content criticism, Q4 CPM)): New: the UK government received Ofcom's draft code amendments on 16 Nov 2026 (clean children's recommender feeds for all users or age checked accounts, livestream reporting for imminent harm); a Mashable report says US paediatricians advise parents against AI made video for young children and prefer longer form. Q4 CPM and COPPA searches repeated filed facts. Chrome not available. Total 4100."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1821); see git history."
   },
   {
    "date": "2026-11-21 09:43",
@@ -29750,6 +29753,10 @@
   {
    "date": "2026-11-21 12:00",
    "note": "Run 1900 (music craft (Christmas songs in YouTube's weekly charts by country)): New: in YouTube's chart for 19 to 25 Dec 2025 Christmas classics filled the US, UK, German and Dutch tops while India, Brazil and South Africa had few or none in their top 50 and Japan's top Christmas song was a local one, so our Christmas songs target the US, UK, Europe and Australia while India gets winter and New Year songs; Cocomelon drew about 2.1B views in the week to 14 Dec 2025. 2 leaves. Chrome not available. Total 4191."
+  },
+  {
+   "date": "2026-11-21 12:00",
+   "note": "Run 1901 (topics and seasons (New Year's Eve countdowns for kids)): New: parent guides each year list short kids New Year countdown videos that families play early at bedtime (a fake midnight), picking ones with music, no scary ending and no year in the title so they can be reused; this backs our planned party horn countdown song, made year free. 1 leaves. Chrome not available. Total 4192."
   }
  ],
  "history": [
@@ -30904,6 +30911,10 @@
   {
    "date": "2026-11-21 12:00",
    "total": 4191
+  },
+  {
+   "date": "2026-11-21 12:00",
+   "total": 4192
   }
  ],
  "next_week_ideas": [
