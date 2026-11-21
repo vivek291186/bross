@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:00:56+05:30",
- "runs": 1901,
+ "updated": "2026-11-21T12:01:28+05:30",
+ "runs": 1902,
  "branches": [
   {
    "id": "platforms",
@@ -19445,6 +19445,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1900
+    },
+    {
+     "t": "Indonesian schools gave pupils about two weeks off at the end of 2025 for the odd semester break plus Christmas and New Year (for example 22 Dec to 4 Jan in Bali, NTT and NTB, with some provinces off until 10 Jan), and the 2026 break should fall the same way, so Indonesian audio tracks and New Year songs should be live by about 20 Dec.",
+     "src": "detik and Kontan, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1902
     }
    ]
   },
@@ -29439,12 +29446,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 09:42",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1821); see git history."
-  },
-  {
    "date": "2026-11-21 09:43",
-   "note": "Run 1823 (our own results (Metricool Reels 18 to 21 Nov, queue)): No new numbers: Reel stats for 18 to 20 Nov are unchanged since the last check and the 21 Nov Reels (kitty band 10:00, toothbrushing 16:00) are still pending; the queue still ends with the 22 Nov 16:05 Short. Logged that today's 16:00 toothbrushing Reel is the next test of the 'useful lesson gets shared' pattern. Chrome not available. Total 4101."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1822); see git history."
   },
   {
    "date": "2026-11-21 09:44",
@@ -29757,6 +29760,10 @@
   {
    "date": "2026-11-21 12:00",
    "note": "Run 1901 (topics and seasons (New Year's Eve countdowns for kids)): New: parent guides each year list short kids New Year countdown videos that families play early at bedtime (a fake midnight), picking ones with music, no scary ending and no year in the title so they can be reused; this backs our planned party horn countdown song, made year free. 1 leaves. Chrome not available. Total 4192."
+  },
+  {
+   "date": "2026-11-21 12:01",
+   "note": "Run 1902 (global markets (Indonesia and India year end school breaks)): New: Indonesian schools took about two weeks off at the end of 2025 (for example 22 Dec to 4 Jan in Bali and Nusa Tenggara, some provinces until 10 Jan), so Indonesian kids, one of the biggest kids audiences on YouTube, are home over Christmas and New Year; Delhi's 1 to 15 Jan winter break was already filed. 1 leaves. Chrome not available. Total 4193."
   }
  ],
  "history": [
@@ -30915,6 +30922,10 @@
   {
    "date": "2026-11-21 12:00",
    "total": 4192
+  },
+  {
+   "date": "2026-11-21 12:01",
+   "total": 4193
   }
  ],
  "next_week_ideas": [
