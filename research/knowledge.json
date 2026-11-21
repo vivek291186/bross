@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:00:07+05:30",
- "runs": 2202,
+ "updated": "2026-11-21T23:01:20+05:30",
+ "runs": 2203,
  "branches": [
   {
    "id": "platforms",
@@ -10562,6 +10562,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2202
+    },
+    {
+     "t": "Indonesia's NANANA KIDS posted 11,591 videos, mostly repeated song compilations, yet drew only about 137K views in the 28 days to 21 Nov 2026 with zero subscriber growth and its latest upload had 211 views after seven weeks, clear proof that mass posted compilations get buried and quality per song matters more than volume.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2203
     }
    ]
   },
@@ -20859,6 +20866,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2202
+    },
+    {
+     "t": "Indonesia's Keira Charma Fun (1.5M subscribers, 1.45B views from 306 videos) drew about 59M views and 20K subscribers in the 28 days to 21 Nov 2026 with local rhymes, an ABC song, a bus wheels song and a waking up song as its top five (13 to 18M each), so Indonesia rewards a steady, small catalogue of familiar routines and learning songs in the local language.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2203
     }
    ]
   },
@@ -31539,16 +31553,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 19:43",
-   "note": "Summary of 2 older log entries (2026-11-21 19:43 to 2026-11-21 19:43): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 19:43",
-   "note": "Run 2125 (TRENDS (Know Your Meme and Daily Dot check)): Nothing new: the latest meme roundups and kid dance stories found (bedtime stacking, first snow doorbell dances, the preschool dance turned adult trend, the Charlie Brown style party dance) were already filed. 0 leaves. Chrome not available. Total 4418."
-  },
-  {
    "date": "2026-11-21 19:44",
-   "note": "Run 2126 (YouTube algorithm (new channel discovery check)): Nothing new: AIR's kids growth tactics, TubeBuddy's new creator discovery piece (vendor claims, no YouTube data), the Shorts related video link limits on made for kids Shorts and Little Dot's length data were all already filed. 0 leaves. Chrome not available. Total 4418."
+   "note": "Summary of 3 older log entries (2026-11-21 19:43 to 2026-11-21 19:44): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:44",
@@ -31861,6 +31867,10 @@
   {
    "date": "2026-11-21 23:00",
    "note": "Run 2202 follow up: replaced the idea 'Open the Book, Turn the Page!' with a bug rescue squad mission song, backed by KebiKids' insect rescue and animal hospital hits (about 500M views a month)."
+  },
+  {
+   "date": "2026-11-21 23:01",
+   "note": "Run 2203 (global markets (Indonesia kids song channels)): New: Indonesia's Keira Charma Fun earns about 59M views a month from 306 videos with a real child presenter singing local rhymes, ABCs and wake up songs, while NANANA KIDS, which mass posted 11,591 compilation videos, has collapsed to about 137K views a month. 2 leaves. Chrome not available. Total 4494."
   }
  ],
  "history": [
@@ -32575,6 +32585,10 @@
   {
    "date": "2026-11-21 23:00",
    "total": 4492
+  },
+  {
+   "date": "2026-11-21 23:01",
+   "total": 4494
   }
  ],
  "next_week_ideas": [
