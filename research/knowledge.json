@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:57:46+05:30",
- "runs": 1870,
+ "updated": "2026-11-21T11:34:54+05:30",
+ "runs": 1871,
  "branches": [
   {
    "id": "platforms",
@@ -22805,6 +22805,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1860
+    },
+    {
+     "t": "Between 7 and 18 Nov 2026 our YouTube channel averaged about 980 views a day, with the second week (12 to 18 Nov, about 1,050 a day) roughly 20% above the first (7 to 11 Nov, about 870), so daily output is slowly lifting total views even while single new uploads stay small.",
+     "src": "Metricool YouTube, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1871
+    },
+    {
+     "t": "Subscribers moved only from about 2,130 (7 Nov) to 2,150 (20 Nov), about 22 gained and 1 lost, which is roughly one new subscriber per 700 views; made for kids videos hide the notification bell and end screen subscribe prompts, so subscriber count is a weak goal for us and views plus watch time are the numbers to track.",
+     "src": "Metricool YouTube, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1871
+    },
+    {
+     "t": "On 20 Nov 2026 the 10:00 IST circus parade Reel (elephants marching, clowns, a splash) got only 16 views with an 87% skip rate and 1.5 seconds of watch time, while the 16:00 IST car and traffic light Reel got 55 views and 25 shares, so a parade that opens slowly loses on Instagram and a practical lesson that parents can pass on wins shares.",
+     "src": "Metricool Instagram, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1871
     }
    ]
   },
@@ -29110,12 +29131,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 07:51",
-   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
    "date": "2026-11-21 07:57",
-   "note": "Run 1792 (TRENDS (Know Your Meme 6 Nov roundup, Virlo trending topics 15 Nov)): Little new: the 6 Nov meme roundup (W Chews food rating, Bicep Heart) was filed or not kid safe; Virlo's 15 Nov topic list was led by Eurovision Asia 2026 and a playful slime prank at an awards show, which shows music contests and harmless slime gags are what people watched that day. Chrome not available. Total 4076."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1791); see git history."
   },
   {
    "date": "2026-11-21 07:58",
@@ -29428,6 +29445,10 @@
   {
    "date": "2026-11-21 10:57",
    "note": "Run 1870 (rules (AI slop crackdown, made for kids news)): Nothing new: the January 2026 AI slop channel removals (about 4.7B views), the July inauthentic content monetisation update and faceless creator fallout were already filed. No leaves added. End of run: 22 rounds (runs 1849 to 1870), 37 new leaves, 1 trend bank entry added (silent dinner table glances), 4 song ideas added, posting plan test extended (18:00 IST Reel test). Chrome not available. Total 4145."
+  },
+  {
+   "date": "2026-11-21 11:34",
+   "note": "Run 1871 (our results (Metricool YouTube channel trend and 20 Nov Reels)): YouTube grew from 2,130 to 2,150 subscribers between 7 and 20 Nov with about 1 new subscriber per 700 views; daily views rose about 20% week on week; the 20 Nov circus parade Reel (16 views, 87% skip) lost to the car Reel posted the same day. 3 leaves. Chrome not available. Total 4148."
   }
  ],
  "history": [
@@ -30462,6 +30483,10 @@
   {
    "date": "2026-11-21 10:57",
    "total": 4145
+  },
+  {
+   "date": "2026-11-21 11:34",
+   "total": 4148
   }
  ],
  "next_week_ideas": [
