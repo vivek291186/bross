@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:45:23+05:30",
- "runs": 2131,
+ "updated": "2026-11-21T20:51:10+05:30",
+ "runs": 2132,
  "branches": [
   {
    "id": "platforms",
@@ -10408,6 +10408,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2111
+    },
+    {
+     "t": "CoComelon runs a separate 'Dance Party' YouTube channel (started Oct 2022, about 1.24M subscribers and 584 videos) whose videos average about 36 minutes and come out under twice a week, and it was adding roughly 30M views a month in mid 2025, so the biggest kids brand packages its dance songs as long compilations on their own channel; a Bro Bros 'Dance Party' playlist of 30 minute mixes is the same move without a second channel.",
+     "src": "vidIQ (data from Jun 2025)",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2132
+    },
+    {
+     "t": "Ready Set Dance, an Australian show that teaches kids dance routines with learning bits mixed in, has about 935M views from only 419 videos (about 2.2M per video) and 628K subscribers, so step by step 'learn the dance' videos for kids keep earning; a slowed down 'learn the Bros' moves' version of each week's best song fits this demand.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2132
     }
    ]
   },
@@ -31063,12 +31077,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 17:06",
-   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 17:07",
-   "note": "Run 2053 (TRENDS (Virlo November board, 76 trends)): Mostly filed (piggyback flip peaking, wizard cat, bicep heart fading, loading percentage). New: the 'upside down' transition (peaking since late Aug, about 620 creators) where the camera flips upside down and the person is revealed changed; added to the trend bank as a kid safe Christmas pyjama flip. Several November titles are romantic or mean and were skipped. 1 leaves. Chrome not available. Total 4321."
+   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:08",
@@ -31381,6 +31391,10 @@
   {
    "date": "2026-11-21 20:45",
    "note": "Run 2131 (global markets (Poland and Malaysia kids channels)): New: Little Angel's Polish dub channel fell from about 8.4M monthly views (Jan 2026) to 3.5M (Oct) despite four uploads a week, while home grown Bobasy TV still earns about 3.3M views a month from 132 old cat and animal songs with no upload since September; Omar and Hana and HeyKids Polish were already filed. 3 leaves. Chrome not available. Total 4424."
+  },
+  {
+   "date": "2026-11-21 20:51",
+   "note": "Run 2132 (competitor deep dive (dance led kids channels)): New: CoComelon runs a separate Dance Party channel of long dance compilations (about 36 minutes average, under two uploads a week), and Australia's Ready Set Dance, a teach kids to dance show, has about 935M views from 419 videos; data on these is thin (vidIQ figures partly from mid 2025). 2 leaves. Chrome not available. Total 4426."
   }
  ],
  "history": [
@@ -32519,6 +32533,10 @@
   {
    "date": "2026-11-21 20:45",
    "total": 4424
+  },
+  {
+   "date": "2026-11-21 20:51",
+   "total": 4426
   }
  ],
  "next_week_ideas": [
