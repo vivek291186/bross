@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:47:10+05:30",
- "runs": 2161,
+ "updated": "2026-11-21T21:47:34+05:30",
+ "runs": 2162,
  "branches": [
   {
    "id": "platforms",
@@ -31183,11 +31183,7 @@
  "log": [
   {
    "date": "2026-11-21 17:49",
-   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 17:54): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 17:55",
-   "note": "Run 2083 (global markets (MENA YouTube economy)): New: YouTube's 20th anniversary figures for MENA (Apr 2025, data to Dec 2024) show channels earning seven figures in local currency up 40% in Saudi Arabia, 60% in Egypt and 15% in the UAE in a year, over 95% of watch time on UAE made content and over 60% on Egyptian content coming from abroad, and about 12M connected TV users in Saudi Arabia, so an Arabic dub can reach viewers across the whole Arab world, often on the family TV. A vidIQ page for an Arabic kids channel showed no data. 3 leaves. Chrome not available. Total 4370."
+   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 17:55): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:55",
@@ -31500,6 +31496,10 @@
   {
    "date": "2026-11-21 21:47",
    "note": "Run 2161 (YouTube algorithm (Home and subscription feed)): Nothing new: Beaupre's Sep 2026 Creator Insider points (recommendations pulled per viewer, subscriber click rates near 10% are normal, Suggested beats the subscriptions feed, the repeat recommendation cap test) and Joos's Home row analysis were all already filed. 0 leaves. Chrome not available. Total 4441."
+  },
+  {
+   "date": "2026-11-21 21:47",
+   "note": "Run 2162 (Shorts and Reels (platform feature check)): Nothing new: Instagram's 90 minute horizontal Features with up to eight linked Reels, the June 2026 Shorts player changes (2x speed, clear screen, hearts) and Shorts series were already filed. 0 leaves. Chrome not available. Total 4441."
   }
  ],
  "history": [
@@ -32045,6 +32045,10 @@
   },
   {
    "date": "2026-11-21 21:46",
+   "total": 4441
+  },
+  {
+   "date": "2026-11-21 21:47",
    "total": 4441
   },
   {
