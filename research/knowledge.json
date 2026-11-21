@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:49:29+05:30",
- "runs": 2023,
+ "updated": "2026-11-21T16:36:02+05:30",
+ "runs": 2024,
  "branches": [
   {
    "id": "platforms",
@@ -19816,6 +19816,41 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2012
+    },
+    {
+     "t": "A two year UC Davis study of 289 South Korean families (Tubefilter, Aug 2026) found that parents setting firm limits or watching together cut children's YouTube time, and all parent strategies raised the share of educational viewing, so songs that teach something and invite a grown up to sing along fit how Korean parents steer viewing.",
+     "src": "Tubefilter, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2024
+    },
+    {
+     "t": "New Zealand's public funder NZ On Air launched its own kids YouTube channels, KIDOGO and KIDOGO Junior, because three quarters of caregivers could not name a local show their child loves; public broadcasters are now competing directly with creators on YouTube for preschool viewing.",
+     "src": "RNZ (NZ On Air), 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2024
+    },
+    {
+     "t": "In NZ On Air's survey of about 1,000 caregivers, preschoolers' favourite shows were Bluey (38%), Paw Patrol (25%) and Spidey and his Amazing Friends (16%), and about 40% of 12 to 14 year olds had no parental controls; family comedy, rescue teams and friend groups are the story shapes small children in English speaking markets pick.",
+     "src": "RNZ (NZ On Air), 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2024
+    },
+    {
+     "t": "AIR's data from over 400 localised channels (updated Sep 2026) claims AI only voice tracks keep viewers 4 to 10 times less than professionally voiced ones; in one Italian kids channel the human tracks held 5 to 6 minutes while the AI English track held under 1 minute, so for songs we should re sing dubs in Suno rather than rely on auto dubbing.",
+     "src": "air.io, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2024
+    },
+    {
+     "t": "On a Spanish channel AIR studied (DenLion), the original Spanish audio still drew about 61% of views while AI tracks in English, Arabic, French and Italian drew 19%, 4%, 1% and under 1%, so extra language tracks add a modest second audience, with English and Arabic the most rewarding after the original.",
+     "src": "air.io, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2024
     }
    ]
   },
@@ -30055,12 +30090,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 12:37",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:05",
-   "note": "Run 1945 (YouTube main and Kids (vidIQ snapshots of mid sized nursery channels; trends skipped as already empty this run)): New: three mid sized nursery channels show the same pattern: their biggest videos are years old job, vehicle and counting songs (a doctor song 23.7M, a police car song 20.4M, numbers with fruit 29M) while new uploads get only 1K to 4K views, and a 792K channel's best recent hits were a seasonal Halloween song (80K) and a quirky Short (84K), so evergreen job and vehicle songs build the catalogue while seasonal pieces bring short bursts. 2 leaves. Chrome not available. Total 4231."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:06",
@@ -30373,6 +30404,10 @@
   {
    "date": "2026-11-21 15:49",
    "note": "Run 2023 (posting times (Metricool grid 23 to 29 Nov)): Nothing new: Metricool's 23 to 29 Nov grid repeats the filed pattern (YouTube top at 16:00 IST every day, Wednesday and Thursday strongest at about 12K, weekends about half; Instagram top at 10:00 with a second rise at 18:00), so posting slots stay unchanged. End of run: 21 rounds (runs 2003 to 2023), 23 new leaves, 2 trend bank entries added (Say the word on beat, Get up shake it off), 2 faded entries dropped (Bro's day in stats, Meanwhile btw), no song ideas added, posting slots unchanged. Page not published (artifact tools not available this run). 0 leaves. Chrome not available. Total 4280."
+  },
+  {
+   "date": "2026-11-21 16:36",
+   "note": "Run 2024 (global markets (South Korea, New Zealand, dubbing quality)): New: a UC Davis two year study of 289 Korean families found hard limits and co viewing cut kids' screen time and every parent strategy raised educational viewing, so a 'watch with your grown up' learning angle suits Korean parents; NZ On Air now runs its own KIDOGO and KIDOGO Junior YouTube channels and NZ preschool favourites are Bluey 38%, Paw Patrol 25%, Spidey 16%; AIR's 400 channel data says AI only dubs hold viewers far less than human sung or voiced tracks, worst for kids content. 5 leaves. Chrome not available. Total 4285."
   }
  ],
  "history": [
@@ -31079,6 +31114,10 @@
   {
    "date": "2026-11-21 15:49",
    "total": 4280
+  },
+  {
+   "date": "2026-11-21 16:36",
+   "total": 4285
   }
  ],
  "next_week_ideas": [
