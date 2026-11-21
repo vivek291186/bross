@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:42:39+05:30",
- "runs": 2216,
+ "updated": "2026-11-21T23:43:30+05:30",
+ "runs": 2217,
  "branches": [
   {
    "id": "platforms",
@@ -10590,6 +10590,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2204
+    },
+    {
+     "t": "Lucas and Friends (US, 3.15M subscribers, only 199 videos) gained about 88M views and 50K subscribers in the 28 days to 21 Nov 2026 without any new upload since 17 Oct, carried by plain learning videos near 100M views each (ABC flashcards, 'what colour is it', counting 1 to 20, feelings and emotions), proof that a small evergreen library of core preschool topics keeps earning for years.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2217
+    },
+    {
+     "t": "123kidstv (285K subscribers, 28 videos, no upload since Nov 2025) still makes about 400K views a month mostly from a 2022 wooden toy shapes video (22.9M) and a 1 to 100 counting song (6.4M), while its last ABC upload had about 7K views in 11 months, so a stalled channel's new videos get almost no push; steady daily uploads are what keep Bro Bros in the recommendation loop.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2217
     }
    ]
   },
@@ -17471,6 +17485,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2208
+    },
+    {
+     "t": "A 'learn feelings and emotions' video (happy, sad, fear, anger, surprise) has about 71M views on Lucas and Friends, beside ABC, colours and counting near 100M, so a Bro Bros feelings song where the brothers act out each emotion with a dance move belongs in our evergreen core set.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2217
     }
    ]
   },
@@ -31659,11 +31680,7 @@
  "log": [
   {
    "date": "2026-11-21 20:51",
-   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:56): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 20:57",
-   "note": "Run 2141 (visual craft (gaze, video deficit, animation style)): New: a study of 176 toddlers found 2 and 2.5 year olds learned a new word from a live, responsive adult but not from video, even when the on screen person used their name and eye contact, so our learning songs for under 3s should be built for a parent watching alongside (simple point and say moments). 1 leaves. Chrome not available. Total 4427."
+   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:57): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 20:58",
@@ -31976,6 +31993,10 @@
   {
    "date": "2026-11-21 23:42",
    "note": "Run 2216 (global markets (Ukraine dubbed channel, Bangla)): Small addition: Kids Tv Ukraine, a dubbed nursery channel with 1.28M subscribers, gained about 7.2M views in October but vidIQ models only a few hundred dollars a fortnight, and its 18 Nov Wheels on the Bus Short had 1.4K views in two days; Ukraine language data and Bangla channels were already filed or stale. 1 leaves. Chrome not available. Total 4509."
+  },
+  {
+   "date": "2026-11-21 23:43",
+   "note": "Run 2217 (competitor deep dive (Lucas and Friends, 123kidstv)): New: Lucas and Friends, an app maker's learning channel, gets about 88M views in 28 days and 50K new subscribers from only 199 videos and no upload since 17 Oct, carried by flashcard style ABC, colours, numbers and feelings videos near 100M each; a 28 video counting channel that stopped uploading now gets about 400K views a month. 3 leaves. Chrome not available. Total 4512."
   }
  ],
  "history": [
@@ -32746,6 +32767,10 @@
   {
    "date": "2026-11-21 23:42",
    "total": 4509
+  },
+  {
+   "date": "2026-11-21 23:43",
+   "total": 4512
   }
  ],
  "next_week_ideas": [
