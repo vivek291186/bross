@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:42:33+05:30",
- "runs": 1877,
+ "updated": "2026-11-21T11:43:28+05:30",
+ "runs": 1878,
  "branches": [
   {
    "id": "platforms",
@@ -29196,6 +29196,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1875
+    },
+    {
+     "t": "Later's 20 Nov 2026 Reels pick is 'Dear Santa': creators open with 'Dear Santa, I'm a size ...' and end on what they want under the tree, so a kid version where Little Bro measures himself against the door frame ('Dear Santa, I'm this tall now') and wishes for something kind is a ready December Reel with our own jingle.",
+     "src": "Later, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1878
+    },
+    {
+     "t": "SocialPilot's 17 to 25 Nov 2026 Reels list shows a gentle instrumental used for slow Christmas market and shop walkthroughs rising from about 72K to 89K Reels in three days, next to big licensed Christmas pop at peak (about 0.9M and 1.8M Reels), so calm cosy walkthroughs of a decorated set are in demand; a slow Bro Bros Christmas village walk with our own soft music fits.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1878
     }
    ]
   }
@@ -29223,11 +29237,7 @@
  "log": [
   {
    "date": "2026-11-21 08:01",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1797); see git history."
-  },
-  {
-   "date": "2026-11-21 08:01",
-   "note": "Run 1799 (YouTube channels (Tubefilter most viewed, 9 to 15 Nov)): Nothing new: the week's family channels (Sierra and Rhia, Cadel and Mia, Diary of 4, Koko and Golu, Keizo and Friends, Nabel Dan Mama), the new No. 1 Fitu K Kitu and 42 of 50 channels being mainly Shorts were already filed. Rules and own results focuses skipped as they found nothing in the last 6 rounds. No leaves added. Chrome not available. Total 4085."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1798); see git history."
   },
   {
    "date": "2026-11-21 08:02",
@@ -29540,6 +29550,10 @@
   {
    "date": "2026-11-21 11:42",
    "note": "Run 1877 (visual craft (YouTube animation report, calm animation claims)): YouTube's animation report says half of animation fans watch series in other languages and hit indie series carry subtitles in about 18 languages and dubbed audio in about 21; the studio blog claiming calm animation is the fastest growing kids niche gives no data, so it stays unproven. 3 leaves. Chrome not available. Total 4161."
+  },
+  {
+   "date": "2026-11-21 11:43",
+   "note": "Run 1878 (TRENDS (Later 20 Nov, SocialPilot 17 to 25 Nov)): New: Later's 20 Nov pick 'Dear Santa, I'm a size...' turns a wish list into a Reel, and a calm 'Christmas market' walkthrough instrumental is rising on Reels (about 89K, up from 72K in three days); added a Dear Santa height and wish Reel to the trend bank. 2 leaves. Chrome not available. Total 4163."
   }
  ],
  "history": [
@@ -30602,6 +30616,10 @@
   {
    "date": "2026-11-21 11:42",
    "total": 4161
+  },
+  {
+   "date": "2026-11-21 11:43",
+   "total": 4163
   }
  ],
  "next_week_ideas": [
@@ -30663,6 +30681,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Dear Santa, I'm this tall",
+   "where": "Instagram Reels, TikTok, YouTube Shorts (late Nov to 24 Dec)",
+   "status": "rising",
+   "use": "Little Bro stands against the door frame while Big Bro marks his height, then he reads a crayon letter to camera: 'Dear Santa, I'm THIS tall now, I shared my toys, I brushed my teeth...' and ends with a kind wish (a present for his brother). Cut to Big Bro writing his own letter with a funny twist. Our own jingle, never the licensed Christmas pop. Meshy step: standing tall on tiptoes with one hand flat on the head, then a little two step sway holding a letter with both hands."
+  },
   {
    "name": "Secret Santa swap reveal",
    "where": "YouTube long form and Shorts, TikTok, Reels (December)",
@@ -30776,12 +30800,6 @@
    "where": "TikTok and Reels transition ('cover then come back'), Nov 2026",
    "status": "rising",
    "use": "A 10 second Reel: Big Bro holds a hand up to the camera covering the view, then pulls it away to show the bare room now fully decorated and both Bros in matching festive hats dancing to our own song. Meshy prompt: standing in place, raise right hand toward camera and hold, then lower it and do a big two arm wave and happy bounce in place."
-  },
-  {
-   "name": "Advent door a day",
-   "where": "YouTube Shorts and Reels daily December series (Vlogmas, Shortsmas), 1 to 24 Dec",
-   "status": "seasonal",
-   "use": "From 1 Dec post one 15 second Short a day: a big wooden advent calendar, the Bros count 'one, two, three, open!' and a door pops open to show a soft squishy toy we invent (a snow bunny, a jam donut bear) plus one new dance step from our own Christmas song. Steps for Meshy: standing, knock knock on the air twice with one fist, then pull an imaginary door open with both hands and jump in place with arms up. On 24 Dec post the full song with all 24 steps as one dance."
   }
  ],
  "posting_plan": {
