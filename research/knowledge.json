@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:47:45+05:30",
- "runs": 2032,
+ "updated": "2026-11-21T16:48:58+05:30",
+ "runs": 2033,
  "branches": [
   {
    "id": "platforms",
@@ -12697,6 +12697,34 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2021
+    },
+    {
+     "t": "The Happy Song, written by Imogen Heap in 2016 with psychologists Caspar Addyman and Lauren Stewart to make babies smile, passed about 470M Spotify streams by its 10th anniversary (Oct 2026), proof that a research based baby song can be a decade long evergreen.",
+     "src": "CNN via East Idaho News, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2033
+    },
+    {
+     "t": "The Happy Song's research recipe: a major key, a repeated melody, drum rolls and rising pitch slides that build anticipation before a surprise, animal sounds and other children's laughter (a parent survey of over 2,000 named both), and an opening baby laugh; we can put a rising slide plus drum roll before every 'boom' moment in our baby songs.",
+     "src": "CNN via East Idaho News, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2033
+    },
+    {
+     "t": "When The Happy Song's team tested four melodies on 26 babies aged 6 to 12 months, about 80% preferred one tune, and of two tempos the slightly slower version won, against the team's guess that faster would be better, so for baby songs we should not push tempo up for its own sake.",
+     "src": "CNN via East Idaho News, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2033
+    },
+    {
+     "t": "Caspar Addyman advises that plosive syllables such as 'ba' and 'pa' are easier for babies to say than 'la' type sounds, and that baby songs work best when they do not talk down to babies and keep a little fun for parents; so our baby hooks should use 'ba ba boom' or 'pa pa pop' rather than only 'la la'.",
+     "src": "CNN via East Idaho News, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2033
     }
    ]
   },
@@ -30139,12 +30167,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:36",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:43",
-   "note": "Run 1954 (TRENDS (Virlo weekly, 16 to 21 Nov)): New: the freshest family safe format is 'POV: you're the villain but...' (first seen 7 Oct, but 111 creators in the last 7 days, peak 18 Nov, 137M views): a dramatic villain monologue in a swivel chair is broken by a small relatable mishap; 'Ding Ding Ding candy match 3' (hands sliding candy in a grid to a beat) is already archived. Other new weekly sounds are GTA VI themed and not for kids. Added 'Villain chair, oops!' to the trend bank. 3 leaves. Chrome not available. Total 4240."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:43",
@@ -30457,6 +30481,10 @@
   {
    "date": "2026-11-21 16:47",
    "note": "Run 2032 (TRENDS (SocialPilot 17 to 25 Nov, Later 20 Nov)): Nothing new: Same Spot Years Apart, You Paid Me No Mind, the ILLIT arrest hook pass, the camera shy pet, Dear Santa I'm a size, Get up diva, Blue Danube chores ballet and the instrumental Christmas Market sound were all already filed or in the trend bank. 0 leaves. Chrome not available. Total 4292."
+  },
+  {
+   "date": "2026-11-21 16:48",
+   "note": "Run 2033 (music craft (The Happy Song research)): New: The Happy Song (Imogen Heap with psychologists Caspar Addyman and Lauren Stewart, 2016) passed 470M Spotify streams by its 10th anniversary in Oct 2026; its recipe was a major key, repeated melody, drum rolls, rising pitch slides before surprises, animal sounds and other children's laughter, plosive 'ba' and 'pa' syllables, about 2.5 minutes, and in a test with 26 babies the slightly slower tempo beat the faster one. Added a baby giggle song idea. 4 leaves. Chrome not available. Total 4296."
   }
  ],
  "history": [
@@ -31199,9 +31227,17 @@
   {
    "date": "2026-11-21 16:47",
    "total": 4292
+  },
+  {
+   "date": "2026-11-21 16:48",
+   "total": 4296
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Ba Ba Boom! (Baby Giggle Surprise Song)",
+   "why": "Built on The Happy Song research (470M streams): major key, a rising slide and drum roll before each 'BOOM' surprise, animal sounds and a real sounding kid giggle, easy 'ba' and 'pa' syllables, slightly slower tempo and about 2.5 minutes; the Bros do a slow tiptoe build then a happy star jump on each boom."
+  },
   {
    "title": "Here Comes the Garbage Truck! (Stomp, Lift and Dump Recycling Dance Song)",
    "why": "Working vehicle songs with a shout back chorus keep charting (Danny Go!'s garbage truck song in the iTunes kids top 15) and become evergreen job songs that get suggested for years."
@@ -31253,10 +31289,6 @@
   {
    "title": "Vroom Vroom Vacuum! (Clean Up Helper Song)",
    "why": "A kids 'vacuum cleaner song' Short and a morning tooth brushing song both sit in this week's worldwide top 30 YouTube videos (about 81M and 86M views in a week, TubeStats 20 Nov 2026): household machines and routines are huge for toddlers. The Bros push a friendly vacuum that hums a tune, sucks up toy blocks in rhythm and 'burps' them into the toy box; a stop and go freeze when it switches off."
-  },
-  {
-   "title": "Knock Knock, Who's There at Christmas? (Guess the Friend Song)",
-   "why": "Moonbug's best Christmas song on its compilation channel is a simple 'who's at the door' guessing game (about 6.3M views), and disguised gift guessing is trending now; each verse a knock, a sung clue, then the door opens on a friend (a penguin, a snowman, Grandma). Standing moves: knock knock with one fist on two beats, hand to ear, then jump and wave on the reveal."
   }
  ],
  "trend_bank": [
