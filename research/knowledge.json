@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:47:27+05:30",
- "runs": 2191,
+ "updated": "2026-11-21T22:48:31+05:30",
+ "runs": 2192,
  "branches": [
   {
    "id": "platforms",
@@ -10548,6 +10548,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2187
+    },
+    {
+     "t": "Umi Uzi, an English nursery rhyme channel with 792K subscribers and 1,062 videos, made only about 2.8M views in 28 days and none of its 48 newest uploads passed about 84K views (a brain food Short, a peekaboo song, a zombie town Halloween song), showing that a large generic rhyme catalogue no longer guarantees reach for each new song without a distinctive brand.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2192
     }
    ]
   },
@@ -20775,6 +20782,20 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2191
+    },
+    {
+     "t": "Japan's Uta Sta kids song channel (786K subscribers, 1.24B views) drew about 10M views in the 28 days to 21 Nov 2026, and its biggest video is a 20 minute vehicle song medley (26.7M) followed by covers of public TV children's songs and a 'what vehicle is this?' quiz song (6.1M), so in Japan vehicles plus a quiz plus a long medley is the safest entry, while local TV song covers we cannot use make up much of the rest.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2192
+    },
+    {
+     "t": "The Japanese dub of a toy train cartoon channel (121K subscribers, 719 videos) drew only about 0.37M views in 28 days and its biggest video is an English Christmas ABC song (3.5M), so a straight Japanese dub of a generic Western catalogue earns little; Japan needs native sounding songs or English learning angles.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2192
     }
    ]
   },
@@ -31455,12 +31476,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 19:05",
-   "note": "Summary of 2 older log entries (2026-11-21 19:04 to 2026-11-21 19:05): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 19:35",
-   "note": "Run 2113 (TRENDS (weekly recheck)): New detail: Virlo's Thank You Baby Dance page on 21 Nov 2026 still shows a small trickle (5 new creators in 7 days, up from 2) after about 315M views, while Later's 20 Nov Reels roundup and Virlo's November board hold no format that is not already filed. 1 leaves. Chrome not available. Total 4413."
+   "note": "Summary of 2 older log entries (2026-11-21 19:05 to 2026-11-21 19:35): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:36",
@@ -31773,6 +31790,10 @@
   {
    "date": "2026-11-21 22:47",
    "note": "Run 2191 (global markets (Germany kids song channels)): New: Germany's original song channel Sing mit mir pulls about 66M views a month from 654 videos (vehicle mixes, a silly dog poop song, a catch your foot game song), almost 19 times the German dub of the world's biggest nursery rhyme brand; a German dance song channel's family warm up video reached 4.4M in ten months. 3 leaves. Chrome not available. Total 4480."
+  },
+  {
+   "date": "2026-11-21 22:48",
+   "note": "Run 2192 (competitor deep dive (Japan song channels and a small English rhymes channel)): New: Japan's Uta Sta covers channel lives on a 20 minute vehicle song medley (26.7M) and a vehicle quiz song; the Japanese dub of a train cartoon makes only about 0.37M views a month; a 1,000 video English rhymes channel tops out near 80K views per new upload. 3 leaves. Chrome not available. Total 4483."
   }
  ],
  "history": [
@@ -32443,6 +32464,10 @@
   {
    "date": "2026-11-21 22:47",
    "total": 4480
+  },
+  {
+   "date": "2026-11-21 22:48",
+   "total": 4483
   }
  ],
  "next_week_ideas": [
