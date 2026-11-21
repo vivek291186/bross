@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:45:25+05:30",
- "runs": 2219,
+ "updated": "2026-11-21T23:46:14+05:30",
+ "runs": 2220,
  "branches": [
   {
    "id": "platforms",
@@ -10604,6 +10604,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2217
+    },
+    {
+     "t": "In the fastest growing chart for 24 Oct to 21 Nov 2026 the Argentine Spanish channel El Reino Infantil gained about 503M views (100K subscribers), more than Super Simple Songs (494M), Pinkfong's Baby Shark channel (409M) and LooLoo Kids (400M), so Spanish is the one language where a single kids music channel matches the English giants, which backs Spanish as our first dub.",
+     "src": "aifreeforever (YouTube growth chart), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2220
     }
    ]
   },
@@ -31687,11 +31694,7 @@
  "log": [
   {
    "date": "2026-11-21 20:51",
-   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:59): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 21:00",
-   "note": "Run 2144 (competitor deep dive (CoComelon compilation channel, Lellobee Spanish)): New: the 'Happy Kids!' channel that reposts CoComelon songs (9.13M subscribers, about 36M views a month, six uploads a week) is still led by 2021 to 2022 classic song videos of 230M to 430M views each, though its views fell 11% in two weeks; Lellobee Spanish was already filed. 1 leaves. Chrome not available. Total 4432."
+   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 21:00): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 21:01",
@@ -32004,6 +32007,10 @@
   {
    "date": "2026-11-21 23:45",
    "note": "Run 2219 (other platforms (Netflix kids report, Roblox dance games; own results skipped, Metricool rechecked at 23:03)): Nothing new: Horgan's Netflix kids report (PAW Patrol 344M hours, CoComelon down 30% and moving to Disney+, Sesame Street's Netflix start) and KIDZ BOP's Roblox deal were already filed; a Roblox dance roleplay game had almost no players. 0 leaves. Chrome not available. Total 4513."
+  },
+  {
+   "date": "2026-11-21 23:46",
+   "note": "Run 2220 (YouTube kids channels (fastest growing chart, 24 Oct to 21 Nov)): Small addition: in the 28 days to 21 Nov the Spanish language El Reino Infantil out gained every English nursery channel in views (about 503M, ahead of Super Simple 494M, Pinkfong 409M and LooLoo 400M); the rest of the chart was already filed. Own results skipped (Metricool checked at 23:03). 1 leaves. Chrome not available. Total 4514."
   }
  ],
  "history": [
@@ -32786,6 +32793,10 @@
   {
    "date": "2026-11-21 23:45",
    "total": 4513
+  },
+  {
+   "date": "2026-11-21 23:46",
+   "total": 4514
   }
  ],
  "next_week_ideas": [
