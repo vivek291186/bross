@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T03:35:37+05:30",
- "runs": 2280,
+ "updated": "2026-11-22T03:42:37+05:30",
+ "runs": 2281,
  "branches": [
   {
    "id": "platforms",
@@ -31961,6 +31961,27 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2274
+    },
+    {
+     "t": "Virlo's week of 16 Nov 2026 shows 'Boom Clap Confetti Pop' with 172 new TikTok posts against 35 the week before (up 391%), the only clearly family safe format still accelerating, while the villain POV grew to 89 posts (up 424%) and couple montages and partying jokes fill the rest of the top 8.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2281
+    },
+    {
+     "t": "Across the hooks Virlo classified on TikTok, a POV setup ('POV: you are...') has the best hit rate at about 33% of videos breaking out, while a bold claim is the most used hook (about 22% of 1.26M tagged TikToks), so a 'POV: you are Little Bro and...' text opener is worth testing on our Shorts and Reels.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2281
+    },
+    {
+     "t": "Searches for new Christmas classroom dance challenges on 22 Nov 2026 return only old items (the foot shake partner tap from 2018 to 2019, last year's guides), so no new kid dance challenge for this Christmas has broken out yet and our own seasonal routines can still be early.",
+     "src": "Tes and web search, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2281
     }
    ]
   }
@@ -31987,12 +32008,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 23:00",
-   "note": "Summary of 2 earlier log entries (2026-11-21 23:00 to 2026-11-21 23:00): mostly small research rounds; see git history for details."
-  },
-  {
    "date": "2026-11-21 23:01",
-   "note": "Run 2203 (global markets (Indonesia kids song channels)): New: Indonesia's Keira Charma Fun earns about 59M views a month from 306 videos with local rhymes, ABCs and wake up songs, while NANANA KIDS, which mass posted 11,591 compilation videos, has collapsed to about 137K views a month. 2 leaves. Chrome not available. Total 4494."
+   "note": "Summary of 2 earlier log entries (2026-11-21 23:00 to 2026-11-21 23:01): mostly small research rounds; see git history for details."
   },
   {
    "date": "2026-11-21 23:02",
@@ -32305,6 +32322,10 @@
   {
    "date": "2026-11-22 03:35",
    "note": "Run 2280 (our own results (Metricool YouTube 14 to 21 Nov, queue check)): New: the Moo Moo Farm Band video jumped from 63 to 1,132 views in about two days and is now our top long video with Roly Poly Tomato (1,047); across 14 to 19 Nov our 10:00 IST long videos averaged about 580 views vs about 300 for the 16:00 IST ones; our Shorts stay tiny (2 to 24 views each); the queue for 23 to 29 Nov is still empty. No slot change yet. 4 leaves. Chrome not available. Total 4556."
+  },
+  {
+   "date": "2026-11-22 03:42",
+   "note": "Run 2281 (TRENDS (Virlo week of 16 Nov, Nov board, holiday dance searches)): Small addition: Boom Clap Confetti Pop is the only family safe TikTok format still accelerating (172 posts this week vs 35, up 391%) and joins the trend bank in place of the four corners turn; Virlo also finds POV openings have the best hit rate of all hook types; everything else (villain POV, piggyback flip, pick your favourite, GTA sounds) was already filed. 3 leaves. Chrome not available. Total 4559."
   }
  ],
  "history": [
@@ -33331,6 +33352,10 @@
   {
    "date": "2026-11-22 03:35",
    "total": 4556
+  },
+  {
+   "date": "2026-11-22 03:42",
+   "total": 4559
   }
  ],
  "next_week_ideas": [
@@ -33399,6 +33424,12 @@
    "use": "Our own bouncy song with a one word chant chorus (for example 'Bounce, bounce, ay ay ay!'). Big Bro, Little Bro and two friends stand in a row facing the camera; on each beat of the chorus they bounce both shoulders up and down twice, then turn the head left on 'ay', right on 'ay', front on 'ay', and repeat. Meshy prompt: a cartoon boy standing in place, feet still, bouncing both shoulders up and down to a fast beat, small smile, arms relaxed at the sides. 10 to 15 second Short ending with the whole row freezing with shoulders up and a big grin."
   },
   {
+   "name": "Boom Clap Confetti Pop",
+   "where": "TikTok (fastest growing family safe format, week of 16 Nov 2026), Reels, Shorts",
+   "status": "rising",
+   "use": "A 10 second Short to our own party chorus with a clear 'boom, clap, POP!' count: Big Bro and Little Bro stand side by side, stomp once on 'boom', clap once on 'clap', then pull a giant cartoon party popper on 'POP' and confetti fills the screen exactly on the beat; second loop is a funny fail where Little Bro's popper shoots confetti into Big Bro's face and both laugh. Meshy steps: standing in place, stomp one foot, clap hands once in front of the chest, then both arms shoot up and out wide with a small jump in place."
+  },
+  {
    "name": "Spell it with the Bros (body letters)",
    "where": "Instagram Reels and YouTube Shorts",
    "status": "rising",
@@ -33451,12 +33482,6 @@
    "where": "TikTok, Reels (peaking since late Aug 2026)",
    "status": "peak",
    "use": "Little Bro stands in everyday clothes and says 'Ready?'; the Blender camera rolls 180 degrees in half a second, holds upside down for one beat, then rolls back and both Bros are in matching Christmas pyjamas striking a star pose. Meshy prompt: standing in place, small bounce, then raise both arms out in a star shape. Put it on the first downbeat of our own song."
-  },
-  {
-   "name": "Four corners turn, then free dance",
-   "where": "TikTok Japan (evergreen, revived song trend)",
-   "status": "evergreen",
-   "use": "Each Bro faces the camera and on every beat makes a quarter turn (front, side, back, side), clapping once at each corner, then on the drop both dance freely and end facing the camera with a thumbs up. Meshy prompt: standing in place, turn 90 degrees to the right and clap, repeat four times, then bounce side to side with arms waving. Use our own 'Turn, Turn, Clap!' song in Suno."
   },
   {
    "name": "Get up, shake it off!",
