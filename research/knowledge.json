@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:51:27+05:30",
- "runs": 1968,
+ "updated": "2026-11-21T13:52:09+05:30",
+ "runs": 1969,
  "branches": [
   {
    "id": "platforms",
@@ -29824,12 +29824,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 11:51",
-   "note": "Earlier: older log entries summarised (runs up to 1889); see git history."
-  },
-  {
    "date": "2026-11-21 11:52",
-   "note": "Run 1890 (topics and seasons (school holidays in South Africa and the Philippines)): New: South African public schools close on 11 Dec 2026 and reopen on 13 Jan 2027 (a summer holiday of about a month), and the Philippines' new three term year breaks for Christmas after early December and resumes in January, so both big English friendly markets have kids home through late December. 2 leaves. Chrome not available. Total 4177."
+   "note": "Earlier: older log entries summarised (runs up to 1890); see git history."
   },
   {
    "date": "2026-11-21 11:53",
@@ -30142,6 +30138,10 @@
   {
    "date": "2026-11-21 13:51",
    "note": "Run 1968 (our results (YouTube uploads 19 to 21 Nov)): Nothing new: Metricool lists only the 19 Nov farm band video in the range and still has no view figures for uploads after 19 Nov. No leaves added. 0 leaves. Chrome not available. Total 4247."
+  },
+  {
+   "date": "2026-11-21 13:52",
+   "note": "Run 1969 (TRENDS (YouTube holiday formats, weekly Reels lists)): Nothing new: YouTube's holiday report (advent calendar views by month, wishlists, Secret Santa challenges, Vlogmas, What I got for Christmas) and the SocialPilot and SocialBee Reels audio lists to 25 Nov were already filed. No leaves added. 0 leaves. Chrome not available. Total 4247."
   }
  ],
  "history": [
@@ -30627,6 +30627,10 @@
   },
   {
    "date": "2026-11-21 13:51",
+   "total": 4247
+  },
+  {
+   "date": "2026-11-21 13:52",
    "total": 4247
   }
  ],
