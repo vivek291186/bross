@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:36:59+05:30",
- "runs": 2114,
+ "updated": "2026-11-21T19:37:31+05:30",
+ "runs": 2115,
  "branches": [
   {
    "id": "platforms",
@@ -30993,12 +30993,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 16:50",
-   "note": "Summary of 2 older log entries (2026-11-21 16:49 to 2026-11-21 16:50): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 16:51",
-   "note": "Run 2036 (global markets (Mexico and Brazil)): New: Kidscorp's Top Brands U18s survey (over 1,000 Mexican 3 to 18 year olds, Apr 2026) ranks YouTube first (7.3%) ahead of Disney, Roblox, Nike and Minecraft, with entertainment the top brand type for 3 to 5 year olds; BBC Brasil (Jul 2026) found AI made kids songs with muddled, mixed language lyrics surfacing within about 15 minutes of Shorts, so clear, single language lyrics are a trust signal for Brazilian parents. 3 leaves. Chrome not available. Total 4303."
+   "note": "Summary of 2 older log entries (2026-11-21 16:50 to 2026-11-21 16:51): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:52",
@@ -31311,6 +31307,10 @@
   {
    "date": "2026-11-21 19:36",
    "note": "Run 2114 (YouTube algorithm (November changes check)): New: YouTube's API changelog (15 Oct 2026) added image comments, with pictures and GIFs in comments rolling out to everyone through November and voice comments on TV; AIR's change log (4 Nov) still shows no November ranking change, already filed. 1 leaves. Chrome not available. Total 4414."
+  },
+  {
+   "date": "2026-11-21 19:37",
+   "note": "Run 2115 (Shorts and Reels (Instagram features and Reels data check)): Nothing new: Instagram's Your Algorithm rollout, Features horizontal video, Edits audio links, First Draft and the Socialinsider and Buffer Reels length studies were all already filed; Tubefilter's next weekly chart is not out yet. 0 leaves. Chrome not available. Total 4414."
   }
  ],
  "history": [
@@ -32380,6 +32380,10 @@
   },
   {
    "date": "2026-11-21 19:36",
+   "total": 4414
+  },
+  {
+   "date": "2026-11-21 19:37",
    "total": 4414
   }
  ],
