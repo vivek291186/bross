@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:38:59+05:30",
- "runs": 2247,
+ "updated": "2026-11-22T01:40:20+05:30",
+ "runs": 2249,
  "branches": [
   {
    "id": "platforms",
@@ -13376,6 +13376,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2213
+    },
+    {
+     "t": "A University of Verona trial with 108 Italian children (Early Childhood Education Journal, 2026) found eight weekly 45 minute Orff style sessions of singing, moving and body percussion (claps, pats, stomps) improved rhythm copying in both 2 and 4 year olds and self control speed in 4 year olds, but not vocabulary; this was live training, not screen media, so it supports clap and stomp call and response sections in our songs more than word lists.",
+     "src": "Early Childhood Education Journal (Univ. of Verona), 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2249
     }
    ]
   },
@@ -31812,16 +31819,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:35",
-   "note": "Summary of 2 older runs (2026-11-21 21:53 to 2026-11-21 22:35): see git history for details."
-  },
-  {
-   "date": "2026-11-21 22:36",
-   "note": "Run 2172 (TRENDS (weekly roundup recheck)): Nothing new: Virlo's 21 Nov board (couple montage, partying formats, Boom Clap confetti pop), Fabulate's November TikTok list and the 'It's time' and Christmas dance formats were all already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4457."
-  },
-  {
    "date": "2026-11-21 22:37",
-   "note": "Run 2173 (YouTube algorithm (November change log recheck)): Nothing new: AIR's and OutlierKit's 2026 change logs (updated 3 and 4 Nov) still end on 29 Oct (the spam 30 day lock test), and custom AI feeds, the original Shorts priority and the Dublin summit points were already filed. 0 leaves. Chrome not available. Total 4457."
+   "note": "Summary of 2 older runs (2026-11-21 22:36 to 2026-11-21 22:37): see git history for details."
   },
   {
    "date": "2026-11-21 22:37",
@@ -32130,6 +32129,14 @@
   {
    "date": "2026-11-22 01:38",
    "note": "Run 2247 (Shorts and Reels (Instagram feed control, Shorts features)): Nothing new: Instagram's Your Algorithm rollout, Shorts 2x speed and clean mode, Shorts series and the end of Reels series links were all already filed. 0 leaves. Chrome not available. Total 4531."
+  },
+  {
+   "date": "2026-11-22 01:39",
+   "note": "Run 2248 (TRENDS (Christmas TikTok, Know Your Meme, Daily Dot recheck)): Nothing new: NewEngen's Christmas list, the Remember November polar bear, the squirrel tornado wave, the It is very important and alligator formats were already filed; a toy seller's Christmas TikTok piece had no data. Trend bank unchanged. 0 leaves. Chrome not available. Total 4531."
+  },
+  {
+   "date": "2026-11-22 01:40",
+   "note": "Run 2249 (music craft (Italian toddler rhythm study)): New: a University of Verona trial (Early Childhood Education Journal, accepted May 2026) found eight weekly Orff style sessions of singing, movement and body percussion improved rhythm copying at ages 2 and 4 and self control speed at 4, but not vocabulary; Suno v5.5 features were already filed. 1 leaves. Chrome not available. Total 4532."
   }
  ],
  "history": [
@@ -33024,6 +33031,14 @@
   {
    "date": "2026-11-22 01:38",
    "total": 4531
+  },
+  {
+   "date": "2026-11-22 01:39",
+   "total": 4531
+  },
+  {
+   "date": "2026-11-22 01:40",
+   "total": 4532
   }
  ],
  "next_week_ideas": [
