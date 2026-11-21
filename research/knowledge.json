@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:48:20+05:30",
- "runs": 2020,
+ "updated": "2026-11-21T15:48:54+05:30",
+ "runs": 2021,
  "branches": [
   {
    "id": "platforms",
@@ -12655,6 +12655,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1949
+    },
+    {
+     "t": "A University of Maryland study of 29 preschoolers aged 3.5 to 5 (11 weeks of weekly music lessons, 2018) found no significant difference in singing voice use or pitch accuracy between learning songs with words and starting on a neutral syllable, though correlations hinted that a wordless start helps children find their singing voice, so a simple 'la la' or 'doo doo' hook before the first verse is a safe, singable opening for Bro Bros songs.",
+     "src": "University of Maryland thesis, 2018",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2021
     }
    ]
   },
@@ -30052,10 +30059,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 13:03",
-   "note": "Run 1942 (TRENDS (Virlo week of 16 Nov, Kapwing)): Nothing new: Virlo's 16 to 21 Nov list is dominated by GTA VI launch sounds and adult audio already flagged as off limits; Kapwing has no November 2026 roundup yet. No leaves added. 0 leaves. Chrome not available. Total 4228."
-  },
-  {
    "date": "2026-11-21 13:04",
    "note": "Run 1943 (rules (UK Ofcom underage use and age checks)): New: Ofcom says 72% of UK children aged 8 to 12 use apps with a minimum age of 13 and has pushed YouTube, TikTok, Instagram and others to enforce age limits, with under 16 restrictions expected from 2027; for us that means more young viewers will move into supervised accounts and YouTube Kids, where only clearly made for kids, gentle content travels. 1 leaves. Chrome not available. Total 4229."
   },
@@ -30366,6 +30369,10 @@
   {
    "date": "2026-11-21 15:48",
    "note": "Run 2020 (TRENDS (Spotify Wrapped and YouTube Recap timing)): Nothing new: Spotify Wrapped 2026 is still only predicted for Wednesday 2 Dec (Techloy's 10 Nov 'revealed' brief is a prediction, not an announcement) and YouTube Recap's 2 Dec 2025 launch pattern was already filed. 0 leaves. Chrome not available. Total 4279."
+  },
+  {
+   "date": "2026-11-21 15:48",
+   "note": "Run 2021 (music craft (children's singing studies)): Mostly filed (singing ranges, tessitura, tempo preferences). New: a small University of Maryland study of 29 preschoolers found no clear difference between learning new songs with words or on a neutral 'la la' syllable, with hints that a wordless start helps children use their singing voice, so a short 'la la' or 'doo doo' hook before the words is a safe choice. 1 leaves. Chrome not available. Total 4280."
   }
  ],
  "history": [
@@ -31060,6 +31067,10 @@
   {
    "date": "2026-11-21 15:48",
    "total": 4279
+  },
+  {
+   "date": "2026-11-21 15:48",
+   "total": 4280
   }
  ],
  "next_week_ideas": [
