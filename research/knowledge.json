@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:35:10+05:30",
- "runs": 2090,
+ "updated": "2026-11-21T18:41:33+05:30",
+ "runs": 2091,
  "branches": [
   {
    "id": "platforms",
@@ -30715,6 +30715,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2076
+    },
+    {
+     "t": "Virlo's board on 21 Nov 2026 has a 'loading percentage' transition at its peak (about 660 videos since 22 Sep, mostly makeup): an on screen bar climbs from 0% to 100% over a plain look, then a hard cut on the beat to the finished look, which Bro Bros can turn into a 'Christmas loading' reveal of a bare room or a pyjama outfit.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2091
+    },
+    {
+     "t": "A Spanish trend roundup (que.es, 30 Oct 2026) logged one short guitar riff sound jumping from about 152K to about 435K TikTok videos in nine days, showing an instantly recognisable riff in the first second spreads faster than a sung line, so our Reels can open on a 2 second signature Bro Bros guitar or bell riff of our own.",
+     "src": "que.es, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2091
     }
    ]
   }
@@ -30741,12 +30755,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 15:42",
-   "note": "Summary of 2 older log entries (2026-11-21 15:41 to 2026-11-21 15:42): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 15:43",
-   "note": "Run 2012 (global markets (Peru, Oman, Netherlands)): New: Peru's Concortv study puts YouTube first for children and teens (97% of teens) with 57% watching TV during meals and the living room as the main screen; Oman's statistics centre found 82% of under 18s use YouTube, the top platform; Dutch parents report 0 to 6 year olds average about 126 minutes of digital media a day, with the TV the most used screen. 3 leaves. Chrome not available. Total 4274."
+   "note": "Summary of 2 older log entries (2026-11-21 15:42 to 2026-11-21 15:43): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 15:44",
@@ -31059,6 +31069,10 @@
   {
    "date": "2026-11-21 18:35",
    "note": "Run 2090 (Shorts and Reels (Mosseri on sends and carousels)): New: Mosseri (Colin and Samir interview, reported 3 Nov 2026) said a carousel with music can show in the Reels viewer and can come back later opening on its second slide, that Instagram leans on watch time less than rival apps, that sends per reach is the key metric for new creators and is coming to Insights, and that accounts built on AI characters must label themselves. 3 leaves. Chrome not available. Total 4378."
+  },
+  {
+   "date": "2026-11-21 18:41",
+   "note": "Run 2091 (TRENDS (Virlo board 21 Nov, loading reveal)): New: Virlo's 21 Nov board shows a 'loading percentage' transition (a progress bar climbs from 0% to 100%, then cut to the finished look) at its peak with about 660 videos, a kid safe reveal format added to the trend bank as 'Christmas loading bar'; a Spanish roundup logged a guitar riff sound rising from about 152K to 435K videos in nine days, showing riff led sounds spread fastest. Everything else on the board was already filed. Trend bank: added Christmas loading bar, dropped Confetti pop on the beat (lowest, generic). 2 leaves. Chrome not available. Total 4380."
   }
  ],
  "history": [
@@ -32033,6 +32047,10 @@
   {
    "date": "2026-11-21 18:35",
    "total": 4378
+  },
+  {
+   "date": "2026-11-21 18:41",
+   "total": 4380
   }
  ],
  "next_week_ideas": [
@@ -32094,6 +32112,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Christmas loading bar, 0% to 100% reveal",
+   "where": "TikTok and Instagram Reels",
+   "status": "peak",
+   "use": "Open on a plain room or the Bros in everyday clothes with an on screen bar reading 'Christmas loading 0%'. The bar climbs in four jumps (25, 50, 75, 100) on the beats of our own song while the Bros do a small knee bounce in place, looking at the camera. On 100% hard cut to the fully decorated room with the Bros in Christmas pyjamas doing a two arm 'ta da' raise, then loop back to the start. Meshy prompt: standing in place, gentle knee bounce, then both arms raise up and out in a ta da pose, no floor moves."
+  },
   {
    "name": "Magic bauble pop, room reveal",
    "where": "TikTok and Reels, returns every December (Christmas explosion format)",
@@ -32207,12 +32231,6 @@
    "where": "TikTok and Instagram Reels (AI Christmas dance, mid Nov 2026)",
    "status": "rising",
    "use": "A 5 to 8 second vertical Short with our own jingly Christmas chorus: both Bros in Santa hats stand in front of our 3D Christmas tree and do the tiny routine three times: sway left and right for four beats, clap once above the head, then one small turn in place. Meshy prompt: standing in place, gentle side to side sway, one overhead clap, a slow 360 degree turn, no floor moves. End with the caption 'Your turn! Sway, clap, spin!' so families copy it."
-  },
-  {
-   "name": "Confetti pop on the beat",
-   "where": "TikTok (fresh, 206M views since 6 Oct)",
-   "status": "rising",
-   "use": "Short or Reel: Big Bro and Little Bro sing the hook of our own song, freeze for one beat, then a confetti cannon bursts on the drop and both throw arms up in a star shape. Meshy prompt: character stands in place, sways side to side twice, freezes, then jumps lightly and throws both arms up in a V. Optional funny fail version: Little Bro's popper only puffs a tiny cloud, he shrugs, then it bursts late."
   }
  ],
  "posting_plan": {
