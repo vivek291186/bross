@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:36:02+05:30",
- "runs": 2024,
+ "updated": "2026-11-21T16:36:56+05:30",
+ "runs": 2025,
  "branches": [
   {
    "id": "platforms",
@@ -10100,6 +10100,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2013
+    },
+    {
+     "t": "For Korea's Chuseok holiday (Sep 2026) Pinkfong ran one festival package: a holiday playlist across its Pinkfong, Baby Shark, Hogi and Bebefinn channels, a new holiday Shorts series, a 10 track holiday album on all streaming services and free IPTV specials; last year's single holiday Short passed 7M views, so for Christmas we should bundle a playlist, a Shorts series and a short album in the same week.",
+     "src": "Sports Kyunghyang, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2025
+    },
+    {
+     "t": "The Pinkfong Company says it has made over 8,800 pieces of content in 25 languages, with about 240B cumulative YouTube views and about 320M subscribers across its channels, showing that one brand split into many language and character channels is how the biggest kids music company scales.",
+     "src": "Sports Kyunghyang, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2025
+    },
+    {
+     "t": "Pinkfong's Hogi spin off 'Pinkfong and Hogi: New Friend Ninimo' runs as 11 to 12 minute story episodes on Apple TV, the standard TV episode length, while its YouTube channels stay song led; streaming platforms buy 11 minute story episodes, not 2 minute songs.",
+     "src": "Apple TV listing, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2025
     }
    ]
   },
@@ -30090,12 +30111,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:05",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:06",
-   "note": "Run 1946 (YouTube algorithm and search (Christmas search timing)): Nothing new: vidIQ's top Christmas YouTube keywords and the third week of December search peak were already filed; the Think with Google page redirected away. No leaves added. 0 leaves. Chrome not available. Total 4231."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:07",
@@ -30408,6 +30425,10 @@
   {
    "date": "2026-11-21 16:36",
    "note": "Run 2024 (global markets (South Korea, New Zealand, dubbing quality)): New: a UC Davis two year study of 289 Korean families found hard limits and co viewing cut kids' screen time and every parent strategy raised educational viewing, so a 'watch with your grown up' learning angle suits Korean parents; NZ On Air now runs its own KIDOGO and KIDOGO Junior YouTube channels and NZ preschool favourites are Bluey 38%, Paw Patrol 25%, Spidey 16%; AIR's 400 channel data says AI only dubs hold viewers far less than human sung or voiced tracks, worst for kids content. 5 leaves. Chrome not available. Total 4285."
+  },
+  {
+   "date": "2026-11-21 16:36",
+   "note": "Run 2025 (competitor deep dive (Pinkfong holiday playbook, Hogi)): New: Pinkfong's Chuseok Festa (Sep 2026) shows its holiday playbook: one festival playlist across four channels, a new holiday Shorts series, a 10 track holiday album on every streaming service and IPTV specials, with last year's holiday Short at 7M views; Pinkfong now cites about 240B YouTube views and 320M subscribers in 25 languages; Hogi's spin off series uses 11 to 12 minute episodes on Apple TV. 3 leaves. Chrome not available. Total 4288."
   }
  ],
  "history": [
@@ -31118,6 +31139,10 @@
   {
    "date": "2026-11-21 16:36",
    "total": 4285
+  },
+  {
+   "date": "2026-11-21 16:36",
+   "total": 4288
   }
  ],
  "next_week_ideas": [
