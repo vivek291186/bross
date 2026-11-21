@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:39:30+05:30",
- "runs": 2059,
+ "updated": "2026-11-21T17:40:13+05:30",
+ "runs": 2060,
  "branches": [
   {
    "id": "platforms",
@@ -10205,6 +10205,27 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2051
+    },
+    {
+     "t": "vidIQ (19 Nov 2026) shows Kids Diana Show gaining about 320M views in 28 days (about 11.4M a day, 380M to 450M a month since July) from 20 uploads, while its subscriber count stayed flat every month, proof that a mature kids channel lives on recommended views of its back catalogue rather than on new subscribers.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2060
+    },
+    {
+     "t": "Kids Diana Show's five most viewed videos of all time (420M to 570M views each, all from 2022 and 2023) are a school bus rules lesson, an escape room, opening 10 doors, a maze and a cube challenge, so 'rules to follow' and 'pick a door or find the way' structures are the most durable kids formats, which a Bro Bros song can use as a 10 doors counting adventure.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2060
+    },
+    {
+     "t": "Kids Diana Show's newest upload in the vidIQ snapshot (an adventure collection with the younger brothers, posted 17 Nov 2026) had about 83K views after a day and a half on a 138M subscriber channel, showing that even the giants get most views later through Suggested and Home, not on launch day.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2060
     }
    ]
   },
@@ -30462,11 +30483,7 @@
  "log": [
   {
    "date": "2026-11-21 13:56",
-   "note": "Summary of 2 older runs up to Run 1980 (our results (Instagram Reels 2...: see git history for details."
-  },
-  {
-   "date": "2026-11-21 13:56",
-   "note": "Run 1981 (TRENDS (matching Christmas pyjamas and family Christmas Reels)): Nothing new: matching pyjama family Reels (already in the trend bank as the Deck the Halls pyjama duo) and NewEngen's Christmas TikTok and Instagram list were already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
+   "note": "Summary of 2 older runs up to Run 1981 (TRENDS (matching Christmas pyj...: see git history for details."
   },
   {
    "date": "2026-11-21 13:56",
@@ -30779,6 +30796,10 @@
   {
    "date": "2026-11-21 17:39",
    "note": "Run 2059 (global markets (localisation statistics)): New: Kapwing's April 2026 roundup says subtitles alone lifted views about 7% in one network test, subtitle demand in smaller languages such as Amharic, Yoruba, Uzbek and Sinhala grew about 31%, and young children need dubbing rather than subtitles because they cannot read fast enough. Other dubbing figures (AIR +45%, the separate Spanish channel test) were already filed; the Indonesian child account news page could not be read. 3 leaves. Chrome not available. Total 4338."
+  },
+  {
+   "date": "2026-11-21 17:40",
+   "note": "Run 2060 (competitor deep dive (Kids Diana Show, BabyBus)): New: Kids Diana Show still pulls about 11.4M views a day (about 320M in the 28 days to 19 Nov 2026) from 20 uploads in 28 days while its subscriber count has not moved since July, and its all time top five are all rule or puzzle adventures (school bus rules, escape room, 10 doors, maze, cube challenge, 420M to 570M views each). BabyBus figures (43.9M, 36.1B) were already filed. 3 leaves. Chrome not available. Total 4341."
   }
  ],
  "history": [
@@ -31629,6 +31650,10 @@
   {
    "date": "2026-11-21 17:39",
    "total": 4338
+  },
+  {
+   "date": "2026-11-21 17:40",
+   "total": 4341
   }
  ],
  "next_week_ideas": [
