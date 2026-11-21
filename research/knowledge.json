@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:04:38+05:30",
- "runs": 1943,
+ "updated": "2026-11-21T13:04:59+05:30",
+ "runs": 1944,
  "branches": [
   {
    "id": "platforms",
@@ -29699,11 +29699,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1864); see git history."
-  },
-  {
-   "date": "2026-11-21 10:55",
-   "note": "Run 1865 (music craft (Suno and Meshy tool updates, Oct to Nov 2026)): Suno added an MCP connector (28 Oct, beta) so songs can be made from Claude, a Speech beta that makes spoken lines and music in one take (1 Oct), Studio fine pitch and clip info with stems (29 Oct) and a Daily Song Challenge (6 Nov); Meshy's October changelog has no animation or motion change. 3 leaves. Chrome not available. Total 4143."
+   "note": "Earlier: older log entries summarised (runs up to 1865); see git history."
   },
   {
    "date": "2026-11-21 10:55",
@@ -30016,6 +30012,10 @@
   {
    "date": "2026-11-21 13:04",
    "note": "Run 1943 (rules (UK Ofcom underage use and age checks)): New: Ofcom says 72% of UK children aged 8 to 12 use apps with a minimum age of 13 and has pushed YouTube, TikTok, Instagram and others to enforce age limits, with under 16 restrictions expected from 2027; for us that means more young viewers will move into supervised accounts and YouTube Kids, where only clearly made for kids, gentle content travels. 1 leaves. Chrome not available. Total 4229."
+  },
+  {
+   "date": "2026-11-21 13:04",
+   "note": "Run 1944 (our results (Instagram Reels 20 to 21 Nov)): Nothing new: Metricool has only the two 20 Nov Reels so far (car and traffic light 55 views and 25 shares at 16:00 IST, circus parade 16 views at 10:00 IST), already filed; no 21 Nov Reels data yet. No leaves added. 0 leaves. Chrome not available. Total 4229."
   }
  ],
  "history": [
@@ -30398,6 +30398,10 @@
   {
    "date": "2026-11-21 13:03",
    "total": 4228
+  },
+  {
+   "date": "2026-11-21 13:04",
+   "total": 4229
   },
   {
    "date": "2026-11-21 13:04",
