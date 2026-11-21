@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:09:29+05:30",
- "runs": 1994,
+ "updated": "2026-11-21T14:36:29+05:30",
+ "runs": 1995,
  "branches": [
   {
    "id": "platforms",
@@ -29840,6 +29840,34 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1954
+    },
+    {
+     "t": "The 'the urge to' format is peaking on TikTok in the week of 16 to 22 Nov 2026: a lowercase caption names a small impulse, the person pauses, gives one glance at the camera and then gives in, with no words and about 8 seconds long (top example about 5.1M views); it suits Bro Bros perfectly because it needs no dialogue and travels across languages.",
+     "src": "Postdom, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1995
+    },
+    {
+     "t": "'We listen and we don't judge' is a peaking deadpan format where someone says a harmless confession straight to camera over a calm classical minuet (top example about 720K views); a kid safe version is a Bro confessing something tiny and silly, like hiding a carrot under the plate, with the friends nodding seriously.",
+     "src": "Postdom, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1995
+    },
+    {
+     "t": "A glow up flip set to the 'entiende' line of a Prince Royce song is rising with Spanish speaking creators in mid November 2026 (about 740K videos on the sound): the clip jumps on the beat from an awkward old photo to a polished new shot; for us the safe copy is a beat cut from an early rough render of a Bro to today's polished character, using our own music.",
+     "src": "Postdom, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1995
+    },
+    {
+     "t": "The 'Bow Bow Bow' dance named in mid November 2026 TikTok lists comes from an explicit adult rap track, so it is not usable for a kids channel even as a move reference.",
+     "src": "Know Your Meme / Postdom, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1995
     }
    ]
   }
@@ -29867,11 +29895,7 @@
  "log": [
   {
    "date": "2026-11-21 12:37",
-   "note": "Earlier: older log entries summarised (runs up to 1915); see git history."
-  },
-  {
-   "date": "2026-11-21 12:37",
-   "note": "Run 1916 (global markets (dubbing tests, Latin America and Southeast Asia)): Nothing new: the Kapwing separate Spanish channel test, YouTube's 25% dubbed watch time figure, El Reino Infantil's 2026 lead and the AIR localised kids channel case were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4206."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 12:38",
@@ -30184,6 +30208,10 @@
   {
    "date": "2026-11-21 14:09",
    "note": "Run 1994 (YouTube algorithm (November Studio and feed updates)): Nothing new: custom AI feeds in the US top bar, Hype with Jewels expanding from 6 Nov, Ask Studio (not available to made for kids channels), video A/B tests and audience specific thumbnails were already filed. End of run: 43 rounds (runs 1952 to 1994), 17 new leaves, 1 trend bank entry added (Villain chair, oops!), no song ideas added, posting slots unchanged (Metricool still peaks YouTube at 16:00 IST every day). Page not published (artifact tools not available this run). Chrome not used. No leaves added. 0 leaves. Chrome not available. Total 4253."
+  },
+  {
+   "date": "2026-11-21 14:36",
+   "note": "Run 1995 (TRENDS (Postdom weekly TikTok list, 16 to 22 Nov)): New: the wordless 8 second 'the urge to' format (caption names an impulse, pause, one glance, give in; top example about 5.1M views) and the deadpan 'we listen and we don't judge' harmless confession format (top about 720K) are peaking; the 'entiende' old photo to glow up flip is rising with Spanish speaking creators; the Bow Bow Bow dance is tied to an adult rap song, so we skip it. 1 trend bank entry added. 4 leaves. Chrome not available. Total 4257."
   }
  ],
  "history": [
@@ -30774,6 +30802,10 @@
   {
    "date": "2026-11-21 14:09",
    "total": 4253
+  },
+  {
+   "date": "2026-11-21 14:36",
+   "total": 4257
   }
  ],
  "next_week_ideas": [
@@ -30835,6 +30867,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "The urge to...",
+   "where": "TikTok, Instagram Reels",
+   "status": "peak",
+   "use": "8 second wordless Short: caption 'the urge to jump in the BIG puddle' (or press the shiny red button, or eat the snowman's carrot nose); Little Bro stands still, looks at the puddle, looks at the camera with wide eyes, pauses one beat, then hops in with both feet on the drop of our own two bar jingle and freezes with a big grin. Meshy prompt: standing still, slow head turn to the side, look forward, small hop forward with both feet, arms up in a happy freeze."
+  },
   {
    "name": "Villain chair, oops!",
    "where": "TikTok, Instagram Reels (POV: you're the villain but...)",
@@ -30948,12 +30986,6 @@
    "where": "TikTok, Reels and Shorts, every December",
    "status": "seasonal",
    "use": "A 15 second Short: a doorway covered in giant wrapping paper, a drum roll in our own song, then Little Bro steps through the paper with a big smile, followed by Big Bro and a friend, each in a new festive outfit; end on all three doing the chorus move. Dance: standing in place, arms up in a V on beat 1, clap on beat 2, twist the hips left and right on beats 3 and 4. Show it as a soft paper sheet only, never glass or anything sharp."
-  },
-  {
-   "name": "Our year in songs recap",
-   "where": "Reels, Shorts and TikTok in the first week of December (Spotify Wrapped predicted 2 Dec 2026)",
-   "status": "seasonal",
-   "use": "A 30 second countdown of our top 5 Bro Bros songs of 2026 in Wrapped style cards: big number, song name, two seconds of each chorus with the Bros doing that song's signature move, ending on both waving 'thank you for singing with us'. Dance for the final card: standing in place, point to the camera on beat 1, thumbs up on beat 2, wave both hands overhead on beats 3 and 4."
   }
  ],
  "posting_plan": {
