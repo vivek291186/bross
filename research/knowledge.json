@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:52:39+05:30",
- "runs": 1890,
+ "updated": "2026-11-21T11:53:25+05:30",
+ "runs": 1891,
  "branches": [
   {
    "id": "platforms",
@@ -19347,6 +19347,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1890
+    },
+    {
+     "t": "Pinkfong Español passed 20M subscribers and about 13.4B views in October 2026, doubling from 10M in about four years with views growing about 96% a year from 2023 to 2025; its key markets are Spain, Mexico, Argentina, Peru, Colombia and the US, so a Spanish Bro Bros channel targets the fastest growing big kids language on YouTube.",
+     "src": "Advanced Television, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1891
+    },
+    {
+     "t": "Pinkfong's best Spanish channel hits are locally themed remixes of its anchor song, such as a Day of the Dead inspired version (over 10M views), and it now opens a separate Spanish channel for each character (Bebefinn Español 18M+, a new one for a neighbour character, and a dinosaur series in Nov 2026), so localising one strong Bro Bros song with Mexican or Spanish festival scenes beats a plain translation.",
+     "src": "Advanced Television, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1891
     }
    ]
   },
@@ -29334,12 +29348,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:42",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1810); see git history."
-  },
-  {
    "date": "2026-11-21 08:43",
-   "note": "Run 1812 (our own results (Metricool Instagram Reels 14 to 21 Nov, shares)): New: the 20 Nov 'Beep Beep Little Car' traffic light Reel now shows 25 shares from 44 people reached (55 views), the first Bro Bros Reel that parents are passing on, while every other Reel of the week has 0 or 1 share; added a road safety crossing song idea. No 21 Nov Reel has synced yet. Chrome not available. Total 4092."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1811); see git history."
   },
   {
    "date": "2026-11-21 08:44",
@@ -29652,6 +29662,10 @@
   {
    "date": "2026-11-21 11:52",
    "note": "Run 1890 (topics and seasons (school holidays in South Africa and the Philippines)): New: South African public schools close on 11 Dec 2026 and reopen on 13 Jan 2027 (a summer holiday of about a month), and the Philippines' new three term year breaks for Christmas after early December and resumes in January, so both big English friendly markets have kids home through late December. 2 leaves. Chrome not available. Total 4177."
+  },
+  {
+   "date": "2026-11-21 11:53",
+   "note": "Run 1891 (global markets (Pinkfong's Spanish channels)): New: Pinkfong Español passed 20M subscribers and 13.4B views (Oct 2026) with views growing about 96% a year from 2023 to 2025, Bebefinn Español has 18M+, and Pinkfong keeps opening Spanish channels for each new character; its biggest Spanish hits are local remixes such as a Day of the Dead version. 2 leaves. Chrome not available. Total 4179."
   }
  ],
  "history": [
@@ -30766,6 +30780,10 @@
   {
    "date": "2026-11-21 11:52",
    "total": 4177
+  },
+  {
+   "date": "2026-11-21 11:53",
+   "total": 4179
   }
  ],
  "next_week_ideas": [
