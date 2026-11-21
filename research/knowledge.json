@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:46:20+05:30",
- "runs": 1959,
+ "updated": "2026-11-21T13:47:12+05:30",
+ "runs": 1960,
  "branches": [
   {
    "id": "platforms",
@@ -2862,6 +2862,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1948
+    },
+    {
+     "t": "In Netflix's English film top 10 for 9 to 15 Nov 2026 the animated How the Grinch Stole Christmas was No. 7 in its ninth week on the service (about 3.1M views), beside the singing animal films Sing 2 (No. 6, 3.2M) and Sing (No. 10, 2.4M), so families already rewatch a grumpy character turns kind Christmas story from early November; an original Bro Bros 'grumpy snowman learns to share' song fits this window without touching the protected character.",
+     "src": "What's on Netflix, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1960
     }
    ]
   },
@@ -29783,11 +29790,7 @@
  "log": [
   {
    "date": "2026-11-21 11:45",
-   "note": "Earlier: older log entries summarised (runs up to 1880); see git history."
-  },
-  {
-   "date": "2026-11-21 11:45",
-   "note": "Run 1881 (posting times (Metricool grid 22 to 28 Nov, 04:30 slot check)): Metricool's grid again peaks at 16:00 IST for YouTube and 10:00 IST for Instagram; new detail: the plan's 04:30 IST slot sits in hours that score only about a fifth to a quarter of 16:00 for our current audience, so that slot is a bet on new US viewers, not on our present fans; slots unchanged. 1 leaves. Chrome not available. Total 4167."
+   "note": "Earlier: older log entries summarised (runs up to 1881); see git history."
   },
   {
    "date": "2026-11-21 11:46",
@@ -30100,6 +30103,10 @@
   {
    "date": "2026-11-21 13:46",
    "note": "Run 1959 (Shorts and Reels (Instagram ranking news)): Nothing new: Instagram's long form Features, Series for episodic Reels, Your Algorithm controls, Reels watch history and the three official ranking signals were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4241."
+  },
+  {
+   "date": "2026-11-21 13:47",
+   "note": "Run 1960 (other platforms (Netflix top 10, 9 to 15 Nov)): New: the animated How the Grinch Stole Christmas sat at No. 7 in Netflix's English film top 10 for 9 to 15 Nov 2026 in its ninth week (3.1M views), next to Sing 2 and Sing; families start rewatching a grumpy turns kind winter story from early November. Doozie's Doghouse and Danny Go were already filed. 1 leaves. Chrome not available. Total 4242."
   }
  ],
  "history": [
@@ -30550,6 +30557,10 @@
   {
    "date": "2026-11-21 13:46",
    "total": 4241
+  },
+  {
+   "date": "2026-11-21 13:47",
+   "total": 4242
   }
  ],
  "next_week_ideas": [
