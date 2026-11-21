@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:45:37+05:30",
- "runs": 2258,
+ "updated": "2026-11-22T01:46:23+05:30",
+ "runs": 2259,
  "branches": [
   {
    "id": "platforms",
@@ -10662,7 +10662,7 @@
      "run": 2228
     },
     {
-     "t": "HeyKids, a France based English nursery song channel (4.79M subscribers, 2.84B views, 702 videos), drew about 15.6M views and 10K subscribers in the 28 days to 20 Nov 2026 from about 10 uploads, but its views still come from 2022 to 2023 hits (construction vehicles song about 80M, a Halloween song about 65M, a train song about 52M) while its new Body Parts song had under 5K views after five days, so a generic classic topic no longer breaks out even on a big channel; vehicles, Halloween and trains remain the evergreen pulls.",
+     "t": "HeyKids English's newest upload, a plain Body Parts song (15 Nov 2026), had under 5K views after five days while the channel still drew about 15.6M views in 28 days from its 2022 to 2023 vehicle, Halloween and train hits, so even on a 4.8M subscriber channel a generic classic topic no longer breaks out.",
      "src": "vidIQ, Nov 2026",
      "conf": "medium",
      "date": "2026-11-22",
@@ -13390,13 +13390,6 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2213
-    },
-    {
-     "t": "A University of Verona trial with 108 Italian children (Early Childhood Education Journal, 2026) found eight weekly 45 minute Orff style sessions of singing, moving and body percussion (claps, pats, stomps) improved rhythm copying in both 2 and 4 year olds and self control speed in 4 year olds, but not vocabulary; this was live training, not screen media, so it supports clap and stomp call and response sections in our songs more than word lists.",
-     "src": "Early Childhood Education Journal (Univ. of Verona), 2026",
-     "conf": "medium",
-     "date": "2026-11-22",
-     "run": 2249
     }
    ]
   },
@@ -31833,12 +31826,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:41",
-   "note": "Summary of 2 older runs (2026-11-21 22:41 to 2026-11-21 22:41): see git history for details."
-  },
-  {
    "date": "2026-11-21 22:42",
-   "note": "Run 2183 (YouTube kids channels (Brazil, India Hindi dub, Portugal, US rhymes)): New: Galinha Pintadinha Mini grows 50K subscribers a month on full length feelings and friendship episodes; a Hindi dubbed cartoon compilation channel has stalled at zero growth; a US rhymes channel's top video is a pop it toy version of a famous shark song, showing toy trend remixes of a proven song pull views. 4 leaves. Chrome not available. Total 4469."
+   "note": "Summary of 2 older runs (2026-11-21 22:41 to 2026-11-21 22:42): see git history for details."
   },
   {
    "date": "2026-11-21 22:43",
@@ -32114,7 +32103,7 @@
   },
   {
    "date": "2026-11-22 01:40",
-   "note": "Run 2249 (music craft (Italian toddler rhythm study)): New: a University of Verona trial (Early Childhood Education Journal, accepted May 2026) found eight weekly Orff style sessions of singing, movement and body percussion improved rhythm copying at ages 2 and 4 and self control speed at 4, but not vocabulary; Suno v5.5 features were already filed. 1 leaves. Chrome not available. Total 4532."
+   "note": "Run 2249 (music craft (Italian toddler rhythm study)): Nothing new: the University of Verona Orff trial (rhythm and self control gains, no vocabulary gain) and Suno v5.5 were already filed; a duplicate leaf added here was removed in run 2259. 0 leaves. Chrome not available."
   },
   {
    "date": "2026-11-22 01:41",
@@ -32130,7 +32119,7 @@
   },
   {
    "date": "2026-11-22 01:43",
-   "note": "Run 2253 (competitor deep dive (HeyKids, HeyHop Kids)): New: France based English channel HeyKids (4.79M subscribers) still draws about 15.6M views a month from old vehicle, Halloween and train songs while its new Body Parts song got under 5K views in five days; small US 3D channel HeyHop Kids (251 videos, 155K subscribers) has stalled at about 124K views a month on one upload a month. Dream English stats could not be read. 2 leaves. Chrome not available. Total 4535."
+   "note": "Run 2253 (competitor deep dive (HeyKids, HeyHop Kids)): Small additions: France based English channel HeyKids (4.79M subscribers) still draws about 15.6M views a month from old vehicle, Halloween and train songs while its new Body Parts song got under 5K views in five days; small US 3D channel HeyHop Kids (251 videos, 155K subscribers) has stalled at about 124K views a month on one upload a month. Dream English stats could not be read. 2 leaves. Chrome not available. Total 4535. The HeyKids leaf was trimmed in run 2259 to only its new fact (weak Body Parts debut), since its channel totals were already filed."
   },
   {
    "date": "2026-11-22 01:44",
@@ -32151,6 +32140,10 @@
   {
    "date": "2026-11-22 01:45",
    "note": "Run 2258 (other platforms (Netflix 9 to 15 Nov, iTunes and Billboard kids charts)): Nothing new: Netflix's 9 to 15 Nov kids titles and the iTunes and Billboard kids charts were already filed. Cleanup: removed one duplicate Dame Hombro leaf added in run 2245 (the move was already filed since 15 Nov). 0 leaves. Chrome not available. Total 4534."
+  },
+  {
+   "date": "2026-11-22 01:46",
+   "note": "Run 2259 (TRENDS (India Reels and Shorts this week)): Nothing new: India's recent Reels waves (Neeli Pari Peeli Pari, old Bollywood revivals) and Tubefilter's 9 to 15 Nov India Shorts channels were already filed; no newer weekly India Reels roundup than early October was found. Trend bank unchanged. 0 leaves. Chrome not available. Total 4533."
   }
  ],
  "history": [
@@ -33089,6 +33082,10 @@
   {
    "date": "2026-11-22 01:45",
    "total": 4534
+  },
+  {
+   "date": "2026-11-22 01:46",
+   "total": 4533
   }
  ],
  "next_week_ideas": [
