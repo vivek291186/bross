@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:54:18+05:30",
- "runs": 1975,
+ "updated": "2026-11-21T13:54:33+05:30",
+ "runs": 1976,
  "branches": [
   {
    "id": "platforms",
@@ -29839,11 +29839,7 @@
  "log": [
   {
    "date": "2026-11-21 11:57",
-   "note": "Earlier: older log entries summarised (runs up to 1896); see git history."
-  },
-  {
-   "date": "2026-11-21 11:57",
-   "note": "Run 1897 (YouTube algorithm (TV app sidebar, custom feeds placement)): New: since May 2026 YouTube on Google TV and Samsung TVs puts Subscriptions and Library right under Home in the sidebar with two direct channel shortcuts, so a channel a family watches often can sit one click from Home on the living room screen; custom feeds and Hype changes were already filed. 1 leaves. Chrome not available. Total 4185."
+   "note": "Earlier: older log entries summarised (runs up to 1897); see git history."
   },
   {
    "date": "2026-11-21 11:58",
@@ -30156,6 +30152,10 @@
   {
    "date": "2026-11-21 13:54",
    "note": "Run 1975 (TRENDS (Christmas 2026 toy lists)): Nothing new: the Toy Insider, DreamToys, Which? and ABC News toy trend lists (maker kits, K pop dolls, blind boxes, slow rise squishies) were already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
+  },
+  {
+   "date": "2026-11-21 13:54",
+   "note": "Run 1976 (global markets (Vietnam kids song channels)): Nothing new: POPS Kids, BabyBus Vietnamese, the 'Mot con vit' duck song and Vietnam's draft rules for under 16 accounts were already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
   }
  ],
  "history": [
@@ -30665,6 +30665,10 @@
   },
   {
    "date": "2026-11-21 13:53",
+   "total": 4249
+  },
+  {
+   "date": "2026-11-21 13:54",
    "total": 4249
   },
   {
