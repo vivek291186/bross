@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:35:50+05:30",
- "runs": 2171,
+ "updated": "2026-11-21T22:36:36+05:30",
+ "runs": 2172,
  "branches": [
   {
    "id": "platforms",
@@ -31294,12 +31294,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 18:42",
-   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 18:42): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 18:43",
-   "note": "Run 2093 (visual craft (VS titles, transitions)): New: OverseerOS (7 Nov 2026, 13,039 long videos from 409 channels, Jul to Sep 2026) found titles with a standalone 'VS' did only about 3% better than the same channels' other titles (1.11x under stricter filters), so a 'Big Bro vs Little Bro' title is a test, not a rule; a 2026 animation trend piece names object based transitions (a prop wipes the frame into the next scene) as a rising style. Meshy, Kidscreen and Test and Compare items were already filed. 2 leaves. Chrome not available. Total 4384."
+   "note": "Summary of 2 older log entries (2026-11-21 18:42 to 2026-11-21 18:43): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:44",
@@ -31612,6 +31608,10 @@
   {
    "date": "2026-11-21 22:35",
    "note": "Run 2171 (our own results (Metricool queue and sync recheck)): Queue still ends 22 Nov 16:05 IST, so at 22:40 IST Saturday nothing is ready for Monday 23 Nov; Metricool still had no 21 Nov Reel and no YouTube upload after 19 Nov, so our own numbers lag 12 to 48 hours and same day judging is impossible. 2 leaves. Chrome not available. Total 4457."
+  },
+  {
+   "date": "2026-11-21 22:36",
+   "note": "Run 2172 (TRENDS (weekly roundup recheck)): Nothing new: Virlo's 21 Nov board (couple montage, partying formats, Boom Clap confetti pop), Fabulate's November TikTok list and the 'It's time' and Christmas dance formats were all already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4457."
   }
  ],
  "history": [
@@ -32201,6 +32201,10 @@
   },
   {
    "date": "2026-11-21 22:35",
+   "total": 4457
+  },
+  {
+   "date": "2026-11-21 22:36",
    "total": 4457
   }
  ],
