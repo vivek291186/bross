@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:56:39+05:30",
- "runs": 2044,
+ "updated": "2026-11-21T16:57:20+05:30",
+ "runs": 2045,
  "branches": [
   {
    "id": "platforms",
@@ -19970,6 +19970,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2038
+    },
+    {
+     "t": "Precise TV and Giraffe Insights' survey of 1,000 British 2 to 12 year olds and their parents (spring 2025) found 72% watch YouTube, averaging about 83 minutes a day, and 41% watch Shorts; cartoons (47%), toys and games (40%) and education (38%) are the most watched types.",
+     "src": "Kidscreen (Precise TV), May 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2045
+    },
+    {
+     "t": "In the same UK survey 57% of children usually watch YouTube alone (62% for Shorts) even though 49% of parents say they sometimes co view, and about half of boys aged 2 to 5 watch YouTube on a TV set, so our songs must make sense to a child watching alone while staying pleasant for a parent in the room.",
+     "src": "Kidscreen (Precise TV), May 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2045
     }
    ]
   },
@@ -30255,10 +30269,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 13:50",
-   "note": "Run 1966 (posting times (Metricool grid 22 to 28 Nov)): Nothing new: the 22 to 28 Nov YouTube grid is unchanged (16:00 IST top every day, Wednesday and Thursday about 12K, weekends about half), matching leaves already filed; posting slots unchanged. No leaves added. 0 leaves. Chrome not available. Total 4244."
-  },
-  {
    "date": "2026-11-21 13:51",
    "note": "Run 1967 (rules and safety (child social media age limits, Reuters Sep 2026)): New: India's Karnataka state set an under 16 social media ban (Mar 2026) and Goa is weighing one, which matters because India gives us about 68% of subscribers; the EU proposed an under 13 ban on 17 Sep 2026; and France's under 15 law, filed earlier as passed, was struck down by its top court on 14 Aug 2026 (the older leaf stays but this corrects it). 3 leaves. Chrome not available. Total 4247."
   },
@@ -30569,6 +30579,10 @@
   {
    "date": "2026-11-21 16:56",
    "note": "Run 2044 (competitor deep dive (CoComelon, Bebefinn holiday moves)): Nothing new: CoComelon's move to Disney+, The Melon Patch, the Sanrio playdates, Bebefinn's Netflix run and last December's YouTube music chart (Christmas classics leading the US, UK, Germany and Netherlands but not India, Brazil or South Africa) were already filed. 0 leaves. Chrome not available. Total 4308."
+  },
+  {
+   "date": "2026-11-21 16:57",
+   "note": "Run 2045 (global markets (UK Precise TV kids survey)): New: Precise TV and Giraffe Insights' survey of 1,000 British 2 to 12 year olds (spring 2025) found 72% watch YouTube for about 83 minutes a day, 57% usually alone (62% for Shorts), cartoons the top type (47%), and about half of boys aged 2 to 5 watch YouTube on a TV set. 2 leaves. Chrome not available. Total 4310."
   }
  ],
  "history": [
@@ -31359,6 +31373,10 @@
   {
    "date": "2026-11-21 16:56",
    "total": 4308
+  },
+  {
+   "date": "2026-11-21 16:57",
+   "total": 4310
   }
  ],
  "next_week_ideas": [
