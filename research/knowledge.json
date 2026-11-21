@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:37:17+05:30",
- "runs": 2173,
+ "updated": "2026-11-21T22:37:36+05:30",
+ "runs": 2174,
  "branches": [
   {
    "id": "platforms",
@@ -31294,12 +31294,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 18:44",
-   "note": "Summary of 2 older log entries (2026-11-21 18:43 to 2026-11-21 18:44): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 18:45",
-   "note": "Run 2095 (global markets (DataReportal 2026 mid year)): New: DataReportal's April 2026 update says 59% of YouTube's ad audience now sees ads on TV screens and TV reach beats mobile in 22 of 87 countries including the US; India alone is over a quarter of Instagram's ad reach (about 513M); GWI Kids puts social or messaging use at about 85% of 8 to 15 year old internet users across 18 countries. Dubbing and channel ranking items were already filed. 3 leaves. Chrome not available. Total 4389."
+   "note": "Summary of 2 older log entries (2026-11-21 18:44 to 2026-11-21 18:45): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:46",
@@ -31612,6 +31608,10 @@
   {
    "date": "2026-11-21 22:37",
    "note": "Run 2173 (YouTube algorithm (November change log recheck)): Nothing new: AIR's and OutlierKit's 2026 change logs (updated 3 and 4 Nov) still end on 29 Oct (the spam 30 day lock test), and custom AI feeds, the original Shorts priority and the Dublin summit points were already filed. 0 leaves. Chrome not available. Total 4457."
+  },
+  {
+   "date": "2026-11-21 22:37",
+   "note": "Run 2174 (Shorts and Reels (Instagram ranking news recheck)): Nothing new: Instagram's Features long horizontal video test, linked Reel previews, Clips as Reels, Your Algorithm controls and the three official ranking signals were already filed. 0 leaves. Chrome not available. Total 4457."
   }
  ],
  "history": [
@@ -32205,6 +32205,10 @@
   },
   {
    "date": "2026-11-21 22:36",
+   "total": 4457
+  },
+  {
+   "date": "2026-11-21 22:37",
    "total": 4457
   },
   {
