@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:46:00+05:30",
- "runs": 2030,
+ "updated": "2026-11-21T16:46:48+05:30",
+ "runs": 2031,
  "branches": [
   {
    "id": "platforms",
@@ -2897,6 +2897,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2019
+    },
+    {
+     "t": "Socialinsider's 2026 Reels study (about 140K business Reels, Jan to Jun 2026) puts the average skip rate at about 65% for accounts with 1K to 5K followers and about 60% for 100K to 1M, so any Bro Bros Reel skipped by fewer than about 60% of viewers is already beating normal brand Reels; our digger Reel at 37% is the model to copy.",
+     "src": "Jeena citing Socialinsider, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2031
+    },
+    {
+     "t": "In the same 2026 data Reels reach about 9.8% of followers for 1K to 5K follower accounts but only about 5% for 100K to 1M, so small accounts get proportionally more reach and early growth on Instagram depends on non follower discovery through shares, not on follower count.",
+     "src": "Jeena citing Socialinsider, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2031
     }
    ]
   },
@@ -30125,12 +30139,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:09",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:35",
-   "note": "Run 1952 (competitor deep dive (Hey Bear Sensory, The Kiboomers)): Mostly filed already. New: as of 19 Nov 2026 Hey Bear Sensory had not uploaded for about a month and had no Christmas video yet, while its newest 10 uploads average about 5.5M views against 61M for its first 10; a fresh Christmas dance party gap is open in the sensory dance niche. 1 leaves. Chrome not available. Total 4237."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:36",
@@ -30443,6 +30453,10 @@
   {
    "date": "2026-11-21 16:46",
    "note": "Run 2030 (YouTube algorithm (YouTube Kids, AI slop policy, Shorts freshness)): Nothing new: YouTube's decade of family features post (Jan 2026), Fairplay's AI slop letter and YouTube's reply, the inauthentic content policy and Mario Joos' theory that Shorts older than about 30 days lose reach were all already filed. 0 leaves. Chrome not available. Total 4290."
+  },
+  {
+   "date": "2026-11-21 16:46",
+   "note": "Run 2031 (Shorts and Reels (skip rate and reach benchmarks)): Mostly filed (Socialinsider's length study, Metricool's 8.5 second average watch). New: Socialinsider's Jan to Jun 2026 Reels data puts the average skip rate at about 65% for 1K to 5K follower accounts and 60% for big ones, with reach rate falling from about 9.8% of followers for small accounts to 5% for large, a benchmark for our own 37% to 100% Reels skip rates. 2 leaves. Chrome not available. Total 4292."
   }
  ],
  "history": [
@@ -31177,6 +31191,10 @@
   {
    "date": "2026-11-21 16:46",
    "total": 4290
+  },
+  {
+   "date": "2026-11-21 16:46",
+   "total": 4292
   }
  ],
  "next_week_ideas": [
