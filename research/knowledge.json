@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:04:29+05:30",
- "runs": 2208,
+ "updated": "2026-11-21T23:05:24+05:30",
+ "runs": 2209,
  "branches": [
   {
    "id": "platforms",
@@ -20908,6 +20908,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2208
+    },
+    {
+     "t": "A Brazilian zoo animal song channel (Canções do Zoo, 211K subscribers, 292 videos) drew only about 1.2M views in the 28 days to 16 Nov 2026 and its best recent upload is a 60 minute zoo music compilation at about 239K, so in Brazil a generic animal song catalogue without a strong character struggles next to Galinha Pintadinha's story episodes.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2209
     }
    ]
   },
@@ -31595,16 +31602,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 20:45",
-   "note": "Summary of 2 older log entries (2026-11-21 20:44 to 2026-11-21 20:45): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 20:51",
-   "note": "Run 2132 (competitor deep dive (dance led kids channels)): New: CoComelon runs a separate Dance Party channel of long dance compilations (about 36 minutes average, under two uploads a week), and Australia's Ready Set Dance, a teach kids to dance show, has about 935M views from 419 videos; data on these is thin (vidIQ figures partly from mid 2025). 2 leaves. Chrome not available. Total 4426."
-  },
-  {
-   "date": "2026-11-21 20:51",
-   "note": "Run 2133 (TRENDS (memes, Elf on the Shelf, dance lists)): Nothing new: Know Your Meme's October nominees (AI Rumpelstiltskin, black cat clapping), the 2026 dance challenge list (APT, Apple Dance, Budots) and Elf on the Shelf idea roundups were already filed or not family relevant; trend bank unchanged. 0 leaves. Chrome not available. Total 4426."
+   "note": "Summary of 3 older log entries (2026-11-21 20:45 to 2026-11-21 20:51): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 20:52",
@@ -31917,6 +31916,10 @@
   {
    "date": "2026-11-21 23:04",
    "note": "Run 2208 follow up: replaced the idea 'Tickle Monster Giggles' with a big brother, little brother question song, backed by a 59M view sibling song in Vietnam and sibling duo hits in Turkey."
+  },
+  {
+   "date": "2026-11-21 23:05",
+   "note": "Run 2209 (global markets (Brazil Portuguese song channels)): Small addition: a Brazilian zoo animal song channel with 292 videos gets only about 1.2M views a month and its best recent upload is an hour long compilation at about 239K, while dub pages for the biggest global brands showed no data. End of run: 39 rounds (runs 2171 to 2209), 46 new leaves, mostly vidIQ channel data from Germany, Korea, Turkey, Vietnam, Thailand, Indonesia, Japan, France, Mexico and Czechia (local original songs beat straight dubs; animal sounds, vehicles, potty humour, morning exercise and sibling songs win everywhere), plus Nielsen's TV share, the 2027 Grammy kids nominees and Virlo trend stages; three ideas replaced (piñata party, bug rescue squad, big brother little brother); no posting slot or trend bank change. 1 leaves. Chrome not available. Total 4501."
   }
  ],
  "history": [
@@ -32655,6 +32658,10 @@
   {
    "date": "2026-11-21 23:04",
    "total": 4500
+  },
+  {
+   "date": "2026-11-21 23:05",
+   "total": 4501
   }
  ],
  "next_week_ideas": [
