@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T06:45:09+05:30",
- "runs": 1765,
+ "updated": "2026-11-21T06:45:43+05:30",
+ "runs": 1766,
  "branches": [
   {
    "id": "platforms",
@@ -5305,6 +5305,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1753
+    },
+    {
+     "t": "Metricool's 2026 YouTube study (about 800K videos from 71K accounts) found that channels with 2K to 10K subscribers were the most likely to move up a size tier, with 16% doing so between 2025 and 2026, and growth gets harder at higher tiers, so our current band (about 2,150 subscribers) is the best stage to push steady weekly output.",
+     "src": "Metricool newsletter, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1766
     }
    ]
   },
@@ -28428,10 +28435,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-21 03:52",
-   "note": "Run 1687 (TRENDS (Roblox new games and October 2026 player report, December calendar recheck: Christmas Jumper Day, Hanukkah)): Christmas Jumper Day (10 Dec), Hanukkah (4 to 12 Dec) and the egg stealing and cat sumo Roblox games were already filed. New: Roblox weekends average about 14.5M players online against 9.7M on weekdays, so kids' free play peaks on weekends, and a cosy chip shop game that turns spooky at night shows day to night switch formats are rising. Chrome not available. Total 3962."
-  },
-  {
    "date": "2026-11-21 03:53",
    "note": "Run 1688 (global markets (dubbing and localisation statistics, India dubbed viewing, separate language channel test rechecked)): The 77% of Indian Gen Z watching translated creators, the 32 against 3,897 Spanish channel test and the dubbing versus subtitle country split were already filed. New: across about 3,000 channels only 13% have paid for professional dubbing and 36% have tried AI dubbing, while multi language audio adds about 45% views on average, so the dubbed kids song lane is still far from crowded. Chrome not available. Total 3964."
   },
@@ -28742,13 +28745,13 @@
   {
    "date": "2026-11-21 06:45",
    "note": "Run 1765 (YouTube algorithm (AIR month by month log, Home feed Shorts share, family features)): Nothing new: AIR's 2026 change log lists no November changes, and the October items (original Shorts boost, Ask YouTube, saved Home feeds, the 20 USD payout test), the Home feed shift toward Shorts and the parent Shorts timer were already filed. No leaves added. Chrome not available. Total 4047."
+  },
+  {
+   "date": "2026-11-21 06:45",
+   "note": "Run 1766 (Shorts and Reels (Metricool 2026 YouTube study, Reels 'Your algorithm' control)): Mostly known. New: in Metricool's 2026 study (about 800K videos, 71K accounts) channels with 2K to 10K subscribers were the most likely to climb a size tier (16% did between 2025 and 2026), which is exactly our band at about 2,150 subscribers. Chrome not available. Total 4048."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 06:48",
-   "total": 3577
-  },
   {
    "date": "2026-11-20 06:48",
    "total": 3579
@@ -29944,6 +29947,10 @@
   {
    "date": "2026-11-21 06:45",
    "total": 4047
+  },
+  {
+   "date": "2026-11-21 06:45",
+   "total": 4048
   }
  ],
  "next_week_ideas": [
