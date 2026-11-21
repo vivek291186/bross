@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:01:20+05:30",
- "runs": 2203,
+ "updated": "2026-11-21T23:02:17+05:30",
+ "runs": 2204,
  "branches": [
   {
    "id": "platforms",
@@ -10569,6 +10569,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2203
+    },
+    {
+     "t": "Turkey's public kids channel TRT Çocuk (7.54M subscribers, about 58M views in 28 days) is led by episodes of Eymen ile Çimen, a pair of child characters, with 'Robot Brotherhood' at 73.7M views and three more episodes at 14 to 28M, so a two character duo built on sibling style friendship is exactly what Turkish families already binge, a strong sign for dubbing Bro Bros into Turkish.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2204
     }
    ]
   },
@@ -20873,6 +20880,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2203
+    },
+    {
+     "t": "Turkey's Furkiş TV (581K subscribers, 537M views) gets about 8.5M views a month and its top videos are local rhyme medleys about body parts ('my chubby hands', 62.7M), a red fish and a watermelon man, a buzzing bee and 'if you like strawberries, clap' (20M each), so in Turkey, as in Korea and Germany, body action and food clapping songs in the home language lead.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2204
     }
    ]
   },
@@ -31554,11 +31568,7 @@
  "log": [
   {
    "date": "2026-11-21 19:44",
-   "note": "Summary of 3 older log entries (2026-11-21 19:43 to 2026-11-21 19:44): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 19:44",
-   "note": "Run 2127 (Shorts and Reels (kids Shorts and family Reels check)): Nothing new: the 2026 most viewed Shorts chart, Metricool's Instagram study (two thirds of Reel views in 3 days) and the borrowed character Shorts channel were already filed. End of run: 15 rounds (runs 2113 to 2127), 6 new leaves (Thank You Baby trickle, YouTube image comments, Jingle Bell Brazil remix growth, Turkey and Philippines kids rankings), no trend bank, idea or posting slot changes. 0 leaves. Chrome not available. Total 4418."
+   "note": "Summary of 2 older log entries (2026-11-21 19:44 to 2026-11-21 19:44): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 20:41",
@@ -31871,6 +31881,10 @@
   {
    "date": "2026-11-21 23:01",
    "note": "Run 2203 (global markets (Indonesia kids song channels)): New: Indonesia's Keira Charma Fun earns about 59M views a month from 306 videos with local rhymes, ABCs and wake up songs, while NANANA KIDS, which mass posted 11,591 compilation videos, has collapsed to about 137K views a month. 2 leaves. Chrome not available. Total 4494."
+  },
+  {
+   "date": "2026-11-21 23:02",
+   "note": "Run 2204 (competitor deep dive (Turkey kids songs and public kids TV)): New: Turkey's Furkiş TV lives on body and food rhyme medleys ('my chubby hands' 62.7M, 'if you like strawberries, clap'), and Turkey's public kids channel TRT Çocuk draws about 58M views a month led by a two brothers style cartoon duo whose robot brotherhood episode has 73.7M views. 2 leaves. Chrome not available. Total 4496."
   }
  ],
  "history": [
@@ -32589,6 +32603,10 @@
   {
    "date": "2026-11-21 23:01",
    "total": 4494
+  },
+  {
+   "date": "2026-11-21 23:02",
+   "total": 4496
   }
  ],
  "next_week_ideas": [
