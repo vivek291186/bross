@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:56:55+05:30",
- "runs": 1982,
+ "updated": "2026-11-21T13:58:11+05:30",
+ "runs": 1983,
  "branches": [
   {
    "id": "platforms",
@@ -2869,6 +2869,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1960
+    },
+    {
+     "t": "In the 30 most viewed YouTube Shorts uploaded in 2026 (AIFreeForever, checked 21 Nov) Brazilian Portuguese kids content holds three places: a dragon saves the apple story (about 820M), a bird, puppy, frog and kitten animal song (about 767M) and a 'strong or weak?' opposites song with a sun character (about 762M), more than any English kids Short, so a Portuguese dub of our animal and opposites songs is a strong Shorts test.",
+     "src": "AIFreeForever, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1983
     }
    ]
   },
@@ -29839,11 +29846,7 @@
  "log": [
   {
    "date": "2026-11-21 12:02",
-   "note": "Earlier: older log entries summarised (runs up to 1903); see git history."
-  },
-  {
-   "date": "2026-11-21 12:02",
-   "note": "Run 1904 (YouTube algorithm (YouTube Kids app tools, Common Sense data)): Nothing new: the 2026 parental Shorts timer, YouTube Kids older kids content and the Common Sense zero to eight and tween census findings were already filed. No leaves added. 0 leaves. Chrome not available. Total 4193."
+   "note": "Earlier: older log entries summarised (runs up to 1904); see git history."
   },
   {
    "date": "2026-11-21 12:03",
@@ -30156,6 +30159,10 @@
   {
    "date": "2026-11-21 13:56",
    "note": "Run 1982 (YouTube algorithm (title tests and title formulas)): Nothing new: YouTube's Test and Compare for titles and vidIQ's 4M video title formula study (transformation and caught on camera frames above average, question endings below) were already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
+  },
+  {
+   "date": "2026-11-21 13:58",
+   "note": "Run 1983 (Shorts (most viewed Shorts of 2026, checked 21 Nov)): Mostly filed. New: two more Brazilian Portuguese kids songs sit in the 30 most viewed Shorts of 2026, a bird, puppy, frog and kitten animal song (about 767M) and a 'strong or weak?' opposites song (about 762M), so Portuguese now has three kids Shorts in the top 30, more than English. 1 leaves. Chrome not available. Total 4250."
   }
  ],
  "history": [
@@ -30698,6 +30705,10 @@
   {
    "date": "2026-11-21 13:56",
    "total": 4249
+  },
+  {
+   "date": "2026-11-21 13:58",
+   "total": 4250
   }
  ],
  "next_week_ideas": [
