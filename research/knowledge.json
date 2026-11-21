@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:42:33+05:30",
- "runs": 1855,
+ "updated": "2026-11-21T10:43:34+05:30",
+ "runs": 1856,
  "branches": [
   {
    "id": "platforms",
@@ -19123,6 +19123,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1843
+    },
+    {
+     "t": "Perso's State of AI Dubbing 2026 (about 113K projects from about 4K creators in 80 countries) lists Hindi, Portuguese and English as the top three dub targets for animation, with Hindi as animation's signature language and Portuguese at about 16.3% of animation projects (its user base leans South Asian), so for Bro Bros the first two extra audio tracks remain Portuguese and Hindi, then Spanish.",
+     "src": "perso.ai, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1856
+    },
+    {
+     "t": "YouTube Brazil's 2025 year end culture report lists the country's top trending topics as brainrot, a survival drama, a Roblox horror game, a K pop demon hunter film, a Bobbie Goods style colouring book craze and blind box dolls, plus creator houses with shared story universes for young viewers, so Brazilian kids reward silly absurd humour and ongoing character worlds; a recurring Bro Bros gang with running jokes fits better than one off songs.",
+     "src": "services.google.com (YouTube Culture and Trends Brazil), Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1856
     }
    ]
   },
@@ -28949,12 +28963,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 06:52",
-   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
    "date": "2026-11-21 07:36",
-   "note": "Run 1777 (TRENDS (Virlo November board, brainstacking, archived Sep dances)): New: TikTok 'brainstacking' (screen free stacks of puzzles, colouring, reading, journaling) is the fresh wellness format of November; Virlo shows Sep dance trends (If It's Lovin', I Don't Gotta Hide It) archived after about 8 weeks; 24 of 76 November trends still active. Added a 'Brain break stack' entry to the trend bank. Chrome not available. Total 4056."
+   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
   },
   {
    "date": "2026-11-21 07:36",
@@ -29267,6 +29277,10 @@
   {
    "date": "2026-11-21 10:42",
    "note": "Run 1855 (topics and seasons (holiday 2026 toy themes)): ABC's 21 Oct trending toys list (from Amazon, Walmart and social buzz) is led by laughing tickle plush, a pet cub that grows and roars, ugly cute plush, slow rise squishies, add water hatching dinosaurs and sizzling pretend kitchens, all themes we can sing about without brands. 2 leaves. Chrome not available. Total 4122."
+  },
+  {
+   "date": "2026-11-21 10:43",
+   "note": "Run 1856 (global markets (dubbing languages for animation, Brazil year end trends)): Perso's State of AI Dubbing 2026 (about 113K projects) names Hindi, Portuguese and English as animation's top three dub targets, with Portuguese at 16.3% of animation projects; YouTube Brazil's 2025 year end report shows young audience topics led by brainrot, a Roblox horror game, a K pop film, a colouring book craze and blind box dolls. 2 leaves. Chrome not available. Total 4124."
   }
  ],
  "history": [
@@ -30241,6 +30255,10 @@
   {
    "date": "2026-11-21 10:42",
    "total": 4122
+  },
+  {
+   "date": "2026-11-21 10:43",
+   "total": 4124
   }
  ],
  "next_week_ideas": [
