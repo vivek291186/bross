@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:43:55+05:30",
- "runs": 2185,
+ "updated": "2026-11-21T22:44:17+05:30",
+ "runs": 2186,
  "branches": [
   {
    "id": "platforms",
@@ -31406,12 +31406,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 18:55",
-   "note": "Summary of 2 older log entries (2026-11-21 18:54 to 2026-11-21 18:55): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 18:56",
-   "note": "Run 2107 (global markets (Nigeria diaspora, AIR kids tactics)): New detail: Yoola's data (TechCabal, Oct 2025) shows Nollywood YouTube views split about 50% Nigeria, 10% Ghana, 6% US, 5% UK, 4% Kenya, 3% South Africa and 2% Canada, with Nigerian CPMs about 0.50 to 2.50 USD against up to 15 USD for US views; AIR's 28 Oct 2026 kids tactics page repeats cases already filed (calm thumbnails, dubbing durations, 24/7 streams, YouTube Kids app entry). 1 leaves. Chrome not available. Total 4410."
+   "note": "Summary of 2 older log entries (2026-11-21 18:55 to 2026-11-21 18:56): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:02",
@@ -31724,6 +31720,10 @@
   {
    "date": "2026-11-21 22:43",
    "note": "Run 2185 (YouTube algorithm and screens (TV share)): New: Nielsen's August 2026 Gauge put YouTube at a record 15.8% of all US TV time, about twice Netflix, even as kids returned to school; September and October will be published together after a method change. YouTube Kids app news had nothing new. 2 leaves. Chrome not available. Total 4473."
+  },
+  {
+   "date": "2026-11-21 22:44",
+   "note": "Run 2186 (Shorts and Reels (fast growing kids Shorts channels)): Nothing new: Tubefilter's week of 15 Nov charts (Chispita, Plim Plim, VocaVoca cooling) and AIR's localized kids channel cases were already filed. 0 leaves. Chrome not available. Total 4473."
   }
  ],
  "history": [
@@ -32369,6 +32369,10 @@
   },
   {
    "date": "2026-11-21 22:43",
+   "total": 4473
+  },
+  {
+   "date": "2026-11-21 22:44",
    "total": 4473
   }
  ],
