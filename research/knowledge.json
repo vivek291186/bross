@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T08:39:05+05:30",
- "runs": 1805,
+ "updated": "2026-11-21T08:40:13+05:30",
+ "runs": 1806,
  "branches": [
   {
    "id": "platforms",
@@ -14300,6 +14300,27 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1733
+    },
+    {
+     "t": "When rigging a Bro Bros character through Meshy's API, leave out the old texture image option (deprecated 23 Oct 2026): if it is sent, that single image replaces the model's own textures and the PBR maps are lost, so the brothers would look flatter in Blender.",
+     "src": "Meshy API changelog, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1806
+    },
+    {
+     "t": "Meshy retired its meshy-5 model on 10 Oct 2026 (requests now fail) and added a Deprecations page with retirement dates for every model, so any saved prompt or script that still names meshy-5 must switch to meshy-6-lite or newer before the next week's characters and props are made.",
+     "src": "Meshy API changelog, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1806
+    },
+    {
+     "t": "Meshy's API changelog to 26 Oct 2026 and its web changelog for October list no animation, motion preset, retargeting or text to motion change, so the July 2026 text to motion limits (2 to 10 second clips) still set how long each Bro Bros dance move prompt can be.",
+     "src": "Meshy changelogs, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1806
     }
    ]
   },
@@ -28690,12 +28711,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 05:36",
-   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1726)."
-  },
-  {
    "date": "2026-11-21 05:37",
-   "note": "Run 1727 (our own results (Metricool YouTube 14 to 21 Nov)): Metricool now has 18 Nov: 984 views and no new subscribers, so 14 to 18 Nov averaged about 1,000 views a day with only 6 new subscribers in five days; nothing after 18 Nov yet. Chrome not available. Total 4007."
+   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1727)."
   },
   {
    "date": "2026-11-21 05:38",
@@ -29008,13 +29025,13 @@
   {
    "date": "2026-11-21 08:39",
    "note": "Run 1805 (music craft (infant music studies, Suno v6, kids charts)): Correction: rereading PsyPost's report of the July 2026 eLife baby study shows higher pitched song versions did predict more movement at 3, 6 and 12 months and a stronger brain response at 6 months, so two music leaves that said pitch made no difference were removed as wrong; the correct leaves stay. Suno v6, the Italian rhythm study and Spotify Wrapped timing were already filed. No new leaves. Chrome not available. Total 4085."
+  },
+  {
+   "date": "2026-11-21 08:40",
+   "note": "Run 1806 (visual craft (Meshy API changelog Oct 2026, Blender 5.3, thumbnails)): New: Meshy's API changelog (newest entry 26 Oct) deprecated the texture image option on Rigging on 23 Oct (sending it wipes the model's own PBR maps) and retired the meshy-5 model on 10 Oct, with no animation or text to motion change; Blender 5.3 and thumbnail face studies were already filed. Chrome not available. Total 4088."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 10:35",
-   "total": 3624
-  },
   {
    "date": "2026-11-20 10:35",
    "total": 3628
@@ -30210,6 +30227,10 @@
   {
    "date": "2026-11-21 08:39",
    "total": 4085
+  },
+  {
+   "date": "2026-11-21 08:40",
+   "total": 4088
   }
  ],
  "next_week_ideas": [
