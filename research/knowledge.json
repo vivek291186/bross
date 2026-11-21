@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:43:24+05:30",
- "runs": 2253,
+ "updated": "2026-11-22T01:44:20+05:30",
+ "runs": 2255,
  "branches": [
   {
    "id": "platforms",
@@ -31840,16 +31840,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:38",
-   "note": "Summary of 2 older runs (2026-11-21 22:38 to 2026-11-21 22:38): see git history for details."
-  },
-  {
-   "date": "2026-11-21 22:38",
-   "note": "Run 2178 (TRENDS (Wrapped and scout elf season check)): Nothing new: Spotify Wrapped 2026 is still only predicted for Wednesday 2 Dec, and the scout elf, elf stuck in the TV and disguised gift formats were already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4457."
-  },
-  {
    "date": "2026-11-21 22:39",
-   "note": "Run 2179 (global markets (small language and niche kids channels)): New: Czech BÉBA earns about 8M views a month from under three songs a month, led by an animal sounds song; Turkey's toy play BebeKo has stalled at zero subscriber growth; a Nepal AI baby comedy Shorts channel spiked to 82M views in weeks then went quiet; UK's Steve and Maggie still gets 1.4M views a month with no upload in a year, led by silly monster songs. 4 leaves. Chrome not available. Total 4461."
+   "note": "Summary of 2 older runs (2026-11-21 22:38 to 2026-11-21 22:39): see git history for details."
   },
   {
    "date": "2026-11-21 22:40",
@@ -32158,6 +32150,14 @@
   {
    "date": "2026-11-22 01:43",
    "note": "Run 2253 (competitor deep dive (HeyKids, HeyHop Kids)): New: France based English channel HeyKids (4.79M subscribers) still draws about 15.6M views a month from old vehicle, Halloween and train songs while its new Body Parts song got under 5K views in five days; small US 3D channel HeyHop Kids (251 videos, 155K subscribers) has stalled at about 124K views a month on one upload a month. Dream English stats could not be read. 2 leaves. Chrome not available. Total 4535."
+  },
+  {
+   "date": "2026-11-22 01:44",
+   "note": "Run 2254 (TRENDS (Tokchart 21 Nov, Thanksgiving week)): Nothing new: Tokchart's 21 Nov top 10 (niki cover, Brazilian original audios, Jingle Bell Rock Brazil remix, GTA VI score) matches what was filed on 20 and 21 Nov; no fresh family Thanksgiving format found. Trend bank unchanged. 0 leaves. Chrome not available. Total 4535."
+  },
+  {
+   "date": "2026-11-22 01:44",
+   "note": "Run 2255 (rules and safety (Ofcom November reports, AI slop on YouTube Kids)): Nothing new: Ofcom's 24 Oct and 16 Nov child safety steps, the feed investigation, and the advocacy groups' call to ban AI slop from YouTube Kids were all already filed. 0 leaves. Chrome not available. Total 4535."
   }
  ],
  "history": [
@@ -33075,6 +33075,14 @@
   },
   {
    "date": "2026-11-22 01:43",
+   "total": 4535
+  },
+  {
+   "date": "2026-11-22 01:44",
+   "total": 4535
+  },
+  {
+   "date": "2026-11-22 01:44",
    "total": 4535
   }
  ],
