@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:41:33+05:30",
- "runs": 2091,
+ "updated": "2026-11-21T18:42:32+05:30",
+ "runs": 2092,
  "branches": [
   {
    "id": "platforms",
@@ -12984,6 +12984,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2080
+    },
+    {
+     "t": "A 2026 review of rhythm across development (Tillmann, Goswami and Moghimi, Annals of the New York Academy of Sciences) reports that infant directed speech and lullabies both carry their main beat near 2 per second (about 120 BPM) and that an 11 month old's brain locking onto that beat predicted vocabulary and sound skills at age 2, which backs our 110 to 125 BPM dance band with clear, strong beats on every syllable.",
+     "src": "Annals NYAS, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2092
+    },
+    {
+     "t": "In a randomised trial of 110 caregiver and baby pairs (Yale, Auckland and others, Child Development, May 2025) a four week phone nudge to sing raised singing, the only one of about a dozen soothing methods that went up, and caregivers reported happier babies, so a Bro Bros lullaby that parents can easily sing along to adds value in the family, not only on screen.",
+     "src": "EurekAlert, May 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2092
     }
    ]
   },
@@ -30755,12 +30769,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 15:43",
-   "note": "Summary of 2 older log entries (2026-11-21 15:42 to 2026-11-21 15:43): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 15:44",
-   "note": "Run 2013 (competitor deep dive (Sony's Kidzuko, Jack Hartmann)): New: Sony's Kidzuko hub (881K subscribers, about 300M views, 984 videos) gets only about 7.7M views a month despite famous film brands, and its top video is a gentle animal story about hatchlings finding lost eggs (54M), not a film clip; Jack Hartmann built his movement song channel from classroom songs written with kindergarten teachers and saw views jump once he added animation. 3 leaves. Chrome not available. Total 4277."
+   "note": "Summary of 2 older log entries (2026-11-21 15:43 to 2026-11-21 15:44): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 15:45",
@@ -31073,6 +31083,10 @@
   {
    "date": "2026-11-21 18:41",
    "note": "Run 2091 (TRENDS (Virlo board 21 Nov, loading reveal)): New: Virlo's 21 Nov board shows a 'loading percentage' transition (a progress bar climbs from 0% to 100%, then cut to the finished look) at its peak with about 660 videos, a kid safe reveal format added to the trend bank as 'Christmas loading bar'; a Spanish roundup logged a guitar riff sound rising from about 152K to 435K videos in nine days, showing riff led sounds spread fastest. Everything else on the board was already filed. Trend bank: added Christmas loading bar, dropped Confetti pop on the beat (lowest, generic). 2 leaves. Chrome not available. Total 4380."
+  },
+  {
+   "date": "2026-11-21 18:42",
+   "note": "Run 2092 (music craft (infant rhythm reviews)): New: a 2026 Annals of the NY Academy of Sciences review (Tillmann, Goswami, Moghimi) says infant directed speech and lullabies cluster near 2 beats a second (about 120 BPM) and that how well an 11 month old's brain locks onto that slow beat predicted vocabulary at age 2; a Yale led randomised trial (110 caregiver and baby pairs) found singing was the only soothing method that rose with a four week singing nudge, and babies' mood improved. Suno and other music items were already filed. 2 leaves. Chrome not available. Total 4382."
   }
  ],
  "history": [
@@ -32051,6 +32065,10 @@
   {
    "date": "2026-11-21 18:41",
    "total": 4380
+  },
+  {
+   "date": "2026-11-21 18:42",
+   "total": 4382
   }
  ],
  "next_week_ideas": [
