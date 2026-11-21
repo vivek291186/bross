@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:34:54+05:30",
- "runs": 1871,
+ "updated": "2026-11-21T11:36:12+05:30",
+ "runs": 1872,
  "branches": [
   {
    "id": "platforms",
@@ -29105,6 +29105,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1864
+    },
+    {
+     "t": "Virlo's TikTok and Instagram board on 21 Nov 2026 tracks 76 trends across about 26,000 videos, but none of its top 10 was first seen after 15 Nov and most are couple montages, makeup transitions and a risky piggyback flip, so late November is a lull and our December plan should lean on seasonal formats we control rather than wait for a new kid dance.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1872
+    },
+    {
+     "t": "The 'how Christmas dances will look this year' routine is three simple standing moves (a side to side step with swinging arms, one leg lift, a rhythmic bounce) and it peaked early: 58 creators the week to 13 Nov, only 9 the week to 20 Nov, 54.8M views in total, so a short repeated three move Christmas dance is a proven shape but should be our own original routine in December, not a copy of that sound.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1872
     }
    ]
   }
@@ -29131,12 +29145,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 07:57",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1791); see git history."
-  },
-  {
    "date": "2026-11-21 07:58",
-   "note": "Run 1793 (music craft (iTunes Top Kids Songs on 21 Nov 2026)): New: on 21 Nov the US iTunes kids top 25 had no Christmas songs yet but four Thanksgiving songs, two faith songs at the very top, six TV and game themes and five Danny Go! movement songs, so the Christmas switch on kids charts comes after Thanksgiving. Chrome not available. Total 4079."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1792); see git history."
   },
   {
    "date": "2026-11-21 07:59",
@@ -29449,6 +29459,10 @@
   {
    "date": "2026-11-21 11:34",
    "note": "Run 1871 (our results (Metricool YouTube channel trend and 20 Nov Reels)): YouTube grew from 2,130 to 2,150 subscribers between 7 and 20 Nov with about 1 new subscriber per 700 views; daily views rose about 20% week on week; the 20 Nov circus parade Reel (16 views, 87% skip) lost to the car Reel posted the same day. 3 leaves. Chrome not available. Total 4148."
+  },
+  {
+   "date": "2026-11-21 11:36",
+   "note": "Run 1872 (TRENDS (Virlo 21 Nov board, B&T November column)): Virlo's 21 Nov board (76 trends, about 26K videos) has no new format first seen after 15 Nov in its top 10, and the 'how Christmas dances will look' routine fell from 58 creators to 9 in a week, so the week before December is a lull; the B&T November column was already filed. 2 leaves. Chrome not available. Total 4150."
   }
  ],
  "history": [
@@ -30487,6 +30501,10 @@
   {
    "date": "2026-11-21 11:34",
    "total": 4148
+  },
+  {
+   "date": "2026-11-21 11:36",
+   "total": 4150
   }
  ],
  "next_week_ideas": [
