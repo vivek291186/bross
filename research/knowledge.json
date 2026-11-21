@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T05:36:43+05:30",
- "runs": 1726,
+ "updated": "2026-11-21T05:37:07+05:30",
+ "runs": 1727,
  "branches": [
   {
    "id": "platforms",
@@ -22119,6 +22119,13 @@
      "conf": "high",
      "date": "2026-11-20",
      "run": 1643
+    },
+    {
+     "t": "Metricool now shows 18 Nov 2026 for our YouTube channel (984 views, no new subscribers), so from 14 to 18 Nov we averaged about 1,000 views a day but gained only 6 subscribers in five days, which means views are not yet turning into subscribers and an end screen or subscribe moment in each song is worth testing.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1727
     }
    ]
   },
@@ -28141,10 +28148,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 20:48",
-   "note": "Run 1648 (music craft (Danny Go! brand path, toddler favourites); TRENDS skipped as rechecked at the start of this run): New: Danny Go! grew from a 2019 family and friends channel to 4.5M subscribers, nearly 5B views, 65 sold out shows, a Netflix series and a picture book; toddlers ask smart speakers for its clean up song by name, so short unique titles for utility songs matter. The Queensland rhythm trial and Suno v6 were already filed. Chrome not available. Total 3869."
-  },
-  {
    "date": "2026-11-20 20:49",
    "note": "Run 1649 (visual craft (TV Kids Festival preschool panel, A/B testing recheck)): Small find: buyers say China prefers very cute CG and the UK quirkier shows, toddlers choose by tapping thumbnails so a distinctive look matters, and demand for 3D preschool is rising; YouTube's title and thumbnail testing still excludes made for kids videos (already filed). Two AWN pages could not be read. Chrome not available. Total 3872."
   },
@@ -28455,13 +28458,13 @@
   {
    "date": "2026-11-21 05:36",
    "note": "Run 1726 (rules and safety (made for kids updates, FTC COPPA, Australia under 16 rules)): Nothing new: the Disney COPPA fine, Australia's under 16 ban and its new right to sue platforms, and YouTube's late 2025 age limits on gambling and violent game videos were already filed. No leaves added. Chrome not available. Total 4006."
+  },
+  {
+   "date": "2026-11-21 05:37",
+   "note": "Run 1727 (our own results (Metricool YouTube 14 to 21 Nov)): Metricool now has 18 Nov: 984 views and no new subscribers, so 14 to 18 Nov averaged about 1,000 views a day with only 6 new subscribers in five days; nothing after 18 Nov yet. Chrome not available. Total 4007."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 04:35",
-   "total": 3487
-  },
   {
    "date": "2026-11-20 04:37",
    "total": 3492
@@ -29657,6 +29660,10 @@
   {
    "date": "2026-11-21 05:36",
    "total": 4006
+  },
+  {
+   "date": "2026-11-21 05:37",
+   "total": 4007
   }
  ],
  "next_week_ideas": [
