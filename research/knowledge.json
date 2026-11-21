@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T00:42:50+05:30",
- "runs": 2234,
+ "updated": "2026-11-22T00:45:06+05:30",
+ "runs": 2237,
  "branches": [
   {
    "id": "platforms",
@@ -3009,6 +3009,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2211
+    },
+    {
+     "t": "Instagram stopped letting creators link Reels into a series on 28 Oct 2026, so a multi part Bro Bros story (part 1, part 2) can no longer be chained in the app; number the parts in the cover text and caption, pin part 1 on the profile and keep each story in a Highlight or a YouTube playlist instead.",
+     "src": "Metricool Instagram news, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2236
+    },
+    {
+     "t": "Roblox let creators make and sell their own avatar emotes from 7 Aug 2025, and user made dances then pushed 'dance' to the top Marketplace search in the second half of 2025, so a short, named Bro Bros signature move (4 to 8 counts, easy to loop) is the kind of dance kids want to own and repeat in games as well as videos.",
+     "src": "ComicBook, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2237
+    },
+    {
+     "t": "Roblox's 2025 Replay report counts about 274M avatar updates a day and 50M searches a day, with 87% of surveyed users saying avatar style helps them express themselves, so outfit change moments (a Christmas jumper swap, a costume reveal on the beat) are a native language for Roblox age kids and fit our Reels transitions.",
+     "src": "GamesBeat, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2237
     }
    ]
   },
@@ -31763,20 +31784,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 21:45",
-   "note": "Summary of 2 older runs (2026-11-21 21:44 to 2026-11-21 21:45): see git history for details."
-  },
-  {
-   "date": "2026-11-21 21:45",
-   "note": "Run 2159 (our own results (Metricool 19 to 21 Nov)): Nothing new: Metricool still shows only the 19 and 20 Nov uploads (car and traffic light Reel 55 views and 25 shares, circus parade Reel 16 views), already filed; today's 21 Nov posts have no analytics yet. 0 leaves. Chrome not available. Total 4441."
-  },
-  {
-   "date": "2026-11-21 21:46",
-   "note": "Run 2160 (TRENDS (winter snow formats and November roundup)): Nothing new: Startups.co.uk's November roundup (teeny tiny message, Christmas countdown overlays) and first snow reaction clips were already filed; the viral snow unicorn parents story turned out to be from 2019. Trend bank unchanged. 0 leaves. Chrome not available. Total 4441."
-  },
-  {
    "date": "2026-11-21 21:47",
-   "note": "Run 2161 (YouTube algorithm (Home and subscription feed)): Nothing new: Beaupre's Sep 2026 Creator Insider points (recommendations pulled per viewer, subscriber click rates near 10% are normal, Suggested beats the subscriptions feed, the repeat recommendation cap test) and Joos's Home row analysis were all already filed. 0 leaves. Chrome not available. Total 4441."
+   "note": "Summary of 2 older runs (2026-11-21 21:46 to 2026-11-21 21:47): see git history for details."
   },
   {
    "date": "2026-11-21 21:47",
@@ -32081,6 +32090,18 @@
   {
    "date": "2026-11-22 00:42",
    "note": "Run 2234 (visual craft (preschool animation design research)): Nothing new: a 2025 Thai review of animation design for preschoolers gave only general principles (plot, character, colour, music) with no numbers, and the main pacing study page was blocked. 0 leaves. Chrome not available. Total 4524."
+  },
+  {
+   "date": "2026-11-22 00:43",
+   "note": "Run 2235 (YouTube algorithm (AIR month by month guide, Shorts freshness)): Nothing new: AIR's October 2026 changes (original Shorts favoured over reuploads, Ask YouTube, hacked channel pause, saved custom Home feeds, 20 USD payout test, 30 day spam lock) and the Shorts 30 day freshness drop were already filed; AIR lists no November 2026 change yet. 0 leaves. Chrome not available. Total 4524."
+  },
+  {
+   "date": "2026-11-22 00:44",
+   "note": "Run 2236 (Shorts and Reels (Metricool Instagram news, 14 Nov)): Small addition: since 28 Oct 2026 creators can no longer link Reels into a series, so episode order must live in captions, pinned Reels and Highlights; Apple TV app, Use as reference, Features and Meta AI translation were already filed. 1 leaves. Chrome not available. Total 4525."
+  },
+  {
+   "date": "2026-11-22 00:45",
+   "note": "Run 2237 (other platforms (Roblox emotes and dance)): Small additions: Roblox opened custom emote making to creators in Aug 2025 and 'dance' then became the top Marketplace search; players change avatars about 274M times a day, so short signature dance emotes are how kids carry moves between games and videos. 2 leaves. Chrome not available. Total 4527."
   }
  ],
  "history": [
@@ -32923,6 +32944,18 @@
   {
    "date": "2026-11-22 00:42",
    "total": 4524
+  },
+  {
+   "date": "2026-11-22 00:43",
+   "total": 4524
+  },
+  {
+   "date": "2026-11-22 00:44",
+   "total": 4525
+  },
+  {
+   "date": "2026-11-22 00:45",
+   "total": 4527
   }
  ],
  "next_week_ideas": [
