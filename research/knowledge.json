@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:44:50+05:30",
- "runs": 1782,
+ "updated": "2026-11-21T07:45:47+05:30",
+ "runs": 1783,
  "branches": [
   {
    "id": "platforms",
@@ -28489,6 +28489,34 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1780
+    },
+    {
+     "t": "Buffer's 18 Nov 2026 TikTok song list has an 'And maybe it didn't work out because...' format: happy footage with on screen text revealing that a past setback turned out for the best, a gentle resilience story kids can follow.",
+     "src": "buffer.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1783
+    },
+    {
+     "t": "Another November TikTok format shows an ordinary day as workout app style stats (distance, time, 'personal bests'), a playful layout we can copy with kid stats like snacks eaten, jumps jumped and songs sung.",
+     "src": "buffer.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1783
+    },
+    {
+     "t": "Creators are acting out awkward misreads of unwritten social rules to Steve Lacy's 'Oh Yeah?', a skit format that works for kids as gentle manners comedy (waving at someone who was waving at somebody else).",
+     "src": "buffer.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1783
+    },
+    {
+     "t": "SocialPilot's 17 to 25 Nov window lists Thanksgiving and Friendsgiving prep (21 to 25 Nov in the US) as the main family moment of the week, with Mariah Carey's Christmas song already peaking at about 16.4M TikTok videos for gift guides.",
+     "src": "socialpilot.co, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1783
     }
    ]
   }
@@ -28517,10 +28545,6 @@
   {
    "date": "2026-11-20 13:44",
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-21 04:45",
-   "note": "Run 1704 (TRENDS (Later and SocialBee Reels roundups, Instagram Edits updates, family film dance trends; two AOL pages unreadable)): New: Instagram's 'Use as reference' option (iOS, Oct 2026) floats any Reel under 90 seconds over the camera with a countdown so creators can copy its timing, which is the native way to make reaction and dance along Reels; it suits a Bro Bros dance tutorial Reel that families copy. Chrome not available. Total 3986."
   },
   {
    "date": "2026-11-21 04:46",
@@ -28833,13 +28857,13 @@
   {
    "date": "2026-11-21 07:44",
    "note": "Run 1782 (visual craft (AIR Vania Mania thumbnail case, vidIQ thumbnail study, pacing research)): Nothing new: AIR's Vania Mania thumbnail rules (warm faces, one focal point, calm colours, no all caps), vidIQ's July thumbnail study and the 'fantastical content, not edit speed, tires kids' research were already filed. No leaves added. Chrome not available. Total 4060."
+  },
+  {
+   "date": "2026-11-21 07:45",
+   "note": "Run 1783 (TRENDS (Buffer trending TikTok songs, 18 Nov; SocialPilot TikTok 17 to 25 Nov)): New: three fresh family friendly TikTok formats from Buffer's 18 Nov list: 'and maybe it didn't work out because' (a setback that turned out well), fitness app style stats of an ordinary day, and acting out misread social rules. Added 'Bro's day in stats' to the trend bank; the SocialPilot week (My Moon My Man, camera shy, You're Under Arrest) was already filed. Chrome not available. Total 4064."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 07:43",
-   "total": 3605
-  },
   {
    "date": "2026-11-20 08:40",
    "total": 3608
@@ -30035,6 +30059,10 @@
   {
    "date": "2026-11-21 07:44",
    "total": 4060
+  },
+  {
+   "date": "2026-11-21 07:45",
+   "total": 4064
   }
  ],
  "next_week_ideas": [
@@ -30096,6 +30124,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Bro's day in stats",
+   "where": "TikTok (Buffer Nov 2026), adaptable to Reels and Shorts",
+   "status": "rising",
+   "use": "A 20 second Reel styled like a fitness app summary: big friendly numbers pop up over clips of Little Bro's day ('Jumps: 47', 'Snacks: 3', 'Songs sung: 9', 'New best: 10 second hop'), with our own upbeat song underneath, ending on Big Bro giving him a gold star. Dance for the 'new best' card: standing in place, hop on the spot four times, then both fists up in a victory pose."
+  },
   {
    "name": "Burst through the gift paper",
    "where": "TikTok, Reels and Shorts, every December",
@@ -30209,12 +30243,6 @@
    "where": "YouTube on the TV screen and Shorts, 1 to 24 Dec (seasonal, returns every year)",
    "status": "seasonal",
    "use": "A long, calm video for the family TV: TV static, then our own little helper elf (original design, not the trademarked one) waves from inside the screen, says it pressed the wrong button, and the Bros sing a short original 'Help Us Out' song while kids at home do the moves to free it (clap 3 times, stomp 3 times, spin once in place, push both hands forward). Loop it with snow and twinkle lights. Short version: 30 seconds of the same."
-  },
-  {
-   "name": "Silly sweater switch",
-   "where": "UK Christmas Jumper Day 10 Dec and US Ugly Sweater Day 18 Dec 2026, Reels and Shorts",
-   "status": "seasonal",
-   "use": "A 10 to 15 second one spot switch Short with our own 'Silly Sweater' chorus: the Bros stand still in plain shirts, clap once on the beat and are suddenly in over the top sweaters (a light up reindeer, a pom pom snowman); then a tiny proud dance: hands on hips, two shoulder shrugs, point at the sweater, one small hop in place. Meshy prompt: standing in place, hands on hips, shrug shoulders twice, point at own chest, small hop, no floor moves. Post 5 to 9 Dec and repost 16 to 18 Dec."
   }
  ],
  "posting_plan": {
