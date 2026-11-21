@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T02:35:06+05:30",
- "runs": 2272,
+ "updated": "2026-11-22T02:36:08+05:30",
+ "runs": 2273,
  "branches": [
   {
    "id": "platforms",
@@ -3030,6 +3030,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2237
+    },
+    {
+     "t": "Since about 18 Nov 2026 Instagram lets a Story be edited for up to 15 minutes after posting (text, music, stickers and drawings) while keeping its views and replies, with an 'Edited' label, so a typo or wrong link sticker on our daily 'new song out now' Story can be fixed instead of deleting it.",
+     "src": "Business Today, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2273
     }
    ]
   },
@@ -31896,12 +31903,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:50",
-   "note": "Summary of 2 earlier log entries (2026-11-21 22:50 to 2026-11-21 22:50): mostly small research rounds; see git history for details."
-  },
-  {
    "date": "2026-11-21 22:56",
-   "note": "Run 2196 (TRENDS (Know Your Meme roundups)): Nothing new: the only readable roundup was from April 2026 and the November ones could not be opened; no kid safe meme to add. Trend bank unchanged. 0 leaves. Chrome not available. Total 4484."
+   "note": "Summary of 2 earlier log entries (2026-11-21 22:50 to 2026-11-21 22:56): mostly small research rounds; see git history for details."
   },
   {
    "date": "2026-11-21 22:56",
@@ -32214,6 +32217,10 @@
   {
    "date": "2026-11-22 02:35",
    "note": "Run 2272 (music craft (UNICEF Innocenti Music of Life review, Nov 2026)): New: UNICEF Innocenti's November 2026 review of 70+ studies says singing calms babies about twice as long as talking, slow soft lullabies lower heart rate, parents' skill does not matter but daily singing does, and it flags adult style music videos as a risk; this backs a calm bedtime lullaby slot and kid safe dance moves. 5 leaves. Chrome not available. Total 4543."
+  },
+  {
+   "date": "2026-11-22 02:36",
+   "note": "Run 2273 (visual craft and platform tools (thumbnails, Blender, Studio, Stories)): Small addition: Instagram now lets a Story be edited for 15 minutes after posting (text, music, stickers, drawings, keeps views; shows an Edited label, announced about 18 Nov 2026); vidIQ thumbnails, Test and Compare, Blender 5.1, pacing studies and YouTube's TV co view count change were already filed. 1 leaves. Chrome not available. Total 4544."
   }
  ],
  "history": [
@@ -33208,6 +33215,10 @@
   {
    "date": "2026-11-22 02:35",
    "total": 4543
+  },
+  {
+   "date": "2026-11-22 02:36",
+   "total": 4544
   }
  ],
  "next_week_ideas": [
