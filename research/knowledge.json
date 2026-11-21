@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:57:39+05:30",
- "runs": 2046,
+ "updated": "2026-11-21T16:58:05+05:30",
+ "runs": 2047,
  "branches": [
   {
    "id": "platforms",
@@ -2911,6 +2911,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2031
+    },
+    {
+     "t": "Dubit's survey of 3,009 US and UK households (published early 2026) found TikTok overtakes YouTube as children's number one platform at about age 11 and daily TikTok use jumps sharply at age 8, so our core 2 to 8 audience is still a YouTube audience and TikTok matters mainly for older siblings sharing our dances.",
+     "src": "dubit.io, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2047
+    },
+    {
+     "t": "In the same Dubit data 53% of kids watch YouTube on a TV rather than a phone and parents are about 26 times more likely to trust YouTube while distrusting TikTok than the reverse, so living room friendly long videos on YouTube are where parent trust and kid viewing meet.",
+     "src": "dubit.io, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2047
+    },
+    {
+     "t": "Dubit's head of trends says children in the US and UK spend over 22% of their week on digital activities (about 12 hours of video and 10 of gaming), younger children mainly watching video and gaming growing from about 12, and more than half of under 13s play Roblox weekly.",
+     "src": "TV Kids (World Screen) Dubit session, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2047
     }
    ]
   },
@@ -30269,10 +30290,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 13:51",
-   "note": "Run 1968 (our results (YouTube uploads 19 to 21 Nov)): Nothing new: Metricool lists only the 19 Nov farm band video in the range and still has no view figures for uploads after 19 Nov. No leaves added. 0 leaves. Chrome not available. Total 4247."
-  },
-  {
    "date": "2026-11-21 13:52",
    "note": "Run 1969 (TRENDS (YouTube holiday formats, weekly Reels lists)): Nothing new: YouTube's holiday report (advent calendar views by month, wishlists, Secret Santa challenges, Vlogmas, What I got for Christmas) and the SocialPilot and SocialBee Reels audio lists to 25 Nov were already filed. No leaves added. 0 leaves. Chrome not available. Total 4247."
   },
@@ -30583,6 +30600,10 @@
   {
    "date": "2026-11-21 16:57",
    "note": "Run 2046 (visual craft (character appeal research, thumbnail tests)): Nothing new: Disney Research's age based character design study, the Purdue silhouette to soul appeal thesis and YouTube's Test and Compare thumbnail and title testing were all already filed. 0 leaves. Chrome not available. Total 4310."
+  },
+  {
+   "date": "2026-11-21 16:58",
+   "note": "Run 2047 (platforms (Dubit US and UK household research)): New: Dubit's survey of 3,009 US and UK households (early 2026) found 53% of kids watch YouTube on a TV, TikTok overtakes YouTube as kids' top platform at about age 11 with daily TikTok use jumping at 8, and parents are far more likely to trust YouTube than TikTok; Dubit's trends team also says over half of under 13s play Roblox weekly. 3 leaves. Chrome not available. Total 4313."
   }
  ],
  "history": [
@@ -31381,6 +31402,10 @@
   {
    "date": "2026-11-21 16:57",
    "total": 4310
+  },
+  {
+   "date": "2026-11-21 16:58",
+   "total": 4313
   }
  ],
  "next_week_ideas": [
