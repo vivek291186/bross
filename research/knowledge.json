@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:38:33+05:30",
- "runs": 2155,
+ "updated": "2026-11-21T21:44:17+05:30",
+ "runs": 2156,
  "branches": [
   {
    "id": "platforms",
@@ -10429,6 +10429,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2144
+    },
+    {
+     "t": "Lingokids' Feb 2026 survey of 1,000 families in 40 countries found 84% of children remembered the characters they met in its learning games, 59% then asked to watch those characters' shows and 14% met a character there for the first time (17% of under 3s), so characters met in play send kids looking for their videos.",
+     "src": "Lingokids press release, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2156
+    },
+    {
+     "t": "Lingokids (about 20M children a month, character games played 500M+ times) describes Gen Alpha as game first and interactive first and says over 63% of screen time for children 8 and under is spent interacting with apps rather than watching, which supports giving Bro Bros simple interactive formats (copy the move, guess what comes next, point and say) inside our songs.",
+     "src": "Lingokids citing Insights Family, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2156
     }
    ]
   },
@@ -31169,11 +31183,7 @@
  "log": [
   {
    "date": "2026-11-21 17:49",
-   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 17:50): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 17:51",
-   "note": "Run 2077 (YouTube Kids app (how videos pass the filter)): Mostly filed (automated filters on thumbnails, titles and video, human spot checks, removal for everyone after a report, no personal recommendations for new profiles). New: ads inside YouTube Kids are pre approved and exclude whole categories such as food and drink, beauty and fitness, so the advertiser pool inside YouTube Kids is small and most of our ad income will come from made for kids views in the main YouTube app. 2 leaves. Chrome not available. Total 4364."
+   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 17:51): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:52",
@@ -31486,6 +31496,10 @@
   {
    "date": "2026-11-21 21:38",
    "note": "Run 2155 (global markets (Bangladesh, Egypt, Colombia, Mexico recheck)): Nothing new: vidIQ's 20 Nov Bangladesh top 50 (no kids song channel, craft and drawing channels at 3rd and 7th), El Reino Infantil's Mexico figures (39.1M subscribers, 32.4B views) and AIR's Vania Mania audio track case were all already filed. 0 leaves. Chrome not available. Total 4439."
+  },
+  {
+   "date": "2026-11-21 21:44",
+   "note": "Run 2156 (competitor deep dive (Lingokids and Gracie's Corner)): New: Lingokids' Feb 2026 survey of 1,000 families in 40 countries found 59% of kids then asked to watch shows of characters they met in its games and 14% first discovered a character there (17% under age 3), and its brand head calls Gen Alpha game first, interactive first, so Bro Bros characters should live in simple play formats too, not only songs. Gracie's Corner facts were already filed. 2 leaves. Chrome not available. Total 4441."
   }
  ],
  "history": [
@@ -32012,6 +32026,10 @@
   {
    "date": "2026-11-21 21:38",
    "total": 4439
+  },
+  {
+   "date": "2026-11-21 21:44",
+   "total": 4441
   }
  ],
  "next_week_ideas": [
