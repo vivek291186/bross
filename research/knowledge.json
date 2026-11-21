@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:35:01+05:30",
- "runs": 1820,
+ "updated": "2026-11-21T09:41:12+05:30",
+ "runs": 1821,
  "branches": [
   {
    "id": "platforms",
@@ -28734,6 +28734,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1810
+    },
+    {
+     "t": "'Boom Clap Confetti Pop' is the freshest TikTok format on Virlo (first seen 6 Oct 2026, 198 videos, about 206M views, top clip 32M, 124 new creators in the week to 21 Nov): people mouth the words and burst a party popper or throw confetti exactly on the beat, often as a funny fail.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1821
+    },
+    {
+     "t": "A 30 second AI made song a woman's sister sent the family about no longer hosting Thanksgiving for 20 people drew about 225K TikTok views and 3,500 comments (Daily Dot, 17 Nov 2026), showing that short personal holiday songs travel as family messages.",
+     "src": "dailydot.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1821
+    },
+    {
+     "t": "Virlo's November 2026 board (25,948 videos scanned) is topped by the piggyback flip (peaking, 1,447 videos), a nostalgic POV, a 'my moon my man' couple montage (rising) and 'while they're out partying btw' (rising); none fit a kids channel except as a reminder that confetti, pets and silly reveals are the family friendly corner.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1821
     }
    ]
   }
@@ -28761,11 +28782,7 @@
  "log": [
   {
    "date": "2026-11-21 05:47",
-   "note": "Summary of 2 older log entries (runs up to 1741): steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-21 05:47",
-   "note": "Run 1742 (Shorts and Reels (Instagram long form Features, platform news this week)): Mostly known. New detail: each Instagram Feature (horizontal video up to 90 minutes, still in limited testing) can carry up to eight linked Reels that send viewers to it, which suits a song compilation with one Reel per song once we get access. Chrome not available. Total 4024."
+   "note": "Summary of 2 older log entries (runs up to 1742): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 05:49",
@@ -29078,6 +29095,10 @@
   {
    "date": "2026-11-21 09:35",
    "note": "Run 1820 (competitor deep dive (Moonbug newsroom, ChuChu TV, BabyBus)): Moonbug is now licensing its YouTube born shows (Blippi, JJ's Animal Time, Melon Patch, Meekah, Little Angel, Little Baby Bum) to Paramount+ worldwide from 1 Nov, and Meekah teamed with a big soap brand on a 'my body is amazing' movement song; ChuChu TV and BabyBus checks found nothing new. Chrome not available. Total 4095."
+  },
+  {
+   "date": "2026-11-21 09:41",
+   "note": "Run 1821 (TRENDS (Virlo November board, Thanksgiving week, Daily Dot)): New fresh format: lip sync then pop confetti exactly on the beat (198 TikTok videos, about 206M views since 6 Oct, 124 new creators this week); a family made AI song about Thanksgiving hosting went viral, showing short personal songs as family messages; Virlo's top 10 is led by the piggyback flip (unsafe) and couple montages (not for us). Trend bank: added Confetti pop on the beat, dropped Same spot, years apart. Chrome not available. Total 4098."
   }
  ],
  "history": [
@@ -29912,6 +29933,10 @@
   {
    "date": "2026-11-21 09:35",
    "total": 4095
+  },
+  {
+   "date": "2026-11-21 09:41",
+   "total": 4098
   }
  ],
  "next_week_ideas": [
@@ -29974,6 +29999,12 @@
  ],
  "trend_bank": [
   {
+   "name": "Confetti pop on the beat",
+   "where": "TikTok (fresh, 206M views since 6 Oct)",
+   "status": "rising",
+   "use": "Short or Reel: Big Bro and Little Bro sing the hook of our own song, freeze for one beat, then a confetti cannon bursts on the drop and both throw arms up in a star shape. Meshy prompt: character stands in place, sways side to side twice, freezes, then jumps lightly and throws both arms up in a V. Optional funny fail version: Little Bro's popper only puffs a tiny cloud, he shrugs, then it bursts late."
+  },
+  {
    "name": "Chores ballet waltz",
    "where": "Instagram Reels",
    "status": "rising",
@@ -30032,12 +30063,6 @@
    "where": "Instagram Reels (Later's roundup of 20 Nov 2026, original audio pep talk 'get up' format)",
    "status": "rising",
    "use": "Little Bro trips over a snowball or drops his ice cream (small, funny setback, never a real hurt), sits sadly for one beat; Big Bro leans in and gives a short cheering pep talk in our own song ('Get up, get up, you can do it!'); Little Bro jumps up and both do a proud comeback move: standing in place, fists pump up twice, then a big two arm 'ta da' with a little hop. Good for a 'keep trying' song Short."
-  },
-  {
-   "name": "Same spot, years apart",
-   "where": "TikTok, Reels and Shorts (peak, about 556K videos on its sound, 17 to 25 Nov 2026)",
-   "status": "peak",
-   "use": "Split the frame or cut on the beat: first a 'baby' version of the Bros (smaller, rounder, wobbly) doing one pose in our usual stage spot, then the same pose in the same spot as they are now, with a caption 'First song vs today'. Use our own gentle song, never the trending track. Dance at the end: standing in place, both copy the baby pose (arms up, small bounce), then one big jump in place and a wave."
   },
   {
    "name": "Guess the disguised present",
