@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:47:26+05:30",
- "runs": 1883,
+ "updated": "2026-11-21T11:48:27+05:30",
+ "runs": 1884,
  "branches": [
   {
    "id": "platforms",
@@ -29252,6 +29252,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1878
+    },
+    {
+     "t": "The evergreen family format where kids ask a parent to 'dance like it's the 80s' and film the result (one mother's clip passed 12M views, refreshed by Upworthy in Feb 2026) works because the parent's simple old moves (head bob, robot arms, side step) are funny and loving at once, so a Bro Bros episode where the brothers ask Grandpa to show his old dance, then copy it, suits our song and Meshy's standing moves.",
+     "src": "Upworthy, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1884
+    },
+    {
+     "t": "Several TikTok gags still circulating in late 2026, such as men 'attacking' floating food in a full bathtub like an alligator, involve water or face down play that children could copy dangerously, so we never mirror bath, pool or breath holding stunts even as harmless looking jokes.",
+     "src": "Daily Dot, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1884
     }
    ]
   }
@@ -29278,12 +29292,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:38",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1803); see git history."
-  },
-  {
    "date": "2026-11-21 08:39",
-   "note": "Run 1805 (music craft (infant music studies, Suno v6, kids charts)): Correction: rereading PsyPost's report of the July 2026 eLife baby study shows higher pitched song versions did predict more movement at 3, 6 and 12 months and a stronger brain response at 6 months, so two music leaves that said pitch made no difference were removed as wrong; the correct leaves stay. Suno v6, the Italian rhythm study and Spotify Wrapped timing were already filed. No new leaves. Chrome not available. Total 4085."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1804); see git history."
   },
   {
    "date": "2026-11-21 08:40",
@@ -29596,6 +29606,10 @@
   {
    "date": "2026-11-21 11:47",
    "note": "Run 1883 (topics and seasons (Dec holidays, toy lists, Pinterest 2027)): Nothing new: December holidays from Hanukkah to Boxing Day, the 2026 hot toy lists and the Baby Shark revenue story were already filed, Tubefilter's next weekly chart is not out yet and Pinterest Predicts 2027 is still unpublished. No leaves added. 0 leaves. Chrome not available. Total 4169."
+  },
+  {
+   "date": "2026-11-21 11:48",
+   "note": "Run 1884 (TRENDS (Daily Dot, Upworthy, family dance formats; trend bank repair)): No new kid dance this week; the evergreen 'kids ask parents to dance like it's the 80s' format (one clip over 12M views) is a proven family idea for a grandparent episode. Restored 'Advent door a day' and 'Christmas tree sway', which the two earlier rounds of this run pushed out by mistake, and dropped the fading 'Reach out, surprise friend' and the overlapping 'Cover the lens reveal'. 2 leaves. Chrome not available. Total 4171."
   }
  ],
  "history": [
@@ -30682,6 +30696,10 @@
   {
    "date": "2026-11-21 11:47",
    "total": 4169
+  },
+  {
+   "date": "2026-11-21 11:48",
+   "total": 4171
   }
  ],
  "next_week_ideas": [
@@ -30754,6 +30772,18 @@
    "where": "YouTube long form and Shorts, TikTok, Reels (December)",
    "status": "seasonal",
    "use": "Big Bro and Little Bro each pull a friend's name from a hat, sneak around making a handmade gift (the camera follows each in turn), then everyone swaps on the last chorus and opens at the same time with a confetti pop; end on the funniest gift (a sock puppet of Big Bro). Our own song, a counting chorus 'shh, it's a secret'. Dance step for Meshy: standing in place, finger to lips on 'shh', two tiptoe steps left and right, then both arms open wide on 'surprise'."
+  },
+  {
+   "name": "Advent door a day",
+   "where": "YouTube Shorts and Reels daily December series (Vlogmas, Shortsmas), 1 to 24 Dec",
+   "status": "seasonal",
+   "use": "From 1 Dec post one 15 second Short a day: a big wooden advent calendar, the Bros count 'one, two, three, open!' and a door pops open to show a soft squishy toy we invent (a snow bunny, a jam donut bear) plus one new dance step from our own Christmas song. Steps for Meshy: standing, knock knock on the air twice with one fist, then pull an imaginary door open with both hands and jump in place with arms up. On 24 Dec post the full song with all 24 steps as one dance."
+  },
+  {
+   "name": "Christmas tree sway",
+   "where": "TikTok and Instagram Reels (AI Christmas dance, mid Nov 2026)",
+   "status": "rising",
+   "use": "A 5 to 8 second vertical Short with our own jingly Christmas chorus: both Bros in Santa hats stand in front of our 3D Christmas tree and do the tiny routine three times: sway left and right for four beats, clap once above the head, then one small turn in place. Meshy prompt: standing in place, gentle side to side sway, one overhead clap, a slow 360 degree turn, no floor moves. End with the caption 'Your turn! Sway, clap, spin!' so families copy it."
   },
   {
    "name": "Silent dinner table glances",
@@ -30846,22 +30876,10 @@
    "use": "A 15 second Reel or Short: Little Bro flops on the sofa and sighs, on screen text 'We did not do anything this year...', then twelve one second clips from our own 2026 songs labelled January to December (snow dance, rocket ride, tomato soup, freeze dance and so on), ending on both Bros jumping with arms up to our own 'What a year!' chorus. Uses only our own footage and music; post in the first half of December and again on 31 Dec."
   },
   {
-   "name": "Reach out, surprise friend",
-   "where": "TikTok, 19 to 20 Nov 2026 (Virlo; creators down 36% week on week by 20 Nov)",
-   "status": "fading",
-   "use": "Little Bro slowly reaches one hand toward the camera on a soft held note of our own song, cut, and his hand lands on a fluffy puppy (or a snowman's carrot nose) for a giggle. Copy the reach and cut only, never the pop song used in the trend. Meshy move: standing, one arm extends slowly forward at shoulder height with fingers wiggling, body leans a little forward, then pulls back with a happy shrug."
-  },
-  {
    "name": "Spell it with your body",
    "where": "Instagram Reels (stop motion, listed 19 Nov 2026)",
    "status": "rising",
    "use": "Short with our own original spelling jingle: the brothers spell a 3 or 4 letter word (SNOW, STAR, BROS) one pose per beat with a quick cut between poses, then shout the word together and invite kids to copy. Meshy prompts, standing in place: arms straight up for I, arms up in a V for V or Y, one arm up and one out to the side for L, hands on head in a round shape for O, arms out wide for T."
-  },
-  {
-   "name": "Cover the lens reveal",
-   "where": "TikTok and Reels transition ('cover then come back'), Nov 2026",
-   "status": "rising",
-   "use": "A 10 second Reel: Big Bro holds a hand up to the camera covering the view, then pulls it away to show the bare room now fully decorated and both Bros in matching festive hats dancing to our own song. Meshy prompt: standing in place, raise right hand toward camera and hold, then lower it and do a big two arm wave and happy bounce in place."
   }
  ],
  "posting_plan": {
