@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T03:46:04+05:30",
- "runs": 2286,
+ "updated": "2026-11-22T04:37:12+05:30",
+ "runs": 2288,
  "branches": [
   {
    "id": "platforms",
@@ -21174,6 +21174,13 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2275
+    },
+    {
+     "t": "The 2027 Kidscreen Awards nominations (17 Nov 2026, 121 nominees in 33 categories) are led by Disney and Netflix with 21 each, then BBC 12, PBS 11, WildBrain 6 and Sesame Workshop 5, and add new Best Educational Series, Best Educational Experience and Best Host categories, so the industry is rewarding clear learning value more than ever; winners are named from the week of 11 Jan 2027.",
+     "src": "Senal News, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2288
     }
    ]
   },
@@ -32008,16 +32015,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 23:04",
-   "note": "Summary of 2 earlier log entries (2026-11-21 23:03 to 2026-11-21 23:04): mostly small research rounds; see git history for details."
-  },
-  {
-   "date": "2026-11-21 23:04",
-   "note": "Run 2208 follow up: replaced the idea 'Tickle Monster Giggles' with a big brother, little brother question song, backed by a 59M view sibling song in Vietnam and sibling duo hits in Turkey."
-  },
-  {
    "date": "2026-11-21 23:05",
-   "note": "Run 2209 (global markets (Brazil Portuguese song channels)): Small addition: a Brazilian zoo animal song channel with 292 videos gets only about 1.2M views a month and its best recent upload is an hour long compilation at about 239K, while dub pages for the biggest global brands showed no data. End of run: 39 rounds (runs 2171 to 2209), 46 new leaves, mostly vidIQ channel data from Germany, Korea, Turkey, Vietnam, Thailand, Indonesia, Japan, France, Mexico and Czechia (local original songs beat straight dubs; animal sounds, vehicles, potty humour, morning exercise and sibling songs win everywhere), plus Nielsen's TV share, the 2027 Grammy kids nominees and Virlo trend stages; three ideas replaced (piñata party, bug rescue squad, big brother little brother); no posting slot or trend bank change. 1 leaves. Chrome not available. Total 4501."
+   "note": "Summary of earlier runs: Summary of earlier runs: Summary of 2 earlier log entries (2 Run 2209 (global markets (Brazil Portuguese song channels)): ..."
   },
   {
    "date": "2026-11-21 23:36",
@@ -32326,6 +32325,14 @@
   {
    "date": "2026-11-22 03:46",
    "note": "Run 2286 (visual craft and tools (Meshy changelog, Suno v6)): Nothing new: Meshy's changelog still has no November entry (newest is October: T2.5 topology, N1 stylised textures, part editing), so text to motion is unchanged since July; Suno v6 features were already filed. End of run: 7 rounds (runs 2280 to 2286), 7 new leaves: Farm Band's late surge to 1,132 views, morning long videos ahead (about 580 vs 300 views), Shorts stuck near 9 views, empty queue for 23 to 29 Nov, Boom Clap Confetti Pop accelerating (added to the trend bank), POV hooks with the best hit rate, no new Christmas kid dance yet. 0 leaves. Chrome not available. Total 4559."
+  },
+  {
+   "date": "2026-11-22 04:36",
+   "note": "Run 2287 (TRENDS (NewEngen 20 Nov, Clipchamp, Virlo Christmas dances, Know Your Meme)): Nothing new: NewEngen's 20 Nov list (Thanksgiving dinner glances, Chipmunks trio, Dame Hombro, runway hip pop, go go go), Clipchamp's October update, the faded Christmas dances on Virlo and the Remember November polar bear were all already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4559."
+  },
+  {
+   "date": "2026-11-22 04:37",
+   "note": "Run 2288 (global markets (Kidscreen 2027 nominations, Ampere at MIPJUNIOR, Ofcom, EU Kids Online)): Small addition: the 2027 Kidscreen Awards nominations (17 Nov) are led by Disney and Netflix with 21 each, then BBC, PBS, WildBrain and Sesame, with new educational and host categories, a sign that learning value is what the industry now rewards; Ampere's MIPJUNIOR talk, Netflix creator rankings, Roy Morgan and EU Kids Online were already filed. 1 leaves. Chrome not available. Total 4560."
   }
  ],
  "history": [
@@ -33376,6 +33383,14 @@
   {
    "date": "2026-11-22 03:46",
    "total": 4559
+  },
+  {
+   "date": "2026-11-22 04:36",
+   "total": 4559
+  },
+  {
+   "date": "2026-11-22 04:37",
+   "total": 4560
   }
  ],
  "next_week_ideas": [
