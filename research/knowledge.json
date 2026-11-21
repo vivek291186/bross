@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:08:17+05:30",
- "runs": 2054,
+ "updated": "2026-11-21T17:35:52+05:30",
+ "runs": 2055,
  "branches": [
   {
    "id": "platforms",
@@ -2932,6 +2932,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2047
+    },
+    {
+     "t": "Instagram's First Draft button (rolling out on iOS from late Aug 2026, separate from the Edits app) picks highlights from camera roll clips and trims them into a short Reel automatically, with every cut still editable, so a quick behind the scenes Reel from our Blender render clips can be made in seconds.",
+     "src": "digitaltrends.com, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2055
     }
    ]
   },
@@ -30316,6 +30323,34 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2053
+    },
+    {
+     "t": "NewEngen's Christmas list updated 19 Nov 2026 names themed Christmas trees (one colour, candy, a hobby or even a stack of books shaped as a tree) as a 2026 format, which suits a Bro Bros build along Short where each verse adds one colour of ornaments until the tree is done.",
+     "src": "newengen.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2055
+    },
+    {
+     "t": "The same NewEngen list says 2026 holiday content started the day after Halloween (countdowns, tree up videos) and that 'what I got for Christmas' haul videos start on 25 Dec, so our gift and unwrapping themed Shorts should be ready to post on 25 and 26 Dec while plain Christmas songs can run all through December.",
+     "src": "newengen.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2055
+    },
+    {
+     "t": "Parents on TikTok are sharing the 'want, need, wear, read' rule for kids' Christmas gifts (NewEngen, Nov 2026), a four part pattern that maps neatly onto a four verse counting song where the brothers name one gift for each word.",
+     "src": "newengen.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2055
+    },
+    {
+     "t": "The 'Remember November 2026 is coming' meme (an AI singing polar bear, revived late Aug 2026, Know Your Meme Sep 2026) is peaking this month but has an eerie, cursed tone and runs on a copyrighted pop song, so it is not a fit for a preschool channel.",
+     "src": "knowyourmeme.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2055
     }
    ]
   }
@@ -30343,11 +30378,7 @@
  "log": [
   {
    "date": "2026-11-21 13:54",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
-   "date": "2026-11-21 13:54",
-   "note": "Run 1976 (global markets (Vietnam kids song channels)): Nothing new: POPS Kids, BabyBus Vietnamese, the 'Mot con vit' duck song and Vietnam's draft rules for under 16 accounts were already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
+   "note": "Summary of 2 older runs up to Run 1976 (global markets (Vietnam kids s...: see git history for details."
   },
   {
    "date": "2026-11-21 13:54",
@@ -30660,6 +30691,10 @@
   {
    "date": "2026-11-21 17:08",
    "note": "Run 2054 (YouTube algorithm (supervised accounts, Shorts timer)): Nothing new: YouTube's supervised kid accounts with the zero minute Shorts timer across MENA and Turkiye (from 1 to 2 Jul 2026) were already filed. End of run: 31 rounds (runs 2024 to 2054), 41 new leaves net, 3 trend bank entries added (We could stay here or go up, Four corners turn, Upside down flip reveal), 'The urge to...' dropped as faded, 2 song ideas added (Ba Ba Boom, Open the Book) and the vacuum song restored in place of the feelings song, posting slots unchanged. Page not published (artifact tools not available this run). 0 leaves. Chrome not available. Total 4321."
+  },
+  {
+   "date": "2026-11-21 17:35",
+   "note": "Run 2055 (TRENDS (NewEngen Christmas list 19 Nov, Instagram First Draft)): New: themed Christmas trees (a colour, candy or book tree) are a named 2026 trend, Christmas season content is now said to start on 1 Nov, 'what I got' hauls run from 25 Dec, and the want, need, wear, read gift rule is trending with parents; Instagram's iOS only First Draft button auto cuts camera roll clips into a Reel. The Remember November 2026 AI polar bear meme was revived but is eerie and uses a copyrighted song, so skipped. Added a 'Build a themed tree' entry to the trend bank. 5 leaves. Chrome not available. Total 4326."
   }
  ],
  "history": [
@@ -31490,6 +31525,10 @@
   {
    "date": "2026-11-21 17:08",
    "total": 4321
+  },
+  {
+   "date": "2026-11-21 17:35",
+   "total": 4326
   }
  ],
  "next_week_ideas": [
@@ -31551,6 +31590,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Build a themed tree, one colour per beat",
+   "where": "TikTok and Instagram, Christmas 2026 (NewEngen 19 Nov)",
+   "status": "seasonal",
+   "use": "A 20 second Short to our own Christmas song: an empty tree, then on each beat the Bros add one colour of baubles (red, blue, green, gold) and say the colour, last beat the star lights up and they cheer. Motion: standing in place, reach up and place with one hand, then a small hop and arms up."
+  },
   {
    "name": "Upside down flip reveal",
    "where": "TikTok, Reels (peaking since late Aug 2026)",
@@ -31652,12 +31697,6 @@
    "where": "TikTok and Instagram Reels (AI Christmas dance, mid Nov 2026)",
    "status": "rising",
    "use": "A 5 to 8 second vertical Short with our own jingly Christmas chorus: both Bros in Santa hats stand in front of our 3D Christmas tree and do the tiny routine three times: sway left and right for four beats, clap once above the head, then one small turn in place. Meshy prompt: standing in place, gentle side to side sway, one overhead clap, a slow 360 degree turn, no floor moves. End with the caption 'Your turn! Sway, clap, spin!' so families copy it."
-  },
-  {
-   "name": "Silent dinner table glances",
-   "where": "TikTok (NewEngen 20 Nov 2026)",
-   "status": "rising",
-   "use": "A 12 second Short at the family dinner table: one cookie left on the plate, Big Bro and Little Bro trade slow side eye looks on each beat of our own funny tune (look left, look right, eyebrows up), freeze, then both break into a smile and split the cookie in half. Standing or sitting still, no floor moves; caption 'Who gets the last cookie?'"
   },
   {
    "name": "Confetti pop on the beat",
