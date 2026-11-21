@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:54:43+05:30",
- "runs": 1893,
+ "updated": "2026-11-21T11:55:04+05:30",
+ "runs": 1894,
  "branches": [
   {
    "id": "platforms",
@@ -29370,11 +29370,7 @@
  "log": [
   {
    "date": "2026-11-21 08:45",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1813); see git history."
-  },
-  {
-   "date": "2026-11-21 08:45",
-   "note": "Run 1815 (Shorts and Reels (Meta teen supervision, Shorts loop and replay data)): Nothing new: Meta's teen supervision and 13+ settings, Dash Social's replayed follow along Shorts benchmark and the Shorts length studies were already filed. No leaves added. Chrome not available. Total 4092."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1814); see git history."
   },
   {
    "date": "2026-11-21 08:46",
@@ -29687,6 +29683,10 @@
   {
    "date": "2026-11-21 11:54",
    "note": "Run 1893 (posting times (Sprout Instagram study, eMarketer kids time on YouTube)): New: Sprout's 2026 study (about 2B engagements, 307K profiles, late Nov to late Feb) finds Instagram's best hours are weekday early afternoons to evenings local time with weekends and 3 to 7 AM weakest, and its education accounts peak around 3 to 5 PM; eMarketer says US kids under 12 spend about 26 minutes a day on YouTube against under 5 on other social apps. Slots unchanged. 3 leaves. Chrome not available. Total 4182."
+  },
+  {
+   "date": "2026-11-21 11:55",
+   "note": "Run 1894 (rules and monetisation (COPPA enforcement, CPM by country)): Nothing new: the Disney 10M USD COPPA settlement over mislabelled kids videos and the 2026 RPM by country tables (Dynamoi, AIR's 300 channel study) were already filed. No leaves added. 0 leaves. Chrome not available. Total 4182."
   }
  ],
  "history": [
@@ -30812,6 +30812,10 @@
   },
   {
    "date": "2026-11-21 11:54",
+   "total": 4182
+  },
+  {
+   "date": "2026-11-21 11:55",
    "total": 4182
   }
  ],
