@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:05:24+05:30",
- "runs": 2209,
+ "updated": "2026-11-21T23:36:26+05:30",
+ "runs": 2210,
  "branches": [
   {
    "id": "platforms",
@@ -5746,6 +5746,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2181
+    },
+    {
+     "t": "Google's 16 Nov 2026 family safety push in India highlights a Shorts feed limit that lets parents cut a child's time in the vertical feed to zero while long educational videos stay available, so in a market where parents use it, only our long songs can still reach the child; Shorts should funnel to the full song, not replace it.",
+     "src": "MediaNews4U and The Tech Outlook, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2210
     }
    ]
   },
@@ -23624,6 +23631,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2207
+    },
+    {
+     "t": "In the same 16 Nov 2026 India announcement YouTube launched a youth digital wellbeing playlist with creators covering bedtime routines and screen habits, which signals that YouTube is promoting calm routine content; Bro Bros bedtime and wind down songs that end with a clear 'time to sleep' close fit that push.",
+     "src": "MediaNews4U, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2210
     }
    ]
   },
@@ -31603,11 +31617,7 @@
  "log": [
   {
    "date": "2026-11-21 20:51",
-   "note": "Summary of 3 older log entries (2026-11-21 20:45 to 2026-11-21 20:51): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 20:52",
-   "note": "Run 2134 (rules and safety (made for kids, UK under 16 plan, ad rates)): Nothing new: the UK under 16 ban (YouTube in scope, spring 2027, possible widening to YouTube Kids), Australia's results and country CPM tables were all already filed. 0 leaves. Chrome not available. Total 4426."
+   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:52): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 20:53",
@@ -31920,6 +31930,10 @@
   {
    "date": "2026-11-21 23:05",
    "note": "Run 2209 (global markets (Brazil Portuguese song channels)): Small addition: a Brazilian zoo animal song channel with 292 videos gets only about 1.2M views a month and its best recent upload is an hour long compilation at about 239K, while dub pages for the biggest global brands showed no data. End of run: 39 rounds (runs 2171 to 2209), 46 new leaves, mostly vidIQ channel data from Germany, Korea, Turkey, Vietnam, Thailand, Indonesia, Japan, France, Mexico and Czechia (local original songs beat straight dubs; animal sounds, vehicles, potty humour, morning exercise and sibling songs win everywhere), plus Nielsen's TV share, the 2027 Grammy kids nominees and Virlo trend stages; three ideas replaced (piñata party, bug rescue squad, big brother little brother); no posting slot or trend bank change. 1 leaves. Chrome not available. Total 4501."
+  },
+  {
+   "date": "2026-11-21 23:36",
+   "note": "Run 2210 (YouTube algorithm (mid November changes)): New: Google's 16 Nov India family push lets parents cap teens' Shorts feed time down to zero while long videos stay open, and adds a YouTube wellbeing playlist on bedtime routines; no ranking change found for 8 to 21 Nov (custom feeds, Clips to Shorts and Hype were already filed). 2 leaves. Chrome not available. Total 4503."
   }
  ],
  "history": [
@@ -32662,6 +32676,10 @@
   {
    "date": "2026-11-21 23:05",
    "total": 4501
+  },
+  {
+   "date": "2026-11-21 23:36",
+   "total": 4503
   }
  ],
  "next_week_ideas": [
