@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:48:56+05:30",
- "runs": 2264,
+ "updated": "2026-11-22T01:49:40+05:30",
+ "runs": 2265,
  "branches": [
   {
    "id": "platforms",
@@ -10688,6 +10688,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2264
+    },
+    {
+     "t": "Oddbods, the wordless 3D comedy brand (11.9M subscribers, 9.6B views, 2,905 videos), drew about 26M views in the 28 days to 14 Nov 2026 with no subscriber growth, and its three most viewed videos are holiday specials (two 2022 Mother's Day stories at about 48M and 42M and a 2021 Christmas movie at about 37M), so for a channel whose humour travels without words, a long holiday special is the strongest evergreen asset; a 20 to 30 minute Bro Bros Christmas special fits this.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2265
     }
    ]
   },
@@ -31847,12 +31854,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:45",
-   "note": "Summary of 2 older runs (2026-11-21 22:45 to 2026-11-21 22:45): see git history for details."
-  },
-  {
    "date": "2026-11-21 22:46",
-   "note": "Run 2189 (visual craft (Meshy and Suno tool updates)): Nothing new: Meshy's changelog has no November entry (Meshy Edit, Auto Split and T2.5 from October and text to motion from July were already filed), and Suno v6 and v5.5 were already filed. 0 leaves. Chrome not available. Total 4476."
+   "note": "Summary of 2 older runs (2026-11-21 22:45 to 2026-11-21 22:46): see git history for details."
   },
   {
    "date": "2026-11-21 22:46",
@@ -32165,6 +32168,10 @@
   {
    "date": "2026-11-22 01:48",
    "note": "Run 2264 (competitor deep dive (Johny's World of Music, Koo Koo TV Hindi)): Small additions: US compilation channel Johny's World of Music still drew about 11.9M views in 28 days with no upload since June, all from 2022 compilations; India's Koo Koo TV Hindi (12.6M subscribers) has flatlined at about 5.7M views a month with zero subscriber growth, so Hindi story cartoons are fading. Kids Funny Songs was already filed. 2 leaves. Chrome not available. Total 4536."
+  },
+  {
+   "date": "2026-11-22 01:49",
+   "note": "Run 2265 (competitor deep dive (Oddbods, wordless comedy)): Small addition: Oddbods (wordless 3D comedy, 11.9M subscribers) still makes about 26M views in 28 days with zero subscriber growth, and its three biggest videos are holiday specials (two Mother's Day stories and a Christmas movie); JoJo Rhymes and Pandobi pages were stale or unreadable. 1 leaves. Chrome not available. Total 4537."
   }
  ],
  "history": [
@@ -33127,6 +33134,10 @@
   {
    "date": "2026-11-22 01:48",
    "total": 4536
+  },
+  {
+   "date": "2026-11-22 01:49",
+   "total": 4537
   }
  ],
  "next_week_ideas": [
