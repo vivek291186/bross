@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:07:59+05:30",
- "runs": 1948,
+ "updated": "2026-11-21T13:08:48+05:30",
+ "runs": 1949,
  "branches": [
   {
    "id": "platforms",
@@ -12543,6 +12543,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1948
+    },
+    {
+     "t": "A randomised trial (Kalil, Mayer, Oreopoulos and Shah, 2024) gave 818 preschool and kindergarten children in 47 US schools 3 to 5 minutes a day of short animated music and dance videos teaching one word at a time (the Big Word Club programme); after four months they scored 0.30 standard deviations higher on the taught words and kept the gain two months later, which is strong evidence that short, repeated song and move videos teach real vocabulary, so each Bro Bros song should teach one clear target word with a matching move.",
+     "src": "Becker Friedman Institute working paper, Feb 2024",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1949
     }
    ]
   },
@@ -29741,11 +29748,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1869); see git history."
-  },
-  {
-   "date": "2026-11-21 10:57",
-   "note": "Run 1870 (rules (AI slop crackdown, made for kids news)): Nothing new: the January 2026 AI slop channel removals (about 4.7B views), the July inauthentic content monetisation update and faceless creator fallout were already filed. No leaves added. End of run: 22 rounds (runs 1849 to 1870), 37 new leaves, 1 trend bank entry added (silent dinner table glances), 4 song ideas added, posting plan test extended (18:00 IST Reel test). Chrome not available. Total 4145."
+   "note": "Earlier: older log entries summarised (runs up to 1870); see git history."
   },
   {
    "date": "2026-11-21 11:34",
@@ -30058,6 +30061,10 @@
   {
    "date": "2026-11-21 13:07",
    "note": "Run 1948 (other platforms (iTunes kids songs chart, 21 Nov)): New: on the US iTunes kids songs chart three of the top six are gentle faith songs bought by parents, alongside TV themes (Bluey, Sofia), a Thanksgiving dance and YouTube born hits (Baby Shark, Ms Rachel's Wheels on the Bus, Danny Go's garbage truck song); for a global channel the lesson is calm, warm reassurance songs and job or vehicle dance songs, not religion itself. 2 leaves. Chrome not available. Total 4235."
+  },
+  {
+   "date": "2026-11-21 13:08",
+   "note": "Run 1949 (music craft (song videos and vocabulary)): New: a randomised trial of 818 preschool and kindergarten children in 47 US schools found 3 to 5 minutes a day of animated music and dance vocabulary videos raised scores on the taught words by 0.30 standard deviations after four months, lasting at least two months; the 'sung vs spoken' 4 year old study was already filed. 1 leaves. Chrome not available. Total 4236."
   }
  ],
  "history": [
@@ -30464,6 +30471,10 @@
   {
    "date": "2026-11-21 13:07",
    "total": 4235
+  },
+  {
+   "date": "2026-11-21 13:08",
+   "total": 4236
   }
  ],
  "next_week_ideas": [
