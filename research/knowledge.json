@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:54:47+05:30",
- "runs": 2105,
+ "updated": "2026-11-21T18:55:54+05:30",
+ "runs": 2106,
  "branches": [
   {
    "id": "platforms",
@@ -30918,6 +30918,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2103
+    },
+    {
+     "t": "SocialBee's 19 Nov 2026 Reels list has a stop motion format where creators spell a word letter by letter with their bodies or pets in quick cut poses (the L O V E version), a perfect learning Reel for us: the Bros spell short words like S N O W or J O Y with their arms, one letter per beat, with the letter shown on screen.",
+     "src": "socialbee.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2106
+    },
+    {
+     "t": "The same list (5 Nov 2026 entry) has a duo format where two people bump back to back, look surprised, then break into the same short dance together, which suits our two brothers exactly: a back bump on the first beat of our chorus, a turn, a shared 4 count move.",
+     "src": "socialbee.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2106
     }
    ]
   }
@@ -30944,12 +30958,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 16:42",
-   "note": "Summary of 2 older log entries (2026-11-21 16:36 to 2026-11-21 16:42): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 16:43",
-   "note": "Run 2027 (other platforms (Nielsen H1 2026, Roblox November risers)): Nothing new: Nielsen's first half 2026 ranking (Bluey about 22.8B minutes, Ms. Rachel 8.6B, Gabby's Dollhouse) and GGRecon's November fastest growing Roblox games (Don't Splash, Break and Steal an Egg, Cat Battles; none music based) were already filed; Netflix's 16 to 22 Nov list is not out yet. Our own results focus was skipped because Metricool was fully analysed earlier today. 0 leaves. Chrome not available. Total 4290."
+   "note": "Summary of 2 older log entries (2026-11-21 16:42 to 2026-11-21 16:43): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:44",
@@ -31262,6 +31272,10 @@
   {
    "date": "2026-11-21 18:54",
    "note": "Run 2105 (visual craft (parents and AI made content)): New: Azaria's Family Report 2026 (Feb 2026) finds about 66% of parents trust a brand less when they suspect its ad or post is AI made and only 1 in 20 find AI content useful; Morning Consult's Gen Alpha 2026 survey (1,018 US parents, May 2026) shows streaming video watched weekly by 83% of kids, tablets the main device (62%, 77% at ages 7 to 9) and TV the top way parents discover kids brands (46%). Pacing and eye tracking studies were already filed. 3 leaves. Chrome not available. Total 4407."
+  },
+  {
+   "date": "2026-11-21 18:55",
+   "note": "Run 2106 (TRENDS (Later 20 Nov, SocialBee 19 Nov)): New: SocialBee's 19 Nov 2026 list has a stop motion 'spell it with your bodies' Reel (people or pets form L, O, V, E in quick cut poses) and a 'bump back to back, then dance together' duo format (5 Nov); Later's 20 Nov list was already filed. Trend bank: added 'Spell it with the Bros' and 'Back to back bump, then dance', dropped 'We could stay here, or we could go up' and 'Everybody's out playing, except me' (older, weaker fits). 2 leaves. Chrome not available. Total 4409."
   }
  ],
  "history": [
@@ -32296,6 +32310,10 @@
   {
    "date": "2026-11-21 18:54",
    "total": 4407
+  },
+  {
+   "date": "2026-11-21 18:55",
+   "total": 4409
   }
  ],
  "next_week_ideas": [
@@ -32358,6 +32376,18 @@
  ],
  "trend_bank": [
   {
+   "name": "Spell it with the Bros (body letters)",
+   "where": "Instagram Reels and YouTube Shorts",
+   "status": "rising",
+   "use": "Stop motion style: on each beat of our own song the Bros freeze in a pose that makes one letter (arms up in a V, arms in a circle over the head for O, one arm up and one out for L) while the letter pops on screen, spelling a short seasonal word such as SNOW, JOY or STAR, then cheer and say the whole word. Meshy prompt: standing in place, raise both arms up and out into a V shape and hold, no floor moves (one prompt per letter pose)."
+  },
+  {
+   "name": "Back to back bump, then dance together",
+   "where": "Instagram Reels",
+   "status": "rising",
+   "use": "The two Bros walk backwards into frame from opposite sides and bump backs on the first beat of our chorus, both turn with a surprised face, then do the same 4 count move side by side. Meshy prompt: standing in place, small step back, turn to face forward, then clap twice and swing both arms side to side twice, no floor moves."
+  },
+  {
    "name": "How I imagine my toy sounds in the toy box (POV)",
    "where": "Instagram Reels and TikTok",
    "status": "rising",
@@ -32406,12 +32436,6 @@
    "use": "Each Bro faces the camera and on every beat makes a quarter turn (front, side, back, side), clapping once at each corner, then on the drop both dance freely and end facing the camera with a thumbs up. Meshy prompt: standing in place, turn 90 degrees to the right and clap, repeat four times, then bounce side to side with arms waving. Use our own 'Turn, Turn, Clap!' song in Suno."
   },
   {
-   "name": "We could stay here, or we could go up",
-   "where": "TikTok, Instagram Reels (new, week of 16 Nov 2026)",
-   "status": "rising",
-   "use": "Big Bro stands at the bottom of a giant toy block staircase and looks at the camera; text 'We could stay here... or we could go UP!'. On the beat Little Bro claps, then both step up one block per beat with a knee lift and arms pumping, ending on top with a star jump and arms in a V. Meshy prompt: standing, step forward and up with a high knee, pump both arms, then jump in place with arms raised in a V. Use our own 'Up, Up, Up!' hook in Suno, never the original audio."
-  },
-  {
    "name": "Get up, shake it off!",
    "where": "Instagram Reels (Later 20 Nov 2026, original audio), TikTok, Shorts",
    "status": "rising",
@@ -32440,12 +32464,6 @@
    "where": "TikTok (top dance 20 Nov 2026), Reels, Shorts",
    "status": "rising",
    "use": "Big Bro, Little Bro and a friend in Santa hats stand in a row, frozen with hands clasped low and blank faces for 3 seconds, then on the drop of our own funk arrangement of the public domain Jingle Bells: cross both forearms over the chest, one fist to the mouth with the other hand on the hip, then four alternating forearm chest taps with a small knee bounce; repeat and end on a big grin. Meshy steps: standing in place, hands clasped low, cross forearms over chest, fist to mouth with other hand on hip, tap chest with alternating forearms while bouncing knees slightly."
-  },
-  {
-   "name": "Everybody's out playing, except me",
-   "where": "TikTok and Reels (Virlo top 12, week of 21 Nov 2026)",
-   "status": "rising",
-   "use": "On screen text 'Everybody is outside playing...' over a quiet window shot, then 'except me' and a hard cut to Little Bro in his room proudly doing a silly dance, building a block tower or practising piano, ending with him shouting 'Ta da!' to camera. Original voice line and our own music bed; no trending audio."
   },
   {
    "name": "How we looked this year, month by month",
