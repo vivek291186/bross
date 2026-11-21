@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:55:30+05:30",
- "runs": 1865,
+ "updated": "2026-11-21T10:56:30+05:30",
+ "runs": 1867,
  "branches": [
   {
    "id": "platforms",
@@ -19214,6 +19214,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1856
+    },
+    {
+     "t": "Kids Channel Arabic (Saudi Arabia, about 216K subscribers, about 62K views a day in the 28 days to 20 Nov 2026) posts only about twice a month, yet its library keeps earning: a police car and car wash learning video from 2021 has about 28M views and moral story mixes 1 to 15M, so vehicle songs and gentle moral stories are the evergreen Arabic winners we should dub first.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1867
+    },
+    {
+     "t": "Lebanon's Lila TV grew a preschool YouTube channel past 1M subscribers with musical rhymes in local Lebanese Arabic, and a UAE studio's cartoon hero drew most of its YouTube views from Iraq and Egypt rather than the Gulf, so an Arabic Bro Bros track should use a simple, widely understood Arabic and expect its biggest audiences in Egypt and Iraq, not only Saudi Arabia and the UAE.",
+     "src": "kidscreen.com, Sep 2023",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1867
     }
    ]
   },
@@ -29096,16 +29110,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 07:48",
+   "date": "2026-11-21 07:49",
    "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
-   "date": "2026-11-21 07:49",
-   "note": "Run 1787 (rules and monetisation (AI slop campaign, FTC age verification statement, WARC YouTube ads, Precisify pester power)): Nothing new: the 200 plus advocacy groups' AI slop letter, the FTC's Feb 2026 age verification COPPA statement, WARC's YouTube ad revenue ($40.4bn in 2025, about 7% growth forecast for 2026) and Precisify's co viewing and pester power figures were already filed. No leaves added. Chrome not available. Total 4071."
-  },
-  {
-   "date": "2026-11-21 07:49",
-   "note": "Run 1788 (our own results (Metricool YouTube videos 17 to 21 Nov)): No new data: Metricool still shows YouTube videos only up to the 19 Nov 04:30 IST upload (Roly Poly Red Tomato 972 views, Boo Boo Bandage 288, Shorts 3 to 7 views), the same numbers filed at 05:59 IST. No leaves added. Chrome not available. Total 4071."
   },
   {
    "date": "2026-11-21 07:50",
@@ -29414,6 +29420,14 @@
   {
    "date": "2026-11-21 10:55",
    "note": "Run 1865 (music craft (Suno and Meshy tool updates, Oct to Nov 2026)): Suno added an MCP connector (28 Oct, beta) so songs can be made from Claude, a Speech beta that makes spoken lines and music in one take (1 Oct), Studio fine pitch and clip info with stems (29 Oct) and a Daily Song Challenge (6 Nov); Meshy's October changelog has no animation or motion change. 3 leaves. Chrome not available. Total 4143."
+  },
+  {
+   "date": "2026-11-21 10:55",
+   "note": "Run 1866 (visual craft (titles, emojis, Suno Visuals)): Nothing new: vidIQ emoji and title formula studies, the AIR kids channel case and Suno Visuals credits and watermark were already filed. No leaves added. Chrome not available. Total 4143."
+  },
+  {
+   "date": "2026-11-21 10:56",
+   "note": "Run 1867 (global markets (Arabic kids channels)): A Saudi based Arabic kids song channel (216K subs, about 62K views a day) lives on old vehicle and moral story uploads (a police car and car wash video at about 28M) while posting only twice a month; Lebanon's Lila TV passed 1M subscribers with local dialect musical rhymes. 2 leaves. Chrome not available. Total 4145."
   }
  ],
  "history": [
@@ -30428,6 +30442,14 @@
   {
    "date": "2026-11-21 10:55",
    "total": 4143
+  },
+  {
+   "date": "2026-11-21 10:55",
+   "total": 4143
+  },
+  {
+   "date": "2026-11-21 10:56",
+   "total": 4145
   }
  ],
  "next_week_ideas": [
