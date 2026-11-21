@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:02:33+05:30",
- "runs": 1940,
+ "updated": "2026-11-21T13:03:13+05:30",
+ "runs": 1941,
  "branches": [
   {
    "id": "platforms",
@@ -9953,6 +9953,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1917
+    },
+    {
+     "t": "Warner Bros Discovery India timed new kids shows and themed blocks to the year end school holidays (premieres on 15 Dec 2025, a 25 to 31 Dec countdown week, telefeatures on 27 and 28 Dec) and dubbed its new preschool show into Hindi, Tamil, Telugu, Kannada and Malayalam, so Indian kids TV treats the last two weeks of December as a peak and South Indian languages as worth dubbing; our India heavy audience will be most available for Christmas and New Year songs in that window.",
+     "src": "Outlook India (Respawn), Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1941
     }
    ]
   },
@@ -29685,11 +29692,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1861); see git history."
-  },
-  {
-   "date": "2026-11-21 10:52",
-   "note": "Run 1862 (YouTube main and Kids (Tubefilter top 50, week of 15 Nov)): Nothing new: the 9 to 15 Nov chart (Fitu K Kitu at No. 1, family Shorts channels cooling, 42 of 50 Shorts led) was already filed. No leaves added. Chrome not available. Total 4136."
+   "note": "Earlier: older log entries summarised (runs up to 1862); see git history."
   },
   {
    "date": "2026-11-21 10:53",
@@ -30002,6 +30005,10 @@
   {
    "date": "2026-11-21 13:02",
    "note": "Run 1940 (global markets (Pakistan and Philippines, our number 3 and 5 subscriber countries)): New: Pakistan's YouTube CPM is only about 0.18 to 0.69 USD with creators keeping about 55%, and the Philippines' rural viewers almost all watch TV programmes on YouTube; since Pakistan, Bangladesh and the Philippines are three of our top five subscriber countries, they grow reach but earn little, so US, UK and Gulf viewers still matter for revenue. 2 leaves. Chrome not available. Total 4227."
+  },
+  {
+   "date": "2026-11-21 13:03",
+   "note": "Run 1941 (competitor deep dive (Indian kids TV slate, holiday crossovers)): Little new: WBD India launched new kids shows for the year end holidays with Hindi, Tamil, Telugu, Kannada and Malayalam dubs and big Christmas week blocks, a reminder that Indian families get a holiday content push in the last two weeks of December; the Pinkfong and Sesame holiday crossover is from 2024 and similar collabs were already filed. 1 leaves. Chrome not available. Total 4228."
   }
  ],
  "history": [
@@ -30376,6 +30383,10 @@
   {
    "date": "2026-11-21 13:02",
    "total": 4227
+  },
+  {
+   "date": "2026-11-21 13:03",
+   "total": 4228
   }
  ],
  "next_week_ideas": [
