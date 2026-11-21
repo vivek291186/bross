@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:50:39+05:30",
- "runs": 2035,
+ "updated": "2026-11-21T16:51:33+05:30",
+ "runs": 2036,
  "branches": [
   {
    "id": "platforms",
@@ -19928,6 +19928,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2035
+    },
+    {
+     "t": "Kidscorp's Top Brands U18s survey of over 1,000 Mexican children and teens aged 3 to 18 (Apr 2026) ranks YouTube as the most preferred brand (7.3%), ahead of Disney (6.9%), Roblox (6.5%), Nike, Minecraft and Netflix, and says children's tastes influence about 60% of family purchases.",
+     "src": "El CEO citing Kidscorp, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2036
+    },
+    {
+     "t": "In the same Mexican survey 3 to 5 year olds name entertainment brands first (34%), then toys (26%), while by 13 tech brands lead (30%), so in Mexico preschoolers still love characters and shows, which favours a character led brand like Bro Bros over a faceless song channel.",
+     "src": "El CEO citing Kidscorp, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2036
+    },
+    {
+     "t": "BBC News Brasil (Jul 2026) found AI made kids songs with unclear, language mixing lyrics among recommended Shorts after about 15 minutes of watching from Roblox, Minecraft or animal searches, and Brazilian experts warned parents about them, so clean, clearly sung single language lyrics and visible human craft help Bro Bros stand apart for Brazilian parents.",
+     "src": "BBC News Brasil via O Povo, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2036
     }
    ]
   },
@@ -30195,12 +30216,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:44",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:45",
-   "note": "Run 1957 (TRENDS (Know Your Meme roundups, Christmas dances)): Nothing new: the cute little X shrink format, black cat clapping, the squirrel in a tornado reaction, Rumpelstiltskin tiptoe and the Christmas dance and Charlie Brown dance revivals were already filed; the Kick a ball trend is not kid safe. No leaves added. 0 leaves. Chrome not available. Total 4241."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:46",
@@ -30513,6 +30530,10 @@
   {
    "date": "2026-11-21 16:50",
    "note": "Run 2035 (TRENDS (Japan and India Reels and TikTok dances)): New for Japan: UtaTen's list of TikTok dance songs that spread there (2025) shows the easy ones win: a turn to face four directions then free dance (andymori's Sugoi Hayasa revival), fists facing each other with a body sway (the Shikanoko anime opening), a stop on a 'the sound stopped' line, and a Korean kids creator's Malatanghulu song copied by celebrities. Added a 'four corners turn' entry to the trend bank. India's Pehle main lip sync was from 2024, skipped. 3 leaves. Chrome not available. Total 4300."
+  },
+  {
+   "date": "2026-11-21 16:51",
+   "note": "Run 2036 (global markets (Mexico and Brazil)): New: Kidscorp's Top Brands U18s survey (over 1,000 Mexican 3 to 18 year olds, Apr 2026) ranks YouTube first (7.3%) ahead of Disney, Roblox, Nike and Minecraft, with entertainment the top brand type for 3 to 5 year olds; BBC Brasil (Jul 2026) found AI made kids songs with muddled, mixed language lyrics surfacing within about 15 minutes of Shorts, so clear, single language lyrics are a trust signal for Brazilian parents. 3 leaves. Chrome not available. Total 4303."
   }
  ],
  "history": [
@@ -31267,6 +31288,10 @@
   {
    "date": "2026-11-21 16:50",
    "total": 4300
+  },
+  {
+   "date": "2026-11-21 16:51",
+   "total": 4303
   }
  ],
  "next_week_ideas": [
