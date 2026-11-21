@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:53:50+05:30",
- "runs": 2271,
+ "updated": "2026-11-22T02:35:06+05:30",
+ "runs": 2272,
  "branches": [
   {
    "id": "platforms",
@@ -13425,6 +13425,34 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2260
+    },
+    {
+     "t": "UNICEF Innocenti's 'Music of Life' review (Nov 2026, over 70 studies) reports that singing to a baby keeps it calm about twice as long as talking to it, so a sung Bro Bros intro and outro holds the youngest viewers better than a spoken one.",
+     "src": "UNICEF Innocenti, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2272
+    },
+    {
+     "t": "The same UNICEF review finds soft, slow lullabies lower babies' heart rate and steady their breathing, which supports a weekly calm bedtime song with a slow tempo, quiet voice and no sudden loud hits.",
+     "src": "UNICEF Innocenti, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2272
+    },
+    {
+     "t": "UNICEF's review says what helps children is daily singing together, not the parents' musical skill, so Bro Bros songs should be easy for any parent to sing along: short lines, small range and on screen words.",
+     "src": "UNICEF Innocenti, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2272
+    },
+    {
+     "t": "UNICEF's review notes newborns learned best from nursery rhymes with a clear, regular rhythm and that most music and child research comes from rich, English speaking European countries, so simple strong rhythms are the safest choice for a worldwide audience.",
+     "src": "UNICEF Innocenti, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2272
     }
    ]
   },
@@ -23841,6 +23869,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2218
+    },
+    {
+     "t": "UNICEF's Nov 2026 music review flags that Australian primary age children who often watched sexualised music videos were more likely to copy adult dance moves, so every Bro Bros dance must stay playful and kid style even when we borrow a trend's format.",
+     "src": "UNICEF Innocenti, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2272
     }
    ]
   },
@@ -31862,11 +31897,7 @@
  "log": [
   {
    "date": "2026-11-21 22:50",
-   "note": "Summary of 2 older runs (2026-11-21 22:49 to 2026-11-21 22:50): see git history for details."
-  },
-  {
-   "date": "2026-11-21 22:50",
-   "note": "Run 2195 follow up: replaced the idea 'My Body Can Do Amazing Things' with a piñata turn taking party song, backed by the 41.8M view piñata medley on a Mexican kids song channel and December posadas."
+   "note": "Summary of 2 earlier log entries (2026-11-21 22:50 to 2026-11-21 22:50): mostly small research rounds; see git history for details."
   },
   {
    "date": "2026-11-21 22:56",
@@ -32179,6 +32210,10 @@
   {
    "date": "2026-11-22 01:53",
    "note": "Run 2271 (visuals and markets (Meshy changelog, Vietnam kids channels)): Nothing new: Meshy's changelog still shows no motion change since July, and Vietnam's POPS Kids and BHMEDIA were already filed. End of run: 29 rounds (runs 2243 to 2271), 9 new leaves (2 duplicates added this run were removed): Dame Hombro reach numbers, Kurdish Afarin Kids, HeyKids weak new rhyme, HeyHop stall, Aayu Rhymes syllable dance song, Johny's World and Koo Koo TV Hindi, Oddbods holiday specials, Warwick Shorts attention paper; trend bank gains the shoulder bounce chorus (reindeer ride dropped); no slot or idea change. 0 leaves. Chrome not available. Total 4538."
+  },
+  {
+   "date": "2026-11-22 02:35",
+   "note": "Run 2272 (music craft (UNICEF Innocenti Music of Life review, Nov 2026)): New: UNICEF Innocenti's November 2026 review of 70+ studies says singing calms babies about twice as long as talking, slow soft lullabies lower heart rate, parents' skill does not matter but daily singing does, and it flags adult style music videos as a risk; this backs a calm bedtime lullaby slot and kid safe dance moves. 5 leaves. Chrome not available. Total 4543."
   }
  ],
  "history": [
@@ -33169,6 +33204,10 @@
   {
    "date": "2026-11-22 01:53",
    "total": 4538
+  },
+  {
+   "date": "2026-11-22 02:35",
+   "total": 4543
   }
  ],
  "next_week_ideas": [
