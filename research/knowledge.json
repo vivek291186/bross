@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:53:17+05:30",
- "runs": 2169,
+ "updated": "2026-11-21T21:53:50+05:30",
+ "runs": 2170,
  "branches": [
   {
    "id": "platforms",
@@ -23323,6 +23323,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2110
+    },
+    {
+     "t": "Internet Matters (Nov 2025) reports that 80% of UK parents are comfortable with children verifying their age to sign up to apps, and Roblox moved to age estimation for all users, so age checks will keep spreading across platforms and Bro Bros should stay clearly labelled made for kids so every new filter treats our videos as safe for children.",
+     "src": "Internet Matters, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2170
     }
    ]
   },
@@ -31274,11 +31281,7 @@
  "log": [
   {
    "date": "2026-11-21 17:49",
-   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 18:35): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 18:41",
-   "note": "Run 2091 (TRENDS (Virlo board 21 Nov, loading reveal)): New: Virlo's 21 Nov board shows a 'loading percentage' transition (a progress bar climbs from 0% to 100%, then cut to the finished look) at its peak with about 660 videos, a kid safe reveal format added to the trend bank as 'Christmas loading bar'; a Spanish roundup logged a guitar riff sound rising from about 152K to 435K videos in nine days, showing riff led sounds spread fastest. Everything else on the board was already filed. Trend bank: added Christmas loading bar, dropped Confetti pop on the beat (lowest, generic). 2 leaves. Chrome not available. Total 4380."
+   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 18:41): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:42",
@@ -31591,6 +31594,10 @@
   {
    "date": "2026-11-21 21:53",
    "note": "Run 2169 (TRENDS (Santa tracker and Santa cam)): Nothing new: North Pole Live (the 24/7 Santa workshop stream) and NORAD's nine language Santa tracking from 1 Dec were already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4454."
+  },
+  {
+   "date": "2026-11-21 21:53",
+   "note": "Run 2170 (rules and safety (UK Online Safety Act, age checks)): Mostly filed already (Ofcom codes, YouTube AI age estimation); one small addition: Internet Matters reports 80% of UK parents are comfortable with children verifying their age to join apps, so age checks will keep spreading and family content that is clearly made for kids will sit on the safe side of every new filter. End of run: 17 rounds (runs 2154 to 2170), 21 new leaves (funny ugly toy craze, Lingokids character discovery, amapiano dance lane, familiar tune study, bhangra fusion, squishy animal trends, story yoga, Philippines and Loco Nuts channel data), no trend bank, idea or posting slot changes. 1 leaves. Chrome not available. Total 4455."
   }
  ],
  "history": [
@@ -32173,6 +32180,10 @@
   {
    "date": "2026-11-21 21:53",
    "total": 4454
+  },
+  {
+   "date": "2026-11-21 21:53",
+   "total": 4455
   }
  ],
  "next_week_ideas": [
