@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:53:46+05:30",
- "runs": 1892,
+ "updated": "2026-11-21T11:54:43+05:30",
+ "runs": 1893,
  "branches": [
   {
    "id": "platforms",
@@ -2813,6 +2813,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1863
+    },
+    {
+     "t": "eMarketer forecasts that US children under 12 spend about 26 minutes a day on YouTube in 2026 against under 5 minutes on TikTok, Instagram, Snapchat or Facebook, and that YouTube held 12.6% of all US streaming time by September 2025 (up about 19% in a year), so YouTube long form stays our main home and Instagram reaches mostly parents.",
+     "src": "eMarketer, late 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1893
     }
    ]
   },
@@ -5417,6 +5424,20 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1881
+    },
+    {
+     "t": "Sprout Social's 2026 Instagram study (about 2B engagements across 307K profiles, 27 Nov 2025 to 27 Feb 2026, so it covers the holidays) found the best hours are weekday early afternoons into evening in the audience's local time, Tuesday and Wednesday strongest, with weekends and the 3 to 7 AM window weakest and no separate timing for Reels, which backs our weekday 16:00 IST Reels for Indian viewers and lighter weekend posts.",
+     "src": "Sprout Social, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1893
+    },
+    {
+     "t": "In Sprout's industry table, school and education accounts on Instagram peak around 3 to 5 PM local time on weekdays and 3 to 8 PM on Saturday, with Sunday the weakest day, which matches the after school window parents use for learning content.",
+     "src": "Sprout Social, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1893
     }
    ]
   },
@@ -29348,12 +29369,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:44",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1812); see git history."
-  },
-  {
    "date": "2026-11-21 08:45",
-   "note": "Run 1814 (YouTube algorithm (Creator Insider Sep 2026 interview, YouTube Kids recommendations, change logs)): Nothing new: Beaupre's points (subscribers click 10% or less of uploads shown, Suggested beats the subscriptions feed, the eight time repeat cap test, first hour mixed audiences) and the AIR and OutlierKit change logs with no November ranking change were all already filed. No leaves added. Chrome not available. Total 4092."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1813); see git history."
   },
   {
    "date": "2026-11-21 08:45",
@@ -29666,6 +29683,10 @@
   {
    "date": "2026-11-21 11:53",
    "note": "Run 1892 (competitor deep dive (Cocomelon, BabyBus holiday plans)): Nothing new: Cocomelon's Sanrio playdates, The Melon Patch, the 2027 movie, Dr Seuss crossovers and pocket.watch's holiday premieres were already filed, and no new BabyBus Christmas series was found. No leaves added. 0 leaves. Chrome not available. Total 4179."
+  },
+  {
+   "date": "2026-11-21 11:54",
+   "note": "Run 1893 (posting times (Sprout Instagram study, eMarketer kids time on YouTube)): New: Sprout's 2026 study (about 2B engagements, 307K profiles, late Nov to late Feb) finds Instagram's best hours are weekday early afternoons to evenings local time with weekends and 3 to 7 AM weakest, and its education accounts peak around 3 to 5 PM; eMarketer says US kids under 12 spend about 26 minutes a day on YouTube against under 5 on other social apps. Slots unchanged. 3 leaves. Chrome not available. Total 4182."
   }
  ],
  "history": [
@@ -30788,6 +30809,10 @@
   {
    "date": "2026-11-21 11:53",
    "total": 4179
+  },
+  {
+   "date": "2026-11-21 11:54",
+   "total": 4182
   }
  ],
  "next_week_ideas": [
