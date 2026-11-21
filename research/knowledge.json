@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:36:51+05:30",
- "runs": 2004,
+ "updated": "2026-11-21T15:38:12+05:30",
+ "runs": 2005,
  "branches": [
   {
    "id": "platforms",
@@ -29910,6 +29910,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1995
+    },
+    {
+     "t": "MrBeast's own recreation (2 Aug 2026) of the AI made 'MrBeast rizz' dance, a meme born from a Russian comedy song in 2024, reached over 266M TikTok views and 33M likes in under 10 days and was called the most reposted TikTok at the time, proof that a silly dance first seen on a cartoon or AI figure becomes huge when a real face does it.",
+     "src": "Know Your Meme editorial, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2005
+    },
+    {
+     "t": "The dancing AI golden retriever (base clip 7 Nov 2025, AI version 15 Nov, then a green screen CapCut template from 16 Nov) shows how a cute animal doing a simple human step (step back and forth, knees swinging in and out, arms swaying) spreads fast once a template exists; a Bro Bros pet or animal friend copying the Bros' step is the kid safe version with our own song.",
+     "src": "Know Your Meme, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2005
+    },
+    {
+     "t": "The 'Pocoyo dance' edits (from Oct 2022, main audio a Latin party track since Oct 2025, about 24M plays on the top clip) use a protected preschool character and include a squat and a behind slap, so Bro Bros skips both the character and those moves and keeps only the opposite arm swing up and down.",
+     "src": "Know Your Meme, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2005
     }
    ]
   }
@@ -29938,10 +29959,6 @@
   {
    "date": "2026-11-21 12:37",
    "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
-   "date": "2026-11-21 12:46",
-   "note": "Run 1926 (visual craft (title and thumbnail tests, YouTube animation report)): Nothing new: Test and Compare rules (up to 3 variants, watch time share, not for made for kids videos) and YouTube's Gen Z indie animation report were already filed. No leaves added. 0 leaves. Chrome not available. Total 4218."
   },
   {
    "date": "2026-11-21 12:47",
@@ -30254,6 +30271,10 @@
   {
    "date": "2026-11-21 15:36",
    "note": "Run 2004 (YouTube kids channels (UK Barb TV set ratings)): New: Barb's YouTube on TV ratings in the UK put Peppa Pig's channel first (about 1M weekly viewers, 48M minutes a week, six times MrBeast's minutes) with 12 of the top 20 channels aimed at children; viewing spikes around 3 pm when school children get home; half of UK 4 to 15s now watch YouTube on a TV set every week and YouTube is the first app they open more often than TV channels. 4 leaves. Chrome not available. Total 4263."
+  },
+  {
+   "date": "2026-11-21 15:38",
+   "note": "Run 2005 (TRENDS (Know Your Meme dance entries)): Mostly filed already. New: MrBeast's own August 2026 recreation of an AI made dance of himself reached over 266M TikTok views in under 10 days, showing AI dance memes can jump to real life; last November's dancing AI golden retriever (a dog mapped onto a human dancer) had a simple step and knee swing; the Pocoyo dance uses a protected character and a rear slap move, so we skip it. 3 leaves. Chrome not available. Total 4266."
   }
  ],
  "history": [
@@ -30884,6 +30905,10 @@
   {
    "date": "2026-11-21 15:36",
    "total": 4263
+  },
+  {
+   "date": "2026-11-21 15:38",
+   "total": 4266
   }
  ],
  "next_week_ideas": [
