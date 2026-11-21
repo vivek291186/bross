@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:39:45+05:30",
- "runs": 1918,
+ "updated": "2026-11-21T12:40:41+05:30",
+ "runs": 1919,
  "branches": [
   {
    "id": "platforms",
@@ -22070,6 +22070,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1895
+    },
+    {
+     "t": "YouTube's VP of Trust and Safety (Creator Insider, Aug 2026) said the Partner Program is agnostic about which tools make a video and only restricts three kinds of AI content from earning: generic, repetitive mass produced videos that look like content farming, off putting or distressing videos such as animals in peril, and AI personas giving advice on money or other serious topics; the rule is about monetisation, not a general ban, so Suno and Meshy made songs are fine when each one is clearly its own creative piece.",
+     "src": "Engadget, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1919
+    },
+    {
+     "t": "Because 'animals in peril' is named as demonetisable distressing content, our animal songs should never show a pet or animal stuck, hurt or scared for drama; keep rescue or 'boo boo' care songs gentle, short on danger and quick to the happy ending.",
+     "src": "Engadget, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1919
     }
    ]
   },
@@ -29566,11 +29580,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1839); see git history."
-  },
-  {
-   "date": "2026-11-21 09:54",
-   "note": "Run 1840 (music craft (Bluey albums and streaming, Ms Rachel)): New: Bluey's music passed one billion audio streams (July 2025) led by its theme tune and a dance mode song, and its fourth album (Mar 2026) is 17 live orchestral recordings, showing that a short signature theme and real instruments keep kids music streaming for years. Chrome not available. Total 4107."
+   "note": "Earlier: older log entries summarised (runs up to 1840); see git history."
   },
   {
    "date": "2026-11-21 09:55",
@@ -29883,6 +29893,10 @@
   {
    "date": "2026-11-21 12:39",
    "note": "Run 1918 (TRENDS (Ba Ba Ba duo structure)): New: the Ba Ba Ba duo routine, one of the top TikTok dances of Oct and Nov 2026, is built as side by side, solo for one, solo for the other, then a synced finish (sound under about 646K videos by 3 Nov); its audio is an unreleased mashup with an adult beat, so we copy only the four part turn taking structure. Trend bank: 'Our year in songs recap' kept (it is a countdown, not a monthly montage); the faded 'Get up, champ comeback' dropped off the end. 2 leaves. Chrome not available. Total 4210."
+  },
+  {
+   "date": "2026-11-21 12:40",
+   "note": "Run 1919 (rules and monetisation (YouTube inauthentic content explained)): New: YouTube's trust and safety VP said the Partner Program is tool agnostic and only demonetises three kinds of AI content: generic repetitive farm content, distressing content such as animals in peril, and AI personas giving serious advice; so our AI assisted songs stay safe as long as each video is clearly different and made with care. Ad rate, COPPA and Disney fine sources were already filed. 2 leaves. Chrome not available. Total 4212."
   }
  ],
  "history": [
@@ -30169,6 +30183,10 @@
   {
    "date": "2026-11-21 12:39",
    "total": 4210
+  },
+  {
+   "date": "2026-11-21 12:40",
+   "total": 4212
   }
  ],
  "next_week_ideas": [
