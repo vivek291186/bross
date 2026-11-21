@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T02:39:34+05:30",
- "runs": 2275,
+ "updated": "2026-11-22T02:40:25+05:30",
+ "runs": 2276,
  "branches": [
   {
    "id": "platforms",
@@ -10709,6 +10709,20 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2265
+    },
+    {
+     "t": "CoComelon Lane's holiday season (Netflix, 1 Dec 2025) puts several December traditions side by side in one 34 minute block (a Santa visit and snow wish, friends teaching JJ to spin a dreidel, Christmas, Hanukkah and Kwanzaa families), so a Bros 'winter lights around the world' compilation can mix short stories from several festivals instead of only Christmas.",
+     "src": "Movieguide and Popverse, 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2276
+    },
+    {
+     "t": "Movieguide's review of the same CoComelon Lane episodes singled out the catchy songs and animation but called the stories thin, a reminder that for preschool viewers a memorable song carries a weak plot, while a strong plot cannot rescue a weak song.",
+     "src": "Movieguide, 2025",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2276
     }
    ]
   },
@@ -31917,12 +31931,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:56",
-   "note": "Summary of 2 earlier log entries (2026-11-21 22:56 to 2026-11-21 22:56): mostly small research rounds; see git history for details."
-  },
-  {
    "date": "2026-11-21 22:57",
-   "note": "Run 2199 (global markets (French dubs check, skipping dry trend and platform foci)): New: the French dub of a big British nursery rhyme brand drew only about 1.8M views in 28 days with zero subscriber growth despite 14 new uploads, the same weak pattern as the German dub of another giant, so French needs native feeling songs rather than a straight dub; a French story and picture book channel earns almost nothing on long videos. 2 leaves. Chrome not available. Total 4486."
+   "note": "Summary of 2 earlier log entries (2026-11-21 22:56 to 2026-11-21 22:57): mostly small research rounds; see git history for details."
   },
   {
    "date": "2026-11-21 22:58",
@@ -32235,6 +32245,10 @@
   {
    "date": "2026-11-22 02:39",
    "note": "Run 2275 (global markets (WARC user bases, Ofcom children's insights panel)): Small addition: Ofcom's children's online insights panel (May 2026, 20 UK children aged 8 to 17, qualitative) shows families locking devices away overnight (for example 9pm to 7am) and Roblox at the centre of play; WARC's country user numbers and auto dubbing's 27 languages were already filed. 1 leaves. Chrome not available. Total 4546."
+  },
+  {
+   "date": "2026-11-22 02:40",
+   "note": "Run 2276 (competitor deep dive (CoComelon Lane holiday season, Moonbug)): Small addition: CoComelon Lane's holiday season packs Christmas, Hanukkah (learning to spin a dreidel) and Kwanzaa families into short stories inside one 34 minute block, and a reviewer praised the songs but called the plots thin; Moonbug's learning principles, the Disney+ move and the Christmas special were already filed. 2 leaves. Chrome not available. Total 4548."
   }
  ],
  "history": [
@@ -33241,6 +33255,10 @@
   {
    "date": "2026-11-22 02:39",
    "total": 4546
+  },
+  {
+   "date": "2026-11-22 02:40",
+   "total": 4548
   }
  ],
  "next_week_ideas": [
