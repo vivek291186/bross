@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:52:46+05:30",
- "runs": 1837,
+ "updated": "2026-11-21T09:53:08+05:30",
+ "runs": 1838,
  "branches": [
   {
    "id": "platforms",
@@ -28830,12 +28830,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 06:04",
-   "note": "Summary of 2 older log entries (runs up to 1758): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 06:05",
-   "note": "Run 1759 (competitor deep dive (CoComelon holiday specials and spin offs)): New: CoComelon Lane's 34 minute Christmas special (released 1 Dec 2025) is built on a sibling plot, the hero visits Santa and works to make his little sister's wish for snow come true, a ready shape for a Bro Bros 'Big Bro makes Little Bro's wish come true' December story song. The 'Sing Along with Nina' spin off data on vidIQ is from 2024, so it was not used. Chrome not available. Total 4040."
+   "note": "Summary of 2 older log entries (runs up to 1759): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 06:05",
@@ -29148,6 +29144,10 @@
   {
    "date": "2026-11-21 09:52",
    "note": "Run 1837 (YouTube algorithm (how videos enter the YouTube Kids app)): Nothing new: YouTube Kids' layered filters (thumbnail, title, video, human spot checks), the approved content mode and the vetted AI channel policy were already filed. No leaves added. Chrome not available. Total 4105."
+  },
+  {
+   "date": "2026-11-21 09:53",
+   "note": "Run 1838 (Shorts and Reels (Trial Reels evidence, Shorts hook data)): Nothing new: Planoly's Trial Reels review, Kapwing's trial reel case, Metricool's 799,718 video study and Little Dot's length data were already filed. No leaves added. Chrome not available. Total 4105."
   }
  ],
  "history": [
@@ -30049,6 +30049,10 @@
   },
   {
    "date": "2026-11-21 09:52",
+   "total": 4105
+  },
+  {
+   "date": "2026-11-21 09:53",
    "total": 4105
   }
  ],
