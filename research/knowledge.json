@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T05:58:24+05:30",
- "runs": 1749,
+ "updated": "2026-11-21T05:59:13+05:30",
+ "runs": 1750,
  "branches": [
   {
    "id": "platforms",
@@ -21321,6 +21321,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1679
+    },
+    {
+     "t": "Al Jazeera (9 Nov 2026) reports that Meta's August 2026 settlement with US states gives under 18 Instagram users a two hour daily limit, a midnight to 6 AM curfew and no push notifications from 8 AM to 3 PM, while its AI age checks now move suspected teens into Teen Accounts worldwide, starting with Instagram, then Facebook and Threads.",
+     "src": "Al Jazeera, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1750
     }
    ]
   },
@@ -28309,10 +28316,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-21 03:03",
-   "note": "Run 1671 (TRENDS (Tokchart 20 Nov, vidIQ TikTok sounds 14 day window, NewEngen 20 Nov)): NewEngen's 20 Nov list repeats already filed trends (Chipmunks trio dance, Dame Hombro, turkey snack boards, random day recap) and Tokchart's Jingle Bell Rock remix was filed earlier today. New: vidIQ shows a Chopin nocturne piano clip as the second most watched TikTok sound and Brenda Lee's Christmas classic up about 890% in views per hour, so the holiday sound wave is speeding up a month before Christmas. Chrome not available. Total 3916."
-  },
-  {
    "date": "2026-11-21 03:04",
    "note": "Run 1672 (music craft and market (Luminate 2026 midyear report; new kids holiday albums rechecked)): Bluey's Christmas EP, Yo Gabba Gabba's holiday album and Mongolian Jingle Bells were already filed. New from Luminate's H1 2026 report: English fell to a record low 87.1% of US music listening with Spanish at 9.4%, streaming outside the US grows more than twice as fast (11.8% against 4.8%), and an AI assisted Afro soul remake drew about 211M streams in 24 weeks. Chrome not available. Total 3918."
   },
@@ -28623,13 +28626,13 @@
   {
    "date": "2026-11-21 05:58",
    "note": "Run 1749 (topics and seasons (Christmas 2026 toy lists, unicorn and mermaid themes)): Nothing new: the 2026 toy lists (dinosaurs with vehicles, pets that grow, blind boxes, K-pop dolls, making things) were already filed, and the only unicorn song channel found had stale 2025 data. No leaves added. Chrome not available. Total 4030."
+  },
+  {
+   "date": "2026-11-21 05:59",
+   "note": "Run 1750 (rules and safety (AI kids video pressure, Meta global teen age checks)): Mostly known. New detail: under Meta's August 2026 settlement with US states, under 18s get a two hour daily limit, a midnight to 6 AM curfew and no push notifications from 8 AM to 3 PM, so our Instagram reaches teens only outside school and night hours; parents remain the real audience. Chrome not available. Total 4031."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 06:02",
-   "total": 3550
-  },
   {
    "date": "2026-11-20 06:03",
    "total": 3550
@@ -29825,6 +29828,10 @@
   {
    "date": "2026-11-21 05:58",
    "total": 4030
+  },
+  {
+   "date": "2026-11-21 05:59",
+   "total": 4031
   }
  ],
  "next_week_ideas": [
