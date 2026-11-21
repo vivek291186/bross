@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:59:11+05:30",
- "runs": 1899,
+ "updated": "2026-11-21T12:00:11+05:30",
+ "runs": 1900,
  "branches": [
   {
    "id": "platforms",
@@ -9911,6 +9911,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1879
+    },
+    {
+     "t": "In the week to 14 Dec 2025 Cocomelon was the only YouTube channel above 2B weekly views (about 2.14B), with Shorts heavy kids channels such as KIDZOKI (about 529M) and Toys and Colors (about 430M) also in the top 30, so mid December is a peak viewing week for kids music.",
+     "src": "Tubefilter, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1900
     }
    ]
   },
@@ -19424,6 +19431,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1891
+    },
+    {
+     "t": "In YouTube's weekly song charts for 19 to 25 Dec 2025, Christmas classics took five of the US top 10 and led the UK, Germany and the Netherlands, while India, Brazil and South Africa had few or no Christmas songs in their top 50 and Japan's highest was a local language Christmas song, so Bro Bros Christmas songs mainly serve the US, UK, Europe and Australia, and our big Indian audience needs winter, party and New Year songs too.",
+     "src": "ppc.land from YouTube Charts, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1900
     }
    ]
   },
@@ -29418,12 +29432,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 09:35",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1819); see git history."
-  },
-  {
    "date": "2026-11-21 09:41",
-   "note": "Run 1821 (TRENDS (Virlo November board, Thanksgiving week, Daily Dot)): New fresh format: lip sync then pop confetti exactly on the beat (198 TikTok videos, about 206M views since 6 Oct, 124 new creators this week); a family made AI song about Thanksgiving hosting went viral, showing short personal songs as family messages; Virlo's top 10 is led by the piggyback flip (unsafe) and couple montages (not for us). Trend bank: added Confetti pop on the beat, dropped Same spot, years apart. Chrome not available. Total 4098."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1820); see git history."
   },
   {
    "date": "2026-11-21 09:42",
@@ -29736,6 +29746,10 @@
   {
    "date": "2026-11-21 11:59",
    "note": "Run 1899 (other platforms (iTunes kids chart 21 Nov)): New: on 21 Nov two faith songs for children sit at 1 and 2 on the US iTunes kids chart and a children's horror game theme ('Dandy's World') charts at 20; Thanksgiving songs and Danny Go's five entries were already filed. 2 leaves. Chrome not available. Total 4189."
+  },
+  {
+   "date": "2026-11-21 12:00",
+   "note": "Run 1900 (music craft (Christmas songs in YouTube's weekly charts by country)): New: in YouTube's chart for 19 to 25 Dec 2025 Christmas classics filled the US, UK, German and Dutch tops while India, Brazil and South Africa had few or none in their top 50 and Japan's top Christmas song was a local one, so our Christmas songs target the US, UK, Europe and Australia while India gets winter and New Year songs; Cocomelon drew about 2.1B views in the week to 14 Dec 2025. 2 leaves. Chrome not available. Total 4191."
   }
  ],
  "history": [
@@ -30886,6 +30900,10 @@
   {
    "date": "2026-11-21 11:59",
    "total": 4189
+  },
+  {
+   "date": "2026-11-21 12:00",
+   "total": 4191
   }
  ],
  "next_week_ideas": [
