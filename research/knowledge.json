@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:08:02+05:30",
- "runs": 1912,
+ "updated": "2026-11-21T12:09:14+05:30",
+ "runs": 1913,
  "branches": [
   {
    "id": "platforms",
@@ -9925,6 +9925,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1906
+    },
+    {
+     "t": "Seven of the 20 most viewed YouTube Shorts of all time (as of 20 Nov 2026) are kids pieces in five languages: a Hindi Jungle Book cartoon clip (about 3.9B), a Lalafun Short of a baby sharing food with farm animals as a manners lesson (about 2.8B), a Russian blue tractor song (about 2.2B), a Kids Diana shapes adventure (2.2B), a Pinkfong clip (1.9B), a bus nursery rhyme (1.7B) and a Portuguese colours lesson (1.35B), so a simple good manners moment or a vehicle song is the proven shape for a breakout kids Short.",
+     "src": "aifreeforever chart, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1913
     }
    ]
   },
@@ -29503,11 +29510,7 @@
  "log": [
   {
    "date": "2026-11-21 09:51",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1832); see git history."
-  },
-  {
-   "date": "2026-11-21 09:51",
-   "note": "Run 1834 (rules and safety (EU Digital Fairness Act, India DPDP children's consent)): Nothing new: the 11 Nov Digital Fairness Act proposal (no profiling ads to minors, fines up to 6%) and India's staged DPDP rules for children's data were already filed. No leaves added. Chrome not available. Total 4104."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1833); see git history."
   },
   {
    "date": "2026-11-21 09:52",
@@ -29820,13 +29823,13 @@
   {
    "date": "2026-11-21 12:08",
    "note": "Run 1912 (competitor deep dive (ChuChu TV)): Nothing new: ChuChu TV's Netflix collections deal (Sep 2026) and its North American licensing agent were already filed. No leaves added. 0 leaves. Chrome not available. Total 4201."
+  },
+  {
+   "date": "2026-11-21 12:09",
+   "note": "Run 1913 (YouTube main and Kids (all time most viewed Shorts, 20 Nov)): New: in the all time top 20 Shorts (as of 20 Nov 2026) seven are kids pieces in five languages, led by a Hindi Jungle Book cartoon clip (about 3.9B) and a Lalafun food sharing manners Short (about 2.8B), plus a Russian tractor song, a shapes adventure, a Pinkfong clip, a bus nursery rhyme and a Portuguese colours lesson. 1 leaves. Chrome not available. Total 4202."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 11:46",
-   "total": 3645
-  },
   {
    "date": "2026-11-20 12:59",
    "total": 3685
@@ -31022,6 +31025,10 @@
   {
    "date": "2026-11-21 12:08",
    "total": 4201
+  },
+  {
+   "date": "2026-11-21 12:09",
+   "total": 4202
   }
  ],
  "next_week_ideas": [
