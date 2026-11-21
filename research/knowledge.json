@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:48:19+05:30",
- "runs": 1929,
+ "updated": "2026-11-21T12:54:08+05:30",
+ "runs": 1930,
  "branches": [
   {
    "id": "platforms",
@@ -22105,6 +22105,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1919
+    },
+    {
+     "t": "India's amended IT Rules (in force from 20 Feb 2026) target AI made or AI altered content that looks real and could mislead: platforms must ask uploaders to declare AI generated content, verify it with their own tools, label it with a visible tag plus a permanent marker or metadata, and act on government or police takedown orders within three hours, while basic edits like cropping, colour fixes, subtitles and translation are not treated as deepfakes.",
+     "src": "Business Today, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1930
+    },
+    {
+     "t": "Because about 68% of our subscribers are in India, the Indian AI rules matter directly to us: clearly stylised 3D cartoon songs are low risk, but any realistic looking AI scene (a lifelike animal, a real place, a human like face) should be declared with YouTube's altered or synthetic content setting and Instagram's AI label, and we should never imitate real people or news footage.",
+     "src": "Business Today, Feb 2026; Metricool (our YouTube), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1930
     }
    ]
   },
@@ -29622,11 +29636,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1850); see git history."
-  },
-  {
-   "date": "2026-11-21 10:39",
-   "note": "Run 1851 (Shorts and Reels (most viewed Shorts of 2026, Reels reference tool)): In AIFreeForever's 20 Nov list of 2026's most viewed Shorts, 5 of the top 20 are clearly kids content, all simple learning or song clips, with a Brazilian dragon story Short (818M) and an Indonesian colour slides song (840M) proving non English kids Shorts can top the world. Reels side: nothing new beyond filed items. 3 leaves. Chrome not available. Total 4118."
+   "note": "Earlier: older log entries summarised (runs up to 1851); see git history."
   },
   {
    "date": "2026-11-21 10:40",
@@ -29939,6 +29949,10 @@
   {
    "date": "2026-11-21 12:48",
    "note": "Run 1929 (posting times (Metricool grid 21 to 27 Nov, holiday viewing peaks)): Nothing new: Metricool's 21 to 27 Nov grid is unchanged (YouTube peaks at 16:00 IST every day, Instagram at 10:00 with a second rise at 18:00), and the Christmas Day streaming record and the Q4 holiday music surge were already filed. Slots unchanged. No leaves added. 0 leaves. Chrome not available. Total 4218."
+  },
+  {
+   "date": "2026-11-21 12:54",
+   "note": "Run 1930 (rules (India's AI content rules and DPDP; trends skipped as already empty this run)): New: India's amended IT Rules (in force 20 Feb 2026) make YouTube and Instagram ask uploaders to declare AI generated content and label realistic synthetic media, with three hour takedowns on official orders; India is about 68% of our subscribers, so we should tick the platforms' AI disclosure honestly whenever a video shows realistic looking scenes, while clearly cartoon songs are the low risk path. 2 leaves. Chrome not available. Total 4220."
   }
  ],
  "history": [
@@ -30269,6 +30283,10 @@
   {
    "date": "2026-11-21 12:48",
    "total": 4218
+  },
+  {
+   "date": "2026-11-21 12:54",
+   "total": 4220
   }
  ],
  "next_week_ideas": [
