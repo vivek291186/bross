@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:51:57+05:30",
- "runs": 1861,
+ "updated": "2026-11-21T10:53:45+05:30",
+ "runs": 1863,
  "branches": [
   {
    "id": "platforms",
@@ -2799,6 +2799,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1851
+    },
+    {
+     "t": "Netflix's English film top 10 for 9 to 15 Nov 2026 still held two animated animal singing competition films in their 15th and 19th weeks on the chart (about 3.2M and 2.4M views that week), beside new Christmas films, so animal characters performing catchy songs on a stage stay a year round family favourite; a Bro Bros 'animal talent show' song with each animal getting a turn fits that taste.",
+     "src": "whats-on-netflix.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1863
+    },
+    {
+     "t": "Among 127 Roblox games launched since September, the fastest growing by daily visits (ggrecon, 2 Nov 2026) include smashing eggs to hatch rare animals (about 325M visits), disguising as an egg to grab pets and cat sumo battles, so hatching, collecting and rescuing animals is what kids are playing this season; a Bro Bros song where mystery eggs hatch a new animal on each chorus taps the same thrill.",
+     "src": "ggrecon.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1863
     }
    ]
   },
@@ -29047,16 +29061,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 07:44",
-   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
-   "date": "2026-11-21 07:45",
-   "note": "Run 1783 (TRENDS (Buffer trending TikTok songs, 18 Nov; SocialPilot TikTok 17 to 25 Nov)): New: three fresh family friendly TikTok formats from Buffer's 18 Nov list: 'and maybe it didn't work out because' (a setback that turned out well), fitness app style stats of an ordinary day, and acting out misread social rules. Added 'Bro's day in stats' to the trend bank; the SocialPilot week (My Moon My Man, camera shy, You're Under Arrest) was already filed. Chrome not available. Total 4064."
-  },
-  {
    "date": "2026-11-21 07:47",
-   "note": "Run 1784 (global markets (Ofcom passive tracking of 701 UK children, May 2026)): New: Ofcom's device tracking of 701 UK 8 to 14s shows 3h36m online a day, YouTube at 23% of all their time and visited by 62% every day, 47% of time online falls between 15:00 and 21:00, weekends run about 40 minutes longer, only 14% of 8 to 12s use YouTube Kids and Instagram gets 7 minutes a day from 8 to 12s. Chrome not available. Total 4070."
+   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
   },
   {
    "date": "2026-11-21 07:47",
@@ -29365,6 +29371,14 @@
   {
    "date": "2026-11-21 10:51",
    "note": "Run 1861 (TRENDS (NewEngen 20 Nov TikTok list)): NewEngen's 20 Nov list adds a Thanksgiving 'awkward dinner glances' skit format and keeps the month by month 'a random day in' recap; the Chipmunks trio jump, kick and spin and the Dame Hombro shoulder bounce are still listed, so both kid safe dances hold into late November. 2 leaves, trend bank updated. Chrome not available. Total 4136."
+  },
+  {
+   "date": "2026-11-21 10:52",
+   "note": "Run 1862 (YouTube main and Kids (Tubefilter top 50, week of 15 Nov)): Nothing new: the 9 to 15 Nov chart (Fitu K Kitu at No. 1, family Shorts channels cooling, 42 of 50 Shorts led) was already filed. No leaves added. Chrome not available. Total 4136."
+  },
+  {
+   "date": "2026-11-21 10:53",
+   "note": "Run 1863 (other platforms (Netflix top 10 9 to 15 Nov, new Roblox games)): Netflix's English film top 10 for 9 to 15 Nov still held two animated animal singing films in their 15th and 19th weeks, next to Christmas titles; the fastest growing new Roblox games of autumn 2026 are egg hatching and pet stealing games plus cat sumo, so collecting and hatching animals is the live play theme. 2 leaves. Chrome not available. Total 4138."
   }
  ],
  "history": [
@@ -30363,9 +30377,21 @@
   {
    "date": "2026-11-21 10:51",
    "total": 4136
+  },
+  {
+   "date": "2026-11-21 10:52",
+   "total": 4136
+  },
+  {
+   "date": "2026-11-21 10:53",
+   "total": 4138
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "What's Inside the Egg? (Hatch a Surprise Animal Song)",
+   "why": "Egg hatching and pet collecting games are the fastest growing new Roblox games this autumn; each chorus cracks a mystery egg to reveal a new animal and its sound, a guess along hook with no protected characters."
+  },
   {
    "title": "Tickle Monster Giggles! (Tickle, Tickle, Who Laughs First Song)",
    "why": "The hottest holiday 2026 toys react when touched (a laughing tickle plush, a roaring cub); a call and response tickle song with a giggle on every beat matches that cause and effect play."
@@ -30417,10 +30443,6 @@
   {
    "title": "Toot Toot, Happy New Year! (Party Horn Countdown Song)",
    "why": "Pinkfong's Hogi is already seeding party horn sounds (60K views in 11 hours, 17 Nov); a countdown from 10 with a toot, a pop and a cheer for an early 'kids midnight' fits every country. Post 27 Dec. Standing moves: blow a pretend horn, jump on 'pop', wave both arms, spin in place slowly."
-  },
-  {
-   "title": "Helping Hands Week! (Kindness Countdown Song)",
-   "why": "GivingTuesday (1 Dec 2026) starts a five day Generosity Week; each verse is one easy act a child can do (help tidy, share a toy, carry the shopping, hug grandma, make a card), with a clap and point move for each. Post it on 30 Nov so it is live for 1 Dec; it fits every country and no religion. Standing moves only: clap twice, point out, wave, hug yourself, thumbs up."
   }
  ],
  "trend_bank": [
