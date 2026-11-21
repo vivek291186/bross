@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:35:10+05:30",
- "runs": 2003,
+ "updated": "2026-11-21T15:36:51+05:30",
+ "runs": 2004,
  "branches": [
   {
    "id": "platforms",
@@ -2876,6 +2876,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1983
+    },
+    {
+     "t": "In Barb's Q2 2025 UK data, 53% of 4 to 15 year olds' YouTube viewing happened on TV sets against 43% for people 16 and over, so for children the TV is now the main YouTube screen and thumbnails and titles must read well from the sofa.",
+     "src": "informitv (Barb), Aug 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2004
     }
    ]
   },
@@ -5536,6 +5543,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1970
+    },
+    {
+     "t": "Barb saw YouTube viewing on UK TV sets spike around 3 pm on weekdays, which it linked to school age children switching on YouTube when they get home, more support for having a fresh Bro Bros long video already live by early afternoon in each big market.",
+     "src": "Tubefilter (Barb data), Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2004
     }
    ]
   },
@@ -10044,6 +10058,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2000
+    },
+    {
+     "t": "In Barb's first UK ratings of YouTube channels watched on TV sets (summer 2025, 200 channels, Shorts and music channels excluded) Peppa Pig's channel was No. 1 with about 0.75 to 1M weekly viewers and 48M minutes a week, about six times MrBeast's minutes, and 12 of the top 20 channels were aimed at young children, so long form kids episodes and compilations win the family TV screen.",
+     "src": "Tubefilter Oct 2025; informitv Aug 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2004
     }
    ]
   },
@@ -19704,6 +19725,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1988
+    },
+    {
+     "t": "Barb's 2025 year report says 50% of UK children aged 4 to 15 watch YouTube on a TV set every week (38% in 2022) and that for 4 to 15s YouTube is the first service opened in about twice as many TV sessions as broadcast channels, ahead of Netflix, so in the UK our songs are often chosen on the big family screen.",
+     "src": "VideoWeek (Barb), Feb 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2004
     }
    ]
   },
@@ -29912,10 +29940,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 12:45",
-   "note": "Run 1925 (music craft (infant music study, Suno song editor)): The Vienna eLife infant study was already filed many times. New: Suno's Song Editor lets us rewrite lyrics and redo one section from the waveform and split a song into 12 stems, so a weak chorus or a wrong word can be fixed without regenerating, and instrumental or vocal only stems make dubs, karaoke and calm versions cheap. 2 leaves. Chrome not available. Total 4218."
-  },
-  {
    "date": "2026-11-21 12:46",
    "note": "Run 1926 (visual craft (title and thumbnail tests, YouTube animation report)): Nothing new: Test and Compare rules (up to 3 variants, watch time share, not for made for kids videos) and YouTube's Gen Z indie animation report were already filed. No leaves added. 0 leaves. Chrome not available. Total 4218."
   },
@@ -30226,6 +30250,10 @@
   {
    "date": "2026-11-21 15:35",
    "note": "Run 2003 (our results (Metricool 18 to 21 Nov)): Nothing new: Metricool still has no YouTube view data for uploads after 19 Nov and no Instagram Reels after 20 Nov (car Reel 55 views, parade Reel 16), all already filed. 0 leaves. Chrome not available. Total 4259."
+  },
+  {
+   "date": "2026-11-21 15:36",
+   "note": "Run 2004 (YouTube kids channels (UK Barb TV set ratings)): New: Barb's YouTube on TV ratings in the UK put Peppa Pig's channel first (about 1M weekly viewers, 48M minutes a week, six times MrBeast's minutes) with 12 of the top 20 channels aimed at children; viewing spikes around 3 pm when school children get home; half of UK 4 to 15s now watch YouTube on a TV set every week and YouTube is the first app they open more often than TV channels. 4 leaves. Chrome not available. Total 4263."
   }
  ],
  "history": [
@@ -30852,6 +30880,10 @@
   {
    "date": "2026-11-21 15:35",
    "total": 4259
+  },
+  {
+   "date": "2026-11-21 15:36",
+   "total": 4263
   }
  ],
  "next_week_ideas": [
