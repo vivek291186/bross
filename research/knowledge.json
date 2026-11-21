@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:43:55+05:30",
- "runs": 2125,
+ "updated": "2026-11-21T19:44:27+05:30",
+ "runs": 2126,
  "branches": [
   {
    "id": "platforms",
@@ -31021,12 +31021,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 16:57",
-   "note": "Summary of 2 older log entries (2026-11-21 16:57 to 2026-11-21 16:57): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 16:58",
-   "note": "Run 2047 (platforms (Dubit US and UK household research)): New: Dubit's survey of 3,009 US and UK households (early 2026) found 53% of kids watch YouTube on a TV, TikTok overtakes YouTube as kids' top platform at about age 11 with daily TikTok use jumping at 8, and parents are far more likely to trust YouTube than TikTok; Dubit's trends team also says over half of under 13s play Roblox weekly. 3 leaves. Chrome not available. Total 4313."
+   "note": "Summary of 2 older log entries (2026-11-21 16:57 to 2026-11-21 16:58): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:58",
@@ -31339,6 +31335,10 @@
   {
    "date": "2026-11-21 19:43",
    "note": "Run 2125 (TRENDS (Know Your Meme and Daily Dot check)): Nothing new: the latest meme roundups and kid dance stories found (bedtime stacking, first snow doorbell dances, the preschool dance turned adult trend, the Charlie Brown style party dance) were already filed. 0 leaves. Chrome not available. Total 4418."
+  },
+  {
+   "date": "2026-11-21 19:44",
+   "note": "Run 2126 (YouTube algorithm (new channel discovery check)): Nothing new: AIR's kids growth tactics, TubeBuddy's new creator discovery piece (vendor claims, no YouTube data), the Shorts related video link limits on made for kids Shorts and Little Dot's length data were all already filed. 0 leaves. Chrome not available. Total 4418."
   }
  ],
  "history": [
@@ -32452,6 +32452,10 @@
   },
   {
    "date": "2026-11-21 19:43",
+   "total": 4418
+  },
+  {
+   "date": "2026-11-21 19:44",
    "total": 4418
   }
  ],
