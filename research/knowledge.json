@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:03:56+05:30",
- "runs": 1942,
+ "updated": "2026-11-21T13:04:38+05:30",
+ "runs": 1943,
  "branches": [
   {
    "id": "platforms",
@@ -22161,6 +22161,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1930
+    },
+    {
+     "t": "Ofcom research (Mar 2026) found 72% of UK children aged 8 to 12 use apps that have a minimum age of 13, and Ofcom asked YouTube, TikTok, Instagram, Snapchat, Facebook and Roblox to report by 30 Apr 2026 on enforcing their age limits with highly effective age checks, with an assessment for Parliament due by end of October 2026 and under 16 restrictions expected from 2027; YouTube Kids has no minimum age and under 13s may use YouTube only through supervised accounts, so a growing share of our UK audience will reach us through those kid modes.",
+     "src": "Ofcom, Mar to Jul 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1943
     }
    ]
   },
@@ -29692,11 +29699,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1863); see git history."
-  },
-  {
-   "date": "2026-11-21 10:54",
-   "note": "Run 1864 (TRENDS (Pinterest parent searches, YouTube holiday Shorts)): Pinterest's first parenting report (searches up year on year) shows road safety art up about 317%, fun physical activities for kids up 340%, flying toys up 735% and family traditions ideas up 200%, which backs our road safety and movement songs; Pinterest Predicts 2027 is not out yet. 2 leaves. Chrome not available. Total 4140."
+   "note": "Earlier: older log entries summarised (runs up to 1864); see git history."
   },
   {
    "date": "2026-11-21 10:55",
@@ -30009,6 +30012,10 @@
   {
    "date": "2026-11-21 13:03",
    "note": "Run 1942 (TRENDS (Virlo week of 16 Nov, Kapwing)): Nothing new: Virlo's 16 to 21 Nov list is dominated by GTA VI launch sounds and adult audio already flagged as off limits; Kapwing has no November 2026 roundup yet. No leaves added. 0 leaves. Chrome not available. Total 4228."
+  },
+  {
+   "date": "2026-11-21 13:04",
+   "note": "Run 1943 (rules (UK Ofcom underage use and age checks)): New: Ofcom says 72% of UK children aged 8 to 12 use apps with a minimum age of 13 and has pushed YouTube, TikTok, Instagram and others to enforce age limits, with under 16 restrictions expected from 2027; for us that means more young viewers will move into supervised accounts and YouTube Kids, where only clearly made for kids, gentle content travels. 1 leaves. Chrome not available. Total 4229."
   }
  ],
  "history": [
@@ -30391,6 +30398,10 @@
   {
    "date": "2026-11-21 13:03",
    "total": 4228
+  },
+  {
+   "date": "2026-11-21 13:04",
+   "total": 4229
   }
  ],
  "next_week_ideas": [
