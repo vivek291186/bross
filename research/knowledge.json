@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T04:39:56+05:30",
- "runs": 2290,
+ "updated": "2026-11-22T04:41:30+05:30",
+ "runs": 2292,
  "branches": [
   {
    "id": "platforms",
@@ -25143,6 +25143,27 @@
      "conf": "high",
      "date": "2026-11-22",
      "run": 2280
+    },
+    {
+     "t": "Over the 11 days 9 to 19 Nov 2026 our 10:00 IST long videos averaged about 611 views (11 uploads) against about 346 for the 16:00 IST uploads (11 uploads), and the morning video won on 8 of the 11 days, so the morning slot is now our clear best time for long songs.",
+     "src": "Metricool YouTube data, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2292
+    },
+    {
+     "t": "In the 16:00 IST slot of 9 to 19 Nov 2026 our four Hindi Didi story videos averaged about 444 views while the seven English songs there averaged about 291, so if the afternoon slot keeps a weaker spot, a story video or our strongest Hindi content suits it better than a second English song.",
+     "src": "Metricool YouTube data, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2292
+    },
+    {
+     "t": "Our 'Dance and Freeze' long video (18 Nov 2026, 16:00 IST) got only 55 views, the weakest of the fortnight, even though its Instagram Reel was one of our best (about 113 views, lowest skip rate), so a game song can win as a Reel while the long video needs a stronger search title and thumbnail to be found.",
+     "src": "Metricool YouTube and Instagram data, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2292
     }
    ]
   },
@@ -32050,16 +32071,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 23:37",
-   "note": "Summary of earlier runs: Summary of earlier runs: Summary of earlier runs: Summary of Run 2211 (Shorts and Reels (formats, retention, Reels algori ..."
-  },
-  {
-   "date": "2026-11-21 23:39",
-   "note": "Run 2212 (TRENDS (Virlo week of 16 Nov and November list)): New: this week's fastest risers on TikTok are adult party jokes, an SNL line and a couple montage, with no kid safe dance among them; the pick your favourite thing table game faded after 73.8M views from only 117 videos; the first to react loses couple trend is destructive and must be avoided. Trend bank unchanged. 3 leaves. Chrome not available. Total 4507."
-  },
-  {
    "date": "2026-11-21 23:40",
-   "note": "Run 2213 (music craft (familiarity and arousal study)): Small addition: a Boston University heart rate pilot with preschoolers found heart rates rose once a song became familiar and peaked in a shaker and moving song, supporting repeated choruses and move along sections; kids charts were already filed today. 1 leaves. Chrome not available. Total 4508."
+   "note": "Summary of earlier runs: Summary of earlier runs: Summary of earlier runs: Summary of Run 2213 (music craft (familiarity and arousal study)): Smal ..."
   },
   {
    "date": "2026-11-21 23:41",
@@ -32368,6 +32381,14 @@
   {
    "date": "2026-11-22 04:39",
    "note": "Run 2290 (posting times (Qustodio, Securly school day data, holiday viewing, Buffer and SocialPilot timing guides)): New: Qustodio's 2024 data puts kids on the YouTube Kids app at about 97 minutes a day (108 in the US) against 71 on main YouTube, with streaming rising in school holidays; Securly's 2026 school day data shows elementary pupils watch only about 5 minutes of YouTube in class, in clips of about 2 minutes, so home hours drive our views. Timing guides repeated filed advice. No slot change: our 10:00 IST uploads keep beating 16:00 IST, but the 04:30 IST US slot in the plan is still untested. 3 leaves. Chrome not available. Total 4565."
+  },
+  {
+   "date": "2026-11-22 04:40",
+   "note": "Run 2291 (rules, safety and monetisation (made for kids, COPPA, AI slop policy, Meta age checks, kids RPM)): Nothing new: YouTube's July inauthentic content rules and the faceless channel demonetisation, the FTC's 2026 COPPA priorities, Meta's 9 Nov worldwide AI age checks and AIR's kids RPM figures were all already filed. 0 leaves. Chrome not available. Total 4565."
+  },
+  {
+   "date": "2026-11-22 04:41",
+   "note": "Run 2292 (our own results (Metricool YouTube 9 to 19 Nov, Reels 19 to 20 Nov, queue)): New: over 11 days (9 to 19 Nov) our 10:00 IST long videos averaged about 611 views against about 346 at 16:00 IST and won on 8 of 11 days; at 16:00 the Hindi Didi stories (about 444) beat the English songs (about 291); the freeze dance long video got only 55 views though its Reel was a top Reel. Posting plan changed: slots are now 10:00 IST and 16:00 IST (our real schedule, with about 68% of subscribers in India), and the untested 04:30 IST US slot moved to the test list. Queue after 22 Nov still empty. 3 leaves. Chrome not available. Total 4568."
   }
  ],
  "history": [
@@ -33434,6 +33455,14 @@
   {
    "date": "2026-11-22 04:39",
    "total": 4565
+  },
+  {
+   "date": "2026-11-22 04:40",
+   "total": 4565
+  },
+  {
+   "date": "2026-11-22 04:41",
+   "total": 4568
   }
  ],
  "next_week_ideas": [
@@ -33617,23 +33646,23 @@
   }
  ],
  "posting_plan": {
-  "summary": "Two long videos a day, each with its Short 5 minutes later and its Reel at the same time.",
+  "summary": "Two long videos a day at 10:00 and 16:00 IST, each with its Short 5 minutes later and its Reel at the same time. Our audience is about 68% India, so both slots serve India first and Europe second.",
   "slots": [
+   {
+    "time_ist": "10:00 IST",
+    "utc": "04:30 UTC",
+    "for": "India and South Asia morning (main audience), Middle East early morning, UK and Europe breakfast about 2 to 4 hours later",
+    "why": "Our own results: over 9 to 19 Nov our 10:00 IST long videos averaged about 611 views vs about 346 at 16:00 and won 8 of 11 days; Metricool's Instagram peak is also 10:00 IST every day. Put the strongest English song here."
+   },
    {
     "time_ist": "16:00 IST",
     "utc": "10:30 UTC",
-    "for": "India, Middle East, Southeast Asia afternoon/evening; UK and Europe late morning",
-    "why": "Our own Metricool peak every day of the week."
-   },
-   {
-    "time_ist": "04:30 IST (next morning)",
-    "utc": "23:00 UTC",
-    "for": "US and Canada after school (6 PM New York, 3 PM Los Angeles), Latin America evening",
-    "why": "AIR's kids study peak slot; the US is the heaviest kids YouTube audience. Metricool posts it automatically, nobody needs to be awake."
+    "for": "India, Middle East, Southeast Asia after school and evening; UK and Europe late morning",
+    "why": "Metricool's YouTube best time model peaks at 16:00 IST every day; in our data Hindi Didi stories do better here than a second English song."
    }
   ],
   "days": "Every day. Put the strongest song of the week and the weekly compilation on Friday; weekends get lighter, evergreen songs.",
   "shorts": "Short 5 minutes after each video; extra Shorts work best Thursday to Saturday evenings local time.",
-  "test": "Run this for 2 weeks, then compare in YouTube Studio (Audience: When your viewers are on YouTube) and move each slot to 2 to 3 hours before our real peaks. Extra test: post one bonus Short a day for a week at 22:30 IST (17:00 UTC, the strongest Shorts hour in PostFast's data) and compare its views with the Shorts that follow our two main videos. Third test: for one week post each Short 4 hours after its long video instead of 5 minutes later (vidIQ's suggestion, no data shown) and compare. Fourth test: Metricool's 22 to 28 Nov grid puts Instagram's second peak at 18:00 IST, so for one week move the 16:00 Reel to 18:00 and compare views and shares."
+  "test": "Test 1: for one week post the second video of the day at 04:30 IST (23:00 UTC, US after school, AIR's kids peak) instead of 16:00 and compare with the 16:00 weeks; our audience is only about 6% US, so judge it on new viewers and subscribers from the US, not just views. Test 2: one bonus Short a day at 22:30 IST (17:00 UTC, PostFast's strongest Shorts hour). Test 3: post each Short 4 hours after its long video instead of 5 minutes later. Test 4: move the 16:00 Reel to 18:00 IST (Metricool's second Instagram peak) for one week and compare views and shares."
  }
 }
