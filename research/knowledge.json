@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:55:32+05:30",
- "runs": 1932,
+ "updated": "2026-11-21T12:56:22+05:30",
+ "runs": 1933,
  "branches": [
   {
    "id": "platforms",
@@ -29636,11 +29636,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1853); see git history."
-  },
-  {
-   "date": "2026-11-21 10:41",
-   "note": "Run 1854 (visual craft (thumbnails, pacing, Blender 5.3)): Nothing new: the vidIQ 500 breakout thumbnail study, the fantastical content pacing study and the Blender 5.3 features were already filed. No leaves added. Chrome not available. Total 4120."
+   "note": "Earlier: older log entries summarised (runs up to 1854); see git history."
   },
   {
    "date": "2026-11-21 10:42",
@@ -29953,6 +29949,10 @@
   {
    "date": "2026-11-21 12:55",
    "note": "Run 1932 (YouTube main and Kids (Tubefilter week of 15 Nov, growth studies; our results skipped as already empty this run)): Nothing new: Tubefilter's week of 15 Nov chart (Chispita, Plim Plim), AIR's kids growth tactics and CreatorDB's 417 fast growing channels census were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4220."
+  },
+  {
+   "date": "2026-11-21 12:56",
+   "note": "Run 1933 (YouTube algorithm (Home feed and Shorts age, Joos analyses)): Nothing new: the Home feed long form cut, the 28 to 30 day Shorts flattening and the satisfied watch time per click shift were already filed. No leaves added. 0 leaves. Chrome not available. Total 4220."
   }
  ],
  "history": [
@@ -30294,6 +30294,10 @@
   },
   {
    "date": "2026-11-21 12:55",
+   "total": 4220
+  },
+  {
+   "date": "2026-11-21 12:56",
    "total": 4220
   }
  ],
