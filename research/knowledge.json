@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:52:53+05:30",
- "runs": 2134,
+ "updated": "2026-11-21T20:53:23+05:30",
+ "runs": 2135,
  "branches": [
   {
    "id": "platforms",
@@ -31077,12 +31077,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 17:35",
-   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 17:36",
-   "note": "Run 2056 (music craft (key change hooks, Billboard Kid Albums)): New: a songwriting guide (BMI) shows how one unexpected chord on the key word and a lift of a half or whole step before the last chorus make a hook stick, which gives our Suno prompts a simple final chorus lift; Billboard's Kid Albums chart (week of 8 Nov 2025, the newest copy readable) was led by film and holiday soundtracks with CoComelon at 4, Pinkfong at 9 and Super Simple Songs at 12, and a Halloween novelty album was the biggest seasonal gainer. 3 leaves. Chrome not available. Total 4329."
+   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:37",
@@ -31395,6 +31391,10 @@
   {
    "date": "2026-11-21 20:52",
    "note": "Run 2134 (rules and safety (made for kids, UK under 16 plan, ad rates)): Nothing new: the UK under 16 ban (YouTube in scope, spring 2027, possible widening to YouTube Kids), Australia's results and country CPM tables were all already filed. 0 leaves. Chrome not available. Total 4426."
+  },
+  {
+   "date": "2026-11-21 20:53",
+   "note": "Run 2135 (our own results (Metricool recheck)): Nothing new: Metricool's YouTube data still stops at the 19 Nov uploads (tomato song 972 views, freeze dance 48, farm band 63) and Instagram at the 20 Nov Reels (car song 55 views and 25 shares), all already filed. 0 leaves. Chrome not available. Total 4426."
   }
  ],
  "history": [
@@ -32544,6 +32544,10 @@
   },
   {
    "date": "2026-11-21 20:52",
+   "total": 4426
+  },
+  {
+   "date": "2026-11-21 20:53",
    "total": 4426
   }
  ],
