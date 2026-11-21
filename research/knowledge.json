@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T04:37:12+05:30",
- "runs": 2288,
+ "updated": "2026-11-22T04:39:56+05:30",
+ "runs": 2290,
  "branches": [
   {
    "id": "platforms",
@@ -3037,6 +3037,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2273
+    },
+    {
+     "t": "Qustodio's 2024 data on millions of families found children spend about 97 minutes a day on the YouTube Kids app (108 in the US) against about 71 minutes on main YouTube (US 86, Australia 68, UK 67, France 50, Spain 44), so the kids app holds the longest sessions and made for kids videos that reach it can earn long watch time.",
+     "src": "Qustodio annual report, 2024 data (page Jan 2025)",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2290
     }
    ]
   },
@@ -5809,6 +5816,20 @@
      "conf": "high",
      "date": "2026-11-22",
      "run": 2277
+    },
+    {
+     "t": "Qustodio saw children's daily streaming rise to its highest in school holidays (Australian kids about 68 minutes a day in the January summer break, US kids a record 72 in July), so the coming Christmas break from about 19 Dec (Northern Hemisphere) and the long Australian and South African summer break are the weeks to post our strongest songs and longest compilations.",
+     "src": "Qustodio annual report, 2024 data",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2290
+    },
+    {
+     "t": "Securly's 2026 data on 610,000 US students (Feb to Apr, school hours only) shows elementary pupils watch only about 5 minutes of YouTube a school day (kindergarten about 3.6), about 3 videos of roughly 2 minutes each, so classroom plays are short and few and most of our young viewers' time comes after school and at weekends at home.",
+     "src": "Securly YouTube usage report, 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2290
     }
    ]
   },
@@ -10730,6 +10751,20 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2276
+    },
+    {
+     "t": "GoNoodle's most surfaced picks (late summer 2026) are mostly short songs in two moods: high energy call and repeat dances (Boom Chicka Boom, Purple Stew, Peanut Butter in a Cup) for a fast reset, and short calming tracks (Bring It Down, Take A Breath) to settle a class after play, with only a few long 11 to 19 minute indoor recess sessions; a Bro Bros 'cool down' song after each wild dance would fit the same classroom habit.",
+     "src": "UMA Technology GoNoodle guide, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2289
+    },
+    {
+     "t": "A long running teacher list of Christmas brain breaks (updated Dec 2025) is made entirely of movement songs from small and mid sized channels: a reindeer hokey pokey, two Santa shake songs, a Christmas freeze dance, Wiggles Santa songs, a Jingle Bells Zumba and a dancing Christmas tree song, so a simple, standing Bro Bros Christmas freeze or shake song can win classroom plays in December without a famous name.",
+     "src": "Childhood101, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2289
     }
    ]
   },
@@ -32015,16 +32050,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 23:05",
-   "note": "Summary of earlier runs: Summary of earlier runs: Summary of 2 earlier log entries (2 Run 2209 (global markets (Brazil Portuguese song channels)): ..."
-  },
-  {
-   "date": "2026-11-21 23:36",
-   "note": "Run 2210 (YouTube algorithm (mid November changes)): New: Google's 16 Nov India family push lets parents cap teens' Shorts feed time down to zero while long videos stay open, and adds a YouTube wellbeing playlist on bedtime routines; no ranking change found for 8 to 21 Nov (custom feeds, Clips to Shorts and Hype were already filed). 2 leaves. Chrome not available. Total 4503."
-  },
-  {
    "date": "2026-11-21 23:37",
-   "note": "Run 2211 (Shorts and Reels (formats, retention, Reels algorithm)): Small addition: Instagram's Your Algorithm topic tool is gated by the app being set to English, not by country, with no Portuguese date; Metricool's YouTube study, Emplifi hook data, Dash Social Q3 retention and Instagram Features were already filed. 1 leaves. Chrome not available. Total 4504."
+   "note": "Summary of earlier runs: Summary of earlier runs: Summary of earlier runs: Summary of Run 2211 (Shorts and Reels (formats, retention, Reels algori ..."
   },
   {
    "date": "2026-11-21 23:39",
@@ -32333,6 +32360,14 @@
   {
    "date": "2026-11-22 04:37",
    "note": "Run 2288 (global markets (Kidscreen 2027 nominations, Ampere at MIPJUNIOR, Ofcom, EU Kids Online)): Small addition: the 2027 Kidscreen Awards nominations (17 Nov) are led by Disney and Netflix with 21 each, then BBC, PBS, WildBrain and Sesame, with new educational and host categories, a sign that learning value is what the industry now rewards; Ampere's MIPJUNIOR talk, Netflix creator rankings, Roy Morgan and EU Kids Online were already filed. 1 leaves. Chrome not available. Total 4560."
+  },
+  {
+   "date": "2026-11-22 04:39",
+   "note": "Run 2289 (competitor deep dive (Bounce Patrol, GoNoodle, Jack Hartmann, classroom Christmas brain breaks)): Bounce Patrol's stall and Sesame collabs were already filed; new: GoNoodle's surfaced picks pair short high energy call and repeat dances with short calming reset songs, and teacher lists of Christmas brain breaks are built from freeze dances, hokey pokey style body part songs and Santa shake songs by small movement channels. 2 leaves. Chrome not available. Total 4562."
+  },
+  {
+   "date": "2026-11-22 04:39",
+   "note": "Run 2290 (posting times (Qustodio, Securly school day data, holiday viewing, Buffer and SocialPilot timing guides)): New: Qustodio's 2024 data puts kids on the YouTube Kids app at about 97 minutes a day (108 in the US) against 71 on main YouTube, with streaming rising in school holidays; Securly's 2026 school day data shows elementary pupils watch only about 5 minutes of YouTube in class, in clips of about 2 minutes, so home hours drive our views. Timing guides repeated filed advice. No slot change: our 10:00 IST uploads keep beating 16:00 IST, but the 04:30 IST US slot in the plan is still untested. 3 leaves. Chrome not available. Total 4565."
   }
  ],
  "history": [
@@ -33391,6 +33426,14 @@
   {
    "date": "2026-11-22 04:37",
    "total": 4560
+  },
+  {
+   "date": "2026-11-22 04:39",
+   "total": 4562
+  },
+  {
+   "date": "2026-11-22 04:39",
+   "total": 4565
   }
  ],
  "next_week_ideas": [
