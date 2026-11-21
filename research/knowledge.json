@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:35:34+05:30",
- "runs": 1952,
+ "updated": "2026-11-21T13:36:11+05:30",
+ "runs": 1953,
  "branches": [
   {
    "id": "platforms",
@@ -29754,12 +29754,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 11:37",
-   "note": "Earlier: older log entries summarised (runs up to 1873); see git history."
-  },
-  {
    "date": "2026-11-21 11:38",
-   "note": "Run 1874 (Shorts and Reels (Instagram Features, trial Reels, vidIQ outlier data)): Instagram Features, the Apple TV app, the end of Reel series linking and trial Reels were already filed; new: in vidIQ's new channel data the best of the first 10 long videos gets about 11 times the views of the first, and only 1 in 10 long videos reaches 10K, so volume buys outliers. 1 leaves. Chrome not available. Total 4155."
+   "note": "Earlier: older log entries summarised (runs up to 1874); see git history."
   },
   {
    "date": "2026-11-21 11:40",
@@ -30072,6 +30068,10 @@
   {
    "date": "2026-11-21 13:35",
    "note": "Run 1952 (competitor deep dive (Hey Bear Sensory, The Kiboomers)): Mostly filed already. New: as of 19 Nov 2026 Hey Bear Sensory had not uploaded for about a month and had no Christmas video yet, while its newest 10 uploads average about 5.5M views against 61M for its first 10; a fresh Christmas dance party gap is open in the sensory dance niche. 1 leaves. Chrome not available. Total 4237."
+  },
+  {
+   "date": "2026-11-21 13:36",
+   "note": "Run 1953 (global markets (Senal News, Ofcom, Parrot)): Nothing new: Winsing's non dialogue shorts strategy, Ofcom's passive tracking report, Parrot's MENA animation demand and WARC's user base by country were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4237."
   }
  ],
  "history": [
@@ -30493,6 +30493,10 @@
   },
   {
    "date": "2026-11-21 13:35",
+   "total": 4237
+  },
+  {
+   "date": "2026-11-21 13:36",
    "total": 4237
   }
  ],
