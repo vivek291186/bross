@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T08:42:46+05:30",
- "runs": 1811,
+ "updated": "2026-11-21T08:43:23+05:30",
+ "runs": 1812,
  "branches": [
   {
    "id": "platforms",
@@ -22518,6 +22518,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1800
+    },
+    {
+     "t": "By 21 Nov 2026 our 20 Nov 'Beep Beep Little Car' Reel (16:00 IST, red means stop, green means go) had 25 shares from 44 people reached and 55 views, while every other Reel from 14 to 20 Nov had 0 or 1 share, so it is the first Bro Bros Reel being sent on; a few people may have sent it many times, so watch whether its reach grows over the next days.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1812
+    },
+    {
+     "t": "The shared car Reel taught a road safety rule (red stop, green go) in the caption and song, while our higher view Reels (veggie soup 127, ant parade 114, freeze dance 113) were fun but got at most one share, which suggests a useful safety or routine lesson is what makes parents send a Reel, separate from what makes kids watch.",
+     "src": "Metricool, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1812
+    },
+    {
+     "t": "Metricool still shows no Reel for 21 Nov 2026 at about 08:45 IST, and the 19 and 20 Nov 10:00 IST Reels (farm band 4 views, bubble gum 9, elephant parade 16) remain our weakest, so the 10:00 IST Reel slot keeps underperforming the 16:00 IST one this week despite Metricool's model rating 10:00 IST highest.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1812
     }
    ]
   },
@@ -28718,12 +28739,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 05:41",
-   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1732)."
-  },
-  {
    "date": "2026-11-21 05:42",
-   "note": "Run 1733 (visual craft (animation news: retro style viral music video, AI solo series, Moonbug spin offs)): Mostly known. New: a self taught Japanese animator's retro 1960s TV look music video reached about 195M views and took only ten days, a reminder that a distinct look can stand out, though it is a general audience piece and earns little from ads. Chrome not available. Total 4014."
+   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1733)."
   },
   {
    "date": "2026-11-21 05:43",
@@ -29036,13 +29053,13 @@
   {
    "date": "2026-11-21 08:42",
    "note": "Run 1811 (rules and safety (COPPA, AI slop policy, US and EU kids laws)): Nothing new: the Disney COPPA labelling fine, YouTube's July 2026 inauthentic content rules, the House KIDS Act, Senate KOSA and COPPA 2.0 status and the EU Kids Act push of 10 Nov were all already filed. No leaves added. Chrome not available. Total 4089."
+  },
+  {
+   "date": "2026-11-21 08:43",
+   "note": "Run 1812 (our own results (Metricool Instagram Reels 14 to 21 Nov, shares)): New: the 20 Nov 'Beep Beep Little Car' traffic light Reel now shows 25 shares from 44 people reached (55 views), the first Bro Bros Reel that parents are passing on, while every other Reel of the week has 0 or 1 share; added a road safety crossing song idea. No 21 Nov Reel has synced yet. Chrome not available. Total 4092."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 10:40",
-   "total": 3633
-  },
   {
    "date": "2026-11-20 10:46",
    "total": 3633
@@ -30238,9 +30255,17 @@
   {
    "date": "2026-11-21 08:42",
    "total": 4089
+  },
+  {
+   "date": "2026-11-21 08:43",
+   "total": 4092
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Red Light, Green Light, Cross With Me! (Stop, Look and Hold Hands Song)",
+   "why": "Our 20 Nov traffic light car Reel drew 25 shares from 44 people, our first real sharing, so a road safety lesson parents want to pass on is our most shareable topic so far; a crossing song with a freeze on red and a march on green adds a game."
+  },
   {
    "title": "Uh Oh, My Zipper's Stuck! (Getting Dressed Helper Song)",
    "why": "BabyBus's stuck zipper song hit 1.36M views in two weeks: a tiny everyday problem in the title, then the Bros solve it step by step with a dance on each fix; winter coats make it timely worldwide."
@@ -30272,10 +30297,6 @@
   {
    "title": "Toot Toot, Happy New Year! (Party Horn Countdown Song)",
    "why": "Pinkfong's Hogi is already seeding party horn sounds (60K views in 11 hours, 17 Nov); a countdown from 10 with a toot, a pop and a cheer for an early 'kids midnight' fits every country. Post 27 Dec. Standing moves: blow a pretend horn, jump on 'pop', wave both arms, spin in place slowly."
-  },
-  {
-   "title": "That's Not Grandma! (Silly Wolf Fairy Tale Song)",
-   "why": "The public domain Little Red Riding Hood reveal is a live meme joke (not me nan audio, autumn 2026); a call and response song (big ears? big eyes? big tail!) with a friendly, never scary wolf who just wants to dance travels in every country. Standing moves: hands as big ears, circle eyes, wiggle tail, point and jump back."
   },
   {
    "title": "Helping Hands Week! (Kindness Countdown Song)",
