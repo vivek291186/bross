@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:59:45+05:30",
- "runs": 2049,
+ "updated": "2026-11-21T17:00:39+05:30",
+ "runs": 2050,
  "branches": [
   {
    "id": "platforms",
@@ -5599,13 +5599,6 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2004
-    },
-    {
-     "t": "Nielsen's December 2024 Gauge showed the Christmas holidays are now the peak month for TV screen streaming, with YouTube at a record 11.1% of all US TV viewing and families watching together on the streaming device, so our Christmas and New Year week uploads should be TV friendly long compilations, not only Shorts.",
-     "src": "Tubefilter (Nielsen), Jan 2025",
-     "conf": "high",
-     "date": "2026-11-21",
-     "run": 2049
     }
    ]
   },
@@ -30321,12 +30314,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:52",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:53",
-   "note": "Run 1971 (Shorts and Reels (Trial Reels and Shorts length studies)): Nothing new: Planoly's and Kapwing's Trial Reels tests, Adobe's Shorts length study and Metricool's 800K video study were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:53",
@@ -30638,7 +30627,11 @@
   },
   {
    "date": "2026-11-21 16:59",
-   "note": "Run 2049 (posting times (holiday weeks viewing)): Little new and nothing that changes the slots: Nielsen's December 2024 data shows the holidays are now the peak TV screen viewing month (YouTube at a record 11.1% of US TV time, families gathered around the streaming device), and in Tubular's 2019 holiday data a simple 'Santa's footprints' kids DIY video and Peppa Pig were top YouTube holiday hits. Posting slots unchanged; restored the vacuum song idea (81M weekly views evidence) in place of the feelings song. 2 leaves. Chrome not available. Total 4318."
+   "note": "Run 2049 (posting times (holiday weeks viewing)): Little new and nothing that changes the slots: Nielsen's December 2024 data shows the holidays are now the peak TV screen viewing month (YouTube at a record 11.1% of US TV time, families gathered around the streaming device), and in Tubular's 2019 holiday data a simple 'Santa's footprints' kids DIY video and Peppa Pig were top YouTube holiday hits. Posting slots unchanged; restored the vacuum song idea (81M weekly views evidence) in place of the feelings song. 1 leaves (a Nielsen December leaf was dropped as a duplicate of one already filed). Chrome not available. Total 4317."
+  },
+  {
+   "date": "2026-11-21 17:00",
+   "note": "Run 2050 (TRENDS (Epidemic Sound 13 Nov, Anijam November list)): Nothing new: Mariah 'It's time' defrost, the bicep heart pose, the fancy cafe table stool meme, the Dame Hombro shoulder dance and 'saxophones are getting louder' were already filed or in the trend bank; the 'Why would I deceive you?' meme mocks a real fraud case, so it was skipped. 0 leaves. Chrome not available. Total 4317."
   }
  ],
  "history": [
@@ -31448,7 +31441,11 @@
   },
   {
    "date": "2026-11-21 16:59",
-   "total": 4318
+   "total": 4317
+  },
+  {
+   "date": "2026-11-21 17:00",
+   "total": 4317
   }
  ],
  "next_week_ideas": [
