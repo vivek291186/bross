@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T03:43:44+05:30",
- "runs": 2282,
+ "updated": "2026-11-22T03:44:39+05:30",
+ "runs": 2283,
  "branches": [
   {
    "id": "platforms",
@@ -32009,11 +32009,7 @@
  "log": [
   {
    "date": "2026-11-21 23:02",
-   "note": "Summary of 2 earlier log entries (2026-11-21 23:01 to 2026-11-21 23:02): mostly small research rounds; see git history for details."
-  },
-  {
-   "date": "2026-11-21 23:02",
-   "note": "Run 2205 (TRENDS (SocialPilot Reels audio, 17 to 25 Nov)): Nothing new: SocialPilot's list for 17 to 25 Nov (Christmas decor sounds at peak, Blue Danube grand ballet, then and now glow ups, silly little life montages, stop the wedding hook, back to back bump) was already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4496."
+   "note": "Summary of 2 earlier log entries (2026-11-21 23:02 to 2026-11-21 23:02): mostly small research rounds; see git history for details."
   },
   {
    "date": "2026-11-21 23:02",
@@ -32326,6 +32322,10 @@
   {
    "date": "2026-11-22 03:43",
    "note": "Run 2282 (YouTube algorithm (Shorts originality, custom feeds, Studio updates)): Nothing new: the 1 Oct Shorts originality change, US prompt based custom feeds in the top bar, the merged Ask Studio chat and Hype with Jewels were all already filed, and no new ranking change has been announced since late October. 0 leaves. Chrome not available. Total 4559."
+  },
+  {
+   "date": "2026-11-22 03:44",
+   "note": "Run 2283 (Shorts and Reels formats and the Reels algorithm (Mosseri, Trial Reels, Features, Tubefilter)): Nothing new: Instagram's Your Algorithm controls, horizontal Features, Trial Reels tests (Kapwing, Planoly) and Tubefilter's 9 to 15 Nov kids Shorts movers were all already filed; no Reels ranking change announced this week. 0 leaves. Chrome not available. Total 4559."
   }
  ],
  "history": [
@@ -33359,6 +33359,10 @@
   },
   {
    "date": "2026-11-22 03:43",
+   "total": 4559
+  },
+  {
+   "date": "2026-11-22 03:44",
    "total": 4559
   }
  ],
