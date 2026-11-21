@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:50:24+05:30",
- "runs": 1966,
+ "updated": "2026-11-21T13:51:08+05:30",
+ "runs": 1967,
  "branches": [
   {
    "id": "platforms",
@@ -22252,6 +22252,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1955
+    },
+    {
+     "t": "India's Karnataka state passed an under 16 social media ban in March 2026 and Goa is weighing one (Reuters, Sep 2026); with about 68% of our subscribers in India, our young viewers there increasingly watch through a parent's account or a TV, so titles and thumbnails must win the parent's choice, and YouTube Kids availability matters more than kids' own accounts.",
+     "src": "Reuters via bdnews24, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1967
+    },
+    {
+     "t": "On 17 Sep 2026 European Commission President von der Leyen proposed an EU wide ban on social media for under 13s, with safe by design duties for under 18s across social media, video sharing, online games and AI chatbots and fines up to 6% of global turnover; it is only a proposal, but European preschool viewing will keep shifting to parents' accounts, TVs and kids apps.",
+     "src": "Reuters via bdnews24, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1967
+    },
+    {
+     "t": "Correction to an earlier leaf: France's parliament passed an under 15 social media ban in July 2026, but France's top court blocked it on 14 Aug 2026 as an excessive limit on free expression, so France has no such ban in force yet (Reuters, Sep 2026).",
+     "src": "Reuters via bdnews24, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1967
     }
    ]
   },
@@ -29803,12 +29824,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 11:50",
-   "note": "Earlier: older log entries summarised (runs up to 1887); see git history."
-  },
-  {
    "date": "2026-11-21 11:51",
-   "note": "Run 1888 (music craft (Suno Voices, auto dubbing for songs)): New: Suno Voices (web and apps since Jun 2026) sings tracks in a recorded reference voice, best from at least a minute of clean, quiet recording matched to the genre, which could give Big Bro and Little Bro one steady singing voice each; YouTube auto dubbing skipping music only videos was already filed. 2 leaves. Chrome not available. Total 4173."
+   "note": "Earlier: older log entries summarised (runs up to 1888); see git history."
   },
   {
    "date": "2026-11-21 11:51",
@@ -30121,6 +30138,10 @@
   {
    "date": "2026-11-21 13:50",
    "note": "Run 1966 (posting times (Metricool grid 22 to 28 Nov)): Nothing new: the 22 to 28 Nov YouTube grid is unchanged (16:00 IST top every day, Wednesday and Thursday about 12K, weekends about half), matching leaves already filed; posting slots unchanged. No leaves added. 0 leaves. Chrome not available. Total 4244."
+  },
+  {
+   "date": "2026-11-21 13:51",
+   "note": "Run 1967 (rules and safety (child social media age limits, Reuters Sep 2026)): New: India's Karnataka state set an under 16 social media ban (Mar 2026) and Goa is weighing one, which matters because India gives us about 68% of subscribers; the EU proposed an under 13 ban on 17 Sep 2026; and France's under 15 law, filed earlier as passed, was struck down by its top court on 14 Aug 2026 (the older leaf stays but this corrects it). 3 leaves. Chrome not available. Total 4247."
   }
  ],
  "history": [
@@ -30599,6 +30620,10 @@
   {
    "date": "2026-11-21 13:50",
    "total": 4244
+  },
+  {
+   "date": "2026-11-21 13:51",
+   "total": 4247
   }
  ],
  "next_week_ideas": [
