@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:43:57+05:30",
- "runs": 1955,
+ "updated": "2026-11-21T13:44:26+05:30",
+ "runs": 1956,
  "branches": [
   {
    "id": "platforms",
@@ -29782,12 +29782,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 11:41",
-   "note": "Earlier: older log entries summarised (runs up to 1876); see git history."
-  },
-  {
    "date": "2026-11-21 11:42",
-   "note": "Run 1877 (visual craft (YouTube animation report, calm animation claims)): YouTube's animation report says half of animation fans watch series in other languages and hit indie series carry subtitles in about 18 languages and dubbed audio in about 21; the studio blog claiming calm animation is the fastest growing kids niche gives no data, so it stays unproven. 3 leaves. Chrome not available. Total 4161."
+   "note": "Earlier: older log entries summarised (runs up to 1877); see git history."
   },
   {
    "date": "2026-11-21 11:43",
@@ -30100,6 +30096,10 @@
   {
    "date": "2026-11-21 13:43",
    "note": "Run 1955 (rules and safety (AI labels on YouTube Kids)): Mostly filed. New: YouTube told Mashable (May 2026) that its AI labels do not reach the YouTube Kids app because Kids videos show no description, and that it is building separate Kids labels; the auto scan skips animated and stylised video, so our 3D songs are not auto labelled, but a future Kids label could be. 1 leaves. Chrome not available. Total 4241."
+  },
+  {
+   "date": "2026-11-21 13:44",
+   "note": "Run 1956 (our results (Instagram Reels 18 to 21 Nov)): Nothing new: Metricool still has no 21 Nov Reels; the six Reels of 18 to 20 Nov match leaves already filed (veggie soup 127 views, freeze dance 113, little car 55 with 25 shares, the rest 4 to 16). No leaves added. 0 leaves. Chrome not available. Total 4241."
   }
  ],
  "history": [
@@ -30533,6 +30533,10 @@
   },
   {
    "date": "2026-11-21 13:43",
+   "total": 4241
+  },
+  {
+   "date": "2026-11-21 13:44",
    "total": 4241
   }
  ],
