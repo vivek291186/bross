@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T08:40:13+05:30",
- "runs": 1806,
+ "updated": "2026-11-21T08:40:53+05:30",
+ "runs": 1807,
  "branches": [
   {
    "id": "platforms",
@@ -28711,12 +28711,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 05:37",
-   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1727)."
-  },
-  {
    "date": "2026-11-21 05:38",
-   "note": "Run 1728 (YouTube main and Kids (fastest growing channels, 28 days to 20 Nov; trends skipped as just rechecked)): New: no nursery rhyme channel is in the top 20 fastest growing YouTube channels for 23 Oct to 20 Nov 2026; Super Simple Songs and LooLoo Kids led the kids brands at about 200K new subscribers each, while animated duo channels such as Maizen (about 100K in one day) grew faster. Chrome not available. Total 4010."
+   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1728)."
   },
   {
    "date": "2026-11-21 05:38",
@@ -29029,13 +29025,13 @@
   {
    "date": "2026-11-21 08:40",
    "note": "Run 1806 (visual craft (Meshy API changelog Oct 2026, Blender 5.3, thumbnails)): New: Meshy's API changelog (newest entry 26 Oct) deprecated the texture image option on Rigging on 23 Oct (sending it wipes the model's own PBR maps) and retired the meshy-5 model on 10 Oct, with no animation or text to motion change; Blender 5.3 and thumbnail face studies were already filed. Chrome not available. Total 4088."
+  },
+  {
+   "date": "2026-11-21 08:40",
+   "note": "Run 1807 (TRENDS (Christmas dances, Shorts challenges, December calendar check)): Nothing new: the Deck the Halls dance and its AI copy trend, the fading Last Christmas x Phat and 'how Christmas dances will look' routines, and every December date checked (St Lucia, Sinterklaas, jumper and sweater days, Cookie Day, Hanukkah) were already filed. No leaves added; trend bank unchanged. Chrome not available. Total 4088."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 10:35",
-   "total": 3628
-  },
   {
    "date": "2026-11-20 10:37",
    "total": 3631
@@ -30227,6 +30223,10 @@
   {
    "date": "2026-11-21 08:39",
    "total": 4085
+  },
+  {
+   "date": "2026-11-21 08:40",
+   "total": 4088
   },
   {
    "date": "2026-11-21 08:40",
