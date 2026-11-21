@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:41:12+05:30",
- "runs": 1821,
+ "updated": "2026-11-21T09:42:38+05:30",
+ "runs": 1822,
  "branches": [
   {
    "id": "platforms",
@@ -21545,6 +21545,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1750
+    },
+    {
+     "t": "Ofcom's next set of UK child safety code changes went to the government on 16 Nov 2026: services must keep illegal content out of children's recommendation feeds (for every user, or only for accounts proven to be children by strong age checks) and add reporting for livestreams showing imminent harm, so kids feeds in the UK keep getting stricter, which favours clearly safe, wholesome channels.",
+     "src": "gov.uk, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1822
+    },
+    {
+     "t": "A 2026 Mashable report on Google's Animaj investment says the American Academy of Pediatrics advises parents to avoid AI generated video for young children and to prefer longer form shows, so Bro Bros should lead with its human made songs, consistent characters and story, and keep AI tools invisible in the result.",
+     "src": "Mashable via AOL, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1822
     }
    ]
   },
@@ -28781,12 +28795,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 05:47",
-   "note": "Summary of 2 older log entries (runs up to 1742): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 05:49",
-   "note": "Run 1743 (TRENDS (Later Reels roundup of 20 Nov, NewEngen, Thanksgiving family trends)): New: Later's 20 Nov Reels roundup adds a 'get up' comeback pep talk format (after a small setback, a cheering talk, then a proud comeback) and confirms the 'I haven't done anything this year' recap and 'Dear Santa' wish list formats on Reels. Trend bank: added 'Get up, champ comeback', moved the year recap to peak, dropped the faded fake award show. Chrome not available. Total 4027."
+   "note": "Summary of 2 older log entries (runs up to 1743): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 05:50",
@@ -29099,6 +29109,10 @@
   {
    "date": "2026-11-21 09:41",
    "note": "Run 1821 (TRENDS (Virlo November board, Thanksgiving week, Daily Dot)): New fresh format: lip sync then pop confetti exactly on the beat (198 TikTok videos, about 206M views since 6 Oct, 124 new creators this week); a family made AI song about Thanksgiving hosting went viral, showing short personal songs as family messages; Virlo's top 10 is led by the piggyback flip (unsafe) and couple montages (not for us). Trend bank: added Confetti pop on the beat, dropped Same spot, years apart. Chrome not available. Total 4098."
+  },
+  {
+   "date": "2026-11-21 09:42",
+   "note": "Run 1822 (rules and safety (Ofcom code updates, AI kids content criticism, Q4 CPM)): New: the UK government received Ofcom's draft code amendments on 16 Nov 2026 (clean children's recommender feeds for all users or age checked accounts, livestream reporting for imminent harm); a Mashable report says US paediatricians advise parents against AI made video for young children and prefer longer form. Q4 CPM and COPPA searches repeated filed facts. Chrome not available. Total 4100."
   }
  ],
  "history": [
@@ -29937,6 +29951,10 @@
   {
    "date": "2026-11-21 09:41",
    "total": 4098
+  },
+  {
+   "date": "2026-11-21 09:42",
+   "total": 4100
   }
  ],
  "next_week_ideas": [
