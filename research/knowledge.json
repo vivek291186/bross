@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:02:53+05:30",
- "runs": 1904,
+ "updated": "2026-11-21T12:03:43+05:30",
+ "runs": 1905,
  "branches": [
   {
    "id": "platforms",
@@ -29420,6 +29420,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1884
+    },
+    {
+     "t": "A short standing 'huffy pout' pose dance went from a 3D fan animation to real people in November 2026: arms stiff, spin away with arms crossed, freeze, snap back with hands on hips, puff the cheeks, then a last nose up 'hmph' (one edit about 2.4M plays by 17 Nov, one sound on about 59K videos); it comes from a teen game fandom, so we copy only the generic grumpy poses with our own characters and music.",
+     "src": "Atlas Cloud blog, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1905
     }
    ]
   }
@@ -29446,12 +29453,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 09:45",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1824); see git history."
-  },
-  {
    "date": "2026-11-21 09:46",
-   "note": "Run 1826 (Shorts and Reels (Instagram November features, Reels ranking, chaining)): Nothing new: Instagram's long form Features, Use as reference, Edits audio links and the watch time, likes per reach and sends per reach signals were already filed; Meta's Reels chaining explainer page did not load. No leaves added. Chrome not available. Total 4103."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1825); see git history."
   },
   {
    "date": "2026-11-21 09:47",
@@ -29764,6 +29767,10 @@
   {
    "date": "2026-11-21 12:02",
    "note": "Run 1904 (YouTube algorithm (YouTube Kids app tools, Common Sense data)): Nothing new: the 2026 parental Shorts timer, YouTube Kids older kids content and the Common Sense zero to eight and tween census findings were already filed. No leaves added. 0 leaves. Chrome not available. Total 4193."
+  },
+  {
+   "date": "2026-11-21 12:03",
+   "note": "Run 1905 (TRENDS (the 'tsundere' huffy pose dance)): New: a standing 'huffy pout' pose dance (stiff arms, spin away with crossed arms, hands on hips, puffed cheeks, a final nose up 'hmph') jumped from a 3D fan animation to real people in November 2026 (one edit 2.4M plays, one sound on about 59K videos); added a kid safe 'Hmph! Grumpy, then giggle' version to the trend bank and dropped the older 'Brain break stack'. 1 leaves. Chrome not available. Total 4194."
   }
  ],
  "history": [
@@ -30934,6 +30941,10 @@
   {
    "date": "2026-11-21 12:02",
    "total": 4193
+  },
+  {
+   "date": "2026-11-21 12:03",
+   "total": 4194
   }
  ],
  "next_week_ideas": [
@@ -30995,6 +31006,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Hmph! Grumpy, then giggle",
+   "where": "TikTok and Reels (rising Nov 2026), YouTube Shorts",
+   "status": "rising",
+   "use": "An 8 second Short: Little Bro is 'grumpy' because Big Bro ate the last cookie. On our own drum beat he stands stiff, spins away with arms crossed, snaps back with hands on hips, puffs his cheeks and turns his nose up 'hmph!'; then Big Bro offers half a cookie and Little Bro melts into a giggle and a happy wiggle. Meshy step: standing in place, arms crossed, quarter turn left, hands on hips, small chin up, then a loose happy side to side wiggle; no floor moves."
+  },
   {
    "name": "Dear Santa, I'm this tall",
    "where": "Instagram Reels, TikTok, YouTube Shorts (late Nov to 24 Dec)",
@@ -31060,12 +31077,6 @@
    "where": "TikTok, Reels and Shorts, every December",
    "status": "seasonal",
    "use": "A 15 second Short: a doorway covered in giant wrapping paper, a drum roll in our own song, then Little Bro steps through the paper with a big smile, followed by Big Bro and a friend, each in a new festive outfit; end on all three doing the chorus move. Dance: standing in place, arms up in a V on beat 1, clap on beat 2, twist the hips left and right on beats 3 and 4. Show it as a soft paper sheet only, never glass or anything sharp."
-  },
-  {
-   "name": "Brain break stack",
-   "where": "TikTok and Reels (brainstacking, Nov 2026)",
-   "status": "peak",
-   "use": "A 20 second Reel: Big Bro puts the tablet down, then quick cuts of the Bros stacking screen free fun (a puzzle, crayons, a picture book, building blocks) to our own song 'Brain Break Time', ending with Little Bro retelling the book in one silly line. Dance for the chorus: standing in place, tap the head twice, clap twice, then open both hands like a book and sway left and right."
   },
   {
    "name": "Our year in songs recap",
