@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:49:47+05:30",
- "runs": 1964,
+ "updated": "2026-11-21T13:50:07+05:30",
+ "runs": 1965,
  "branches": [
   {
    "id": "platforms",
@@ -29804,11 +29804,7 @@
  "log": [
   {
    "date": "2026-11-21 11:49",
-   "note": "Earlier: older log entries summarised (runs up to 1885); see git history."
-  },
-  {
-   "date": "2026-11-21 11:49",
-   "note": "Run 1886 (our results (Metricool queue check)): Nothing new: the 21 Nov 10:00 IST kitty band video, Short and Reel published normally, and at about 11:50 IST the queue still ends with the 22 Nov 16:05 IST Short (already filed), so Monday 23 Nov has no post yet. No leaves added. 0 leaves. Chrome not available. Total 4171."
+   "note": "Earlier: older log entries summarised (runs up to 1886); see git history."
   },
   {
    "date": "2026-11-21 11:50",
@@ -30121,6 +30117,10 @@
   {
    "date": "2026-11-21 13:49",
    "note": "Run 1964 (global markets (Thailand small song channels)): Thailand's big lists were already filed. New: the small Thai song channel Junior Squad Thailand (166K subscribers, 736 videos) fell from about 1.5M views in May 2026 to about 0.2M in the 28 days to 20 Nov with zero subscriber growth while posting under one video a week, a reminder that a thin, rarely updated local dub channel fades. 1 leaves. Chrome not available. Total 4244."
+  },
+  {
+   "date": "2026-11-21 13:50",
+   "note": "Run 1965 (competitor deep dive (CoComelon Christmas, ChuChu TV)): Nothing new: ChuChu TV's missing Christmas upload, Friday compilations and back catalogue numbers, Jumblikans' weak new uploads and CoComelon's Sanrio and movie plans were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4244."
   }
  ],
  "history": [
@@ -30590,6 +30590,10 @@
   },
   {
    "date": "2026-11-21 13:49",
+   "total": 4244
+  },
+  {
+   "date": "2026-11-21 13:50",
    "total": 4244
   }
  ],
