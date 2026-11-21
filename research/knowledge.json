@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:37:36+05:30",
- "runs": 1850,
+ "updated": "2026-11-21T10:39:44+05:30",
+ "runs": 1851,
  "branches": [
   {
    "id": "platforms",
@@ -2785,6 +2785,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1754
+    },
+    {
+     "t": "In AIFreeForever's ranking of 2026's most viewed Shorts (checked 20 Nov 2026), 5 of the top 20 are clearly kids content (an opposite words lesson at about 965M, an Indonesian tooth decay song about 933M, a colour slides song about 840M, a Brazilian dragon story about 818M and a sibling dance about 1.18B), and all are simple single idea clips, so one clear lesson or one gag per Short beats packing several ideas in.",
+     "src": "aifreeforever.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1851
+    },
+    {
+     "t": "The 2026 most viewed Shorts list is dominated by India, Indonesia and Brazil (Hindi family skits, Indonesian kids songs, a Portuguese kids story), with only one US creator in the top 10, so billion view Shorts reach comes from big mobile first markets; Bro Bros Shorts should stay nearly wordless or use very simple English so they travel in those markets.",
+     "src": "aifreeforever.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1851
     }
    ]
   },
@@ -28874,6 +28888,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1849
+    },
+    {
+     "t": "A colour slides song Short ('Slippery Color Slides Song', about 840M views since Feb 2026) shows that a playground slide where each slide turns a new colour is a top performing kids Short idea; Bro Bros can make an original version with the brothers sliding down rainbow slides and naming each colour on the beat.",
+     "src": "aifreeforever.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1851
     }
    ]
   }
@@ -28902,10 +28923,6 @@
   {
    "date": "2026-11-21 06:49",
    "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
-   "date": "2026-11-21 06:49",
-   "note": "Run 1772 (competitor deep dive (Bounce Patrol and its Spanish channel)): Nothing new: Bounce Patrol (34M, flat, about 89M views in 28 days, no upload since its 3 Oct Halloween ants compilation, top hit 'Fruit So Yummy' 335M) was already filed and its Spanish channel data on vidIQ is from May 2025. No leaves added. Chrome not available. Total 4049."
   },
   {
    "date": "2026-11-21 06:50",
@@ -29218,6 +29235,10 @@
   {
    "date": "2026-11-21 10:37",
    "note": "Run 1850 (YouTube algorithm (November tools and feed changes)): YouTube pinned AI custom feeds to the top navigation bar for US viewers (Social Media Today 8 Nov) and merged Ask Studio with Help chat; AIR's tracker still has no ranking change after 1 Oct. 2 leaves. Chrome not available. Total 4115."
+  },
+  {
+   "date": "2026-11-21 10:39",
+   "note": "Run 1851 (Shorts and Reels (most viewed Shorts of 2026, Reels reference tool)): In AIFreeForever's 20 Nov list of 2026's most viewed Shorts, 5 of the top 20 are clearly kids content, all simple learning or song clips, with a Brazilian dragon story Short (818M) and an Indonesian colour slides song (840M) proving non English kids Shorts can top the world. Reels side: nothing new beyond filed items. 3 leaves. Chrome not available. Total 4118."
   }
  ],
  "history": [
@@ -30172,9 +30193,17 @@
   {
    "date": "2026-11-21 10:37",
    "total": 4115
+  },
+  {
+   "date": "2026-11-21 10:39",
+   "total": 4118
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Rainbow Slide Race! (Colours Down the Slide Song)",
+   "why": "A colour slides kids song Short is among 2026's most viewed Shorts worldwide (about 840M); one simple idea, naming a colour on each slide, travels without much language."
+  },
   {
    "title": "The Bro Bros Theme Song",
    "why": "Bluey's most streamed track is its short theme tune; a 20 to 30 second catchy Bro Bros theme with the brothers' names, used as the intro of every video, builds instant recognition and its own replays."
@@ -30226,10 +30255,6 @@
   {
    "title": "Let's Make It Snow! (Pretend Snow Dance)",
    "why": "Most children in Europe, India, the Gulf, Africa and Southeast Asia will not see real snow this Christmas (Copernicus expects a mild European winter), so the Bros make pretend snow with paper snowflakes, pillow feathers and a fan, then a magic sparkle turns it into real snow for one chorus. Standing moves: wiggle fingers down like falling snow, spin on the spot, catch a flake, freeze."
-  },
-  {
-   "title": "Dear Santa, Here's My List! (Letter Writing Song)",
-   "why": "Royal Mail asks UK children to post Santa letters by Wed 9 Dec 2026 for a reply and Canada Post runs its own December reply programme, so families write letters in late November and early December; the Bros draw, write and post their letters in a counting and kindness song (one wish for me, one wish for my brother, one wish for everyone), with no product names. Post it in the last week of November."
   }
  ],
  "trend_bank": [
