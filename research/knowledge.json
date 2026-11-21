@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:05:16+05:30",
- "runs": 1907,
+ "updated": "2026-11-21T12:05:58+05:30",
+ "runs": 1908,
  "branches": [
   {
    "id": "platforms",
@@ -29448,6 +29448,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1905
+    },
+    {
+     "t": "In mid November 2026 a two person dance to an upbeat remix of the carol Deck the Halls spread on UK TikTok and then became an AI trend where people paste celebrities' or friends' photos onto the routine in Christmas pyjamas (made with Kling or a CapCut template); the carol itself is public domain, so an upbeat Bro Bros arrangement with a brother duo routine rides the same wave, while we never use real people's likeness.",
+     "src": "The Tab, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1908
     }
    ]
   }
@@ -29474,12 +29481,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 09:47",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1827); see git history."
-  },
-  {
    "date": "2026-11-21 09:48",
-   "note": "Run 1829 (visual craft (Meshy and Blender updates, thumbnail studies)): Nothing new: Meshy's changelog still stops at September (no motion change since July), Blender 5.3 facts, the vidIQ 500 thumbnail study, the TubeAnalytics click rate patterns and AIR's Vania Mania case were all already filed. Merged a true duplicate: the Thanksgiving AI song leaf added in run 1821 repeated an existing one and was removed. No leaves added. Chrome not available. Total 4104."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1828); see git history."
   },
   {
    "date": "2026-11-21 09:49",
@@ -29792,6 +29795,10 @@
   {
    "date": "2026-11-21 12:05",
    "note": "Run 1907 (visual craft (vertical video safe zones for Reels and Shorts)): New: for a 1080 by 1920 Reel keep faces, lyrics and jokes out of the top 150 px, the bottom 420 px (about 22%, captions and audio) and the right 100 px (buttons), which matters because our Reels and Shorts are cut from 16:9 songs; Google's universal safe zone PDF gives no readable numbers. 1 leaves. Chrome not available. Total 4197."
+  },
+  {
+   "date": "2026-11-21 12:05",
+   "note": "Run 1908 (TRENDS (Deck the Halls remix dance, Christmas dances)): New: a duo dance to an upbeat Deck the Halls remix spread on UK TikTok in mid November 2026, then turned into an AI trend that pastes celebrities' faces onto the routine in Christmas pyjamas; the carol is public domain so we can make our own upbeat arrangement and duo routine, but never put real people's faces on it. Added 'Deck the Halls pyjama duo' to the trend bank; 'Spell it with your body' dropped off the end. 1 leaves. Chrome not available. Total 4198."
   }
  ],
  "history": [
@@ -30974,6 +30981,10 @@
   {
    "date": "2026-11-21 12:05",
    "total": 4197
+  },
+  {
+   "date": "2026-11-21 12:05",
+   "total": 4198
   }
  ],
  "next_week_ideas": [
@@ -31035,6 +31046,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Deck the Halls pyjama duo",
+   "where": "TikTok and Reels (UK, rising mid Nov 2026), YouTube Shorts",
+   "status": "rising",
+   "use": "Big Bro and Little Bro in matching Christmas pyjamas side by side in front of the tree do a mirrored 16 count routine to our own bouncy arrangement of the public domain carol Deck the Halls (fa la la chorus): step touch right and left with claps, two arm rolls, point up on 'fa la la', hip bump on the last beat, then repeat; end with a big cheesy pose. Meshy steps: standing in place, step touch side to side with claps, forearm roll in front of the chest, point one finger up, small side bump toward the other brother."
+  },
   {
    "name": "Hmph! Grumpy, then giggle",
    "where": "TikTok and Reels (rising Nov 2026), YouTube Shorts",
@@ -31148,12 +31165,6 @@
    "where": "TikTok and Instagram Reels (Later's Reels roundup of 20 Nov 2026 lists it; first rose on TikTok mid Nov 2026 among parent creators)",
    "status": "peak",
    "use": "A 15 second Reel or Short: Little Bro flops on the sofa and sighs, on screen text 'We did not do anything this year...', then twelve one second clips from our own 2026 songs labelled January to December (snow dance, rocket ride, tomato soup, freeze dance and so on), ending on both Bros jumping with arms up to our own 'What a year!' chorus. Uses only our own footage and music; post in the first half of December and again on 31 Dec."
-  },
-  {
-   "name": "Spell it with your body",
-   "where": "Instagram Reels (stop motion, listed 19 Nov 2026)",
-   "status": "rising",
-   "use": "Short with our own original spelling jingle: the brothers spell a 3 or 4 letter word (SNOW, STAR, BROS) one pose per beat with a quick cut between poses, then shout the word together and invite kids to copy. Meshy prompts, standing in place: arms straight up for I, arms up in a V for V or Y, one arm up and one out to the side for L, hands on head in a round shape for O, arms out wide for T."
   }
  ],
  "posting_plan": {
