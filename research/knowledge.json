@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:50:34+05:30",
- "runs": 1887,
+ "updated": "2026-11-21T11:51:17+05:30",
+ "runs": 1888,
  "branches": [
   {
    "id": "platforms",
@@ -12354,6 +12354,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1876
+    },
+    {
+     "t": "Suno's Voices feature (Jun 2026, web, iOS and Android, free to try) sings any track in a voice recorded as a reference; Suno advises at least a minute of recording in a quiet, non echoey room and matching the voice to the genre, so an adult voice actor recording one reference each for Big Bro and Little Bro could keep the brothers sounding the same in every song, never using a real child's voice.",
+     "src": "Suno blog, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1888
+    },
+    {
+     "t": "YouTube's automatic dubbing help page still lists English as the source with the most targets (about 20, including Spanish, Portuguese, Hindi, Arabic, Indonesian, French and German) and marks only some languages for expressive speech that copies pitch, while lip sync stays an experiment for select channels, so our spoken intros and story lines can be auto dubbed but sung parts need our own re sung tracks.",
+     "src": "YouTube Help, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1888
     }
    ]
   },
@@ -29293,11 +29307,7 @@
  "log": [
   {
    "date": "2026-11-21 08:41",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1807); see git history."
-  },
-  {
-   "date": "2026-11-21 08:41",
-   "note": "Run 1809 (POSTING TIMES (Metricool Instagram best times 22 to 28 Nov)): No change: Metricool's Instagram map for 22 to 28 Nov again peaks at 10:00 IST every day (Friday about 6.7K, Wednesday 6.5K, Thursday 6.3K) with a second rise at 18:00 IST and weekends about half, exactly as filed; both daily slots stay. Competitor focus skipped as it found nothing in the last 6 rounds. No leaves added. Chrome not available. Total 4088."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1808); see git history."
   },
   {
    "date": "2026-11-21 08:42",
@@ -29610,6 +29620,10 @@
   {
    "date": "2026-11-21 11:50",
    "note": "Run 1887 (TRENDS (Thanksgiving week formats, Kapwing archive)): Nothing new: the viral Suno made Thanksgiving message song, the iTunes Thanksgiving kids songs and Thanksgiving recipe trends were already filed, and Kapwing has no November 2026 roundup. No leaves added. 0 leaves. Chrome not available. Total 4171."
+  },
+  {
+   "date": "2026-11-21 11:51",
+   "note": "Run 1888 (music craft (Suno Voices, auto dubbing for songs)): New: Suno Voices (web and apps since Jun 2026) sings tracks in a recorded reference voice, best from at least a minute of clean, quiet recording matched to the genre, which could give Big Bro and Little Bro one steady singing voice each; YouTube auto dubbing skipping music only videos was already filed. 2 leaves. Chrome not available. Total 4173."
   }
  ],
  "history": [
@@ -30712,6 +30726,10 @@
   {
    "date": "2026-11-21 11:50",
    "total": 4171
+  },
+  {
+   "date": "2026-11-21 11:51",
+   "total": 4173
   }
  ],
  "next_week_ideas": [
