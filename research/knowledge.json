@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:58:22+05:30",
- "runs": 1898,
+ "updated": "2026-11-21T11:59:11+05:30",
+ "runs": 1899,
  "branches": [
   {
    "id": "platforms",
@@ -2834,6 +2834,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1898
+    },
+    {
+     "t": "On the US iTunes Top Kids Songs chart of 21 Nov 2026 the top two are gentle faith songs for children (a 'sit with me' prayer song and a 'keep your eyes on Jesus' song), so in the US a calm, values based family song can out sell cartoon brands; Bro Bros can do warm thankfulness and kindness songs that suit all faiths without being religious.",
+     "src": "PopVortex iTunes chart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1899
+    },
+    {
+     "t": "The same 21 Nov chart also lists the theme of a Roblox style children's horror game ('Welcome to Dandy's World') at 20 and an 80s cartoon theme at 25, showing that game and nostalgia themes now sell alongside preschool songs; we copy the energy of a catchy game style theme, never the characters.",
+     "src": "PopVortex iTunes chart, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1899
     }
    ]
   },
@@ -29404,12 +29418,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:47",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1818); see git history."
-  },
-  {
    "date": "2026-11-21 09:35",
-   "note": "Run 1820 (competitor deep dive (Moonbug newsroom, ChuChu TV, BabyBus)): Moonbug is now licensing its YouTube born shows (Blippi, JJ's Animal Time, Melon Patch, Meekah, Little Angel, Little Baby Bum) to Paramount+ worldwide from 1 Nov, and Meekah teamed with a big soap brand on a 'my body is amazing' movement song; ChuChu TV and BabyBus checks found nothing new. Chrome not available. Total 4095."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1819); see git history."
   },
   {
    "date": "2026-11-21 09:41",
@@ -29722,6 +29732,10 @@
   {
    "date": "2026-11-21 11:58",
    "note": "Run 1898 (Shorts and Reels (Instagram Edits captions, Shorts length survey)): New: Instagram's Edits app auto translates captions into a second language in 15 languages including Hindi, Spanish, Portuguese and Indonesian, and Adobe's survey of 507 Shorts creators names under 30 seconds as the best length for views (53%) and for clicks to long videos (49%). 2 leaves. Chrome not available. Total 4187."
+  },
+  {
+   "date": "2026-11-21 11:59",
+   "note": "Run 1899 (other platforms (iTunes kids chart 21 Nov)): New: on 21 Nov two faith songs for children sit at 1 and 2 on the US iTunes kids chart and a children's horror game theme ('Dandy's World') charts at 20; Thanksgiving songs and Danny Go's five entries were already filed. 2 leaves. Chrome not available. Total 4189."
   }
  ],
  "history": [
@@ -30868,6 +30882,10 @@
   {
    "date": "2026-11-21 11:58",
    "total": 4187
+  },
+  {
+   "date": "2026-11-21 11:59",
+   "total": 4189
   }
  ],
  "next_week_ideas": [
