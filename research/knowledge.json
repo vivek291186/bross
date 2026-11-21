@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T00:39:10+05:30",
- "runs": 2228,
+ "updated": "2026-11-22T00:40:42+05:30",
+ "runs": 2231,
  "branches": [
   {
    "id": "platforms",
@@ -5760,6 +5760,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2210
+    },
+    {
+     "t": "Daily Jagran (19 Nov 2026) lists Uttar Pradesh winter break as 31 Dec 2026 to 14 Jan 2027 and Rajasthan as 31 Dec 2026 to 10 Jan 2027 (Delhi 1 to 15 Jan), while the UAE breaks from 14 Dec and the UK about 19 Dec, so our holiday daytime viewing should rise in waves: Gulf mid December, UK and US just before Christmas, north India in the first half of January; keep winter and New Year songs live into mid January for India.",
+     "src": "Daily Jagran and Gulf News, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2229
     }
    ]
   },
@@ -24870,6 +24877,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2171
+    },
+    {
+     "t": "Every Bro Bros upload queued in Metricool for 22 Nov 2026 (the Peekaboo hide and seek song at 10:00 IST, Ride to the Moon at 16:00 IST, both Shorts and both Reels) is sent with YouTube's AI generated content flag off and Instagram's AI generated flag off, even though our songs are made in Suno and YouTube asks creators to disclose AI generated music; the owner should switch the flag on in future uploads (the label costs no reach, while repeated non disclosure risks removal or Partner Program suspension).",
+     "src": "Metricool queue, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2231
+    },
+    {
+     "t": "At about 00:45 IST on Sunday 22 Nov 2026 the Metricool queue for 23 to 25 Nov is still empty, so unless new uploads are added Monday 23 Nov will be the first day without our two daily songs, breaking the every day rhythm that the posting plan relies on.",
+     "src": "Metricool queue, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2231
     }
    ]
   },
@@ -31742,20 +31763,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 21:05",
-   "note": "Summary of 2 older runs (2026-11-21 21:04 to 2026-11-21 21:05): see git history for details."
-  },
-  {
-   "date": "2026-11-21 21:11",
-   "note": "Run 2153 (visual craft (colour and contrast for young viewers)): Nothing new: the Sussex Baby Lab study (54 babies look longest at saturated, high contrast reds, blues, purples and teals; pastels hold attention least) was already filed. End of run: 26 rounds (runs 2128 to 2153), 18 new leaves (toy themes, Poland, Italy and Happy Kids channel data, dance led channels, the toddler video learning study, advent and story song trends, Reels audio, Roblox hits, our 10:00 and 16:00 IST queue and the bedtime song slot), no trend bank, idea or posting slot changes. 0 leaves. Chrome not available. Total 4436."
-  },
-  {
-   "date": "2026-11-21 21:37",
-   "note": "Run 2154 (TRENDS (funny ugly toys and Virlo recheck)): New: Fugglers, the funny ugly plush monsters with crooked human teeth and bulging mismatched eyes, are being called the next Labubu (Hola, 26 Oct 2026), the world's second biggest plush brand with over 20 billion social views, so silly not cute faces are a live kid craze. Virlo and SocialPilot on 21 Nov showed no new trend first seen after 20 Oct. Trend bank unchanged. 3 leaves. Chrome not available. Total 4439."
-  },
-  {
    "date": "2026-11-21 21:38",
-   "note": "Run 2155 (global markets (Bangladesh, Egypt, Colombia, Mexico recheck)): Nothing new: vidIQ's 20 Nov Bangladesh top 50 (no kids song channel, craft and drawing channels at 3rd and 7th), El Reino Infantil's Mexico figures (39.1M subscribers, 32.4B views) and AIR's Vania Mania audio track case were all already filed. 0 leaves. Chrome not available. Total 4439."
+   "note": "Summary of 2 older runs (2026-11-21 21:37 to 2026-11-21 21:38): see git history for details."
   },
   {
    "date": "2026-11-21 21:44",
@@ -32060,6 +32069,18 @@
   {
    "date": "2026-11-22 00:39",
    "note": "Run 2228 (competitor deep dive (Pinkfong newsletter, Henson, RockaBetty)): Small additions: Jim Henson launched a paid ad free YouTube family channel (about 3 USD a month, cheaper Spanish twin) that switches on YouTube's strictest safety filter while subscribers watch; a small UK rockabilly preschool band channel releases six original songs weekly with adult friendly arrangements; Pinkfong turns Bebefinn songs into toys that top Amazon Japan. 3 leaves. Chrome not available. Total 4521."
+  },
+  {
+   "date": "2026-11-22 00:40",
+   "note": "Run 2229 (posting times (Metricool grids 22 to 28 Nov, winter break calendars; TRENDS skipped as just rechecked)): Metricool grids unchanged (YouTube 16:00 IST top every day, Instagram 10:00 with a second peak 18:00); one small addition: Uttar Pradesh and Rajasthan winter breaks start 31 Dec 2026, so India's holiday bump arrives after the UAE, UK and US ones. Slots unchanged. 1 leaves. Chrome not available. Total 4522."
+  },
+  {
+   "date": "2026-11-22 00:40",
+   "note": "Run 2230 (rules and monetisation (FTC COPPA, YouTube AI slop and inauthentic content)): Nothing new: the Disney 10M USD COPPA settlement, YouTube's July 2026 inauthentic content update, the AI slop channel bans and the 200 advocacy groups letter were all already filed. 0 leaves. Chrome not available. Total 4522."
+  },
+  {
+   "date": "2026-11-22 00:40",
+   "note": "Run 2231 (our own results (Metricool queue for 22 to 25 Nov)): New: every queued 22 Nov upload (Peekaboo hide and seek at 10:00, Ride to the Moon at 16:00, their Shorts and Reels) has the AI generated content flag set to off on YouTube and Instagram, although the playbook says to tick the AI music disclosure for our Suno songs; and at 00:45 IST on 22 Nov nothing is queued for 23 Nov at all. 2 leaves. Chrome not available. Total 4524."
   }
  ],
  "history": [
@@ -32878,6 +32899,18 @@
   {
    "date": "2026-11-22 00:39",
    "total": 4521
+  },
+  {
+   "date": "2026-11-22 00:40",
+   "total": 4522
+  },
+  {
+   "date": "2026-11-22 00:40",
+   "total": 4522
+  },
+  {
+   "date": "2026-11-22 00:40",
+   "total": 4524
   }
  ],
  "next_week_ideas": [
