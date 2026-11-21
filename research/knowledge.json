@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:38:51+05:30",
- "runs": 1874,
+ "updated": "2026-11-21T11:40:29+05:30",
+ "runs": 1875,
  "branches": [
   {
    "id": "platforms",
@@ -29154,6 +29154,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1872
+    },
+    {
+     "t": "YouTube's 2026 holiday trends report counts over 90M views (Sep to Dec 2025) for wishlist videos with Christmas, Holiday or Santa in the title and lists Secret Santa family challenges as a rising gamified format, so a Bro Bros 'my wish list' song and a Secret Santa swap song both ride a proven December search.",
+     "src": "YouTube holiday trends report, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1875
+    },
+    {
+     "t": "Know Your Meme's October 2026 roundup logged a clapping black cat applauding its owner as a green screen reaction format; it is wholesome and animal based, so a short Bro Bros sting where a friendly cat claps for the brothers after a good deed is a kid safe way to echo it with our own character.",
+     "src": "Know Your Meme, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1875
     }
    ]
   }
@@ -29180,12 +29194,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 07:59",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1794); see git history."
-  },
-  {
    "date": "2026-11-21 08:00",
-   "note": "Run 1796 (global markets (Philippines: Eurovision Asia win, kids songs by YouTube views)): New: the Philippines won the first Eurovision Song Contest Asia in Bangkok on 14 Nov 2026 with an upbeat pop song by a former Voice Kids runner up, topping both jury and public votes (votes from 183 countries); faith themed action songs dominate Philippine kids song views. English language Philippine kids chart point already filed. Chrome not available. Total 4085."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1795); see git history."
   },
   {
    "date": "2026-11-21 08:01",
@@ -29498,6 +29508,10 @@
   {
    "date": "2026-11-21 11:38",
    "note": "Run 1874 (Shorts and Reels (Instagram Features, trial Reels, vidIQ outlier data)): Instagram Features, the Apple TV app, the end of Reel series linking and trial Reels were already filed; new: in vidIQ's new channel data the best of the first 10 long videos gets about 11 times the views of the first, and only 1 in 10 long videos reaches 10K, so volume buys outliers. 1 leaves. Chrome not available. Total 4155."
+  },
+  {
+   "date": "2026-11-21 11:40",
+   "note": "Run 1875 (TRENDS (Know Your Meme roundups, YouTube holiday trends report)): Most memes and holiday timing were already filed; new: YouTube counts Christmas wishlist videos at over 90M views and Secret Santa family challenges as a holiday format, and the clapping black cat reaction format is family friendly; added a Secret Santa swap reveal to the trend bank. 2 leaves. Chrome not available. Total 4157."
   }
  ],
  "history": [
@@ -30548,6 +30562,10 @@
   {
    "date": "2026-11-21 11:38",
    "total": 4155
+  },
+  {
+   "date": "2026-11-21 11:40",
+   "total": 4157
   }
  ],
  "next_week_ideas": [
@@ -30609,6 +30627,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Secret Santa swap reveal",
+   "where": "YouTube long form and Shorts, TikTok, Reels (December)",
+   "status": "seasonal",
+   "use": "Big Bro and Little Bro each pull a friend's name from a hat, sneak around making a handmade gift (the camera follows each in turn), then everyone swaps on the last chorus and opens at the same time with a confetti pop; end on the funniest gift (a sock puppet of Big Bro). Our own song, a counting chorus 'shh, it's a secret'. Dance step for Meshy: standing in place, finger to lips on 'shh', two tiptoe steps left and right, then both arms open wide on 'surprise'."
+  },
   {
    "name": "Silent dinner table glances",
    "where": "TikTok (NewEngen 20 Nov 2026)",
@@ -30722,12 +30746,6 @@
    "where": "YouTube Shorts and Reels daily December series (Vlogmas, Shortsmas), 1 to 24 Dec",
    "status": "seasonal",
    "use": "From 1 Dec post one 15 second Short a day: a big wooden advent calendar, the Bros count 'one, two, three, open!' and a door pops open to show a soft squishy toy we invent (a snow bunny, a jam donut bear) plus one new dance step from our own Christmas song. Steps for Meshy: standing, knock knock on the air twice with one fist, then pull an imaginary door open with both hands and jump in place with arms up. On 24 Dec post the full song with all 24 steps as one dance."
-  },
-  {
-   "name": "Christmas tree sway",
-   "where": "TikTok and Instagram Reels (AI Christmas dance, mid Nov 2026)",
-   "status": "rising",
-   "use": "A 5 to 8 second vertical Short with our own jingly Christmas chorus: both Bros in Santa hats stand in front of our 3D Christmas tree and do the tiny routine three times: sway left and right for four beats, clap once above the head, then one small turn in place. Meshy prompt: standing in place, gentle side to side sway, one overhead clap, a slow 360 degree turn, no floor moves. End with the caption 'Your turn! Sway, clap, spin!' so families copy it."
   }
  ],
  "posting_plan": {
