@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:46:27+05:30",
- "runs": 1826,
+ "updated": "2026-11-21T09:47:08+05:30",
+ "runs": 1827,
  "branches": [
   {
    "id": "platforms",
@@ -28790,6 +28790,20 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1824
+    },
+    {
+     "t": "Pinterest released its first 'Creators to Watch' list (20 global creators for 2027) on 17 Nov 2026 as the opening part of its 2027 forecast, so Pinterest Predicts 2027, the parents' look and theme report, should follow within weeks and is worth reading the day it lands.",
+     "src": "socialmediatoday.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1827
+    },
+    {
+     "t": "Fortune's Oct 2026 review of Pinterest Predicts 2026 confirmed its playful calls held up (brooch searches peaked in early October; vintage circus decor, with circus nursery searches up 50%, kept rising), which supports a circus or funfair themed Bro Bros song world in early 2027.",
+     "src": "fortune.com, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1827
     }
    ]
   }
@@ -28816,12 +28830,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 05:52",
-   "note": "Summary of 2 older log entries (runs up to 1747): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 05:57",
-   "note": "Run 1748 (competitor deep dive (BabyBus and Little Angel, 28 days to 18 Nov)): Nothing new: BabyBus (44.2M, about 100K new subscribers a month, Sheriff Labrador car safety uploads) and Little Angel's Firefighter Jill counting Short were already filed. No leaves added. Chrome not available. Total 4030."
+   "note": "Summary of 2 older log entries (runs up to 1748): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 05:58",
@@ -29134,6 +29144,10 @@
   {
    "date": "2026-11-21 09:46",
    "note": "Run 1826 (Shorts and Reels (Instagram November features, Reels ranking, chaining)): Nothing new: Instagram's long form Features, Use as reference, Edits audio links and the watch time, likes per reach and sends per reach signals were already filed; Meta's Reels chaining explainer page did not load. No leaves added. Chrome not available. Total 4103."
+  },
+  {
+   "date": "2026-11-21 09:47",
+   "note": "Run 1827 (TRENDS (year end forecasts: Pinterest 2027, TikTok and Google year reviews)): Pinterest opened its 2027 forecast season with a first ever 'Creators to Watch' list (17 Nov), so Pinterest Predicts 2027 should land within weeks; Fortune's check confirms the 2026 circus decor and brooch calls came true. TikTok and Google year reviews for 2026 are not out yet. Chrome not available. Total 4105."
   }
  ],
  "history": [
@@ -29992,6 +30006,10 @@
   {
    "date": "2026-11-21 09:46",
    "total": 4103
+  },
+  {
+   "date": "2026-11-21 09:47",
+   "total": 4105
   }
  ],
  "next_week_ideas": [
