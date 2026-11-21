@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:37:04+05:30",
- "runs": 1915,
+ "updated": "2026-11-21T12:37:58+05:30",
+ "runs": 1916,
  "branches": [
   {
    "id": "platforms",
@@ -29538,11 +29538,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1836); see git history."
-  },
-  {
-   "date": "2026-11-21 09:52",
-   "note": "Run 1837 (YouTube algorithm (how videos enter the YouTube Kids app)): Nothing new: YouTube Kids' layered filters (thumbnail, title, video, human spot checks), the approved content mode and the vetted AI channel policy were already filed. No leaves added. Chrome not available. Total 4105."
+   "note": "Earlier: older log entries summarised (runs up to 1837); see git history."
   },
   {
    "date": "2026-11-21 09:53",
@@ -29855,6 +29851,10 @@
   {
    "date": "2026-11-21 12:37",
    "note": "Run 1915 (TRENDS (Jingle Bell Brazil dance, Virlo and Viralremix weekly charts)): New: the top TikTok dance on 20 Nov is a Brazilian funk Jingle Bell duo or trio routine (freeze, cross arms, fist to mouth, chest taps with knee bounce; about 140K videos by 16 Nov); Viralremix's top 3 are all standing group dances; plus a hobby lip sync 'everybody goes out except me' and a month by month 'how I looked this year' montage. Added 3 trend bank entries and 1 song idea. 4 leaves. Chrome not available. Total 4206."
+  },
+  {
+   "date": "2026-11-21 12:37",
+   "note": "Run 1916 (global markets (dubbing tests, Latin America and Southeast Asia)): Nothing new: the Kapwing separate Spanish channel test, YouTube's 25% dubbed watch time figure, El Reino Infantil's 2026 lead and the AIR localised kids channel case were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4206."
   }
  ],
  "history": [
@@ -30125,6 +30125,10 @@
   {
    "date": "2026-11-21 12:09",
    "total": 4202
+  },
+  {
+   "date": "2026-11-21 12:37",
+   "total": 4206
   },
   {
    "date": "2026-11-21 12:37",
