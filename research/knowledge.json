@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:43:20+05:30",
- "runs": 1780,
+ "updated": "2026-11-21T07:44:09+05:30",
+ "runs": 1781,
  "branches": [
   {
    "id": "platforms",
@@ -12109,6 +12109,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1711
+    },
+    {
+     "t": "A Northeastern study of 76 children aged 7 to 9 (Sep 2026) found those who played an instrument at least 30 minutes a week scored higher on vocabulary, maths and working memory tests and showed a possible difference in a hearing to speech brain pathway, but the authors stress it shows a link, not a cause.",
+     "src": "news.northeastern.edu, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1781
+    },
+    {
+     "t": "Because music and brain studies are mostly correlational, Bro Bros titles and descriptions should promise fun and singing along, not that a song makes children smarter, which also keeps us clear of misleading claims in kids content.",
+     "src": "news.northeastern.edu and psypost.org, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1781
     }
    ]
   },
@@ -28506,10 +28520,6 @@
   },
   {
    "date": "2026-11-21 04:39",
-   "note": "Run 1702 (rules and safety (made for kids updates, AI slop and inauthentic content enforcement, FTC COPPA actions)): Nothing new: the 4.7B view AI brainrot purge, the July inauthentic content policy, the faceless creator collateral and the Disney 10M dollar mislabelling settlement were already filed. No leaves added. Chrome not available. Total 3984."
-  },
-  {
-   "date": "2026-11-21 04:39",
    "note": "Run 1703 (our own results (Metricool YouTube 14 to 21 Nov rechecked)): No new data: Metricool YouTube daily views still stop at 17 Nov (850 to 1,301 a day) and subscribers stay at 2,150; 18 to 21 Nov are not in yet. No leaves added. Chrome not available. Total 3984."
   },
   {
@@ -28819,13 +28829,13 @@
   {
    "date": "2026-11-21 07:43",
    "note": "Run 1780 (TRENDS (December holiday formats: early Christmas baking, wrapping paper burst)): New: the December 2025 TikTok format of pets bursting through a sheet of wrapping paper taped across a doorway is a simple seasonal reveal we can do with the Bros; early Christmas baking (43M views since 18 Oct) was already filed. Added 'Burst through the gift paper' to the trend bank. Chrome not available. Total 4058."
+  },
+  {
+   "date": "2026-11-21 07:44",
+   "note": "Run 1781 (music craft (children and music studies: Northeastern Sep 2026, eLife infants, NZ cohort)): New: a Northeastern study of 76 children aged 7 to 9 found weekly instrument players scored higher across vocabulary, maths and working memory tests, but it is correlational, so we should never title a video 'makes your kid smarter'. The eLife infant and New Zealand cohort studies were already filed. Chrome not available. Total 4060."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 07:42",
-   "total": 3605
-  },
   {
    "date": "2026-11-20 07:43",
    "total": 3605
@@ -30021,6 +30031,10 @@
   {
    "date": "2026-11-21 07:43",
    "total": 4058
+  },
+  {
+   "date": "2026-11-21 07:44",
+   "total": 4060
   }
  ],
  "next_week_ideas": [
