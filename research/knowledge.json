@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:37:39+05:30",
- "runs": 2211,
+ "updated": "2026-11-21T23:39:30+05:30",
+ "runs": 2212,
  "branches": [
   {
    "id": "platforms",
@@ -23645,6 +23645,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2210
+    },
+    {
+     "t": "The 'first to react loses' couple trend (partners smash or cut each other's valued things to get a reaction, sometimes involving pets) was flagged in Aug 2026 as normalising violence, so Bro Bros must never copy it, even as a pretend version with toys.",
+     "src": "Presse-citron, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2212
     }
    ]
   },
@@ -31597,6 +31604,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2184
+    },
+    {
+     "t": "Virlo's TikTok list for 16 to 21 Nov 2026 is led by adult jokes (an SNL 'full price' line up about 995%, 'everybody goes out partying except me', a villain POV) and a romantic 'my moon my man' couple montage, with no family friendly dance rising, so this week Bro Bros should lean on the Christmas dance and countdown formats already in the trend bank rather than chase new sounds.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2212
+    },
+    {
+     "t": "The 'pick your favourite thing' table game (two people behind a table, on three each grabs a favourite, the twist is one grabs the other person) earned about 73.8M views from just 117 videos between 2 Oct and mid Nov 2026 before fading; a kid safe Bro Bros version is the brothers behind a table of toys, a 1, 2, 3 count, and the little brother grabbing his big brother instead of a toy.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2212
     }
    ]
   }
@@ -31624,11 +31645,7 @@
  "log": [
   {
    "date": "2026-11-21 20:51",
-   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:53): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 20:54",
-   "note": "Run 2136 (TRENDS (December outlook, holiday listening)): Nothing new: Spotify's holiday listening data (36.2M festive streams a day, global start around 30 Oct, Philippines first), the Christmas TikTok outlook pieces and this week's tree and carol dance formats were already filed; trend bank unchanged. 0 leaves. Chrome not available. Total 4426."
+   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:54): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 20:54",
@@ -31941,6 +31958,10 @@
   {
    "date": "2026-11-21 23:37",
    "note": "Run 2211 (Shorts and Reels (formats, retention, Reels algorithm)): Small addition: Instagram's Your Algorithm topic tool is gated by the app being set to English, not by country, with no Portuguese date; Metricool's YouTube study, Emplifi hook data, Dash Social Q3 retention and Instagram Features were already filed. 1 leaves. Chrome not available. Total 4504."
+  },
+  {
+   "date": "2026-11-21 23:39",
+   "note": "Run 2212 (TRENDS (Virlo week of 16 Nov and November list)): New: this week's fastest risers on TikTok are adult party jokes, an SNL line and a couple montage, with no kid safe dance among them; the pick your favourite thing table game faded after 73.8M views from only 117 videos; the first to react loses couple trend is destructive and must be avoided. Trend bank unchanged. 3 leaves. Chrome not available. Total 4507."
   }
  ],
  "history": [
@@ -32691,6 +32712,10 @@
   {
    "date": "2026-11-21 23:37",
    "total": 4504
+  },
+  {
+   "date": "2026-11-21 23:39",
+   "total": 4507
   }
  ],
  "next_week_ideas": [
