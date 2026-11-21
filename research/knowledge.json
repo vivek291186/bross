@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:57:04+05:30",
- "runs": 1896,
+ "updated": "2026-11-21T11:57:42+05:30",
+ "runs": 1897,
  "branches": [
   {
    "id": "platforms",
@@ -5438,6 +5438,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1893
+    },
+    {
+     "t": "Since a May 2026 server side update, YouTube on Google TV and Samsung TVs lists Subscriptions and Library right under Search and Home in the sidebar and adds two direct channel shortcuts there, so on the living room screen, where most kids watch, a channel a family returns to often can sit one click from Home; repeat family viewing of Bro Bros playlists matters more than one off hits.",
+     "src": "Chrome Unboxed via 9to5Google, May 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1897
     }
    ]
   },
@@ -29384,11 +29391,7 @@
  "log": [
   {
    "date": "2026-11-21 08:46",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1816); see git history."
-  },
-  {
-   "date": "2026-11-21 08:46",
-   "note": "Run 1818 (visual craft (Blender 5.3 fixes, title and thumbnail A/B testing)): Nothing new: Blender has no 5.3.1 corrective release yet, and YouTube's title and thumbnail Test and Compare guidance was already filed. No leaves added. Chrome not available. Total 4092."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1817); see git history."
   },
   {
    "date": "2026-11-21 08:47",
@@ -29701,6 +29704,10 @@
   {
    "date": "2026-11-21 11:57",
    "note": "Run 1896 (TRENDS (parenting Reels, YouTube Shorts trend roundups)): Nothing new: parenting Reels roundups repeat filed formats, the ShortsIRL post is from 2023 and the November 2026 YouTube trends piece names no specific new Shorts trend. No leaves added. 0 leaves. Chrome not available. Total 4184."
+  },
+  {
+   "date": "2026-11-21 11:57",
+   "note": "Run 1897 (YouTube algorithm (TV app sidebar, custom feeds placement)): New: since May 2026 YouTube on Google TV and Samsung TVs puts Subscriptions and Library right under Home in the sidebar with two direct channel shortcuts, so a channel a family watches often can sit one click from Home on the living room screen; custom feeds and Hype changes were already filed. 1 leaves. Chrome not available. Total 4185."
   }
  ],
  "history": [
@@ -30839,6 +30846,10 @@
   {
    "date": "2026-11-21 11:57",
    "total": 4184
+  },
+  {
+   "date": "2026-11-21 11:57",
+   "total": 4185
   }
  ],
  "next_week_ideas": [
