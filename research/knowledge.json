@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:07:04+05:30",
- "runs": 1910,
+ "updated": "2026-11-21T12:07:34+05:30",
+ "runs": 1911,
  "branches": [
   {
    "id": "platforms",
@@ -16414,6 +16414,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1901
+    },
+    {
+     "t": "Cambridge Dictionary named 'human' its 2026 word of the year on 18 Nov 2026, presented as a push back against the spread of AI, so with parents wary of AI made 'slop' for kids, Bro Bros should keep showing a human made side (our own story ideas, behind the scenes of drawing a character, a real voice on intros) while using AI tools quietly.",
+     "src": "Khaleej Times and NBC, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1911
     }
    ]
   },
@@ -29495,12 +29502,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 09:49",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1830); see git history."
-  },
-  {
    "date": "2026-11-21 09:50",
-   "note": "Run 1832 (competitor deep dive (Lalafun Canada feed, Little Angel spin offs)): Lalafun's Canada feed still earns about 84K views a day almost entirely from its back catalogue while new uploads stall (newest nursery rhyme 265 views in 41 hours). Merged a duplicate: the run 1820 'yearly franchise theme' leaf repeated an existing Moonbug leaf and was removed. Chrome not available. Total 4104."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1831); see git history."
   },
   {
    "date": "2026-11-21 09:51",
@@ -29813,6 +29816,10 @@
   {
    "date": "2026-11-21 12:07",
    "note": "Run 1910 (music craft (interactive screen time and sing along value)): New: a Lingokids commissioned survey of 2,000 US parents (Jul 2026) says 73% believe interactive screen time beats passive viewing and that games are the top way young kids meet new characters after TV and film, so songs that ask kids to move, answer or copy make Bro Bros the kind of screen time parents choose. 1 leaves. Chrome not available. Total 4200."
+  },
+  {
+   "date": "2026-11-21 12:07",
+   "note": "Run 1911 (topics and seasons (2026 words of the year)): New: Cambridge Dictionary named 'human' its 2026 word of the year (18 Nov) as a push back against AI, after Collins' 'mogging' and Dictionary.com's '-maxxing' (already filed); with parents wary of AI slop, a warm, clearly human crafted feel helps Bro Bros. 1 leaves. Chrome not available. Total 4201."
   }
  ],
  "history": [
@@ -31007,6 +31014,10 @@
   {
    "date": "2026-11-21 12:07",
    "total": 4200
+  },
+  {
+   "date": "2026-11-21 12:07",
+   "total": 4201
   }
  ],
  "next_week_ideas": [
