@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:49:51+05:30",
- "runs": 1831,
+ "updated": "2026-11-21T09:50:42+05:30",
+ "runs": 1832,
  "branches": [
   {
    "id": "platforms",
@@ -9731,11 +9731,11 @@
      "run": 1820
     },
     {
-     "t": "Moonbug keeps running yearly franchise themes across many uploads (Blippi's 2026 'Year of Vehicles' ended in a 'Super Silly Vehicle Race' special on 15 Aug), a way to give a whole year of songs one easy to search theme.",
-     "src": "moonbug.com newsroom, Aug 2026",
+     "t": "Lalafun's Canada feed (about 1.66M subscribers, 2,416 videos) drew about 2.37M views in the 28 days to 21 Nov 2026 (about 84K a day) from just 13 new uploads, yet its newest classic rhyme had only 265 views after 41 hours, so nearly all its traffic is old hits; for Bro Bros that means every song should be built to keep earning for years, not just in its first week.",
+     "src": "vidiq.com, Nov 2026",
      "conf": "medium",
      "date": "2026-11-21",
-     "run": 1820
+     "run": 1832
     }
    ]
   },
@@ -28823,12 +28823,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 06:00",
-   "note": "Summary of 2 older log entries (runs up to 1752): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 06:01",
-   "note": "Run 1753 (YouTube algorithm (AIR kids case studies on Shorts and long form roles; idea list refreshed from our own results)): Mostly known. New: in AIR's large kids channel case (Q4 2025) total views fell 15% when Shorts views dropped, yet revenue rose 53% because long form views rose 20% and long form revenue 88%, so for made for kids channels long form carries the money and Shorts only feed reach. Song ideas: the Christmas version idea now names Roly Poly Tomato, our best song. Chrome not available. Total 4035."
+   "note": "Summary of 2 older log entries (runs up to 1753): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 06:02",
@@ -29141,6 +29137,10 @@
   {
    "date": "2026-11-21 09:49",
    "note": "Run 1831 (global markets (Africa and the Philippines)): Nothing new: African kids channels (Akili and Me, Moja Magic, Kids TV Africa), Kaspersky's 2026 kids data and the November Philippine parent survey were all already filed. No leaves added. Chrome not available. Total 4104."
+  },
+  {
+   "date": "2026-11-21 09:50",
+   "note": "Run 1832 (competitor deep dive (Lalafun Canada feed, Little Angel spin offs)): Lalafun's Canada feed still earns about 84K views a day almost entirely from its back catalogue while new uploads stall (newest nursery rhyme 265 views in 41 hours). Merged a duplicate: the run 1820 'yearly franchise theme' leaf repeated an existing Moonbug leaf and was removed. Chrome not available. Total 4104."
   }
  ],
  "history": [
@@ -30018,6 +30018,10 @@
   },
   {
    "date": "2026-11-21 09:49",
+   "total": 4104
+  },
+  {
+   "date": "2026-11-21 09:50",
    "total": 4104
   }
  ],
