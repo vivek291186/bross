@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:44:19+05:30",
- "runs": 2094,
+ "updated": "2026-11-21T18:45:18+05:30",
+ "runs": 2095,
  "branches": [
   {
    "id": "platforms",
@@ -20355,6 +20355,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2083
+    },
+    {
+     "t": "DataReportal's Digital 2026 mid year update (22 Apr 2026) says 59% of people who see YouTube ads now see them on a connected TV and TV reach is higher than mobile reach in 22 of 87 countries, the US among them, so our long songs must be designed first for a big living room screen in the US and other rich ad markets.",
+     "src": "datareportal.com, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2095
+    },
+    {
+     "t": "In the same DataReportal update India alone has over 513M Instagram ad audience users, more than a quarter of Instagram's global reach, so on Instagram the Bro Bros audience will skew Indian unless captions, hashtags and posting times are aimed at other markets too, while on YouTube the US and TV screens stay the money market.",
+     "src": "datareportal.com, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2095
+    },
+    {
+     "t": "GWI Kids data across 18 countries (cited by DataReportal, Apr 2026) finds about 85% of internet users aged 8 to 15 use social or messaging apps, roughly 1.16B young social users worldwide, so older siblings will share Bro Bros Reels and Shorts with younger ones through messaging, which favours share friendly, clearly kid safe clips.",
+     "src": "datareportal.com, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2095
     }
    ]
   },
@@ -30801,10 +30822,6 @@
    "note": "Summary of 2 older log entries (2026-11-21 15:45 to 2026-11-21 15:45): steady research rounds across all focuses."
   },
   {
-   "date": "2026-11-21 15:45",
-   "note": "Run 2016 (YouTube kids channels (US monthly and Playboard charts)): Nothing new: Tubefilter has not published a 2026 US monthly top 100 and vidIQ's US list (14 Nov) was already filed; our own results focus was skipped because Metricool had no new data earlier this run. 0 leaves. Chrome not available. Total 4277."
-  },
-  {
    "date": "2026-11-21 15:46",
    "note": "Run 2017 (TRENDS (school and Thanksgiving family trends; Pinkfong Japan news)): Nothing new: the school veggie dance battle, South Africa's Zep dance, the Peanuts group dance revival, Elf themed December activities, the sung Thanksgiving clean up complaint and Pinkfong's Japan toys, hotel rooms and pop ups were all already filed. 0 leaves. Chrome not available. Total 4277."
   },
@@ -31115,6 +31132,10 @@
   {
    "date": "2026-11-21 18:44",
    "note": "Run 2094 (TRENDS (character led dance memes)): New: Daily Dot's case of a 3D animated dancing rat character (Dec 2024 to Feb 2025) shows a looping dance by an original animated character can become a copy along trend for real people once paired with a catchy beat (one creator's copy passed about 250M TikTok views); a four year old ballroom 'whisk' clip went viral again on a slowed sound in 2025, so old dance clips can revive. Thanksgiving and Shortsmas items were already filed. Trend bank: added 'Copy the Bros' character dance loop, dropped Christmas tree sway (overlaps Deck the Halls pyjama duo). 2 leaves. Chrome not available. Total 4386."
+  },
+  {
+   "date": "2026-11-21 18:45",
+   "note": "Run 2095 (global markets (DataReportal 2026 mid year)): New: DataReportal's April 2026 update says 59% of YouTube's ad audience now sees ads on TV screens and TV reach beats mobile in 22 of 87 countries including the US; India alone is over a quarter of Instagram's ad reach (about 513M); GWI Kids puts social or messaging use at about 85% of 8 to 15 year old internet users across 18 countries. Dubbing and channel ranking items were already filed. 3 leaves. Chrome not available. Total 4389."
   }
  ],
  "history": [
@@ -32105,6 +32126,10 @@
   {
    "date": "2026-11-21 18:44",
    "total": 4386
+  },
+  {
+   "date": "2026-11-21 18:45",
+   "total": 4389
   }
  ],
  "next_week_ideas": [
