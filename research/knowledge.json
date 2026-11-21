@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:46:08+05:30",
- "runs": 2189,
+ "updated": "2026-11-21T22:46:37+05:30",
+ "runs": 2190,
  "branches": [
   {
    "id": "platforms",
@@ -17366,6 +17366,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2142
+    },
+    {
+     "t": "AP's 2026 holiday gift list of kids books (2 Nov 2026) puts a toddler truck book and an interactive humour book that tells the reader they are the boss beside several stories about being brave, so for young children vehicles, 'you choose what happens' play and gentle courage are the gift themes of this season, all easy to turn into Bro Bros songs.",
+     "src": "AP via KSAT, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2190
     }
    ]
   },
@@ -31428,11 +31435,7 @@
  "log": [
   {
    "date": "2026-11-21 19:04",
-   "note": "Summary of 2 older log entries (2026-11-21 19:03 to 2026-11-21 19:04): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 19:04",
-   "note": "Run 2111 (YouTube kids channels (daily fastest growing chart)): New: on the 20 Nov 2026 daily fastest growing chart two US family channels, Milo and Chip (+10K, about 5.1M views in a day) and Tyler and Snowi (+10K, about 5M views), sat beside Maizen, while the 28 day kids leaders (Super Simple Songs, El Reino Infantil, Pinkfong, LooLoo Kids) were already filed. 1 leaves. Chrome not available. Total 4412."
+   "note": "Summary of 2 older log entries (2026-11-21 19:04 to 2026-11-21 19:04): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:05",
@@ -31745,6 +31748,10 @@
   {
    "date": "2026-11-21 22:46",
    "note": "Run 2189 (visual craft (Meshy and Suno tool updates)): Nothing new: Meshy's changelog has no November entry (Meshy Edit, Auto Split and T2.5 from October and text to motion from July were already filed), and Suno v6 and v5.5 were already filed. 0 leaves. Chrome not available. Total 4476."
+  },
+  {
+   "date": "2026-11-21 22:46",
+   "note": "Run 2190 (topics and seasons (2026 holiday kids books)): Small addition: AP's 2026 holiday kids book list (2 Nov) mixes a toddler truck book and an interactive 'you are the boss' humour book with brave feelings stories; the toy lists were already filed. 1 leaves. Chrome not available. Total 4477."
   }
  ],
  "history": [
@@ -32407,6 +32414,10 @@
   {
    "date": "2026-11-21 22:46",
    "total": 4476
+  },
+  {
+   "date": "2026-11-21 22:46",
+   "total": 4477
   }
  ],
  "next_week_ideas": [
