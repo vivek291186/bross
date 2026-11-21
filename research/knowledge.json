@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:40:16+05:30",
- "runs": 2119,
+ "updated": "2026-11-21T19:41:24+05:30",
+ "runs": 2120,
  "branches": [
   {
    "id": "platforms",
@@ -20453,6 +20453,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2107
+    },
+    {
+     "t": "In HypeAuditor's November 2026 ranking, 25 of Turkey's 50 most subscribed YouTube channels are animation or family channels and the Turkish dub of Masha and the Bear is No. 1 (about 14.7M subscribers), so Turkey is one of the most kids heavy YouTube markets anywhere.",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2120
+    },
+    {
+     "t": "Many of Turkey's top kids channels are Turkish editions of foreign brands: Little Angel's 'Can Bebek' nursery songs (about 3.4M subscribers, 3.9B views), Hello Tiny's baby songs (3.5M), Booba, Diana and Roma and Talking Tom all sit in the top 50 (HypeAuditor, Nov 2026), so a Turkish audio track or channel for our best songs is a proven path for an outside brand.",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2120
+    },
+    {
+     "t": "The Philippines' 50 most subscribed YouTube channels (HypeAuditor, Nov 2026) are led by family vloggers and story animation, with only two clearly child focused channels (Filipino Fairy Tales, about 6.5M subscribers, and TinoKidsTV, about 5.7M), which fits the Philippines being a big English kids audience that mostly watches global English brands rather than local ones.",
+     "src": "HypeAuditor, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2120
     }
    ]
   },
@@ -31000,12 +31021,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 16:53",
-   "note": "Summary of 2 older log entries (2026-11-21 16:53 to 2026-11-21 16:53): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 16:54",
-   "note": "Run 2041 (TRENDS (Know Your Meme dance entries)): Mostly filed (Scuba dance, Last Dance, Pocoyo dance, face dancing, AI baby sway, MrBeast rizz dance). Checked the 'Kick a ball' fake soccer tutorial trend (since Nov 2025): the miss and dance twist is a thirst trap, so it is not used and not added to the trend bank. 1 leaves. Chrome not available. Total 4308."
+   "note": "Summary of 2 older log entries (2026-11-21 16:53 to 2026-11-21 16:54): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:55",
@@ -31318,6 +31335,10 @@
   {
    "date": "2026-11-21 19:40",
    "note": "Run 2119 (TRENDS (SocialPilot and NewEngen weekly lists)): Nothing new: SocialPilot's 17 to 25 Nov list (My Moon My Man, Same Spot Years Apart, Camera Shy, You're Under Arrest relay) and NewEngen's 16 Nov list (Chipmunks trio, Dame Hombro, turkey boards) are unchanged and already filed. 0 leaves. Chrome not available. Total 4415."
+  },
+  {
+   "date": "2026-11-21 19:41",
+   "note": "Run 2120 (global markets (Turkey and Philippines rankings)): New: HypeAuditor's November 2026 rankings show half of Turkey's 50 most subscribed YouTube channels are animation or family channels, many of them Turkish versions of foreign kids brands (Masha at No. 1, Little Angel's Can Bebek, Hello Tiny, Booba, Diana and Roma), while the Philippines top 50 is led by family vloggers with only two clear kids channels. 3 leaves. Chrome not available. Total 4418."
   }
  ],
  "history": [
@@ -32408,6 +32429,10 @@
   {
    "date": "2026-11-21 19:40",
    "total": 4415
+  },
+  {
+   "date": "2026-11-21 19:41",
+   "total": 4418
   }
  ],
  "next_week_ideas": [
