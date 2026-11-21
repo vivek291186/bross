@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:53:48+05:30",
- "runs": 2104,
+ "updated": "2026-11-21T18:54:47+05:30",
+ "runs": 2105,
  "branches": [
   {
    "id": "platforms",
@@ -2974,6 +2974,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2102
+    },
+    {
+     "t": "Morning Consult's Gen Alpha 2026 survey (1,018 US parents of 0 to 12 year olds, May 2026) found 83% of kids watch streaming video weekly and 39% daily, tablets are the main device (62%, peaking at 77% for ages 7 to 9) and parents discover kids brands mostly through TV (46%), friends (41%) and social media (38%), so our songs must work on a tablet in a child's hands and on the family TV.",
+     "src": "Morning Consult, May 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2105
     }
    ]
   },
@@ -15329,6 +15336,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2093
+    },
+    {
+     "t": "In the same Morning Consult survey parents say 77% of their children can tell AI content from real content but 68% say kids trust AI information without questioning it, so the Bros can be openly animated characters while every fact in a learning song (animal sounds, counting, colours) must be checked and correct.",
+     "src": "Morning Consult, May 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2105
     }
    ]
   },
@@ -23099,6 +23113,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2098
+    },
+    {
+     "t": "Azaria's Family Report 2026 (Toys n Playthings, 6 Feb 2026) found about 66% of parents trust a brand less after seeing an ad, image or post they suspect is AI made, more off putting than pop ups, and only 1 in 20 find AI content useful, so Bro Bros must never look like cheap AI: consistent characters, no warped hands or faces, and visible care in every frame.",
+     "src": "toysnplaythings.media, Feb 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2105
     }
    ]
   },
@@ -30923,12 +30944,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 16:36",
-   "note": "Summary of 2 older log entries (2026-11-21 16:36 to 2026-11-21 16:36): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 16:42",
-   "note": "Run 2026 (TRENDS (Virlo week of 16 to 21 Nov)): Mostly filed (villain chair, everybody out partying except me, Boom Clap confetti pop, GTA VI score as top sound). New: 'We could stay here or we could go up' motivation clips (64 posts, new) added to the trend bank as a kid safe 'level up' climb format; the fastest riser 'He wanna pay full price' (SNL sound, up about 1100%) and the top couple montage are adult or romantic, so skipped. 2 leaves. Chrome not available. Total 4290."
+   "note": "Summary of 2 older log entries (2026-11-21 16:36 to 2026-11-21 16:42): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:43",
@@ -31241,6 +31258,10 @@
   {
    "date": "2026-11-21 18:53",
    "note": "Run 2104 (music craft (charts, new Christmas songs, Suno)): Nothing new: the Billboard Kid Albums page did not give a November 2026 chart, the viral throat singing Jingle Bells, summer Christmas themes, Suno v6 and Suno Visuals (17 Nov) were already filed. 0 leaves. Chrome not available. Total 4404."
+  },
+  {
+   "date": "2026-11-21 18:54",
+   "note": "Run 2105 (visual craft (parents and AI made content)): New: Azaria's Family Report 2026 (Feb 2026) finds about 66% of parents trust a brand less when they suspect its ad or post is AI made and only 1 in 20 find AI content useful; Morning Consult's Gen Alpha 2026 survey (1,018 US parents, May 2026) shows streaming video watched weekly by 83% of kids, tablets the main device (62%, 77% at ages 7 to 9) and TV the top way parents discover kids brands (46%). Pacing and eye tracking studies were already filed. 3 leaves. Chrome not available. Total 4407."
   }
  ],
  "history": [
@@ -32271,6 +32292,10 @@
   {
    "date": "2026-11-21 18:53",
    "total": 4404
+  },
+  {
+   "date": "2026-11-21 18:54",
+   "total": 4407
   }
  ],
  "next_week_ideas": [
