@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:39:57+05:30",
- "runs": 1999,
+ "updated": "2026-11-21T14:40:37+05:30",
+ "runs": 2000,
  "branches": [
   {
    "id": "platforms",
@@ -10030,6 +10030,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1952
+    },
+    {
+     "t": "Pinkfong's 'Baby Shark Christmas Special: The Santa Contest' is an interactive sing and dance along film mixing animation with live action music segments; it opens in cinemas in the UK, Ireland, the UAE and Indonesia on 4 Dec 2026 and South Korea on 5 Dec, then goes to Prime Video and Roku in the US from mid December, so the same four non US markets we target get a big kids Christmas music push in the first week of December.",
+     "src": "Bastille Post / PR Newswire, 19 Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2000
+    },
+    {
+     "t": "The Baby Shark Christmas film's story is a friendly contest: the heroes enter an underwater Santa contest after Santa is hurt and face a new lookalike rival ('Thief Baby Shark'); a lookalike mischief maker plus a contest is a simple, kid readable plot frame we can borrow with our own characters (for example a copycat snowman who keeps copying the Bros' dance moves).",
+     "src": "Bastille Post / PR Newswire, 19 Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2000
     }
    ]
   },
@@ -29898,10 +29912,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 12:42",
-   "note": "Run 1921 (TRENDS (SocialPilot 17 to 25 Nov list, Thanksgiving, Elf on the Shelf)): Nothing new: SocialPilot's 17 to 25 Nov list (Same Spot Years Apart, Paid Me No Mind, You're Under Arrest hook pass, Mariah Carey gift guides) plus Thanksgiving and Elf on the Shelf formats were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4215."
-  },
-  {
    "date": "2026-11-21 12:43",
    "note": "Run 1922 (YouTube algorithm (subscriber feed, re uploads, kids viewing time)): Mostly already filed (subscriber feed click rates, re upload reach cuts). New: US kids under 12 average about 1 hour 48 minutes of YouTube a day, more than broadcast TV, and Nickelodeon and Disney Channel have lost over half their viewers since 2016, so YouTube on the TV is now the main kids channel. 1 leaves. Chrome not available. Total 4216."
   },
@@ -30212,6 +30222,10 @@
   {
    "date": "2026-11-21 14:39",
    "note": "Run 1999 (global markets (UK and Australia kids viewing data)): Nothing new: Ofcom's passive tracking of 701 UK 8 to 14s (47% of online time 15:00 to 20:59, YouTube about 49 minutes a day), Precise TV and Giraffe's UK survey and Roy Morgan's Australian 6 to 13s data (89% watch YouTube, girls lean to music) were already filed. No leaves added. 0 leaves. Chrome not available. Total 4257."
+  },
+  {
+   "date": "2026-11-21 14:40",
+   "note": "Run 2000 (competitor deep dive (Pinkfong Baby Shark Christmas film)): New: Pinkfong's interactive sing and dance along Christmas film opens in cinemas in the UK, Ireland, UAE and Indonesia on 4 Dec 2026 and Korea on 5 Dec, then streams in the US from mid December; its story is a contest against a lookalike rival character, with an on screen MC leading a carol medley. CoComelon Lane's Popverse page is a year old, so nothing new there. 2 leaves. Chrome not available. Total 4259."
   }
  ],
  "history": [
@@ -30822,6 +30836,10 @@
   {
    "date": "2026-11-21 14:39",
    "total": 4257
+  },
+  {
+   "date": "2026-11-21 14:40",
+   "total": 4259
   }
  ],
  "next_week_ideas": [
