@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:41:03+05:30",
- "runs": 2009,
+ "updated": "2026-11-21T15:41:38+05:30",
+ "runs": 2010,
  "branches": [
   {
    "id": "platforms",
@@ -14846,6 +14846,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1962
+    },
+    {
+     "t": "Meshy said in July 2026 (sponsored 80.lv piece) that it had begun rolling out rigging and animation inside its chat based 3D Agent, so new Bro Bros friends could be generated, rigged and given a first dance move in one conversation; its changelog still has no November 2026 entry, so Text to Motion itself is unchanged.",
+     "src": "80.lv, Jul 2026; Meshy changelog checked 21 Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2010
+    },
+    {
+     "t": "Since October 2026 Meshy's Auto Split also works on textured models, so a finished Bro or prop (a sled, a gift box) can be split into separate parts for Blender animation without re generating it untextured.",
+     "src": "Meshy changelog, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2010
     }
    ]
   },
@@ -29975,10 +29989,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 12:54",
-   "note": "Run 1931 (our results (YouTube uploads 18 to 19 Nov)): Nothing new: Metricool still only has data for uploads up to 19 Nov; Roly Poly Red Tomato leads (about 480 views), freeze dance about 50 and the farm band about 60, and Shorts stay at 5 to 7 views, all in line with leaves already filed. No leaves added. 0 leaves. Chrome not available. Total 4220."
-  },
-  {
    "date": "2026-11-21 12:55",
    "note": "Run 1932 (YouTube main and Kids (Tubefilter week of 15 Nov, growth studies; our results skipped as already empty this run)): Nothing new: Tubefilter's week of 15 Nov chart (Chispita, Plim Plim), AIR's kids growth tactics and CreatorDB's 417 fast growing channels census were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4220."
   },
@@ -30289,6 +30299,10 @@
   {
    "date": "2026-11-21 15:41",
    "note": "Run 2009 (music craft (Suno v6, tempo studies)): Nothing new: Suno v6 tiers, editing, Visuals and mix fixes, the slow tempo attention study and the Verona rhythm study were all already filed. 0 leaves. Chrome not available. Total 4268."
+  },
+  {
+   "date": "2026-11-21 15:41",
+   "note": "Run 2010 (visual craft (Meshy and Blender tool updates)): Mostly filed. New: Meshy said in July 2026 that its chat based 3D Agent has begun rolling out rigging and animation inside the chat, and its October changelog lets Auto Split work on textured models; still no November changelog entry, so our Text to Motion workflow is unchanged. 2 leaves. Chrome not available. Total 4270."
   }
  ],
  "history": [
@@ -30939,6 +30953,10 @@
   {
    "date": "2026-11-21 15:41",
    "total": 4268
+  },
+  {
+   "date": "2026-11-21 15:41",
+   "total": 4270
   }
  ],
  "next_week_ideas": [
