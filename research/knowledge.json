@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T00:36:52+05:30",
- "runs": 2226,
+ "updated": "2026-11-22T00:39:10+05:30",
+ "runs": 2228,
  "branches": [
   {
    "id": "platforms",
@@ -10611,6 +10611,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2220
+    },
+    {
+     "t": "Jim Henson Company opened a paid, ad free YouTube channel for families (about 2.99 USD a month or 24.99 a year, with a cheaper Spanish twin and a bundle) that keeps YouTube's strictest safety filter on while subscribers watch, showing big kids brands now sell 'safe, no ads' viewing on YouTube itself; a free channel like ours competes by being calm, clean and trustworthy in every upload.",
+     "src": "AWN, 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2228
+    },
+    {
+     "t": "A small UK studio launched an animated preschool band channel (a rockabilly band playing in a retro diner) with a weekly drop of six original songs whose arrangements are deliberately less sugary so parents enjoy them too, each song also going to music streaming; it backs our plan of a recognisable band look, a steady weekly batch and songs that adults can stand on repeat.",
+     "src": "The Star (Sheffield), 2024",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2228
+    },
+    {
+     "t": "Pinkfong turns hit Bebefinn songs into toys (a Mother Goose sound pad reached No. 1 in two Amazon Japan toy categories, plus melody watches and toy cash registers), so a song library that kids replay can later carry merchandise; keep each Bro Bros hook short enough to fit a toy button.",
+     "src": "Pinkfong newsletter, 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2228
     }
    ]
   },
@@ -31721,16 +31742,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 21:04",
-   "note": "Summary of 2 older runs (2026-11-21 20:51 to 2026-11-21 21:04): see git history for details."
-  },
-  {
-   "date": "2026-11-21 21:04",
-   "note": "Run 2151 (TRENDS (Roblox new hits)): New: on 18 Nov 2026, 30 of Roblox's 99 most played games were less than two months old; wobbly ragdoll physics games (about 174K players together) and an animal feeding and collecting game (about 185K, 5th) lead, so silly wobbly falls and feeding animals are what kids play right now. Trend bank unchanged. 1 leaves. Chrome not available. Total 4436."
-  },
-  {
    "date": "2026-11-21 21:05",
-   "note": "Run 2152 (music craft (echo songs, tempo games, rhythm training)): Nothing new: the Verona rhythm training study (rhythm gains at 2 and 4, executive function gains at 4) and the echo and call and response guidance were already filed. 0 leaves. Chrome not available. Total 4436."
+   "note": "Summary of 2 older runs (2026-11-21 21:04 to 2026-11-21 21:05): see git history for details."
   },
   {
    "date": "2026-11-21 21:11",
@@ -32039,6 +32052,14 @@
   {
    "date": "2026-11-22 00:36",
    "note": "Run 2226 (TRENDS (Virlo, Later 20 Nov, SocialPilot 17 Nov, Know Your Meme)): Nothing new: Virlo's 21 Nov board, Later's 20 Nov Reels list (month by month recap, Dear Santa, Get up diva) and SocialPilot's Christmas audio peaks were already filed; Know Your Meme's newest dance roundup was July and not kid safe. Trend bank unchanged. 0 leaves. Chrome not available. Total 4518."
+  },
+  {
+   "date": "2026-11-22 00:37",
+   "note": "Run 2227 (global markets (Ofcom UK children trackers, Australia and NZ kids reports)): Nothing new: Ofcom's passive tracking (3h36m a day, YouTube 1h15m at ages 8 to 9, YouTube Kids app only 14%, 47% of time 15:00 to 20:59) and the Insights Panel, Roy Morgan and NZ On Air reports were already filed. 0 leaves. Chrome not available. Total 4518."
+  },
+  {
+   "date": "2026-11-22 00:39",
+   "note": "Run 2228 (competitor deep dive (Pinkfong newsletter, Henson, RockaBetty)): Small additions: Jim Henson launched a paid ad free YouTube family channel (about 3 USD a month, cheaper Spanish twin) that switches on YouTube's strictest safety filter while subscribers watch; a small UK rockabilly preschool band channel releases six original songs weekly with adult friendly arrangements; Pinkfong turns Bebefinn songs into toys that top Amazon Japan. 3 leaves. Chrome not available. Total 4521."
   }
  ],
  "history": [
@@ -32849,6 +32870,14 @@
   {
    "date": "2026-11-22 00:36",
    "total": 4518
+  },
+  {
+   "date": "2026-11-22 00:37",
+   "total": 4518
+  },
+  {
+   "date": "2026-11-22 00:39",
+   "total": 4521
   }
  ],
  "next_week_ideas": [
