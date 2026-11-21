@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:41:30+05:30",
- "runs": 2251,
+ "updated": "2026-11-22T01:42:32+05:30",
+ "runs": 2252,
  "branches": [
   {
    "id": "platforms",
@@ -21062,6 +21062,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2240
+    },
+    {
+     "t": "Iraq's Kurdish (Sorani) kids channel Afarin Kids TV has about 1.34M subscribers and 1.45B views from only 270 videos, still adds about 34M views and 10K subscribers in 28 days (to 20 Nov 2026) with about six uploads, and its top songs are 2021 to 2023 call and repeat songs above 40M views each, showing that a small language with few kids song makers keeps paying for years; vidIQ models only about 4,700 USD a month, so such dubs are for reach, not money.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2252
     }
    ]
   },
@@ -31819,12 +31826,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:37",
-   "note": "Summary of 2 older runs (2026-11-21 22:37 to 2026-11-21 22:37): see git history for details."
-  },
-  {
    "date": "2026-11-21 22:38",
-   "note": "Run 2176 (music craft (new studies recheck)): Nothing new: the eLife baby movement study, the Queensland preschool rhythm trial and the Yale and Auckland singing trial were all filed several times already. 0 leaves. Chrome not available. Total 4457."
+   "note": "Summary of 2 older runs (2026-11-21 22:37 to 2026-11-21 22:38): see git history for details."
   },
   {
    "date": "2026-11-21 22:38",
@@ -32137,6 +32140,10 @@
   {
    "date": "2026-11-22 01:41",
    "note": "Run 2251 (TRENDS (kids dance challenges, Spotify Wrapped date)): Nothing new: Wrapped 2026 is still only predicted for Wednesday 2 Dec (Techloy 10 Nov, not confirmed by Spotify) and the TikTok challenge pages could not be read; trend bank unchanged. 0 leaves. Chrome not available. Total 4532."
+  },
+  {
+   "date": "2026-11-22 01:42",
+   "note": "Run 2252 (global markets (Kurdish, Persian, Marathi, Moroccan kids songs)): Small addition: Iraq's Kurdish (Sorani) channel Afarin Kids TV holds 1.34M subscribers and about 34M views a month from only about six uploads a month, so small languages with few makers reward a catalogue for years; Morocco's Anghamalatfal and HOUDAMI were already filed and the Marathi page had no data. 1 leaves. Chrome not available. Total 4533."
   }
  ],
  "history": [
@@ -33047,6 +33054,10 @@
   {
    "date": "2026-11-22 01:41",
    "total": 4532
+  },
+  {
+   "date": "2026-11-22 01:42",
+   "total": 4533
   }
  ],
  "next_week_ideas": [
