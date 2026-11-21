@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:35:52+05:30",
- "runs": 1849,
+ "updated": "2026-11-21T10:37:36+05:30",
+ "runs": 1850,
  "branches": [
   {
    "id": "platforms",
@@ -5326,6 +5326,20 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1784
+    },
+    {
+     "t": "By 8 Nov 2026 YouTube had pinned viewers' AI described custom feeds to the top navigation bar for US users, replacing the old fixed topic chips there, so a US parent typing a feed like 'happy dance songs for toddlers' becomes a new way in; our titles and descriptions should use the plain words a parent would type (dance, toddler, sing along, bedtime).",
+     "src": "socialmediatoday.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1850
+    },
+    {
+     "t": "YouTube is merging Ask Studio with the YouTube Help chat into one creator window (Nov 2026), and with the creator's permission Ask Studio can watch thumbnail performance and run tests on older videos, so once our channel has steady views we can let it test new thumbnails on our older songs instead of making them by hand.",
+     "src": "socialmediatoday.com and techcrunch.com, Sep to Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1850
     }
    ]
   },
@@ -28886,12 +28900,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 06:47",
-   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
    "date": "2026-11-21 06:49",
-   "note": "Run 1771 (global markets and channel growth (AIR's 28 Oct kids tactics: dubbing, 24/7 streams, YouTube Kids app)): Nothing new: AIR's kids growth cases (dubbed audio tracks adding about 125.5M views, Spanish tracks watched 31% longer, 24/7 kids streams earning about 3.4 times a video view, YouTube Kids app entry from 1,500 subscribers) and the 16 plus videos a month revenue finding were already filed. No leaves added. Chrome not available. Total 4049."
+   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
   },
   {
    "date": "2026-11-21 06:49",
@@ -29204,6 +29214,10 @@
   {
    "date": "2026-11-21 10:35",
    "note": "Run 1849 (TRENDS (SocialPilot 17 Nov boards, Virlo 19 Nov stages)): Harry Styles' Coming Up Roses 'silly little life' fast cut sound more than doubled to about 116K Reels in under three weeks; Virlo's 19 Nov board shows a family 'not just anyone's babies' text clip format rising from 5 to 88 creators; Later says holiday Shorts should be judged at six months, not 30 days. 3 leaves. Chrome not available. Total 4113."
+  },
+  {
+   "date": "2026-11-21 10:37",
+   "note": "Run 1850 (YouTube algorithm (November tools and feed changes)): YouTube pinned AI custom feeds to the top navigation bar for US viewers (Social Media Today 8 Nov) and merged Ask Studio with Help chat; AIR's tracker still has no ranking change after 1 Oct. 2 leaves. Chrome not available. Total 4115."
   }
  ],
  "history": [
@@ -30154,6 +30168,10 @@
   {
    "date": "2026-11-21 10:35",
    "total": 4113
+  },
+  {
+   "date": "2026-11-21 10:37",
+   "total": 4115
   }
  ],
  "next_week_ideas": [
