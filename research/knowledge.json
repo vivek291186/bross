@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:55:29+05:30",
- "runs": 2042,
+ "updated": "2026-11-21T16:55:50+05:30",
+ "runs": 2043,
  "branches": [
   {
    "id": "platforms",
@@ -30251,12 +30251,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:48",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:49",
-   "note": "Run 1964 (global markets (Thailand small song channels)): Thailand's big lists were already filed. New: the small Thai song channel Junior Squad Thailand (166K subscribers, 736 videos) fell from about 1.5M views in May 2026 to about 0.2M in the 28 days to 20 Nov with zero subscriber growth while posting under one video a week, a reminder that a thin, rarely updated local dub channel fades. 1 leaves. Chrome not available. Total 4244."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:50",
@@ -30569,6 +30565,10 @@
   {
    "date": "2026-11-21 16:55",
    "note": "Run 2042 (Shorts and Reels (AIR kids cases, Shorts RPM)): Nothing new: AIR's 274 channel Shorts RPM study (kids Shorts 46% monetised playbacks vs 12% long, about 2,150 Shorts views per 1,000 long, best mix about 1 Short per 2 to 3 long videos), its Emir Ela case (16.5M to 475M views in a quarter) and its 3M subscriber kids case (compilations RPM up 72%) were all already filed. 0 leaves. Chrome not available. Total 4308."
+  },
+  {
+   "date": "2026-11-21 16:55",
+   "note": "Run 2043 (music craft (2027 Grammy and 2026 Latin Grammy kids albums)): Nothing new: the five 2027 Grammy kids album nominees (announced 16 Nov, two family acts) and Marta Gomez with the Cantoalegre choir winning the 2026 Latin Grammy kids album were already filed. 0 leaves. Chrome not available. Total 4308."
   }
  ],
  "history": [
@@ -31346,6 +31346,10 @@
   },
   {
    "date": "2026-11-21 16:54",
+   "total": 4308
+  },
+  {
+   "date": "2026-11-21 16:55",
    "total": 4308
   },
   {
