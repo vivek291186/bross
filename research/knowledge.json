@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:47:27+05:30",
- "runs": 1928,
+ "updated": "2026-11-21T12:48:19+05:30",
+ "runs": 1929,
  "branches": [
   {
    "id": "platforms",
@@ -29622,11 +29622,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1849); see git history."
-  },
-  {
-   "date": "2026-11-21 10:37",
-   "note": "Run 1850 (YouTube algorithm (November tools and feed changes)): YouTube pinned AI custom feeds to the top navigation bar for US viewers (Social Media Today 8 Nov) and merged Ask Studio with Help chat; AIR's tracker still has no ranking change after 1 Oct. 2 leaves. Chrome not available. Total 4115."
+   "note": "Earlier: older log entries summarised (runs up to 1850); see git history."
   },
   {
    "date": "2026-11-21 10:39",
@@ -29939,6 +29935,10 @@
   {
    "date": "2026-11-21 12:47",
    "note": "Run 1928 (competitor deep dive (CoComelon, Like Nastya, Kids Diana; markets skipped as already empty this run)): Nothing new: CoComelon's live action Melon Patch, its move to Disney+ in January 2027, the Sanrio playdates series and Like Nastya's Disney development deal were already filed. No leaves added. 0 leaves. Chrome not available. Total 4218."
+  },
+  {
+   "date": "2026-11-21 12:48",
+   "note": "Run 1929 (posting times (Metricool grid 21 to 27 Nov, holiday viewing peaks)): Nothing new: Metricool's 21 to 27 Nov grid is unchanged (YouTube peaks at 16:00 IST every day, Instagram at 10:00 with a second rise at 18:00), and the Christmas Day streaming record and the Q4 holiday music surge were already filed. Slots unchanged. No leaves added. 0 leaves. Chrome not available. Total 4218."
   }
  ],
  "history": [
@@ -30264,6 +30264,10 @@
   },
   {
    "date": "2026-11-21 12:47",
+   "total": 4218
+  },
+  {
+   "date": "2026-11-21 12:48",
    "total": 4218
   }
  ],
