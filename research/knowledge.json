@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:59:11+05:30",
- "runs": 1794,
+ "updated": "2026-11-21T07:59:57+05:30",
+ "runs": 1795,
  "branches": [
   {
    "id": "platforms",
@@ -28622,6 +28622,27 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1792
+    },
+    {
+     "t": "Virlo's board for the week to 19 Nov 2026 lists 'while they're out partying btw' as rising (about 347 creators, up from 116): on screen text contrasting what others do with the creator proudly doing a quiet hobby, a format that fits a cheerful kids skit about practising a skill.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1795
+    },
+    {
+     "t": "Virlo marks no TikTok trends as peaking in the week to 19 Nov 2026, only fresh, rising or fading ones, which suggests the pre Thanksgiving week is a reset point where new formats start and earlier ones fade.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1795
+    },
+    {
+     "t": "The 'How Christmas dances will look this year' TikTok trend (three moves: side step with arm swings, a leg lift, a bounce; about 55M views since 19 Oct) dropped from 58 creators to 9 in a week by 20 Nov, so early Christmas dance formats peak before December begins.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1795
     }
    ]
   }
@@ -28650,10 +28671,6 @@
   {
    "date": "2026-11-20 13:44",
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-21 04:58",
-   "note": "Run 1716 (TRENDS (SocialBee Instagram songs 19 Nov, Google 2026 holiday YouTube report, Shorts Christmas formats)): Nothing new: the spell a word with your body stop motion format is already in the trend bank, and advent calendar video growth (about 280M views in November, 850M for the season), wishlist videos and the 26 Dec switch to what I got videos were already filed. No leaves added. Chrome not available. Total 3996."
   },
   {
    "date": "2026-11-21 04:59",
@@ -28966,13 +28983,13 @@
   {
    "date": "2026-11-21 07:59",
    "note": "Run 1794 (topics and seasons (hottest toys 2026, December family themes and world holidays)): Nothing new: Toy Insider, DreamToys and Amazon 2026 toy lists and the December calendar (Hanukkah, St Lucia, Dongzhi, Yalda, Las Posadas, Kwanzaa, Hogmanay, Three Kings) were already filed. Visual craft skipped as it found nothing in the last 6 rounds. No leaves added. Chrome not available. Total 4079."
+  },
+  {
+   "date": "2026-11-21 07:59",
+   "note": "Run 1795 (TRENDS (Virlo early vs late TikTok board, week to 19 Nov)): New: Virlo's weekly board shows 'while they're out partying btw' (proud text over ordinary hobby clips) tripling to about 347 creators, and the Christmas dances trend already fading (9 creators last week after 58). Added 'Meanwhile, btw' to the trend bank. Chrome not available. Total 4082."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 08:49",
-   "total": 3617
-  },
   {
    "date": "2026-11-20 08:50",
    "total": 3619
@@ -30168,6 +30185,10 @@
   {
    "date": "2026-11-21 07:59",
    "total": 4079
+  },
+  {
+   "date": "2026-11-21 07:59",
+   "total": 4082
   }
  ],
  "next_week_ideas": [
@@ -30229,6 +30250,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Meanwhile, btw",
+   "where": "TikTok (Virlo rising, week to 19 Nov 2026)",
+   "status": "rising",
+   "use": "A 12 second Short: on screen text 'While everyone's building snowmen...' over a quick snowy clip, then 'Little Bro, btw:' and a proud shot of him practising our new dance in his room, ending with Big Bro joining in. Uses our own song. Dance for the payoff: standing in place, step side to side with arms swinging for four beats, then a big proud chest point with both thumbs."
+  },
   {
    "name": "Bro's day in stats",
    "where": "TikTok (Buffer Nov 2026), adaptable to Reels and Shorts",
@@ -30342,12 +30369,6 @@
    "where": "TikTok ('Office Dance' group clip, about 16M views, week of 16 Nov 2026), adapted",
    "status": "rising",
    "use": "Three Bros dance together, the music cuts, two freeze like statues with funny faces while Little Bro has not noticed and keeps dancing, then he sees them, gasps and freezes too; ends on our freeze dance hook. Kid safe version: nobody drops to the floor. Meshy prompt: standing, sway hips and wave both arms overhead, then stop suddenly and hold a pose with one arm up, no floor moves."
-  },
-  {
-   "name": "Helper stuck in the TV",
-   "where": "YouTube on the TV screen and Shorts, 1 to 24 Dec (seasonal, returns every year)",
-   "status": "seasonal",
-   "use": "A long, calm video for the family TV: TV static, then our own little helper elf (original design, not the trademarked one) waves from inside the screen, says it pressed the wrong button, and the Bros sing a short original 'Help Us Out' song while kids at home do the moves to free it (clap 3 times, stomp 3 times, spin once in place, push both hands forward). Loop it with snow and twinkle lights. Short version: 30 seconds of the same."
   }
  ],
  "posting_plan": {
