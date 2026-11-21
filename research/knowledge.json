@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:42:32+05:30",
- "runs": 2252,
+ "updated": "2026-11-22T01:43:24+05:30",
+ "runs": 2253,
  "branches": [
   {
    "id": "platforms",
@@ -10660,6 +10660,20 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2228
+    },
+    {
+     "t": "HeyKids, a France based English nursery song channel (4.79M subscribers, 2.84B views, 702 videos), drew about 15.6M views and 10K subscribers in the 28 days to 20 Nov 2026 from about 10 uploads, but its views still come from 2022 to 2023 hits (construction vehicles song about 80M, a Halloween song about 65M, a train song about 52M) while its new Body Parts song had under 5K views after five days, so a generic classic topic no longer breaks out even on a big channel; vehicles, Halloween and trains remain the evergreen pulls.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2253
+    },
+    {
+     "t": "HeyHop Kids, a small US 3D nursery channel (155K subscribers, 251 videos), got only about 124K views and no net subscribers in the 28 days to 20 Nov 2026 from a single upload, and its best videos (a hares dance, a tractor helping farm friends, a shark shadow song) sit near 40K to 60K views, showing that slow uploading plus look alike rhymes leaves a 3D channel stuck; our two a day rhythm and our own named characters are the opposite bet.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2253
     }
    ]
   },
@@ -31827,11 +31841,7 @@
  "log": [
   {
    "date": "2026-11-21 22:38",
-   "note": "Summary of 2 older runs (2026-11-21 22:37 to 2026-11-21 22:38): see git history for details."
-  },
-  {
-   "date": "2026-11-21 22:38",
-   "note": "Run 2177 (visual craft (thumbnail case studies recheck)): Nothing new: AIR's Vania Mania four channel case (calm one focal point thumbnails, hook plus keyword titles, audio track checks) and vidIQ's July thumbnail study were already filed. 0 leaves. Chrome not available. Total 4457."
+   "note": "Summary of 2 older runs (2026-11-21 22:38 to 2026-11-21 22:38): see git history for details."
   },
   {
    "date": "2026-11-21 22:38",
@@ -32144,6 +32154,10 @@
   {
    "date": "2026-11-22 01:42",
    "note": "Run 2252 (global markets (Kurdish, Persian, Marathi, Moroccan kids songs)): Small addition: Iraq's Kurdish (Sorani) channel Afarin Kids TV holds 1.34M subscribers and about 34M views a month from only about six uploads a month, so small languages with few makers reward a catalogue for years; Morocco's Anghamalatfal and HOUDAMI were already filed and the Marathi page had no data. 1 leaves. Chrome not available. Total 4533."
+  },
+  {
+   "date": "2026-11-22 01:43",
+   "note": "Run 2253 (competitor deep dive (HeyKids, HeyHop Kids)): New: France based English channel HeyKids (4.79M subscribers) still draws about 15.6M views a month from old vehicle, Halloween and train songs while its new Body Parts song got under 5K views in five days; small US 3D channel HeyHop Kids (251 videos, 155K subscribers) has stalled at about 124K views a month on one upload a month. Dream English stats could not be read. 2 leaves. Chrome not available. Total 4535."
   }
  ],
  "history": [
@@ -33058,6 +33072,10 @@
   {
    "date": "2026-11-22 01:42",
    "total": 4533
+  },
+  {
+   "date": "2026-11-22 01:43",
+   "total": 4535
   }
  ],
  "next_week_ideas": [
