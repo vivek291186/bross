@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:51:33+05:30",
- "runs": 2036,
+ "updated": "2026-11-21T16:52:22+05:30",
+ "runs": 2037,
  "branches": [
   {
    "id": "platforms",
@@ -10135,6 +10135,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2025
+    },
+    {
+     "t": "Super Simple has turned 20 of its songs (such as Pop the Bubbles, There's a Monster in My Tummy and Do You Like Broccoli Ice Cream?) into read along books on Pickatale, where children follow highlighted words while hearing the song, and gifted some to UK primary schools for the 2026 National Year of Reading; a song to book route earns teacher trust and school reach without new music.",
+     "src": "pickatale.com, 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2037
+    },
+    {
+     "t": "ChuChu TV built its 12 channel, eight language network on one formula: classic nursery rhymes retold with positive, modern endings and a recurring cast led by a 5 year old child character, with parents' trust in it as a safe preschool space named by its founder as the growth driver; recurring named kids are the backbone, exactly like our two brothers.",
+     "src": "MediaNews4U, 2021",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2037
     }
    ]
   },
@@ -30216,12 +30230,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:45",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:46",
-   "note": "Run 1958 (YouTube algorithm (November changes, YouTube Kids app)): Nothing new: AIR's month by month log, the 1 Oct Shorts originality cut, prompt built Home feeds and the Shorts freshness analysis were all already filed; no new YouTube Kids app feature found. No leaves added. 0 leaves. Chrome not available. Total 4241."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:46",
@@ -30534,6 +30544,10 @@
   {
    "date": "2026-11-21 16:51",
    "note": "Run 2036 (global markets (Mexico and Brazil)): New: Kidscorp's Top Brands U18s survey (over 1,000 Mexican 3 to 18 year olds, Apr 2026) ranks YouTube first (7.3%) ahead of Disney, Roblox, Nike and Minecraft, with entertainment the top brand type for 3 to 5 year olds; BBC Brasil (Jul 2026) found AI made kids songs with muddled, mixed language lyrics surfacing within about 15 minutes of Shorts, so clear, single language lyrics are a trust signal for Brazilian parents. 3 leaves. Chrome not available. Total 4303."
+  },
+  {
+   "date": "2026-11-21 16:52",
+   "note": "Run 2037 (competitor deep dive (Super Simple read alongs, ChuChu TV)): New: Super Simple turned 20 of its songs (Pop the Bubbles, Monster in My Tummy, Broccoli Ice Cream) into read along books on Pickatale, where children follow the words while hearing the song, and gifted some to UK primary schools for the 2026 National Year of Reading; ChuChu TV's long run growth came from retelling classic rhymes with positive, modern endings around a recurring 5 year old lead. Other pages were older news. 2 leaves. Chrome not available. Total 4305."
   }
  ],
  "history": [
@@ -31292,6 +31306,10 @@
   {
    "date": "2026-11-21 16:51",
    "total": 4303
+  },
+  {
+   "date": "2026-11-21 16:52",
+   "total": 4305
   }
  ],
  "next_week_ideas": [
