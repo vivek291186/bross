@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:44:41+05:30",
- "runs": 2218,
+ "updated": "2026-11-21T23:45:25+05:30",
+ "runs": 2219,
  "branches": [
   {
    "id": "platforms",
@@ -31687,11 +31687,7 @@
  "log": [
   {
    "date": "2026-11-21 20:51",
-   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:58): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 20:59",
-   "note": "Run 2143 (global markets (Italy kids channels)): New: Italy's toddler pretend play channel TV per i bambini piccoli (560K subscribers) is growing (views up 11%) on everyday doll chores, its top video a vegetable soup kitchen play at 16.5M, which matches our own best song (the tomato soup game); Italy's top 100 kids list was already filed. 1 leaves. Chrome not available. Total 4431."
+   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:59): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 21:00",
@@ -32004,6 +32000,10 @@
   {
    "date": "2026-11-21 23:44",
    "note": "Run 2218 (rules and monetisation (YouTube policy log; trends and posting skipped as just rechecked)): New: YouTube's policy log adds a Nov 2026 rule that artists and labels must disclose AI use on YouTube Music, with new AI labels in the Music app, which touches our Suno made songs once released as audio tracks; nothing new on made for kids rules or COPPA. 1 leaves. Chrome not available. Total 4513."
+  },
+  {
+   "date": "2026-11-21 23:45",
+   "note": "Run 2219 (other platforms (Netflix kids report, Roblox dance games; own results skipped, Metricool rechecked at 23:03)): Nothing new: Horgan's Netflix kids report (PAW Patrol 344M hours, CoComelon down 30% and moving to Disney+, Sesame Street's Netflix start) and KIDZ BOP's Roblox deal were already filed; a Roblox dance roleplay game had almost no players. 0 leaves. Chrome not available. Total 4513."
   }
  ],
  "history": [
@@ -32781,6 +32781,10 @@
   },
   {
    "date": "2026-11-21 23:44",
+   "total": 4513
+  },
+  {
+   "date": "2026-11-21 23:45",
    "total": 4513
   }
  ],
