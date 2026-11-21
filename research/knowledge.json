@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:57:30+05:30",
- "runs": 1792,
+ "updated": "2026-11-21T07:58:45+05:30",
+ "runs": 1793,
  "branches": [
   {
    "id": "platforms",
@@ -12151,6 +12151,27 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1791
+    },
+    {
+     "t": "On 21 Nov 2026 the US iTunes Top Kids Songs top 25 held no Christmas songs at all but four Thanksgiving songs (turkey wobble, shoo turkey, pumpkin pie, a Thanksgiving singalong), so US kids music buying stays on Thanksgiving until the holiday on 26 Nov and turns to Christmas after it.",
+     "src": "popvortex.com (iTunes chart), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1793
+    },
+    {
+     "t": "Danny Go! held five of the iTunes kids top 25 on 21 Nov 2026, all high energy move along songs (wiggle, bouncing, burning energy, garbage truck, pumpkin pie), more than any other act, which again shows active movement songs are what US families buy now.",
+     "src": "popvortex.com (iTunes chart), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1793
+    },
+    {
+     "t": "Faith songs for children took the top two iTunes kids spots on 21 Nov 2026 and six of the top 25 were TV, film or game themes, so outside the big kids acts the US kids chart is driven by church families and character brands, not new nursery rhymes (only one, Wheels on the Bus, made the top 25).",
+     "src": "popvortex.com (iTunes chart), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1793
     }
    ]
   },
@@ -28632,10 +28653,6 @@
   },
   {
    "date": "2026-11-21 04:57",
-   "note": "Run 1714 (YouTube main (Tubefilter most viewed week of 15 Nov rechecked; rules and own results skipped as rechecked this run)): The new number one family Shorts channel and the 42 of 50 Shorts share were already filed. New: most big family Shorts channels cooled that week (Cadel and Mia down 22%, Sierra and Rhia FAM down 11%, Keizo and Friends down 11%) while Diary of 4 rose 16%, so even the leaders swing 10 to 25% week to week. Chrome not available. Total 3996."
-  },
-  {
-   "date": "2026-11-21 04:57",
    "note": "Run 1715 (other platforms (Netflix November kids top 10s, Spotify kids and family Wrapped toggle; own results, algorithm and Shorts skipped as rechecked this run)): Nothing new: Netflix 9 to 15 Nov kids entries and Spotify letting parents keep kids music out of Wrapped were already filed. No leaves added. Chrome not available. Total 3996."
   },
   {
@@ -28945,13 +28962,13 @@
   {
    "date": "2026-11-21 07:57",
    "note": "Run 1792 (TRENDS (Know Your Meme 6 Nov roundup, Virlo trending topics 15 Nov)): Little new: the 6 Nov meme roundup (W Chews food rating, Bicep Heart) was filed or not kid safe; Virlo's 15 Nov topic list was led by Eurovision Asia 2026 and a playful slime prank at an awards show, which shows music contests and harmless slime gags are what people watched that day. Chrome not available. Total 4076."
+  },
+  {
+   "date": "2026-11-21 07:58",
+   "note": "Run 1793 (music craft (iTunes Top Kids Songs on 21 Nov 2026)): New: on 21 Nov the US iTunes kids top 25 had no Christmas songs yet but four Thanksgiving songs, two faith songs at the very top, six TV and game themes and five Danny Go! movement songs, so the Christmas switch on kids charts comes after Thanksgiving. Chrome not available. Total 4079."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 08:48",
-   "total": 3617
-  },
   {
    "date": "2026-11-20 08:49",
    "total": 3617
@@ -30147,6 +30164,10 @@
   {
    "date": "2026-11-21 07:57",
    "total": 4076
+  },
+  {
+   "date": "2026-11-21 07:58",
+   "total": 4079
   }
  ],
  "next_week_ideas": [
