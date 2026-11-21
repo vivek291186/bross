@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:43:12+05:30",
- "runs": 1823,
+ "updated": "2026-11-21T09:44:50+05:30",
+ "runs": 1824,
  "branches": [
   {
    "id": "platforms",
@@ -28776,6 +28776,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1821
+    },
+    {
+     "t": "By 20 Nov 2026 the 'reaching out to touch a stranger cat' gag had dropped to fading on Virlo (76 creators in a week, down 36%) only a day after it looked rising, a reminder that small TikTok gags last about one to two weeks, so Bro Bros should only use a gag the same week it is spotted, or not at all.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1824
+    },
+    {
+     "t": "The five TikTok formats Virlo labels new in the week to 20 Nov 2026 are a couple montage (667 creators), a sketch lip sync about paying full price, a shoulder carry mirror selfie and two AI photo templates (a scrapbook intro and a colourful sweater portrait), so the newest wave offers nothing for a kids channel and our trend effort should go to December holiday formats instead.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1824
     }
    ]
   }
@@ -28803,11 +28817,7 @@
  "log": [
   {
    "date": "2026-11-21 05:50",
-   "note": "Summary of 2 older log entries (runs up to 1744): steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-21 05:50",
-   "note": "Run 1745 (visual craft (thumbnail studies, 3D art trends for 2026, preschool redesigns)): Nothing new: vidIQ's breakout thumbnail study, the Thomas redesign and Creative Bloq's 2026 3D trends (squishy forms, lo fi 3D, hybrid 2D and 3D) were already filed. No leaves added. Chrome not available. Total 4027."
+   "note": "Summary of 2 older log entries (runs up to 1745): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 05:51",
@@ -29120,6 +29130,10 @@
   {
    "date": "2026-11-21 09:43",
    "note": "Run 1823 (our own results (Metricool Reels 18 to 21 Nov, queue)): No new numbers: Reel stats for 18 to 20 Nov are unchanged since the last check and the 21 Nov Reels (kitty band 10:00, toothbrushing 16:00) are still pending; the queue still ends with the 22 Nov 16:05 Short. Logged that today's 16:00 toothbrushing Reel is the next test of the 'useful lesson gets shared' pattern. Chrome not available. Total 4101."
+  },
+  {
+   "date": "2026-11-21 09:44",
+   "note": "Run 1824 (TRENDS (Virlo weekly board 20 Nov, Know Your Meme, Christmas dances)): The reach out to touch a cat gag is already fading (creators down 36% in a week), so its trend bank entry is now marked fading; the five formats new this week are couple montages, a sketch lip sync and AI photo templates, none for kids. Christmas dance and meme searches repeated filed items. Chrome not available. Total 4103."
   }
  ],
  "history": [
@@ -29966,6 +29980,10 @@
   {
    "date": "2026-11-21 09:43",
    "total": 4101
+  },
+  {
+   "date": "2026-11-21 09:44",
+   "total": 4103
   }
  ],
  "next_week_ideas": [
@@ -30113,8 +30131,8 @@
   },
   {
    "name": "Reach out, surprise friend",
-   "where": "TikTok, 19 Nov 2026 (Virlo, about 5M views top example)",
-   "status": "rising",
+   "where": "TikTok, 19 to 20 Nov 2026 (Virlo; creators down 36% week on week by 20 Nov)",
+   "status": "fading",
    "use": "Little Bro slowly reaches one hand toward the camera on a soft held note of our own song, cut, and his hand lands on a fluffy puppy (or a snowman's carrot nose) for a giggle. Copy the reach and cut only, never the pop song used in the trend. Meshy move: standing, one arm extends slowly forward at shoulder height with fingers wiggling, body leans a little forward, then pulls back with a happy shrug."
   },
   {
