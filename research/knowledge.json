@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:39:51+05:30",
- "runs": 2179,
+ "updated": "2026-11-21T22:40:47+05:30",
+ "runs": 2180,
  "branches": [
   {
    "id": "platforms",
@@ -10485,6 +10485,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2179
+    },
+    {
+     "t": "A truck themed kids song channel (2.34M subscribers, 4.86B views) still drew about 44M views and 20K new subscribers in the 28 days to 21 Nov 2026, and its top five are a bus song compilation (39M), a Halloween baby truck song (27M), an excavator dance (22M), a karaoke cut of a muddy trucks counting song (20M) and a counting baby trucks song (17M), so vehicles plus counting plus a karaoke re cut is a proven repeatable formula.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2180
+    },
+    {
+     "t": "Smile and Learn English (2.43M subscribers, mostly flags, planets and geography lessons) has a single farm animals song from Apr 2025 at 20.4M views, three times its next best video, so even on an education channel a catchy animal song beats lessons, and the farm animals theme keeps proving itself worldwide.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2180
+    },
+    {
+     "t": "A Moonbug preschool compilation channel (Little Learners, 3.44M subscribers) shows a net loss of about 17M views over the 28 days to 21 Nov 2026 after a single 33.2M view correction on 29 Oct 2026, with zero subscriber growth and new uploads at a few hundred views, so YouTube can claw back views on compilation heavy channels and Bro Bros should keep compilations to its own original songs with fresh openings.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2180
     }
    ]
   },
@@ -31322,12 +31343,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 18:50",
-   "note": "Summary of 2 older log entries (2026-11-21 18:49 to 2026-11-21 18:50): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 18:51",
-   "note": "Run 2101 (YouTube algorithm (YouTube Kids on TV)): New detail: the separate YouTube Kids TV app has been retired device by device since 2024 (Sony's date was 25 Aug 2025), so on TVs YouTube Kids now lives as a child profile inside the main YouTube app. Todd Beaupre's Creator Insider points (10% subscriber click rate, Suggested as top source, the eight times cap) were already filed. 1 leaves. Chrome not available. Total 4400."
+   "note": "Summary of 2 older log entries (2026-11-21 18:50 to 2026-11-21 18:51): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:52",
@@ -31640,6 +31657,10 @@
   {
    "date": "2026-11-21 22:39",
    "note": "Run 2179 (global markets (small language and niche kids channels)): New: Czech BÉBA earns about 8M views a month from under three songs a month, led by an animal sounds song; Turkey's toy play BebeKo has stalled at zero subscriber growth; a Nepal AI baby comedy Shorts channel spiked to 82M views in weeks then went quiet; UK's Steve and Maggie still gets 1.4M views a month with no upload in a year, led by silly monster songs. 4 leaves. Chrome not available. Total 4461."
+  },
+  {
+   "date": "2026-11-21 22:40",
+   "note": "Run 2180 (competitor deep dive (truck songs, Smile and Learn, Moonbug compilation channel)): New: a vehicle songs channel earns about 44M views a month on truck counting, Halloween truck and karaoke versions; Smile and Learn's biggest video by far is a farm animal song, not its flags lessons; a Moonbug compilation channel lost 33M views in one correction on 29 Oct 2026. 3 leaves. Chrome not available. Total 4464."
   }
  ],
  "history": [
@@ -32262,6 +32283,10 @@
   {
    "date": "2026-11-21 22:39",
    "total": 4461
+  },
+  {
+   "date": "2026-11-21 22:40",
+   "total": 4464
   }
  ],
  "next_week_ideas": [
