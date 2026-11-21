@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:39:30+05:30",
- "runs": 2212,
+ "updated": "2026-11-21T23:40:24+05:30",
+ "runs": 2213,
  "branches": [
   {
    "id": "platforms",
@@ -13299,6 +13299,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2202
+    },
+    {
+     "t": "A Boston University pilot (7 preschoolers aged about 4 to 6, eight weekly music classes, Feb 2026) found heart rates were higher during familiar songs than new ones (about 114 vs 109 bpm, not conclusive in every test), a greeting song that lowered heart rate when new raised it by week 4, and the highest level came in a shaker song with moving around, so repeating a Bro Bros signature hello or chorus across videos builds excitement over weeks.",
+     "src": "Frontiers in Psychology, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2213
     }
    ]
   },
@@ -31648,10 +31655,6 @@
    "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:54): earlier runs grew the tree; see git history for detail."
   },
   {
-   "date": "2026-11-21 20:54",
-   "note": "Run 2137 (YouTube algorithm (Beaupre interview, Shorts freshness, Home rows)): Nothing new: Todd Beaupre's Creator Insider points (pulled recommendations, about 10% subscriber click rate, the eight impression cap), the Shorts 30 day flattening and the two long videos per Home row data were all already filed. 0 leaves. Chrome not available. Total 4426."
-  },
-  {
    "date": "2026-11-21 20:55",
    "note": "Run 2138 (Shorts and Reels (vidIQ hourly trends check)): Nothing new: vidIQ's US trending music chart (20 Nov) held no kids, holiday or dance video and the rising searches are all GTA 6, the adult game launch already filed as one to avoid. 0 leaves. Chrome not available. Total 4426."
   },
@@ -31962,6 +31965,10 @@
   {
    "date": "2026-11-21 23:39",
    "note": "Run 2212 (TRENDS (Virlo week of 16 Nov and November list)): New: this week's fastest risers on TikTok are adult party jokes, an SNL line and a couple montage, with no kid safe dance among them; the pick your favourite thing table game faded after 73.8M views from only 117 videos; the first to react loses couple trend is destructive and must be avoided. Trend bank unchanged. 3 leaves. Chrome not available. Total 4507."
+  },
+  {
+   "date": "2026-11-21 23:40",
+   "note": "Run 2213 (music craft (familiarity and arousal study)): Small addition: a Boston University heart rate pilot with preschoolers found heart rates rose once a song became familiar and peaked in a shaker and moving song, supporting repeated choruses and move along sections; kids charts were already filed today. 1 leaves. Chrome not available. Total 4508."
   }
  ],
  "history": [
@@ -32716,6 +32723,10 @@
   {
    "date": "2026-11-21 23:39",
    "total": 4507
+  },
+  {
+   "date": "2026-11-21 23:40",
+   "total": 4508
   }
  ],
  "next_week_ideas": [
