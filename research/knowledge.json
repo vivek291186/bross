@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:43:08+05:30",
- "runs": 2123,
+ "updated": "2026-11-21T19:43:37+05:30",
+ "runs": 2124,
  "branches": [
   {
    "id": "platforms",
@@ -31021,12 +31021,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 16:56",
-   "note": "Summary of 2 older log entries (2026-11-21 16:55 to 2026-11-21 16:56): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 16:57",
-   "note": "Run 2045 (global markets (UK Precise TV kids survey)): New: Precise TV and Giraffe Insights' survey of 1,000 British 2 to 12 year olds (spring 2025) found 72% watch YouTube for about 83 minutes a day, 57% usually alone (62% for Shorts), cartoons the top type (47%), and about half of boys aged 2 to 5 watch YouTube on a TV set. 2 leaves. Chrome not available. Total 4310."
+   "note": "Summary of 2 older log entries (2026-11-21 16:56 to 2026-11-21 16:57): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:57",
@@ -31339,6 +31335,10 @@
   {
    "date": "2026-11-21 19:43",
    "note": "Run 2123 (rules and safety (COPPA, UK codes, AI labels)): Nothing new: Ofcom's 16 Nov 2026 draft code changes, YouTube's May 2026 AI label rules (animation exempt) and the FTC's COPPA push were all already filed. 0 leaves. Chrome not available. Total 4418."
+  },
+  {
+   "date": "2026-11-21 19:43",
+   "note": "Run 2124 (our own results (Metricool recheck)): Nothing new: Metricool's YouTube data still stops at the 19 Nov morning upload and Instagram at the 20 Nov Reels (car song 55 views and 25 shares, parade 16 views); the tomato song's 972 views and the weak Shorts are already filed. 0 leaves. Chrome not available. Total 4418."
   }
  ],
  "history": [
@@ -32440,6 +32440,10 @@
   },
   {
    "date": "2026-11-21 19:42",
+   "total": 4418
+  },
+  {
+   "date": "2026-11-21 19:43",
    "total": 4418
   },
   {
