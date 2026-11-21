@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:47:46+05:30",
- "runs": 1828,
+ "updated": "2026-11-21T09:48:55+05:30",
+ "runs": 1829,
  "branches": [
   {
    "id": "platforms",
@@ -28764,13 +28764,6 @@
      "run": 1821
     },
     {
-     "t": "A 30 second AI made song a woman's sister sent the family about no longer hosting Thanksgiving for 20 people drew about 225K TikTok views and 3,500 comments (Daily Dot, 17 Nov 2026), showing that short personal holiday songs travel as family messages.",
-     "src": "dailydot.com, Nov 2026",
-     "conf": "medium",
-     "date": "2026-11-21",
-     "run": 1821
-    },
-    {
      "t": "Virlo's November 2026 board (25,948 videos scanned) is topped by the piggyback flip (peaking, 1,447 videos), a nostalgic POV, a 'my moon my man' couple montage (rising) and 'while they're out partying btw' (rising); none fit a kids channel except as a reminder that confetti, pets and silly reveals are the family friendly corner.",
      "src": "virlo.ai, Nov 2026",
      "conf": "medium",
@@ -28830,12 +28823,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 05:58",
-   "note": "Summary of 2 older log entries (runs up to 1749): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 05:59",
-   "note": "Run 1750 (rules and safety (AI kids video pressure, Meta global teen age checks)): Mostly known. New detail: under Meta's August 2026 settlement with US states, under 18s get a two hour daily limit, a midnight to 6 AM curfew and no push notifications from 8 AM to 3 PM, so our Instagram reaches teens only outside school and night hours; parents remain the real audience. Chrome not available. Total 4031."
+   "note": "Summary of 2 older log entries (runs up to 1750): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 05:59",
@@ -29148,6 +29137,10 @@
   {
    "date": "2026-11-21 09:47",
    "note": "Run 1828 (music craft (Suno updates, preschool rhythm studies)): Nothing new: Suno Visuals (17 Nov), Suno v6 and the Queensland rhythm and movement trial were already filed; a new 2026 early childhood music paper could not be opened. No leaves added. Chrome not available. Total 4105."
+  },
+  {
+   "date": "2026-11-21 09:48",
+   "note": "Run 1829 (visual craft (Meshy and Blender updates, thumbnail studies)): Nothing new: Meshy's changelog still stops at September (no motion change since July), Blender 5.3 facts, the vidIQ 500 thumbnail study, the TubeAnalytics click rate patterns and AIR's Vania Mania case were all already filed. Merged a true duplicate: the Thanksgiving AI song leaf added in run 1821 repeated an existing one and was removed. No leaves added. Chrome not available. Total 4104."
   }
  ],
  "history": [
@@ -30014,6 +30007,10 @@
   {
    "date": "2026-11-21 09:47",
    "total": 4105
+  },
+  {
+   "date": "2026-11-21 09:48",
+   "total": 4104
   }
  ],
  "next_week_ideas": [
