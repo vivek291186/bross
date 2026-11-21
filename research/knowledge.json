@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:51:41+05:30",
- "runs": 1791,
+ "updated": "2026-11-21T07:57:30+05:30",
+ "runs": 1792,
  "branches": [
   {
    "id": "platforms",
@@ -28587,6 +28587,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1786
+    },
+    {
+     "t": "Virlo's trending topics for 15 Nov 2026 were led by the first Eurovision Asia contest and a viral moment from its winner (about 217K views an hour), showing that a new international song contest is a live talking point across Asia this month.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1792
+    },
+    {
+     "t": "A harmless slime prank at an awards show was among the top rising topics on 15 Nov 2026 (about 115K views an hour), a reminder that gentle, messy surprise gags (slime, foam, confetti) travel well and are easy to show kid safe in 3D.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1792
     }
    ]
   }
@@ -28615,10 +28629,6 @@
   {
    "date": "2026-11-20 13:44",
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
-  },
-  {
-   "date": "2026-11-21 04:56",
-   "note": "Run 1713 (TRENDS (TokChart, vidIQ and Virlo trending sound charts, 20 Nov)): Mostly known: classic carols, the Chopin nocturne and game theme songs were already filed. New: a dance remix of a classic rock and roll Christmas carol is now among TikTok's fastest growing sounds (about 34K new videos a day), so carol remixes have started taking over the sound charts one month before Christmas. Chrome not available. Total 3995."
   },
   {
    "date": "2026-11-21 04:57",
@@ -28931,13 +28941,13 @@
   {
    "date": "2026-11-21 07:51",
    "note": "Run 1791 (music craft (earworm science, song structure and children's listening)): New: earworm research says back to back repetition of a short fragment (a chorus line sung twice in a row) is the strongest sticky feature and that hearing a related phrase or a similar song re triggers it; a Delft study of Last.fm listening found 12 to 17 year olds lean to hook heavy songs while adults lean to chorus led ones. Chrome not available. Total 4074."
+  },
+  {
+   "date": "2026-11-21 07:57",
+   "note": "Run 1792 (TRENDS (Know Your Meme 6 Nov roundup, Virlo trending topics 15 Nov)): Little new: the 6 Nov meme roundup (W Chews food rating, Bicep Heart) was filed or not kid safe; Virlo's 15 Nov topic list was led by Eurovision Asia 2026 and a playful slime prank at an awards show, which shows music contests and harmless slime gags are what people watched that day. Chrome not available. Total 4076."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 08:48",
-   "total": 3617
-  },
   {
    "date": "2026-11-20 08:48",
    "total": 3617
@@ -30133,6 +30143,10 @@
   {
    "date": "2026-11-21 07:51",
    "total": 4074
+  },
+  {
+   "date": "2026-11-21 07:57",
+   "total": 4076
   }
  ],
  "next_week_ideas": [
