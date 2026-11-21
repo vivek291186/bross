@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:54:20+05:30",
- "runs": 1840,
+ "updated": "2026-11-21T09:55:01+05:30",
+ "runs": 1841,
  "branches": [
   {
    "id": "platforms",
@@ -28844,12 +28844,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 06:41",
-   "note": "Summary of 2 older log entries (runs up to 1761): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 06:42",
-   "note": "Run 1762 (rules and monetisation (NY SAFE for Kids rules, Australia under 16 ban, AIR Shorts vs long form RPM)): Nothing new: New York's SAFE for Kids rules (in force 25 Jan 2027), Australia's under 16 account ban, AIR's Kids and Teens Shorts RPM data (about 2,156 Shorts views to match 1,000 long form views) and the 10M qualified Shorts views threshold from Feb 2027 were already filed. No leaves added. Chrome not available. Total 4043."
+   "note": "Summary of 2 older log entries (runs up to 1762): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 06:43",
@@ -29162,6 +29158,10 @@
   {
    "date": "2026-11-21 09:54",
    "note": "Run 1840 (music craft (Bluey albums and streaming, Ms Rachel)): New: Bluey's music passed one billion audio streams (July 2025) led by its theme tune and a dance mode song, and its fourth album (Mar 2026) is 17 live orchestral recordings, showing that a short signature theme and real instruments keep kids music streaming for years. Chrome not available. Total 4107."
+  },
+  {
+   "date": "2026-11-21 09:55",
+   "note": "Run 1841 (visual craft (new preschool series looks, real time animation pipelines)): Nothing new: the solo YouTube animators' real time pipelines (eight to ten shots a day), Mogu and Perol's stop motion to CG move and Babble Bop's motion capture music format were already filed. No leaves added. Chrome not available. Total 4107."
   }
  ],
  "history": [
@@ -30075,6 +30075,10 @@
   },
   {
    "date": "2026-11-21 09:54",
+   "total": 4107
+  },
+  {
+   "date": "2026-11-21 09:55",
    "total": 4107
   }
  ],
