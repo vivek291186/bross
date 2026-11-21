@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:01:42+05:30",
- "runs": 1939,
+ "updated": "2026-11-21T13:02:33+05:30",
+ "runs": 1940,
  "branches": [
   {
    "id": "platforms",
@@ -19550,6 +19550,20 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1917
+    },
+    {
+     "t": "Pakistan has about 54M YouTube users but a CPM of only about 0.18 to 0.69 USD, with creators keeping roughly 55% of that as RPM, so viewers from Pakistan (our third biggest subscriber country at about 5%) bring reach and goodwill but very little income; long songs that also travel to the Gulf, UK and US are what make the money.",
+     "src": "Profit (Pakistan Today), Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1940
+    },
+    {
+     "t": "YouTube is the Philippines' top video platform by reach (Kantar 2025), and in rural Visayas and Mindanao about 97% of people watched TV programmes on YouTube in the past month, so Filipino families, our fifth biggest subscriber country, reach us mostly through the family TV and phone YouTube app, where English songs travel easily.",
+     "src": "Manila Bulletin, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1940
     }
    ]
   },
@@ -29671,11 +29685,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1860); see git history."
-  },
-  {
-   "date": "2026-11-21 10:51",
-   "note": "Run 1861 (TRENDS (NewEngen 20 Nov TikTok list)): NewEngen's 20 Nov list adds a Thanksgiving 'awkward dinner glances' skit format and keeps the month by month 'a random day in' recap; the Chipmunks trio jump, kick and spin and the Dame Hombro shoulder bounce are still listed, so both kid safe dances hold into late November. 2 leaves, trend bank updated. Chrome not available. Total 4136."
+   "note": "Earlier: older log entries summarised (runs up to 1861); see git history."
   },
   {
    "date": "2026-11-21 10:52",
@@ -29988,6 +29998,10 @@
   {
    "date": "2026-11-21 13:01",
    "note": "Run 1939 (TRENDS (Viralremix ranks 13 to 40, 20 Nov)): New: lower on Viralremix's 20 Nov chart, AI Christmas templates are rising (a baby riding a flying reindeer with a sleigh behind, about 575 new videos a day and rising; dancing beside Santa on a red carpet), so a cosy 'ride the reindeer' Short of Little Bro flying over snowy roofs fits the moment; added it to the trend bank. 1 leaves. Chrome not available. Total 4225."
+  },
+  {
+   "date": "2026-11-21 13:02",
+   "note": "Run 1940 (global markets (Pakistan and Philippines, our number 3 and 5 subscriber countries)): New: Pakistan's YouTube CPM is only about 0.18 to 0.69 USD with creators keeping about 55%, and the Philippines' rural viewers almost all watch TV programmes on YouTube; since Pakistan, Bangladesh and the Philippines are three of our top five subscriber countries, they grow reach but earn little, so US, UK and Gulf viewers still matter for revenue. 2 leaves. Chrome not available. Total 4227."
   }
  ],
  "history": [
@@ -30358,6 +30372,10 @@
   {
    "date": "2026-11-21 13:01",
    "total": 4225
+  },
+  {
+   "date": "2026-11-21 13:02",
+   "total": 4227
   }
  ],
  "next_week_ideas": [
