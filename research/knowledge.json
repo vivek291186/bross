@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:57:35+05:30",
- "runs": 2199,
+ "updated": "2026-11-21T22:58:24+05:30",
+ "runs": 2200,
  "branches": [
   {
    "id": "platforms",
@@ -13250,6 +13250,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2191
+    },
+    {
+     "t": "In Kapiko's sample of the top 100 Spotify children tracks, CoComelon holds 31 places and Super Simple Songs 16 (about half the list for two brands), with a typical length of about 2 to 3 minutes and a median tempo near 120 BPM; the page's other figures contradict each other, so only the tempo, length and brand concentration are worth keeping.",
+     "src": "Kapiko genre page, 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2200
     }
    ]
   },
@@ -31497,12 +31504,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 19:41",
-   "note": "Summary of 2 older log entries (2026-11-21 19:41 to 2026-11-21 19:41): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 19:42",
-   "note": "Run 2122 (TRENDS (family dance and December outlook check)): Nothing new: the family dance stories found (a celebrity dad's January 2026 dance with his kids, a 2022 parents dance reaction trend) are old, and the December prediction pieces repeat formats already filed. 0 leaves. Chrome not available. Total 4418."
+   "note": "Summary of 2 older log entries (2026-11-21 19:41 to 2026-11-21 19:42): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:43",
@@ -31815,6 +31818,10 @@
   {
    "date": "2026-11-21 22:57",
    "note": "Run 2199 (global markets (French dubs check, skipping dry trend and platform foci)): New: the French dub of a big British nursery rhyme brand drew only about 1.8M views in 28 days with zero subscriber growth despite 14 new uploads, the same weak pattern as the German dub of another giant, so French needs native feeling songs rather than a straight dub; a French story and picture book channel earns almost nothing on long videos. 2 leaves. Chrome not available. Total 4486."
+  },
+  {
+   "date": "2026-11-21 22:58",
+   "note": "Run 2200 (music craft (Spotify children genre stats)): Small addition: Kapiko's 'children' genre page (top 100 Spotify children tracks) is internally inconsistent, but its stable figures (median about 120 BPM, about 2 to 3 minutes, mostly major, CoComelon 31 of 100 tracks and Super Simple Songs 16) confirm the earlier tempo leaf and show how concentrated streaming is. 1 leaves. Chrome not available. Total 4487."
   }
  ],
  "history": [
@@ -32517,6 +32524,10 @@
   {
    "date": "2026-11-21 22:57",
    "total": 4486
+  },
+  {
+   "date": "2026-11-21 22:58",
+   "total": 4487
   }
  ],
  "next_week_ideas": [
