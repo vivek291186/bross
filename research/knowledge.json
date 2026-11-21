@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:51:56+05:30",
- "runs": 1889,
+ "updated": "2026-11-21T11:52:39+05:30",
+ "runs": 1890,
  "branches": [
   {
    "id": "platforms",
@@ -19333,6 +19333,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1879
+    },
+    {
+     "t": "South Africa's official 2026 school calendar ends term 4 on 11 Dec 2026 and starts the 2027 year on 13 Jan, so South African children have a month long summer holiday over Christmas; beach, sunshine and outdoor Christmas songs fit there better than snow.",
+     "src": "gov.za, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1890
+    },
+    {
+     "t": "The Philippines switched public schools to a three term year from June 2026 (201 class days); term 2 ends in early December with a Christmas break and classes return in January 2027, so Filipino kids, one of the biggest English speaking kids audiences on YouTube, are home from about mid December, the season when they watch most.",
+     "src": "Daily Tribune, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1890
     }
    ]
   },
@@ -29321,11 +29335,7 @@
  "log": [
   {
    "date": "2026-11-21 08:42",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1809); see git history."
-  },
-  {
-   "date": "2026-11-21 08:42",
-   "note": "Run 1811 (rules and safety (COPPA, AI slop policy, US and EU kids laws)): Nothing new: the Disney COPPA labelling fine, YouTube's July 2026 inauthentic content rules, the House KIDS Act, Senate KOSA and COPPA 2.0 status and the EU Kids Act push of 10 Nov were all already filed. No leaves added. Chrome not available. Total 4089."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1810); see git history."
   },
   {
    "date": "2026-11-21 08:43",
@@ -29638,6 +29648,10 @@
   {
    "date": "2026-11-21 11:51",
    "note": "Run 1889 (visual craft (Meshy animate guide, Blender and Meshy updates)): Meshy's November changelog is still empty and its October items (Edit, T2.5) were filed; new practical notes: Meshy can export every added motion at once ('All Added') as one FBX for Blender, Text to Motion and the preset library work only on humanoid rigs, and four legged animals get only an automatic walk. 2 leaves. Chrome not available. Total 4175."
+  },
+  {
+   "date": "2026-11-21 11:52",
+   "note": "Run 1890 (topics and seasons (school holidays in South Africa and the Philippines)): New: South African public schools close on 11 Dec 2026 and reopen on 13 Jan 2027 (a summer holiday of about a month), and the Philippines' new three term year breaks for Christmas after early December and resumes in January, so both big English friendly markets have kids home through late December. 2 leaves. Chrome not available. Total 4177."
   }
  ],
  "history": [
@@ -30748,6 +30762,10 @@
   {
    "date": "2026-11-21 11:51",
    "total": 4175
+  },
+  {
+   "date": "2026-11-21 11:52",
+   "total": 4177
   }
  ],
  "next_week_ideas": [
