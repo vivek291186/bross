@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:59:56+05:30",
- "runs": 2143,
+ "updated": "2026-11-21T21:00:45+05:30",
+ "runs": 2144,
  "branches": [
   {
    "id": "platforms",
@@ -10422,6 +10422,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2132
+    },
+    {
+     "t": "'Happy Kids!', a channel built on CoComelon songs (9.13M subscribers, 5.37B views, about six uploads a week), still gets about 36M views a month, and its biggest videos are 2021 to 2022 versions of classic songs (Three Little Pigs about 434M, Wheels on the Bus about 432M, Bath Song about 313M), though views dropped 11% in the latest two weeks; so one strong evergreen classic or routine song can outearn years of new uploads.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2144
     }
    ]
   },
@@ -31112,12 +31119,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 17:42",
-   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 17:43",
-   "note": "Run 2065 (YouTube algorithm (Beaupre subscriber feed comments)): New: YouTube's discovery lead Todd Beaupre said (Creator Insider, 1 Sep 2026) that recommendations are pulled per viewer at the moment they open the app, that early results are judged separately for subscribers and non subscribers, and that even good videos get about a 10% or lower click rate from subscribers' Home feeds, so most subscribers skip most uploads. The Joos Home feed change was already filed. 3 leaves. Chrome not available. Total 4348."
+   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:44",
@@ -31430,6 +31433,10 @@
   {
    "date": "2026-11-21 20:59",
    "note": "Run 2143 (global markets (Italy kids channels)): New: Italy's toddler pretend play channel TV per i bambini piccoli (560K subscribers) is growing (views up 11%) on everyday doll chores, its top video a vegetable soup kitchen play at 16.5M, which matches our own best song (the tomato soup game); Italy's top 100 kids list was already filed. 1 leaves. Chrome not available. Total 4431."
+  },
+  {
+   "date": "2026-11-21 21:00",
+   "note": "Run 2144 (competitor deep dive (CoComelon compilation channel, Lellobee Spanish)): New: the 'Happy Kids!' channel that reposts CoComelon songs (9.13M subscribers, about 36M views a month, six uploads a week) is still led by 2021 to 2022 classic song videos of 230M to 430M views each, though its views fell 11% in two weeks; Lellobee Spanish was already filed. 1 leaves. Chrome not available. Total 4432."
   }
  ],
  "history": [
@@ -32616,6 +32623,10 @@
   {
    "date": "2026-11-21 20:59",
    "total": 4431
+  },
+  {
+   "date": "2026-11-21 21:00",
+   "total": 4432
   }
  ],
  "next_week_ideas": [
