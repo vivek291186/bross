@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:38:55+05:30",
- "runs": 1998,
+ "updated": "2026-11-21T14:39:57+05:30",
+ "runs": 1999,
  "branches": [
   {
    "id": "platforms",
@@ -29898,10 +29898,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 12:41",
-   "note": "Run 1920 (our results (YouTube traffic sources and subscriber countries, 7 to 20 Nov)): New: about 77% of our YouTube views from 7 to 20 Nov came from Suggested videos, 13% from Search, 4% from subscribers and under 1% from Shorts and playlists; 68% of subscribers are in India, with the US (6%), Pakistan, Bangladesh, the Philippines and the UK next, so for now titles must work next to big Indian and South Asian kids songs, while playlists are an untapped source. 3 leaves. Chrome not available. Total 4215."
-  },
-  {
    "date": "2026-11-21 12:42",
    "note": "Run 1921 (TRENDS (SocialPilot 17 to 25 Nov list, Thanksgiving, Elf on the Shelf)): Nothing new: SocialPilot's 17 to 25 Nov list (Same Spot Years Apart, Paid Me No Mind, You're Under Arrest hook pass, Mariah Carey gift guides) plus Thanksgiving and Elf on the Shelf formats were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4215."
   },
@@ -30212,6 +30208,10 @@
   {
    "date": "2026-11-21 14:38",
    "note": "Run 1998 (TRENDS (Thanksgiving, Know Your Meme, Christmas dances)): Nothing new: the Deck the Halls Christmas dance and its AI copies, the AI Thanksgiving song debate and the turkey trot prank were already filed; Know Your Meme's latest dance roundups found (Obsession dance, Let's Groove) are from summer and not kid suitable. No leaves added. 0 leaves. Chrome not available. Total 4257."
+  },
+  {
+   "date": "2026-11-21 14:39",
+   "note": "Run 1999 (global markets (UK and Australia kids viewing data)): Nothing new: Ofcom's passive tracking of 701 UK 8 to 14s (47% of online time 15:00 to 20:59, YouTube about 49 minutes a day), Precise TV and Giraffe's UK survey and Roy Morgan's Australian 6 to 13s data (89% watch YouTube, girls lean to music) were already filed. No leaves added. 0 leaves. Chrome not available. Total 4257."
   }
  ],
  "history": [
@@ -30817,6 +30817,10 @@
   },
   {
    "date": "2026-11-21 14:38",
+   "total": 4257
+  },
+  {
+   "date": "2026-11-21 14:39",
    "total": 4257
   }
  ],
