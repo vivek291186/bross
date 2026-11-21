@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:43:24+05:30",
- "runs": 1922,
+ "updated": "2026-11-21T12:44:03+05:30",
+ "runs": 1923,
  "branches": [
   {
    "id": "platforms",
@@ -29608,11 +29608,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1843); see git history."
-  },
-  {
-   "date": "2026-11-21 10:02",
-   "note": "Run 1844 (competitor deep dive (Super Simple Songs newest uploads)): Nothing new: the Super Simple Songs videos page could not be read this round. No leaves added. Chrome not available. Total 4110."
+   "note": "Earlier: older log entries summarised (runs up to 1844); see git history."
   },
   {
    "date": "2026-11-21 10:02",
@@ -29925,6 +29921,10 @@
   {
    "date": "2026-11-21 12:43",
    "note": "Run 1922 (YouTube algorithm (subscriber feed, re uploads, kids viewing time)): Mostly already filed (subscriber feed click rates, re upload reach cuts). New: US kids under 12 average about 1 hour 48 minutes of YouTube a day, more than broadcast TV, and Nickelodeon and Disney Channel have lost over half their viewers since 2016, so YouTube on the TV is now the main kids channel. 1 leaves. Chrome not available. Total 4216."
+  },
+  {
+   "date": "2026-11-21 12:44",
+   "note": "Run 1923 (Shorts and Reels algorithm (Instagram originality and Features)): Nothing new: Instagram's aggregator rule (most posts in 30 days reposted), the 'Your Algorithm' controls and the Features long video test were already filed; one design update page could not be read. No leaves added. 0 leaves. Chrome not available. Total 4216."
   }
  ],
  "history": [
@@ -30226,6 +30226,10 @@
   },
   {
    "date": "2026-11-21 12:43",
+   "total": 4216
+  },
+  {
+   "date": "2026-11-21 12:44",
    "total": 4216
   }
  ],
