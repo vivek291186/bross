@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:50:55+05:30",
- "runs": 2267,
+ "updated": "2026-11-22T01:51:45+05:30",
+ "runs": 2268,
  "branches": [
   {
    "id": "platforms",
@@ -5788,6 +5788,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2229
+    },
+    {
+     "t": "A Warwick economics job market paper ('Brainrot?', Adam Di Lizia, version of 13 Nov 2026) used YouTube's attention heatmaps for about 56,000 long news and commentary videos and found that the share of each video viewers skip rose from about 0.15 to 0.22 (about 40%) after Shorts launched, with the biggest rise in videos over 60 minutes; it covers adult viewers only, so for Bro Bros it is a weak but fresh reason to open long compilations on the best song and add chapters rather than bury the hits late.",
+     "src": "University of Warwick, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2268
     }
    ]
   },
@@ -31854,12 +31861,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:47",
-   "note": "Summary of 2 older runs (2026-11-21 22:46 to 2026-11-21 22:47): see git history for details."
-  },
-  {
    "date": "2026-11-21 22:48",
-   "note": "Run 2192 (competitor deep dive (Japan song channels and a small English rhymes channel)): New: Japan's Uta Sta covers channel lives on a 20 minute vehicle song medley (26.7M) and a vehicle quiz song; the Japanese dub of a train cartoon makes only about 0.37M views a month; a 1,000 video English rhymes channel tops out near 80K views per new upload. 3 leaves. Chrome not available. Total 4483."
+   "note": "Summary of 2 older runs (2026-11-21 22:47 to 2026-11-21 22:48): see git history for details."
   },
   {
    "date": "2026-11-21 22:49",
@@ -32172,6 +32175,10 @@
   {
    "date": "2026-11-22 01:50",
    "note": "Run 2267 (YouTube algorithm (YouTube Kids gate, AIR kids growth cases)): Nothing new: YouTube Kids filtering and ad rules (ppc.land) and AIR's Sandy the Sticker live stream case, 3M channel compilation case and 4K story rebuild case were all already filed. 0 leaves. Chrome not available. Total 4537."
+  },
+  {
+   "date": "2026-11-22 01:51",
+   "note": "Run 2268 (Shorts and long form attention (Warwick Brainrot paper, 13 Nov 2026)): New: a Warwick economics paper (13 Nov 2026) using YouTube's per video skip heatmaps for about 56,000 long news videos finds skipping inside long videos rose about 40% after Shorts launched, most in videos over an hour; it studies adults, not children, so it only supports front loading the hook and clear chapters in our compilations. 1 leaves. Chrome not available. Total 4538."
   }
  ],
  "history": [
@@ -33146,6 +33153,10 @@
   {
    "date": "2026-11-22 01:50",
    "total": 4537
+  },
+  {
+   "date": "2026-11-22 01:51",
+   "total": 4538
   }
  ],
  "next_week_ideas": [
