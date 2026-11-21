@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:56:59+05:30",
- "runs": 1934,
+ "updated": "2026-11-21T12:57:51+05:30",
+ "runs": 1935,
  "branches": [
   {
    "id": "platforms",
@@ -29643,11 +29643,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1855); see git history."
-  },
-  {
-   "date": "2026-11-21 10:43",
-   "note": "Run 1856 (global markets (dubbing languages for animation, Brazil year end trends)): Perso's State of AI Dubbing 2026 (about 113K projects) names Hindi, Portuguese and English as animation's top three dub targets, with Portuguese at 16.3% of animation projects; YouTube Brazil's 2025 year end report shows young audience topics led by brainrot, a Roblox horror game, a K pop film, a colouring book craze and blind box dolls. 2 leaves. Chrome not available. Total 4124."
+   "note": "Earlier: older log entries summarised (runs up to 1856); see git history."
   },
   {
    "date": "2026-11-21 10:49",
@@ -29960,6 +29956,10 @@
   {
    "date": "2026-11-21 12:56",
    "note": "Run 1934 (Shorts and Reels (Edits app updates; algorithm skipped as already empty this run)): Mostly filed already (Use as reference, Edits for Mac, Reels linking removed). New: Edits now lets Reels carry tappable audio links and saved style 'Kits', so each Bro Bros Reel can link the song's own audio and every Reel can reuse one saved brand look. 1 leaves. Chrome not available. Total 4221."
+  },
+  {
+   "date": "2026-11-21 12:57",
+   "note": "Run 1935 (other platforms (Netflix top 10 for 9 to 15 Nov, Roblox music)): Nothing new: Doozie's Doghouse (No. 4) and Danny Go! season 2 (No. 10) on Netflix, holiday films and Roblox music ID charts were already filed. No leaves added. 0 leaves. Chrome not available. Total 4221."
   }
  ],
  "history": [
@@ -30309,6 +30309,10 @@
   },
   {
    "date": "2026-11-21 12:56",
+   "total": 4221
+  },
+  {
+   "date": "2026-11-21 12:57",
    "total": 4221
   }
  ],
