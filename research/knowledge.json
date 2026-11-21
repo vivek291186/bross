@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:48:21+05:30",
- "runs": 2163,
+ "updated": "2026-11-21T21:49:13+05:30",
+ "runs": 2164,
  "branches": [
   {
    "id": "platforms",
@@ -13103,6 +13103,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2163
+    },
+    {
+     "t": "A University of Toronto study (29 infants aged 9 to 12 months, Developmental Science) found babies listened longer, calmed down and danced more to songs they already knew, whoever sang them, and still recognised a song when pitch and tempo changed a lot, so reusing the same Bro Bros melodies in remixes, bedtime and Christmas versions keeps the familiarity pull.",
+     "src": "University of Toronto, Aug 2021",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2164
+    },
+    {
+     "t": "The same researchers suggest familiar songs signal belonging: infants prefer people who sing songs they know, which supports giving Bro Bros one recurring signature tune (theme hook) that appears in every video so children feel the brothers are 'their' singers.",
+     "src": "University of Toronto, Aug 2021",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2164
     }
    ]
   },
@@ -31177,6 +31191,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2163
+    },
+    {
+     "t": "Bhangra versions of global pop hits (dancers doing bhangra to a reggaeton classic, a Latin pop hit in Colombian streets, a bhangra style Shape of You) keep going viral across cultures, so a Bro Bros song with a dhol beat and simple standing bhangra moves (shoulder bounce, both hands up and twist, one knee lift hop) can travel between India, the diaspora and Latin America with our own melody.",
+     "src": "Tribune India and Stylecraze, 2023 to 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2164
     }
    ]
   }
@@ -31204,11 +31225,7 @@
  "log": [
   {
    "date": "2026-11-21 17:49",
-   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 17:55): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 17:56",
-   "note": "Run 2085 (posting times (school holiday calendars)): Nothing new: winter break timing (UK and US from about 19 Dec, north India 1 to 15 Jan 2027), the 39% holiday screen time rise and Metricool's unchanged grid were already filed. Slots unchanged. 0 leaves. Chrome not available. Total 4373."
+   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 17:56): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:56",
@@ -31521,6 +31538,10 @@
   {
    "date": "2026-11-21 21:48",
    "note": "Run 2163 (TRENDS (amapiano dance challenges)): New: amapiano is a proven engine of global dance challenges (Jerusalema in lockdown, then Tshwala Bam picked up in the US, Tyla's Water), with 855M+ Spotify streams in 2024, and South African family clips (a mum and daughter iKhekhe challenge in a park, Jul 2026) keep going viral, so an original amapiano style Bro Bros dance song is a fresh lane for Africa and beyond. Trend bank unchanged. 3 leaves. Chrome not available. Total 4444."
+  },
+  {
+   "date": "2026-11-21 21:49",
+   "note": "Run 2164 (music craft (familiar tunes, bhangra fusion)): New: a U of T study (29 babies, 9 to 12 months) found infants listened longer, calmed and danced more to songs they already knew even when a stranger sang them at a different pitch and tempo, so repeating our own Bro Bros melodies across videos builds that pull; bhangra fusions of global pop keep going viral, a cheap India plus diaspora lane with our own tunes. 3 leaves. Chrome not available. Total 4447."
   }
  ],
  "history": [
@@ -32079,6 +32100,10 @@
   {
    "date": "2026-11-21 21:48",
    "total": 4444
+  },
+  {
+   "date": "2026-11-21 21:49",
+   "total": 4447
   }
  ],
  "next_week_ideas": [
