@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:44:45+05:30",
- "runs": 1924,
+ "updated": "2026-11-21T12:45:45+05:30",
+ "runs": 1925,
  "branches": [
   {
    "id": "platforms",
@@ -12466,6 +12466,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1910
+    },
+    {
+     "t": "Suno's Song Editor lets a creator rewrite lyrics, rework or reorder a single section straight from the waveform and split any song into 12 stems (vocals, drums, bass and more), with audio uploads up to 8 minutes, so when a chorus is weak or a word is sung wrongly we can fix just that part instead of regenerating the whole song, keeping the voices and melody kids already liked.",
+     "src": "Suno blog, Jun 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1925
+    },
+    {
+     "t": "Suno's 12 stem split gives each Bro Bros song a free instrumental and a vocal only track, which makes three cheap spin offs per song: a karaoke 'now you sing' version with on screen lyrics, a calm low drums bedtime mix, and a clean bed for dubbing new language vocals over the same music.",
+     "src": "Suno blog, Jun 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1925
     }
    ]
   },
@@ -29608,11 +29622,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1845); see git history."
-  },
-  {
-   "date": "2026-11-21 10:02",
-   "note": "Run 1846 (rules and monetisation (Partner Program 2027 changes, animators and Shorts)): Nothing new: the 1 Feb 2027 Partner Program changes (rolling 10M Shorts views bar, payout pauses) and Cartoon Brew's warning that they push slower animators to long form were already filed. No leaves added. Chrome not available. Total 4110."
+   "note": "Earlier: older log entries summarised (runs up to 1846); see git history."
   },
   {
    "date": "2026-11-21 10:02",
@@ -29925,6 +29935,10 @@
   {
    "date": "2026-11-21 12:44",
    "note": "Run 1924 (TRENDS (holiday 2026 toy and kid interest lists)): Nothing new: squishies, slime, magnetic building sets, blind boxes and pretend food from the Toy Insider, DreamToys, Argos, Amazon and ABC lists were already filed; ParentMap's 19 Nov guide is about teens, not our audience. No leaves added. 0 leaves. Chrome not available. Total 4216."
+  },
+  {
+   "date": "2026-11-21 12:45",
+   "note": "Run 1925 (music craft (infant music study, Suno song editor)): The Vienna eLife infant study was already filed many times. New: Suno's Song Editor lets us rewrite lyrics and redo one section from the waveform and split a song into 12 stems, so a weak chorus or a wrong word can be fixed without regenerating, and instrumental or vocal only stems make dubs, karaoke and calm versions cheap. 2 leaves. Chrome not available. Total 4218."
   }
  ],
  "history": [
@@ -30235,6 +30249,10 @@
   {
    "date": "2026-11-21 12:44",
    "total": 4216
+  },
+  {
+   "date": "2026-11-21 12:45",
+   "total": 4218
   }
  ],
  "next_week_ideas": [
