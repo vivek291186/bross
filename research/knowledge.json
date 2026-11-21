@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:02:53+05:30",
- "runs": 1991,
+ "updated": "2026-11-21T14:03:18+05:30",
+ "runs": 1992,
  "branches": [
   {
    "id": "platforms",
@@ -29866,12 +29866,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 12:08",
-   "note": "Earlier: older log entries summarised (runs up to 1912); see git history."
-  },
-  {
    "date": "2026-11-21 12:09",
-   "note": "Run 1913 (YouTube main and Kids (all time most viewed Shorts, 20 Nov)): New: in the all time top 20 Shorts (as of 20 Nov 2026) seven are kids pieces in five languages, led by a Hindi Jungle Book cartoon clip (about 3.9B) and a Lalafun food sharing manners Short (about 2.8B), plus a Russian tractor song, a shapes adventure, a Pinkfong clip, a bus nursery rhyme and a Portuguese colours lesson. 1 leaves. Chrome not available. Total 4202."
+   "note": "Earlier: older log entries summarised (runs up to 1913); see git history."
   },
   {
    "date": "2026-11-21 12:09",
@@ -30184,6 +30180,10 @@
   {
    "date": "2026-11-21 14:02",
    "note": "Run 1991 (rules and safety (kids quality principles)): Nothing new: YouTube's 2021 quality principles post (low quality kids videos reduced and removed from YouTube Kids, Partner Program suspension for mostly low quality channels), the best practices page and the Dublin summit takeaways were already filed. No leaves added. 0 leaves. Chrome not available. Total 4253."
+  },
+  {
+   "date": "2026-11-21 14:03",
+   "note": "Run 1992 (topics and seasons (most searched Christmas songs; our results skipped, no new Metricool data)): Nothing new: the classic pre 2010 Christmas songs leading US state searches, Feliz Navidad's late December jump and Google's local December food spikes were already filed. No leaves added. 0 leaves. Chrome not available. Total 4253."
   }
  ],
  "history": [
@@ -30761,6 +30761,10 @@
   },
   {
    "date": "2026-11-21 14:02",
+   "total": 4253
+  },
+  {
+   "date": "2026-11-21 14:03",
    "total": 4253
   }
  ],
