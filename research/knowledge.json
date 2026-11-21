@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:43:41+05:30",
- "runs": 2027,
+ "updated": "2026-11-21T16:44:34+05:30",
+ "runs": 2028,
  "branches": [
   {
    "id": "platforms",
@@ -30125,12 +30125,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:07",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:08",
-   "note": "Run 1949 (music craft (song videos and vocabulary)): New: a randomised trial of 818 preschool and kindergarten children in 47 US schools found 3 to 5 minutes a day of animated music and dance vocabulary videos raised scores on the taught words by 0.30 standard deviations after four months, lasting at least two months; the 'sung vs spoken' 4 year old study was already filed. 1 leaves. Chrome not available. Total 4236."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:09",
@@ -30443,6 +30439,10 @@
   {
    "date": "2026-11-21 16:43",
    "note": "Run 2027 (other platforms (Nielsen H1 2026, Roblox November risers)): Nothing new: Nielsen's first half 2026 ranking (Bluey about 22.8B minutes, Ms. Rachel 8.6B, Gabby's Dollhouse) and GGRecon's November fastest growing Roblox games (Don't Splash, Break and Steal an Egg, Cat Battles; none music based) were already filed; Netflix's 16 to 22 Nov list is not out yet. Our own results focus was skipped because Metricool was fully analysed earlier today. 0 leaves. Chrome not available. Total 4290."
+  },
+  {
+   "date": "2026-11-21 16:44",
+   "note": "Run 2028 (topics and seasons (December days, platform news)): Nothing new: Hanukkah, Kwanzaa, St Nicholas, St Lucia, Dongzhi, the winter solstice, Boxing Day and Hogmanay timing were all filed, as were this month's platform changes (US prompt based custom feeds, Hype with Jewels in 9 more markets from 6 Nov, Instagram's 90 minute Features with up to 8 linked Reels). 0 leaves. Chrome not available. Total 4290."
   }
  ],
  "history": [
@@ -31164,6 +31164,10 @@
   },
   {
    "date": "2026-11-21 16:43",
+   "total": 4290
+  },
+  {
+   "date": "2026-11-21 16:44",
    "total": 4290
   }
  ],
