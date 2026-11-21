@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:47:33+05:30",
- "runs": 1961,
+ "updated": "2026-11-21T13:48:06+05:30",
+ "runs": 1962,
  "branches": [
   {
    "id": "platforms",
@@ -14776,6 +14776,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1938
+    },
+    {
+     "t": "YouTube's Culture and Trends report 'Animation's New Wave' (survey Apr 2025, ages 14 to 49) found 61% of young viewers who have watched a virtual (animated) creator feel as connected to it as to a real one, and 61% of 14 to 24 year olds like independent YouTube animation as much as or more than big studio series; it says nothing about young children, but it supports treating the Bros as steady characters with fixed personalities and catchphrases rather than faceless song visuals.",
+     "src": "YouTube Culture and Trends, 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1962
     }
    ]
   },
@@ -29789,12 +29796,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 11:46",
-   "note": "Earlier: older log entries summarised (runs up to 1882); see git history."
-  },
-  {
    "date": "2026-11-21 11:47",
-   "note": "Run 1883 (topics and seasons (Dec holidays, toy lists, Pinterest 2027)): Nothing new: December holidays from Hanukkah to Boxing Day, the 2026 hot toy lists and the Baby Shark revenue story were already filed, Tubefilter's next weekly chart is not out yet and Pinterest Predicts 2027 is still unpublished. No leaves added. 0 leaves. Chrome not available. Total 4169."
+   "note": "Earlier: older log entries summarised (runs up to 1883); see git history."
   },
   {
    "date": "2026-11-21 11:48",
@@ -30107,6 +30110,10 @@
   {
    "date": "2026-11-21 13:47",
    "note": "Run 1961 (music craft (new infant and toddler music studies)): Nothing new: the Verona rhythm and vocabulary study, Cirelli's bouncing and helping work, the Vanderbilt beat and eye contact findings and the Padova sung words study were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4242."
+  },
+  {
+   "date": "2026-11-21 13:48",
+   "note": "Run 1962 (visual craft (YouTube animation report, Christmas thumbnails)): Mostly filed (Kittl Christmas thumbnail advice, the 50% foreign language animation finding). New: in YouTube's 'Animation's New Wave' survey 61% of 14 to 24 year olds who watched a virtual creator feel as connected to it as to a real person, and indie YouTube animation is liked as much as studio series; this is an older audience, so it only supports giving the Bros steady personalities, not kid behaviour. 1 leaves. Chrome not available. Total 4243."
   }
  ],
  "history": [
@@ -30565,6 +30572,10 @@
   {
    "date": "2026-11-21 13:47",
    "total": 4242
+  },
+  {
+   "date": "2026-11-21 13:48",
+   "total": 4243
   }
  ],
  "next_week_ideas": [
