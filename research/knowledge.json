@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:43:09+05:30",
- "runs": 2184,
+ "updated": "2026-11-21T22:43:55+05:30",
+ "runs": 2185,
  "branches": [
   {
    "id": "platforms",
@@ -2988,6 +2988,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2114
+    },
+    {
+     "t": "Nielsen's Gauge for August 2026 (published 22 Oct 2026) gave YouTube a record 15.8% of all US TV viewing, about twice Netflix (7.7%), even though total TV use fell 4.4% as kids and teens went back to school, so the living room TV keeps growing as YouTube's main screen and our full length songs and compilations must look good on a big screen.",
+     "src": "TheWrap, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2185
+    },
+    {
+     "t": "Nielsen changed its measurement method from September 2026 data and said it will publish September and October 2026 together later in the year, so there is no clean like for like YouTube TV share for autumn yet; in October 2025 YouTube's share rose to 12.9% when many schools closed for fall breaks, a reminder that school holidays lift kids viewing on TV.",
+     "src": "TheWrap and TV Tech, Oct 2026 and Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2185
     }
    ]
   },
@@ -31392,12 +31406,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 18:54",
-   "note": "Summary of 2 older log entries (2026-11-21 18:53 to 2026-11-21 18:54): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 18:55",
-   "note": "Run 2106 (TRENDS (Later 20 Nov, SocialBee 19 Nov)): New: SocialBee's 19 Nov 2026 list has a stop motion 'spell it with your bodies' Reel (people or pets form L, O, V, E in quick cut poses) and a 'bump back to back, then dance together' duo format (5 Nov); Later's 20 Nov list was already filed. Trend bank: added 'Spell it with the Bros' and 'Back to back bump, then dance', dropped 'We could stay here, or we could go up' and 'Everybody's out playing, except me' (older, weaker fits). 2 leaves. Chrome not available. Total 4409."
+   "note": "Summary of 2 older log entries (2026-11-21 18:54 to 2026-11-21 18:55): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:56",
@@ -31710,6 +31720,10 @@
   {
    "date": "2026-11-21 22:43",
    "note": "Run 2184 (TRENDS (Virlo November board stages)): New: by 21 Nov the Thank You Baby Dance and the Last Christmas winter remix dance are archived (the winter dance fell from 77 creators to 2 in a week), while the loading percentage and upside down transitions are still peaking, which backs the two transition formats already in our trend bank. Trend bank unchanged. 2 leaves. Chrome not available. Total 4471."
+  },
+  {
+   "date": "2026-11-21 22:43",
+   "note": "Run 2185 (YouTube algorithm and screens (TV share)): New: Nielsen's August 2026 Gauge put YouTube at a record 15.8% of all US TV time, about twice Netflix, even as kids returned to school; September and October will be published together after a method change. YouTube Kids app news had nothing new. 2 leaves. Chrome not available. Total 4473."
   }
  ],
  "history": [
@@ -32352,6 +32366,10 @@
   {
    "date": "2026-11-21 22:43",
    "total": 4471
+  },
+  {
+   "date": "2026-11-21 22:43",
+   "total": 4473
   }
  ],
  "next_week_ideas": [
