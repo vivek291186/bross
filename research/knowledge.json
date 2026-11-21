@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:06:54+05:30",
- "runs": 2052,
+ "updated": "2026-11-21T17:07:43+05:30",
+ "runs": 2053,
  "branches": [
   {
    "id": "platforms",
@@ -30309,6 +30309,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2041
+    },
+    {
+     "t": "Virlo's November 2026 board lists 76 live TikTok trends, 23 still new, rising or peaking on 21 Nov; among them the 'upside down' transition (first seen 24 Aug, about 620 creators, still peaking) flips the frame upside down and back to reveal a new look, a camera move that needs no copyrighted audio and works with animated characters.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2053
     }
    ]
   }
@@ -30337,10 +30344,6 @@
   {
    "date": "2026-11-21 13:53",
    "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
-   "date": "2026-11-21 13:53",
-   "note": "Run 1974 (visual craft (Meshy and Suno tool updates)): Nothing new: Meshy's web changelog has no November 2026 entry yet (October was T2.5, N1 textures and Meshy Edit, no motion change), and Suno v6 and Suno Visuals were already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
   },
   {
    "date": "2026-11-21 13:54",
@@ -30653,6 +30656,10 @@
   {
    "date": "2026-11-21 17:06",
    "note": "Run 2052 (YouTube kids channels (India education rankings)): Nothing new: Playboard's and Social Blade's India rankings could not be read this run (fetch permission timed out), and the Indian rhyme channels found by search (Infobells, Kids TV India, Jugnu Kids) were already filed. 0 leaves. Chrome not available. Total 4320."
+  },
+  {
+   "date": "2026-11-21 17:07",
+   "note": "Run 2053 (TRENDS (Virlo November board, 76 trends)): Mostly filed (piggyback flip peaking, wizard cat, bicep heart fading, loading percentage). New: the 'upside down' transition (peaking since late Aug, about 620 creators) where the camera flips upside down and the person is revealed changed; added to the trend bank as a kid safe Christmas pyjama flip. Several November titles are romantic or mean and were skipped. 1 leaves. Chrome not available. Total 4321."
   }
  ],
  "history": [
@@ -31475,6 +31482,10 @@
   {
    "date": "2026-11-21 17:06",
    "total": 4320
+  },
+  {
+   "date": "2026-11-21 17:07",
+   "total": 4321
   }
  ],
  "next_week_ideas": [
@@ -31536,6 +31547,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Upside down flip reveal",
+   "where": "TikTok, Reels (peaking since late Aug 2026)",
+   "status": "peak",
+   "use": "Little Bro stands in everyday clothes and says 'Ready?'; the Blender camera rolls 180 degrees in half a second, holds upside down for one beat, then rolls back and both Bros are in matching Christmas pyjamas striking a star pose. Meshy prompt: standing in place, small bounce, then raise both arms out in a star shape. Put it on the first downbeat of our own song."
+  },
   {
    "name": "Four corners turn, then free dance",
    "where": "TikTok Japan (evergreen, revived song trend)",
@@ -31649,12 +31666,6 @@
    "where": "Instagram Reels",
    "status": "rising",
    "use": "The Bros tidy their toy room as if it were a grand ballet, set to our own original waltz in 3/4 (or a fresh arrangement of a public domain waltz, never a recorded version): Big Bro twirls once while lifting a teddy, Little Bro sweeps with slow side steps and a little bow at the end. Meshy prompt: standing in place, slow graceful turn with arms raised in a circle, then side step left and right, then a small bow. 15 seconds, title 'Clean up time, but make it ballet'."
-  },
-  {
-   "name": "Shy, then dance",
-   "where": "TikTok, Reels",
-   "status": "rising",
-   "use": "Little Bro turns his face away from the camera, arms crossed, says 'hmph' and shakes his head twice; on the beat drop of our own song he gives in, smiles and dances: bounce in place with knees soft, then two arm rolls in front of the chest, then point at the camera. Meshy prompt: standing in place, turn head away with arms crossed, then bounce and roll arms forward, then point forward. 10 to 15 seconds, loop back to the shy pose."
   }
  ],
  "posting_plan": {
