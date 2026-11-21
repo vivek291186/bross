@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:43:33+05:30",
- "runs": 2012,
+ "updated": "2026-11-21T15:44:19+05:30",
+ "runs": 2013,
  "branches": [
   {
    "id": "platforms",
@@ -10072,6 +10072,27 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2004
+    },
+    {
+     "t": "Sony's Kidzuko hub (881K subscribers, about 300M lifetime views, 984 videos, checked 21 Nov 2026) added about 8K subscribers and 7.7M views in the 28 days to 21 Nov from 21 uploads, mostly 'best bits' clips of famous animated films, yet its biggest video by far is a gentle story about baby hatchlings and lost eggs (about 54M), so a simple animal care story can outrun famous film brands.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2013
+    },
+    {
+     "t": "Kidzuko's newest film clip upload (19 Nov 2026) had only about 8.6K views after 30 hours, showing that even big studio brands struggle on YouTube when uploads are cut down movie clips instead of original kids content made for the platform.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2013
+    },
+    {
+     "t": "Jack Hartmann, a former social worker who began writing songs for kindergarten classes, built one of the top classroom movement song channels from songs tested with teachers (over 1,000 songs, 45 albums) and said his views jumped once he added animation, a reminder that songs made for real classroom use (counting, exercise, brain breaks) last for years.",
+     "src": "East Idaho News, Sep 2019",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2013
     }
    ]
   },
@@ -30017,10 +30038,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 12:56",
-   "note": "Run 1934 (Shorts and Reels (Edits app updates; algorithm skipped as already empty this run)): Mostly filed already (Use as reference, Edits for Mac, Reels linking removed). New: Edits now lets Reels carry tappable audio links and saved style 'Kits', so each Bro Bros Reel can link the song's own audio and every Reel can reuse one saved brand look. 1 leaves. Chrome not available. Total 4221."
-  },
-  {
    "date": "2026-11-21 12:57",
    "note": "Run 1935 (other platforms (Netflix top 10 for 9 to 15 Nov, Roblox music)): Nothing new: Doozie's Doghouse (No. 4) and Danny Go! season 2 (No. 10) on Netflix, holiday films and Roblox music ID charts were already filed. No leaves added. 0 leaves. Chrome not available. Total 4221."
   },
@@ -30331,6 +30348,10 @@
   {
    "date": "2026-11-21 15:43",
    "note": "Run 2012 (global markets (Peru, Oman, Netherlands)): New: Peru's Concortv study puts YouTube first for children and teens (97% of teens) with 57% watching TV during meals and the living room as the main screen; Oman's statistics centre found 82% of under 18s use YouTube, the top platform; Dutch parents report 0 to 6 year olds average about 126 minutes of digital media a day, with the TV the most used screen. 3 leaves. Chrome not available. Total 4274."
+  },
+  {
+   "date": "2026-11-21 15:44",
+   "note": "Run 2013 (competitor deep dive (Sony's Kidzuko, Jack Hartmann)): New: Sony's Kidzuko hub (881K subscribers, about 300M views, 984 videos) gets only about 7.7M views a month despite famous film brands, and its top video is a gentle animal story about hatchlings finding lost eggs (54M), not a film clip; Jack Hartmann built his movement song channel from classroom songs written with kindergarten teachers and saw views jump once he added animation. 3 leaves. Chrome not available. Total 4277."
   }
  ],
  "history": [
@@ -30993,6 +31014,10 @@
   {
    "date": "2026-11-21 15:43",
    "total": 4274
+  },
+  {
+   "date": "2026-11-21 15:44",
+   "total": 4277
   }
  ],
  "next_week_ideas": [
