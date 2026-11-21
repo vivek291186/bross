@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T08:45:28+05:30",
- "runs": 1815,
+ "updated": "2026-11-21T08:46:14+05:30",
+ "runs": 1816,
  "branches": [
   {
    "id": "platforms",
@@ -28739,12 +28739,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 05:44",
-   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1736)."
-  },
-  {
    "date": "2026-11-21 05:45",
-   "note": "Run 1737 (POSTING TIMES (school holiday windows for December and January; Metricool 21 to 27 Nov already checked this morning)): New: England, Wales and Scotland break up on Fri 18 Dec 2026 (back 4 Jan, Scotland 6 Jan) and Delhi state schools close only 1 to 15 Jan 2027, so from 19 Dec most English speaking markets are on holiday while north India's break comes two weeks later. Slots unchanged. Chrome not available. Total 4022."
+   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1737)."
   },
   {
    "date": "2026-11-21 05:45",
@@ -29057,13 +29053,13 @@
   {
    "date": "2026-11-21 08:45",
    "note": "Run 1815 (Shorts and Reels (Meta teen supervision, Shorts loop and replay data)): Nothing new: Meta's teen supervision and 13+ settings, Dash Social's replayed follow along Shorts benchmark and the Shorts length studies were already filed. No leaves added. Chrome not available. Total 4092."
+  },
+  {
+   "date": "2026-11-21 08:46",
+   "note": "Run 1816 (TRENDS (trend bank refresh: shy then dance, chores ballet; Santa stream, Pinterest 2027 check)): Trend bank refreshed with two rising family friendly formats already in the leaves but missing from the bank (camera shy then dance on TikTok, chores staged as a waltz ballet on Reels); dropped the fading six seven carol and loading percent entries. Pinterest Predicts 2027 is not out yet; the North Pole Live Santa stream was already filed. No new leaves. Chrome not available. Total 4092."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 11:37",
-   "total": 3640
-  },
   {
    "date": "2026-11-20 11:38",
    "total": 3642
@@ -30259,6 +30255,10 @@
   {
    "date": "2026-11-21 08:45",
    "total": 4092
+  },
+  {
+   "date": "2026-11-21 08:46",
+   "total": 4092
   }
  ],
  "next_week_ideas": [
@@ -30320,6 +30320,18 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Chores ballet waltz",
+   "where": "Instagram Reels",
+   "status": "rising",
+   "use": "The Bros tidy their toy room as if it were a grand ballet, set to our own original waltz in 3/4 (or a fresh arrangement of a public domain waltz, never a recorded version): Big Bro twirls once while lifting a teddy, Little Bro sweeps with slow side steps and a little bow at the end. Meshy prompt: standing in place, slow graceful turn with arms raised in a circle, then side step left and right, then a small bow. 15 seconds, title 'Clean up time, but make it ballet'."
+  },
+  {
+   "name": "Shy, then dance",
+   "where": "TikTok, Reels",
+   "status": "rising",
+   "use": "Little Bro turns his face away from the camera, arms crossed, says 'hmph' and shakes his head twice; on the beat drop of our own song he gives in, smiles and dances: bounce in place with knees soft, then two arm rolls in front of the chest, then point at the camera. Meshy prompt: standing in place, turn head away with arms crossed, then bounce and roll arms forward, then point forward. 10 to 15 seconds, loop back to the shy pose."
+  },
   {
    "name": "Meanwhile, btw",
    "where": "TikTok (Virlo rising, week to 19 Nov 2026)",
@@ -30393,12 +30405,6 @@
    "use": "A 15 second Reel or Short: Little Bro flops on the sofa and sighs, on screen text 'We did not do anything this year...', then twelve one second clips from our own 2026 songs labelled January to December (snow dance, rocket ride, tomato soup, freeze dance and so on), ending on both Bros jumping with arms up to our own 'What a year!' chorus. Uses only our own footage and music; post in the first half of December and again on 31 Dec."
   },
   {
-   "name": "Loading 0 to 100 percent",
-   "where": "TikTok, new week of 19 Nov 2026 (Virlo)",
-   "status": "rising",
-   "use": "On screen counter '0%' shows an empty snowy yard, then 25%, 50%, 75% as the Bros roll, stack and decorate a snowman in quick cuts on each beat of our own song, and '100%' lands on the finished snowman doing a little wave with the Bros. The same template works for building a gingerbread house or a Christmas tree. Dance move for Meshy: standing in place, arms pump up one notch per beat like a loading bar, then both arms burst open wide on 100."
-  },
-  {
    "name": "Reach out, surprise friend",
    "where": "TikTok, 19 Nov 2026 (Virlo, about 5M views top example)",
    "status": "rising",
@@ -30415,12 +30421,6 @@
    "where": "TikTok and Reels transition ('cover then come back'), Nov 2026",
    "status": "rising",
    "use": "A 10 second Reel: Big Bro holds a hand up to the camera covering the view, then pulls it away to show the bare room now fully decorated and both Bros in matching festive hats dancing to our own song. Meshy prompt: standing in place, raise right hand toward camera and hold, then lower it and do a big two arm wave and happy bounce in place."
-  },
-  {
-   "name": "Six seven carol call and response",
-   "where": "TikTok and school playgrounds (last December's 'Merry Rizzmas' spin on a public domain carol)",
-   "status": "seasonal",
-   "use": "A 15 second Short on our own original Christmas chant: Big Bro sings 'Six!', Little Bro answers 'Seven!', and both do the palms up weighing gesture (standing in place, both hands open at chest height, moving up and down in turn like scales, four times), then a big arms wide 'Merry Christmas' finish. Meshy prompt: a cartoon boy standing in place, palms up at chest height, hands bounce up and down alternately four times, then opens both arms wide and smiles. No rap song, no jawline or shush gesture."
   },
   {
    "name": "Advent door a day",
