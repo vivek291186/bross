@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T03:42:37+05:30",
- "runs": 2281,
+ "updated": "2026-11-22T03:43:44+05:30",
+ "runs": 2282,
  "branches": [
   {
    "id": "platforms",
@@ -32008,12 +32008,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 23:01",
-   "note": "Summary of 2 earlier log entries (2026-11-21 23:00 to 2026-11-21 23:01): mostly small research rounds; see git history for details."
-  },
-  {
    "date": "2026-11-21 23:02",
-   "note": "Run 2204 (competitor deep dive (Turkey kids songs and public kids TV)): New: Turkey's Furkiş TV lives on body and food rhyme medleys ('my chubby hands' 62.7M, 'if you like strawberries, clap'), and Turkey's public kids channel TRT Çocuk draws about 58M views a month led by a two brothers style cartoon duo whose robot brotherhood episode has 73.7M views. 2 leaves. Chrome not available. Total 4496."
+   "note": "Summary of 2 earlier log entries (2026-11-21 23:01 to 2026-11-21 23:02): mostly small research rounds; see git history for details."
   },
   {
    "date": "2026-11-21 23:02",
@@ -32326,6 +32322,10 @@
   {
    "date": "2026-11-22 03:42",
    "note": "Run 2281 (TRENDS (Virlo week of 16 Nov, Nov board, holiday dance searches)): Small addition: Boom Clap Confetti Pop is the only family safe TikTok format still accelerating (172 posts this week vs 35, up 391%) and joins the trend bank in place of the four corners turn; Virlo also finds POV openings have the best hit rate of all hook types; everything else (villain POV, piggyback flip, pick your favourite, GTA sounds) was already filed. 3 leaves. Chrome not available. Total 4559."
+  },
+  {
+   "date": "2026-11-22 03:43",
+   "note": "Run 2282 (YouTube algorithm (Shorts originality, custom feeds, Studio updates)): Nothing new: the 1 Oct Shorts originality change, US prompt based custom feeds in the top bar, the merged Ask Studio chat and Hype with Jewels were all already filed, and no new ranking change has been announced since late October. 0 leaves. Chrome not available. Total 4559."
   }
  ],
  "history": [
@@ -33355,6 +33355,10 @@
   },
   {
    "date": "2026-11-22 03:42",
+   "total": 4559
+  },
+  {
+   "date": "2026-11-22 03:43",
    "total": 4559
   }
  ],
