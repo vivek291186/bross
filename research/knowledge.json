@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:43:28+05:30",
- "runs": 1878,
+ "updated": "2026-11-21T11:44:16+05:30",
+ "runs": 1879,
  "branches": [
   {
    "id": "platforms",
@@ -9841,6 +9841,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1857
+    },
+    {
+     "t": "Nigeria's House of Ajebo, which also runs the Jeni and Keni kids learning channel, credits its growth to a production schedule it can always keep rather than chasing viral hits, to analytics on who watches and from where, and to refusing well paid deals that did not fit family humour, which matches our two uploads a day only if quality can hold.",
+     "src": "Google Africa blog, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1879
     }
    ]
   },
@@ -19277,6 +19284,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1877
+    },
+    {
+     "t": "Argentina's El Reino Infantil reported over 5.6B YouTube views in January to April 2026 alone and more than 229M subscribers across its brands (main channel about 71M), plus over 90 licensing deals in 15 countries and live tours, so the biggest Spanish kids music brand earns well beyond ads once songs and characters are known.",
+     "src": "Bloomberg Linea, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1879
+    },
+    {
+     "t": "The Fixies run six language channels: English (over 3M subscribers, 3B views), Spanish (passed 3M subscribers and 1.8B views in July 2026) and an Arabic channel launched in 2024 already at over 45M views across the Middle East and North Africa, so a separate Spanish channel first and an Arabic one later is a proven order for an English animated kids brand.",
+     "src": "Senal News, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1879
     }
    ]
   },
@@ -29236,12 +29257,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:01",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1798); see git history."
-  },
-  {
    "date": "2026-11-21 08:02",
-   "note": "Run 1800 (our own results (Metricool Instagram Reels 19 and 20 Nov, average watch time)): New: average watch time on our four newest Reels has fallen to about 1.5 to 3.5 seconds (elephant parade 1.5 s, little car 2.7 s) from about 4.2 to 4.5 s on 18 Nov, so the openings are now the main problem; no 21 Nov Reel has synced yet. Chrome not available. Total 4087."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1799); see git history."
   },
   {
    "date": "2026-11-21 08:03",
@@ -29554,6 +29571,10 @@
   {
    "date": "2026-11-21 11:43",
    "note": "Run 1878 (TRENDS (Later 20 Nov, SocialPilot 17 to 25 Nov)): New: Later's 20 Nov pick 'Dear Santa, I'm a size...' turns a wish list into a Reel, and a calm 'Christmas market' walkthrough instrumental is rising on Reels (about 89K, up from 72K in three days); added a Dear Santa height and wish Reel to the trend bank. 2 leaves. Chrome not available. Total 4163."
+  },
+  {
+   "date": "2026-11-21 11:44",
+   "note": "Run 1879 (global markets (Spanish and Arabic language channels, Nigeria)): El Reino Infantil drew about 5.6B views in Jan to Apr 2026 with over 229M subscribers across its brands; The Fixies run six language channels (Spanish 3M subs, Arabic 45M views since 2024), more proof that separate language channels scale; Nigeria's House of Ajebo stresses a schedule you can keep. 3 leaves. Chrome not available. Total 4166."
   }
  ],
  "history": [
@@ -30620,6 +30641,10 @@
   {
    "date": "2026-11-21 11:43",
    "total": 4163
+  },
+  {
+   "date": "2026-11-21 11:44",
+   "total": 4166
   }
  ],
  "next_week_ideas": [
