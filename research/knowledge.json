@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:44:15+05:30",
- "runs": 2130,
+ "updated": "2026-11-21T20:45:23+05:30",
+ "runs": 2131,
  "branches": [
   {
    "id": "platforms",
@@ -20495,6 +20495,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2120
+    },
+    {
+     "t": "Little Angel's Polish dub channel (799K subscribers, 851 videos, about four uploads a week) fell from about 8.4M monthly views in January 2026 to about 3.5M in October, and a new 30 minute upload had only about 4.5K views after a day and a half, so a big brand dub in a mid size European language is shrinking; Polish should stay low on our dubbing list.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2131
+    },
+    {
+     "t": "Little Angel Polska's biggest videos are everyday outing songs (a shopping mall song about 24M views, a vending machine song about 20M, an animal dance song about 12M), the same 'little trip with the family' themes that lead its English channel, so outing songs travel across languages better than holiday specials.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2131
+    },
+    {
+     "t": "Bobasy TV, a home grown Polish song channel with only 132 videos and no upload since 9 Sep 2026, still pulls about 3.3M views in 28 days, led by a 2021 cat counting song (about 15M) and a 55 minute cat songs compilation, so a small, focused animal song catalogue in a local language keeps earning for years without new uploads.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2131
     }
    ]
   },
@@ -31042,12 +31063,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 17:01",
-   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more: earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 17:06",
-   "note": "Run 2052 (YouTube kids channels (India education rankings)): Nothing new: Playboard's and Social Blade's India rankings could not be read this run (fetch permission timed out), and the Indian rhyme channels found by search (Infobells, Kids TV India, Jugnu Kids) were already filed. 0 leaves. Chrome not available. Total 4320."
+   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:07",
@@ -31360,6 +31377,10 @@
   {
    "date": "2026-11-21 20:44",
    "note": "Run 2130 (TRENDS (Postdom 16 to 22 Nov, toy trends)): Postdom's 16 to 22 Nov list (tree goes up, Deck the Halls dance now about 110K videos, Pink Floyd then and now, This is your sign, We listen) was already filed; new from TODAY's October hot toys list: giggle and reaction toys (a 30th anniversary Tickle Me Elmo), bracelet making kits on both lists, and make your own media kits for older kids. No trend bank change. 3 leaves. Chrome not available. Total 4421."
+  },
+  {
+   "date": "2026-11-21 20:45",
+   "note": "Run 2131 (global markets (Poland and Malaysia kids channels)): New: Little Angel's Polish dub channel fell from about 8.4M monthly views (Jan 2026) to 3.5M (Oct) despite four uploads a week, while home grown Bobasy TV still earns about 3.3M views a month from 132 old cat and animal songs with no upload since September; Omar and Hana and HeyKids Polish were already filed. 3 leaves. Chrome not available. Total 4424."
   }
  ],
  "history": [
@@ -32494,6 +32515,10 @@
   {
    "date": "2026-11-21 20:44",
    "total": 4421
+  },
+  {
+   "date": "2026-11-21 20:45",
+   "total": 4424
   }
  ],
  "next_week_ideas": [
