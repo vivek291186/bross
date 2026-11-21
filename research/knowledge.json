@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:01:52+05:30",
- "runs": 2146,
+ "updated": "2026-11-21T21:02:20+05:30",
+ "runs": 2147,
  "branches": [
   {
    "id": "platforms",
@@ -24352,6 +24352,20 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1920
+    },
+    {
+     "t": "Metricool's queue for 21 and 22 Nov 2026 still publishes every long video, Short and Reel at 10:00 and 16:00 IST (the descriptions even promise 'new songs every day at 10 AM and 4 PM'), so the plan's 04:30 IST slot for US after school viewers has not been tried yet and the morning slot is still being judged on Indian viewers only.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2147
+    },
+    {
+     "t": "Tomorrow's (22 Nov 2026) 16:00 IST video is a gentle, dreamy 'Ride to the Moon' song sold as perfect before bedtime, but 16:00 IST is mid afternoon in India and 05:30 in New York, so it reaches no one at bedtime; calm bedtime songs should go in a slot near 19:00 to 20:00 local time for their main market (for India about 19:30 IST) or be pushed later as a 'bedtime playlist' pick.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2147
     }
    ]
   },
@@ -31126,12 +31140,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 17:44",
-   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 17:45",
-   "note": "Run 2068 (music craft (sung versus instrumental melodies, repeated listening)): New: a Toronto study (Developmental Psychology 2015) found children aged 7 to 11 remember melodies sung by a voice better than the same tunes on piano or other instruments, even though they liked the instrumental versions more, so our hooks should always be sung, not played; an earworm study (QJEP 2023) found familiarity and the urge to sing along rise after hearing a new chorus 2 to 4 times while enjoyment stays flat. 3 leaves. Chrome not available. Total 4354."
+   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:46",
@@ -31444,6 +31454,10 @@
   {
    "date": "2026-11-21 21:01",
    "note": "Run 2146 (rules and safety (AI slop on kids YouTube)): Nothing new: the advocacy groups' call to ban AI slop from YouTube Kids, the July 2026 inauthentic content monetisation rules and the toddler AI slop investigations were already filed. 0 leaves. Chrome not available. Total 4433."
+  },
+  {
+   "date": "2026-11-21 21:02",
+   "note": "Run 2147 (our own results (Metricool queue for 21 to 22 Nov)): New: the Metricool queue still publishes everything at 10:00 and 16:00 IST (descriptions promise 10 AM and 4 PM), not the plan's 04:30 IST US slot, and tomorrow's 16:00 IST post is a gentle bedtime moon song that will land in the Indian afternoon and the American night or early morning, so bedtime songs need a better slot. Posting slots in the plan unchanged. 2 leaves. Chrome not available. Total 4435."
   }
  ],
  "history": [
@@ -32642,6 +32656,10 @@
   {
    "date": "2026-11-21 21:01",
    "total": 4433
+  },
+  {
+   "date": "2026-11-21 21:02",
+   "total": 4435
   }
  ],
  "next_week_ideas": [
