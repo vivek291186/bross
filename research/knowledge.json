@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:47:30+05:30",
- "runs": 2097,
+ "updated": "2026-11-21T18:48:30+05:30",
+ "runs": 2098,
  "branches": [
   {
    "id": "platforms",
@@ -23064,6 +23064,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2090
+    },
+    {
+     "t": "When the New York Times showed YouTube AI kids channels in Feb 2026, YouTube removed five of them from the Partner Program, which also took them out of YouTube Kids, and pulled three hyperrealistic clips from the Kids app, so losing monetisation on a kids channel also means losing the YouTube Kids audience at the same time.",
+     "src": "digitaltrends.com, Feb 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2098
+    },
+    {
+     "t": "The Next Web (15 Jun 2026) reports that faceless channels, including some that never used AI, are being demonetised because reviews look at a pattern across a channel's recent uploads, while narrow educational channels have held up better than broad ones, so each Bro Bros song should carry a clear learning or action goal in its title and description and our two named Bros must stay the recognisable 'hosts' of every video.",
+     "src": "thenextweb.com, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2098
     }
    ]
   },
@@ -30854,11 +30868,7 @@
  "log": [
   {
    "date": "2026-11-21 15:47",
-   "note": "Summary of 2 older log entries (2026-11-21 15:46 to 2026-11-21 15:47): steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-21 15:47",
-   "note": "Run 2019 (Shorts and Reels (retention benchmarks)): New: Dash Social's Q3 2026 TikTok data shows average watch share rising for practical, experience led categories (travel about 35%, food about 32%, home about 30%, all up 6 to 9 points on a year earlier), and Billion Dollar Boy says opening with a logo or pitch can cut view rates by about 44%, so our Shorts and Reels should never open on a channel logo sting. 2 leaves. Chrome not available. Total 4279."
+   "note": "Summary of 2 older log entries (2026-11-21 15:47 to 2026-11-21 15:47): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 15:48",
@@ -31171,6 +31181,10 @@
   {
    "date": "2026-11-21 18:47",
    "note": "Run 2097 (TRENDS (HeyOrca 20 Nov audio list)): New: HeyOrca's 20 Nov 2026 weekly audio list adds a 'the sun is the same' then and now format (a childhood photo cut to a present day one) on TikTok and a 'Christmas in November' festive montage sound on Instagram; SocialPilot's 17 to 25 Nov list was already filed. Trend bank unchanged (the then and now idea fits our existing 'How we looked this year' entry). 2 leaves. Chrome not available. Total 4394."
+  },
+  {
+   "date": "2026-11-21 18:48",
+   "note": "Run 2098 (rules (AI slop enforcement on kids channels)): New detail: after the Feb 2026 New York Times check YouTube cut five cited AI kids channels from the Partner Program, which also removed them from YouTube Kids, and pulled hyperrealistic clips from the app; The Next Web (Jun 2026) reports faceless channels, even non AI ones, being demonetised under channel level reviews of recent uploads, with niche educational channels holding up best. The 16 channel ban, 4.7B views and the 40% figure were already filed. 2 leaves. Chrome not available. Total 4396."
   }
  ],
  "history": [
@@ -32173,6 +32187,10 @@
   {
    "date": "2026-11-21 18:47",
    "total": 4394
+  },
+  {
+   "date": "2026-11-21 18:48",
+   "total": 4396
   }
  ],
  "next_week_ideas": [
