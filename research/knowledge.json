@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:39:44+05:30",
- "runs": 1851,
+ "updated": "2026-11-21T10:41:28+05:30",
+ "runs": 1853,
  "branches": [
   {
    "id": "platforms",
@@ -12221,6 +12221,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1840
+    },
+    {
+     "t": "A small Frontiers in Psychology pilot (Feb 2026; 7 children aged 3 to 5, eight weekly music classes, chest heart rate monitors) found the highest heart rate during the only song where children moved around with shakers, and slightly lower heart rate during unfamiliar songs than familiar ones, so a dance along with a clear movement action energises more than a sit and listen song; results were preliminary.",
+     "src": "frontiersin.org, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1853
+    },
+    {
+     "t": "The songs in that preschool class ran from about 40 BPM (a slow folk lullaby) to about 100 BPM, and children settled with the slow ones and lifted with the moving ones, which fits our plan of a 60 to 70 BPM bedtime lane and a 110 to 125 BPM dance lane rather than one middle tempo for everything.",
+     "src": "frontiersin.org, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1853
     }
    ]
   },
@@ -28921,16 +28935,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 06:49",
-   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
-   "date": "2026-11-21 06:50",
-   "note": "Run 1773 (TRENDS (SocialPilot Instagram Reels audio 17 to 25 Nov)): Nothing new: the week's Reels sounds (Blue Danube 'grand ballet' chores, the Toy Story 5 back to back bump dance, Christmas Market instrumental, decorations going up reveals, 'silly little life' montages) were already filed. No leaves added; trend bank unchanged. Chrome not available. Total 4049."
-  },
-  {
    "date": "2026-11-21 06:51",
-   "note": "Run 1774 (POSTING TIMES (Metricool Instagram best times 22 to 28 Nov)): Confirmed with new week data: Metricool's Instagram map for 22 to 28 Nov peaks at 10:00 IST every day (Friday 10:00 strongest, about 6.7K) with a second rise at 18:00 on Tuesday to Thursday, about 10% above 16:00, and weekends near half. Both daily YouTube slots stay as they are. Chrome not available. Total 4050."
+   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
   },
   {
    "date": "2026-11-21 06:52",
@@ -29239,6 +29245,14 @@
   {
    "date": "2026-11-21 10:39",
    "note": "Run 1851 (Shorts and Reels (most viewed Shorts of 2026, Reels reference tool)): In AIFreeForever's 20 Nov list of 2026's most viewed Shorts, 5 of the top 20 are clearly kids content, all simple learning or song clips, with a Brazilian dragon story Short (818M) and an Indonesian colour slides song (840M) proving non English kids Shorts can top the world. Reels side: nothing new beyond filed items. 3 leaves. Chrome not available. Total 4118."
+  },
+  {
+   "date": "2026-11-21 10:40",
+   "note": "Run 1852 (TRENDS (Christmas dances, Know Your Meme, Thanksgiving)): Nothing new: the Last Christmas x Phat winter dance fade, the Charlie Brown holiday dance and the Remember November polar bear memes were already filed. No leaves added; trend bank unchanged. Chrome not available. Total 4118."
+  },
+  {
+   "date": "2026-11-21 10:41",
+   "note": "Run 1853 (music craft (preschool heart rate and familiar songs)): A small Frontiers study (Feb 2026, 7 preschoolers, 8 weekly classes) found heart rate highest during the one activity with whole body movement (shaker eggs while moving) and slightly lower during unfamiliar songs, but results were not conclusive. Other studies found were already filed. 2 leaves. Chrome not available. Total 4120."
   }
  ],
  "history": [
@@ -30197,6 +30211,14 @@
   {
    "date": "2026-11-21 10:39",
    "total": 4118
+  },
+  {
+   "date": "2026-11-21 10:40",
+   "total": 4118
+  },
+  {
+   "date": "2026-11-21 10:41",
+   "total": 4120
   }
  ],
  "next_week_ideas": [
