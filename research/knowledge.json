@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:00:08+05:30",
- "runs": 1937,
+ "updated": "2026-11-21T13:01:02+05:30",
+ "runs": 1938,
  "branches": [
   {
    "id": "platforms",
@@ -14699,6 +14699,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1907
+    },
+    {
+     "t": "In a Japanese online study (Oct 2026 preprint, 162 children aged 3 to 5, then 183 girls) boys mostly picked humanoid robots and girls mostly picked same gender dolls, and recolouring robots pink or lavender or giving them doll like faces shifted girls' choices only weakly (not significant), so surface colour changes do not win girls over; for a two brothers channel the better route to girl viewers is real girl friend characters with their own roles, jokes and solos.",
+     "src": "Research Square preprint, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1938
     }
    ]
   },
@@ -29657,11 +29664,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1858); see git history."
-  },
-  {
-   "date": "2026-11-21 10:50",
-   "note": "Run 1859 (rules and safety (YouTube Youth Principles, KIDS Act vs KOSA)): YouTube's five Youth Principles say its recommendations for children are tuned by quality principles written with child development experts and that it never shows personalised ads to children; the House KIDS Act and Senate KOSA remain split with no final law. 1 leaf. Chrome not available. Total 4131."
+   "note": "Earlier: older log entries summarised (runs up to 1859); see git history."
   },
   {
    "date": "2026-11-21 10:51",
@@ -29974,6 +29977,10 @@
   {
    "date": "2026-11-21 13:00",
    "note": "Run 1937 (music craft (kids holiday albums)): Little new: the holiday albums found (MusicClubKids, Kidz Bop Classroom Holiday Party) are from 2023 and mostly covers of copyrighted standards; one note added that a classroom style holiday album of 30 short tracks shows parents and teachers want long, ready made holiday playlists, which our weekly compilation can be. 1 leaves. Chrome not available. Total 4223."
+  },
+  {
+   "date": "2026-11-21 13:01",
+   "note": "Run 1938 (visual craft (character appeal studies)): New: a Japanese study of 345 children aged 3 to 5 found boys chose robots and girls chose dolls, and making robots pink or doll faced barely moved girls' choices, so to welcome girls Bro Bros needs girl friends with their own roles and stories, not just pink colouring; the head size finding was already filed. 1 leaves. Chrome not available. Total 4224."
   }
  ],
  "history": [
@@ -30336,6 +30343,10 @@
   {
    "date": "2026-11-21 13:00",
    "total": 4223
+  },
+  {
+   "date": "2026-11-21 13:01",
+   "total": 4224
   }
  ],
  "next_week_ideas": [
