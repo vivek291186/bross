@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T19:35:47+05:30",
- "runs": 2113,
+ "updated": "2026-11-21T19:36:59+05:30",
+ "runs": 2114,
  "branches": [
   {
    "id": "platforms",
@@ -2981,6 +2981,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2105
+    },
+    {
+     "t": "YouTube is rolling out pictures and GIFs in comments to all users through November 2026 (GIFs from an in app library, mobile only) and voice comments from the TV app, but because our videos are made for kids their comments stay switched off, so this changes engagement for general channels and parent facing posts only, not for Bro Bros songs.",
+     "src": "Notebookcheck, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2114
     }
    ]
   },
@@ -30986,12 +30993,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 16:49",
-   "note": "Summary of 2 older log entries (2026-11-21 16:48 to 2026-11-21 16:49): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 16:50",
-   "note": "Run 2035 (TRENDS (Japan and India Reels and TikTok dances)): New for Japan: UtaTen's list of TikTok dance songs that spread there (2025) shows the easy ones win: a turn to face four directions then free dance (andymori's Sugoi Hayasa revival), fists facing each other with a body sway (the Shikanoko anime opening), a stop on a 'the sound stopped' line, and a Korean kids creator's Malatanghulu song copied by celebrities. Added a 'four corners turn' entry to the trend bank. India's Pehle main lip sync was from 2024, skipped. 3 leaves. Chrome not available. Total 4300."
+   "note": "Summary of 2 older log entries (2026-11-21 16:49 to 2026-11-21 16:50): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:51",
@@ -31304,6 +31307,10 @@
   {
    "date": "2026-11-21 19:35",
    "note": "Run 2113 (TRENDS (weekly recheck)): New detail: Virlo's Thank You Baby Dance page on 21 Nov 2026 still shows a small trickle (5 new creators in 7 days, up from 2) after about 315M views, while Later's 20 Nov Reels roundup and Virlo's November board hold no format that is not already filed. 1 leaves. Chrome not available. Total 4413."
+  },
+  {
+   "date": "2026-11-21 19:36",
+   "note": "Run 2114 (YouTube algorithm (November changes check)): New: YouTube's API changelog (15 Oct 2026) added image comments, with pictures and GIFs in comments rolling out to everyone through November and voice comments on TV; AIR's change log (4 Nov) still shows no November ranking change, already filed. 1 leaves. Chrome not available. Total 4414."
   }
  ],
  "history": [
@@ -32370,6 +32377,10 @@
   {
    "date": "2026-11-21 19:35",
    "total": 4413
+  },
+  {
+   "date": "2026-11-21 19:36",
+   "total": 4414
   }
  ],
  "next_week_ideas": [
