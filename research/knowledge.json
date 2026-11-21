@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:45:20+05:30",
- "runs": 1880,
+ "updated": "2026-11-21T11:45:45+05:30",
+ "runs": 1881,
  "branches": [
   {
    "id": "platforms",
@@ -5410,6 +5410,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1874
+    },
+    {
+     "t": "In Metricool's YouTube grid for our brand for 22 to 28 Nov 2026 the 04:00 to 05:00 IST hours score only about 1,400 to 2,900 against 9,300 to 12,000 at 16:00 on weekdays, so the plan's 04:30 IST slot reaches few of our current, mostly Indian viewers at upload time and must be judged only on whether it adds US viewers over 2 weeks.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1881
     }
    ]
   },
@@ -29258,11 +29265,7 @@
  "log": [
   {
    "date": "2026-11-21 08:03",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1800); see git history."
-  },
-  {
-   "date": "2026-11-21 08:03",
-   "note": "Run 1802 (competitor deep dive (Danny Go! movement songs)): Nothing new: Danny Go!'s five spots on the iTunes kids chart are new (filed this run under music), but its YouTube scale (about 5.4M subscribers, 160M to 210M views a month from about 131 videos), Netflix run and copyable body move style were already filed. No leaves added. End of run: 26 rounds, 37 new leaves, 4 trend bank entries added. Chrome not available. Total 4087."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1801); see git history."
   },
   {
    "date": "2026-11-21 08:35",
@@ -29575,6 +29578,10 @@
   {
    "date": "2026-11-21 11:45",
    "note": "Run 1880 (competitor deep dive (Kids Diana Show, Super Simple, Little Angel)): Nothing new: Super Simple's 20th year facts, Little Angel's Emmie spin off and Caitie's Christmas songs were already filed, and the Kids Diana Show stats pages did not load. No leaves added. 0 leaves. Chrome not available. Total 4166."
+  },
+  {
+   "date": "2026-11-21 11:45",
+   "note": "Run 1881 (posting times (Metricool grid 22 to 28 Nov, 04:30 slot check)): Metricool's grid again peaks at 16:00 IST for YouTube and 10:00 IST for Instagram; new detail: the plan's 04:30 IST slot sits in hours that score only about a fifth to a quarter of 16:00 for our current audience, so that slot is a bet on new US viewers, not on our present fans; slots unchanged. 1 leaves. Chrome not available. Total 4167."
   }
  ],
  "history": [
@@ -30649,6 +30656,10 @@
   {
    "date": "2026-11-21 11:45",
    "total": 4166
+  },
+  {
+   "date": "2026-11-21 11:45",
+   "total": 4167
   }
  ],
  "next_week_ideas": [
