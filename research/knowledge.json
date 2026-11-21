@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:07:01+05:30",
- "runs": 1947,
+ "updated": "2026-11-21T13:07:59+05:30",
+ "runs": 1948,
  "branches": [
   {
    "id": "platforms",
@@ -2855,6 +2855,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1934
+    },
+    {
+     "t": "On the US iTunes Top Kids Songs chart (read 21 Nov 2026) three of the top six are gentle Christian kids songs (No. 1, 2 and 6), next to TV themes (Bluey at No. 3, Sofia the First), a Thanksgiving turkey dance (No. 5) and YouTube born hits (Baby Shark No. 11, Ms Rachel's Wheels on the Bus No. 13, Danny Go!'s garbage truck song No. 14); paid downloads are chosen by parents, and they buy calm, reassuring songs, so a warm 'I'll see you tomorrow' style bedtime song is worth making in a non religious, global way.",
+     "src": "Popvortex (iTunes), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1948
     }
    ]
   },
@@ -12529,6 +12536,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1937
+    },
+    {
+     "t": "Danny Go!'s garbage truck song sitting in the iTunes kids top 15 in Nov 2026 beside Baby Shark confirms that a loud, chantable song about a working vehicle (shouting a simple command like 'give me that garbage') is one of the strongest formats for 4 to 7 year olds; a Bro Bros recycling or garbage truck dance with a shout back chorus fits our job and vehicle evergreen slot.",
+     "src": "Popvortex (iTunes), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1948
     }
    ]
   },
@@ -29727,11 +29741,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1868); see git history."
-  },
-  {
-   "date": "2026-11-21 10:57",
-   "note": "Run 1869 (posting times (December holiday viewing)): Nothing new: Nielsen December YouTube TV share records, the Christmas Day 2025 streaming record and Buffer 9.6M post timing data were already filed. No leaves added. Chrome not available. Total 4145."
+   "note": "Earlier: older log entries summarised (runs up to 1869); see git history."
   },
   {
    "date": "2026-11-21 10:57",
@@ -30044,6 +30054,10 @@
   {
    "date": "2026-11-21 13:07",
    "note": "Run 1947 (Shorts and long form frequency (Metricool 2026 YouTube study)): New: in Metricool's study of about 800K videos, long videos did best per video at 2 to 4 a week, 4 to 7 a week added only about 6% monthly views and above 7 a week total views fell, while the Shorts lift vanished above about 35 a month; we post 14 long videos and 14 Shorts a week, so quality per song matters more than adding volume (correlational, all categories, not kids only). Long videos with hashtags got about 17% fewer views. 2 leaves. Chrome not available. Total 4233."
+  },
+  {
+   "date": "2026-11-21 13:07",
+   "note": "Run 1948 (other platforms (iTunes kids songs chart, 21 Nov)): New: on the US iTunes kids songs chart three of the top six are gentle faith songs bought by parents, alongside TV themes (Bluey, Sofia), a Thanksgiving dance and YouTube born hits (Baby Shark, Ms Rachel's Wheels on the Bus, Danny Go's garbage truck song); for a global channel the lesson is calm, warm reassurance songs and job or vehicle dance songs, not religion itself. 2 leaves. Chrome not available. Total 4235."
   }
  ],
  "history": [
@@ -30446,9 +30460,17 @@
   {
    "date": "2026-11-21 13:07",
    "total": 4233
+  },
+  {
+   "date": "2026-11-21 13:07",
+   "total": 4235
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "Here Comes the Garbage Truck! (Stomp, Lift and Dump Recycling Dance Song)",
+   "why": "Working vehicle songs with a shout back chorus keep charting (Danny Go!'s garbage truck song in the iTunes kids top 15) and become evergreen job songs that get suggested for years."
+  },
   {
    "title": "Freeze, Then Jingle! (Jingle Bells Funk Freeze Dance Song)",
    "why": "Rides the top TikTok dance of late November with a public domain melody in our own funk arrangement, and the freeze then dance structure is a proven kids game that makes children join in."
@@ -30500,10 +30522,6 @@
   {
    "title": "Knock Knock, Who's There at Christmas? (Guess the Friend Song)",
    "why": "Moonbug's best Christmas song on its compilation channel is a simple 'who's at the door' guessing game (about 6.3M views), and disguised gift guessing is trending now; each verse a knock, a sung clue, then the door opens on a friend (a penguin, a snowman, Grandma). Standing moves: knock knock with one fist on two beats, hand to ear, then jump and wave on the reveal."
-  },
-  {
-   "title": "Ask First! (Hugs, High Fives or Waves Song)",
-   "why": "Boundaries songs spread because parents share them; each verse offers a choice (hug, high five, wave, fist bump) and the friend picks, teaching kind asking in every culture. Standing moves: open arms for hug, high five in the air, big wave, fist bump, thumbs up."
   }
  ],
  "trend_bank": [
