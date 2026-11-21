@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:48:13+05:30",
- "runs": 2223,
+ "updated": "2026-11-21T23:48:48+05:30",
+ "runs": 2224,
  "branches": [
   {
    "id": "platforms",
@@ -31688,6 +31688,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2212
+    },
+    {
+     "t": "The 2025 'dancing rat' meme showed that a crudely animated 3D animal doing a short silly dance loop can go global when people copy its moves on camera (a big streamer's copy passed about 250M views, and a duet filter let fans dance beside the rat), strong evidence for our 'copy the Bros' character dance loop Shorts with one silly repeatable move.",
+     "src": "Daily Dot, Mar 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2224
     }
    ]
   }
@@ -31715,11 +31722,7 @@
  "log": [
   {
    "date": "2026-11-21 20:51",
-   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 21:02): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 21:03",
-   "note": "Run 2148 (TRENDS (kid slang check)): Nothing new: EdWeek's 2026 teacher survey (six seven the most named slang) and the British Council slang guide repeat the six seven, skibidi and aura findings already filed, including that children now call six seven 'out'. 0 leaves. Chrome not available. Total 4435."
+   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 21:03): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 21:03",
@@ -32032,6 +32035,10 @@
   {
    "date": "2026-11-21 23:48",
    "note": "Run 2223 (global markets (Pakistan and Urdu kids channels)): Small addition: a Pakistani learning channel with 145K subscribers and 453 videos got only about 2K views in 28 days after it stopped uploading, and its best videos borrowed a famous shark song name in titles, while two Urdu story and Islamic channels had only stale data; Urdu looks a weak dub target next to Hindi. 1 leaves. Chrome not available. Total 4517."
+  },
+  {
+   "date": "2026-11-21 23:48",
+   "note": "Run 2224 (TRENDS (Daily Dot dances, NewEngen; nothing fresh this week)): Small addition: no new kid safe dance in Daily Dot's dance tag (newest Dec 2025); filed the evergreen lesson of the 2025 dancing rat meme, a simple 3D animal loop that people copied, which backs our copy the Bros dance loop. Trend bank unchanged. 1 leaves. Chrome not available. Total 4518."
   }
  ],
  "history": [
@@ -32830,6 +32837,10 @@
   {
    "date": "2026-11-21 23:48",
    "total": 4517
+  },
+  {
+   "date": "2026-11-21 23:48",
+   "total": 4518
   }
  ],
  "next_week_ideas": [
