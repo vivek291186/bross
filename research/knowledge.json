@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:51:30+05:30",
- "runs": 2101,
+ "updated": "2026-11-21T18:52:18+05:30",
+ "runs": 2102,
  "branches": [
   {
    "id": "platforms",
@@ -2960,6 +2960,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2090
+    },
+    {
+     "t": "Emplifi's Q3 2026 benchmarks (15 Oct 2026, 77,038 Instagram brand profiles) show median impressions per post down 48% worldwide year on year but engagement per impression up about 68% to 1.52%, so Instagram now shows each post to fewer, better matched people; a Bro Bros Reel should be judged by interactions per view, not raw views.",
+     "src": "emplifi.io, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2102
+    },
+    {
+     "t": "In the same Q3 2026 data the median brand post on Instagram earned only about 2 shares and 2 saves worldwide (1 share and 0 saves in the US), while TikTok impressions per post fell about 60% and interactions 38% year on year, so even 5 shares on one of our Reels is above the typical brand and a sign the format is worth repeating.",
+     "src": "emplifi.io, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2102
     }
    ]
   },
@@ -30896,11 +30910,7 @@
  "log": [
   {
    "date": "2026-11-21 15:49",
-   "note": "Summary of 2 older log entries (2026-11-21 15:48 to 2026-11-21 15:49): steady research rounds across all focuses."
-  },
-  {
-   "date": "2026-11-21 15:49",
-   "note": "Run 2023 (posting times (Metricool grid 23 to 29 Nov)): Nothing new: Metricool's 23 to 29 Nov grid repeats the filed pattern (YouTube top at 16:00 IST every day, Wednesday and Thursday strongest at about 12K, weekends about half; Instagram top at 10:00 with a second rise at 18:00), so posting slots stay unchanged. End of run: 21 rounds (runs 2003 to 2023), 23 new leaves, 2 trend bank entries added (Say the word on beat, Get up shake it off), 2 faded entries dropped (Bro's day in stats, Meanwhile btw), no song ideas added, posting slots unchanged. Page not published (artifact tools not available this run). 0 leaves. Chrome not available. Total 4280."
+   "note": "Summary of 2 older log entries (2026-11-21 15:49 to 2026-11-21 15:49): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:36",
@@ -31213,6 +31223,10 @@
   {
    "date": "2026-11-21 18:51",
    "note": "Run 2101 (YouTube algorithm (YouTube Kids on TV)): New detail: the separate YouTube Kids TV app has been retired device by device since 2024 (Sony's date was 25 Aug 2025), so on TVs YouTube Kids now lives as a child profile inside the main YouTube app. Todd Beaupre's Creator Insider points (10% subscriber click rate, Suggested as top source, the eight times cap) were already filed. 1 leaves. Chrome not available. Total 4400."
+  },
+  {
+   "date": "2026-11-21 18:52",
+   "note": "Run 2102 (Shorts and Reels (Emplifi Q3 2026 benchmarks)): New: Emplifi's Q3 2026 benchmarks (15 Oct 2026, 77,038 Instagram and 1,301 TikTok brand profiles) show Instagram engagement per impression up about 68% to 1.52% while median impressions per post fell 48% year on year, median brand posts get only about 2 shares and 2 saves, and TikTok impressions per post fell 60%. vidIQ's first ten videos study and Metricool's YouTube study were already filed. 2 leaves. Chrome not available. Total 4402."
   }
  ],
  "history": [
@@ -32231,6 +32245,10 @@
   {
    "date": "2026-11-21 18:51",
    "total": 4400
+  },
+  {
+   "date": "2026-11-21 18:52",
+   "total": 4402
   }
  ],
  "next_week_ideas": [
