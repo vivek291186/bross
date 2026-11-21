@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:49:37+05:30",
- "runs": 2034,
+ "updated": "2026-11-21T16:50:39+05:30",
+ "runs": 2035,
  "branches": [
   {
    "id": "platforms",
@@ -19921,6 +19921,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2024
+    },
+    {
+     "t": "A Korean kids creator's song (EVE SEO's Malatanghulu, about the candied fruit snack) became a TikTok dance in Japan that many celebrities posted, showing a children's food song with a cute chant can cross from Korea to Japan without translation.",
+     "src": "utaten.com, 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2035
     }
    ]
   },
@@ -30148,6 +30155,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2026
+    },
+    {
+     "t": "Japan's TikTok dance hits that spread widest (UtaTen, 2025) mostly use tiny, copyable moves: turning to face each of four directions then dancing freely (the revival of andymori's 2009 song), two fists facing each other with a body sway (an anime opening), and a freeze on a lyric about the music stopping; simple whole body moves travel there better than hard choreography.",
+     "src": "utaten.com, 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2035
+    },
+    {
+     "t": "Japanese idol group FRUITS ZIPPER's NEW KAWAII spread as a TikTok dance that starts on a spoken call to 'update' and uses cute pose based choreography, a sign that a spoken cue word before the dance (like 'Ready? Update!') helps viewers join at the right moment.",
+     "src": "utaten.com, 2025",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2035
     }
    ]
   }
@@ -30174,12 +30195,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:43",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:44",
-   "note": "Run 1956 (our results (Instagram Reels 18 to 21 Nov)): Nothing new: Metricool still has no 21 Nov Reels; the six Reels of 18 to 20 Nov match leaves already filed (veggie soup 127 views, freeze dance 113, little car 55 with 25 shares, the rest 4 to 16). No leaves added. 0 leaves. Chrome not available. Total 4241."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:45",
@@ -30492,6 +30509,10 @@
   {
    "date": "2026-11-21 16:49",
    "note": "Run 2034 (visual craft (Meshy changelog, Blender, pacing research)): Mostly filed (Meshy T2.5, N1, Meshy Edit, Text to Motion, Blender 5.1, fantastical content studies). New: Meshy's August 2026 File Converter can now output FBX, so a GLB character from Meshy can be turned into FBX inside Meshy before import to Blender. 1 leaves. Chrome not available. Total 4297."
+  },
+  {
+   "date": "2026-11-21 16:50",
+   "note": "Run 2035 (TRENDS (Japan and India Reels and TikTok dances)): New for Japan: UtaTen's list of TikTok dance songs that spread there (2025) shows the easy ones win: a turn to face four directions then free dance (andymori's Sugoi Hayasa revival), fists facing each other with a body sway (the Shikanoko anime opening), a stop on a 'the sound stopped' line, and a Korean kids creator's Malatanghulu song copied by celebrities. Added a 'four corners turn' entry to the trend bank. India's Pehle main lip sync was from 2024, skipped. 3 leaves. Chrome not available. Total 4300."
   }
  ],
  "history": [
@@ -31242,6 +31263,10 @@
   {
    "date": "2026-11-21 16:49",
    "total": 4297
+  },
+  {
+   "date": "2026-11-21 16:50",
+   "total": 4300
   }
  ],
  "next_week_ideas": [
@@ -31303,6 +31328,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Four corners turn, then free dance",
+   "where": "TikTok Japan (evergreen, revived song trend)",
+   "status": "evergreen",
+   "use": "Each Bro faces the camera and on every beat makes a quarter turn (front, side, back, side), clapping once at each corner, then on the drop both dance freely and end facing the camera with a thumbs up. Meshy prompt: standing in place, turn 90 degrees to the right and clap, repeat four times, then bounce side to side with arms waving. Use our own 'Turn, Turn, Clap!' song in Suno."
+  },
   {
    "name": "We could stay here, or we could go up",
    "where": "TikTok, Instagram Reels (new, week of 16 Nov 2026)",
@@ -31416,12 +31447,6 @@
    "where": "TikTok, Reels",
    "status": "rising",
    "use": "Little Bro turns his face away from the camera, arms crossed, says 'hmph' and shakes his head twice; on the beat drop of our own song he gives in, smiles and dances: bounce in place with knees soft, then two arm rolls in front of the chest, then point at the camera. Meshy prompt: standing in place, turn head away with arms crossed, then bounce and roll arms forward, then point forward. 10 to 15 seconds, loop back to the shy pose."
-  },
-  {
-   "name": "Burst through the gift paper",
-   "where": "TikTok, Reels and Shorts, every December",
-   "status": "seasonal",
-   "use": "A 15 second Short: a doorway covered in giant wrapping paper, a drum roll in our own song, then Little Bro steps through the paper with a big smile, followed by Big Bro and a friend, each in a new festive outfit; end on all three doing the chorus move. Dance: standing in place, arms up in a V on beat 1, clap on beat 2, twist the hips left and right on beats 3 and 4. Show it as a soft paper sheet only, never glass or anything sharp."
   }
  ],
  "posting_plan": {
