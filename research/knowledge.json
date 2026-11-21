@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:37:58+05:30",
- "runs": 1916,
+ "updated": "2026-11-21T12:38:49+05:30",
+ "runs": 1917,
  "branches": [
   {
    "id": "platforms",
@@ -9932,6 +9932,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1913
+    },
+    {
+     "t": "Pinkfong's 14 track Bebefinn album (Bebefinn 3 Pt. 4) is a balanced weekly style mix: three dance songs (a dinosaur move along, a waltz, a nonsense word dance), three routine songs (toothbrushing, a healthy meal, bath time), two safety songs (bike and camping), two animal songs, a hide and seek play song, a family song and one seasonal song (a Christmas gingerbread house), which is a ready template for planning our own 14 songs a week.",
+     "src": "Charts in France, Apr 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1917
     }
    ]
   },
@@ -19494,6 +19501,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1906
+    },
+    {
+     "t": "Moonbug and MultiChoice run a 24 hour Portuguese language kids channel on DStv in Angola and Mozambique (since Aug 2025, with plans for other Portuguese speaking countries), alongside an English channel that reaches about 21.7M DStv homes in 45 African countries, so a Portuguese audio track serves Lusophone Africa as well as Brazil and English already reaches much of Africa.",
+     "src": "Moonbug, Nov 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1917
     }
    ]
   },
@@ -29538,11 +29552,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1837); see git history."
-  },
-  {
-   "date": "2026-11-21 09:53",
-   "note": "Run 1838 (Shorts and Reels (Trial Reels evidence, Shorts hook data)): Nothing new: Planoly's Trial Reels review, Kapwing's trial reel case, Metricool's 799,718 video study and Little Dot's length data were already filed. No leaves added. Chrome not available. Total 4105."
+   "note": "Earlier: older log entries summarised (runs up to 1838); see git history."
   },
   {
    "date": "2026-11-21 09:53",
@@ -29855,6 +29865,10 @@
   {
    "date": "2026-11-21 12:37",
    "note": "Run 1916 (global markets (dubbing tests, Latin America and Southeast Asia)): Nothing new: the Kapwing separate Spanish channel test, YouTube's 25% dubbed watch time figure, El Reino Infantil's 2026 lead and the AIR localised kids channel case were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4206."
+  },
+  {
+   "date": "2026-11-21 12:38",
+   "note": "Run 1917 (competitor deep dive (Pinkfong Bebefinn album, Moonbug)): New: a 14 track Bebefinn album mixes 3 dance songs, 3 routine songs, 2 safety songs, animals, play and one seasonal song, a ready template for our 14 songs a week; Moonbug runs a Portuguese language linear kids channel for Angola and Mozambique, a sign that Lusophone Africa is a real Portuguese audience beyond Brazil. 2 leaves. Chrome not available. Total 4208."
   }
  ],
  "history": [
@@ -30133,6 +30147,10 @@
   {
    "date": "2026-11-21 12:37",
    "total": 4206
+  },
+  {
+   "date": "2026-11-21 12:38",
+   "total": 4208
   }
  ],
  "next_week_ideas": [
