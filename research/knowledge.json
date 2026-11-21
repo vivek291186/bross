@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:41:38+05:30",
- "runs": 2182,
+ "updated": "2026-11-21T22:42:26+05:30",
+ "runs": 2183,
  "branches": [
   {
    "id": "platforms",
@@ -10513,6 +10513,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2180
+    },
+    {
+     "t": "India's Kiddo Toons Hindi (7.81M subscribers, 3.2B views, 3,541 videos of dubbed bear and jungle cartoon compilations) gained zero subscribers in the 28 days to 31 Oct 2026 and its new upload had about 3.5K views in 16 hours, while its biggest hits (47 to 128M) are 2022 to 2023 moral stories about water, kites and a giant pumpkin, so dubbed compilation libraries in Hindi are stalling just like English ones.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2183
+    },
+    {
+     "t": "US rhymes channel YouKids (2.39M subscribers) drew about 18.6M views in the 28 days to 21 Nov 2026 from nine new videos, and its top video is a pop it fidget toy version of a famous shark song (30.6M), ahead of a three song Hickory Dickory Dock medley (23.9M), so dressing a song in a current toy craze lifts views; Bro Bros should do this only with our own songs and our own toy designs.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2183
     }
    ]
   },
@@ -20684,6 +20698,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2179
+    },
+    {
+     "t": "Brazil's Galinha Pintadinha Mini (7.54M subscribers, 4.5B views) added about 50K subscribers and 52M views in the 28 days to 16 Nov 2026 from just 300 videos, and its top five are all full episodes of a growing up series about everyday feelings (an accident that was not on purpose, a new friendship, a tidy room), so in Brazil gentle social emotional story episodes outpull plain rhymes.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2183
+    },
+    {
+     "t": "Portugal's Kids Channel Português (1.75M subscribers, 817M views) still adds about 8.7M views a month, and its second biggest video is a 2021 Halloween night song (18.9M), so seasonal songs dubbed into European Portuguese keep paying back years later, but its newest Halloween rhyme had only about 6K views in a week, so new uploads on old dub channels start slowly.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2183
     }
    ]
   },
@@ -31351,11 +31379,7 @@
  "log": [
   {
    "date": "2026-11-21 18:53",
-   "note": "Summary of 2 older log entries (2026-11-21 18:52 to 2026-11-21 18:53): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 18:53",
-   "note": "Run 2104 (music craft (charts, new Christmas songs, Suno)): Nothing new: the Billboard Kid Albums page did not give a November 2026 chart, the viral throat singing Jingle Bells, summer Christmas themes, Suno v6 and Suno Visuals (17 Nov) were already filed. 0 leaves. Chrome not available. Total 4404."
+   "note": "Summary of 2 older log entries (2026-11-21 18:53 to 2026-11-21 18:53): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:54",
@@ -31668,6 +31692,10 @@
   {
    "date": "2026-11-21 22:41",
    "note": "Run 2182 (rules and safety (UK ban scope, COPPA recheck)): Nothing new: the 11 Nov report that the UK under 16 ban may widen to YouTube Kids, Spotify and Lego Play, the Disney COPPA penalty and KOSA and EU KIDS Act status were already filed. 0 leaves. Chrome not available. Total 4465."
+  },
+  {
+   "date": "2026-11-21 22:42",
+   "note": "Run 2183 (YouTube kids channels (Brazil, India Hindi dub, Portugal, US rhymes)): New: Galinha Pintadinha Mini grows 50K subscribers a month on full length feelings and friendship episodes; a Hindi dubbed cartoon compilation channel has stalled at zero growth; a US rhymes channel's top video is a pop it toy version of a famous shark song, showing toy trend remixes of a proven song pull views. 4 leaves. Chrome not available. Total 4469."
   }
  ],
  "history": [
@@ -32302,6 +32330,10 @@
   {
    "date": "2026-11-21 22:41",
    "total": 4465
+  },
+  {
+   "date": "2026-11-21 22:42",
+   "total": 4469
   }
  ],
  "next_week_ideas": [
