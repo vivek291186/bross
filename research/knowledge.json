@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:35:52+05:30",
- "runs": 2055,
+ "updated": "2026-11-21T17:36:43+05:30",
+ "runs": 2056,
  "branches": [
   {
    "id": "platforms",
@@ -2939,6 +2939,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2055
+    },
+    {
+     "t": "On Billboard's Kid Albums chart for the week of 8 Nov 2025 (the latest copy readable), 11 of the top 15 were film or holiday soundtracks, while CoComelon (No. 4), Pinkfong's Baby Shark (No. 9) and Super Simple Songs (No. 12) were the only YouTube born brands, and a Halloween novelty album was the biggest gainer, showing seasonal albums jump in the weeks around their holiday.",
+     "src": "billboard.com, Nov 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2056
     }
    ]
   },
@@ -12788,6 +12795,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2033
+    },
+    {
+     "t": "A BMI songwriting guide (Jason Blume) recommends putting one unexpected chord under the most important word and lifting the key a half or whole step just before the final chorus, which for a kids song can be asked of Suno as 'key change up for the last chorus' to give the ending a fresh burst of energy.",
+     "src": "bmi.com, undated",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2056
+    },
+    {
+     "t": "The same BMI guide notes a pivot chord shared by both keys makes a key change feel smooth while a sudden key jump feels like a surprise; for preschool songs the smooth lift is safer, so the melody stays easy for small voices to follow.",
+     "src": "bmi.com, undated",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2056
     }
    ]
   },
@@ -30378,11 +30399,7 @@
  "log": [
   {
    "date": "2026-11-21 13:54",
-   "note": "Summary of 2 older runs up to Run 1976 (global markets (Vietnam kids s...: see git history for details."
-  },
-  {
-   "date": "2026-11-21 13:54",
-   "note": "Run 1977 (competitor deep dive (Kids Diana, Morphle, Tubefilter top 50)): Nothing new: Kids Diana's 17 and 19 Nov uploads, Morphle's slide and Tubefilter's charts for the week to 15 Nov were already filed; the week to 22 Nov chart is not out yet. No leaves added. 0 leaves. Chrome not available. Total 4249."
+   "note": "Summary of 2 older runs up to Run 1977 (competitor deep dive (Kids Dia...: see git history for details."
   },
   {
    "date": "2026-11-21 13:55",
@@ -30695,6 +30712,10 @@
   {
    "date": "2026-11-21 17:35",
    "note": "Run 2055 (TRENDS (NewEngen Christmas list 19 Nov, Instagram First Draft)): New: themed Christmas trees (a colour, candy or book tree) are a named 2026 trend, Christmas season content is now said to start on 1 Nov, 'what I got' hauls run from 25 Dec, and the want, need, wear, read gift rule is trending with parents; Instagram's iOS only First Draft button auto cuts camera roll clips into a Reel. The Remember November 2026 AI polar bear meme was revived but is eerie and uses a copyrighted song, so skipped. Added a 'Build a themed tree' entry to the trend bank. 5 leaves. Chrome not available. Total 4326."
+  },
+  {
+   "date": "2026-11-21 17:36",
+   "note": "Run 2056 (music craft (key change hooks, Billboard Kid Albums)): New: a songwriting guide (BMI) shows how one unexpected chord on the key word and a lift of a half or whole step before the last chorus make a hook stick, which gives our Suno prompts a simple final chorus lift; Billboard's Kid Albums chart (week of 8 Nov 2025, the newest copy readable) was led by film and holiday soundtracks with CoComelon at 4, Pinkfong at 9 and Super Simple Songs at 12, and a Halloween novelty album was the biggest seasonal gainer. 3 leaves. Chrome not available. Total 4329."
   }
  ],
  "history": [
@@ -31529,6 +31550,10 @@
   {
    "date": "2026-11-21 17:35",
    "total": 4326
+  },
+  {
+   "date": "2026-11-21 17:36",
+   "total": 4329
   }
  ],
  "next_week_ideas": [
