@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:01:02+05:30",
- "runs": 1938,
+ "updated": "2026-11-21T13:01:42+05:30",
+ "runs": 1939,
  "branches": [
   {
    "id": "platforms",
@@ -29637,6 +29637,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1936
+    },
+    {
+     "t": "Further down Viralremix's 20 Nov 2026 TikTok chart, AI made Christmas templates are rising: a baby riding a reindeer through the sky with a sleigh behind (about 575 new videos a day, rising) and people dancing beside Santa on a red carpet (about 500 a day), showing that cute 'kid on a magical Christmas ride' scenes are what families are making this week; our 3D Bros can do the real animated version instead of a photo template.",
+     "src": "Viralremix, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1939
     }
    ]
   }
@@ -29664,11 +29671,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1859); see git history."
-  },
-  {
-   "date": "2026-11-21 10:51",
-   "note": "Run 1860 (our own results (14 to 21 Nov YouTube and Reels)): Metricool's YouTube data to 19 Nov ranks our long videos tomato soup 972, Hindi elephant sneeze story 510, ant parade 477, kitten rescue 373; the Hindi story's Short (20 views) is our best Short, and the car safety Reel still leads shares (25). 3 leaves. Chrome not available. Total 4134."
+   "note": "Earlier: older log entries summarised (runs up to 1860); see git history."
   },
   {
    "date": "2026-11-21 10:51",
@@ -29981,6 +29984,10 @@
   {
    "date": "2026-11-21 13:01",
    "note": "Run 1938 (visual craft (character appeal studies)): New: a Japanese study of 345 children aged 3 to 5 found boys chose robots and girls chose dolls, and making robots pink or doll faced barely moved girls' choices, so to welcome girls Bro Bros needs girl friends with their own roles and stories, not just pink colouring; the head size finding was already filed. 1 leaves. Chrome not available. Total 4224."
+  },
+  {
+   "date": "2026-11-21 13:01",
+   "note": "Run 1939 (TRENDS (Viralremix ranks 13 to 40, 20 Nov)): New: lower on Viralremix's 20 Nov chart, AI Christmas templates are rising (a baby riding a flying reindeer with a sleigh behind, about 575 new videos a day and rising; dancing beside Santa on a red carpet), so a cosy 'ride the reindeer' Short of Little Bro flying over snowy roofs fits the moment; added it to the trend bank. 1 leaves. Chrome not available. Total 4225."
   }
  ],
  "history": [
@@ -30347,6 +30354,10 @@
   {
    "date": "2026-11-21 13:01",
    "total": 4224
+  },
+  {
+   "date": "2026-11-21 13:01",
+   "total": 4225
   }
  ],
  "next_week_ideas": [
@@ -30408,6 +30419,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Ride the reindeer over the rooftops",
+   "where": "TikTok AI templates (rising 20 Nov 2026), Reels, Shorts",
+   "status": "seasonal",
+   "use": "A 10 to 15 second Short: Little Bro climbs onto a friendly reindeer in the snowy garden, it lifts off with a jingle and they swoop over glowing rooftops with Big Bro waving from the sleigh behind, then land and both do a happy bounce; set to a 6 second loop from our own Christmas song. Dance for the landing: standing in place, small bounce on both feet, both arms up in a V, then a big two hand wave to camera."
+  },
   {
    "name": "Together, my turn, your turn, together",
    "where": "TikTok (Ba Ba Ba duo, Oct to Nov 2026), Reels, Shorts",
@@ -30521,12 +30538,6 @@
    "where": "TikTok, Reels and Shorts every December",
    "status": "seasonal",
    "use": "Fixed camera on a bare tree; in quick cuts the Bros hang one ornament per beat of our own upbeat Christmas song, then both jump back and the tree lights up on the last beat. Dance at the end: standing in place, clap twice above the head, then sway side to side with arms up like a tree."
-  },
-  {
-   "name": "Walk up, stop, side step",
-   "where": "TikTok ('Can't Stop' walk up format, added 19 Nov 2026, about 407M views on the sound)",
-   "status": "rising",
-   "use": "A 10 second Short and Reel on our own song: fixed camera, the Bros walk toward the lens in step, stop dead on a big drum hit, do one small side step together with a little shoulder shrug, then hold a cheeky pose to the end. Meshy prompt: standing, walk forward four steps, stop, one step to the right, shoulder shrug, hold pose; no floor moves."
   }
  ],
  "posting_plan": {
