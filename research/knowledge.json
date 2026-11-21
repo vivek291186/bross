@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T20:56:46+05:30",
- "runs": 2140,
+ "updated": "2026-11-21T20:57:46+05:30",
+ "runs": 2141,
  "branches": [
   {
    "id": "platforms",
@@ -15371,6 +15371,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2105
+    },
+    {
+     "t": "In a study of 176 toddlers (24 and 30 months), children learned a new word from a live, responsive adult but not from a video of one, even when the on screen person smiled, made eye contact, used the child's name and paused for them, and the authors point to a co viewing adult linking the screen to real life as the missing piece; so Bro Bros learning songs for under 3s should leave short point and say pauses ('Can you find the red ball? Point with Mummy or Daddy!') that a watching parent can use.",
+     "src": "Frontiers in Psychology (Troseth et al.), 2018",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2141
     }
    ]
   },
@@ -31077,12 +31084,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 17:40",
-   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 17:41",
-   "note": "Run 2062 (rules and safety (FTC age check policy, US kids privacy bills)): New: the FTC's 25 Feb 2026 COPPA policy statement says it will not pursue data collected only to check a user's age if strict limits are met, and COPPA 2.0 passed the Senate unanimously on 5 Mar 2026 but is stuck in the House (Loeb, Jun 2026). The amended COPPA rule (enforceable 22 Apr 2026) and the KIDS Act were already filed. Neither changes what we do on YouTube and Instagram: we collect no data, keep videos made for kids and keep any future website or app free of sign ups for children. 3 leaves. Chrome not available. Total 4344."
+   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:42",
@@ -31395,6 +31398,10 @@
   {
    "date": "2026-11-21 20:56",
    "note": "Run 2140 (music craft (Suno and Meshy tool updates)): Nothing new: Suno v6 (licensed Warner and BMG models, song editing) and Suno Visuals, and Meshy's October changelog (Meshy Edit, T2.5, N1 textures, Auto Split; no new motion features since July's Text to Motion) were all already filed. 0 leaves. Chrome not available. Total 4426."
+  },
+  {
+   "date": "2026-11-21 20:57",
+   "note": "Run 2141 (visual craft (gaze, video deficit, animation style)): New: a study of 176 toddlers found 2 and 2.5 year olds learned a new word from a live, responsive adult but not from video, even when the on screen person used their name and eye contact, so our learning songs for under 3s should be built for a parent watching alongside (simple point and say moments). 1 leaves. Chrome not available. Total 4427."
   }
  ],
  "history": [
@@ -32569,6 +32576,10 @@
   {
    "date": "2026-11-21 20:56",
    "total": 4426
+  },
+  {
+   "date": "2026-11-21 20:57",
+   "total": 4427
   }
  ],
  "next_week_ideas": [
