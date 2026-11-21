@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:37:19+05:30",
- "runs": 2057,
+ "updated": "2026-11-21T17:38:34+05:30",
+ "runs": 2058,
  "branches": [
   {
    "id": "platforms",
@@ -30379,6 +30379,41 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2055
+    },
+    {
+     "t": "'Comment what you got' (Social Expert, checked 15 Nov 2026, about 282M views across its videos) asks one question with labelled options on screen, then gives a payoff, a comment driving format that suits a Bro Bros Short where viewers pick a gift box, a colour or a snowman hat and the brothers open the answer.",
+     "src": "socialexpert.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2058
+    },
+    {
+     "t": "'Me versus my feed' (Social Expert, 13 Nov 2026, about 101M views) puts a plain, real looking shot next to the polished version of the same scene, which Bro Bros can turn into a 'rehearsal versus the show' Short: the Bros stumble through a dance in grey practice clothes, then the same moves in full colour and lights.",
+     "src": "socialexpert.app, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2058
+    },
+    {
+     "t": "Postdom's scan for 16 to 22 Nov 2026 shows brands using the 'I saw you on 8th Avenue' sulk lip sync (about 253K videos on the sound), including a toy shop where a toy 'sulks' after a shopper walks past it, a gentle pretend hurt feelings joke that works with an animated toy or pet.",
+     "src": "postdom.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2058
+    },
+    {
+     "t": "Holiday kickoff posts dominate the week to 22 Nov 2026: a tree goes up timelapse on a Christmas track has about 1.2M videos on its sound and a short Deck the Halls group dance in front of the first decorations about 110K, confirming that tree decorating and simple carol dances are the safest seasonal formats this week.",
+     "src": "postdom.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2058
+    },
+    {
+     "t": "GoViral's rising hashtags for the week to 21 Nov 2026 are #inthistown (up 91%, about 148M views, with Roblox 'town rules' style posts among the copyable formats), #gilla and #thebody, showing playful 'rules of our town' lists are spreading with game playing kids.",
+     "src": "howtogoviral.app, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2058
     }
    ]
   }
@@ -30406,11 +30441,7 @@
  "log": [
   {
    "date": "2026-11-21 13:55",
-   "note": "Summary of 2 older runs up to Run 1978 (TRENDS (parent and kid TikTok ...: see git history for details."
-  },
-  {
-   "date": "2026-11-21 13:55",
-   "note": "Run 1979 (rules and safety (YouTube Kids availability, made for kids settings)): Nothing new: the results were old YouTube Kids launch stories (Colombia 2016) and the standard made for kids help pages already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
+   "note": "Summary of 2 older runs up to Run 1979 (rules and safety (YouTube Kids...: see git history for details."
   },
   {
    "date": "2026-11-21 13:56",
@@ -30723,6 +30754,10 @@
   {
    "date": "2026-11-21 17:37",
    "note": "Run 2057 (visual craft (animated detail relevance, eye tracking)): New: an eye tracking study of 33 preschoolers (Journal of Eye Movement Research, Dec 2024) found animated details that have nothing to do with the story pull children's eyes away from the key elements and lower understanding, while animation tied to the story did no harm, so background motion in our videos should follow the lyric. Thumbnail and title test findings were already filed; the PMC page was blocked by a captcha. 1 leaves. Chrome not available. Total 4330."
+  },
+  {
+   "date": "2026-11-21 17:38",
+   "note": "Run 2058 (TRENDS (Social Expert 20 Nov, Postdom 21 Nov)): New: 'Comment what you got' (a question with labelled options, then a payoff, about 282M views by 15 Nov) and 'Me versus my feed' (a plain shot next to the polished version, about 101M views) are rising family safe formats; a toy store used the 'I saw you on 8th Avenue' walk past sulk lip sync; #inthistown climbed 91% in a week. 'My moon' reveals are romantic and were skipped. Added 'Comment what you got' to the trend bank. 5 leaves. Chrome not available. Total 4335."
   }
  ],
  "history": [
@@ -31565,6 +31600,10 @@
   {
    "date": "2026-11-21 17:37",
    "total": 4330
+  },
+  {
+   "date": "2026-11-21 17:38",
+   "total": 4335
   }
  ],
  "next_week_ideas": [
@@ -31626,6 +31665,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Comment what you got (pick an option, then the payoff)",
+   "where": "TikTok, Reels and Shorts, rising mid Nov 2026 (about 282M views)",
+   "status": "rising",
+   "use": "A 15 to 20 second Short: three labelled gift boxes (red, blue, green) appear while our own jingle plays, text asks 'Which one? Comment!', the Bros point at each box on the beat, then open all three to show a funny surprise in each. Motion: standing in place, point left, middle, right on the beat, then both arms up in surprise."
+  },
   {
    "name": "Build a themed tree, one colour per beat",
    "where": "TikTok and Instagram, Christmas 2026 (NewEngen 19 Nov)",
@@ -31739,12 +31784,6 @@
    "where": "TikTok (fresh, 206M views since 6 Oct)",
    "status": "rising",
    "use": "Short or Reel: Big Bro and Little Bro sing the hook of our own song, freeze for one beat, then a confetti cannon bursts on the drop and both throw arms up in a star shape. Meshy prompt: character stands in place, sways side to side twice, freezes, then jumps lightly and throws both arms up in a V. Optional funny fail version: Little Bro's popper only puffs a tiny cloud, he shrugs, then it bursts late."
-  },
-  {
-   "name": "Chores ballet waltz",
-   "where": "Instagram Reels",
-   "status": "rising",
-   "use": "The Bros tidy their toy room as if it were a grand ballet, set to our own original waltz in 3/4 (or a fresh arrangement of a public domain waltz, never a recorded version): Big Bro twirls once while lifting a teddy, Little Bro sweeps with slow side steps and a little bow at the end. Meshy prompt: standing in place, slow graceful turn with arms raised in a circle, then side step left and right, then a small bow. 15 seconds, title 'Clean up time, but make it ballet'."
   }
  ],
  "posting_plan": {
