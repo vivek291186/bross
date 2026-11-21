@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:59:04+05:30",
- "runs": 1985,
+ "updated": "2026-11-21T13:59:50+05:30",
+ "runs": 1986,
  "branches": [
   {
    "id": "platforms",
@@ -29845,12 +29845,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 12:04",
-   "note": "Earlier: older log entries summarised (runs up to 1906); see git history."
-  },
-  {
    "date": "2026-11-21 12:05",
-   "note": "Run 1907 (visual craft (vertical video safe zones for Reels and Shorts)): New: for a 1080 by 1920 Reel keep faces, lyrics and jokes out of the top 150 px, the bottom 420 px (about 22%, captions and audio) and the right 100 px (buttons), which matters because our Reels and Shorts are cut from 16:9 songs; Google's universal safe zone PDF gives no readable numbers. 1 leaves. Chrome not available. Total 4197."
+   "note": "Earlier: older log entries summarised (runs up to 1907); see git history."
   },
   {
    "date": "2026-11-21 12:05",
@@ -30163,6 +30159,10 @@
   {
    "date": "2026-11-21 13:59",
    "note": "Run 1985 (music craft (Spotify kids and family streaming)): Nothing new: Spotify's September 2026 toggle that keeps kids and family music out of parents' taste profiles and its kids chart mix of film songs and a few preschool originals were already filed. No leaves added. 0 leaves. Chrome not available. Total 4250."
+  },
+  {
+   "date": "2026-11-21 13:59",
+   "note": "Run 1986 (visual craft (character design for different ages)): Nothing new: Disney Research's character proportion study (younger shows use bigger heads and rounder eyes, yet children 4 to 10 picked normal heads and showed no age preference) was already filed. No leaves added. 0 leaves. Chrome not available. Total 4250."
   }
  ],
  "history": [
@@ -30712,6 +30712,10 @@
   },
   {
    "date": "2026-11-21 13:58",
+   "total": 4250
+  },
+  {
+   "date": "2026-11-21 13:59",
    "total": 4250
   },
   {
