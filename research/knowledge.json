@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:58:24+05:30",
- "runs": 2200,
+ "updated": "2026-11-21T22:59:06+05:30",
+ "runs": 2201,
  "branches": [
   {
    "id": "platforms",
@@ -15560,6 +15560,20 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2141
+    },
+    {
+     "t": "CGWorld (28 Jul 2026) reports that the 3D animated adventure episodes of Ryan's World (about 40M subscribers) are made by a small Japanese team, partly remote, that does story, storyboards and previs inside Blender without timesheets and aims to keep every step up to the camera in Blender, so a big kids brand's episodes come from the same free tool and small team shape as Bro Bros.",
+     "src": "CGWorld.jp, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2201
+    },
+    {
+     "t": "The same team says it chose a format made for a kids YouTube channel rather than a classic anime look, and that building a pipeline once and reusing it for the next project is what lets a small crew keep up, which backs our plan of reusable Blender scenes, rigs and camera presets for every weekly song.",
+     "src": "CGWorld.jp, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2201
     }
    ]
   },
@@ -31504,12 +31518,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 19:42",
-   "note": "Summary of 2 older log entries (2026-11-21 19:41 to 2026-11-21 19:42): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 19:43",
-   "note": "Run 2123 (rules and safety (COPPA, UK codes, AI labels)): Nothing new: Ofcom's 16 Nov 2026 draft code changes, YouTube's May 2026 AI label rules (animation exempt) and the FTC's COPPA push were all already filed. 0 leaves. Chrome not available. Total 4418."
+   "note": "Summary of 2 older log entries (2026-11-21 19:42 to 2026-11-21 19:43): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:43",
@@ -31822,6 +31832,10 @@
   {
    "date": "2026-11-21 22:58",
    "note": "Run 2200 (music craft (Spotify children genre stats)): Small addition: Kapiko's 'children' genre page (top 100 Spotify children tracks) is internally inconsistent, but its stable figures (median about 120 BPM, about 2 to 3 minutes, mostly major, CoComelon 31 of 100 tracks and Super Simple Songs 16) confirm the earlier tempo leaf and show how concentrated streaming is. 1 leaves. Chrome not available. Total 4487."
+  },
+  {
+   "date": "2026-11-21 22:59",
+   "note": "Run 2201 (visual craft (Blender pipeline of a top kids brand's 3D episodes)): New: CGWorld (Jul 2026) reports that the 3D animated episodes of a 40M subscriber kids brand are made by a small, partly remote Japanese team doing story, storyboards and previs inside Blender, without timesheets, aiming to keep everything up to the camera stage in Blender. 2 leaves. Chrome not available. Total 4489."
   }
  ],
  "history": [
@@ -32528,6 +32542,10 @@
   {
    "date": "2026-11-21 22:58",
    "total": 4487
+  },
+  {
+   "date": "2026-11-21 22:59",
+   "total": 4489
   }
  ],
  "next_week_ideas": [
