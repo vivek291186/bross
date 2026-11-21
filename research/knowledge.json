@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:42:42+05:30",
- "runs": 2011,
+ "updated": "2026-11-21T15:43:33+05:30",
+ "runs": 2012,
  "branches": [
   {
    "id": "platforms",
@@ -19753,6 +19753,27 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 2004
+    },
+    {
+     "t": "Peru's broadcast council Concortv (Oct 2024) found YouTube is the first platform for both younger children and teens (97% of teens use it, ahead of WhatsApp 91% and TikTok 84%), 57% of children watch TV while eating breakfast, lunch or dinner and 61% watch mostly in the living room, so Spanish Bro Bros songs should suit mealtime and family TV viewing.",
+     "src": "Gestion (Concortv), Oct 2024",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2012
+    },
+    {
+     "t": "Oman's National Centre for Statistics and Information found YouTube is the most popular platform among under 18s at 82%, and 81% of households say they follow what their children do on social media, so in the Gulf parents watch closely and a clean, modest, family values image matters.",
+     "src": "Oman Observer (NCSI), Jun 2024",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2012
+    },
+    {
+     "t": "Dutch parents report (Iene Miene Media 2026) that children aged 0 to 6 use about 126 minutes of digital media a day, 37% watch videos about two hours a day, and the TV (57%) is used more than tablets (41%) or phones (31%), while for 7 to 12s the TV (78%) still leads, so in the Netherlands too our songs are mostly seen on the family TV.",
+     "src": "NJi, Apr 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2012
     }
    ]
   },
@@ -29997,10 +30018,6 @@
   },
   {
    "date": "2026-11-21 12:56",
-   "note": "Run 1933 (YouTube algorithm (Home feed and Shorts age, Joos analyses)): Nothing new: the Home feed long form cut, the 28 to 30 day Shorts flattening and the satisfied watch time per click shift were already filed. No leaves added. 0 leaves. Chrome not available. Total 4220."
-  },
-  {
-   "date": "2026-11-21 12:56",
    "note": "Run 1934 (Shorts and Reels (Edits app updates; algorithm skipped as already empty this run)): Mostly filed already (Use as reference, Edits for Mac, Reels linking removed). New: Edits now lets Reels carry tappable audio links and saved style 'Kits', so each Bro Bros Reel can link the song's own audio and every Reel can reuse one saved brand look. 1 leaves. Chrome not available. Total 4221."
   },
   {
@@ -30310,6 +30327,10 @@
   {
    "date": "2026-11-21 15:42",
    "note": "Run 2011 (TRENDS (Later 20 Nov Reels list, most viewed Shorts of 2026)): Mostly filed already. New: Later's 20 Nov list adds 'Get up, diva', an original audio setback then pep talk comeback format, which becomes a kid safe 'wobble, shake it off, try again' resilience Short; the 2026 most viewed Shorts list is unchanged. 1 leaves. Chrome not available. Total 4271."
+  },
+  {
+   "date": "2026-11-21 15:43",
+   "note": "Run 2012 (global markets (Peru, Oman, Netherlands)): New: Peru's Concortv study puts YouTube first for children and teens (97% of teens) with 57% watching TV during meals and the living room as the main screen; Oman's statistics centre found 82% of under 18s use YouTube, the top platform; Dutch parents report 0 to 6 year olds average about 126 minutes of digital media a day, with the TV the most used screen. 3 leaves. Chrome not available. Total 4274."
   }
  ],
  "history": [
@@ -30968,6 +30989,10 @@
   {
    "date": "2026-11-21 15:42",
    "total": 4271
+  },
+  {
+   "date": "2026-11-21 15:43",
+   "total": 4274
   }
  ],
  "next_week_ideas": [
