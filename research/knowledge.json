@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T15:41:38+05:30",
- "runs": 2010,
+ "updated": "2026-11-21T15:42:42+05:30",
+ "runs": 2011,
  "branches": [
   {
    "id": "platforms",
@@ -29959,6 +29959,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2008
+    },
+    {
+     "t": "Later's 20 Nov 2026 Reels roundup adds 'Get up, diva': a clip of a small setback is followed by an upbeat pep talk clip about shaking it off and carrying on, on original audio, so a Bro Bros version shows Little Bro's tower toppling or a wobble while dancing, then Big Bro's cheerful 'get up, shake it off, try again' chorus.",
+     "src": "Later, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2011
     }
    ]
   }
@@ -29987,10 +29994,6 @@
   {
    "date": "2026-11-21 12:37",
    "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
-   "date": "2026-11-21 12:55",
-   "note": "Run 1932 (YouTube main and Kids (Tubefilter week of 15 Nov, growth studies; our results skipped as already empty this run)): Nothing new: Tubefilter's week of 15 Nov chart (Chispita, Plim Plim), AIR's kids growth tactics and CreatorDB's 417 fast growing channels census were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4220."
   },
   {
    "date": "2026-11-21 12:56",
@@ -30303,6 +30306,10 @@
   {
    "date": "2026-11-21 15:41",
    "note": "Run 2010 (visual craft (Meshy and Blender tool updates)): Mostly filed. New: Meshy said in July 2026 that its chat based 3D Agent has begun rolling out rigging and animation inside the chat, and its October changelog lets Auto Split work on textured models; still no November changelog entry, so our Text to Motion workflow is unchanged. 2 leaves. Chrome not available. Total 4270."
+  },
+  {
+   "date": "2026-11-21 15:42",
+   "note": "Run 2011 (TRENDS (Later 20 Nov Reels list, most viewed Shorts of 2026)): Mostly filed already. New: Later's 20 Nov list adds 'Get up, diva', an original audio setback then pep talk comeback format, which becomes a kid safe 'wobble, shake it off, try again' resilience Short; the 2026 most viewed Shorts list is unchanged. 1 leaves. Chrome not available. Total 4271."
   }
  ],
  "history": [
@@ -30957,6 +30964,10 @@
   {
    "date": "2026-11-21 15:41",
    "total": 4270
+  },
+  {
+   "date": "2026-11-21 15:42",
+   "total": 4271
   }
  ],
  "next_week_ideas": [
@@ -31018,6 +31029,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Get up, shake it off!",
+   "where": "Instagram Reels (Later 20 Nov 2026, original audio), TikTok, Shorts",
+   "status": "rising",
+   "use": "Little Bro's block tower falls down (or his snowman tips over); he freezes with a sad face for one beat. Big Bro steps in and sings our own short pep chorus ('Get up, shake it off, try again!'). Both shake their arms and hands loosely at their sides, shake one leg then the other, then do a proud chest out pose and rebuild the tower. Standing in place, no falling or floor moves; the setback is the object, not the child."
+  },
   {
    "name": "Say the word on beat (Bros picture beat game)",
    "where": "TikTok, Instagram Reels, YouTube long form on smart TVs (family holiday game, about 1.2B views)",
@@ -31125,12 +31142,6 @@
    "where": "TikTok, Reels",
    "status": "rising",
    "use": "Little Bro turns his face away from the camera, arms crossed, says 'hmph' and shakes his head twice; on the beat drop of our own song he gives in, smiles and dances: bounce in place with knees soft, then two arm rolls in front of the chest, then point at the camera. Meshy prompt: standing in place, turn head away with arms crossed, then bounce and roll arms forward, then point forward. 10 to 15 seconds, loop back to the shy pose."
-  },
-  {
-   "name": "Meanwhile, btw",
-   "where": "TikTok (Virlo rising, week to 19 Nov 2026)",
-   "status": "rising",
-   "use": "A 12 second Short: on screen text 'While everyone's building snowmen...' over a quick snowy clip, then 'Little Bro, btw:' and a proud shot of him practising our new dance in his room, ending with Big Bro joining in. Uses our own song. Dance for the payoff: standing in place, step side to side with arms swinging for four beats, then a big proud chest point with both thumbs."
   },
   {
    "name": "Burst through the gift paper",
