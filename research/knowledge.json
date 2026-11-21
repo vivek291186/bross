@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T05:47:19+05:30",
- "runs": 1741,
+ "updated": "2026-11-21T05:47:59+05:30",
+ "runs": 1742,
  "branches": [
   {
    "id": "platforms",
@@ -2764,6 +2764,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1730
+    },
+    {
+     "t": "An Instagram Feature (horizontal video up to 90 minutes, still in limited testing in the US and Brazil since Oct 2026) can be posted with up to eight linked Reels that point viewers to it, so when we get access a weekly Bro Bros compilation could go up as one Feature with one teaser Reel per song.",
+     "src": "Fast Company, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1742
     }
    ]
   },
@@ -28260,10 +28267,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-21 02:55",
-   "note": "Run 1663 (global markets (Perso dubbing demand by category, Sub Saharan Africa streaming forecast, East African kids channels)): The 3Vision Africa forecast and Akili and Me were already filed. New: in Perso's July 2026 figures Portuguese leads dubbing demand at 12.7% ahead of Spanish 9.0% and is the top target in animation (12.9%), and a Kenyan parent guide lists a 3D animated Swahili nursery rhyme channel with African characters among the top picks. Chrome not available. Total 3903."
-  },
-  {
    "date": "2026-11-21 02:56",
    "note": "Run 1664 (competitor deep dive (ChuChu TV main, Hindi and Surprise Eggs channels via vidIQ)): ChuChu TV main (flat subscribers, 223M views a month, 24 minute story compilation newest) was already filed. New: ChuChuTV Hindi lost about 100K subscribers in 28 days and its Diwali song collection drew only about 55K views in nine days, while the Surprise Eggs side channel posted nothing for over a month yet still gained subscribers on about 25M monthly views. Chrome not available. Total 3905."
   },
@@ -28574,13 +28577,13 @@
   {
    "date": "2026-11-21 05:47",
    "note": "Run 1741 (YouTube algorithm (YouTube Kids app, supervised accounts and family controls)): Nothing new: YouTube's family post (three supervised levels, Shorts timer down to zero, autoplay off and break reminders for under 18s) and the Safer Internet Day controls were already filed. No leaves added. Chrome not available. Total 4023."
+  },
+  {
+   "date": "2026-11-21 05:47",
+   "note": "Run 1742 (Shorts and Reels (Instagram long form Features, platform news this week)): Mostly known. New detail: each Instagram Feature (horizontal video up to 90 minutes, still in limited testing) can carry up to eight linked Reels that send viewers to it, which suits a song compilation with one Reel per song once we get access. Chrome not available. Total 4024."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 05:52",
-   "total": 3531
-  },
   {
    "date": "2026-11-20 05:52",
    "total": 3533
@@ -29776,6 +29779,10 @@
   {
    "date": "2026-11-21 05:47",
    "total": 4023
+  },
+  {
+   "date": "2026-11-21 05:47",
+   "total": 4024
   }
  ],
  "next_week_ideas": [
