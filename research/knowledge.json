@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:53:01+05:30",
- "runs": 1971,
+ "updated": "2026-11-21T13:53:15+05:30",
+ "runs": 1972,
  "branches": [
   {
    "id": "platforms",
@@ -29838,12 +29838,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 11:53",
-   "note": "Earlier: older log entries summarised (runs up to 1892); see git history."
-  },
-  {
    "date": "2026-11-21 11:54",
-   "note": "Run 1893 (posting times (Sprout Instagram study, eMarketer kids time on YouTube)): New: Sprout's 2026 study (about 2B engagements, 307K profiles, late Nov to late Feb) finds Instagram's best hours are weekday early afternoons to evenings local time with weekends and 3 to 7 AM weakest, and its education accounts peak around 3 to 5 PM; eMarketer says US kids under 12 spend about 26 minutes a day on YouTube against under 5 on other social apps. Slots unchanged. 3 leaves. Chrome not available. Total 4182."
+   "note": "Earlier: older log entries summarised (runs up to 1893); see git history."
   },
   {
    "date": "2026-11-21 11:55",
@@ -30156,6 +30152,10 @@
   {
    "date": "2026-11-21 13:53",
    "note": "Run 1971 (Shorts and Reels (Trial Reels and Shorts length studies)): Nothing new: Planoly's and Kapwing's Trial Reels tests, Adobe's Shorts length study and Metricool's 800K video study were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
+  },
+  {
+   "date": "2026-11-21 13:53",
+   "note": "Run 1972 (other platforms (Roblox, Yoto and Tonies)): Nothing new: GGRecon's fastest growing new Roblox games for November, Bloxodes' October genre shift and the Yoto and Tonies growth figures were already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
   }
  ],
  "history": [
@@ -30649,6 +30649,10 @@
   },
   {
    "date": "2026-11-21 13:52",
+   "total": 4249
+  },
+  {
+   "date": "2026-11-21 13:53",
    "total": 4249
   },
   {
