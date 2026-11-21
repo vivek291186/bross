@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:50:33+05:30",
- "runs": 2100,
+ "updated": "2026-11-21T18:51:30+05:30",
+ "runs": 2101,
  "branches": [
   {
    "id": "platforms",
@@ -5690,6 +5690,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2090
+    },
+    {
+     "t": "YouTube has been retiring the separate YouTube Kids TV app since 2024 (no single date; Sony devices lost it on 25 Aug 2025), so on smart TVs and consoles families now open the main YouTube app and pick the child's profile, which means our TV audience reaches us through the main app's Kids profile feed and its Suggested rows rather than a standalone Kids app.",
+     "src": "documentarytube.com, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2101
     }
    ]
   },
@@ -30888,12 +30895,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 15:48",
-   "note": "Summary of 2 older log entries (2026-11-21 15:48 to 2026-11-21 15:48): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 15:49",
-   "note": "Run 2022 (visual craft (titles, emoji, pacing studies)): Nothing new: vidIQ's emoji and title formula studies, AIR's 11 niche title study, YouTube's made for kids title guide, the ISB background motion test, SRI's fast pace model and Common Sense's attention capture scores were all already filed. 0 leaves. Chrome not available. Total 4280."
+   "note": "Summary of 2 older log entries (2026-11-21 15:48 to 2026-11-21 15:49): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 15:49",
@@ -31206,6 +31209,10 @@
   {
    "date": "2026-11-21 18:50",
    "note": "Run 2100 (TRENDS (Nuelink November lists)): New: Nuelink's November 2026 lists (updated 10 and 17 Nov) add an Instagram 'How I imagine my new thing sounds in the bag on the way home' POV (camera inside the bag), a 'Listening ears' TikTok sound that pulls out the attention grabbing words, a calm 'if you're feeling stressed' routine format and a 'trying to explain' chores sound. The loading transition and month recap were already filed. Trend bank: added 'How I imagine my toy sounds in the toy box', dropped Villain chair, oops! (oldest rising item, overlapping our Upside down flip). 3 leaves. Chrome not available. Total 4399."
+  },
+  {
+   "date": "2026-11-21 18:51",
+   "note": "Run 2101 (YouTube algorithm (YouTube Kids on TV)): New detail: the separate YouTube Kids TV app has been retired device by device since 2024 (Sony's date was 25 Aug 2025), so on TVs YouTube Kids now lives as a child profile inside the main YouTube app. Todd Beaupre's Creator Insider points (10% subscriber click rate, Suggested as top source, the eight times cap) were already filed. 1 leaves. Chrome not available. Total 4400."
   }
  ],
  "history": [
@@ -32220,6 +32227,10 @@
   {
    "date": "2026-11-21 18:50",
    "total": 4399
+  },
+  {
+   "date": "2026-11-21 18:51",
+   "total": 4400
   }
  ],
  "next_week_ideas": [
