@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:00:45+05:30",
- "runs": 2144,
+ "updated": "2026-11-21T21:01:31+05:30",
+ "runs": 2145,
  "branches": [
   {
    "id": "platforms",
@@ -31093,6 +31093,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2142
+    },
+    {
+     "t": "Virlo's Instagram sound chart for 21 Nov 2026 (Reels posted in the last 7 days) still has no Christmas or children's song in its top 15, but its breakout list includes a calm piano style instrumental named 'November Magic' and the classic spy movie theme, so a cosy seasonal instrumental bed and a 'sneaky spy' tiptoe moment are timely Reel textures we can make ourselves in Suno (our own tune, not the film theme).",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2145
     }
    ]
   }
@@ -31119,12 +31126,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 17:43",
-   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 17:44",
-   "note": "Run 2066 (Reels algorithm (confirmed changes and debunked myths)): New: Keywords Everywhere's tracker (checked 20 Nov 2026) says no confirmed Instagram ranking change is rolling out now and lists popular claims with no official source (sends worth 3 to 5 times a like, a skip rate signal added in July, originals getting 40 to 60% more reach), while confirming that unlabelled AI profiles lost recommendation eligibility on 31 Aug 2026. Most dated changes (AB 1709, 45% of Reels under a day old, five hashtag cap) were already filed. 3 leaves. Chrome not available. Total 4351."
+   "note": "Summary of 2 older log entries (2026-11-21 16 plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more plus more: earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 17:44",
@@ -31437,6 +31440,10 @@
   {
    "date": "2026-11-21 21:00",
    "note": "Run 2144 (competitor deep dive (CoComelon compilation channel, Lellobee Spanish)): New: the 'Happy Kids!' channel that reposts CoComelon songs (9.13M subscribers, about 36M views a month, six uploads a week) is still led by 2021 to 2022 classic song videos of 230M to 430M views each, though its views fell 11% in two weeks; Lellobee Spanish was already filed. 1 leaves. Chrome not available. Total 4432."
+  },
+  {
+   "date": "2026-11-21 21:01",
+   "note": "Run 2145 (TRENDS (Instagram Reels audio, Gen Alpha check)): New: Virlo's 21 Nov Reels sound chart still has no Christmas or kids song in its top 15 (GTA tracks hold four spots), but a calm instrumental called November Magic and the James Bond theme are breakout sounds this week, so cosy instrumentals and spy style suspense are what people add to Reels now; Daily Dot's Gen Alpha tag had nothing newer than January. 1 leaves. Chrome not available. Total 4433."
   }
  ],
  "history": [
@@ -32627,6 +32634,10 @@
   {
    "date": "2026-11-21 21:00",
    "total": 4432
+  },
+  {
+   "date": "2026-11-21 21:01",
+   "total": 4433
   }
  ],
  "next_week_ideas": [
