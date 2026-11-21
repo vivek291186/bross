@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:36:26+05:30",
- "runs": 2210,
+ "updated": "2026-11-21T23:37:39+05:30",
+ "runs": 2211,
  "branches": [
   {
    "id": "platforms",
@@ -3002,6 +3002,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2185
+    },
+    {
+     "t": "Instagram's Your Algorithm topic tool is switched on by the phone's app language being English rather than by country (Portuguese had no date when it widened in Jan 2026), so English topic words in our Reel captions ('kids songs', 'dance for kids') matter for parents everywhere who use Instagram in English, including in India and the Gulf.",
+     "src": "Canaltech, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2211
     }
    ]
   },
@@ -31617,11 +31624,7 @@
  "log": [
   {
    "date": "2026-11-21 20:51",
-   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:52): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 20:53",
-   "note": "Run 2135 (our own results (Metricool recheck)): Nothing new: Metricool's YouTube data still stops at the 19 Nov uploads (tomato song 972 views, freeze dance 48, farm band 63) and Instagram at the 20 Nov Reels (car song 55 views and 25 shares), all already filed. 0 leaves. Chrome not available. Total 4426."
+   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:53): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 20:54",
@@ -31934,6 +31937,10 @@
   {
    "date": "2026-11-21 23:36",
    "note": "Run 2210 (YouTube algorithm (mid November changes)): New: Google's 16 Nov India family push lets parents cap teens' Shorts feed time down to zero while long videos stay open, and adds a YouTube wellbeing playlist on bedtime routines; no ranking change found for 8 to 21 Nov (custom feeds, Clips to Shorts and Hype were already filed). 2 leaves. Chrome not available. Total 4503."
+  },
+  {
+   "date": "2026-11-21 23:37",
+   "note": "Run 2211 (Shorts and Reels (formats, retention, Reels algorithm)): Small addition: Instagram's Your Algorithm topic tool is gated by the app being set to English, not by country, with no Portuguese date; Metricool's YouTube study, Emplifi hook data, Dash Social Q3 retention and Instagram Features were already filed. 1 leaves. Chrome not available. Total 4504."
   }
  ],
  "history": [
@@ -32680,6 +32687,10 @@
   {
    "date": "2026-11-21 23:36",
    "total": 4503
+  },
+  {
+   "date": "2026-11-21 23:37",
+   "total": 4504
   }
  ],
  "next_week_ideas": [
