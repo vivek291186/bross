@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:36:56+05:30",
- "runs": 2025,
+ "updated": "2026-11-21T16:42:51+05:30",
+ "runs": 2026,
  "branches": [
   {
    "id": "platforms",
@@ -30085,6 +30085,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2011
+    },
+    {
+     "t": "Virlo's week of 16 to 21 Nov 2026 shows a new 'We could stay here or we could go up' motivation format (64 creator posts in its first week): a calm shot of someone at the bottom, the line on screen, then a cut to them climbing higher; it is a clean two beat 'level up' hook that kids content can borrow without the audio.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2026
+    },
+    {
+     "t": "The fastest rising TikTok format of 16 to 21 Nov 2026 was 'He wanna pay full price' (an SNL sketch sound, about 1100% more posts than the week before) and the biggest was a romantic 'My Moon My Man' couple montage; both are adult or romantic, so this week's top two formats are not usable for Bro Bros.",
+     "src": "virlo.ai, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2026
     }
    ]
   }
@@ -30111,12 +30125,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:06",
-   "note": "Earlier: older log entries summarised; see git history."
-  },
-  {
    "date": "2026-11-21 13:07",
-   "note": "Run 1947 (Shorts and long form frequency (Metricool 2026 YouTube study)): New: in Metricool's study of about 800K videos, long videos did best per video at 2 to 4 a week, 4 to 7 a week added only about 6% monthly views and above 7 a week total views fell, while the Shorts lift vanished above about 35 a month; we post 14 long videos and 14 Shorts a week, so quality per song matters more than adding volume (correlational, all categories, not kids only). Long videos with hashtags got about 17% fewer views. 2 leaves. Chrome not available. Total 4233."
+   "note": "Earlier: older log entries summarised; see git history."
   },
   {
    "date": "2026-11-21 13:07",
@@ -30429,6 +30439,10 @@
   {
    "date": "2026-11-21 16:36",
    "note": "Run 2025 (competitor deep dive (Pinkfong holiday playbook, Hogi)): New: Pinkfong's Chuseok Festa (Sep 2026) shows its holiday playbook: one festival playlist across four channels, a new holiday Shorts series, a 10 track holiday album on every streaming service and IPTV specials, with last year's holiday Short at 7M views; Pinkfong now cites about 240B YouTube views and 320M subscribers in 25 languages; Hogi's spin off series uses 11 to 12 minute episodes on Apple TV. 3 leaves. Chrome not available. Total 4288."
+  },
+  {
+   "date": "2026-11-21 16:42",
+   "note": "Run 2026 (TRENDS (Virlo week of 16 to 21 Nov)): Mostly filed (villain chair, everybody out partying except me, Boom Clap confetti pop, GTA VI score as top sound). New: 'We could stay here or we could go up' motivation clips (64 posts, new) added to the trend bank as a kid safe 'level up' climb format; the fastest riser 'He wanna pay full price' (SNL sound, up about 1100%) and the top couple montage are adult or romantic, so skipped. 2 leaves. Chrome not available. Total 4290."
   }
  ],
  "history": [
@@ -31143,6 +31157,10 @@
   {
    "date": "2026-11-21 16:36",
    "total": 4288
+  },
+  {
+   "date": "2026-11-21 16:42",
+   "total": 4290
   }
  ],
  "next_week_ideas": [
@@ -31205,6 +31223,12 @@
  ],
  "trend_bank": [
   {
+   "name": "We could stay here, or we could go up",
+   "where": "TikTok, Instagram Reels (new, week of 16 Nov 2026)",
+   "status": "rising",
+   "use": "Big Bro stands at the bottom of a giant toy block staircase and looks at the camera; text 'We could stay here... or we could go UP!'. On the beat Little Bro claps, then both step up one block per beat with a knee lift and arms pumping, ending on top with a star jump and arms in a V. Meshy prompt: standing, step forward and up with a high knee, pump both arms, then jump in place with arms raised in a V. Use our own 'Up, Up, Up!' hook in Suno, never the original audio."
+  },
+  {
    "name": "Get up, shake it off!",
    "where": "Instagram Reels (Later 20 Nov 2026, original audio), TikTok, Shorts",
    "status": "rising",
@@ -31215,12 +31239,6 @@
    "where": "TikTok, Instagram Reels, YouTube long form on smart TVs (family holiday game, about 1.2B views)",
    "status": "evergreen",
    "use": "Our own original drum loop with a tick and a whistle. A grid of 8 bright pictures (snowman, star, sock, bell...) appears, each picture lights up on a beat and the Bros on either side point at it and say the word on the beat, then the family at home joins. Each round speeds up and sneaks in rhyming look alikes (cat, hat, bat) for giggles; end the long version with a 'grandma level' bonus round. Bros stand in place and point, clap and bounce on the beat, no floor moves."
-  },
-  {
-   "name": "The urge to...",
-   "where": "TikTok, Instagram Reels",
-   "status": "peak",
-   "use": "8 second wordless Short: caption 'the urge to jump in the BIG puddle' (or press the shiny red button, or eat the snowman's carrot nose); Little Bro stands still, looks at the puddle, looks at the camera with wide eyes, pauses one beat, then hops in with both feet on the drop of our own two bar jingle and freezes with a big grin. Meshy prompt: standing still, slow head turn to the side, look forward, small hop forward with both feet, arms up in a happy freeze."
   },
   {
    "name": "Villain chair, oops!",
