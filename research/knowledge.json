@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:49:13+05:30",
- "runs": 2164,
+ "updated": "2026-11-21T21:50:13+05:30",
+ "runs": 2165,
  "branches": [
   {
    "id": "platforms",
@@ -31228,10 +31228,6 @@
    "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 17:56): earlier runs grew the tree; see git history for detail."
   },
   {
-   "date": "2026-11-21 17:56",
-   "note": "Run 2086 (rules (EU AI Act transparency, AI Omnibus)): New detail: the EU AI Omnibus (Regulation 2026/1744, in force 27 Jul 2026) delayed high risk AI rules to Dec 2027 and Aug 2028 but did not delay the Article 50 transparency duties, whose deepfake disclosure rule covers synthetic depictions of real people, places or events; Commission guidelines on Article 50 were adopted 20 Jul 2026. The 2 Aug 2026 start, fines and the 2 Dec 2026 marking deadline for existing generators were already filed. 2 leaves. Chrome not available. Total 4375."
-  },
-  {
    "date": "2026-11-21 18:02",
    "note": "Run 2087 (YouTube kids channels (Super Simple Songs uploads)): Nothing new: the Super Simple Songs uploads page could not be read this run (fetch permission timed out); our own results were skipped because Metricool data was already recorded today. 0 leaves. Chrome not available. Total 4375."
   },
@@ -31542,6 +31538,10 @@
   {
    "date": "2026-11-21 21:49",
    "note": "Run 2164 (music craft (familiar tunes, bhangra fusion)): New: a U of T study (29 babies, 9 to 12 months) found infants listened longer, calmed and danced more to songs they already knew even when a stranger sang them at a different pitch and tempo, so repeating our own Bro Bros melodies across videos builds that pull; bhangra fusions of global pop keep going viral, a cheap India plus diaspora lane with our own tunes. 3 leaves. Chrome not available. Total 4447."
+  },
+  {
+   "date": "2026-11-21 21:50",
+   "note": "Run 2165 (visual craft (pacing and MIPJunior 2026)): Nothing new: SRI's fast paced video model and cut rate definitions and Disney Jr.'s testing of stories with children (MIPJunior Oct 2026) were already filed; a reboots and spin offs trend piece turned out to be from 2022. 0 leaves. Chrome not available. Total 4447."
   }
  ],
  "history": [
@@ -32103,6 +32103,10 @@
   },
   {
    "date": "2026-11-21 21:49",
+   "total": 4447
+  },
+  {
+   "date": "2026-11-21 21:50",
    "total": 4447
   }
  ],
