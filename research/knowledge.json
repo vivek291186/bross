@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:57:51+05:30",
- "runs": 1935,
+ "updated": "2026-11-21T12:58:33+05:30",
+ "runs": 1936,
  "branches": [
   {
    "id": "platforms",
@@ -29616,6 +29616,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1918
+    },
+    {
+     "t": "In SocialPilot's Reels audio list for 17 to 25 Nov 2026 the largest holiday sound is a classic Christmas standard used under 'decorate with me' Reels (about 1.8M Reels, at peak), ahead of a Christmas pop classic used for light and decor reveals (about 944K), so step by step room and tree transformations are the dominant holiday Reels format right now; we copy the format with our own song, never the recordings.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1936
     }
    ]
   }
@@ -29643,11 +29650,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1856); see git history."
-  },
-  {
-   "date": "2026-11-21 10:49",
-   "note": "Run 1857 (competitor deep dive (Little Angel Spanish channel)): Little Angel's Spanish channel (1.14M subs, about 117K views a day) posts about one video a day, long 10 to 16 minute song mixes titled '[everyday action] | Canciones Infantiles Para bebés' plus 16 to 34 second Shorts; its first Christmas mix came on 17 Nov, while its best recent upload was a pumpkin farm mix (about 101K). 3 leaves. Chrome not available. Total 4127."
+   "note": "Earlier: older log entries summarised (runs up to 1857); see git history."
   },
   {
    "date": "2026-11-21 10:49",
@@ -29960,6 +29963,10 @@
   {
    "date": "2026-11-21 12:57",
    "note": "Run 1935 (other platforms (Netflix top 10 for 9 to 15 Nov, Roblox music)): Nothing new: Doozie's Doghouse (No. 4) and Danny Go! season 2 (No. 10) on Netflix, holiday films and Roblox music ID charts were already filed. No leaves added. 0 leaves. Chrome not available. Total 4221."
+  },
+  {
+   "date": "2026-11-21 12:58",
+   "note": "Run 1936 (TRENDS (SocialPilot Reels audio 17 to 25 Nov)): Mostly filed already. New: the biggest holiday Reels audio this week is a classic Christmas standard used for 'decorate with me' room transformations (about 1.8M Reels), ahead of Last Christmas light reveals (about 944K); both songs are copyrighted, so we keep the decorate step by step format with our own song, which the trend bank already covers as the tree decorating time lapse. 1 leaves. Chrome not available. Total 4222."
   }
  ],
  "history": [
@@ -30314,6 +30321,10 @@
   {
    "date": "2026-11-21 12:57",
    "total": 4221
+  },
+  {
+   "date": "2026-11-21 12:58",
+   "total": 4222
   }
  ],
  "next_week_ideas": [
