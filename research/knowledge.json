@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:00:26+05:30",
- "runs": 1987,
+ "updated": "2026-11-21T14:01:11+05:30",
+ "runs": 1988,
  "branches": [
   {
    "id": "platforms",
@@ -19683,6 +19683,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1964
+    },
+    {
+     "t": "Indonesia's year end (Nataru) school holiday last season ran mostly from 22 Dec 2025 to 3 Jan 2026 with return on 5 Jan, set separately by each province (West Java, the most populous, went later, 29 Dec to 10 Jan); if the 2026 calendars follow the same shape, Indonesian children are home all day from about 22 Dec, so Indonesian language winter and New Year songs should be live by about 20 Dec and New Year content can run until about 10 Jan.",
+     "src": "Kontan and Detik, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1988
     }
    ]
   },
@@ -29859,12 +29866,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 12:05",
-   "note": "Earlier: older log entries summarised (runs up to 1908); see git history."
-  },
-  {
    "date": "2026-11-21 12:06",
-   "note": "Run 1909 (our results (Instagram account trend 14 to 20 Nov)): Instagram still shows 1 follower on 20 Nov and daily Reels views swung from 13 (19 Nov) to 240 (18 Nov, freeze dance plus tomato soup), averaging about 85 a day, so one strong Reel decides the whole day; nothing yet suggests a slot change. 1 leaves. Chrome not available. Total 4199."
+   "note": "Earlier: older log entries summarised (runs up to 1909); see git history."
   },
   {
    "date": "2026-11-21 12:07",
@@ -30177,6 +30180,10 @@
   {
    "date": "2026-11-21 14:00",
    "note": "Run 1987 (topics and seasons (winter school breaks)): New: UAE schools (Ministry, Dubai KHDA and Sharjah, September start calendars) break from Monday 14 Dec 2026 to Sunday 3 Jan 2027, a week before the US; Indian states usually close only about 25 to 31 Dec (longer in the north), so the Gulf and then the US are home all day earlier than India. 2 leaves. Chrome not available. Total 4252."
+  },
+  {
+   "date": "2026-11-21 14:01",
+   "note": "Run 1988 (global markets (Indonesia year end school holiday)): New: in Indonesia, our likely first Asian dub market, most provinces' year end school holiday last season ran about 22 Dec to 3 Jan (West Java, the most populous, 29 Dec to 10 Jan), so Indonesian kids are home through New Year rather than all of December. 1 leaves. Chrome not available. Total 4253."
   }
  ],
  "history": [
@@ -30739,6 +30746,10 @@
   {
    "date": "2026-11-21 14:00",
    "total": 4252
+  },
+  {
+   "date": "2026-11-21 14:01",
+   "total": 4253
   }
  ],
  "next_week_ideas": [
