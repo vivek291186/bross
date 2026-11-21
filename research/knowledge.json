@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:40:47+05:30",
- "runs": 2180,
+ "updated": "2026-11-21T22:41:09+05:30",
+ "runs": 2181,
  "branches": [
   {
    "id": "platforms",
@@ -5725,6 +5725,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2101
+    },
+    {
+     "t": "In Metricool's YouTube grid for our brand for 22 to 28 Nov 2026 Friday is the flattest day: 10:00 (about 10.5K), 14:00 (about 10.5K) and 16:00 IST (about 10.7K) score almost the same, while on Tuesday to Thursday 16:00 leads 10:00 by 12 to 21%, so Friday's strongest song of the week can go out in either daily slot without losing reach.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2181
     }
    ]
   },
@@ -31343,12 +31350,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 18:51",
-   "note": "Summary of 2 older log entries (2026-11-21 18:50 to 2026-11-21 18:51): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 18:52",
-   "note": "Run 2102 (Shorts and Reels (Emplifi Q3 2026 benchmarks)): New: Emplifi's Q3 2026 benchmarks (15 Oct 2026, 77,038 Instagram and 1,301 TikTok brand profiles) show Instagram engagement per impression up about 68% to 1.52% while median impressions per post fell 48% year on year, median brand posts get only about 2 shares and 2 saves, and TikTok impressions per post fell 60%. vidIQ's first ten videos study and Metricool's YouTube study were already filed. 2 leaves. Chrome not available. Total 4402."
+   "note": "Summary of 2 older log entries (2026-11-21 18:51 to 2026-11-21 18:52): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:53",
@@ -31661,6 +31664,10 @@
   {
    "date": "2026-11-21 22:40",
    "note": "Run 2180 (competitor deep dive (truck songs, Smile and Learn, Moonbug compilation channel)): New: a vehicle songs channel earns about 44M views a month on truck counting, Halloween truck and karaoke versions; Smile and Learn's biggest video by far is a farm animal song, not its flags lessons; a Moonbug compilation channel lost 33M views in one correction on 29 Oct 2026. 3 leaves. Chrome not available. Total 4464."
+  },
+  {
+   "date": "2026-11-21 22:41",
+   "note": "Run 2181 (posting times (Metricool YouTube grid recheck)): Grid for 22 to 28 Nov unchanged (16:00 IST top every day, Wednesday and Thursday strongest, weekends about half); one detail added: on Friday 10:00, 14:00 and 16:00 IST score almost the same. Slots unchanged. 1 leaves. Chrome not available. Total 4465."
   }
  ],
  "history": [
@@ -32287,6 +32294,10 @@
   {
    "date": "2026-11-21 22:40",
    "total": 4464
+  },
+  {
+   "date": "2026-11-21 22:41",
+   "total": 4465
   }
  ],
  "next_week_ideas": [
