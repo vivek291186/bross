@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:51:52+05:30",
- "runs": 2167,
+ "updated": "2026-11-21T21:52:36+05:30",
+ "runs": 2168,
  "branches": [
   {
    "id": "platforms",
@@ -10450,6 +10450,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2166
+    },
+    {
+     "t": "Loco Nuts' English nursery channel (1.92M subscribers, 1.18B views, 972 videos) earned only about 3.6M views and gained no subscribers in the 28 days to 21 Nov 2026, and its newest upload, a Wheels on the Bus Christmas special posted 17 Nov, had about 1.7K views four days later, so yet another generic cover of a classic rhyme no longer breaks through in 2026.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2168
+    },
+    {
+     "t": "Loco Nuts' Hindi rhymes channel (517K subscribers) still adds about 1K subscribers a month from 2023 Hindi animal rhymes (a fat elephant goes for a walk 50.5M, a monkey opens a shop 26.5M), so in India local language animal songs with a tiny funny story outlast English covers from the same studio.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2168
     }
    ]
   },
@@ -31260,11 +31274,7 @@
  "log": [
   {
    "date": "2026-11-21 17:49",
-   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 18:02): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 18:03",
-   "note": "Run 2089 (visual craft (title formulas)): Nothing new: emoji and title length studies were already filed and vidIQ's July 2026 title formula study returned no readable text. End of run: 35 rounds (runs 2055 to 2089), 54 new leaves, 3 trend bank entries added (Build a themed tree, Comment what you got, Magic bauble pop) and 3 faded ones dropped, no song idea or posting slot changes. Page not published (artifact tools not available this run). 0 leaves. Chrome not available. Total 4375."
+   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 18:03): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:35",
@@ -31577,6 +31587,10 @@
   {
    "date": "2026-11-21 21:51",
    "note": "Run 2167 (global markets (Philippines and East Africa)): New: Pinoy Kids Channel (1.93M subscribers, 1.35B views, about 34M views a month) is built almost entirely on real animal toy videos with English titles that teach animal names, sounds and counting, still pulling tens of millions years later; the Philippines chart and Akili and Me facts were already filed. 2 leaves. Chrome not available. Total 4452."
+  },
+  {
+   "date": "2026-11-21 21:52",
+   "note": "Run 2168 (competitor deep dive (Loco Nuts English and Hindi)): New: Loco Nuts' English channel (1.92M subscribers, 1.18B views) now makes only about 3.6M views in 28 days with zero subscriber growth and its new Christmas bus video had 1.7K views after four days, while its Hindi channel still adds subscribers on 2023 Hindi animal rhymes (50.5M top), so a big back catalogue of generic English covers is stalling while local language animal rhymes keep growing. 2 leaves. Chrome not available. Total 4454."
   }
  ],
  "history": [
@@ -32151,6 +32165,10 @@
   {
    "date": "2026-11-21 21:51",
    "total": 4452
+  },
+  {
+   "date": "2026-11-21 21:52",
+   "total": 4454
   }
  ],
  "next_week_ideas": [
