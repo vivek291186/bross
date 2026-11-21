@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:52:09+05:30",
- "runs": 1969,
+ "updated": "2026-11-21T13:52:41+05:30",
+ "runs": 1970,
  "branches": [
   {
    "id": "platforms",
@@ -5515,6 +5515,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1947
+    },
+    {
+     "t": "Since about October 2026 YouTube tests Ask YouTube answer previews at the top of normal search results for a small group of signed in US desktop users searching in English: a short AI answer plus key moments from matching videos, shown for open ended or how to questions; YouTube said over 140M people used Ask YouTube in June 2026.",
+     "src": "Uppbeat (citing Creator Insider), Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1970
+    },
+    {
+     "t": "Per YouTube's Creator Insider, clicks that come from Ask YouTube count exactly like normal search for impressions, views, watch time, ad revenue and Partner Program watch hours, and YouTube's only stated advice is clear titles, detailed descriptions and timestamp chapters, so a parent question such as 'a song to teach my toddler to brush teeth' can land on the exact chapter of a Bro Bros compilation if chapters name each song's task.",
+     "src": "Uppbeat (citing Creator Insider), Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1970
     }
    ]
   },
@@ -29824,12 +29838,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 11:52",
-   "note": "Earlier: older log entries summarised (runs up to 1890); see git history."
-  },
-  {
    "date": "2026-11-21 11:53",
-   "note": "Run 1891 (global markets (Pinkfong's Spanish channels)): New: Pinkfong Español passed 20M subscribers and 13.4B views (Oct 2026) with views growing about 96% a year from 2023 to 2025, Bebefinn Español has 18M+, and Pinkfong keeps opening Spanish channels for each new character; its biggest Spanish hits are local remixes such as a Day of the Dead version. 2 leaves. Chrome not available. Total 4179."
+   "note": "Earlier: older log entries summarised (runs up to 1891); see git history."
   },
   {
    "date": "2026-11-21 11:53",
@@ -30142,6 +30152,10 @@
   {
    "date": "2026-11-21 13:52",
    "note": "Run 1969 (TRENDS (YouTube holiday formats, weekly Reels lists)): Nothing new: YouTube's holiday report (advent calendar views by month, wishlists, Secret Santa challenges, Vlogmas, What I got for Christmas) and the SocialPilot and SocialBee Reels audio lists to 25 Nov were already filed. No leaves added. 0 leaves. Chrome not available. Total 4247."
+  },
+  {
+   "date": "2026-11-21 13:52",
+   "note": "Run 1970 (YouTube algorithm (Ask YouTube answers in search)): New: since Oct 2026 YouTube tests Ask YouTube answer previews (text plus key moments from videos) at the top of normal search for some signed in US desktop users, over 140M people used Ask YouTube in June, and clicks from it count as normal search views and watch time; it skips supervised accounts, so for us it reaches parents searching, not kids. 2 leaves. Chrome not available. Total 4249."
   }
  ],
  "history": [
@@ -30632,6 +30646,10 @@
   {
    "date": "2026-11-21 13:52",
    "total": 4247
+  },
+  {
+   "date": "2026-11-21 13:52",
+   "total": 4249
   }
  ],
  "next_week_ideas": [
