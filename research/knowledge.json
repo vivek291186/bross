@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T02:40:25+05:30",
- "runs": 2276,
+ "updated": "2026-11-22T02:41:35+05:30",
+ "runs": 2277,
  "branches": [
   {
    "id": "platforms",
@@ -5802,6 +5802,13 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2268
+    },
+    {
+     "t": "Metricool's best time grid for our brand for 22 to 28 Nov 2026 again puts the YouTube peak at 16:00 IST on all seven days (Wednesday strongest, weekends about half of weekdays) and the Instagram peak at 10:00 IST every day with a second, lower peak at 18:00 IST, so our 16:00 YouTube slot and 10:00 Reel slot stay supported.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2277
     }
    ]
   },
@@ -25045,6 +25052,27 @@
      "conf": "high",
      "date": "2026-11-22",
      "run": 2231
+    },
+    {
+     "t": "Our Toy Town traffic light car Reel (20 Nov 2026, 16:00 IST) drew 25 shares from only 55 views and 44 accounts reached, while every other Reel from 14 to 20 Nov got 0 or 1 share, so 'red means stop, green means go' road safety songs look like the kind parents pass on and deserve a follow up song and Reel.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2277
+    },
+    {
+     "t": "Across all fourteen Reels of 14 to 20 Nov 2026 the 10:00 IST Reels averaged about 46 views (median 21) and the 16:00 IST Reels about 35 (median 18), a small edge for the morning slot driven by two hits (veggie soup 127, ant parade 114), still too few posts to move a slot.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2277
+    },
+    {
+     "t": "Our three weakest Reels of 19 and 20 Nov 2026 (farm animal band 4 views, bubble gum 9, circus elephant parade 16) all had 3 second skip rates of 75% to 89%, so their first second (a band line up or a slow parade start) failed to stop the scroll, unlike the freeze dance and veggie soup Reels that open on a big action.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2277
     }
    ]
   },
@@ -31931,12 +31959,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 22:57",
-   "note": "Summary of 2 earlier log entries (2026-11-21 22:56 to 2026-11-21 22:57): mostly small research rounds; see git history for details."
-  },
-  {
    "date": "2026-11-21 22:58",
-   "note": "Run 2200 (music craft (Spotify children genre stats)): Small addition: Kapiko's 'children' genre page (top 100 Spotify children tracks) is internally inconsistent, but its stable figures (median about 120 BPM, about 2 to 3 minutes, mostly major, CoComelon 31 of 100 tracks and Super Simple Songs 16) confirm the earlier tempo leaf and show how concentrated streaming is. 1 leaves. Chrome not available. Total 4487."
+   "note": "Summary of 2 earlier log entries (2026-11-21 22:57 to 2026-11-21 22:58): mostly small research rounds; see git history for details."
   },
   {
    "date": "2026-11-21 22:59",
@@ -32249,6 +32273,10 @@
   {
    "date": "2026-11-22 02:40",
    "note": "Run 2276 (competitor deep dive (CoComelon Lane holiday season, Moonbug)): Small addition: CoComelon Lane's holiday season packs Christmas, Hanukkah (learning to spin a dreidel) and Kwanzaa families into short stories inside one 34 minute block, and a reviewer praised the songs but called the plots thin; Moonbug's learning principles, the Disney+ move and the Christmas special were already filed. 2 leaves. Chrome not available. Total 4548."
+  },
+  {
+   "date": "2026-11-22 02:41",
+   "note": "Run 2277 (posting times and our results (Metricool best times 22 to 28 Nov, Reels 14 to 20 Nov)): New: Metricool's 22 to 28 Nov grid again peaks YouTube at 16:00 IST every day and Instagram at 10:00 IST (second peak 18:00); our Toy Town traffic light car Reel (20 Nov, 16:00 IST) got 25 shares from 55 views, far more than any other Reel; over seven days the 10:00 IST Reels still edge the 16:00 ones (average 46 vs 35 views). No slot change. 4 leaves. Chrome not available. Total 4552."
   }
  ],
  "history": [
@@ -33259,6 +33287,10 @@
   {
    "date": "2026-11-22 02:40",
    "total": 4548
+  },
+  {
+   "date": "2026-11-22 02:41",
+   "total": 4552
   }
  ],
  "next_week_ideas": [
