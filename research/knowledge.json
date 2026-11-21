@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T08:38:08+05:30",
- "runs": 1804,
+ "updated": "2026-11-21T08:39:05+05:30",
+ "runs": 1805,
  "branches": [
   {
    "id": "platforms",
@@ -11544,13 +11544,6 @@
      "run": 1024
     },
     {
-     "t": "Raising or lowering the pitch of the songs did not change how babies responded in the eLife study, so a key change alone will not hold a baby's attention; structure and repetition do the work.",
-     "src": "eLife via News Medical, Jul 2026",
-     "conf": "medium",
-     "date": "2026-11-19",
-     "run": 1024
-    },
-    {
      "t": "A Bucknell study (May 2026) of 23 babies aged 8 to 12 months found no difference between singers adults rated pleasant or unpleasant, but babies looked longer and moved more to the action song (the spider climbing rhyme) than to a gentle star lullaby, suggesting songs with built in hand actions win attention more than a perfect voice.",
      "src": "Bucknell University, May 2026",
      "conf": "low",
@@ -11771,13 +11764,6 @@
      "t": "An eLife study (79 infants at 3, 6 and 12 months, Jul 2026) found babies' brains respond to real song structure from 3 months, but only at 12 months do they move more to real music than scrambled music, mostly rocking back and forth, swaying side to side, proto clapping and arm pedalling, and none moved in time with the beat in the first year.",
      "src": "news-medical.net (eLife), Jul 2026",
      "conf": "high",
-     "date": "2026-11-19",
-     "run": 1313
-    },
-    {
-     "t": "In the same eLife infant study a high pitched and a low pitched version of the same children's songs got the same brain and movement responses at every age, so there is no need to pitch Bro Bros vocals unnaturally high to win babies; song structure matters more than pitch.",
-     "src": "news-medical.net (eLife), Jul 2026",
-     "conf": "medium",
      "date": "2026-11-19",
      "run": 1313
     },
@@ -28705,11 +28691,7 @@
  "log": [
   {
    "date": "2026-11-21 05:36",
-   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1725)."
-  },
-  {
-   "date": "2026-11-21 05:36",
-   "note": "Run 1726 (rules and safety (made for kids updates, FTC COPPA, Australia under 16 rules)): Nothing new: the Disney COPPA fine, Australia's under 16 ban and its new right to sue platforms, and YouTube's late 2025 age limits on gambling and violent game videos were already filed. No leaves added. Chrome not available. Total 4006."
+   "note": "Earlier runs summarised: 2 older log lines condensed (runs up to 1726)."
   },
   {
    "date": "2026-11-21 05:37",
@@ -29022,13 +29004,13 @@
   {
    "date": "2026-11-21 08:38",
    "note": "Run 1804 (TRENDS (Later 20 Nov, SocialPilot 17 to 25 Nov, Virlo 20 Nov, Know Your Meme)): Nothing new: this week's family friendly formats (camera shy then dance, Blue Danube chores ballet, You're Under Arrest pass the hook, Dear Santa list, silly little life montage, Christmas market walk, get up comeback) were all filed already; romance and adult sounds skipped. No leaves added; trend bank unchanged. Chrome not available. Total 4087."
+  },
+  {
+   "date": "2026-11-21 08:39",
+   "note": "Run 1805 (music craft (infant music studies, Suno v6, kids charts)): Correction: rereading PsyPost's report of the July 2026 eLife baby study shows higher pitched song versions did predict more movement at 3, 6 and 12 months and a stronger brain response at 6 months, so two music leaves that said pitch made no difference were removed as wrong; the correct leaves stay. Suno v6, the Italian rhythm study and Spotify Wrapped timing were already filed. No new leaves. Chrome not available. Total 4085."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 09:41",
-   "total": 3623
-  },
   {
    "date": "2026-11-20 10:35",
    "total": 3624
@@ -30224,6 +30206,10 @@
   {
    "date": "2026-11-21 08:38",
    "total": 4087
+  },
+  {
+   "date": "2026-11-21 08:39",
+   "total": 4085
   }
  ],
  "next_week_ideas": [
