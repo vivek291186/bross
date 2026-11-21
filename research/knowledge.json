@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T14:40:37+05:30",
- "runs": 2000,
+ "updated": "2026-11-21T14:41:20+05:30",
+ "runs": 2001,
  "branches": [
   {
    "id": "platforms",
@@ -29912,10 +29912,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 12:43",
-   "note": "Run 1922 (YouTube algorithm (subscriber feed, re uploads, kids viewing time)): Mostly already filed (subscriber feed click rates, re upload reach cuts). New: US kids under 12 average about 1 hour 48 minutes of YouTube a day, more than broadcast TV, and Nickelodeon and Disney Channel have lost over half their viewers since 2016, so YouTube on the TV is now the main kids channel. 1 leaves. Chrome not available. Total 4216."
-  },
-  {
    "date": "2026-11-21 12:44",
    "note": "Run 1923 (Shorts and Reels algorithm (Instagram originality and Features)): Nothing new: Instagram's aggregator rule (most posts in 30 days reposted), the 'Your Algorithm' controls and the Features long video test were already filed; one design update page could not be read. No leaves added. 0 leaves. Chrome not available. Total 4216."
   },
@@ -30226,6 +30222,10 @@
   {
    "date": "2026-11-21 14:40",
    "note": "Run 2000 (competitor deep dive (Pinkfong Baby Shark Christmas film)): New: Pinkfong's interactive sing and dance along Christmas film opens in cinemas in the UK, Ireland, UAE and Indonesia on 4 Dec 2026 and Korea on 5 Dec, then streams in the US from mid December; its story is a contest against a lookalike rival character, with an on screen MC leading a carol medley. CoComelon Lane's Popverse page is a year old, so nothing new there. 2 leaves. Chrome not available. Total 4259."
+  },
+  {
+   "date": "2026-11-21 14:41",
+   "note": "Run 2001 (TRENDS (seasonal: Wrapped, Reels tools)): Nothing new: Spotify Wrapped 2026 is still unconfirmed as of 20 Nov (Official Charts predicts Wednesday 2 Dec, as already filed); Edits reference Reels and audio links were already filed. No leaves added. 0 leaves. Chrome not available. Total 4259."
   }
  ],
  "history": [
@@ -30839,6 +30839,10 @@
   },
   {
    "date": "2026-11-21 14:40",
+   "total": 4259
+  },
+  {
+   "date": "2026-11-21 14:41",
    "total": 4259
   }
  ],
