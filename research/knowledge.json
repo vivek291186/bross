@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:54:32+05:30",
- "runs": 1864,
+ "updated": "2026-11-21T10:55:30+05:30",
+ "runs": 1865,
  "branches": [
   {
    "id": "platforms",
@@ -12291,6 +12291,27 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1853
+    },
+    {
+     "t": "Suno launched an MCP connector in beta on 28 Oct 2026 that lets Claude and other assistants create songs, upload audio to turn into songs or remix inside Suno using the account's credits (early access sign up), so once the owner joins, our weekly song briefs could go from the research tree straight into Suno drafts without retyping lyrics.",
+     "src": "suno.com release notes, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1865
+    },
+    {
+     "t": "Suno's Speech beta (1 Oct 2026) generates spoken words and the music bed together in one take, which suits our Didi story songs and call and response intros ('Are you ready? Let's go!') without stitching a separate voiceover onto the track.",
+     "src": "suno.com release notes, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1865
+    },
+    {
+     "t": "Suno Studio's 29 Oct 2026 update adds a clip info panel with lyrics, style tags and stem separation plus fine pitch shifting in semitones and cents, so we can pull a clean vocal stem for dubbing and nudge a whole song up a semitone or two to sit in a brighter, child friendly key without regenerating it.",
+     "src": "suno.com release notes, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1865
     }
    ]
   },
@@ -29075,12 +29096,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 07:47",
-   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
    "date": "2026-11-21 07:48",
-   "note": "Run 1786 (TRENDS (Later Reels 20 Nov, New Engen TikTok 16 Nov)): Mostly known: Later's 20 Nov Reels list (haven't done much this year, Dear Santa wishlist, get up comeback) and New Engen's mid November TikTok list (Chipmunks dance, Dame Hombro, slow mo entrances) were already filed. One new item: turkey shaped snack boards for Thanksgiving, with kid friendly versions. Chrome not available. Total 4071."
+   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
   },
   {
    "date": "2026-11-21 07:49",
@@ -29393,6 +29410,10 @@
   {
    "date": "2026-11-21 10:54",
    "note": "Run 1864 (TRENDS (Pinterest parent searches, YouTube holiday Shorts)): Pinterest's first parenting report (searches up year on year) shows road safety art up about 317%, fun physical activities for kids up 340%, flying toys up 735% and family traditions ideas up 200%, which backs our road safety and movement songs; Pinterest Predicts 2027 is not out yet. 2 leaves. Chrome not available. Total 4140."
+  },
+  {
+   "date": "2026-11-21 10:55",
+   "note": "Run 1865 (music craft (Suno and Meshy tool updates, Oct to Nov 2026)): Suno added an MCP connector (28 Oct, beta) so songs can be made from Claude, a Speech beta that makes spoken lines and music in one take (1 Oct), Studio fine pitch and clip info with stems (29 Oct) and a Daily Song Challenge (6 Nov); Meshy's October changelog has no animation or motion change. 3 leaves. Chrome not available. Total 4143."
   }
  ],
  "history": [
@@ -30403,6 +30424,10 @@
   {
    "date": "2026-11-21 10:54",
    "total": 4140
+  },
+  {
+   "date": "2026-11-21 10:55",
+   "total": 4143
   }
  ],
  "next_week_ideas": [
