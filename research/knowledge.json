@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:06:14+05:30",
- "runs": 1946,
+ "updated": "2026-11-21T13:07:01+05:30",
+ "runs": 1947,
  "branches": [
   {
    "id": "platforms",
@@ -5487,6 +5487,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1922
+    },
+    {
+     "t": "Metricool's 2026 YouTube study (799,718 videos, 71,177 accounts, all categories) found long videos performed best per video at 2 to 4 uploads a week, 4 to 7 a week added only about 6% more monthly views, and above 7 a week total views fell; for Shorts the lift peaked around 5 a month and disappeared above about 35 a month, so at 14 long videos and 14 Shorts a week Bro Bros is far past the point where more uploads help, and making each song stronger beats adding more (correlational, not kids specific).",
+     "src": "Metricool, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1947
+    },
+    {
+     "t": "In the same Metricool study long videos that used hashtags got about 17% fewer views but about 13% more interactions, and playlists brought about 5% of views while end screens brought well under 0.1%, so our long song descriptions should carry at most one or two hashtags and put the effort into playlists rather than end screens (which made for kids videos lose anyway).",
+     "src": "Metricool, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1947
     }
    ]
   },
@@ -29713,11 +29727,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1867); see git history."
-  },
-  {
-   "date": "2026-11-21 10:57",
-   "note": "Run 1868 (competitor deep dive (Bebefinn, BabyBus)): Nothing new: Bebefinn (37.4M subs, about 13M views a day, Alphabet Bus upload on 19 Nov) was already filed and the BabyBus stats page is stale (Jul 2025). No leaves added. Chrome not available. Total 4145."
+   "note": "Earlier: older log entries summarised (runs up to 1868); see git history."
   },
   {
    "date": "2026-11-21 10:57",
@@ -30030,6 +30040,10 @@
   {
    "date": "2026-11-21 13:06",
    "note": "Run 1946 (YouTube algorithm and search (Christmas search timing)): Nothing new: vidIQ's top Christmas YouTube keywords and the third week of December search peak were already filed; the Think with Google page redirected away. No leaves added. 0 leaves. Chrome not available. Total 4231."
+  },
+  {
+   "date": "2026-11-21 13:07",
+   "note": "Run 1947 (Shorts and long form frequency (Metricool 2026 YouTube study)): New: in Metricool's study of about 800K videos, long videos did best per video at 2 to 4 a week, 4 to 7 a week added only about 6% monthly views and above 7 a week total views fell, while the Shorts lift vanished above about 35 a month; we post 14 long videos and 14 Shorts a week, so quality per song matters more than adding volume (correlational, all categories, not kids only). Long videos with hashtags got about 17% fewer views. 2 leaves. Chrome not available. Total 4233."
   }
  ],
  "history": [
@@ -30428,6 +30442,10 @@
   {
    "date": "2026-11-21 13:06",
    "total": 4231
+  },
+  {
+   "date": "2026-11-21 13:07",
+   "total": 4233
   }
  ],
  "next_week_ideas": [
