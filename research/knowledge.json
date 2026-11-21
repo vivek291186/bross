@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:52:18+05:30",
- "runs": 2102,
+ "updated": "2026-11-21T18:53:01+05:30",
+ "runs": 2103,
  "branches": [
   {
    "id": "platforms",
@@ -30883,6 +30883,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2100
+    },
+    {
+     "t": "Official Charts (20 Nov 2026) expects Spotify Wrapped 2026 on Wednesday 2 December (its own prediction; recent releases fell on Wednesdays from 25 Nov to 6 Dec), and family Wrapped cards for kids' managed accounts land the same day, so the Bros' own 'our top songs of the year' recap Reel should be ready to post on 2 Dec and pinned that week.",
+     "src": "officialcharts.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2103
+    },
+    {
+     "t": "A long running snow day family experiment on TikTok is the 'snow volcano' (baking soda and a little red colouring in a snow mound, then a splash that foams out like lava; #ColdDays passed 106M views in Feb 2021), an easy, safe looking winter science moment for a Bros song verse with a grown up helping.",
+     "src": "elitedaily.com, Feb 2021",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2103
     }
    ]
   }
@@ -30909,12 +30923,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 15:49",
-   "note": "Summary of 2 older log entries (2026-11-21 15:49 to 2026-11-21 15:49): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 16:36",
-   "note": "Run 2024 (global markets (South Korea, New Zealand, dubbing quality)): New: a UC Davis two year study of 289 Korean families found hard limits and co viewing cut kids' screen time and every parent strategy raised educational viewing, so a 'watch with your grown up' learning angle suits Korean parents; NZ On Air now runs its own KIDOGO and KIDOGO Junior YouTube channels and NZ preschool favourites are Bluey 38%, Paw Patrol 25%, Spidey 16%; AIR's 400 channel data says AI only dubs hold viewers far less than human sung or voiced tracks, worst for kids content. 5 leaves. Chrome not available. Total 4285."
+   "note": "Summary of 2 older log entries (2026-11-21 15:49 to 2026-11-21 16:36): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 16:36",
@@ -31227,6 +31237,10 @@
   {
    "date": "2026-11-21 18:52",
    "note": "Run 2102 (Shorts and Reels (Emplifi Q3 2026 benchmarks)): New: Emplifi's Q3 2026 benchmarks (15 Oct 2026, 77,038 Instagram and 1,301 TikTok brand profiles) show Instagram engagement per impression up about 68% to 1.52% while median impressions per post fell 48% year on year, median brand posts get only about 2 shares and 2 saves, and TikTok impressions per post fell 60%. vidIQ's first ten videos study and Metricool's YouTube study were already filed. 2 leaves. Chrome not available. Total 4402."
+  },
+  {
+   "date": "2026-11-21 18:53",
+   "note": "Run 2103 (TRENDS (Wrapped day and snow day formats)): New: Official Charts (20 Nov 2026) predicts Spotify Wrapped 2026 on Wednesday 2 December (not confirmed; past drops were Wednesdays between 25 Nov and 6 Dec), the day year recap posts flood every feed; old snow day TikToks show a baking soda 'snow volcano' as a family winter experiment. Winter Vibes, snow heart and snow angel formats were already filed. 2 leaves. Chrome not available. Total 4404."
   }
  ],
  "history": [
@@ -32249,6 +32263,10 @@
   {
    "date": "2026-11-21 18:52",
    "total": 4402
+  },
+  {
+   "date": "2026-11-21 18:53",
+   "total": 4404
   }
  ],
  "next_week_ideas": [
