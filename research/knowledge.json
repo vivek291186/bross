@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T01:35:19+05:30",
- "runs": 2243,
+ "updated": "2026-11-22T01:36:00+05:30",
+ "runs": 2244,
  "branches": [
   {
    "id": "platforms",
@@ -31798,12 +31798,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 21:51",
-   "note": "Summary of 2 older runs (2026-11-21 21:51 to 2026-11-21 21:51): see git history for details."
-  },
-  {
    "date": "2026-11-21 21:52",
-   "note": "Run 2168 (competitor deep dive (Loco Nuts English and Hindi)): New: Loco Nuts' English channel (1.92M subscribers, 1.18B views) now makes only about 3.6M views in 28 days with zero subscriber growth and its new Christmas bus video had 1.7K views after four days, while its Hindi channel still adds subscribers on 2023 Hindi animal rhymes (50.5M top), so a big back catalogue of generic English covers is stalling while local language animal rhymes keep growing. 2 leaves. Chrome not available. Total 4454."
+   "note": "Summary of 2 older runs (2026-11-21 21:51 to 2026-11-21 21:52): see git history for details."
   },
   {
    "date": "2026-11-21 21:53",
@@ -32116,6 +32112,10 @@
   {
    "date": "2026-11-22 01:35",
    "note": "Run 2243 (rules and safety (EU Kids Act, eSafety November update, COPPA)): Nothing new: the EU Kids Act, Digital Fairness Act, Disney COPPA fine, Australian under 16 rules and AIR RPM by country were already filed; eSafety's new November 2026 evaluation PDF could not be read by the fetch tool, so recheck it next rules round. 0 leaves. Chrome not available. Total 4529."
+  },
+  {
+   "date": "2026-11-22 01:36",
+   "note": "Run 2244 (our own results (Metricool recheck at 01:50 IST)): Nothing new: YouTube data still stops at the 19 Nov uploads and Instagram at the 20 Nov Reels (tomato song 972 views best, car Reel 25 shares), all already filed; queue still empty from 23 Nov. 0 leaves. Chrome not available. Total 4529."
   }
  ],
  "history": [
@@ -32993,6 +32993,10 @@
   },
   {
    "date": "2026-11-22 01:35",
+   "total": 4529
+  },
+  {
+   "date": "2026-11-22 01:36",
    "total": 4529
   }
  ],
