@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:36:11+05:30",
- "runs": 1953,
+ "updated": "2026-11-21T13:43:10+05:30",
+ "runs": 1954,
  "branches": [
   {
    "id": "platforms",
@@ -29728,6 +29728,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1939
+    },
+    {
+     "t": "The freshest family safe TikTok format in the week to 20 Nov 2026 is 'POV: you're the villain but...' (Virlo: first seen 7 Oct, then 111 creators in the last 7 days from almost none, peak 18 Nov, about 137M total views, top clip about 17.7M): someone plays a dramatic villain in a swivel chair, and the speech is ruined by a small everyday mishap such as the chair tipping back or the Wi Fi dropping, so the joke is the grand pose collapsing into a silly oops.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1954
+    },
+    {
+     "t": "'Ding Ding Ding candy match 3' (Virlo: first seen 22 Oct 2026, about 297 TikTok videos and 135M views, archived by 20 Nov) had people slide sweets or photos around a grid by hand on each beat as if playing a match three phone game; it is already gone, but the idea of matching three same coloured objects on the beat is a reusable colour and counting game for a Short.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1954
+    },
+    {
+     "t": "The top new sounds of the week to 21 Nov 2026 on both TikTok and Instagram Reels are tied to the GTA VI game launch (Justice's 'Flower In A Hurricane' and several GTA theme tracks), an adult game, so the biggest sound wave of the week is one Bro Bros must skip entirely.",
+     "src": "Virlo, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1954
     }
    ]
   }
@@ -29754,12 +29775,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 11:38",
-   "note": "Earlier: older log entries summarised (runs up to 1874); see git history."
-  },
-  {
    "date": "2026-11-21 11:40",
-   "note": "Run 1875 (TRENDS (Know Your Meme roundups, YouTube holiday trends report)): Most memes and holiday timing were already filed; new: YouTube counts Christmas wishlist videos at over 90M views and Secret Santa family challenges as a holiday format, and the clapping black cat reaction format is family friendly; added a Secret Santa swap reveal to the trend bank. 2 leaves. Chrome not available. Total 4157."
+   "note": "Earlier: older log entries summarised (runs up to 1875); see git history."
   },
   {
    "date": "2026-11-21 11:41",
@@ -30072,6 +30089,10 @@
   {
    "date": "2026-11-21 13:36",
    "note": "Run 1953 (global markets (Senal News, Ofcom, Parrot)): Nothing new: Winsing's non dialogue shorts strategy, Ofcom's passive tracking report, Parrot's MENA animation demand and WARC's user base by country were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4237."
+  },
+  {
+   "date": "2026-11-21 13:43",
+   "note": "Run 1954 (TRENDS (Virlo weekly, 16 to 21 Nov)): New: the freshest family safe format is 'POV: you're the villain but...' (first seen 7 Oct, but 111 creators in the last 7 days, peak 18 Nov, 137M views): a dramatic villain monologue in a swivel chair is broken by a small relatable mishap; 'Ding Ding Ding candy match 3' (hands sliding candy in a grid to a beat) is already archived. Other new weekly sounds are GTA VI themed and not for kids. Added 'Villain chair, oops!' to the trend bank. 3 leaves. Chrome not available. Total 4240."
   }
  ],
  "history": [
@@ -30498,6 +30519,10 @@
   {
    "date": "2026-11-21 13:36",
    "total": 4237
+  },
+  {
+   "date": "2026-11-21 13:43",
+   "total": 4240
   }
  ],
  "next_week_ideas": [
@@ -30559,6 +30584,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Villain chair, oops!",
+   "where": "TikTok, Instagram Reels (POV: you're the villain but...)",
+   "status": "rising",
+   "use": "8 to 12 second Reel or Short: Big Bro sits in a big spinny chair stroking a toy cat and says in a deep silly voice, over our own original two bar 'evil plan' music sting, that he will eat ALL the cookies; then the chair slowly spins him the wrong way, or Little Bro switches the lights on and he squeaks 'oops' in his normal voice, both giggle and share the cookies. No real threats, no mean words; the mishap is the punchline. End on a freeze pose and loop back to the chair."
+  },
   {
    "name": "Ride the reindeer over the rooftops",
    "where": "TikTok AI templates (rising 20 Nov 2026), Reels, Shorts",
@@ -30672,12 +30703,6 @@
    "where": "Reels, Shorts and TikTok in the first week of December (Spotify Wrapped predicted 2 Dec 2026)",
    "status": "seasonal",
    "use": "A 30 second countdown of our top 5 Bro Bros songs of 2026 in Wrapped style cards: big number, song name, two seconds of each chorus with the Bros doing that song's signature move, ending on both waving 'thank you for singing with us'. Dance for the final card: standing in place, point to the camera on beat 1, thumbs up on beat 2, wave both hands overhead on beats 3 and 4."
-  },
-  {
-   "name": "Tree decorating time lapse",
-   "where": "TikTok, Reels and Shorts every December",
-   "status": "seasonal",
-   "use": "Fixed camera on a bare tree; in quick cuts the Bros hang one ornament per beat of our own upbeat Christmas song, then both jump back and the tree lights up on the last beat. Dance at the end: standing in place, clap twice above the head, then sway side to side with arms up like a tree."
   }
  ],
  "posting_plan": {
