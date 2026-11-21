@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:02:59+05:30",
- "runs": 2206,
+ "updated": "2026-11-21T23:03:46+05:30",
+ "runs": 2207,
  "branches": [
   {
    "id": "platforms",
@@ -20887,6 +20887,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2204
+    },
+    {
+     "t": "Thailand's two biggest local kids song channels (KidsMeSong 7.39M and Nong Namo 7.71M subscribers, each about 41M views in 28 days to Oct 2026) are both led by animal songs: a meow meow cat song (71M), a monkey song (64M), a gecko song, five little ducks and an elephant song (33 to 37M), plus a 3D alphabet song, so animal sound songs are the number one entry point in Thailand too.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2207
     }
    ]
   },
@@ -23589,6 +23596,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2170
+    },
+    {
+     "t": "vidIQ models only about 6,000 to 9,000 USD a month for each of those Thai channels on about 40M monthly views, roughly 0.15 to 0.22 USD per 1,000 views (a modelled estimate, not creator data), so Thai and similar markets bring reach and subscribers but very little ad money compared with the US, UK and Germany.",
+     "src": "vidIQ, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2207
     }
    ]
   },
@@ -31567,12 +31581,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 20:42",
-   "note": "Summary of 2 older log entries (2026-11-21 20:41 to 2026-11-21 20:42): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 20:44",
-   "note": "Run 2130 (TRENDS (Postdom 16 to 22 Nov, toy trends)): Postdom's 16 to 22 Nov list (tree goes up, Deck the Halls dance now about 110K videos, Pink Floyd then and now, This is your sign, We listen) was already filed; new from TODAY's October hot toys list: giggle and reaction toys (a 30th anniversary Tickle Me Elmo), bracelet making kits on both lists, and make your own media kits for older kids. No trend bank change. 3 leaves. Chrome not available. Total 4421."
+   "note": "Summary of 2 older log entries (2026-11-21 20:42 to 2026-11-21 20:44): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 20:45",
@@ -31885,6 +31895,10 @@
   {
    "date": "2026-11-21 23:02",
    "note": "Run 2206 (our own results (late sync recheck)): Nothing new: at about 23:03 IST Metricool still had no YouTube upload from 20 or 21 Nov and no 21 Nov Reel, as filed earlier this run. 0 leaves. Chrome not available. Total 4496."
+  },
+  {
+   "date": "2026-11-21 23:03",
+   "note": "Run 2207 (YouTube kids channels (Thailand)): New: Thailand's two biggest home grown kids song channels (about 7.4 to 7.7M subscribers, about 41M views a month each) are led by animal sound songs (a meow meow cat song 71M, a monkey song 64M, gecko, ducks, elephant), and vidIQ models only about 6 to 9K USD a month from those 40M views, so Thai views pay very little. 2 leaves. Chrome not available. Total 4498."
   }
  ],
  "history": [
@@ -32615,6 +32629,10 @@
   {
    "date": "2026-11-21 23:02",
    "total": 4496
+  },
+  {
+   "date": "2026-11-21 23:03",
+   "total": 4498
   }
  ],
  "next_week_ideas": [
