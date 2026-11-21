@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:06:30+05:30",
- "runs": 1909,
+ "updated": "2026-11-21T12:07:04+05:30",
+ "runs": 1910,
  "branches": [
   {
    "id": "platforms",
@@ -12438,6 +12438,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1888
+    },
+    {
+     "t": "A Lingokids commissioned survey of 2,000 US parents of 2 to 8 year olds (Jul 2026) found 73% think interactive screen time is better than passive watching and 83% say their child has learned from screens, so every Bro Bros song should invite action (copy the move, shout the answer, freeze, count along) to be the 'active' screen time parents prefer; the survey is vendor run.",
+     "src": "PR Newswire (Lingokids), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1910
     }
    ]
   },
@@ -29489,11 +29496,7 @@
  "log": [
   {
    "date": "2026-11-21 09:49",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1829); see git history."
-  },
-  {
-   "date": "2026-11-21 09:49",
-   "note": "Run 1831 (global markets (Africa and the Philippines)): Nothing new: African kids channels (Akili and Me, Moja Magic, Kids TV Africa), Kaspersky's 2026 kids data and the November Philippine parent survey were all already filed. No leaves added. Chrome not available. Total 4104."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1830); see git history."
   },
   {
    "date": "2026-11-21 09:50",
@@ -29806,6 +29809,10 @@
   {
    "date": "2026-11-21 12:06",
    "note": "Run 1909 (our results (Instagram account trend 14 to 20 Nov)): Instagram still shows 1 follower on 20 Nov and daily Reels views swung from 13 (19 Nov) to 240 (18 Nov, freeze dance plus tomato soup), averaging about 85 a day, so one strong Reel decides the whole day; nothing yet suggests a slot change. 1 leaves. Chrome not available. Total 4199."
+  },
+  {
+   "date": "2026-11-21 12:07",
+   "note": "Run 1910 (music craft (interactive screen time and sing along value)): New: a Lingokids commissioned survey of 2,000 US parents (Jul 2026) says 73% believe interactive screen time beats passive viewing and that games are the top way young kids meet new characters after TV and film, so songs that ask kids to move, answer or copy make Bro Bros the kind of screen time parents choose. 1 leaves. Chrome not available. Total 4200."
   }
  ],
  "history": [
@@ -30996,6 +31003,10 @@
   {
    "date": "2026-11-21 12:06",
    "total": 4199
+  },
+  {
+   "date": "2026-11-21 12:07",
+   "total": 4200
   }
  ],
  "next_week_ideas": [
