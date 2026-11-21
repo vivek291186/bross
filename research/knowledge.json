@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:42:16+05:30",
- "runs": 1921,
+ "updated": "2026-11-21T12:43:24+05:30",
+ "runs": 1922,
  "branches": [
   {
    "id": "platforms",
@@ -5473,6 +5473,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1897
+    },
+    {
+     "t": "US children under 12 now spend nearly 1 hour 48 minutes a day on YouTube, more than on broadcast TV, while Nickelodeon and Disney Channel have each lost more than half their viewers since 2016 (figures compiled by Reach3 Insights from other research firms), so YouTube, much of it on the family TV, is the main 'kids channel' Bro Bros competes on and long playable sessions matter more than single clips.",
+     "src": "Advertising Week, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1922
     }
    ]
   },
@@ -29601,11 +29608,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1842); see git history."
-  },
-  {
-   "date": "2026-11-21 09:56",
-   "note": "Run 1843 (global markets (Spanish language kids song channels)): Spanish kids channels: Baile para niños (1.25M subs) grows on 6 to 8 minute medleys whose titles chain three famous Latin songs (a piñata and marching ants medley hit about 364K views in 12 days), while Baby Big Cheese's early Christmas remakes in Spanish drew under 2K views each. Chrome not available. Total 4110."
+   "note": "Earlier: older log entries summarised (runs up to 1843); see git history."
   },
   {
    "date": "2026-11-21 10:02",
@@ -29918,6 +29921,10 @@
   {
    "date": "2026-11-21 12:42",
    "note": "Run 1921 (TRENDS (SocialPilot 17 to 25 Nov list, Thanksgiving, Elf on the Shelf)): Nothing new: SocialPilot's 17 to 25 Nov list (Same Spot Years Apart, Paid Me No Mind, You're Under Arrest hook pass, Mariah Carey gift guides) plus Thanksgiving and Elf on the Shelf formats were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4215."
+  },
+  {
+   "date": "2026-11-21 12:43",
+   "note": "Run 1922 (YouTube algorithm (subscriber feed, re uploads, kids viewing time)): Mostly already filed (subscriber feed click rates, re upload reach cuts). New: US kids under 12 average about 1 hour 48 minutes of YouTube a day, more than broadcast TV, and Nickelodeon and Disney Channel have lost over half their viewers since 2016, so YouTube on the TV is now the main kids channel. 1 leaves. Chrome not available. Total 4216."
   }
  ],
  "history": [
@@ -30216,6 +30223,10 @@
   {
    "date": "2026-11-21 12:42",
    "total": 4215
+  },
+  {
+   "date": "2026-11-21 12:43",
+   "total": 4216
   }
  ],
  "next_week_ideas": [
