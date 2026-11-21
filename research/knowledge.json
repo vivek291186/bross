@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:37:36+05:30",
- "runs": 2174,
+ "updated": "2026-11-21T22:37:49+05:30",
+ "runs": 2175,
  "branches": [
   {
    "id": "platforms",
@@ -31294,12 +31294,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 18:45",
-   "note": "Summary of 2 older log entries (2026-11-21 18:44 to 2026-11-21 18:45): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 18:46",
-   "note": "Run 2096 (competitor deep dive (The Wiggles)): New: in The Wiggles' latest uploads (25 Oct to 1 Nov 2026) the two songs featuring a country music guest drew about 66K and 125K views against a median of about 54K, and a classic sung with their recurring dinosaur friend drew about 275K, while one member solo counting clips sat under 25K; their commercial head (Señal News, 10 Nov 2026) calls non English markets 'a big focus', credits a cast aged 21 to 63, and lists a Eurovision themed series and a Latin American Spanish line. 3 leaves. Chrome not available. Total 4392."
+   "note": "Summary of 2 older log entries (2026-11-21 18:45 to 2026-11-21 18:46): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:47",
@@ -31612,6 +31608,10 @@
   {
    "date": "2026-11-21 22:37",
    "note": "Run 2174 (Shorts and Reels (Instagram ranking news recheck)): Nothing new: Instagram's Features long horizontal video test, linked Reel previews, Clips as Reels, Your Algorithm controls and the three official ranking signals were already filed. 0 leaves. Chrome not available. Total 4457."
+  },
+  {
+   "date": "2026-11-21 22:37",
+   "note": "Run 2175 (other platforms (Netflix, Spotify, Billboard kids charts recheck)): Nothing new: no fresh Netflix kids top 10 for this week surfaced, and the Billboard Kid Albums Christmas pattern, iTunes kids chart of 21 Nov and Spotify kids toggle were already filed. 0 leaves. Chrome not available. Total 4457."
   }
  ],
  "history": [
@@ -32205,6 +32205,10 @@
   },
   {
    "date": "2026-11-21 22:36",
+   "total": 4457
+  },
+  {
+   "date": "2026-11-21 22:37",
    "total": 4457
   },
   {
