@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:59:50+05:30",
- "runs": 1986,
+ "updated": "2026-11-21T14:00:26+05:30",
+ "runs": 1987,
  "branches": [
   {
    "id": "platforms",
@@ -16575,6 +16575,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1911
+    },
+    {
+     "t": "UAE schools on September start calendars (Ministry of Education, Dubai KHDA and Sharjah SPEA) close for winter from Monday 14 Dec 2026 and reopen Monday 4 Jan 2027, so Gulf families are home all day a full week before the US break (from 21 Dec); our Christmas and winter songs should already be live and in playlists by 12 Dec for the Middle East.",
+     "src": "Gulf News, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1987
+    },
+    {
+     "t": "Indian school winter breaks are short and vary by state (last year mostly about 25 to 31 Dec, with Punjab, Rajasthan, Delhi and the south running into early January and Jammu and Kashmir closing for most of the winter), so for India, our biggest audience, the big home viewing week is Christmas to New Year rather than all of December.",
+     "src": "Patrika, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1987
     }
    ]
   },
@@ -29846,11 +29860,7 @@
  "log": [
   {
    "date": "2026-11-21 12:05",
-   "note": "Earlier: older log entries summarised (runs up to 1907); see git history."
-  },
-  {
-   "date": "2026-11-21 12:05",
-   "note": "Run 1908 (TRENDS (Deck the Halls remix dance, Christmas dances)): New: a duo dance to an upbeat Deck the Halls remix spread on UK TikTok in mid November 2026, then turned into an AI trend that pastes celebrities' faces onto the routine in Christmas pyjamas; the carol is public domain so we can make our own upbeat arrangement and duo routine, but never put real people's faces on it. Added 'Deck the Halls pyjama duo' to the trend bank; 'Spell it with your body' dropped off the end. 1 leaves. Chrome not available. Total 4198."
+   "note": "Earlier: older log entries summarised (runs up to 1908); see git history."
   },
   {
    "date": "2026-11-21 12:06",
@@ -30163,6 +30173,10 @@
   {
    "date": "2026-11-21 13:59",
    "note": "Run 1986 (visual craft (character design for different ages)): Nothing new: Disney Research's character proportion study (younger shows use bigger heads and rounder eyes, yet children 4 to 10 picked normal heads and showed no age preference) was already filed. No leaves added. 0 leaves. Chrome not available. Total 4250."
+  },
+  {
+   "date": "2026-11-21 14:00",
+   "note": "Run 1987 (topics and seasons (winter school breaks)): New: UAE schools (Ministry, Dubai KHDA and Sharjah, September start calendars) break from Monday 14 Dec 2026 to Sunday 3 Jan 2027, a week before the US; Indian states usually close only about 25 to 31 Dec (longer in the north), so the Gulf and then the US are home all day earlier than India. 2 leaves. Chrome not available. Total 4252."
   }
  ],
  "history": [
@@ -30721,6 +30735,10 @@
   {
    "date": "2026-11-21 13:59",
    "total": 4250
+  },
+  {
+   "date": "2026-11-21 14:00",
+   "total": 4252
   }
  ],
  "next_week_ideas": [
