@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:43:34+05:30",
- "runs": 1856,
+ "updated": "2026-11-21T10:49:24+05:30",
+ "runs": 1857,
  "branches": [
   {
    "id": "platforms",
@@ -9764,6 +9764,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1832
+    },
+    {
+     "t": "Little Angel's Spanish channel (about 1.14M subscribers, about 3.3M views in the 28 days to 18 Nov 2026 from 27 uploads, flat subscribers, estimated revenue down 27%) posts about one video a day, alternating 10 to 16 minute song mixes with 16 to 34 second Shorts, so even a big brand's language spin off grows slowly; dubbing our own songs is cheaper than running a separate daily Spanish schedule.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1857
+    },
+    {
+     "t": "Every long upload on Little Angel's Spanish channel uses one title formula, an everyday action phrase plus '| Canciones Infantiles Para bebés' (going down a slide, getting muddy outside, who made a mess, dress up time), while its Shorts carry one or two word titles with an emoji, so a fixed searchable tail on long titles and ultra short Short titles is the competitor pattern to copy in each language.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1857
+    },
+    {
+     "t": "Little Angel Spanish released its first Christmas mix on 17 Nov 2026 (about five weeks before Christmas) after a pumpkin farm autumn mix became its top recent video at about 101K views, while most other November uploads sat under about 14K, so seasonal topics are the clear winners for this audience and Christmas songs belong on our schedule from the third week of November.",
+     "src": "vidiq.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1857
     }
    ]
   },
@@ -28967,10 +28988,6 @@
    "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
   },
   {
-   "date": "2026-11-21 07:36",
-   "note": "Run 1778 (YouTube algorithm (AIR month by month changes, Made for Kids help pages)): Nothing new: AIR's October entries (Shorts favour original uploads from 1 Oct, Ask YouTube, US custom feeds, the $20 payout test, the 30 day spam lock) were already filed, AIR lists no November changes yet, and a July 'in depth content' update story has no official source. No leaves added. Chrome not available. Total 4056."
-  },
-  {
    "date": "2026-11-21 07:37",
    "note": "Run 1779 (Shorts and Reels (Instagram Features, Reels 'Your Algorithm', Shorts series)): Nothing new: Instagram's 90 minute horizontal Features with up to eight linked Reels (26 Oct), the Reels 'Your Algorithm' expansion to English language users and YouTube's Shorts seasons and episodes were already filed. No leaves added. Chrome not available. Total 4056."
   },
@@ -29281,6 +29298,10 @@
   {
    "date": "2026-11-21 10:43",
    "note": "Run 1856 (global markets (dubbing languages for animation, Brazil year end trends)): Perso's State of AI Dubbing 2026 (about 113K projects) names Hindi, Portuguese and English as animation's top three dub targets, with Portuguese at 16.3% of animation projects; YouTube Brazil's 2025 year end report shows young audience topics led by brainrot, a Roblox horror game, a K pop film, a colouring book craze and blind box dolls. 2 leaves. Chrome not available. Total 4124."
+  },
+  {
+   "date": "2026-11-21 10:49",
+   "note": "Run 1857 (competitor deep dive (Little Angel Spanish channel)): Little Angel's Spanish channel (1.14M subs, about 117K views a day) posts about one video a day, long 10 to 16 minute song mixes titled '[everyday action] | Canciones Infantiles Para bebés' plus 16 to 34 second Shorts; its first Christmas mix came on 17 Nov, while its best recent upload was a pumpkin farm mix (about 101K). 3 leaves. Chrome not available. Total 4127."
   }
  ],
  "history": [
@@ -30259,6 +30280,10 @@
   {
    "date": "2026-11-21 10:43",
    "total": 4124
+  },
+  {
+   "date": "2026-11-21 10:49",
+   "total": 4127
   }
  ],
  "next_week_ideas": [
