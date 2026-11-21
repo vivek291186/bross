@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:36:12+05:30",
- "runs": 1872,
+ "updated": "2026-11-21T11:37:17+05:30",
+ "runs": 1873,
  "branches": [
   {
    "id": "platforms",
@@ -5389,6 +5389,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1858
+    },
+    {
+     "t": "Parent guides updated in October 2026 tell families to use YouTube Kids' Approved Content Only mode for ages 4 to 7 (no search, only hand picked videos), to switch autoplay off and to send children over 8 to the Subscriptions tab instead of Home, so a growing share of kids viewing is chosen by parents channel by channel and a calm, trustworthy channel page and playlists help us get picked.",
+     "src": "Screenwise, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1873
+    },
+    {
+     "t": "The same parent guides name very fast cutting (a new scene every 1 to 3 seconds) and AI made low effort videos as the 'brain rot' parents now block, so steady pacing and clearly crafted animation protect Bro Bros from being filtered out by parents even when the feed would push faster content.",
+     "src": "Screenwise, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1873
     }
    ]
   },
@@ -21755,6 +21769,20 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1859
+    },
+    {
+     "t": "From 1 Feb 2027 a channel already in the Partner Program also needs 10M qualified Shorts views in the last 90 days to share Shorts ad and Premium revenue; below that it keeps long form earnings and Shorts money returns automatically when it climbs back, so for Bro Bros Shorts are a discovery tool and long songs are the income.",
+     "src": "Tubefilter and Metricool, Aug 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1873
+    },
+    {
+     "t": "For channels under the 10M Shorts bar YouTube promised milestone incentives in 2027 (Shopping bonuses, brand deal incentives and earnings boosts for starting and growing trends) without amounts or dates yet, so starting our own repeatable kid dance trend could later pay directly; watch for the details.",
+     "src": "Tubefilter, Aug 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1873
     }
    ]
   },
@@ -29145,12 +29173,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 07:58",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1792); see git history."
-  },
-  {
    "date": "2026-11-21 07:59",
-   "note": "Run 1794 (topics and seasons (hottest toys 2026, December family themes and world holidays)): Nothing new: Toy Insider, DreamToys and Amazon 2026 toy lists and the December calendar (Hanukkah, St Lucia, Dongzhi, Yalda, Las Posadas, Kwanzaa, Hogmanay, Three Kings) were already filed. Visual craft skipped as it found nothing in the last 6 rounds. No leaves added. Chrome not available. Total 4079."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1793); see git history."
   },
   {
    "date": "2026-11-21 07:59",
@@ -29463,6 +29487,10 @@
   {
    "date": "2026-11-21 11:36",
    "note": "Run 1872 (TRENDS (Virlo 21 Nov board, B&T November column)): Virlo's 21 Nov board (76 trends, about 26K videos) has no new format first seen after 15 Nov in its top 10, and the 'how Christmas dances will look' routine fell from 58 creators to 9 in a week, so the week before December is a lull; the B&T November column was already filed. 2 leaves. Chrome not available. Total 4150."
+  },
+  {
+   "date": "2026-11-21 11:37",
+   "note": "Run 1873 (YouTube algorithm (YPP 2027 Shorts revenue gate, parent guides on the Kids app)): No new ranking change confirmed since 1 Oct; new: from 1 Feb 2027 even Partner members need 10M Shorts views in 90 days to share Shorts ad revenue, with trend starting bonuses promised for smaller channels; parent guides push Approved Content Only, autoplay off and the Subscriptions tab, so being chosen by parents matters more than raw feed reach. 4 leaves. Chrome not available. Total 4154."
   }
  ],
  "history": [
@@ -30505,6 +30533,10 @@
   {
    "date": "2026-11-21 11:36",
    "total": 4150
+  },
+  {
+   "date": "2026-11-21 11:37",
+   "total": 4154
   }
  ],
  "next_week_ideas": [
