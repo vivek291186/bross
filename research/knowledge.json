@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:45:47+05:30",
- "runs": 1783,
+ "updated": "2026-11-21T07:47:05+05:30",
+ "runs": 1784,
  "branches": [
   {
    "id": "platforms",
@@ -5319,6 +5319,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1774
+    },
+    {
+     "t": "Ofcom's tracking puts about 47% of UK 8 to 14s' daily online time between 15:00 and 20:59 local time, and weekends run about 4h07m against 3h24m on weekdays, which supports publishing a few hours before the after school window and expecting bigger weekend sessions.",
+     "src": "Ofcom CPOM report 2, May 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1784
     }
    ]
   },
@@ -18906,6 +18913,41 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1758
+    },
+    {
+     "t": "Ofcom's passive device tracking of 701 UK children aged 8 to 14 over 28 days (Oct 2025 to Mar 2026) found they spend 3h36m a day online on phones, tablets and computers, from 2h53m at ages 8 to 9 up to 4h19m at 13 to 14.",
+     "src": "Ofcom CPOM report 2, May 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1784
+    },
+    {
+     "t": "In the same tracking YouTube was the biggest single destination: 93% visited in a month, 62% every day, about 244 visits a month per user and 23% of all their online time, more than any other app.",
+     "src": "Ofcom CPOM report 2, May 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1784
+    },
+    {
+     "t": "Younger children lean on YouTube the most: 8 to 9 year old YouTube users averaged about 1h15m a day on it versus 37 minutes for 13 to 14s, while TikTok time rises with age (14 minutes at 8 to 9, 34 minutes at 13 to 14).",
+     "src": "Ofcom CPOM report 2, May 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1784
+    },
+    {
+     "t": "Only about 14% of UK 8 to 12s used the YouTube Kids app (about 30 minutes a day) while almost all used main YouTube, so our discovery happens mostly on main YouTube with Made for Kids settings, not inside YouTube Kids.",
+     "src": "Ofcom CPOM report 2, May 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1784
+    },
+    {
+     "t": "Instagram is marginal for children themselves (8 to 12s about 7 minutes a day), which confirms our Instagram Reels mainly reach parents and older siblings who choose videos for little ones.",
+     "src": "Ofcom CPOM report 2, May 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1784
     }
    ]
   },
@@ -28548,10 +28590,6 @@
   },
   {
    "date": "2026-11-21 04:46",
-   "note": "Run 1705 (YouTube algorithm (November changes, Shorts originality, Home feed long form slots, YouTube Kids filtering FAQ)): Nothing new: the 1 Oct Shorts originality cut, the Home feed reduction of long form slots measured across 1,000 channels, prompt built Home feeds and the YouTube Kids three layer filter with 24/7 parent reports were all already filed. No leaves added. Chrome not available. Total 3986."
-  },
-  {
-   "date": "2026-11-21 04:46",
    "note": "Run 1706 (Shorts and Reels (Shorts length studies, Reels algorithm control, Dash Social H1 2026 benchmarks)): Nothing new: the Adobe and AIR Shorts length studies, Instagram Your Algorithm controls and Dash Social H1 Reels benchmarks were already filed. No leaves added. Chrome not available. Total 3986."
   },
   {
@@ -28861,13 +28899,13 @@
   {
    "date": "2026-11-21 07:45",
    "note": "Run 1783 (TRENDS (Buffer trending TikTok songs, 18 Nov; SocialPilot TikTok 17 to 25 Nov)): New: three fresh family friendly TikTok formats from Buffer's 18 Nov list: 'and maybe it didn't work out because' (a setback that turned out well), fitness app style stats of an ordinary day, and acting out misread social rules. Added 'Bro's day in stats' to the trend bank; the SocialPilot week (My Moon My Man, camera shy, You're Under Arrest) was already filed. Chrome not available. Total 4064."
+  },
+  {
+   "date": "2026-11-21 07:47",
+   "note": "Run 1784 (global markets (Ofcom passive tracking of 701 UK children, May 2026)): New: Ofcom's device tracking of 701 UK 8 to 14s shows 3h36m online a day, YouTube at 23% of all their time and visited by 62% every day, 47% of time online falls between 15:00 and 21:00, weekends run about 40 minutes longer, only 14% of 8 to 12s use YouTube Kids and Instagram gets 7 minutes a day from 8 to 12s. Chrome not available. Total 4070."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 08:40",
-   "total": 3608
-  },
   {
    "date": "2026-11-20 08:42",
    "total": 3610
@@ -30063,6 +30101,10 @@
   {
    "date": "2026-11-21 07:45",
    "total": 4064
+  },
+  {
+   "date": "2026-11-21 07:47",
+   "total": 4070
   }
  ],
  "next_week_ideas": [
