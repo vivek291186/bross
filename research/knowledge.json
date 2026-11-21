@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:45:35+05:30",
- "runs": 2188,
+ "updated": "2026-11-21T22:46:08+05:30",
+ "runs": 2189,
  "branches": [
   {
    "id": "platforms",
@@ -31427,12 +31427,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 19:03",
-   "note": "Summary of 2 older log entries (2026-11-21 19:02 to 2026-11-21 19:03): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 19:04",
-   "note": "Run 2110 (rules and monetisation (Q4 ad rates)): New: a 2026 CPM table (1of10, updated 6 Oct 2026) says made for kids videos typically earn about 1 to 4 USD CPM whatever the topic, CPMs peak in Q4 and fall 20 to 40% into January, and India, Pakistan and the Philippines pay about 5 to 15% of US rates. 1 leaves. Chrome not available. Total 4411."
+   "note": "Summary of 2 older log entries (2026-11-21 19:03 to 2026-11-21 19:04): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:04",
@@ -31745,6 +31741,10 @@
   {
    "date": "2026-11-21 22:45",
    "note": "Run 2188 (music craft (2027 Grammy children's nominees)): New: the 2027 Best Children's Music Album nominees (announced 16 Nov 2026) are five independent family acts, including a two person family duo with a bird symphony album, a bilingual family band and an artist singing with a kids crew; the ceremony is 7 Feb 2027. 2 leaves. Chrome not available. Total 4476."
+  },
+  {
+   "date": "2026-11-21 22:46",
+   "note": "Run 2189 (visual craft (Meshy and Suno tool updates)): Nothing new: Meshy's changelog has no November entry (Meshy Edit, Auto Split and T2.5 from October and text to motion from July were already filed), and Suno v6 and v5.5 were already filed. 0 leaves. Chrome not available. Total 4476."
   }
  ],
  "history": [
@@ -32402,6 +32402,10 @@
   },
   {
    "date": "2026-11-21 22:45",
+   "total": 4476
+  },
+  {
+   "date": "2026-11-21 22:46",
    "total": 4476
   }
  ],
