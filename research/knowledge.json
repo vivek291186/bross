@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:37:17+05:30",
- "runs": 1873,
+ "updated": "2026-11-21T11:38:51+05:30",
+ "runs": 1874,
  "branches": [
   {
    "id": "platforms",
@@ -5403,6 +5403,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 1873
+    },
+    {
+     "t": "In vidIQ's study of new channels (Jul 2026) the best of a channel's first 10 long videos drew about 1,950 views in 30 days, about 11 times its first upload, while only 10% of individual long videos and 21% of Shorts reached 10,000 views, so each Bro Bros song is a lottery ticket and steady volume with quick follow ups on any outlier is the plan.",
+     "src": "vidIQ, Jul 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1874
     }
    ]
   },
@@ -29174,11 +29181,7 @@
  "log": [
   {
    "date": "2026-11-21 07:59",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1793); see git history."
-  },
-  {
-   "date": "2026-11-21 07:59",
-   "note": "Run 1795 (TRENDS (Virlo early vs late TikTok board, week to 19 Nov)): New: Virlo's weekly board shows 'while they're out partying btw' (proud text over ordinary hobby clips) tripling to about 347 creators, and the Christmas dances trend already fading (9 creators last week after 58). Added 'Meanwhile, btw' to the trend bank. Chrome not available. Total 4082."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1794); see git history."
   },
   {
    "date": "2026-11-21 08:00",
@@ -29491,6 +29494,10 @@
   {
    "date": "2026-11-21 11:37",
    "note": "Run 1873 (YouTube algorithm (YPP 2027 Shorts revenue gate, parent guides on the Kids app)): No new ranking change confirmed since 1 Oct; new: from 1 Feb 2027 even Partner members need 10M Shorts views in 90 days to share Shorts ad revenue, with trend starting bonuses promised for smaller channels; parent guides push Approved Content Only, autoplay off and the Subscriptions tab, so being chosen by parents matters more than raw feed reach. 4 leaves. Chrome not available. Total 4154."
+  },
+  {
+   "date": "2026-11-21 11:38",
+   "note": "Run 1874 (Shorts and Reels (Instagram Features, trial Reels, vidIQ outlier data)): Instagram Features, the Apple TV app, the end of Reel series linking and trial Reels were already filed; new: in vidIQ's new channel data the best of the first 10 long videos gets about 11 times the views of the first, and only 1 in 10 long videos reaches 10K, so volume buys outliers. 1 leaves. Chrome not available. Total 4155."
   }
  ],
  "history": [
@@ -30537,6 +30544,10 @@
   {
    "date": "2026-11-21 11:37",
    "total": 4154
+  },
+  {
+   "date": "2026-11-21 11:38",
+   "total": 4155
   }
  ],
  "next_week_ideas": [
