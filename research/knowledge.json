@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T02:38:40+05:30",
- "runs": 2274,
+ "updated": "2026-11-22T02:39:34+05:30",
+ "runs": 2275,
  "branches": [
   {
    "id": "platforms",
@@ -21146,6 +21146,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2252
+    },
+    {
+     "t": "Ofcom's qualitative children's online insights panel (May 2026, about 20 UK children aged 8 to 17 followed for a year) describes families that lock devices away from about 9pm to 7am or block apps from 10pm, which backs timing kids uploads so they are fresh in the late afternoon and early evening local time, not late at night.",
+     "src": "Ofcom, May 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2275
     }
    ]
   },
@@ -31914,10 +31921,6 @@
    "note": "Summary of 2 earlier log entries (2026-11-21 22:56 to 2026-11-21 22:56): mostly small research rounds; see git history for details."
   },
   {
-   "date": "2026-11-21 22:56",
-   "note": "Run 2198 (Shorts and Reels (kids animation Reels pages)): Nothing new: searches for kids cartoon Reels growth cases returned only template sellers and generic Reels statistics already filed. 0 leaves. Chrome not available. Total 4484."
-  },
-  {
    "date": "2026-11-21 22:57",
    "note": "Run 2199 (global markets (French dubs check, skipping dry trend and platform foci)): New: the French dub of a big British nursery rhyme brand drew only about 1.8M views in 28 days with zero subscriber growth despite 14 new uploads, the same weak pattern as the German dub of another giant, so French needs native feeling songs rather than a straight dub; a French story and picture book channel earns almost nothing on long videos. 2 leaves. Chrome not available. Total 4486."
   },
@@ -32228,6 +32231,10 @@
   {
    "date": "2026-11-22 02:38",
    "note": "Run 2274 (TRENDS (Later 20 Nov, InMagic, NewEngen 20 Nov, Know Your Meme 17 to 20 Nov)): Almost nothing new: every family friendly format in this week's Later, InMagic and NewEngen lists (Dear Santa, it's time reveal, Chipmunks dance, Dame Hombro, year recap, zoom in, add to cart, dinner glances) was already filed; Know Your Meme's 17 to 20 Nov items are adult jokes (an AI country song with dark slang, celebrity casting parodies, couple slideshows). Trend bank unchanged. 1 leaves. Chrome not available. Total 4545."
+  },
+  {
+   "date": "2026-11-22 02:39",
+   "note": "Run 2275 (global markets (WARC user bases, Ofcom children's insights panel)): Small addition: Ofcom's children's online insights panel (May 2026, 20 UK children aged 8 to 17, qualitative) shows families locking devices away overnight (for example 9pm to 7am) and Roblox at the centre of play; WARC's country user numbers and auto dubbing's 27 languages were already filed. 1 leaves. Chrome not available. Total 4546."
   }
  ],
  "history": [
@@ -33230,6 +33237,10 @@
   {
    "date": "2026-11-22 02:38",
    "total": 4545
+  },
+  {
+   "date": "2026-11-22 02:39",
+   "total": 4546
   }
  ],
  "next_week_ideas": [
