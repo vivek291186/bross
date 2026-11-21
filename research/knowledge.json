@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:53:50+05:30",
- "runs": 2170,
+ "updated": "2026-11-21T22:35:50+05:30",
+ "runs": 2171,
  "branches": [
   {
    "id": "platforms",
@@ -24443,6 +24443,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2147
+    },
+    {
+     "t": "At 22:40 IST on Saturday 21 Nov 2026 the Metricool queue still ends with the 22 Nov 16:05 IST Short, so less than 36 hours before the Monday 10:00 IST slot no long video, Short or Reel is scheduled for 23 Nov.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2171
+    },
+    {
+     "t": "Metricool sync lags a lot for our accounts: at 22:40 IST on 21 Nov it still showed no Reel from 21 Nov and no YouTube upload after 19 Nov, so a song's first real numbers arrive one to two days after posting and the weekly review should be done on Tuesday for the previous week rather than on Sunday.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2171
     }
    ]
   },
@@ -31280,12 +31294,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 17:49",
-   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 18:41): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 18:42",
-   "note": "Run 2092 (music craft (infant rhythm reviews)): New: a 2026 Annals of the NY Academy of Sciences review (Tillmann, Goswami, Moghimi) says infant directed speech and lullabies cluster near 2 beats a second (about 120 BPM) and that how well an 11 month old's brain locks onto that slow beat predicted vocabulary at age 2; a Yale led randomised trial (110 caregiver and baby pairs) found singing was the only soothing method that rose with a four week singing nudge, and babies' mood improved. Suno and other music items were already filed. 2 leaves. Chrome not available. Total 4382."
+   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 18:42): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:43",
@@ -31598,6 +31608,10 @@
   {
    "date": "2026-11-21 21:53",
    "note": "Run 2170 (rules and safety (UK Online Safety Act, age checks)): Mostly filed already (Ofcom codes, YouTube AI age estimation); one small addition: Internet Matters reports 80% of UK parents are comfortable with children verifying their age to join apps, so age checks will keep spreading and family content that is clearly made for kids will sit on the safe side of every new filter. End of run: 17 rounds (runs 2154 to 2170), 19 new leaves (funny ugly toy craze, Lingokids character discovery, amapiano dance lane, familiar tune study, bhangra fusion, squishy animal trends, story yoga, Philippines and Loco Nuts channel data), no trend bank, idea or posting slot changes. 1 leaves. Chrome not available. Total 4455."
+  },
+  {
+   "date": "2026-11-21 22:35",
+   "note": "Run 2171 (our own results (Metricool queue and sync recheck)): Queue still ends 22 Nov 16:05 IST, so at 22:40 IST Saturday nothing is ready for Monday 23 Nov; Metricool still had no 21 Nov Reel and no YouTube upload after 19 Nov, so our own numbers lag 12 to 48 hours and same day judging is impossible. 2 leaves. Chrome not available. Total 4457."
   }
  ],
  "history": [
@@ -32184,6 +32198,10 @@
   {
    "date": "2026-11-21 21:53",
    "total": 4455
+  },
+  {
+   "date": "2026-11-21 22:35",
+   "total": 4457
   }
  ],
  "next_week_ideas": [
