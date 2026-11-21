@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:40:41+05:30",
- "runs": 1919,
+ "updated": "2026-11-21T12:41:16+05:30",
+ "runs": 1920,
  "branches": [
   {
    "id": "platforms",
@@ -23162,6 +23162,27 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1909
+    },
+    {
+     "t": "From 7 to 20 Nov 2026 about 77% of our YouTube views (about 16,300 of 21,200) came from Suggested videos next to other kids songs, about 13% from YouTube Search (about 2,700), about 4% from subscribers' feeds and about 3% from our channel page, while Shorts sent only about 150 views and playlists about 20, so our songs live or die beside bigger channels' videos and Search is a solid second door.",
+     "src": "Metricool (our YouTube), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1920
+    },
+    {
+     "t": "Our playlists brought almost nothing (about 20 views in 14 days) and Shorts drove under 1% of long video views, so the next cheap gain is themed playlists (Christmas songs, story songs, dance songs) linked from every Short's related video setting and end card style outro.",
+     "src": "Metricool (our YouTube), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1920
+    },
+    {
+     "t": "As of 20 Nov 2026 about 68% of our YouTube subscribers are in India, about 6% in the US, 5% in Pakistan, 2% each in Bangladesh, the Philippines and the UK, and then a long tail across 150 countries (Uzbekistan, Turkey, Nepal, Canada, Kenya, Kazakhstan); South Asia is about three quarters of our base, so English songs with simple words and a Hindi or Urdu friendly feel suit today's audience while US timing aims at growth.",
+     "src": "Metricool (our YouTube), Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1920
     }
    ]
   },
@@ -29580,11 +29601,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1840); see git history."
-  },
-  {
-   "date": "2026-11-21 09:55",
-   "note": "Run 1841 (visual craft (new preschool series looks, real time animation pipelines)): Nothing new: the solo YouTube animators' real time pipelines (eight to ten shots a day), Mogu and Perol's stop motion to CG move and Babble Bop's motion capture music format were already filed. No leaves added. Chrome not available. Total 4107."
+   "note": "Earlier: older log entries summarised (runs up to 1841); see git history."
   },
   {
    "date": "2026-11-21 09:55",
@@ -29897,6 +29914,10 @@
   {
    "date": "2026-11-21 12:40",
    "note": "Run 1919 (rules and monetisation (YouTube inauthentic content explained)): New: YouTube's trust and safety VP said the Partner Program is tool agnostic and only demonetises three kinds of AI content: generic repetitive farm content, distressing content such as animals in peril, and AI personas giving serious advice; so our AI assisted songs stay safe as long as each video is clearly different and made with care. Ad rate, COPPA and Disney fine sources were already filed. 2 leaves. Chrome not available. Total 4212."
+  },
+  {
+   "date": "2026-11-21 12:41",
+   "note": "Run 1920 (our results (YouTube traffic sources and subscriber countries, 7 to 20 Nov)): New: about 77% of our YouTube views from 7 to 20 Nov came from Suggested videos, 13% from Search, 4% from subscribers and under 1% from Shorts and playlists; 68% of subscribers are in India, with the US (6%), Pakistan, Bangladesh, the Philippines and the UK next, so for now titles must work next to big Indian and South Asian kids songs, while playlists are an untapped source. 3 leaves. Chrome not available. Total 4215."
   }
  ],
  "history": [
@@ -30187,6 +30208,10 @@
   {
    "date": "2026-11-21 12:40",
    "total": 4212
+  },
+  {
+   "date": "2026-11-21 12:41",
+   "total": 4215
   }
  ],
  "next_week_ideas": [
