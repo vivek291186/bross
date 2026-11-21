@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:55:04+05:30",
- "runs": 1894,
+ "updated": "2026-11-21T11:56:18+05:30",
+ "runs": 1895,
  "branches": [
   {
    "id": "platforms",
@@ -14580,6 +14580,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1889
+    },
+    {
+     "t": "An AIR case (Oct 2026) shows a 7M subscriber Arabic kids channel whose recommendations fell 91% even though click rate and watch time held; the team blamed sensational thumbnails (open mouths, distorted faces, exaggerated emotion), replaced them across the whole catalogue and then saw about 2.8x views, 5x recommendations and 6.6x revenue, so calm, friendly Bro Bros thumbnails protect reach on kids content.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1895
     }
    ]
   },
@@ -21937,6 +21944,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1882
+    },
+    {
+     "t": "The same AIR report describes two Spanish kids channels that grew views by about 5x and 10x within a month after a moderation pass that removed policy risky videos and thumbnails from their catalogues, so a periodic check of our older uploads against YouTube's kids quality principles is worth doing as the library grows.",
+     "src": "AIR Media-Tech, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1895
     }
    ]
   },
@@ -29369,12 +29383,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:45",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1814); see git history."
-  },
-  {
    "date": "2026-11-21 08:46",
-   "note": "Run 1816 (TRENDS (trend bank refresh: shy then dance, chores ballet; Santa stream, Pinterest 2027 check)): Trend bank refreshed with two rising family friendly formats already in the leaves but missing from the bank (camera shy then dance on TikTok, chores staged as a waltz ballet on Reels); dropped the fading six seven carol and loading percent entries. Pinterest Predicts 2027 is not out yet; the North Pole Live Santa stream was already filed. No new leaves. Chrome not available. Total 4092."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1815); see git history."
   },
   {
    "date": "2026-11-21 08:46",
@@ -29687,6 +29697,10 @@
   {
    "date": "2026-11-21 11:55",
    "note": "Run 1894 (rules and monetisation (COPPA enforcement, CPM by country)): Nothing new: the Disney 10M USD COPPA settlement over mislabelled kids videos and the 2026 RPM by country tables (Dynamoi, AIR's 300 channel study) were already filed. No leaves added. 0 leaves. Chrome not available. Total 4182."
+  },
+  {
+   "date": "2026-11-21 11:56",
+   "note": "Run 1895 (YouTube main and Kids (AIR kids growth tactics, Oct 2026)): New: in an AIR case a 7M subscriber Arabic kids channel lost 91% of its recommendations while CTR and watch time held, traced it to sensational thumbnails (open mouths, distorted faces), and after replacing them across the catalogue got 2.8x views and about 5x recommendations; the dubbing, 24/7 stream and YouTube Kids app numbers were already filed. 2 leaves. Chrome not available. Total 4184."
   }
  ],
  "history": [
@@ -30817,6 +30831,10 @@
   {
    "date": "2026-11-21 11:55",
    "total": 4182
+  },
+  {
+   "date": "2026-11-21 11:56",
+   "total": 4184
   }
  ],
  "next_week_ideas": [
