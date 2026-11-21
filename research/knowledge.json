@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:51:42+05:30",
- "runs": 1834,
+ "updated": "2026-11-21T09:52:07+05:30",
+ "runs": 1835,
  "branches": [
   {
    "id": "platforms",
@@ -22581,6 +22581,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1823
+    },
+    {
+     "t": "With Metricool's YouTube data now reaching 19 Nov 2026, the Moo Moo Farm Band long video (19 Nov 10:00 IST) had 63 views and about 12 seconds per view, matching the weak digger song (69 views, 10 s) rather than the tomato game song (972 views, 18 s), so a plain animal sounds band without a chase or game hook is among our weakest openers.",
+     "src": "Metricool YouTube, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1835
     }
    ]
   },
@@ -28823,12 +28830,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 06:02",
-   "note": "Summary of 2 older log entries (runs up to 1755): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 06:03",
-   "note": "Run 1756 (music craft and tools (Suno and Meshy updates)): Nothing new: Suno v6 with licensed Warner, BMG and Believe models and Meshy's unchanged text to motion (no November changelog entry) were already filed. No leaves added. Chrome not available. Total 4037."
+   "note": "Summary of 2 older log entries (runs up to 1756): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 06:03",
@@ -29141,6 +29144,10 @@
   {
    "date": "2026-11-21 09:51",
    "note": "Run 1834 (rules and safety (EU Digital Fairness Act, India DPDP children's consent)): Nothing new: the 11 Nov Digital Fairness Act proposal (no profiling ads to minors, fines up to 6%) and India's staged DPDP rules for children's data were already filed. No leaves added. Chrome not available. Total 4104."
+  },
+  {
+   "date": "2026-11-21 09:52",
+   "note": "Run 1835 (our own results (Metricool YouTube videos 17 to 19 Nov)): YouTube data now reaches 19 Nov: the Moo Moo Farm Band long video (19 Nov 10:00 IST) has 63 views with about 12 seconds per view, near the bottom with the digger song, while Roly Poly Red Tomato stays the week's clear leader at 972. Chrome not available. Total 4105."
   }
  ],
  "history": [
@@ -30031,6 +30038,10 @@
   {
    "date": "2026-11-21 09:51",
    "total": 4104
+  },
+  {
+   "date": "2026-11-21 09:52",
+   "total": 4105
   }
  ],
  "next_week_ideas": [
