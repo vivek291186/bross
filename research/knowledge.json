@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:50:47+05:30",
- "runs": 1790,
+ "updated": "2026-11-21T07:51:41+05:30",
+ "runs": 1791,
  "branches": [
   {
    "id": "platforms",
@@ -12130,6 +12130,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1781
+    },
+    {
+     "t": "Earworm research (UNSW, Oct 2025) finds the most sticky feature is immediate, unbroken repetition of a short fragment, like a chorus line sung twice in a row, so each Bro Bros chorus should repeat its key line back to back rather than vary it.",
+     "src": "unsw.edu.au, Oct 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1791
+    },
+    {
+     "t": "Earworms are re triggered by hearing the song recently, by a related word or phrase, or by a similar song, which supports reusing the same spoken catchphrase in the title, the Short and the Reel so every touchpoint replays the hook in a child's head.",
+     "src": "unsw.edu.au, Oct 2025",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1791
+    },
+    {
+     "t": "A Delft study matching about 1.5M Last.fm listening events to song structures (Jun 2025) found 12 to 17 year olds listen relatively more to hook heavy songs and adults to chorus led songs, and that most songs have either a hook or a chorus, not both; for kids a single repeated hook is the core.",
+     "src": "TU Delft thesis, Jun 2025",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1791
     }
    ]
   },
@@ -28596,10 +28617,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-21 04:55",
-   "note": "Run 1712 (competitor deep dive (Super Simple Songs and Bebefinn via vidIQ, 19 Nov)): New: in the same 28 days Super Simple Songs posted only 3 videos yet drew about 494M views and 200K subscribers, while Bebefinn posted 20 and drew about 399M and 300K, so catalogue strength drives views but frequent new episodes drive subscriber growth; the hand washing nonsense word song doubled from about 915K to 1.86M views between day 9 and day 13. Chrome not available. Total 3994."
-  },
-  {
    "date": "2026-11-21 04:56",
    "note": "Run 1713 (TRENDS (TokChart, vidIQ and Virlo trending sound charts, 20 Nov)): Mostly known: classic carols, the Chopin nocturne and game theme songs were already filed. New: a dance remix of a classic rock and roll Christmas carol is now among TikTok's fastest growing sounds (about 34K new videos a day), so carol remixes have started taking over the sound charts one month before Christmas. Chrome not available. Total 3995."
   },
@@ -28910,13 +28927,13 @@
   {
    "date": "2026-11-21 07:50",
    "note": "Run 1790 (other platforms (Netflix kids top 10, Spotify kids and family toggle, Roblox concerts)): Nothing new: Netflix's mid November kids picks (A Dog's Perfect Christmas), Spotify's Sep 2026 toggle to keep kids and family music out of Wrapped and recommendations, and Roblox concert records (Steal a Brainrot, Music Festival Tycoon) were already filed. Algorithm and Shorts focuses skipped as they found nothing in the last 6 rounds. No leaves added. Chrome not available. Total 4071."
+  },
+  {
+   "date": "2026-11-21 07:51",
+   "note": "Run 1791 (music craft (earworm science, song structure and children's listening)): New: earworm research says back to back repetition of a short fragment (a chorus line sung twice in a row) is the strongest sticky feature and that hearing a related phrase or a similar song re triggers it; a Delft study of Last.fm listening found 12 to 17 year olds lean to hook heavy songs while adults lean to chorus led ones. Chrome not available. Total 4074."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 08:47",
-   "total": 3615
-  },
   {
    "date": "2026-11-20 08:48",
    "total": 3617
@@ -30112,6 +30129,10 @@
   {
    "date": "2026-11-21 07:50",
    "total": 4071
+  },
+  {
+   "date": "2026-11-21 07:51",
+   "total": 4074
   }
  ],
  "next_week_ideas": [
