@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T02:36:08+05:30",
- "runs": 2273,
+ "updated": "2026-11-22T02:38:40+05:30",
+ "runs": 2274,
  "branches": [
   {
    "id": "platforms",
@@ -31877,6 +31877,13 @@
      "conf": "high",
      "date": "2026-11-22",
      "run": 2245
+    },
+    {
+     "t": "Know Your Meme's trending items from 17 to 20 Nov 2026 are almost all adult: an AI country song meme ('Smoove Off') with dark slang, celebrity casting parodies after a film casting announcement, and couple photo slideshows, so this week's kid safe trend material still comes only from Christmas reveal formats and simple group dances.",
+     "src": "Know Your Meme, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2274
     }
    ]
   }
@@ -31904,11 +31911,7 @@
  "log": [
   {
    "date": "2026-11-21 22:56",
-   "note": "Summary of 2 earlier log entries (2026-11-21 22:50 to 2026-11-21 22:56): mostly small research rounds; see git history for details."
-  },
-  {
-   "date": "2026-11-21 22:56",
-   "note": "Run 2197 (YouTube algorithm (Studio tools recheck)): Nothing new: Studio's Insights and Research tabs (13 Nov), the Watched by my viewers filter and Ask Studio were already filed. 0 leaves. Chrome not available. Total 4484."
+   "note": "Summary of 2 earlier log entries (2026-11-21 22:56 to 2026-11-21 22:56): mostly small research rounds; see git history for details."
   },
   {
    "date": "2026-11-21 22:56",
@@ -32221,6 +32224,10 @@
   {
    "date": "2026-11-22 02:36",
    "note": "Run 2273 (visual craft and platform tools (thumbnails, Blender, Studio, Stories)): Small addition: Instagram now lets a Story be edited for 15 minutes after posting (text, music, stickers, drawings, keeps views; shows an Edited label, announced about 18 Nov 2026); vidIQ thumbnails, Test and Compare, Blender 5.1, pacing studies and YouTube's TV co view count change were already filed. 1 leaves. Chrome not available. Total 4544."
+  },
+  {
+   "date": "2026-11-22 02:38",
+   "note": "Run 2274 (TRENDS (Later 20 Nov, InMagic, NewEngen 20 Nov, Know Your Meme 17 to 20 Nov)): Almost nothing new: every family friendly format in this week's Later, InMagic and NewEngen lists (Dear Santa, it's time reveal, Chipmunks dance, Dame Hombro, year recap, zoom in, add to cart, dinner glances) was already filed; Know Your Meme's 17 to 20 Nov items are adult jokes (an AI country song with dark slang, celebrity casting parodies, couple slideshows). Trend bank unchanged. 1 leaves. Chrome not available. Total 4545."
   }
  ],
  "history": [
@@ -33219,6 +33226,10 @@
   {
    "date": "2026-11-22 02:36",
    "total": 4544
+  },
+  {
+   "date": "2026-11-22 02:38",
+   "total": 4545
   }
  ],
  "next_week_ideas": [
