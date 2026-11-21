@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T16:58:54+05:30",
- "runs": 2048,
+ "updated": "2026-11-21T16:59:45+05:30",
+ "runs": 2049,
  "branches": [
   {
    "id": "platforms",
@@ -5599,6 +5599,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2004
+    },
+    {
+     "t": "Nielsen's December 2024 Gauge showed the Christmas holidays are now the peak month for TV screen streaming, with YouTube at a record 11.1% of all US TV viewing and families watching together on the streaming device, so our Christmas and New Year week uploads should be TV friendly long compilations, not only Shorts.",
+     "src": "Tubefilter (Nielsen), Jan 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2049
     }
    ]
   },
@@ -16799,6 +16806,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2048
+    },
+    {
+     "t": "In Tubular Labs' 1 to 19 Dec 2019 holiday video data, a quick 'Santa's footprints' kids craft video drew about 24M views and Peppa Pig was among the top YouTube holiday creators, while 22% of YouTube holiday videos ran 20 minutes or longer; simple 'make Christmas magic at home' ideas plus long family watch videos are the lasting December formula.",
+     "src": "Tubefilter (Tubular Labs), Dec 2019",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2049
     }
    ]
   },
@@ -30311,10 +30325,6 @@
    "note": "Earlier: older log entries summarised; see git history."
   },
   {
-   "date": "2026-11-21 13:52",
-   "note": "Run 1970 (YouTube algorithm (Ask YouTube answers in search)): New: since Oct 2026 YouTube tests Ask YouTube answer previews (text plus key moments from videos) at the top of normal search for some signed in US desktop users, over 140M people used Ask YouTube in June, and clicks from it count as normal search views and watch time; it skips supervised accounts, so for us it reaches parents searching, not kids. 2 leaves. Chrome not available. Total 4249."
-  },
-  {
    "date": "2026-11-21 13:53",
    "note": "Run 1971 (Shorts and Reels (Trial Reels and Shorts length studies)): Nothing new: Planoly's and Kapwing's Trial Reels tests, Adobe's Shorts length study and Metricool's 800K video study were all already filed. No leaves added. 0 leaves. Chrome not available. Total 4249."
   },
@@ -30625,6 +30635,10 @@
   {
    "date": "2026-11-21 16:58",
    "note": "Run 2048 (global markets (Beano Brain coolest brands, Kids Industries families, preschool readiness)): New: Beano Brain's Coolest Brands 2026 (10,000 UK and 10,000 US 7 to 14 year olds) has YouTube as the UK's coolest brand for the third year and first in the US ahead of Netflix and McDonald's; Kids Industries' 10 country study of 5,000 families found 73% of parents watch with their children at least half the time; EdWeek reports a third of children starting preschool in 2025 could not handle a book, which supports read along and book style songs. 3 leaves. Chrome not available. Total 4316."
+  },
+  {
+   "date": "2026-11-21 16:59",
+   "note": "Run 2049 (posting times (holiday weeks viewing)): Little new and nothing that changes the slots: Nielsen's December 2024 data shows the holidays are now the peak TV screen viewing month (YouTube at a record 11.1% of US TV time, families gathered around the streaming device), and in Tubular's 2019 holiday data a simple 'Santa's footprints' kids DIY video and Peppa Pig were top YouTube holiday hits. Posting slots unchanged; restored the vacuum song idea (81M weekly views evidence) in place of the feelings song. 2 leaves. Chrome not available. Total 4318."
   }
  ],
  "history": [
@@ -31431,6 +31445,10 @@
   {
    "date": "2026-11-21 16:58",
    "total": 4316
+  },
+  {
+   "date": "2026-11-21 16:59",
+   "total": 4318
   }
  ],
  "next_week_ideas": [
@@ -31441,6 +31459,10 @@
   {
    "title": "Ba Ba Boom! (Baby Giggle Surprise Song)",
    "why": "Built on The Happy Song research (470M streams): major key, a rising slide and drum roll before each 'BOOM' surprise, animal sounds and a real sounding kid giggle, easy 'ba' and 'pa' syllables, slightly slower tempo and about 2.5 minutes; the Bros do a slow tiptoe build then a happy star jump on each boom."
+  },
+  {
+   "title": "Vroom Vroom Vacuum! (Clean Up Helper Song)",
+   "why": "A kids 'vacuum cleaner song' Short and a morning tooth brushing song both sit in this week's worldwide top 30 YouTube videos (about 81M and 86M views in a week, TubeStats 20 Nov 2026): household machines and routines are huge for toddlers. The Bros push a friendly vacuum that hums a tune, sucks up toy blocks in rhythm and 'burps' them into the toy box; a stop and go freeze when it switches off."
   },
   {
    "title": "Here Comes the Garbage Truck! (Stomp, Lift and Dump Recycling Dance Song)",
@@ -31485,10 +31507,6 @@
   {
    "title": "Draw a Snowman With Me! (Circle, Circle, Carrot Nose Song)",
    "why": "'How to draw a snowman' and 'how to make a snowman' are searched worldwide every December; the Bros draw three circles, a carrot nose, a scarf and a beanie in time with the beat, then the drawing comes alive and dances."
-  },
-  {
-   "title": "Use Your Words! (Little Bro's Big Feelings Song)",
-   "why": "Bebefinn's 18 Nov feelings song (cry, then say what is wrong) is its fastest starting upload this month; ours: Little Bro gets upset, Big Bro helps him say 'I feel sad, I need help', with a stomp, breathe and hug dance."
   }
  ],
  "trend_bank": [
