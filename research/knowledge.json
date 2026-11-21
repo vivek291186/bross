@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:57:42+05:30",
- "runs": 1897,
+ "updated": "2026-11-21T11:58:22+05:30",
+ "runs": 1898,
  "branches": [
   {
    "id": "platforms",
@@ -2820,6 +2820,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1893
+    },
+    {
+     "t": "Instagram's Edits app (Jul 2026 update) can auto translate on screen captions into a second language, with 15 languages including Hindi, Spanish, Portuguese, Indonesian, Bengali, Thai and French, so each Bro Bros Reel can carry English plus one local language caption at no cost.",
+     "src": "Fonearena, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1898
+    },
+    {
+     "t": "In Adobe's March 2026 survey of 507 Shorts creators (self reported, not measured), 53% said Shorts under 30 seconds get the most views and 49% said they drive more clicks to long videos than longer Shorts, which supports keeping our song Shorts to a 15 to 25 second chorus clip.",
+     "src": "Adobe Express, Jun 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 1898
     }
    ]
   },
@@ -29390,12 +29404,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:46",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1817); see git history."
-  },
-  {
    "date": "2026-11-21 08:47",
-   "note": "Run 1819 (TRENDS (weekend check: NewEngen, Virlo, Epidemic Sound, Buffer)): Nothing new: the weekend roundups repeat the mid November lists already filed (mostly adult lip syncs and voiceover jokes, Do Not Bother the Botherer, the 'maybe it didn't work out because' format); parent 'life before kids' posts are not for us. No leaves added; trend bank unchanged. End of run: 16 rounds, 7 new leaves, 2 wrong leaves removed, 2 trend bank entries added. Chrome not available. Total 4092."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1818); see git history."
   },
   {
    "date": "2026-11-21 09:35",
@@ -29708,6 +29718,10 @@
   {
    "date": "2026-11-21 11:57",
    "note": "Run 1897 (YouTube algorithm (TV app sidebar, custom feeds placement)): New: since May 2026 YouTube on Google TV and Samsung TVs puts Subscriptions and Library right under Home in the sidebar with two direct channel shortcuts, so a channel a family watches often can sit one click from Home on the living room screen; custom feeds and Hype changes were already filed. 1 leaves. Chrome not available. Total 4185."
+  },
+  {
+   "date": "2026-11-21 11:58",
+   "note": "Run 1898 (Shorts and Reels (Instagram Edits captions, Shorts length survey)): New: Instagram's Edits app auto translates captions into a second language in 15 languages including Hindi, Spanish, Portuguese and Indonesian, and Adobe's survey of 507 Shorts creators names under 30 seconds as the best length for views (53%) and for clicks to long videos (49%). 2 leaves. Chrome not available. Total 4187."
   }
  ],
  "history": [
@@ -30850,6 +30864,10 @@
   {
    "date": "2026-11-21 11:57",
    "total": 4185
+  },
+  {
+   "date": "2026-11-21 11:58",
+   "total": 4187
   }
  ],
  "next_week_ideas": [
