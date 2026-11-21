@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T11:45:45+05:30",
- "runs": 1881,
+ "updated": "2026-11-21T11:46:31+05:30",
+ "runs": 1882,
  "branches": [
   {
    "id": "platforms",
@@ -21846,6 +21846,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1873
+    },
+    {
+     "t": "Since May 2026 YouTube automatically labels videos with significant photorealistic AI use when the creator does not disclose it, showing the label right under the player on long videos and as an overlay on Shorts, while unrealistic or animated content only gets a note in the expanded description, and YouTube says the label alone changes neither recommendations nor earnings.",
+     "src": "YouTube blog, May 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1882
+    },
+    {
+     "t": "YouTube makes the AI label permanent (the creator cannot remove it) for videos made with its own AI tools such as Veo or Dream Screen and for files carrying C2PA metadata that marks them as fully AI generated, so Bro Bros should export final videos from Blender without such metadata and never build scenes with Veo if we want only the quiet description note.",
+     "src": "YouTube blog, May 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1882
     }
    ]
   },
@@ -29264,12 +29278,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 08:03",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1801); see git history."
-  },
-  {
    "date": "2026-11-21 08:35",
-   "note": "Run 1803 (Shorts and Reels algorithm (Instagram ranking tracker Aug to Nov 2026)): Nothing new: the confirmed Instagram changes since August (content protection 17 Nov, Amazon affiliate links 16 Nov, Features long video test, Reels ranking sequences, unlabeled AI profile demotion, YouTube Shorts originality push of 1 Oct) were all already filed. No leaves added. Chrome not available. Total 4087."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1802); see git history."
   },
   {
    "date": "2026-11-21 08:38",
@@ -29582,6 +29592,10 @@
   {
    "date": "2026-11-21 11:45",
    "note": "Run 1881 (posting times (Metricool grid 22 to 28 Nov, 04:30 slot check)): Metricool's grid again peaks at 16:00 IST for YouTube and 10:00 IST for Instagram; new detail: the plan's 04:30 IST slot sits in hours that score only about a fifth to a quarter of 16:00 for our current audience, so that slot is a bet on new US viewers, not on our present fans; slots unchanged. 1 leaves. Chrome not available. Total 4167."
+  },
+  {
+   "date": "2026-11-21 11:46",
+   "note": "Run 1882 (rules (YouTube automatic AI labels, kids safety laws)): New: since May 2026 YouTube auto labels undisclosed photorealistic AI (label under the player, overlay on Shorts), cartoon animation only needs the description disclosure, and files with C2PA 'fully generative' metadata get a label creators cannot remove; the EU KIDS Act, New York feed rules and Australia's under 16 rule were already filed. 2 leaves. Chrome not available. Total 4169."
   }
  ],
  "history": [
@@ -30660,6 +30674,10 @@
   {
    "date": "2026-11-21 11:45",
    "total": 4167
+  },
+  {
+   "date": "2026-11-21 11:46",
+   "total": 4169
   }
  ],
  "next_week_ideas": [
