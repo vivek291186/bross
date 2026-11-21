@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T17:38:34+05:30",
- "runs": 2058,
+ "updated": "2026-11-21T17:39:30+05:30",
+ "runs": 2059,
  "branches": [
   {
    "id": "platforms",
@@ -20089,6 +20089,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2048
+    },
+    {
+     "t": "Kapwing's April 2026 localisation roundup cites a Discovery Digital Networks test where adding subtitles raised views about 7%, far less than the roughly 45% AIR reports for dubbed audio tracks, so for a preschool channel whose viewers cannot read, dubbed audio is the localisation that matters and translated subtitles are only a small bonus for parents.",
+     "src": "kapwing.com, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2059
+    },
+    {
+     "t": "The same roundup notes subtitle demand in smaller languages such as Amharic, Uzbek, Sinhala and Yoruba grew about 31%, a sign that fast growing African and Central and South Asian audiences are under served, which makes translated titles and descriptions in those languages a cheap way to be found there.",
+     "src": "kapwing.com, Apr 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2059
+    },
+    {
+     "t": "Per 3Play Media figures cited by Kapwing (2026), 61% of people who localise videos use only subtitles and just 12% dub, so most kids channels still have not dubbed, leaving room for a small channel to stand out with dubbed tracks in Spanish, Portuguese, Hindi and Indonesian.",
+     "src": "kapwing.com, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2059
     }
    ]
   },
@@ -30440,12 +30461,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 13:55",
-   "note": "Summary of 2 older runs up to Run 1979 (rules and safety (YouTube Kids...: see git history for details."
-  },
-  {
    "date": "2026-11-21 13:56",
-   "note": "Run 1980 (our results (Instagram Reels 21 Nov)): Nothing new: Metricool still shows no 21 Nov Reels data at about 14:00 IST. No leaves added. 0 leaves. Chrome not available. Total 4249."
+   "note": "Summary of 2 older runs up to Run 1980 (our results (Instagram Reels 2...: see git history for details."
   },
   {
    "date": "2026-11-21 13:56",
@@ -30758,6 +30775,10 @@
   {
    "date": "2026-11-21 17:38",
    "note": "Run 2058 (TRENDS (Social Expert 20 Nov, Postdom 21 Nov)): New: 'Comment what you got' (a question with labelled options, then a payoff, about 282M views by 15 Nov) and 'Me versus my feed' (a plain shot next to the polished version, about 101M views) are rising family safe formats; a toy store used the 'I saw you on 8th Avenue' walk past sulk lip sync; #inthistown climbed 91% in a week. 'My moon' reveals are romantic and were skipped. Added 'Comment what you got' to the trend bank. 5 leaves. Chrome not available. Total 4335."
+  },
+  {
+   "date": "2026-11-21 17:39",
+   "note": "Run 2059 (global markets (localisation statistics)): New: Kapwing's April 2026 roundup says subtitles alone lifted views about 7% in one network test, subtitle demand in smaller languages such as Amharic, Yoruba, Uzbek and Sinhala grew about 31%, and young children need dubbing rather than subtitles because they cannot read fast enough. Other dubbing figures (AIR +45%, the separate Spanish channel test) were already filed; the Indonesian child account news page could not be read. 3 leaves. Chrome not available. Total 4338."
   }
  ],
  "history": [
@@ -31604,6 +31625,10 @@
   {
    "date": "2026-11-21 17:38",
    "total": 4335
+  },
+  {
+   "date": "2026-11-21 17:39",
+   "total": 4338
   }
  ],
  "next_week_ideas": [
