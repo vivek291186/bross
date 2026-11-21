@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T18:42:32+05:30",
- "runs": 2092,
+ "updated": "2026-11-21T18:43:19+05:30",
+ "runs": 2093,
  "branches": [
   {
    "id": "platforms",
@@ -15273,6 +15273,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2069
+    },
+    {
+     "t": "An OverseerOS study (7 Nov 2026, 13,039 long videos from 409 channels that used both, Jul to Sep 2026) found a standalone 'VS' in the title gave a median lift of only about 1.03x (1.11x with stricter filters, winning on 91 of 159 channels) and only about 2% of videos use it, so 'Big Bro vs Little Bro' style titles are worth one Test and Compare trial, not a habit.",
+     "src": "overseeros.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2093
+    },
+    {
+     "t": "A 2026 animation trends piece (Lummi, Feb 2026, opinion only) lists seamless object based transitions, where a moving prop such as a ball or a gift box wipes across the lens and becomes the next scene, among the year's main styles, an easy Blender move for linking verses in our song videos without hard cuts.",
+     "src": "lummi.ai, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-21",
+     "run": 2093
     }
    ]
   },
@@ -30769,12 +30783,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 15:44",
-   "note": "Summary of 2 older log entries (2026-11-21 15:43 to 2026-11-21 15:44): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 15:45",
-   "note": "Run 2014 (TRENDS (Virlo November board, SocialPilot 17 to 25 Nov)): Nothing new: Virlo's board (updated 21 Nov) has no trend first seen after 26 Oct and 23 of 76 still rising or peaking; SocialPilot's 17 Nov list (same spot years apart, camera shy pet dance, soft launch, You're Under Arrest) was already filed. 0 leaves. Chrome not available. Total 4277."
+   "note": "Summary of 2 older log entries (2026-11-21 15:44 to 2026-11-21 15:45): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 15:45",
@@ -31087,6 +31097,10 @@
   {
    "date": "2026-11-21 18:42",
    "note": "Run 2092 (music craft (infant rhythm reviews)): New: a 2026 Annals of the NY Academy of Sciences review (Tillmann, Goswami, Moghimi) says infant directed speech and lullabies cluster near 2 beats a second (about 120 BPM) and that how well an 11 month old's brain locks onto that slow beat predicted vocabulary at age 2; a Yale led randomised trial (110 caregiver and baby pairs) found singing was the only soothing method that rose with a four week singing nudge, and babies' mood improved. Suno and other music items were already filed. 2 leaves. Chrome not available. Total 4382."
+  },
+  {
+   "date": "2026-11-21 18:43",
+   "note": "Run 2093 (visual craft (VS titles, transitions)): New: OverseerOS (7 Nov 2026, 13,039 long videos from 409 channels, Jul to Sep 2026) found titles with a standalone 'VS' did only about 3% better than the same channels' other titles (1.11x under stricter filters), so a 'Big Bro vs Little Bro' title is a test, not a rule; a 2026 animation trend piece names object based transitions (a prop wipes the frame into the next scene) as a rising style. Meshy, Kidscreen and Test and Compare items were already filed. 2 leaves. Chrome not available. Total 4384."
   }
  ],
  "history": [
@@ -32069,6 +32083,10 @@
   {
    "date": "2026-11-21 18:42",
    "total": 4382
+  },
+  {
+   "date": "2026-11-21 18:43",
+   "total": 4384
   }
  ],
  "next_week_ideas": [
