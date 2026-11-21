@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:47:29+05:30",
- "runs": 2222,
+ "updated": "2026-11-21T23:48:13+05:30",
+ "runs": 2223,
  "branches": [
   {
    "id": "platforms",
@@ -20985,6 +20985,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2216
+    },
+    {
+     "t": "TinyTaleem, a Pakistani English and Urdu alphabet channel with 145K subscribers and 453 videos, got only about 2K views (about 72 a day, modelled revenue about 3 USD) in the 28 days to 20 Nov 2026 and its best videos peaked near 31K, so subscribers alone bring almost no views and Urdu kids learning content is a weak dub target compared with Hindi, which shares most of the spoken words.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2223
     }
    ]
   },
@@ -31708,11 +31715,7 @@
  "log": [
   {
    "date": "2026-11-21 20:51",
-   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 21:01): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 21:02",
-   "note": "Run 2147 (our own results (Metricool queue for 21 to 22 Nov)): New: the Metricool queue still publishes everything at 10:00 and 16:00 IST (descriptions promise 10 AM and 4 PM), not the plan's 04:30 IST US slot, and tomorrow's 16:00 IST post is a gentle bedtime moon song that will land in the Indian afternoon and the American night or early morning, so bedtime songs need a better slot. Posting slots in the plan unchanged. 2 leaves. Chrome not available. Total 4435."
+   "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 21:02): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 21:03",
@@ -32025,6 +32028,10 @@
   {
    "date": "2026-11-21 23:47",
    "note": "Run 2222 (YouTube algorithm and YouTube Kids (official family posts)): Nothing new: YouTube's Jan 2026 family posts (supervised Explore, Explore More and Most of YouTube settings, Shorts timer to zero, autoplay off for under 18s, quality principles that lift enriching videos) were already filed. 0 leaves. Chrome not available. Total 4516."
+  },
+  {
+   "date": "2026-11-21 23:48",
+   "note": "Run 2223 (global markets (Pakistan and Urdu kids channels)): Small addition: a Pakistani learning channel with 145K subscribers and 453 videos got only about 2K views in 28 days after it stopped uploading, and its best videos borrowed a famous shark song name in titles, while two Urdu story and Islamic channels had only stale data; Urdu looks a weak dub target next to Hindi. 1 leaves. Chrome not available. Total 4517."
   }
  ],
  "history": [
@@ -32819,6 +32826,10 @@
   {
    "date": "2026-11-21 23:47",
    "total": 4516
+  },
+  {
+   "date": "2026-11-21 23:48",
+   "total": 4517
   }
  ],
  "next_week_ideas": [
