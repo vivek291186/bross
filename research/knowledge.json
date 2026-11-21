@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T09:53:32+05:30",
- "runs": 1839,
+ "updated": "2026-11-21T09:54:20+05:30",
+ "runs": 1840,
  "branches": [
   {
    "id": "platforms",
@@ -12179,6 +12179,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1793
+    },
+    {
+     "t": "Bluey's music passed one billion lifetime audio streams in July 2025, led by its theme tune (two versions about 126M Spotify streams), a 'Dance Mode' song and a keepy uppy game song, so a short signature theme plus a dance along track are what a kids brand's audience replays most.",
+     "src": "musicweek.com, Jul 2025",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1840
+    },
+    {
+     "t": "Bluey's fourth album 'Up Here' (27 Mar 2026) is 17 new live orchestral recordings with a state symphony orchestra rather than synth pop, showing that a kids brand can win parents with warm acoustic and orchestral colour; Bro Bros can ask Suno for real strings, brass and woodwind on gentle songs.",
+     "src": "bbcstudios.com.au, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1840
     }
    ]
   },
@@ -28830,12 +28844,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 06:05",
-   "note": "Summary of 2 older log entries (runs up to 1760): steady research rounds across all focuses."
-  },
-  {
    "date": "2026-11-21 06:41",
-   "note": "Run 1761 (TRENDS (SocialPilot 17 to 25 Nov list, Virlo pet and baby formats, Tubefilter 15 Nov)): Mostly known. New: the 'kung fu pet and baby' hold and mimic format (a baby or pet seems to do martial arts moves timed to punch sound effects) reached about 473M views from only 384 TikTok videos, half of them from one 235M clip, and was archived by 20 Nov; a kid safe Bros 'slow motion kung fu' Short was added to the trend bank. Chrome not available. Total 4043."
+   "note": "Summary of 2 older log entries (runs up to 1761): steady research rounds across all focuses."
   },
   {
    "date": "2026-11-21 06:42",
@@ -29148,6 +29158,10 @@
   {
    "date": "2026-11-21 09:53",
    "note": "Run 1839 (TRENDS (December holiday formats and world winter festivals)): Nothing new: December 2025 holiday formats (gift paper burst, horses in the stable, disguised gifts) and the winter festival calendar (Hanukkah, St Nicholas, Santa Lucia, Las Posadas, Dongzhi, Yalda, Kwanzaa, Hogmanay) were already filed; no December 2026 roundups are out yet. No leaves added; trend bank unchanged. Chrome not available. Total 4105."
+  },
+  {
+   "date": "2026-11-21 09:54",
+   "note": "Run 1840 (music craft (Bluey albums and streaming, Ms Rachel)): New: Bluey's music passed one billion audio streams (July 2025) led by its theme tune and a dance mode song, and its fourth album (Mar 2026) is 17 live orchestral recordings, showing that a short signature theme and real instruments keep kids music streaming for years. Chrome not available. Total 4107."
   }
  ],
  "history": [
@@ -30058,9 +30072,17 @@
   {
    "date": "2026-11-21 09:53",
    "total": 4105
+  },
+  {
+   "date": "2026-11-21 09:54",
+   "total": 4107
   }
  ],
  "next_week_ideas": [
+  {
+   "title": "The Bro Bros Theme Song",
+   "why": "Bluey's most streamed track is its short theme tune; a 20 to 30 second catchy Bro Bros theme with the brothers' names, used as the intro of every video, builds instant recognition and its own replays."
+  },
   {
    "title": "My Body Can Do Amazing Things",
    "why": "Body positive move along songs (Meekah's Oct 2026 release) win brand partners and parents; Big Bro and Little Bro show stretch, jump, wave and clap moves, all standing in place."
@@ -30112,10 +30134,6 @@
   {
    "title": "Dear Santa, Here's My List! (Letter Writing Song)",
    "why": "Royal Mail asks UK children to post Santa letters by Wed 9 Dec 2026 for a reply and Canada Post runs its own December reply programme, so families write letters in late November and early December; the Bros draw, write and post their letters in a counting and kindness song (one wish for me, one wish for my brother, one wish for everyone), with no product names. Post it in the last week of November."
-  },
-  {
-   "title": "Open the Door! (Count to Christmas Advent Song)",
-   "why": "A counting song for 1 to 24 where each verse opens one advent door and reveals a squishy friend and a dance move; it powers a one door a day December Shorts series (the Vlogmas and Shortsmas habit) and the full version becomes the Christmas Eve compilation."
   }
  ],
  "trend_bank": [
