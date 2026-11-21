@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:59:06+05:30",
- "runs": 2201,
+ "updated": "2026-11-21T23:00:07+05:30",
+ "runs": 2202,
  "branches": [
   {
    "id": "platforms",
@@ -10555,6 +10555,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2192
+    },
+    {
+     "t": "PangPang Kids, a Korean studio with English titles started in Oct 2023, reached 3.46M subscribers and about 87M views in 28 days from only 74 videos, all daily routine songs (brush and sparkle your teeth, good morning little star, happy hand washing, bedtime teeth brushing, a feelings song), and posted nothing in the last 28 days, so a small set of polished English routine songs can grow a global channel without daily uploads.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2202
     }
    ]
   },
@@ -13257,6 +13264,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2200
+    },
+    {
+     "t": "Korea's JunyTony (2.94M subscribers, about 57M views in 28 days) has as its two biggest videos a colourful poop song (24.8M) and a 'we are a fart family' song (16.2M), ahead of a new baby sibling song and a world capitals song, matching Germany's dog poop song hit: gentle potty humour is one of the few song topics that wins in every market.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2202
     }
    ]
   },
@@ -20838,6 +20852,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2199
+    },
+    {
+     "t": "Korea's KebiKids (6.88M subscribers) drew about 500M views and 130K new subscribers in the 28 days to 21 Nov 2026, and its top videos are an insect rescue squad science story series (save the mantis 14.2M, save the queen ant 8.1M), an animal hospital series (a sick cat, a panda) and an animal battle song, so rescue missions for small animals plus a science fact are a surging format; a 'Bro Bros Bug Rescue' song fits it with our own characters.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 2202
     }
    ]
   },
@@ -31519,11 +31540,7 @@
  "log": [
   {
    "date": "2026-11-21 19:43",
-   "note": "Summary of 2 older log entries (2026-11-21 19:42 to 2026-11-21 19:43): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 19:43",
-   "note": "Run 2124 (our own results (Metricool recheck)): Nothing new: Metricool's YouTube data still stops at the 19 Nov morning upload and Instagram at the 20 Nov Reels (car song 55 views and 25 shares, parade 16 views); the tomato song's 972 views and the weak Shorts are already filed. 0 leaves. Chrome not available. Total 4418."
+   "note": "Summary of 2 older log entries (2026-11-21 19:43 to 2026-11-21 19:43): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:43",
@@ -31836,6 +31853,10 @@
   {
    "date": "2026-11-21 22:59",
    "note": "Run 2201 (visual craft (Blender pipeline of a top kids brand's 3D episodes)): New: CGWorld (Jul 2026) reports that the 3D animated episodes of a 40M subscriber kids brand are made by a small, partly remote Japanese team doing story, storyboards and previs inside Blender, without timesheets, aiming to keep everything up to the camera stage in Blender. 2 leaves. Chrome not available. Total 4489."
+  },
+  {
+   "date": "2026-11-21 23:00",
+   "note": "Run 2202 (global markets (Korea kids channels, topics skipped as saturated)): New: Korea's KebiKids is surging (about 500M views and 130K subscribers in 28 days) on insect rescue squad science stories and an animal hospital series; JunyTony's top hits are poop and fart family songs; PangPang Kids, Korean made but English titled, reached 3.46M subscribers from only 74 routine songs (tooth brushing, waking up, hand washing). 3 leaves. Chrome not available. Total 4492."
   }
  ],
  "history": [
@@ -32546,6 +32567,10 @@
   {
    "date": "2026-11-21 22:59",
    "total": 4489
+  },
+  {
+   "date": "2026-11-21 23:00",
+   "total": 4492
   }
  ],
  "next_week_ideas": [
