@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:05:58+05:30",
- "runs": 1908,
+ "updated": "2026-11-21T12:06:30+05:30",
+ "runs": 1909,
  "branches": [
   {
    "id": "platforms",
@@ -23106,6 +23106,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1871
+    },
+    {
+     "t": "From 14 to 20 Nov 2026 our Instagram account drew between 13 (19 Nov, farm band and bubble gum) and 240 Reels views a day (18 Nov, freeze dance and veggie soup), about 85 a day on average with still only 1 follower on 20 Nov, so a single strong Reel makes the day and a weak pair leaves it almost empty; the hook of each Reel matters far more than its hour.",
+     "src": "Metricool Instagram, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1909
     }
    ]
   },
@@ -29481,12 +29488,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 09:48",
-   "note": "Earlier: 2 older log entries summarised (runs up to 1828); see git history."
-  },
-  {
    "date": "2026-11-21 09:49",
-   "note": "Run 1830 (TRENDS (kids and toddler dance challenges this week)): Nothing new: searches for fresh kid and toddler dance challenges returned only old evergreen tag pages; a local viral dance song story could not be opened. No leaves added; trend bank unchanged. Chrome not available. Total 4104."
+   "note": "Earlier: 2 older log entries summarised (runs up to 1829); see git history."
   },
   {
    "date": "2026-11-21 09:49",
@@ -29799,6 +29802,10 @@
   {
    "date": "2026-11-21 12:05",
    "note": "Run 1908 (TRENDS (Deck the Halls remix dance, Christmas dances)): New: a duo dance to an upbeat Deck the Halls remix spread on UK TikTok in mid November 2026, then turned into an AI trend that pastes celebrities' faces onto the routine in Christmas pyjamas; the carol is public domain so we can make our own upbeat arrangement and duo routine, but never put real people's faces on it. Added 'Deck the Halls pyjama duo' to the trend bank; 'Spell it with your body' dropped off the end. 1 leaves. Chrome not available. Total 4198."
+  },
+  {
+   "date": "2026-11-21 12:06",
+   "note": "Run 1909 (our results (Instagram account trend 14 to 20 Nov)): Instagram still shows 1 follower on 20 Nov and daily Reels views swung from 13 (19 Nov) to 240 (18 Nov, freeze dance plus tomato soup), averaging about 85 a day, so one strong Reel decides the whole day; nothing yet suggests a slot change. 1 leaves. Chrome not available. Total 4199."
   }
  ],
  "history": [
@@ -30985,6 +30992,10 @@
   {
    "date": "2026-11-21 12:05",
    "total": 4198
+  },
+  {
+   "date": "2026-11-21 12:06",
+   "total": 4199
   }
  ],
  "next_week_ideas": [
