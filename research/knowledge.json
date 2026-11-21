@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T05:38:48+05:30",
- "runs": 1729,
+ "updated": "2026-11-21T05:39:31+05:30",
+ "runs": 1730,
  "branches": [
   {
    "id": "platforms",
@@ -2743,6 +2743,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1704
+    },
+    {
+     "t": "Since mid 2026 the YouTube Shorts player has no dislike button; the like is a heart and the down option is now 'Not interested' or 'Don't recommend this channel', so a viewer who dislikes a Short now sends a direct negative signal against the whole channel and a weak opening costs more than before.",
+     "src": "GSMArena, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1730
+    },
+    {
+     "t": "Shorts Series (from 23 Sep 2026 on web, mobile and TV) play a creator's Shorts as numbered episodes in order and resume where the viewer stopped, so a numbered December run (for example 24 advent door Shorts) can be grouped as one series that pulls viewers to the next episode, but made for kids channels should first check the option appears in their Studio.",
+     "src": "Digital Trends, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1730
+    },
+    {
+     "t": "YouTube is also showing channel Posts inside the Shorts feed on web and mobile; made for kids channels cannot post them, so this new surface helps general channels only and our Instagram has to carry channel news to parents.",
+     "src": "Digital Trends, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1730
     }
    ]
   },
@@ -28169,10 +28190,6 @@
    "note": "Summary of older entries: earlier runs covered every focus repeatedly."
   },
   {
-   "date": "2026-11-20 21:35",
-   "note": "Run 1651 (posting times and holiday timing (Nielsen Christmas 2025, Roy Morgan, NZ On Air)): New: Christmas Day 2025 was the biggest US streaming day ever (55.1B minutes, over 54% of TV time) with YouTube the top streamer for December, so Christmas Day itself is a real viewing peak to schedule for; Roy Morgan shows girls 6 to 13 pick music far more than boys and ages 6 to 9 favour animation, animals and challenges; NZ kids reach YouTube daily at 69%. Posting slots unchanged (no kids specific hourly data found). Chrome not available. Total 3878."
-  },
-  {
    "date": "2026-11-20 21:37",
    "note": "Run 1652 (rules, monetisation and latest platform news (COPPA, EU Kids Act, Shorts RPM, YouTube 8 Nov update)): Mostly rechecks: COPPA, EU Kids Act, AIR Shorts RPM and December CPM, Ask YouTube and Instagram Your Algorithm were all already filed. Small new finds: YouTube's 8 Nov update merged Ask Studio and Help chat and is testing a brand product shelf for affiliate creators, and Hype with Jewels live donations spread to 9 countries from 6 Nov, none of which a made for kids channel can use for income. Chrome not available. Total 3881."
   },
@@ -28483,13 +28500,13 @@
   {
    "date": "2026-11-21 05:38",
    "note": "Run 1729 (YouTube algorithm (November changes, Shorts originality, 2027 Partner Program rules)): Nothing new: the Shorts originality push, AI custom feeds on Home and the 2027 Partner Program thresholds (8,000 watch hours or 20M Shorts views to join, 10M Shorts views in 90 days to keep Shorts pay) were already filed. No leaves added. Chrome not available. Total 4010."
+  },
+  {
+   "date": "2026-11-21 05:39",
+   "note": "Run 1730 (Shorts and Reels (Shorts player changes, Shorts Series)): New: the Shorts player swapped its dislike button for 'Not interested' and 'Don't recommend this channel' and the like became a heart, so a viewer who is bored now sends a direct negative signal; Shorts Series also play episodes in order with resume, a fit for a numbered Bro Bros advent run. Chrome not available. Total 4013."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 04:39",
-   "total": 3499
-  },
   {
    "date": "2026-11-20 05:36",
    "total": 3505
@@ -29685,6 +29702,10 @@
   {
    "date": "2026-11-21 05:38",
    "total": 4010
+  },
+  {
+   "date": "2026-11-21 05:39",
+   "total": 4013
   }
  ],
  "next_week_ideas": [
