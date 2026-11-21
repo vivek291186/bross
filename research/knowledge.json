@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T23:41:52+05:30",
- "runs": 2215,
+ "updated": "2026-11-21T23:42:39+05:30",
+ "runs": 2216,
  "branches": [
   {
    "id": "platforms",
@@ -20936,6 +20936,13 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2209
+    },
+    {
+     "t": "Kids Tv Ukraine, a dubbed nursery cartoon channel with 1.28M subscribers, still lives on 2022 slapstick uploads (top video about 31M), gained about 7.2M views in Oct 2026 from about one upload a week, and vidIQ models only about 410 USD in a recent fortnight, while its 18 Nov 2026 Wheels on the Bus Short had about 1.4K views after two days, so a thin dub channel in a low CPM market is not worth a separate Bro Bros channel; use audio tracks instead.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2216
     }
    ]
   },
@@ -31655,10 +31662,6 @@
    "note": "Summary of older log entries (2026-11-21 20:51 to 2026-11-21 20:56): earlier runs grew the tree; see git history for detail."
   },
   {
-   "date": "2026-11-21 20:56",
-   "note": "Run 2140 (music craft (Suno and Meshy tool updates)): Nothing new: Suno v6 (licensed Warner and BMG models, song editing) and Suno Visuals, and Meshy's October changelog (Meshy Edit, T2.5, N1 textures, Auto Split; no new motion features since July's Text to Motion) were all already filed. 0 leaves. Chrome not available. Total 4426."
-  },
-  {
    "date": "2026-11-21 20:57",
    "note": "Run 2141 (visual craft (gaze, video deficit, animation style)): New: a study of 176 toddlers found 2 and 2.5 year olds learned a new word from a live, responsive adult but not from video, even when the on screen person used their name and eye contact, so our learning songs for under 3s should be built for a parent watching alongside (simple point and say moments). 1 leaves. Chrome not available. Total 4427."
   },
@@ -31969,6 +31972,10 @@
   {
    "date": "2026-11-21 23:41",
    "note": "Run 2215 (TRENDS (SocialPilot TikTok 17 to 25 Nov, Later, Christmas dances)): Nothing new: SocialPilot's TikTok list for 17 to 25 Nov (same spot years apart, camera shy pets, you paid me no mind, the ILLIT arrest hook, Mariah gift guides, Friendsgiving prep) and the Christmas dance formats were already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4508."
+  },
+  {
+   "date": "2026-11-21 23:42",
+   "note": "Run 2216 (global markets (Ukraine dubbed channel, Bangla)): Small addition: Kids Tv Ukraine, a dubbed nursery channel with 1.28M subscribers, gained about 7.2M views in October but vidIQ models only a few hundred dollars a fortnight, and its 18 Nov Wheels on the Bus Short had 1.4K views in two days; Ukraine language data and Bangla channels were already filed or stale. 1 leaves. Chrome not available. Total 4509."
   }
  ],
  "history": [
@@ -32735,6 +32742,10 @@
   {
    "date": "2026-11-21 23:41",
    "total": 4508
+  },
+  {
+   "date": "2026-11-21 23:42",
+   "total": 4509
   }
  ],
  "next_week_ideas": [
