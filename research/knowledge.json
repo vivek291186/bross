@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T13:43:10+05:30",
- "runs": 1954,
+ "updated": "2026-11-21T13:43:57+05:30",
+ "runs": 1955,
  "branches": [
   {
    "id": "platforms",
@@ -22224,6 +22224,13 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1943
+    },
+    {
+     "t": "YouTube's AI labels and automatic AI detection (May 2026) apply only to main YouTube, not the YouTube Kids app, because Kids videos show no description; YouTube said it is developing separate labels for YouTube Kids, and its auto scan targets only photorealistic AI, skipping animated or stylised video, so a future Kids label is likely and an honest 'made with AI tools by a human team' note in our main YouTube description is the safest habit now.",
+     "src": "Mashable via Yahoo Tech, May 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1955
     }
    ]
   },
@@ -29775,12 +29782,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 11:40",
-   "note": "Earlier: older log entries summarised (runs up to 1875); see git history."
-  },
-  {
    "date": "2026-11-21 11:41",
-   "note": "Run 1876 (music craft (kids album charts, music studies)): The music studies and Suno v6 were already filed; Billboard's Kid Albums page still shows a November 2025 chart, where a Christmas cartoon soundtrack was number 1 by early November and Cocomelon, Pinkfong and Super Simple Songs sat among Disney soundtracks, so streaming audio of our songs is a real second shelf. 1 leaves. Chrome not available. Total 4158."
+   "note": "Earlier: older log entries summarised (runs up to 1876); see git history."
   },
   {
    "date": "2026-11-21 11:42",
@@ -30093,6 +30096,10 @@
   {
    "date": "2026-11-21 13:43",
    "note": "Run 1954 (TRENDS (Virlo weekly, 16 to 21 Nov)): New: the freshest family safe format is 'POV: you're the villain but...' (first seen 7 Oct, but 111 creators in the last 7 days, peak 18 Nov, 137M views): a dramatic villain monologue in a swivel chair is broken by a small relatable mishap; 'Ding Ding Ding candy match 3' (hands sliding candy in a grid to a beat) is already archived. Other new weekly sounds are GTA VI themed and not for kids. Added 'Villain chair, oops!' to the trend bank. 3 leaves. Chrome not available. Total 4240."
+  },
+  {
+   "date": "2026-11-21 13:43",
+   "note": "Run 1955 (rules and safety (AI labels on YouTube Kids)): Mostly filed. New: YouTube told Mashable (May 2026) that its AI labels do not reach the YouTube Kids app because Kids videos show no description, and that it is building separate Kids labels; the auto scan skips animated and stylised video, so our 3D songs are not auto labelled, but a future Kids label could be. 1 leaves. Chrome not available. Total 4241."
   }
  ],
  "history": [
@@ -30523,6 +30530,10 @@
   {
    "date": "2026-11-21 13:43",
    "total": 4240
+  },
+  {
+   "date": "2026-11-21 13:43",
+   "total": 4241
   }
  ],
  "next_week_ideas": [
