@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T10:49:24+05:30",
- "runs": 1857,
+ "updated": "2026-11-21T10:49:56+05:30",
+ "runs": 1858,
  "branches": [
   {
    "id": "platforms",
@@ -5354,6 +5354,27 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1850
+    },
+    {
+     "t": "Metricool's best time grid for our brand for 22 to 28 Nov 2026 (Asia/Kolkata) puts YouTube's top hour at 16:00 IST on all seven days, strongest on Wednesday (about 12.0K) and Thursday (about 12.0K) and weakest on Saturday (about 5.9K) and Sunday (about 5.6K), so the 16:00 IST main upload stays right and our strongest song of the week fits Wednesday or Thursday better than the weekend.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1858
+    },
+    {
+     "t": "For Instagram the same Metricool grid peaks at 10:00 IST every day of 22 to 28 Nov 2026 (Wednesday about 6.5K, Friday about 6.7K) with a second smaller bump at 18:00 IST, while 16:00 IST scores only about two thirds of the 10:00 peak, so our 10:00 IST Reel is in the best Instagram hour and the 16:00 Reel could be tested at 18:00 instead.",
+     "src": "Metricool, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1858
+    },
+    {
+     "t": "In Metricool's grids both networks score weekends at roughly half of weekdays (Instagram Sunday 10:00 about 2.6K against about 5.5K on Monday; YouTube Saturday 16:00 about 5.9K against about 10.4K on Tuesday), so weekend posts face less competition but also smaller live audiences; keep weekends for evergreen songs as the plan says.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1858
     }
    ]
   },
@@ -28984,12 +29005,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 07:36",
-   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
-  },
-  {
    "date": "2026-11-21 07:37",
-   "note": "Run 1779 (Shorts and Reels (Instagram Features, Reels 'Your Algorithm', Shorts series)): Nothing new: Instagram's 90 minute horizontal Features with up to eight linked Reels (26 Oct), the Reels 'Your Algorithm' expansion to English language users and YouTube's Shorts seasons and episodes were already filed. No leaves added. Chrome not available. Total 4056."
+   "note": "Earlier runs summarised: 2 older rounds of research, see git history for details."
   },
   {
    "date": "2026-11-21 07:43",
@@ -29302,6 +29319,10 @@
   {
    "date": "2026-11-21 10:49",
    "note": "Run 1857 (competitor deep dive (Little Angel Spanish channel)): Little Angel's Spanish channel (1.14M subs, about 117K views a day) posts about one video a day, long 10 to 16 minute song mixes titled '[everyday action] | Canciones Infantiles Para bebés' plus 16 to 34 second Shorts; its first Christmas mix came on 17 Nov, while its best recent upload was a pumpkin farm mix (about 101K). 3 leaves. Chrome not available. Total 4127."
+  },
+  {
+   "date": "2026-11-21 10:49",
+   "note": "Run 1858 (posting times (Metricool best times 22 to 28 Nov)): Metricool's best times for 22 to 28 Nov again put YouTube's peak at 16:00 IST every day (Wednesday strongest) and Instagram's at 10:00 IST every day, with a second Instagram bump at 18:00; weekend scores are about half of weekday ones. Posting plan unchanged. 3 leaves. Chrome not available. Total 4130."
   }
  ],
  "history": [
@@ -30284,6 +30305,10 @@
   {
    "date": "2026-11-21 10:49",
    "total": 4127
+  },
+  {
+   "date": "2026-11-21 10:49",
+   "total": 4130
   }
  ],
  "next_week_ideas": [
@@ -30484,6 +30509,6 @@
   ],
   "days": "Every day. Put the strongest song of the week and the weekly compilation on Friday; weekends get lighter, evergreen songs.",
   "shorts": "Short 5 minutes after each video; extra Shorts work best Thursday to Saturday evenings local time.",
-  "test": "Run this for 2 weeks, then compare in YouTube Studio (Audience: When your viewers are on YouTube) and move each slot to 2 to 3 hours before our real peaks. Extra test: post one bonus Short a day for a week at 22:30 IST (17:00 UTC, the strongest Shorts hour in PostFast's data) and compare its views with the Shorts that follow our two main videos. Third test: for one week post each Short 4 hours after its long video instead of 5 minutes later (vidIQ's suggestion, no data shown) and compare."
+  "test": "Run this for 2 weeks, then compare in YouTube Studio (Audience: When your viewers are on YouTube) and move each slot to 2 to 3 hours before our real peaks. Extra test: post one bonus Short a day for a week at 22:30 IST (17:00 UTC, the strongest Shorts hour in PostFast's data) and compare its views with the Shorts that follow our two main videos. Third test: for one week post each Short 4 hours after its long video instead of 5 minutes later (vidIQ's suggestion, no data shown) and compare. Fourth test: Metricool's 22 to 28 Nov grid puts Instagram's second peak at 18:00 IST, so for one week move the 16:00 Reel to 18:00 and compare views and shares."
  }
 }
