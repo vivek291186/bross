@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T07:59:57+05:30",
- "runs": 1795,
+ "updated": "2026-11-21T08:00:48+05:30",
+ "runs": 1796,
  "branches": [
   {
    "id": "platforms",
@@ -18990,6 +18990,27 @@
      "conf": "high",
      "date": "2026-11-21",
      "run": 1784
+    },
+    {
+     "t": "The first Eurovision Song Contest Asia (Bangkok, 14 Nov 2026, 11 countries, votes from 183 countries and territories) was won by the Philippines with an energetic pop song by a singer who rose through The Voice Kids, topping both jury and public votes, which shows how strongly Filipino audiences rally behind bright, upbeat pop.",
+     "src": "eurovision.com, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-21",
+     "run": 1796
+    },
+    {
+     "t": "Half of the Philippines' top 10 kids songs by YouTube views are faith themed action songs (praise songs with hand moves), alongside one traditional song (BINGO) and one Tagalog song, so gentle values and simple actions matter in this English friendly market.",
+     "src": "soundcharts.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1796
+    },
+    {
+     "t": "Thailand and Vietnam took second and third at Eurovision Asia 2026, with Malaysia and Laos in the top five, a sign that Southeast Asian countries are investing in international pop moments, a region where our English songs can travel.",
+     "src": "eurovision.com, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1796
     }
    ]
   },
@@ -28674,10 +28695,6 @@
   },
   {
    "date": "2026-11-21 04:59",
-   "note": "Run 1717 (global markets (Spanish and Portuguese kids song channels: LiaChaCha Spanish, NuNu Tv, ChiquitinesTV, LooLoo Portuguese)): New: LiaChaCha's Spanish channel, only about three years old, reached 6.64M subscribers and about 155M views in 28 days (+90K subscribers) with about 5 uploads a week and a classic chick song at about 382M views; together with its Arabic channel it shows a newer brand winning by launching native Spanish and Arabic channels early. Older Spanish and Portuguese channels (ChiquitinesTV, LooLoo Portuguese) are flat. Chrome not available. Total 3999."
-  },
-  {
-   "date": "2026-11-21 04:59",
    "note": "Run 1718 (music craft (Suno v6 and Visuals updates, kids hit song analyses, toddler ad value)): Nothing new: Suno v6 with licensed label models and song editing, Suno Visuals and the toddler ad value estimates were already filed. No leaves added. (Shorts and other platforms skipped as rechecked this run.) Chrome not available. Total 3999."
   },
   {
@@ -28987,13 +29004,13 @@
   {
    "date": "2026-11-21 07:59",
    "note": "Run 1795 (TRENDS (Virlo early vs late TikTok board, week to 19 Nov)): New: Virlo's weekly board shows 'while they're out partying btw' (proud text over ordinary hobby clips) tripling to about 347 creators, and the Christmas dances trend already fading (9 creators last week after 58). Added 'Meanwhile, btw' to the trend bank. Chrome not available. Total 4082."
+  },
+  {
+   "date": "2026-11-21 08:00",
+   "note": "Run 1796 (global markets (Philippines: Eurovision Asia win, kids songs by YouTube views)): New: the Philippines won the first Eurovision Song Contest Asia in Bangkok on 14 Nov 2026 with an upbeat pop song by a former Voice Kids runner up, topping both jury and public votes (votes from 183 countries); faith themed action songs dominate Philippine kids song views. English language Philippine kids chart point already filed. Chrome not available. Total 4085."
   }
  ],
  "history": [
-  {
-   "date": "2026-11-20 08:50",
-   "total": 3619
-  },
   {
    "date": "2026-11-20 08:51",
    "total": 3619
@@ -30189,6 +30206,10 @@
   {
    "date": "2026-11-21 07:59",
    "total": 4082
+  },
+  {
+   "date": "2026-11-21 08:00",
+   "total": 4085
   }
  ],
  "next_week_ideas": [
