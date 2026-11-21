@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:50:13+05:30",
- "runs": 2165,
+ "updated": "2026-11-21T21:51:07+05:30",
+ "runs": 2166,
  "branches": [
   {
    "id": "platforms",
@@ -10443,6 +10443,13 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2156
+    },
+    {
+     "t": "Cosmic Kids Yoga says its story led yoga adventures, discos and calm down meditations have passed 500M views with about 1M unique users a month and use in thousands of classrooms; in its survey of 3,378 parents and teachers about 90% saw better strength and balance and about 76% better focus, so a calm 'yoga adventure' song (stretch tall like a giraffe, balance like a flamingo, breathe like a balloon) is a proven, teacher friendly format.",
+     "src": "Cosmic Kids impact report, Jun 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2166
     }
    ]
   },
@@ -31198,6 +31205,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2164
+    },
+    {
+     "t": "Faire's retailer search data (90 days to 28 Jul 2026 vs the 90 days before) shows squishy toy searches up 185%, led by highland cows (+219%), capybaras (+198%) and axolotls (+170%), plus food shaped squishies like croissants and dumplings, so a Bro Bros song meeting a highland cow, a capybara and an axolotl (our own designs) rides the animals kids want right now.",
+     "src": "Toy Book citing Faire, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2166
+    },
+    {
+     "t": "The same Faire data has DIY slime supplies up 115%, friendship and charm bracelet kits up about 65% and kids camera searches up 21%, with making things by hand and capturing moments away from phones as the pull, so 'make it with me' craft songs (stir the slime, thread a bracelet, snap a photo pose) fit the 2026 mood.",
+     "src": "Toy Book citing Faire, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 2166
     }
    ]
   }
@@ -31225,11 +31246,7 @@
  "log": [
   {
    "date": "2026-11-21 17:49",
-   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 17:56): earlier runs grew the tree; see git history for detail."
-  },
-  {
-   "date": "2026-11-21 18:02",
-   "note": "Run 2087 (YouTube kids channels (Super Simple Songs uploads)): Nothing new: the Super Simple Songs uploads page could not be read this run (fetch permission timed out); our own results were skipped because Metricool data was already recorded today. 0 leaves. Chrome not available. Total 4375."
+   "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 18:02): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 18:02",
@@ -31542,6 +31559,10 @@
   {
    "date": "2026-11-21 21:50",
    "note": "Run 2165 (visual craft (pacing and MIPJunior 2026)): Nothing new: SRI's fast paced video model and cut rate definitions and Disney Jr.'s testing of stories with children (MIPJunior Oct 2026) were already filed; a reboots and spin offs trend piece turned out to be from 2022. 0 leaves. Chrome not available. Total 4447."
+  },
+  {
+   "date": "2026-11-21 21:51",
+   "note": "Run 2166 (TRENDS (squishy animals and story yoga)): New: Faire's 2026 retailer search data shows squishy toys up 185% in a quarter, led by highland cows (+219%), capybaras (+198%) and axolotls (+170%), so these three animals are the hottest original characters to put in a song now; Cosmic Kids' story yoga adventures claim 500M+ views and 1M monthly users, backing a calm 'yoga adventure' song format. 3 leaves. Chrome not available. Total 4450."
   }
  ],
  "history": [
@@ -32108,6 +32129,10 @@
   {
    "date": "2026-11-21 21:50",
    "total": 4447
+  },
+  {
+   "date": "2026-11-21 21:51",
+   "total": 4450
   }
  ],
  "next_week_ideas": [
