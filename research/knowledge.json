@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T22:56:36+05:30",
- "runs": 2197,
+ "updated": "2026-11-21T22:56:47+05:30",
+ "runs": 2198,
  "branches": [
   {
    "id": "platforms",
@@ -31483,12 +31483,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-21 19:40",
-   "note": "Summary of 2 older log entries (2026-11-21 19:39 to 2026-11-21 19:40): earlier runs grew the tree; see git history for detail."
-  },
-  {
    "date": "2026-11-21 19:41",
-   "note": "Run 2120 (global markets (Turkey and Philippines rankings)): New: HypeAuditor's November 2026 rankings show half of Turkey's 50 most subscribed YouTube channels are animation or family channels, many of them Turkish versions of foreign kids brands (Masha at No. 1, Little Angel's Can Bebek, Hello Tiny, Booba, Diana and Roma), while the Philippines top 50 is led by family vloggers with only two clear kids channels. 3 leaves. Chrome not available. Total 4418."
+   "note": "Summary of 2 older log entries (2026-11-21 19:40 to 2026-11-21 19:41): earlier runs grew the tree; see git history for detail."
   },
   {
    "date": "2026-11-21 19:41",
@@ -31801,6 +31797,10 @@
   {
    "date": "2026-11-21 22:56",
    "note": "Run 2197 (YouTube algorithm (Studio tools recheck)): Nothing new: Studio's Insights and Research tabs (13 Nov), the Watched by my viewers filter and Ask Studio were already filed. 0 leaves. Chrome not available. Total 4484."
+  },
+  {
+   "date": "2026-11-21 22:56",
+   "note": "Run 2198 (Shorts and Reels (kids animation Reels pages)): Nothing new: searches for kids cartoon Reels growth cases returned only template sellers and generic Reels statistics already filed. 0 leaves. Chrome not available. Total 4484."
   }
  ],
  "history": [
@@ -32486,6 +32486,10 @@
   },
   {
    "date": "2026-11-21 22:50",
+   "total": 4484
+  },
+  {
+   "date": "2026-11-21 22:56",
    "total": 4484
   },
   {
