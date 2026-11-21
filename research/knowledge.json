@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T12:38:49+05:30",
- "runs": 1917,
+ "updated": "2026-11-21T12:39:45+05:30",
+ "runs": 1918,
  "branches": [
   {
    "id": "platforms",
@@ -29525,6 +29525,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 1915
+    },
+    {
+     "t": "The 'Ba Ba Ba' duo dance that topped TikTok trend charts in October and November 2026 (started 2 Oct in a library; a stairwell copy passed 9.8M plays and the sound was under about 646K videos by 3 Nov) is built in four parts: both dance side by side, the right dancer does a solo, the left dancer does a solo, then a synced finish; the sound is an unreleased DJ mashup with an adult club beat, so Bro Bros copies only this turn taking structure with our own music.",
+     "src": "Atlas Cloud blog, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1918
+    },
+    {
+     "t": "Turn taking duo routines (together, your turn, my turn, together again) are among the strongest dance structures on TikTok this autumn and map perfectly onto a two brothers channel: each brother gets a solo moment that shows his personality, and the 'your turn' moment invites the child watching to take a turn too.",
+     "src": "Atlas Cloud blog and Viralremix, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-21",
+     "run": 1918
     }
    ]
   }
@@ -29552,11 +29566,7 @@
  "log": [
   {
    "date": "2026-11-21 09:52",
-   "note": "Earlier: older log entries summarised (runs up to 1838); see git history."
-  },
-  {
-   "date": "2026-11-21 09:53",
-   "note": "Run 1839 (TRENDS (December holiday formats and world winter festivals)): Nothing new: December 2025 holiday formats (gift paper burst, horses in the stable, disguised gifts) and the winter festival calendar (Hanukkah, St Nicholas, Santa Lucia, Las Posadas, Dongzhi, Yalda, Kwanzaa, Hogmanay) were already filed; no December 2026 roundups are out yet. No leaves added; trend bank unchanged. Chrome not available. Total 4105."
+   "note": "Earlier: older log entries summarised (runs up to 1839); see git history."
   },
   {
    "date": "2026-11-21 09:54",
@@ -29869,6 +29879,10 @@
   {
    "date": "2026-11-21 12:38",
    "note": "Run 1917 (competitor deep dive (Pinkfong Bebefinn album, Moonbug)): New: a 14 track Bebefinn album mixes 3 dance songs, 3 routine songs, 2 safety songs, animals, play and one seasonal song, a ready template for our 14 songs a week; Moonbug runs a Portuguese language linear kids channel for Angola and Mozambique, a sign that Lusophone Africa is a real Portuguese audience beyond Brazil. 2 leaves. Chrome not available. Total 4208."
+  },
+  {
+   "date": "2026-11-21 12:39",
+   "note": "Run 1918 (TRENDS (Ba Ba Ba duo structure)): New: the Ba Ba Ba duo routine, one of the top TikTok dances of Oct and Nov 2026, is built as side by side, solo for one, solo for the other, then a synced finish (sound under about 646K videos by 3 Nov); its audio is an unreleased mashup with an adult beat, so we copy only the four part turn taking structure. Merged the older 'Our year in songs recap' trend bank entry into 'How we looked this year, month by month' (same format). 2 leaves. Chrome not available. Total 4210."
   }
  ],
  "history": [
@@ -30151,6 +30165,10 @@
   {
    "date": "2026-11-21 12:38",
    "total": 4208
+  },
+  {
+   "date": "2026-11-21 12:39",
+   "total": 4210
   }
  ],
  "next_week_ideas": [
@@ -30212,6 +30230,12 @@
   }
  ],
  "trend_bank": [
+  {
+   "name": "Together, my turn, your turn, together",
+   "where": "TikTok (Ba Ba Ba duo, Oct to Nov 2026), Reels, Shorts",
+   "status": "peak",
+   "use": "A 20 second Short to our own funky beat: 0 to 5 s Big Bro and Little Bro side by side do chest taps, a clap and shoulder bounces; 5 to 9 s Big Bro solo with arms crossed, a finger point to the sky and a turn while Little Bro watches; 10 to 15 s Little Bro solo with big arm swings, a spin and arms up; 16 to 20 s both in sync push their hands toward the camera with knee bounces and finish with arms overhead, then on screen text 'Your turn!'. Meshy steps: standing in place, chest taps, clap, shoulder bounce, arms crossed then point up, turn in place, big arm swings, spin in place, push both hands forward, arms overhead."
+  },
   {
    "name": "Jingle Bell funk freeze and chest tap",
    "where": "TikTok (top dance 20 Nov 2026), Reels, Shorts",
@@ -30307,12 +30331,6 @@
    "where": "TikTok, Reels and Shorts, every December",
    "status": "seasonal",
    "use": "A 15 second Short: a doorway covered in giant wrapping paper, a drum roll in our own song, then Little Bro steps through the paper with a big smile, followed by Big Bro and a friend, each in a new festive outfit; end on all three doing the chorus move. Dance: standing in place, arms up in a V on beat 1, clap on beat 2, twist the hips left and right on beats 3 and 4. Show it as a soft paper sheet only, never glass or anything sharp."
-  },
-  {
-   "name": "Our year in songs recap",
-   "where": "Reels, Shorts and TikTok in the first week of December (Spotify Wrapped predicted 2 Dec 2026)",
-   "status": "seasonal",
-   "use": "A 30 second countdown of our top 5 Bro Bros songs of 2026 in Wrapped style cards: big number, song name, two seconds of each chorus with the Bros doing that song's signature move, ending on both waving 'thank you for singing with us'. Dance for the final card: standing in place, point to the camera on beat 1, thumbs up on beat 2, wave both hands overhead on beats 3 and 4."
   },
   {
    "name": "Tree decorating time lapse",
