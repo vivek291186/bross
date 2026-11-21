@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-21T21:46:24+05:30",
- "runs": 2160,
+ "updated": "2026-11-21T21:47:10+05:30",
+ "runs": 2161,
  "branches": [
   {
    "id": "platforms",
@@ -31186,10 +31186,6 @@
    "note": "Summary of 2 older log entries (2026-11-21 17:49 to 2026-11-21 17:54): earlier runs grew the tree; see git history for detail."
   },
   {
-   "date": "2026-11-21 17:54",
-   "note": "Run 2082 (topics and seasons (Christmas 2026 toy lists)): Nothing new: the 2026 hot toy lists (Toy Insider, Amazon Toys We Love, ABC trending toys) were already filed. TRENDS was skipped this round because the last trends round found nothing new. 0 leaves. Chrome not available. Total 4367."
-  },
-  {
    "date": "2026-11-21 17:55",
    "note": "Run 2083 (global markets (MENA YouTube economy)): New: YouTube's 20th anniversary figures for MENA (Apr 2025, data to Dec 2024) show channels earning seven figures in local currency up 40% in Saudi Arabia, 60% in Egypt and 15% in the UAE in a year, over 95% of watch time on UAE made content and over 60% on Egyptian content coming from abroad, and about 12M connected TV users in Saudi Arabia, so an Arabic dub can reach viewers across the whole Arab world, often on the family TV. A vidIQ page for an Arabic kids channel showed no data. 3 leaves. Chrome not available. Total 4370."
   },
@@ -31500,6 +31496,10 @@
   {
    "date": "2026-11-21 21:46",
    "note": "Run 2160 (TRENDS (winter snow formats and November roundup)): Nothing new: Startups.co.uk's November roundup (teeny tiny message, Christmas countdown overlays) and first snow reaction clips were already filed; the viral snow unicorn parents story turned out to be from 2019. Trend bank unchanged. 0 leaves. Chrome not available. Total 4441."
+  },
+  {
+   "date": "2026-11-21 21:47",
+   "note": "Run 2161 (YouTube algorithm (Home and subscription feed)): Nothing new: Beaupre's Sep 2026 Creator Insider points (recommendations pulled per viewer, subscriber click rates near 10% are normal, Suggested beats the subscriptions feed, the repeat recommendation cap test) and Joos's Home row analysis were all already filed. 0 leaves. Chrome not available. Total 4441."
   }
  ],
  "history": [
@@ -32045,6 +32045,10 @@
   },
   {
    "date": "2026-11-21 21:46",
+   "total": 4441
+  },
+  {
+   "date": "2026-11-21 21:47",
    "total": 4441
   }
  ],
