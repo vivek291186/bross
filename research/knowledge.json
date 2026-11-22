@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:44:56+05:30",
- "runs": 2352,
+ "updated": "2026-11-22T07:45:38+05:30",
+ "runs": 2353,
  "branches": [
   {
    "id": "platforms",
@@ -32505,12 +32505,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 02:36",
-   "note": "Summary of older runs up to 2026-11-22 02:36: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 02:38",
-   "note": "Run 2274 (TRENDS (Later 20 Nov, InMagic, NewEngen 20 Nov, Know Your Meme 17 to 20 Nov)): Almost nothing new: every family friendly format in this week's Later, InMagic and NewEngen lists (Dear Santa, it's time reveal, Chipmunks dance, Dame Hombro, year recap, zoom in, add to cart, dinner glances) was already filed; Know Your Meme's 17 to 20 Nov items are adult jokes (an AI country song with dark slang, celebrity casting parodies, couple slideshows). Trend bank unchanged. 1 leaves. Chrome not available. Total 4545."
+   "note": "Summary of older runs up to 2026-11-22 02:38: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 02:39",
@@ -32823,6 +32819,10 @@
   {
    "date": "2026-11-22 07:44",
    "note": "Run 2352 (TRENDS (Virlo 21 Nov formats, Daily Dot, parent TikTok trends)): Nothing new: Virlo's 12 live formats for 21 Nov, the toddler repeats tablet phrases parent trend and the older melting face trend were already filed or not usable. 0 leaves. Chrome not available. Total 4630."
+  },
+  {
+   "date": "2026-11-22 07:45",
+   "note": "Run 2353 (YouTube algorithm (Home feed and Shorts ranking reports, view count change)): Nothing new: the Joos Home feed and Shorts ranking claims, the Metricool 2026 view and watch time study and the August 2026 view count change were all already filed. 0 leaves. Chrome not available. Total 4630."
   }
  ],
  "history": [
@@ -33656,6 +33656,10 @@
   },
   {
    "date": "2026-11-22 07:44",
+   "total": 4630
+  },
+  {
+   "date": "2026-11-22 07:45",
    "total": 4630
   }
  ],
