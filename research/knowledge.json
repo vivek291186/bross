@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:40:59+05:30",
- "runs": 2347,
+ "updated": "2026-11-22T07:41:47+05:30",
+ "runs": 2348,
  "branches": [
   {
    "id": "platforms",
@@ -10842,6 +10842,27 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2337
+    },
+    {
+     "t": "In the 28 days to 21 Nov 2026 Super Simple Songs was the only kids channel among the top 50 subscriber gainers worldwide (about +200K to 47.3M, about 494M views), with El Reino Infantil (Argentina), Pinkfong and LooLoo Kids each adding about 100K on roughly 400M to 500M views, so big nursery channels earn only about one subscriber per 2,000 to 5,000 views and Bro Bros should judge growth by views and watch time, not subscribers.",
+     "src": "AIFreeForever, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2348
+    },
+    {
+     "t": "Cocomelon still led the 28 day 'most views gained' side list to 21 Nov 2026 with about 1.06B views, roughly double any other kids channel, while not appearing among the top 100 subscriber gainers, more proof that kids music channels win on repeat viewing rather than new subscribers.",
+     "src": "AIFreeForever, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2348
+    },
+    {
+     "t": "In the single day to 21 Nov 2026 no kids channel was among the top 100 subscriber gainers on YouTube (GTA VI launch gaming channels took the day), so day to day subscriber swings say little about kids channels, whose growth shows over weeks.",
+     "src": "AIFreeForever, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2348
     }
    ]
   },
@@ -32456,12 +32477,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 01:51",
-   "note": "Summary of older runs up to 2026-11-22 01:51: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 01:52",
-   "note": "Run 2269 (other platforms (Roblox top games churn, Alexa kids requests; TRENDS skipped after empty rounds)): Nothing new: GGRecon's 19 Nov Roblox chart (30 of 99 top games made since October, ragdoll physics and Throw Food For Animals) and Alexa year lists were already filed. 0 leaves. Chrome not available. Total 4538."
+   "note": "Summary of older runs up to 2026-11-22 01:52: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 01:53",
@@ -32774,6 +32791,10 @@
   {
    "date": "2026-11-22 07:40",
    "note": "Run 2347 (our own results (Metricool YouTube 19 to 22 Nov, today's queue)): Small addition: Bubble Gum Pop (19 Nov 16:00 IST, running on an automatic frame because its thumbnail failed) reached about 312 views by 22 Nov, about a third of the same day's 10:00 farm band song (about 1,069), in line with the morning slot lead; newer videos have not synced yet. Today's Peekaboo (10:00) and Ride to the Moon (16:00) are queued; 23 to 29 Nov is still empty. 1 leaves. Chrome not available. Total 4623."
+  },
+  {
+   "date": "2026-11-22 07:41",
+   "note": "Run 2348 (YouTube main and kids channels (28 day fastest growing chart to 21 Nov)): New: in the 28 days to 21 Nov Super Simple Songs was the only kids channel in the top 50 subscriber gainers (+200K, about 494M views), with El Reino Infantil, Pinkfong and LooLoo Kids each +100K, while Cocomelon gained about 1.06B views; in the single day to 21 Nov no kids channel was in the top 100 gainers, as GTA VI gaming channels took the day. 3 leaves. Chrome not available. Total 4626."
   }
  ],
  "history": [
@@ -33588,6 +33609,10 @@
   {
    "date": "2026-11-22 07:40",
    "total": 4623
+  },
+  {
+   "date": "2026-11-22 07:41",
+   "total": 4626
   }
  ],
  "next_week_ideas": [
