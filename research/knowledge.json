@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:49:55+05:30",
- "runs": 2306,
+ "updated": "2026-11-22T05:50:47+05:30",
+ "runs": 2307,
  "branches": [
   {
    "id": "platforms",
@@ -32198,11 +32198,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of 2 older runs up to 2026-11-22 00:37: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 00:39",
-   "note": "Run 2228 (competitor deep dive (Pinkfong newsletter, Henson, RockaBetty)): Small additions: Jim Henson launched a paid ad free YouTube family channel (about 3 USD a month, cheaper Spanish twin) that switches on YouTube's strictest safety filter while subscribers watch; a small UK rockabilly preschool band channel releases six original songs weekly with adult friendly arrangements; Pinkfong turns Bebefinn songs into toys that top Amazon Japan. 3 leaves. Chrome not available. Total 4521."
+   "note": "Summary of 2 older runs up to 2026-11-22 00:39: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 00:40",
@@ -32515,6 +32511,10 @@
   {
    "date": "2026-11-22 05:49",
    "note": "Run 2306 (YouTube algorithm (AIR monthly log, Home feed Shorts rows, satisfaction signals, Shorts originality)): Nothing new: the Home feed shift to Shorts rows, Pichai's revenue per watch hour remark, the satisfaction and returning viewer emphasis and the 1 Oct Shorts originality update were all already filed; no ranking change announced this week. 0 leaves. Chrome not available. Total 4586."
+  },
+  {
+   "date": "2026-11-22 05:50",
+   "note": "Run 2307 (Shorts and Reels formats and features (Edits audio links and Kits, Use as reference, Shorts clear screen, Shorts AI likeness)): Nothing new: Edits audio links, Kits and trending topics, the Use as reference camera window, the end of linked Reels, the Shorts clear screen and heart button and Mohan's 2026 Shorts plans were all already filed. 0 leaves. Chrome not available. Total 4586."
   }
  ],
  "history": [
@@ -33644,6 +33644,10 @@
   },
   {
    "date": "2026-11-22 05:49",
+   "total": 4586
+  },
+  {
+   "date": "2026-11-22 05:50",
    "total": 4586
   }
  ],
