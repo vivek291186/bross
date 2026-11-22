@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:58:05+05:30",
- "runs": 2310,
+ "updated": "2026-11-22T05:58:51+05:30",
+ "runs": 2311,
  "branches": [
   {
    "id": "platforms",
@@ -32192,6 +32192,20 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2299
+    },
+    {
+     "t": "vidIQ's TikTok sound tracker in the week to 22 Nov 2026 shows a 1950s rock and roll Christmas classic up about 398% (about 2.5M estimated views an hour), joining the Brazilian Jingle Bell Rock remix as the season's rising sounds, so a retro rock and roll Bro Bros Christmas song (twangy guitar, hand claps, piano boogie, sleigh bells) fits what people are choosing now, with our own melody since both classics are still protected.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2311
+    },
+    {
+     "t": "Tokchart's worldwide fastest growing TikTok audios on 21 Nov 2026 were led by couple song covers and talk clips (the top sound adds about 60K videos a day), with the Jingle Bell Rock remix at No. 5 (about 35K a day) as the only holiday audio and no kids songs at all, so kid content still has to bring its own original sound rather than ride a chart sound.",
+     "src": "Tokchart, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2311
     }
    ]
   }
@@ -32219,11 +32233,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of 2 older runs up to 2026-11-22 00:40: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 00:41",
-   "note": "Run 2232 (YouTube kids channels (Tubefilter most viewed, week of 15 Nov; TRENDS skipped as just rechecked)): Nothing new: Fitu K Kitu's jump to #1, 42 of 50 channels on Shorts, Twin Twin and Nabel Dan Mama entering and Diary of 4 rising were all already filed. 0 leaves. Chrome not available. Total 4524."
+   "note": "Summary of 2 older runs up to 2026-11-22 00:41: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 00:42",
@@ -32536,6 +32546,10 @@
   {
    "date": "2026-11-22 05:58",
    "note": "Run 2310 (visual craft (colour preference studies, Blender toon workflows)): Nothing new: the children's colour gradient eye tracking study could not be opened, and the Blender Studio toon training page is from 2016; stylised toon looks were already filed. 0 leaves. Chrome not available. Total 4589."
+  },
+  {
+   "date": "2026-11-22 05:58",
+   "note": "Run 2311 (TRENDS (Tokchart worldwide growing sounds 21 Nov, vidIQ TikTok sound tracker)): New: on vidIQ's 14 day tracker a 1950s Christmas rock classic jumped about 398% (about 2.5M estimated views an hour), the second holiday sound in the top lists after the Brazilian Jingle Bell Rock remix, so retro rock and roll Christmas sounds are now rising; Tokchart's 21 Nov top 10 is otherwise couple covers and the GTA VI score, with no kids songs. 2 leaves. Chrome not available. Total 4591."
   }
  ],
  "history": [
@@ -33682,6 +33696,10 @@
   {
    "date": "2026-11-22 05:58",
    "total": 4589
+  },
+  {
+   "date": "2026-11-22 05:58",
+   "total": 4591
   }
  ],
  "next_week_ideas": [
