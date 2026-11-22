@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:00:07+05:30",
- "runs": 2366,
+ "updated": "2026-11-22T08:00:29+05:30",
+ "runs": 2367,
  "branches": [
   {
    "id": "platforms",
@@ -10891,6 +10891,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2356
+    },
+    {
+     "t": "The UK channel Tiny Tunes (about 874K subscribers) has about 1.23B views from only 112 videos, roughly 11M views per video, built on phonics, times tables, alphabet and counting songs for early years and primary school, so a few Bro Bros songs that teachers and parents can use for school basics (letters, numbers, days of the week) could keep earning for years.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2367
     }
    ]
   },
@@ -32547,12 +32554,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 04:36",
-   "note": "Summary of older runs up to 2026-11-22 04:36: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 04:37",
-   "note": "Run 2288 (global markets (Kidscreen 2027 nominations, Ampere at MIPJUNIOR, Ofcom, EU Kids Online)): Small addition: the 2027 Kidscreen Awards nominations (17 Nov) are led by Disney and Netflix with 21 each, then BBC, PBS, WildBrain and Sesame, with new educational and host categories, a sign that learning value is what the industry now rewards; Ampere's MIPJUNIOR talk, Netflix creator rankings, Roy Morgan and EU Kids Online were already filed. 1 leaves. Chrome not available. Total 4560."
+   "note": "Summary of older runs up to 2026-11-22 04:37: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 04:39",
@@ -32865,6 +32868,10 @@
   {
    "date": "2026-11-22 08:00",
    "note": "Run 2366 (competitor deep dive (Toddler Fun Learning)): No data: the Toddler Fun Learning stats page could not be read this round and search gave no other source. 0 leaves. Chrome not available. Total 4636."
+  },
+  {
+   "date": "2026-11-22 08:00",
+   "note": "Run 2367 (TRENDS round used for competitor check (Tiny Tunes, UK learning songs)): Small addition: the UK channel Tiny Tunes has about 1.23B views from only 112 videos (about 11M per video) with phonics, times tables, alphabet and counting songs, showing that a small library of school useful learning songs can out earn hundreds of general songs; no fresh trend lists were found beyond those already filed. 1 leaves. Chrome not available. Total 4637."
   }
  ],
  "history": [
@@ -33755,6 +33762,10 @@
   {
    "date": "2026-11-22 08:00",
    "total": 4636
+  },
+  {
+   "date": "2026-11-22 08:00",
+   "total": 4637
   }
  ],
  "next_week_ideas": [
