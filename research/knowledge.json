@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:52:42+05:30",
- "runs": 2363,
+ "updated": "2026-11-22T07:53:50+05:30",
+ "runs": 2364,
  "branches": [
   {
    "id": "platforms",
@@ -32514,6 +32514,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2358
+    },
+    {
+     "t": "SocialBee's 19 Nov 2026 TikTok list includes a 'describing a person' format: two people pick an everyday choice (how someone likes their eggs, for example) and act out the kind of person who would choose each option; for Bro Bros this becomes a quick Short where the brothers act out 'the banana kid', 'the apple kid' and 'the grape kid' on the beat of a fruit song and ask viewers which one they are.",
+     "src": "SocialBee, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2364
     }
    ]
   }
@@ -32540,12 +32547,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 03:45",
-   "note": "Summary of older runs up to 2026-11-22 03:45: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 03:46",
-   "note": "Run 2285 (music craft (infant and toddler rhythm studies, Spotify family music)): Nothing new: the eLife baby movement study, the Italian rhythm sessions study and Spotify's kids and family taste profile toggle were all already filed. 0 leaves. Chrome not available. Total 4559."
+   "note": "Summary of older runs up to 2026-11-22 03:46: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 03:46",
@@ -32858,6 +32861,10 @@
   {
    "date": "2026-11-22 07:52",
    "note": "Run 2363 (global markets (kids distribution deals: Guru Studio, LEGO Channel, Banijay)): New: Guru Studio's preschool show True and the Rainbow Kingdom has over 5B YouTube views, with about 1.4B from its Latin American Spanish channel and about 600M from Brazilian Portuguese, more proof that Spanish and Portuguese dubs carry a big share of a kids brand's YouTube views; the LEGO Channel is a free COPPA compliant app on smart TV platforms in the US and Canada, another sign kids viewing is moving to the TV screen. 2 leaves. Chrome not available. Total 4635."
+  },
+  {
+   "date": "2026-11-22 07:53",
+   "note": "Run 2364 (TRENDS (SocialBee TikTok and Instagram lists, 19 Nov)): New: SocialBee's 19 Nov TikTok list adds 'describe a person by their choice', where two people guess what kind of person picks a certain item; a kid version is 'what your favourite fruit says about you' with each brother acting out the fruit fan. 'Guys, I'm looking for a job' is not for kids; Born to/forced to and Go go go were already filed. 1 leaves. Chrome not available. Total 4636."
   }
  ],
  "history": [
@@ -33736,6 +33743,10 @@
   {
    "date": "2026-11-22 07:52",
    "total": 4635
+  },
+  {
+   "date": "2026-11-22 07:53",
+   "total": 4636
   }
  ],
  "next_week_ideas": [
@@ -33846,6 +33857,12 @@
    "use": "The Bros invite their friends to a 'Friendsmas' party with a dress code (everyone in red pyjamas); open on the invite card, then quick cuts of each friend arriving with a pose, then all dance the same chorus move together in a line (step side to side with a clap, then both arms up and wiggle, standing in place). Our own original party song."
   },
   {
+   "name": "Which one are you? (act out each pick)",
+   "where": "TikTok (SocialBee, Nov 2026)",
+   "status": "rising",
+   "use": "Short: the screen shows three fruits; for each one a brother acts out that fruit's fan for two beats (banana kid peels and wobbles, apple kid crunches and bounces, grape kid pops on tiptoes), then both point at the camera and ask 'Which one are you?' over our fruit song. Moves: standing wobble side to side, small bounces in place, tiptoe pops, point forward."
+  },
+  {
    "name": "Born to... forced to...",
    "where": "Instagram Reels, rising (Nov 2026)",
    "status": "rising",
@@ -33910,12 +33927,6 @@
    "where": "TikTok (top dance 20 Nov 2026), Reels, Shorts",
    "status": "rising",
    "use": "Big Bro, Little Bro and a friend in Santa hats stand in a row, frozen with hands clasped low and blank faces for 3 seconds, then on the drop of our own funk arrangement of the public domain Jingle Bells: cross both forearms over the chest, one fist to the mouth with the other hand on the hip, then four alternating forearm chest taps with a small knee bounce; repeat and end on a big grin. Meshy steps: standing in place, hands clasped low, cross forearms over chest, fist to mouth with other hand on hip, tap chest with alternating forearms while bouncing knees slightly."
-  },
-  {
-   "name": "How we looked this year, month by month",
-   "where": "TikTok, Reels, Shorts (rising late Nov, peaks late Dec 2026)",
-   "status": "seasonal",
-   "use": "A 12 to 15 second Short or Reel: a month label (January, February...) pops up on screen and each beat shows a 1 second clip of Big Bro and Little Bro from a different Bro Bros song in that month's outfit or setting, ending on both waving in Christmas jumpers with 'see you next year!'. Music: a bouncy 8 bar loop from our own song of the week."
   }
  ],
  "posting_plan": {
