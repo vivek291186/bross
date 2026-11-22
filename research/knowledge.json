@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:00:46+05:30",
- "runs": 2368,
+ "updated": "2026-11-22T08:35:12+05:30",
+ "runs": 2369,
  "branches": [
   {
    "id": "platforms",
@@ -16057,6 +16057,27 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2345
+    },
+    {
+     "t": "Sanrio's YouTube first series Mr Men Little Miss Mini Adventures (Maga Animation, launched Jun 2025) runs 12 episodes of about two and a half minutes, each in two acts: first meet the character and their trait, then a mini story where a friend helps them understand the feeling behind it; a Bros feelings song can copy that shape with verse one showing the feeling and verse two a brother helping.",
+     "src": "Toon Boom and Creative Boom, Jul to Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2369
+    },
+    {
+     "t": "The same series keeps flat colours, simple shapes and open empty space with no textures or shading in the backgrounds, lighter lines behind the characters, and theatre style scenery changes between scenes, so the picture reads like a storybook; for Bros, clean uncluttered 3D sets with one bright accent colour per song keep the dancing brothers as the clear focus.",
+     "src": "Toon Boom, Aug 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2369
+    },
+    {
+     "t": "Mr Men Mini Adventures writes every episode on two levels, a simple silly gag layer for small kids and a gentler reflective joke for grown ups watching along, a co viewing trick that suits Bros songs parents replay many times.",
+     "src": "Toon Boom, Aug 2025",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2369
     }
    ]
   },
@@ -32555,11 +32576,7 @@
  "log": [
   {
    "date": "2026-11-22 04:39",
-   "note": "Summary of older runs up to 2026-11-22 04:39: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 04:39",
-   "note": "Run 2290 (posting times (Qustodio, Securly school day data, holiday viewing, Buffer and SocialPilot timing guides)): New: Qustodio's 2024 data puts kids on the YouTube Kids app at about 97 minutes a day (108 in the US) against 71 on main YouTube, with streaming rising in school holidays; Securly's 2026 school day data shows elementary pupils watch only about 5 minutes of YouTube in class, in clips of about 2 minutes, so home hours drive our views. Timing guides repeated filed advice. No slot change: our 10:00 IST uploads keep beating 16:00 IST, but the 04:30 IST US slot in the plan is still untested. 3 leaves. Chrome not available. Total 4565."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 04:39)."
   },
   {
    "date": "2026-11-22 04:40",
@@ -32872,6 +32889,10 @@
   {
    "date": "2026-11-22 08:00",
    "note": "Run 2368 (music craft (Suno v6 and Visuals)): Nothing new: Suno v6 (licensed models with Warner, BMG and Believe, song editing, mashups) and Suno Visuals (17 Nov, 15 second clips) were already filed. End of run: 26 rounds (runs 2343 to 2368), 32 new leaves, best: Later's appointment timestamps format (check up Short for Brave at the Doctor), a 2026 Australian trial showing rhythm and movement sessions improve preschoolers' kindness and calm, vidIQ's 500 breakout thumbnail study (face or contrast in 89%, median 5 words), sharing and manners as the top theme of the most viewed Shorts ever (new idea: One for You, One for Me!), Super Simple Songs the only kids channel in the 28 day top 50 subscriber gainers, and Tiny Tunes' 11M views per learning song. 0 leaves. Chrome not available. Total 4637."
+  },
+  {
+   "date": "2026-11-22 08:35",
+   "note": "Run 2369 (visual craft (Mr Men Little Miss Mini Adventures, YouTube first series)): New: Sanrio's YouTube first Mr Men Little Miss Mini Adventures uses 12 episodes of about 2.5 minutes, each built in two acts around one feeling, and flat colour worlds with theatre style scene changes that feel like a picture book coming alive; both are easy models for Bros feelings songs. 3 leaves. Chrome not available. Total 4640."
   }
  ],
  "history": [
@@ -33770,6 +33791,10 @@
   {
    "date": "2026-11-22 08:00",
    "total": 4637
+  },
+  {
+   "date": "2026-11-22 08:35",
+   "total": 4640
   }
  ],
  "next_week_ideas": [
