@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:40:28+05:30",
- "runs": 2300,
+ "updated": "2026-11-22T05:41:09+05:30",
+ "runs": 2301,
  "branches": [
   {
    "id": "platforms",
@@ -10765,6 +10765,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2289
+    },
+    {
+     "t": "vidIQ's model estimates Lalafun Nursery Rhymes earned about 180K US dollars in the 28 days to 8 Nov 2026 from about 611M views, roughly 0.30 dollars per 1,000 views, which shows how low made for kids earnings per view are and why scale, sponsorship free merch and Spotify income matter for a kids song brand.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2301
     }
    ]
   },
@@ -32170,11 +32177,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of 2 older runs up to 2026-11-21 23:46: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-21 23:47",
-   "note": "Run 2222 (YouTube algorithm and YouTube Kids (official family posts)): Nothing new: YouTube's Jan 2026 family posts (supervised Explore, Explore More and Most of YouTube settings, Shorts timer to zero, autoplay off for under 18s, quality principles that lift enriching videos) were already filed. 0 leaves. Chrome not available. Total 4516."
+   "note": "Summary of 2 older runs up to 2026-11-21 23:47: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-21 23:48",
@@ -32487,6 +32490,10 @@
   {
    "date": "2026-11-22 05:40",
    "note": "Run 2300 (global markets (AIR dubbing retention data Sep 2026, language audiences and CPM)): New: AIR's Sep 2026 data shows an Italian kids channel's professionally dubbed tracks held viewers 5 to 6 minutes while its AI English track held under a minute; a creator's 11 language test found Spanish, Arabic, Indonesian and Portuguese took off first, then Japanese and Korean. The AI dub penalty itself and CPM by language were already filed. 3 leaves. Chrome not available. Total 4582."
+  },
+  {
+   "date": "2026-11-22 05:41",
+   "note": "Run 2301 (competitor deep dive (Lalafun and Little Angel on vidIQ, Bebefinn search)): Mostly filed already (Lalafun's 15.1M subscribers, late Christmas start, sister channels). New: vidIQ's model puts Lalafun's earnings for the 28 days to 8 Nov 2026 at about 180K US dollars on about 611M views, roughly 0.30 dollars per 1,000 views, and notes it was down 22% on the previous two weeks. The Little Angel stats page did not load and Bebefinn searches returned nothing new. 1 leaves. Chrome not available. Total 4583."
   }
  ],
  "history": [
@@ -33593,6 +33600,10 @@
   {
    "date": "2026-11-22 05:40",
    "total": 4582
+  },
+  {
+   "date": "2026-11-22 05:41",
+   "total": 4583
   }
  ],
  "next_week_ideas": [
