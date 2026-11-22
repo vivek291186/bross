@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:49:06+05:30",
- "runs": 2305,
+ "updated": "2026-11-22T05:49:55+05:30",
+ "runs": 2306,
  "branches": [
   {
    "id": "platforms",
@@ -32198,11 +32198,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of 2 older runs up to 2026-11-22 00:36: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 00:37",
-   "note": "Run 2227 (global markets (Ofcom UK children trackers, Australia and NZ kids reports)): Nothing new: Ofcom's passive tracking (3h36m a day, YouTube 1h15m at ages 8 to 9, YouTube Kids app only 14%, 47% of time 15:00 to 20:59) and the Insights Panel, Roy Morgan and NZ On Air reports were already filed. 0 leaves. Chrome not available. Total 4518."
+   "note": "Summary of 2 older runs up to 2026-11-22 00:37: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 00:39",
@@ -32515,6 +32511,10 @@
   {
    "date": "2026-11-22 05:49",
    "note": "Run 2305 (YouTube main and YouTube Kids (Tubefilter charts for Thanksgiving and early December 2025 as a seasonal guide; 16 to 22 Nov 2026 charts not out yet)): New: in Thanksgiving week 2025 (24 to 30 Nov) several kids hubs jumped (BabyBillion up 28%, KIDZOKI up 31%, Khaira Khafi Daily up 18%) and Tubefilter called out kid friendly channels having big weeks during the break, then in the first week of December most kids channels held flat or dipped, so the US Thanksgiving holiday (26 to 29 Nov 2026) is a short window to have strong English songs live. 2 leaves. Chrome not available. Total 4586."
+  },
+  {
+   "date": "2026-11-22 05:49",
+   "note": "Run 2306 (YouTube algorithm (AIR monthly log, Home feed Shorts rows, satisfaction signals, Shorts originality)): Nothing new: the Home feed shift to Shorts rows, Pichai's revenue per watch hour remark, the satisfaction and returning viewer emphasis and the 1 Oct Shorts originality update were all already filed; no ranking change announced this week. 0 leaves. Chrome not available. Total 4586."
   }
  ],
  "history": [
@@ -33637,6 +33637,10 @@
   {
    "date": "2026-11-22 05:48",
    "total": 4584
+  },
+  {
+   "date": "2026-11-22 05:49",
+   "total": 4586
   },
   {
    "date": "2026-11-22 05:49",
