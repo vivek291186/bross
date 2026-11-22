@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:43:39+05:30",
- "runs": 2323,
+ "updated": "2026-11-22T06:44:25+05:30",
+ "runs": 2324,
  "branches": [
   {
    "id": "platforms",
@@ -21342,6 +21342,13 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2312
+    },
+    {
+     "t": "Kids TV's Indonesian language channel (5.18M subscribers, 2.4B views, about 3 uploads a week of dubbed cartoons, counting and finger family songs, all tagged as remixes) dropped from about 109M views in Nov 2025 to 12M to 15M a month in Sep and Oct 2026 and gained no subscribers in the 28 days to 11 Nov, so a dubbed channel fed mostly with reused compilations shrinks fast; if Bro Bros opens an Indonesian or other dub channel it needs new songs and native voices, not only remixes of the English catalogue.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2324
     }
    ]
   },
@@ -32296,11 +32303,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of older runs up to 2026-11-22 01:36: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 01:37",
-   "note": "Run 2245 (TRENDS (InMagic 16 Nov, Lightreel, NapoleonCat, Dame Hombro)): Small addition: El Comercio puts the Dame Hombro shoulder dance (already filed since 15 Nov) at 77M YouTube views in a month and No. 6 on Shazam's global chart, so it goes back into the trend bank as a peak shoulder bounce chorus with our own song; the reindeer rooftop ride was dropped to keep 20. A second InMagic leaf was a duplicate and was removed in run 2258. 1 leaves. Chrome not available. Total 4530."
+   "note": "Summary of older runs up to 2026-11-22 01:37: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 01:38",
@@ -32613,6 +32616,10 @@
   {
    "date": "2026-11-22 06:43",
    "note": "Run 2323 (TRENDS (regional: India Reels, Indonesia and Spanish language TikTok dance searches)): Nothing new: Dame Hombro, the que.es November list and the Neeli Pari sound were already filed; India Reels trend pages found were from August or older. Trend bank unchanged. 0 leaves. Chrome not available. Total 4600."
+  },
+  {
+   "date": "2026-11-22 06:44",
+   "note": "Run 2324 (global markets (Indonesia dub channel on vidIQ, MENA kids content)): New: Kids TV's Indonesian channel (5.18M subscribers), built on remixed and dubbed compilations, fell from about 109M views in Nov 2025 to about 12M to 15M a month by autumn 2026 with no subscriber growth in the last 28 days, a second sign after ChuChu's Portuguese channel that dub channels living on remixes fade. TwelveP licensing and MENA notes were already filed. 1 leaves. Chrome not available. Total 4601."
   }
  ],
  "history": [
@@ -33811,6 +33818,10 @@
   {
    "date": "2026-11-22 06:43",
    "total": 4600
+  },
+  {
+   "date": "2026-11-22 06:44",
+   "total": 4601
   }
  ],
  "next_week_ideas": [
