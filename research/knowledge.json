@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:46:31+05:30",
- "runs": 2354,
+ "updated": "2026-11-22T07:47:04+05:30",
+ "runs": 2355,
  "branches": [
   {
    "id": "platforms",
@@ -32505,12 +32505,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 02:39",
-   "note": "Summary of older runs up to 2026-11-22 02:39: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 02:40",
-   "note": "Run 2276 (competitor deep dive (CoComelon Lane holiday season, Moonbug)): Small addition: CoComelon Lane's holiday season packs Christmas, Hanukkah (learning to spin a dreidel) and Kwanzaa families into short stories inside one 34 minute block, and a reviewer praised the songs but called the plots thin; Moonbug's learning principles, the Disney+ move and the Christmas special were already filed. 2 leaves. Chrome not available. Total 4548."
+   "note": "Summary of older runs up to 2026-11-22 02:40: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 02:41",
@@ -32823,6 +32819,10 @@
   {
    "date": "2026-11-22 07:46",
    "note": "Run 2354 (other platforms (Roblox top 99 on 18 Nov, Netflix animated and kids lists)): Nothing new: GGRecon's 18 Nov Roblox chart (30 of 99 games new, ragdoll physics lead) and Netflix's 2026 animated series ranking (Peppa Pig, Creature Cases, Masha, CoComelon, Little Angel) were already filed; no music or dance game is in Roblox's top 99. 0 leaves. Chrome not available. Total 4630."
+  },
+  {
+   "date": "2026-11-22 07:47",
+   "note": "Run 2355 (TRENDS (India Reels songs and India YouTube trending, 21 Nov)): Nothing new: vidIQ's India trending list for 21 Nov again had no kids or cartoon video (only 2 of 50 in Film and Animation, both films), matching the 17 Nov check already filed; the India Reels song lists found were from April. 0 leaves. Chrome not available. Total 4630."
   }
  ],
  "history": [
@@ -33664,6 +33664,10 @@
   },
   {
    "date": "2026-11-22 07:46",
+   "total": 4630
+  },
+  {
+   "date": "2026-11-22 07:47",
    "total": 4630
   }
  ],
