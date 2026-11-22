@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:55:30+05:30",
- "runs": 2333,
+ "updated": "2026-11-22T06:56:21+05:30",
+ "runs": 2334,
  "branches": [
   {
    "id": "platforms",
@@ -32328,10 +32328,6 @@
   },
   {
    "date": "2026-11-22 01:44",
-   "note": "Run 2255 (rules and safety (Ofcom November reports, AI slop on YouTube Kids)): Nothing new: Ofcom's 24 Oct and 16 Nov child safety steps, the feed investigation, and the advocacy groups' call to ban AI slop from YouTube Kids were all already filed. 0 leaves. Chrome not available. Total 4535."
-  },
-  {
-   "date": "2026-11-22 01:44",
    "note": "Run 2256 (our own results (queue and Instagram best times at 01:45 IST)): Nothing new: the Metricool queue for 23 to 29 Nov is still empty and the Instagram grid for 22 to 28 Nov still peaks at 10:00 IST daily with a second rise at 18:00 IST and weekends at about half, all already filed; no slot change. 0 leaves. Chrome not available. Total 4535."
   },
   {
@@ -32641,6 +32637,10 @@
   {
    "date": "2026-11-22 06:55",
    "note": "Run 2333 (music craft (Suno updates, children's vocal range studies)): Nothing new: Suno v6 (licensed models, song editing, mashups) and Suno Visuals were already filed, and the vocal range searches only returned older papers already reflected in our pitch range leaves. 0 leaves. Chrome not available. Total 4604."
+  },
+  {
+   "date": "2026-11-22 06:56",
+   "note": "Run 2334 (visual craft (YouTube Test and Compare, Christmas thumbnail colours, AIR kids channel case studies)): Nothing new: Test and Compare picking winners by watch time, calm positive thumbnail swaps (+173% Browse), Vania Mania's multi channel results and 4K plus TV safe zone advice were all already filed. 0 leaves. Chrome not available. Total 4604."
   }
  ],
  "history": [
@@ -33398,6 +33398,10 @@
   },
   {
    "date": "2026-11-22 06:55",
+   "total": 4604
+  },
+  {
+   "date": "2026-11-22 06:56",
    "total": 4604
   }
  ],
