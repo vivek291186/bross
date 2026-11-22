@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:51:41+05:30",
- "runs": 2361,
+ "updated": "2026-11-22T07:52:03+05:30",
+ "runs": 2362,
  "branches": [
   {
    "id": "platforms",
@@ -32526,12 +32526,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 03:43",
-   "note": "Summary of older runs up to 2026-11-22 03:43: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 03:44",
-   "note": "Run 2283 (Shorts and Reels formats and the Reels algorithm (Mosseri, Trial Reels, Features, Tubefilter)): Nothing new: Instagram's Your Algorithm controls, horizontal Features, Trial Reels tests (Kapwing, Planoly) and Tubefilter's 9 to 15 Nov kids Shorts movers were all already filed; no Reels ranking change announced this week. 0 leaves. Chrome not available. Total 4559."
+   "note": "Summary of older runs up to 2026-11-22 03:44: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 03:45",
@@ -32844,6 +32840,10 @@
   {
    "date": "2026-11-22 07:51",
    "note": "Run 2361 (TRENDS (Thanksgiving classroom movement songs, December forecasts)): Nothing new: Thanksgiving freeze dance and floor is lava brain breaks, the veggie dance and the December trend forecasts found were already filed. 0 leaves. Chrome not available. Total 4633."
+  },
+  {
+   "date": "2026-11-22 07:52",
+   "note": "Run 2362 (topics and seasons (school holiday dates worldwide, YouTube Kids app news)): Nothing new: India's state winter breaks (Delhi 1 to 15 Jan, UP and Rajasthan from 31 Dec), the UAE mid December break, Australia's summer holiday screen time rise and Bebefinn Japan's holiday growth were already filed; no new YouTube Kids app news this month. 0 leaves. Chrome not available. Total 4633."
   }
  ],
  "history": [
@@ -33713,6 +33713,10 @@
   },
   {
    "date": "2026-11-22 07:51",
+   "total": 4633
+  },
+  {
+   "date": "2026-11-22 07:52",
    "total": 4633
   }
  ],
