@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:44:31+05:30",
- "runs": 2378,
+ "updated": "2026-11-22T08:45:13+05:30",
+ "runs": 2379,
  "branches": [
   {
    "id": "platforms",
@@ -32668,6 +32668,13 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2376
+    },
+    {
+     "t": "India's Blinkit ice cream 'scream challenge' (May 2026) had children and whole families filming themselves shouting into the phone as loud as they could, with parents cheering; it was a brand promotion tied to ordering, so we never copy it, but a Bros 'shout it louder' call and response chorus where each louder shout makes a giant cartoon ice cream grow uses the same fun with no shopping.",
+     "src": "Asianet Newsable, May 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2379
     }
    ]
   }
@@ -32694,12 +32701,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 05:39",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:39)."
-  },
-  {
    "date": "2026-11-22 05:40",
-   "note": "Run 2300 (global markets (AIR dubbing retention data Sep 2026, language audiences and CPM)): New: AIR's Sep 2026 data shows an Italian kids channel's professionally dubbed tracks held viewers 5 to 6 minutes while its AI English track held under a minute; a creator's 11 language test found Spanish, Arabic, Indonesian and Portuguese took off first, then Japanese and Korean. The AI dub penalty itself and CPM by language were already filed. 3 leaves. Chrome not available. Total 4582."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:40)."
   },
   {
    "date": "2026-11-22 05:41",
@@ -33012,6 +33015,10 @@
   {
    "date": "2026-11-22 08:44",
    "note": "Run 2378 (Shorts and Reels algorithm (Mosseri's Reels metrics)): Nothing new: watch time, sends per reach and likes per reach, connected versus unconnected reach, the skip and share rate metrics and Shorts length studies were already filed; no Reels ranking change was announced in Oct or Nov 2026, and the 'sends worth 3 to 5 likes' claim still has no official source. 0 leaves. Chrome not available. Total 4657."
+  },
+  {
+   "date": "2026-11-22 08:45",
+   "note": "Run 2379 (TRENDS (India Reels roundups, kids and family trends)): Small addition: India's Blinkit 'scream for ice cream' challenge (May 2026) got whole families and many kids yelling into phones, showing Indian kids love loud shout along moments; the other India roundups found were from 2025 and stale. 1 leaves. Chrome not available. Total 4658."
   }
  ],
  "history": [
@@ -33950,6 +33957,10 @@
   {
    "date": "2026-11-22 08:44",
    "total": 4657
+  },
+  {
+   "date": "2026-11-22 08:45",
+   "total": 4658
   }
  ],
  "next_week_ideas": [
