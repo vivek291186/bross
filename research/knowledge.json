@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:51:46+05:30",
- "runs": 2308,
+ "updated": "2026-11-22T05:52:30+05:30",
+ "runs": 2309,
  "branches": [
   {
    "id": "platforms",
@@ -13565,6 +13565,20 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2297
+    },
+    {
+     "t": "Spotify's 1 Oct 2026 holiday report says all five of the most streamed holiday songs in the US last December were over 30 years old (rockin' 1950s and 1960s classics), while this year's top new holiday track is a fresh pop song, so a new Bro Bros Christmas song should borrow the old style sound (sleigh bells, swing rhythm, walking bass, warm brass) while keeping a new, original melody and words.",
+     "src": "Spotify Newsroom, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2309
+    },
+    {
+     "t": "Spotify users made more than 100,000 new holiday playlists in September 2026 alone, so families build their Christmas lists early, and an original Bro Bros holiday single released on streaming by late November has time to be added before December listening peaks.",
+     "src": "Spotify Newsroom, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2309
     }
    ]
   },
@@ -32209,10 +32223,6 @@
   },
   {
    "date": "2026-11-22 00:40",
-   "note": "Run 2230 (rules and monetisation (FTC COPPA, YouTube AI slop and inauthentic content)): Nothing new: the Disney 10M USD COPPA settlement, YouTube's July 2026 inauthentic content update, the AI slop channel bans and the 200 advocacy groups letter were all already filed. 0 leaves. Chrome not available. Total 4522."
-  },
-  {
-   "date": "2026-11-22 00:40",
    "note": "Run 2231 (our own results (Metricool queue for 22 to 25 Nov)): New: every queued 22 Nov upload (Peekaboo hide and seek at 10:00, Ride to the Moon at 16:00, their Shorts and Reels) has the AI generated content flag set to off on YouTube and Instagram, although the playbook says to tick the AI music disclosure for our Suno songs; and at 00:45 IST on 22 Nov nothing is queued for 23 Nov at all. 2 leaves. Chrome not available. Total 4524."
   },
   {
@@ -32522,6 +32532,10 @@
   {
    "date": "2026-11-22 05:51",
    "note": "Run 2308 (TikTok and other platforms (Netflix top 10 and 2026 animated series list, Roblox weekly music chart, YouTube Kids features)): New: Roblox's weekly music ID chart for the week of 21 Nov 2026 is led by game meme tracks plus calm instrumentals (cumbia, bossa nova, jazz lounge, deep house) with no kids songs, so Roblox players pick background moods rather than nursery tunes; Netflix's Nov and 2026 lists were already filed. 1 leaves. Chrome not available. Total 4587."
+  },
+  {
+   "date": "2026-11-22 05:52",
+   "note": "Run 2309 (music craft (Spotify holiday listening report, Christmas kids playlists, Danny Go holiday single)): New: Spotify says all five top US holiday songs last December were more than 30 years old, and its top new holiday track this year is a fresh pop song, so families mix a few classic carol sounds with new songs; for us, an original song with a familiar old style sleigh bell and swing feel can sit beside the classics. Daily streams, start dates and Danny Go's Candy Cane Crush were already filed. 2 leaves. Chrome not available. Total 4589."
   }
  ],
  "history": [
@@ -33660,6 +33674,10 @@
   {
    "date": "2026-11-22 05:51",
    "total": 4587
+  },
+  {
+   "date": "2026-11-22 05:52",
+   "total": 4589
   }
  ],
  "next_week_ideas": [
