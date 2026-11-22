@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:46:39+05:30",
- "runs": 2381,
+ "updated": "2026-11-22T08:47:26+05:30",
+ "runs": 2382,
  "branches": [
   {
    "id": "platforms",
@@ -3086,6 +3086,13 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2363
+    },
+    {
+     "t": "Metricool's yearly study of about 40M organic posts from about 1.06M accounts (2025 vs 2024) found Instagram Reels reach fell 35% and all Instagram post reach 31%, while YouTube views per video rose 30% with weekly posting up 25%, and Facebook reach rebounded 51%; YouTube is where organic reach for our videos is growing, and Facebook Reels may be a cheap extra outlet for the same clips.",
+     "src": "Metricool, Dec 2025 to Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2382
     }
    ]
   },
@@ -32675,6 +32682,20 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2379
+    },
+    {
+     "t": "YouTube released its personal Recap (top channels, interests and a viewing 'personality') and its End of Year trend lists on 2 Dec 2025, so the recap season opens in the first week of December; a 'Bro Bros 2026 in 60 seconds' Short with a quick clip of each month's best song should be ready by 1 Dec 2026.",
+     "src": "Express Tribune, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2382
+    },
+    {
+     "t": "YouTube's End of Year Top Creators lists exclude children's channels, artists and brands, so a kids channel cannot win year end list exposure; our December recap value comes from our own audience, through a recap Short, a 'best of the year' compilation and a pinned playlist.",
+     "src": "Express Tribune, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2382
     }
    ]
   }
@@ -32701,12 +32722,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 05:41",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:41)."
-  },
-  {
    "date": "2026-11-22 05:47",
-   "note": "Run 2303 (rules, safety and monetisation (made for kids updates, Australia under 16 rules, AI slop crackdown)): Nothing new: no made for kids policy change this month; Australia's under 16 account rules (about 1.5M accounts, YouTube included) and the AI slop letters and faceless channel purge were already filed; the gaming age limits article could not be read. 0 leaves. Chrome not available. Total 4583."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:47)."
   },
   {
    "date": "2026-11-22 05:48",
@@ -33019,6 +33036,10 @@
   {
    "date": "2026-11-22 08:46",
    "note": "Run 2381 (visual craft (Blender 5.3, Meshy changelog)): Nothing new: Blender 5.3 (11 Nov: Vulkan by default, Gaussian splats, DLSS denoiser) was already filed, and Meshy's web changelog still has no entry after September 2026, so Text to Motion is unchanged since July and our motion prompt rules stand. 0 leaves. Chrome not available. Total 4658."
+  },
+  {
+   "date": "2026-11-22 08:47",
+   "note": "Run 2382 (TRENDS (year end recap season, YouTube Recap, Metricool yearly study)): New: YouTube's personal Recap and End of Year lists landed on 2 Dec last year, so the 'my year' recap wave starts in the first days of December (YouTube's top creator lists leave out children's channels); Metricool's 2025 study of about 40M posts found Instagram Reels reach down 35% while YouTube views per video rose 30% and Facebook reach rose 51%. 3 leaves. Chrome not available. Total 4661."
   }
  ],
  "history": [
@@ -33969,6 +33990,10 @@
   {
    "date": "2026-11-22 08:46",
    "total": 4658
+  },
+  {
+   "date": "2026-11-22 08:47",
+   "total": 4661
   }
  ],
  "next_week_ideas": [
