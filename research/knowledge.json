@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:53:42+05:30",
- "runs": 2329,
+ "updated": "2026-11-22T06:54:10+05:30",
+ "runs": 2330,
  "branches": [
   {
    "id": "platforms",
@@ -32327,10 +32327,6 @@
    "note": "Summary of older runs up to 2026-11-22 01:41: rounds across all focuses; see git history for details."
   },
   {
-   "date": "2026-11-22 01:41",
-   "note": "Run 2251 (TRENDS (kids dance challenges, Spotify Wrapped date)): Nothing new: Wrapped 2026 is still only predicted for Wednesday 2 Dec (Techloy 10 Nov, not confirmed by Spotify) and the TikTok challenge pages could not be read; trend bank unchanged. 0 leaves. Chrome not available. Total 4532."
-  },
-  {
    "date": "2026-11-22 01:42",
    "note": "Run 2252 (global markets (Kurdish, Persian, Marathi, Moroccan kids songs)): Small addition: Iraq's Kurdish (Sorani) channel Afarin Kids TV holds 1.34M subscribers and about 34M views a month from only about six uploads a month, so small languages with few makers reward a catalogue for years; Morocco's Anghamalatfal and HOUDAMI were already filed and the Marathi page had no data. 1 leaves. Chrome not available. Total 4533."
   },
@@ -32641,6 +32637,10 @@
   {
    "date": "2026-11-22 06:53",
    "note": "Run 2329 (TRENDS (Thanksgiving week family trends, Tubefilter newsletter)): Nothing new: Thanksgiving family formats found were recipe clips, the gratitude tablecloth (already filed) and an older 2025 'hungry for a kid' prank that films real children, which we skip; the Tubefilter issue surfaced was from Nov 2025. Trend bank unchanged. 0 leaves. Chrome not available. Total 4604."
+  },
+  {
+   "date": "2026-11-22 06:54",
+   "note": "Run 2330 (YouTube algorithm (supervised kid accounts and Shorts controls, best upload time studies)): Nothing new: supervised kid accounts in MENA and Turkiye with autoplay off, teen Shorts limits and the big best time to post studies (Buffer 1.8M videos, vidIQ 40M videos) were all already filed. 0 leaves. Chrome not available. Total 4604."
   }
  ],
  "history": [
@@ -33382,6 +33382,10 @@
   },
   {
    "date": "2026-11-22 06:53",
+   "total": 4604
+  },
+  {
+   "date": "2026-11-22 06:54",
    "total": 4604
   }
  ],
