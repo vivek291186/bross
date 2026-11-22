@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:54:29+05:30",
- "runs": 2331,
+ "updated": "2026-11-22T06:55:11+05:30",
+ "runs": 2332,
  "branches": [
   {
    "id": "platforms",
@@ -32324,11 +32324,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of older runs up to 2026-11-22 01:42: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 01:43",
-   "note": "Run 2253 (competitor deep dive (HeyKids, HeyHop Kids)): Small additions: France based English channel HeyKids (4.79M subscribers) still draws about 15.6M views a month from old vehicle, Halloween and train songs while its new Body Parts song got under 5K views in five days; small US 3D channel HeyHop Kids (251 videos, 155K subscribers) has stalled at about 124K views a month on one upload a month. Dream English stats could not be read. 2 leaves. Chrome not available. Total 4535. The HeyKids leaf was trimmed in run 2259 to only its new fact (weak Body Parts debut), since its channel totals were already filed."
+   "note": "Summary of older runs up to 2026-11-22 01:43: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 01:44",
@@ -32641,6 +32637,10 @@
   {
    "date": "2026-11-22 06:54",
    "note": "Run 2331 (Shorts and Reels (most viewed Shorts lists, Reels length studies)): Nothing new: Tubefilter's week of 15 Nov charts (Chispita, Plim Plim), the most viewed Shorts lists and the Reels length and completion studies were all already filed. 0 leaves. Chrome not available. Total 4604."
+  },
+  {
+   "date": "2026-11-22 06:55",
+   "note": "Run 2332 (TikTok and other platforms (Spotify kids charts, Disney+ weekly top 10)): Nothing new: the Disney+ weekly list found was from October (a Family Guy Halloween special on top, Mickey Mouse Clubhouse+ the only preschool entry) and the Spotify Christmas No. 1 story was from 2023; Netflix's top 10 for 16 to 22 Nov is not out until 24 Nov. 0 leaves. Chrome not available. Total 4604."
   }
  ],
  "history": [
@@ -33390,6 +33390,10 @@
   },
   {
    "date": "2026-11-22 06:54",
+   "total": 4604
+  },
+  {
+   "date": "2026-11-22 06:55",
    "total": 4604
   }
  ],
