@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:55:30+05:30",
- "runs": 2386,
+ "updated": "2026-11-22T08:56:15+05:30",
+ "runs": 2387,
  "branches": [
   {
    "id": "platforms",
@@ -10954,6 +10954,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2372
+    },
+    {
+     "t": "In the fastest growing chart for 24 Oct to 21 Nov 2026 only four kids music channels made the top 100 by subscribers gained: Super Simple Songs (+200K, about 494M views), Argentina's El Reino Infantil, Pinkfong's Baby Shark and LooLoo Kids (about +100K each with about 400M to 500M views), while CoComelon topped views gained at about 1.06B but gained no listed subscribers, so the biggest kids brands now add views far faster than subscribers.",
+     "src": "AIFreeForever (YouTube API data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2387
     }
    ]
   },
@@ -32743,12 +32750,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 05:50",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:50)."
-  },
-  {
    "date": "2026-11-22 05:51",
-   "note": "Run 2308 (TikTok and other platforms (Netflix top 10 and 2026 animated series list, Roblox weekly music chart, YouTube Kids features)): New: Roblox's weekly music ID chart for the week of 21 Nov 2026 is led by game meme tracks plus calm instrumentals (cumbia, bossa nova, jazz lounge, deep house) with no kids songs, so Roblox players pick background moods rather than nursery tunes; Netflix's Nov and 2026 lists were already filed. 1 leaves. Chrome not available. Total 4587."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:51)."
   },
   {
    "date": "2026-11-22 05:52",
@@ -33061,6 +33064,10 @@
   {
    "date": "2026-11-22 08:55",
    "note": "Run 2386 (rules and monetisation (YPP 2027 changes, Q4 ad rates)): Nothing new: the 1 Feb 2027 Partner Program bar (8,000 watch hours or 20M Shorts views for new applicants, activity rule for members) and the 2026 RPM and CPM by niche data were already filed. 0 leaves. Chrome not available. Total 4664."
+  },
+  {
+   "date": "2026-11-22 08:56",
+   "note": "Run 2387 (YouTube main channels (28 day fastest growing chart to 21 Nov)): Small addition: in the 28 days to 21 Nov only four kids music channels made the top 100 subscriber gainers (Super Simple Songs +200K, El Reino Infantil, Pinkfong Baby Shark and LooLoo Kids +100K each, each adding 400M to 500M views), and CoComelon led views gained at about 1.06B without a subscriber gain; this week's Tubefilter top 50 was already filed. 1 leaves. Chrome not available. Total 4665."
   }
  ],
  "history": [
@@ -34031,6 +34038,10 @@
   {
    "date": "2026-11-22 08:55",
    "total": 4664
+  },
+  {
+   "date": "2026-11-22 08:56",
+   "total": 4665
   }
  ],
  "next_week_ideas": [
