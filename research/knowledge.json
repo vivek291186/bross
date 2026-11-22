@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:37:55+05:30",
- "runs": 2370,
+ "updated": "2026-11-22T08:38:55+05:30",
+ "runs": 2371,
  "branches": [
   {
    "id": "platforms",
@@ -21510,6 +21510,27 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2363
+    },
+    {
+     "t": "Ampere Analysis (MipJunior) found Netflix cut kids commissions 42% and Apple 58% in a year while their acquisitions of finished shows rose 7% and 16%, kids title orders worldwide fell after 2022, and public broadcasters' renewals of existing hits rose from 38% to 59%, so new kids brands now win TV deals by proving an audience first, which for Bro Bros means a YouTube catalogue with view data.",
+     "src": "Variety via AOL, Oct 2024",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2371
+    },
+    {
+     "t": "Ampere says there are already about 43 years' worth of children's titles available across streaming and broadcast, and kids content cuts churn but does not win new subscribers, so buyers want recognisable characters with a fan base, not more generic songs; a stable Bros cast with names and personalities is what makes the catalogue licensable later.",
+     "src": "Variety via AOL, Oct 2024",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2371
+    },
+    {
+     "t": "TV Kids' 2026 Trend Watch calls the kids TV market a structural reset with smaller advances and risk averse buyers; pocket.watch calls YouTube the clear winner for discovery and producers now plan a multiplatform rollout from day one, with YouTube first, then streamer, then games, toys and live shows.",
+     "src": "World Screen TV Kids, early 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2371
     }
    ]
   },
@@ -32596,12 +32617,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 04:40",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 04:40)."
-  },
-  {
    "date": "2026-11-22 04:41",
-   "note": "Run 2292 (our own results (Metricool YouTube 9 to 19 Nov, Reels 19 to 20 Nov, queue)): New: over 11 days (9 to 19 Nov) our 10:00 IST long videos averaged about 611 views against about 346 at 16:00 IST and won on 8 of 11 days; at 16:00 the Hindi Didi stories (about 444) beat the English songs (about 291); the freeze dance long video got only 55 views though its Reel was a top Reel. Posting plan changed: slots are now 10:00 IST and 16:00 IST (our real schedule, with about 68% of subscribers in India), and the untested 04:30 IST US slot moved to the test list. Queue after 22 Nov still empty. 3 leaves. Chrome not available. Total 4568."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 04:41)."
   },
   {
    "date": "2026-11-22 04:42",
@@ -32914,6 +32931,10 @@
   {
    "date": "2026-11-22 08:37",
    "note": "Run 2370 (TRENDS (Virlo week of 16 Nov, SocialPilot 17 to 25 Nov, Later 20 Nov)): Momentum check: the 'in this town everybody...' format jumped from 2 to 419 TikTok posts in a week and Boom Clap confetti pop grew about 5x (35 to 172), so both stay at the top of the trend bank; everything else named this week (My Moon My Man, Under Arrest, Dear Santa, Camera shy, Same spot years apart) was already filed, and GTA VI launch sounds are not for kids. 3 leaves. Chrome not available. Total 4643."
+  },
+  {
+   "date": "2026-11-22 08:38",
+   "note": "Run 2371 (global markets (international kids buyers, Ampere and TV Kids trend watch)): New: streamers keep cutting kids commissions (Netflix down 42%, Apple down 58% in a year) while buying more finished shows and public broadcasters mostly renew known brands, so a proven YouTube catalogue is now the main route for new kids brands to reach TV; distributors call it a structural reset and name YouTube the clear winner for discovery. 3 leaves. Chrome not available. Total 4646."
   }
  ],
  "history": [
@@ -33820,6 +33841,10 @@
   {
    "date": "2026-11-22 08:37",
    "total": 4643
+  },
+  {
+   "date": "2026-11-22 08:38",
+   "total": 4646
   }
  ],
  "next_week_ideas": [
