@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:54:36+05:30",
- "runs": 2365,
+ "updated": "2026-11-22T08:00:07+05:30",
+ "runs": 2366,
  "branches": [
   {
    "id": "platforms",
@@ -32547,12 +32547,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 03:46",
-   "note": "Summary of older runs up to 2026-11-22 03:46: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 04:36",
-   "note": "Run 2287 (TRENDS (NewEngen 20 Nov, Clipchamp, Virlo Christmas dances, Know Your Meme)): Nothing new: NewEngen's 20 Nov list (Thanksgiving dinner glances, Chipmunks trio, Dame Hombro, runway hip pop, go go go), Clipchamp's October update, the faded Christmas dances on Virlo and the Remember November polar bear were all already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4559."
+   "note": "Summary of older runs up to 2026-11-22 04:36: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 04:37",
@@ -32865,6 +32861,10 @@
   {
    "date": "2026-11-22 07:54",
    "note": "Run 2365 (other platforms (US iTunes kids songs chart, 22 Nov)): Nothing new: the iTunes kids top 25 still has faith songs at the top, Danny Go! with six movement songs including its Christmas 'Candy Cane Crush!', TV themes and silly food songs, all already filed. 0 leaves. Chrome not available. Total 4636."
+  },
+  {
+   "date": "2026-11-22 08:00",
+   "note": "Run 2366 (competitor deep dive (Toddler Fun Learning)): No data: the Toddler Fun Learning stats page could not be read this round and search gave no other source. 0 leaves. Chrome not available. Total 4636."
   }
  ],
  "history": [
@@ -33750,6 +33750,10 @@
   },
   {
    "date": "2026-11-22 07:54",
+   "total": 4636
+  },
+  {
+   "date": "2026-11-22 08:00",
    "total": 4636
   }
  ],
