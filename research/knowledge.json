@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:35:12+05:30",
- "runs": 2369,
+ "updated": "2026-11-22T08:37:55+05:30",
+ "runs": 2370,
  "branches": [
   {
    "id": "platforms",
@@ -32549,6 +32549,27 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2364
+    },
+    {
+     "t": "Virlo's TikTok tracker for the week of 16 Nov 2026 shows the 'in this town everybody goes out ... except me' format jumping from 2 to 419 creator posts in one week, the fastest new format of the week; the Bros version keeps the same frame with a silly town rule ('in our town everybody hops to school except Bro') and a sync dance on the beat.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2370
+    },
+    {
+     "t": "In the same Virlo week Boom Clap confetti pop grew from 35 to 172 creator posts (about 5 times) while 'while they're out partying' fell 63% and 'we could stay here or go up' fell 77%, so confetti pop is still climbing into December and is the safest party format to film now.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2370
+    },
+    {
+     "t": "The top TikTok and Instagram sound of the week of 16 Nov was a track from the GTA VI score, launched 19 Nov, with several other GTA themed sounds behind it; GTA is a mature rated game, so Bro Bros skips anything tied to that launch even when the sound itself is harmless.",
+     "src": "Virlo and SocialPilot, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2370
     }
    ]
   }
@@ -32575,12 +32596,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 04:39",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 04:39)."
-  },
-  {
    "date": "2026-11-22 04:40",
-   "note": "Run 2291 (rules, safety and monetisation (made for kids, COPPA, AI slop policy, Meta age checks, kids RPM)): Nothing new: YouTube's July inauthentic content rules and the faceless channel demonetisation, the FTC's 2026 COPPA priorities, Meta's 9 Nov worldwide AI age checks and AIR's kids RPM figures were all already filed. 0 leaves. Chrome not available. Total 4565."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 04:40)."
   },
   {
    "date": "2026-11-22 04:41",
@@ -32893,6 +32910,10 @@
   {
    "date": "2026-11-22 08:35",
    "note": "Run 2369 (visual craft (Mr Men Little Miss Mini Adventures, YouTube first series)): New: Sanrio's YouTube first Mr Men Little Miss Mini Adventures uses 12 episodes of about 2.5 minutes, each built in two acts around one feeling, and flat colour worlds with theatre style scene changes that feel like a picture book coming alive; both are easy models for Bros feelings songs. 3 leaves. Chrome not available. Total 4640."
+  },
+  {
+   "date": "2026-11-22 08:37",
+   "note": "Run 2370 (TRENDS (Virlo week of 16 Nov, SocialPilot 17 to 25 Nov, Later 20 Nov)): Momentum check: the 'in this town everybody...' format jumped from 2 to 419 TikTok posts in a week and Boom Clap confetti pop grew about 5x (35 to 172), so both stay at the top of the trend bank; everything else named this week (My Moon My Man, Under Arrest, Dear Santa, Camera shy, Same spot years apart) was already filed, and GTA VI launch sounds are not for kids. 3 leaves. Chrome not available. Total 4643."
   }
  ],
  "history": [
@@ -33795,6 +33816,10 @@
   {
    "date": "2026-11-22 08:35",
    "total": 4640
+  },
+  {
+   "date": "2026-11-22 08:37",
+   "total": 4643
   }
  ],
  "next_week_ideas": [
@@ -33857,16 +33882,22 @@
  ],
  "trend_bank": [
   {
-   "name": "Shoulder bounce chorus (whole team shoulder dance)",
-   "where": "TikTok, Instagram Reels, YouTube Shorts (Latin America, Africa, worldwide)",
-   "status": "peak",
-   "use": "Our own bouncy song with a one word chant chorus (for example 'Bounce, bounce, ay ay ay!'). Big Bro, Little Bro and two friends stand in a row facing the camera; on each beat of the chorus they bounce both shoulders up and down twice, then turn the head left on 'ay', right on 'ay', front on 'ay', and repeat. Meshy prompt: a cartoon boy standing in place, feet still, bouncing both shoulders up and down to a fast beat, small smile, arms relaxed at the sides. 10 to 15 second Short ending with the whole row freezing with shoulders up and a big grin."
+   "name": "In our town, everybody... (silly town rule, then a sync move)",
+   "where": "TikTok (#inthistown up about 81% week on week, about 178M views, US, 16 to 22 Nov 2026), Reels, Shorts",
+   "status": "rising",
+   "use": "A 10 to 15 second Short to our own song: on screen text 'In our town, everybody dances when the bell rings'. Big Bro, Little Bro and two friends stand in a straight row with stiff serious faces, a bell rings in our song, and all four snap into the same big silly move together, then freeze stiff again; repeat with a new rule each loop ('everybody hops when it snows', 'everybody waves at the snowman'). Meshy steps: standing still with arms at sides, then both arms shoot up and wiggle while bouncing knees in place, then back to standing still. Skip the adult 'partying' joke and the 'huss' chant; use our own one word chant instead."
   },
   {
    "name": "Boom Clap Confetti Pop",
    "where": "TikTok (fastest growing family safe format, week of 16 Nov 2026), Reels, Shorts",
    "status": "rising",
    "use": "A 10 second Short to our own party chorus with a clear 'boom, clap, POP!' count: Big Bro and Little Bro stand side by side, stomp once on 'boom', clap once on 'clap', then pull a giant cartoon party popper on 'POP' and confetti fills the screen exactly on the beat; second loop is a funny fail where Little Bro's popper shoots confetti into Big Bro's face and both laugh. Meshy steps: standing in place, stomp one foot, clap hands once in front of the chest, then both arms shoot up and out wide with a small jump in place."
+  },
+  {
+   "name": "Shoulder bounce chorus (whole team shoulder dance)",
+   "where": "TikTok, Instagram Reels, YouTube Shorts (Latin America, Africa, worldwide)",
+   "status": "peak",
+   "use": "Our own bouncy song with a one word chant chorus (for example 'Bounce, bounce, ay ay ay!'). Big Bro, Little Bro and two friends stand in a row facing the camera; on each beat of the chorus they bounce both shoulders up and down twice, then turn the head left on 'ay', right on 'ay', front on 'ay', and repeat. Meshy prompt: a cartoon boy standing in place, feet still, bouncing both shoulders up and down to a fast beat, small smile, arms relaxed at the sides. 10 to 15 second Short ending with the whole row freezing with shoulders up and a big grin."
   },
   {
    "name": "Spell it with the Bros (body letters)",
@@ -33879,12 +33910,6 @@
    "where": "Instagram Reels, TikTok, YouTube Shorts (late Nov to 24 Dec)",
    "status": "rising",
    "use": "Little Bro stands against the door frame while Big Bro marks his height, then he reads a crayon letter to camera: 'Dear Santa, I'm THIS tall now, I shared my toys, I brushed my teeth...' and ends with a kind wish (a present for his brother). Cut to Big Bro writing his own letter with a funny twist. Our own jingle, never the licensed Christmas pop. Meshy step: standing tall on tiptoes with one hand flat on the head, then a little two step sway holding a letter with both hands."
-  },
-  {
-   "name": "In our town, everybody... (silly town rule, then a sync move)",
-   "where": "TikTok (#inthistown up about 81% week on week, about 178M views, US, 16 to 22 Nov 2026), Reels, Shorts",
-   "status": "rising",
-   "use": "A 10 to 15 second Short to our own song: on screen text 'In our town, everybody dances when the bell rings'. Big Bro, Little Bro and two friends stand in a straight row with stiff serious faces, a bell rings in our song, and all four snap into the same big silly move together, then freeze stiff again; repeat with a new rule each loop ('everybody hops when it snows', 'everybody waves at the snowman'). Meshy steps: standing still with arms at sides, then both arms shoot up and wiggle while bouncing knees in place, then back to standing still. Skip the adult 'partying' joke and the 'huss' chant; use our own one word chant instead."
   },
   {
    "name": "Camera shy, then dance",
