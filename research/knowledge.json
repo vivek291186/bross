@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:36:05+05:30",
- "runs": 2296,
+ "updated": "2026-11-22T05:37:54+05:30",
+ "runs": 2297,
  "branches": [
   {
    "id": "platforms",
@@ -13516,6 +13516,27 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2272
+    },
+    {
+     "t": "A Boston University pilot study (Frontiers in Psychology, Feb 2026, seven children aged 3 to 5 in eight music classes) found heart rate was highest in a shaker song where children moved around the room and lower during a brand new song than during familiar ones, and the children's heart rates rose and fell together, so our dance songs should bring back one familiar Bro Bros hook or move in every new song to warm kids up faster.",
+     "src": "Frontiers in Psychology, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2297
+    },
+    {
+     "t": "A Jan 2026 kindergarten study (60 children aged 5 to 6, 16 sessions over 8 weeks) found that games where children move in time with a rhythm alone, in pairs and then as a group raised cooperation scores clearly more than in a control class, so 'everyone together now' and 'now with a partner' sections in our songs are good for kids as well as for engagement.",
+     "src": "Frontiers in Psychology, Jan 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2297
+    },
+    {
+     "t": "The classroom songs in the Boston University preschool study ran from about 40 bpm for a soft lullaby to about 100 bpm for an active song, were mostly in major keys, mostly in two or four beats per bar, and included short silences so children could hear the next phrase in their heads, which supports leaving a one beat gap before our call and response answers.",
+     "src": "Frontiers in Psychology, Feb 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2297
     }
    ]
   },
@@ -32093,11 +32114,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of 2 older runs up to 2026-11-21 23:43: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-21 23:44",
-   "note": "Run 2218 (rules and monetisation (YouTube policy log; trends and posting skipped as just rechecked)): New: YouTube's policy log adds a Nov 2026 rule that artists and labels must disclose AI use on YouTube Music, with new AI labels in the Music app, which touches our Suno made songs once released as audio tracks; nothing new on made for kids rules or COPPA. 1 leaves. Chrome not available. Total 4513."
+   "note": "Summary of 2 older runs up to 2026-11-21 23:44: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-21 23:45",
@@ -32410,6 +32427,10 @@
   {
    "date": "2026-11-22 05:36",
    "note": "Run 2296 (TRENDS (Virlo week of 16 Nov, SocialPilot TikTok and Reels 17 to 25 Nov, NewEngen 20 Nov, Later 20 Nov)): New: the rising 'Camera Shy' format (a pet acts shy at the camera, then gives in and dances) fits a shy little Bro reveal; kid friendly turkey snack boards (pretzel legs, candy eyes, fruit) trend for Thanksgiving week; Virlo's top new sound this week is the GTA VI score and its top new posts are adult jokes, so no new kid dance broke out this week. Chipmunk trio dance, Dame Hombro, Dear Santa and Blue Danube chores were already filed. 3 leaves. Chrome not available. Total 4571."
+  },
+  {
+   "date": "2026-11-22 05:37",
+   "note": "Run 2297 (music craft (2026 studies on preschool heart rate, rhythm games and cooperation, iTunes kids chart)): New: a Boston University pilot (Feb 2026) found preschoolers' heart rates rose most during a shaker and moving song and were lower during brand new songs than familiar ones, with heart rates rising together across the group; a Chinese kindergarten study (Jan 2026, 60 children aged 5 to 6) found 8 weeks of move together rhythm games raised cooperation scores; the RAMSR trial gains were already filed. 3 leaves. Chrome not available. Total 4574."
   }
  ],
  "history": [
@@ -33500,6 +33521,10 @@
   {
    "date": "2026-11-22 05:36",
    "total": 4571
+  },
+  {
+   "date": "2026-11-22 05:37",
+   "total": 4574
   }
  ],
  "next_week_ideas": [
