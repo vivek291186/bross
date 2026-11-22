@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:38:52+05:30",
- "runs": 2344,
+ "updated": "2026-11-22T07:39:42+05:30",
+ "runs": 2345,
  "branches": [
   {
    "id": "platforms",
@@ -15980,6 +15980,27 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2298
+    },
+    {
+     "t": "vidIQ hand coded the thumbnails of 500 breakout long videos from June 2026 (30 niches) and found a face in 69% (80% of the top 50), strong contrast in 56%, and at least one of the two in 89%, so every Bro Bros thumbnail should show one brother's big, friendly face or a sharply contrasting bright scene, ideally both.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2345
+    },
+    {
+     "t": "In the same vidIQ study 72% of breakout thumbnails had text, with a median of 5 words, 28% had none and only about 5% used an exaggerated shocked face; the top thumbnails filled about a third of the frame with the face and used very few words, so Bro Bros thumbnails should use a warm real smile, not a scream, and 1 to 3 big words at most since young viewers cannot read.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2345
+    },
+    {
+     "t": "vidIQ advises avoiding YouTube's own red, white and black as the main thumbnail colours because they blend into the app around them; Bro Bros thumbnails stand out more with saturated sky blue, sunny yellow, grass green or orange backgrounds.",
+     "src": "vidIQ Research, Jul 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2345
     }
    ]
   },
@@ -32414,12 +32435,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 01:49",
-   "note": "Summary of older runs up to 2026-11-22 01:49: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 01:50",
-   "note": "Run 2266 (YouTube kids channels (Tubefilter and Social Blade movers; TRENDS skipped after empty rounds)): Nothing new: Tubefilter's chart for the week of 22 Nov is not out yet (the 15 Nov charts and last year's late November charts were already filed) and Social Blade's made for kids list could not be read. 0 leaves. Chrome not available. Total 4537."
+   "note": "Summary of older runs up to 2026-11-22 01:50: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 01:50",
@@ -32732,6 +32749,10 @@
   {
    "date": "2026-11-22 07:38",
    "note": "Run 2344 (music craft (2026 studies on music and movement in preschoolers)): New: an Australian randomised trial (213 preschoolers) found short rhythm and movement sessions improved kindness and calmer behaviour for six months; a Slovak study of 77 children found joint singing, body percussion and synced moves helped cooperation; a small Boston study found heart rates rose most during the one song with whole body movement and when songs became familiar. Billboard's kids chart page still shows 2025 data so it was not used. 3 leaves. Chrome not available. Total 4617."
+  },
+  {
+   "date": "2026-11-22 07:39",
+   "note": "Run 2345 (visual craft (vidIQ breakout thumbnail study, kids thumbnail rules)): New: vidIQ's hand coded study of 500 breakout videos (June 2026) found 89% use a face or strong contrast, 72% carry text with a median of 5 words, and only about 5% use an exaggerated expression; for Bro Bros that means a big friendly brother face, bright contrast and 1 to 3 words. AIR's Vania Mania thumbnail case was already filed. 3 leaves. Chrome not available. Total 4620."
   }
  ],
  "history": [
@@ -33534,6 +33555,10 @@
   {
    "date": "2026-11-22 07:38",
    "total": 4617
+  },
+  {
+   "date": "2026-11-22 07:39",
+   "total": 4620
   }
  ],
  "next_week_ideas": [
