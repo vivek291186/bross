@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:39:20+05:30",
- "runs": 2318,
+ "updated": "2026-11-22T06:40:43+05:30",
+ "runs": 2319,
  "branches": [
   {
    "id": "platforms",
@@ -3051,6 +3051,20 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2308
+    },
+    {
+     "t": "Meta told investors in July 2026 that every public Reel is now run through a large language model that works out its topic and tone, and that this is matched with each person's viewing history to predict what they watch next (double digit growth in Instagram time spent, mostly from better Reels picks), so each Bro Bros Reel should make its topic obvious in the first frames, on screen text and caption (for example 'counting snowmen song') so the system files it with kids and family songs.",
+     "src": "Digital Trends (Meta Q2 2026 earnings), Jul 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2319
+    },
+    {
+     "t": "According to mLabs' October 2026 guide to Meta's 'Reels Chaining' ranking system, Instagram first picks about 100 candidate Reels for a viewer from followed accounts and topics like ones they recently enjoyed, then scores them on predictions that include the chance the viewer watches under 3 seconds (a minus), comments, shares or follows; a strong first second and a reason to send the Reel to a parent friend help, while a bare 'share this with a friend' line is treated as engagement bait.",
+     "src": "mLabs, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2319
     }
    ]
   },
@@ -32285,10 +32299,6 @@
    "note": "Summary of older runs up to 2026-11-22 00:46: rounds across all focuses; see git history for details."
   },
   {
-   "date": "2026-11-22 00:46",
-   "note": "Run 2240 (global markets (Peru and Ethiopia kids music)): Small additions: Peru's Educa Baby TV (3.28M subscribers, only 122 videos, no upload since Jan 2026) still drew about 28M views in the 28 days around Dia de Muertos thanks to its skull and graves Day of the Dead songs; in Ethiopia a 60 second AI made caterpillar song from a kids learning app went viral on TikTok (about 4.3M views, 53K dubs). 2 leaves. Chrome not available. Total 4529."
-  },
-  {
    "date": "2026-11-22 00:48",
    "note": "Run 2241 (global markets (Nepal, Myanmar, Ethiopia kids channels)): Nothing new: Nepal's top channels (Aayush and Abhay, The Cartoonz Crew) were already filed; Ethiopia's fastest growing 2026 list has no kids channel and the Myanmar fairy tale channel targets teens, so neither changes dubbing priorities. 0 leaves. Chrome not available. Total 4529."
   },
@@ -32599,6 +32609,10 @@
   {
    "date": "2026-11-22 06:39",
    "note": "Run 2318 (YouTube algorithm (AIR month by month guide to 4 Nov, Joos Shorts freshness and Home feed claims, Beaupre interview, AIR kids tactics)): Nothing new: the 1 Oct Shorts originality change, Shorts fading after about 30 days, fewer long form Home slots, the Beaupre per viewer recommendation interview, stream RPM and 16+ videos a month findings were all already filed; AIR lists no November 2026 algorithm change yet. 0 leaves. Chrome not available. Total 4598."
+  },
+  {
+   "date": "2026-11-22 06:40",
+   "note": "Run 2319 (Shorts and Reels algorithm (Meta Q2 earnings AI ranking, mLabs Reels Chaining guide, Instagram Your Algorithm)): New: Meta says since early 2026 every public Reel is read by a large language model for its topic and tone and matched to each viewer's history, and mLabs' Oct guide on Meta's Reels Chaining system adds that about 100 candidate Reels are scored per viewer, a likely under 3 second watch counts against a Reel, and bare 'share with a friend' asks are treated as engagement bait. Your Algorithm controls, Features and Edits were already filed. 2 leaves. Chrome not available. Total 4600."
   }
  ],
  "history": [
@@ -33777,6 +33791,10 @@
   {
    "date": "2026-11-22 06:39",
    "total": 4598
+  },
+  {
+   "date": "2026-11-22 06:40",
+   "total": 4600
   }
  ],
  "next_week_ideas": [
