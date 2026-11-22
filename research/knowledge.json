@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:43:22+05:30",
- "runs": 2350,
+ "updated": "2026-11-22T07:44:17+05:30",
+ "runs": 2351,
  "branches": [
   {
    "id": "platforms",
@@ -3065,6 +3065,20 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2319
+    },
+    {
+     "t": "Metricool's Instagram news page (updated 20 Nov 2026) reports Instagram has begun limiting how many Trial Reels an account can post within a 30 day window, so Bro Bros should spend trial Reels only on real experiments, such as a new first second or a trend format version of a strong song, rather than on every upload.",
+     "src": "Metricool, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2351
+    },
+    {
+     "t": "The same Metricool page lists Instagram's Insights update with share rate, skip rate and views over time for each Reel, which gives the owner a direct weekly check of which Bro Bros first seconds stop the scroll without needing outside tools.",
+     "src": "Metricool, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2351
     }
    ]
   },
@@ -32491,12 +32505,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 01:53",
-   "note": "Summary of older runs up to 2026-11-22 01:53: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 02:35",
-   "note": "Run 2272 (music craft (UNICEF Innocenti Music of Life review, Nov 2026)): New: UNICEF Innocenti's November 2026 review of 70+ studies says singing calms babies about twice as long as talking, slow soft lullabies lower heart rate, parents' skill does not matter but daily singing does, and it flags adult style music videos as a risk; this backs a calm bedtime lullaby slot and kid safe dance moves. 5 leaves. Chrome not available. Total 4543."
+   "note": "Summary of older runs up to 2026-11-22 02:35: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 02:36",
@@ -32809,6 +32819,10 @@
   {
    "date": "2026-11-22 07:43",
    "note": "Run 2350 (rules and safety (UK under 16 ban, EU KIDS Act, New York feed rules, AI slop crackdown)): Nothing new: the UK spring 2027 under 16 package, the EU KIDS Act proposal, New York's January 2027 feed rules and YouTube's AI slop channel purges were all already filed. 0 leaves. Chrome not available. Total 4628."
+  },
+  {
+   "date": "2026-11-22 07:44",
+   "note": "Run 2351 (Shorts and Reels (Metricool's Instagram news page, updated 20 Nov)): Small addition: Metricool's Instagram news page (20 Nov) reports Instagram has started capping how many Trial Reels an account can run in a 30 day window, so our trial Reels should be saved for real tests (new first second or new ending), not every upload; everything else (Features long video, teen settings, Your Algorithm) was already filed. 2 leaves. Chrome not available. Total 4630."
   }
  ],
  "history": [
@@ -33635,6 +33649,10 @@
   {
    "date": "2026-11-22 07:43",
    "total": 4628
+  },
+  {
+   "date": "2026-11-22 07:44",
+   "total": 4630
   }
  ],
  "next_week_ideas": [
