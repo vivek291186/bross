@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:47:26+05:30",
- "runs": 2382,
+ "updated": "2026-11-22T08:48:13+05:30",
+ "runs": 2383,
  "branches": [
   {
    "id": "platforms",
@@ -21587,6 +21587,20 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2371
+    },
+    {
+     "t": "CoComelon em Portugues (Brazil) had about 4.45M subscribers, about 6B views and about 84M views in the 28 days to 19 Nov 2026 (about 3M a day); in that window its 12 new long videos drew about 2.39M views against about 0.2M for its 7 new Shorts, so in Brazil dubbed long songs, not Shorts, carry the new views.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2383
+    },
+    {
+     "t": "Moonbug Kids Brasil (about 862K subscribers, 942M views) gets about 200K views a day, and its five most viewed videos are all Portuguese remixes of Little Angel everyday family stories (the ice cream cart, a pet chameleon, a pyjama party, a colourful lollipop, a lost dummy), so simple home life stories dubbed into Portuguese are what Brazilian toddlers replay most.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2383
     }
    ]
   },
@@ -32722,12 +32736,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 05:47",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:47)."
-  },
-  {
    "date": "2026-11-22 05:48",
-   "note": "Run 2304 (our own results (Metricool YouTube 15 to 20 Nov, Reels 15 to 20 Nov, queue to 29 Nov)): New: the construction digger Reel (17 Nov) had our lowest 3 second skip rate (37%) and longest average watch (about 5.3 seconds) yet only 31 views, so a strong opening did not get wider distribution; the 20 Nov elephant parade long video still showed 1 view (sync lag). Morning vs afternoon gap and the empty queue from 23 Nov were already filed; posting plan unchanged. 1 leaves. Chrome not available. Total 4584."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:48)."
   },
   {
    "date": "2026-11-22 05:49",
@@ -33040,6 +33050,10 @@
   {
    "date": "2026-11-22 08:47",
    "note": "Run 2382 (TRENDS (year end recap season, YouTube Recap, Metricool yearly study)): New: YouTube's personal Recap and End of Year lists landed on 2 Dec last year, so the 'my year' recap wave starts in the first days of December (YouTube's top creator lists leave out children's channels); Metricool's 2025 study of about 40M posts found Instagram Reels reach down 35% while YouTube views per video rose 30% and Facebook reach rose 51%. 3 leaves. Chrome not available. Total 4661."
+  },
+  {
+   "date": "2026-11-22 08:48",
+   "note": "Run 2383 (global markets (Brazilian Portuguese kids feeds)): New: CoComelon's Brazilian Portuguese channel gets about 3M views a day from 4.45M subscribers, but its new long videos earned about 12 times more views than its new Shorts in 28 days; Moonbug Kids Brasil's top videos are all Portuguese dubs of Little Angel family stories (ice cream cart, pet chameleon, pyjama party), proof that dubbed everyday family stories travel to Brazil. 2 leaves. Chrome not available. Total 4663."
   }
  ],
  "history": [
@@ -33994,6 +34008,10 @@
   {
    "date": "2026-11-22 08:47",
    "total": 4661
+  },
+  {
+   "date": "2026-11-22 08:48",
+   "total": 4663
   }
  ],
  "next_week_ideas": [
