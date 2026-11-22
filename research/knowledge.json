@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:38:55+05:30",
- "runs": 2371,
+ "updated": "2026-11-22T08:39:51+05:30",
+ "runs": 2372,
  "branches": [
   {
    "id": "platforms",
@@ -10898,6 +10898,27 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2367
+    },
+    {
+     "t": "Kids Diana Show uploaded 283 videos in the 12 months to Nov 2026, 149 long and 134 Shorts (about 22 to 27 a month), so even a 138M subscriber giant now posts nearly one Short for every long video; our plan of one Short per long video matches the leaders' mix.",
+     "src": "AIFreeForever (YouTube API data), Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2372
+    },
+    {
+     "t": "Kids Diana Show's newest long upload (19 Nov 2026) teaches respecting differences through a colour versus black and white story, joining the manners and kindness themes that top kids channels push in late 2026; a Bros song about friends who look different but dance together fits that trend with our own story.",
+     "src": "AIFreeForever, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2372
+    },
+    {
+     "t": "pocket.watch turns its creators' most popular YouTube videos into vetted 'best of' seasons for streamers; Kids Diana Show's Disney+ season 'Let's Celebrate Together' is 15 episodes that open with holiday spirit and gifts themes, so a themed Bros season (holidays, birthdays, feelings) built from our best songs is the format to pitch to streamers later.",
+     "src": "World Screen TV Kids and Disney+ listing, 2024 to 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2372
     }
    ]
   },
@@ -32617,12 +32638,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 04:41",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 04:41)."
-  },
-  {
    "date": "2026-11-22 04:42",
-   "note": "Run 2293 (YouTube main and YouTube Kids (Tubefilter most subscribed 9 to 15 Nov, YouTube Kids features)): Nothing new: the 9 to 15 Nov most subscribed chart (Chispita, COPITO, Like Nastya, RABBITWARREN, 36 of 50 Shorts channels) was already filed and the 16 to 22 Nov charts are not out yet; no new YouTube Kids feature announced. Playbook rule on upload slots updated to 10:00 and 16:00 IST to match the posting plan. 0 leaves. Chrome not available. Total 4568."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 04:42)."
   },
   {
    "date": "2026-11-22 04:42",
@@ -32935,6 +32952,10 @@
   {
    "date": "2026-11-22 08:38",
    "note": "Run 2371 (global markets (international kids buyers, Ampere and TV Kids trend watch)): New: streamers keep cutting kids commissions (Netflix down 42%, Apple down 58% in a year) while buying more finished shows and public broadcasters mostly renew known brands, so a proven YouTube catalogue is now the main route for new kids brands to reach TV; distributors call it a structural reset and name YouTube the clear winner for discovery. 3 leaves. Chrome not available. Total 4646."
+  },
+  {
+   "date": "2026-11-22 08:39",
+   "note": "Run 2372 (competitor deep dive (Kids Diana Show and pocket.watch packaging)): New: Kids Diana Show posted 283 uploads in 12 months, almost half Shorts (149 long, 134 Shorts), and its newest long video is a kindness lesson about respecting differences; its Disney+ season is 15 repackaged episodes led by holiday and gift themes, showing how a YouTube library becomes a streaming season. 3 leaves. Chrome not available. Total 4649."
   }
  ],
  "history": [
@@ -33845,6 +33866,10 @@
   {
    "date": "2026-11-22 08:38",
    "total": 4646
+  },
+  {
+   "date": "2026-11-22 08:39",
+   "total": 4649
   }
  ],
  "next_week_ideas": [
