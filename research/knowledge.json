@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:45:38+05:30",
- "runs": 2353,
+ "updated": "2026-11-22T07:46:31+05:30",
+ "runs": 2354,
  "branches": [
   {
    "id": "platforms",
@@ -32505,12 +32505,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 02:38",
-   "note": "Summary of older runs up to 2026-11-22 02:38: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 02:39",
-   "note": "Run 2275 (global markets (WARC user bases, Ofcom children's insights panel)): Small addition: Ofcom's children's online insights panel (May 2026, 20 UK children aged 8 to 17, qualitative) shows families locking devices away overnight (for example 9pm to 7am) and Roblox at the centre of play; WARC's country user numbers and auto dubbing's 27 languages were already filed. 1 leaves. Chrome not available. Total 4546."
+   "note": "Summary of older runs up to 2026-11-22 02:39: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 02:40",
@@ -32823,6 +32819,10 @@
   {
    "date": "2026-11-22 07:45",
    "note": "Run 2353 (YouTube algorithm (Home feed and Shorts ranking reports, view count change)): Nothing new: the Joos Home feed and Shorts ranking claims, the Metricool 2026 view and watch time study and the August 2026 view count change were all already filed. 0 leaves. Chrome not available. Total 4630."
+  },
+  {
+   "date": "2026-11-22 07:46",
+   "note": "Run 2354 (other platforms (Roblox top 99 on 18 Nov, Netflix animated and kids lists)): Nothing new: GGRecon's 18 Nov Roblox chart (30 of 99 games new, ragdoll physics lead) and Netflix's 2026 animated series ranking (Peppa Pig, Creature Cases, Masha, CoComelon, Little Angel) were already filed; no music or dance game is in Roblox's top 99. 0 leaves. Chrome not available. Total 4630."
   }
  ],
  "history": [
@@ -33660,6 +33660,10 @@
   },
   {
    "date": "2026-11-22 07:45",
+   "total": 4630
+  },
+  {
+   "date": "2026-11-22 07:46",
    "total": 4630
   }
  ],
