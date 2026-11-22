@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T09:00:35+05:30",
- "runs": 2394,
+ "updated": "2026-11-22T09:01:31+05:30",
+ "runs": 2395,
  "branches": [
   {
    "id": "platforms",
@@ -3093,6 +3093,20 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2382
+    },
+    {
+     "t": "Meta (13 Mar 2026) says views and time spent on original Reels on Facebook roughly doubled from H2 2024 to H2 2025 and it is widening their reach, while counting as unoriginal any re upload a Page had no part in making and low value edits like borders, added captions or speed changes; Pages that mostly post unoriginal clips can become non recommendable and lose monetisation.",
+     "src": "Meta Newsroom, Mar 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2395
+    },
+    {
+     "t": "Under Meta's definition, content filmed or produced directly by the Page owner is original, so cross posting our own Bro Bros Reels to a Bro Bros Facebook Page is safe and eligible for the original content boost, as long as it is the same account family that made them and not a fan or aggregator page.",
+     "src": "Meta Newsroom, Mar 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2395
     }
    ]
   },
@@ -32757,12 +32771,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 06:02",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 06:02)."
-  },
-  {
    "date": "2026-11-22 06:03",
-   "note": "Run 2316 (posting times (Metricool YouTube best times 23 to 29 Nov)): Nothing new: Metricool again peaks YouTube at 16:00 IST on every day with 10:00 IST second and weekends at about half of weekdays, all already filed; our own results still favour 10:00 IST, so the posting plan stays 10:00 and 16:00 IST. End of run: 21 rounds (runs 2296 to 2316), 28 new leaves, best: Camera shy then dance, Friendsmas party recap, Born to forced to Reels, Thanksgiving week kids view bump, pro dubbed tracks holding kids 5 to 6 minutes vs under 1 minute for AI dubs, retro rock and roll Christmas sounds rising, and the digger Reel with our best hold. Page not published this run (artifact tools not available). 0 leaves. Chrome not available. Total 4596."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 06:03)."
   },
   {
    "date": "2026-11-22 06:37",
@@ -33075,6 +33085,10 @@
   {
    "date": "2026-11-22 09:00",
    "note": "Run 2394 (TRENDS (B&T Fabulate monthly, AIR viral Shorts types)): Nothing new: the B&T monthly TikTok list found was from Oct 2025 and AIR's viral Shorts types (wait for it reveal, loop, POV skit, process speedrun) were already covered; B&T's November 2026 column is not out yet. 0 leaves. Chrome not available. Total 4666."
+  },
+  {
+   "date": "2026-11-22 09:01",
+   "note": "Run 2395 (Reels and Facebook Reels (Meta originality rules)): New: Meta says views and time spent on original Reels on Facebook roughly doubled in H2 2025 and it keeps widening their reach, while re uploads, borders, added captions or speed changes count as unoriginal and can make a Page non recommendable; our own songs reposted to Facebook count as original, a cheap extra outlet given Metricool's 51% Facebook reach rebound. 2 leaves. Chrome not available. Total 4668."
   }
  ],
  "history": [
@@ -34077,6 +34091,10 @@
   {
    "date": "2026-11-22 09:00",
    "total": 4666
+  },
+  {
+   "date": "2026-11-22 09:01",
+   "total": 4668
   }
  ],
  "next_week_ideas": [
