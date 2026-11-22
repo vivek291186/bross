@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:58:53+05:30",
- "runs": 2337,
+ "updated": "2026-11-22T06:59:38+05:30",
+ "runs": 2338,
  "branches": [
   {
    "id": "platforms",
@@ -32325,6 +32325,20 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2326
+    },
+    {
+     "t": "Inside the YouTube app a creator can pause the Shorts feed and tap 'Trends' at the top to see rising sounds and popular Shorts chosen for their own channel, and tapping a Short's sound opens every Short using it; a 2026 creator guide suggests checking about five rising sounds a week, skipping those where all top videos look identical (already saturated), and for Bro Bros the useful part is copying the timing or move with our own Suno track rather than the sound itself.",
+     "src": "Miraflow, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2338
+    },
+    {
+     "t": "vidIQ's hourly US trending list on 20 Nov 2026 held only one music video among 50 (a country awards live performance, about 4.5M views in 35 hours) and no kids or Christmas songs, so on the main US trending page holiday music has not broken through yet and our Christmas songs posted in late November meet little trending competition there.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2338
     }
    ]
   }
@@ -32352,11 +32366,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of older runs up to 2026-11-22 01:45: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 01:46",
-   "note": "Run 2259 (TRENDS (India Reels and Shorts this week)): Nothing new: India's recent Reels waves (Neeli Pari Peeli Pari, old Bollywood revivals) and Tubefilter's 9 to 15 Nov India Shorts channels were already filed; no newer weekly India Reels roundup than early October was found. Trend bank unchanged. 0 leaves. Chrome not available. Total 4533."
+   "note": "Summary of older runs up to 2026-11-22 01:46: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 01:47",
@@ -32669,6 +32679,10 @@
   {
    "date": "2026-11-22 06:58",
    "note": "Run 2337 (competitor deep dive (Joy Joy World, formerly Baby Joy Joy, on vidIQ)): New: Joy Joy World's biggest video by far is a song about getting a shot at the doctor (about 580M), ahead of Wheels on the Bus (203M) and a stranger danger song (172M), so songs that calm a scary moment are among the strongest kids topics; its newest compilation is Minecraft themed. 2 leaves. Chrome not available. Total 4608."
+  },
+  {
+   "date": "2026-11-22 06:59",
+   "note": "Run 2338 (TRENDS (YouTube Shorts trending sounds, vidIQ US music trends, Shorts Trends page)): New: the Shorts app has its own Trends page (pause the Shorts feed and tap Trends) listing rising sounds and popular Shorts picked for each creator, a quick weekly check for the owner; vidIQ's US trending list for 20 Nov had only one music video (a live awards performance) and no kids or Christmas songs yet. 2 leaves. Chrome not available. Total 4610."
   }
  ],
  "history": [
@@ -33443,6 +33457,10 @@
   {
    "date": "2026-11-22 06:58",
    "total": 4608
+  },
+  {
+   "date": "2026-11-22 06:59",
+   "total": 4610
   }
  ],
  "next_week_ideas": [
