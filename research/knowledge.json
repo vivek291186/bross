@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:40:28+05:30",
- "runs": 2346,
+ "updated": "2026-11-22T07:40:59+05:30",
+ "runs": 2347,
  "branches": [
   {
    "id": "platforms",
@@ -25381,6 +25381,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2304
+    },
+    {
+     "t": "By 22 Nov 2026 Bubble Gum Pop (19 Nov, 16:00 IST), which ran on an automatic frame after its thumbnail upload failed, had about 312 views against about 1,069 for the same day's 10:00 IST Moo Moo Farm Band, so even without a designed thumbnail a 16:00 song can reach a few hundred views, but the morning song still did about three times better.",
+     "src": "Metricool, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2347
     }
    ]
   },
@@ -32449,12 +32456,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 01:50",
-   "note": "Summary of older runs up to 2026-11-22 01:50: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 01:51",
-   "note": "Run 2268 (Shorts and long form attention (Warwick Brainrot paper, 13 Nov 2026)): New: a Warwick economics paper (13 Nov 2026) using YouTube's per video skip heatmaps for about 56,000 long news videos finds skipping inside long videos rose about 40% after Shorts launched, most in videos over an hour; it studies adults, not children, so it only supports front loading the hook and clear chapters in our compilations. 1 leaves. Chrome not available. Total 4538."
+   "note": "Summary of older runs up to 2026-11-22 01:51: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 01:52",
@@ -32767,6 +32770,10 @@
   {
    "date": "2026-11-22 07:40",
    "note": "Run 2346 (TRENDS (YouTube most viewed in the past 24 hours, 21 Nov)): New: in the 24 hours to 21 Nov about 17 of YouTube's 30 most viewed videos were GTA VI gaming videos, only one was kids animation and none was Christmas kids content, so launch week attention is with older gamers and our Christmas songs face little seasonal competition on the general chart; GTA itself is adult and must never be referenced. 2 leaves. Chrome not available. Total 4622."
+  },
+  {
+   "date": "2026-11-22 07:40",
+   "note": "Run 2347 (our own results (Metricool YouTube 19 to 22 Nov, today's queue)): Small addition: Bubble Gum Pop (19 Nov 16:00 IST, running on an automatic frame because its thumbnail failed) reached about 312 views by 22 Nov, about a third of the same day's 10:00 farm band song (about 1,069), in line with the morning slot lead; newer videos have not synced yet. Today's Peekaboo (10:00) and Ride to the Moon (16:00) are queued; 23 to 29 Nov is still empty. 1 leaves. Chrome not available. Total 4623."
   }
  ],
  "history": [
@@ -33577,6 +33584,10 @@
   {
    "date": "2026-11-22 07:40",
    "total": 4622
+  },
+  {
+   "date": "2026-11-22 07:40",
+   "total": 4623
   }
  ],
  "next_week_ideas": [
