@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:39:42+05:30",
- "runs": 2345,
+ "updated": "2026-11-22T07:40:28+05:30",
+ "runs": 2346,
  "branches": [
   {
    "id": "platforms",
@@ -32409,6 +32409,20 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2343
+    },
+    {
+     "t": "In the 24 hours to 21 Nov 2026 about 17 of YouTube's 30 most viewed videos worldwide were GTA VI gaming videos (the top two, a gaming channel's challenges, had about 20M and 16M views), with only one kids animation in the list and no Christmas kids songs, so this week's general attention spike belongs to teen and adult gamers; GTA is an adult game, so Bro Bros never references it, and our kids Christmas songs meet little seasonal competition right now.",
+     "src": "AIFreeForever, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2346
+    },
+    {
+     "t": "Big K-pop releases still reach the worldwide 24 hour top 10 in late November 2026 (two new girl solo music videos with about 5.4M and 3.2M views in a day), a reminder that bright, sharp synchronised choreography is what young global audiences keep watching, which Bro Bros can echo with simple, kid friendly synced arm moves in our own songs.",
+     "src": "AIFreeForever, Nov 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2346
     }
    ]
   }
@@ -32437,10 +32451,6 @@
   {
    "date": "2026-11-22 01:50",
    "note": "Summary of older runs up to 2026-11-22 01:50: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 01:50",
-   "note": "Run 2267 (YouTube algorithm (YouTube Kids gate, AIR kids growth cases)): Nothing new: YouTube Kids filtering and ad rules (ppc.land) and AIR's Sandy the Sticker live stream case, 3M channel compilation case and 4K story rebuild case were all already filed. 0 leaves. Chrome not available. Total 4537."
   },
   {
    "date": "2026-11-22 01:51",
@@ -32753,6 +32763,10 @@
   {
    "date": "2026-11-22 07:39",
    "note": "Run 2345 (visual craft (vidIQ breakout thumbnail study, kids thumbnail rules)): New: vidIQ's hand coded study of 500 breakout videos (June 2026) found 89% use a face or strong contrast, 72% carry text with a median of 5 words, and only about 5% use an exaggerated expression; for Bro Bros that means a big friendly brother face, bright contrast and 1 to 3 words. AIR's Vania Mania thumbnail case was already filed. 3 leaves. Chrome not available. Total 4620."
+  },
+  {
+   "date": "2026-11-22 07:40",
+   "note": "Run 2346 (TRENDS (YouTube most viewed in the past 24 hours, 21 Nov)): New: in the 24 hours to 21 Nov about 17 of YouTube's 30 most viewed videos were GTA VI gaming videos, only one was kids animation and none was Christmas kids content, so launch week attention is with older gamers and our Christmas songs face little seasonal competition on the general chart; GTA itself is adult and must never be referenced. 2 leaves. Chrome not available. Total 4622."
   }
  ],
  "history": [
@@ -33559,6 +33573,10 @@
   {
    "date": "2026-11-22 07:39",
    "total": 4620
+  },
+  {
+   "date": "2026-11-22 07:40",
+   "total": 4622
   }
  ],
  "next_week_ideas": [
