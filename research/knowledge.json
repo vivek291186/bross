@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:57:10+05:30",
- "runs": 2335,
+ "updated": "2026-11-22T06:58:05+05:30",
+ "runs": 2336,
  "branches": [
   {
    "id": "platforms",
@@ -10821,6 +10821,13 @@
      "conf": "high",
      "date": "2026-11-22",
      "run": 2325
+    },
+    {
+     "t": "Ladoo Kids' May 2025 remake of its own classic elephant rhyme ('Ek Mota Hathi Ghumne Chala', a longer cartoon version) has about 783M views, more than ten times its 2022 versions of the same rhyme (about 61M and 57M), and Fun For Kids TV's top video is still a 2022 balloon seller rhyme (about 404M), so remaking our best performing song as a bigger, longer version later is a proven move, and Indian classics about animals and street sellers remain the strongest Hindi themes.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2336
     }
    ]
   },
@@ -21356,6 +21363,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2324
+    },
+    {
+     "t": "Among Hindi nursery rhyme channels, Ladoo Kids (8.4M subscribers, 1,521 videos, many Shorts) climbed from about 72M to about 90M views a month between Apr and Oct 2026 and gained about 50K subscribers in 28 days, while Kiddiestv Hindi (26.2M subscribers, only 8 uploads in the 28 days to 19 Nov) fell from about 93M views in Nov 2025 to about 50M in Oct 2026 and Fun For Kids TV (22.4M) gained no subscribers, so for our large Indian audience steady daily uploads matter more than past size.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2336
     }
    ]
   },
@@ -32324,11 +32338,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of older runs up to 2026-11-22 01:44: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 01:45",
-   "note": "Run 2257 (TRENDS (New Year countdowns, November viral moments)): Nothing new: New Year countdown templates are generic, the Brazil Jingle Bell dance was already filed and Convosight's November moments page showed only demo data. Trend bank unchanged. 0 leaves. Chrome not available. Total 4535."
+   "note": "Summary of older runs up to 2026-11-22 01:45: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 01:45",
@@ -32641,6 +32651,10 @@
   {
    "date": "2026-11-22 06:57",
    "note": "Run 2335 (TRENDS (Virlo formats and memes boards, 21 Nov)): Nothing new: Virlo's 12 live formats (couple montage, partying jokes, the In this town skit, year montage, Boom Clap, villain POV, shoulder carry selfie) and its meme board (GTA VI, Hunger Games premiere, a Bluey meet and greet crowd clip) were all already filed or not usable for kids. Trend bank unchanged. 0 leaves. Chrome not available. Total 4604."
+  },
+  {
+   "date": "2026-11-22 06:58",
+   "note": "Run 2336 (global markets (India: Hindi rhyme channels Ladoo Kids, Kiddiestv Hindi, Fun For Kids TV on vidIQ)): New: in Hindi rhymes the steady, high volume uploader grows while slow uploaders shrink (Ladoo Kids up to about 90M views a month and +50K subscribers, Kiddiestv Hindi down from about 93M to 50M a month with 8 uploads in 28 days), and Ladoo's 2025 remake of its own elephant rhyme reached about 783M, more than ten times its older versions, so an improved remake of our best song can beat the original. 2 leaves. Chrome not available. Total 4606."
   }
  ],
  "history": [
@@ -33407,6 +33421,10 @@
   {
    "date": "2026-11-22 06:57",
    "total": 4604
+  },
+  {
+   "date": "2026-11-22 06:58",
+   "total": 4606
   }
  ],
  "next_week_ideas": [
