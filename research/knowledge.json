@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:52:03+05:30",
- "runs": 2362,
+ "updated": "2026-11-22T07:52:42+05:30",
+ "runs": 2363,
  "branches": [
   {
    "id": "platforms",
@@ -3079,6 +3079,13 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2351
+    },
+    {
+     "t": "Future Today and the LEGO Group launched 'The LEGO Channel', a free COPPA compliant kids app with over 1,000 videos on all major smart TV streaming platforms in the US and Canada, one more big brand building a kids channel for the living room TV, where Bro Bros' long compilations should also look good.",
+     "src": "AWN, 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2363
     }
    ]
   },
@@ -21468,6 +21475,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2336
+    },
+    {
+     "t": "Guru Studio says its preschool series True and the Rainbow Kingdom has over 5B YouTube views, including about 1.4B in Latin American Spanish and nearly 600M in Brazilian Portuguese, so roughly 40% of a global preschool brand's YouTube views can come from its Spanish and Portuguese versions, backing Spanish and Portuguese as Bro Bros' first dubs after Hindi.",
+     "src": "AWN, 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2363
     }
    ]
   },
@@ -32526,12 +32540,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 03:44",
-   "note": "Summary of older runs up to 2026-11-22 03:44: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 03:45",
-   "note": "Run 2284 (TRENDS seasonal (Google YouTube holiday report, December TikTok outlook, toy lists)): Nothing new: YouTube's holiday report figures (advent calendar views 14M to 280M by month, 90M wishlist views, What I got for Christmas peaking 25 to 28 Dec, Vlogmas uploads), elf traditions and the hot toy lists were all already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4559."
+   "note": "Summary of older runs up to 2026-11-22 03:45: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 03:46",
@@ -32844,6 +32854,10 @@
   {
    "date": "2026-11-22 07:52",
    "note": "Run 2362 (topics and seasons (school holiday dates worldwide, YouTube Kids app news)): Nothing new: India's state winter breaks (Delhi 1 to 15 Jan, UP and Rajasthan from 31 Dec), the UAE mid December break, Australia's summer holiday screen time rise and Bebefinn Japan's holiday growth were already filed; no new YouTube Kids app news this month. 0 leaves. Chrome not available. Total 4633."
+  },
+  {
+   "date": "2026-11-22 07:52",
+   "note": "Run 2363 (global markets (kids distribution deals: Guru Studio, LEGO Channel, Banijay)): New: Guru Studio's preschool show True and the Rainbow Kingdom has over 5B YouTube views, with about 1.4B from its Latin American Spanish channel and about 600M from Brazilian Portuguese, more proof that Spanish and Portuguese dubs carry a big share of a kids brand's YouTube views; the LEGO Channel is a free COPPA compliant app on smart TV platforms in the US and Canada, another sign kids viewing is moving to the TV screen. 2 leaves. Chrome not available. Total 4635."
   }
  ],
  "history": [
@@ -33718,6 +33732,10 @@
   {
    "date": "2026-11-22 07:52",
    "total": 4633
+  },
+  {
+   "date": "2026-11-22 07:52",
+   "total": 4635
   }
  ],
  "next_week_ideas": [
