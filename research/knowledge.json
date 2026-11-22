@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:54:17+05:30",
- "runs": 2384,
+ "updated": "2026-11-22T08:55:11+05:30",
+ "runs": 2385,
  "branches": [
   {
    "id": "platforms",
@@ -32710,6 +32710,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2382
+    },
+    {
+     "t": "A TikTok of a roughly 30 second Suno made song, in which a sister complains that she cooked Thanksgiving for 20 and no guest helped clean up, reached about 225K views and over 3,500 comments within two weeks (Nov 2026), so short, funny, relatable family story songs travel at holidays; the kid safe Bros version is a cheerful 'everybody helps clean up after the feast' song where each family member grabs a job on the beat.",
+     "src": "Daily Dot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2385
     }
    ]
   }
@@ -32738,10 +32745,6 @@
   {
    "date": "2026-11-22 05:49",
    "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:49)."
-  },
-  {
-   "date": "2026-11-22 05:49",
-   "note": "Run 2306 (YouTube algorithm (AIR monthly log, Home feed Shorts rows, satisfaction signals, Shorts originality)): Nothing new: the Home feed shift to Shorts rows, Pichai's revenue per watch hour remark, the satisfaction and returning viewer emphasis and the 1 Oct Shorts originality update were all already filed; no ranking change announced this week. 0 leaves. Chrome not available. Total 4586."
   },
   {
    "date": "2026-11-22 05:50",
@@ -33054,6 +33057,10 @@
   {
    "date": "2026-11-22 08:54",
    "note": "Run 2384 (competitor deep dive (ChuChu TV, Umi Uzi, CocoBus)): Nothing new: ChuChu TV's flat flagship and long compilations, Umi Uzi's seasonal Halloween and Christmas results and CocoBus's high volume, low reach mashups were already filed; ChuChu TV and Bebefinn video tabs could not be read this round. 0 leaves. Chrome not available. Total 4663."
+  },
+  {
+   "date": "2026-11-22 08:55",
+   "note": "Run 2385 (TRENDS (Thanksgiving week, AI made family story songs, recap season)): New: a 30 second Suno made song about a sister cooking Thanksgiving for 20 with nobody helping clean up drew about 225K TikTok views and 3,500 comments (5 to 17 Nov), showing short funny family story songs spread at holidays; added a 'Bros year in 60 seconds' recap format to the trend bank for 1 to 3 Dec and dropped the faded toy box sounds POV. 1 leaves. Chrome not available. Total 4664."
   }
  ],
  "history": [
@@ -34016,6 +34023,10 @@
   {
    "date": "2026-11-22 08:54",
    "total": 4663
+  },
+  {
+   "date": "2026-11-22 08:55",
+   "total": 4664
   }
  ],
  "next_week_ideas": [
@@ -34138,12 +34149,6 @@
    "use": "Split the Reel in two halves with big text: 'Born to' shows Little Bro jumping in puddles, eating cake and dancing (three quick 1 second shots); 'Forced to' shows brushing teeth, tidying toys and bedtime with a comic sad face; the payoff is Little Bro dancing happily while brushing to our own tooth brushing song. Stand in place moves only."
   },
   {
-   "name": "How I imagine my toy sounds in the toy box (POV)",
-   "where": "Instagram Reels and TikTok",
-   "status": "rising",
-   "use": "Shoot from inside a toy box as the Bros carry it home: the lid is slightly open, light flickers in, and the new toy inside hums two bars of our own song, giggles and wobbles on every bump. On screen text: 'How I imagine my new toy sounds on the way home'. End when the lid opens and the Bros peek in and wave. No dance needed; for the closing wave the Meshy prompt is: standing in place, lean forward slightly and wave one hand, no floor moves."
-  },
-  {
    "name": "Copy the Bros, character dance loop",
    "where": "TikTok, Instagram Reels and YouTube Shorts",
    "status": "evergreen",
@@ -34154,6 +34159,12 @@
    "where": "TikTok and Instagram Reels",
    "status": "peak",
    "use": "Open on a plain room or the Bros in everyday clothes with an on screen bar reading 'Christmas loading 0%'. The bar climbs in four jumps (25, 50, 75, 100) on the beats of our own song while the Bros do a small knee bounce in place, looking at the camera. On 100% hard cut to the fully decorated room with the Bros in Christmas pyjamas doing a two arm 'ta da' raise, then loop back to the start. Meshy prompt: standing in place, gentle knee bounce, then both arms raise up and out in a ta da pose, no floor moves."
+  },
+  {
+   "name": "Bros year in 60 seconds (recap)",
+   "where": "YouTube Shorts, Instagram Reels, TikTok (recap season opens about 1 to 3 Dec with YouTube Recap)",
+   "status": "seasonal",
+   "use": "A 45 to 60 second Short and Reel: a big on screen month name (JAN, FEB...) pops in on each beat while a 2 to 3 second clip of that month's best Bros song plays, ending with both brothers waving 'see you in 2027!' and a fireworks burst; set to a new original upbeat Bros recap tune, posted 1 to 3 Dec and pinned to a 'best of 2026' playlist."
   },
   {
    "name": "Magic bauble pop, room reveal",
