@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:48:07+05:30",
- "runs": 2304,
+ "updated": "2026-11-22T05:49:06+05:30",
+ "runs": 2305,
  "branches": [
   {
    "id": "platforms",
@@ -10772,6 +10772,20 @@
      "conf": "low",
      "date": "2026-11-22",
      "run": 2301
+    },
+    {
+     "t": "Tubefilter's chart for Thanksgiving week 2025 (24 to 30 Nov) singled out kid friendly channels having big weeks during the school break: BabyBillion rose 28% to about 770M weekly views and KIDZOKI 31% to about 695M, so US Thanksgiving (26 to 29 Nov 2026) is a short holiday window when kids watch more and our strongest English songs should be live and fresh.",
+     "src": "Tubefilter, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2305
+    },
+    {
+     "t": "In the week after Thanksgiving 2025 (1 to 7 Dec) most kids channels in the global top 50 held flat or slipped (KIDZOKI down 16%, Toys and Colors down 9%, Diary of 4 and Anaya Kandhal about flat) while nine kids and family channels stayed in the top 50 both weeks, so early December does not bring an automatic kids view boost before the real Christmas holidays begin.",
+     "src": "Tubefilter, Dec 2025",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2305
     }
    ]
   },
@@ -32184,11 +32198,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of 2 older runs up to 2026-11-21 23:54: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 00:36",
-   "note": "Run 2226 (TRENDS (Virlo, Later 20 Nov, SocialPilot 17 Nov, Know Your Meme)): Nothing new: Virlo's 21 Nov board, Later's 20 Nov Reels list (month by month recap, Dear Santa, Get up diva) and SocialPilot's Christmas audio peaks were already filed; Know Your Meme's newest dance roundup was July and not kid safe. Trend bank unchanged. 0 leaves. Chrome not available. Total 4518."
+   "note": "Summary of 2 older runs up to 2026-11-22 00:36: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 00:37",
@@ -32501,6 +32511,10 @@
   {
    "date": "2026-11-22 05:48",
    "note": "Run 2304 (our own results (Metricool YouTube 15 to 20 Nov, Reels 15 to 20 Nov, queue to 29 Nov)): New: the construction digger Reel (17 Nov) had our lowest 3 second skip rate (37%) and longest average watch (about 5.3 seconds) yet only 31 views, so a strong opening did not get wider distribution; the 20 Nov elephant parade long video still showed 1 view (sync lag). Morning vs afternoon gap and the empty queue from 23 Nov were already filed; posting plan unchanged. 1 leaves. Chrome not available. Total 4584."
+  },
+  {
+   "date": "2026-11-22 05:49",
+   "note": "Run 2305 (YouTube main and YouTube Kids (Tubefilter charts for Thanksgiving and early December 2025 as a seasonal guide; 16 to 22 Nov 2026 charts not out yet)): New: in Thanksgiving week 2025 (24 to 30 Nov) several kids hubs jumped (BabyBillion up 28%, KIDZOKI up 31%, Khaira Khafi Daily up 18%) and Tubefilter called out kid friendly channels having big weeks during the break, then in the first week of December most kids channels held flat or dipped, so the US Thanksgiving holiday (26 to 29 Nov 2026) is a short window to have strong English songs live. 2 leaves. Chrome not available. Total 4586."
   }
  ],
  "history": [
@@ -33623,6 +33637,10 @@
   {
    "date": "2026-11-22 05:48",
    "total": 4584
+  },
+  {
+   "date": "2026-11-22 05:49",
+   "total": 4586
   }
  ],
  "next_week_ideas": [
