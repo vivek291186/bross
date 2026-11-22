@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:48:11+05:30",
- "runs": 2356,
+ "updated": "2026-11-22T07:48:46+05:30",
+ "runs": 2357,
  "branches": [
   {
    "id": "platforms",
@@ -32512,12 +32512,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 02:41",
-   "note": "Summary of older runs up to 2026-11-22 02:41: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 02:42",
-   "note": "Run 2278 (rules and monetisation (FTC COPPA, made for kids, Australia under 16 rules)): Nothing new: the Disney 10M USD COPPA mislabelling settlement, YouTube's gambling and gaming age limits and Australia's under 16 account rules were all already filed. 0 leaves. Chrome not available. Total 4552."
+   "note": "Summary of older runs up to 2026-11-22 02:42: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 02:43",
@@ -32830,6 +32826,10 @@
   {
    "date": "2026-11-22 07:48",
    "note": "Run 2356 (competitor deep dive (Bounce Patrol latest numbers, kids Christmas album formats)): Small addition: Bounce Patrol's only upload in 28 days, a 'Rainbow Disco' colours dance song (30 Oct), reached about 731K views in three weeks while the channel's monthly views (about 189M in October) still come mostly from old rhyme remixes; the rest was already filed. Grammy kids nominees and Christmas streaming lists were already filed too. 1 leaves. Chrome not available. Total 4631."
+  },
+  {
+   "date": "2026-11-22 07:48",
+   "note": "Run 2357 (visual craft and tools (Meshy changelog, Blender releases)): Nothing new: Meshy's changelog still has no November entry (Text to Motion unchanged since July; Meshy 7.1 and Mora were September), and Blender 5.1 and 5.2 notes were already filed. 0 leaves. Chrome not available. Total 4631."
   }
  ],
  "history": [
@@ -33676,6 +33676,10 @@
   {
    "date": "2026-11-22 07:47",
    "total": 4630
+  },
+  {
+   "date": "2026-11-22 07:48",
+   "total": 4631
   },
   {
    "date": "2026-11-22 07:48",
