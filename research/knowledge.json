@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:41:48+05:30",
- "runs": 2375,
+ "updated": "2026-11-22T08:42:40+05:30",
+ "runs": 2376,
  "branches": [
   {
    "id": "platforms",
@@ -32626,6 +32626,20 @@
      "conf": "high",
      "date": "2026-11-22",
      "run": 2370
+    },
+    {
+     "t": "YouTube plans to pilot live auto dubbing in early 2027, translating a creator's speech into other languages in real time during a live stream; if made for kids channels get it, a Bros live sing along or premiere could speak to Spanish, Portuguese and Hindi viewers at once without separate streams.",
+     "src": "TechCrunch, Sep 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2376
+    },
+    {
+     "t": "The dancing low resolution 3D rat meme that copied silly moves to many songs (Milton's dancing rat, big after a streamer's copy in Jan 2025 with about 250M views) shows that a crude, funny 3D character dance loop can be copied worldwide; it has now faded, but its lesson stands: one goofy repeatable move by a simple 3D character is enough to start a copy trend.",
+     "src": "Daily Dot, Mar 2025",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2376
     }
    ]
   }
@@ -32652,12 +32666,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 05:36",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:36)."
-  },
-  {
    "date": "2026-11-22 05:37",
-   "note": "Run 2297 (music craft (2026 studies on preschool heart rate, rhythm games and cooperation, iTunes kids chart)): New: a Boston University pilot (Feb 2026) found preschoolers' heart rates rose most during a shaker and moving song and were lower during brand new songs than familiar ones, with heart rates rising together across the group; a Chinese kindergarten study (Jan 2026, 60 children aged 5 to 6) found 8 weeks of move together rhythm games raised cooperation scores; the RAMSR trial gains were already filed. 3 leaves. Chrome not available. Total 4574."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:37)."
   },
   {
    "date": "2026-11-22 05:38",
@@ -32970,6 +32980,10 @@
   {
    "date": "2026-11-22 08:41",
    "note": "Run 2375 (our own results (Metricool, 19 to 22 Nov)): Check: Metricool still shows Elephant Stomp Parade (20 Nov, 10:00 IST) at only 1 view and has no rows yet for Beep Beep Little Car or the 21 Nov uploads, so the newest stats are lagging or that upload has a problem worth checking in YouTube Studio; today's Peekaboo (10:00) and Ride to the Moon (16:00) are queued cleanly with thumbnails, but nothing is scheduled from 23 Nov on. 2 leaves. Chrome not available. Total 4651."
+  },
+  {
+   "date": "2026-11-22 08:42",
+   "note": "Run 2376 (TRENDS (new Reels and Shorts tools, viral dance memes)): Small addition: YouTube will pilot live auto dubbing in early 2027, so a future Bros live sing along could reach other languages in real time; Instagram's 'use as reference' camera and dynamic thumbnails were already filed, and the dancing 3D rat meme is from early 2025 and has faded. 2 leaves. Chrome not available. Total 4653."
   }
  ],
  "history": [
@@ -33896,6 +33910,10 @@
   {
    "date": "2026-11-22 08:41",
    "total": 4651
+  },
+  {
+   "date": "2026-11-22 08:42",
+   "total": 4653
   }
  ],
  "next_week_ideas": [
