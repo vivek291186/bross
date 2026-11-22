@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:39:43+05:30",
- "runs": 2299,
+ "updated": "2026-11-22T05:40:28+05:30",
+ "runs": 2300,
  "branches": [
   {
    "id": "platforms",
@@ -21251,6 +21251,27 @@
      "conf": "high",
      "date": "2026-11-22",
      "run": 2288
+    },
+    {
+     "t": "AIR's Sep 2026 retention data includes an Italian kids channel whose professionally dubbed tracks averaged 5 to 6 minutes watched while its AI English track averaged about 54 seconds, so for Bro Bros a human sung or carefully produced vocal in each new language matters far more than a quick auto dub.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2300
+    },
+    {
+     "t": "When a large creator tested 11 dubbed languages on 5 videos (AIR, Sep 2026), Spanish, Arabic, Indonesian and Portuguese grew first, followed by Japanese and Korean, and six languages were kept, which supports Spanish, Portuguese, Indonesian and Arabic as our first song versions after English and Hindi.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2300
+    },
+    {
+     "t": "YouTube's auto dubbing turns English videos into about 20 languages but does not translate titles or descriptions, so every Bro Bros language version still needs a translated title and description written by hand to be found in local search.",
+     "src": "AIR Media-Tech, Sep 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2300
     }
    ]
   },
@@ -32152,10 +32173,6 @@
    "note": "Summary of 2 older runs up to 2026-11-21 23:46: rounds across all focuses; see git history for details."
   },
   {
-   "date": "2026-11-21 23:46",
-   "note": "Run 2221 (topics and seasons (December classroom themes, holiday demand; TRENDS skipped as just rechecked)): Small addition: Pre-K Pages, refreshed 19 Nov, lists Christmas, gingerbread, peppermint, winter and snowmen as the December preschool themes, each paired with songs and movement games, so teachers will look for gingerbread and snowman movement songs; Google's gift guide only confirmed the retro and nostalgia mood. 2 leaves. Chrome not available. Total 4516."
-  },
-  {
    "date": "2026-11-21 23:47",
    "note": "Run 2222 (YouTube algorithm and YouTube Kids (official family posts)): Nothing new: YouTube's Jan 2026 family posts (supervised Explore, Explore More and Most of YouTube settings, Shorts timer to zero, autoplay off for under 18s, quality principles that lift enriching videos) were already filed. 0 leaves. Chrome not available. Total 4516."
   },
@@ -32466,6 +32483,10 @@
   {
    "date": "2026-11-22 05:39",
    "note": "Run 2299 (TRENDS (NewEngen Christmas 2026 guide 19 Nov, Know Your Meme roundups, Shorts trend lists)): New: NewEngen's 19 Nov Christmas guide lists 'Friendsmas' themed friend group parties with a dress code filmed as a recap, which fits the Bros and their friends; Know Your Meme's autumn roundup had a cartoon squirrel waving bye as a tornado carries it off, used as a dramatic reaction to small mishaps. Most other Christmas formats (themed trees, disguised gifts, want need wear read, tree reveal transitions) were already filed. 3 leaves. Chrome not available. Total 4579."
+  },
+  {
+   "date": "2026-11-22 05:40",
+   "note": "Run 2300 (global markets (AIR dubbing retention data Sep 2026, language audiences and CPM)): New: AIR's Sep 2026 data shows an Italian kids channel's professionally dubbed tracks held viewers 5 to 6 minutes while its AI English track held under a minute; a creator's 11 language test found Spanish, Arabic, Indonesian and Portuguese took off first, then Japanese and Korean. The AI dub penalty itself and CPM by language were already filed. 3 leaves. Chrome not available. Total 4582."
   }
  ],
  "history": [
@@ -33568,6 +33589,10 @@
   {
    "date": "2026-11-22 05:39",
    "total": 4579
+  },
+  {
+   "date": "2026-11-22 05:40",
+   "total": 4582
   }
  ],
  "next_week_ideas": [
