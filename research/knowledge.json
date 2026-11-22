@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:42:40+05:30",
- "runs": 2376,
+ "updated": "2026-11-22T08:43:48+05:30",
+ "runs": 2377,
  "branches": [
   {
    "id": "platforms",
@@ -5872,6 +5872,34 @@
      "conf": "high",
      "date": "2026-11-22",
      "run": 2290
+    },
+    {
+     "t": "YouTube's creator liaison (Think Media, May 2026) says there is no special AI crackdown: what gets policed is repetition, with roughly 100 near identical videos treated as spam whether made with AI, CGI or stock, while a channel with a steady formula and truly different videos is fine; Bro Bros must keep every song's set, colours, moves and music clearly distinct.",
+     "src": "Think Media podcast, May 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2377
+    },
+    {
+     "t": "YouTube's mass production spam example is a channel reusing the same background music and repetitive AI images across many videos, so our 14 songs a week need different melodies, tempos and scenes, and the shared Bro Bros intro and outro should stay short so they do not dominate each upload.",
+     "src": "PPC Land citing YouTube spam policy, Oct 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2377
+    },
+    {
+     "t": "The same liaison advises a new channel to put out several connected videos (about four) on one theme close together so viewers' watch history builds from the first visit, which supports releasing themed weeks (for example four Christmas songs in a row with a matching playlist) rather than scattered topics.",
+     "src": "Think Media podcast, May 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2377
+    },
+    {
+     "t": "Neither YouTube's 1 Oct 2026 Shorts originality post nor the liaison's follow up talks about Shorts cut from a creator's own long videos; the target is reposting others' clips, but since near identical cuts could still look templated, each Bros Short should be a fresh edit with its own hook rather than a plain trim.",
+     "src": "PPC Land, Oct 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2377
     }
    ]
   },
@@ -32666,12 +32694,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 05:37",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:37)."
-  },
-  {
    "date": "2026-11-22 05:38",
-   "note": "Run 2298 (visual craft (AnimationXpress on stylised 3D, Kidscreen new show looks, thumbnail and pacing searches)): New: the 2026 awards season favoured stylised, handmade looking 3D over photoreal (the Oscar winning Flow was made in Blender with a soft painted look, Stitch Head styled like stop motion), backing a toon shaded Bro Bros style; Kidscreen buyers praise calm preschool shows and one minute musical interstitials that mix real and pretend animal sounds. Thumbnail and pacing searches gave only filed studies. 2 leaves. Chrome not available. Total 4576."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:38)."
   },
   {
    "date": "2026-11-22 05:39",
@@ -32984,6 +33008,10 @@
   {
    "date": "2026-11-22 08:42",
    "note": "Run 2376 (TRENDS (new Reels and Shorts tools, viral dance memes)): Small addition: YouTube will pilot live auto dubbing in early 2027, so a future Bros live sing along could reach other languages in real time; Instagram's 'use as reference' camera and dynamic thumbnails were already filed, and the dancing 3D rat meme is from early 2025 and has faded. 2 leaves. Chrome not available. Total 4653."
+  },
+  {
+   "date": "2026-11-22 08:43",
+   "note": "Run 2377 (YouTube algorithm (originality and spam, YouTube liaison advice)): New: YouTube's liaison says repetition, not AI, is what gets policed (about 100 near identical videos counts as spam whatever the tool), its spam policy example is a channel reusing the same background music and repeated AI images, and new channels should launch with several linked videos so watch history builds from the first visit; none of the guidance covers Shorts cut from your own long videos. 4 leaves. Chrome not available. Total 4657."
   }
  ],
  "history": [
@@ -33914,6 +33942,10 @@
   {
    "date": "2026-11-22 08:42",
    "total": 4653
+  },
+  {
+   "date": "2026-11-22 08:43",
+   "total": 4657
   }
  ],
  "next_week_ideas": [
