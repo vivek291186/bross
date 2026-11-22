@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:52:30+05:30",
- "runs": 2309,
+ "updated": "2026-11-22T05:58:05+05:30",
+ "runs": 2310,
  "branches": [
   {
    "id": "platforms",
@@ -32222,10 +32222,6 @@
    "note": "Summary of 2 older runs up to 2026-11-22 00:40: rounds across all focuses; see git history for details."
   },
   {
-   "date": "2026-11-22 00:40",
-   "note": "Run 2231 (our own results (Metricool queue for 22 to 25 Nov)): New: every queued 22 Nov upload (Peekaboo hide and seek at 10:00, Ride to the Moon at 16:00, their Shorts and Reels) has the AI generated content flag set to off on YouTube and Instagram, although the playbook says to tick the AI music disclosure for our Suno songs; and at 00:45 IST on 22 Nov nothing is queued for 23 Nov at all. 2 leaves. Chrome not available. Total 4524."
-  },
-  {
    "date": "2026-11-22 00:41",
    "note": "Run 2232 (YouTube kids channels (Tubefilter most viewed, week of 15 Nov; TRENDS skipped as just rechecked)): Nothing new: Fitu K Kitu's jump to #1, 42 of 50 channels on Shorts, Twin Twin and Nabel Dan Mama entering and Diary of 4 rising were all already filed. 0 leaves. Chrome not available. Total 4524."
   },
@@ -32536,6 +32532,10 @@
   {
    "date": "2026-11-22 05:52",
    "note": "Run 2309 (music craft (Spotify holiday listening report, Christmas kids playlists, Danny Go holiday single)): New: Spotify says all five top US holiday songs last December were more than 30 years old, and its top new holiday track this year is a fresh pop song, so families mix a few classic carol sounds with new songs; for us, an original song with a familiar old style sleigh bell and swing feel can sit beside the classics. Daily streams, start dates and Danny Go's Candy Cane Crush were already filed. 2 leaves. Chrome not available. Total 4589."
+  },
+  {
+   "date": "2026-11-22 05:58",
+   "note": "Run 2310 (visual craft (colour preference studies, Blender toon workflows)): Nothing new: the children's colour gradient eye tracking study could not be opened, and the Blender Studio toon training page is from 2016; stylised toon looks were already filed. 0 leaves. Chrome not available. Total 4589."
   }
  ],
  "history": [
@@ -33677,6 +33677,10 @@
   },
   {
    "date": "2026-11-22 05:52",
+   "total": 4589
+  },
+  {
+   "date": "2026-11-22 05:58",
    "total": 4589
   }
  ],
