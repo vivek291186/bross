@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:59:40+05:30",
- "runs": 2312,
+ "updated": "2026-11-22T06:00:32+05:30",
+ "runs": 2313,
  "branches": [
   {
    "id": "platforms",
@@ -10793,6 +10793,13 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2305
+    },
+    {
+     "t": "ChuChu TV's Brazilian Portuguese dub channel (5.17M subscribers, 2.23B views) posted no video in the 28 days to 21 Nov 2026 and its monthly views fell from about 15.3M in Nov 2025 to about 7.5M in Oct 2026, so a language channel that stops getting new uploads loses about half its views within a year; when we open dub channels they need a steady trickle of new songs, not only old ones.",
+     "src": "vidIQ, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2313
     }
    ]
   },
@@ -32243,10 +32250,6 @@
    "note": "Summary of 2 older runs up to 2026-11-22 00:42: rounds across all focuses; see git history for details."
   },
   {
-   "date": "2026-11-22 00:42",
-   "note": "Run 2234 (visual craft (preschool animation design research)): Nothing new: a 2025 Thai review of animation design for preschoolers gave only general principles (plot, character, colour, music) with no numbers, and the main pacing study page was blocked. 0 leaves. Chrome not available. Total 4524."
-  },
-  {
    "date": "2026-11-22 00:43",
    "note": "Run 2235 (YouTube algorithm (AIR month by month guide, Shorts freshness)): Nothing new: AIR's October 2026 changes (original Shorts favoured over reuploads, Ask YouTube, hacked channel pause, saved custom Home feeds, 20 USD payout test, 30 day spam lock) and the Shorts 30 day freshness drop were already filed; AIR lists no November 2026 change yet. 0 leaves. Chrome not available. Total 4524."
   },
@@ -32557,6 +32560,10 @@
   {
    "date": "2026-11-22 05:59",
    "note": "Run 2312 (global markets (Nigeria House of Ajebo lessons, Philippines kids chart, ABS-CBN kids channel)): Mostly filed (House of Ajebo's consistency lessons, Jeni and Keni, Philippines kids chart led by English songs). New: the Philippine broadcaster ABS-CBN's Star Music runs a kids channel, TuTuBee, with two animal mascots and nursery and values songs sung in English or Filipino, showing big local media also bet on bilingual song brands there. 1 leaves. Chrome not available. Total 4592."
+  },
+  {
+   "date": "2026-11-22 06:00",
+   "note": "Run 2313 (competitor deep dive (ChuChu TV main, Portuguese and Star channels on vidIQ, Super Simple Songs Christmas)): New: ChuChu TV's Brazilian Portuguese dub channel (5.17M subscribers) posted nothing in the 28 days to 21 Nov and its monthly views have halved from about 15M in Nov 2025 to about 7.5M in Oct 2026, so a dub channel left without fresh uploads slowly fades. ChuChu main channel figures were already filed; Super Simple Songs searches found only older Christmas albums. 1 leaves. Chrome not available. Total 4593."
   }
  ],
  "history": [
@@ -33711,6 +33718,10 @@
   {
    "date": "2026-11-22 05:59",
    "total": 4592
+  },
+  {
+   "date": "2026-11-22 06:00",
+   "total": 4593
   }
  ],
  "next_week_ideas": [
