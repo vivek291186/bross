@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T06:03:02+05:30",
- "runs": 2316,
+ "updated": "2026-11-22T06:37:32+05:30",
+ "runs": 2317,
  "branches": [
   {
    "id": "platforms",
@@ -32241,6 +32241,20 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2314
+    },
+    {
+     "t": "SocialPilot's audio list for 17 to 25 Nov 2026 includes two calm instrumentals beside the hype tracks: a soft 'Christmas Market' piece for cosy holiday shop and decor clips and a gentle 'November' track for quiet wintry walks and photo dumps, so a slow, cosy instrumental version of a Bro Bros winter song (snow falling, lights, the Bros waving) can serve calm Reels and bedtime style Shorts.",
+     "src": "SocialPilot, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2317
+    },
+    {
+     "t": "On 21 Nov 2026 none of the top 10 trends on Virlo's November board (76 checked trends, about 26K TikTok and Instagram videos) was first seen after 26 Oct, and the three 'fresh this week' formats were two adult jokes plus Boom Clap Confetti Pop, so new viral formats are scarce in late November and our December Reels should lean on proven holiday formats (Dear Santa list, advent door, year recap) rather than wait for a new breakout.",
+     "src": "Virlo, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2317
     }
    ]
   }
@@ -32268,11 +32282,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of 2 older runs up to 2026-11-22 00:45: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-22 00:45",
-   "note": "Run 2238 (TRENDS (Virlo November 2026 board, B&T, Christmas dance searches)): Nothing new: Virlo's November board (piggyback flip, loading and upside down transitions, Boom Clap confetti pop, Kung Fu pet and baby training, Last Christmas winter dance, It's time Christmas transition) and the Charlie Brown holiday dance were all already filed. Trend bank unchanged. 0 leaves. Chrome not available. Total 4527."
+   "note": "Summary of older runs up to 2026-11-22 00:45: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 00:46",
@@ -32585,6 +32595,10 @@
   {
    "date": "2026-11-22 06:03",
    "note": "Run 2316 (posting times (Metricool YouTube best times 23 to 29 Nov)): Nothing new: Metricool again peaks YouTube at 16:00 IST on every day with 10:00 IST second and weekends at about half of weekdays, all already filed; our own results still favour 10:00 IST, so the posting plan stays 10:00 and 16:00 IST. End of run: 21 rounds (runs 2296 to 2316), 28 new leaves, best: Camera shy then dance, Friendsmas party recap, Born to forced to Reels, Thanksgiving week kids view bump, pro dubbed tracks holding kids 5 to 6 minutes vs under 1 minute for AI dubs, retro rock and roll Christmas sounds rising, and the digger Reel with our best hold. Page not published this run (artifact tools not available). 0 leaves. Chrome not available. Total 4596."
+  },
+  {
+   "date": "2026-11-22 06:37",
+   "note": "Run 2317 (TRENDS (Later 20 Nov, SocialPilot 17 to 25 Nov audio, Virlo November board, Know Your Meme trending, Google holiday report)): Mostly filed already (Dear Santa, year recap, Get up diva, Boom Clap, thermostat hidden toy meme, advent and wishlist view counts). New: SocialPilot's 17 to 25 Nov audio list pairs hype tracks with soft, calm instrumentals for cosy winter scenes, and Virlo's November board shows no top trend born after 26 Oct, so late November has few new formats and holiday formats carry the month. 2 leaves. Chrome not available. Total 4598."
   }
  ],
  "history": [
@@ -33755,6 +33769,10 @@
   {
    "date": "2026-11-22 06:03",
    "total": 4596
+  },
+  {
+   "date": "2026-11-22 06:37",
+   "total": 4598
   }
  ],
  "next_week_ideas": [
