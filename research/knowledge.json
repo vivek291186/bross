@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T07:49:45+05:30",
- "runs": 2358,
+ "updated": "2026-11-22T07:51:00+05:30",
+ "runs": 2359,
  "branches": [
   {
    "id": "platforms",
@@ -32526,12 +32526,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 02:43",
-   "note": "Summary of older runs up to 2026-11-22 02:43: rounds across all focuses; see git history for details."
-  },
-  {
    "date": "2026-11-22 03:35",
-   "note": "Run 2280 (our own results (Metricool YouTube 14 to 21 Nov, queue check)): New: the Moo Moo Farm Band video jumped from 63 to 1,132 views in about two days and is now our top long video with Roly Poly Tomato (1,047); across 14 to 19 Nov our 10:00 IST long videos averaged about 580 views vs about 300 for the 16:00 IST ones; our Shorts stay tiny (2 to 24 views each); the queue for 23 to 29 Nov is still empty. No slot change yet. 4 leaves. Chrome not available. Total 4556."
+   "note": "Summary of older runs up to 2026-11-22 03:35: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-22 03:42",
@@ -32844,6 +32840,10 @@
   {
    "date": "2026-11-22 07:49",
    "note": "Run 2358 (TRENDS (most viewed Shorts of all time, checked 21 Nov)): New angle: sharing and manners is the most repeated kids theme among the 30 most viewed Shorts ever (sharing food with farm animals, sharing snacks, sharing is caring, a toddler learning to eat alone), and none of the top 100 Shorts is a Christmas clip; new song idea 'One for You, One for Me!' replaces the pinata turn taking idea. 2 leaves. Chrome not available. Total 4633."
+  },
+  {
+   "date": "2026-11-22 07:51",
+   "note": "Run 2359 (global markets (Bangladesh and Thailand kids channel rankings, 20 Nov)): Nothing new: Bangladesh's top 100 holds only a broadcaster kids channel (Maasranga Kids) and Thailand's kids leaders are local Thai song channels (Nong Namo, KidsMeSong) plus a localised Vlad and Niki, all already filed; country lists only show channels registered there, so they say little about who watches English songs. 0 leaves. Chrome not available. Total 4633."
   }
  ],
  "history": [
@@ -33701,6 +33701,10 @@
   },
   {
    "date": "2026-11-22 07:49",
+   "total": 4633
+  },
+  {
+   "date": "2026-11-22 07:51",
    "total": 4633
   }
  ],
