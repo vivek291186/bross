@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:45:13+05:30",
- "runs": 2379,
+ "updated": "2026-11-22T08:46:02+05:30",
+ "runs": 2380,
  "branches": [
   {
    "id": "platforms",
@@ -32701,12 +32701,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 05:40",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:40)."
-  },
-  {
    "date": "2026-11-22 05:41",
-   "note": "Run 2301 (competitor deep dive (Lalafun and Little Angel on vidIQ, Bebefinn search)): Mostly filed already (Lalafun's 15.1M subscribers, late Christmas start, sister channels). New: vidIQ's model puts Lalafun's earnings for the 28 days to 8 Nov 2026 at about 180K US dollars on about 611M views, roughly 0.30 dollars per 1,000 views, and notes it was down 22% on the previous two weeks. The Little Angel stats page did not load and Bebefinn searches returned nothing new. 1 leaves. Chrome not available. Total 4583."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:41)."
   },
   {
    "date": "2026-11-22 05:41",
@@ -33019,6 +33015,10 @@
   {
    "date": "2026-11-22 08:45",
    "note": "Run 2379 (TRENDS (India Reels roundups, kids and family trends)): Small addition: India's Blinkit 'scream for ice cream' challenge (May 2026) got whole families and many kids yelling into phones, showing Indian kids love loud shout along moments; the other India roundups found were from 2025 and stale. 1 leaves. Chrome not available. Total 4658."
+  },
+  {
+   "date": "2026-11-22 08:46",
+   "note": "Run 2380 (music craft (infant music studies, 2027 Grammy kids nominees)): Nothing new: the 2026 eLife infant study (babies move to loudness changes and high pitch, not the beat), the infant mood singing trial and the 2027 Grammy children's album nominees were already filed. 0 leaves. Chrome not available. Total 4658."
   }
  ],
  "history": [
@@ -33960,6 +33960,10 @@
   },
   {
    "date": "2026-11-22 08:45",
+   "total": 4658
+  },
+  {
+   "date": "2026-11-22 08:46",
    "total": 4658
   }
  ],
