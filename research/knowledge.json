@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:41:05+05:30",
- "runs": 2374,
+ "updated": "2026-11-22T08:41:48+05:30",
+ "runs": 2375,
  "branches": [
   {
    "id": "platforms",
@@ -25514,6 +25514,20 @@
      "conf": "medium",
      "date": "2026-11-22",
      "run": 2347
+    },
+    {
+     "t": "At about 08:45 IST on 22 Nov 2026 Metricool listed Elephant Stomp Parade (20 Nov, 10:00 IST) at just 1 view, against about 1,069 for the previous morning's Moo Moo Farm Band, and had no rows yet for Beep Beep Little Car (20 Nov, 16:00) or the 21 Nov uploads; either Metricool's newest stats lag or Elephant Stomp (posted with a thumbnail warning) is stuck or not public, so it should be checked in YouTube Studio before judging the song.",
+     "src": "Metricool brand 7552626, Nov 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2375
+    },
+    {
+     "t": "Today's queue (22 Nov 2026) is complete with designed thumbnails: Peekaboo Hide and Seek at 10:00 IST with its Short at 10:05 and Reel at 10:00, and Ride to the Moon, a gentle space and bedtime song, at 16:00 IST with its Short and Reel; after today nothing is scheduled for 23 to 29 Nov yet.",
+     "src": "Metricool scheduled posts, Nov 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2375
     }
    ]
   },
@@ -32638,12 +32652,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 04:43",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 04:43)."
-  },
-  {
    "date": "2026-11-22 05:36",
-   "note": "Run 2296 (TRENDS (Virlo week of 16 Nov, SocialPilot TikTok and Reels 17 to 25 Nov, NewEngen 20 Nov, Later 20 Nov)): New: the rising 'Camera Shy' format (a pet acts shy at the camera, then gives in and dances) fits a shy little Bro reveal; kid friendly turkey snack boards (pretzel legs, candy eyes, fruit) trend for Thanksgiving week; Virlo's top new sound this week is the GTA VI score and its top new posts are adult jokes, so no new kid dance broke out this week. Chipmunk trio dance, Dame Hombro, Dear Santa and Blue Danube chores were already filed. 3 leaves. Chrome not available. Total 4571."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:36)."
   },
   {
    "date": "2026-11-22 05:37",
@@ -32956,6 +32966,10 @@
   {
    "date": "2026-11-22 08:41",
    "note": "Run 2374 (rules and safety (COPPA, made for kids, AI labels)): Nothing new: the FTC's Feb 2026 age check policy statement, YouTube's automatic AI labels (May 2026) and the age limits on violent and gambling game videos were already filed; no new made for kids rule change was announced this month. 0 leaves. Chrome not available. Total 4649."
+  },
+  {
+   "date": "2026-11-22 08:41",
+   "note": "Run 2375 (our own results (Metricool, 19 to 22 Nov)): Check: Metricool still shows Elephant Stomp Parade (20 Nov, 10:00 IST) at only 1 view and has no rows yet for Beep Beep Little Car or the 21 Nov uploads, so the newest stats are lagging or that upload has a problem worth checking in YouTube Studio; today's Peekaboo (10:00) and Ride to the Moon (16:00) are queued cleanly with thumbnails, but nothing is scheduled from 23 Nov on. 2 leaves. Chrome not available. Total 4651."
   }
  ],
  "history": [
@@ -33878,6 +33892,10 @@
   {
    "date": "2026-11-22 08:41",
    "total": 4649
+  },
+  {
+   "date": "2026-11-22 08:41",
+   "total": 4651
   }
  ],
  "next_week_ideas": [
