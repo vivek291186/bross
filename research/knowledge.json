@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T08:58:14+05:30",
- "runs": 2391,
+ "updated": "2026-11-22T08:58:58+05:30",
+ "runs": 2392,
  "branches": [
   {
    "id": "platforms",
@@ -18010,6 +18010,20 @@
      "conf": "low",
      "date": "2026-11-21",
      "run": 2221
+    },
+    {
+     "t": "World Soil Day falls every 5 December and is run by the UN's FAO, which holds worldwide school activities for ages 8 to 15 such as 'soil detective' experiments (compost in a bottle, tiny plants and bugs in pavement cracks, rain soaking into grass but running off concrete, hot pavement versus cool grass); the 2026 theme was not yet posted by 22 Nov.",
+     "src": "FAO World Soil Day pages, 2025 to 2026",
+     "conf": "high",
+     "date": "2026-11-22",
+     "run": 2392
+    },
+    {
+     "t": "A Bros 'Dig a Little, Look a Little' soil song for World Soil Day (5 Dec) can turn those experiments into simple verses kids can act out: peek at a tiny jungle in a crack, drop banana peels in a compost jar, pour rain on grass and on a road, with a wiggly worm dance chorus; it stays clear of copyrighted characters and fits school sharing that week.",
+     "src": "FAO World Soil Day pages, 2025 to 2026",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2392
     }
    ]
   },
@@ -32750,12 +32764,8 @@
  ],
  "log": [
   {
-   "date": "2026-11-22 05:59",
-   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 05:59)."
-  },
-  {
    "date": "2026-11-22 06:00",
-   "note": "Run 2313 (competitor deep dive (ChuChu TV main, Portuguese and Star channels on vidIQ, Super Simple Songs Christmas)): New: ChuChu TV's Brazilian Portuguese dub channel (5.17M subscribers) posted nothing in the 28 days to 21 Nov and its monthly views have halved from about 15M in Nov 2025 to about 7.5M in Oct 2026, so a dub channel left without fresh uploads slowly fades. ChuChu main channel figures were already filed; Super Simple Songs searches found only older Christmas albums. 1 leaves. Chrome not available. Total 4593."
+   "note": "Earlier runs summarised: 2 older log lines merged (up to 2026-11-22 06:00)."
   },
   {
    "date": "2026-11-22 06:02",
@@ -33068,6 +33078,10 @@
   {
    "date": "2026-11-22 08:58",
    "note": "Run 2391 (TRENDS (toddler dance clips, classroom brain break crazes)): Nothing new this week: toddler dance off and samba clips, the six seven classroom songs and GoNoodle brain breaks were already filed; the Pop See Koo school craze found was from 2015 and the toddler haka story could not be read. 0 leaves. Chrome not available. Total 4665."
+  },
+  {
+   "date": "2026-11-22 08:58",
+   "note": "Run 2392 (topics and seasons (World Soil Day, 5 Dec)): New: World Soil Day (5 Dec) is a worldwide UN FAO day that schools use for hands on soil experiments with kids aged 8 to 15 (compost in a bottle, tiny life in pavement cracks, rain soaking into grass but running off concrete), a fresh nature topic for an early December song. 2 leaves. Chrome not available. Total 4667."
   }
  ],
  "history": [
@@ -34058,6 +34072,10 @@
   {
    "date": "2026-11-22 08:58",
    "total": 4665
+  },
+  {
+   "date": "2026-11-22 08:58",
+   "total": 4667
   }
  ],
  "next_week_ideas": [
