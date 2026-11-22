@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-22T05:37:54+05:30",
- "runs": 2297,
+ "updated": "2026-11-22T05:38:45+05:30",
+ "runs": 2298,
  "branches": [
   {
    "id": "platforms",
@@ -15854,6 +15854,20 @@
      "conf": "medium",
      "date": "2026-11-21",
      "run": 2201
+    },
+    {
+     "t": "AnimationXpress (Apr 2026) says the latest awards season rewarded stylised, handmade looking 3D over photoreal CGI, citing Flow (made in Blender with a soft watercolour like look) and Stitch Head (3D made to look like stop motion), with bold saturated palettes and visible texture, which shows a small Blender team can stand out with a distinct painted style rather than chasing realism.",
+     "src": "AnimationXpress, Apr 2026",
+     "conf": "medium",
+     "date": "2026-11-22",
+     "run": 2298
+    },
+    {
+     "t": "Among Kidscreen's new preschool shows, a festival jury singled out one for its peaceful, calming feel and another uses a one minute musical break that pairs real animal sounds with made up ones, so a calm 'Bro Bros quiet minute' and a short 'real or pretend animal sound' song are both formats buyers value.",
+     "src": "Kidscreen, Feb 2025",
+     "conf": "low",
+     "date": "2026-11-22",
+     "run": 2298
     }
    ]
   },
@@ -32114,11 +32128,7 @@
  "log": [
   {
    "date": "2026-11-21 23:42",
-   "note": "Summary of 2 older runs up to 2026-11-21 23:44: rounds across all focuses; see git history for details."
-  },
-  {
-   "date": "2026-11-21 23:45",
-   "note": "Run 2219 (other platforms (Netflix kids report, Roblox dance games; own results skipped, Metricool rechecked at 23:03)): Nothing new: Horgan's Netflix kids report (PAW Patrol 344M hours, CoComelon down 30% and moving to Disney+, Sesame Street's Netflix start) and KIDZ BOP's Roblox deal were already filed; a Roblox dance roleplay game had almost no players. 0 leaves. Chrome not available. Total 4513."
+   "note": "Summary of 2 older runs up to 2026-11-21 23:45: rounds across all focuses; see git history for details."
   },
   {
    "date": "2026-11-21 23:46",
@@ -32431,6 +32441,10 @@
   {
    "date": "2026-11-22 05:37",
    "note": "Run 2297 (music craft (2026 studies on preschool heart rate, rhythm games and cooperation, iTunes kids chart)): New: a Boston University pilot (Feb 2026) found preschoolers' heart rates rose most during a shaker and moving song and were lower during brand new songs than familiar ones, with heart rates rising together across the group; a Chinese kindergarten study (Jan 2026, 60 children aged 5 to 6) found 8 weeks of move together rhythm games raised cooperation scores; the RAMSR trial gains were already filed. 3 leaves. Chrome not available. Total 4574."
+  },
+  {
+   "date": "2026-11-22 05:38",
+   "note": "Run 2298 (visual craft (AnimationXpress on stylised 3D, Kidscreen new show looks, thumbnail and pacing searches)): New: the 2026 awards season favoured stylised, handmade looking 3D over photoreal (the Oscar winning Flow was made in Blender with a soft painted look, Stitch Head styled like stop motion), backing a toon shaded Bro Bros style; Kidscreen buyers praise calm preschool shows and one minute musical interstitials that mix real and pretend animal sounds. Thumbnail and pacing searches gave only filed studies. 2 leaves. Chrome not available. Total 4576."
   }
  ],
  "history": [
@@ -33525,6 +33539,10 @@
   {
    "date": "2026-11-22 05:37",
    "total": 4574
+  },
+  {
+   "date": "2026-11-22 05:38",
+   "total": 4576
   }
  ],
  "next_week_ideas": [
